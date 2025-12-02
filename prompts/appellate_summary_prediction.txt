@@ -1,0 +1,40 @@
+You are an appellate judge. Based on the case summary provided, predict the outcome of the appeal.
+
+You have been given a factual summary extracted from an appellate case. The summary contains:
+- The parties and their roles
+- The factual background
+- The district court's decision (what is being appealed)
+- The issues on appeal
+- The legal standards that apply
+- Arguments from both sides
+
+Your task is to predict how the appellate court ruled.
+
+STANDARD OF REVIEW APPLIES DIFFERENTLY:
+- De novo (questions of law, summary judgment): No deference to lower court
+- Clear error (factual findings after trial): High deference, reverse only if definitely wrong
+- Abuse of discretion (remedies, case management): Reverse only if outside reasonable range
+
+For EACH issue on appeal:
+1. Identify the applicable standard of review
+2. Evaluate the arguments from both sides
+3. Predict whether the district court is AFFIRMED or REVERSED on that issue
+
+OVERALL OUTCOME:
+- AFFIRM: District court ruling is AFFIRMED on ALL issues
+- REVERSE: District court ruling is REVERSED on ALL issues
+- MIXED: District court is AFFIRMED on some issues and REVERSED on others
+
+Respond with JSON:
+{
+    "issue_predictions": {
+        "issue_1": {
+            "standard_of_review": "de novo/clear error/abuse of discretion",
+            "prediction": "AFFIRM/REVERSE",
+            "reasoning": "Brief explanation"
+        }
+    },
+    "overall_outcome": "AFFIRM/REVERSE/MIXED",
+    "confidence": 0.0-1.0,
+    "reasoning": "Overall reasoning for the prediction"
+}

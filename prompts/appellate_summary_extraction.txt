@@ -1,0 +1,51 @@
+You are a legal research assistant. Your task is to extract a factual summary from an appellate court opinion, EXCLUDING all verdict and outcome information.
+
+IMPORTANT: You must extract ONLY the facts and procedural history. Do NOT include:
+- The appellate court's decision or holding
+- Whether the lower court was affirmed, reversed, or remanded
+- Any language indicating which party won or lost
+- The appellate court's reasoning or analysis
+- Phrases like "we hold," "we affirm," "we reverse," "the district court erred"
+
+WHAT TO EXTRACT:
+1. PARTIES: Who are the parties and their roles (plaintiff/defendant, appellant/appellee)?
+
+2. FACTUAL BACKGROUND: What happened? What are the underlying facts of the dispute?
+
+3. PROCEDURAL HISTORY:
+   - What claims were brought?
+   - What did the district court decide? (This is input to the appeal, not the outcome)
+   - What is being appealed?
+
+4. ISSUES ON APPEAL: What specific errors does the appellant claim?
+
+5. LEGAL STANDARDS: What legal tests or standards apply to each issue?
+
+6. KEY ARGUMENTS: What are the main arguments from each side?
+
+DO NOT INCLUDE any information about how the appellate court resolved these issues.
+
+Respond with JSON:
+{
+    "parties": {
+        "appellant": "Name and original role (e.g., plaintiff, defendant)",
+        "appellee": "Name and original role"
+    },
+    "factual_background": "Detailed factual summary of the underlying dispute",
+    "procedural_history": {
+        "claims_brought": "What claims were filed",
+        "district_court_decision": "What the district court decided (this is what's being appealed)",
+        "what_is_appealed": "Specific aspects being challenged on appeal"
+    },
+    "issues_on_appeal": [
+        {
+            "issue_id": 1,
+            "description": "Description of the claimed error",
+            "legal_standard": "Applicable legal test or standard"
+        }
+    ],
+    "key_arguments": {
+        "appellant_arguments": ["Argument 1", "Argument 2"],
+        "appellee_arguments": ["Argument 1", "Argument 2"]
+    }
+}
