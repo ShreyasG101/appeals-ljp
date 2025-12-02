@@ -1,0 +1,34 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the debtor is precluded from relitigating an affirmative defense to the creditor's proof of claim due to a prior default judgment entered as a discovery sanction in a previous bankruptcy proceeding.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that issue preclusion applies to default judgments entered as a sanction for litigation misconduct when the party had an opportunity to participate, and the debtor's conduct in the prior proceeding met this standard."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether post-judgment interest on a Massachusetts state-court judgment should accrue at the state rate from the date of the state-court judgment, or at the federal rate from the date of the bankruptcy court's default judgment.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that post-judgment interest accrues at the Massachusetts state law rate from the date of the state-court judgment, as the bankruptcy court's order did not create a new federal money judgment but merely determined dischargeability."
+    }
+  ],
+  "key_precedents": [
+    "Botelho v. Buscone (In re Buscone), 61 F.4th 10 (1st Cir. 2023)",
+    "Grella v. Salem Five Cent Sav. Bank, 42 F.3d 26 (1st Cir. 1994)",
+    "Murphy v. Snyder (In re Snyder), 939 F.3d 92 (2d Cir. 2019)",
+    "Hamilton v. Elite of L.A., Inc. (In re Hamilton), 584 B.R. 310 (B.A.P. 9th Cir. 2018)",
+    "Old Republic Nat'l Title Ins. Co. v. Levasseur (In re Levasseur), 737 F.3d 814 (1st Cir. 2013)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "PER CURIAM. Chapter 13 debtor-appellant Mary E. Buscone appeals from an order rejecting her objection to a proof of claim for a Massachusetts state-court judgment that Buscone owes to appellee Ann Tracy Botelho. Through an adversary proceeding in Buscone's previous Chapter 7 bankruptcy, Botelho sought a determination that her judgment against Buscone was excepted from discharge under 11 U.S.C. \u00a7 523(a)(2)(A) and (a)(4). Because of discovery abuse by Buscone and her counsel in that proceeding, the bankruptcy court entered default judgment for Botelho. Now in her second bankruptcy, this time under Chapter 13, Buscone objects to Botelho's proof of claim for that debt on the same grounds raised previously and, alternatively, asserts that the interest rate and accrual date prescribed by Massachusetts state law should not apply to the Massachusetts state-court judgment. We affirm."
+}

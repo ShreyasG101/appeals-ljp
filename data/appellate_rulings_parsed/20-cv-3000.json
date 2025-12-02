@@ -1,0 +1,51 @@
+{
+  "overall_outcome": "MIXED",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether Plaintiffs agreed to arbitrate with Grubhub, Uber, and Postmates under their respective Terms of Use.",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "The court found that Plaintiffs did assent to the Terms of Use for all three Defendants, including Grubhub, based on the design and content of the online interfaces, which provided sufficient inquiry notice under New York law."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the threshold question of arbitrability is for the court or the arbitrator to decide for each Defendant.",
+      "standard_of_review": "de novo",
+      "holding": "MIXED",
+      "key_reasoning": "For Grubhub, the arbitration clause clearly delegates arbitrability questions to the court; for Uber and Postmates, the delegation clause requires the arbitrator to decide arbitrability, as Plaintiffs did not specifically challenge the delegation provision."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether Grubhub\u2019s arbitration clause applies to Plaintiffs\u2019 antitrust claims.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that Plaintiffs\u2019 antitrust claims do not arise out of or relate to their use of Grubhub\u2019s platform, as required by the arbitration clause, because the claims concern anticompetitive conduct affecting all customers, not just those who used Grubhub."
+    },
+    {
+      "issue_id": 4,
+      "description": "Whether the case should be remanded for further proceedings consistent with the opinion.",
+      "standard_of_review": "other",
+      "holding": "REMAND",
+      "key_reasoning": "The court remanded for the district court to adjudicate the merits of the complaint with respect to Grubhub and for further proceedings regarding Uber and Postmates consistent with the opinion."
+    }
+  ],
+  "key_precedents": [
+    "Meyer v. Uber Technologies, Inc., 868 F.3d 66 (2d Cir. 2017)",
+    "Nicosia v. Amazon.com, Inc., 834 F.3d 220 (2d Cir. 2016)",
+    "Specht v. Netscape Commc\u2019ns Corp., 306 F.3d 17 (2d Cir. 2002)",
+    "First Options of Chicago, Inc. v. Kaplan, 514 U.S. 938 (1995)",
+    "Henry Schein, Inc. v. Archer & White Sales, Inc., 586 U.S. 63 (2019)",
+    "Cooper v. Ruane Cunniff & Goldfarb Inc., 990 F.3d 173 (2d Cir. 2021)",
+    "Gingras v. Think Fin., Inc., 922 F.3d 112 (2d Cir. 2019)",
+    "Viking River Cruises, Inc. v. Moriana, 596 U.S. 639 (2022)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": true,
+  "summary_text": "Grubhub Inc., Postmates Inc., and Uber Technologies, Inc. (jointly, \u201cDefendants\u201d) moved to compel arbitration of a putative antitrust class action. The question presented is whether the United States District Court for the Southern District of New York (Lewis A. Kaplan, Judge) erred in denying the motion of Defendants to compel arbitration. We consider (1) whether an agreement to arbitrate was made between Defendants and Plaintiffs; (2) whether, in the circumstances presented, arbitrability is an issue for the Court or the arbitrator to resolve; and (3) whether the relevant arbitration clauses are enforceable.\n\nDefendants provide online \u201cplatforms\u201d\u2014websites or mobile applications\u2014for ordering restaurant meals. Customers place restaurant orders on a platform for pickup or delivery, and restaurants use the platform to fill those orders. The restaurants agree not to sell meals at lower prices \u201coff-platform\u201d\u2014that is, through channels other than Defendants\u2019 web and mobile applications. These agreements are known as no-price competition clauses, or \u201cNPCCs.\u201d\n\nThis appeal arises from a putative class action against Defendants alleging violations of Section 1 of the Sherman Antitrust Act of 1890 and its state analogues. The case is brought by three classes of restaurant customers: customers who purchased \u201ctakeout\u201d or delivery goods directly from a restaurant subject to a Defendant\u2019s NPCC; customers who purchased dine-in goods from a restaurant subject to a Defendant\u2019s NPCC; and customers who purchased goods through a non-defendant\u2019s platform from a restaurant subject to a Defendant\u2019s NPCC.\n\nDefendants moved to compel arbitration for the customers who have used Defendants\u2019 platforms (jointly, \u201cPlaintiffs\u201d), on the basis of the arbitration clauses in Defendants\u2019 respective \u201cTerms of Use.\u201d On March 16, 2023, the District Court denied Defendants\u2019 motion to compel arbitration, holding that the scope of the arbitration clauses presented issues for the Court, rather than the arbitrator, to resolve, and that they did not apply to Plaintiffs\u2019 claims because the claims lacked \u201cany nexus\u201d to Defendants\u2019 Terms of Use. This appeal followed.\n\nWe now AFFIRM the District Court\u2019s order in part insofar as it ruled that the threshold question of arbitrability for Plaintiffs\u2019 claims against Grubhub is for the court to decide and that Grubhub\u2019s arbitration clause does not apply to Plaintiffs\u2019 antitrust claims against Grubhub, REVERSE the District Court\u2019s order in part insofar as it ruled that Grubhub failed to establish that it formed an agreement to arbitrate with Plaintiffs and that the threshold question for Plaintiffs\u2019 claims against Uber and Postmates is for the court to decide, and REMAND the cause for further proceedings consistent with this opinion."
+}

@@ -1,0 +1,1647 @@
+United States Court of Appeals
+                        For the First Circuit
+
+
+No. 24-1350
+
+                     DAHUA TECHNOLOGY USA, INC.,
+                        Plaintiff, Appellant,
+
+                                  v.
+
+                             FENG ZHANG,
+                         Defendant, Appellee.
+
+
+          APPEAL FROM THE UNITED STATES DISTRICT COURT
+               FOR THE DISTRICT OF MASSACHUSETTS
+
+              [Hon. Indira Talwani, U.S. District Judge]
+
+
+                                Before
+
+                     Rikelman, Lynch, and Aframe,
+                           Circuit Judges.
+
+
+
+
+     Daron L. Janis, with whom Daryl J. Lapp and Locke Lord LLP
+were on brief, for appellant.
+     Benjamin Flam, with whom Philip J. Gordon and Gordon Law Group
+LLP were on brief, for appellee.
+     Jeffrey M. Lipshaw, Suffolk University Law School, on brief
+for Contract Law Scholars, amicus curiae.
+
+
+
+
+                             May 12, 2025
+            AFRAME, Circuit Judge.      This is the second appeal in a
+
+protracted contract dispute between Dahua Technology USA, Inc.
+
+("Dahua") and Feng "Frank" Zhang, a former Dahua executive.                See
+
+Dahua Tech. USA, Inc. v. Zhang, 988 F.3d 531, 539-40 (1st Cir.
+
+2021).      Zhang alleges that Dahua breached its obligation to pay
+
+him severance of $680,000 per month for sixteen months.                 Dahua
+
+maintains that the parties only intended Zhang to receive a total
+
+severance of $680,000, paid in sixteen monthly installments.
+
+            Dahua sued under diversity jurisdiction and asserted
+
+claims for reformation of the relevant contract and breach of the
+
+implied     covenant   of   good   faith   and    fair   dealing.       Zhang
+
+counterclaimed for breach of contract.           After this Court vacated
+
+a grant of summary judgment in Dahua's favor, the parties proceeded
+
+to an eleven-day bench trial on whether unilateral or mutual
+
+mistake infected the severance provision at issue.                 Ultimately,
+
+the   district    court     concluded   that     the   severance    provision
+
+contained a mistake that could not be fixed under Massachusetts
+
+law and therefore must be enforced "as written."           Dahua Tech. USA,
+
+Inc. v. Zhang, No. 1:18-CV-11147-IT, 2024 WL 1075066, at *1
+
+(D. Mass. Mar. 12, 2024).       The district court accordingly entered
+
+judgment for Zhang in the amount of $10,200,000, plus prejudgment
+
+interest.    Dahua appeals.     Because we conclude that the inartfully
+
+drafted severance provision is ambiguous, we vacate the judgment
+
+
+
+
+                                   - 2 -
+and   remand   for     this   dispute     to    be       resolved    consistent   with
+
+extrinsic evidence of the parties' intent.
+
+                                   BACKGROUND
+
+            We begin by summarizing "the relevant facts as found by
+
+the district court . . . consistent with record support."                         Nevor
+
+v. Moneypenny Holdings, LLC, 842 F.3d 113, 116 (1st Cir. 2016).
+
+            Dahua is a United States subsidiary of Zhejiang Dahua
+
+Technology     Co.,    Ltd.   ("Zhejiang"),          a    publicly    listed   Chinese
+
+surveillance technology company based in Hangzhou, China.                         Dahua
+
+maintains corporate offices in Waltham, Massachusetts.                    In January
+
+2016, Zhang assumed an executive role at Dahua as its Chief
+
+Strategy Officer, Vice President, and President of North American
+
+and Enterprise Sales.
+
+            Zhang's employment terms were set forth in a single-page
+
+agreement      dated    November     5,        2015       (the   "2015    Employment
+
+Agreement"). Zhang was to receive a one-time grant of Dahua common
+
+stock and an annual base salary of $510,000 for a three-year
+
+employment term.         The 2015 Employment Agreement provided that
+
+Zhang's annual base salary was "conditionally guaranteed," meaning
+
+that it remained payable in full even if the company terminated
+
+Zhang for cause.1
+
+
+
+
+      1   The 2015 Employment Agreement contained a carveout in
+the event of a termination for "illegal conduct or company
+misconduct," in which case Zhang was to "be compensated for the
+
+
+                                     - 3 -
+            In mid-2017, Zhejiang's Board of Directors decided to
+
+remove Zhang from the day-to-day management of its North American
+
+business.      Zhejiang's leadership, headed by founder and chairman
+
+Liquan   Fu,    strategized    with    Zhejiang's     outside     and    in-house
+
+counsel on how best to minimize the risks presented by Zhang's
+
+early removal.
+
+            These discussions centered on two primary concerns.
+
+First,   Zhejiang's    lawyers      understood      the    company's    potential
+
+exposure for terminating the 2015 Employment Agreement, which they
+
+believed could include not just the value of Zhang's remaining
+
+conditionally guaranteed base salary, but also damages arising
+
+from the loss of various benefits and a guaranteed employment
+
+period. Second, counsel flagged that the 2015 Employment Agreement
+
+did not contain any restrictive covenants to prevent a potentially
+
+disgruntled       Zhang      from      publicizing          certain      security
+
+vulnerabilities     that     the    company    had        concealed    -- a   risk
+
+heightened by Zhang's role in driving the company's negotiation of
+
+an important strategic acquisition.
+
+            Ultimately, Zhejiang's lawyers counseled that mitigating
+
+these concerns would require providing Zhang a "[b]aseline . . .
+
+severance package" that included (1) compensation for the salary,
+
+bonus, and other benefits due to Zhang through the end of his
+
+
+duration of [his]         employment   and    not    receive    any    additional
+compensation."
+
+
+                                      - 4 -
+three-year employment term; and (2) "[a]dditional compensation to
+
+entice [Zhang] to release all claims against Dahua."
+
+            In late August 2017, Fu traveled to Massachusetts to
+
+negotiate with Zhang the conditions for Zhang's removal from his
+
+executive role.       Fu was accompanied by several members of the
+
+Zhejiang team, including Zhejiang's in-house counsel Haiyan Yue.
+
+Fu revealed the purpose for his visit to Zhang on the drive from
+
+the   airport   to   his   hotel   when    he   told   Zhang   that   he    was
+
+"considering asking . . . young guys to run the business."
+
+            Fu and Zhang continued their discussion the next day at
+
+Fu's hotel.     Fu told Zhang that he wanted Zhang to move to a
+
+different   role     within   Zhejiang    and   offered   Zhang   a   "senior
+
+management" position at Zhejiang's headquarters in China.                  When
+
+Zhang declined, citing concerns about disrupting his children's
+
+education, Fu instead offered Zhang a senior company advisor role
+
+in the United States.          Zhang indicated his interest in that
+
+position but wanted to know first how the company intended to
+
+resolve the remaining terms of his 2015 Employment Agreement. When
+
+Fu advised that the company would "follow whatever the [2015
+
+Employment Agreement] says," Zhang responded: "If [you] can take
+
+care of the agreement, I'm ok."      Zhang then asked Fu what he would
+
+be asked to sign to effectuate the change, and Fu said that the
+
+company would "make sure [Zhang was] comfortable [and] treat [him]
+
+well."
+
+
+                                   - 5 -
+              Following this conversation, Fu stepped away to make a
+
+phone call.       When Fu returned, he told Zhang that they were "all
+
+set."    Attorney Yue subsequently emailed Dahua's outside counsel,
+
+writing: "It’s been decided: [Zhang] will serve as a consultant.
+
+Dahua will pay him the remaining 16[-] month salary plus a monthly
+
+consulting fee.        The consulting period is 2 years."
+
+              At Dahua's Waltham office later that day, Attorney Yue
+
+presented Zhang and Fu with drafts of a separation agreement and
+
+a   consulting       agreement.     Under       the   terms    of    the   proposed
+
+agreements, Zhang's employment with Zhejiang would terminate and
+
+he would be re-engaged by Dahua as an outside consultant, paid
+
+hourly for ad hoc projects on an at-will basis.                     The agreements
+
+did     not     provide    any    compensation        for     Zhang's      remaining
+
+entitlements under the 2015 Employment Agreement.                   Zhang declined
+
+to sign the agreements on the ground that the proposed terms were
+
+"not what [he had] discussed" with Fu earlier that morning,
+
+reminding Attorney Yue that Fu had said the company would "treat
+
+[him] well."
+
+              After further internal discussions, Zhejiang's attorneys
+
+prepared two new letter agreements for Zhang's consideration.                   The
+
+first was a release agreement (the "Release Agreement").                        The
+
+second    was    a   new   employment    agreement     (the    "2017    Employment
+
+Agreement" and, together with the Release Agreement, the "2017
+
+Agreement").
+
+
+                                        - 6 -
+            The Release Agreement purports to "memorialize[] the
+
+terms . . . agreed to with respect to the termination of [the 2015
+
+Employment Agreement]" and includes, inter alia, a general release
+
+of claims, a non-competition clause, a confidentiality clause, and
+
+a mutual non-disparagement clause.      In exchange for executing the
+
+contract and complying with its terms, Zhang was to receive
+
+severance under the following provision:
+
+            Payments. In consideration for your execution,
+            non-revocation and compliance with this
+            Agreement, the Company agrees to make monthly
+            severance payments to you in the amount of
+            $680,000 for sixteen (16) months following the
+            offer termination [d]ate (the "Severance
+            Period"), payable subject to standard payroll
+            deductions and withholdings on the Company's
+            ordinary payroll dates over the Severance
+            Period. . . .
+
+            The 2017 Employment Agreement sets forth the terms of
+
+Zhang's "new position" as a Dahua "Senior Corporate Advisor."      In
+
+this role, Zhang was to "participat[e] in forward looking projects
+
+but [] not be involved in the day-to-day business operations of
+
+[Dahua]."    The contract provides that Zhang would receive his new
+
+Senior Corporate Advisor salary "at the rate of $10,000 bi-weekly,
+
+which equates to $240,000 on an annualized basis."
+
+            Attorney Yue presented the Release Agreement and 2017
+
+Employment Agreement together for Zhang and Fu's consideration.
+
+After about ten to fifteen minutes, Zhang and Fu signed both
+
+contracts without further discussion.
+
+
+                                - 7 -
+           Zhang's employment as a senior corporate advisor to
+
+Dahua commenced on August 29, 2017. In the following months, Dahua
+
+continued to pay Zhang in monthly amounts consistent with his
+
+annual base salary under the 2015 Employment Agreement (i.e., at
+
+the rate of $510,000 per year), as well as his new salary under
+
+the 2017 Employment Agreement (i.e., at the rate of $240,000 per
+
+year).   On January 10, 2018, Zhang received an email from Dahua's
+
+human    resources   department   informing   him    of   his   immediate
+
+termination.    Attached to the email was a new separation and
+
+release agreement that the company asked Zhang to review and sign.
+
+The contract, if executed, would have superseded the 2017 Agreement
+
+and entitled Zhang to "severance payments . . . in the amount of
+
+$910,000."
+
+           Zhang refused to sign the new agreement and instead
+
+requested "acceleration of the agreed to severance amount" set
+
+forth in the Release Agreement.      Zhang's lawyers followed with a
+
+formal demand letter asserting that, under the 2017 Agreement,
+
+Dahua was "already contractually obligated to pay Mr. Zhang over
+
+$11,000,000."    Zhejiang's counsel responded that she had "just
+
+learned" of a "scrivener's error in the Release Agreement," the
+
+apparent effect of which gave Zhang "a monthly severance payment
+
+of $680,000 for 16 months, rather than what the parties intended,
+
+which was [for Zhang to receive] a monthly severance payment of
+
+$42,000 for 16 months, totaling $680,000."          Dahua requested that
+
+
+                                  - 8 -
+Zhang execute a proposed amendment to the Release Agreement "[t]o
+
+correct [the] scrivener's error."          When Zhang refused, Dahua
+
+initiated the instant litigation.
+
+                            THE LITIGATION
+
+           Dahua brought this diversity action asking the district
+
+court to declare the Release Agreement "unenforceable" on the
+
+grounds that the severance provision "contains a scrivener's error
+
+that results from [a] mutual mistake of the parties." Dahua sought
+
+reformation of the severance provision "to reflect the intent of
+
+the parties" by providing for "monthly severance payments to
+
+[Zhang] in the amount of $42,500 for the 16-month period following
+
+August 28, 2017, totaling $680,000." Dahua also alleged that Zhang
+
+breached the implied covenant of good faith and fair dealing by
+
+"maintaining that the [Release Agreement] as-written reflects the
+
+intent of the parties."     For his part, Zhang counterclaimed for
+
+breach of contract based on Dahua's "refus[al] to pay [him] in
+
+accordance with the terms of [the Release Agreement]."
+
+           The parties filed cross-motions for summary judgment.
+
+The district court initially granted judgment for Dahua on all
+
+counts, finding no genuine dispute of material fact that "a
+
+unilateral,   if   not   mutual,    mistake   permeated   the   [Release
+
+Agreement]," and ordered reformation of the contract per Dahua's
+
+request.   Dahua Tech. USA, Inc. v. Zhang, 433 F. Supp. 3d 41, 47
+
+(D. Mass. 2020).   The court also entered judgment for Dahua on its
+
+
+                                   - 9 -
+claim against Zhang for breach of the implied covenant of good
+
+faith and fair dealing.    Id.   Zhang appealed and this Court held,
+
+inter alia, that the district court erred in granting summary
+
+judgment to Dahua because there were several disputed issues of
+
+material fact relating to the viability of any mistake defense.
+
+Dahua Tech., 988 F.3d at 539-40.
+
+          On remand, the case was assigned to a different judge,
+
+and the parties proceeded to a bench trial to resolve the core
+
+factual disputes identified by this Court.         See id.   The parties
+
+agreed that the district court should focus on the following three
+
+factual questions:
+
+          1.   Whether at the time of signing the
+          Severance Agreement, Fu believed that he was
+          offering $680,000 per month for sixteen (16)
+          months or $680,000 total over a span of
+          sixteen (16) months as a term of the Severance
+          Agreement.
+
+          2.   Whether at the time of signing the
+          Severance Agreement, Zhang believed that Fu
+          was offering $680,000 per month for sixteen
+          (16) months or $680,000 total over a span of
+          sixteen (16) months as a term of the Severance
+          Agreement.
+
+          3.   If . . . Dahua made a drafting mistake,
+          whether Zhang knew or had reason to know of
+          that mistake at the time he executed the
+          Severance Agreement.
+
+          After   the   trial,   the   district   court   answered   these
+
+questions in Dahua's favor.      See Dahua Tech. USA, Inc. v. Zhang,
+
+No. 1:18-cv-11147-IT, 2022 WL 12370835, at *13-14 (D. Mass. Oct.
+
+
+                                 - 10 -
+21, 2022).     Nevertheless, these answers did not deliver Dahua the
+
+relief   it     sought   because   the       court    concluded   that,    under
+
+Massachusetts law, it could not reform or rescind the Release
+
+Agreement on grounds of unilateral or mutual mistake.              Id. at *12,
+
+15-16.
+
+              The district court's factual determinations as to the
+
+parties' misimpressions regarding the amount of the severance
+
+payment did not factor into its reformation analysis, which focused
+
+instead on whether Dahua had clearly demonstrated that the parties
+
+had reached a prior, express agreement "to which the Release
+
+Agreement [could] be reformed."         Id. at *11.      The court found that,
+
+prior to the moment when Zhang and Fu signed the final version of
+
+the 2017 Agreement, the parties had agreed only that Zhang "would
+
+give up" his executive-level position "and would instead serve as
+
+a senior corporate advisor" -- a role for which "he would be paid
+
+an additional $240,000 per year for two years while [he continued]
+
+to receive the salary and benefits for the remaining sixteen months
+
+of the [2015 Employment Agreement]."            Id.    The court held that Fu
+
+and Zhang's alignment on just these terms could not provide the
+
+basis for reforming the severance provision under Massachusetts
+
+law   where    the   parties   "did    not     discuss   terminating      Zhang's
+
+employment with Zhejiang and did not discuss a Release Agreement
+
+at all."      Id.; see Sancta Maria Hosp. v. City of Cambridge, 341
+
+N.E.2d 674, 681 (Mass. 1976) (holding that a court should "not
+
+
+                                      - 11 -
+decree a reformation unless [it is] convinced that the parties
+
+expressed agreement and an intention to be bound in accordance
+
+with the terms that [it is] asked to establish and enforce").2
+
+              In    the   alternative,   the   district   court   considered
+
+whether Dahua could obtain rescission of the Release Agreement
+
+because of either mutual or unilateral mistake -- a remedy which,
+
+unlike reformation, does not require the parties to have reached
+
+a prior agreement.          Dahua Tech., 2022 WL 12370835, at *13-16; see
+
+LaFleur v. C.C. Pierce Co., 496 N.E.2d 827, 830-31 (Mass. 1986).
+
+The court concluded that Dahua's claims of mistake were supported
+
+by,       inter     alia,     its   lawyers'   contemporaneous      internal
+
+communications              and      "[t]he       discrepancy        between
+
+$10,880,000" -- i.e., the amount of severance allegedly required
+
+by the Release Agreement's plain terms -- "and the initial zero
+
+dollar offer" in the first draft agreement that Attorney Yue gave
+
+to Zhang.          Dahua Tech., 2022 WL 12370835, at *14.         The court
+
+reasoned that this discrepancy should have alerted Zhang to Dahua's
+
+mistake because he should have known, based on "his own prior
+
+experience dealing with Fu and Zhejiang," that Zhejiang would not
+
+jump to offer almost $11 million in severance when it started by
+
+offering nothing.           Id.
+
+
+      2   In the first appeal, Zhang challenged the district
+court's application of Massachusetts law to the Release Agreement.
+Dahua Tech., 988 F.3d at 537-58. We affirmed the district court's
+determination that Massachusetts law governs. Id. at 538.
+
+
+                                     - 12 -
+               The district court thus held that Dahua had established
+
+both that "it made a mistake when setting forth the severance
+
+payment as $680,000 per month for sixteen months rather than
+
+$680,000 payable over sixteen months," and that "the mistake was
+
+mutual or that Zhang had reason to know of the mistake."                 Id. at
+
+*14.       Ultimately, however, the court concluded that the parties'
+
+mistakes could not insulate Dahua from liability on Zhang's breach
+
+of contract claim because Dahua, having "drafted the Release
+
+Agreement with a full panoply of lawyers," bore the risk of
+
+mistake.3      Id. at *15; see Restatement (Second) of Contracts § 152
+
+(Am. L. Inst. 1981) ("Where a mistake of both parties at the time
+
+a contract was made as to a basic assumption on which the contract
+
+was    made     has   a   material   effect    on   the    agreed   exchange   of
+
+performances, the contract is voidable by the adversely affected
+
+party unless he bears the risk of the mistake . . . ."). The court
+
+also       reasoned   that   the   equities    supported    denying   rescission
+
+because voiding the severance provision would effectively deny
+
+Zhang compensation for agreeing to new restrictive covenants from
+
+which Dahua had already received the benefit of Zhang's compliance,
+
+
+
+       3  In reaching this conclusion, the court also highlighted
+evidence that Dahua had selectively withheld specific dollar
+amounts from the lawyers tasked with preparing the Release
+Agreement until the eleventh hour, and that Fu had approved and
+signed the agreement even though Fu could not "read or understand"
+English, the language used in the Release Agreement. Dahua Tech.,
+2022 WL 12370835, at *15.
+
+
+                                      - 13 -
+i.e., Zhang's silence during the company's strategic acquisition
+
+negotiations, supra at 4.   Dahua Tech., 2022 WL 12370835, at *16.
+
+          The district court accordingly entered judgment against
+
+Dahua on its claims for reformation and breach of the implied
+
+covenant of good faith and fair dealing.   Id. at *16.     The court,
+
+however, stopped short of entering judgment for Zhang on his breach
+
+of contract counterclaim and instead solicited additional briefing
+
+from the parties on the following question:
+
+          Having found that there was no oral agreement
+          in 2017 prior to the signed documents, that
+          the parties were mutually mistaken as to the
+          severance term in the Release Agreement [or,
+          at a minimum, . . . that Zhang knew or should
+          have known that Dahua did not intend for the
+          Release Agreement to provide severance in the
+          amount of $680,000 per month for sixteen
+          months, but that Dahua's defense fails because
+          Dahua bore the risk of such mistake], does the
+          court have authority to fashion an appropriate
+          remedy as a matter of equity or must the court
+          enforce the agreement as written as a matter
+          of law?
+
+Id. at *16 & n.15 (bracketed language from footnote).
+
+          Dahua's initial response proposed a handful of equitable
+
+remedies that the district court could apply to avoid an outcome
+
+resulting in "an unintended $10 million windfall" to Zhang, such
+
+as implying a quasi-contract to provide for a total severance
+
+amount of $680,000.    Dahua then followed with another filing
+
+suggesting the court could "avoid the necessity of reforming the
+
+writing by viewing the issue as one of interpretation."
+
+
+                              - 14 -
+            The       district      court         rejected   Dahua's       contract
+
+interpretation argument on waiver grounds and on the merits. Dahua
+
+Tech., 2024 WL 1075066, at *4.            The court also found Dahua's other
+
+proposed    equitable        solutions       unpersuasive        and    accordingly
+
+concluded that there was no basis for "overrid[ing]" the severance
+
+provision as written.         Id. at *5-6.           Finally, having held that
+
+"the   terms     of   the   Release      Agreement     control,    including      the
+
+severance provision in its entirety," id. at *7, the court entered
+
+judgment against Dahua on Zhang's breach of contract claim in the
+
+amount     of     $10,200,000.00,         with      prejudgment        interest    of
+
+$6,753,787.88, for a total award of $16,953,787.88.                     This second
+
+appeal followed.
+
+            On appeal, Dahua presents several challenges to the
+
+district court's rulings.          We focus on only one: Dahua's argument
+
+that the district court incorrectly concluded that the Release
+
+Agreement's      severance    provision       unambiguously       promised    Zhang
+
+payments of $680,000 each month for sixteen months.                    In our view,
+
+the Release Agreement made no such unambiguous promise.
+
+                                      ANALYSIS
+
+            Though the parties have framed much of this litigation
+
+around Dahua's claim for reformation of the Release Agreement's
+
+severance       provision,    it    is     Dahua's     contract    interpretation
+
+argument    that      presents     the    logical     starting    point    for    our
+
+analysis.       After all, the court's judgment against Dahua hinges
+
+
+                                         - 15 -
+on its view that the Release Agreement, as written, unambiguously
+
+requires Dahua to pay Zhang $10.2 million in severance.            If Dahua
+
+is correct that the Release Agreement is unclear, then the court
+
+must construe the meaning of the severance provision in accord
+
+with extrinsic evidence of the parties' intent.        In that scenario,
+
+the   severance     provision   would   be   interpreted   by   considering
+
+evidence of the surrounding circumstances, making it unnecessary
+
+to analyze the availability of equitable tools (e.g., reformation
+
+or rescission) to rewrite or void the contract.4
+
+           We thus consider the merits of Dahua's contention that
+
+the Release Agreement is ambiguous as a matter of law, and that
+
+the district court should have considered extrinsic evidence to
+
+determine the severance provision's meaning.           Before doing so,
+
+however, we must first address Zhang's contention that Dahua has
+
+waived this argument altogether.
+
+      A.   Waiver
+
+           As noted above, the district court initially reserved
+
+judgment   on   Zhang's   breach   of   contract   counterclaim    pending
+
+additional briefing on whether, given its factual findings, the
+
+
+
+      4   While "reformation and interpretation have much in
+common," Arthur Corbin et al., 5 Corbin on Contracts § 24.2 (2025),
+they are mutually exclusive in their application. Interpretation
+requires the court to "determine the meaning of [the] existing
+words" of a written agreement; reformation, by contrast, asks the
+court to "alter the words of the document" so that it "express[es]
+to others the meaning that both parties had intended." Id.
+
+
+                                   - 16 -
+court had "authority to fashion an appropriate remedy as a matter
+
+of equity or must . . . enforce the [Release Agreement] as written
+
+as a matter of law."           Dahua Tech., 2022 WL 12370835, at *16.
+
+Before the court ruled on these questions, Dahua directed the
+
+court's   attention     to   commentary      from    the    Restatement       on   the
+
+relationship between reformation and contract interpretation:
+
+            In some instances where it might appear that
+            both parties are mistaken with respect to the
+            reduction to writing of a prior agreement,
+            interpretation of the writing will show that
+            the mistake is only apparent and not real.
+            Where, for example, the parties use language
+            in   the   writing   in   an    unusual   way,
+            interpretation of that writing in accord with
+            the meaning attached by the parties will
+            protect their expectations, and reformation is
+            unnecessary.   In a borderline case, a court
+            may avoid the necessity of reforming the
+            writing by viewing the issue as one of
+            interpretation.
+
+Restatement (Second) of Contracts § 155 cmt. b.
+
+            Dahua    invited    the    district          court    to    apply      this
+
+commentary by "us[ing] the rules of contract interpretation and
+
+ambiguity" to resolve        the parties'       dispute.          In making this
+
+argument,    Dahua      acknowledged   that         it    had    "at    times . . .
+
+disclaimed asserting ambiguity . . . to refocus the [c]ourt on its
+
+arguments regarding mistake when Zhang conflated mistake with
+
+ambiguity    in   his    briefing,"    but    contended          that   the     proper
+
+interpretation of the Release Agreement was nonetheless an open
+
+issue throughout the litigation.          Zhang filed a response objecting
+
+
+
+                                   - 17 -
+to Dahua's "delinquent [ambiguity] argument" on waiver grounds and
+
+on the merits.
+
+            In its final ruling, the district court agreed with Zhang
+
+that it was too late for Dahua to claim ambiguity in the Release
+
+Agreement, particularly given that Dahua had disclaimed making
+
+such an argument earlier in the litigation.         Dahua Tech., 2024 WL
+
+1075066, at *4.     The court nevertheless proceeded to consider the
+
+ambiguity argument on the merits and determined that the severance
+
+provision was unambiguous as a matter of law.           Id.   Zhang submits
+
+that Dahua's ambiguity claim on appeal fails              for these same
+
+reasons.
+
+            Ordinarily, "[t]heories not timely raised in the trial
+
+court cannot be raised on appeal."        Robb Evans & Assocs., LLC v.
+
+United States, 850 F.3d 24, 36 (1st Cir. 2017).           This rule would
+
+ordinarily preclude appellate consideration of a theory raised for
+
+the first time in a post-trial submission.          See, e.g., W.R. Cobb
+
+Co. v. V.J. Designs, LLC, 130 F.4th 224, 240 (1st Cir. 2025)
+
+(enforcing waiver of mutual mistake theory where a party failed to
+
+"advance[]   such   a   claim . . .   prior   to   or   during   the   trial
+
+itself").    But even our most stringent waiver rules "admit[] of an
+
+occasional exception."     Nat'l Ass'n of Soc. Workers v. Harwood, 69
+
+F.3d 622, 627 (1st Cir. 1995).        Here, unique circumstances favor
+
+allowing such an exception.
+
+
+
+
+                                 - 18 -
+             As an initial matter, Dahua's ambiguity claim was fully
+
+briefed before the district court, and the court addressed it on
+
+the merits.     This is therefore not a case in which, by neglecting
+
+to timely raise an issue, a party denied its adversary and the
+
+trial court "the opportunity to address and to decide [the] issue[]
+
+in the first instance before an appellate court steps in."        Holsum
+
+de P.R., Inc. v. ITW Food Equip. Grp., LLC, 116 F.4th 59, 65 (1st
+
+Cir. 2024). We have observed that the concerns generally animating
+
+our strict enforcement of waiver rules -- namely, considerations
+
+of fairness and judicial economy -- carry less weight under such
+
+circumstances. See id. at 66 (noting that the fact that a district
+
+court has "address[ed] an argument, even one that a party has not
+
+presented     squarely, . . . undermines    the     justifications      for
+
+enforcing what might otherwise be a party's waiver"); see also id.
+
+(declining to enforce plaintiff's waiver of an argument raised for
+
+the first time in a surreply to a defendant's motion for attorneys'
+
+fees "because the district court reached and decided the issue").
+
+             Here, however, we must also consider whether we can look
+
+past   the   inconsistency   between   Dahua's    current   assertion   of
+
+ambiguity and its initial position that it was not advancing such
+
+an argument. Ordinarily, we would hold a party to the consequences
+
+of its decision to press one theory to the exclusion of another.
+
+See Genereux v. Raytheon Co., 754 F.3d 51, 59 (1st Cir. 2014)
+
+("[W]hen a litigant commits to a theory of the case and sticks to
+
+
+                                - 19 -
+that theory past the point of no return, he cannot thereafter
+
+switch   to    a   different     theory     simply      because   it     seems    more
+
+attractive at the time.").           We decline to do so here for three
+
+reasons.
+
+              First,    Dahua    raised    its    ambiguity    claim      after    the
+
+district court specifically asked the parties for briefing on
+
+whether it could "fashion an appropriate remedy as a matter of
+
+equity" or was instead required to "enforce the [Release Agreement]
+
+as written as a matter of law."             Implicit in the court's request
+
+was an invitation to offer arguments on whether the court could
+
+award Zhang an amount of severance different from $680,000 per
+
+month.     By explaining that the court could "use the rules of
+
+contract interpretation . . . as a different lens to view the
+
+parties'      dispute    over    whether    the     inapt    writing     accurately
+
+expresses     their     mutual   intent,"       Dahua    provided    a   responsive
+
+argument.      In these circumstances, we think it appropriate to
+
+excuse Dahua from its earlier statements framing the relevant issue
+
+as one of mistake, especially where the pertinent Restatement
+
+provision     regarding     reformation         recognizes    that     mistake     and
+
+ambiguity are often closely connected.                  See Restatement (Second)
+
+of Contracts § 155 cmt. b; see also 5 Corbin on Contracts § 24.2
+
+(observing     that     "reformation      and    interpretation      have   much    in
+
+common" and that "the line between interpretation and reformation
+
+is not always bright and easy to find").
+
+
+                                       - 20 -
+           Second,    and   more    importantly,      the    meaning       of    the
+
+contested language in the severance provision is an unavoidable
+
+issue for any appellate decision resolving this dispute.                          For
+
+example, to review the ruling against Dahua on its reformation
+
+claim, we would need to consider whether the district court
+
+correctly concluded that the language of the severance provision
+
+failed to "express the agreement as originally intended" by the
+
+parties.   OneBeacon Am. Ins. Co. v. Travelers Indem. Co. of Il.,
+
+465 F.3d 38, 42 (1st Cir. 2006).          Likewise, reviewing the judgment
+
+for Zhang on his breach of contract counterclaim requires us to
+
+assess whether the language of the severance provision entitles
+
+Zhang to $10.2 million in severance as a matter of law.                          See
+
+Fenoglio v. Augat Inc., 254 F.3d 368, 370 (1st Cir. 2001) (noting
+
+that review of challenged award of change-of-control benefits for
+
+executive turned on construction of executive's entitlements under
+
+the relevant contracts).
+
+           Given that the resolution of these issues necessarily
+
+depends on how one construes the amount of severance described by
+
+the Release Agreement, we do not think it appropriate to bypass a
+
+challenge to the district court's interpretation of that language
+
+as unambiguous.      See CMM Cable Rep, Inc. v. Ocean Coast Props.,
+
+Inc., 97 F.3d 1504, 1524 (1st Cir. 1996) (addressing an argument
+
+not   "explicitly     raise[d]"      below       because    the      issue        was
+
+"inextricably   intertwined        with    the   issues     raised    by        [the]
+
+
+                                    - 21 -
+appeal"); see also Parmenter v. Prudential Ins. Co. of Am., 93
+
+F.4th 13, 22 (1st Cir. 2024) (conducting a "journey into the
+
+meaning of a term" and finding it ambiguous as a matter of law
+
+notwithstanding the parties' mutual agreement that "the language
+
+at issue [was] plain and unambiguous").
+
+          Third, we are more inclined to look past a waiver when
+
+the issue belatedly raised presents a question of law.        See Nat'l
+
+Ass'n of Soc. Workers, 69 F.3d at 627-28 (recognizing that one
+
+consideration in overlooking a waiver is whether "it can fairly be
+
+said that the . . . issue is purely legal in nature, and lends
+
+itself to satisfactory resolution on the existing record"); see
+
+also Montalvo v. González-Amparo, 587 F.3d 43, 48 (1st Cir. 2009)
+
+(similar).   The ambiguity issue raised here is a question of law
+
+arising from a developed record.     See Eigerman v. Putman Invest.,
+
+Inc., 877 N.E.2d 1258, 1263 (Mass. 2007) ("The interpretation of
+
+a contract is a question of law for the court.").
+
+          For all these reasons, we view this as a rare instance
+
+in which it is appropriate to consider a claim belatedly raised
+
+below.   See   Nat'l   Ass'n   of   Soc.   Workers,   69   F.3d   at   628
+
+(recognizing that it should only be the "occasional" case where
+
+the appellate court will overlook a litigant's failure to properly
+
+preserve an issue in the district court).     Accordingly, we turn to
+
+the merits of Dahua's ambiguity argument.
+
+
+
+
+                               - 22 -
+     B.     Interpreting the Severance Provision
+
+          Our review of Dahua's contract interpretation claim is
+
+governed by a familiar legal framework.           To interpret a contract,
+
+a court "must first assess whether the contract is ambiguous,"
+
+Sonoiki v. Harvard Univ., 37 F.4th 691, 703-04 (1st Cir. 2022)
+
+(quoting Farmers Ins. Exch. v. RNK, Inc., 632 F.3d 777, 783 (1st
+
+Cir. 2011)), which, as noted above, is "a question of law decided
+
+de novo by the reviewing court," id. (quoting Helfman v. Ne. Univ.,
+
+149 N.E.3d 758, 777 (Mass. 2020)).           Under Massachusetts law, a
+
+contractual provision is ambiguous "where the phraseology can
+
+support [a] reasonable difference of opinion as to the meaning of
+
+the words employed and the obligations undertaken."            Mercury Sys.,
+
+Inc. v. S'holder Rep. Servs., LLC, 820 F.3d 46, 51-52 (1st Cir.
+
+2016) (quoting Fashion House, Inc. v. K Mart Corp., 892 F.2d 1076,
+
+1083 (1st Cir. 1989)).
+
+          To determine whether a particular contractual term is
+
+ambiguous, a court must "interpret [the at-issue] language in the
+
+context in which it was written and with reference to the objects
+
+sought to be accomplished, mindful that a contract should be
+
+construed   [so   as]   to   give   it   effect   as   a   rational   business
+
+instrument and in a manner which will carry out the intent of the
+
+parties."    Homeowner's Rehab, Inc. v. Related Corp. V SLP, L.P.,
+
+99 N.E.3d 744, 754 (Mass. 2018) (cleaned up) (citation omitted).
+
+In executing these mandates, courts must avoid "isolating words
+
+
+                                    - 23 -
+and interpreting them as though they stood alone,"              Starr v.
+
+Fordham, 648 N.E.2d 1261, 1269 (Mass. 1995) (citation omitted),
+
+and   instead   construe   the   disputed   provision   considering   "the
+
+contract as a whole, 'the circumstances and background of its
+
+negotiation and execution,' and its purpose," Wilmot H. Simonson
+
+Co. v. Green Textiles Assocs., 755 F.2d 217, 220 (1st Cir. 1985)
+
+(quoting E. Coast Aviation Corp. v. Mass. Port Auth., 195 N.E.2d
+
+545, 548 (Mass. 1964)).
+
+          Here, the severance provision provides that "the Company
+
+agrees to make monthly severance payments to you in the amount of
+
+$680,000 for sixteen (16) months."       Dahua contends that the quoted
+
+language lends itself to two reasonable interpretations: one that
+
+requires sixteen monthly severance payments, each in the amount of
+
+$680,000 (the reading accepted by the district court), and another
+
+that requires a total severance amount of $680,000 paid over
+
+sixteen monthly payments (the reading Dahua asserts to be more
+
+reasonable under the interpretative rules of Massachusetts law).
+
+The district court rejected this argument, reasoning that Dahua's
+
+proposed alternative reading "would require the court to ignore
+
+the word 'monthly' in 'monthly severance provision,'" which would
+
+breach the interpretative canon that a contract should be construed
+
+"so that every word is given effect."            Dahua Tech., 2024 WL
+
+1075066, at *4 (quoting DeWolfe v. Hingham Ctr., Ltd., 985 N.E.2d
+
+1187, 1195 (Mass. 2013)).        "[F]or [this] reason alone," the court
+
+
+                                   - 24 -
+determined that the provision had only one possible interpretation
+
+and declared it unambiguous as a matter of law.           Id.
+
+           Dahua contends that the district court construed the
+
+Release Agreement too narrowly and that the severance provision,
+
+when viewed in its proper context, plausibly supports either
+
+interpretation.     We agree.
+
+           To begin, we accept Dahua's unchallenged assertion that
+
+the Release Agreement and the 2017 Employment Agreement "were part
+
+of a single transaction" and thus "are to be treated as an
+
+integrated    agreement    setting   forth     the   entire   understanding
+
+reached by the parties."        Wilmot H. Simonson Co., 755 F.2d at 220
+
+(first quoting Chelsea Indus., Inc. v. Florence, 260 N.E.2d 732,
+
+735 (Mass. 1970); then quoting Thomas v. Christensen, 422 N.E.2d
+
+472, 476 (Mass. App. Ct. 1981)).             The court accordingly must
+
+"read[] the documents together, rather than construing each as if
+
+it stood alone," Donoghue v. IBC USA (Publ'ns), Inc., 70 F.3d 206,
+
+212 (1st Cir. 1995), keeping in mind "the object[] sought to be
+
+accomplished," Homeowner's Rehab, Inc., 99 N.E.3d at 754.
+
+           By its plain language, the parties' agreement was designed
+
+to effectuate an early termination of Zhang's 2015 Employment
+
+Agreement with Zhejiang by hiring him as a Dahua senior corporate
+
+advisor.     Compare Release Agreement at 1 ("This letter agreement
+
+[] memorializes the terms . . . agreed to with respect to the
+
+termination    of   [the   2015   Employment    Agreement]"),    with   2017
+
+
+                                   - 25 -
+Employment Agreement at 1 (identifying 2017 Employment Agreement
+
+as an offer to Zhang for "the new position of Senior Corporate
+
+Advisor").     To carry out this object, the integrated agreement
+
+provides Zhang with two forms of compensation.       First, the Release
+
+Agreement includes the at-issue severance provision:
+
+           Payments. In consideration for your execution,
+           non-revocation and compliance with this
+           Agreement, the Company agrees to make monthly
+           severance payments to you in the amount of
+           $680,000 for sixteen (16) months following the
+           offer   termination   Date   (the   "Severance
+           Period") . . . .
+
+Second, the 2017 Employment Agreement includes a salary provision
+
+for Zhang's new advisor role:
+
+           Base Salary. Your initial salary will be at
+           the rate of $10,000 bi-weekly, which equates
+           to $240,000 on an annualized basis.
+
+           The district court analyzed just the severance-payment
+
+provision and concluded that it supported only one meaning: that
+
+Dahua was to make sixteen severance payments to Zhang over the
+
+course of sixteen months, each in the amount of $680,000.            Dahua
+
+Tech., 2024 WL 1075066, at *4. Put differently, the district court
+
+adopted a reading that construed the word "monthly" as relating
+
+forward   to   modify   "severance   payments,"   thus   making   "monthly
+
+severance payments" the direct object of the provision.           "[I]n the
+
+amount of $680,000," in turn, modifies that direct object, telling
+
+the reader that each monthly severance payment should be $680,000.
+
+
+
+
+                                 - 26 -
+            While that is a reasonable way to read the severance
+
+provision, it is not the only plausible reading.                   The text also
+
+supports a construction in which "monthly" relates backwards to
+
+modify "make," thus making "severance payments" (as opposed to
+
+"monthly severance payments") the direct object of the provision.
+
+When read in this manner, it is unclear whether $680,000 describes
+
+the monthly or total severance payment, as one can just as well
+
+make "severance payments" in the total amount of $680,000 or
+
+monthly payments in that amount.            The immediate context does not
+
+resolve that ambiguity: "make monthly" and "for sixteen (16)
+
+months" indicate the frequency and duration of the payments,
+
+respectively, but neither phrase clarifies the intended amount.
+
+            Contrary       to   the   district    court's     suggestion,       this
+
+alternative construction does not require reading "monthly" out of
+
+the provision. As just noted, "monthly" may speak to the frequency
+
+with   which    severance       payments   are   to   be   "ma[de]."     In     this
+
+construction, "monthly" provides important information for how the
+
+provision will be executed; specifically, it confirms that, during
+
+the life of the severance provision, Dahua will make payments on
+
+a specific, periodic basis. It is also grammatically correct since
+
+adverbs may modify verbs that they immediately follow (e.g., "make
+
+expeditiously").       See United States v. Cunningham, 630 F. Appx.
+
+873, 878 n.6 (10th Cir. 2015) ("The general rule is that a
+
+modifier,      like   an   adverb,    is    placed    next    to   the   word    it
+
+
+                                      - 27 -
+modifies."); see also DeWolfe, 985 N.E.2d at 1195 (rules of grammar
+
+are to be "generally adhered to" in interpreting a contract).                We
+
+thus disagree with the basis on which the district court declared
+
+the provision plain.        It is possible to interpret the severance
+
+provision in a way that "give[s] effect" to "every word" and still
+
+leaves ambiguous the total amount of severance owed.               DeWolfe, 464
+
+Mass. at 804.
+
+              There are additional interpretative canons that make
+
+Dahua's preferred construction plausible.              One is the "[b]lack
+
+letter law teach[ing] that 'a construction . . . comport[ing] with
+
+the [a]greement as a whole is to be preferred even if it be thought
+
+that certain language, viewed only by itself, more readily suggests
+
+something else.'"        Fashion House, Inc., 892 F.2d at 1083 (quoting
+
+(Spartan Indus., Inc. v. John Pilling Shoe Co., 385 F.2d 498, 499
+
+(1st   Cir.    1967)).      Another    is   the   principle   that    "related
+
+provisions may cast light on meaning."            Nat'l Tax Instit., Inc. v.
+
+Topnotch at Stowe Resort & Spa, 388 F.3d 15, 19 (1st Cir. 2004).
+
+              Here,   the    two   payment      provisions    in     the   2017
+
+Agreement -- i.e.,        the   base   salary     provision   in     the   2017
+
+Employment Agreement and the severance provision in the Release
+
+Agreement -- are inconsistent in their constructions.               Zhang's new
+
+salary as a senior corporate advisor to Dahua is defined in
+
+reference to a total amount ($240,000) reduced to a specific
+
+periodic amount ($10,000 paid biweekly) to be paid for a certain
+
+
+                                   - 28 -
+amount of time (two years).    Zhang's severance, by contrast, is
+
+defined only in reference to an amount ($680,000) to be paid at
+
+specified intervals (monthly) over a specified period (16 months).
+
+Dahua argues that the absence of a second dollar amount in the
+
+description of the severance payment adds uncertainty over whether
+
+the parties meant for $680,000 to represent the total amount of
+
+severance or the periodic amount to be paid at monthly intervals.
+
+We agree.
+
+            Dahua's alternative construction finds further support
+
+in the "background facts that explain the context in which the
+
+agreement was made."5   SAPC, Inc., 921 F.2d at 361 n.2.   Based on
+
+the circumstances of the transaction, it appears that Zhejiang's
+
+reason to pay Zhang $240,000 per year for two years to work as an
+
+
+
+     5    Considering such information in the context of our
+ambiguity analysis is permissible pursuant to the Massachusetts
+version of the parol evidence rule, under which a court may look
+to limited extrinsic evidence to find ambiguity before concluding
+that a contract is facially ambiguous. SAPC, Inc. v. Lotus Dev.
+Corp., 921 F.2d 360, 361 n.2 (1st Cir. 1990) (citing Louis Stoico,
+Inc. v. Colonial Dev. Corp., 343 N.E.2d 872, 875 (Mass. 1976));
+see Robert Indus., Inc. v. Spence, 291 N.E.2d 407, 409 (Mass. 1973)
+("[A contract] is to be read in the light of the circumstances of
+its execution, which may enable the court to see that its words
+are really ambiguous."); cf. Cullinet Software, Inc. v. McCormack
+& Dodge Corp., 511 N.E.2d 1101, 1102 (Mass. 1987) ("The judge quite
+properly heard evidence to aid in the construction of the
+agreement, even before he decided whether the agreement was
+ambiguous."). Though such evidence may not be used to "contradict,
+vary, or broaden an integrated writing," Kobayashi v. Orion
+Ventures, Inc., 678 N.E.2d 180, 184 (Mass. App. Ct. 1997), it may
+suggest that the writing is susceptible to more than one meaning,
+see Starr, 648 N.E.2d at 1269 n.11.
+
+
+                               - 29 -
+advisor on ad hoc projects was to encourage him to leave his
+
+management position on good terms.                If, however, Zhejiang was
+
+willing to pay Zhang $10.2 million of severance in exchange for
+
+his separation and associated restrictions, it seems strange that
+
+the parties would view a comparatively trivial $480,000 as a
+
+necessary additional sweetener.6              See Starr, 648 N.E.2d at 1269
+
+n.11       (noting   with   approval   that     the   Restatement    (Second)   of
+
+Contracts § 212 supports making a "determination of meaning or
+
+ambiguity . . . in the light of the relevant evidence of the
+
+situation and the relations of the parties, the subject matter of
+
+the transaction, preliminary negotiations and statements made
+
+therein, usages of trade, and the course of dealing between the
+
+parties" (quoting Restatement (Second) of Contracts § 212 cmt.
+
+b)).       Indeed, for Dahua to agree to pay Zhang $10.2 million in
+
+severance -- a sum nearly fifteen times greater than the amount of
+
+conditionally         guaranteed   salary       remaining    under     the   2015
+
+Employment Agreement -- only to keep him on salary as a consultant
+
+
+
+       6
+          Of course, the severance amount was also contingent upon
+Zhang's release of claims and compliance with important
+restrictive covenants.    But the 2017 Employment Agreement also
+contains a proprietary information provision barring Zhang from
+divulging any of the company's confidential information "to any
+person," both "during the term of [his] employment with the Company
+or thereafter." Thus, while Zhang's "silence and cooperation may
+well have been of significant value to Zhejiang," Dahua Tech.,
+2022 WL 12370835, at *14, it does not follow that $10.2 million
+necessarily represents the purchase price for keeping Zhang from
+disclosing potentially unflattering information.
+
+
+                                       - 30 -
+for another two years, does not seem a particularly likely bargain
+
+for securing Zhang's amicable termination.   See Fishman v. LaSalle
+
+Nat'l Bank, 247 F.3d 300, 302 (1st Cir. 2001) ("The presumption in
+
+commercial contracts is that the parties were trying to accomplish
+
+something rational." (citing Shea v. Bay State Gas Co., 418 N.E.2d
+
+597, 601-02 (Mass. 1981))).
+
+          The district court recognized this business reality when
+
+it concluded that the plain meaning of the severance provision
+
+required a result that neither party intended.      But this same
+
+information also affects the assessment of the ambiguity question.
+
+See supra n.5; see also Shea, 418 N.E.2d at 601 ("[W]e cannot
+
+ignore the basic rule of construction that [a court] must give
+
+effect to the parties' intentions and construe the language to
+
+give it reasonable meaning wherever possible."); cf. Cadle Co. v.
+
+Vargas, 771 N.E.2d 179, 366 (Mass. App. Ct. 2002) ("Common sense
+
+is as much a part of contract interpretation as is the dictionary
+
+or the arsenal of canons." (quoting Fishman, 247 F.3d at 302-03)).
+
+For this reason and those discussed above, we conclude that the
+
+severance provision plausibly supports two interpretations and
+
+thus is ambiguous a matter of law.
+
+          Our conclusion leaves the question of next steps.   Once
+
+a court concludes that a term at issue in a contract is ambiguous
+
+as a matter of law, the focus shifts to resolving that ambiguity.
+
+RCI Ne. Servs. Div. v. Bos. Edison Co., 822 F.2d 199, 202 (1st
+
+
+                              - 31 -
+Cir. 1987).   This is a question of fact to be made by a factfinder,
+
+the resolution of which turns on "the intent of the parties."   Id.
+
+          We appreciate that significant time and attention has
+
+already been expended to consider the parties' intent.       But to
+
+date, the intent question was considered only in the context of
+
+resolving Dahua's request for equitable remedies.       The parties
+
+should be provided the opportunity to make arguments and, if
+
+necessary, present additional evidence that bears on the correct
+
+interpretation of the ambiguous severance provision.        We thus
+
+remand for the district court to construe the severance provision
+
+based on evidence concerning the parties' intended meaning.7
+
+     C.   Implied Covenant of Good Faith and Fair Dealing
+
+          This leaves only Dahua's claim that Zhang breached the
+
+implied covenant of good faith and fair dealing when he refused to
+
+sign an amendment to reform the purported scrivener's error in the
+
+Release Agreement.     As the district court correctly observed,
+
+"[t]he concept of good faith 'is shaped by the nature of the
+
+contractual relationship from which the implied covenant derives,'
+
+
+     7    We recognize that in rejecting the ambiguity claim
+below, the district court noted that, even if the provision were
+ambiguous, it would be inclined to construe that ambiguity against
+Dahua as the drafter of the Release Agreement. While Dahua's role
+as drafter may be a relevant consideration, we note that "[a]
+prerequisite to the application of [that] rule is that the
+alternative    interpretation     placed    upon    the    alleged
+ambiguity . . . be, under all circumstances, a reasonable and
+practical one." James B. Nutter & Co. v. Est. of Murphy, 88 N.E.3d
+1133, 1141 (Mass. 2018) (second alteration in original).
+
+
+                               - 32 -
+and the 'scope of the covenant is only as broad as the contract
+
+that governs the particular relationship.'"        Young v. Wells Fargo
+
+Bank, N.A., 717 F.3d 224, 238 (1st Cir. 2013) (quoting Ayash v.
+
+Dana–Farber Cancer Inst., 822 N.E.2d 667, 684 (Mass. 2005)).
+
+           Here, there is nothing in the 2017 Agreement that would
+
+impose a duty on Zhang to agree to or even consider a modification
+
+of Dahua's obligations thereunder.         See Renovator's Supply, Inc.
+
+v. Sovereign Bank, 892 N.E. 2d 777, 790 (Mass. App. Ct. 2008)
+
+(observing the importance of "limit[ing] the duties of the parties
+
+to the expressed and accomplished terms of their agreement").           Nor
+
+can Dahua sustain an implied covenant claim against Zhang based on
+
+the possibility that he knew that Dahua did not intend for the
+
+Release Agreement to provide severance in the amount of $680,000
+
+per month for sixteen months.          See id. (reversing judgment on
+
+implied covenant claim where "actionable conduct related entirely
+
+to the formation" of an agreement "and not to the performance of
+
+the existing agreement").       Dahua's implied covenant claim thus
+
+fails   regardless   of   how   the   underlying   contract   dispute    is
+
+ultimately resolved.
+
+                                CONCLUSION
+
+           For the reason stated, we vacate the judgment and remand
+
+for further proceedings, except for the district court's ruling
+
+
+
+
+                                  - 33 -
+that Dahua's implied covenant of good faith and fair dealing claim
+
+fails, which we affirm.   No costs are awarded.
+
+     So ordered.
+
+
+
+
+                              - 34 -

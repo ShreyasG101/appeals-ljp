@@ -1,0 +1,357 @@
+RECOMMENDED FOR PUBLICATION
+                                Pursuant to Sixth Circuit I.O.P. 32.1(b)
+                                       File Name: 24a0252p.06
+
+                    UNITED STATES COURT OF APPEALS
+                                  FOR THE SIXTH CIRCUIT
+
+
+
+                                                             ┐
+ ANNETTE MCEACHIN,
+                                                             │
+                Plaintiff-Appellee/Cross-Appellant,          │
+                                                              >        Nos. 24-1071/1100
+                                                             │
+        v.                                                   │
+                                                             │
+ RELIANCE STANDARD LIFE INSURANCE COMPANY,                   │
+               Defendant-Appellant/Cross-Appellee.           │
+                                                             ┘
+
+  Appeal from the United States District Court for the Eastern District of Michigan at Detroit.
+                 No. 2:21-cv-12819—Terrence George Berg, District Judge.
+
+                                   Argued: October 31, 2024
+
+                            Decided and Filed: November 13, 2024
+
+             Before: SUTTON, Chief Judge; LARSEN and MURPHY, Circuit Judges.
+                                    _________________
+
+                                            COUNSEL
+
+ARGUED: Joshua Bachrach, WILSON ELSER MOSKOWITZ EDELMAN & DICKER,
+Philadelphia, Pennsylvania, for Reliance Standard Life Insurance Company. Donald W. Busta,
+Jr., LEVINE BENJAMIN, P.C., Southfield, Michigan, for Annette McEachin. ON BRIEF:
+Joshua Bachrach, WILSON ELSER MOSKOWITZ EDELMAN & DICKER, Philadelphia,
+Pennsylvania, William S. Cook, WILSON ELSER MOSKOWITZ EDELMAN & DICKER,
+Livonia, Michigan, for Reliance Standard Life Insurance Company. Donald W. Busta, Jr.,
+LEVINE BENJAMIN, P.C., Southfield, Michigan, for Annette McEachin.
+                                      _________________
+
+                                             OPINION
+                                      _________________
+
+       SUTTON, Chief Judge. For nearly four years, Reliance Standard Life Insurance Co. paid
+total disability benefits to Annette McEachin.         It stopped the payments when McEachin’s
+ Nos. 24-1071/1100          McEachin v. Reliance Standard Life Ins. Co.                    Page 2
+
+
+physical health improved. McEachin sued the insurance company under ERISA, more fully
+known as the Employee Retirement Income Security Act.             The district court agreed with
+Reliance that McEachin no longer had a physical disability but found that her ongoing mental-
+health disabilities entitled her to two more years of benefits. We vacate in part, affirm in part,
+and remand the case to the district court.
+
+                                                   I.
+
+       In February 2017, two years into McEachin’s employment as a human resources manager
+at Perceptron, Inc., a car accident seriously injured her. She left the job, and within months
+submitted a disability claim to Reliance, citing “[r]ecurrent headaches, neck and back pain from”
+the car accident. R.9 at 564. In June 2017, Reliance approved her for long-term disability
+benefits.
+
+       McEachin’s condition worsened when she had another car accident at the end of that
+year. As a result of the accidents, McEachin underwent three major spinal surgeries between
+2018 and 2021, attended numerous physical therapy sessions, and took injections for migraines
+and prescription medications for pain. McEachin’s mental health suffered, too. During the same
+period, providers treated her for depression, anxiety, and sleep disruptions. Making matters
+considerably worse, McEachin’s son committed suicide in 2019. That generated post-traumatic
+stress disorder and grief that took an additional toll.
+
+       Under McEachin’s insurance policy, a “Total Disability”—meaning she could not
+“perform the material duties” of her job—entitled her to a monthly payment until retirement age.
+R.9 at 9, 12, 19. The policy came with a limitation. If a “mental or nervous disorder[]”
+“caused . . . or contributed to” the insured’s “Total Disability,” she would be entitled to benefits
+for a total of 24 months. R.9 at 23.
+
+       For over three years, Reliance paid McEachin long-term disability benefits without issue,
+and McEachin periodically submitted updated health information as the policy required. In
+October 2020, Reliance ended McEachin’s benefits. McEachin appealed and supplied additional
+medical documentation. Based on her updated medical reports, Reliance found that, “from a
+physical perspective,” McEachin could not perform her duties at work. R.9 at 510. From a
+ Nos. 24-1071/1100         McEachin v. Reliance Standard Life Ins. Co.                     Page 3
+
+
+mental-health perspective, Reliance noted, McEachin faced no cognizable barriers to working.
+The insurance company reinstated her benefits.
+
+       In April 2021, Reliance stopped paying McEachin’s benefits again. McEachin appealed.
+She submitted documentation from her medical providers, claiming that depression, migraines,
+and chronic pain showed she was still totally disabled. Reliance enlisted an independent medical
+review, which concluded that McEachin could perform her prior job “from a physical
+standpoint.” R.9 at 533, 535–38. In denying benefits, Reliance noted “significant improvement
+in migraines” and “significant relief of chronic back/leg pain with physical therapy and
+injections.” R.9 at 534.
+
+       Reliance acknowledged that McEachin’s “psychiatric” issues still rendered her unable to
+work full-time. R.9 at 537. It nonetheless denied McEachin’s appeal because of her insurance
+policy’s 24-month limitation on benefits for mental disorders that “cause[d] . . . or contribute[d]
+to” her total disability. R.9 at 537. Because McEachin had presented psychiatric symptoms
+“since at least May 2017,” the company noted, the policy’s 24-month clock had run. R.9 at 537.
+In the absence of a total disability created only by physical impairments, Reliance reasoned that
+McEachin had no basis for obtaining additional benefits.
+
+       Having exhausted her administrative remedies with Reliance, McEachin filed this lawsuit
+against the insurance company under ERISA. Both parties moved for summary judgment. The
+magistrate judge recommended denying McEachin’s motion and granting Reliance’s motion.
+The district court agreed with Reliance that McEachin lacked a total physical disability as of
+April 2021. But it found that McEachin’s mental-health disability entitled her to 24 months of
+additional benefits starting in April 2021. Reliance appealed, and McEachin cross-appealed.
+
+                                                 II.
+
+       Reliance’s appeal. Did the district court correctly interpret the interplay of the physical
+and mental-health components of this insurance policy? More specifically, does Reliance at least
+owe McEachin 24 months of benefits running from April 2021 to April 2023?
+ Nos. 24-1071/1100        McEachin v. Reliance Standard Life Ins. Co.                          Page 4
+
+
+       If an ERISA-covered insurance plan gives the administrator discretion in implementing
+it, we review the plan administrator’s implementation of the plan for abuse of discretion. Evans
+v. UnumProvident Corp., 434 F.3d 866, 875 (6th Cir. 2006). But Michigan law bans the use of
+such discretionary clauses in insurance policies. See Mich. Admin. Code R. 500.2202(b). As a
+result, we apply fresh review to its decision. Am. Council of Life Insurers v. Ross, 558 F.3d 600,
+608 (6th Cir. 2009).
+
+       Here’s what the insurance policy says. It offers monthly benefits if a claimant:
+
+       (1) is Totally Disabled as the result of a Sickness or Injury covered by this Policy;
+       (2) is under the regular care of a Physician;
+       (3) has completed the Elimination Period; and
+       (4) submits satisfactory proof of Total Disability to us.
+
+R.9 at 19. A “Total Disability” exists when:
+
+       [A]s a result of an Injury or Sickness, during the Elimination Period and thereafter
+       an Insured cannot perform the material duties of his/her Regular Occupation.
+
+R.9 at 12. The policy comes with a limitation for “mental or nervous disorders.” In that setting,
+it provides:
+
+       Monthly Benefits for Total Disability caused by or contributed to by mental or
+       nervous disorders will not be payable beyond an aggregate lifetime maximum
+       duration of twenty-four (24) months unless the Insured is in a Hospital or
+       Institution at the end of the twenty-four (24) month period. The Monthly Benefit
+       will be payable while so confined, but not beyond the Maximum Duration of
+       Benefits.
+
+R.9 at 23. The insurance company bears the burden of showing this exclusion applies. Okuno v.
+Reliance Standard Life Ins., 836 F.3d 600, 609 (6th Cir. 2016).
+
+       Here’s how we have interpreted a similar policy, in fact a like-worded policy issued by
+Reliance. In Okuno, a claimant appealed the denial of benefits for her disability caused by
+Crohn’s disease, narcolepsy, depression, and anxiety. Id. at 605. Reliance argued that a similar
+mental-health limitation justified the denial of benefits due to “the continued presence of a
+psychiatric component.” Id. at 608. We disagreed. The “mere presence” of anxiety and
+depression, we determined, did “not justify application of the . . . mental health limitation.” Id.
+at 607. Rather, Reliance had to consider “separately” from her anxiety and depression whether
+ Nos. 24-1071/1100         McEachin v. Reliance Standard Life Ins. Co.                       Page 5
+
+
+her physical condition rendered her totally disabled. Id. at 609. If her physical limitations by
+themselves warranted benefits, if they were the “but[] for” cause of her total disability, the
+mental-health limitation did not apply. Id. at 608–09.
+
+       The same approach governs this case. We ask whether McEachin’s total disability exists
+without regard to her mental-health conditions. Id. If it does, if in other words her physical
+disabilities alone justify disability benefits, the mental-health 24-month clock does not start. Id.
+
+       We are not the only circuit to face this issue. The Fifth Circuit construed a similar
+mental-health limitation, also written by Reliance, to “exclude coverage only when the
+claimant’s physical disability” by itself fails to make the individual totally disabled. George v.
+Reliance Standard Life Ins., 776 F.3d 349, 355–56 & n.9 (5th Cir. 2015). So too for the Third
+Circuit. Insurers failed arbitrary and capricious review, it concluded, when they applied a
+mental-health limitation despite a physical impairment “independently sufficient” to cause total
+disability. Michaels v. Equitable Life Assurance Soc’y, 305 F. App’x 896, 901, 904 (3d Cir.
+2009). And for the Eighth Circuit. A claimant, it reasoned, could receive only 24 months’
+benefits “if, but for her anxiety and depression, she would not be totally disabled” because “her
+physical conditions must independently render her unable to work.” Weyer v. Reliance Standard
+Life Ins., 109 F.4th 1072, 1077 (8th Cir. 2024). Same for the Ninth Circuit. Reliance “did not
+abuse [its] discretion in denying benefits” under a mental-health limitation, the court determined,
+if a claimant’s physical condition “alone was not disabling.” Gunn v. Reliance Standard Life
+Ins., 399 F. App’x 147, 153 (9th Cir. 2010).
+
+       Measured by this test, the 24-month limitations period in McEachin’s policy began to run
+in April 2021. Until then, McEachin’s physical disability alone justified benefits. Recall that
+when McEachin first applied for disability payments in 2017, she cited only physical symptoms.
+When Reliance reinstated McEachin’s benefits in October 2020, it explicitly said that her
+physical state—but not her mental state—prevented her from working.                 On this record,
+McEachin’s “physical conditions alone” entitled her to disability coverage before April 2021,
+meaning that “the mere presence” of additional mental-health issues did “not justify application
+of the [two]-year mental health limitation.” Okuno, 836 F.3d at 607.
+ Nos. 24-1071/1100          McEachin v. Reliance Standard Life Ins. Co.                    Page 6
+
+
+        Reliance tries to counter this conclusion in several ways. Invoking the language of the
+policy, Reliance notes that the 24-month period kicks in when the total disability is “caused by or
+contributed to” by mental or nervous disorders. As Reliance sees it, the anti-surplusage canon
+requires us to give both words—“cause” and “contribute”—independent meaning. Because
+McEachin had some treatment for mental-health conditions before April 2021, it claims, those
+conditions “contributed” to McEachin’s disability, even if they did not fully cause it, and
+triggered the policy before then.
+
+        The short answer to this argument is that our decision in Okuno does not construe the
+phrase in this way. The 24-month limit, we reasoned, applied only if “but[] for” her mental-
+health challenges she would not be totally disabled. 836 F.3d at 608. The “mere presence” of
+mental health challenges, we explained, did “not justify application of the [two]-year mental
+health limitation.” Id. at 607.
+
+        We do not recoil, at any rate, at giving “cause” or “contribute” similar meanings in this
+insurance contract. “The [anti-surplusage] canon needs to be deployed with special care in a
+setting—insurance contracts—in which redundancies abound and particularly in a 26-page
+contract in which iteration is afoot throughout. It is no overstatement to say that it would not be
+an insurance contract if it did not come with some surplusage.” Santo’s Italian Café LLC v.
+Acuity Ins. Co., 15 F.4th 398, 406 (6th Cir. 2021) (quotation omitted). Not every insurance
+belt—this one 33 pages long—precludes suspenders.
+
+        Plus, even if we tried to do what Reliance asks—treat “cause” as sole cause and
+“contribute” as partial cause—it’s not clear that would advance its position. The question would
+remain whether her mental-health conditions “contributed” to her “Total Disability” during the
+relevant period. Until April 2021, it’s fair to say, they did not. Before then, her physical
+limitations alone sufficed to establish her “Total Disability,” making the mental-health 24-month
+limitation irrelevant until then.
+
+        At all events, the first response to this line of argument remains the key one: We must
+respect our decision in Okuno. Under that decision, a mental-health disability does not “cause or
+ Nos. 24-1071/1100         McEachin v. Reliance Standard Life Ins. Co.                      Page 7
+
+
+contribute to” a “total” disability” if existing physical disabilities suffice by themselves to cause
+it.
+
+       Reliance insists that Okuno can be distinguished—that it does not apply if a physical
+disability has dissipated by the time the insurance company denies benefits. As it reads the
+decision, Okuno applies only to “sets of facts” where a physical disability “independently
+continues beyond” a mental-health limitation. First Br. 29. That approach requires squinting at
+Okuno so narrowly that it creates a mirage. In reality, we never held that the claimant in Okuno
+had a physical disability. We instead remanded the case for factfinding after Reliance acted
+“arbitrarily and capriciously in determining [she] did not” have a physical disability. 836 F.3d at
+609. No less importantly, and more dispositively, Okuno’s reasoning tracks the approach of the
+other circuits that have addressed this issue. As in these other cases, Okuno reasoned that the
+mere presence of mental-health symptoms does not trigger the start of a mental-health limitations
+period. Id. at 608–09. Some of those cases, notably, determined that the insurance company had
+acted arbitrarily in adopting a different interpretation. See Michaels, 305 F. App’x at 904
+(holding that denial of benefits due to the mere existence of mental impairments fails arbitrary
+and capricious review); George, 776 F.3d at 356 (concluding Reliance abused its discretion in
+applying a mental-health limitation where physical impairments still left a claimant totally
+disabled).
+
+       Reliance invokes the Social Security Administration’s reasons for awarding disability
+benefits to McEachin. It notes that an administrative law judge deemed depression and anxiety
+to be components of McEachin’s disability. But that does not answer the question whether
+physical limitations alone created the “total” disability.       Social Security benefits operate
+differently anyway. They do not contain similar on-off switches if the individual’s physical
+limitations improve but her mental-health limitations do not.          Rather, the Administration
+provides that when “determining whether an individual’s physical or mental impairment[s]”
+justify benefits, what matters is “the combined effect of all of the individual’s
+impairments . . . without regard to whether any such impairment, if considered separately, would
+be of such severity.” 42 U.S.C. § 423(d)(2)(B).
+ Nos. 24-1071/1100         McEachin v. Reliance Standard Life Ins. Co.                     Page 8
+
+
+       Reliance claims that an unpublished case, Eastin v. Reliance Standard Life Insurance,
+No. 13-6247, 2014 WL 3397141, at *3 (6th Cir. July 10, 2014), undermines our approach. But
+that case differs in material ways from this one. There, it is true, we affirmed the denial of the
+insured’s claim for additional benefits due to a mental-health cap on the length of benefits. Id. at
+*3. But the evidence showed that physical and mental impairments combined to establish her
+total disability from the outset. Id.; Eastin v. Reliance Standard Life Ins., No. 2012–140 (WOB–
+CJS), 2013 WL 4648736, at *2 (E.D. Ky. Aug. 23, 2013). Nothing in that record showed that
+her physical disability alone entitled her to benefits during the 24-month period. Eastin, 2014
+WL 3397141, at *2. In marked contrast, McEachin’s record indicates that her physical disability
+alone prevented her from working until April 2021.
+
+                                                III.
+
+       McEachin’s cross-appeal. Did the district court correctly determine that McEachin’s
+physical disabilities in April 2021 no longer made her totally disabled?
+
+       While we do not give deference to the plan administrator’s factual findings in this
+context, the same may not be true of the district court’s findings.          Wallace v. Oakwood
+Healthcare, Inc., 954 F.3d 879, 889–90 (6th Cir. 2020). In some instances, we have looked for
+clear error by the district court. See Moore v. Lafayette Life Ins., 458 F.3d 416, 438 (6th Cir.
+2006). In others, we have looked anew at the court’s findings. See Hoover v. Provident Life &
+Acc. Ins., 290 F.3d 801, 808–09 (6th Cir. 2002); Tranbarger v. Lincoln Life & Annuity Co., 68
+F.4th 311, 318 (6th Cir. 2023) (Nalbandian, J., concurring) (arguing that our case law requires
+fresh review of district-court factfinding). We need not resolve the point today because we
+would reach the same conclusion either way.
+
+       McEachin makes two distinct arguments on this front. One is that her post-April 2021
+medical evidence undermines the district court’s conclusion that her total disability at that point
+turned on mental-health challenges. The other is that, even if she was not physically disabled on
+April 1, 2021, she was allowed to toll the 24-month clock based on later evidence presented
+during that two-year window. We address each argument in turn.
+ Nos. 24-1071/1100          McEachin v. Reliance Standard Life Ins. Co.                    Page 9
+
+
+       Disability status as of April 1, 2021. We reject McEachin’s first argument. She did not
+prove that her physical conditions prevented her from working in a sedentary job with
+restrictions as of April 2021. The record indicates that her physical conditions significantly
+improved before then. The frequency and severity of her migraines declined, physical therapy
+helped McEachin regain “full strength” to her extremities, and MRI and x-ray scans displayed
+positive results. R.9 at 534. After her second surgery, McEachin told a doctor that she felt “so
+much better,” and she could walk without a limp. R.9-2 at 565. As a file reviewer put it,
+McEachin had the “capacity to work on a full-time consistent basis” by April 2021 with several
+“appropriate restrictions and limitations.” R.9 at 535; R.9-5 at 513. While McEachin had to
+avoid “[w]alking and standing” more than “2 hours out of an 8-hour workday,” she “would not
+be precluded from her own occupation.” R.9 at 535–36. By April 2021, McEachin had returned
+to many physical activities, including a rafting trip a few months earlier.
+
+       All of this remains true despite McEachin’s then-upcoming surgery in October 2021. As
+the record shows, McEachin did “not require emergent surgery,” and “functioning at the
+sedentary level would not increase the risk of further injury,” meaning that she could work at the
+very least until the operation. R.9 at 537. Future medical treatments, as a general rule, do not
+address “the critical issue of whether [McEachin] could work during that period.” Tranbarger,
+68 F.4th at 315.
+
+       McEachin counters that the district court should have considered her physical condition
+after the April 2021 denial of benefits to justify delaying the beginning of the 24-month clock for
+mental-health disabilities. But a claimant may present later evidence of poor health only to show
+her earlier condition. Likas v. Life Ins. Co. of N. Am., 347 F. App’x 162, 167 (6th Cir. 2009);
+Javery v. Lucent Techs., Inc. Long Term Disability Plan, 741 F.3d 686, 690 n.1 (6th Cir. 2014).
+That is not how McEachin initially uses this evidence. She points to an August report from her
+orthopedic surgeon, Dr. Peter Bono, that never purports to show her physical disability as of
+April 1, 2021. Neither that evidence nor any other evidence shows that she was totally disabled
+due to physical limitations at that point.
+
+       Disability status from April 1, 2021 to April 1, 2023. McEachin separately argues that, at
+a minimum, the district court should have permitted her to use this medical evidence to toll the
+ Nos. 24-1071/1100          McEachin v. Reliance Standard Life Ins. Co.                    Page 10
+
+
+24-month mental-disability clock after April 1, 2021. Even if that evidence could not be used
+retroactively to establish her disability status on April 1, 2021, she maintains, it could be used to
+show that the mental-disability clock should not have run for certain months during the two-year
+period. It’s fair to say that McEachin did not clearly raise this argument below—and as a result
+the district court can be forgiven for not seeing it. No district court ruling in fact exists on the
+point.   But McEachin does make this argument on appeal, and Reliance has not raised a
+forfeiture contention. See United States v. Shultz, 733 F.3d 616, 619 (6th Cir. 2013) (noting that
+the party “forfeited the forfeiture”).
+
+         The district court should look at this point in the first instance. In doing so, it is worth
+noting that the policy requires disability benefits for as long as the insured has a “total
+disability.” Recall that McEachin remained totally disabled after April 1, 2021. The 24-month
+clock started at that point because her physical limitations no longer caused or contributed to the
+disability. Only her mental-health problems created the total disability. But nothing in the
+policy prohibits applicants from showing physical disabilities create a total disability at any point
+that the total disability exists. That suggests that McEachin may use her post-April 2021
+evidence for a distinct reason—to show that the 24-month clock should have been tolled at
+certain points between April 2021 and April 2023, and that her eligibility for benefits thus may
+go beyond April 2023. On remand, the district court should consider this argument and the
+application of it to the existing medical evidence in the record.
+
+                                                 IV.
+
+         For these reasons, we vacate in part, affirm in part, and remand the case to the district
+court.

@@ -1,0 +1,775 @@
+USDC SDNY 
+UNITED STATES DISTRICT COURT                   □□□      agen 
+SOUTHERN DISTRICT OF NEW YORK                DOCH:               — 
+VOLOKH, et al.,                                     DATE FILED; _ 4/30/2024 
+                        Plaintiffs, 
+                                                       22-cv-10195 (ALC) 
+                    -against- 
+                                                       OPINION AND ORDER 
+JAMES, 
+                        Defendant. 
+ANDREW L. CARTER, JR., United States District Judge: 
+      The Court considers herein Plaintiffs’ motion to enforce the prior preliminary injunction 
+against the Attorney General of the State of New York.  For the reasons stated herein, the Court 
+DENIES Plaintiffs’ motion. 
+                               BACKGROUND 
+ I.    Procedural Background 
+      Plaintiffs filed their Complaint against Defendant on December 1, 2022 and their initial 
+motion for preliminary injunction on December 6, 2022.  ECF Nos. 1, 8.  Following a telephonic 
+conference in which the Court heard argument on Plaintiffs’ motion for a preliminary injunction, 
+Plaintiffs’ motion was granted.  ECF No. 29 (“PI Order”).  Defendant then filed an interlocutory 
+appeal of this Court’s opinion and order granting the preliminary injunction and this Court stayed 
+the present case.  See ECF Nos. 30, 37; Volok v. James, 23-356 (2d Cir. 2023).  The Second 
+Circuit has held Defendant’s appeal in abeyance pending the Supreme Court’s decision in 
+NetChoice LLLC v. Paxton, 144 S. Ct. 477 (2023).  Jd. at Dkt. 141.  Plaintiffs filed the present 
+motion to enforce the preliminary injunction on December 1, 2023.  ECF No. 44; see also ECF 
+No. 46 (“Mot.”).  Defendant filed their opposition on December 15, 2023.  ECF No. 50 (“Opp.”). 
+Plaintiffs filed their reply memorandum on December 22, 2023.  ECF No. 51 (“Reply”). 
+
+II.  Factual Background                                                  
+    The Court presumes the Parties’ knowledge of the factual background underlying the 
+Plaintiffs’ suit against the enforcement of the Hateful Conduct Law, N.Y. Gen. Bus. Law § 394-
+ccc(1)(a), and recites only those fundamental facts relevant to the disposition of the instant 
+
+motion.  For a more fulsome recitation of those background facts, the Court directs readers’ 
+attention to its prior opinion granting the preliminary injunction at Volokh v. James, 656 F. Supp. 
+3d 431, 436-438 (S.D.N.Y. 2023) (hereafter Volokh I).  See also PI Order at 2-5.  This law “has 
+two main requirements: (1) a mechanism for social media users to file complaints about 
+instances of "hateful conduct" and (2) disclosure of the social media network's policy for how it 
+will respond to any such complaints” and “empowers the Attorney General to investigate 
+violations of the law and provides for civil penalties for social media networks which knowingly 
+fail to comply with the requirements.”  Volokh I at 438 (internal quotation marks omitted).   
+    On October 12, 2023, following entry of the Court’s preliminary injunction barring 
+enforcement of the Hateful Conduct law, Defendant James sent investigative letters to six social 
+
+media networks including Plaintiff Rumble.  See ECF No. 47 (“Ortner Decl.”), Ex. A; Ex B.  In 
+the letters, the Defendant references the state’s concerns of “growing reports of growing 
+antisemitism and Islamaphobia [sic]” and “press reports that terrorist groups and individuals that 
+sympathize with them are disseminating calls for violence and other materials that may incite 
+violence against Jewish and Muslim people and institutions on social media platforms.” Id., Ex. 
+A at 1.  Defendant then goes on to “request” that the recipients respond to a series of 
+interrogatories in writing.  Id.  The letter asks recipients to state, inter alia, “[w]hat actions, if 
+any [they] ha[ve] . . . taken to address the recent calls for violence against Jewish and Muslim 
+people and institutions and the possibility that the Platform may be used to plan, encourage, or 
+disseminate those acts,” to describe their “public-facing terms of service, community rules, . . . 
+company-facing policies that govern the determination of whether content is a call for violence, . 
+. . process for reviewing and removing calls for violence, . . . process for identifying and 
+removing calls for violence, . . . methods for blocking the re-posting of content that has been 
+
+removed, . . . [and] policies regarding disciplining, suspending, and/or banning users for posting 
+content that has been removed.”  Id. at 1-2.  The letters made no mention of the Hateful Conduct 
+Law and did not, by their text, compel response or disclosure or threaten the imposition of 
+penalties for failure to respond.                                         
+    On October 13, Defendant James stated at a press conference that “social media ha[d] 
+been widely used by bad actors to spread horrific material, disseminate threats, and encourage 
+violence,” that social media platforms “have a responsibility to keep their users safe and prohibit 
+the spread of violent rhetoric that puts vulnerable groups in danger,” and “call[ed] on . . . 
+companies to explain how they are addressing threats and how they will ensure that no online 
+platform is used to further terrorist activities.”  Ortner Decl., Ex. C at 1.  The press release 
+
+discussing the letters also referenced the prior “consistent[] action[s]” Defendant James has 
+undertaken “to hold social media companies accountable and limit dangerous material from 
+spreading online.”  Id. at 2.  None of the listed prior consistent actions reference the Defendant’s 
+enforcement of the Hateful Conduct Law.                                   
+    Plaintiff social media network Rumble objected in writing to the letter and demanded, in 
+response, that the Defendant rescind the letters on the grounds that they violated the terms of the 
+preliminary injunction.  Ortner Decl. Ex. D.  Defendant’s Office responded, noting their 
+“wholehearted[] disagree[ment]” with Plaintiffs’ analysis, and withdrew the letter because 
+“Rumble ha[d] already provided its content-moderation policies.”  Id. at Ex. E.   
+                        LEGAL STANDARD                                   
+    “A motion to enforce is an appropriate procedural vehicle for parties to seek compliance 
+with a court order.”  United States v. Visa U.S.A., Inc., 2007 U.S. Dist. LEXIS 42133, at *3 
+(S.D.N.Y. June 7, 2007) (citing Pena v. New York State Div. for Youth, 708 F.2d 877 (2d Cir. 
+
+1983)).  “[A] finding of contempt is not a prerequisite for enforcement.”  Id. (citing Berger v. 
+Heckler, 771 F.2d 1556, 1569 (2d Cir. 1985)).  “Although contempt standards may be 
+appropriate where sanctions are sought or imposed . . . such is not the case here.”  Id. (collecting 
+cases).  A movant seeking enforcement of a preliminary injunction must establish the non-
+movant’s failure to abide by the injunction by a preponderance of the evidence.  Id.; see also 
+United States SEC v. Collector's Coffee, Inc., 2022 U.S. Dist. LEXIS 24482, at *22 (S.D.N.Y. 
+Feb. 10, 2022) (“A motion to enforce may be granted where it is shown by a preponderance of 
+the evidence that a court order has been violated . . . and is granted even where there is no 
+finding that a party has acted contemptuously.”) (internal citations and quotation marks omitted). 
+                          DISCUSSION                                     
+
+    Plaintiffs’ have failed to show by a preponderance of the evidence that the Attorney 
+General has violated this Court’s prior injunction of enforcement of the Hateful Conduct Law.  
+The Hateful Conduct Law compels certain forms of non-commercial speech from social media 
+networks, grants the Attorney General investigative authority into potential violations, and 
+imposes civil penalties for those networks which fail to comply.  See Volokh I at 438.  By 
+granting Plaintiffs’ requested preliminary injunction against enforcement of the law, the Attorney 
+General was enjoined from taking any such action constituting the compulsion of speech, 
+initiation of coercive investigation, or seeking imposition of civil penalties.  The interrogatory 
+letters, by their own text, make no reference to the Hateful Conduct Law or its enforcement and 
+do not mandate any response at all or threaten the imposition of penalties for failure to respond.  
+What’s more, the issuance of such voluntary interrogatories falls within the ambit of authority 
+granted to the Attorney General by statutes outside of the Hateful Conduct Law. 
+I.  Whether the Interrogatory Letters Were Coercive                      
+
+    As Defendant argues, the interrogatory letters were voluntary and did not constitute 
+enforcement of the enjoined law.  Plaintiffs’ argument that response was not voluntary is 
+unconvincing.  In determining whether a public official’s speech is coercive, district courts must 
+consider the speech’s tone and content, Zieper v. Metzinger, 474 F.3d 60, 66 (2d Cir. 2007), 
+whether the official has “regulatory or other direct decisionmaking authority,” Okwedy v. 
+Molinari, 333 F.3d 339, 343 (2d Cir. 2003), whether the perceived threat had a “demonstrable” 
+impact, Rattner v. Netburn, 930 F.2d 204, 210 (2d Cir. 1991), and whether the speech “referred to 
+. . . adverse consequences that might be suffered.”  Hammerhead Enters. v. Brezenoff, 707 F.2d 
+33, 39 (2d Cir. 1983).  While government actors may express the policy positions which they 
+“plainly favor” and “s[eek] to convince . . . regulated entities” to pursue, that government speech 
+
+which is “written in an evenhanded, nonthreatening tone and employed words intended to 
+persuade rather than intimidate” does not constitute an attempt to coerce.  NRA of Am. v. Vullo, 
+49 F.4th 700, 717 (2d Cir. 2022) (internal citations omitted); see also id. (stating that a lack of 
+references “to any pending investigations or possible regulatory action” and allusions to de 
+minimis reputational “adverse consequences” are insufficient to constitute coercion).  So long as 
+“[t]he statements did not intimate that some form of punishment or adverse regulatory action 
+would follow the failure to accede to the request,” no coercion has occurred.  Id. (citing 
+Hammerhead Enters. v. Brezenoff, 707 F.2d 33, 39 (2d Cir. 1983)) (cleaned up).   
+    At the outset, the Court notes that it is “clearly the case” that the Attorney General has 
+regulatory authority over Plaintiffs.  Missouri v. Biden, 83 F.4th 350, 384 (5th Cir. 2023).  Of 
+course, that fact is not outcome-determinative.  See NRA of Am. v. Vullo, 49 F.4th 700, 717 (2d 
+Cir. 2022).  Nothing in the Attorney General’s statements to the press or statements contained 
+
+within the interrogatory letters makes any reference to adverse consequences.  Defendant makes 
+much of the press releases’ reference to Defendant’s “consistent[] . . . action[s] to hold social 
+media companies accountable and limit dangerous material from spreading online” but tellingly 
+fails to note that such actions are stated to include: (1) the advancement of legislation unrelated 
+to this present action, (2) leadership in a multistate coalition unrelated to this present action, (3) 
+the release of a report “on the role social media platforms played in the Buffalo mass shooting 
+and online extremism,” and (4) enrollment in a multistate coalition unrelated to this present 
+action.  Ortner Decl., Ex. C at 2-3.  These statements could not reasonably be read to constitute 
+threats of adverse consequences to Plaintiffs and those similarly situated akin to that 
+contemplated by the Hateful Conduct Law.                                  
+
+    The interrogatory letters similarly make no reference at all to any adverse consequences.  
+While the interrogatory letters themselves did ask recipients to describe certain policies in detail 
+within eight days of the letter’s issuance, they did not do so in a manner which indicated 
+“persisten[ce] [or] urgen[cy].”  Missouri v. Biden, 83 F.4th 350, 383 (5th Cir. 2023).  Plaintiff 
+does not allege that Defendant’s office sent any follow-ups to the interrogatories.  Rather, the 
+record establishes that Defendant rescinded the interrogatory letter upon Plaintiff Rumble’s 
+adversarial response.  ECF No. 49 at Ex. 8.                               
+    Plaintiffs’ attempts to construe the letters’ tone as “confrontational and aggressive” is 
+unsupported by the letters’ text.  Reply at 6.  Defendant expressly phrased the letters’ 
+interrogatories as a “request” rather than a demand or order.  Ortner Decl., Ex. A at 1.  The 
+letters’ statement that the Attorney General “would like to better understand” how networks are 
+“ensuring” that their platforms are “not being used to incite violence and further terrorist 
+activities” does not constitute an accusation that Plaintiffs are fostering such conduct.  Id.  
+
+Plaintiff also fails to make any allegation that the letters had any impact on the recipient social 
+media networks at all.  See Missouri v. Biden, 83 F.4th 350, 383 (5th Cir. 2023) (noting that “it is 
+more likely to be coercive if there is some evidence that the recipient's subsequent conduct is 
+linked to the official's message”).                                       
+II.  Whether the Attorney General Had Other Statutory Authority to Issue Such Letters 
+    Plaintiffs’ argument that the Attorney General had no other statutory authority under 
+which to issue these letters is also similarly unavailing.  Defendant’s opposition brief presents 
+several statutory grants of power under which the issuance of such letters might be permissible 
+including, but not limited to, N.Y. Exec. L. § 63(8), N.Y. Civ. R. L. § 79-n(3), N.Y. C.P.L.R. 
+§2302.  N.Y. Exec L. § 63(8) states, in relevant part, the following:     
+
+    Whenever in his judgment the public interest requires it, the attorney-general may, 
+    with the approval of the governor, and when directed by the governor, shall, 
+    inquire into matters concerning the public peace, public safety and public justice. . 
+    . . The attorney-general, his deputy, or other officer, designated by him, is 
+    empowered to subpoena witnesses, compel their attendance, examine them under 
+    oath before himself or a magistrate and require that any books, records, 
+    documents or papers relevant or material to the inquiry be turned over to him for 
+    inspection, examination or audit, pursuant to the civil practice law and rules. If a 
+    person subpoenaed to attend upon such inquiry fails to obey the command of a 
+    subpoena without reasonable cause, or if a person in attendance upon such inquiry 
+    shall, without reasonable cause, refuse to be sworn or to be examined or to answer 
+    a question or to produce a book or paper, when ordered so to do by the officer 
+    conducting such inquiry, he shall be guilty of a misdemeanor. It shall be the duty 
+    of all public officers, their deputies, assistants and subordinates, clerks and 
+    employees, and all other persons, to render and furnish to the attorney-general, his 
+    deputy or other designated officer, when requested, all information and assistance 
+    in their possession and within their power. . . . Any officer participating in such 
+    inquiry and any person examined as a witness upon such inquiry who shall 
+    disclose to any person other than the governor or the attorney-general the name of 
+    any witness examined or any information obtained upon such inquiry, except as 
+    directed by the governor or the attorney-general, shall be guilty of a misdemeanor. 
+    While the statute’s direct predecessor was enacted “because of [the] war emergency” 
+during World War I, the New York Court of Appeals has expressly stated on numerous occasions 
+that the statute’s applicability was “not[] either expressly or by implication[] limit[ed] . . . to a 
+time of war.”  In re Di Brizzi, 303 N.Y. 206, 214, 101 N.E.2d 464, 468 (1951).  Since its 
+enactment, the New York Court of Appeals has stated that § 63(8) permits the Attorney General 
+to issue subpoenas upon nursing home facilities due to, inter alia, “the State’s recognized 
+responsibility for the care of the elderly,” Friedman v. Hi-Li Manor Home for Adults, 42 N.Y.2d 
+408, 414, 397 N.Y.S.2d 967, 970, 366 N.E.2d 1322, 1325 (1977) (citing Sigety v. Hynes, 38 
+N.Y.2d 260, 379 N.Y.S.2d 724, 342 N.E.2d 518 (1975), as well as “an individual witness’ 
+testimony in relation to organized crime.”  N.Y. Republican State Comm. v. N.Y. State Com. on 
+Gov't Integrity, 138 Misc. 2d 790, 795, 525 N.Y.S.2d 527, 531 (Sup. Ct. 1988) (citing Friedman, 
+42 N.Y.2d at 414); see also In re Di Brizzi, 303 N.Y. 206.  While the state high court’s decision in 
+Friedman encouraged “the enactment of specific, ad hoc legislative authority for particular 
+
+inquiries,” rather than sweeping reliance upon § 63(8), 42 N.Y.2d at 414, the Court of Appeals 
+later clarified that these statements “suggested” a “preferable approach” and constituted dicta not 
+core to the Court’s prior ruling.  Landau v. Hynes, 49 N.Y.2d 128, 134, 424 N.Y.S.2d 380, 382, 
+400 N.E.2d 321, 323 (1979) (citing Friedman, 42. N.Y.2d at 414) (internal quotation marks 
+omitted).  Considering the weight of this precedent from the state high court, as well as 
+contemporaneous intermediate state court decisions construing the authorizing statute as “having 
+general application,” In re Carey, 68 A.D.2d 220, 224, 416 N.Y.S.2d 904, 907 (App. Div. 4th 
+Dept. 1979), Plaintiffs’ attempts to cabin the Attorney General’s authority under § 63(8) to that of 
+a “wartime emergency” power rings hollow.  Reply at 8; see also Sigety v. Abrams, 632 F.2d 969, 
+970 n.1 (2d Cir. 1980) (stating that § 63(8) “authorizes the attorney general to subpoena 
+witnesses and require production of documents relevant to . . . inquir[ies]” related to “the public 
+peace, public safety and public justice” without mention of any wartime constraints upon such 
+authority).                                                               
+
+    N.Y. Civ. R. L. § 79-n(3) of the New York Civil Rights Law states in relevant part: 
+    Whenever there shall be a violation of this section, an application may be made 
+    by the attorney general in the name of the people of the state of New York to a 
+    court or justice having jurisdiction for an injunction to enjoin and restrain the 
+    continuance of such activity. In connection with any such application, the attorney 
+    general is authorized to take proof and determine the relevant facts and to issue 
+    subpoenas in accordance with the civil practice law and rules.       
+         Plaintiffs, without citing to supporting statute or case law, argue that the Attorney 
+General’s issuance of voluntary interrogatory letters is impermissible under this grant of 
+authority because those letters fail to identify a person or specific instance of harassment being 
+investigated and does not utilize the statute’s language.  This Court is unable to identify any such 
+constraints upon the Attorney General’s authority vis-à-vis voluntary requests whether in the 
+statute’s text or elsewhere.  Rather, § 79-n(3)’s plain text grants the Attorney General authority to 
+issue such voluntary interrogatory letters.                               
+                          CONCLUSION                                     
+    Taken all together, the Attorney General has issued non-coercive interrogatory letters 
+pursuant to at least one independent statutory authority unrelated to the Hateful Conduct Law in 
+a manner which does not maintain any of the trappings constituting enforcement of the enjoined 
+law.  The Defendant has not compelled any speech or levied or threatened to levy penalties upon 
+the letters’ recipients.  For the reasons stated herein, the Court denies Plaintiffs’ motion to 
+enforce the preliminary injunction as to the Attorney General’s issuance of voluntary 
+interrogatory letters to regulated social media networks for failure to establish Defendant’s 
+failure to abide by this Court’s preliminary injunction by a preponderance of the evidence.  The 
+Court has considered the Parties’ remaining arguments and finds them insufficient to make the 
+requisite showing.  The Clerk of the Court is respectfully directed to terminate the motions at 
+ECF Nos. 44 and 45. 
+
+SO ORDERED. 
+Dated:   April 30, 2024                     [Ards   □ (hee 
+       New York, New York                                                  
+                                     ANDREW    CARTER, JR. 
+                                              United States District  Judge
+
+---
+
+UNITED STATES DISTRICT COURT                                              
+SOUTHERN DISTRICT OF NEW YORK                                             
+EUGENE VOLOKH, LOCALS                                                    
+TECHNOLOGY INC. and RUMBLE                                               
+CANADA INC.,                                                             
+                    Plaintiffs,                                          
+                                       22-CV-10195 (ALC)                 
+             -against-                                                   
+                                       OPINION AND ORDER                 
+LETITIA JAMES, in her official capacity as                               
+New York Attorney General,                                               
+                    Defendant.                                           
+ANDREW L. CARTER, JR., United States District Judge:                      
+    “Speech that demeans on the basis of race, ethnicity, gender, religion, age, disability, or 
+any other similar ground is hateful; but the proudest boast of our free speech jurisprudence is that 
+we protect the freedom to express ‘the thought that we hate.’”  Matal v. Tam, 137 S. Ct. 1744, 
+1764 (2017) (citations omitted).                                          
+    With the well-intentioned goal of providing the public with clear policies and mechanisms 
+to facilitate reporting hate speech on social media, the New York State legislature enacted N.Y. 
+Gen. Bus. Law § 394-ccc (“the Hateful Conduct Law” or “the law”).   Yet, the First Amendment 
+protects from state regulation speech that may be deemed “hateful” and generally disfavors 
+regulation of speech based on its content unless it is narrowly tailored to serve a compelling 
+governmental interest.  The Hateful Conduct Law both compels social media networks to speak 
+about the contours of hate speech and chills the constitutionally protected speech of social media 
+users, without articulating a compelling governmental interest or ensuring that the law is narrowly 
+tailored to that goal.  In the face of our national commitment to the free expression of speech, even 
+where  that  speech  is  offensive  or  repugnant,  Plaintiffs’  motion  for  preliminary  injunction, 
+prohibiting enforcement of the law, is GRANTED.                           
+                            BACKGROUND                                   
+ I.  Factual Background                                                  
+
+    The following facts are drawn from the Complaint, Plaintiffs’ declaration in support of 
+their motion for preliminary injunction, and Defendant’s declaration in opposition to the motion, 
+and the documents relied upon therein.                                    
+      A.  The Plaintiffs                                                 
+    Plaintiffs  Eugene  Volokh  (“Volokh”),  Rumble  Canada  Inc.  (“Rumble”)  and  Locals 
+Technology Inc. (“Locals”) operate online platforms that they believe are subject to the law as a 
+“social medial network” as defined by the law.  Plaintiff Volokh is a California resident and the 
+co-owner and operator of the Volokh Conspiracy, a legal blog.  (Compl., ECF No. 1 ¶ 12.)  Plaintiff 
+Rumble, headquartered in Toronto, Canada, operates a website “similar to YouTube” which 
+“allows independent creators to upload and share video content”.  (Id. ¶ 13.)  Rumble has a “pro-
+
+free speech purpose” and its “mission [is] ‘to protect a free and open internet’ and to ‘create 
+technologies that are immune to cancel culture.’’  (Id.)  Plaintiff Locals is a subsidiary of Rumble 
+Inc. and operates a website that allows “creators to communicate and share content directly with 
+unpaid and paid subscribers.”  (Id. ¶ 14.)  Locals also has a stated “pro-free speech purpose” and 
+a “mission of being ‘committed to fostering a community that is safe, respectful, and dedicated to 
+the free exchange of ideas.’”  (Id.)                                      
+      B.  The Buffalo Mass Shooting                                      
+    On May 14, 2022, an avowed white supremacist used Twitch, a social media platform, to 
+livestream himself perpetrating a racially motivated mass shooting on Black shoppers at a grocery 
+store in Buffalo, New York.  (Sawyer Decl., ECF No. 20 ¶ 4; id., Ex. A, ECF No. 20-1 at 34.)  The 
+attack left ten people dead and three wounded.  (Id.)  Shortly thereafter, a recording of the mass 
+shooting “went viral” and was re-posted on several websites, including 4chan and Reddit.  (Id.)  A 
+manifesto expressing the shooter’s racist ideology was also shared on social media.  (Id. at 15–16, 
+
+34.)                                                                      
+    In response to the mass shooting, Governor Kathy Hochul issued a referral letter to the 
+Office of the Attorney General (“OAG”), directing it to investigate the events surrounding the 
+shooting, focusing on “the specific online platforms that were used to broadcast and amplify the 
+acts and intentions of the mass shooting[.]”  (Id. at 6; Compl., ECF No. 1 ¶ 38.)  Governor Hochul 
+also directed the OAG to “investigate various online platforms for ‘civil or criminal liability for 
+their role in promoting, facilitating, or providing a platform to plan or promote violence.”  (Id.) 
+    On October 18, 2022, the OAG released a report detailing its findings.  (Sawyer Decl., ECF 
+No. 20 ¶ 3.)  In the associated press release, Defendant stated that “[o]nline platforms should be 
+held accountable for allowing hateful and dangerous content to spread on their platforms” because 
+
+an alleged “lack of oversight, transparency, and accountability of these platforms allows hateful 
+and extremist views to proliferate online.”  (Compl., ECF No. 1 ¶ 3.)     
+      C. The Hateful Conduct Law                                         
+    The Hateful Conduct Law, entitled “Social media networks; hateful conduct prohibited” 
+went into effect on December 3, 2022.  The law applies to “Social media network(s)”1, and defines 
+“Hateful conduct” as:                                                     
+
+1“Social media network” is defined as “service providers, which, for profit-making purposes, 
+operate internet platforms that are designed to enable users to share any content with other users 
+or to make such content available to the public.”  N.Y. Gen. Bus. Law § 394-ccc(1)(b).  
+Defendant does not challenge Plaintiffs’ assertion that they have standing to sue, but Defendant 
+reserves the right to do so in the future.  (Def.’s Opp’n, ECF No. 21 at 6, n.3.) 
+         “[T]he use of a social media network to vilify, humiliate, or incite 
+         violence against a group or a class of persons on the basis of race, 
+         color,  religion,  ethnicity,  national  origin,  disability,  sex,  sexual 
+         orientation, gender identity or gender expression.”             
+
+N.Y. Gen. Bus. Law § 394-ccc(1)(a).  Thus, the Hateful Conduct Law requires that social media 
+networks create a complaint mechanism for three types of “conduct”: (1) conduct that vilifies; 
+(2) conduct that humiliates; and (3) conduct that incites violence.  (Id.)  This “conduct” falls within 
+the law’s definition if it is aimed at an individual or group based on their “race”, “color”, “religion”, 
+“ethnicity”, “national origin”, “disability”, “sex”, “sexual” orientation”, “gender identity” or 
+“gender expression”.  Id.                                                 
+    The Hateful Conduct Law has two main requirements: (1) a mechanism for social media 
+users to file complaints about instances of “hateful conduct” and (2) disclosure of the social media 
+network’s policy for how it will respond to any such complaints.  First, the law requires a social 
+media network to “provide and maintain a clear and easily accessible mechanism for individual 
+users to report incidents of hateful conduct.”  This mechanism must “be clearly accessible to users 
+of such network and easily accessed from both a social media networks’ application and website. 
+. . .” and must “allow the social media network to provide a direct response to any individual 
+reporting hateful conduct informing them of how the matter is being handled.”  N.Y. Gen. Bus. 
+Law § 394-ccc(2).                                                         
+    Second, a social media network must “have a clear and concise policy readily available 
+and accessible on their website and application. . . ”  N.Y. Gen. Bus. Law § 394-ccc(3).  This 
+policy must “include[] how such social media network will respond and address the reports of 
+incidents of hateful conduct on their platform.”  N.Y. Gen. Bus. Law § 394-ccc(3). 
+    The law also empowers the Attorney General to investigate violations of the law and 
+provides for civil penalties for social media networks which “knowingly fail[] to comply” with the 
+requirements.  N.Y. Gen. Bus. Law § 394-ccc(5).                           
+ II. Procedural History                                                  
+
+    This action was commenced by Plaintiffs on December 1, 2022.  (Compl., ECF No. 1.)  
+The Complaint alleges both facial and as-applied challenges to the Hateful Conduct Law, arguing 
+that it violates the First Amendment because it: (1) is a content and viewpoint-based regulation of 
+speech; (2) is overbroad; and (3) is void for vagueness.  (See generally id.)  Plaintiffs also allege 
+that the law is preempted by the Communications Decency Act, 47 U.S.C. § 230.  (Id.) 
+    Plaintiffs filed their motion for preliminary injunction on December 6, 2022, arguing that 
+(1) Plaintiffs have a well-founded fear that the law will be enforced against their online platforms 
+and (2) they are likely to prevail on the merits because the law burdens and compels speech, is 
+overbroad, void for vagueness, and preempted by the Communications Decency Act.  (Mot., ECF 
+No. 8; see generally Pl.’s Mem., ECF No. 9.)  Defendant filed a memorandum in opposition on 
+
+December 13, 2022, arguing that Plaintiffs are unlikely to succeed on the merits of their claims 
+because, inter alia, the law does not target protected expression based on content or viewpoint, is 
+not substantially overbroad or vague, and is not preempted.  (See generally Def.’s Opp’n, ECF No. 
+21.)                                                                      
+    The Court heard oral argument on the motion on December 19, 2022.  (See Dec. 19, 2022 
+“Tr.”, ECF No. 27.)                                                       
+                       LEGAL STANDARD                                    
+    To obtain a preliminary injunction, the movant must show “a likelihood of success on the 
+merits, a likelihood of irreparable harm in the absence of preliminary relief, that the balance of 
+equities tips in the party’s favor, and that an injunction is in the public interest.”  ACLU v. Clapper, 
+804 F.3d 617, 622 (2d Cir. 2015) (citing Winter v. NRDC, 555 U.S. 7, 20 (2008)).  However, “a 
+preliminary injunction is an extraordinary and drastic remedy, one that should not be granted 
+unless the movant, by a clear showing, carries the burden of persuasion.”  Sussman v. Crawford, 
+
+488 F.3d 136, 139 (2d Cir. 2007); see also Anwar v. Fairfield Greenwich Ltd., 728 F. Supp. 2d 
+462, 472 (S.D.N.Y. 2010) (“Temporary restraining orders and preliminary injunctions are among 
+the most drastic tools in the arsenal of judicial remedies, and must be used with great care.”) 
+(internal citations omitted).                                             
+                          DISCUSSION                                     
+ I.  Irreparable Harm                                                    
+    Although a showing of irreparable harm is typically the “single most important prerequisite 
+for the issuance of a preliminary injunction,” Faiveley Transp. Malmo AB v. Wabtec Corp., 559 
+F.3d  110,  118  (2d  Cir.  2009)  (citation  omitted),  “[c]onsideration  of  the  merits  is  virtually 
+indispensable in the First Amendment context, where the likelihood of success on the merits is the 
+
+dominant, if not the dispositive, factor.”  N.Y. Progress and Prot. PAC v. Walsh, 733 F.3d 483, 
+488 (2d Cir. 2013).  Accordingly, the Court’s analysis will focus on the second prong of the 
+preliminary injunction analysis.                                          
+ II. Likelihood of Success on the Merits                                 
+    Where, as is the case here, the injunction being sought will provide the plaintiff with 
+substantially all the relief sought in the complaint, the plaintiff must demonstrate a “clear or 
+substantial likelihood of success on the merits.”  Yang v. Kosinski, 960 F.3d 119, 127–28 (2d Cir. 
+2020) (internal citations and quotations omitted).                        
+    For the reasons set out more fully below, the Court finds that Plaintiffs have demonstrated 
+a substantial likelihood of success on the merits of their First Amendment claims, but not on their 
+preemption claim.                                                         
+      A.  Plaintiffs’ As-Applied First Amendment Challenge               
+
+         i.   The Legal Framework for the First Amendment                
+    “The First Amendment generally prevents government from proscribing speech…or even 
+expressive conduct…because of disapproval of the ideas expressed.  R.A.V. v. City of St. Paul, 
+Minn.,  505  U.S.  377,  382  (1992)  (internal  citations  and  quotations  omitted).    “The  First 
+Amendment reflects “a profound national commitment to the principle that debate on public issues 
+should be uninhibited, robust, and wide-open.”  Snyder v. Phelps, 562 U.S. 443, 452 (2011).  Thus, 
+as is relevant to the current facts, “[a]s a Nation we have chosen . . . to protect even hurtful speech 
+on public issues to ensure that we do not stifle public debate.”  Id. at 461.  This protection extends 
+to speech which the government may seek to limit because it is offensive or insulting.  See R.A.V, 
+505 U.S. at 391 (“The First Amendment does not permit [the government] to impose special 
+
+prohibitions on those speakers who express views on disfavored subjects.”)  Even regulations that 
+seek to regulate speech “that insult[s], or provoke[s] violence, on the basis of race, color, creed, 
+religion, or gender” have been found to run afoul of the First Amendment because they constitute 
+content and viewpoint-based regulation of protected speech.  Id. at 391–92. 
+    In evaluating whether a regulation violates the First Amendment, courts “distinguish 
+between content-based and content-neutral regulations of speech.”  Id.  “Content-based laws—
+those that target speech based on its communicative content—are presumptively unconstitutional 
+and may be justified only if the government proves that they are narrowly tailored to serve 
+compelling  state  interests.”    Reed  v.  Town  of  Gilbert,  Ariz.,  576  U.S.  155,  163  (2015).  
+“Government regulation of speech is content based if a law applies to particular speech because of 
+the topic discussed or the idea or message expressed.”  Id.  Additionally, when “a state compels 
+an individual to speak a particular message, the state alters the content of their speech, and engages 
+in content-based regulation.”  CompassCare v. Cuomo, 465 F. Supp. 3d 122, 155 (N.D.N.Y. 2020) 
+
+(quoting Nat’l Inst. of Fam. & Life Advocs. v. Becerra, 138 S. Ct. 2361, 2371 (2018) (“NIFLA”) 
+(internal quotations and alterations omitted)).                           
+         ii.  Whether the Hateful Conduct Law Compels Speech             
+    Plaintiffs argue that the law regulates the content of their speech by compelling them to 
+speak on an issue on which they would otherwise remain silent.  (Pl.’s Mem., ECF No. 9 at 12; 
+Tr., ECF No. 27 at 47:5–13.)  Defendant argues that the law regulates conduct, as opposed to 
+speech, because there is no requirement for how a social media network must respond to any 
+complaints and because the law does not even require the network to specifically respond to a 
+complaint of hateful content.  (Def.’s Opp’n, ECF No. 21 at 9.)  Instead, the law merely requires 
+that the complaint mechanism allows the network to respond, if that is the social media network’s 
+
+policy.  (Tr., ECF No. 27 at 11:25–1212:4.)                               
+    Defendant likens the Hateful Conduct Law to the regulation upheld in Restaurant Law Ctr. 
+v. City of New York, which required fast-food employers to set up a mechanism for their employees 
+to donate a portion of their paychecks to a non-profit of that employee’s choosing.  360 F. Supp. 
+3d 192 (S.D.N.Y. 2019).  The court found that this did not constitute “speech”—nor did it 
+constitute  “compelled  speech”—noting  that  the  “ministerial  act”  of  administering  payroll 
+deductions on behalf of their employees did not constitute speech for the employers.  Id. at 214.  
+As such, the court applied rational basis review and found that the regulation passed muster.  Id. 
+at 221.                                                                   
+    However, those facts are not applicable here.  The Hateful Conduct Law does not merely 
+require that a social media network provide its users with a mechanism to complain about instances 
+of “hateful conduct”.  The law also requires that a social media network must make a “policy” 
+available on its website which details how the network will respond to a complaint of hateful 
+
+content.  In other words, the law requires that social media networks devise and implement a 
+written policy—i.e., speech.                                              
+    For this reason, the Hateful Conduct Law is analogous to the state mandated notices that 
+were found not to withstand constitutional muster by the Supreme Court and the Second Circuit: 
+NIFLA and Evergreen.  In NIFLA, the Supreme Court found that plaintiffs—crisis pregnancy 
+centers opposing abortion—were likely to succeed on the merits of their First Amendment claim 
+challenging a California law requiring them to disseminate notices stating the existence of family-
+planning services (including abortions and contraception).  NIFLA, 138 S. Ct. at 2371.  The Court 
+emphasized that “[b]y compelling individuals to speak a particular message, such notices ‘alte[r] 
+the content of [their] speech.’”  Id. (quoting Riley v. National Federation of Blind of N. C., Inc., 
+
+487 U.S. 781, 795 (1988)).  Likewise, in Evergreen, the Second Circuit held that a state-mandated 
+disclosure requirement for crisis pregnancy centers impermissibly burdened the plaintiffs’ First 
+Amendment rights because it required them to “affirmatively espouse the government’s position 
+on a contested public issue….”  Ass’n, Inc. v. City of New York, 740 F.3d 233, 250 (2d Cir. 2014) 
+(quoting Alliance for Open Soc’y Int’l, Inc. v. U.S. Agency for Int’l Dev., 651 F.3d 218, 236 (2d 
+Cir. 2011), aff'd, 570 U.S. 205 (2013)).                                  
+    Similarly, the Hateful Conduct Law requires a social media network to endorse the state’s 
+message about “hateful conduct”.  To be in compliance with the law’s requirements, a social media 
+network must make a “concise policy readily available and accessible on their website and 
+application” detailing how the network will “respond and address the reports of incidents of hateful 
+conduct on their platform.”  N.Y. Gen. Bus. Law § 394-ccc(3).  Implicit in this language is that 
+each social media network’s definition of “hateful conduct” must be at least as inclusive as the 
+definition set forth in the law itself.  In other words, the social media network’s policy must define 
+
+“hateful conduct” as conduct which tends to “vilify, humiliate, or incite violence” “on the basis of 
+race, color, religion, ethnicity, national origin, disability, sex, sexual orientation, gender identity 
+or gender expression.”  N.Y. Gen. Bus. Law § 394-ccc(1)(a).  A social media network that devises 
+its own definition of “hateful conduct” would risk being in violation of the law and thus subject to 
+its enforcement provision.                                                
+    The gap between the state’s definition of “hateful conduct” and other potential definitions 
+is illustrated by Plaintiffs’ own current content moderation policies.  For instance, Rumble reserves 
+the right to unilaterally remove any content that it deems is:            
+         “a) is illegal; b) is pornographic, obscene, or of an adult or sexual 
+         nature; c) is grossly offensive to the online community, including 
+         but not limited to, racism, anti-semitism and hatred; d) supports or 
+         incites violence or unlawful acts; e) supports groups that support or 
+         incite  violence  or  unlawful  acts;  or  f)  promotes  terrorist 
+         organizations.”                                                 
+
+(Compl., ECF No. 1 ¶ 116 (internal quotations omitted).)  The policy does not explicitly pertain to 
+content that vilifies or humiliates, as is defined in the law, and does not explicitly apply to content 
+aimed at a person or group’s “religion”, “disability”, “sexual orientation” or “gender expression”, 
+as is expressly enumerated in the Hateful Conduct Law.  For Rumble to be in compliance with the 
+law, it would need to publish a policy expressly indicating that its users have a mechanism to 
+complain about the “hateful conduct” as defined by the Hateful Conduct Law, not removable 
+content as defined by Rumble.                                             
+    Likewise, Locals’ website identifies a few categories of content that it may remove from 
+its website, including content that “threatens violence against an individual or group of people.”  
+(Id. ¶ 133.)  However, this policy also does not encapsulate the classes of groups or persons to 
+whom “hateful conduct” may be directed as is defined by the New York legislature, and it would 
+
+need to be modified to be brought into compliance with the law by including speech that potentially 
+vilifies or humiliates a group or individual.  To be in compliance with the law, Locals would need 
+to publish a policy detailing the types of content its users are entitled to complain about through 
+the new mechanism—i.e., “hateful conduct” as defined by the law—thus compelling Locals to 
+endorse the state’s definition of that term.                              
+    Clearly, the law, at a minimum, compels Plaintiffs to speak about “hateful conduct”.  As 
+Plaintiffs  note,  this  compulsion  is  particularly  onerous  for  Plaintiffs,  whose  websites  have 
+dedicated “pro-free speech purpose[s]” (Compl., ECF No. 1 ¶¶ 13, 14), which likely attract users 
+who are “opposed to censorship” (Pl.’s Mem., ECF No. 9 at 24).  Requiring Plaintiffs to endorse 
+the state’s definition of “hateful conduct”, forces them to weigh in on the debate about the contours 
+
+of hate speech when they may otherwise choose not to speak.  In other words, the law, “deprives 
+Plaintiffs of their right to communicate freely on matters of public concern” without state coercion.  
+Evergreen,740 F.3d at 250.                                                
+    Additionally, Plaintiffs have an editorial right to keep certain information off their websites 
+and to make decisions as to the sort of community they would like to foster on their platforms.  It 
+is well-established that a private entity has an ability to make “choices about whether, to what 
+extent, and in what manner it will disseminate speech…”  NetChoice, LLC v. Att’y Gen., Fla., 34 
+F.4th 1196, 1210 (11th Cir. 2022).  These choices constitute “editorial judgments” which are 
+protected by the First Amendment.  Id. (collecting cases).  In Pacific Gas & Electric Co. v. Public 
+Utilities Commission of California, the Supreme Court struck down a regulation that would have 
+forced a utility company to include information about a third party in its billing envelopes because 
+the regulation “require[d] appellant to use its property as a vehicle for spreading a message with 
+which it disagrees.”  475 U.S. 1, 17 (1986).                              
+
+    Here, the Hateful Conduct Law requires social media networks to disseminate a message 
+about the definition of “hateful conduct” or hate speech—a fraught and heavily debated topic 
+today.  Even though the Hateful Conduct Law ostensibly does not dictate what a social media 
+website’s response to a complaint must be and does not even require that the networks respond to 
+any complaints or take down offensive material, the dissemination of a policy about “hateful 
+conduct” forces Plaintiffs to publish a message with which they disagree.  Thus, the Hateful 
+Conduct Law places Plaintiffs in the incongruous position of stating that they promote an explicit 
+“pro-free speech” ethos, but also requires them to enact a policy allowing users to complain about 
+“hateful conduct” as defined by the state.                                
+         iii.  Whether the Hateful Conduct Law Compels Commercial Speech 
+
+    In the alternative, Defendant argues that even if the law is found to regulate speech, it only 
+regulates commercial speech and should thus be subject to a lesser standard of review.  (Def.’s 
+Opp’n, ECF No. 21 at 9, 12–13.)  Defendant characterizes the law’s requirement that social media 
+networks publish a policy as “a truthful disclosure of fact” that is only subject to rational basis 
+review.  (Tr., ECF No. 27 at 44:7–8.)  Defendant likens the Hateful Conduct Law’s policy 
+requirement to other regulations upheld by the Second Circuit requiring (1) chain restaurants to 
+post calorie content information for their menu items, New York State Rest. Ass’n v. New York City 
+Bd. of Health, 556 F.3d 114, 137 (2d Cir. 2009), and (2) lightbulb manufacturers to disclose the 
+mercury content in their products, Nat’l Elec. Mfrs. Ass’n v. Sorrell, 272 F.3d 104, 116 (2d Cir. 
+2001).                                                                    
+    In general, laws regulating commercial speech are subject to a lesser standard of scrutiny.  
+N.Y. State Rest. Ass’n v. New York City Bd. of Health, No. 08-CV-1000(RJH), 2008 WL 1752455, 
+
+at *6 (S.D.N.Y. Apr. 16, 2008), aff'd, 556 F.3d 114 (2d Cir. 2009) (citing Nat’l Elec. Mfrs. Ass’n 
+v. Sorrell, 272 F.3d 104, 113 (2d Cir. 2001)).  The Supreme Court has articulated two definitions 
+of what constitutes commercial speech.  First, speech is considered to be commercial when it 
+“‘does no more than propose a commercial transaction.’”  Conn. Bar Ass’n v. United States, 620 
+F.3d 81, 93 (2d Cir. 2010) (quoting Bolger v. Youngs Drug Prods. Corp., 463 U.S. 60, 66 (1983)).  
+Second, “commercial speech [constitutes] ‘expression related solely to the economic interests of 
+the speaker and its audience.’”  Conn. Bar Ass’n, 620 F.3d at 94 (quoting Cent. Hudson Gas & 
+Elec. Corp. v. Pub. Serv. Comm’n of New York, 447 U.S. 557, 561 (1980)).  Commercial speech 
+is generally subject to intermediate scrutiny, Safelite Grp., Inc. v. Jepsen, 764 F.3d 258, 261 (2d 
+Cir. 2014); however, where the commercial speech conveys “purely factual and uncontroversial” 
+
+information, courts apply rational basis review.  New York State Rest. Ass’n v. New York City Bd. 
+of Health, 556 F.3d 114, 132 (2d Cir. 2009) (citing Nat’l Elec. Mfrs. Ass’n, 272 F.3d at 114–15). 
+    The policy disclosure at issue here does not constitute commercial speech and conveys 
+more than a “purely factual and uncontroversial” message.  The law’s requirement that Plaintiffs 
+publish their policies explaining how they intend to respond to hateful content on their websites 
+does not simply “propose a commercial transaction”.  Nor is the policy requirement “related solely 
+to the economic interests of the speaker and its audience.”  Rather, the policy requirement compels 
+a social media network to speak about the range of protected speech it will allow its users to engage 
+(or not engage) in.  Plaintiffs operate websites that are directly engaged in the proliferation of 
+speech—Volokh operates a legal blog, whereas Rumble and Locals operate platforms where users 
+post video content and comment on other users’ videos.                    
+    The “lodestars in deciding what level of scrutiny to apply to a compelled statement must 
+be the nature of the speech taken as a whole and the effect of the compelled statement thereon.”  
+
+Riley v. Nat’l Fed’n of the Blind of N. Carolina, Inc., 487 U.S. 781, 796 (1988).  Where speech is 
+“inextricably intertwined with otherwise fully protected speech”, it does not retain any of its 
+potential commercial character.  Id.  Here, the law clearly implicates protected speech—namely 
+hate speech—by requiring a disclosure of the Plaintiffs’ policy for responding to complaints of 
+hateful content.  This is different in character and kind from commercial speech and amounts to 
+more than mere disclosure of factual information, such as caloric information or mercury content, 
+as Defendant tries to equate.                                             
+         iv.  Whether the Hateful Conduct Law Survives Strict Scrutiny   
+
+    Because the Hateful Conduct Law regulates speech based on its content, the appropriate 
+level of review is strict scrutiny.  See Evergreen, 740 F.3d at 244.  To satisfy strict scrutiny, a law 
+must be “narrowly tailored to serve a compelling governmental interest.”  Amidon v. Student Ass’n 
+of State Univ. of New York at Albany, 508 F.3d 94, 96 (2d Cir. 2007).  A statute is not narrowly 
+tailored if “a less restrictive alternative would serve the Government’s purpose.”  United States v. 
+Playboy Entm’t Grp., Inc., 529 U.S. 803, 813, (2000).                     
+    Plaintiffs argue that limiting the free expression of protected speech is not a compelling 
+state interest and that the law is not narrowly tailored.  While Defendant concedes that the Hateful 
+Conduct Law may not be able to withstand strict scrutiny, she maintains that the state has a 
+compelling interest in preventing mass shootings, such as the one that took place in Buffalo.  (Tr., 
+ECF No. 27 at 45:1–15.)                                                   
+    Although preventing and reducing the instances of hate-fueled mass shootings is certainly 
+a compelling governmental interest, the law is not narrowly tailored toward that end.2  Banning 
+conduct that incites violence is not protected by the First Amendment3, but this law goes far 
+beyond that.                                                              
+
+    While the OAG Investigative Report does make a link between misinformation on the 
+internet and the radicalization of the Buffalo mass shooter (Sawyer, Decl., Ex. A, ECF No. 20-1 
+at 23–26), even if the law was truly aimed at reducing the instances of hate-fueled mass shootings, 
+the law is not narrowly tailored toward reaching that goal.  It is unclear what, if any, effect a 
+mechanism that allows users to report hateful conduct on social media networks would have on 
+reducing mass shootings, especially when the law does not even require that social media networks 
+affirmatively respond to any complaints of “hateful conduct”.  In other words, it is hard to see how 
+the law really changes the status quo—where some social media networks choose to identify and 
+remove hateful content and others do not.                                 
+
+
+2 The memorandum in support of the legislation that was presented to the New York State 
+Assembly ahead of the floor debate lists the justification for the law as “concerns about 
+misinformation that is spread on social media networks.”  (Sawyer Decl., Ex. C, ECF No. 20-3.)  
+While the law was enacted in the wake of the Buffalo mass shooting, the original iteration of the 
+bill was drafted in the wake of the events of January 6, 2021 (Compl., ECF No. 1 ¶ 30; Sawyer 
+Decl., Ex. D, ECF No. 20-4 at 182–183), further suggesting that the law is really aimed at 
+misinformation on the internet.  However, the First Amendment’s shielding of hate speech from 
+regulation means that a state’s desire to reduce this type of speech from the public discourse 
+cannot be a compelling governmental interest                              
+
+3 The Supreme Court has held that speech that consists of “fighting words” and speech that 
+incites violence or lawlessness are not protected by the First Amendment.  Chaplinsky v. New 
+Hampshire, 315 U.S. 568, 572 (1942); Brandenburg v. Ohio, 395 U.S. 444, 447 (1969).  For 
+speech to incite violence, “there must be ‘evidence or rational inference from the import of the 
+language, that [the words in question] were intended to produce, and likely to produce, 
+imminent’ lawless action.”  Am. Freedom Def. Initiative v. Metro. Transp. Auth., 70 F. Supp. 3d 
+572, 581 (S.D.N.Y. 2015), vacated on other grounds, 109 F. Supp. 3d 626 (S.D.N.Y. 2015) 
+(citations omitted).  The Hateful Conduct law’s ban on speech that incites violence is not limited 
+to speech that is likely to produce imminent lawless action.              
+    Accordingly, for the reasons stated above, the Court finds that Plaintiffs have demonstrated 
+a substantial likelihood of success on their as applied First Amendment challenges to the Hateful 
+Conduct Law.                                                              
+      B.  Plaintiffs’ Facial First Amendment Challenges                  
+
+    Plaintiffs argue that the Hateful Conduct Law “is overbroad because it applies to a 
+substantial amount of protected speech, especially compared to its nonexistent or minimal lawful 
+application” and is unconstitutionally vague.  (Pls.’ Mem., ECF No. 9 at 17–20.)  In response, 
+Defendant argues that Plaintiffs have not demonstrated that the law would chill protected speech 
+and that the operative terms of the law are clear and defined. (Def.’s Opp’n., ECF No. 21 at 18–
+23.)                                                                      
+    Both the Supreme Court and the Second Circuit have recognized that “[a]lthough facial 
+challenges are generally disfavored, they are more readily accepted in the First Amendment 
+context.”  Picard v. Magliano, 42 F.4th 89, 101 (2d Cir. 2022) (quoting Beal v. Stern, 184 F.3d 
+117, 125 (2d Cir. 1999)).  Although facial invalidation of a statute is a “strong medicine” that 
+
+should be applied “sparingly and only as a last resort”, Hobbs v. Cnty. of Westchester, 397 F.3d 
+133, 155 (2d Cir. 2005) (quoting FCC v. Pacifica Foundation, 438 U.S. 726, 743 (1978)); see also 
+Am. Booksellers Found. v. Dean, 342 F.3d 96, 105 (2d Cir. 2003), a court may consider a facial 
+overbreadth claim where a plaintiff has established that there are no set of circumstances under 
+which the challenged statute could be valid or that the challenged statute “lacks any plainly 
+legitimate sweep.”  Picard, 42 F.4th at 101 (quoting United States v. Stevens, 559 U.S. 460, 472 
+(2010)).                                                                  
+    “It is established that the courts may, as an exception to ordinary standing requirements, 
+entertain a claim that a law, even if constitutional as applied to the claimant, is so broad that it 
+“may inhibit the constitutionally protected speech of third parties[.]”  Hobbs, 397 F.3d at 155.  
+“The purpose of an overbreadth challenge is to prevent the chilling of constitutionally protected 
+conduct, as prudent citizens will avoid behavior that may fall within the scope of a prohibition, 
+even if they are not entirely sure whether it does.”  Farrell v. Burke, 449 F.3d 470, 499 (2d Cir. 
+
+2006).  “[T]he overbreadth of a statute must not only be real, but substantial as well, judged in 
+relation to the statute’s plainly legitimate sweep.”  Id. (quoting Broadrick v. Oklahoma, 413 U.S. 
+601, 615 (1973)).  “When a court finds that a statute suffers from such substantial overbreadth, all 
+enforcement of the statute is generally precluded.”  Am. Booksellers Found., 342 F.3d at 104. 
+    As the Court has already discussed, the law is clearly aimed at regulating speech.  Social 
+media websites are publishers and curators of speech, and their users are engaged in speech by 
+writing, posting, and creating content.  Although the law ostensibly is aimed at social media 
+networks, it fundamentally implicates the speech of the networks’ users by mandating a policy and 
+mechanism by which users can complain about other users’ protected speech.    
+    Moreover, the Hateful Conduct law is a content based regulation.  The law requires that 
+
+social media networks develop policies and procedures with respect to hate speech (or “hateful 
+conduct” as it is recharacterized by Defendant).  As discussed, the First Amendment protects 
+individuals’ right to engage in hate speech, and the state cannot try to inhibit that right, no matter 
+how unseemly or offensive that speech may be to the general public or the state.  See Matal, 137 
+S. Ct. at 1764; see also R.A.V., 505 U.S. at 391.  Thus, the Hateful Conduct Law’s targeting of 
+speech that “vilifi[es]” or “humili[ates”] a group or individual based on their “race, color, religion, 
+ethnicity, national origin, disability, sex, sexual orientation, gender identity or gender expression” 
+N.Y. Gen. Bus. Law § 394-ccc(1)(a), clearly implicates the protected speech of social media users.   
+    This could have a profound chilling effect on social media users and their protected 
+freedom of expression.  Even though the law does not require social media networks to remove 
+“hateful conduct” from their websites and does not impose liability on users for engaging in 
+“hateful conduct”, the state’s targeting and singling out of this type of speech for special measures 
+
+certainly could make social media users wary about the types of speech they feel free to engage in 
+without facing consequences from the state.  This potential wariness is bolstered by the actual title 
+of the law— “Social media networks; hateful conduct prohibited” —which strongly suggests that 
+the law is really aimed at reducing, or perhaps even penalizing people who engage in, hate speech 
+online.  As Plaintiffs noted during oral argument, one can easily imagine the concern that would 
+arise if the government required social media networks to maintain policies and complaint 
+mechanisms for anti-American or pro-American speech.  (Tr., ECF No. 27 at 29:2.)  Moreover, 
+social media users often gravitate to certain websites based on the kind of community and content 
+that is fostered on that particular website.  Some social media websites—including Plaintiffs’—
+intentionally foster a “pro-free speech” community and ethos that may become less appealing to 
+
+users who intentionally seek out spaces where they feel like they can express themselves freely. 
+    The potential chilling effect to social media users is exacerbated by the indefiniteness of 
+some of the Hateful Conduct Law’s key terms.  It is not clear what the terms like “vilify” and 
+“humiliate” mean for the purposes of the law.  While it is true that there are readily accessible 
+dictionary definitions of those words, the law does not define what type of “conduct” or “speech” 
+could be encapsulated by them.  For example, could a post using the hashtag “BlackLivesMatter” 
+or “BlueLivesMatter” be considered “hateful conduct” under the law?  Likewise, could social 
+media posts expressing anti-American views be considered conduct that humiliates or vilifies a 
+group based on national origin?  It is not clear from the face of the text, and thus the law does not 
+put social media users on notice of what kinds of speech or content is now the target of government 
+regulation.                                                               
+     Accordingly, because the Hateful Conduct Law appears to “reach[…] a substantial amount 
+of constitutionally protected conduct”, Farrell, 449 F.3d at 496 (quoting Kolender v. Lawson, 461 
+
+U.S. 352, 358 n.8 (1983)), the Court finds that Plaintiffs have demonstrated a likelihood of success 
+on their facial challenges under the First Amendment.4                    
+      C.  Preemption Under Section 230 of the Communications Decency Act 
+    Lastly, Plaintiffs allege that the Hateful Conduct Law is preempted by Section 230 of the 
+Communications Decency Act because it imposes liability on websites by treating them as 
+publishers.  (Pl.’s Mem., ECF No. 9 at 20–⁠21.)                           
+    The Communications Decency Act provides that “[n]o provider or user of an interactive 
+computer service shall be treated as the publisher or speaker of any information provided by 
+another information content provider.”  47 U.S.C. § 230(c)(1); see also Ricci v. Teamsters Union 
+Loc. 456, 781 F.3d 25, 27 (2d Cir. 2015).  The Act has an express preemption provision which 
+
+states that “[n]o cause of action may be brought and no liability may be imposed under any State 
+or local law that is inconsistent with this section.”  47 U.S.C. § 230(e)(3). 
+
+
+
+4 The Court also finds that severing parts of the law would not serve to save the entire statute.  
+As stated in footnote four, while speech that incites violence is not protected by the First 
+Amendment, whether speech does in fact incite violence is a fact-based inquiry.  See Am. 
+Freedom Def. Initiative, 70 F. Supp. 3d at 581 (For speech to incite violence, “there must be 
+‘evidence or rational inference from the import of the language, that [the words in question] were 
+intended to produce, and likely to produce, imminent’ lawless action.”).  The Supreme Court has 
+rarely applied this standard, “and never explicitly found speech to be on the proscribable side of 
+the standard.”  Id.  Thus, it is not clear that limiting the Hateful Conduct Law only to speech that 
+incites violence would necessarily pass constitutional muster.  In addition, at oral argument, 
+Plaintiffs argued that the law was not severable.  (Tr., ECF No. 27 at 62:8–63:7.) 
+    A plain reading of the Hateful Conduct Law shows that Plaintiffs’ argument is without 
+merit.  The law imposes liability on social media networks for failing to provide a mechanism for 
+users to complain of “hateful conduct” and for failure to disclose their policy on how they will 
+respond to complaints.  N.Y. Gen. Bus. Law § 394-ccc(5).  The law does not impose liability on 
+
+social media networks for failing to respond to an incident of “hateful conduct”, nor does it impose 
+liability on the network for its users own “hateful conduct”.  The law does not even require that 
+social media networks remove instances of “hateful conduct” from their websites.  Therefore, the 
+Hateful Conduct Law does not impose liability on Plaintiffs as publishers in contravention of the 
+Communications Decency Act.                                               
+ III.   Balance of the Equities                                          
+    Finally, given that Plaintiffs have demonstrated a substantial likelihood of success on the 
+merits of their First Amendment claims, the Court must consider whether “the balance of the 
+equities tips in [Plaintiffs’] favor, and [whether] an injunction is in the public interest.”  ACLU v. 
+Clapper, 804 F.3d 617, 622 (2d Cir. 2015).                                
+
+    Given  that  “enjoining  enforcement  of  a  statute  that  potentially  violates  citizens’ 
+constitutional rights is in the public interest”, and that Defendant can show no harm as a result of 
+being prevented from enforcing an unconstitutional statute, the Court finds that the balance of the 
+equities tips in favor of granting the preliminary injunction.  See CompassCare, 465 F. Supp. 3d 
+at 159.                                                                   
+                          CONCLUSION                                     
+    Accordingly, for the aforementioned reasons, the Court finds that Plaintiffs are entitled to 
+a preliminary injunction prohibiting the enforcement of N.Y. Gen. Bus. Law § 394-ccc.  The 
+Clerk of Court is respectfully requested to terminate the pending motion at ECF No. 8.   
+Dated:  February 14, 2023 
+      New York, New York                       ANDREW L. CARTER, JR. 
+                                               United States District  Judge 
+
+                                     21

@@ -1,0 +1,27 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether plaintiffs may execute a default judgment against assets formerly blocked under TRIA when those assets have been unblocked by the Treasury Department prior to execution.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that because the assets at issue are no longer 'blocked assets' under TRIA due to the Treasury Department's removal of PIB from the blocked entities list, plaintiffs cannot execute their judgment against those assets. The court further found that neither TRIA nor relevant regulations prevent the Executive from unblocking assets, even in pending proceedings."
+    }
+  ],
+  "key_precedents": [
+    "Smith ex rel. Estate of Smith v. Federal Reserve Bank of New York, 346 F.3d 264 (2d Cir. 2003)",
+    "Havlish v. 650 Fifth Ave. Co., 934 F.3d 174 (2d Cir. 2019)",
+    "EM Ltd. v. Republic of Argentina, 473 F.3d 463 (2d Cir. 2007)",
+    "Aurelius Cap. Partners, LP v. Republic of Argentina, 584 F.3d 120 (2d Cir. 2009)",
+    "Hausler v. JP Morgan Chase Bank, N.A., 770 F.3d 207 (2d Cir. 2014)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "UPON DUE CONSIDERATION, IT IS HEREBY ORDERED, ADJUDGED, AND DECREED that the district court\u2019s order, entered on July 12, 2023, is AFFIRMED.\n\nPlaintiffs-Appellants John Does 1\u20137, who are United States citizens and victims of a 2016 Taliban attack in Afghanistan, obtained a default judgment in November 2020, in the United States District Court for the Northern District of Texas, against several defendants\u2014namely, the Taliban, Al-Qaeda, and the Haqqani Network\u2014in connection with claims arising from that attack. Plaintiffs then filed the instant action in September 2022, pursuant to Section 201(a) of the Terrorism Risk Insurance Act of 2002 (\u201cTRIA\u201d), Pub. L. No. 107-297, \u00a7 201(a), 116 Stat. 2322, 2337 (Nov. 26, 2002) (codified at 28 U.S.C. \u00a7 1610 note), seeking to attach funds in a bank account held in New York in the name of Prominvestbank (\u201cPIB\u201d), which plaintiffs alleged was an agency or instrumentality of the Taliban whose assets had been blocked by Executive Order 14024. More specifically, plaintiffs alleged that PIB, a subsidiary of the Russian state-owned bank, Vnesheconombank (\u201cVEB\u201d), was an agency or instrumentality of the Taliban because, inter alia, Russia used VEB, and by extension PIB, to help the Taliban finance and fund some of its terrorist activities. Magistrate Judge Th\u00e9r\u00e8se Wiley Dancks initially granted a writ of execution, in an ex parte order filed on November 2, 2022, thereby attaching the funds in the bank account at issue.\n\nHowever, a Ukrainian governmental entity called the Deposit Guarantee Fund (\u201cDGF\u201d) subsequently filed a motion to intervene, in which it sought to vacate the writ of execution because Ukraine had nationalized PIB through various governmental actions in May and September 2022, and thus, VEB no longer had an ownership interest in PIB at the time plaintiffs sought the writ of execution. On July 12, 2023, Judge David N. Hurd granted DGF\u2019s motion to intervene and vacated the writ of execution based on the fact that Ukraine nationalized PIB. See Does 1 Through 7 v. The Taliban, No. 22-cv-990, 2023 WL 4532763, at *7 (N.D.N.Y. July 12, 2023) (\u201cDoes v. Taliban\u201d). Plaintiffs timely appealed that order to this Court, and while their appeal was pending, the United States Department of Treasury (\u201cTreasury Department\u201d) removed PIB from the list of blocked entities under Executive Order 14024. Accordingly, we need not address the district court\u2019s grounds for vacating the writ because we hold that, given that the bank account at issue here is no longer a \u201cblocked asset\u201d for purposes of TRIA, plaintiffs cannot use PIB\u2019s assets to satisfy their judgment against the Taliban. We assume the parties\u2019 familiarity with the underlying facts, procedural history, and issues on appeal, to which we refer only as necessary to explain our decision to affirm on this ground."
+}

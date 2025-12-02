@@ -1,0 +1,763 @@
+UNITED STATES DISTRICT COURT                           
+                  DISTRICT OF MASSACHUSETTS                             
+____________________________________                                      
+                            )                                           
+ESTATE OF ROBERT JOSEPH MILLER,  )                                        
+by and through IAN MILLER, personal  )                                    
+representative of the Estate,      )                                      
+                            )                                           
+        Plaintiff,          )                                           
+                            )                                           
+                            )    Civil Action No. 21-CV-10738-AK        
+v.                            )                                           
+                            )                                           
+SEAN ROYCROFT and SPENCER     )                                           
+JACKSON, in their individual capacities,  )                               
+                            )                                           
+        Defendants.         )                                           
+                                                                      ) 
+
+                 MEMORANDUM AND ORDER ON                                
+         DEFENDANTS’ MOTION FOR SUMMARY JUDGMENT                        
+
+ANGEL KELLEY, D.J.                                                        
+   This case arises from the death of Robert Miller while he was being restrained by two law 
+enforcement officers after his partner called 911 and asked for assistance during a mental health 
+crisis.  Ian Miller, as personal representative of his father’s estate, filed this 42 U.S.C. § 1983 
+lawsuit against two Barnstable Police Department officers, Sean Roycroft and Spencer Jackson, 
+alleging violations of his father’s Fourth Amendment rights (Count I) and wrongful death 
+pursuant to Mass. Gen. Laws ch. 229, § 2 (Count II).  After carefully reviewing the record and 
+considering the parties’ arguments, this Court DENIES Defendants’ Motion for Summary 
+Judgment.                                                                 
+I.   BACKGROUND                                                           
+   In evaluating a motion for summary judgment, the Court relies on the parties’ statements 
+of material facts [Dkts. 59, 64], the Plaintiff’s opposition [Dkt. 65], and the Defendants’ reply to 
+the opposition [Dkt. 67] as well as the exhibits the parties have submitted [Dkts. 59-1–19, 66-1–
+14].  The Court also heard oral argument on March 14, 2024.  [Dkt. 74].  The facts are stated in 
+the light most favorable to the Plaintiff unless otherwise noted.         
+Procedural Background                                                     
+   Ian Miller, as personal representative of his father’s estate, filed suit against the Town of 
+
+Barnstable and two Barnstable police officers, pleading a federal claim under 42 U.S.C. § 1983 
+and two state-law claims.  [Dkt. 1].  On January 24, 2022, the parties stipulated to dismissal with 
+prejudice of the negligence claim against the Town of Barnstable, pursuant to Mass. Gen. L. ch. 
+258 (Count III).  [Dkt. 30].  Since that was the only count against the town, Barnstable was 
+terminated from the case.  On May 22, 2023, Sean Roycroft and Spencer Jackson filed a Motion 
+for Summary Judgment [Dkt. 57], which Plaintiff opposed.  [Dkt. 65].      
+The 911 Call                                                              
+   At 7:03:56 p.m. on April 16, 2019, the Barnstable Police Department (“BPD”) dispatch 
+received a 911 call from Amy Anderson that was logged into the BPD computer system as a 
+
+“mental health emergency.”  [Dkt. 59 at ¶ 5].  Anderson said she was at 45 Elm Street and, “We 
+need the police. There is someone very delusional here, my husband.”  [Dkt. 64 at 2].  When 
+asked who was delusional, she said, “he is, and he needs a psych evaluation.  It’s very 
+frightening.”  [Id.; Dkt. 59-19].  After confirming the address, she gave her first name and then 
+hung up.  [Id.].  At 7:06 p.m., the dispatch entered the following description of the call into the 
+BPD computer system: “[Reporting Party] stated husband is having a psychotic break. Very 
+short on phone.  Caller disconnected, no further information.”  [Dkts. 59 at 2; 59-19].   
+   The individual who made the call to 911 was Amy Anderson (“Anderson”), Robert 
+Miller’s long-time girlfriend who lived with him at 45 Elm Street. [Dkt. 59 at ¶ 7].  Officer Sean 
+Roycroft (“Roycroft”) was dispatched to 45 Elm Street at 7:07:37 p.m. and arrived at the scene at 
+7:09:28 p.m.  [Id. at ¶ 8].  A second officer, Spencer Jackson (“Jackson”), was dispatched to 45 
+Elm Street at 7:07:47 p.m. and arrived at the scene at 7:10:36 p.m.  [Id. at ¶ 9].   
+   Roycroft, who had been a Barnstable police officer for 30 years [Dkt. 64 at ¶ 150], was 
+trained to follow BPD intervention guidelines in responding to calls involving mentally ill 
+
+individuals, which instruct officers to prioritize quickly assessing the situation and securing the 
+scene.  [Dkt. 59 at ¶ 15].  Before arriving at 45 Elm Street, Roycroft knew that the caller’s 
+husband was experiencing a psychotic break and that the caller had been short on the phone.  [Id. 
+at ¶ 10].  Roycroft was also aware that the call was labeled an “emergency” and had been 
+disconnected, which added an additional layer of concern to the call.  [Id. at ¶ 12].  Roycroft 
+radioed into dispatch that he was going to the scene, and he heard Jackson say over the radio that 
+he was responding to the scene as well. [Id. at ¶ 13].                    
+   Upon arriving at the residence, Anderson met Roycroft at the front door.  [Id. at ¶ 19].  It 
+seemed to him that she had been waiting there for him; she was urgently whispering to him 
+
+through a partially open front door and a closed screen door, “He’s out back.  He’s out back.”  
+[Id.].  Anderson told Roycroft that Miller was hallucinating and talking to people who were not 
+there, and had not taken his medications or slept in days.  [Id. at ¶ 20].   
+   Anderson also told Roycroft she was very concerned Miller would be angry at her for 
+calling the police, and Roycroft recognized that Miller might become angry if he found Roycroft 
+speaking to Anderson.  [Id. at ¶ 23].  While she stood there, Anderson was checking behind her 
+to see if anyone was approaching her from inside the house.  [Id. at ¶ 26].  Based on her body 
+language, Roycroft believed Anderson to be “in fear” regarding Miller’s behavior.  [Id. at ¶ 25].   
+   Roycroft spoke to Anderson for a very short time.  He asked her simple questions, and 
+she answered all of them.  [Dkt. 64 at ¶ 161].  Roycroft did not ask Anderson why the 911 call 
+had been disconnected.  [Id. at ¶ 165].  He did not ask if there were other people inside the house.  
+[Id. at ¶ 162].  He did not ask if Anderson was afraid of Miller or if there were weapons in the 
+home.  [Id.].  He did not ask whether she would like to go to a safe place, such as a neighbor’s 
+
+house.  [Id.].  He did not ask for how long Miller had been in a psychotic state.  [Id.].   
+   Roycroft asked Anderson whether she felt safe staying inside the house while he went to 
+check on Miller, and she indicated that she felt comfortable staying inside the house. [Dkt. 59 at 
+¶¶ 24, 33].  Anderson and Roycroft discussed the best way for him to approach Miller, and she 
+suggested that Roycroft stay outside and go around the right side of the house rather than through 
+the house.  [Id. at ¶ 32].  Roycroft asked Anderson what Miller’s first name was to help him 
+establish a rapport with him, and she replied that it was Robert.  [Id. at ¶ 34].  Roycroft could 
+hear Miller yelling on the back deck while he spoke with Anderson.  [Dkt. 64 at ¶ 166].  He did 
+not consider this an emergency.  [Id.].  Roycroft knew Jackson would be arriving at any moment 
+
+but decided to walk around the side of the house without waiting for backup to evaluate Miller’s 
+mental health.  [Dkts. 64 at ¶ 168; 59-4 at 47].  Anderson retreated into the front interior part of 
+the house and did not hear or witness the exchange between Miller and Roycroft until they 
+entered the house.  [Dkt. 59 at ¶ 37].                                    
+The Encounter                                                             
+   Roycroft initially observed Miller from a position where Miller could not see him.  [Dkt. 
+59-4 at 16].  He noticed that Miller was out of touch with reality and yelling while looking up at 
+the sky, and he was barefoot and shirtless.  [Dkt. 64 at 34-35].  No one else was present behind 
+the house. [Id. at ¶ 170].  Miller looked disheveled and he was sweating.  [Id.].  Roycroft also 
+noticed that Miller looked frazzled; his eyes were bloodshot and he had an empty and unfocused 
+stare.  [Dkts. 64 at ¶ 175; 59 at 6].  Observing Miller, it looked to Roycroft as if Miller was 
+having a psychotic break.  [Dkt. 64 at ¶ 171].  Roycroft understood that when a person is having 
+a psychotic episode, it can become a medical episode. [Id. at ¶ 172].     
+   Roycroft had received training to respond to calls involving individuals experiencing 
+
+mental health crises in a calm, friendly, and non-threatening manner.  [Dkt. 59 at ¶ 42].  Roycroft 
+approached Miller and said something along the lines of, “What’s going on, Robert?” or “Hi, 
+Robert, how’re you doing?” or “How’s it going?”  [Id. at ¶ 43].  Miller replied that he was 
+conversing with nature, to which Roycroft responded, “I do that sometimes” or “I do that from 
+time to time, absolutely nothing wrong with that.  That’s great.”  He then asked Miller, “Can I 
+have a conversation with you?” or “What do you think about you and I having a conversation? 
+Can we have—can we have a conversation here?”  [Id. at ¶ 44].  Miller replied, “Sure, we can” 
+and either invited or gave Roycroft the impression that he was welcome to come up onto the 
+deck to continue the conversation.  [Id. at ¶ 45].                        
+
+   Roycroft stepped onto the deck, keeping several feet of distance between himself and 
+Miller.  [Id. at ¶ 46].  Miller noticed a broken flowerpot or figurine and some dumbbells nearby.  
+[Id.].  Roycroft understood that in approaching a mentally ill person, a police officer should not 
+say something that might upset or anger the person.  [Dkt. 64 at ¶ 176].  After some initial 
+conversation on the deck, Roycroft said, “Your wife called because she has some concerns about 
+you,” and asked again if they could talk.  [Dkts. 64 at ¶ 177; 59 at ¶ 47].  Upon hearing this, 
+Miller stared at the ground for “several long seconds,” and his demeanor shifted from calm to 
+angry.  [Dkt. 64 at ¶ 178].  Miller abruptly turned toward the house and approached the broken 
+ceramic pieces on the deck.  [Dkt. 59 at ¶ 48].  Roycroft stayed close to Miller, who stopped as 
+he reached the house, grunting and angrily shaking his fists.  [Id. at ¶ 50].  To Roycroft it 
+appeared as if Miller had “flipped a switch.”  [Id. at ¶ 49].  Miller then said, “Fuck you I’m not 
+talking with you get the fuck away from me,” and quickly entered his home through the sliding 
+door on the deck.  [Dkt. 64 at ¶ 180].                                    
+   After Miller swore at him, Roycroft issued repeated orders for Miller to stop as the two of 
+
+them approached the house, but Miller did not comply.  [Dkt. 59 at ¶ 54].  Roycroft knew that 
+people experiencing psychosis may be unpredictable.  [Dkt. 64 at ¶ 182].  They may not be 
+expected to follow his orders or commands or even recognize that he is a police officer.  [Id.]. 
+   Miller pulled open the slider door leading to the back of the house and stepped inside.  
+[Dkt. 59 at ¶ 55].  Because Miller did not respond to his commands, Roycroft followed Miller 
+into his home.  [Dkt. 64 at ¶ 183].  Inside, there was a dining room table in front of the sliding 
+door.  [Id. at ¶ 184].  Roycroft stayed directly behind Miller, as Roycroft believed Miller wanted 
+to find Anderson.  [Dkts. 59 at 8; 59-5 at 9; 59-6 at 5].  Roycroft grabbed Miller by the arm to 
+get his attention.  [Dkt. 59 at ¶ 58].  Miller continued to ignore all verbal commands and pulled 
+
+his arm away from Roycroft.  [Dkt. 64 at ¶ 185].  Parties dispute whether this gesture caused 
+Miller’s body to reach over the table or if he deliberately “dove onto the table.”  [Dkt. 68 at 38].  
+According to Roycroft, Miller began reaching on the table.  [Dkts. 59 at ¶ 59; 59-4 at 31].  
+Roycroft could tell that the table was cluttered with various objects but could not see exactly 
+what was on it.  [Dkt. 59 at ¶ 60].  Roycroft stated he could not see Miller’s hands in those 
+moments, and he thought Miller might grab a weapon from the table.  [Dkt. 64 at ¶ 188].  Miller 
+did not in fact grab anything, nor did he threaten to.  [Id. at 14].      
+   Standing between the sliding door to the deck and the dining table, Roycroft tried to grab 
+Miller from behind by reaching his arms around Miller’s front, putting his left arm under 
+Miller’s left arm and his right arm over Miller’s right shoulder, and connecting his hands at 
+Miller’s chest.  [Dkt. 59 at ¶ 66].  Roycroft described this hold as a “seatbelt hold,” indicating the 
+positioning of the diagonal cross-body strap of a seat belt.  [Id. at ¶ 67].  At this point, Roycroft 
+was no longer standing directly behind Miller; he was further to Miller’s left.  [Dkt. 64 at ¶ 192].  
+By applying this hold on Miller, Roycroft was able to pull Miller back, away from the table.  
+
+[Dkt. 59 at ¶ 68].   The men’s bodies hit the sliding door and knocked it out of its frame.  [Dkt. 
+64 at ¶ 200].  Anderson, who had been unable to hear or see any of the exchange between 
+Roycroft and Miller up until this point, was able to witness some of their interactions at around 
+the time she heard them crash against the slider door.  [Dkt. 59 at ¶ 72].  Anderson described the 
+hold Roycroft applied to Miller as a “bear hug.”  [Id. at ¶ 73].  Anderson does not remember the 
+exact positioning of Roycroft’s arms or hands but heard Roycroft issue many verbal commands 
+to try to get Miller to stop or comply and put his hands behind his back.  [Id. at ¶ 74].   
+Jackson’s Arrival                                                         
+   Jackson arrived at 45 Elm Street one minute after Roycroft.  [Dkt. 64 at ¶ 204].  Jackson 
+
+was at the back corner of the house when he heard a loud crash caused by Roycroft and Miller 
+slamming back against the slider door.  [Dkt. 59 at ¶ 82].                
+   After hitting the slider door, Miller pulled his body forward while Roycroft continued 
+applying a seatbelt hold. The forward momentum of the two men caused the table to be pushed 
+to the side.  [Dkt. 64 at ¶ 201].  They moved in a continuous movement from the door, past the 
+table, to a small office area.  [Id.].  Anderson was attempting to watch Roycroft and Miller while 
+peering from another room but was unable to see everything.  [Dkt. 59 at ¶ 78].  Roycroft did not 
+attempt any other use-of-force techniques to take Miller down before they reached the step down 
+to a small, recessed office area at the front of the house.  [Id. at ¶ 88].   
+   As the two were progressing toward the office area, at some point Roycroft noticed a set 
+of golf clubs in the office area and a single golf club on the floor.  [Dkt. 59 at ¶ 86].  Miller did 
+not grab a golf club, nor did he threaten to grab one.  [Dkt. 64 at ¶ 203].  Roycroft nevertheless 
+perceived Miller to be focusing on reaching the golf clubs.  [Dkt. 59 at ¶ 87].  Roycroft 
+continued issuing verbal commands and holding onto Miller to prevent him from making 
+
+forward progress toward the clubs.  [Id.].                                
+   Upon entering the house from the back through the dislodged slider entrance, Jackson 
+observed Roycroft and Miller, moving together, take three to four steps toward the front of the 
+house and fall forward after tripping on a step into the recessed office area, landing face down on 
+top of the single golf club.  [Dkts. Id. at ¶ 88-89; 64 at ¶ 205].  Roycroft fell to the left of Miller, 
+and Roycroft’s hands, which had previously been connected around the front of Miller’s chest, 
+became disengaged.  [Dkt. 59 at ¶ 90].  Miller was facing the ground, with both his arms 
+underneath his body.  [Id. ¶ 91].  Roycroft fell to Miller’s left side with his left arm trapped 
+underneath Miller and between Miller’s left arm and the left side of Miller’s body, and his right 
+
+arm draped between Miller’s shoulder blades.  [Id. at ¶ 92].  Roycroft attempted to pull his left 
+arm out from underneath Miller but was unable.  [Id. at ¶ 93].  Miller was pulling his left arm 
+into his body, while Roycroft’s arm was still in the seatbelt hold.  [Dkt. 64 at ¶ 93].  Miller was 
+trying to get up by lifting his chest and pulling his elbows under him.  [Id.].   
+   While he was walking towards the office, Jackson observed Anderson standing inside 
+another room, away from the doorway connecting the two rooms.  [Id. at 22].  Jackson 
+approached and saw that Roycroft had fallen off to Miller’s left side with his left arm trapped 
+underneath Miller’s torso.  [Dkt. 59 at ¶ 94].  A portion of Roycroft’s chest and right forearm 
+were on top of Miller, while Miller’s arms were underneath him.  [Id.].  Jackson announced his 
+arrival on the scene to Roycroft [Id. at ¶ 95] and stepped to the right side of Miller’s body.  [Dkt. 
+64 at ¶ 206].  Roycroft told Jackson that Miller might have something in his hands, or that he 
+could not see his hands.  [Dkt. 59 at ¶ 96].  Jackson was unable to see Miller’s hands and 
+therefore could not determine whether Miller was holding anything or had picked anything up. 
+[Id. at ¶ 100].  Roycroft, whose left arm was still pinned underneath Miller, continuously tried to 
+
+pull it out from underneath Miller’s body.  [Id. at ¶ 101].               
+   Defendants claim Miller was actively resisting both officers’ attempts to restrain him [Id. 
+at 13-14], whereas the Plaintiff states that Miller’s attempts to breathe were improperly treated as 
+resistance.  [Dkt. 64 at ¶ 103].  Miller was trying to push up to breathe by bringing his chest up.  
+[Dkts. 64 at ¶ 207; 59-4 at 35].  Roycroft reacted to Miller pushing up by applying pressure on 
+Miller’s back between his shoulder blades.  [Id.].  When Miller pushed up, Roycroft pushed 
+down.  [Dkt. 59-4 at 35].  Roycroft believed Miller was trying to push up, so that he could 
+tighten his grip on Roycroft’s left arm.  [Dkt. 59 at ¶ 102].             
+   Roycroft was on Miller’s left side, “more on his left hip,” with his right leg over Miller’s 
+
+left leg and his right arm draped between Miller’s shoulders and his left arm trapped underneath 
+Miller.  [Id. at ¶ 104].  The two officers gave repeated, verbal commands to Miller to stop, let go, 
+and stop resisting.  [Id. at ¶ 105].  Jackson asked Roycroft if he should use his taser on Miller, 
+but Roycroft directed him not to.  [Id. at ¶ 106].  Roycroft believed that he and Jackson would be 
+able to restrain Miller without escalating the level of force used on Miller.  [Id. at ¶ 107].   
+   During the struggle, Miller was moving around in ways that, to Roycroft, demonstrated 
+an intent to stay in the position he was in, face down with his arms underneath him, and gain a 
+dominant position over Roycroft.  [Id. at ¶ 109].  During the altercation, Miller disregarded the 
+officers’ verbal commands and kicked and flailed his legs in the air, but he did not punch, kick, 
+or otherwise strike Roycroft or Jackson.  [Dkts. 64 at ¶ 209; 59 at ¶ 111].  Nor did he threaten the 
+two officers.  [Dkt. 60 at ¶ 209].                                        
+   Because his left arm was trapped underneath Miller, Roycroft was concerned for his own 
+safety.  [Dkt. 59 at ¶ 112].  Jackson delivered a half-strength punch to the right side of Miller’s 
+body to distract Miller to gain control over his hands and handcuff him.  [Id. at ¶ 114].  
+
+Immediately after this half-strength punch, Jackson partially moved Miller’s right arm from 
+underneath his body.  [Dkts. 59 at ¶ 115; 59-4 at 38].  Miller then pulled his body toward 
+Roycroft and yanked his arm back underneath his torso.  [Dkt. 59 at ¶ 116].  Jackson delivered 
+another half strength punch in the same area of Miller’s body and managed to pull Miller’s right 
+hand out from underneath his own body and placed handcuffs on Miller’s right wrist.  [Dkts. 59 
+at ¶¶ 120, 123; 59-4 at 38].  Miller made groaning noises after each empty hand punch.  [Dkt. 59 
+¶ 122].  For the first time, Jackson observed Miller’s right fist was clenched, but with nothing 
+protruding from it.  [Id. at ¶ 121].   Roycroft was able to remove Miller’s left hand from 
+underneath him immediately after Miller’s right arm was under control.  [Id. at ¶124].  Jackson 
+
+double-locked the handcuffs on Miller.  [Id. at ¶ 125].  While on the floor and until the handcuffs 
+were applied, Miller’s hands had remained tucked underneath his body, out of sight, despite both 
+officers’ attempts to free his hands from underneath his torso.  [Id. at ¶ 127].   Anderson’s 
+memory is unclear as to the sequence of events or how anyone was positioned at any given 
+moment.  [Dkt. 64 at ¶ 129].                                              
+   While the officers attempted to handcuff Miller, Anderson remembers him saying, “I 
+can’t breathe.”  [Id. at ¶ 130].  Miller was still breathing and moving after he was handcuffed, 
+and a few moments later Anderson noticed that Miller had stopped moving.  [Id. at ¶ 218].  
+Anderson remembers seeing one of the officers placing his knee on Miller’s back to create a 
+leverage point for getting the handcuffs on Miller.  [Dkt. 59 at ¶ 144].  Anderson asked, “Can he 
+breathe?” and Roycroft or Jackson responded, “Yes, he can breathe.”  [Dkt. 64 at ¶ 126].  Then 
+Miller said, “Amy, help me.” [Id. at ¶ 213].  At around that time, Anderson observed Miller had 
+stopped moving one of his legs and heard one of the officers ask, “Did he go out?” [Dkts. 59 at ¶ 
+141; 59-8 at 69].                                                         
+
+   Anderson is unable to remember where Miller was located or in what position he was in 
+when he stated that he could not breathe. [Dkt. 59 at ¶ 139].  Although one of the officers 
+responded to Anderson’s question as to whether Miller could breathe, they did not take action to 
+help him breathe.  [Dkt. 64 at ¶ 214].  Roycroft continued to apply pressure on Miller’s body.  
+[Id.].  Jackson and Roycroft knew that if someone was having difficulty breathing, the officers 
+should take action.  [Id. at ¶ 215].  Roycroft knew he could reduce or eliminate breathing 
+problems for a person in custody on their stomach by getting them off their stomach.  [Id. at ¶ 
+216].  Jackson knew that obesity, age, and physical condition were factors that could make it 
+more difficult for a person to breathe if they were left lying on their stomach.  [Id. at ¶ 217].   
+
+   The officers stated neither of them heard Miller gasp for air, heard him say he could not 
+breathe, observed any signs that Miller was in respiratory distress or unable to breathe, or 
+observed anything about Miller’s behavior that indicated he was experiencing a medical event.  
+[Dkt. 59 at ¶ 126].  Defendants state neither of them heard Miller or Anderson say anything 
+throughout the struggle from the moment Miller entered the house.  [Id. at ¶ 128]. 
+   Once Miller was handcuffed, Jackson got up to speak with Anderson and to obtain 
+information from her about Miller.  [Id. at ¶ 132].  As soon as the handcuffs were on Miller, 
+Roycroft told him he was going to help him to his feet.  [Id. at ¶ 133].  Roycroft reached down to 
+grab Miller’s left arm and help him stand up.  [Id. at ¶ 219].  Roycroft tried to get Miller to stand 
+up.  [Id. at ¶ 220].  At first, Roycroft thought Miller’s unresponsiveness was him passively 
+resisting, so Roycroft knelt down next to Miller.  [Id. at ¶ 219-20].  Miller’s pupils were fixed.  
+[Id. at ¶ 220].                                                           
+   Roycroft immediately notified Jackson that Miller might be experiencing a medical event 
+and the handcuffs were removed from his wrists.  [Dkt. 59 at ¶ 135].  Roycroft then moved 
+
+Miller into the recovery position and determined that Miller had no pulse and there were no signs 
+he was breathing.  [Dkts. 64 at ¶ 220; 59 at ¶ 136].  Roycroft began CPR and called for an 
+ambulance at 7:12:58 p.m.  [Dkt. 64 at ¶ 221].                            
+   The officers’ attempt to handcuff Miller lasted over a minute.  [Id. at ¶ 222].  Roycroft 
+made an inadvertent radio transmission at 7:11:43 p.m., which was after the officers were both at 
+Miller’s side and Jackson had delivered his first punch.  [Id.].  Roycroft’s radio call for medical 
+assistance was at 7:12:58, one minute and 15 seconds later.  [Id.].  Roycroft called for an 
+ambulance three and a half minutes after he logged his arrival at the scene.  [Id. at ¶ 223]. 
+The Medical Reports                                                       
+
+   Additional BPD officers and EMTs arrived.  [Id. at ¶ 224].  EMTs attempted to provide 
+life-saving emergency medical care.  [Id. at ¶ 225].  They used an Automated External 
+Defibrillator, but it advised no shock because Miller’s heart was in pulseless electrical activity 
+(“PEA”).  [Id.].  Miller’s heart remained in PEA. [Id.].  He was pronounced dead later that night 
+at 8 p.m.  [Dkt. 59 at ¶ 142].  The ambulance report states:              
+   Officers sts “we were here for mental health evaluation and pt was calm and 
+   cooperative at first. He got angry and went for a golf club and we took him down 
+   and cuffed him. He was talking and we stood him up and started to walk out and 
+   he collapsed, we immediately started CPR and applied AED.”           
+   [Dkt. 64 at ¶ 226].  Defendants state that this information is false.  [Id.].  Roycroft denies 
+making this statement to the EMT, Vicki Yefko.  [Dkt. 59-4 at 40].  Jackson does not remember 
+making this statement.  [Id.].                                            
+   Miller’s cause of death is disputed.  The medical examiner who performed an autopsy on 
+Miller, Dr. William Zane, concluded that Miller died of cardiac dysrhythmia in the setting of 
+
+excited delirium “due to unknown psychiatric illness” at the time of restraint.  [Dkt. 59-1].  Dr. 
+Zane deemed Miller’s manner of death was “natural.”  [Id.].               
+   Alon Steinberg, M.D., a cardiologist hired by the Plaintiff, disagreed with this 
+conclusion.  [Dkt. 66-11 at 7].  He criticized Dr. Zane’s attribution, stating that excited delirium 
+is an “outdated” and “scientifically discredited concept” that is “problematic and unhelpful” 
+because it is an “unproven rationale for ignoring the potentially fatal effects of restraint-related 
+asphyxia when a death has occurred in police custody.”  [Dkt. 66-3 at 1].  He concluded that the 
+restraint applied to Miller while he was prone, being handcuffed, and with the partial bodyweight 
+torso compression from Roycroft, combined with exertion, psychosis, and inflicted pain, most 
+
+likely triggered the cardiopulmonary arrest that resulted in Miller’s death.  [Dkt. 66-11 at 9].  
+Ultimately, Defendants’ actions caused Miller to die “due to prone restraint cardiac arrest.”  [Id. 
+at 6-7].  Dr. Steinberg stated that had Miller not been in the struggle with the Defendants and 
+placed in the prone position, he would have survived that day and would likely be alive today.  
+[Id. at 7].                                                               
+   Dr. Michael Freeman, an expert on forensic medicine and forensic epidemiology that 
+Plaintiff hired, made a similar conclusion.  In his report, Dr. Freeman explained that the 
+circumstances leading to Miller’s death were consistent with cardiopulmonary arrest triggered by 
+“asphyxial prone abdomen/chest compression,” also known as positional asphyxia.  [Dkt. 66-3 at 
+8].  Positional asphyxia refers to an “increased difficulty with breathing that is associated with 
+the use of restraint (i.e., handcuffs . . . ) that is used on a prone person.”  [Id.] 
+   Miller was in a psychotic state, and he was sweating when Roycroft first saw him, 
+suggestive of a high metabolic state.  [Dkts. 64 at ¶ 227].  Roycroft placed plaintiff in a “seatbelt 
+hold,” then restrained him in a face down position.  [Id.].  Every time Miller pushed up in an 
+
+attempt to breathe, Roycroft understood this movement to be active resistance and would push 
+down.  [Dkt. 59-4 at 35].  Both the use of force expert Scott DeFoe and a Department of Justice 
+bulletin published in 1995 describe this as the “basic physiology of a struggle.”  [Dkts. 66-1 at 
+19; 66-12 at 1].                                                          
+II.  LEGAL STANDARD                                                       
+The purpose of summary judgment is to “pierce the pleadings and to assess the proof in order 
+to see whether there is a genuine need for trial.”  Mesnick v. Gen. Elec. Co., 950 F.2d 816, 822 
+(1st Cir. 1991) (citing Garside v. Osco Drug, Inc., 895 F.2d 46, 50 (1st Cir. 1990)).  Summary 
+judgment may be granted when the record presents no “genuine dispute as to any material fact 
+
+and the mov[ing party] is entitled to judgment as a matter of law.”  Fed. R. Civ. P. 56(a).  The 
+Court must consider (1) whether a factual dispute exists; (2) whether the factual dispute is 
+“genuine,” such that a “reasonable fact-finder could return a verdict for the nonmoving party on 
+the basis of the evidence;” and (3) whether a fact genuinely in dispute is material, such that it 
+“might affect the outcome of the suit under the applicable substantive law.”  Scott v. Sulzer 
+Carbomedics, Inc., 141 F. Supp. 2d 154, 170 (D. Mass. 2001); see also Anderson v. Liberty 
+Lobby, Inc., 477 U.S. 242, 248 (1986) (“Only disputes over facts that might affect the outcome 
+of the suit under the governing law will properly preclude the entry of summary judgment”).  
+When ruling on a motion for summary judgment, “[t]he evidence of the non-movant is to be 
+believed, and all justifiable inference are to be drawn in [their] favor.”  Anderson, 477 U.S. at 
+256.                                                                      
+The moving party is responsible for “identifying those portions [of the record] which it 
+believes demonstrate the absence of a genuine issue of material fact.”  Celotex Corp. v. Catrett, 
+477 U.S. 317, 323 (1986).  It can meet its burden either by “offering evidence to disprove an 
+
+element of the plaintiff’s case or by demonstrating an ‘absence of evidence to support the 
+nonmoving party’s case.’”  Rakes v. United States, 352 F.Supp.2d 47,52 (D. Mass. 2005) 
+(quoting Celotex, 477 U.S. at 325).  Once the moving party shows the absence of any disputed 
+material fact, the burden shifts to the non-moving party to place at least one material fact into 
+dispute.  Mendes v. Medtronic, Inc., 18 F.3d 13, 15 (1st Cir. 1994) (citing Celotex, 477 U.S. at 
+325).                                                                     
+III.  DISCUSSION                                                          
+A.   Qualified Immunity                                                 
+   The doctrine of qualified immunity shields government officials from liability for civil 
+
+damages if their conduct “does not violate clearly established statutory or constitutional rights of 
+which a reasonable person would have known.”  Harlow v. Fitzgerald, 457 U.S. 800, 818 (1982).   
+   To establish whether officers Roycroft and Jackson are entitled to qualified immunity at 
+the summary judgment stage, the Court must engage in a two-pronged inquiry.  First, the Court 
+must determine whether the facts show the officers’ conduct violated a federal statutory or 
+constitutional right.  Tolan v. Cotton, 572 U.S. 650, 655-56 (2014).  “The second prong of the 
+qualified-immunity analysis asks whether the right in question was ‘clearly established’ at the 
+time of the violation.”  Id. at 656.                                      
+   1.  Constitutional Violation—Excessive Force                         
+   Beginning with the first prong of qualified immunity, the Court considers whether 
+Plaintiff raised a genuine issue of material fact regarding whether Miller’s federal rights were 
+violated.  Plaintiff alleges that Defendants used excessive force while restraining Miller, causing 
+his death in violation of 42 U.S.C. § 1983.  [Dkt. 1 at 8].  Since an excessive force claim arises 
+
+out of the Fourth Amendment, the test applied is whether the force was reasonable.  Graham v. 
+Connor, 490 U.S. 386, 396 (1989).  “Where an officer creates conditions that are highly likely to 
+cause harm and unnecessarily so, and the risk is so created actually, but accidentally, causes 
+harm, the case is not removed from Fourth Amendment scrutiny.”  Stamps v. Town of 
+Framingham, 813 F.3d 27, 35 (1st Cir. 2016).                              
+   The legal standard for evaluating whether a police officer used excessive force is 
+objective reasonableness.  Miranda-Rivera v. Toledo-Dávila, 813 F.3d 64, 70 (1st Cir. 2016).  
+Thus, courts do not consider an officer’s subjective “intent or motivation.”  Raiche v. Pietroski, 
+623 F.3d 30, 36 (1st Cir. 2010) (quoting Graham, 490 U.S. at 397).  The Supreme Court has 
+
+instructed courts to consider three factors when evaluating excessive force claims under a Fourth 
+Amendment standard of reasonableness: (1) “the severity of the crime at issue;” (2) “whether the 
+suspect poses an immediate threat to the safety of officers or others;” and (3) “whether he is 
+actively resisting arrest or attempting to evade arrest by flight.”  Graham, 490 U.S. at 396. 
+   As there is no “precise definition” of reasonableness, courts must pay “careful attention 
+to the facts and circumstances of each particular case.”  Id.  The level of constitutionally 
+permissible force when dealing with a mentally ill person “differs both in degree and in kind 
+from the use of force that would be justified against a person who has committed a crime or who 
+poses a threat to the community.”  Gray v. Cummings, 917 F.3d 1, 11 (1st Cir. 2019).   
+   “The analysis is confined to the totality of the circumstances known to the officers at the 
+time the decision to use force was made. The fact that force was used is not, in and of itself, 
+dispositive.”  Farrah ex rel. Est. of Santana v. Gondella, 725 F. Supp. 2d 238, 245 (D. Mass. 
+2010).  “The issue rather is whether the amount of force used was reasonable under the 
+circumstances.”  Id.  Reviewing courts “must make ‘allowance’ for the need of police officers ‘to 
+
+make split second judgments—in circumstances that are tense, uncertain, and rapidly evolving—
+about the amount of force that is necessary in a particular situation.’”  Berube v. Conley, 506 
+F.3d 79, 83 (1st Cir. 2007) (quoting Graham, 490 U.S. at 396-97).  Thus, reasonableness must be 
+judged “from the perspective of the reasonable officer on the scene, rather than with the 20/20 
+vision of hindsight.”  Graham, 490 U.S. at 396.                           
+        a.  Severity of the Crime                                       
+   “When the subject of a seizure has not committed any crime, the first Graham factor 
+ordinarily cuts in the subject’s favor.”  Gray, 917 F.3d at 8-9.  Here, officers were not called to 
+the scene to respond to a reported crime.  This was a medical emergency in which someone was 
+
+having a psychotic break.  As the BPD Policy and Procedure 1106 states, “Mental illness is not a 
+crime and does not, by itself, justify or require police intervention.”  [Dkt. 59-3 at 37].  
+Accordingly, the first Graham factor cuts against Defendants.             
+        b.  Whether There Was an Immediate Threat                       
+   The second Graham factor asks courts to determine “whether the suspect pose[d] an 
+immediate threat to the safety of officers or others.”  Graham, 490 U.S. at 396.  Defendants make 
+much of the fact that Anderson’s 911 call was disconnected.  According to Defendants, 911 calls 
+often get disconnected during situations involving domestic violence.  [Dkt. 67 at 3].  Thus, 
+Anderson’s hanging up quickly added a heightened layer of uncertainty and fear.  [Dkt. 59 at 2].  
+However, Anderson’s 911 call alone is not sufficient to create an “extra layer of urgency.”  [Dkt. 
+67 at 3].  Some 911 hang-up or disconnected calls are pranks, and some, such as here, reflect the 
+caller’s change of mind.  [See Dkt. 59-8 at 35 (Anderson stating she hung up because she “didn’t 
+want to be involved.”)].  This case is not like 911 hang-up call cases in which officers had an 
+objectively reasonable basis to conclude there was an immediate need to protect others or 
+
+themselves from serious harm, based on the totality of the circumstances.  See, e.g., Johnson v. 
+City of Memphis, 617 F.3d 864, 869 (6th Cir. 2010) (finding that “the combination of a 911 hang 
+call, an unanswered return call, and an open door with no response from within the residence” 
+justified officers’ belief someone required immediate assistance when responding to a widow’s 
+emergency phone call that her husband was bipolar and off his medication); United States v. 
+Snipe, 515 F.3d 947, 949 (9th Cir. 2008) (in which a 911 call with a “very hysterical sounding” 
+caller “screamed . . . [g]et the cops here now” was evidence of an emergency); United States v. 
+Najar, 451 F.3d 710, 720 (10th Cir. 2006) (finding that the nature of the 911 call, the officers’ 
+reasonable belief someone might be preventing communication with safety officials, the 
+
+plaintiff’s reluctance to answer the door, and his obfuscation regarding the occurrence of the 911 
+call demonstrated “reasonable grounds to believe someone . . . may have been in need of 
+emergency aid and immediate action was required”).                        
+   At no point did Anderson make any statement or suggestion to law enforcement that a 
+physical altercation of any kind had occurred or that any emergency, injury, or threat of injury 
+existed.  Anderson did not deny making the 911 call and she was waiting for police to arrive 
+when Roycroft approached her.  During her call to 911, her voice was clear, she sounded calm, 
+and there was no background noise to suggest there was a concerning event or crime occurring.  
+Besides the 911 call itself, Roycroft had no indicia of an urgent, ongoing emergency when he 
+approached Miller.                                                        
+   If anything, Roycroft’s heightened concern cuts against Defendants’ arguments justifying 
+his actions.  If he was afraid for his and Anderson’s safety, he could have asked Anderson more 
+questions and waited for backup.  The circumstances were not so exigent that Roycroft had to act 
+
+immediately, rather than wait for Jackson to arrive and to develop a tactical plan together.  See 
+Hopkins v. Bonvicino, 573 F.3d 752, 765 (9th Cir. 2009) (“‘[I]f [police officers] otherwise lack 
+reasonable grounds to believe there is an emergency,’ they must ‘take additional steps to 
+determine whether there [i]s an emergency that justifie[s] entry in the first place.’”) (quoting 
+United States v. Russell, 436 F.3d 1086, 1092 (9th Cir.2006)).            
+   Defendants allege Roycroft did not know why Anderson’s 911 call was disconnected, but 
+he did know Miller was delusional, and that he understood Miller “might become violent if he 
+knew Anderson called the police.”  [Dkt. 60 at 8].  Given this context, Defendants argue, it was 
+reasonable for Roycroft to believe “Anderson was at risk of serious bodily injury”—especially 
+
+after Miller became angry when Roycroft told him that Anderson had called the police.  [Dkt. 60 
+at 19].  Although a jury could supportably find on those facts that Roycroft reasonably believed 
+that Miller posed a danger to him and Anderson, a jury could find instead that Roycroft did not 
+have a reasonable belief.  Miller was moving further into his own house to try to get away from 
+Roycroft and did not appear to be posing a danger to anyone.  At the time Roycroft approached 
+Miller, Miller was empty-handed, shirtless, and barefoot.  [Dkt. 59-10 at 8].   
+   Roycroft made the decision to tell Miller that Anderson had called the police, which he 
+knew could trigger and anger Miller—and it did.  This error set in motion a series of events that 
+ended tragically.  A reasonable juror could find that Roycroft did not have enough information to 
+have a reasonable basis to assume Miller was going to be violent towards anyone because he was 
+angry.  When Roycroft spoke to Anderson, she said Miller was delusional.  Even when she said 
+that she was afraid Miller would become angry if he learned she had called the police, she did 
+not say she thought he would respond violently.  She also did not say Miller had been acting 
+violently, had a history of violence, or that he had any suicidal ideations.  As Plaintiff points out, 
+
+not every person who is hallucinating or is mentally ill is likely to cause harm.  [Dkt. 65 at 14].  
+Erratic or unpredictable behavior might require an officer to be alert and prepared for different 
+possible scenarios but does not necessitate assuming the worst.  Sometimes an individual’s 
+behavior is a manifestation of their mental health condition but is not dangerous.  Under those 
+circumstances, a fact finder could reasonably conclude that Roycroft’s fear was not well-founded 
+or reasonable.                                                            
+   A jury could also supportably find that at the time Roycroft had grabbed Miller’s arm and 
+Miller had pulled away, there was no need for Roycroft to put Miller in a seatbelt hold.  Roycroft 
+stated he was afraid Miller was looking for a weapon inside the house.  [Dkt. 59-4 at 11].  While 
+
+there might always be a general concern that common household items such as kitchen knives or 
+scissors could be weaponized, Miller never made any threats to anyone.  Roycroft’s belief that he 
+needed to stop Miller’s movements because there might be weapons inside the home Miller 
+might use was purely speculative.                                         
+   The last stage of the altercation occurred when Miller and Roycroft fell into the office 
+area and Miller lay uncuffed on the ground.  Roycroft argues that restraining Miller was 
+necessary because he perceived Miller was moving to reach the golf clubs.  [Dkt. 59 at ¶ 87].  
+Although Roycroft’s left arm being trapped underneath Miller may have been a cause for 
+concern, the facts do not suggest Roycroft was in danger.  At that point there was no objective 
+evidence that Miller had an object in his hand or that he was armed with a weapon.  Jackson later 
+confirmed Miller was empty-handed.  [Dkt. 59 at ¶ 121].  In addition, Miller was on the floor 
+face down and his ability to move was restricted by the small office space they were in and the 
+fact that his arms were underneath his body.  The police procedures and use of force expert 
+Plaintiff retained, Scott Defoe (“DeFoe”), went so far as to state, “all of this stuff about [Miller] 
+
+being able to grab a golf club and swing it in this position is—I don’t want to use the word 
+nonsensical, but [is] impractical or improbabl[e] or impossible to actually be able to do from that 
+position.”  [Dkt. 59-18 at 7].                                            
+   Viewing facts in the light most favorable to Plaintiff, Miller’s actions suggest he was 
+trying to get away from Roycroft and not that he was trying to grab a weapon or harm anyone.  
+At no point did Miller have a weapon, nor did he ever indicate he wanted one.  He never 
+threatened the Defendants or Anderson, and he never struck anyone.  Indeed, a reasonable jury 
+could find that the facts merely conform with Miller’s unequivocal statement when he was on the 
+deck that he simply did not wish to interact with Roycroft.               
+
+        c.  Whether Miller Was Actively Resisting or Attempting to Evade Arrest 
+   The final Graham factor—whether Plaintiff was actively resisting arrest—also points in 
+Miller’s favor.  Defendants allege that Miller actively fought with Roycroft while he was in a 
+seatbelt hold, and subsequently tried to resist being handcuffed by keeping Roycroft’s left arm 
+pinned against his body.  [Dkt. 59 at ¶ 101].  Defendants also argue that Miller resisted by 
+kicking and trying to keep his arms underneath his body.  [Id. at ¶¶ 103, 111].   
+   But the Court must view the evidence in the light most favorable to Miller and draw all 
+reasonable inferences in his favor.  There are not sufficient facts to impute intent or infer Miller 
+was deliberately trapping Roycroft’s arm underneath his body.  The record here supports the 
+inference that Miller struggled to cast Roycroft’s weight from his back so he could breathe.  The 
+testimony of DeFoe, the police procedures and use of force expert, further bolsters this.  He 
+explained that when a person falls, they put their arms out to brace their fall, which subsequently 
+puts their arms underneath their body, restricting their arm movement.  [Dkt. 66-1 at 18-19].  
+Based on Miller’s chest being pressed to the ground and Roycroft’s body weight on his back, 
+
+DeFoe believed Miller would not have been able to free his arms in that moment even if he had 
+wanted to.  [Id.].  It was DeFoe’s conclusion that Miller’s resistance was predicated on his 
+attempting to breathe rather than his resisting Defendants’ attempts to handcuff him.  Thus, there 
+is a genuine issue of material fact as to whether Miller actively resisted at all. 
+   The risk of restraint-related asphyxiation in this circumstance should have been familiar 
+to both Defendants.  Roycroft took an 8-hour course that provided training to help people 
+experiencing mental health problems, such as psychosis.  [Dkt. 66-14 at 1].  Jackson received 
+training from the SWAT team he belonged to, in which he learned that “as soon as reasonably 
+possible,” an individual should be put in a recovery position “so they can breathe” and that 
+
+weight should not be put on the person’s back.  [Dkt. 59-11 at 15-16].  Moreover, Jackson knew 
+that obesity, age, and physical condition were factors that could make it more difficult for a 
+person to breathe if they were left lying on their stomach.  [Dkt. 64 at 42].  Plaintiff also entered 
+into the record a guidance circulated by the Department of Justice in 1995 titled, “Positional 
+Asphyxia—Sudden Death” [Dkt. 66-12 at 1], warning of the risk of positional asphyxia resulting 
+from the use of a prone restraint.  In particular, the guidance notes that obesity is one of the 
+factors that makes “some individuals more susceptible to positional asphyxia following a violent 
+struggle, particularly when prone in a face-down position.”  [Id. at 2].  Thus, a jury could find 
+that an objectively reasonable officer with Defendants’ training would have concluded that 
+Miller was struggling to breathe, not resisting arrest.                   
+   It is undoubtedly true that police officers must often make split-second decisions and 
+therefore “‘[n]ot every push or shove, even if it may later seem unnecessary in the peace of a 
+judge’s chambers,’ . . . violates the Fourth Amendment,” Graham, 490 U.S. at 396 (quoting 
+
+Johnson v. Glick, 481 F.2d 1028, 1033 (2d Cir. 1973)).  It is equally true that even where some 
+force is justified, the amount actually used may be excessive.  Here, applying the Graham 
+analysis, a jury could reasonably conclude that there was little or no need for the application of 
+force against Miller, and that in light of his death, the force used was excessive. 
+   2.  Clearly Established Right                                        
+   The Court now turns to the clearly established prong of qualified immunity.  The second 
+prong of the analysis is further broken down into two elements.  The Court must first assess 
+“whether the contours of the right, in general, were sufficiently clear,” and second “whether, 
+under the specific facts of the case, a reasonable defendant would have understood that he was 
+
+violating the right.”  Ford v. Bender, 768 F.3d 15, 23 (1st Cir. 2014); see also Plumhoff v. 
+Rickard, 572 U.S. 765, 778-79 (2014) (“A defendant cannot be said to have violated a clearly 
+established right unless the right’s contours were sufficiently definite that any reasonable official 
+in the defendant’s shoes would have understood that he was violating it.”).   
+   Although the contours of a right must be “sufficiently clear,” Anderson v. Creighton, 483 
+U.S. 635, 640 (1987), there can be “notable factual distinctions between the precedents relied on 
+. . . so long as the prior decisions gave reasonable warning that the conduct then at issue violated 
+constitutional rights.”  Hope v. Pelzer, 536 U.S. 730, 741 (2002).  Here, there are four instances 
+in which Defendants used force against Miller: 1) when Roycroft grabbed Miller by the arm; 2) 
+when Roycroft put Miller in a seatbelt hold; 3) when Jackson punched Miller twice in the side; 
+and 4) when Roycroft and Jackson restrained Miller when he was already on the floor and 
+handcuffed him.                                                           
+   Regarding the first three uses of force, for the reasons discussed above, a reasonable jury 
+could find that no use of force was necessary.  A reasonable jury could alternatively find that 
+
+some amount of physical force was warranted.  Regardless, there is no Supreme Court case or 
+robust consensus of persuasive authority to demonstrate that these instances were a violation of a 
+clearly established right and that a reasonable officer would have known this.  However, that is 
+not the case for Defendants’ last use of force when Miller was already on the floor. 
+   When Roycroft and Miller tripped and fell to the floor in the office space area, Roycroft 
+fell to Miller’s left side.  [Dkt. 59 at ¶¶ 92, 94].  Roycroft was “more on his left hip,” with his 
+right leg over Miller’s left leg, his right arm draped between Miller’s shoulders, and his left arm 
+trapped underneath Miller.  [Id. at ¶ 104].  In April 2019, Roycroft weighed 190 lbs. [Dkt. 59-4 
+at 12], and Miller weighed 214 lbs.  [Dkt. 66-3 at 5].  Plaintiff’s use of force expert DeFoe 
+
+estimates Roycroft weighed 215 or 220 lbs. while wearing all of his police gear.  [Dkt. 66-1 at 
+20].  A reasonable jury could infer that approximately half of Roycroft’s weight was on Miller’s 
+back while he was restrained on the floor and that Roycroft used his right arm to apply pressure 
+on Miller’s back.  [Dkts. 59-4 at 35; 64 at ¶ 207].  Miller tried to push up to breathe by bringing 
+his chest up.  [Id.].  Roycroft reacted to Miller pushing up by applying pressure on Miller’s back 
+between his shoulder blades.  [Id.].  In other words, when Miller pushed up, Roycroft pushed 
+down.  [Dkt. 59-4 at 35].  While the officers attempted to handcuff Miller, Anderson remembers 
+him saying, “I can’t breathe.”  [Dkt. 64 at ¶ 211].  Anderson remembers seeing one of the 
+officers placing his knee on Miller’s back to create a leverage point for getting the handcuffs on 
+Miller.  [Dkt. 59 at ¶ 144].  Anderson asked, “Can he breathe?” and Roycroft or Jackson 
+responded, “Yes, he can breathe.”  [Dkt. 64 at ¶ 126].  Then Miller said, “Amy, help me.”  [Dkt. 
+64 at ¶ 213].  Anderson believes those were probably Miller’s last words.  [Dkt. 59-8 at 57]. 
+   The First Circuit has found that exerting a lot of sustained pressure on the back of a 
+restrained person is unreasonable.  In McCue v. City of Bangor, Maine, the court noted that “it 
+
+was clearly established in September 2012 that exerting significant, continued force on a 
+person’s back while that person is in a face-down prone position after being subdued and/or 
+incapacitated constitutes excessive force.”  838 F.3d 55, 64 (1st Cir. 2016).  Four other circuits 
+have reached the same conclusion.  See Weigel v. Broad, 544 F.3d 1143, 1152, 1155 (10th Cir. 
+2008) (holding officer not entitled to qualified immunity at summary judgment stage where he 
+applied pressure to detainee’s back for “about three minutes” after hands and feet had been 
+restrained); Abdullahi v. City of Madison, 423 F.3d 763, 765, 771 (7th Cir. 2005) (holding 
+officer not entitled to qualified immunity at summary judgment where an officer “placed his 
+right knee and shin on the back of [plaintiff’s] shoulder area and applied his weight to keep 
+
+Abdullahi from squirming or flailing” for 30 to 45 seconds, despite the fact that the detainee had 
+“arch[ed] his back upwards as if he were trying to escape” in “a futile attempt to breathe”); 
+Drummond ex rel. Drummond v. City of Anaheim, 343 F.3d 1052, 1057 (9th Cir. 2003) (holding 
+officers violated the plaintiff’s Fourth Amendment right to be free from excessive force by 
+pressing their weight against his torso and neck “after he was ‘knock[ed] . . . to the ground where 
+the officers cuffed his arms behind his back as [he] lay on his stomach’”).  Accordingly, this 
+Court finds that it was clearly established that Plaintiff had a constitutional right to be free from 
+an officer kneeling on his back after he had been restrained.             
+   The second element of the clearly established prong requires the Court to determine 
+“whether, under the specific facts of the case, a reasonable defendant would have understood that 
+he was violating the right.”  Ford, 768 F.3d at 23.  Similar to Lachance v. Town of Charlton, 
+there is a dispute of fact whether either Defendant placed his knee on Miller’s back and whether 
+they exerted any weight on Miller’s back.  368 F. Supp. 3d 231, 241 (D. Mass. 2019) aff’d, 990 
+
+F.3d 14 (1st Cir. 2021) (finding that officers, when responding to a medical emergency, used 
+excessive force when an officer placed a knee in the center of the plaintiff’s back and handcuffed 
+him).1  Parties also dispute whether Miller said he could not breathe or made a plea for 
+Anderson’s help.  Nonetheless, as the Court has stated before, at the summary judgment stage, 
+“disputes must be resolved, and inferences must be drawn, in Plaintiff’s favor.”  Id.  Miller’s 
+account of the facts leaves us with a scenario in which an officer deployed aggressive restraint 
+tactics against a civilian, without any provocation beyond using profanity to abruptly end a 
+conversation with the officer and walking away into his own home.         
+   The Court recognizes that police officers are often called upon to place themselves in 
+
+harm’s way to serve and protect the public and are required to make split-second decisions 
+regarding whether to use force.  Nevertheless, the Constitution requires that when officers use 
+force, they use no more force than necessary, as it holds them “accountable when they exercise 
+power irresponsibly.”  Pearson v. Callahan, 555 U.S. 223, 231 (2009).  Consequently, for 
+purposes of this motion, the Court finds that a reasonable officer would have been aware that 
+subduing an unarmed and mentally unstable individual with compressive body weight who stated 
+
+
+1 There is a genuine issue of material fact as to whether Roycroft and Miller gave false statements to the lead 
+paramedic, Vicki Yefko (“Yefko”), as to what occurred between Defendants and Miller or whether Yefko obtained 
+that incorrect information from someone else at the scene.  [See Dkts. 65 at 13-14; 67 at 4].  Setting aside whether 
+Miller and Roycroft spoke to Yefko, their subjective motivations “ha[ve] no bearing on whether a particular seizure 
+is ‘unreasonable’ under the Fourth Amendment.”  Graham, 490 U.S. at 397.  
+he could not breathe would violate that person’s clearly established right to be free from 
+excessive force.  Thus, Roycroft is not entitled to qualified immunity.   
+
+   3.  Failure to Intervene                                             
+   “An officer may be held liable not only for his personal use of excessive force, but also 
+
+for his failure to intervene in appropriate circumstances to protect an arrestee from the excessive 
+use of force by his fellow officers.”  Wilson v. Town of Mendon, 294 F.3d 1, 6 (1st Cir. 2002). 
+To establish an officer’s liability for failing to intervene, a plaintiff must show that the officer: 
+(1) “was present when excessive force was used;” (2) “observed the use of excessive force;” (3) 
+“was in a position where he . . . could realistically prevent that force;” and (4) “had sufficient 
+time to do so.”  Davis v. Rennie, 264 F. 3d 86, 102 (1st Cir. 2001).  Plaintiff claims that Jackson 
+is liable for failing to intervene when Roycroft used unreasonable force on Miller.  [Dkt. 65 at 
+19-20].  Defendants argue, however, that Jackson is entitled to qualified immunity.  [Dkt. 60 at 
+17-20].                                                                   
+
+   Qualified immunity is ordinarily a question of law for the Court.  And although the 
+Supreme Court has urged lower courts to determine the applicability of qualified immunity as 
+soon as practicable, Anderson, 483 U.S. at 646 n.6, it is sometimes impossible to resolve the 
+qualified immunity question before trial.  See Kelley v. LaForce, 288 F.3d 1, 7 (1st Cir. 2002) 
+(explaining that disputes as to material facts sometimes will preclude summary judgment based 
+on qualified immunity).  This is one such case.  The factual disputes surrounding the 
+circumstances of Miller’s restraint and handcuffing precludes determining whether qualified 
+immunity applies to Jackson for failure to intervene.                     
+   By the time Jackson arrived at the office area inside the home, Roycroft and Miller had 
+already tripped and fallen.  Jackson knew from the 911 dispatch call that this was a mental health 
+call.  Jackson observed Miller and Roycroft on the floor with Roycroft’s left arm stuck between 
+Miller’s torso and left arm.  Roycroft subsequently told Jackson something along the lines of, “I 
+don’t know if he has anything in his hands,” or “I think [Miller]’s got something in his hands.”  
+
+[Dkt. 59-4 at 34].  Because Miller’s arms were underneath his body, Jackson could not see 
+Miller’s hands, but he could see the shaft of a single golf club under Miller’s body.  [Dkt. 59-12 
+at 12].  Given the paucity of information Jackson had in that moment, an objectively reasonable 
+police officer standing in Jackson’s shoes would have contemplated the possibility Miller might 
+be dangerous and would have prioritized helping Roycroft.  Jackson was thus reasonable in 
+asking whether it would be appropriate for him to use his taser.  When Roycroft told him not to, 
+it was reasonable for Jackson to then punch Miller’s torso in an attempt to free Roycroft’s left 
+arm and handcuff Miller.  [See Dkt. 66-1 at 22 (Plaintiff’s expert Defoe acknowledges that, 
+based on what Jackson knew at the time, it was reasonable for him to suggest using a taser and 
+
+subsequently use “distraction strikes to effect the handcuffing technique”)].  “The Fourth 
+Amendment standard is reasonableness, and it is reasonable for police to move quickly if delay 
+‘would gravely endanger their lives or the lives of others.’”  City & Cnty. of San Francisco, 
+Calif. v. Sheehan, 575 U.S. 600, 612 (2015) (quoting Warden, Md. Penitentiary v. Hayden, 387 
+U.S. 294, 298–29 (1967).  “This is true even when, judged with the benefit of hindsight, the 
+officers may have made ‘some mistakes.’”  Id. (quoting Heien v. North Carolina, 574 U.S. 54, 61 
+(2014)).                                                                  
+   There are, however, factual disputes regarding events immediately after that the jury must 
+decide.  There is a genuine dispute how long Miller was on the floor.  Jackson estimates that 
+approximately sixty seconds transpired between the time he arrived, and the moment Miller was 
+handcuffed.  [Ex. 59-12 at 19].  Based on the time Roycroft heard the sliding door fall out of its 
+frame and the time the EMTs were called, use of force expert Defoe theorizes Roycroft applied 
+pressure on Miller’s back while attempting to handcuff him for approximately two minutes and 
+fifteen or thirty seconds.  [Dkt. 66-1 at 22].  This means Jackson had approximately the same 
+
+amount of time to determine whether his and Roycroft’s use of force was excessive and that they 
+needed to stop.  There is also a dispute about whether one of the officers put his knee on 
+Plaintiff’s back and if so, for how long and how much pressure was exerted.  Anderson 
+remembers one of the officers placing his knee on Miller’s back, but Roycroft stated he does not 
+remember placing his knee or observing Jackson place his knee on Miller’s back at any point.2  
+Defendants also allege they did not hear or observe Miller struggling to breathe or notice 
+anything about Miller’s behavior that suggested he was experiencing a medical event.  
+According to Defendants, neither officer heard Anderson nor Miller speak.  In contrast, 
+Anderson remembers Miller saying, “I can’t breathe,” and “Help me, Amy.”3  Anderson stated 
+
+she then asked one of the officers whether Miller could breathe and one of them replied that he 
+could.                                                                    
+   Jackson would be entitled to qualified immunity if his version of events is substantiated.  
+On the other hand, Miller would prevail on Jackson’s qualified immunity claim if the fact finder 
+believes Miller’s version of events and it is established that Jackson had an opportunity and 
+sufficient time to stop Roycroft from exerting excessive force on Miller. 
+
+
+
+2 In his affidavit, however, Roycroft acknowledges “it is possible” that one of the Defendants placed his knee on 
+Miller’s back for a “few seconds” while they brought Miller’s arms together to handcuff him.  [Dkt. 59-5 at 14]. 
+3 During her deposition, Anderson was unequivocal about this and insisted this was “not like a falsified retrieved 
+memory or anything.”  [Dkt. 59-8 at 60-61].                               
+   Because of these factual disputes that the jury must decide, it is unclear whether Jackson 
+had a duty to intervene.  Thus, the Court will wait until after the facts have been settled to 
+determine whether Jackson’s conduct “was objectively reasonable and falls under the qualified 
+immunity umbrella.”  Kelley, 288 F.3d at 7.                               
+B.   Wrongful Death, M.G.L. ch. 229 § 2                                 
+
+Count II alleges wrongful death under Mass. Gen. Laws ch. 229 § 2 on the basis that 
+Defendants’ use of force caused Miller’s death.  [Dkt. 1 at 8].  “To prevail on a wrongful death 
+claim, pursuant to G.L. ch. 229, § 2, a plaintiff must prove negligence, or willful or reckless 
+conduct, on the part of the defendant, that caused the death of a person.”  Gianocostas v. 
+Interface Grp.-Mass., Inc., 450 Mass. 715, 727 n.13 (2008).  “Much like a § 1983 claim, the 
+Massachusetts Wrongful Death Act ‘largely incorporates common law tort principles,’ such as 
+factual and legal causation.”  Geigel v. Bos. Police Dep’t, No. 22-CV-11437-DJC, 2024 WL 
+68387, at *5 (D. Mass. Jan. 5, 2024) (quoting Davis v. United States, 670 F.3d 48, 53 (1st Cir. 
+2012)).                                                                   
+
+For the reasons explained above with respect to the § 1983 claim—namely that there are 
+disputed material factual issues whether Roycroft and Jackson used excessive force and violated 
+the Plaintiff’s constitutional rights—Defendants’ Motion for Summary Judgment as to Miller’s 
+wrongful death claim is denied.                                           
+IV.  CONCLUSION                                                           
+   For the foregoing reasons, Defendants’ Motion for Summary Judgment [Dkt. 57] is 
+DENIED.                                                                   
+   SO ORDERED.                                                          
+Dated: March 31, 2024                   /s/ Angel Kelley                  
+                                      Hon. Angel Kelley                 
+                                      United States District Judge

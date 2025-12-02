@@ -1,0 +1,1634 @@
+                                           Case 3:20-cv-05151-JD Document 64 Filed 09/13/22 Page 1 of 25
+
+
+
+
+                                   1
+
+                                   2
+
+                                   3
+
+                                   4                                    UNITED STATES DISTRICT COURT
+
+                                   5                                   NORTHERN DISTRICT OF CALIFORNIA
+
+                                   6
+
+                                   7     NATURAL GROCERS, et al.,                            Case No. 20-cv-05151-JD
+                                                         Plaintiffs,
+                                   8
+                                                                                             ORDER RE SUMMARY JUDGMENT
+                                                  v.
+                                   9
+
+                                  10     THOMAS VILSACK, et al.,
+                                                         Defendants.
+                                  11
+
+                                  12
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13          In 2016, Congress amended the Agricultural Marketing Act of 1946 to enact the first
+
+                                  14   national mandatory bioengineered food disclosure standards. See 7 U.S.C. § 1639 (the disclosure
+
+                                  15   statute). The purpose of the disclosure statute is to establish uniformity in the way that
+
+                                  16   bioengineered food is labeled and described to consumers. Plaintiffs are retail stores that sell
+
+                                  17   natural and organic food products, and organizations engaged in food safety advocacy.
+
+                                  18   Defendants are the United States Department of Agriculture (USDA), the USDA Secretary, and
+
+                                  19   the Administrator of the Agricultural Marketing Service (AMS), which is a USDA agency
+
+                                  20   responsible for the marketing of agricultural commodities, among other programs.
+
+                                  21          Plaintiffs filed a 115-page amended complaint that alleges a number of challenges to the
+
+                                  22   disclosure statute and implementing regulations promulgated by the USDA. Dkt. No. 19. In
+
+                                  23   pertinent part, plaintiffs challenge under the Administrative Procedure Act, 5 U.S.C. § 706 (APA),
+
+                                  24   regulations that: (1) permit a text message disclosure option as an alternative to an electronic or
+
+                                  25   digital link disclosure; (2) require disclosures to use the word “bioengineered”; and (3) exclude
+
+                                  26   highly refined foods that do not contain detectable amounts of modified genetic material.
+
+                                  27   Plaintiffs also say that the word-use regulations restrict their speech in violation of the First and
+
+                                  28   Fifth Amendments to the United States Constitution, and that a provision in the disclosure statute
+                                             Case 3:20-cv-05151-JD Document 64 Filed 09/13/22 Page 2 of 25
+
+
+
+
+                                   1   preempting state labeling laws for genetically engineered (GE) seeds violates the Tenth
+
+                                   2   Amendment.
+
+                                   3             Plaintiffs filed a motion for summary judgment, Dkt. No. 54, which the government
+
+                                   4   opposed, Dkt. No. 56. The Court granted applications to intervene by the United States Beet
+
+                                   5   Sugar Association, the American Sugarbeet Growers Association, and the American Farm Bureau
+
+                                   6   Federation, see Dkt. Nos. 29, 46, and intervenors filed a consolidated opposition to plaintiffs’
+
+                                   7   summary judgment motion. Dkt. No. 57.
+
+                                   8             Summary judgment is granted in favor of plaintiffs under the APA for the text message
+
+                                   9   disclosure regulation. In all other respects, plaintiffs’ motion is denied.
+
+                                  10                                               BACKGROUND
+
+                                  11   I.        THE DISCLOSURE STATUTE
+                                  12             The salient facts are undisputed. In 2016, in response to the adoption of state laws
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   regulating the labeling of GE and genetically modified (GM or GMO) food and seeds, Congress
+
+                                  14   amended the Agricultural Marketing Act of 1946 to establish the first-ever national standard of
+
+                                  15   consumer disclosures for bioengineered foods. AR248811.1 Congress declared that the purpose
+
+                                  16   of the disclosure statute was “to preempt state and local actions that mandate labeling of whether a
+
+                                  17   food or seed is genetically engineered, and establish a mandatory uniform national disclosure
+
+                                  18   standard for human food that is or may be bioengineered.” Id.
+
+                                  19             As used in the disclosure statute, “bioengineering” with respect to a food means a food
+
+                                  20   “(A) that contains genetic material that has been modified through in vitro recombinant
+
+                                  21   deoxyribonucleic acid (DNA) techniques; and (B) for which the modification could not otherwise
+
+                                  22   be obtained through conventional breeding or found in nature.” 7 U.S.C. § 1639(1). “Food” takes
+
+                                  23   the definition in 21 U.S.C. § 321(f) of “(1) articles used for food or drink for man or other animals,
+
+                                  24   (2) chewing gum, and (3) articles used for components of any such article.” See 7 U.S.C.
+
+                                  25   § 1639(2). A “food derived from an animal” may not “be considered a bioengineered food solely
+
+                                  26   because the animal consumed feed” containing bioengineered substances. Id. § 1639b(b)(2)(A).
+
+                                  27
+
+                                  28   1
+                                            All citations to the administrative record (AR) are in Dkt. No. 59.
+                                                                                            2
+                                           Case 3:20-cv-05151-JD Document 64 Filed 09/13/22 Page 3 of 25
+
+
+
+
+                                   1   Congress did not specify a threshold of “the amounts of a bioengineered substance” in a food to
+
+                                   2   trigger a bioengineering classification. Id. § 1639b(b)(2)(B).
+
+                                   3          Congress directed the USDA to implement regulations “with respect to any bioengineered
+
+                                   4   food and any food that may be bioengineered,” and to “establish such requirements and
+
+                                   5   procedures as the [USDA] determines necessary to carry out the standard.” Id. § 1639b(a). The
+
+                                   6   statute mandates that “[a] food may bear a disclosure that the food is bioengineered only in
+
+                                   7   accordance with regulations promulgated by the [USDA] in accordance with this subchapter.” Id.
+
+                                   8   § 1639b(b)(1).
+
+                                   9          Congress issued a number of specific directives to the USDA for the regulations. Among
+
+                                  10   others, Congress required that a bioengineering disclosure on labels for consumers take the form
+
+                                  11   of “a text, symbol, or electronic or digital link,” with the “disclosure option to be selected by the
+
+                                  12   food manufacturer.” Id. § 1639b(b)(2)(D). It required that the electronic or digital link be
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   accompanied by “on-package language” indicating that the link provides access to food
+
+                                  14   information, along with “a telephone number that provides access to the bioengineering
+
+                                  15   disclosure.” Id. § 1639b(d)(1), (4).
+
+                                  16          The disclosure statute also directed the USDA to “conduct a study to identify potential
+
+                                  17   technological challenges that may impact whether consumers would have access to the
+
+                                  18   bioengineering disclosure through electronic or digital disclosure methods.” Id. § 1639b(c)(1). If
+
+                                  19   the study determined “that consumers, while shopping, would not have sufficient access to the
+
+                                  20   bioengineering disclosure through electronic or digital disclosure methods,” the USDA was to
+
+                                  21   “provide additional and comparable options to access the bioengineering disclosure.” Id.
+
+                                  22   § 1639b(c)(4).
+
+                                  23          In addition to the consumer disclosure elements, the statute contains a section that
+
+                                  24   preempts state labeling laws for GE food and seeds. This section declares that “[n]o State or a
+
+                                  25   political subdivision of a State may directly or indirectly establish under any authority or continue
+
+                                  26   in effect as to any food or seed in interstate commerce any requirement relating to the labeling of
+
+                                  27   whether a food (including food served in a restaurant or similar establishment) or seed is
+
+                                  28   genetically engineered (which shall include such other similar terms as determined by the
+                                                                                          3
+                                             Case 3:20-cv-05151-JD Document 64 Filed 09/13/22 Page 4 of 25
+
+
+
+
+                                   1   [USDA]) or was developed or produced using genetic engineering, including any requirement for
+
+                                   2   claims that a food or seed is or contains an ingredient that was developed or produced using
+
+                                   3   genetic engineering.” Id. § 1639i(b). Plaintiffs acknowledged in a reply brief that the preemption
+
+                                   4   provision properly regulates private actors with respect to food labeling, but they challenge
+
+                                   5   preemption with respect to seed labeling. Dkt. No. 58 at 18-19.
+
+                                   6   II.       THE DISCLOSURE REGULATIONS
+                                   7             The USDA delegated to AMS the task of formulating regulations responsive to Congress’s
+
+                                   8   directives. 83 Fed. Reg. at 65814. To that end, AMS posted 30 questions for public comment on
+
+                                   9   its website in June 2017, and received over 112,000 responses. AR282-90; 83 Fed. Reg. at 19860.
+
+                                  10   In May 2018, AMS published a notice of proposed rulemaking, and received approximately
+
+                                  11   14,000 comments. 83 Fed. Reg. at 19860, 65814. AMS published the final regulations in
+
+                                  12   December 2018, with a mandatory compliance date of January 1, 2022. Id. at 65814; 7 C.F.R.
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   § 66.1.
+
+                                  14             The regulations apply to a “regulated entity,” which is defined as “the food manufacturer,
+
+                                  15   importer, or retailer that is responsible for making bioengineered food disclosures under
+
+                                  16   § 66.100(a).” 7 C.F.R. § 66.1. A manufacturer or importer is responsible for disclosures for foods
+
+                                  17   that are “packaged prior to receipt by a retailer.” Id. § 66.100(a)(1). A retailer is responsible for
+
+                                  18   foods the retailer packages itself, or sells in bulk. Id. § 66.100(a)(2). The retailer plaintiffs,
+
+                                  19   Natural Grocers, Good Earth Natural Foods, and Puget Consumers Co-op, are regulated entities to
+
+                                  20   the extent they package or sell food in bulk in their stores. See id.
+
+                                  21             A.     The Electronic Disclosure Study
+                                  22             AMS hired Deloitte Consulting to conduct the study on the accessibility of the electronic
+
+                                  23   disclosure mandated by Section 1639b(c)(1) of the statute. See AR250043-118. The study found
+
+                                  24   that “key technological challenges,” including a lack of technical knowledge and a lack of
+
+                                  25   infrastructure, “prevented nearly all participants from obtaining the information through electronic
+
+                                  26   or digital disclosure methods.” AR250046. It also found that the telephone numbers
+
+                                  27   accompanying the electronic disclosure “do not provide a viable means of accessing the
+
+                                  28   bioengineering disclosure.” AR250091. The study recommended “on-package identification,”
+                                                                                           4
+                                           Case 3:20-cv-05151-JD Document 64 Filed 09/13/22 Page 5 of 25
+
+
+
+
+                                   1   such as “a landline-enabled bioengineering disclosure” with “24-hour disclosure information via
+
+                                   2   an automated recording,” and “a text message alternative for consumers who have access to a
+
+                                   3   mobile phone.” AR250111.
+
+                                   4          Based on the study, AMS concluded that “consumers would not have sufficient access to
+
+                                   5   the bioengineering disclosure through electronic or digital means under ordinary shopping
+
+                                   6   conditions at this time.” 83 Fed. Reg. at 65828. To improve consumer access to the
+
+                                   7   bioengineering information, and to satisfy Congress’s directive to “provide additional and
+
+                                   8   comparable options to access the bioengineering disclosure,” 7 U.S.C. § 1639b(c)(4), AMS
+
+                                   9   created a fourth disclosure option of text messaging separate from the electronic disclosure
+
+                                  10   method. 83 Fed. Reg. at 65828-29; 7 C.F.R. §§ 66.100(b)(4), 66.108.
+
+                                  11          The final regulations provide that regulated entities can comply with the disclosure
+
+                                  12   requirement by adding one of the following to a food label: (i) the statement “Bioengineered
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   food” or “Contains a bioengineered food ingredient” (the text disclosure); (ii) a symbol that says
+
+                                  14   “bioengineered” (the symbol disclosure); (iii) an electronic or digital disclosure link and
+
+                                  15   accompanying text (the electronic disclosure); or (iv) text message instructions (the text message
+
+                                  16   disclosure). Id. §§ 66.100(b)(1)-(4), 66.102, 66.104, 66.106, 66.108. 2
+
+                                  17          For the electronic disclosure, a food label must have an electronic or digital link printed on
+
+                                  18   the label, and the link must be accompanied by the statement “Scan here for more food
+
+                                  19   information” and “Call [1-000-000-0000] for more food information.” Id. § 66.106. The link
+
+                                  20   must connect directly to a product information page that includes the text disclosure or the symbol
+
+                                  21   disclosure, and the page must exclude marketing and promotional information. Id. § 66.106(b).
+
+                                  22          For the text message disclosure, a food label must say “Text [command word] to [number]
+
+                                  23   for bioengineered food information.” Id. § 66.108(a). The number must send “an immediate
+
+                                  24   response to the consumer’s mobile device” with the text disclosure or the symbol disclosure, and
+
+                                  25   the response must not contain any marketing or promotional information. Id. § 66.108(a)-(c).
+
+                                  26
+                                  27
+                                       2
+                                  28    The regulations also provide alternative disclosure options for small food manufacturers and for
+                                       small packages pursuant to 7 U.S.C. §§ 1639b(2)(E), (F). 7 C.F.R. §§ 66.110, 66.112.
+                                                                                        5
+                                           Case 3:20-cv-05151-JD Document 64 Filed 09/13/22 Page 6 of 25
+
+
+
+
+                                   1          B.      Mandatory Disclosure Terminology
+
+                                   2          In the notice of proposed rulemaking, AMS proposed the use of the term “bioengineered”
+
+                                   3   in all disclosures because the “statutory term, ‘bioengineering,’ adequately describes food
+
+                                   4   products of the technology that Congress intended to be within the scope of the [regulations].” 83
+
+                                   5   Fed. Reg. at 19871. The statute itself did not require the use of any particular words.
+
+                                   6          A number of commenters objected to this proposal, and said the disclosure language
+
+                                   7   should include GE or GMO because those terms are better understood by consumers. See id. at
+
+                                   8   65851-52. Some commenters suggested that disclosures should include “may be bioengineered,”
+
+                                   9   but others said that would be confusing. Id. at 65827, 65852.
+
+                                  10          After reviewing the comments, AMS decided to require “bioengineered” in all disclosures.
+
+                                  11   Id. at 65827, 65852-53; 7 C.F.R. §§ 66.100-66.108. The agency declined to use “may be
+
+                                  12   bioengineered” as vague and likely to be confusing. 83 Fed. Reg. at 65827, 65852. AMS was a
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   bit more ambivalent about GE or GMO, but “ultimately determined that bioengineering and
+
+                                  14   bioengineered food accurately reflected the scope of disclosure and the products and potential
+
+                                  15   technology at issue.” Id. at 65837. In the view of AMS, GE or GMO might “create
+
+                                  16   inconsistencies with the preemption provisions or muddy the scope of disclosure,” and limiting
+
+                                  17   mandatory disclosure language to bioengineered would provide “disclosure consistency” and
+
+                                  18   minimize “marketplace confusion.” Id. at 65837, 65851.
+
+                                  19          AMS took some pains to emphasize that the mandatory disclosure language is intended to
+
+                                  20   be a floor, not a ceiling. As minimum requirements, the text disclosure must say “Bioengineered
+
+                                  21   food” or “Contains a bioengineered food ingredient,” and the symbol disclosure must use the word
+
+                                  22   “BIOENGINEERED.” 7 C.F.R. §§ 66.102(a), 66.104(a). Even so, as detailed in the ensuing First
+
+                                  23   and Fifth Amendment discussion, regulated entities are perfectly free to make additional
+
+                                  24   statements about bioengineered foods so long as they are consistent with federal laws generally.
+
+                                  25   83 Fed. Reg. at 65852; 7 C.F.R. § 66.118; see also Dkt. No. 56 at 28 (government brief
+
+                                  26   acknowledging same).
+
+                                  27
+
+                                  28
+                                                                                         6
+                                           Case 3:20-cv-05151-JD Document 64 Filed 09/13/22 Page 7 of 25
+
+
+
+
+                                   1          C.      Regulatory Definition of “Bioengineering” and Highly Refined Foods
+
+                                   2          In the notice of proposed rulemaking, AMS called for comments on what bioengineered
+
+                                   3   should mean in light of the statutory definition of “bioengineering.” 83 Fed. Reg. at 19862-63; see
+
+                                   4   also 7 U.S.C. § 1639(1). AMS presented two “positions” as options. Position 1 defined
+
+                                   5   “bioengineering” to exclude highly refined food products that might have used genetically
+
+                                   6   modified ingredients, but do not have detectable levels of modified genetic material in the final
+
+                                   7   product sold to consumers. 83 Fed. Reg. at 19862-63. Such ingredients include sugar derived
+
+                                   8   from genetically modified sugar cane and sugar beets, corn starch and corn syrup derived from
+
+                                   9   genetically modified corn, and soybean oil derived from genetically modified soybeans. Id.
+
+                                  10   Position 2 defined bioengineering to include all foods produced using bioengineering technology
+
+                                  11   or genetically modified ingredients, including highly refined products that do not have detectable
+
+                                  12   modified genetic material. Id. at 19863.
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13          The position proposals elicited divided comments. Id. at 65833-37. Supporters of Position
+
+                                  14   2 argued that consumers are more concerned about the use of bioengineered crops than whether
+
+                                  15   the products derived from those crops contain detectable modified genetic material. Id. at 65834-
+
+                                  16   35. Proponents of Position 1 stated that scientific studies have demonstrated an absence of
+
+                                  17   modified genetic material in highly refined foods as the result of processing, and expressed
+
+                                  18   concern that mandating disclosure for all refined products would disparage biotechnology and
+
+                                  19   impose undue compliance costs on regulated entities. Id. at 65833, 65836. Critics of Position 1
+
+                                  20   took issue with the detectability point and noted that testing methods would likely improve over
+
+                                  21   time to reveal the presence of previously undetectable modified genetic material. Id. at 65834.
+
+                                  22   The concern is that a detection standard would allow refined foods containing modified genetic
+
+                                  23   material to be sold unwittingly to consumers today.
+
+                                  24          In the final regulations, AMS adopted a modified version of Position 1. It defined
+
+                                  25   bioengineering to exclude foods with undetectable modified genetic material. Id. at 65816-17;
+
+                                  26   7 C.F.R. § 66.1. AMS also created something of a safety net by adopting a “List of Bioengineered
+
+                                  27   Foods,” which are crops and food ingredients presumed to be bioengineered. 7 C.F.R. § 66.6; 83
+
+                                  28   Fed. Reg. at 65826. The current list comprises “[a]lfalfa, apple (ArcticTM varieties), canola, corn,
+                                                                                         7
+                                              Case 3:20-cv-05151-JD Document 64 Filed 09/13/22 Page 8 of 25
+
+
+
+
+                                   1   cotton, eggplant (BARI Bt Begun varieties), papaya (ringspot virus-resistant varieties), pineapple
+
+                                   2   (pink flesh varieties), potato, salmon (AquAdvantage®), soybean, squash (summer), and
+
+                                   3   sugarbeet.” 7 C.F.R. § 66.6. AMS committed to updating the list as warranted on an annual basis.
+
+                                   4   Id. § 66.7. A highly refined food produced with a listed item as an ingredient is presumed to
+
+                                   5   require disclosure, and would be exempted only if the regulated entity proved that the product is
+
+                                   6   not bioengineered. 83 Fed. Reg. at 65818-19, 65826; 7 C.F.R. §§ 66.5, 66.6, 66.9; see also Dkt.
+
+                                   7   No. 56 at 5 (“A crop or food included on the List or a food made from or with an item on the List
+
+                                   8   requires disclosure unless a regulated entity has records demonstrating that its food product is not
+
+                                   9   bioengineered (e.g. is organic or does not contain detectable modified genetic material).”). In
+
+                                  10   sum, AMS determined that highly refined foods would not be subject to the disclosure statute and
+
+                                  11   regulations unless: (1) they had detectable amounts of modified genetic material; or (2) they
+
+                                  12   included ingredients from the presumed bioengineered list and the regulated entity did not prove
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   that the food was not bioengineered.
+
+                                  14            AMS concluded that this approach would likely be overinclusive. 83 Fed. Reg. at 65826
+
+                                  15   (“While we acknowledge that this framework may result in regulated entities placing a BE
+
+                                  16   disclosure on a food that they do not know with certainty is bioengineered, we believe that it is
+
+                                  17   appropriate to err on the side of disclosure to provide consumers with the fullest information about
+
+                                  18   food that could be bioengineered.”). AMS also concluded that many highly refined foods may not
+
+                                  19   require a bioengineering disclosure even with the use of a listed ingredient because “the refining
+
+                                  20   process removes the genetic material so that it can no longer be detected. If the genetic material is
+
+                                  21   not detected, then it is not possible to conclude that the food product or ingredient contains
+
+                                  22   modified genetic material.” Id. at 65834.
+
+                                  23   III.     PLAINTIFFS’ LAWSUIT
+                                  24            Plaintiffs filed this lawsuit approximately 18 months after AMS published the final
+
+                                  25   regulations. Dkt. No. 1. The amended complaint alleges that the regulations concerning the text
+
+                                  26   message disclosure, mandatory disclosure terminology, and the definition of bioengineering, are
+
+                                  27   not in accordance with law and are arbitrary and capricious under the Administrative Procedure
+
+                                  28   Act. Dkt. No. 19 ¶¶ 133-42, 205-10, 271-79. Plaintiffs also say that the disclosure statute and the
+                                                                                         8
+                                             Case 3:20-cv-05151-JD Document 64 Filed 09/13/22 Page 9 of 25
+
+
+
+
+                                   1   regulations violate the First and Fifth Amendments to the Constitution by limiting their freedom to
+
+                                   2   use words other than “bioengineered” in communications with consumers. Id. ¶¶ 317-33, 392-
+
+                                   3   401. To be clear, plaintiffs do not bring a constitutional challenge to the mandatory use of specific
+
+                                   4   words in the standardized disclosures. They object only that the regulations, in their view, do not
+
+                                   5   let them say more. Plaintiffs also contend that the preemption of state labeling laws for GE seeds
+
+                                   6   violates the Tenth Amendment. Id. ¶¶ 361-67.
+
+                                   7                                              DISCUSSION
+
+                                   8   IV.     LEGAL STANDARDS
+                                   9           The standard of review for claims brought under the APA is well established. See, e.g.,
+
+                                  10   Ecological Rts. Found. v. FEMA, 384 F. Supp. 3d 1111, 1118-19 (N.D. Cal. 2019). An agency
+
+                                  11   action will be upheld unless it is found to be “arbitrary, capricious, an abuse of discretion, or
+
+                                  12   otherwise not in accordance with law.” 5 U.S C. § 706(2)(A); Defenders of Wildlife v. Zinke, 856
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   F.3d 1248, 1256-57 (9th Cir. 2017). An agency decision is arbitrary and capricious “if the agency
+
+                                  14   relied on factors Congress did not intend it to consider, entirely failed to consider an important
+
+                                  15   aspect of the problem, or offered an explanation that runs counter to the evidence before the
+
+                                  16   agency or is so implausible that it could not be ascribed to a difference in view or the product of
+
+                                  17   agency expertise.” Defenders of Wildlife, 856 F.3d at 1257 (internal quotations omitted). “An
+
+                                  18   agency decision construing a statute is not in violation of the APA where the agency accurately
+
+                                  19   applies an unambiguous statute, or permissibly construes an ambiguous statute, and its conclusion
+
+                                  20   is ‘well supported by substantial evidence in the record.’” Corrigan v. Haaland, 12 F.4th 901, 906
+
+                                  21   (9th Cir. 2021) (internal quotations omitted). “The Court’s deference extends to less than stellar
+
+                                  22   work by an agency, so long as its analytical path and reasoning can be reasonably discerned.”
+
+                                  23   Ecological Rts. Found., 384 F. Supp. 3d at 1119 (citing San Luis & Delta-Mendota Water Auth. v.
+
+                                  24   Jewell, 747 F.3d 581, 627 (9th Cir. 2014)). Neither party here has suggested that the regulations
+
+                                  25   present an issue under the major questions doctrine, and the Court has independently concluded
+
+                                  26   that they do not. See West Virginia v. EPA, 142 S. Ct. 2587, 2609-10 (2022).
+
+                                  27           The Court will not substitute its own judgment for that of the agency, but will “engage in a
+
+                                  28   careful, searching review to ensure that the agency has made a rational analysis and decision on
+                                                                                          9
+                                            Case 3:20-cv-05151-JD Document 64 Filed 09/13/22 Page 10 of 25
+
+
+
+
+                                   1   the record before it.” Wild Fish Conservancy v. Salazar, 628 F.3d 513, 521 (9th Cir. 2010)
+
+                                   2   (internal quotations omitted). The Court will not “rubber-stamp” agency decisions that are
+
+                                   3   “inconsistent with a statutory mandate or that frustrate the congressional policy underlying a
+
+                                   4   statute.” Nat. Res. Def. Council, Inc. v. Pritzker, 828 F.3d 1125, 1139 (9th Cir. 2016) (internal
+
+                                   5   quotations omitted).
+
+                                   6           Summary judgment is an appropriate procedure for deciding challenges under the APA.
+
+                                   7   See, e.g., Ecological Rts. Found., 384 F. Supp. 3d at 1119. Summary judgment may be granted
+
+                                   8   when there is no genuine issue of material fact and the moving party is entitled to judgment as a
+
+                                   9   matter of law. Brickman v. Fitbit, Inc., No. 3:15-cv-02077-JD, 2017 WL 6209307, at *2 (N.D.
+
+                                  10   Cal. Dec. 8, 2017) (citing Celotex Corp. v. Catrett, 477 U.S. 317, 323-24 (1986)). Because this is
+
+                                  11   a record review case, the summary judgment motion will be decided upon a review of the
+
+                                  12   administrative record as it existed at the time of the agency’s decision. Karuk Tribe of Cal. v. U.S.
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   Forest Serv., 681 F.3d 1006, 1017 (9th Cir. 2012) (en banc); Jewell, 747 F.3d at 602 (quoting
+
+                                  14   Camp v. Pitts, 411 U.S. 138, 142 (1973)). In so doing, the Court relies on the portions of the
+
+                                  15   record that the parties have cited and argued. It is not the Court’s task to “scour the record in
+
+                                  16   search of a genuine issue of triable fact.” Keenan v. Allan, 91 F.3d 1275, 1279 (9th Cir. 1996)
+
+                                  17   (internal quotations omitted). Extra-record materials and “post-hoc rationalizations” for or against
+
+                                  18   the agency’s decision will not be considered for the merits of the APA claims. Jewell, 747 F.3d at
+
+                                  19   602-03. Plaintiffs’ declarations, Dkt. Nos. 54-1 to 54-16, are not part of the administrative record
+
+                                  20   and were considered only for purposes of determining plaintiffs’ standing to sue. Ecological Rts.
+
+                                  21   Found., 384 F. Supp. 3d at 1119.
+
+                                  22   V.      STANDING
+                                  23           As is true in all federal cases, the “case or controversy” requirement of Article III of the
+
+                                  24   Constitution “limits federal courts’ subject matter jurisdiction by requiring, inter alia, that
+
+                                  25   plaintiffs have standing.” Chandler v. State Farm Mut. Auto. Ins., 598 F.3d 1115, 1121 (9th Cir.
+
+                                  26   2010). “[A] plaintiff must demonstrate standing to sue by alleging the ‘irreducible constitutional
+
+                                  27   minimum’ of (1) an ‘injury in fact’ (2) that is ‘fairly traceable to the challenged conduct of the
+
+                                  28   defendants’ and (3) ‘likely to be redressed by a favorable judicial decision.’” Patel v. Facebook
+                                                                                          10
+                                          Case 3:20-cv-05151-JD Document 64 Filed 09/13/22 Page 11 of 25
+
+
+
+
+                                   1   Inc., 290 F. Supp. 3d 948, 952 (N.D. Cal. 2018) (quoting Spokeo, Inc. v. Robins, 578 U.S. 330,
+
+                                   2   338 (2016)). An injury in fact is demonstrated when the plaintiff has “suffered ‘an invasion of a
+
+                                   3   legally protected interest’ that is ‘concrete and particularized’ and ‘actual or imminent, not
+
+                                   4   conjectural or hypothetical.’” Spokeo, 578 U.S. at 339 (quoting Lujan v. Defenders of Wildlife,
+
+                                   5   504 U.S. 555, 560 (1992)). “Standing is an ongoing inquiry, and ‘[t]he need to satisfy these three
+
+                                   6   [Article III standing] requirements persists throughout the life of the lawsuit.’” Trump v. Twitter,
+
+                                   7   Inc., ___ F. Supp. 3d ___, 2022 WL 1443233, at *7 (N.D. Cal. May 6, 2022) (quoting Lujan, 504
+
+                                   8   U.S. at 560-61). “A plaintiff must establish standing with the ‘manner and degree of evidence
+
+                                   9   required at the successive stages of the litigation.’” Carrico v. City & Cnty. of San Francisco, 656
+
+                                  10   F.3d 1002, 1006 (9th Cir. 2011) (quoting Lujan, 504 U.S. at 561).
+
+                                  11          The government challenges plaintiffs’ standing to sue only with respect to the First and
+
+                                  12   Fifth Amendment claims. See Dkt. No. 56 at 30, 36-37. Even so, “[t]he Court has an independent
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   duty to be vigilant about standing,” Trump, 2022 WL 1443233, at *7, and will determine standing
+
+                                  14   “claim by claim” for the amended complaint. In re Capacitors Antitrust Litig., 154 F. Supp. 3d
+
+                                  15   918, 924 (N.D. Cal. 2015) (citing DaimlerChrysler Corp. v. Cuno, 547 U.S. 332, 352 (2006)).
+
+                                  16          A.      APA Standing
+                                  17          Plaintiffs have demonstrated standing to sue under the APA, and the government does not
+
+                                  18   contend otherwise. The retail store plaintiffs, namely Natural Grocers, Good Earth Natural Foods,
+
+                                  19   and Puget Consumers Co-op, filed multiple declarations attesting to their stake in disclosing
+
+                                  20   information about bioengineered foods to interested consumers, and how the regulations are said
+
+                                  21   to adversely affect the stores. See Dkt. Nos. 54-1, 54-7, 54-9. Several members of the advocacy
+
+                                  22   group plaintiffs, Center for Food Safety, Rural Vermont, Citizens for GMO Labeling, Label
+
+                                  23   GMOs, and National Organic Coalition, filed declarations describing their organizational interests
+
+                                  24   in transparent labeling of bioengineered foods, their individual interests in obtaining information
+
+                                  25   about bioengineered foods, and how the regulations are said to impede those interests by
+
+                                  26   restricting the scope of disclosures. See Dkt. Nos. 54-2, 54-3, 54-4, 54-5, 54-6, 54-11, 54-12, 54-
+
+                                  27   13, 54-14, 54-15, 54-16.
+
+                                  28
+                                                                                         11
+                                          Case 3:20-cv-05151-JD Document 64 Filed 09/13/22 Page 12 of 25
+
+
+
+
+                                   1          These alleged injuries are concrete, fairly traceable to the agency’s conduct, and
+
+                                   2   redressable by the Court, and so they establish constitutional standing for the APA claims.
+
+                                   3   Plaintiffs also have statutory standing under the APA because they fall squarely “within the zone
+
+                                   4   of interests” protected by the disclosure statute. Cetacean Cmty. v. Bush, 386 F.3d 1169, 1177
+
+                                   5   (9th Cir. 2004) (internal quotations omitted).
+
+                                   6          B.      First and Fifth Amendment Standing
+                                   7          For the constitutional speech claims, plaintiffs who are regulated entities contend that the
+
+                                   8   mandatory terminology regulations muzzle their right to speak freely about bioengineered foods.
+
+                                   9   See Dkt. No. 54 at 24-25; Dkt. No. 58 at 16-17. Several of the plaintiffs, namely the food
+
+                                  10   advocacy groups, are not regulated entities, and suggest that a right to receive information is
+
+                                  11   impaired by the chilling effect on regulated entities. See Dkt. No. 54 at 23 n.40 (“Customers of
+
+                                  12   Plaintiff retailers have standing because when there is a right to disseminate commercial
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   information, their customers have a reciprocal ‘listeners’’ right to receive the information.”). The
+
+                                  14   standing analysis for the regulated entities establishes that they have no reasonable fear of
+
+                                  15   enforcement or restraint, which also vitiates the listener theory.
+
+                                  16          “First Amendment challenges present unique standing considerations.” Italian Colors
+
+                                  17   Restaurant v. Becerra, 878 F.3d 1165, 1171 (9th Cir. 2018) (internal quotations omitted). When,
+
+                                  18   as is alleged here, “a plaintiff has refrained from engaging in expressive activity for fear of
+
+                                  19   prosecution under the challenged statute, such self-censorship is a constitutionally sufficient injury
+
+                                  20   as long as it is based on an actual and well-founded fear that the statute will be enforced.” Barke
+
+                                  21   v. Banks, 25 F.4th 714, 718 (9th Cir. 2022) (internal quotations omitted).
+
+                                  22          Three factors determine whether a plaintiff faces a “credible threat of enforcement.” Id. at
+
+                                  23   718-19. They are: “1) the likelihood that the law will be enforced against the plaintiff; 2) whether
+
+                                  24   the plaintiff has shown, with some degree of concrete detail, that she intends to violate the
+
+                                  25   challenged law; and 3) whether the law even applies to the plaintiff.” Id. at 719 (internal
+
+                                  26   quotations omitted). “[C]laims of future harm lack credibility when the challenged speech
+
+                                  27   restriction by its terms is not applicable to the plaintiffs, or the enforcing authority has disavowed
+
+                                  28   the applicability of the challenged law to the plaintiffs.” Lopez v. Candaele, 630 F.3d 775, 788
+                                                                                         12
+                                          Case 3:20-cv-05151-JD Document 64 Filed 09/13/22 Page 13 of 25
+
+
+
+
+                                   1   (9th Cir. 2010). The “inquiry into injury-in-fact does not turn on the strength of plaintiffs’
+
+                                   2   concerns about a law, but rather on the credibility of the threat that the challenged law will be
+
+                                   3   enforced against them.” Id. at 792. The same standing rules apply to pre-enforcement plaintiffs
+
+                                   4   who allege vagueness challenges under the Fifth Amendment. Carrico, 656 F.3d at 1006.
+
+                                   5          Plaintiffs’ main speech challenge goes to the use of terms such as GE, GMO, and the like.
+
+                                   6   The retail store plaintiffs say they have refrained from labeling foods with GE and GMO out of
+
+                                   7   fear that the disclosure statute and the regulations prohibit the use of language other than
+
+                                   8   “bioengineered.” Dkt. No. 54 at 23-25. Plaintiffs also say that the regulations are impermissibly
+
+                                   9   vague because the statute states that “similar terms” may be incorporated in the definition of
+
+                                  10   bioengineering, but the regulations prohibit them. Id. at 27. The retail store plaintiffs are said to
+
+                                  11   have suffered economic and reputational injuries as a result because they terminated plans to label
+
+                                  12   foods as GE or GMO or removed such labels from their stores out of fear that the labels violated
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   the disclosure statute and the regulations. See Dkt. No. 54-1 ¶¶ 20-21, 24, 27; Dkt. No. 54-7 ¶¶ 4,
+
+                                  14   17-18; Dkt. No. 54-9 ¶¶ 7, 14-15.
+
+                                  15          These points are not well taken. To start, plaintiffs misconstrue the plain language of the
+
+                                  16   statute and the regulations. Nothing in either text forbids the plaintiffs from using GE, GMO, or
+
+                                  17   any other words they want in their communications with consumers. The only requirement is that
+
+                                  18   all disclosures must use the word “bioengineered.” 7 C.F.R. §§ 66.102, 66.104. This is the whole
+
+                                  19   purpose of the disclosure statute: the use of standardized language to ensure that consumers get
+
+                                  20   the same baseline information about bioengineered food irrespective of where they buy it, or from
+
+                                  21   whom. After that, plaintiffs are perfectly free to speak their minds in any manner they choose.
+
+                                  22   The regulations spelled this out by stating that “nothing in the final rule prohibits regulated entities
+
+                                  23   from providing additional statements or other claims regarding bioengineered foods and
+
+                                  24   bioengineered food ingredients, so long as such statements are consistent with all other applicable
+
+                                  25   laws and regulations.” 83 Fed. Reg. at 65852; see also 7 C.F.R. § 66.118. The government has
+
+                                  26   expressly affirmed that,“[a]s long as regulated entities use those standard terms, they are permitted
+
+                                  27   to ‘mak[e] other claims regarding bioengineered foods,’ including Plaintiffs’ preferred terms
+
+                                  28   ‘produced with genetic engineering,’ ‘genetically engineered,’ or ‘GMO’ on their disclosures,” so
+                                                                                         13
+                                          Case 3:20-cv-05151-JD Document 64 Filed 09/13/22 Page 14 of 25
+
+
+
+
+                                   1   long as the claims are consistent with federal law. See Dkt. No. 56 at 28 (quoting 7 C.F.R.
+
+                                   2   § 66.118).
+
+                                   3          Plaintiffs have not demonstrated otherwise. They say that the government’s statement is
+
+                                   4   nothing more than a “convenient, 11th hour” litigation position, but this fails to account for the
+
+                                   5   plain language of the regulations to the same effect. See Dkt. No. 58 at 17. Plaintiffs also did not
+
+                                   6   proffer any evidence indicating that “they have ever been threatened with prosecution, that a
+
+                                   7   prosecution is likely, or even that a prosecution is remotely possible.” Lopez, 630 F.3d at 787
+
+                                   8   (quoting Younger v. Harris, 401 U.S. 37, 42 (1972)). “Mere allegations” of a “subjective chill,”
+
+                                   9   which is all plaintiffs have tendered here, are not a substitute for establishing a likelihood of an
+
+                                  10   injury in fact. Id. (internal quotations omitted).
+
+                                  11          Overall, the record does not establish that plaintiffs face a well-founded fear of
+
+                                  12   enforcement for using GE, GMO, or any other words above and beyond the mandatory disclosure
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   terminology. Consequently, they do not have standing to challenge the statute or regulations on
+
+                                  14   First or Fifth Amendment grounds. See Barke, 25 F.4th at 718-19.
+
+                                  15          The same goes for plaintiffs’ ancillary speech challenges. They object to a provision that
+
+                                  16   prohibits labeling meat or dairy products as bioengineered solely because the products were
+
+                                  17   derived from livestock fed GE feed. See 7 U.S.C. § 1639b(b)(2)(A); 7 C.F.R. § 66.5(d)); see also
+
+                                  18   Dkt. No. 54 at 24-25. Plaintiffs again have not shown a well-founded fear of enforcement because
+
+                                  19   they did not demonstrate concrete plans to use a “bioengineered” label on any meat or dairy
+
+                                  20   products. See Dkt. No. 54-1 ¶¶ 24, 26; Dkt. No. 54-7 ¶ 15; Dkt. No. 54-9 ¶ 13. This devitalizes
+
+                                  21   their standing to sue. See Lopez, 630 F.3d at 787 (“Because the Constitution requires something
+
+                                  22   more than hypothetical intent to violate the law, plaintiffs must articulate a concrete plan to violate
+
+                                  23   the law in question by giving details about their future speech such as when, to whom, where, or
+
+                                  24   under what circumstances.”) (internal quotations omitted).
+
+                                  25          Plaintiffs also object that the regulations prohibit use of the phrase “may be
+
+                                  26   bioengineered.” See 83 Fed. Reg. at 65827 (“The ‘may be bioengineered’ disclosure cannot be
+
+                                  27   used.”); see also Dkt. No. 54 at 24-25. Some of the plaintiffs said that they might like to use “may
+
+                                  28   be bioengineered” on labels in their stores, see Dkt. No. 54-1 ¶¶ 22, 27; Dkt. No. 54-7 ¶ 16, but
+                                                                                            14
+                                          Case 3:20-cv-05151-JD Document 64 Filed 09/13/22 Page 15 of 25
+
+
+
+
+                                   1   such “some day intentions” are not the stuff of constitutional standing. Lopez, 630 F. 3d at 787-88
+
+                                   2   (internal quotations omitted). Plaintiff Puget Consumers Co-op said that it had devoted substantial
+
+                                   3   effort to an in-store labeling plan for GE/GMO foods that included “may be bioengineered”
+
+                                   4   language, see Dkt. No. 54-9 ¶¶ 12-13, 19, but undercut that claim substantially by opining that
+
+                                   5   “bioengineered” is deceptive and that it would not use the phrase with customers. Id. ¶ 15
+
+                                   6   (“[R]ather than using the labeling plan PCC worked on for six years, with the clearly recognized
+
+                                   7   and widely accepted and understood terms of ‘GE’ or ‘GMO’ for foods with identified genetically
+
+                                   8   engineered ingredients, the Disclosure Standard forces PCC to use the unknown terminology,
+
+                                   9   ‘bioengineered’ … ‘GE’ and ‘GMO’ are the terms that our members know, so using the label,
+
+                                  10   ‘bioengineered,’ will simply not pass the information to our members in a useful, clearly
+
+                                  11   understandable way.”). This does not demonstrate a “concrete intent to violate the challenged
+
+                                  12   law” and consequently does not establish a credible threat of enforcement. Lopez, 630 F.3d at
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   787.
+
+                                  14          C.      Tenth Amendment Standing
+                                  15          Private plaintiffs who “suffer otherwise justiciable injury” have standing to challenge laws
+
+                                  16   under the Tenth Amendment when “the constitutional structure of our Government that protects
+
+                                  17   individual liberty is compromised.” Bond v. United States, 564 U.S. 211, 223 (2011). Plaintiffs
+
+                                  18   presented evidence that they will have paid premiums for organic seeds to avoid purchasing
+
+                                  19   unlabeled GE seeds after the disclosure statute invalidated state-level GE seed labeling laws. See
+
+                                  20   Dkt. No. 54-4 ¶ 20; Dkt. No. 54-5 ¶ 14; Dkt. No. 54-6 ¶¶ 13-14; Dkt. No. 54-11 ¶ 11. These
+
+                                  21   economic injuries confer standing, which the government does not oppose. See Club One Casino,
+
+                                  22   Inc. v. Bernhardt, 959 F.3d 1142, 1152 n.7 (9th Cir. 2020) (private plaintiffs had standing
+
+                                  23   pursuant to Bond, 564 U.S. at 220-21, to challenge a federal statute under the Tenth Amendment).
+
+                                  24   VI.    THE APA CLAIMS
+                                  25          A.      Electronic and Text Message Disclosure Options
+                                  26          Plaintiffs object to the USDA’s decision to provide a text message disclosure option in the
+
+                                  27   regulations as contrary to the disclosure statute’s command to “provide additional and comparable
+
+                                  28
+                                                                                       15
+                                          Case 3:20-cv-05151-JD Document 64 Filed 09/13/22 Page 16 of 25
+
+
+
+
+                                   1   options to access the bioengineering disclosure,” and consequently unlawful under the APA.
+
+                                   2   7 U.S.C. § 1639b(c)(4); 5 U.S.C. § 706(2)(A). The record establishes that it was.
+
+                                   3          As in all questions of statutory interpretation, “[o]ur analysis begins and ends with the
+
+                                   4   text.” Octane Fitness, LLC v. ICON Health & Fitness, Inc., 572 U.S. 545, 553 (2014). The Court
+
+                                   5   gives Congress’s words their ordinary and every day meaning, and may consult dictionary
+
+                                   6   definitions to ensure a plain interpretation. City of Los Angeles v. Barr, 941 F.3d 931, 940 (9th
+
+                                   7   Cir. 2019). The “inquiry must cease if the statutory language is unambiguous” and “the statutory
+
+                                   8   scheme is coherent and consistent.” Schindler Elevator Corp. v. United States ex rel. Kirk, 563
+
+                                   9   U.S. 401, 412 (2011) (internal quotations omitted). It is also a “fundamental canon of statutory
+
+                                  10   construction” to define words in reference to “context” and “the overall statutory scheme.” FDA
+
+                                  11   v. Brown & Williamson Tobacco Corp., 529 U.S. 120, 132-33 (2000) (internal quotations
+
+                                  12   omitted).
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13          “When construing a statute, a virtuoso feat of analysis is neither required nor particularly
+
+                                  14   useful.” Michigan v. DeVos, 481 F. Supp. 3d 984, 991 (N.D. Cal. 2020). The ultimate goal of
+
+                                  15   statutory construction is to effectuate Congress’s intent in enacting the statute. “In every case, ‘it
+
+                                  16   is the intent of Congress that is the ultimate touchstone.’” Barr, 941 F.3d at 940 (quoting Arizona
+
+                                  17   v. United States, 567 U.S. 387, 453 (2012) (Alito, J., concurring in part and dissenting in part)).
+
+                                  18   The Court bears “the conventional judicial duty to give faithful meaning to the language Congress
+
+                                  19   adopted in the light of the evident legislative purpose in enacting the law in question.” Graham
+
+                                  20   Cnty. Soil & Water Conservation Dist. v. United States ex rel. Wilson, 559 U.S. 280, 298 (2010)
+
+                                  21   (internal quotations omitted).
+
+                                  22          The language Congress used in Section 1639b(c) of the disclosure statute is
+
+                                  23   straightforward. It directed the USDA to conduct a study “to identify potential technological
+
+                                  24   challenges that may impact whether consumers would have access to the bioengineering
+
+                                  25   disclosure through electronic or digital disclosure methods.” 7 U.S.C. § 1639b(c)(1). No feat of
+
+                                  26   analysis is necessary to conclude that Congress was especially concerned about whether
+
+                                  27   consumers would be able to access bioengineering information through the electronic disclosure.
+
+                                  28   The same subsection of the disclosure statute also required USDA to “provide additional and
+                                                                                         16
+                                          Case 3:20-cv-05151-JD Document 64 Filed 09/13/22 Page 17 of 25
+
+
+
+
+                                   1   comparable options to access the bioengineering disclosure” if it determined “that consumers,
+
+                                   2   while shopping, would not have sufficient access to the bioengineering disclosure through
+
+                                   3   electronic or digital disclosure methods.” Id. § 1639b(c)(4). In mandating a study on the
+
+                                   4   accessibility of the electronic disclosure, and directing the USDA to act only if the electronic
+
+                                   5   disclosure was determined to be inaccessible, Congress clearly intended for the USDA to provide
+
+                                   6   “additional and comparable options” to improve the accessibility of the electronic disclosure
+
+                                   7   method.
+
+                                   8          AMS’s decision to provide a separate text message disclosure option did nothing to fix the
+
+                                   9   problem of inaccessible electronic disclosures. It merely provided a fourth disclosure option that
+
+                                  10   regulated entities can select instead of the electronic disclosure method. See 7 C.F.R. § 66.100(b)
+
+                                  11   (stating “the disclosure must be in one of the forms described in this paragraph (b),” and listing the
+
+                                  12   text disclosure, symbol disclosure, electronic disclosure, and text message disclosure as separate
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   options). The result is that the standalone electronic disclosure suffices under the regulations,
+
+                                  14   even though USDA “determined that consumers would not have sufficient access to the
+
+                                  15   bioengineering disclosure through electronic or digital means under ordinary shopping conditions
+
+                                  16   at this time.” 83 Fed. Reg. at 65828.
+
+                                  17          The government says AMS acted appropriately because it “adopted the study’s
+
+                                  18   recommendation to provide food manufacturers with an additional option of disclosing the
+
+                                  19   bioengineering information via text message, a method that is comparable to the electronic or
+
+                                  20   digital link method.” Dkt. No. 56 at 18. It says the words “additional and comparable options”
+
+                                  21   only obligated AMS to provide “similar” disclosure options rather than improvements on the
+
+                                  22   electronic disclosure. Id. These arguments are not consonant with the rest of Section 1639b(c),
+
+                                  23   which expressly addresses whether consumers can access the electronic disclosure at all.
+
+                                  24   Congress mandated a study on “whether consumers would have access to the bioengineering
+
+                                  25   disclosure through electronic or digital disclosure methods” precisely to ensure that those methods
+
+                                  26   were accessible and would achieve the goal of disclosure. See 7 U.S.C. § 1639b(c)(1).
+
+                                  27          The Deloitte Consulting study also undercuts the government’s arguments. The study
+
+                                  28   determined that access problems abounded. Among other findings, it concluded that “key
+                                                                                        17
+                                          Case 3:20-cv-05151-JD Document 64 Filed 09/13/22 Page 18 of 25
+
+
+
+
+                                   1   technological challenges” prevented “nearly all participants” from accessing bioengineering
+
+                                   2   information electronically. AR250046. The study found that “[t]houghtful action can improve
+
+                                   3   access for consumers facing technological challenges,” and identified specific “[o]ffline options”
+
+                                   4   that could “provide greater access for populations who lack smartphones or broadband.”
+
+                                   5   AR250110-11. It recommended that, “[a]s the Law already requires that the electronic disclosure
+
+                                   6   is accompanied by a telephone number,” the number could call into an automated recording that
+
+                                   7   would provide consumers with “24-hour disclosure information.” AR250111. It also
+
+                                   8   recommended that “packages could include a text message alternative for consumers who have
+
+                                   9   access to a mobile phone.” Id. AMS partly adopted this recommendation by requiring that the
+
+                                  10   telephone number that accompanies the electronic disclosure must provide access to the
+
+                                  11   bioengineered food disclosure “regardless of the time of day.” See 7 C.F.R. § 66.106(a)(2). But
+
+                                  12   the agency failed to take the next step of adding “additional and comparable options,” like the
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   alternative text message instructions, to the electronic disclosure. See 7 U.S.C. § 1639b(c)(4).
+
+                                  14          The government tries to defend this inaction by suggesting that adding more requirements
+
+                                  15   to the electronic disclosure “would narrow rather than expand the disclosure options for food
+
+                                  16   manufactures” and “rewrite the [disclosure statute] to require AMS to effectively eliminate the
+
+                                  17   electronic or digital link option mandated by Congress, rather than providing an additional and
+
+                                  18   comparable option for labeling.” Dkt. No. 56 at 19 (emphasis in original). Not so. The statute
+
+                                  19   already requires that the electronic disclosure be accompanied by a telephone number and by “on-
+
+                                  20   package language” indicating that the link and the telephone number will provide access to “more
+
+                                  21   food information.” 7 U.S.C. §§ 1639b(d)(1), (4). In addition, nothing in the statute permitted
+
+                                  22   AMS to expand the disclosure options for manufacturers beyond the “text, symbol, or electronic
+
+                                  23   or digital link” choices. Id. § 1639b(b)(2)(D). It may be that many retailers and manufacturers
+
+                                  24   supported the standalone text message disclosure option, as the government notes. Dkt. No. 56 at
+
+                                  25   21; see also 83 Fed. Reg. at 65855-56; AR183199; AR183707; AR233404-05. But that did not
+
+                                  26   relieve AMS of the obligation to comply with Congress’s express direction to “provide additional
+
+                                  27   and comparable options to access the bioengineering disclosure.” 7 U.S.C. § 1639b(c)(4).
+
+                                  28
+                                                                                        18
+                                          Case 3:20-cv-05151-JD Document 64 Filed 09/13/22 Page 19 of 25
+
+
+
+
+                                   1          The government also suggests that the agency’s interpretation of Section 1639b(c)(4) is
+
+                                   2   entitled to deference. Dkt. No. 56 at 20-22. “[C]ourts ‘often apply the two-step framework
+
+                                   3   announced in’” Chevron U.S.A., Inc. v. Nat. Res. Def. Council, Inc., 467 U.S. 837 (1984), “to
+
+                                   4   determine the validity of an agency’s interpretation of a statute.” DeVos, 481 F. Supp. 3d at 993
+
+                                   5   (quoting King v. Burwell, 576 U.S. 473, 485 (2015)). “This approach is premised on the theory
+
+                                   6   that a statute’s ambiguity constitutes an implicit delegation from Congress to the agency to fill in
+
+                                   7   the statutory gaps.” King, 576 U.S. at 485 (internal quotations omitted). When the statute is
+
+                                   8   ambiguous, courts will defer to the agency’s interpretation. Chevron, 467 U.S. at 843.
+
+                                   9          The problem for the government is that it cannot make it past step one, which asks whether
+
+                                  10   the statute is ambiguous. When Congress has spoken clearly, as it did in Section 1639b(c)(4) of
+
+                                  11   the disclosure statute, “that is the end of the matter; for the court, as well as the agency, must give
+
+                                  12   effect to the unambiguously expressed intent of Congress.” Corrigan, 12 F.4th at 907 (internal
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   quotations omitted). “An executive agency . . . has no authority to rewrite Congress’s plain and
+
+                                  14   unambiguous commands under the guise of interpretation, and no deference is owed when an
+
+                                  15   agency acts in contravention of a statute.” DeVos, 481 F. Supp. 3d at 993 (citing Chevron, 467
+
+                                  16   U.S. at 842-43).
+
+                                  17          Consequently, plaintiffs have carried their burden of showing that AMS’s decision to
+
+                                  18   implement a standalone text message disclosure option was “arbitrary, capricious, an abuse of
+
+                                  19   discretion, or otherwise not in accordance with law.” 5 U.S.C. § 706(2)(A).
+
+                                  20          For the question of a remedy, the Court will set aside an action “found to be arbitrary,
+
+                                  21   capricious, an abuse of discretion, or otherwise not in accordance with law.” Id. Remand with
+
+                                  22   vacatur is the typical remedy in these circumstances, unless the government establishes why
+
+                                  23   another remedy, such as remand without vacatur, is a better result. All. for the Wild Rockies v.
+
+                                  24   U.S. Forest Serv., 907 F.3d 1105, 1121-22 (9th Cir. 2018). Whether remand without vacatur is
+
+                                  25   appropriate “depends on how serious the agency’s errors are and the disruptive consequences of an
+
+                                  26   interim change that may itself be changed.” Cal. Communities Against Toxics v. EPA, 688 F.3d
+
+                                  27   989, 992 (9th Cir. 2012) (internal quotations omitted).
+
+                                  28
+                                                                                         19
+                                          Case 3:20-cv-05151-JD Document 64 Filed 09/13/22 Page 20 of 25
+
+
+
+
+                                   1          The text message disclosure decision was a significant error, but the government urges a
+
+                                   2   remand without vacatur so that the status quo is maintained while AMS revisits the issue. Dkt.
+
+                                   3   No. 56 at 39-40. It says that vacatur would disrupt consumer access to bioengineering disclosures
+
+                                   4   and exacerbate the very concerns implicated by the agency’s error. Id. It also says that vacatur
+
+                                   5   would disrupt the food industry, which was required to comply with the regulations as of January
+
+                                   6   1, 2022. Id.; 83 Fed. Reg. at 65814.
+
+                                   7          These are legitimate and persuasive concerns, and plaintiffs have not demonstrated
+
+                                   8   otherwise. Consequently, Sections 66.106 and 66.108 of the regulations are remanded without
+
+                                   9   vacatur to AMS for further consideration in a manner consistent with this order.
+
+                                  10          B.      Mandatory Disclosure Terminology
+                                  11          Although plaintiffs lack standing to challenge the regulations for the mandatory disclosure
+
+                                  12   terminology under the First and Fifth Amendments, they may challenge the regulations under the
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   APA. Plaintiffs say that mandating the use of “bioengineered” in disclosures was contrary to the
+
+                                  14   statutory directive to define “any similar term,” which plaintiffs construe as requiring terms other
+
+                                  15   than just “bioengineered.” See Dkt. No. 54 at 15-16; 7 U.S.C. § 1639(1). Plaintiffs also say that
+
+                                  16   the decision was arbitrary and capricious because the term bioengineered is inconsistent with the
+
+                                  17   agency’s past use of terms like GE and GMO, and is potentially misleading to consumers. See
+
+                                  18   Dkt. No. 54 at 16-18.
+
+                                  19          None of these contentions is tenable. The statute authorized the USDA to supplement the
+
+                                  20   definition of bioengineering with “any similar term, as determined by the [USDA].” 7 U.S.C.
+
+                                  21   § 1639(1). This is wholly distinct from the disclosure requirements in Section 1639b. Nothing in
+
+                                  22   either section indicates that Congress intended to require that “any similar term” be part of the
+
+                                  23   mandatory disclosure language, and the Court will not strain to find such a hidden meaning when
+
+                                  24   Congress could easily have conveyed such a clear directive. See Corrigan, 12 F.4th at 910.
+
+                                  25          Plaintiffs’ arbitrary and capricious arguments are equally unavailing. To start, the use of
+
+                                  26   the term bioengineered cannot be characterized as a change in practice or policy because the
+
+                                  27   disclosure statute and regulations are the first federal actions implementing standards for
+
+                                  28   bioengineered food disclosures. It is true that some of the evidence before AMS indicated that
+                                                                                        20
+                                          Case 3:20-cv-05151-JD Document 64 Filed 09/13/22 Page 21 of 25
+
+
+
+
+                                   1   consumers are more familiar with terms like GE and GMO than bioengineered. See, e.g.,
+
+                                   2   AR17667; AR95879-80; AR178749-50. But AMS considered GE and GMO for use in the
+
+                                   3   mandatory disclosure terminology, and ultimately determined that those terms could blur the
+
+                                   4   scope of the regulations, and lead to inconsistent disclosures. 83 Fed. Reg. at 65837, 65851. The
+
+                                   5   decision was reasoned and reasonable, and plaintiffs have not shown that it was arbitrary or
+
+                                   6   capricious in any way.
+
+                                   7            C.     “Bioengineering” and Highly Refined Foods
+                                   8            Plaintiffs’ other APA challenge concerns the agency’s definition of “bioengineering,”
+
+                                   9   which excludes foods without “detectable” modified genetic material. 7 C.F.R. § 66.1. Plaintiffs
+
+                                  10   say that this exemption is overbroad and does not regulate “any food that may be bioengineered,”
+
+                                  11   as the disclosure statute requires. 7 U.S.C. § 1639b(a)(1) (emphasis added); see also Dkt. No. 54
+
+                                  12   at 19-20. Plaintiffs also say that the agency’s decision to adopt an exclusion based on whether
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   modified genetic material is “detectable” was arbitrary and capricious because some studies have
+
+                                  14   identified previously “undetectable” modified genetic material in highly refined foods. Dkt. No.
+
+                                  15   54 at 21-22. Plaintiffs add that AMS arbitrarily and capriciously ignored evidence indicating that
+
+                                  16   consumers are more concerned about whether foods are produced through bioengineering
+
+                                  17   technology than whether modified genetic material is detectable in the final food product. Id. at
+
+                                  18   22-23.
+
+                                  19            These objections are not well taken. As discussed in Section II.C above, the regulations
+
+                                  20   are much less exclusionary than plaintiffs suggest because AMS augmented the definition of
+
+                                  21   bioengineering with the “List of Bioengineered Foods.” 83 Fed. Reg. at 65818-19, 65826;
+
+                                  22   7 C.F.R. § 66.6. The list identifies a number of foods known to be bioengineered, and a refined
+
+                                  23   food that contains an item from the list is presumed to be bioengineered and so require disclosure.
+
+                                  24   83 Fed. Reg. at 65826, 65834. The food may escape the disclosure requirement only if the
+
+                                  25   regulated entity provides records demonstrating that it is not bioengineered. Id.; 7 C.F.R. § 66.9.
+
+                                  26   As AMS stated, the framework is designed to be overinclusive and “err on the side of disclosure to
+
+                                  27   provide consumers with the fullest information about food that could be bioengineered.” 83 Fed.
+
+                                  28   Reg. at 65816-17, 65826.
+                                                                                        21
+                                          Case 3:20-cv-05151-JD Document 64 Filed 09/13/22 Page 22 of 25
+
+
+
+
+                                   1          None of this was arbitrary and capricious. The statute expressly states that the agency
+
+                                   2   “shall” promulgate regulations that “determine the amounts of a bioengineered substance that may
+
+                                   3   be present in a food, as appropriate, in order for the food to be a bioengineered food.” 7 U.S.C.
+
+                                   4   § 1639b(b)(2)(B). AMS did just that. See 7 C.F.R. § 66.9 (listing recordkeeping requirements to
+
+                                   5   prove that modified genetic material is not detectable and “[s]tandards of performance for
+
+                                   6   detectability testing”). It may be, as plaintiffs suggest, that future testing methods will be able to
+
+                                   7   better detect modified genetic material in highly refined foods, see Dkt. No. 54 at 21-22, but that
+
+                                   8   does not mean the regulations are defective because the current state of testing cannot exhaustively
+
+                                   9   capture all foods that “may” contain bioengineered components. To the contrary, it would be
+
+                                  10   wrong for an agency to require results impossible to obtain with existing technology.
+
+                                  11          In addition, AMS did not ignore the likelihood of progress, and committed to updating the
+
+                                  12   List of Bioengineered Foods on an annual basis. 83 Fed. Reg. at 65834 (“If the modified genetic
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   material in [a] food ingredient becomes detectable under § 66.9 in the future, the food ingredient
+
+                                  14   would be subject to BE disclosure.”); see also 7 C.F.R. § 66.7(a). AMS also concluded, based on
+
+                                  15   multiple studies, that “for many refined food products and ingredients, the refining process
+
+                                  16   removes the genetic material so that it can no longer be detected.” 83 Fed. Reg. at 65833-34.
+
+                                  17   AMS ultimately determined that “the products of technology, rather than the technology itself,
+
+                                  18   should determine whether a food meets the BE food definition and requires disclosure.” Id. at
+
+                                  19   65834. Plaintiffs do not seriously dispute this observation.
+
+                                  20          Overall, the record with respect to the mandatory disclosure language and highly refined
+
+                                  21   foods does not show that AMS “relied on factors Congress did not intend it to consider, entirely
+
+                                  22   failed to consider an important aspect of the problem, or offered an explanation that runs counter
+
+                                  23   to the evidence before the agency or is so implausible that it could not be ascribed to a difference
+
+                                  24   in view or the product of agency expertise.” Defenders of Wildlife, 856 F.3d at 1257 (internal
+
+                                  25   quotations omitted). Consequently, the agency’s actions were not in violation of the APA.
+
+                                  26   VII.   THE TENTH AMENDMENT CLAIM
+                                  27          Plaintiffs’ final challenge is to the preemption of state labeling requirements for GE seeds,
+
+                                  28   see 7 U.S.C. § 1639i(b), which is said to violate the Tenth Amendment’s guarantee that “[t]he
+                                                                                         22
+                                          Case 3:20-cv-05151-JD Document 64 Filed 09/13/22 Page 23 of 25
+
+
+
+
+                                   1   powers not delegated to the United States by the Constitution, nor prohibited by it to the states, are
+
+                                   2   reserved to the states respectively, or to the people.” U.S. Const. amend. X; see also Dkt. No. 54
+
+                                   3   at 28-29. For this claim, plaintiffs rely primarily on the anticommandeering doctrine developed in
+
+                                   4   Tenth Amendment jurisprudence, particularly as discussed in Murphy v. Nat’l Collegiate Athletic
+
+                                   5   Ass’n, 138 S. Ct. 1461 (2018). See Dkt. No. 54 at 28-29.
+
+                                   6          “The anticommandeering doctrine may sound arcane, but it is simply the expression of a
+
+                                   7   fundamental structural decision incorporated into the Constitution, i.e., the decision to withhold
+
+                                   8   from Congress the power to issue orders directly to the States.” Murphy, 138 S. Ct. at 1475. The
+
+                                   9   basic principle is that when “a federal interest is sufficiently strong to cause Congress to legislate,
+
+                                  10   it must do so directly; it may not conscript state governments as its agents.” Id. at 1477 (quoting
+
+                                  11   New York v. United States, 505 U.S. 144, 178 (1992)). Put plainly, Congress cannot order a state
+
+                                  12   to require or prohibit certain acts, or enact laws to those ends. Id. at 1476-77. A classic
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   application of the doctrine is found in New York, 404 U.S. at 174-76, which struck down a federal
+
+                                  14   statute that required states to enact laws for radioactive waste according to the instructions of
+
+                                  15   Congress. As the Supreme Court stated, the Constitution “confers upon Congress the power to
+
+                                  16   regulate individuals, not States.” Id. at 166.
+
+                                  17          As New York indicates, the anticommandeering doctrine does not serve to protect the
+
+                                  18   sovereignty of the states for the benefit of the states themselves. “To the contrary, the
+
+                                  19   Constitution divides authority between federal and state governments for the protection of
+
+                                  20   individuals” and their liberty. Murphy, 138 S. Ct. at 1477 (quoting New York, 404 U.S. at 181).
+
+                                  21   This is accomplished by ensuring a “healthy balance” between state and federal power, which
+
+                                  22   moderates the “risk of tyranny and abuse from either front.” Id. (quotation omitted).
+
+                                  23          None of this is particularly germane to the GE seed labeling provision in Section 1639i(b)
+
+                                  24   of the disclosure statute, and for good reason. The plain text of Section 1639i(b) demonstrates that
+
+                                  25   it is not an attempt by Congress to order the states to do something. See 7 U.S.C. § 1639i(b).
+
+                                  26   Rather, Section 1639i(b) is a typical federal preemption provision no different from similar
+
+                                  27   provisions in many other federal statutes.
+
+                                  28
+                                                                                         23
+                                          Case 3:20-cv-05151-JD Document 64 Filed 09/13/22 Page 24 of 25
+
+
+
+
+                                   1          Preemption is based on the Supremacy Clause, U.S. Const. art. VI cl. 2, and a federal
+
+                                   2   statute may preempt state law without offending the Tenth Amendment. Murphy, 138 S. Ct. at
+
+                                   3   1479. To preempt state law, a federal statute must (1) “represent the exercise of a power conferred
+
+                                   4   on Congress by the Constitution,” and (2) “be best read as one that regulates private actors.” Id.;
+
+                                   5   see also City of Portland v. United States, 969 F.3d 1020, 1049 (9th Cir. 2020), cert. denied, sub
+
+                                   6   nom. City of Portland, Ore. v. FCC, 141 S. Ct. 2855 (2021) (rejecting a Tenth Amendment
+
+                                   7   challenge because the FCC issued regulations pursuant to authority delegated from Congress
+
+                                   8   under the Commerce Clause and the regulations operated on private entities).
+
+                                   9          For the first element, plaintiffs do not dispute that the disclosure statute as a whole,
+
+                                  10   including Section 1639i(b), is a valid exercise of Congress’s power under the Commerce Clause.
+
+                                  11   See Dkt. No. 58 at 18. They even go so far as to agree that Section 1639i(b) properly preempts
+
+                                  12   state GE food labeling laws. See id.
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13          For the second element, plaintiffs overread the opening words of Section 1639i(b) that
+
+                                  14   “[n]o State or a political subdivision of a State may” establish GE seed labeling requirements. 7
+
+                                  15   U.S.C. § 1639i(b). The Supreme Court has expressly cautioned that “[t]his language might appear
+
+                                  16   to operate directly on the States, but it is a mistake to be confused by the way in which a
+
+                                  17   preemption provision is phrased.” Murphy, 138 S. Ct. at 1480. Murphy observed that the Airline
+
+                                  18   Deregulation Act of 1978 contained nearly exactly the same formulation to preempt state
+
+                                  19   regulation of airline rates, routes, and services. Id. (“[T]he Act provided that ‘no State or political
+
+                                  20   subdivision thereof … shall enact or enforce any law, rule, regulation, standard, or other provision
+
+                                  21   having the force and effect of law relating to rates, routes, or services of any [covered] air
+
+                                  22   carrier.’”) (quoting Morales v. Trans World Airlines, Inc., 504 U.S. 374, 378 (1992)). Even so,
+
+                                  23   the Court had no trouble concluding “it is clear that this provision operates just like any other
+
+                                  24   federal law with preemptive effect” by conferring “on private entities (i.e., covered carriers) a
+
+                                  25   federal right to engage in certain conduct subject only to certain (federal) constraints.” Id.
+
+                                  26          So too, here. Section 1639i(b) of the disclosure statute confers on suppliers of GE seeds
+
+                                  27   the right to be free of a patchwork of state laws. 7 U.S.C. § 1639i(b). This manifests Congress’s
+
+                                  28   intent to set national standards and practices for disclosures about bioengineered foods. See
+                                                                                         24
+                                          Case 3:20-cv-05151-JD Document 64 Filed 09/13/22 Page 25 of 25
+
+
+
+
+                                   1   AR248811 (“The purpose of the bill is to preempt state and local actions that mandate labeling of
+
+                                   2   whether a food or seed is genetically engineered, and establish a mandatory uniform national
+
+                                   3   disclosure standard for human food that is or may be bioengineered.”).
+
+                                   4          Plaintiffs’ main response is that federal law currently does not have specific provisions for
+
+                                   5   the labeling of GE seeds. See Dkt. No. 58 at 18-19. In effect, plaintiffs say that preemption is
+
+                                   6   valid only if Congress has enacted federal laws in the area. But that is not an element of
+
+                                   7   preemption stated in Murphy. In addition, the preemption clause in the Airline Deregulation Act
+
+                                   8   was enacted precisely “[t]o ensure that the States would not undo federal deregulation with
+
+                                   9   regulation of their own.” Murphy, 138 S. Ct. at 1480 (quoting Morales, 504 U.S. at 378). The
+
+                                  10   petitioner in Morales made a similar objection that the Airline Deregulation Act did not have the
+
+                                  11   “comprehensive” federal regulatory scheme of statutes with preemption clauses, such as ERISA,
+
+                                  12   but the Supreme Court did not reject preemption on that ground. 504 U.S. at 384. Plaintiffs have
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   not shown that a different result is warranted here.
+
+                                  14                                             CONCLUSION
+
+                                  15          Summary judgment is granted to plaintiffs on the APA claim for the text message
+
+                                  16   regulation, and Sections 66.106 and 66.108 of the regulations are remanded to the USDA without
+
+                                  17   vacatur for reconsideration in light of this order. Summary judgment is denied in all other
+
+                                  18   respects.
+
+                                  19          IT IS SO ORDERED.
+
+                                  20   Dated: September 13, 2022
+
+                                  21
+
+                                  22
+                                                                                                    JAMES DONATO
+                                  23                                                                United States District Judge
+                                  24
+
+                                  25
+
+                                  26
+                                  27
+
+                                  28

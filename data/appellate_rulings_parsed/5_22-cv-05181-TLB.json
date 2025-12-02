@@ -1,0 +1,55 @@
+{
+  "overall_outcome": "MIXED",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the statute of limitations barred Fort Worth Partners\u2019 breach of contract claim based on Nilfisk\u2019s failure to maintain adequate insurance under the lease.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that each deficient insurance policy constituted a separate breach, and the claim based on the 2021 policy was timely under Arkansas law."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the doctrine of avoidable consequences barred Fort Worth Partners\u2019 recovery because it could have purchased additional insurance.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court declined to review the denial of summary judgment on this fact-intensive issue because Nilfisk failed to present evidence at trial, and the issue was not purely legal."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the district court\u2019s damages award for unrebutted costs was supported by sufficient factual findings.",
+      "standard_of_review": "clear error",
+      "holding": "REVERSE",
+      "key_reasoning": "The court found the district court\u2019s explanation for unrebutted costs insufficiently detailed to permit appellate review and remanded for further findings."
+    },
+    {
+      "issue_id": 4,
+      "description": "Whether the lease permitted Fort Worth Partners to recover damages for the building\u2019s foundation.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court interpreted the lease to exclude all foundation and footing costs, whether above or below grade, from recoverable damages."
+    },
+    {
+      "issue_id": 5,
+      "description": "Whether the district court abused its discretion by reducing Fort Worth Partners\u2019 attorney\u2019s fees award due to limited success.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found the 25% reduction in fees was within the district court\u2019s discretion given Fort Worth Partners\u2019 partial success."
+    }
+  ],
+  "key_precedents": [
+    "Pennington v. BHP Billiton Petroleum (Fayetteville), LLC, 631 S.W.3d 555 (Ark. 2021)",
+    "Dupree v. Younger, 598 U.S. 729 (2023)",
+    "IPSCO Tubulars, Inc. v. Ajax TOCCO Magnathermic Corp., 779 F.3d 744 (8th Cir. 2015)",
+    "Smart Comms. Collier Inc. v. Pope Cnty. Sheriff\u2019s Office, 5 F.4th 895 (8th Cir. 2021)",
+    "Marshall v. Anderson Excavating & Wrecking Co., 8 F.4th 700 (8th Cir. 2021)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "Fort Worth Partners, LLC sued Nilfisk, Inc. and its parent company Nilfisk Holding A/S for breach of contract relating to Nilfisk\u2019s insurance obligations under the parties\u2019 lease agreement. The parties filed cross-motions for summary judgment. The district court denied Nilfisk\u2019s motion, granted Fort Worth Partners\u2019 motion in part, and held a bench trial on damages. Nilfisk appeals the district court\u2019s denial of its motion for summary judgment and the damages award. Fort Worth Partners cross-appeals the district court\u2019s damages award. We affirm, with the exception of the damages award pertaining to unrebutted costs, which we reverse and remand to the district court to make factual findings supporting its award."
+}

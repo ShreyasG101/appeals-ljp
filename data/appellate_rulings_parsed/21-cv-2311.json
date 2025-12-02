@@ -1,0 +1,32 @@
+{
+  "overall_outcome": "REMAND",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the Administrative Law Judge's (ALJ) determination of Nunez\u2019s residual functional capacity (RFC) was supported by substantial evidence, particularly regarding his ability to stay on task and maintain regular work attendance.",
+      "standard_of_review": "substantial evidence",
+      "holding": "REMAND",
+      "key_reasoning": "The court found that the ALJ\u2019s RFC determination was not supported by substantial evidence because the ALJ failed to account for uncontroverted vocational expert testimony and consistent medical opinions indicating Nunez\u2019s limitations in staying on task and regular attendance, and did not adequately explain or support the RFC finding in light of the record."
+    }
+  ],
+  "key_precedents": [
+    "Schillo v. Kijakazi, 31 F.4th 64 (2d Cir. 2022)",
+    "Estrella v. Berryhill, 925 F.3d 90 (2d Cir. 2019)",
+    "Selian v. Astrue, 708 F.3d 409 (2d Cir. 2013)",
+    "Mongeur v. Heckler, 722 F.2d 1033 (2d Cir. 1983)",
+    "Lesterhuis v. Colvin, 805 F.3d 83 (2d Cir. 2015)",
+    "Rubin v. O'Malley, 116 F.4th 145 (2d Cir. 2024)",
+    "Rucker v. Kijakazi, 48 F.4th 86 (2d Cir. 2022)",
+    "Green-Younger v. Barnhart, 335 F.3d 99 (2d Cir. 2003)",
+    "Colgan v. Kijakazi, 22 F.4th 353 (2d Cir. 2022)",
+    "Balsamo v. Chater, 142 F.3d 75 (2d Cir. 1998)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": true,
+  "summary_text": "Plaintiff-Appellant Govanni R. Nunez appeals from a judgment entered in the United States District Court for the Southern District of New York (Valerie Figueredo, Magistrate Judge), granting a motion for judgment on the pleadings in favor of Defendant-Appellee Commissioner of Social Security (the \u201cCommissioner\u201d). Upon review, we hold that the Administrative Law Judge (\u201cALJ\u201d) did not support her opinion regarding Nunez\u2019s residual functional capacity (\u201cRFC\u201d) with substantial evidence.\n\nDuring the administrative hearing, the vocational expert\u2019s uncontroverted testimony established that for an individual like Nunez to maintain employment, the individual could not be off task for more than 10% of the workday or absent more than one day per month. Ultimately, the ALJ concluded that Nunez had a \u201cmoderate limitation\u201d with respect to \u201cconcentrating, persisting, or maintaining pace,\u201d Cert. Admin. R. at 26, a regulatory phrase for the ability \u201cto focus attention on work and to stay on-task at a sustained rate.\u201d 20 C.F.R. \u00a7 404, subpt. P, app\u2019x 1. The phrase also encompasses the ability to maintain \u201cregular attendance at work[,] and work[] a full day without needing more than the allotted number or length of rest periods during the day.\u201d Id. Yet, the ALJ\u2019s RFC determination did not reflect any limitations regarding Nunez\u2019s inability to sustain an ordinary work routine. Moreover, the medical opinions in the record\u2014including all the evidence that the ALJ found persuasive\u2014were unanimous that Nunez had some degree of limitation in his abilities to stay on task and maintain regular work attendance.\n\nOn this record, we hold that the ALJ\u2019s RFC determination was not supported by substantial evidence. Accordingly, we VACATE the district court\u2019s judgment with instructions to REMAND the matter to the Commissioner for further development of the record and reconsideration of Nunez\u2019s application.\n\nJudge Sullivan dissents in a separate opinion."
+}

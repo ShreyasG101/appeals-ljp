@@ -1,0 +1,38 @@
+{
+  "overall_outcome": "MIXED",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether summary judgment was properly granted to defendant Wilson on Upson's Eighth Amendment deliberate indifference claim.",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "Genuine issues of material fact exist regarding whether Wilson was deliberately indifferent to Upson's serious medical needs, precluding summary judgment."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether summary judgment was properly granted to defendant White on Upson's Eighth Amendment deliberate indifference claim.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "Upson failed to present evidence that White both knew of and deliberately disregarded a severe risk to his health, so summary judgment for White was appropriate."
+    }
+  ],
+  "key_precedents": [
+    "Estelle v. Gamble, 429 U.S. 97 (1976)",
+    "Farmer v. Brennan, 511 U.S. 825 (1994)",
+    "Hathaway v. Coughlin, 37 F.3d 63 (2d Cir. 1994)",
+    "Chance v. Armstrong, 143 F.3d 698 (2d Cir. 1998)",
+    "Brandon v. Kinter, 938 F.3d 21 (2d Cir. 2019)",
+    "Covington Specialty Ins. Co. v. Indian Lookout Country Club, Inc., 62 F.4th 748 (2d Cir. 2023)",
+    "Truitt v. Salisbury Bank & Tr. Co., 52 F.4th 80 (2d Cir. 2022)",
+    "Collymore v. Krystal Myers, RN, 74 F.4th 22 (2d Cir. 2023)",
+    "Matzell v. Annucci, 64 F.4th 425 (2d Cir. 2023)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "UPON DUE CONSIDERATION, IT IS HEREBY ORDERED, ADJUDGED, AND DECREED that the judgment of the district court is AFFIRMED IN PART, VACATED IN PART, and REMANDED for further proceedings.\n\nPlaintiff-Appellant Jamel Upson appeals from a judgment of the United States District Court for the Northern District of New York (Lawrence E. Kahn, District Judge), entered on September 30, 2022, in favor of Defendants-Appellees Geraldine Wilson and Elizabeth White. Upson brought this suit pursuant to 42 U.S.C. \u00a7 1983 alleging that Wilson, White, and several other Defendants were deliberately indifferent to his serious medical needs in violation of the Eighth Amendment because they refused to evaluate or treat a bowel obstruction he experienced while confined at Upstate Correctional Facility in the custody of the New York State Department of Corrections and Community Supervision (\u201cDOCCS\u201d). In an order dated September 16, 2020, the district court dismissed Upson\u2019s claims against all Defendants other than Wilson and White. Upson now appeals from the district court\u2019s grant of summary judgment on his remaining claims, see Upson v. Wilson, No. 9:18-CV-1149 (LEK/CFH), 2022 WL 4591874 (N.D.N.Y. Sept. 30, 2022); on appeal, he challenges the district court\u2019s finding that he failed to raise any genuine issues of material fact as to whether Wilson and White knew of and disregarded an excessive risk to his health or safety. We assume the parties\u2019 familiarity with the case.\n\n\u201cWe review de novo a district court\u2019s decision to grant summary judgment, construing the evidence in the light most favorable to the party against whom summary judgment was granted and drawing all reasonable inferences in that party\u2019s favor.\u201d Covington Specialty Ins. Co. v. Indian Lookout Country Club, Inc., 62 F.4th 748, 752 (2d Cir. 2023). 1 \u201cSummary judgment is appropriate where the record reveals that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law.\u201d Truitt v. Salisbury Bank & Tr. Co., 52 F.4th 80, 85 (2d Cir. 2022)."
+}

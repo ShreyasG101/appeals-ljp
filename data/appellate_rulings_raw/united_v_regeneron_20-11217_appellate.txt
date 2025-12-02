@@ -1,0 +1,1321 @@
+United States Court of Appeals
+                      For the First Circuit
+
+
+No. 23-2086
+
+                    UNITED STATES OF AMERICA,
+
+                      Plaintiff, Appellant,
+
+                                v.
+
+                 REGENERON PHARMACEUTICALS, INC.,
+
+                       Defendant, Appellee.
+
+
+          APPEAL FROM THE UNITED STATES DISTRICT COURT
+               FOR THE DISTRICT OF MASSACHUSETTS
+
+         [Hon. F. Dennis Saylor IV, U.S. District Judge]
+
+
+                              Before
+
+               Montecalvo, Thompson, and Kayatta,
+                         Circuit Judges.
+
+
+     Daniel Winik, Attorney, Civil Division, U.S. Department of
+Justice, with whom Brian M. Boynton, Principal Deputy Assistant
+Attorney General, Civil Division, U.S. Department of Justice,
+Joshua S. Levy, Acting U.S. Attorney, District of Massachusetts,
+Michael S. Raab, Attorney, Civil Division, U.S. Department of
+Justice, and Charles W. Scarborough, Attorney, Civil Division,
+U.S. Department of Justice, were on brief, for appellant.
+
+     Paul D. Clement, with whom Matthew D. Rowen, Clement & Murphy,
+PLLC, Theodore V. Wells, Jr., H. Christopher Boehning, Paul Weiss
+Rifkind Wharton & Garrison LLP, Richard L. Scheff, Katharine Ladd,
+Faegre Drinker Biddle & Reath LLP, Brien T. O'Connor, John P.
+Bueker, and Ropes & Gray LLP were on brief, for appellee.
+
+     Tara S. Morrissey, Andrew R. Varcoe, U.S. Chamber Litigation
+Center, Jeffrey S. Bucholtz, Matthew V.H. Noller, and King &
+Spalding LLP on brief for Chamber of Commerce of the United States
+of America, amicus curiae.
+
+
+                        February 18, 2025
+          KAYATTA, Circuit Judge.           This appeal calls for us to
+
+determine the meaning of the words "resulting from" as used in a
+
+2010 amendment to the federal Anti-Kickback Statute (AKS), 42
+
+U.S.C. § 1320a-7b.      See Patient Protection and Affordable Care
+
+Act, Pub. L. No. 111-148, 124 Stat. 119, 759 (2010) (codified at
+
+42 U.S.C. § 1320a-7b(g)). That 2010 amendment states that "a claim
+
+[for payment by a federal healthcare program] that includes items
+
+or services resulting from a violation of [the AKS] constitutes a
+
+false or fraudulent claim for purposes of" the False Claims Act
+
+(FCA), 31 U.S.C. §§ 3729-33.        Id. (emphasis added).     The FCA, in
+
+turn, imposes civil liability on anyone who "knowingly presents,
+
+or causes to be presented, a false or fraudulent claim for payment
+
+or approval" or "knowingly makes, uses, or causes to be made or
+
+used, a false record or statement material to a false or fraudulent
+
+claim."      31   U.S.C.   § 3729(a)(1)(A), (a)(1)(B).         Whether     a
+
+violation of the AKS is also a false claim under the FCA makes a
+
+difference   because    the   FCA   allows    both   the   government    and
+
+whistleblowers to bring civil actions for damages.
+
+          The government alleges that, in violation of the AKS,
+
+Regeneron Pharmaceuticals knowingly induced prescriptions of a
+
+drug called Eylea by covering copayments for certain patients who
+
+received the drug.     Further, contends the government, when doctors
+
+filed Medicare claims for Eylea prescribed to patients receiving
+
+copayment assistance, those claims "resulted from" a violation of
+
+
+                                    - 3 -
+the AKS whether or not those claims would have been made even had
+
+Regeneron not covered the co-pay.         Accordingly, as the government
+
+sees it, those Medicare claims were "false or fraudulent" for
+
+purposes of the FCA.
+
+           Regeneron begs to differ.        The company says that a claim
+
+only "result[s] from" an AKS violation if it includes "items or
+
+services" that would not have been paid for by the government
+
+absent the AKS violation.          Put differently, Regeneron contends
+
+that an AKS violation must be a but-for cause of the challenged
+
+claim.   So, reasons Regeneron, if a doctor would have purchased
+
+(and sought reimbursement for) Eylea anyway, then the subsequent
+
+Medicare claim cannot have "result[ed] from" Regeneron's allegedly
+
+illicit payments.     As we will explain, we agree with Regeneron.
+
+                                     I.
+
+                                     A.
+
+           Regeneron manufactures Eylea.           Eylea is one of just a
+
+few drugs approved by the Food and Drug Administration (FDA) for
+
+treating an ophthalmological condition called neovascular age-
+
+related macular degeneration, also known as wet AMD.            Eylea is a
+
+"buy and bill" drug under Medicare Part B.               This means that
+
+physicians buy the drug, prescribe it, administer it in their
+
+offices, and then submit a reimbursement claim to Medicare.              It
+
+also   means   that   Eylea   is    subject   to    Part B's   cost-sharing
+
+
+
+
+                                    - 4 -
+requirement:   Medicare covers eighty percent of the cost while the
+
+patient pays the remaining twenty percent.
+
+          Eylea is expensive.     Since 2013, Medicare Part B has
+
+spent over $11.5 billion on Eylea.         A single injection costs
+
+$1,850.   Because a patient requires multiple injections per year,
+
+annual per-patient co-pays routinely exceed $2,000.         For some
+
+patients, that co-pay can deter the patients from using Eylea.
+
+And while only a few drugs are FDA-approved to treat wet AMD, at
+
+least one other drug that is much cheaper than Eylea is available
+
+for off-label use.
+
+          These economics create an incentive for Regeneron to
+
+price Eylea in a way that frees the patient from the co-pay.       An
+
+injection that sells for $1,850 with a $330 co-pay will likely
+
+sell less well than an injection that costs $2,000 with no co-pay.
+
+Of course, the insurer -- not the manufacturer -- sets the co-pay
+
+(to ensure that the patient has economic skin in the game when
+
+deciding whether to use the drug).      But if the patient knows that
+
+the manufacturer will rebate that co-pay, that is more or less
+
+equivalent to having no co-pay.
+
+          Here enters the AKS, which prohibits kickbacks.1        All
+
+parties assume for purposes of this appeal that a rebate by the
+
+
+     1  The AKS imposes criminal liability on anyone who "knowingly
+and willfully offers or pays any renumeration . . . to any person
+to induce such person[] . . . to purchase, lease, order . . . or
+
+
+
+                                - 5 -
+manufacturer to the patient or doctor would be a kickback.             So
+
+some creative manufacturers have tried a less direct work-around
+
+by supporting charitable foundations that help patients with co-
+
+pays.    The manufacturer gives the foundation a donation, and the
+
+foundation gives patients (or doctors) the co-pay.
+
+           Suffice it to say, such an arrangement can easily be
+
+seen as a conduit for manufacturer rebates.           The Department of
+
+Health and Human Services therefore issued guidance attempting to
+
+differentiate truly independent co-pay assistance charities from
+
+rebate    conduits.     See    Special   Advisory    Bulletin:   Patient
+
+Assistance   Programs   for   Medicare   Part D     Enrollees,   70   Fed.
+
+Reg. 70623, 70627 (Nov. 22, 2005).
+
+           In this case brought under the FCA, the government
+
+alleges that Regeneron crossed well into the conduit side of that
+
+difference when it paid more than $60 million over the course of
+
+four to five years to the Chronic Disease Fund (CDF), a foundation
+
+that provides copayment assistance to patients suffering from wet
+
+AMD.    For purposes of this appeal, we follow the parties' lead by
+
+assuming, without deciding, that some or all of those donations
+
+were unlawful kickbacks.      We focus our attention, instead, on the
+
+
+
+
+recommend purchasing, leasing, or ordering any good, facility,
+service, or item for which payment may be made in whole or in part
+under a Federal health care program." 42 U.S.C. § 1320a-7b(b)(2).
+
+
+                                 - 6 -
+proper standard of causation required to turn an AKS kickback into
+
+a per se FCA violation.
+
+                                      B.
+
+           A 2010 amendment to the AKS provides that a "claim that
+
+includes items or services resulting from a violation of [the AKS]
+
+constitutes a false or fraudulent claim for purposes of [the FCA]."
+
+42 U.S.C. § 1320a-7b(g).       In other words, an "AKS violation that
+
+results in a federal [healthcare] payment is a per se false claim
+
+under the FCA."     Guilfoile v. Shields, 913 F.3d 178, 190 (1st Cir.
+
+2019) (quoting United States ex rel. Lutz v. United States, 853
+
+F.3d 131, 135 (4th Cir. 2017)).
+
+           Training their attention on the issue of causation, the
+
+parties   filed    competing   motions     under   Federal    Rule    of    Civil
+
+Procedure 56.      Regeneron argued that, under the 2010 amendment,
+
+the   government    "b[ore]    the   burden   of    proving    that    an    AKS
+
+violation . . . actually caused [a] physician to provide different
+
+medical treatment (and thus caused the false claims)."                     United
+
+States v. Regeneron Pharms., Inc., No. 20-11217, 2023 WL 6296393,
+
+at *10 (D. Mass. Sept. 27, 2023).             In other words, Regeneron
+
+asserted that the phrase "resulting from" in the 2010 amendment
+
+imposed a "'but-for' causation standard."             Id.     The government
+
+disagreed, and it urged the district court to adopt the Third
+
+Circuit's view that "all that is required to prove a causal link
+
+[under the 2010 amendment] is that 'a particular patient is exposed
+
+
+                                     - 7 -
+to an illegal recommendation or referral and a provider submits a
+
+claim for reimbursement pertaining to that patient.'" Id. (quoting
+
+United States ex rel. Greenfield v. Medco Health Sols., Inc., 880
+
+F.3d 89, 100 (3d Cir. 2018)).
+
+          Citing cases from the Sixth and Eighth Circuits, the
+
+district court agreed with Regeneron's interpretation.    See United
+
+States ex rel. Martin v. Hathaway, 63 F.4th 1043, 1052–55 (6th
+
+Cir. 2023) (interpreting the phrase "resulting from" in the 2010
+
+amendment as imposing a but-for causation requirement); United
+
+States ex rel. Cairns v. D.S. Med. LLC, 42 F.4th 828, 834–35 (8th
+
+Cir. 2022) (same).   Nevertheless, noting the conflict in the case
+
+law and explaining that the issue was pivotal to the outcome in
+
+this and another case in the circuit, see United States v. Teva
+
+Pharms. USA, Inc., 682 F. Supp. 3d 142, 148 (D. Mass. Jul. 14,
+
+2023), the district court concluded that an immediate appeal would
+
+materially advance the ending of the case.         Accordingly, the
+
+district court sought and we granted interlocutory review pursuant
+
+to 28 U.S.C. § 1292(b).   We now affirm the district court's ruling
+
+that to treat an AKS violation as a false or fraudulent claim under
+
+the FCA, the government must prove that the AKS violation was a
+
+but-for cause of the false claim.     Our reasoning follows.
+
+                                II.
+
+          As a threshold matter, the government contends that
+
+another panel of this court already did our work for us by stating,
+
+
+                                - 8 -
+with   reference     to   the   2010   amendment,   that    "if   there   is    a
+
+sufficient causal connection between an AKS violation and a claim
+
+submitted to the federal government, that claim is false within
+
+the meaning of the FCA."            Guilfoile, 913 F.3d at 190.            That
+
+statement     says   nothing      about    what   "causal    connection"       is
+
+sufficient.     But, as the government stresses, the statement is
+
+directly followed by a citation to the Third Circuit's opinion in
+
+Greenfield, 880 F.3d at 96-98, and to a district court opinion,
+
+United States ex rel. Bawduniak v. Biogen Idec, Inc., No. 12-cv-
+
+10601, 2018 WL 1996829, at *5-6 (D. Mass. April 27, 2018).                     In
+
+each case, the court indicated that it was sufficient that a
+
+patient chose to use the defendant's services or product after
+
+being "exposed" to an inducement, even if the patient would have
+
+made the same decision in the absence of the inducement.                    See
+
+Greenfield, 880 F.3d at 100; Biogen, 2018 WL 1996829, at *5-6.
+
+So, reasons the government, we should read Guilfoile as having
+
+adopted both what it said (that there must be a sufficient causal
+
+connection) and what those cited cases said was sufficient.
+
+            We disagree.        "The mere fact that a court cites a case
+
+approvingly for one point does not imply the court's wholesale
+
+acceptance of each and every proposition for which the cited case
+
+stands."    Kholi v. Wall, 582 F.3d 147, 152 n.5 (1st Cir. 2009).
+
+This rule applies with special force here.             The Guilfoile court
+
+stressed that "the issue before us is not the standard for proving
+
+
+                                       - 9 -
+an FCA violation based on the AKS, but rather the requirements for
+
+pleading an FCA retaliation claim."          913 F.3d at 190.       The
+
+plaintiff in Guilfoile therefore did not need to prove an FCA
+
+violation, by virtue of the AKS or otherwise.         He only needed to
+
+prove that the conduct he reported "could reasonably lead to an
+
+FCA action."    Guilfoile, 913 F.3d at 189.     Hence, the court said
+
+that it was not "assess[ing] the full implications" of the 2010
+
+amendment.   Id. at 190.
+
+          Finding that Guilfoile therefore does not guide -- much
+
+less control -- our analysis of the phrase "resulting from" in the
+
+2010 amendment, we turn now to analyzing the phrase as a matter of
+
+first impression in this circuit.
+
+                                III.
+
+          The   proper   interpretation    of   the   2010   amendment's
+
+"resulting from" language is a question of law, so we review the
+
+district court's interpretation de novo.        See Kenyon v. Cedeno-
+
+Rivera, 47 F.4th 12, 20 (1st Cir. 2022).
+
+                                 A.
+
+          The Supreme Court has held that a phrase like "resulting
+
+from" "imposes . . . a requirement of actual causality."         Burrage
+
+v. United States, 571 U.S. 204, 211 (2014); see also Paroline v.
+
+United States, 572 U.S. 434, 445 (2014) ("The words 'as a result
+
+of' plainly suggest causation.").       "In the usual course," such a
+
+requirement of actual causality as imposed by the words "resulting
+
+
+                               - 10 -
+from" demands proof "'that the harm would not have occurred' . . .
+
+but for . . . the defendant's conduct."                Univ. of Tex. Sw. Med.
+
+Ctr. v. Nassar, 570 U.S. 338, 346–47 (2013) (quoting Restatement
+
+(First) of Torts § 431, cmt. a (Am. L. Inst. 1934)).               Accordingly,
+
+"it is one of the traditional background principles 'against which
+
+Congress legislate[s]' that a phrase such as 'result[ing] from'
+
+imposes a requirement of but-for causation."              Burrage, 571 U.S. at
+
+214 (first alteration in original) (quoting Nassar, 570 U.S. at
+
+347).
+
+            But the fact that "resulting from" is read as calling
+
+for but-for causation in "the usual course," Nassar, 570 U.S. at
+
+346, does not mean that such a reading applies in every situation.
+
+Rather, that reading serves as                a   default assumption, not an
+
+immutable rule.      See Paroline, 572 U.S. at 458.          A court may read
+
+a phrase like "resulting from" to impose an alternative causation
+
+standard    if    there   are    "textual      or   contextual   indication[s]"
+
+supporting that approach.                Burrage, 571 U.S. at 212; see also
+
+Paroline, 572 U.S. at 458 ("[T]he availability of alternative
+
+causal standards where circumstances warrant is, no less than the
+
+but-for test itself as the default, part of the background legal
+
+tradition against which Congress has legislated.").
+
+            The    concept      of   a    "textual"   indication   seems   clear
+
+enough:    We look at the statutory language at issue to see what it
+
+indicates.       See Paroline, 572 U.S. at 458.             The concept of a
+
+
+                                         - 11 -
+"contextual indication" is perhaps less clear, but at a minimum
+
+includes (as evidenced by Paroline) a signal of legislative purpose
+
+gleaned from related statutory text.         In other words, if the text
+
+at issue, when read in the context of the statutory scheme as a
+
+whole,   indicates     that   a   but-for    standard   would     "undermine
+
+congressional intent," it may be inappropriate to read a phrase
+
+like "resulting from" as imposing such a standard.          Id.
+
+           The Court's analysis in Paroline elucidates this point.
+
+That case involved a statute -- 18 U.S.C. § 2259 -- that required
+
+restitution for victims of child pornography.            Id. at 439.       The
+
+statute defined a victim as a person "harmed as a result of"
+
+possession of child pornography, 18 U.S.C. § 2259(c)(4) (emphasis
+
+added), and required that a court determine "the full amount of
+
+the victim's losses . . . incurred by the victim as a result of
+
+the trafficking in child pornography depicting the victim," id.
+
+§ 2259(b)(2)(A)      (emphasis    added).     Ordinarily,   this    kind   of
+
+language would impose a but-for causation standard.             See Burrage,
+
+571 U.S. at 214; Paroline, 572 U.S. at 458.              But six Justices
+
+nevertheless found such a standard inappropriate.
+
+           A five-Justice majority concluded that the statute as a
+
+whole left "no doubt [that] Congress wanted victims [of child
+
+pornography] to receive restitution," because § 2259 expressly
+
+made   restitution    "mandatory"    for    child   pornography    offenses.
+
+Paroline, 572 U.S. at 457 (quoting 18 U.S.C. § 2259(b)(4)).                 A
+
+
+                                   - 12 -
+but-for causation standard would render this "mandatory" language
+
+"a dead letter," because it would be impossible to determine the
+
+"discrete" injury caused by each individual possessor of child
+
+pornography.       Id. at 456–57.     So, given the context provided by
+
+the statute as a whole, the majority found that a but-for standard
+
+would   not    serve   § 2259's    "twin    goals     of   helping    the   victim
+
+achieve . . . restitution . . . and impressing upon offenders the
+
+fact that child-pornography crimes . . . affect real victims."
+
+Id. at 459.        Justice Sotomayor -- writing in dissent -- agreed
+
+with the majority on this point.          She noted that there was a strong
+
+"contextual"       argument     against    applying    a    but-for    causation
+
+standard to § 2259: Such a standard would "swallow [the statute's]
+
+'mandatory' restitution command, leaving victims with little hope
+
+of recovery."      Id. at 477 (Sotomayor, J., dissenting).
+
+              In   sum,   the    phrase     "resulting      from"     imposes    a
+
+requirement of actual causality, which in ordinary course takes
+
+the form of but-for causation, but we may deviate from this
+
+ordinary course if the statute in question provides "textual or
+
+contextual indications" for doing so. A "textual" indication draws
+
+on the plain text of the statute's causation language, while a
+
+"contextual" indication arises from the substance or structure of
+
+the statutory scheme as a whole.            With these principles in mind,
+
+we turn to addressing the parties' respective interpretations of
+
+the 2010 amendment.
+
+
+                                     - 13 -
+                                  B.
+
+            The government cannot show that the text of the 2010
+
+amendment itself contraindicates a but-for causation standard.
+
+Simply put, there is no language in the 2010 amendment that by
+
+itself runs counter to the presumption that "resulting from" calls
+
+for proof of but-for causation.        So, the government finds itself
+
+relying on three contextual arguments.
+
+                                  1.
+
+            First, throughout its brief, the government stresses
+
+that the AKS    itself   -- including its imposition of criminal
+
+liability -- requires no proof that the government would not have
+
+paid a claim but for the inducement of the offered kickback.
+
+Rather, contends the government, the "animating principle" of the
+
+AKS is "that financial conflicts in themselves corrupt medical
+
+decisionmaking."    So, contends the government, because the 2010
+
+amendment was "built on" such a statutory scheme, it too should
+
+require only that payments are meant to induce the provision of
+
+items or services and that those items or services are subsequently
+
+provided.    At least one other court in this circuit has accepted
+
+this contention.    See United States ex rel. Witkin v. Medtronic,
+
+Inc., No. 11-cv-10790, 2024 WL 1892405, at *18 (D. Mass. Mar. 31,
+
+2024) ("It would be counterintuitive for the [AKS] to define
+
+illegal remuneration under an indirect causation standard in the
+
+criminal    context . . .   [while]    ascrib[ing]   a   more   stringent
+
+
+                                - 14 -
+causation standard in the civil context (e.g., an associated FCA
+
+violation).").        But see Omni Healthcare, Inc. v. MD Spine Sols.
+
+LLC, No. 18-cv-12558, 2025 WL 32676, at *8–9 (D. Mass. Jan. 6,
+
+2025) (concluding that the phrase "resulting from" in the 2010
+
+amendment requires a showing of but-for causation).
+
+            We   do    not    follow   the   government's   logic.     As   the
+
+government concedes, the words "resulting from" require proof of
+
+some type of actual causality.               See Burrage, 571 U.S. at 211
+
+("'Results       from'       imposes . . .      a   requirement   of   actual
+
+causality.").      Hence, the question posed here is whether the type
+
+of actual causality required is (as in ordinary course) but-for
+
+causation. AKS liability, by contrast, does not require any causal
+
+link between an inducement and any payment. See 42 U.S.C. § 1320a-
+
+7b(b)(2).    So, the premise that the 2010 amendment's causation
+
+requirement must track that of the AKS fails to get out of the
+
+starting blocks.
+
+            Nor is this surprising.             When Congress wants to make a
+
+violation of one statute or statutory section generate liability
+
+under another statute or section, it may or may not require proof
+
+of added elements not required to prove the predicate violation.
+
+Wire fraud, for example, is a federal offense that is necessary
+
+but not sufficient for establishing additional liability under the
+
+Racketeer Influenced and Corrupt Organizations (RICO) Act.                  18
+
+U.S.C. §§ 1961-1962.            Similarly, certain firearm offenses can
+
+
+                                       - 15 -
+generate additional liability under the Armed Career Criminal Act,
+
+but only if the defendant has three previous convictions for
+
+violent felonies or serious drug offenses.             18 U.S.C. § 924(e)(1).
+
+So, the mere fact that one liability is built on another says
+
+nothing about whether any additional elements are required to
+
+establish the subsequent liability.          Moreover, if Congress wants
+
+to make a violation of one statute a per se violation of another,
+
+it can easily say so.        See, e.g., 15 U.S.C. § 1692l(a) (stating
+
+that violations of the Fair Debt Collection Practices Act also
+
+constitute violations of the Federal Trade Commission Act); 16
+
+U.S.C. § 2465 (stating that violations of the Antarctic Mineral
+
+Resources    Protection     Act   also   constitute      violations   of     the
+
+Antarctic Marine Living Resources Convention Act).
+
+            Nor does the addition of a causation element in the 2010
+
+amendment leave the AKS any less able to pursue its "animating
+
+principle."    Rather, by establishing a new pathway to liability
+
+for AKS violations, the 2010 amendment clearly furthers the aims
+
+of the AKS.     The only question is how much further and on what
+
+terms that added support extends.
+
+            So, our interpretative challenge is to select among
+
+alternative    forms   of    causation,     one   of    which    (but-for)    is
+
+presumptively correct, and all of which require some proof of
+
+"actual causality."        See Burrage, 571 U.S. at 211, 217; see also
+
+Paroline,     572   U.S.     at   458-59    (adopting       an   "alternative
+
+
+                                   - 16 -
+causa[tion]" standard where the defendant played an "indisputable
+
+role . . . in the causal process"). As to that choice, the absence
+
+of   any    causation     requirement      in   establishing        AKS   liability
+
+provides little interpretative insight.
+
+                So framed, our interpretative inquiry does not preclude
+
+(at least in theory) a less ambitious version of the government's
+
+argument:       Because no causation is required to establish criminal
+
+AKS liability, then that suggests that "not much" causation -- that
+
+is to say, causation short of but-for causation -- should be needed
+
+for civil FCA liability. But even this more nuanced argument falls
+
+short      of    supporting    the   government's        position    because     the
+
+government's       proposed    standard     requires      no   proof      of   actual
+
+causation at all.         Instead, the government posits that Medicare
+
+claims for Eylea can "result from" a kickback even if that kickback
+
+had no causal impact whatsoever on a patient’s decision to opt for
+
+Eylea.     While Burrage and Paroline recognize that "resulting from"
+
+may in some instances not require but-for causation, they provide
+
+no   license      to   read   "resulting   from"    as    requiring       no   actual
+
+causality whatsoever.
+
+                Finally, as Regeneron points out, it is not unheard of
+
+for the same statute to impose different evidentiary burdens for
+
+related civil and criminal claims.              See, e.g., McCool v. Strata
+
+Oil Co., 972 F.2d 1452, 1466 (7th Cir. 1992) (noting that civil
+
+RICO claims require proof of injury to a plaintiff, while criminal
+
+
+                                     - 17 -
+RICO prosecutions do not require injury and instead punish the
+
+defendant's "participation in the pattern as a whole").               Here, the
+
+criminal provisions of the AKS serve a different purpose than the
+
+provisions linking an AKS violation to FCA falsity.                      Criminal
+
+liability under the AKS exists "to protect patients from doctors
+
+whose medical judgments might be clouded by improper financial
+
+considerations."     See United States v. Patel, 778 F.3d 607, 612
+
+(7th Cir. 2015).     So, it makes sense for the AKS to criminalize
+
+even those kickbacks that do not ultimately cause a referral or
+
+purchase.     By contrast, "the chief purpose" of the FCA's civil
+
+penalties is "to provide for restitution to the government of money
+
+taken from it by fraud."          United States v. Bornstein, 423 U.S.
+
+303, 314 (1976) (quoting United States ex rel. Marcus v. Hess, 317
+
+U.S. 537, 551 (1943)).      Furthermore, the FCA creates a civil cause
+
+of action for multiple damages that can be initiated and prosecuted
+
+by private individuals without any affirmative approval by the
+
+government.    So, it also makes sense for the 2010 amendment to
+
+render a claim false (for FCA purposes) only when a kickback is
+
+the cause of that claim's submission to the government.
+
+                                        2.
+
+            That   brings   us   to    the     government's   next   contextual
+
+argument, rooted in statutory history.               Before addressing that
+
+second contextual argument, we follow the lead of the parties and
+
+first   discuss    what   the    government      describes    as   the   "false-
+
+
+                                      - 18 -
+certification" theory linking the FCA and AKS.2 Under this theory,
+
+a defendant violates the FCA when presenting (or causing to be
+
+presented)    a   claim         that     misrepresents       compliance      with   a
+
+"statutory, regulatory, or contractual requirement" that "the
+
+defendant    knows     is       material    to    the   [g]overnment's       payment
+
+decision."    Universal Health Servs., Inc. v. United States, 579
+
+U.S. 176, 181 (2016).
+
+                                           a.
+
+            Before the 2010 amendment, many courts broadly agreed
+
+that AKS compliance could be a material precondition of Medicare
+
+reimbursement.       See United States ex rel. Westmoreland v. Amgen,
+
+Inc., 812 F. Supp. 2d 39, 54–55 (D. Mass. 2011) (collecting cases).
+
+So, a defendant who falsely represented AKS compliance when seeking
+
+a payment from Medicare could be liable under the FCA.                 See, e.g.,
+
+United States ex rel. Kosenske v. Carlisle HMA, Inc., 554 F.3d 88,
+
+94 (3d Cir. 2009) ("Falsely certifying compliance with the [AKS]
+
+in   connection   with      a    claim     submitted    to   a   federally    funded
+
+insurance program is actionable under the FCA.").
+
+
+
+
+      2 The parties use the phrase "false-certification" to
+describe the body of case law linking the FCA and AKS without
+reference to the 2010 amendment.       Purely for the sake of
+simplicity, we follow their lead.    However, we have previously
+noted that the term "certification" never appears in the text of
+the FCA and is more likely to "obscure than clarify the issues
+before us." United States ex rel. Hutcheson v. Blackstone Med.,
+Inc., 647 F.3d 377, 385–86 (1st Cir. 2011).
+
+
+                                         - 19 -
+            In United States ex rel. Hutcheson v. Blackstone Med.,
+
+Inc., 647 F.3d 377 (1st Cir. 2011), we considered an FCA claim
+
+that the defendant offered renumeration to doctors to use the
+
+defendant's medical devices, and doctors and hospitals then sought
+
+reimbursement for those medical devices from federal healthcare
+
+programs.    We held that the defendant could be liable under the
+
+FCA for causing the doctors and hospitals to submit false claims
+
+even if the defendant itself submitted no claims and even though
+
+the hospitals knew of no AKS violation.          Id. at 389-91.      We also
+
+held that where a provider agreement and a hospital cost report
+
+made clear that the government healthcare program would not pay
+
+claims if the underlying transaction that gave rise to the claim
+
+violated the AKS, the claim could be false under the FCA.                Id. at
+
+392-94.   In so holding, we eschewed reliance on terms like "false
+
+certification" that are not mentioned in the statute, see id. at
+
+389-90,   but   we   reached   a   result    identical   to   what   a   false
+
+certification theory would have produced.
+
+            In sum, there is certainly a pathway to FCA liability
+
+for an AKS violation when someone falsely represents compliance
+
+with a material requirement that there be no AKS violation in
+
+connection with the claim.         Under that pathway, it is not the AKS
+
+violation itself that renders the claim false.           Rather, it is the
+
+false representation that there is no AKS violation.             And, as we
+
+will explain, it is that pathway which the government claims is
+
+
+                                    - 20 -
+relevant to its position on this appeal.     See also William A.
+
+Escobar & Philip D. Robben, The False Claims Act, in 15 Business
+
+& Commercial Litigation in Federal Courts §§ 160:1, :17 (Robert L.
+
+Haig ed., 5th ed. 2022) (outlining the elements of a false-
+
+certification claim).
+
+                                b.
+
+          We now turn to the government's argument about the
+
+context provided by statutory history. At the outset, we reiterate
+
+that Paroline appeared to define a "contextual" indication as a
+
+signal of legislative intent derived from the text of the statute
+
+when read as a whole.   See 572 U.S. at 456-58.   Paroline does not
+
+clearly permit us to cite statutory history as a "contextual"
+
+reason for deviating from the default but-for causation standard.
+
+On the other hand, the Supreme Court has often relied on the
+
+evolution of a statute over time as informative.        See, e.g.,
+
+Shamrock Oil & Gas Corp. v. Sheets, 313 U.S. 100, 104-07 (1941);
+
+Van Buren v. United States, 593 U.S. 374, 392-93 (2021).    In any
+
+event, even accepting the history of the statute's evolution as
+
+potentially informative, we find the government's spin on that
+
+history unconvincing.
+
+          The government begins by noting that Congress passed the
+
+2010 amendment against a backdrop of false-certification cases.
+
+As explained above, those cases did not require proof of causation
+
+to demonstrate falsity under the FCA; a material misrepresentation
+
+
+                              - 21 -
+of compliance with the AKS was enough.                The government further
+
+argues that, when Congress passed the 2010 amendment, it did not
+
+clearly intend to alter false-certification caselaw by imposing a
+
+but-for causation requirement.        Cf. Midlantic Nat'l Bank v. N.J.
+
+Dep't of Env't Prot., 474 U.S. 494, 501 (1986) ("The normal rule
+
+of   statutory   construction    is     that    if    Congress   intends      for
+
+legislation to change the interpretation of a judicially created
+
+concept, it makes that intent specific.").
+
+            On both points, we agree.          But there is nothing in the
+
+2010 amendment that requires proof of but-for causation in a false-
+
+certification FCA case.    Rather, as the government itself points
+
+out, the 2010 amendment "offer[s] a pathway to establish falsity
+
+in FCA actions based on AKS violations without reliance on [the
+
+false certification] theory."         The circuit courts that read the
+
+2010 amendment as imposing a but-for causation requirement also
+
+agree that the 2010 amendment did not disturb alternative theories
+
+of FCA liability (e.g., false certification). See Cairns, 42 F.4th
+
+at 836 (rejecting the argument that the 2010 amendment "codified"
+
+pre-2010 false-certification law, and then limiting the but-for
+
+causation   requirement   to    cases    where       "a   plaintiff   seeks   to
+
+establish falsity or fraud through the 2010 amendment" (emphasis
+
+added)); United States ex rel. Martin v. Hathaway, 63 F.4th 1043,
+
+1053 (6th Cir. 2023) (agreeing with the Cairns court's analysis).
+
+
+
+
+                                 - 22 -
+           Nor is the causation requirement the only difference
+
+between   false-certification    cases    and   claims    under   the   2010
+
+amendment.   For example, under the false-certification theory, FCA
+
+liability lies when a defendant falsely represents AKS compliance
+
+on a federal agency form.       Hutcheson, 647 F.3d at 392.        But the
+
+2010 amendment does not require any representation -- implied or
+
+express -- of AKS compliance.       Instead, any AKS violation that
+
+"results in a federal health care payment" gives rise to a "per se
+
+false claim under the FCA."      Guilfoile, 913 F.3d at 190 (emphasis
+
+added) (quoting Lutz, 853 F.3d at 135).          Furthermore, under the
+
+implied false-certification theory, the government must show that
+
+the defendant's misrepresentation of AKS compliance was material
+
+to the government's payment decision. See Universal Health Servs.,
+
+579 U.S. at 181.    There is no such materiality requirement for
+
+claims brought under the 2010 amendment.         Guilfoile, 913 F.3d at
+
+190.
+
+           Put simply, claims under the 2010 amendment run on a
+
+separate track than do claims under a false-certification theory.
+
+There is no reason to think that, because false-certification
+
+claims require no proof of causation, Congress therefore eschewed
+
+any actual causation requirement under the 2010 amendment.          By its
+
+own terms, the 2010 amendment requires some proof of causation;
+
+the only question is what type of causation.             On that question,
+
+the statutory history provides no reason to deviate from the
+
+
+                                 - 23 -
+ordinary course, in which we treat "resulting from" as requiring
+
+but-for causation.
+
+                                      3.
+
+            At its last source of context, the government points to
+
+the legislative history of the 2010 amendment.          Once more, nothing
+
+in Paroline instructs that we may consider such evidence when
+
+interpreting the phrase "resulting from."           But even presuming that
+
+such evidence is relevant, the legislative history simply offers
+
+too little to justify the government's position.
+
+            The government primarily relies on a floor statement by
+
+Senator    Ted   Kaufman,   who   sponsored   the    bill   that    originally
+
+included what became the 2010 amendment.             See United States ex
+
+rel. Kester v. Novartis Pharms. Corp., 41 F. Supp. 3d 323, 332–33
+
+(detailing the legislative genesis of the 2010 amendment). Senator
+
+Kaufman stated that the provision would "ensure that all claims
+
+resulting from illegal kickbacks are 'false or fraudulent,' even
+
+when the claims are not submitted directly by the wrongdoers
+
+themselves."     155 Cong. Rec. S10852-01 (2009), 2009 WL 3460582, at
+
+*S10853.    So, an ostensible purpose of the 2010 amendment was to
+
+circumvent an arguable weakness in the false-certification theory.
+
+            Senator Kaufman himself appeared to cite an example of
+
+this arguable weakness:       United States ex rel. Thomas v. Bailey,
+
+No. 06CV00465, 2008 WL 4853630 (E.D. Ark. Nov. 6, 2008).                See 155
+
+Cong.     Rec. S10852-01    (2009),    2009   WL     3460582,      at   *S10853
+
+
+                                   - 24 -
+(describing the facts of the case).        That case involved a surgeon
+
+who received kickbacks from a medical device company to use their
+
+cervical plating devices.      Thomas, 2008 WL 4853630, at *1–3.         The
+
+hospital then submitted claims for reimbursement for the surgeon's
+
+services, including the typical costs of products and devices
+
+purchased for that type of procedure.       Id. at *3.   The court found
+
+that Medicare claims submitted by the hospital were not false under
+
+the FCA.   Id. at *13–14.      Because the hospital knew nothing about
+
+the surgeon's AKS violations (and because it had only certified
+
+its own AKS compliance "to the best of [its] knowledge"), the court
+
+held that the requests for Medicare reimbursement were not false.
+
+Id. at *10–13.
+
+           According to Senator Kaufman, the 2010 amendment would
+
+prevent something like this from happening again.           Under the 2010
+
+amendment, the claims for the medical devices would still be deemed
+
+false or fraudulent under the AKS, because they "result[ed] from"
+
+the   surgeon's   acceptance    of   illicit   kickbacks.       155   Cong.
+
+Rec. S10852-01 (2009), 2009 WL 3460582, at *S10853.             It would,
+
+therefore, be no defense that the surgeon had never personally
+
+certified compliance with the AKS.
+
+           Nothing   about   Senator   Kaufman's   floor     statement   is
+
+inconsistent with an interpretation of the 2010 amendment that
+
+imposes but-for causation.        Rather, the floor statement simply
+
+reinforces the government's view that the 2010 amendment creates
+
+
+                                  - 25 -
+a different "pathway to establish falsity in FCA actions based on
+
+AKS   violations   without    reliance    on    [the   false-certification]
+
+theory."    If a medical provider accepts kickbacks, and then
+
+personally represents compliance with the AKS, then FCA liability
+
+can flow from that false representation.               But if the medical
+
+provider does not represent compliance with the AKS (expressly or
+
+otherwise), then a claim submitted on that provider's behalf can
+
+still be "per se false" under the 2010 amendment.            Guilfoile, 913
+
+F.3d at 190 (quoting Lutz, 853 F.3d at 135).               That is, if the
+
+government can show that the illicit kickback was a but-for cause
+
+of the submitted claim, then the claim is "per se false" even
+
+absent a false certification of AKS compliance.
+
+           We   therefore    disagree    with   the    government   that   the
+
+legislative history of the 2010 amendment requires us to interpret
+
+the phrase "resulting from" as imposing something other than a
+
+but-for causation standard.
+
+                                    4.
+
+           We respond, finally, to the government's contention that
+
+it can "sometimes be difficult" to prove why a doctor prescribed
+
+a particular drug.    We do not doubt that such proof may be more
+
+difficult to nail down in some cases.           But the same could be said
+
+about the requirement to prove other elements of a successful
+
+action under the FCA, such as scienter.          See, e.g., United States
+
+ex rel. Hart v. McKesson Corp., 96 F.4th 145, 160-62 (2d Cir. 2024)
+
+
+                                  - 26 -
+(finding that the defendant lacked the requisite scienter to bring
+
+a claim under the FCA), cert. denied, 145 S. Ct. 163 (2024); United
+
+States ex rel. Gugenheim v. Meridian Senior Living, LLC, 36 F.4th
+
+173, 181-82 (4th Cir. 2022) (same).
+
+           Nor is it the case that giving "resulting from" its
+
+ordinary meaning renders it so difficult to establish liability
+
+that the 2010 amendment would have no practical effect.                As we
+
+have explained in this opinion, the 2010 amendment made it easier
+
+to bring an FCA action for damages by creating a pathway that does
+
+not require proof of a false certification.               And not even the
+
+government argues that it will rarely be able to prove but-for
+
+causation.   Indeed, in this very case, the government's position
+
+is that it has proffered enough evidence to get to a jury on the
+
+issue of but-for causation.         See U.S.'s Surreply to Regeneron's
+
+Motion for Summary Judgment at 10, United States v. Regeneron
+
+Pharms., Inc., No. 20-11217, 2023 WL 7016900 (D. Mass. Oct. 25,
+
+2023) ("Even if the government were required to prove but-for
+
+causation, it at least has identified sufficient evidence to defeat
+
+summary judgment.").      And the district court ultimately agreed,
+
+finding   that   the   government    had     alleged   enough   evidence   "to
+
+withstand summary judgment on the issue of [but-for] causation."
+
+See Regeneron, 2023 WL 6296393, at *12-14.
+
+
+
+
+                                    - 27 -
+                               IV.
+
+          In sum, we find no convincing "textual or contextual"
+
+reason to deviate from the default presumption that the phrase
+
+"resulting from" as used in the 2010 amendment imposes a but-for
+
+causation standard. We therefore hold that, to demonstrate falsity
+
+under the 2010 amendment, the government must show that an illicit
+
+kickback was the but-for cause of a submitted claim.
+
+                               V.
+
+          For the foregoing reasons, the judgment of the district
+
+court is affirmed.
+
+
+
+
+                             - 28 -

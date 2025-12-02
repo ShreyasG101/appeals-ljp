@@ -1,0 +1,1996 @@
+United States Court of Appeals
+                      For the First Circuit
+
+
+No. 22-1770
+
+    JOHN CONTI, on behalf of himself and all others similarly
+                            situated,
+
+                      Plaintiff, Appellant,
+
+                                v.
+
+                       CITIZENS BANK, N.A.,
+
+                       Defendant, Appellee,
+
+                  DOES 1 through 10, inclusive,
+
+                           Defendants.
+
+
+          APPEAL FROM THE UNITED STATES DISTRICT COURT
+                FOR THE DISTRICT OF RHODE ISLAND
+
+           [Hon. Mary S. McElroy, U.S. District Judge]
+
+
+                              Before
+
+                  Rikelman, Howard, and Aframe,
+                         Circuit Judges.
+
+
+     Jonathan E. Taylor, with whom Deepak Gupta, Gupta Wessler
+LLP, David J. George, Brittany L. Brown, Janine L. Pollack, Michael
+Liskow, Lori G. Feldman, George Feldman McDonald, PLLC, Patrick
+Dowling, Jr., and D'Amico Burchfield, LLP were on brief, for
+Appellant.
+     Geoffrey W. Millsom, with whom Brenna Anatone Force, Daniel
+J. Procaccini, Colten H. Erickson, and Adler Pollock & Sheehan
+P.C. were on brief, for Appellee.
+     Stefan L. Jouret, Jouret LLC, Matthew Lambert, Deputy General
+Counsel, Conference of State Bank Supervisors, and Arthur E.
+Wilmarth, Jr., Professor Emeritus of Law, George Washington
+University Law School, on brief, for Conference of State Bank
+Supervisors and American Association of Residential Mortgage
+Regulators, amici curiae.
+     Matthew A. Schwartz, H. Rodgin Cohen, Shane M. Palmer, Brandyn
+J. Rodgerson, Sullivan & Cromwell LLP, Gregg L. Rozansky, Tabitha
+Edgens, the Bank Policy Institute, David Pommerehn, Consumer
+Bankers Association, Thomas Pinder, Andrew Doersam, the American
+Bankers Association, Jonathan D. Urick, Tyler S. Badgley, U.S.
+Chamber Litigation Center, Justin Wiseman, Alisha Sears, and
+Mortgage Bankers Association, on brief, for the Bank Policy
+Institute, American Bankers Association, the Chamber of Commerce
+of the United States of America, the Consumer Bankers Association,
+and the Mortgage Bankers Association, amici curiae.
+
+
+                        September 22, 2025
+            AFRAME,      Circuit    Judge.         Rhode   Island   General     Laws
+
+section 19-9-2(a) requires all banks operating within the state to
+
+pay mortgage borrowers interest on the funds they deposit into
+
+mortgage-escrow accounts.            See R.I. Gen. Laws § 19-9-2(a).              In
+
+July 2021, John Conti, representing a putative class, sued Citizens
+
+Bank, N.A. ("Citizens"), a national banking association chartered
+
+under the National Bank Act, 12 U.S.C. § 21 et seq., alleging that
+
+Citizens failed to pay interest on mortgage-escrow accounts as
+
+required by the Rhode Island statute.
+
+            Citizens moved to dismiss the case, see Fed R. Civ. P.
+
+12(b)(6),      arguing    that     the   National     Bank   Act    preempts    the
+
+application of the Rhode Island statute to national banks.                      The
+
+district court agreed and dismissed Conti's complaint.                         Conti
+
+appealed.   While the appeal was pending, the United States Supreme
+
+Court decided Cantero v. Bank of America, N.A., 602 U.S. 205
+
+(2024), which clarified the legal standard for preemption under
+
+the National Bank Act.
+
+            We conclude that the district court, writing without the
+
+benefit   of    Cantero,    incorrectly          granted   Citizens'   motion     to
+
+dismiss on the ground that the National Bank Act preempted the
+
+Rhode Island statute.       We therefore vacate the judgment and remand
+
+for further proceedings.
+
+
+
+
+                                         - 3 -
+                                   I.
+
+            In   July   2011,   Conti   financed   the    purchase   of   a
+
+residential property in Rhode Island with a mortgage loan from
+
+Citizens.    The mortgage agreement required Conti to make advance
+
+payments of municipal property taxes and homeowner's insurance
+
+into a Citizens-maintained escrow account.1              Per the mortgage
+
+agreement, Citizens did not pay Conti interest or earnings on the
+
+escrow-account proceeds.
+
+            A decade later, Conti sued Citizens in the United States
+
+District Court for the District of Rhode Island for breach of
+
+contract and unjust enrichment.2          Conti asserted that Citizens
+
+failed to pay its customers interest on their escrow accounts in
+
+violation of the Rhode Island statute.       The statute requires banks
+
+operating in     Rhode Island    to pay interest on borrower funds
+
+deposited into mortgage-escrow accounts:
+
+
+
+     1     An escrow account is "[a]n account of accumulated funds
+held by a lender for payment of taxes, insurance, or other periodic
+debts against real property."     Account, Black's Law Dictionary
+(12th ed. 2024). These accounts provide banks with assurance that
+their loan collateral is protected against unexpected damage or
+tax foreclosure, while also allowing borrowers to periodically set
+aside funds for tax and insurance obligations and thereby avoid
+having to make one-time bulk payments. See Cantero, 602 U.S. at
+210-11.
+     2    Conti brought the action on behalf of himself and a class
+of   Citizens  customers   across   Rhode   Island,   Connecticut,
+Massachusetts, New York, New Hampshire, and Vermont. Conti also
+sued in the alternative on behalf of a narrower class comprising
+only Rhode Island-based customers.
+
+
+                                  - 4 -
+            Every mortgagee holding funds of a mortgagor
+            in escrow for the payment of taxes and
+            insurance premiums with respect to mortgaged
+            property located in this state shall pay or
+            credit interest on those funds at a rate equal
+            to the rate paid to the mortgagee on its
+            regular savings account, if offered, and
+            otherwise at a rate not less than the
+            prevailing market rate of interest for regular
+            savings accounts offered by local financial
+            institutions . . . .
+
+R.I. Gen. Laws § 19-9-2(a).
+
+            In due course, Citizens moved to dismiss Conti's suit on
+
+federal preemption    grounds.    It argued that pursuant to the
+
+National Bank Act, it was not subject to any state law requiring
+
+a bank to pay interest on escrow accounts.        The district court
+
+agreed and dismissed the case.
+
+            Conti timely appealed.   While the appeal was pending,
+
+the Supreme Court granted a petition for writ of certiorari to
+
+review the Second Circuit Court of Appeals' decision in Cantero v.
+
+Bank of America, N.A., 49 F.4th 121 (2d Cir. 2022), cert. granted,
+
+144 S. Ct. 324 (2023). The case involved a substantively identical
+
+issue to the one presented here -- whether the National Bank Act
+
+preempted a New York law requiring banks to pay interest on escrow
+
+accounts.   See Cantero, 602 U.S. at 212.3   We stayed Conti's appeal
+
+
+     3    Following Cantero, the Supreme Court also granted a
+petition for writ of certiorari in a Ninth Circuit Court of Appeals
+case involving a California interest-on-escrow law. See Kivett v.
+Flagstar Bank, FSB, No. 21-15667, 2022 WL 1553266 (9th Cir. May
+17, 2022), cert. granted, vacated sub nom., Flagstar Bank, N.A. v.
+
+
+
+                                 - 5 -
+to await the Supreme Court's action.      See Order, Conti v. Citizens
+
+Bank, N.A., No. 22-1770 (1st Cir. Nov. 27, 2023).        Following the
+
+Cantero decision, Conti's appeal resumed with full post-Cantero
+
+briefing.
+
+             Conti now makes two arguments.    He first contends that
+
+the district court failed to apply the proper test for preemption
+
+as outlined in Cantero.      Additionally, he argues that, applying
+
+Cantero, Citizens has failed to show that the Rhode Island statute
+
+significantly interferes with federal-banking power such that it
+
+should be preempted under the National Bank Act.        For its part,
+
+Citizens responds that, even assuming the district court did not
+
+effectively apply the legal test as outlined in Cantero, we should
+
+affirm the dismissal of Conti's complaint without a remand because
+
+Conti's claim is preempted under Cantero in any event, and we may
+
+affirm dismissal on any basis.        We begin by describing the legal
+
+framework.
+
+                                II.
+
+             In 1863, Congress passed the National Bank Act.   See Van
+
+Allen v. Assessors, 70 U.S. (3 Wall.) 573, 589 (1865) (Chase, C.J.,
+
+concurring). The Act creates a federal regulatory scheme to govern
+
+national banks.    See Cantero, 602 U.S. at 210.    The Act enumerates
+
+
+
+Kivett, 144 S. Ct. 2628 (2024).   The Supreme Court vacated the
+judgment and remanded the case for further consideration
+post-Cantero. See Flagstar Bank, 144 S. Ct. at 2628.
+
+
+                                 - 6 -
+express   powers   for   such   banks   including   the    power   to   "make
+
+contracts," "sue and be sued," and "elect or appoint" a "board of
+
+directors."   12 U.S.C. § 24.      Subsequent amendments have granted
+
+national banks additional express powers, including the ability to
+
+"make, arrange, purchase or sell loans or extensions of credit
+
+secured by liens on interests in real estate," i.e., to provide
+
+mortgage loans.    12 U.S.C. § 371(a).
+
+           The National Bank Act also empowers banks to employ "all
+
+such incidental powers as shall be necessary to carry on the
+
+business of banking."     12 U.S.C. § 24, Seventh.        Incidental powers
+
+are those that are "convenient or useful in connection with the
+
+performance of one of the bank's established activities pursuant
+
+to its express powers under the National Bank Act."           Arnold Tours,
+
+Inc. v. Camp, 472 F.2d 427, 432 (1st Cir. 1972).
+
+           In establishing a comprehensive regulatory scheme for
+
+national banks, the National Bank Act has long been understood to
+
+preempt some, but not all, state regulation of such banks.                See
+
+Barnett Bank of Marion Cnty., N.A. v. Nelson, 517 U.S. 25, 32-33
+
+(1996) (describing the history of "national bank legislation" as
+
+"one of interpreting grants of both enumerated and incidental
+
+'powers' to national banks as grants of authority not normally
+
+limited by, but rather ordinarily pre-empting, contrary state law"
+
+but adding that "[t]o say this is not to deprive [s]tates of the
+
+power to regulate national banks"); Cuomo v. Clearing House Ass'n
+
+
+                                  - 7 -
+L.L.C., 557 U.S. 519, 534–35 (2009) (describing how, for over a
+
+century, states have enforced general laws and "banking-related
+
+laws against national banks").
+
+          In 2010, the Dodd–Frank Wall Street Reform and Consumer
+
+Protection Act ("Dodd–Frank"), Pub. L. No. 111–203, 124 Stat. 1376
+
+(codified at 12 U.S.C. § 25b(b)), clarified the scope of preemption
+
+under the National Bank Act for state-consumer-financial laws.
+
+See Cantero, 602 U.S. at 213.      Section 25b defines "state consumer
+
+financial laws" as those laws that "directly and specifically
+
+regulate[] the manner, content, or terms and conditions of any
+
+financial transaction (as may be authorized for national banks to
+
+engage in), or any account related thereto, with respect to a
+
+consumer."   12   U.S.C.   § 25b(a)(2).      Under    section 25b(b)(1),
+
+state-consumer-financial    laws    are   preempted    "only   if"   they:
+
+(1) have a discriminatory effect on national banks as compared to
+
+state-chartered banks or (2) prevent or significantly interfere
+
+with the exercise of national-bank powers "in accordance with the
+
+legal standard for preemption in the decision of the Supreme Court
+
+of the United States in [Barnett Bank]."     Id. § 25b(b)(1)(A), (B).4
+
+In codifying this standard, Congress stressed that federal-banking
+
+
+
+     4    Section 25b grants courts and the Office of the
+Comptroller of the Currency ("OCC") concurrent power to make
+preemption determinations. 12 U.S.C. § 25b(b)(1)(B). Preemption
+determinations by the OCC may be made by "regulation or order . . .
+on a case-by-case basis." Id.
+
+
+                                - 8 -
+law "does not occupy the field in any area of [s]tate law."                  Id.
+
+§ 25b(b)(4).
+
+           In    Cantero,     the     Supreme   Court     elaborated    on   the
+
+application     of    section 25b.      As    mentioned    already,    the   case
+
+involved a New York interest-on-escrow law.             See Cantero, 602 U.S.
+
+at 212.   The Second Circuit had initially held the law preempted
+
+under the National Bank Act, concluding that "any state law that
+
+'purport[ed] to exercise control over a federally granted banking
+
+power,'   regardless        of   'the     magnitude       of   its     effects'"
+
+significantly interfered with federal-banking power such that the
+
+law is preempted.       Id. at 213 (quoting Cantero, 49 F.4th at 131).
+
+           The Supreme Court rejected that approach.                   It first
+
+established that whether a state law significantly interferes with
+
+federal-banking power is not a "categorical test that would preempt
+
+virtually all state laws that regulate national banks . . . other
+
+than generally applicable state laws."                Cantero, 602 U.S. at
+
+220-21.   Instead, it instructed that courts must make "a practical
+
+assessment of the nature and degree of the interference caused by
+
+a state law."        Id. at 219-20.    To do this, Cantero directs courts
+
+to perform a "nuanced comparative analysis" of the preemption cases
+
+relied on in Barnett Bank.           Id. at 220-21.       Cantero specifically
+
+identifies two categories of precedents for courts to consider.
+
+           The first category comprises cases in which the Supreme
+
+Court found preemption: Franklin National Bank of Franklin Square
+
+
+                                      - 9 -
+v. New York, 347 U.S. 373 (1954); Fidelity Federal Savings & Loan
+
+Ass'n v. De la Cuesta, 458 U.S. 141 (1982); First National Bank of
+
+San Jose v. California, 262 U.S. 366 (1923); as well as Barnett
+
+Bank itself.        See Cantero, 602 U.S. at 220.                  The second category
+
+consists of cases in which the Court found no preemption: Anderson
+
+National Bank v. Luckett, 321 U.S. 233 (1944); National Bank v.
+
+Commonwealth, 76 U.S. (9 Wall.) 353 (1869); and McClellan v.
+
+Chipman, 164 U.S. 347 (1896).                 See Cantero, 602 U.S. at 220.             "If
+
+the state law's interference with national bank powers is more
+
+akin to the interference in [the first category of] cases . . . ,
+
+then   the    state     law   is      preempted"      but    "[i]f   the    state    law's
+
+interference        with   national         bank    powers    is   more    akin    to   the
+
+interference in [the second category of] cases . . . then the state
+
+law is not preempted."                Id.    The Court further observed that in
+
+Barnett      Bank    and   these       earlier      precedents,      it    "reached     its
+
+conclusions about the nature and degree of the state laws' alleged
+
+interference with the national banks' exercise of their powers
+
+based on the text and structure of the laws, comparison to other
+
+precedents, and common sense."                 Id. at 220 n.3.
+
+                                            III.
+
+                                             A.
+
+              Having described the pertinent background, we first
+
+consider      whether      the     district        court    performed      the    analysis
+
+required     by     Cantero      in    deciding      that    the   National      Bank   Act
+
+
+                                            - 10 -
+preempted the Rhode Island statute.                We review de novo the
+
+district court's grant of a motion to dismiss, see Fed. R. Civ. P.
+
+12(b)(6), taking the complaint's factual allegations as true and
+
+affording the plaintiff all reasonable inferences that can be drawn
+
+therefrom.       See Union of Concerned Scientists v. Wheeler, 954 F.3d
+
+11, 16 (1st Cir. 2020).          We likewise review de novo the district
+
+court's preemption determination.             See Capron v. Off. of Att'y
+
+Gen. of Mass., 944 F.3d 9, 22 (1st Cir. 2019).            "[T]he burden of
+
+proving preemption lies with the part[y] asserting it . . . ."
+
+Me. Forest Prods. Council v. Cormier, 51 F.4th 1, 6 (1st Cir.
+
+2022).
+
+             The district court held that the National Bank Act
+
+preempts     a    state   law   wherever   the   law   places   "limits"   on
+
+federal-banking power.          On this basis, the court concluded that,
+
+because the Rhode Island statute limits "the power to establish
+
+escrow accounts," it "'significantly interfere[d]' with a national
+
+bank['s] incidental powers to utilize mortgage-escrow accounts."
+
+Accordingly, the court found the Rhode Island statute preempted
+
+pursuant to the National Bank Act and dismissed Conti's suit.5
+
+             The district court's preemption analysis diverged from
+
+the analysis mandated by Cantero in two respects.                 First, in
+
+
+     5    The district court disposed of the matter before
+addressing class certification.   See Fed. R. Civ. P. 23. As a
+result, "the sole plaintiff before it" was Conti, and the sole
+state statute at issue was R.I. Gen. Laws § 19-9-2(a).
+
+
+                                     - 11 -
+finding the Rhode Island statute preempted, the district court
+
+determined      only   that    the      statute   imposed   "limits"   on
+
+federal-banking power; it did not conduct "a practical assessment
+
+of the . . . degree of the interference."          See Cantero, 602 U.S.
+
+at 219-20.     Second, it did not compare the interference produced
+
+by the Rhode Island statute against the interference arising from
+
+the   Supreme     Court's     seminal     banking-preemption   precedents
+
+identified in Barnett Bank.       See id. at 220-21.
+
+             As support for its decision, the district court relied
+
+principally on our holding in SPGGC, LLC v. Ayotte, 488 F.3d 525
+
+(1st Cir. 2007), which Citizens also relies on to argue for
+
+affirmance.     In SPGGC, which predates Dodd-Frank and Cantero, this
+
+Court found National Bank Act preemption of a New Hampshire law
+
+prohibiting the issuance of certain types of gift cards because
+
+the law restricted a national bank's incidental power to issue
+
+such cards.     488 F.3d at 532-33.        But SPGGC neither conducted a
+
+practical assessment of the degree of interference posed by the
+
+New Hampshire law nor included a "nuanced comparative analysis" of
+
+the relevant Barnett Bank precedents. Cantero, 602 U.S. at 219-20.
+
+The decision in SPGCC, like the district court's decision, turned
+
+on the fact that the New Hampshire law "regulate[d] the terms and
+
+conditions" of a banking product. 488 F.3d at 533.                SPGGC's
+
+methodology deviates from the analysis mandated by Cantero, and we
+
+therefore are not bound by it.          See Educadores Puertorriqueños en
+
+
+                                  - 12 -
+Acción v. Hernández, 367 F.3d 61, 67 (1st Cir. 2004) (stating that
+
+"[t]o the extent that preexisting circuit precedent contradicts [a
+
+more recent Supreme Court] holding, we regard that precedent as
+
+abrogated by" the superseding holding).
+
+                                     B.
+
+            Having concluded that the district court's approach
+
+differed from that subsequently required by Cantero, we turn to
+
+the core legal question disputed by the parties: Has Citizens
+
+nevertheless      established    that     the      Rhode    Island    statute   is
+
+preempted under Cantero?
+
+            Citizens     contends    that    the    Rhode   Island    statute   is
+
+preempted    by    the    National      Bank    Act    because       the   statute
+
+significantly interferes with the exercise of its federal-banking
+
+power. Specifically, Citizens argues that the Rhode Island statute
+
+significantly interferes with its express power to engage in
+
+mortgage lending pursuant to 12 U.S.C. section 371(a), and its
+
+incidental power to offer mortgage-escrow accounts pursuant to 12
+
+U.S.C. section 24, Seventh.          Conti does not meaningfully dispute
+
+the existence and applicability of the relevant federal-banking
+
+powers identified by Citizens.              With agreement on the relevant
+
+national-banking     powers     at   issue,     the   remaining      question   is
+
+whether the Rhode Island statute significantly interferes with
+
+Citizens' exercise of these powers.
+
+
+
+
+                                     - 13 -
+                                         1.
+
+          As explained above, to determine whether a state law
+
+significantly interferes with federal power, we must conduct a
+
+"nuanced comparative analysis" of Barnett Bank and the six Supreme
+
+Court precedents on which Barnett Bank relied.             See Cantero, 602
+
+U.S. at 215-16, 220.     We start by describing the three cases where
+
+the Supreme Court found the state law preempted -- Barnett Bank,
+
+Fidelity, and Franklin.        We then address two cases where the Court
+
+found the state law not preempted -- McClellan and Commonwealth.
+
+Finally, we consider Anderson and First National Bank of San Jose,
+
+two decisions involving seemingly similar state banking laws where
+
+the Court reached opposite preemption conclusions.
+
+                                      i.
+
+          In Barnett Bank, the Supreme Court considered whether a
+
+Florida statute prohibiting certain banks from selling most kinds
+
+of   insurance    in   small     towns     substantially   interfered     with
+
+federal-banking power under the National Bank Act.                 517 U.S. at
+
+27. Examining the statutory text, the Court concluded that federal
+
+law expressly permitted national banks to sell insurance and thus
+
+"authorize[d] national banks to engage in activities that the State
+
+Statute expressly forb[ade]."         Id. at 31.   Considering the obvious
+
+conflict, the Court deemed the Florida law preempted.               Id. at 37.
+
+          In     Fidelity,     the   Supreme   Court   addressed    whether   a
+
+California law barring due-on-sale clauses in mortgage contracts
+
+
+                                     - 14 -
+except when "the lender's security [wa]s impaired," 458 U.S. at
+
+148–49,      155-56,   was   preempted      by   a   federal    regulation      that
+
+permitted federal savings-and-loan associations to include such
+
+clauses "at [their] option," id. at 154 (quoting 12 C.F.R. § 545.8–
+
+3(f) (1982)).6         Unlike in Barnett Bank, where the state law
+
+precluded bank activity that federal law allowed, the California
+
+law in Fidelity did not bar savings and loan associations from
+
+including due-on-sale clauses entirely.                    It simply "limit[ed]
+
+[their] availability."           Id. at 156.          The Court nevertheless
+
+determined that the California law "deprived the [associations] of
+
+. . .       'flexibility'"     that   the      federal     regulation     "plainly
+
+provide[d]."       Id. at 154-55.        In so doing, the Court concluded
+
+that the California law "created 'an obstacle to the accomplishment
+
+and   execution     of   the   full     purposes     and    objectives'    of    the
+
+due-on-sale regulation."         Id. at 156 (quoting Hines v. Davidowitz,
+
+312 U.S. 52, 67 (1941)).
+
+              Finally, in Franklin, which Cantero described as "[t]he
+
+paradigmatic example of significant interference," 602 U.S. at
+
+216, the Supreme Court considered "whether federal statutes which
+
+authorize[d]       national     banks     to     receive       savings    deposits
+
+conflict[ed] with New York legislation which prohibit[ed] them
+
+
+        6 Due-on-sale clauses "permit[] the lender to declare the
+entire balance of a loan immediately due and payable if the
+property securing the loan is sold or otherwise transferred." Id.
+at 145.
+
+
+                                      - 15 -
+from using the word 'saving' or 'savings' in their advertising or
+
+business."    Franklin, 347 U.S. at 374.            As in Fidelity, the New
+
+York law did not entirely "object to national banks taking savings
+
+deposits or even to their advertising," id. at 378; it only
+
+prohibited the "use of the word 'savings,' or its variants" in
+
+bank advertising, id. at 374.
+
+            The   Supreme   Court   held     that   the   New   York   law   was
+
+"incompatible" with federal law.           Franklin, 347 U.S. at 374.          It
+
+concluded    that   New   York's    law    significantly     interfered      with
+
+federal banks' ability to "accept and pay interest on time deposits
+
+of people's savings," and specifically the incidental power "to
+
+advertise that fact."       Id. 378.      Citing the National Bank Act and
+
+Federal Reserve Act, the Court found that "Congress ha[d] given a
+
+particular label to this type of account" i.e., savings account,
+
+and national banks must "have the right to advertise . . . the
+
+commonly understood description which Congress has specifically
+
+selected."   Id. at 375-76, 378.       In preventing national banks from
+
+using this "particular label," the Court concluded that New York's
+
+law posed a "clear conflict" with federal-banking powers.               Id. at
+
+378.
+
+            Franklin also examined the practical impairment that
+
+national banks would suffer from a state-law ban on using the term
+
+"savings" in their advertising or business.               347 U.S. at 377-78.
+
+The Court stressed that (1) the word savings "aptly describes . . .
+
+
+                                    - 16 -
+the type of business carried on by these national banks," id. at
+
+378, and (2) advertising is "one of the most usual and useful of
+
+weapons" in "[m]odern competition for business," id. at 377.                       In
+
+view of these factors, the Court concluded that "[i]t would require
+
+some   affirmative      indication      [from   Congress]       to     justify    an
+
+interpretation that would permit a national bank to engage in a
+
+business but g[i]ve no right to let the public know about it."
+
+Id. at 377–78.
+
+                                     ii.
+
+          In     addition    to   these       three    cases,        Cantero     also
+
+identifies precedents where the Court found that a state law was
+
+not preempted.
+
+          In Commonwealth, the Supreme Court considered a Kentucky
+
+law that taxed shareholders of bank stock by collecting directly
+
+from banks.    76 U.S. at 360-61.          Having determined that "it [wa]s
+
+the share which [wa]s intended to be taxed, and not the cash or
+
+other actual capital of the bank," the Court addressed the more
+
+general argument as to whether banks may be subject to such state
+
+legislation.     Id.     The Court held that so long as "[s]tate law
+
+[did not] incapacitate[] the banks from discharging their duties,"
+
+banks were presumed to be "subject to the laws of the State."                     Id.
+
+at 362.    Applying this principle, the Court reasoned that the
+
+shareholder    tax     produced   "no      greater    interference       with     the
+
+functions of the bank than any other legal proceeding to which its
+
+
+                                     - 17 -
+business operations may subject it."              Id. at 362–63.     On these
+
+grounds, the Court held the Kentucky law not preempted.               Id.
+
+            In    McClellan,    the   Court    considered    a   Massachusetts
+
+contract law that prohibited certain real estate transfers by
+
+insolvent transferors.         164 U.S. at 358.    The bank argued that the
+
+state law interfered with a core banking function to take real
+
+estate as collateral for prior debts.             Id.     As in Commonwealth,
+
+the Court clarified that national banks were presumed subject to
+
+state law where Congress had not expressly preempted state laws
+
+and where "state interference [did not] frustrate[] the lawful
+
+purpose of [C]ongress, or impair[] the efficiency of the banks to
+
+discharge the duties imposed upon them."             Id. at 359.     It noted
+
+that the Massachusetts law in question imposed "the same conditions
+
+and restrictions to which all the other citizens of the state are
+
+subjected."      Id. at 358.    The Court thus concluded that banks could
+
+satisfy     their    federal     obligations      while     still   subjecting
+
+themselves to "the general and undiscriminating law of the state."
+
+Id. at 360-61.
+
+                                   iii.
+
+            Finally, we address First National Bank of San Jose and
+
+Anderson.     Separated by roughly twenty years, each case involved
+
+a state escheat law that compelled banks to confer to the state
+
+any deposits from inactive bank accounts.           See First Nat'l Bank of
+
+San Jose, 262 U.S. at 366-67; Anderson, 321 U.S. at 236.               In both
+
+
+                                      - 18 -
+cases,    the    Court     addressed    whether    the    respective       state   law
+
+infringed on a national bank's power to accept deposits. See First
+
+Nat'l Bank of San Jose, 262 U.S. at 367, 369; Anderson, 321 U.S.
+
+at 239-40.      Despite the laws' facial similarities, the Court found
+
+only the law in First National Bank of San Jose to be preempted,
+
+see 262 U.S. at 370.
+
+              The California law at issue in First National Bank of
+
+San Jose required deposits unclaimed for over twenty years to
+
+escheat to the state.          262 U.S. at 366.       The Court found the law
+
+"unusual" in that it did not require proof of abandonment by the
+
+depositor before "attempt[ing] to qualify . . . agreements between
+
+national banks and their customers."                 Id. at 370.           The Court
+
+concluded       the    law   would     "directly    impair"       national    banks'
+
+efficiency      in    collecting     deposits.     Id.    at     369-70.      It   was
+
+specifically concerned that depositors "might well hesitate to
+
+subject their funds to possible confiscation," which could then
+
+impact a national bank's "ability to obtain loans from depositors."
+
+Id. at 370.      Accordingly, the Court found the law preempted.                   Id.
+
+              Conversely,      Anderson    held    that     a    similar     Kentucky
+
+statute    did       not   "unlawful[ly]   encroach[]       on    the   rights     and
+
+privileges of national banks."               321 U.S. at 252.              The Court
+
+determined that, unlike the law at issue in First National Bank of
+
+San   Jose,     the    law   challenged    in    Anderson       required   proof   of
+
+depositor abandonment before Kentucky could seize a bank account.
+
+
+                                       - 19 -
+Id. Whereas the statute in First National Bank of San Jose allowed
+
+a "confiscation" -- "so unusual and so harsh" that it would serve
+
+as an "an effective deterrent to depositors" -- the law in Anderson
+
+was "nothing more than performance of a duty by the bank" that is
+
+"as old as the common law itself."        Id. at 250-52.      The Court
+
+further noted that no "word in the national banking laws . . .
+
+expressly or by implication conflict[ed] with the provisions of
+
+the Kentucky statutes."    Id. at 247-48.
+
+           For these reasons, the Supreme Court did not anticipate
+
+that the Kentucky law would deter borrowers any more than "tax
+
+laws, the attachment laws, or the laws for the administration of
+
+estates of decedents."    321 U.S. at 252.     It similarly concluded
+
+that the law would "not infringe or interfere with any authorized
+
+function of the bank."    Id. at 249.    As the Court explained, the
+
+power to collect deposits has always come with the responsibility
+
+to pay deposits; this law merely allowed the state "the right to
+
+demand payment of the accounts in the place of the depositors."
+
+Id. at 248, 251-52.
+
+                                    2.
+
+           Having now described the relevant universe of cases
+
+identified by Cantero, we consider the significance of the Rhode
+
+Island   statute's   interference   against   these   precedents.   See
+
+Cantero, 602 U.S. at 220-21 (requiring courts to perform a "nuanced
+
+
+
+
+                                - 20 -
+comparative analysis" of the preemption cases relied on in Barnett
+
+Bank).
+
+                                       i.
+
+               Four of the cases -- McClellan, Commonwealth, Barnett
+
+Bank, and Fidelity -- are inapposite.              We start with McClellan and
+
+Commonwealth.        In both cases, the Court held that national banks
+
+could be subject to generally applicable state laws despite some
+
+inevitable encroachment on federal-banking power.               See McClellan,
+
+164 U.S. at 359 (explaining that "the purpose and object of
+
+[C]ongress in enacting the national bank law was to leave such
+
+banks, as to their contracts in general, under the operation of
+
+the state law, and thereby invest them as federal agencies with
+
+local strength"); Commonwealth, 76 U.S. at 362-63 ("[National
+
+banks] are subject to the laws of the State, and are governed in
+
+their daily course of business far more by the laws of the State
+
+than of the nation."); see also Cuomo, 557 U.S. at 534 (noting
+
+that states "have always enforced their general laws against
+
+national banks").       By contrast, the Rhode Island statute at issue
+
+is   not   a    generally     applicable    law.     Rather,   it   is   squarely
+
+banking-specific.       It "directly and specifically regulates" a bank
+
+transaction or account by dictating the amount of interest a bank
+
+must   pay     on   escrow.     12   U.S.C.    § 25b(a)(2).     McClellan     and
+
+Commonwealth are thus of limited use in determining whether the
+
+Rhode Island statute is preempted.
+
+
+                                      - 21 -
+           Barnett Bank and Fidelity are also generally inapposite.
+
+In these cases, the Court's preemption inquiry turned on an express
+
+conflict between federal and state law.           See Barnett Bank, 517
+
+U.S. at 31 (stating that "the Federal Statute authorize[d] national
+
+banks to engage in activities that the State Statute expressly
+
+forb[ade]"); Fidelity, 458 U.S. at 156 (finding preemption because
+
+a   federal   regulation   expressly        granted   banks   unrestricted
+
+discretionary power which a California law then limited).            Here,
+
+Citizens has defined the relevant federal law as the express
+
+banking power to make real estate loans, see 12 U.S.C. § 371(a),
+
+and the incidental power to establish mortgage-escrow accounts,
+
+see id. § 24, Seventh.       Unlike Barnett Bank, nothing in the
+
+National Bank Act expressly prohibits state interest-on-escrow
+
+laws, and unlike Fidelity, nothing in the Act expressly reserves
+
+for national banks the option to decide whether to pay interest on
+
+escrow   accounts.   In    fact,    Citizens    has   not   identified   any
+
+provision in the National Bank Act that suggests Congress sought
+
+to preempt interest-on-escrow laws.          Nor has Citizens identified
+
+any other source of federal authority that might be relevant.7
+
+
+     7    Cantero references two federal laws in addition to the
+National Bank Act that "address[] national banks' operation of
+mortgage-escrow accounts."   602 U.S. at 211 & n.1.   Neither is
+applicable here.
+
+          The Real Estate Settlement Procedures Act ("RESPA"), 12
+U.S.C. § 2601 et seq., enacted in 1974, "extensively regulates
+
+
+
+                                   - 22 -
+              Citizens   claims,   however,   that   Congress's   silence
+
+reflects a "deliberate choice" to exempt national banks from having
+
+to   comply    with   state   interest-on-escrow   laws.   Specifically,
+
+Citizens contends that Congress made a conscious decision not to
+
+legislate on interest-on-escrow and thus left national banks with
+
+
+
+national banks' operation of escrow accounts." Cantero, 602 U.S.
+at 211. Even so, the Act "does not mandate that national banks
+pay interest to borrowers" on such accounts. Id. Moreover, RESPA
+does not preclude the enforcement of state laws that grant
+additional protection to consumers beyond what RESPA provides.
+See 12 C.F.R. § 1024.5(c)(2)(i) (2025) ("The Bureau [of Consumer
+Financial Protection] may not determine that a [s]tate law or
+regulation is inconsistent with any provision of RESPA or this
+part, if the Bureau determines that such law or regulation gives
+greater protection to the consumer."). Citizens argues that the
+absence of a requirement in RESPA for national banks to pay
+interest on mortgage-escrow accounts was actually a deliberate
+decision by Congress to leave such discretion to national banks.
+As we discuss above, this argument is unpersuasive. Apart from
+this, Citizens points to no other evidence in RESPA's statutory
+text to support its contention that Congress sought to preempt
+state interest-on-escrow laws.
+
+          Cantero also references the Truth in Lending Act
+("TILA").    Congress amended the TILA as part of Dodd Frank to
+require banks to comply with state and federal interest-on-escrow
+laws for four select categories of mortgages.        See 15 U.S.C.
+§ 1639d(a), (b), (g)(3). For those covered mortgages, banks "shall
+pay" borrowers interest on the amount held in escrow "in the manner
+as prescribed by th[e] applicable [s]tate or [f]ederal law." Id.
+§ 1639d(g)(3). It is undisputed, however, that the mortgage at
+issue here is not covered by section 1639d, see id. § 1639d(b),
+and Citizens, the party carrying the burden to establish that the
+Rhode Island statute is preempted, states unambiguously that
+section 1639d is "utterly irrelevant to this case." Thus, applying
+the usual rules of party presentation, we do not further consider
+section 1639d's relevance to the preemption question presented
+here. See Manganella v. Evanston Ins. Co., 702 F.3d 68, 69 n.1
+(1st Cir. 2012) ("We consider the issues as the parties have
+presented them.").
+
+
+
+                                   - 23 -
+the option "to pay interest as they see fit, within the confines
+
+of the federal regulatory framework."    We are unpersuaded.8
+
+          First,   we   cannot   reconcile     this    congressional
+
+intent-by-silence argument with section 25b, which sets out the
+
+legal standard for banking preemption.   See 12 U.S.C. § 25b(b)(1).
+
+Section 25b articulates a limited preemption regime.    It proceeds
+
+from a default premise that state-consumer-financial laws may
+
+lawfully regulate the conduct of national banks unless such laws
+
+discriminate against national banks, or prevent or significantly
+
+
+
+     8    As part of this argument, Citizens contends that not
+only has Congress deliberately left national banks free to decide
+to pay interest on escrow accounts, but so too has the OCC.
+Citizens derives this argument from title 12, section 371(a),
+which grants the OCC regulatory oversight of national banks'
+mortgage lending. See 12 U.S.C. § 371(a). Citizens contends that,
+pursuant to this authority, the OCC promulgated standards for real
+estate loans, see 12 C.F.R. pt. 34 (2025), but made "a deliberate
+choice not to require national banks to pay interest on mortgage
+escrow accounts." Citizens in fact goes further. It asserts that,
+under 12 U.S.C. § 371(a), the OCC is the only entity that can
+regulate escrow accounts of national banks.
+         While section 371(a) does grant the OCC regulatory
+oversight, it does not grant the OCC exclusive oversight. Were
+the OCC to have exclusive regulatory authority, states would be
+entirely divested of concurrent regulatory power.     Congress did
+not intend this. See Lusnak v. Bank of Am., N.A., 883 F.3d 1185,
+1196 (9th Cir. 2018) ("[T]he OCC does not enjoy field preemption
+over the regulation of national banks."); Cantero, 602 U.S. at 213
+("[N]ot all state laws regulating national banks are preempted.").
+         We also reject Citizens' argument that we should infer
+preemption from the OCC's inaction. Dodd-Frank set out specific
+criteria that the OCC must follow to preempt a state law. See 12
+U.S.C. § 25b(b)(1)(B), (b)(3), (b)(5)(A), (d). To circumvent such
+procedures by inferring preemption from the OCC's dormancy would
+upend Dodd-Frank's carefully reticulated scheme. See id.
+
+
+                             - 24 -
+interfere with a national bank exercising federal-banking powers.
+
+Id.   To find preemption from Congress's silence would invert the
+
+section 25b standard and create a presumption of preemption. Under
+
+such a standard, a state banking law that does not discriminate
+
+against national banks, or prevent or significantly interfere with
+
+a   national        bank's    exercise    of   federal-banking   power,      would
+
+nonetheless be preempted absent positive textual evidence of an
+
+intention      to    permit     the    state   law's   enforcement.    Such     a
+
+construction would violate the plain text of section 25b.9
+
+            Citizens'         intent-by-silence    argument   also    does    not
+
+follow from the case law.             None of the cases identified by Cantero
+
+held a state law preempted based on congressional silence.                    Cf.
+
+Fidelity, 458 U.S. at 154–56 (preempting local restrictions on the
+
+discretionary exercise of federal power because the regulation
+
+explicitly required as much).             To the contrary, the Supreme Court
+
+
+      9   There may be circumstances where Congress's explicit
+decision to regulate a defined set of circumstances, but not
+another of like-kind, might be a factor in determining whether a
+state law significantly interferes with the federal-banking
+scheme. Cf. Marx v. Gen. Revenue Corp., 568 U.S. 371, 381 (2013)
+(explaining that the "negative implication" that Congress's
+explicit allowance of certain items in an associated group or list
+excludes related, unmentioned circumstances "depends on the
+context" and "does not apply 'unless it is fair to suppose that
+Congress considered the unnamed possibility and meant to say no to
+it'" (quoting Barnhart v. Peabody Coal Co., 537 U.S. 149, 168
+(2003))). But as noted above, Citizens makes no attempt to tie
+its intent-by-silence argument to any specific statutory language
+from which it can reasonably be inferred that Congress considered
+the impact of interest-on-escrow laws on national banks and
+specifically sought to preempt their application.
+
+
+                                         - 25 -
+has   found   that   "national   banking   [is]   subject   to   local
+
+restrictions" when Congress has expressly indicated as much, as
+
+well as "in the absence of such express language."     Franklin, 347
+
+U.S. at 378 & n.7 (emphasis added); see also Anderson, 321 U.S. at
+
+247-48 (permitting Kentucky's escheat law despite "find[ing] [no]
+
+word in the national banking laws which expressly or by implication
+
+conflict[ed] with [its] provisions").10
+
+           In sum, because Citizens has pointed to no express
+
+conflict, Barnett Bank and Fidelity are not useful in determining
+
+whether the Rhode Island statute is preempted.
+
+
+
+
+      10  During oral argument, Citizens asserted that the Rhode
+Island statute should be preempted not because Congress was silent
+on the specific issue of state interest-on-escrow laws, but because
+there is a "presumption of preemption" that attaches to all
+federal-banking powers.     As Citizens puts it, federal-banking
+powers, including incidental powers, are presumed "unqualified,"
+or intentionally free from state restrictions. For the reasons
+discussed, such a presumption conflicts with the case law and
+Dodd-Frank's text.    We also note that such a presumption would
+have a profound effect on state-consumer-financial laws that
+implicate incidental powers. Under such a presumption, the only
+way for states to enforce their consumer-financial laws against
+national banks would be for Congress to have "qualified" the
+relevant federal power by expressly permitting the enforcement of
+certain state laws. But incidental federal-banking powers are not
+enumerated; rather they arise organically based on bank needs. To
+"qualify" such incidental powers would require Congress to do the
+impossible, i.e., to affirmatively permit state regulation of a
+federal power that has never been written down.       In practice,
+Citizens' argument that national-banking laws are presumed
+"unqualified" would lead to the preemption of almost all state
+banking laws that involve federal incidental banking powers. This,
+again, would equate to a field preemption regime, which Congress
+expressly disavowed. See 12 U.S.C. § 25b(b)(4).
+
+
+                                 - 26 -
+                                      ii.
+
+             Having determined that McClellan, Commonwealth, Barnett
+
+Bank, and Fidelity have limited relevance to the problem presented
+
+here, we turn to the final three cases identified by Cantero: First
+
+National Bank of San Jose, Anderson, and Franklin.                    Unlike the
+
+cases previously discussed, each of these decisions involved state
+
+laws that were banking-specific and that did not expressly conflict
+
+with federal law.
+
+             In First National Bank of San Jose, the Court found a
+
+California escheat law that seized bank account assets without
+
+requiring proof of abandonment to be preempted.               See 262 U.S. at
+
+369-70.      The Court determined the California escheat law was
+
+"unusual" insofar as it did not require proof of a depositor's
+
+abandonment before allowing the state to seize the assets.                Id. at
+
+370.     The Court went on to stress the law's anticipated effect,
+
+theorizing that the failure to require proof of a depositor's
+
+abandonment before a state could seize a bank account would lead
+
+depositors      to   "hesitate   to    subject   their    funds   to    possible
+
+confiscation," with negative downstream implications for national
+
+banks.    Id.
+
+             Anderson    reached      the   opposite     conclusion     about   a
+
+Kentucky state escheat law that differed from the California law
+
+in that it did require proof of abandonment.             See 321 U.S. at 252.
+
+Like First National Bank of San Jose, the Court again looked at
+
+
+                                      - 27 -
+the construct of the law as well as its likely practical effects.
+
+Id. at 248-49, 251-52.         The Court determined that the law was
+
+entirely consistent with what was expected of national banks
+
+operating under the federal statutory scheme.             Id. at 248-49.     As
+
+the Court put it, the Kentucky law was "as old as the common law
+
+itself" and so constitutive of traditional banking duties as to be
+
+"an inseparable incident of a national bank's" power.              Id. at 248,
+
+251.
+
+            The    Anderson    Court   similarly      determined    that    the
+
+Kentucky law was not likely to deter borrowers any more than "tax
+
+laws, the attachment laws, or the laws for the administration of
+
+estates of decedents," 321 U.S. at 252, and would "not infringe or
+
+interfere with any authorized function of the bank," id. at 249.
+
+To the contrary, the Court explained, because the Kentucky law
+
+mandating    the    payment    of   deposits    was     "nothing   more    than
+
+performance of a duty by the bank imposed by the federal banking
+
+laws," id. at 252, a bank's inability "to comply with [Kentucky's
+
+law]" would be a basis "for closing the doors of the bank and
+
+winding up its affairs," id. at 249.
+
+            Finally, in Franklin, the Court found a New York law
+
+that prohibited the use of the term "savings" to be "incompatible"
+
+with federal law.         347 U.S. at 374.       Citing both the Federal
+
+Reserve Act and National Banking Act, the Court stressed that the
+
+term   "savings"    was    a   "particular     label"    that   Congress   had
+
+
+                                    - 28 -
+"specifically selected."      Id. at 378, 375-376.     As in Barnett Bank
+
+and Fidelity, this textual hook served as a basis for finding
+
+federal-banking power to be in clear conflict with the New York
+
+law.    See id. at 378 ("[National banks] do accept and pay interest
+
+on time deposits of people's savings, and they must be deemed to
+
+have the right to advertise that fact by using the commonly
+
+understood      description      which      Congress   has   specifically
+
+selected.").    As we note above, no equivalent textual hook exists
+
+here.
+
+             But Franklin did not rest on that textual hook alone.
+
+It also inferred that the New York law was inconsistent with the
+
+overall federal scheme established by Congress.          The Court first
+
+recognized an incidental power to advertise savings accounts from
+
+the express power of national banks to receive savings deposits.
+
+347 U.S. at 376-78.     The Court stressed that, were it to sanction
+
+New York's law, it would be "permit[ting] a national bank to engage
+
+in a business but [giving it] no right to let the public know about
+
+it." Id. at 377–78. Such an anomalous "interpretation," the Court
+
+continued,    would   "require    some   affirmative    indication"   from
+
+Congress.    Id.   The Court also emphasized the material impact the
+
+New York law would likely have on banking operations, noting that
+
+advertising was "one of the most usual and useful of weapons" in
+
+"[m]odern competition for business," id. at 377, and the word
+
+"savings," independent of the "peculiar meaning the word may have
+
+
+                                   - 29 -
+in New York, . . . is a word which aptly describes, in a national
+
+sense, the type of business carried on by these national banks,"
+
+id. at 378.    Taken together, the Court discerned "a clear conflict
+
+between the law of New York and the law of the Federal Government."
+
+Id.
+
+            In each of these cases, to determine whether the state
+
+banking law at issue significantly interfered with the exercise of
+
+federal   power    such    that   preemption    was   warranted,       the    Court
+
+considered whether the state law was generally consistent with the
+
+federal-banking     scheme    that   Congress    intended    and   the       likely
+
+practical effect of the state law's enforcement on a national
+
+bank's exercise of federal-banking power as informed by generally
+
+understood economic principles, or what Cantero calls "common
+
+sense."     602 U.S. at 220 n.3; see also First Nat'l Bank of San
+
+Jose, 262 U.S. at 369 (explaining that a state law is preempted
+
+"whenever     it   . . .   frustrates   the     purposes    of   the    national
+
+legislation, or impairs the efficiency of the bank to discharge
+
+the duties for which it was created"); Anderson, 321 U.S. at 247-48
+
+(noting state law may "conflict[] with" national banking laws "by
+
+implication" or may "impose an undue burden on the performance of
+
+the banks' functions").
+
+            Here, Citizens has failed to show that the Rhode Island
+
+statute conflicts with the overall scheme of federal-banking law.
+
+While Citizens notes that the Rhode Island statute is not so
+
+
+                                     - 30 -
+commonplace and constitutive of traditional banking duties as to
+
+be "an inseparable incident of a national bank's" power, Anderson,
+
+321 U.S. at 248, Citizens has not established that Rhode Island's
+
+statute is out of step with the federal statutory scheme in the
+
+mold of First National Bank of San Jose and Franklin.
+
+           To      the        contrary,          as    Citizens    acknowledges,
+
+interest-on-escrow laws have been enacted by at least twelve
+
+states.    Furthermore, Congress has mandated compliance with state
+
+interest-on-escrow laws as to a select set of mortgages under
+
+section 1639d of the TILA.            See supra note 7.     While Citizens does
+
+not argue that section 1639d bears directly on whether Congress
+
+sought to broadly permit or preempt state interest-on-escrow laws,
+
+see id., Congress's decision to mandate compliance with state
+
+interest-on-escrow laws as to certain mortgages provides some
+
+evidence    that       such    laws        are   not   inconsistent   with    the
+
+federal-banking scheme, as was the case in Franklin and First
+
+National Bank of San Jose.                 See Franklin, 347 U.S. at 377–78
+
+(explaining     that     finding      no    preemption    "would   require   some
+
+affirmative indication [by Congress] to justify an interpretation
+
+that would permit a national bank to engage in a business but gave
+
+no right to let the public know about it"); First Nat'l Bank of
+
+San Jose, 262 U.S. at 369–70 (noting that the state statute
+
+conflicts "with the letter or general object and purposes of the
+
+legislation by Congress" by "attempt[ing] to qualify in an unusual
+
+
+                                       - 31 -
+way agreements between national banks and their customers long
+
+understood to arise when the former receive deposits under their
+
+plainly   granted   powers");   cf.    Commonwealth,    76    U.S.   at   363
+
+(describing the routine nature of a state law as evident by the
+
+fact that it was "one which Congress itself has adopted . . . [and]
+
+which experience has justified in the New England [s]tates as the
+
+most convenient and proper").
+
+           Apart from that, the Court's preemption determinations
+
+in First National Bank of San Jose, Anderson, and Franklin turned
+
+in large measure on the likely practical effects that a state law
+
+would have on the ability of national banks to exercise their
+
+powers.    Here,    by   contrast,    Citizens   has   not   developed    any
+
+substantial argument about the practical effects that arise from
+
+the enforcement of the Rhode Island statute on the exercise of
+
+federal-banking power.       Instead, Citizens proposes a different
+
+preemption test, one that eschews any consideration of the degree
+
+of interference arising from the state law. Specifically, Citizens
+
+argues that preemption applies whenever a state law dictates the
+
+terms of a banking product in a manner that impairs a bank's
+
+"flexibility" or "efficiency."        We reject Citizens' proposal for
+
+three reasons.
+
+           First, Citizens' proposed test does not allow for the
+
+kind of commonsense analysis that the Supreme Court performed in
+
+First National Bank of San Jose, Anderson, and Franklin.                   As
+
+
+                                 - 32 -
+Citizens acknowledges, virtually every banking-specific state law
+
+imposes some burden on the regulated bank and thus can be said to
+
+affect a bank's flexibility or efficiency.                         But if this were
+
+sufficient grounds for preemption, Citizens' proposed test would
+
+obviate     the    need    for   an    inquiry        into    whether   a    state    law's
+
+interference with federal-banking powers was significant.                              See
+
+Cantero, 602 U.S. at 219-20 (requiring a "practical assessment of
+
+the nature and degree of the interference").
+
+             Second, Citizens' proposal is at odds with section 25b.
+
+See    12   U.S.C.      § 25b.        Whereas      Citizens'     test   would    preempt
+
+virtually         all     state-consumer-financial              laws,       section 25b's
+
+regulatory scheme presumes that at least some state laws regulating
+
+bank   products         will   survive      a    preemption     analysis.        Congress
+
+specifically established a carefully designed scheme to permit the
+
+enforcement of state-consumer-financial laws unless those laws
+
+discriminate against national banks or prevent or significantly
+
+interfere with a national bank's exercise of its federal-banking
+
+powers.     See id. § 25b(b)(1) ("State consumer financial laws are
+
+preempted, only if . . . .").                Moreover, section 25b(a)(2) defines
+
+state-consumer-financial              laws       as   those     that    "directly      and
+
+specifically        regulate[]        the       manner,      content,   or    terms    and
+
+conditions" of a banking product and requires preemption of only
+
+a subset of those laws.           Id. § 25b(a)(2).             Had Congress wanted to
+
+preempt every state law that dictates a term of a banking product,
+
+
+                                            - 33 -
+as    Citizens    now    argues,    it    simply    could   have   preempted   all
+
+state-consumer-financial laws as defined under section 25b(a)(2).
+
+But Congress did no such thing.
+
+             Third, Citizens' test does not follow from the relevant
+
+precedents identified in Cantero.             As support for its contention,
+
+Citizens looks to Fidelity, First National Bank of San Jose, and
+
+Franklin.    It argues that, in these cases, the Supreme Court held
+
+a state law preempted where the law attempted to dictate the terms
+
+of a banking product or service in a manner that impeded a bank's
+
+flexibility or efficiency.          Citizens misreads these precedents.
+
+             For starters, Fidelity did not preempt California law
+
+because it restrained a bank's flexibility per se.                    It preempted
+
+California       law    because    federal    law    expressly     granted   banks
+
+unfettered discretion over the exercise of the power there at
+
+issue, which California purported to limit.                    See 458 U.S. at
+
+154-56.     As discussed above, here federal law does not expressly
+
+grant national banks discretion to decide whether to pay interest
+
+on mortgage-escrow accounts.
+
+             As for First National Bank of San Jose and Franklin,
+
+Citizens confuses correlation with causation.                    Yes, both cases
+
+involved state laws that imposed terms on a banking product, but
+
+the    Supreme     Court    did    not     rest    its   respective     preemption
+
+determinations on that fact.               As we have explained, the Court
+
+emphasized instead the unusual nature of the state laws and the
+
+
+                                         - 34 -
+significant interference that the laws would impose on national
+
+banks' exercise of federal-banking powers.11
+
+               If there is a point of reference for Citizens' argument
+
+that preemption applies to any state law that dictates a term or
+
+condition of a banking product, it may be found in the Second
+
+Circuit's decision in Cantero, which held preempted "any state law
+
+that 'purport[ed] to exercise control over a federally granted
+
+banking power.'"        602 U.S. at 213 (quoting Cantero, 49 F.4th at
+
+131).        But the Supreme Court rejected that analysis, making clear
+
+that Dodd-Frank declined to adopt "a categorical test that would
+
+preempt virtually all state laws that regulate national banks."
+
+Id. at 220-21.       Accordingly, we likewise reject Citizens' argument
+
+that National Bank Act preemption applies whenever a state law
+
+dictates the terms of banking product in a manner that limits a
+
+national bank's flexibility and efficiency.
+
+                                  iii.
+
+               Before concluding, we consider Citizens' final argument
+
+for preempting the Rhode Island statute.        Citizens contends that
+
+Rhode Island's law significantly interferes with federal-banking
+
+power because it forces Citizens to comply with a patchwork of
+
+varying and conflicting state regulations concerning the payment
+
+
+
+        11Citizens also relies on SPGGC, 488 F.3d 525, for its
+"flexibility and efficiency" argument. As already explained, the
+preemption analysis employed there is inconsistent with Cantero.
+
+
+                                   - 35 -
+of interest on mortgage-escrow accounts.             Citizens derives this
+
+argument from Watters v. Wachovia Bank, N.A., 550 U.S. 1 (2007),
+
+and First National Bank of San Jose.
+
+            In Watters, the Supreme Court addressed whether mortgage
+
+lending by national-bank subsidiaries can be subject to state
+
+supervision.       See 550 U.S. at 7.         The opinion noted that the
+
+National Bank Act "has in view the erection of a system . . .
+
+independent, so far as powers conferred are concerned, of state
+
+legislation which, if permitted to be applicable, might impose
+
+limitations and restrictions as various and as numerous as the
+
+States."     Id. at 14 (quoting Easton v. Iowa, 188 U.S. 220, 229
+
+(1903)).    A similar statement appears in First National Bank of
+
+San Jose.     See 262 U.S. at 370 ("If California may thus interfere
+
+other states may do likewise, and, instead of 20 years, varying
+
+limitations      may    be   prescribed    . . . .    [Such   results]    seem
+
+incompatible with the purpose to establish a system of governmental
+
+agencies specifically empowered and expected freely to accept
+
+deposits    from       customers   irrespective      of   domicile. . . .").
+
+Drawing     on   this     authority,      Citizens   contends   that     state
+
+interest-on-escrow laws impose "limitations and restrictions as
+
+various and as numerous as the states," and thus significantly
+
+interfere with Citizens' right to engage in real estate lending.
+
+Like its prior proposal, this test fails for similar reasons.
+
+
+
+
+                                    - 36 -
+              First, to the extent that the patchwork theory can be
+
+said to have any relevance here, it must be considered in light of
+
+the   later    enacted    section 25b.         See   12    U.S.C.      § 25b.     That
+
+Dodd-Frank      permits     the     application           of      at    least     some
+
+state-consumer-financial          laws    to    national          banks,    see    id.
+
+§ 25b(b)(1) ("State consumer financial laws are preempted, only if
+
+. . . ."), indicates that Congress anticipated exposing national
+
+banks to some patchwork of state laws.                In addition, if avoiding
+
+a patchwork of state laws were an animating concern of the National
+
+Bank Act after Dodd-Frank, it would justify preempting not only
+
+state-consumer-financial          laws   but    all       state     laws,   as    even
+
+generally applicable state laws impose varying and conflicting
+
+requirements on banks.       However, all parties agree that generally
+
+applicable state laws are in the main permissible.                      See Cantero,
+
+602 U.S. at 219 (noting that national banks "remain subject to
+
+state law governing 'their daily course of business' such as
+
+generally applicable state" laws (quoting Commonwealth, 76 U.S. at
+
+362)).   Furthermore, to the extent that the patchwork theory would
+
+seemingly      justify    preempting     all     state      laws,      Congress    has
+
+expressly declined to adopt such a regime.                 See Cantero, 602 U.S.
+
+at 221; see also 12 U.S.C. § 25b(b)(4) (stating that the National
+
+Bank Act "does not occupy the field in any area of [s]tate law").
+
+              Thus, Citizens' patchwork argument, sounding in field
+
+preemption, is not convincing.           Watters and First National Bank of
+
+
+                                     - 37 -
+San Jose do identify the profusion of varying state restrictions
+
+as an animating concern of the National Bank Act.           See Watters,
+
+550 U.S. at 14; First Nat'l Bank of San Jose, 262 U.S. at 369-70.
+
+That view, which has appeared only occasionally over the past
+
+century, arises from Easton, 188 U.S. at 229, where the Court
+
+notably embraced a field preemption regime, see, e.g., id. at 230
+
+("Such being the nature of these national institutions, it must be
+
+obvious that their operations cannot be limited or controlled by
+
+state legislation."); id. at 231-32 ("[W]e are unable to perceive
+
+that Congress intended to leave the field open for the states to
+
+attempt to promote the welfare and stability of national banks by
+
+direct legislation.").
+
+          Since   Easton,   the    Supreme   Court   and   Congress   have
+
+squarely rejected the notion that the National Bank Act "occup[ies]
+
+the field in any area of [s]tate law."       12 U.S.C. § 25b(b)(4); see
+
+also Barnett Bank, 517 U.S. at 33 (explaining that states are not
+
+deprived "of the power to regulate national banks" so long as they
+
+"do[] not prevent or significantly interfere with the national
+
+bank's exercise of its powers"); Cuomo, 557 U.S. at 534 ("States,
+
+on the other hand, have always enforced their general laws against
+
+national banks -- and have enforced their banking-related laws
+
+against national banks for at least 85 years. . . ."); Cantero,
+
+602 U.S. at 217 ("Of course, not all state laws regulating national
+
+banks are preempted.").
+
+
+                                  - 38 -
+            Over this same period, the Supreme Court rarely relied
+
+on   the   patchwork   theory   as   a   basis   for   National   Bank   Act
+
+preemption.   Aside from Watters, Citizens' patchwork argument does
+
+not appear in recent Supreme Court authority.             Cantero did not
+
+include Watters among the relevant precedents.12         And while Cantero
+
+did cite First National Bank of San Jose, see 602 U.S. at 218, it
+
+made no mention of the patchwork argument, instead describing the
+
+holding as an attempt to "'qualify in an unusual way agreements
+
+between national banks and their customers,'" which could then
+
+"cause customers to 'hesitate' before depositing funds at the
+
+bank," id. (quoting First Nat'l Bank of San Jose, 262 U.S. at 370).
+
+The same is true of Anderson, which in differentiating First
+
+National Bank of San Jose, similarly did not mention the patchwork
+
+argument.     See Anderson, 321 U.S. at 250-52.           The case law's
+
+scattered consideration of the patchwork argument, as well as the
+
+patchwork argument's uneasy fit with Congress's and the Court's
+
+rejection of a field preemption regime, persuades us that the
+
+
+
+
+      12  We note also that Watters did not involve substantive
+state consumer financial regulations but rather state licensing,
+reporting, and visitorial regimes. Watters, 550 U.S. at 8, 14-15.
+This does not mean that Watters -- which was decided after Barnett
+Bank -- has no possible relevance. We do not think, however, that
+Watters can govern the preemption analysis for a state consumer
+financial regulation after the enactment of section 25b.
+
+
+                                 - 39 -
+argument is an insufficient basis for concluding that the Rhode
+
+Island statute is preempted.13
+
+                                         3.
+
+             Applying the standard adopted by the Supreme Court in
+
+Cantero, we conclude that Citizens has failed to satisfy its burden
+
+of showing the Rhode Island statute should be preempted as a matter
+
+of   law.     Unlike   the   state     laws    at   issue   in    McClellan   and
+
+Commonwealth, the Rhode Island statute is a banking-specific law.
+
+And unlike in Barnett Bank and Fidelity, there is no express
+
+conflict between the Rhode Island statute and the National Bank
+
+Act.    Citizens has likewise failed to demonstrate, unlike in First
+
+National Bank of San Jose and Franklin, that the Rhode Island
+
+statute conflicts with the overall federal-banking scheme.                    Nor
+
+has Citizens established, as did the Court in First National Bank
+
+of   San    Jose,   Anderson,   and    Franklin,     that   the    Rhode   Island
+
+statute's practical implications will significantly interfere with
+
+
+       13 At various points in its brief, Citizens refers to a
+preemption rule promulgated by the OCC in 2004, and subsequently
+amended in 2011, that sought to preempt fourteen categories of
+state laws including those concerning "escrow accounts." See Bank
+Activities and Operations; Real Estate Lending and Appraisals, 69
+Fed. Reg. 1904, 1917 (Jan. 13, 2004); Office of Thrift Supervision
+Integration; Dodd-Frank Act Implementation, 76 Fed. Reg. 43459,
+43557 (July 21, 2011) (codified at 12 C.F.R. § 34.4(a)). Citizens
+does not meaningfully rely on the rule as grounds for its claim
+that the Rhode Island statute is preempted. We therefore do not
+address its significance.     See Cantero, 602 U.S. at 221 n.4
+(instructing that Courts of Appeals "may address as appropriate on
+remand . . . the significance here (if any) of the preemption rules
+of the [OCC]").
+
+
+                                      - 40 -
+Citizens'       exercise    of   its   federal-banking      powers.     Instead,
+
+Citizens has proposed other sweeping theories of preemption that
+
+would        essentially,    albeit    in    different     ways,   impose   field
+
+preemption regimes.         Citizens' proposals cannot be reconciled with
+
+section 25b or Supreme Court precedent.                  Citizens has therefore
+
+failed to satisfy its burden of showing that as a matter of law,
+
+the Rhode Island statute is preempted by the National Bank Act.
+
+See Me. Forest, 51 F.4th at 6 (stating that "the burden of proving
+
+preemption lies with the parties asserting it").                    Accordingly,
+
+Conti's complaint should be allowed to proceed.14
+
+                                       IV.
+
+               For the reasons described, we vacate the judgment and
+
+remand for further proceedings consistent with this opinion.
+
+               So ordered.
+
+
+
+
+        14Conti brought two claims against Citizens: a breach of
+contract claim and, in the alternative, an unjust enrichment claim.
+Apart from the preemption question, Citizens requests that we
+dismiss the unjust enrichment claim. The district court did not
+reach this question. As we are remanding for further proceedings,
+we leave this question for the district court in the first
+instance.
+
+
+                                       - 41 -

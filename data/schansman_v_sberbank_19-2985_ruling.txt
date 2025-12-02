@@ -1,0 +1,1944 @@
+UNITED STATES DISTRICT COURT                                              
+SOUTHERN DISTRICT OF NEW YORK                                             
+---------------------------------------------------------------X          
+THOMAS SCHANSMAN, et al.,          :                                      
+
+             Plaintiffs,         :    OPINION AND ORDER                 
+
+   -v.-                          :                                      
+                                      19 Civ 2985 (ALC) (GWG)           
+SBERBANK OF RUSSIA PJSC, et al.,    :                                     
+
+             Defendants.         :                                      
+---------------------------------------------------------------X          
+GABRIEL W. GORENSTEIN, United States Magistrate Judge:                    
+   Plaintiffs (the “Schansmans”) brought this action under the Antiterrorism Act, 18 U.S.C. 
+§ 2331 et seq. (the “ATA”), against a number of financial institutions that are alleged to have 
+been involved in funding the terrorist activity that resulted in the death of Quinn Lucas 
+Schansman.  In a February 27, 2025, ruling, the Court granted Schansmans’ motion to compel 
+the production of documents from defendant VTB Bank PJSC (“VTB”).  See Schansman v. 
+Sberbank of Russia PJSC, 2025 WL 630810 (S.D.N.Y. Feb. 27, 2025).  Before the Court are 
+defendant VTB’s motion for reconsideration of that ruling and plaintiffs’ motion to strike a 
+declaration submitted with VTB’s motion for reconsideration.1  For the following reasons, both 
+motions are denied.                                                       
+
+
+   1  See VTB Bank (PJSC)’s Notice of Motion for Reconsideration, filed March 12, 2025 
+(Docket # 630); VTB Bank PJSC’s Memorandum in Support of Its Motion for Reconsideration, 
+filed March 12, 2025 (Docket # 631) (“Mem.”); Declaration of VTB Representative Alexey 
+Vladimirovich Lozovoy, filed March 12, 2025 (Docket # 632) (“Lozovoy Decl.”); Plaintiffs’ 
+Notice of Motion to Strike the Declaration of VTB Bank PJSC’s General Counsel, Alexey 
+Lozovoy, filed March 26, 2025 (Docket # 633); Plaintiffs’ Opposition to VTB Bank PJSC’s 
+Motion for Reconsideration and Memorandum of Law in Support of Plaintiffs’ Motion to Strike, 
+filed March 26, 2025 (Docket # 634) (“Opp.”); VTB Bank PJSC’s Reply Memorandum of Law 
+in Further Support of Its Motion for Reconsideration and in Opposition to Plaintiffs’ Motion to 
+Strike, filed April 2, 2025 (Docket # 635) (“Reply”).                     
+I.   MOTION TO STRIKE                                                     
+   Plaintiffs move to strike from the record the sworn declaration of Alexey Vladimirovich 
+Lozovoy submitted by VTB with its motion for reconsideration.  See Lozovoy Decl.; Opp. at 7-
+8.  To the extent the motion is based on VTB’s alleged failure to comply with the requirement of 
+
+Local Civil Rule 6.3 that advance permission be obtained before filing an affidavit in conjunction 
+with a motion for reconsideration, we note that a district court “has broad discretion to determine 
+whether to overlook a party’s failure to comply with local court rules.”  Commerzbank AG v. 
+U.S. Bank, N.A., 100 F.4th 362, 377 (2d Cir. 2024) (citing Holtz v. Rockefeller & Co., 258 F.3d 
+62, 73 (2d Cir. 2001)).  We choose to exercise that discretion here as the affidavit has no effect 
+on the outcome of the motion.  To the extent plaintiffs argue that the affidavit is improper 
+because it relies on facts occurring after the Court’s decision, it is best to address those points in 
+the context of deciding whether the motion for reconsideration standard has been met.  
+Accordingly, the motion to strike is denied.2                             
+II.  MOTION FOR RECONSIDERATION                                           
+
+A.   Legal Standard                                                     
+   Motions for reconsideration are governed by Local Civil Rule 6.3, which provides that 
+the moving party shall set forth “the matters or controlling decisions which counsel believes the 
+Court has overlooked.”  Thus, a motion to reconsider is generally denied “unless the moving 
+party can point to controlling decisions or data that the court overlooked — matters, in other 
+words, that might reasonably be expected to alter the conclusion reached by the court.”  Shrader 
+v. CSX Transp., Inc., 70 F.3d 255, 257 (2d Cir. 1995) (citation omitted).  “The standard for 
+
+
+   2  We reject plaintiffs’ argument that the declaration cannot be considered because it is not 
+accompanied by a certified translation.  See Opp. at 7 n.3.  The sworn declaration is in English 
+and we consider only that declaration.  We do not consider the purported Russian translation.  
+granting a motion for reconsideration is strict,” RCC Ventures, LLC v. Brandtone Holdings Ltd., 
+322 F.R.D. 442, 445 (S.D.N.Y. 2017), and therefore such a motion “is not a vehicle for 
+relitigating old issues, presenting the case under new theories, securing a rehearing on the merits, 
+or otherwise taking a second bite at the apple.”  Analytical Surveys, Inc. v. Tonga Partners, L.P., 
+
+684 F.3d 36, 52 (2d Cir. 2012) (citation and citation marks omitted).  The Second Circuit has 
+held that “[a] motion for reconsideration should be granted only when the [moving party] 
+identifies ‘an intervening change of controlling law, the availability of new evidence, or the need 
+to correct a clear error or prevent manifest injustice.’”  Kolel Beth Yechiel Mechil of Tartikov, 
+Inc. v. YLL Irrevocable Tr., 729 F.3d 99, 104 (2d Cir. 2013) (quoting Virgin Atl. Airways, Ltd. v. 
+Nat’l Mediation Bd., 956 F.2d 1245, 1255 (2d Cir. 1992)).                 
+   Further, a party is “barred from making for the first time in a motion for reconsideration 
+an argument it could readily have raised when the underlying issue was being briefed but chose 
+not to do so.”  Navigators Ins. Co. v. Goyard, Inc., 623 F. Supp. 3d 220, 222 (S.D.N.Y. 2022) 
+(citation omitted).  In other words, “‘a party may not advance new facts, issues or arguments not 
+
+previously presented to the Court’ on a motion for reconsideration.”  Steinberg v. Elkman, 2016 
+WL 1604764, at *1 (S.D.N.Y. Apr. 6, 2016) (quoting Nat’l Union Fire Ins. Co. of Pittsburgh, PA 
+v. Stroh Cos., 265 F.3d 97, 115 (2d Cir. 2001)); accord Sigmon v. Goldman Sachs Mortg. Co., 
+229 F. Supp. 3d 254, 257 (S.D.N.Y. 2017).                                 
+   “Reconsideration ‘is an extraordinary remedy to be employed sparingly in the interests of 
+finality and conservation of scarce judicial resources.’”  Sigmon, 229 F. Supp. 3d at 257 (citation 
+omitted).  The rule permitting reconsideration must be “narrowly construed and strictly applied 
+so as to ‘avoid duplicative rulings on previously considered issues.’”  Merced Irrigation Dist. v. 
+Barclays Bank PLC, 178 F. Supp. 3d 181, 183 (S.D.N.Y. 2016) (citation omitted).  A narrow 
+application of the rule not only “helps ‘to ensure the finality of decisions,’” but also “prevent[s] 
+the practice of a losing party examining a decision and then plugging the gaps of a lost motion 
+with additional matters.”  Henderson v. Metro. Bank & Tr. Co., 502 F. Supp. 2d 372, 376 
+(S.D.N.Y. 2007) (quoting Naiman v. N.Y. Univ. Hosps. Ctr., 2005 WL 926904, at *1 (S.D.N.Y. 
+
+Apr. 21, 2005)).                                                          
+B.   Discussion                                                         
+   VTB “seeks reconsideration and modification” of the following aspects of the Court’s 
+February 27, 2025, order: “(1) the portion of the Order that could be interpreted as compelling 
+VTB to produce material that Plaintiffs have already received from, or could obtain from, third 
+parties located in the United States; and (2) the 21-day deadline for VTB’s production of 
+documents.”  Mem. at 1, 5.  We will address each of the bases for reconsideration separately. 
+     1.  Other Sources for the Records                                  
+            a.  Background                                              
+   As the Court noted in its February 27, 2025, order, one of the factors considered by courts 
+
+in deciding whether to issue an order directing the production of information located abroad is 
+“the availability of alternative means of securing the information.”  Schansman, 2025 WL 
+630810, at *13 (citing Linde v. Arab Bank, PLC, 706 F.3d 92, 98-99 (2d Cir. 2013)).  On this 
+issue, plaintiffs in their original briefing provided an extensive explanation as to why “no 
+reasonable alternative means exist to secure the information requested from VTB.”  Plaintiffs’ 
+Memorandum of Law in Support of Their Renewed Motion to Compel the Production of 
+Documents from VTB Bank PJSC, filed August 23, 2024 (Docket # 594), at 30-32. 
+   In its opposition brief to plaintiffs’ motion to compel, VTB argued that “[t]here is no 
+reason to offend foreign law here, where the documents plaintiffs are seeking to compel consist 
+of internal VTB documents (e.g., emails) that have no relevance to this litigation and 
+transactional records that plaintiffs already have obtained from third parties.”  VTB Bank PJSC’s 
+Memoranum [sic] of Law in Opposition to Motion to Compel, filed September 20, 2024 (Docket 
+# 606) (“Mot. to Compel VTB Opp.”), at 53-54.  In the following sentence, VTB recounted that 
+
+“in response to a subpoena served by plaintiffs, Deutsche Bank has produced records of over 
+127,000 transactions, none of which reflect the alleged $1,673.55 transfer through VTB’s 
+account at Deutsche Bank that serves as the sole basis for personal jurisdiction.”  Id. at 54.  The 
+rest of this section in VTB’s brief discusses the issue of personal jurisdiction.  See id.  No other 
+“transactional records” that were “obtained from third parties,” id., are mentioned.  In its 
+opposition to plaintiffs’ motion to compel, VTB also submitted copies of subpoenas served by 
+plaintiffs on a number of banks and a copy of a letter accompanying plaintiffs’ transmission to 
+VTB of documents produced by Deutsche Bank, which included 128,000 rows of transactions.  
+Declaration of Arthur Kutoroff in Support of Defendant VTB Bank PJSC’s Memorandum of Law 
+in Opposition to Motion to Compel, filed September 20, 2024 (Docket # 608).   
+
+   In their reply brief in support of their motion to compel, plaintiffs acknowledged that 
+while the “Schansmans have obtained certain discovery from third parties, such as U.S. 
+correspondent banks, . . . to the extent records from the relevant time still exist, those records 
+reflect only the routing of funds through U.S. correspondent banking accounts.”  Plaintiffs’ 
+Reply Memorandum of Law in Further Support of Their Renewed Motion to Compel the 
+Production of Documents from VTB Bank PJSC, filed October 15, 2024 (Docket # 615), at 20. 
+   In its Opinion and Order, the Court recounted the parties’ briefing on this issue as follows  
+   Plaintiffs argue that they have no other source for the documents they seek from 
+   VTB given that approval has not been given to release them.  VTB has no 
+   response to this argument other than to suggest that plaintiffs should be satisfied 
+   with the production made by VTB’s correspondent bank, Deutsche Bank.  
+Schansman, 2025 WL 630810, at *16 (citations omitted).  The Court rejected VTB’s argument 
+“because [VTB] does not deny the fact that the responsive materials located in Russia are not 
+available from any other source.”  Id.  Accordingly, the Court concluded that “[b]ecause 
+‘plaintiffs lack sufficient alternative means for obtaining their requested materials,’ this ‘factor 
+weighs in favor of granting plaintiffs’ motion to compel.’”  Id. (quoting Wultz v. Bank of China 
+Ltd., 910 F. Supp. 2d 548, 558 (S.D.N.Y. 2012).                           
+   Today, VTB asks the Court to reconsider its conclusion on “the availability of alternative 
+means of securing the information.”  Mem. at 6.                           
+   In support, VTB argues that                                          
+
+   since Plaintiffs have already received productions reflecting VTB’s correspondent 
+   banking accounts in New York, any further production from VTB of similar 
+   records would be unreasonably duplicative.  That alone is a basis to reject 
+   Plaintiffs’ attempt to compel the production of these records.  See Fed. R. Civ. P. 
+   26(b)(2)(C)(i) (“the court must limit the frequency or extent of discovery … if … 
+   the discovery sought is unreasonably cumulative or duplicative, or can be 
+   obtained from some other source”).                                   
+
+Id. at 6 (ellipses in original).  VTB highlights “[t]hat requiring VTB to provide cumulative or 
+duplicative records would also require VTB to violate Russian law and impinge on international 
+comity makes it even more unreasonably burdensome.”  Id.  Accordingly, VTB requests “that the 
+Court qualify its Order by limiting the order to compel to only those documents located in 
+Russia, not documents Plaintiffs have already received, or could obtain, through third party 
+subpoenas (even if similar records are also available in Russia).”  Id. at 7.  In a similar vein, VTB 
+“requests that the Court reconsider the portion of its Order stating that ‘the responsive materials 
+located in Russia are not available from any other source’ because certain responsive materials 
+located in Russia (i.e., the correspondent banking records) are available from another source (the 
+correspondent banks).”  Id. (citing Schansman, 2025 WL 630810, at *16).   
+   In response, plaintiffs argue that VTB has “already made this argument in its opposition 
+to the Renewed Motion, and it fails to identify any clear error or manifest injustice warranting a 
+different result.”  Opp. at 4.  Nor does VTB identify any “reason beyond the same arguments that 
+the Court already considered and rejected.”  Id. at 5.  As to the merits, plaintiffs acknowledge 
+
+that they have “obtained certain discovery from third parties, such as U.S. correspondent banks.”  
+Id.  They argue, however, that “without the benefit of discovery from VTB, the Schansman 
+family simply cannot know whether that discovery captures the full extent of VTB’s 
+correspondent banking records.”  Id.                                      
+            b.  Analysis                                                
+   In its February 27, 2025, order, the Court rejected the gravamen of VTB’s argument.  
+Specifically, the Court has already rejected VTB’s argument that plaintiffs were not entitled to 
+VTB bank records on the ground that plaintiffs “have already received productions reflecting 
+VTB’s correspondent banking accounts in New York,” Mem. at 6.  See Schansman, 2025 WL 
+630810, at *16.  We rejected the argument “because [VTB] does not deny the fact that the 
+
+responsive materials located in Russia are not available from any other source.”  Id.  VTB does 
+not assert that the Court’s conclusion on this point was based on a misreading of VTB’s brief or 
+erroneously reasoned.  See Mem. at 6-7.  In other words, VTB’s motion for reconsideration 
+confirms that in the original briefing VTB never denied “the fact that the responsive materials 
+located in Russia are not available from any other source.”  Schansman, 2025 WL 630810, at 
+*16.  Accordingly, the Court sees no reason to reconsider its original conclusion.3 
+
+
+   3  VTB acknowledges that it has “made a similar argument in its opposition to the Motion 
+to Compel.”  Mem. at 6 n.3 (citing Mot. to Compel VTB Opp. at 53-54).  VTB explains that it 
+“makes this argument on reconsideration to ensure the Court does not overlook that its Order 
+could be read as mandating VTB violate Russian law to provide Plaintiffs with duplicative 
+documents.”  Id.  In its reply brief, VTB further clarifies that it seeks reconsideration because the 
+   VTB seeks a different outcome by arguing that “production from VTB of similar records 
+would be unreasonably duplicative.”  Mem. at 6.  VTB invokes Fed. R. Civ. P. 26(b)(2)(C)(i), 
+which provides that a “court must limit the frequency or extent of discovery … if … the 
+discovery sought is unreasonably cumulative or duplicative, or can be obtained from some other 
+
+source.”  VTB invokes this rule to argue that the allegedly duplicative nature of the requested 
+production “alone is a basis to reject Plaintiffs’ attempt to compel the production of these 
+records.”  Mem. at 6.  But in its opposition to the original motion to compel, VTB made no 
+argument grounded in Fed. R. Civ. P. 26’s reference to “duplicative” production and it provides 
+no reason now why it may properly be considered for the first time here.  See Mot. to Compel 
+VTB Opp.  Indeed, VTB appeared to have specifically disclaimed such an argument in its 
+opposition to the original motion, writing that “this is not a motion about the limits of Rule 26.”  
+Id. at 44 (“The document requests at issue . . . are arguably subject to discovery under Rule 26 
+because, after a meet-and-confer, the parties agreed on a range of material that VTB would 
+search for and seek permission to produce.  But this is not a motion about the limits of Rule 
+
+26.”).                                                                    
+   VTB also suggests, for the first time, that the Court should “limit the order to compel to 
+only those documents located in Russia, not documents Plaintiffs have already received, or could 
+obtain, through third party subpoenas (even if similar records are also available in Russia).”  
+Mem. at 7.  VTB provides no explanation as to why this suggestion was not raised in its 
+opposition to plaintiffs’ motion to compel and no explanation for how such a suggestion could 
+
+
+“Order did not directly address the implications of Plaintiffs’ possession of the documents they 
+requested.”  Reply at 1.  However, a motion for reconsideration is not granted simply because a 
+court has overlooked one potential implication of its ruling; if it were so Local Rule 6.3 could 
+lead to a “practice of a losing party examining a decision and then plugging the gaps of a lost 
+motion with additional matters.”  Henderson, 502 F. Supp. 2d at 376.      
+feasibly be implemented.  Additionally, VTB does not allege any “clear error” or “manifest 
+injustice.”  Kolel Beth Yechiel Mechil of Tartikov, Inc., 729 F.3d at 104.  Accordingly, VTB’s 
+suggestion does not warrant reconsideration of the Court’s February 27, 2025, order. 
+   Furthermore, VTB proffers, for the first time, that “certain responsive materials located in 
+
+Russia (i.e., the correspondent banking records) are available from another source (the 
+correspondent banks).”  Mem. at 6.  But VTB does not explain why it did not present this factual 
+assertion in its opposition to plaintiffs’ motion to compel.  Accordingly, this assertion does not 
+warrant reconsideration of the Court’s February 27, 2025, order.          
+   In sum, in asking the Court to reconsider its conclusion on the “availability of alternative 
+means of securing the information,” Schansman, 2025 WL 630810, at *13 (citing Linde, 706 
+F.3d at 98-99), VTB does not allege that there has been “an intervening change of controlling 
+law,” that “new evidence” has become available, that the Court made a “clear error,” or that 
+reconsideration is necessary to “prevent manifest injustice.”  Kolel Beth Yechiel Mechil of 
+Tartikov, Inc., 729 F.3d at 104.  Instead, VTB repeats an old argument previously rejected and 
+
+makes new arguments that it could have previously advanced.  Accordingly, we reject VTB’s 
+motion for reconsideration on this point.  See Associated Press v. U.S. Dep’t of Def., 395 F. 
+Supp. 2d 17, 19 (S.D.N.Y. 2005) (“It is settled law in this District that a motion for 
+reconsideration is neither an occasion for repeating old arguments previously rejected nor an 
+opportunity for making new arguments that could have been previously advanced.” (citing 
+cases)).                                                                  
+   Even on the merits, VTB’s argument is lacking: VTB provides no support for its 
+conclusory factual assertions that the “productions reflecting VTB’s correspondent banking 
+accounts in New York,” received by plaintiffs are “duplicative” or “similar” to the production at 
+issue here.  Mem. at 6.  Nor does VTB provide the Court with any suggestions for how to 
+identify which requests for production are duplicative.  Most importantly, VTB fails to explain 
+how producing the (allegedly) duplicative records would require VTB to violate additional 
+Russian laws or expose it to higher penalties — in other words, VTB offers no showing as to 
+
+why compelling VTB to produce records that may be duplicative would create any new burdens 
+for VTB.                                                                  
+     2.  Request for an Extension                                       
+            a.  Background                                              
+   The February 27, 2025, order required “VTB to produce information responsive to 
+plaintiffs’ discovery requests 1, 2, 5, 13, 25-27, 30, 32, 40, 50, 52-54, and 59-60 within 21 days 
+of the filing of this Opinion and Order.”  Schansman, 2025 WL 630810, at *19.  That deadline 
+expired on March 20, 2025, without VTB having filed any request for an extension under Fed. R. 
+Civ. P. 6(b).                                                             
+   Instead, VTB asks the Court to “reconsider” this deadline, adding that the Court should 
+
+“permit VTB to have 61 days after the filing of this motion (i.e., until May 12, 2025) to produce 
+documents.”  Mem. at 7.  VTB gives three reasons for its request: (1) VTB is hopeful that certain 
+upcoming meetings with representatives of the Ministry and the Central Bank may increase the 
+likelihood of Russian regulators changing their mind on whether to approve production; (2) it is 
+“possible” that the 2024 United States Presidential election may result in an increasing 
+inclination to approve production; (3) because a discovery stay applicable to a co-defendant, 
+Sberbank of Russia PJSC, is still in effect pending the final resolution of its appeal, “allowing for 
+the modest requested additional time would provide for greater clarity as to the status of 
+Sberbank in this litigation.”  Id. at 7-8.                                
+            b.  Discussion                                              
+   The Court rejects VTB’s motion for reconsideration on this point.    
+   Most importantly, VTB does not identify “an intervening change of controlling law, the 
+availability of new evidence, or the need to correct a clear error or prevent manifest injustice.”  
+
+Kolel Beth Yechiel Mechil of Tartikov, Inc., 729 F.3d at 104.  This alone is ground for denial.  
+See id.  Instead, VTB points to three developments that have occurred since the Court issued its 
+prior decision.  See Mem. at 7-9.  These developments constitute “new facts” which “may not 
+[be] advance[d] . . . on a motion for reconsideration.”  Steinberg, 2016 WL 1604764, at *1 
+(citation marks omitted); Cambridge Valley Machining, Inc. v. Hudson MFG LLC, 2020 WL 
+5878444, at *3 (N.D.N.Y. Oct. 2, 2020) (“motion for reconsideration cannot be used to advance 
+new facts, issues or arguments not previously presented to the Court” (citation and internal 
+quotation marks omitted)); Edible Arrangements Intern., Inc. v. JHRV Enterprises, Inc., 2011 WL 
+63474, at *1 (D. Conn. Jan. 3, 2011) (“Facts that arise after a court issues a ruling can hardly 
+constitute overlooked facts that would prompt reconsideration of a ruling.”).   
+
+   Even if we were to consider the new information presented by VTB, it would not counsel 
+granting the motion for reconsideration.  First, as the Court concluded in its February 27, 2025, 
+order, “plaintiffs have waited more than three years for the production of these critical 
+documents.  It would be unjust to require plaintiffs to wait any longer.”  Schansman, 2025 WL 
+630810, at *19.  Second, while it may be “possible” that “additional time will lead to a result that 
+could not have been obtained in the geopolitical environment that existed in 2024,” Mem. at 8, 
+VTB has provided no evidence that would allow this Court to find that such a changed result is 
+likely.  The Court is unwilling to delay production any further based on mere speculation.  
+Finally, VTB’s argument that its case should track the claims against Sberbank — which are 
+currently stayed — lacks force, since the stay was already in effect when plaintiffs moved to 
+compel.  In any event, there is no reason to further delay discovery against VTB, given that 
+plaintiffs have been seeking this material for years.‘ 
+Il.    CONCLUSION 
+    For the above reasons, VTB’s motion for reconsideration (Docket # 630) is denied and 
+plaintiffs’ motion to strike (Docket # 633) is denied. 
+Dated:  May 5, 2025 
+   New York, New York 
+                                  Soe 1  Gevsle 
+                                   United States Magistrate  Judge 
+
+    *  Long after briefing on the motion for reconsideration was complete, VTB filed a letter 
+suggesting that documents that are the subject of the motion to compel might be produced 
+shortly.  See Letter, filed April 29, 2025 (Docket # 647).  Given VTB’s past record of inaccurate 
+predictions about the timing of actions by Russian authorities, we give this letter no weight. 
+Obviously, if the required documents are promptly produced, VTB will be free to argue that the 
+production should affect the disposition of plaintiffs’ planned motion for sanctions. 
+
+                                    12
+
+---
+
+UNITED STATES DISTRICT COURT                                              
+SOUTHERN DISTRICT OF NEW YORK                                             
+---------------------------------------------------------------X          
+THOMAS SCHANSMAN et al.,           :                                      
+
+          Plaintiffs,         :    ORDER                             
+
+-v.-                          :                                      
+                                   19 Civ 2985 (ALC) (GWG)           
+SBERBANK OF RUSSIA PJSC et al.,    :                                      
+
+          Defendants.         :                                      
+---------------------------------------------------------------X          
+GABRIEL W. GORENSTEIN, UNITED STATES MAGISTRATE JUDGE                     
+
+The Court has considered the application of defendant VTB Bank (PJSC) (“VTB”) to 
+seal or maintain redactions in a number of documents filed in connection with plaintiffs’ motion 
+to compel (Docket # 593).1  VTB’s application seeks sealing of three types of information (1) 
+names and account numbers of VTB account holders, (2) names of VTB employees and VTB’s 
+consultant or consulting company, and (3) regulatory correspondence.      
+
+As VTB acknowledges, see October 22, 2024, VTB Letter at 2, 3, the documents filed in 
+connection with the motion to compel are “judicial documents” to which the presumption of 
+public access attaches,” Lugosch v. Pyramid Co. of Onondaga, 435 F.3d 110, 119 (2d Cir. 2006).  
+The legal framework for our consideration of this application — particularly as relevant to 
+discovery motions — is set forth in this Court’s decision in In re New York City Policing During 
+Summer 2020 Demonstrations, 635 F. Supp. 3d 247, 251-254 (S.D.N.Y. 2022).  We incorporate 
+by reference our discussion of those standards.  Having considered the parties’ arguments, we 
+rule as to each category of documents as follows:                         
+
+Regarding the names and account numbers of account holders, the Court finds that, in 
+light of bank customers’ legitimate privacy interests, redacting the names and account numbers 
+of non-parties does “not unduly interfere with the public's right to access judicial documents.”  
+Olson v. Major League Baseball, 29 F.4th 59, 93 (2d Cir. 2022) (“a district court should consider 
+its ability to use redactions that do not unduly interfere with the public's right to access judicial 
+documents in order to address privacy concerns”).  However, we except from this ruling the 
+names of the individuals already revealed in the Second Amended Complaint.  See, e.g., Second 
+Amended Complaint filed October 5, 2020 (Docket # 156) ¶¶ 6, 7, 57, 151, 155, 158, 173, 217, 
+233-34, 251-71.  These names have been public for years, there has been no application to seal 
+any portions of the Second Amended Complaint, and even VTB’s own briefings contains some 
+
+1  See VTB Bank PJSC’s Letter Request to Maintain Material Under Seal, filed October 
+22, 2024 (Docket # 617) (“October 22, 2024, VTB Letter”); VTB Bank PJSC’s Letter Motion 
+Regarding Sealing, filed October 28, 2024 (Docket # 620) (“October 28, 2024, VTB Letter”). 
+of the account holders’ names at issue.  See VTB Bank PJSC’s Memoranum [sic] of Law in 
+Opposition to Motion to Compel, filed September 20, 2024 (Docket # 606) at 15, 50.  Thus, 
+redaction in any documents in the motion to compel briefing would not as a practical matter 
+vindicate any privacy interests of these particular account holders.  Because these parties’ 
+privacy interests are minimal, the public’s interest in understanding the parties’ arguments in the 
+briefing of the motion to compel outweighs any such privacy interests. Thus any filings in 
+support of the motion to compel may redact only the names of account holders not already 
+named in the Second Amended Complaint.                                    
+
+Regarding, the names of VTB employees and VTB’s consulting company and consultant, 
+the Court recognizes the strong privacy interest of any individuals who did not make a choice to 
+participate in this lawsuit.  However, any party that elected to represent VTB or contract with 
+VTB with respect to this litigation has only the barest privacy interest, and that interest is 
+outweighed by the public interest in the briefing on the motion to compel.  Thus, no redaction 
+will be permitted of the name of the consultant hired by VTB to respond to plaintiffs’ document 
+requests, the name of the company assisting VTB with its document review, and the names of 
+VTB’s Russian attorneys.  The names of any other VTB employees in the filings, if any, may be 
+redacted.                                                                 
+
+With respect to regulatory correspondence, VTB contends that the “low presumption of 
+public access is outweighed by the need to keep communications between VTB and the Ministry 
+confidential.”  See October 22, 2024, VTB Letter at 2.  VTB argues that either the “bank 
+examiner privilege” or “the concern underlying this privilege” applies in order to “protect[] the 
+integrity of the regulatory process and ensure[] candor between VTB and the Ministry.”  Id.   
+
+The Court rejects VTB’s argument for a number of reasons.  First, “the bank examination 
+privilege belongs solely to . . . banking regulatory entities, and may not be asserted by third 
+parties on behalf of the banking agencies.”  Wultz v. Bank of China Ltd., 61 F. Supp. 3d 272, 282 
+(S.D.N.Y. 2013) (citation omitted) (ellipses in original).  Second, the presumption does not apply 
+to factual material but is instead meant to protect communications that further the goal of “the 
+effective supervision of banks.”  Id. at 281; Fed. Hous. Fin. Agency v. JPMorgan Chase & Co., 
+978 F. Supp. 2d 267, 277 (S.D.N.Y. 2013).  Here, the regulatory correspondence does not consist 
+of any discussions relating to supervision of VTB but rather relates to the approval process for 
+documents in this litigation.                                             
+
+In any event, the Court finds that the concerns underlying this privilege do not outweigh 
+the public right to access these documents.  VTB is asserting that it may permissibly not comply 
+with valid U.S. discovery obligations because it has been blocked from doing so by Russian 
+regulators.  The public’s right of access would be unduly impaired by obscuring the Russian 
+regulators’ role in halting the production of documents.  Thus, there shall be no sealing or 
+redaction of materials consisting of or relating to the regulatory correspondence.  
+ Accordingly, the motion to seal (Docket #620) is granted in part and denied in part as set 
+forth above.  Defendants are directed to refile by February 21, 2025, all memoranda of law, 
+declarations, and other documents filed in connection with the motion to compel (Docket # 593) 
+that currently contain redactions inconsistent with these rulings.  The name of each document 
+that is refiled shall reference the original docket number of the document in its name (for 
+example, “Exhibit A — former Docket 594”). 
+ SO ORDERED. 
+
+Dated: February 13, 2025 
+New York, New York 
+
+                                     Spo 1  Gevsle 
+                                      United States Magistrate Judge
+
+---
+
+UNITED STATES DISTRICT COURT                                              
+SOUTHERN DISTRICT OF NEW YORK                                             
+THOMAS SCHANSMAN, et al.,                                                
+                    Plaintiffs,                                          
+                                       19-cv-2985 (ALC)                  
+             -against-                                                   
+                                       OPINION & ORDER                   
+SBERBANK OF RUSSIA PJSC, et al.,                                         
+                    Defendants.                                          
+ANDREW L. CARTER, JR., United States District Judge:                      
+    Defendant VTB Bank (PJSC) (“VTB”) moves to certify for interlocutory appeal the 
+Court’s September 30, 2021 Memorandum and Order (“Op.”) (ECF No. 185) denying 
+Defendants’ motions to dismiss the Second Amended Complaint (“SAC”) (ECF No. 156).  For 
+the reasons that follow, VTB’s motion is DENIED.                          
+                         BACKGROUND                                      
+ On September 30, 2021, the Court denied Defendants’ motions to dismiss Plaintiffs’ SAC, 
+finding, in part, that the Court may exercise personal jurisdiction over VTB Bank and Sberbank 
+for Plaintiffs’ claims. Op. at 1, 10.  On November 15, 2021, Defendants asked the Court both to 
+reconsider its decision and to certify the order for interlocutory review, arguing, in relevant part, 
+that the Court lacked personal jurisdiction over VTB and Sberbank of Russia.  ECF Nos. 210, 
+213, 218, 220 (motions for reconsideration); ECF Nos. 215, 217, 222, 224 (pre-motion letters 
+seeking certification for interlocutory appeal).                          
+ On September 16, 2022, following the appearance of replacement counsel and pursuant to 
+VTB’s request, the Court dismissed VTB’s motion for reconsideration and pre-motion letter for 
+interlocutory appeal filed by previous counsel and granted VTB leave to submit new filings. ECF 
+No. 435. Shortly thereafter, on September 30, 2022, the Court denied Sberbank of Russia’s 
+motion to reconsider and request to certify the Court’s order denying Sberbank’s motion to 
+dismiss for interlocutory appeal. ECF No. 439.                            
+ On October 7, 2022, VTB filed a pre-motion letter seeking to renew its prior request to 
+certify the September 30, 2021 order for interlocutory review. ECF No. 441. On June 21, 2023, 
+
+the Court held a status hearing and pre-motion conference, where it permitted VTB to file a 
+motion to certify that order for interlocutory appeal, but denied VTB’s (1) motion for 
+reconsideration, ECF No. 442; (2) request to file a motion for summary judgment, ECF No. 498, 
+without prejudice to VTB renewing that request after the close of discovery, June 2021 Tr. at 
+18:1-4; and (3) request for supplemental briefing, ECF No. 513, to discuss the purported 
+relevance of the Supreme Court’s decision in Twitter, Inc. v. Taamneh, 143 S. Ct. 1206 (2023). 
+See ECF No. 520.  As the Court explained with respect to VTB’s motion for reconsideration, 
+“[i]n evaluating defendant’s original motion to dismiss, the Court carefully evaluated the facts 
+alleged in the amended complaint as to each defendant and found that plaintiffs had articulated a 
+prima facie case [of personal jurisdiction] against VTB.”  June 21, 2023 Tr. 8:18-23.  The Court 
+
+reaffirmed its ruling that the allegations in the SAC establish jurisdiction over VTB under 
+Second Circuit and New York precedent, including under Daou v. BLC Bank, S.A.L., 42 F.4th 
+120 (2d. Cir. 2022). Id. at 10:11- 21.                                    
+ VTB filed its motion for certification on July 19, 2023.  ECF Nos. 524, 525, 526.  Plaintiffs 
+filed their memorandum in opposition on August 16, 2023.  ECF No. 531.  VTB filed a reply in 
+further support of its motion on August 30, 2023.  ECF No. 532.  VTB has since submitted three 
+notices of supplemental authority (ECF Nos. 536, 537, 538) to which Plaintiffs replied (ECF No. 
+No. 539).                                                                 
+                       STANDARD OF REVIEW                                
+    A district court has authority to certify an order for interlocutory appeal when “such order 
+involves a controlling question of law as to which there is substantial ground for difference of 
+opinion and that an immediate appeal from the order may materially advance the ultimate 
+termination of the litigation.”  28 U.S.C. § 1292(b).  Given the general policy of deferring 
+
+appellate review until after the entry of a final judgment, interlocutory review is granted only in 
+“exceptional circumstances.”  In re Flor, 79 F.3d 281, 284 (2d Cir. 1996) (citation and quotation 
+marks omitted).  Movants cannot invoke the appellate process as a vehicle to provide early 
+review of difficult rulings in hard cases.  Only “exceptional circumstances” will justify a 
+departure from the basic policy of avoiding appellate review until a final decision on the merits.  
+In re Ambac Fin. Group, Inc. Sec. Litig., 693 F.Supp.2d 241, 282 (S.D.N.Y. 2010) (internal 
+quotations and citations omitted).                                        
+ "The party seeking an interlocutory appeal has the burden of showing [these] 'exceptional 
+circumstances' to 'overcome the general aversion to piecemeal litigation.'" In re Perry H. Koplik 
+& Sons, Inc., 377 B.R. 69, 73 (S.D.N.Y. 2007) (quoting Klinghoffer v. S.N.C. Achille Lauro, 921 
+
+F.2d 21, 24 (2d Cir. 1990)).  The determination of whether a party has carried this burden is 
+"committed to the discretion of the district court."  Harriscom Svenska AB v. Harris Corp., 947 
+F.2d 627, 629 (2d Cir. 1991).                                             
+                           DISCUSSION                                    
+ VTB has failed to establish the exceptional circumstances necessary to certify an 
+interlocutory appeal.  Moreover, it has failed to establish that (1) the Court’s decision on 
+personal jurisdiction involves a “controlling question of law,” (2) a “substantial ground for 
+difference of opinion” exists, or (3) an immediate appeal “may materially advance the ultimate 
+termination of the litigation.” 28 U.S.C. § 1292(b).                      
+ I.   Controlling Question of Law                                        
+ VTB has not shown the “exceptional circumstances” to change the Court’s prior ruling, or to 
+move to the appellate process without further proceedings at the district court.  "To satisfy the 
+first criterion of Section 1292(b), the movant must demonstrate that the question is both 
+
+controlling and a question of law.  In re Lehman Bros. Holdings Inc., No. 18-CV-8986-VEC, 
+2019 U.S. Dist. LEXIS 77887, 2019 WL 2023723, at *3 (S.D.N.Y. May 8, 2019).  “A 
+‘controlling question’ must be a 'pure' question of law that the reviewing court 'could decide 
+quickly and cleanly without having to study the record.'" Id. The mixed questions of law and fact 
+concerning VTB’s conduct and its connection with New York’s financial system are not suitable 
+for appellate review without a full record.  See In re Worldcom, Inc., 2003 WL 21498904, at *10 
+(S.D.N.Y. June 30, 2003) (§1292(b) appeal requires “a ‘pure’ question of law that the reviewing 
+court ‘could decide quickly and cleanly without having to study the record’”).  
+ In fact, this Court has reviewed the factual allegations set forth in the Second Amended 
+Complaint and has determined on three separate occasions that Plaintiffs have sufficiently 
+
+pleaded a prima facie case of personal jurisdiction. Op. at 7-10; ECF No. 439 at 3-4; June 21, 
+2023 Tr. at 13-14.  Plaintiffs have alleged that VTB and Sberbank operated correspondent 
+accounts in New York, routed U.S. Dollar dominated transactions to or on behalf of the DPR 
+through these New York based correspondent accounts, and processed transfers for fundraisers 
+supporting the DPR. SAC ¶¶ 27, 56, 177-332.  See Licci ex rel. Licci v. Lebanese Canadian 
+Bank, SAL, 732 F.3d 161, 168 (2d Cir. 2013) (finding in ATA case that specific jurisdiction was 
+proper when a bank “deliberately chose to process . . . wire transfers . . . in New York” when 
+“[i]n light of the widespread acceptance and availability of U.S. currency, [the bank] could have . 
+. . processed U.S.-dollar-denominated wire transfers . . . through correspondent accounts 
+anywhere in the world.”).                                                 
+ Despite VTB’s suggestion that the Second Circuit could “review the September 30, 2021 
+Order quickly and cleanly, with no need to study a factual record,” determining whether a 
+
+defendant transacted business in the state sufficient to establish personal jurisdiction "necessarily 
+requires examination of the particular facts in each case."  Daou v. BLC Bank, S.A.L., 42 F.4th 
+120, 129 (2d. Cir. 2022) (quoting Licci v. Lebanese Canadian Bank, SAL ("Licci I"), 20 N.Y.3d 
+327, 338 (2d Cir. 2012)).  VTB fails to meet the standard for “controlling question of law” ripe 
+for appellate review.                                                     
+ II.  Substantial Ground for Difference of Opinion                       
+    VTB fails to show that there exists a “substantial ground for difference of opinion” on the 
+question of law. 28 U.S.C. § 1292(b).  The requirement that such a substantial ground for a 
+difference of opinion exists may be met when "(1) there is conflicting authority on the issue, or 
+(2) the issue is particularly difficult and of first impression for the Second Circuit."  Enron Corp. 
+
+v. Springfield Assocs., L.L.C. (In re Enron Corp.), 2007 U.S. Dist. LEXIS 70731, *6-7 
+(S.D.N.Y., Sept. 24, 2007) (citing Klinghoffer v. S.N.C. Achille Lauro Ed Altri-Gestione 
+Motonave Achille Lauro in Amministrazione Straordinaria, 921 F.2d 21 (2d Cir. 1990)).  Neither 
+of these factors is present in the instant case.                          
+    VTB argues that proceeding with this case goes against the weight of authority, in part 
+because the Second Circuit’s decision in Daou v. BLC Bank, S.A.L., 42 F.4th 120 (2d Cir. 2022) 
+compels a finding that the Court lacks personal jurisdiction over VTB because the Complaint 
+does not allege a “direct” and “substantial” connection between the alleged jurisdictional 
+contacts and the claims asserted by Plaintiffs.  ECF No. 525 at 2-3, 10-12.  Again, VTB’s 
+arguments miss the mark.                                                  
+    The Court’s decision on the motion to dismiss is entirely consistent with Daou, where the 
+Second Circuit reaffirmed the principle that New York’s long arm statute is “a ‘single act 
+
+statute,’ and ‘proof of one transaction in New York is sufficient to invoke jurisdiction, even 
+though the defendant never enters New York, so long as the defendant’s activities here were 
+purposeful and there is a substantial relationship between the transaction and the claim 
+asserted.’”  Daou v. BLC Bank, S.A.L., 42 F.4th at 129.  Although in Daou, the Second Circuit 
+affirmed the district court’s finding that the plaintiffs’ claims did not arise from the defendant 
+bank’s transaction in New York, that is not the case here.                
+    In Daou, the Second Circuit expressly stated that “[a] claim may arise from the use of a 
+correspondent bank account for purposes of § 302(a)(1) where an alleged actual transaction 
+made through such an account formed part of the alleged unlawful course of conduct underlying 
+the cause of action set out in the complaint.”  Daou, 42 F.4th at 130.  These are precisely the 
+
+allegations here, where Plaintiffs allege that VTB used its New York correspondent account to 
+transfer money to the DPR to help fund their alleged terrorist activities, resulting in the tragic 
+aircraft crash at issue in this litigation.  SAC ¶¶ 27, 342-361.          
+    At issue in Daou was the commercial banks’ refusal to send funds through U.S. 
+correspondent accounts such that there was no substantial nexus between the commercial banks’ 
+use of their correspondent accounts and the Daous’ claims.  Id. at 131. The fact that the Plaintiffs 
+“did not include a single allegation that any defendant used an actual, specific transaction 
+through a New York correspondent account in the course of bringing about the injuries on which 
+the claims are predicated” destroyed any finding of personal jurisdiction.  Id. at 132.  Instead, the 
+Daous’ jurisdictional hook, that the requested wire transfers likely would have been routed 
+through the New York correspondent accounts if the commercial banks had not refused those 
+requests, failed because it was “not only highly speculative” but also supplied “no connection 
+whatsoever, much less a substantial one, between the claims and any actual transaction.” Id.  
+
+Unlike the Daous, Plaintiffs in this case have factually alleged actual, specific transactions routed 
+through VTB’s New York based correspondent account which provided direct funding to the 
+DPR.  SAC ¶¶ 61, 177-332.                                                 
+    Daou and its progeny have not altered the legal landscape of personal jurisdiction 
+analysis such that the issue VTB seeks to certify on appeal is one in which there is conflicting 
+authority, or that this is an issue of first impression.  Courts in this District have interpreted Daou 
+to dismiss for lack of personal jurisdiction claims in which commercial banks, similar to those in 
+Daou, refused to wire funds through New York based correspondent accounts.  See, e.g., Kreit v. 
+Byblos Bank S.A.L., 2023 U.S. Dist. LEXIS 189468, *15-16 (S.D.N.Y., Oct. 22, 2023) (citing 
+Elghossain v. Bank Audi S.A.L., 2023 U.S. Dist. LEXIS 30631 (S.D.N.Y., Feb. 23, 2023), report 
+
+and recommendation adopted by 2023 U.S. Dist. LEXIS 175684; Moussaoui v. Bank of Beirut & 
+the Arab Countries, 2023 U.S. Dist. LEXIS 163283 (S.D.N.Y., Sept. 14, 2023)).  No such refusal 
+exists here.                                                              
+    Despite VTB’s assertion that this new authority either requires the Court to sua sponte 
+revisit its previous decisions or ripens its request to certify the Court’s September 2021 Order for 
+interlocutory appeal, the Court’s finding of personal jurisdiction is only affirmed by recent 
+precedent.  ECF Nos. 536, 537, 538.  The plaintiffs in Kreit, Elghossain, and Moussaoui all 
+failed to allege that Defendant banks “used an actual, specific transaction through a New York 
+correspondent account in the course of bringing about the injuries on which the claims are 
+predicated.” Kreit, 2023 U.S. Dist. LEXIS 189468 at *17-18; Elghossain, 2023 U.S. Dist. LEXIS 
+30631 at *30-31; Moussaoui, 2023 U.S. Dist. LEXIS 163283 at *14-15.  “Indeed, where 
+courts have found personal jurisdiction over defendant banks . . . they have concluded that the 
+defendant banks' correspondent accounts were used to transmit money to terrorist organizations 
+
+via specific, documented, and knowing transactions.”  Moussaoui, 2023 U.S. Dist. LEXIS 
+163283, *15-16.  This case is much more analogous to Licci I, where the Second Circuit found in 
+an Anti-Terrorism Act action that the pleadings established the “articulable nexus” or 
+“substantial relationship” necessary for purposes of personal jurisdiction when they alleged that 
+the defendant’s use of its New York account to transfer money provided funds to carry out 
+terrorist violence. Licci I, 20 N.Y.3d at 340;                            
+    Courts in this Circuit are decidedly in agreement of how to interpret Daou and its 
+application to speculative, hypothetical transactions that fail to satisfy § 302(a)(1)'s arise-from 
+requirement.  And the issue VTB aims to certify for interlocutory appeal has been resolved by 
+the Circuit’s decision in Licci over a decade prior.  Licci I, 20 N.Y.3d at 340 (noting that 
+
+repeated routing of a transfer for a terrorist group was not coincidental, but an articulable nexus 
+or substantial relationship between the transaction and the claims asserted).  Thus, it is not an 
+issue of first impression.  VTB fails to show that there exists a substantial ground for difference 
+of opinion.                                                               
+ III.  Materially Advance Termination of Litigation                      
+ Certification would prolong rather than “materially advance the ultimate termination of th[is] 
+litigation.”  28 U.S.C. § 1292(b).  Material advancement occurs when an appeal "promises to 
+advance the time for trial or shorten the time required therefor." In re Terrorist Attacks on 
+September 11, 2001, 2023 U.S. Dist. LEXIS 66886, *12 (S.D.N.Y., Apr. 17, 2023) (citation 
+omitted).  This factor, in which courts place “particular weight,” focuses on the "institutional 
+efficiency of both the district court and the appellate court," Tantaros v. Fox News Network, 
+LLC, 465 F. Supp. 3d 385, 392 (S.D.N.Y. 2020) (citation omitted), because "efficiency of the 
+federal court system is among the chief concerns underlying Section 1292(b)," SLE.C. v. Credit 
+Bancorp, Ltd., 103 F.Supp.2d 223, 226 (S.D.N.Y. 2000). 
+   VTB’s argument about the potential complexity of discovery does not warrant further delay 
+in the adjudication of this case and is not a ground for interlocutory appeal. ECF No. 525 at 12- 
+13.  Although discovery has been underway for over two years, only 239 of over 7,000 estimated 
+documents have been produced to Plaintiffs.  ECF No. 560.  Such enormous delays in production 
+have had “a severe and negative impact on the progress of this case.”  ECF No. 509 at 1.  This 
+case has already been stalled by the restrictions that Russian law places on VTB in connection 
+with discovery; it should not be thwarted any further by appellate certification. 
+
+                                 CONCLUSION 
+
+   Because VTB fails to establish the exceptional circumstances necessary to certify an 
+interlocutory appeal, VTB’s motion to certify (ECF No. 524) is DENIED. 
+
+   The Clerk of Court is directed to close the open motion at ECF No. 524.  The Parties are 
+ordered to file a joint status report on or before April 11, 2024. 
+
+SO ORDERED. 
+Dated: March 28, 2024                       [rade   7 (he 
+New York, New York                                                  Q2—~ 
+                                           HON.  ANDREW  L.  CARTER, JR. 
+                                            United States District  Judge
+
+---
+
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+penne nen eee   K 
+THOMAS SCHANSMAN et al.,                      : 
+             Plaintiffs,                 :      ORDER 
+ -V.-                                    : 
+                                           19 Civ 2985 (ALC)(GWG) 
+SBERBANK OF RUSSIA PJSC et al.,               : 
+             Defendants.                 : 
+penne nen eee   K 
+GABRIEL W. GORENSTEIN, UNITED STATES MAGISTRATE JUDGE 
+ In conjunction with the briefing of the plaintiffs’ Motion to Compel (Docket # 478), the 
+Court is in receipt of applications from parties to this case to maintain under seal memoranda and 
+exhibits containing information defendant VTB Bank PJSC (“VTB”) has designated confidential 
+pursuant to a protective order in this case.  See Docket ## 477, 493, 496. 
+ We previously delineated the governing standard in In re New York City Policing During 
+Summer 2020 Demonstrations, 2022 WL 7886182 (S.D.N.Y. Oct. 14, 2022).  In applying the 
+applicable three-part test here, we recognize first that these documents filed with the Court to 
+brief the plaintiffs’ discovery motion are necessarily “judicial documents” to which a 
+presumption of access attaches.  Id. at *1 (citing Lugosch v. Pyramid Co. of Onondaga, 435 F.3d 
+110, 119-120 (2d Cir. 2006)).  However, in discovery disputes, the weight of the presumption is 
+not strong.  See id. at 2.  VTB has identified the “inherently sensitive” nature of communications 
+between regulators and the entities they regulate (persuasively likening its situation to domestic 
+“bank examination privilege” and discussing the interest in “the integrity of the regulatory 
+process”).  Docket # 496 at 1-2. 
+ Because the weight of the presumption in this context is low, VTB has identified a 
+substantial argument in favor of its sealing, and the applications are unopposed, we find that the 
+burden has been carried in favor of sealing.  Thus, we grant the applications at Docket ## 477, 
+493, and 496 to maintain under seal the redacted portions of the memoranda and exhibits 
+referenced in those applications.  The documents are already sealed and thus no action by the 
+Clerk is required. 
+ SO ORDERED. 
+Dated: May 12, 2023 
+New York, New York 
+                                     Soe 0   Geosle_ 
+                                       United States Magistrate Judge
+
+---
+
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+nnn        ee eee K 
+THOMAS SCHANSMAN et al.,                      : 
+              Plaintiffs,                 :      ORDER 
+  -V.-                                    : 
+                                            19 Civ 2985 (ALC)(GWG) 
+SBERBANK OF RUSSIA PJSC et al.,               : 
+             Defendants.                  : 
+ nnn eK 
+GABRIEL W. GORENSTEIN, UNITED STATES MAGISTRATE JUDGE 
+  Regarding plaintiffs’ Motion to Compel defendant VTB Bank PSJC (“VTB”) to produce 
+documents (Docket # 478), the documents were first requested by plaintiffs in November 2021, 
+more than 17 months ago (see Docket # 479 at 5).  The delay in production has had a severe and 
+negative impact on the progress of this case.  The Court has considered the arguments of 
+defendants regarding the reasons for delay and the need for additional time, and directs VTB to 
+produce the requested documents to plaintiffs no later than November 30, 2023.  VTB shall 
+produce any documents available before that date as soon as the documents are available. 
+  If VTB fails to produce to plaintiff all documents by November 30, 2023, the Court shall 
+deem such failure to constitute a refusal to produce the documents on the grounds of the 
+operation of foreign law.  The Court will then decide the consequences of that refusal in 
+accordance with the principles articulated in case law.  See, e.g., Societe Nationale Industrielle 
+Aerospatiale v. U.S. Dist. Ct. for S. Dist. of lowa,  483 U.S. 522, 543-45 (1987);  Wultz  _v. 
+Bank of China Ltd., 298 F.R.D. 91, 96 (S.D.N.Y. 2014). 
+  Also, if the documents have not been produced in full by November 30, 2023, plaintiffs 
+shall inform the Court within 7 days and may supplement the motion to compel with any further 
+information relevant to the motion.  VTB may file its response within 7 days thereafter. 
+  VTB shall file a report on the status of (1) its transmission of documents to the relevant 
+government entities for review, including but not limited to the Russian Ministry of Finance; (2) 
+the approval process by the relevant governmental entities; (3) any actual production it has made 
+to plaintiffs; and (4) any other information VTB deems relevant to the motion to compel.  The 
+first such report shall be filed on or before June 12, 2023.  Updated reports shall be filed by the 
+following dates: July 12, 2023; August 14, 2023; September 12, 2023; October 12, 2023; and 
+November 13, 2023. 
+  VTB is to provide information to plaintiffs as requested regarding the above matters as 
+well as regarding VTB’s search for responsive documents. 
+  SO ORDERED. 
+
+Dated: May 12, 2023 
+ New York, New York 
+
+                                      Soo  Gewsle 
+                                       United States Magistrate  Judge
+
+---
+
+UNITED STATES DISTRICT COURT                                             
+SOUTHERN DISTRICT OF NEW YORK                                            
+ ------------------------------------------------------------x           
+ Thomas Schansman, et al.,                                               
+                          Plaintiffs,                                    
+
+               -against-           :     1:19-CV-02985 (ALC) (GWG)       
+                                   :                                     
+ Sberbank of Russia PJSC et al.,   :             ORDER                   
+                          Defendants :                                   
+  ---------------------------------------------------------- . :         
+                                  - :x                                   
+
+ANDREW L. CARTER, JR., United States District Judge:                      
+    Defendant Sberbank of Russia submits a motion to dismiss Plaintiffs’ Second Amended 
+Complaint under Rule 12(b)(1) of the Federal Rules of Civil Procedure for lack of subject-matter 
+jurisdiction under the Foreign Sovereign Immunities Act (FSIA) and the Anti-Terrorism Act 
+(ATA). For the following reasons, Sberbank’s motion to dismiss is denied. 
+
+                        I.  BACKGROUND                                   
+    I assume the parties’ familiarity with the facts, which are set forth more fully in the 
+Memorandum and Order denying Defendants’ previous motion to dismiss. ECF No. 185. In short, 
+according  to  the  original  complaint  and  Second  Amended  Complaint  (“SAC”),  Defendants 
+Sberbank and VTB Bank provided material support and financing to the Donetsk People’s 
+Republic, a terrorist group accused of downing a Malaysia Airlines flight over Eastern Ukraine in 
+2014.                                                                     
+
+                    II.  STANDARD OF REVIEW                              
+    Federal Rule of Civil Procedure 12(b)(1) allows for dismissal of a complaint for “lack of 
+subject matter jurisdiction.” The Second Circuit has held that a motion to dismiss for one of the 
+non-waivable defenses under Rule 12(h) (such as lack of subject matter jurisdiction, at FRCP 
+12(h)(3)), is valid even after the answer is filed and should be construed as a motion for judgment 
+on the pleadings under Rule 12(c). Patel v. Contemporary Classics of Beverly Hills, 259 F.3d 123, 
+126 (2d Cir. 2001). Further, under Fed. R. Civ. P. 12(h)(3) (“If the court determines at any time 
+
+that it lacks subject-matter jurisdiction, the court must dismiss the action.”) 
+
+                        III.  DISCUSSION                                 
+ A.  SOVEREIGN IMMUNITY CLAIMS                                           
+    The FSIA “is the sole source for subject matter jurisdiction over any action against a 
+foreign state.” Pablo Star Ltd. v. Welsh Government, 378 F. Supp. 3d 300, 306 (S.D.N.Y. 2019)  
+    As Sberbank noted in the Joint Status Report of Sept 13, 2022 at ECF No. 434: a sovereign 
+defendant’s waiver of immunity must “be ‘unmistakable’ and ‘unambiguous.’” Drexel Burnham 
+Lambert Grp. Inc. v. Comm. of Receivers for Galadari, 12 F.3d 317, 326 (2d Cir. 1993) (quoting 
+Shapiro v. Republic of Bolivia, 930 F.2d 1013, 1017 (2d Cir. 1991)). Here, although Sberbank 
+
+repeatedly disclaimed sovereign immunity defenses at earlier stages of briefing, they raised the 
+defense in the first paragraph of their answer to the second amended complaint. ECF No. 226. 
+Therefore, the Court does not consider the question of whether Sberbank waived sovereign 
+immunity at this time, and examines the merits of Sberbank’s sovereign immunity defense. 
+    The FSIA provides immunity to foreign states as well as to any “agency or instrumentality” 
+of  a  foreign  state. 28  U.S.C.  §  1603(a); 28  U.S.C.  §  1604.  The  FSIA  defines  “agency  or 
+instrumentality” as an entity:                                            
+    (1) which is a separate legal person, corporate or otherwise, and    
+    (2) which is an organ of a foreign state or political subdivision thereof, or a majority of 
+      whose shares or other ownership interest is owned by a foreign state or political 
+      subdivision thereof, and                                           
+    (3) which is neither a citizen of a State of the United States as defined in section 1332(c) 
+
+      and (e) of this title, nor created under the laws of any third country. 
+28 U.S.C. § 1603(b).                                                      
+    The FSIA provides that “a foreign state shall be immune from the jurisdiction of the courts 
+of the United States and of the States” unless one of the limited exceptions enumerated in Sections 
+1605 through 1607 of the FSIA applies. 28 U.S.C. § 1604; see Saudi Arabia v. Nelson, 507 U.S. 
+349, 355 (1993); Pablo Star Ltd., 378 F. Supp.3d at 306. “When [a] defendant claims immunity 
+under the FSIA and ‘presents a prima facie case that it is a foreign sovereign, the plaintiff has the 
+burden of going forward with evidence showing that, under exceptions to the FSIA, immunity 
+should not be granted, although the ultimate burden of persuasion remains with the alleged foreign 
+sovereign.’” Figueroa v. Ministry for Foreign Affairs of Sweden, 222 F. Supp. 3d 304, 307 
+
+(S.D.N.Y. 2016) (quoting Cargill Int'l S.A. v. M/T Pavel Dybenko, 991 F.2d 1012, 1016 (2d Cir. 
+1993)).                                                                   
+    Determining  whether  a  plaintiff  has  satisfied  his  burden  “involves  a  review  of  the 
+allegations in the complaint, the undisputed facts, if any, placed before the court by the parties, 
+and—if the plaintiff comes forward with sufficient evidence to carry its burden of production on 
+this issue—resolution of disputed issues of facts.” Anglo-Iberia Underwriting Mgmt. v. P.T. 
+Jamsostek, 600 F.3d 171, 175 (2d Cir. 2010) (quoting In re Terrorist Attacks on Sept. 11, 2001, 
+538 F.3d 71, 80 (2d Cir. 2008) (internal quotation marks and alterations omitted)). At this stage, 
+“when considering a motion to dismiss for lack of subject matter jurisdiction on the basis of 
+sovereign immunity, ‘the Court generally must accept the material factual allegations in the 
+complaint as true, but does not draw all reasonable inferences in the plaintiff's favor.’” Pablo Star 
+Ltd., 378 F. Supp. 3d at 306, quoting Figueroa, 222 F. Supp. 3d at 307. “[W]here jurisdictional 
+facts are disputed, the Court has the power and obligation to consider matters outside the pleadings, 
+
+such as affidavits, documents, and testimony, to determine whether jurisdiction exists.” Figueroa, 
+222 F. Supp. 3d at 307.                                                   
+    Sberbank claims they have qualified as an “agency or instrumentality” of Russia since at 
+least April 2020, because at that time, the Ministry of Finance of Russia became the majority 
+shareholder of Sberbank. See Memorandum of Law in Support of Sberbank’s Motion to Dismiss 
+for Lack of Subject-Matter Jurisdiction under the Foreign Sovereign Immunities Act (“Sberbank 
+FSIA Memo” at ECF 258) at 4. Sberbank also claims that they were in fact an “agency or 
+instrumentality” before April 30, 2020 “by virtue of [Sberbank’s] direct majority ownership by the 
+Central Bank of the Russian Federation (“Bank of Russia”).” ECF 258 at 12-13. 
+    However, as Chief Justice Marshall once wrote, “[w]here there is no change of party, a 
+
+jurisdiction depending on the condition of the party, is governed by that condition as it was at the 
+commencement of the suit.” Conolly v. Taylor, 27 U.S. 556, 565 (1829) (Marshall, C.J.) 
+    The Supreme Court and the Second Circuit have agreed with the venerable Chief Justice 
+in this regard, and have held that the determination of “agency or instrumentality” status is made 
+at the time of the filing of suit. In Dole Food Co. v. Patrickson, 538 U.S. 468, 478 (2003), the 
+Supreme Court stated, “We think the plain text [of § 1603(b)(2)], because it is expressed in the 
+present tense, requires that instrumentality status be determined at the time suit is filed.” The Court 
+grounded its holding in “the longstanding principle that ‘the jurisdiction of the Court depends upon 
+the state of things at the time of the action brought.’” Id.; see also Bartlett v. Societe Generale de 
+Banque au Liban SAL, 2021 WL 3706909, at *8 (E.D.N.Y. Aug. 6, 2021) The Second Circuit has 
+followed the Supreme Court’s ruling in Dole, stating that it “unequivocally [holds] that an entity’s 
+status as an instrumentality of a foreign state should be determined at the time of the filing of the 
+complaint[.]” Abrams v. Societe Nationale Des Chemins De Fer Francais, 389 F.3d 61, 64 (2d 
+
+Cir. 2004), cert. denied, 544 U.S. 975.                                   
+    Therefore, the Ministry of Finance of the Russian Federation’s acquisition of direct 
+majority ownership of Sberbank as of April 30, 2020 is not at issue, and the Court does not consider 
+whether this would confer “agency or instrumentality” status on Sberbank.  
+    In turn, the Court now must examine Sberbank’s argument that in fact, they were an 
+“agency or instrumentality” of the Russian Federation before April 30, 2020 “by virtue of 
+[Sberbank’s] direct majority ownership by the Central Bank of the Russian Federation (“Bank of 
+Russia”).” ECF 258 at 12-13.                                              
+
+ B.  SBERBANK’S STATUS BEFORE ITS ACQUISITION BY THE MINISTRY OF FINANCE 
+
+    Sberbank states that on April 4, 2019 (the date the original complaint was filed, ECF No. 
+1), Sberbank was directly, majority-owned by the Bank of Russia. See Tsvetkov Decl. ¶¶ 3-4 (“As 
+of 4 April 2019 . . . the Bank of Russia (also called the Central Bank of Russia) owned a 50% plus 
+one share stake of Sberbank’s total authorized capital.”); Tsvetkov Decl. Ex. A (Certificate from 
+the Register of Securities Owners about Shareholders Holding One and More % of the Charter 
+Capital as at 4 April 2019); id. Ex. B (excerpt from Sberbank’s 2019 Annual Report). As such, 
+Sberbank claims that they have been an “agency or instrumentality” of Russia all along, and are 
+exempt from suit.                                                         
+    Plaintiffs contend that Sberbank was an “entity owned by an ‘agency or instrumentality’ at 
+the time of filing,” and therefore Sberbank is not entitled to a presumption of immunity. See 
+Plaintiffs’ Memorandum of Law in Opposition to Sberbank of Russia PJSC’s Second Motion to 
+Dismiss the Second Amended Complaint (“Pls.’ Opp.” at ECF No. 312) at 10. 
+
+    If the Bank of Russia is an agency or instrumentality, then it is unlikely that Sberbank can 
+also be one, as the Supreme Court has held that the chain of sovereign immunity does not extend 
+beyond a direct link to a sovereign entity. (“We hold that only direct ownership of a majority of 
+shares by the foreign state satisfies the statutory requirement.” Dole Food Co. v Patrickson, 538 
+US 468, 474 (2003), emphasis added). Sberbank would then be subject to suit, without any need 
+for further analysis of sovereign immunity.                               
+    In contrast, if Bank of Russia is a political subdivision, then Sberbank could be an agency 
+or instrumentality majority owned by it, and thus covered by sovereign immunity. 
+    The Court holds that 1) the Central Bank of Russia is a “political subdivision” of the 
+Russian government, 2) Sberbank is an agency or instrumentality of the Russian government, 
+
+and, crucially, 3) Sberbank is still subject to suit under the commercial-activity exception to the 
+FSIA.                                                                     
+
+ C.  APPLYING THE SECOND CIRCUIT’S CORE FUNCTIONS TEST, CENTRAL BANK OF  
+    RUSSIA QUALIFIES AS A POLITICAL SUBDIVISION                          
+    Courts within the Second Circuit use the “core functions test” from Garb v. Republic of 
+Poland, 440 F.3d 579 (2d Cir. 2006) to decide whether an entity is a “political subdivision” or an 
+“agency or instrumentality” of a state. The test examines whether the “core functions” of the 
+entity “are predominantly governmental or commercial.” Garb v. Republic of Poland, 440 F.3d 
+579, 594 (2d Cir. 2006). “If an entity’s core functions are predominantly governmental, then it is 
+a political subdivision. If the entity’s core functions are predominantly commercial, then it is an 
+agency or instrumentality.” NML Capital Ltd. v. Space Expl. Techs. Corp., No. 14-cv-2262, 2015 
+WL 1334291, at *5 (C.D. Cal. Mar. 6, 2015) (citing Roeder v. Islamic Republic of Iran, 333 F.3d 
+
+228, 234 (D.C. Cir. 2003)).                                               
+    Here, Bank of Russia’s core functions are predominantly governmental. As noted in the 
+Sberbank FSIA Memo, the Bank of Russia is a crucial market regulator within the Russian 
+System. The Constitution of the Russian Federation states that the Bank of Russia is 
+“exclusively” responsible for the issuance of rubles, and that “protecting and ensuring the 
+stability of the ruble shall be the core function of the Central Bank of the Russian Federation[.]” 
+Art. 75 of the Constitution of the Russian Federation; Decl. of Lyudmila G. Efimova ¶ 6. 
+Further, the Bank of Russia is to exercise these duties “independently from other state power 
+bodies.” Id. Along with its currency stabilization role, “[t]he Bank of Russia formulates 
+economic policy in coordination with other branches of government and possesses wide 
+
+regulatory authority, including the issuance of legal normative acts and the imposition of 
+administrative fines.” Sberbank FSIA Memo at 14. Its governmental functions include acting as 
+a last-resort creditor, setting the rules to conduct banking operations, managing the gold and 
+currency reserves of the Russian Government, regulating the Russian banking and financial 
+sectors, setting the exchange rate of foreign currencies against the ruble, and compiling various 
+official statistics used in the forecasting and public communication of Russian economic policy. 
+Efimova Decl. ¶ 8. These activities are all quintessentially governmental, and in line with the 
+work of central banks in other countries. Therefore, the Court holds that the Bank of Russia is a 
+“political subdivision” of the Russian government.                        
+ D.  SBERBANK IS AN AGENCY OR INSTRUMENTALITY OF RUSSIA                  
+    As discussed above, under the “core functions” test from Garb, the Bank of Russia is a 
+political subdivision. Its core functions – regulating the Russian economy, maintaining the value 
+of the Ruble, and overseeing Russian banks are predominantly governmental. Because Bank of 
+
+Russia is a political subdivision of Russia, Sberbank is presumptively covered by sovereign 
+immunity because it is majority owned by it. See e.g., Dole Food Co. v Patrickson, 538 U.S. 468, 
+477 (2003) (“A corporation is an instrumentality of a foreign state under the FSIA only if the 
+foreign state itself owns a majority of the corporation's shares.”)       
+    Sberbank’s submissions show that Sberbank is majority owned by the Bank of Russia. 
+See, e.g., Oleg Tsvetkov Decl. ¶ 3: “As of 4 April 2019 . . . the Bank of Russia (also called the 
+Central Bank of Russia) owned a 50% plus one share stake of Sberbank’s total authorized 
+capital.”). Under §1603(b)(2) of the FSIA, Sberbank is then an entity “a majority of whose 
+shares . . . [are] owned by a foreign state or political subdivision thereof,” and therefore qualifies 
+as an agency or instrumentality of the State of Russia.                   
+
+
+ E.  SBERBANK MAY STILL BE HELD LIABLE UNDER THE COMMERCIAL-ACTIVITY     
+    EXCEPTION TO THE FSIA                                                
+    Sberbank argues that by virtue of its status as an agency or instrumentality of a foreign 
+state, it is presumptively immune from suit. Sberbank FSIA Memo at 3. Having determined that 
+the 1) the Bank of Russia is a political subdivision, and 2) Sberbank is an agency or 
+instrumentality of Russia, the Court next must decide whether an exception to sovereign 
+immunity applies to Sberbank. The Court holds that the commercial-activity exception applies in 
+this case, and Sberbank is thus subject to suit.                          
+    When considering an exception to the FSIA, Plaintiff carries the burden “of going 
+forward with evidence showing that, under exceptions to the FSIA, immunity should not be 
+granted.” Freund v. Republic of France, 592 F. Supp. 2d 540, 552-53 (S.D.N.Y. 2008) (quoting 
+Cabiri v. Republic of Ghana, 165 F.3d 193, 196 (2d Cir. 1999)). Once Plaintiff satisfies this 
+
+burden of production, the burden of persuasion passes to Defendants to show that an exception to 
+the FSIA does not apply. Freund, 592 F. Supp. 2d at 552-53 (providing that “the ultimate burden 
+of persuasion remains with the alleged foreign sovereign”); Bell Helicopter Textron, Inc. v. 
+Islamic Republic of Iran, 734 F.3d 1175, 1183 (D.C. Cir. 2013).           
+    Section 1605(a)(2) of FSIA, the statute's commercial activity exception, provides that “[a] 
+foreign state shall not be immune from the jurisdiction of courts of the United States or of the 
+States in any case” in which the action is based upon (1) “a commercial activity carried on in the 
+United States by the foreign state”; (2) “upon an act performed in the United States in connection 
+with a commercial activity of the foreign state elsewhere”; or (3) “upon an act outside the territory 
+of the United States in connection with a commercial activity of the foreign state elsewhere and 
+
+that act causes a direct effect in the United States.” To fall within the commercial activity 
+exception, [Defendant’s] activities need to qualify for at least one of the categories specified in the 
+three clauses of §1605(a)(2). United States v. Turkiye Halk Bankasi A.S., 16 F.4th 336, 348 (2d 
+Cir. 2021) (hereinafter, “Halkbank”).                                     
+    As the Second Circuit stated in Halkbank, the commercial activity inquiry begins with 
+identifying an act that is based upon the particular conduct that constitutes the ‘gravamen’ of the 
+suit.” Id.; see also Barnet as Tr. Of 2012 Saretta Barnet Revocable Trust v. Ministry of Culture 
+and Sports of the Hellenic Republic, 961 F.3d at 200 (“We first must identify [the] predicate act 
+that serves as the basis for plaintiff's claims.”) (internal quotation marks omitted).  
+    Plaintiffs’ Second Amended Complaint (“SAC”) alleges that Sberbank provided material 
+support and financing to the DPR (SAC ¶ 79), in part by operating correspondent accounts in New 
+York (SAC ¶¶ 58-59), and by allowing transfers to a specific Sberbank bank card (SAC ¶¶ 317, 
+318). The money raised through these transfers then allowed the DPR and its senior leadership to 
+
+procure lethal weapons. SAC ¶¶ 293, 296-305. This conduct constitutes the “gravamen” of the 
+allegations against Sberbank, and the conduct related to the correspondent banks in New York 
+took place in the United States.                                          
+    The FSIA provides that “the commercial character of an activity shall be determined by 
+reference to the nature of the course of conduct or particular transaction or act, rather than by 
+reference to its purpose.” 28 U.S.C. § 1603(d). The Second Circuit has held that “purpose is the 
+reason why the foreign state engages in the activity and nature is the outward form of the conduct 
+that the foreign state performs or agrees to perform. Put another way, the issue is whether the 
+particular actions that the foreign state performs . . . are the type of actions by which a private party 
+engages in trade and traffic or commerce.” Halkbank, 26 F.4th at 349 (other emphases and internal 
+
+quotation marks omitted).                                                 
+    Here, Plaintiffs have alleged that Sberbank and the other defendants provided material 
+support and financing to the DPR. SAC ¶ 79. The DPR used Defendants’ services to raise money 
+and advertised ways to donate money to accounts or bank cards associated with Defendants 
+Sberbank and VTB Bank. SAC ¶¶ 143-150. Media outlets reported that Sberbank facilitated 
+payments to soldiers to assist Russian Separatists in East Ukraine. SAC ¶¶ 167-169. Further, the 
+DPR  published  online  detailed  ledgers  reflecting  the  funds  that  the  DPR  received  using 
+Defendants’ services, and the DPR also detailed how the funds were used to purchase equipment 
+and weaponry “necessary for the DPR’s terrorist activities.” Id. at ¶¶ 179-180. A senior leader of 
+the DPR indicated that transfers could be made to a specific Sberbank bank card or via Western 
+Union and solicited funds through transfers utilizing Sberbank and other defendants. SAC ¶¶ 317, 
+318. Plaintiffs also allege that prior to the attack on MH17, the DPR provided instructions on how 
+to send transfers in U.S. Dollars to Sberbank and VTB Bank’s correspondent accounts in New 
+
+York. Id. at ¶¶ 58-59.                                                    
+    The  use  of  correspondent  accounts  and  authorization  of  money  transfers  is  classic 
+commercial behavior for an international bank and does not qualify as sovereign conduct. A bank 
+that is acting in a commercial manner, as Sberbank is alleged to have done, is not presumptively 
+excused from suit. As the Supreme Court has held, “when a foreign government acts, not as 
+regulator of a market, but in the manner of a private player within it, the foreign sovereign's actions 
+are ‘commercial’ within the meaning of the FSIA.” Republic of Argentina v. Weltover, Inc., 504 
+U.S. 607, 614 (1992). Therefore, the first two clauses of §1605(a)(2) are satisfied, and the defense 
+of sovereign immunity is denied.                                          
+
+
+ F. ALTERNATE GROUNDS OF DISMISSAL UNDER THE ATA                         
+    As stated in the Supreme Court’s decision, Republic of Austria v. Altmann, 541 U.S. 677,
+691 (2004), “courts should decide claims of sovereign immunity in conformity with [FSIA’s] 
+principles.” Because of this, courts have regarded “an assertion of sovereign immunity under the 
+ATA as being functionally equivalent to an assertion of sovereign immunity under the FSIA.” 
+Ungar v. Palestinian Liberation Org., 402 F.3d 274, 283 (1st Cir. 2005) (internal citation omitted); 
+e.g., Sokolow v. Palestine Liberation Org., 583 F.Supp.2d. 451, 457 (S.D.N.Y. 2008) (“The ATA's
+exclusion, of foreign states and governmental actors from its coverage, is consistent with, and to 
+be applied in accordance with, the ordinary sovereign immunity principles codified in the FSIA.”), 
+vacated on different grounds sub nom. Waldman v. Palestinian Liberation Org., 835 F.3d 317 (2d 
+Cir. 2016). Sberbank’s argument to read the ATA’s sovereign immunity provision more broadly 
+than the FSIA are thus counter to the practice of the federal courts. For that reason, Sberbank’s 
+motion to dismiss under the ATA’s sovereign immunity provision is denied. 
+
+                            IV.    CONCLUSION 
+     For the reasons set forth above, Sberbank’s second motion to dismiss is denied. The parties 
+are to continue with discovery and proceedings before Judge Gorenstein’s Chambers. 
+
+SO ORDERED. 
+Dated:       New York, New York 
+
+                                         ANDREW L. CARTER, JR. 
+                                         United States District  Judge 
+
+                                     12
+
+---
+
+LEY  i ME } LG    i}                             ELECTRONICALLY FILED 
+oad          ty Seed   com  Ree  □□  DY  Bas Boal                              bpoc#: 
+1155 AVENUE OF THE AMERICAS, NEW YORK, NY 10036-2711                      DATE FILED;  Nov. 9, 2022 
+
+                                                     Terri L. Mascherin 
+November 8.  2022                                        Tel +1 312 923 2799 
+                                                     TMascherin @jenner.com 
+VIA ECF 
+
+The Honorable Andrew L. Carter Jr. 
+United States District Judge 
+U.S. District Court for the Southern District of New York 
+Thurgood Marshall United States Courthouse 
+40 Foley Square 
+Room 435 
+New York, NY 10007 
+
+Schansman et al. v. Sherbank of Russia PJSC  et al., No. 1:19-cv-02985-ALC-GWG (S.D.N.Y.) 
+— Plaintiffs’ Letter Motion to File Under Seal Plaintiffs’ Opposition to Defendant VTB Bank 
+PJSC’s Renewed Motion for Reconsideration 
+
+Dear Judge Carter: 
+     Pursuant to Federal Rule of Civil Procedure 26(c) and Your Honor’s Individual Practice 
+Rule 6.D, Plaintiffs respectfully move the Court for leave to file under seal the unredacted version 
+of  Plaintiffs’  Opposition  to  Defendant  VTB  Bank  PJSC’s  (*VTB”)  Renewed  Motion  for 
+Reconsideration.  See ECF Nos. 442-44.  In support of this motion, Plaintiffs state as follows: 
+  1.  The above-listed filing contains references to material that a non-party has designated as 
+     confidential pursuant to the Protective Order in this case.  ECF No. 294.  Accordingly, 
+     pursuant to the Protective Order, id., Plaintiffs have provisionally filed the above listed 
+     filing under seal. 
+  2.  Courts in the Second Circuit have recognized that for material produced in discovery, such 
+     as the material that Plaintiffs  seek to file under seal,  “the public interest in access  to 
+     discovery materials is recognized as generally of a limited order.”  Byrnes v. Empire Blue 
+     Cross Blue Shield, No. 98 CIV. 8520 BSJ MHD, 2000 WL 60221, at *1 (S.D.N.Y. Jan. 25, 
+     2000).  A court may keep documents or portions of documents under seal if there is “good 
+     cause for preventing public access to discovery materials.”  Id. 
+  3.  Here, a third-party financial institution that produced records in response to a subpoena 
+     served by Plaintiffs has designated information contained in the filing as confidential, as 
+     the information concerns the bank records of the third party’s customers who transferred 
+     funds  through  VTB’s  New  York  correspondent  bank.   Under  the  Protective  Order, 
+     Plaintiffs are required to file these materials under seal in any court filing.  ECF No. 294 
+     {| 13. This presents a legitimate concern of confidentiality and gives good cause to file 
+     under seal.
+
+1155 AVENUE OF THE AMERICAS, NEW YORK, NY 10036-2711                     JENNER&BLOCK ue 
+      Plaintiffs respectfully request the Court enter an order granting them leave to file the above 
+listed filing under seal.! 
+
+Dated:  November 8, 2022 
+
+                                      Respectfully submitted, 
+
+   request to file the unredacted version of       By:  J/s/ Terri. Mascherin 
+    Opposition to Defendant VTB Bank 
+(“VTB”) Renewed Motion for                     Terri L. Mascherin (admitted pro hac vice) 
+        under seal is GRANTED.                  Jenner & Block LLP 
+                                            353 N. Clark St. 
+    ORDERED:                                Chicago, IL 60654 
+             7           Q)—~         (312) 923-2799 
+    nem                     tmascherin @jenner.com 
+RON AMDSTEW L. GARTER, JA, 
+UNITED STATES DISTRICT JUDGE 
+                                           Lee Wolosky 
+Nov. 9, 2022                                  Jason P. Hipp 
+                                           Jenner & Block LLP 
+                                           1155 Avenue of the Americas 
+                                           New York, NY 10036 
+                                           212-891-1628 
+                                           Iwolosky @jenner.com 
+                                          jhipp @jenner.com 
+                                           Counsel for Plaintiffs 
+
+' On October 19, 2022, this Court granted Plaintiffs’ request to file under seal the same confidential 
+information at issue in this motion, which is subject to the Protective Order in this case.  See ECF 
+No. 457.
+
+---
+
+353 N. CLARK STREET CHICAGO, IL 60654-3456                             JENNER&BLOCK    
+                                    aACel) 
+                     ar   4 “Ail Wo 4a          Terri L. Mascherin 
+October 14,2022      alah  □□□                  Tel +1 312 923 2799 
+                War yded                               TMascherin @jenner.com 
+VIA ECF           me 
+
+The Honorable Andrew L. Carter Jr.                      USDC SDNY 
+United States District Judge                             DOCUMENT 
+U.S. District Court for the Southern District of New York     FLECTRONICALLY FILED 
+Thurgood Marshall United States Courthouse               DOC#: 
+40 Foley Square                                      DATE FILED;  Oct. 19, 2022 
+Room 435 
+New York, NY 10007 
+Schansman et al. v. Sherbank of Russia PJSC  et al., No. 1:19-cv-02985-ALC-GWG (S.D.N.Y.) 
+— Plaintiffs’ Letter Motion to File Under Seal 
+Dear Judge Carter: 
+     Plaintiffs respectfully move the Court for leave to file under seal pursuant to Federal Rule 
+of Civil Procedure 26(c) and Your Honor’s  Individual Practice Rule 6.D the unredacted version of 
+Plaintiffs’ letter response to Defendant VTB Bank PJSC’s (‘VTB”) letter motion for a pre-motion 
+conference  concerning  its  renewed  motion  to  certify  for  interlocutory  appeal  the  Court’s 
+September 30, 2021 order denying Defendants’ motions to dismiss, ECF No. 185.  See ECF No. 
+441.  In support of this motion, Plaintiffs state as follows: 
+  1.  The above-listed filing contains references to material that a non-party has designated as 
+     confidential pursuant to the Protective Order in this case.  ECF No. 294. Accordingly, 
+     under the Protective Order in this Case, id., Plaintiffs have provisionally filed the above 
+     listed filing under seal. 
+  2.  Courts in the Second Circuit have recognized that for material produced in discovery, such 
+     as the material that Plaintiffs  seek to file under seal,  “the public interest in access  to 
+     discovery materials is recognized as generally of a limited order.”  Byrnes v. Empire Blue 
+     Cross Blue Shield, No. 98 CIV. 8520 BSJ MHD, 2000 WL 60221, at *1 (S.D.N.Y. Jan. 25, 
+     2000).  A court may keep documents or portions of documents under seal if there is “good 
+     cause for preventing public access to discovery materials.”  Id. 
+  3.  Here, a third party financial institution that produced records in response to a subpoena 
+     served by Plaintiffs has designated information contained in the filing as confidential, as 
+     the information concerns the bank records of the third-party’s customers who transferred 
+     funds  through  VTB’s  New  York  correspondent  bank.   Under  the  Protective  Order, 
+     Plaintiffs are required to file these materials under seal in any court filing.  ECF No. 294 
+     {| 13. This presents a legitimate concern of confidentiality and gives good cause to file 
+     under seal. 
+
+CHICAGO LONDON LOS ANGELES NEW YORK SAN FRANCISCO WASHINGTON, DC            Ww W.JENNER.COM 
+
+      Plaintiffs respectfully request the Court enter an order granting it leave to file the above 
+listed filing under seal. 
+
+                                          Respectfully submitted, 
+
+                                          /s/ Terri L. Mascherin 
+                                          Terri L. Mascherin (admitted pro hac vice) 
+                                          Lee Wolosky 
+                                          Jason P. Hipp 
+                                          JENNER & BLOCK LLP 
+                                          Counsel for Plaintiffs 
+
+                                          cc: Counsel of Record (via ECF) 
+
+Plaintiffs’ request to seal the unredacted version of 
+ECF No. 451 is GRANTED. The Court will 
+consider Defendant VTB's request for interlocutory 
+appeal and Plaintiffs' Response in due course. 
+
+         ANDREW □□ GARTER, JR. 
+     UMITED STATES DISTRICT JUDGE
+     Dated: Oct. 19, 2022
+
+---
+
+UNITED STATES DISTRICT COURT                                             
+SOUTHERN DISTRICT OF NEW YORK                                            
+ ------------------------------------------------------------x           
+ Thomas Schansman, et al.,                                               
+                          Plaintiffs,                                    
+
+               -against-           :     1:19-CV-02985 (ALC) (GWG)       
+                                   :                                     
+ Sberbank of Russia PJSC et al.,   :             ORDER                   
+                          Defendants :                                   
+  ---------------------------------------------------------- . :         
+                                  - :x                                   
+
+ANDREW L. CARTER, JR., United States District Judge:                      
+    Defendant Sberbank of Russia submitted a motion for reconsideration (ECF No. 220) and 
+a pre-motion letter for certification of interlocutory appeal (ECF No. 222) of the Court’s Sept. 30, 
+2021, Memorandum and Opinion (The “Sept. 2021 Decision” at ECF 185). Those motions are 
+DENIED.                                                                   
+
+                         BACKGROUND                                      
+    I assume the parties’ familiarity with the facts, which are set forth more fully in the 
+Memorandum and Order denying Defendants’ previous motion to dismiss. ECF No. 185. In short, 
+according  to  the  original  complaint  and  Second  Amended  Complaint  (“SAC”),  Defendants 
+Sberbank and VTB Bank provided material support and financing to the Donetsk People’s 
+Republic, a terrorist group accused of downing a Malaysia Airlines flight over Eastern Ukraine in 
+2014.                                                                     
+                          DISCUSSION                                     
+MOTION FOR RECONSIDERATION                                                
+    Under the Federal Rules of Civil Procedure, a party can seek relief from a final judgment 
+for any of the following reasons: (1) mistake, inadvertence, surprise, or excusable neglect; (2) 
+newly discovered evidence that, with reasonable diligence, could not have been discovered in time 
+to move for a new trial under Rule 59(b); (3) fraud (whether previously called intrinsic or 
+extrinsic), misrepresentation, or misconduct by an opposing party; (4) the judgment is void; (5) 
+the judgment has been satisfied, released, or discharged; it is based on an earlier judgment that has 
+
+been reversed or vacated; or applying it prospectively is no longer equitable; or (6) any other reason 
+that justifies relief. See Fed. R. Civ. P. 60(b).                         
+    The Second Circuit has held that Rule 60(b) is “a mechanism for ‘extraordinary judicial 
+relief’ invoked only if the moving party demonstrates ‘exceptional circumstances.’” Ren Yuan 
+Deng v. New York State Off. of Mental Health, 783 F.App’x. 72, 73 (2d Cir. 2019). Rule 60(b) 
+motions “should be broadly construed to do ‘substantial justice,’ yet final judgments should not 
+‘be lightly reopened.’” Nemaizer v. Baker, 793 F.2d 58, 61 (2d Cir. 1986) (internal citation 
+omitted). A motion for reconsideration “should not be granted where the moving party seeks solely 
+to relitigate an issue already decided.” Shrader v. CSX Transp., Inc., 70 F.3d 255, 257 (2d Cir. 
+1995.)                                                                    
+
+    Here, Sberbank has asked that the Court reconsider the Sept. 30, 2021 Decision, but has 
+not shown sufficient material facts or law that would warrant overturning our prior ruling. The 
+Court carefully considered the parties arguments on personal jurisdiction, potential liability under 
+the ATA, and other relevant legal concepts. The Court weighed those arguments against the facts 
+alleged in the operative complaint and found that it “contain[ed] sufficient factual matter, accepted 
+as true, to ‘state a claim to relief that is plausible on its face.’” Ashcroft v. Iqbal, 556 U.S. 662, 678 
+(2009) (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570 (2007)). As this Court has held 
+before,  “[R]econsideration  of  a  previous  order  is  an  extraordinary  remedy  to  be  employed 
+sparingly in the interests of finality and conservation of scarce judicial resources.” Canfield v. 
+SS&C Techs. Holdings, Inc., 2021 WL 1026128, at *1 (S.D.N.Y. Mar. 17, 2021). 
+    Therefore, Sberbank’s motion for reconsideration is denied.          
+
+
+INTERLOCUTORY APPEAL                                                      
+    Having denied the motion for reconsideration, we will now turn to whether to certify an 
+order for interlocutory review of the Sept. 30, 2021 Decision by the Second Circuit. Sberbank’s 
+letter requests an interlocutory appeal of “(1) the causation standard applied by the Opinion [. . .]; 
+(2) the Opinion’s finding of adequate pleading of knowledge and intent to engage in “international 
+terrorism” [. . .]; and (3) the assertion of personal jurisdiction based on the SAC’s allegations [. . 
+.].”                                                                      
+    A district court has authority to certify an order for interlocutory appeal when “such order 
+involves a controlling question of law as to which there is substantial ground for difference of 
+opinion and that an immediate appeal from the order may materially advance the ultimate 
+
+termination of the litigation.” 28 U.S.C. § 1292(b). Given the general policy of deferring appellate 
+review until after the entry of a final judgment, interlocutory review is granted only in “exceptional 
+circumstances.” In re Flor, 79 F.3d 281, 284 (2d Cir. 1996) (citation and quotation marks omitted). 
+Movants cannot invoke the appellate process as a vehicle to provide early review of difficult 
+rulings in hard cases. Only ‘exceptional circumstances’ will justify a departure from the basic 
+policy of avoiding appellate review until a final decision on the merits. In re Ambac Fin. Group, 
+Inc. Sec. Litig., 693 F.Supp.2d 241, 282 (S.D.N.Y. 2010) (internal quotations and citations 
+omitted).                                                                 
+      As we noted above in relation to Sberbank’s motion for reconsideration, the Court carefully 
+weighed the parties’  arguments for causation, potential liability under the ATA, and personal 
+jurisdiction. Once again, we find that Sberbank has not shown the ‘exceptional circumstances’ to 
+change the Court’s prior ruling, or to move to the appellate process without further proceedings at 
+the district court. Here, the mixed questions of law and fact concerning Sberbank’s conduct, its 
+connection with New York’s financial system, and the subject of its knowledge and intent are not 
+suitable for appellate review without a full record. See In re Worldcom, Inc., No. M—47 HB, 2003 
+WL 21498904, at *10 (S.D.N.Y. June 30, 2003) (§1292(b) appeal requires “a ‘pure’ question of 
+law that the reviewing  court  ‘could  decide  quickly  and  cleanly without having to  study the 
+record’”) Jd. at 285. 
+
+                                   CONCLUSION 
+      For the reasons set forth above,  Sberbank’s motion for reconsideration and motion for 
+interlocutory appeal are DENIED. The Clerk of Court is respectfully directed to terminate ECF 
+No. 220. 
+
+SO ORDERED. 
+Dated:       New York, New York    [rade 
+            September 30, 2022                          #7 (ks 
+                                     ANDREWL. CARTER, JR. 
+                                          United States District  Judge
+
+---
+
+USDC SDNY 
+                                                 DOCUMENT 
+                                                 ELECTRONICALLY FILED 
+UNITED STATES DISTRICT COURT                  DOCH: 
+FOR THE SOUTHERN DISTRICT OF NEW YORK       DATE FILED:      4/5/2022 
+
+THOMAS SCHANSMAN, et al. 
+                  Plaintiffs, 
+            -against- 
+ SBERBANK OF RUSSIA PJSC, et al.               No. 1:19-cv-02985-ALC-GWG 
+                  Defendants. 
+
+PLAINTIFFS’ REQUEST FOR AN ORDER COMPELLING SBERBANK OF RUSSIA’S 
+        COMPLIANCE WITH THE COURT’S MARCH 9, 2022 ORDER AND 
+         ADJUSTING THE JURISDICTIONAL DISCOVERY SCHEDULE 
+               PENDING SBERBANK OF RUSSIA’S COMPLIANCE 
+      Sberbank  of Russia has  failed to  comply with Court-ordered jurisdictional  discovery, 
+producing no non-public communications, no communications from its officers, and undertaking 
+no efforts to search for such communications, notwithstanding the Court’s March 9, 2022 Order 
+requiring it to do so.  ECF No. 298.  Plaintiffs thus request an order requiring Sberbank of Russia 
+to  comply with the  Court’s  March  9,  2022  Order and  adjusting the remaining  schedule  for 
+Jurisdictional  discovery pending  Sberbank  of Russia’s  compliance.  Because the  outstanding 
+documents are relevant to the deposition of Sberbank of Russia’s expert witness, Plaintiffs request 
+relief in advance of Court-ordered expert depositions the week of April 4, 2022. 
+   1.     Background 
+      On February  18, 2022, Plaintiffs filed a proposed plan for jurisdictional discovery that 
+sought documents concerning three issues, including “[t]he degree of independence the Central 
+Bank of the Russian Federation . .  . enjoys vis-a-vis the Russian Federation and the Federation’s 
+agencies of state power.” ECF No. 29] at 1 (designated as “Issue ’”’). Plaintiffs sought two specific 
+categories of documents relevant to the instant submission: 
+   A.  “Communications and statements from Sberbank officers about (1) the Central Bank’s 
+      independence  from  the  Russian  Federation,  or  (2)  the  governmental  or  commercial 
+      functions  of the  Central Bank,  including  in the  context of the April 2020 transfer of 
+      Sberbank shares from the Central Bank to the Ministry of Finance.”; and 
+   C.  “Documents sufficient to  show the independence (or lack thereof)  of the members  of 
+      Sberbank’s Supervisory Board from 2019 to present who are officers or personnel of the 
+      Central Bank or the Russian Federation, including the  ‘agreement on representation of 
+      interests of the Government of the Russian Federation’ referred to in Federal Law No. 50- 
+      FZ of March 18, 2020, which governs the Ministry of Finance’s acquisition of Sberbank 
+      shares from the Central Bank.” 
+Id. at 1-2 (Plaintiffs’ proposed jurisdictional discovery plan).
+
+ Sberbank of Russia opposed Plaintiffs’ request for these documents.  ECF No. 292 (Feb. 23, 
+2022 opposition to Plaintiffs’ proposed jurisdictional discovery plan).  With respect to Request 
+I.A, Sberbank of Russia objected because it would require the production of “Sberbank’s internal 
+and external ‘communications and statements,’” including “the production of communications of 
+senior Russian executives and officials.”  Id. at 9.1  Sberbank of Russia also explicitly argued that 
+such discovery should not be required because “Russian law and publicly available documents 
+address these topics directly and authoritatively.”  Id.  With respect to Request I.C, Sberbank of 
+Russia offered voluminous objections on relevance grounds but did not object on the basis that the 
+agreement was unobtainable through Sberbank of Russia.  ECF No. 292 at 10-11. 
+ Notwithstanding Sberbank of Russia’s arguments, the Court ordered Sberbank of Russia to 
+produce documents responsive to Issue I.  ECF No. 298 (Mar. 9, 2022 Scheduling Order).  The 
+Court denied Plaintiffs’ request for discovery as to Issues II and III, observing that jurisdictional 
+discovery should be “limited to the specific facts relevant to making an immunity determination 
+under the Foreign Sovereign Immunities Act.”  Id.                         
+ On March 16, 2022, Sberbank of Russia produced documents to Plaintiffs, but the production 
+did not comply with the Court’s order.  Its production was limited to publicly available documents. 
+With respect to Request I.A, Sberbank of Russia did not produce any “Communications . . . from 
+Sberbank officers”; it made no effort to search for documents maintained by any of its officers; it 
+did not search for internal or other non-public communications, such as emails; and it did not 
+produce any documents that would shed light on communications from Sberbank of Russia officers 
+about the key issue of the Central Bank’s independence.  See Exhibit A (correspondence with 
+counsel for Sberbank of Russia about its document production).  With respect to Request I.C, 
+Sberbank of Russia did not produce the required agreement and asserted for the first time that 
+Plaintiffs should instead request the agreement from the Ministry of Finance of the Russian 
+Federation (a non-party government agency), even though certain Sberbank officers are party to 
+the agreement that the Court ordered Sberbank of Russia to produce.  Id. at 1.   
+ II.  Argument                                                           
+    Sberbank of Russia failed to comply with the Court’s March 9, 2022 Order.  Simply put, 
+Sberbank of Russia made no efforts to search for or produce documents it was required to produce.  
+Sberbank of Russia’s objections to Plaintiffs’ document requests make clear that it understood the 
+scope of Plaintiffs’ requests, ECF No. 292 at 9-11, but it did not search for or produce documents 
+in conformance with its understanding and the Court’s subsequent Order, ECF No. 298. 
+    Any attempt by Sberbank of Russia to relitigate the scope of the Court’s narrowly tailored 
+jurisdictional  discovery  order  should  be  rejected.    Plaintiffs  sought  communications  from 
+Sberbank of Russia officers  after discovering public statements by officials  of the Russian 
+Federation, the Central Bank of Russia, and Sberbank’s Chief Executive Officer that appeared to 
+contradict  Sberbank  of  Russia’s  representations  to  this  Court  about  the  Central  Bank’s 
+independence, a key aspect of Sberbank’s immunity claim.  ECF No. 270 at 7-8; ECF No. 283 at 
+7-8.    Sberbank  of  Russia  disagreed  with  Plaintiffs’  characterization  of  these  statements, 
+minimizing the probative value of the statement by its own Chief Executive Officer because it was 
+
+1 Sberbank of Russia’s understanding in its opposition brief was consistent with the applicable 
+uniform discovery rule, which defines a “communication” as any “transmittal of information (in 
+the form of facts, ideas, inquiries or otherwise).”  S.D.N.Y. Civ. R. 26.3(c)(1). 
+merely a “symbolic statement in a Sberbank press release” with “no legal or formal content.”  ECF 
+No. 289 at 9-10 (Feb. 14, 2022 Sberbank of Russia reply brief).  These developments demonstrate 
+a disputed issue of fact concerning the status of the Central Bank of Russia, and thus “specific 
+facts relevant to making an immunity determination under the [FSIA].”  ECF No. 298.  In 
+analogous circumstances, the Second Circuit has approved jurisdictional discovery for purposes 
+of determining a defendant’s entitlement to immunity under the FSIA, including because the 
+plaintiffs  “provided  adequate  contrary  evidence”  in  the  form  of  “admissions  attributed  to 
+defendants’ own agents.”  Funk v. Belneftekhim, 861 F.3d 354, 367 (2d Cir. 2017) (evidence of 
+contrary statements from defendants’ executives warranted further jurisdictional discovery).2 
+    Because  of  the  imminent  requirement  for  Plaintiffs  to  complete  their  deposition  of 
+Sberbank of Russia’s expert witness and promptly thereafter submit their opposition brief to 
+Sberbank’s second motion to dismiss, Plaintiffs unfortunately must ask the Court to adjust the 
+jurisdictional discovery schedule to account for Sberbank of Russia’s noncompliance.  The 
+appropriate remedy is an order requiring Sberbank of Russia to comply with the Court’s March 9, 
+2022 Order, ECF No. 298, and to adjust the remaining schedule for jurisdictional discovery and 
+briefing on Sberbank’s second motion to dismiss pending Sberbank of Russia’s compliance with 
+its jurisdictional discovery obligations.3  Plaintiffs request an order specifying that, upon Sberbank 
+of Russia’s compliance, the period for expert depositions is to begin eight days, and conclude 
+twenty-two (22) days, after Sberbank of Russia completes its document production (a period of 
+time equivalent to the time allowed in the existing schedule).  This adjustment will ensure that 
+Plaintiffs need only depose Sberbank of Russia’s expert once, with the benefit of the documents 
+the Court has already ordered Sberbank of Russia to produce.              
+ III.  Conclusion                                                        
+    For the foregoing reasons, Plaintiffs request an order compelling Sberbank of Russia to 
+comply with the Court’s March 9, 2022 order, ECF No. 298, with respect to Requests I.A and I.C, 
+and to adjust the jurisdictional discovery schedule pending Sberbank of Russia’s compliance. 
+
+
+2 Written communications of a defendant’s officers are an appropriate subject of jurisdictional 
+discovery for an immunity determination under the FSIA.  See, e.g., McKesson Corp. v. Islamic 
+Republic of Iran, 138 F.R.D. 1, 4, 5 (D.D.C. 1991) (approving jurisdictional discovery into 
+“written communications” of the defendant’s officials for purposes of FSIA determination); Kelly 
+v. Syria Shell Petrol. Dev. B.V., 213 F.3d 841, 855 (5th Cir. 2000) (noting that magistrate judge 
+authorized jurisdictional discovery into defendant’s communications for purposes of FSIA and 
+personal jurisdiction); cf. Intelsat Glob. Sales & Mktg., Ltd. v. Cmty. of Yugoslav Posts Telegraphs 
+& Telephones, 534 F. Supp. 2d 32, 33 (D.D.C. 2008) (ordering FSIA jurisdictional discovery 
+where  communications  of  defendant’s  senior  officer  “provide[d]  circumstantial  evidence  of 
+[defendant’s] governmental status at the time of the filing of the complaint”). 
+3 The Court may order penalties for Sberbank of Russia’s noncompliance far more significant than 
+Plaintiffs request here.  For example, the Second Circuit approved monetary penalties and an 
+evidentiary presumption in plaintiff’s favor after a defendant asserting immunity under the FSIA 
+failed to produce jurisdictional discovery necessary to resolve the defendant’s purported status as 
+an agency or instrumentality.  Funk v. Belneftekhim, 739 F. App’x 674, 679 (2d Cir. 2018); see 
+also Funk v. Belneftekhim, 861 F.3d 354, 368, 371 (2d Cir. 2017).         
+                                      Respectfully submitted, 
+Dated: March 25, 2022 
+
+                                      /s/_  David Pressman 
+                                      David Pressman 
+                                      Jason P. Hipp 
+                                      Jenner & Block LLP 
+                                       1155 Avenue of the Americas 
+                                      New York, NY 10036 
+                                      (212) 891-1654 
+                                      dpressman@jenner.com 
+                                      jhipp@jenner.com 
+                                      Terri L. Mascherin (admitted pro hac vice) 
+                                      Jenner & Block LLP 
+                                      353. N. Clark St. 
+                                      Chicago, IL 60654 
+                                      (312) 923-2799 
+                                      tmascherin@jenner.com 
+                                       Counsel for Plaintiffs 
+
+   Sberbank and Plaintiffs are ORDERED to meet and confer regarding the 
+  discovery dispute(s) and file a joint status report, not to exceed three 
+  pages, indicating whether they have resolved the dispute(s) privately and, 
+  if needed, highlighting any remaining issues in dispute after they meet 
+  and confer, no later than April 11, 2022. The Court will extend the 
+  Jurisdictional discovery schedule by seven (7) days to allow the parties to 
+  attempt to resolve this dispute without further assistance from the Court. 
+
+                  HONANDREWT. GARTER, JA. 
+                  UMITED STATES DISTRICT JUDE     ! 
+                     Dated: 4/5/2022
+
+---
+
+DOCUMENT 
+                                                       ELECTRONICALLY FILED 
+                                                       DOC#: 
+UNITED STATES DISTRICT COURT                                            □ 
+                                                         ATE FILED:        ber 30,  2¢ 
+SOUTHERN DISTRICT OF NEW YORK                     ue           Septem 
+THOMAS SCHANSMAN, individually, as 
+surviving Parent of QUINN LUCAS 
+SCHANSMAN, and as legal guardian on 
+behalf of X.S., a minor, and 
+CATHARINA TEUNISSEN, individually, and 
+as surviving Parent and personal 
+representative of the ESTATE OF QUINN 
+LUCAS SCHANSMAN, and 
+NERISSA SCHANSMAN, individually, and 
+as 
+surviving Sibling of QUINN LUCAS 
+SCHANSMAN,                                   19 CV 2985 (ALC) 
+                       Plaintiffs,                MEMORANDUM AND ORDER 
+                -against- 
+
+SBERBANK OF RUSSIA PJSC, THE 
+WESTERN UNION COMPANY, WESTERN 
+UNION FINANCIAL SERVICES, INC., 
+MONEYGRAM INTERNATIONAL, INC., 
+MONEYGRAM PAYMENT SYSTEMS, 
+INC., and VTB BANK PJSC, 
+                       Defendants 
+
+ANDREW L. CARTER, JR., District  Judge: 
+     Plaintiffs bring this action under the Antiterrorism Act,  18 U.S.C.  §  2331  et seg.  (the 
+“ATA”) on behalf of Quinn Lucas Schansman. Pending before the Court is Defendants’ motions 
+to dismiss Plaintiffs’ Second Amended Complaint. (ECF Nos.  160, 165, 168.) For the following 
+reasons, Defendants’ motions to dismiss are denied.
+
+                         BACKGROUND                                      
+    According to the second amended complaint, which the Court assumes to be true for 
+purposes of Defendants’ Rule 12(b)(6) motions, this action arises from the downing of a Malaysia 
+Airlines Flight 17 (MH17) on July 17, 2014 by a terrorist group known as the Donetsk People’s 
+Republic (“DPR”).1 298 passengers were killed when the DPR fired a missile at the civilian 
+passenger plane traveling from Amsterdam to Kuala Lumpur, including Quinn Lucas Schansman, 
+whose family, the Plaintiffs in this action, bring this lawsuit on his behalf. Second Am. Compl. ¶¶ 
+1-2, 73-75. The Defendants in this action are Russian State-owned Banks, Sberbank and VTB 
+Bank. Additionally, The Western Union Company and MoneyGram International, Inc. are United 
+States based company Defendants. Id. at ¶¶ 33, 40, 63-64.                 
+
+    The DPR is a terrorist group based on an ideology of Russian supremacy by creating a 
+proto-state, Novorossiya, through the control of territory in Ukraine. Second Am. Compl. ¶ 88. 
+Additionally, the DPR have carried out violent acts intended to affect government policy and 
+intimidate civilians around the world. Id. at ¶¶ 98, 102.                 
+     The basic tenet of Plaintiffs’ claims is that Defendants provided material support and 
+financing to the DPR. Second Am. Compl. ¶ 79. In providing this material support, Plaintiffs allege 
+that Defendants were aware of the DPR’s terrorist activities, as the DPR has openly, publicly, and 
+repeatedly carried out terrorist attacks on civilians, and these attacks were widely reported and 
+discussed by nearly every government across the world, media, and human rights organizations. 
+
+Second Am. Compl. ¶ 104. Plaintiffs’ cite articles from the New York Times, the Washington 
+Post, The Independent, The Telegraph, and the Al-Jazeera America detailing the DPR, including 
+attacks, their tactics, and profiling the DPR’s leadership. Id. at ¶¶ 104-106, 108, 110, 112.  
+
+
+1 The DPR’s leader, Igor Ivanovich Stelkov, took credit for the attack on the plane. Am. Compl. ¶ 77.  
+    In the months leading to the attack on MH17, Defendants had extensive operations in 
+Ukraine, maintaining locations and providing global money transfer services. Second Am. Compl. 
+¶¶ 139-143. The DPR used Defendants’ services to raise money and advertised ways to donate 
+money to accounts or bank cards associated with Defendants Sberbank and VTB Bank. Id. at ¶¶ 
+
+143-150. Additionally, the DPR detailed ways to donate using the money transfer services of 
+MoneyGram and Western Union. Id. The DPR utilized a small group of fundraisers, and the DPR 
+detailed how the receipt of funds were confirmed by their leader, Igor Strelkov. Id. at ¶¶ 154-155. 
+As to the use of the funds, the DPR relied on Defendants’ services to access funds that were 
+essential for its procurement of weapons and ammunition and to acquire control of the territory 
+from which the DPR launched the missile that brought down MH17. Id. at ¶ 159.  
+    Plaintiffs further allege that Defendants were aware that they were providing material 
+support and financing to the DPR. Plaintiffs cite news outlets, Forbes, the New York Times, 
+Reuters and the Kyiv Post as reporting the DPR’s funding scheme. Second Am. Compl. ¶¶ 162-
+167. For instance, Forbes discussed Defendant Sberbank facilitating payments to Ukrainian 
+
+soldiers to assist Russian Separatists in East Ukraine; a Reuters article titled “Ukraine says 
+investigating Russia’s Sberbank for financing terrorists;” and an April article by Kyiv post detailed 
+the DPR’s call for funds as well as references to Sberbank and VTB Bank’s knowledge of the 
+investigation initiated by Ukrainian authorities prior to the downing of MH17. Id.at ¶¶ 167-169.  
+    DPR fundraisers advertised and provided an explanation on how to wire U.S. dollars from 
+abroad into Russian bank accounts like Sberbank and VTB Bank. Second Am. Compl. ¶ 177. 
+These fundraisers also listed account holder and email address information for money transfers 
+through Western Union and MoneyGram. Id. at ¶ 178. As to the funds received, the DPR published 
+online detailed ledgers reflecting the funds that the DPR received using Defendants’ services, and 
+the DPR also detailed how the funds were used to purchase equipment and weaponry “necessary 
+for the DPR’s terrorist activities.” Id. at ¶¶ 179-180.                   
+    Plaintiffs detail several fundraisers, including Save Donbass, the Center for New Russia, 
+Veche, Rospisatel, World Crisis, Icorpus, Sevastopol, Essence of Time, and People’s Militia of 
+
+New Russia, that were used to solicit funds to provide lethal support directly to the DPR, 
+specifically Igor Strelkov and Paul Gubarev (the self-declared people’s governor of the DPR). 
+Additionally, the fundraisers provided reports of transfers and withdrawals from its accounts with 
+Defendants Sberbank and VTB Bank and money transferred through Defendant Western Union. 
+Additionally, many of the fundraisers advertised that transfers could be made through Defendants 
+Western Union and Moneygram. Second Am. Compl.  ¶¶ 105, 194-209, 210-292.  
+    Additionally, Plaintiffs detail Defendants’ support through Alexander Zhuchkovsky, who 
+publicly boasted about raising millions of rubles for the DPR and then provided lethal weapons to 
+Igor Strelkov. Second Am. Compl.  ¶¶ 293, 296-305. Additionally, Zhuchkovsky indicated that 
+transfers could be made to a specific Sberbank bank card or via Western Union, and Zhuchkovsky 
+
+solicited funds through transfers utilizing VTB Bank, Sberbank, Moneygram, and Western Union. 
+Id. at ¶¶ 317, 318. Zhuchkovsky’s website indicates that he has raised approximately 89 Rubles, 
+or $2.5 million U.S. dollars for the DPR during the first six months of 2014, prior to the attach on 
+MH17. Id. at ¶¶ 321-326.                                                  
+    Through  the  material  support  and  financing  to  the  DPR  using  Defendants’  services 
+Plaintiffs allege that Defendants have knowingly provided this material support and financing to 
+the  DPR,  and  Defendants’  knowledge  or  deliberate  indifference  in  providing  this  support 
+constituted acts of international terrorism. Id. at ¶¶ 342-391.           
+                        PROCEDURAL HISTORY                               
+    Plaintiffs commenced this action on April 4, 2019. (ECF No. 1.) Plaintiffs filed a First 
+Amended Complaint on October 8, 2019, and a Second Amended Complaint on October 5, 2020. 
+(ECF Nos. 104, 156.) Defendants moved to dismiss the second amended complaint on November 
+2, 2020. (ECF Nos. 160, 165, 168.) Plaintiffs opposed the motion on November 30, 2020, and 
+
+Defendants replied on December 14, 2020. (ECF Nos. 172, 173, 174, 175, 176.) The Court 
+considers the motions fully briefed.                                      
+                             DISCUSSION                                  
+    I.   Standard of Review                                              
+    When deciding a motion to dismiss for lack of personal jurisdiction, courts may rely on 
+pleadings and affidavits, in which case “the plaintiff need only make a prima facie showing that 
+the court possesses personal jurisdiction over the defendant.” DiStefano v. Carozzi North America, 
+Inc., 286 F.3d 81, 84 (2d Cir. 2001) (internal quotation marks omitted). When deciding whether 
+Plaintiffs have made such a showing, the Court must “construe the pleadings and affidavits in the 
+light most favorable to [Plaintiffs], resolving all doubts in [their] favor.” Id. 
+
+    “This prima facie showing must include an averment of facts that, if credited by the 
+ultimate trier of fact, would suffice to establish jurisdiction over the defendant.” Licci ex rel. Licci 
+v. Lebanese Canadian Bank, SAL, 673 F.3d 50, 59 (2d Cir. 2012) (“Licci I”) (internal quotation 
+marks and alterations omitted). When parties do not submit “an affidavit or other evidence on 
+which the court could rely . . . the court must rely on the allegations in the complaint to determine 
+if personal jurisdiction exists.” MacFarlane v. Brock, No. 3:00 CV 97, 2000 WL 1827353, at *2 
+(D. Conn. Nov. 30, 2000). Here, the parties have not submitted affidavits on the issue of personal 
+jurisdiction, but they have submitted declarations and exhibits.          
+    To survive a motion to dismiss pursuant to Rule 12(b)(6), “a complaint must contain 
+sufficient factual matter, accepted as true, to ‘state a claim to relief that is plausible on its face.’”  
+Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 
+570 (2007)).  A claim is facially plausible “when the plaintiff pleads factual content that allows 
+
+the Court to draw the reasonable inference that the defendant is liable for the misconduct alleged.”  
+Id. (citing Twombly, 550 U.S. at 556).  The plaintiff must allege sufficient facts to show “more 
+than a sheer possibility that a defendant has acted unlawfully,” and accordingly, where the plaintiff 
+alleges facts that are “‘merely consistent with’ a defendant’s liability, it ‘stops short of the line 
+between possibility and plausibility of entitlement to relief.’”  Id. (quoting Twombly, 550 U.S. at 
+557).                                                                     
+    In considering a motion to dismiss, the court accepts as true all factual allegations in the 
+complaint and draws all reasonable inferences in the plaintiff’s favor.  See Goldstein v. Pataki, 516 
+F.3d 50, 56 (2d Cir. 2008).  However, the court need not credit “[t]hreadbare recitals of the 
+elements of a cause of action, supported by mere conclusory statements.”  Iqbal, 556 U.S. at 678 
+
+(citing Twombly, 550 U.S. at 555); see also id. at 681.  Instead, the complaint must provide factual 
+allegations sufficient “to give the defendant fair notice of what the claim is and the grounds upon 
+which it rests.”  Port Dock & Stone Corp. v. Oldcastle Northeast, Inc., 507 F.3d 117, 121 (2d Cir. 
+2007) (citing Twombly, 550 U.S. at 555).  In addition to the factual allegations in the complaint, 
+the court also may consider “the documents attached to the complaint as exhibits, and any 
+documents incorporated in the complaint by reference.”  Peter F. Gaito Architecture, LLC v. 
+Simone Dev. Corp., 602 F.3d 57, 64 (2d Cir. 2010) (citation and internal quotation marks omitted). 
+    i.   Personal Jurisdiction                                           
+    VTB Bank and Sberbank argue that the Second Amended Complaint fails to establish 
+personal jurisdiction as the conduct took place in Ukraine, and Plaintiffs have failed to establish 
+that the two banks transacted business within New York. See VTB Bank’s Mem. of Law at 18; 
+
+Sberbank’s Mem. of Law at 7-15. The Court disagrees.                      
+    In determining personal jurisdiction, the Court must first “look to the law of the forum state 
+to determine whether personal jurisdiction will lie” and, if “jurisdiction lies, [courts] consider 
+whether the district court’s exercise of personal jurisdiction over a foreign defendant comports 
+with due process protections established under the United States Constitution.” Licci ex rel. Licci 
+v. Lebanese Canadian Bank, SAL, 732 F.3d 161, 168 (2d Cir. 2013) (Licci II). New York’s long-
+arm statute provides that a court “may exercise personal jurisdiction over any non-domiciliary . . . 
+who in person or through an agent . . . transacts any business within the state or contracts anywhere 
+to supply goods or services in the state.” N.Y. C.P.L.R. 302(a)(1).       
+    A single transaction may be sufficient to satisfy this requirement, provided the relevant 
+
+claims arise from that transaction. Bank Brussels Lambert v. Fiddler Gonzalez & Rodriguez, 171 
+F.3d 779, 787 (2d Cir. 1999). To exercise specific jurisdiction over a defendant consistent with the 
+defendant’s due process rights, “the defendant’s suit-related conduct must create a substantial 
+connection with the forum State.” Waldman v. Palestine Liberation Organization, 835 F.3d 317, 
+335 (2d Cir. 2016). However, “[t]here is no requirement under [New York’s long-arm statute] that 
+a plaintiff’s claim must arise exclusively from New York conduct.” Strauss v. Crédit Lyonnais, 
+S.A., 175 F.Supp.3d 3, 25 (E.D.N.Y. 2016) (Strauss II).                   
+    The Second Circuit has held that “the selection and repeated use of New York’s banking 
+system, as an instrument for accomplishing the alleged wrongs” under the ATA is sufficient for a 
+bank to be subject to the specific jurisdiction of a district court in New York. Licci II, 732 F.3d at 
+171. In Licci II, specific jurisdiction was proper when a bank “deliberately chose to process . . . 
+wire transfers . . . in New York” when “[i]n light of the widespread acceptance and availability of 
+U.S. currency, [the bank] could have . . . processed U.S.-dollar-denominated wire transfers . . . 
+
+through correspondent accounts anywhere in the world.” Id.                
+    Further, to establish personal jurisdiction, ATA claims “do not necessarily [have to] 
+correspond one-to-one with particular transfers, but instead [may] rest upon the millions of dollars 
+[d]efendant allegedly transferred to [terrorist] front organizations in close temporal proximity to 
+the . . . attacks in which Plaintiffs were injured.” Strauss II, 175 F.Supp.3d at 24; see also Weiss v. 
+National Westminster Bank PLC, 176 F. Supp. 3d 264, 280 (E.D.N.Y. 2016) (finding personal 
+jurisdiction over a bank proper when transfers routed through a bank “overlapped with the attacks 
+. . . that caused Plaintiffs’ injuries, but also occurred at a time when Defendant allegedly knew that 
+funds it transferred . . . were being used to support a terrorist organization”). 
+    When transfers made through New York are “part of that allegedly unlawful conduct, the 
+
+Court may exercise jurisdiction with respect to claims made in connection with all [relevant] 
+attacks.” Strauss II at 24. “A foreign bank’s repeated use of a correspondent account in New York 
+on behalf of a client – in effect, a course of dealing – shows purposeful availment of New York’s 
+dependable and transparent banking system, the dollar as a stable and fungible currency, and the 
+predictable jurisdictional and commercial law of New York and the United States.” Id. at 19 
+(internal quotation marks and alterations omitted).                       
+    Here, the Court relies on the allegations in the complaint to determine whether it has 
+personal jurisdiction over the Defendant banks. The allegations in the Second Amended Complaint 
+are sufficient for Plaintiffs to make a prima facie case that the Court has personal jurisdiction over 
+VTB Bank and Sberbank as the banks chose to operate correspondent accounts in New York and 
+are alleged to have made transfers using New York’s banking system when the Defendant banks 
+could have processed transfers anywhere in the world. According to the Second Amended 
+Complaint, VTB Bank and Sberbank routed U.S. Dollar dominated transactions to or on behalf of 
+
+the DPR. Second Am. Complaint ¶¶ 27, 56, 177-332. Additionally, Plaintiffs allege that prior to 
+the attack on MH17, the DPR provided instructions on how to send transfers in U.S. Dollars to 
+Sberbank and VTB Bank’s correspondent accounts in New York. Id. at ¶ 58. Likewise, fundraisers 
+for the DPR advertised VTB Bank’s and Sberbank’s correspondent accounts in New York, as well 
+their account numbers, to process U.S. Dollar transactions, and the New York Times reported that 
+U.S. Dollars had passed from an unnamed international bank to the Veche fundraiser. Id. at ¶¶ 
+173, 178, 216, 220. The DPR’s Sevastopol fundraiser explained that the only way to transfer U.S. 
+Dollars was to use Sberbank’s correspondent account in New York. Id.at ¶ 283. 
+    Taking this conduct into consideration, the Court finds that Plaintiffs have made a prima 
+facie showing that jurisdiction exists and that Defendants VTB Bank and Sberbank provided 
+
+financial services to the DPR using New York’s banking system. Defendants’ arguments that 
+Plaintiffs  have  not  provided  factual  support  that  they  knew  they  were  supporting  terrorist 
+organizations and that the organizations that were provided funds are not listed as Foreign Terrorist 
+Organizations are unavailing in light Plaintiffs’ allegations that VTB Bank and Sberbank were 
+aware of Ukrainian investigations as early as April 2014, three months before the attack, into their 
+support of Ukrainian separatists associated with the DPR. See Second Am. Compl. ¶¶ 163-170. 
+Additionally, Defendants’ support of the DPR through fundraisers or other intermediaries does not 
+foreclose a finding of personal jurisdiction over Defendants as Plaintiffs allege facts to support 
+that Defendants knew they were supporting the DPR when they completed transfers for fundraisers 
+supporting the DPR. See generally Strauss II at 29-31. Moreover, Defendants’ argument that the 
+two identified transfers amounting to $300 are insufficient is equally unavailing in light of the 
+second amended complaint. Plaintiffs have alleged that the DPR has raised millions of dollars 
+through fundraising, some of which were transferred using VTB Bank and Sberbank’s services. 
+
+See SAC ¶ 171, 298. Construing this in the light most favorable to Plaintiffs, the inference is that 
+some of those funds raised were transferred using VTB Bank and Sberbank’s services. Plaintiffs 
+need not allege “dozens of transfers over an extended period . . . to establish a course of dealing 
+and purposeful use of the New York correspondent accounts.” Averbach v. Cairo Amman Bank, 
+No. 19 CV 0004, 2020 WL 486860, at *6 (S.D.N.Y. Jan. 21, 2020), report and recommendation 
+adopted sub nom. Averbach for Est. of Averbach v. Cairo Amman Bank, No. 19-CV 00004, 2020 
+WL 1130733 (S.D.N.Y. Mar. 9, 2020).  At this juncture of the case, Plaintiffs are not required to 
+make the showing that Defendants suggest. Plaintiffs need only plead facts that, if credited, would 
+establish jurisdiction over Defendants. Metro. Life Ins. Co. v. Robertson-Ceco Corp., 84 F.3d 560, 
+567 (2d Cir. 1996).                                                       
+
+    The Court may therefore exercise personal jurisdiction over VTB Bank and Sberbank for 
+Plaintiffs’ claims.                                                       
+    ii.  Liability under 18 U.S.C. § 2333(a)                             
+
+ a.  International Terrorism                                             
+    Section 2333(a) of the ATA provides that “[a]ny national of the United States injured in 
+his or her person, property, or business by reason of an act of international terrorism, or his or her 
+estate,  survivors,  or  heirs,  may  sue”  for  damages.  Section  2331(1)  of  the  ATA  defines 
+“international terrorism” as activities that:                             
+    (A) involve violent acts or acts dangerous to human life that are a violation of the 
+    criminal laws of the United States or of any State, or that would be a criminal 
+    violation if committed within the jurisdiction of the United States or of any State; 
+    (B) appear to be intended—                                           
+    (i) to intimidate or coerce a civilian population;                   
+    (ii) to influence the policy of a government by intimidation or coercion; or 
+    (iii) to affect the conduct of a government by mass destruction, assassination, or 
+    kidnapping; and                                                      
+    (C) occur primarily outside the territorial jurisdiction of the United States, or 
+    transcend  national  boundaries  in  terms  of  the  means  by  which  they  are 
+    accomplished, the persons they appear intended to intimidate or coerce, or the 
+    locale in which their perpetrators operate or seek asylum;           
+
+    The Second Circuit has “conclude[d] . . . that providing routine financial services 
+to members and associates of terrorist organizations is not so akin to providing a loaded 
+gun to a child as to . . . compel a finding that as a matter of law, the services” met the 
+definition of “international terrorism” under the ATA. Linde v. Arab Bank, PLC, 882 F.3d 
+314, 327 (2d Cir. 2018) (“Linde II”). Whether financial services are “routine  . . . raises 
+questions of fact for a jury to decide.” Id.                              
+    Judge Posner of the Seventh Circuit explained that when Defendants provide 
+financial support to an organization like Hamas who “knew the aims and activities of the 
+organization”  would  “by  augmenting  Hamas’s  resources  .  .  .  enable  Hamas  to  kill 
+or wound, or try to kill, or conspire to kill more people in Israel.” Boim v. Holy Land 
+Foundation for Relief and Development, 549 F.3d 685, 694 (7th Cir. 2008) (Boim III). 
+”And given such foreseeable consequences, such donations would appear to be intended to 
+intimidate or coerce a civilian population or to affect the conduct of a government by 
+assassination, as required by section 2331(1)” of the ATA. Id. (internal quotation marks 
+and alterations omitted). Even if one does not know the organization engages in terrorism, 
+liability is appropriate when one “is deliberately indifferent to whether it does or not, 
+meaning that one knows there is a substantial probability that the organization engages in 
+terrorism but one does not care.” Id. at 693.                             
+    Thus, “[g]iving money to Hamas, like giving a loaded gun to a child (which also is 
+not a violent act), is an ‘act dangerous to human life’” under the ATA. Id. at 690. Courts 
+have opined that providing financial services, like the money transfers alleged in the 
+present case “increases Hamas' ability to carry out attacks in the same way, and Congress 
+
+made no distinction between these different forms of material support in criminalizing 
+them.” Linde v. Arab Bank, PLC, 97 F.Supp.3d 287, 323 (E.D.N.Y. 2015) (vacated on other 
+grounds) (“Linde I”).                                                     
+    Defendants allege that their actions were not acts of international terrorism and the 
+ATA’s act of war exclusion bars Plaintiffs’ claims. Additionally, Defendants allege that 
+Plaintiffs have failed to meet the ATA’s proximate causation requirement. Defendant 
+Sberbank further alleges that Plaintiffs fail to plead facts showing the requisite knowledge 
+or intent to commit predicate crimes of providing support for a terrorist act. See generally 
+Defs’ Mem. of Law, ECF Nos. 161, 162, 166, 171, 173, 174, 175, 176.       
+    Plaintiffs  have  adequately  pleaded  that  Defendants’  actions  were  acts  of 
+
+international terrorism. The Court considers whether Defendants’ providing of financial 
+support to fundraisers and individuals who in turn provided money to the DPR that assisted 
+in the attack on MH17 is a “violent act[ ] or act[ ] dangerous to human life” within the 
+meaning of 18 U.S.C. § 2331(1). As the Court noted supra, while the Second Circuit opined 
+that  providing  routine  financial  support  to  terrorist  organizations  is  not  “so  akin  to 
+providing a loaded gun to a child,” it did not preclude this Court from finding that such 
+conduct is an act of “international terrorism.” Linde, 882 F.3d at 327 (“We need not here 
+decide whether we would . . . conclude that a jury could find that direct monetary donations 
+to a known terrorist organization satisfy § 2331(1)’s definitional requirements for an act of 
+terrorism.”).                                                             
+    Courts have made such a finding before, reasoning that when banks such as 
+Sberbank and VTB Bank route payments and maintain accounts for terrorist organizations 
+
+to enhance their ability to commit terrorist attacks, they are committing “acts dangerous to 
+human life.” Miller v. Arab Bank, PLC, 372 F. Supp. 3d 33, 45 (E.D.N.Y. 2019). The Court 
+applies the same reasoning here. Plaintiffs allege that Defendants Sberbank, VTB Bank, 
+Moneygram, and Western Union provided financial services to fundraisers and individuals 
+who supported the DPR, and these fundraisers and individuals then provided the funds to 
+the DPR before and after the attack on MH17. Plaintiffs further allege that the fundraiser 
+funds were confirmed by Igor Strelkov, the leader of the DPR, and additional funds were 
+raised by Alexander Zhuchkovsky, who publicly boasted about raising millions for the 
+DPR. Additionally, Plaintiffs allege that the funds raised were used to purchase lethal 
+weapons prior to the attack on MH17. Thus, based on the well pleaded allegations in the 
+
+Second Amended Complaint, Defendants committed an act of “international terrorism” 
+within the meaning of 18 U.S.C. § 2331(1).                                
+ b.  Intent                                                              
+    Plaintiffs have adequately pleaded the requisite intent or knowledge required for 18 U.S.C. 
+§ 2339A and § 2339C. Plaintiffs allege that Defendants were deliberately indifferent to whether 
+they were providing material support to the DPR or to whether they were providing financial 
+services to the DPR that were used to carry out certain enumerated acts outlined in Sections 2339A 
+and 2339C.                                                                
+    Under § 2339A, liability attaches when the provider of material support or resources knew 
+or intended that its financial services would be used in preparation for or carrying out violations 
+of  the  various  criminal-law  provisions  referenced  in  subsection  (a). 18  U.S.C.  §  2339A(a). 
+However, the provider need not have had the “specific intent to aid or encourage the particular 
+
+attacks that injured plaintiffs.” Linde, 384 F.Supp.2d at 586 n. 9.       
+    Under  §  2339C,  liability  attaches  when    Defendants  provide  or  collect  funds  with 
+knowledge that such funds are to be used, in full or part, to carry out . . . any . . . act intended to 
+cause death or serious bodily injury to a civilian . . . when the purpose of such act, by its nature or 
+context, is to intimidate a population, or to compel a government or an international organization 
+to do or to abstain from doing any act. § 2339C(a)(1). The provision includes “giving, donating, 
+and transmitting” funds and collection includes “raising and receiving” funds. 18 U.S.C. § 
+2339C(e)(4). Thus, providing financial services to a terrorist organization falls within the scope of 
+§ 2339C, to the extent that the financial institution receives and transmits the organization's 
+funds. See, e.g., Weiss, 453 F.Supp.2d at 628–30 (concluding, after reviewing legislative history, 
+
+that “maintenance of bank accounts[ ] and processing of deposits and withdrawals” constitutes 
+provision and collection under § 2339C); Linde, 384 F.Supp.2d at 588 (denying motion to dismiss 
+claims against bank for provision of financial services under § 2339C where bank received funds 
+as deposits and transmitted funds to terrorist organizations).            
+    Regarding state of mind, like § 2339A, § 2339C does not require a showing of specific 
+intent that the defendant acted to further the organization’s terrorist activities or that it intended to 
+aid or encourage the particular attack giving rise to a plaintiff’s injuries. Boim v. Quranic Literacy 
+Inst. & Holy Land Found. For Relief And Dev., 291 F.3d 1000, 1023 (7th Cir. 2002) (Boim I). 
+Rather, mere knowledge that the funds provided and collected would be used to carry out the 
+predicate act is enough. See, e.g., Linde, 384 F.Supp.2d at 588 (denying motion to dismiss where 
+the  plaintiffs  alleged  that  a  financial  institution  knew  that  funds  received  as  deposits  and 
+transmitted  to  various  organizations  “were  to  be  used  for  conducting  acts  of  international 
+terrorism.”).                                                             
+
+    Plaintiffs allege that Defendants were deliberately indifferent as to whether they were 
+providing funds to the DPR due to the DPR’s public crowdsourcing campaign, international 
+recognition of their activities, funding of the DPR’s leaders who identified their relation to the 
+DPR, the DPR’s publicizing of its terrorist activities across several websites, and the investigation 
+by Ukrainian authorities into VTB Bank and Sberbank.                      
+    These allegations are sufficient to satisfy the intent requirement. The Court notes that 
+Plaintiffs need not show that Defendants knew their providing of financial services would further 
+terrorism or the attack on MH17. Rather, it is sufficient to show that it deliberately disregarded 
+such facts while continuing to provide financial services to the DPR with knowledge that the 
+services would in all likelihood assist the organization in accomplishing its goals. Goldberg v. UBS 
+
+AG, 660 F. Supp. 2d 410, 428 (E.D.N.Y. 2009); see also Boim II, 549 F.3d at 685 (quoting Makor 
+Issues & Rights, Ltd. v. Tellabs Inc., 513 F.3d 702, 704 (7th Cir.2008)) (“To give money to an 
+organization that commits terrorist acts is not intentional misconduct unless one either knows that 
+the organization engages in such acts or is deliberately indifferent to whether it does or not, 
+meaning that one knows there is a substantial probability that the organization engages in terrorism 
+but one does not care. ‘When the facts known to a person place him on notice of a risk, he cannot 
+ignore the facts and plead ignorance of the risk.’”                       
+    Here, Defendants were on notice of the DPR’s activities. Plaintiffs cite news outlets, 
+Forbes, the New York Times, Reuters and the Kyiv Post as reporting the DPR’s funding scheme. 
+Second Am. Compl. ¶¶ 162-167. For instance, Forbes discussed Defendant Sberbank facilitating 
+payments to Ukrainian soldiers to assist Russian Separatists in East Ukraine; a Reuters article titled 
+“Ukraine says investigating Russia’s Sberbank for financing terrorists;” and an April article by 
+Kyiv post detailed the DPR’s call for funds as well as references to Sberbank and VTB Bank’s 
+
+knowledge of the investigation initiated by Ukrainian authorities prior to the downing of the plane. 
+Id.at ¶¶ 167-169. Additionally, Plaintiffs allege that the DPR has openly, publicly, and repeatedly 
+carried out terrorist attacks on civilians, and these attacks were widely reported and discussed by 
+nearly every government across the world, media, and human rights organizations. Second Am. 
+Compl. ¶ 104.                                                             
+    Plaintiffs’ allegations are sufficient to show that Defendants were deliberately indifferent 
+as to whether they were providing financial support to the DPR. Notably, such allegations are 
+especially sufficient where the DPR has not been designated as a Foreign Terrorist Organization. 
+Plaintiffs have thus adequately pleaded the intent requirement under sections 2339A and 2339C. 
+ c.  Proximate Cause                                                     
+
+ To satisfy the ordinary tort requirement of causation and foreseeability, as well as the textual 
+requirement that injury be suffered “by reason of” an act of international terrorism, plaintiffs must 
+plead that an alleged act of international terrorism proximately caused their injury. § 2333(a); Boim 
+III, 549 F.3d at 691–98; Biton v. Palestinian Interim Self-Gov’t Auth., 310 F. Supp. 2d 172, 182 
+(D.D.C. 2004) (citing Boim I, 291 F.3d at 1011–12 (interpreting “by reason of” language of § 
+2333(a) as requiring showing that defendant's actions proximately caused plaintiffs' injuries)). 
+“Foreseeability is the cornerstone of proximate cause, and in tort law, a defendant will be held 
+liable only for those injuries that might have reasonably been anticipated as a natural consequence 
+of the defendant's actions.” Biton, 310 F. Supp. 2d at 182.               
+ Regarding whether events are reasonably foreseeable, the Second Circuit has opined that,  
+
+    Assessment of what an observer could reasonably find “appear[ed] to be intended” 
+    depends on whether the consequences of the defendant's activities were reasonably 
+    foreseeable, see, e.g., Boim v. Holy Land Foundation for Relief & Development, 
+    549 F.3d 685, 693-94 (7th Cir. 2008), and reasonable foreseeability depends largely 
+    on what the defendant knew, see id. (“A knowing donor” to an FTO--“that is a 
+    donor who knew” the terroristic “aims and activities” directed at a particular 
+    territory--“would know ... that donations to” the entity would enable it to “kill more 
+    people in” the territory. “And given such foreseeable consequences, such donations 
+    would appear to be intended ... to intimidate or coerce a civilian population or to 
+    affect the conduct of a government by ... assassination, as required by section 
+    2331(1) in order to distinguish terrorist acts from other violent crimes.” (internal 
+    quotation marks omitted) (emphases ours)).                           
+
+Weiss v. Nat’l Westminster Bank, PLC., 993 F.3d 144, 161 (2d Cir. 2021).  
+
+    Defendants could have reasonably anticipated Plaintiffs’ injuries, assuming Plaintiffs’ 
+allegations to be true. Defendants allegedly knew or were deliberately indifferent that they were 
+providing financial services to the DPR through their charities and other intermediaries, and that 
+the  DPR  used  those  services  to  buy  lethal  equipment  to  carry  out  their  terroristic 
+activities. See Intent discussion supra.                                  
+    Moreover, the lack of direct transfers to the DPR for the specific attack on MH17 is not 
+dispositive of proximate cause. See Strauss v. Credit Lyonnais, S.A., 925 F. Supp. 2d 414, 433 
+(E.D.N.Y. 2013) (Strauss I) (“[P]laintiffs who bring an ATA action are not required to trace 
+specific dollars to specific attacks to satisfy the proximate cause standard. Such a task would be 
+impossible and would make the ATA practically dead letter because ‘[m]oney is fungible.’”). 
+    In light of these allegations, Plaintiffs have adequately pleaded facts alleging Defendants’ 
+proximate causation of Plaintiffs’ injuries. See Weiss, 453 F. Supp. 2d at 632 (concluding that 
+plaintiffs plead proximate cause where they alleged that bank provided financial services to 
+terrorists before terrorist attack).                                      
+ d.  Act of War exception                                                
+    Congress has, however, precluded claims for injury resulting from an act of war: “No 
+action shall be maintained under section 2333 of this title for injury or loss by reason of an act of 
+war.” 18 U.S.C. § 2336(a). In order to state a claim for civil damages under Section 2333(a), 
+
+plaintiffs must allege that the decedents were injured “by reason of” acts of “international 
+terrorism.” Defendants argue that the DPR is a military force, engaged in armed conflict in 
+Ukraine. Therefore, since MH17 was downed during this armed conflict, Plaintiffs’ claims are 
+barred by the ATA’s act of war exclusion. The issue before the court, therefore, is whether this 
+legal conclusion is supported by plaintiffs’ factual allegations.         
+The ATA defines “act of war” to mean any act occurring in the course of-  
+
+    (A) declared war;                                                    
+    (B) armed conflict, whether or not war has been declared, between two or more 
+    nations; or                                                          
+    (C) armed conflict between military forces of any origin.            
+
+18 U.S.C. § 2331(4).                                                      
+
+    Defendants’ submissions focus on (B) and (C); therefore, the Court’s analysis shall focus 
+on whether the DPR is a military force. The Complaint alleges that MH17 was downed by the 
+DPR, a terrorist group based on an ideology of Russian supremacy by creating a proto-state, 
+Novorossiya, through the control of territory in Ukraine. Am. Compl. ¶ 88. The DPR has not been 
+designated a Foreign Terrorist Organization. There is a lack of authority on whether a non-
+designated terrorist organization can constitute a “military force” for purposes of 18 U.S.C. § 
+2331(4)(C). Courts have opined that:                                      
+    “there  are  undoubtedly  differences  between  military  forces  and  terrorists.  A 
+    conventional dictionary definition of “military” is “armed forces” or the persons 
+    serving in them. “Armed forces,” in turn, are “the combined military, naval, and air 
+    forces of a nation.” In  contrast, “terrorism” is  conventionally defined  as “the 
+    systematic use of terror especially as a means of coercion.” “Terror” itself is defined 
+     as  “violent  or  destructive  acts  (as  bombing)  committed  by groups in  order to 
+     intimidate a population or government into granting their demands.”” 
+Weiss v. Arab Bank, PLC, No. 06 CV 1623, 2007 WL 4565060, at *3—-5 (E.D.N.Y. Dec. 21, 
+2007) 
+     The DPR, as Plaintiffs allege it to be, is a terrorist group operating in eastern Ukraine that 
+acquired that territory through force and intimidation, and the DPR continues to engage in violent 
+acts against civilians, which often includes torture and murder. Second Am. Compl. 4 1, 88-101. 
+Thus, as alleged in the Second Amended Complaint, which the Court assumes as true for the 
+purposes of this motion, the DPR is not a nation with armed forces. Rather, the DPR is a  terrorist 
+group that uses intimidation and violence attacks against citizens, as it did when it downed MH17. 
+Therefore, the Court finds that based on the allegations in the Second Amended Complaint, the 
+DPR is not a military force or nation for purposes of 18 U.S.C. § 2331 (4)(B) and (4)(C). 
+                                  CONCLUSION 
+     For the aforementioned reasons, Plaintiffs’ have adequately pleaded claims pursuant to 18 
+ULS.C.  §§  2331,  2339A,  and  2339C.  Therefore,  Defendants’  motions  to  dismiss  the  second 
+amended complaint are denied. (ECF Nos. 160, 165, 168.) 
+
+SO ORDERED. 
+Dated: September 30, 2021                  Ante   □    
+     New York, New York                     ANDREW L. CARTER, JR. 
+                                             United States District  Judge 
+
+                                     19

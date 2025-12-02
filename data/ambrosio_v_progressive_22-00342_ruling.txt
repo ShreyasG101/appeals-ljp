@@ -1,0 +1,570 @@
+      Case 2:22-cv-00342-SMB Document 90 Filed 03/04/24 Page 1 of 15
+
+
+
+ 1   WO
+ 2
+ 3
+ 4
+ 5
+ 6                       IN THE UNITED STATES DISTRICT COURT
+ 7                                FOR THE DISTRICT OF ARIZONA
+ 8
+ 9    Elliot Ambrosio et. al.,                          No. CV-22-00342-PHX-SMB
+10                  Plaintiffs,                         ORDER
+11    v.
+12    Progressive Preferred Insurance Company,
+13                  Defendant.
+14
+15          Pending before the Court is Plaintiffs’ Motion for Class Certification. (Doc. 42.)
+16   Defendant Progressive Preferred Insurance Company (“Progressive”) filed a Response
+17   (Doc. 46), and Plaintiffs filed a Reply (Doc. 50). Plaintiffs also filed two Notices of Filing
+18   Supplemental Authority. (Doc. 85; 86.) After consideration of the pleadings and the
+19   relevant law, the Court finds that oral argument is not necessary. See LRCiv 7.2(f) (“The
+20   Court may decide motions without oral argument.”). For the reasons laid out below the
+21   Court will deny Plaintiffs’ Motion.
+22   I.     Background
+23          On May 5, 2023, Plaintiffs filed a class action lawsuit via their Second Amended
+24   Complaint (the “SAC”) against Progressive alleging that Progressive “systemically”
+25   undervalued the cash value of Progressive’s claimants’ loss vehicles. (See generally Doc.
+26   35.) Plaintiffs’ SAC seeks to represent “claimants in Arizona who received a payment for
+27   the loss of a totaled vehicle from Defendants, where Defendants used valuation reports
+28   prepared by Mitchell International, Inc. (“Mitchell”) to determine the actual cash value
+      Case 2:22-cv-00342-SMB Document 90 Filed 03/04/24 Page 2 of 15
+
+
+
+ 1   (“ACV”) of the loss vehicles.” (Id. at 2 ¶ 1.) The SAC brought claims for breach of
+ 2   contract, breach of covenant of faith and fair dealing, unjust enrichment, and declaratory
+ 3   relief. (Id. at 15–18 ¶¶ 63–90.) The basic factual allegations are as follows.
+ 4          Plaintiff Sierra Trenholm filed a claim with Progressive in May 2021 after she
+ 5   totaled her Kia Optima. (Doc. 84 at 2 ¶ 1.) WorkCenter Total Loss (“WCTL”) estimated
+ 6   the ACV to be $10,938.64. (Id. ¶ 2.) Plaintiff Elliot Ambrosio filed a claim with
+ 7   Progressive after totaling his 2011 Chevrolet Malibu in September 2020. (Id. ¶ 5.) WCTL
+ 8   estimated that the ACV of his vehicle was $4,866.71. (Id. ¶ 6.) Progressive’s physical
+ 9   damage to a vehicle policy (the “Policy”) states that in the event of physical damage to a
+10   covered vehicle, Progressive will pay for the amount of the covered loss, up to the limits
+11   of liability. (Id. at 3 ¶10.) The Policy does not require Progressive to use any specific
+12   methodology in setting ACV, however, the Policy requires ACV to be “determined by the
+13   market value, age, and condition of the vehicle at the time the loss occurs.” (Doc. 66-5 at
+14   22; 31.) Progressive used Mitchell, and its WCTL software system to make estimates on
+15   what a totaled vehicle’s ACV should be. (Doc. 46 at 7.) Although Progressive uses this
+16   system to estimate ACV, that method is not required by contract and there are at least two
+17   other alternative methodologies for providing an ACV estimate, including the National
+18   Automobile Dealers Association (“NADA”) and Kelly Blue Book (“KBB”). (Id. at 8–9.)
+19          Progressive, through Mitchell’s ACV methodology applies a Projected Sold
+20   Adjustment (“PSA”), which Plaintiffs allege is meant to “reflect consumer purchasing
+21   behavior,” or the behavior that consumers will negotiate a used car down from its listed
+22   price. (Doc. 35 at 3 ¶ 5; 35-2 at 8.) Until July 2021 the data used to calculate the Projected
+23   Sold Adjustment calculation did not include transactions where the list price was equal to
+24   the sold price, or where the sold price was greater than the listed price. (Doc. 37 at 5 ¶ 6.)
+25   Plaintiffs allege that the projected sold adjustment was applied to both Ambrosio and
+26   Trenholm’s vehicles’ values. (Doc. 35 at 4 ¶ 7.) Plaintiffs further allege that by concluding
+27   that consumers will negotiate down from the advertised price they, through their vendors
+28   “intentionally distort” the data to “artificially deflate the value of total loss vehicles.” (Id.
+
+
+                                                   -2-
+         Case 2:22-cv-00342-SMB Document 90 Filed 03/04/24 Page 3 of 15
+
+
+
+ 1   at 4 ¶ 9.) On this basis, Plaintiffs argue that Progressive violated the Policy it has with its
+ 2   insureds and are bringing this action on their behalf. (Id. at 10.) Plaintiffs now seek
+ 3   certification, for the breach of contract and breach of good faith and fair dealing claims,
+ 4   for the class of: 1
+ 5           “All persons who made a first-party claim on a policy of insurance issued by
+             Progressive Preferred Insurance Company or Progressive Advanced
+ 6
+             Insurance Company to an Arizona resident where the claim was submitted
+ 7           from March 4, 2016, through the date an order granting class certification is
+             entered, and Progressive determined that the vehicle was a total loss and
+ 8           based its claim payment on an Instant Report from Mitchell where a
+ 9           Projected Sold Adjustment was applied to at least one comparable vehicle.”
+10   (Doc. 42 at 2.)
+
+11   II.     Legal Standard
+
+12           Class actions are governed by Federal Rule of Civil Procedure 23, which provides
+
+13   as follows:
+             (a) Prerequisites. One or more members of a class may sue or be sued as
+14           representative parties on behalf of all members only if:
+15                   (1) the class is so numerous that joinder of all members is
+                     impracticable;
+16                   (2) there are questions of law or fact common to the class;
+17                   (3) the claims or defenses of the representative parties are typical of
+                     the claims or defenses of the class; and
+18                   (4) the representative parties will fairly and adequately protect the
+19                   interests of the class.
+             (b) Types of Class Actions. A class action may be maintained if Rule 23(a)
+20           is satisfied and if:
+                     (1) prosecuting separate actions by or against individual class
+21
+                     members would create a risk of:
+22                           (A) inconsistent or varying adjudications with respect to
+                             individual class members that would establish incompatible
+23
+                             standards of conduct for the party opposing the class; or
+24                           (B) adjudications with respect to individual class members
+                             that, as a practical matter, would be dispositive of the interests
+25                           of the other members not parties to the individual adjudications
+26                           or would substantially impair or impede their ability to protect
+                             their interests;
+27
+     1
+       While not entirely clear, the Court presumes this is the request Plaintiffs’ because they
+28   are the only two claims discussed in their motion and unjust enrichment claims are
+     generally not appropriate for class certification.
+
+                                                   -3-
+      Case 2:22-cv-00342-SMB Document 90 Filed 03/04/24 Page 4 of 15
+
+
+
+ 1                 (2) the party opposing the class has acted or refused to act on grounds
+ 2                 that apply generally to the class, so that final injunctive relief or
+                   corresponding declaratory relief is appropriate respecting the class as
+ 3                 a whole; or
+                   (3) the court finds that the questions of law or fact common to class
+ 4
+                   members predominate over any questions affecting only individual
+ 5                 members, and that a class action is superior to other available methods
+                   for fairly and efficiently adjudicating the controversy. The matters
+ 6
+                   pertinent to these findings include:
+ 7                         (A) the class members’ interests in individually controlling the
+                           prosecution or defense of separate actions;
+ 8                         (B) the extent and nature of any litigation concerning the
+ 9                         controversy already begun by or against class members;
+                           (C) the desirability or undesirability of concentrating the
+10                         litigation of the claims in the particular forum; and
+11                         (D) the likely difficulties in managing a class action.
+
+12   Fed. R. Civ. P. 23(a)–(b). Plaintiffs seeking class certification must show that they have
+
+13   met the requirements of the four subsections in Rule 23(a) and at least one subsection of
+
+14   Rule 23(b). Ellis v. Costco Wholesale Corp., 657 F.3d 970, 979–80 (9th Cir. 2011) (citing
+
+15   Zinser v. Accufix Rsch. Inst., Inc., 253 F.3d 1180, 1186 (9th Cir. 2001)). When considering
+
+16   class certification, courts must engage in “a rigorous analysis.” Id. at 350–51 (quoting
+
+17   Gen. Tel. Co. of Sw. v. Falcon, 457 U.S. 147, 161 (1982)). Overall, district courts retain
+
+18   broad discretion to certify a class, so long as the discretion is exercised within the
+
+19   framework of Rule 23. Zinser, 253 F.3d at 1186.
+
+20          The party seeking class certification carries the burden of proving the facts
+
+21   necessary to establish that the prerequisites for certification are met by a preponderance of
+
+22   the evidence. Olean Wholesale Grocery Coop., Inc., v. Bumble Bee Foods LLC, 31 F.4th
+
+23   651, 665 (9th Cir. 2022). “Failure to meet any one of the requirements set forth in Rule 23
+
+24   precludes class certification.” Miller v. Am. Standard Ins. Co. of Wis., 759 F. Supp. 2d
+
+25   1144, 1146 (D. Ariz. 2010).
+
+26   III.   DISCUSSION
+
+27          A.     Scope of the Class
+
+28          The scope of the proposed class also acts as a threshold inquiry to class certification.
+
+
+
+                                                  -4-
+      Case 2:22-cv-00342-SMB Document 90 Filed 03/04/24 Page 5 of 15
+
+
+
+ 1   Some district courts in the Ninth Circuit have rejected attempts to amend a class definition
+ 2   at the certification stage without a plaintiff requesting leave to amend their complaint. See,
+ 3   e.g., Gusman v. Comcast Corp., 298 F.R.D. 592, 597 (S.D. Cal. 2014) (“[T]he Court is
+ 4   bound by the class definition provided in the Complaint.”); see also Costelo v. Chertoff,
+ 5   258 F.R.D. 600, 604–05 (C.D. Cal. 2009) (“The Court is bound to class definitions
+ 6   provided in the complaint and, absent an amended complaint, will not consider certification
+ 7   beyond it.”). However, other courts in the Ninth Circuit take a more nuanced approach.
+ 8   These courts entertain certification of a class other than that described in the complaint if
+ 9   the proposed modifications to the class definition are minor, require no additional
+10   discovery, and cause no prejudice to defendants.          See Davis v. AT&T Corp., No.
+11   15CV2342-DMS (DHB), 2017 WL 1155350, at *2 (S.D. Cal. Mar. 28, 2017).
+12   Additionally, some courts will allow more than minor modifications to a class definition
+13   “if it is narrower than the class alleged in the complaint.” Id.; see also Gold v. Lumber
+14   Liquidators Inc., No. 14-CV-05373-THE, 2017 WL 2688077, at *3–4 (N.D. Cal. June 22,
+15   2017). In their SAC Plaintiff’s proposed the following class:
+16         “All persons who made a first-party claim on a policy of insurance issued by
+           Progressive to an Arizona resident who, from the earliest allowable time
+17         through the date of resolution of this action, received compensation for the
+           total loss of a covered vehicle, where that compensation was based on a
+18
+           valuation report prepared by Mitchell and the ACV was decreased based
+19         upon Projected Sold Adjustments to the comparable vehicles used to
+           determine ACV.”
+20
+21   (Doc. 35 at 12 ¶ 53.) Plaintiffs now, via the new class definition, seek mainly to narrow
+
+22   the class to policy holders affected within a set period of dates. (Doc. 42 at 2.) Here, the
+23   proposed change to the class definition is minor and will not prejudice Defendants in any
+24   way. Therefore, the Court finds the proposed class suitable.
+25          B.     Definite and Ascertainable
+26          Rule 23 contains a threshold requirement that the class be adequately definite and
+27   ascertainable. Gustafson v. Goodman Mfg. Co., No. CV-13-08274-PCT-JAT, 2016 WL
+28   1029333, at *6 (D. Ariz. Mar. 14, 2016). A class is properly defined if membership can be
+
+
+                                                 -5-
+      Case 2:22-cv-00342-SMB Document 90 Filed 03/04/24 Page 6 of 15
+
+
+
+ 1   determined from objective, rather than subjective, criteria. See Walter v. Leprino Foods
+ 2   Co., 670 F. Supp. 3d 1035 (E.D. Cal. 2023) Here, Progressive argues that the class is not
+ 3   ascertainable because it would “require resolving labor-intensive individualized
+ 4   questions.” (Doc. 46 at 36.) Progressive also asserts that Plaintiffs do not propose a
+ 5   method to determine which policy holders are not part of the class due to waiver, different
+ 6   reporting, non-payment due to coverage denial, negotiations, or other events.           (Id.)
+ 7   Plaintiffs counter that the class is ascertainable because, based on expert opinion, “[e]very
+ 8   criterion for membership—insured by Progressive, date of loss, whether [the loss] was a
+ 9   covered claim, whether [the claim] was based on a Mitchell Report, and whether a PSA
+10   was applied” can objectively be pulled from Progressive’s records. (Doc. 42 at 11.) The
+11   Court agrees. Additionally, the Court is not persuaded by Progressive’s argument that
+12   because compiling the data would be burdensome, the class is unascertainable. (Doc. 46
+13   at 36.) Like other district courts in similar cases have found, the Court agrees that
+14   “Progressive’s own recordkeeping choices might increase [its] own burden in discovery,
+15   but that is no reason to deny class certification.” Schroeder v. Progressive Paloverde Ins.
+16   Co., 1:22-cv-00946-JMS-MKK, 2024 WL 308330, at *7 (S.D. Ind. Jan. 26, 2024) (quoting
+17   Volino v. Progressive Cas. Ins. Co., 21 Civ. 6243 (LGS), 2023 WL 2532836, at *10 n.1
+18   (S.D.N.Y. Mar. 16, 2023).
+19          Therefore, because the class is specific and based on objective criteria, the Court
+20   finds the class is sufficiently definite and ascertainable.
+21          D.     Rule 23(a) Requirements
+22                 1.      Numerosity
+23          Rule 23 requires that the class be so numerous that joinder is impracticable. Fed.
+24   R. Civ. P. 23(a)(1). A proposed class of at least forty members presumptively satisfies the
+25   numerosity requirement. Mix v. Asurion Servs. Inc., No. CV-14-02357-PHX-GMS, 2016
+26   WL 7229140, at *8 (D. Ariz. Dec. 14, 2016); see also Horton v. USAA Cas. Ins. Co., 266
+27   F.R.D. 360, 365 (D. Ariz. 2009). Here, Plaintiffs propose a class with at least 22,000
+28   members. (Doc. 42 at 22.) Accordingly, the Court find the numerosity requirement is
+
+
+                                                  -6-
+      Case 2:22-cv-00342-SMB Document 90 Filed 03/04/24 Page 7 of 15
+
+
+
+ 1   satisfied.
+ 2                 2.     Commonality
+ 3          Rule 23 requires that there be questions of law or fact common to the class. Fed. R.
+ 4   Civ. P. 23(a)(2). This analysis requires a plaintiff to demonstrate that class members have
+ 5   suffered the same injury. Wal-Mart Stores, Inc. v. Dukes, 564 U.S. 338, 349–50 (2011).
+ 6   The common contention “must be of such a nature that it is capable of classwide
+ 7   resolution—which means that determination of its truth or falsity will resolve an issue that
+ 8   is central to the validity of each of the claims in one stroke.” Id. at 350. A plaintiff need
+ 9   only present “a single common question of law or fact that resolves a central issue.”
+10   Castillo v. Bank of Am., NA, 980 F.3d 723, 728 (9th Cir. 2020). Satisfying this requirement
+11   is a “‘relatively light burden’ that ‘does not require that all the questions of law and fact
+12   raised by the dispute be common . . . or that the common questions of law or fact
+13   predominate over individual issues.’” Esparza v. SmartPay Leasing, Inc., No. C 17-03421
+14   WHA, 2019 WL 2372447, at *2 (N.D. Cal. June 6, 2019) (quoting Vega v. T-Mobile USA,
+15   Inc., 564 F.3d 1256, 1268 (11th Cir. 2009)).
+16          Here, Defendants argue that Plaintiffs’ designated class lacks a common injury
+17   because liability turns on the valuation of individualized cars. (Doc. 46 at 18.) In making
+18   this argument, Defendants rely heavily on Lara v. First Nat’l Ins. Co. of Am., 25 F.4th 1134
+19   (9th Cir. 2022). In Lara, plaintiffs challenged valuations by invoking a Washington state
+20   law that required insurers to itemize deductions or additions they wanted to make to the
+21   proposed valuation and alleging breach of contract. Id. at 1137. Plaintiffs alleged that by
+22   failing to meet this disclosure, these insurers breached their contracts, engaged in unfair
+23   trade practices, and engaged in civil conspiracy. Id. However, Plaintiffs did not present
+24   evidence that they suffered an injury, nor did they offer a way to calculate injury for the
+25   class. Id. at 1139. The Ninth Circuit held that because the claims would require each
+26   individual plaintiff to show that they received less than the ACV, it was inappropriate to
+27   certify the class under Rule 23(a)’s commonality requirement. Id. at 1140.
+28          However, unlike in Lara, Plaintiffs here have offered evidence for the Court to
+
+
+                                                 -7-
+      Case 2:22-cv-00342-SMB Document 90 Filed 03/04/24 Page 8 of 15
+
+
+
+ 1   determine wither Defendants’ use of PSA led to the injury of being paid something other
+ 2   than the pre-accident cash value of their totaled vehicles as required by the Policy. See
+ 3   Coleman v. United Servs. Auto. Ass’n, No. 21-CV-217-RSH-KSC, 2023 WL 9110926
+ 4   (S.D. Cal. Dec. 22, 2023) (“Lara is distinguishable from this case. Not only did the
+ 5   plaintiffs in Lara not have any expert or model by which to determine injury classwide,
+ 6   but the nature of the plaintiffs’ claims also required discerning the actual value of an
+ 7   already totaled vehicle for each potential class member to determine if the respective class
+ 8   member was injured.”). Here, Plaintiffs possess and plan on presenting various expert
+ 9   testimony regarding data that Progressive excludes certain data to reach ACV, and
+10   empirical list/sell data discounting the use of a PSA for valuation. (Doc. 42 at 16.) This is
+11   enough to allege common injury—that class wide PSA use led to devalued ACVs—for
+12   Rule 23(a) purposes.
+13          Although like the Volino court, the Court here too recognizes that not all class
+14   members will have identical facts, it does find that “the legitimacy of PSAs as a means of
+15   calculating ACV” is a question common to the class—which is enough for Plaintiffs to
+16   meet the relatively light burden under Rule 23(a)’s commonality requirement. Drummond
+17   v. Progressive Specialty Ins. Co., Civil Action No. 21-4479, 2023 WL 5181596, at *9 (E.D.
+18   Pa. Aug. 11, 2023); see also Schroeder, 2024 WL 308330, at *9 (“The issue [plaintiff]
+19   presents in this case – whether using the PSA to determine ACV violates the Policy – is
+20   common to all class members.”). Accordingly, the Court finds Plaintiffs satisfy Rule
+21   23(a)’s commonality requirement.
+22                 3.       Typicality
+23          Rule 23 also requires that the claims or defenses of the representative parties are
+24   “typical of the claims or defenses of the class.” Fed. R. Civ. P. 23(a)(3). This requirement
+25   focuses on the class representative’s claim to ensure that the interest of the class
+26   representative “aligns with the interests of the class.” Hanon v. Dataproducts Corp., 976
+27   F.2d 497, 508 (9th Cir. 1992). Representative claims need to be reasonably coextensive
+28   with those of absent class members. Parsons v. Ryan, 754 F.3d 657, 685 (9th Cir. 2014).
+
+
+                                                 -8-
+      Case 2:22-cv-00342-SMB Document 90 Filed 03/04/24 Page 9 of 15
+
+
+
+ 1   Courts must determine “whether other members have the same or similar injury, whether
+ 2   the action is based on conduct which is not unique to the named plaintiffs, and whether
+ 3   other class members have been injured by the same course of conduct.” Hanon, 976 F.2d
+ 4   at 508 (quoting Schwartz v. Harp, 108 F.R.D. 279, 282 (C.D. Cal. 1985)). Lastly, this
+ 5   requirement “is not primarily concerned with whether each person in a proposed class
+ 6   suffers the same type of damages; rather, it is sufficient for typicality if the plaintiff endured
+ 7   a course of conduct directed against the class.” Just Film Inc. v. Buono, 847 F.3d 1108,
+ 8   1118 (9th Cir. 2017). Plaintiffs argue typicality is satisfied because their injury is a result
+ 9   of Progressive’s uniform practices impacting them as well as other class members. (Doc.
+10   42 at 23.) Defendants argue that Plaintiffs Ambrosio and Trenholm are atypical from other
+11   class members for several reasons. (Doc. 46 at 33.)
+12          First, Defendants first argue that Plaintiff Ambrosio is an atypical Plaintiff because
+13   he lacks standing. (Doc. 46 at 34.) As to standing, Defendants note that Plaintiff Ambrosio
+14   cannot be a typical plaintiff because it is not him who has an interest in the Policy, but
+15   rather his bankruptcy estate—and therefore argue he is unable to bring suit. (See Doc. 46
+16   at 33.) Relevant here, Plaintiff Ambrosio declared Chapter 13 bankruptcy in 2018, before
+17   this lawsuit commenced, where he listed the insured Malibu as an asset. (Id.) He filed a
+18   claim for his totaled Malibu in September 2020, during the pendency of the bankruptcy.
+19   (Id.) He alleges he converted the bankruptcy from Chapter 13 to Chapter 7 on May 5,
+20   2021. (Doc. 46-24 at 27.) Defendant argues that under the United States Bankruptcy Code,
+21   property interests existing before or during a bankruptcy become property of the
+22   bankruptcy estate, and therefore Plaintiff Ambrosio is unable to maintain this action as he
+23   has no interest in the Malibu. (Doc. 46 at 33.); 11 U.S.C. § 541(a)(l), (6), (7). Plaintiffs
+24   assert that because Plaintiff Ambrosio’s claim arose after he filed his Chapter 13
+25   bankruptcy, but before he converted it into a Chapter 7 bankruptcy, his claim is not property
+26   of the bankruptcy estate. (Doc. 50 at 18.) The Court agrees.
+27          Under the Bankruptcy Code, only the debtor’s property at the time of the original
+28   bankruptcy filing becomes part of the converted estate. See 11 U.S.C. § 348(f)(1)(a))
+
+
+                                                   -9-
+     Case 2:22-cv-00342-SMB Document 90 Filed 03/04/24 Page 10 of 15
+
+
+
+ 1   (“[P]roperty of the estate in the converted case shall consist of property of the estate, as of
+ 2   the date of filing of the petition, that remains in the possession of or is under the control of
+ 3   the debtor on the date of conversion.”); see also Harris v. Viegelahn, 575 U.S. 510, 517
+ 4   (2015) (recognizing that Congress amended the Bankruptcy Code so that “in a case
+ 5   converted from Chapter 13, a debtor’s postpetition earnings and acquisitions do not become
+ 6   part of the new Chapter 7 estate”) In other words, because Plaintiff Ambrosio’s interest in
+ 7   this litigation—the totaling of his Malibu and invocation under the Policy—arose after the
+ 8   date of filing for Chapter 13 bankruptcy, his interest in said litigation and respective remedy
+ 9   remains.
+10          Second, Defendants argue that Plaintiff Ambrosio is judicially estopped from
+11   bringing these claims because he did not disclose his claim against Progressive to the
+12   bankruptcy court when converting to a Chapter 7 bankruptcy in 2021. (Doc. 46 at 34.;
+13   Doc. 46-24 at 28.); See Ah Quin v. Cnty. of Kauai Dep’t of Transp., 733 F.3d 267, 271 (9th
+14   Cir. 2013) (“If a plaintiff-debtor omits a pending (or soon-to-be-filed) lawsuit from the
+15   bankruptcy schedules and obtains a discharge (or plan confirmation), judicial estoppel bars
+16   the action.”). Plaintiffs do not address the estoppel argument, however, the Court also finds
+17   it unpersuasive as to Plaintiff Ambrosio’s typicality as a class member. As explained
+18   above, Plaintiff Ambrosio’s claim with Progressive, the beginning of any interest he had
+19   in a lawsuit, is not the bankruptcy estate’s property. Because his interest in this litigation
+20   did not accrue until his Malibu was totaled, which was before he converted to a Chapter 7,
+21   the Court does not find that he omitted any claims subject to that bankruptcy. Therefore,
+22   the Court finds that Plaintiff Ambrosio is not judicially estopped from bringing these
+23   claims. As explained above, he also has standing. Therefore, because he suffered a similar
+24   injury by similar conduct as other class members, the Court finds Plaintiff Ambrosio
+25   satisfies Rule 23(a)’s typicality requirement.
+26          As to Plaintiff Trenholm, Defendants argue that she is atypical because she cannot
+27   establish that she was underpaid the ACV of her vehicle due to Progressive valuing her
+28   vehicle higher than what she had paid for it. (Doc. 46 at 35.) As Plaintiffs point out, what
+
+
+                                                  - 10 -
+     Case 2:22-cv-00342-SMB Document 90 Filed 03/04/24 Page 11 of 15
+
+
+
+ 1   she paid for the vehicle does not matter, as the injury is based on whether the PSA reduced
+ 2   what she otherwise should have been awarded under the Policy at the time of loss. (Doc.
+ 3   50 at 19.) Whether the used car market at the time of loss has a higher payout than at the
+ 4   time of purchase does not impact the typicality inquiry, as Plaintiff Trenholm still is a party
+ 5   to the typical Policy, and her claim was still subject to the PSA at issue here.
+ 6          Accordingly, the Court finds both Plaintiff Ambrosio and Plaintiff Trenholm satisfy
+ 7   Rule (23)(a)’s typicality requirement.
+ 8                 4.     Adequacy
+ 9          The final requirement of Rule 23(a) is that the class representative “will fairly and
+10   adequately protect the interests of the class.” Fed. R. Civ. P. 23(a)(4). “Adequacy of
+11   representation is satisfied if the named representatives appear ‘able to prosecute the action
+12   vigorously through qualified counsel’ and if the representatives have no ‘antagonistic or
+13   conflicting interests with the unnamed members of the class.’” Winkler v. DET, Inc., 205
+14   F.R.D. 235, 242 (D. Ariz. 2001) (quoting Lerwill v. Inflight Motion Pictures, Inc., 582 F.2d
+15   507, 512 (9th Cir. 1978)).
+16          Plaintiffs assert that they can fairly and adequately represent the interests of the
+17   class. Defendants counter that because both named Plaintiffs benefitted from the ACV
+18   calculation there is a “fundamental conflict of interest” among class members, and
+19   therefore they are inadequate to represent the class. See Prudhomme v. Gov't Emps. Ins.
+20   Co., No. 21-30157, 2022 WL 510171, at *1 (5th Cir. 2022) (per curiam) (finding that where
+21   certain class members “received payments above . . . the allegedly unlawful violation” they
+22   were inadequate to represent the class). Although it is true that both Plaintiff Ambrosio
+23   and Plaintiff Trenholm received a benefit from the ACV calculation, both benefits were
+24   unrelated to the use of the PSA, which as Plaintiffs note uniformly reduced the ACV for
+25   claims where it was used. (Doc 45-8. at 24–25.) Unlike in Prudhomme, where some
+26   plaintiffs would have owed money had the class prevailed on its theory, here, even
+27   Ambrosio and Trenholm would benefit because they allege they would have received a
+28   higher payout had the PSA not been used—which is the crux of their claims.                  Id.
+
+
+                                                 - 11 -
+     Case 2:22-cv-00342-SMB Document 90 Filed 03/04/24 Page 12 of 15
+
+
+
+ 1   Defendants also argue that Plaintiff Ambrosio and Plaintiff Trenholm are inadequate to
+ 2   represent the class because they are focusing their theory only on the PSA and not the other
+ 3   elements of WCTL’S valuation methodology.             (Doc. 46 at 32.)      They argue this
+ 4   inadvertently may lead to other class members’ claims being waived in the future. (Id.)
+ 5   The Court finds this unpersuasive. Pursuing a class liability theory on the PSA is a strategic
+ 6   choice, which the Court is not in the business of assessing. See also Volino, 2023 WL
+ 7   2532836, at *11 (quoting In re AXA Equitable Life Ins. Co. COI Litig., No. 16 Civ. 740,
+ 8   2020 WL 4694172, at *7 (S.D.N.Y. Aug. 13, 2020) (finding a similar argument
+ 9   “unpersuasive because ‘the marginal value of any waived claims appears to be relatively
+10   low,’ while ‘the strategic value of pursuing claims on behalf of a . . . class is
+11   substantial’”))). Therefore, the Court finds that Plaintiffs will adequately represent the
+12   class.
+13            Given the above analysis, Plaintiffs have satisfied the requirements of Rule 23(a).
+14            E.     Rule 23(b)
+15            Having determined that Plaintiffs have satisfied the requirements of Rule 23(a), the
+16   Court now turns Rule 23(b). See Zinser, 253 F.3d at 1186. Plaintiffs must satisfy at least
+17   one of the Rule 23(b) requirements to achieve class certification. Id. For the reasons
+18   explained below, the Court finds that Plaintiffs have not made this showing.
+19                   1. Predominance
+20            Here, Plaintiffs rely on Rule 23(b)(3)—predominance. Fed. R. Civ. P. 23(b)(3).
+21   This subsection requires that “the questions of law or fact common to the class predominate
+22   over any questions affecting only individual members, and that a class action is superior to
+23   other available methods for fairly and efficiently adjudicating the controversy.” Fed. R.
+24   Civ. P. 23(b)(3). Both predominance and superiority must be shown for certification.
+25            A predominance analysis is similar to the commonality analysis under Rule 23(a),
+26   only more demanding. Comcast Corp. v. Behrend, 569 U.S. 27, 34 (2013); Amchem
+27   Products, Inc. v. Windsor, 521 U.S. 591, 615 (1997) (explaining that Rule 23(b) requires
+28   courts to take a “close look” at a case before accepting certification). The predominance
+
+
+                                                 - 12 -
+     Case 2:22-cv-00342-SMB Document 90 Filed 03/04/24 Page 13 of 15
+
+
+
+ 1   inquiry “tests whether proposed classes are sufficiently cohesive to warrant adjudication by
+ 2   representation” and examines whether there is a common question or instead more
+ 3   individualized questions. Tyson Foods, Inc. v. Bouaphakeo, 577 U.S. 442, 453 (2016)
+ 4   (quoting Amchem Products, Inc., 521 U.S. at 623 (emphasis added)).
+ 5          An individual question is one where ‘members of a proposed class will
+            need to present evidence that varies from member to member,’ while a
+ 6          common question is one where ‘the same evidence will suffice for each
+            member to make a prima facie showing [or] the issue is susceptible to
+ 7
+            generalized, class-wide proof.
+ 8   Id. (quoting 2 W. Rubenstein, Newberg on Class Actions § 4:50 (5th ed. 2012)). Once a
+ 9   common question has been identified, like the Court here did above, it must ask whether
+10   that common question is more prevalent than individual questions. Id.
+11          Plaintiffs argue that the common issues clearly predominate over any individual
+12   issues and that the calculation of damages will not overwhelm questions common to the
+13   class. (Doc. 42 at 14.) Progressive argues that individualized issues predominate because,
+14   PSA aside, determining whether a Plaintiff was paid below ACV turns on individual car
+15   valuations. (Doc. 46 at 18.) Although the Court found Progressive’s arguments inadequate
+16   to defeat Plaintiffs’ initial lower burden for showing a common question, it finds them
+17   adequate to defeat Plaintiffs’ showing under the higher predominance standard. In other
+18   words, this case is not “sufficiently cohesive” to warrant class certification. Amchem
+19   Products, Inc., 521 U.S. at 615.
+20          As the Court addressed above, the crux of the issue here is whether Progressive
+21   breached its obligation under the Policy to pay out the ACV of total vehicles by applying
+22   a PSA. From the record here, the PSA is only part of one method of ACV calculations.
+23   There are at least two other ways of estimating ACV —NADA and KBB — both of which
+24   Progressive could have used to calculate Plaintiffs’ ACV under the Policy, as Progressive
+25   is not bound to use any one ACV methodology. As Progressive notes, these other two
+26   sources have, in some circumstances, returned with the same or a lower ACV estimate than
+27   Mitchell’s estimate which included a PSA. (Doc. 46 at 21, 35.) This alone makes
+28   determining whether Plaintiffs were paid less than ACV difficult to determine on a class
+
+
+                                                - 13 -
+     Case 2:22-cv-00342-SMB Document 90 Filed 03/04/24 Page 14 of 15
+
+
+
+ 1   wide basis. It would require the Court, and a jury, to look at not just the Mitchell valuation,
+ 2   but also several other valuations to determine whether each individual Plaintiff was paid
+ 3   below market.
+ 4          Additionally, the valuation issue stems not only from the lack of uniformity in how
+ 5   ACV is determined, but also in the lack of uniformity on what factors into this
+ 6   determination. Although Plaintiffs have offered evidence on how a valuation can be
+ 7   calculated, the undertaking of these individual calculations overwhelms the common
+ 8   question of whether a PSA was in breach of the Policy. As Progressive notes, each
+ 9   individual car has individual features which require different valuation adjustments. (Doc.
+10   46 at 16.) From vehicle mileage and equipment to engine quality and window tint—there
+11   appear to be an unmitigated number of factors that can go into reaching an ACV. (Id. at
+12   16–17.) So, although one adjustment (the PSA) from one methodology (Mitchell) was
+13   applied across the proposed class, “other compensating adjustments and the ultimate
+14   valuation are made individually. And it’s those other things that would require more
+15   individualized inquiries” than common inquires here. Lara, 25 F.4th at 1140. The Court
+16   agrees with Progressive that this step would turn the common question of whether using a
+17   PSA violated the Policy into “thousands of mini trials” surrounding valuation. (Doc. 46 at
+18   35.)
+19          Further, even if Plaintiffs established the PSA was a policy violation, Progressive
+20   would still be entitled to present individualized evidence that it did not breach any one
+21   Plaintiff’s contract. See, e.g., Navellier v. Sletten, 262 F.3d 923, 941 (9th Cir. 2001)
+22   (affirming denial of certification where plaintiff was “subject to unique defenses”).
+23   Therefore, even if Plaintiffs established that a PSA should not have been applied under the
+24   Mitchell method, Progressive would still be entitled to show that despite the PSA
+25   deduction, a plaintiff was still paid their vehicle’s correct ACV. Ellis, 657 F.3d at 985
+26   (vacating certification order where district court did not consider individualized defenses).
+27          Therefore, the Court finds that Plaintiffs do not satisfy the Rule 23 (b) predominance
+28   requirement, making the class inappropriate for certification.
+
+
+                                                 - 14 -
+     Case 2:22-cv-00342-SMB Document 90 Filed 03/04/24 Page 15 of 15
+
+
+
+ 1                 2. Superiority
+ 2          Because the Court finds Plaintiffs do not satisfy the Rule 23 (b) predominance
+ 3   inquiry, it need not reach the superiority factors.
+ 4   V.     CONCLUSION
+ 5          Accordingly,
+ 6          IT IS ORDERED denying Plaintiffs’ Motion for Class Certification (Doc. 42).
+ 7          Dated this 1st day of March, 2024.
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28

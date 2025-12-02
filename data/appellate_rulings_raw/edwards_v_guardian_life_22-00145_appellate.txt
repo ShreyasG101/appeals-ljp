@@ -1,0 +1,243 @@
+Case: 24-60381       Document: 72-1      Page: 1    Date Filed: 06/20/2025
+
+
+
+
+        United States Court of Appeals
+             for the Fifth Circuit
+                             ____________                               United States Court of Appeals
+                                                                                 Fifth Circuit
+
+                                                                                FILED
+                               No. 24-60381                                June 20, 2025
+                             ____________
+                                                                          Lyle W. Cayce
+                                                                               Clerk
+James R. Edwards,
+
+                                                        Plaintiff—Appellant,
+
+                                   versus
+
+Guardian Life Insurance of America,
+
+                                         Defendant—Appellee.
+               ______________________________
+
+               Appeal from the United States District Court
+                 for the Northern District of Mississippi
+                         USDC No. 1:22-CV-145
+               ______________________________
+
+Before King, Jones, and Oldham, Circuit Judges.
+Andrew S. Oldham, Circuit Judge:
+       After Pamela Edwards died of cancer, her widower sought payment
+on her life insurance policy. Guardian Life Insurance denied his claim. Jimmy
+Edwards then sued the insurer in federal court. The district court granted
+Guardian’s motion for partial summary judgment. We reverse and render
+judgment for Edwards.
+                                     I
+      Pam Edwards owned and operated a beauty salon in Starkville,
+Mississippi called Allure Salon. She was diagnosed with cancer in 2019 and
+ Case: 24-60381          Document: 72-1          Page: 2       Date Filed: 06/20/2025
+
+
+
+
+                                       No. 24-60381
+
+
+underwent radiation, chemotherapy, and surgery thereafter. Tragically,
+Pam’s cancer never went into remission, and she died on May 27, 2022.
+        Upon Pam’s death, insurance agent Debbie Jaudon informed her
+husband, Jimmy, that Pam had a life insurance policy from Guardian. She had
+purchased the policy in 2007, as she “wanted to be sure that she had
+something to leave to her husband.” ROA.160. Pam dealt exclusively with
+Allure’s finances, so Jimmy was unaware of the policy until Jaudon informed
+him of its existence.
+        Jaudon then requested a life claim form from Guardian. But Guardian
+claimed the policy had been cancelled before Pam’s death. The insurer
+argued that Pam bought a group policy to cover multiple Allure employees.
+But in November 2019, Allure’s coverage dropped to one (Pam)—thus
+triggering Guardian’s contractual right to cancel it.
+        That was news to Jaudon, Pam’s insurance agent, because she never
+received a notice of cancellation. How so? Guardian says that in September
+2020, it “temporarily suspended its practice of terminating plans that had
+dropped to one participant due to the COVID 19 pandemic that was
+impacting the entire globe.” Red Br. at 6. Guardian later renewed its normal
+cancellation practices and terminated Pam’s coverage on January 15, 2022. It
+nevertheless remains a mystery why Guardian never notified Jaudon of the
+cancellation.
+        Jimmy Edwards sued Guardian in the Northern District of
+Mississippi. 1 He brought various claims under Mississippi common law, and
+argued that in the alternative, ERISA entitled him to recover benefits under
+
+        _____________________
+        1
+         Jimmy Edwards passed away during the pendency of this case. Accordingly, the
+court granted a motion on June 20, 2025 to substitute his son and the executor of his estate,
+James R. Edwards, as appellant. See Fed. R. App. P. 43(a)(1).
+
+
+
+
+                                             2
+Case: 24-60381       Document: 72-1       Page: 3    Date Filed: 06/20/2025
+
+
+
+
+                                 No. 24-60381
+
+
+the plan. Guardian moved for partial summary judgment, arguing ERISA
+governed the plan and preempted Edwards’ common-law claims. The
+district court granted Guardian’s motion. Jimmy timely appealed.
+                                     II
+       As a threshold matter, we find that ERISA applies to the Allure
+policy. ERISA governs “any employee benefit plan if it is established or
+maintained by any employer engaged in commerce or in any industry or
+activity affecting commerce.” 29 U.S.C. § 1003(a)(1). The mere purchase of
+an insurance policy does not immediately establish that ERISA applies. See,
+e.g., Shearer v. Sw. Serv. Life Ins. Co., 516 F.3d 276, 279 (5th Cir. 2008).
+Instead, to decide whether a policy qualifies as an employee benefit plan, “we
+ask whether a plan: (1) exists; (2) falls within the safe-harbor provision
+established by the Department of Labor; and (3) satisfies the primary
+elements” of such a plan: “establishment or maintenance by an employer
+intending to benefit employees.” Meredith v. Time Ins. Co., 980 F.2d 352, 355
+(5th Cir. 1993). Failure to satisfy any of these elements means ERISA does
+not apply. Ibid.
+       The parties mainly dispute whether Allure had employees—a
+question that implicates the first and third Meredith prongs. See House v. Am.
+United Life Ins. Co., 499 F.3d 443, 450 (5th Cir. 2007) (explaining that
+whether a participating business has employees speaks to “the determination
+of the existence of an employee welfare benefit plan” (emphasis added));
+Meredith, 980 F.2d at 355–56 (locating it in “step three” while
+acknowledging the “circ[ularity]” of the inquiry). Employee benefit plans
+under ERISA do not include those “[p]lans that cover only sole owners or
+partners and their spouses.” Raymond B. Yates, M.D., P.C. Profit Sharing
+Plan v. Hendon, 541 U.S. 1, 21 (2004). So ERISA would not apply if Allure
+never had employees, making Pam the only covered member. Independent
+
+
+
+
+                                      3
+Case: 24-60381       Document: 72-1       Page: 4    Date Filed: 06/20/2025
+
+
+
+
+                                 No. 24-60381
+
+
+contractor status is a question of law that this court reviews de novo. Penn v.
+Howe-Baker Eng’rs, Inc., 898 F.2d 1096, 1101 (5th Cir. 1990).
+       Because ERISA does not define “employee,” federal courts apply
+federal common law to determine whether an individual qualifies. Nationwide
+Mut. Ins. Co. v. Darden, 503 U.S. 318, 323–24, 323 n.3 (1992). This multi-
+faceted inquiry “incorporate[s] traditional agency law principles.” Id. at 323.
+No single factor is dispositive, but the test places “special emphasis on the
+issue of control.” Penn, 898 F.2d at 1102. Additional factors include:
+       [T]he skill required; the source of the instrumentalities and
+       tools; the location of the work; the duration of the relationship
+       between the parties; whether the hiring party has the right to
+       assign additional projects to the hired party; the extent of the
+       hired party’s discretion over when and how long to work; the
+       method of payment; the hired party’s role in hiring and paying
+       assistants; whether the work is part of the regular business of
+       the hiring party; whether the hiring party is in business; the
+       provision of employee benefits; and the tax treatment of the
+       hired party.
+Darden, 503 U.S. at 323–24 (quoting Cmty. for Creative Non-Violence v. Reid,
+490 U.S. 730, 751–52 (1989)).
+       On the limited record below, the Darden factors indicate Allure’s
+salon technicians were employees. Pam owned the salon building and
+equipment, so she controlled where the technicians worked and their means
+of doing so. See id. at 323. She also controlled when and how long they worked
+by setting salon hours. Ibid. Allure paid their insurance premiums, which
+entitled it to favorable tax treatment. Ibid. Clients paid gross receipts to
+Allure, and Pam subsequently paid her employees from the Allure business
+account. Finally, Allure was in business and the technicians’ work
+constituted its normal business. See id. at 324. Considering “all of the
+incidents of the relationship,” Darden, 503 U.S. at 324 (quotation omitted),
+
+
+
+
+                                      4
+Case: 24-60381         Document: 72-1          Page: 5    Date Filed: 06/20/2025
+
+
+
+
+                                    No. 24-60381
+
+
+we find that Allure’s workers were employees, so a plan exists and ERISA
+applies.
+                                         III
+       Satisfied that ERISA applies, we turn to Guardian’s policy and
+Jimmy’s claim for benefits. Under the terms of its policy, Guardian
+maintained its “right to cancel . . . any coverage hereunder” when “less than
+two employees are insured.” ROA.303. That right vested when Pam
+Edwards became the sole participating employee effective November 1, 2019.
+Because Guardian could cancel the plan at any time and for any reason, its
+discretionary authority would normally permit the cancellation here under
+the generous abuse of discretion standard. See Corry v. Liberty Life Assur. Co.
+of Bos., 499 F.3d 389, 397 (5th Cir. 2007); Holland v. Int’l Paper Co. Ret. Plan,
+576 F.3d 240, 246 (5th Cir. 2009) (describing standard as requiring merely
+“evidence . . . that clearly supports the basis for its denial” (quotation
+omitted)); ROA.111–113 (showing Allure’s plan with only one member).
+       But insurers can waive their discretionary cancellation rights under
+ERISA. The waiver inquiry “focus[es] on the unilateral action of the insurer
+in failing to raise at the outset a known” right. Pitts ex rel. Pitts v. Am. Sec. Life
+Ins. Co., 931 F.2d 351, 357 (5th Cir. 1991). We have held that an insurer that
+accepted premiums for five months “after learning beyond all doubt that
+[Plaintiff] was the only employee remaining on the policy” waived its right to
+cancel. Ibid.
+       We hold that Guardian waived its right to cancel Pam Edwards’s plan
+by continuing to accept premium payments from Allure for 26 months after
+its cancellation right vested. Guardian’s cancellation right vested on
+November 1, 2019. There is a conspicuous 10-month gap between that date
+and when Guardian started “temporarily suspending” plan cancellation in
+September 2020 due to COVID. See Red Br. at 6. Between the plan becoming
+
+
+
+
+                                          5
+Case: 24-60381       Document: 72-1        Page: 6   Date Filed: 06/20/2025
+
+
+
+
+                                  No. 24-60381
+
+
+eligible for termination and its cancellation, Guardian accepted 26 months’
+worth of premiums. And Guardian’s delay in cancellation prejudiced Pam
+because she was unable to conduct business over the last ten months of her
+life due to her mental and physical deterioration. Guardian cannot now avoid
+its obligation to Jimmy Edwards after accepting Allure’s premiums for 26
+months. Cf. Rhorer v. Raytheon Eng’rs and Constructors, Inc., 181 F.3d 634,
+645 (5th Cir. 1999) (reversing district court’s grant of summary judgment
+because “a reasonable jury could conclude that Raytheon knowingly waived
+its right to enforce” certain insurance requirements after it “accepted
+premiums from Mr. Rhorer for several months”).
+                              *        *         *
+      According to Guardian, most of its delay in canceling Allure’s ERISA
+plan was caused by the insurer’s non-cancellation policy during the COVID
+pandemic. Guardian asks us to recognize this “generous accommodation” as
+“laudatory.” Red Br. at 48 & 6 n.1. But we disagree that requiring Guardian
+to pay Jimmy’s claim “epitomizes the adage that ‘no good deed goes
+unpunished.’” Id. at 48. To the contrary: Requiring Guardian to pay Jimmy’s
+claim after it pocketed 26 months of Allure’s premiums epitomizes a
+different adage: “You get what you pay for.”
+      For the foregoing reasons, we REVERSE the district court’s
+judgment and RENDER judgment for James Edwards.
+
+
+
+
+                                       6

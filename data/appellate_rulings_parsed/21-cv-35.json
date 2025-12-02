@@ -1,0 +1,42 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court erred in denying Doe's motion to be appointed 'next friend' to a class of viable fetuses under Federal Rule of Civil Procedure 17(c) for lack of a 'significant relationship.'",
+      "standard_of_review": "abuse of discretion",
+      "holding": "REVERSE",
+      "key_reasoning": "The Second Circuit held that a 'significant relationship' is not a categorical requirement for next friend appointments under Rule 17(c), and the district court abused its discretion by treating it as mandatory."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether Doe had Article III standing to bring claims on behalf of a class of viable fetuses when she failed to identify or describe any specific class member.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "Doe lacked standing because she failed to identify or describe any class member with a concrete injury, as required for representative standing under Article III."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the district court properly denied Doe's post-judgment motion to amend the complaint to add claims on behalf of 'Baby Nicholas' for lack of standing.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The proposed amended complaint did not plausibly allege that Baby Nicholas faced an imminent, traceable injury from the RHA, so standing was lacking and amendment would be futile."
+    }
+  ],
+  "key_precedents": [
+    "Whitmore v. Arkansas, 495 U.S. 149 (1990)",
+    "Summers v. Earth Island Inst., 555 U.S. 488 (2009)",
+    "Lujan v. Defenders of Wildlife, 504 U.S. 555 (1992)",
+    "TransUnion LLC v. Ramirez, 594 U.S. 413 (2021)",
+    "Ad Hoc Comm. of Concerned Tchrs. v. Greenburgh # 11 Union Free Sch. Dist., 873 F.2d 25 (2d Cir. 1989)",
+    "Faculty, Alumni, & Students Opposed to Racial Preferences v. N.Y. Univ., 11 F.4th 68 (2d Cir. 2021)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "Mary Doe, a social worker proceeding by pseudonym, appeals from a judgment dismissing her constitutional challenges to New York\u2019s Reproductive Health Act (\u201cRHA\u201d) for lack of standing; she also appeals the district court\u2019s denial of her post-judgment motions to amend the complaint. Doe raises two challenges on appeal. First, she argues that the district court erred in denying her motion to be appointed \u201cnext friend\u201d to a class of viable fetuses in order to bring a constitutional challenge to the RHA on their behalf. According to Doe, the district court committed legal error in requiring her to demonstrate a \u201csignificant relationship\u201d to the viable fetuses in the class, which Doe maintains is not a prerequisite to next friend representation under Federal Rule of Civil Procedure 17(c). Second, Doe argues that the district court erred in denying her post-judgment motion to file an amended complaint, which the district court found would be futile for lack of standing. Doe disputes the district court\u2019s ruling on standing, arguing that the proposed amended complaint asserted claims on behalf of a viable fetus, \u201cBaby Nicholas,\u201d who had been cognizably harmed by the RHA.\n       With respect to Doe\u2019s motion to be appointed next friend, we agree with Doe that the district court erred in requiring a \u201csignificant relationship\u201d for next friend appointments. Nevertheless, we affirm the dismissal of Doe\u2019s claims on another ground \u2013 namely, that she failed to identify or otherwise describe any class member in the viable fetus class that she sought to represent. Without describing at least one class member and the injury he faces, Doe necessarily cannot meet her burden of plausibly establishing a live case or controversy under Article III. We likewise affirm the district court\u2019s denial of Doe\u2019s motion to amend, which turned on the conclusion that Baby Nicholas lacks standing to challenge the RHA. Even if the RHA exposed Baby Nicholas to a generalized risk of abortion or third-party violence, he will have standing only if he plausibly faces an injury that is imminent and traceable to the RHA. Here, the only potential near-term risk alleged in the proposed amended complaint \u2013 that Baby Nicholas\u2019s mother\u2019s former partner will attack her and harm him \u2013 is not traceable to the RHA, since nothing plausibly indicates that the RHA will cause the former partner to engage in such behavior. Accordingly, we AFFIRM the judgment of the district court."
+}

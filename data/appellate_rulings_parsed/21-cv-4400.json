@@ -1,0 +1,43 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether plaintiffs plausibly alleged that the defendant banks are liable under JASTA for aiding and abetting terrorist attacks in Afghanistan by providing banking services to customers allegedly linked to terrorist organizations.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that, applying the Supreme Court's decision in Twitter, Inc. v. Taamneh and Second Circuit precedent, plaintiffs failed to plausibly allege that the banks knowingly and substantially assisted the terrorist attacks, as required for aiding-and-abetting liability under JASTA."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether plaintiffs stated a claim for aiding and abetting a 'terrorist campaign' or pattern of racketeering activity, rather than a specific act of international terrorism, under JASTA.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that JASTA does not provide relief for aiding and abetting a broad 'campaign' or pattern of racketeering activity, but only for specific acts of international terrorism, and thus plaintiffs' campaign theory fails as a matter of law."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the district court abused its discretion in denying leave to amend the complaint after dismissal.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found no abuse of discretion because plaintiffs had already amended their lengthy complaint once and failed to explain how further amendment would cure the deficiencies."
+    }
+  ],
+  "key_precedents": [
+    "Twitter, Inc. v. Taamneh, 598 U.S. 471 (2023)",
+    "Halberstam v. Welch, 705 F.2d 472 (D.C. Cir. 1983)",
+    "Kaplan v. Lebanese Canadian Bank, SAL, 999 F.3d 842 (2d Cir. 2021)",
+    "Honickman v. BLOM Bank SAL, 6 F.4th 487 (2d Cir. 2021)",
+    "Siegel v. HSBC North American Holdings, Inc., 933 F.3d 217 (2d Cir. 2019)",
+    "Linde v. Arab Bank, PLC, 882 F.3d 314 (2d Cir. 2018)",
+    "Smith & Wesson Brands, Inc. v. Estados Unidos Mexicanos, 145 S. Ct. 1556 (2025)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "Plaintiffs-Appellants are Americans who were killed or injured, as well as their family members, in terrorist attacks in Afghanistan. They sued three sets of banks\u2014Deutsche Bank Aktiengesellschaft and Deutsche Bank Trust Company Americas; Standard Chartered Bank, Standard Chartered PLC, and Standard Chartered Bank (Pakistan) Limited (together, \u201cSCB\u201d); and Danske Bank A/S\u2014under the Anti-Terrorism Act, 18 U.S.C. \u00a7 2333, as amended by the Justice Against Sponsors of Terrorism Act (\u201cJASTA\u201d), id. \u00a7 2333(d)(2), for aiding and abetting the terrorist organizations who committed the attacks. Plaintiffs allege that the banks\u2019 customers used their banking services to execute tax fraud and money laundering schemes; the proceeds went to terrorist organizations, providing them with access to crucial financial resources, including those necessary to commit the attacks that injured Plaintiffs. Plaintiffs also claim that SCB aided and abetted the terrorist attacks by providing banking services to two fertilizer companies whose product was smuggled into Afghanistan and used to make the bombs that killed or injured Plaintiffs.\n\nThe United States District Court for the Eastern District of New York (Hector Gonzalez, J.) granted Defendants\u2019 motion to dismiss Plaintiffs\u2019 amended complaint in its entirety. While Plaintiffs\u2019 appeal was pending, the Supreme Court decided Twitter, Inc. v. Taamneh, 598 U.S. 471 (2023), which clarified the appropriate pleading standard for an aiding-and-abetting claim under JASTA. Applying Twitter and our prior JASTA precedent, we agree that Plaintiffs have not plausibly alleged that Defendants are liable under JASTA for aiding and abetting. Accordingly, we AFFIRM the judgment of the district court."
+}

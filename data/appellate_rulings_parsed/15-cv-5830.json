@@ -1,0 +1,33 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court erred in denying Madelaine Chocolate's motion for judgment as a matter of law under Rule 50, challenging the sufficiency of the evidence supporting the jury's verdict that the insurance policy did not cover storm-surge losses.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found that the jury had a legally sufficient evidentiary basis to conclude that both parties intended the policy to exclude storm-surge losses, and the district court properly instructed the jury regarding the insurer's burden under New York law."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the district court abused its discretion in denying Madelaine Chocolate's motion for a new trial under Rule 59, based on alleged errors in admitting evidence of the insurer's subjective intent and the application of the law-of-the-case doctrine.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that evidence of subjective intent was permissible for the jury's consideration of ambiguous contract terms, and the law-of-the-case doctrine did not preclude the insurer from presenting its interpretation of the Windstorm Endorsement at trial."
+    }
+  ],
+  "key_precedents": [
+    "Parks Real Est. Purchasing Grp. v. St. Paul Fire & Marine Ins. Co., 472 F.3d 33 (2d Cir. 2006)",
+    "SR Int'l Bus. Ins. Co. v. World Trade Ctr. Props., LLC, 467 F.3d 107 (2d Cir. 2006)",
+    "Cross v. N.Y.C. Transit Auth., 417 F.3d 241 (2d Cir. 2005)",
+    "Song v. Ives Labs., Inc., 957 F.2d 1041 (2d Cir. 1992)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "Madelaine Chocolate Novelties, Inc. (\u201cMadelaine Chocolate\u201d) appeals the district court\u2019s judgment following a jury verdict in favor of Great Northern Insurance Company (\u201cGreat Northern\u201d) in an insurance-coverage dispute concerning storm-surge damage caused by \u201cSuperstorm Sandy\u201d to Madelaine Chocolate\u2019s production facilities. In light of the complicated facts and unusual procedural history of this case, we begin with a brief summary of the dispute before proceeding to the issues on appeal.\n\nI.    Background\n\n      Madelaine Chocolate manufactures candies in a factory located on a narrow strip of land just three blocks from the Atlantic Ocean and one block from Jamacia Bay. In October 2012, Superstorm Sandy inundated the factory with over three feet of saltwater, prompting Madelaine Chocolate to file a claim for more than $53 million in physical damages and economic losses under an insurance policy issued by Great Northern (the \u201cPolicy\u201d).\n\n      Great Northern refused to pay the full claim amount and paid Madelaine Chocolate only about $4 million. In disclaiming coverage, Great Northern invoked the Policy\u2019s flood-exclusion provision, which excludes, in relevant part, \u201closs or damage caused by . . . [the] rising, overflowing[,] or breaking of any boundary, of any . . . body of water . . . , whether driven by wind or not\u201d (the \u201cFlood Exclusion\u201d). J. App\u2019x at 2172. In particular, Great Northern relied on a portion of the Flood Exclusion, commonly known in the insurance industry as an anti-concurrent causation (\u201cACC\u201d) clause, which bars coverage for losses stemming from multiple contributing causes provided that the insurer can demonstrate at least one of those causes is excluded under the Policy. See id. (stating the Flood Exclusion applies \u201cregardless of any other cause or event that directly or indirectly . . . contributes . . . to[] the loss or damage\u201d). According to Great Northern, Madelaine Chocolate\u2019s damage was caused, at least in part, by wind-driven flooding and was thus excluded under the ACC clause of the Flood Exclusion.\n\n      Following Great Northern\u2019s denial of coverage, Madelaine Chocolate sued for breach of contract. Madelaine Chocolate contended that Great Northern was required to cover all of its storm-surge damages because its losses were caused by a \u201cwindstorm,\u201d which is a \u201cspecified peril\u201d under the Policy. See id. at 59.\n\n      The district court disagreed and granted summary judgment in favor of Great Northern on the grounds that the Policy language was unambiguous: Madelaine Chocolate\u2019s damages were caused by a storm surge, which under existing precedents, triggered the Flood Exclusion. According to the district court, the Windstorm Endorsement \u201csimply reiterates the fact that the policy provides for \u2018wind\u2019 damage\u201d and addresses the deductible amount; it does not \u201cprovide[] a separate basis for coverage\u201d or \u201csupersede[] the flood exclusion.\u201d See Madelaine Chocolate Novelties, Inc. v. Great N. Ins. Co., No. 15-cv-5830 (RJD) (SMG) (GRB), 2017 WL 2954630, at *9\u201310 (E.D.N.Y. June 30, 2017), report and recommendation adopted sub nom. Madelaine Chocolate Novelties v. Great N. Ins. Co., No. 15-cv-5830 (RJD) (SMG) (GRB), 2017 WL 4280550 (E.D.N.Y. Sept. 26, 2017), vacated and remanded sub nom. Madelaine Chocolate Novelties, Inc. v. Great N. Ins. Co., 752 F. App\u2019x 47 (2d Cir. 2018).\n\n         On appeal, we vacated the district court\u2019s judgment, concluding that the district court failed to consider that the Windstorm Endorsement contained its own, arguably inverse, ACC clause that applies to \u201cthe definition of a covered peril for the entire Policy.\u201d Madelaine Chocolate Novelties Inc., 752 F. App\u2019x at 50. We instructed that, \u201c[o]n remand, the [d]istrict [c]ourt must assess whether the Windstorm Endorsement\u2019s ACC clause conflicts with, or otherwise creates an ambiguity vis-\u00e0-vis, the Policy\u2019s Flood Exclusion.\u201d Id."
+}

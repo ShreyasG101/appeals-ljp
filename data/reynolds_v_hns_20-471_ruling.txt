@@ -1,0 +1,672 @@
+UNITED STATES DISTRICT COURT                            
+                   DISTRICT OF CONNECTICUT                               
+
+KEISHA REYNOLDS,                                                         
+
+     Plaintiff,                               No. 3:20-cv-00471-MPS      
+
+     v.                                                                  
+
+HNS MANAGEMENT CO., INC.,                                                
+     Defendant.                                                          
+
+           RULING ON MOTION FOR SUMMARY JUDGMENT                         
+    Keisha Reynolds brings this action against her former employer, HNS Management Co., 
+Inc., d/b/a CTTRANSIT (“CT Transit”), alleging that CT Transit discriminated against her in 
+violation of Title VII of the Civil Rights Act of 1964 (“Title VII”), 42 U.S.C. §§ 2000e et seq., 
+and the Americans with Disabilities Act (“ADA”), 42 U.S.C. §§ 12101 et seq. ECF No. 14 at 7, 
+10-11. Reynolds, who was allegedly terminated after she refused to attend a fitness for duty 
+examination, claims that CT Transit discriminated against her based on her religion and a 
+perceived mental disability by requiring her to attend multiple fitness for duty examinations and 
+by terminating her when she failed to attend one of those examinations. Id. at 10-11. CT Transit 
+moves for summary judgment on all of Reynolds’s claims. For the reasons set forth below, I 
+grant CT Transit’s motion for summary judgment.                           
+I.   FACTUAL AND PROCEDURAL BACKGROUND                                    
+    The following facts are taken from CT Transit’s Local Rule 56(a)1 statement, the 
+evidence in the record, and any factual allegations from the operative complaint that are based on 
+personal knowledge.1                                                      
+
+1 Local Rule 56(a)2 requires the party opposing summary judgment to submit a Local Rule 56(a)2 Statement that 
+contains separately numbered paragraphs corresponding to the paragraphs set forth in the moving party’s Local Rule 
+56(a)1 Statement and indicating whether the opposing party admits or denies the facts set forth by the moving party 
+in each paragraph. D. Conn. L. Civ. R. 56(a)2. Each admission or denial must include a citation to an affidavit or 
+other admissible evidence. D. Conn. L. Civ. R. 56(a)3. In addition, the opposing party must submit a list of 
+      A.     Employment Background 
+      CT Transit “operates local express bus services in the Hartford, New Haven and 
+Stamford areas” and “employs approximately 1,240 full and part-time employees throughout 
+Connecticut.” CT Transit’s Local Rule 56(a)1 Statement, ECF No. 93-2 § 2. CT Transit 
+employed Reynolds as a bus operator in the Hartford Division for approximately seven years 
+before her employment ended. /d. § 1. CT Transit’s bus operators are employed “to 
+safely operate transit buses on routes throughout the Greater Hartford area,” id. § 8, and “certain 
+medical conditions, including mental disorders, may prevent a [b]us [o]perator from meeting the 
+requirements of the position,” id.; ECF No. 93-5 at 4. Bus operators “are required by Federal 
+Motor Carrier Regulations (49 CFR 391.41 - 391.49) to have a Connecticut Commercial Driver's 
+License.” ECF No. 93-2 9 5; ECF No. 93-3 4 7. And holders of Commercial Driver’s Licenses 
+(CDL’s) must “maintain an up-to-date Medical Examiner's Certificate.” ECF No. 93-2 9 6; ECF 
+
+additional facts not included in the movant’s Local Rule 56(a)1 Statement that it contends “establish genuine issues 
+of material fact precluding judgment in favor of the moving party.” D. Conn. L. Civ. R. 56(a)2. Reynolds was 
+informed of this requirement by CT Transit when CT Transit filed its motion for summary judgment. See Notice to 
+Self-Represented Litigant Concerning Motion for Summary Judgment, ECF No. 94. I also explained the rules 
+governing motions for summary judgment to Reynolds at a telephonic status conference before CT Transit filed its 
+motion for summary judgment. ECF No. 90. 
+Reynolds has declined to file  a memorandum in opposition to CT Transit’s motion for summary judgment or a Local 
+Rule 56(a)2 statement. Because Reynolds did not file any argument or evidence in response to CT Transit’s motion 
+for summary judgment, the facts in CT Transit’s statement that are supported by admissible evidence, which include 
+all the facts from CT Transit’s statement set forth herein, are deemed admitted. D. Conn. L. Civ. R. 56(a)1. The facts 
+are also drawn from the allegations asserted in the operative complaint, which Reynolds signed under penalty of 
+perjury, ECF No. 14 at 6, to the extent that the allegations are based on Reynolds’s personal knowledge, see 
+Patterson v. Cty. of Oneida, 375 F.3d 206, 219 (2d Cir. 2004) (holding that a verified pleading that contains 
+“allegations on the basis of the plaintiffs personal knowledge, and not merely on information and belief, has the 
+effect of an affidavit and may be relied on to oppose summary judgment.”); Lindsay v. Cook, 3:19CV1486(JCH), 
+2021 WL 5827080, at *2 n.2 (D. Conn. Dec. 7, 2021) (“the facts are also drawn from the allegations asserted in [th]e 
+Complaint . . ., which [plaintiff] certified under penalty of perjury were true and accurate, to the extent that the 
+allegations are based on [plaintiffs] personal knowledge”). But I am “under no obligation . . . to perform an 
+independent review of the record to find proof of a factual dispute if the non-moving party fails to designate specific 
+facts showing a genuine dispute of material fact.” Chalco v. Belair, 738 F. App’x 705, 709 (2d Cir. 2018) (summary 
+order) (internal quotation marks omitted); accord Amnesty Am. v. Town of W. Hartford, 288 F.3d 467, 470 (2d Cir. 
+2002) (Court not required to assist parties who file deficient Local Rule 56 Statements by conducting “an exhaustive 
+search of the entire record before ruling on a motion for summary judgment”).
+
+No. 93-3 § 8. “When there is  a concern about a Bus Operator's ability to safely operate a bus and 
+perform the duties of the  job because of a physical or mental health issue, CT Transit refers the 
+employee for a fitness for duty evaluation.” ECF No. 93-2 9 9; ECF No. 93-3 § 11. 
+      B.     Fitness for Duty Exams 
+      Reynolds “completed a regular physical on or about December 27, 2016, which physical 
+found that she was fit for duty and had no restrictions to her ability to operate a vehicle.” 
+Reynolds’s Verified Complaint, ECF No. 14 at 7. “In or about October, 2018, [Reynolds] 
+expressed . . . to her Union Representative” that “she believed she had been followed by car 
+thieves in her home town of Vernon, who may be interested in stealing her newly purchased 
+vehicle.” Jd. at 8. “Within a few days of this conversation,” Reynolds’s manager informed her 
+that “she could not return to regular work until she completed another physical.” /d. Reynolds’s 
+manager “refused to explain why” CT Transit wanted Reynolds to complete another physical. /d. 
+Reynolds attended “the physical on November 30, 2018” and was found “fit to return to work.” 
+Id. Reynolds claims that the medical provider who conducted the physical told her that “she had 
+[nJo restrictions” but that CT Transit and Reynolds’s union “were ‘against her.’” /d. After this 
+physical exam, Reynolds returned to work until she took “‘an approved one-week vacation” on 
+October 14, 2019. Jd. 
+      While Reynolds was on vacation, CT Transit’s Director of Human Resources, Catherine 
+Gray, was informed on October 18, 2019, that Reynolds “saw demons” and believed that 
+“demons were coming out of the Transportation Supervisor|’]|s ears, that  a Bus Operator had 
+demons[,] and the company was controlled by Free Masons.” ECF No. 93-2 § 10; ECF No. 93-3 
+4 12. After receiving this information, CT Transit became concerned “about [Reynolds’s] ability 
+to safely operate a bus and perform her  job duties.” ECF No. 93-2 § 10; ECF No. 93-3 § 12.
+
+    Reynolds returned from vacation on October 21, 2019, and was told she “could not return 
+to her regular shift” until she met with Gray. ECF No. 14 at 8. Gray and Reynolds met that same 
+day. ECF No. 93-2 ¶ 11; ECF No. 14 at 8-9. “[B]ased on the results of that communication,” 
+Gray told Reynolds that “she would be referred to the Employee Assistance Program for 
+
+evaluation of her ability to safely perform the duties of a Bus Operator” and that Reynolds 
+“would not be able to return to work until she was cleared.” ECF No. 93-2 ¶ 11; ECF No. 93-3 ¶ 
+13. Reynolds claims that Gray “would not explain the reason” for the evaluation and that Gray 
+told Reynolds she “had already completed and submitted paperwork on [Reynolds’s] behalf 
+seeking a leave from work under the Family Medical Leave Act.” ECF No. 14 at 9. Reynolds 
+also claims that Gray made the appointment for Reynolds, giving Reynolds the “date, time and 
+address of the office” at which the evaluation was to take place but not telling Reynolds that the 
+evaluation was “actually a mental examination.” Id. After Reynolds was referred to the 
+Employee Assistance Program (“EAP”), Gray received “additional information which 
+confirmed” CT Transit’s concerns about whether Reynolds “could safely operate a bus and 
+
+perform her job duties based upon a possible mental disorder.” ECF No. 93-2 ¶ 12; ECF No. 93-
+3 ¶ 14.2                                                                  
+    When Reynolds arrived at her evaluation, “she learned for the first time that it was 
+actually a mental examination” that was conducted by “Kerry L. Tuttle, LCSW.” ECF No. 14 at 
+9. Reynolds also learned that Gray had scheduled her for three “hour-long examinations.” Id. 
+During the first examination, Tuttle primarily questioned Reynolds about “her religious beliefs 
+and such beliefs’ impact on her decision-making process.” Id. After Reynolds’s second 
+examination, Reynolds claims that Tuttle told her that she “would not be required to attend 
+
+
+2 As it is not clear what this “additional information” was, I do not rely on it in my analysis below. 
+another session” and gave Reynolds “a form declaring her fit to return to work.” Id.  Reynolds 
+claims that she submitted this form to CT Transit through her union representative “on or about 
+October 28, 2019.” Id.                                                    
+     On October 30, 2019, Gray was advised that Reynolds “had signed a release to allow 
+
+disclosure of information” related to her EAP referral. ECF No. 93-2 ¶ 13; ECF No. 93-3 ¶ 15. 
+As part of this disclosure, Gray received a letter from the President and CEO of The Lexington 
+Group. ECF No. 93-2 ¶ 13; ECF No. 93-6 at 2. The Lexington Group is CT Transit’s “employee 
+assistance provider.” ECF No. 93-7 at 2. The Lexington Group letter stated that Reynolds “was 
+seen for an evaluation on October 24th and October 29th, 2019,” that she “declined to schedule 
+any further sessions,” and that she should “be seen by a psychiatrist for a fitness for duty 
+evaluation.” ECF No. 93-6 at 2.                                           
+    After Gray received this letter, she scheduled Reynolds for “a fitness for duty 
+examination with St. Francis Occupational Health for November 5, 2019, at 11:15 am.” ECF No. 
+93-3 ¶ 16. Gray told Reynolds on October 30, 2019, that “prior to returning to work, she needed 
+
+to attend a fitness for duty examination on November 5, 2019 that could be rescheduled if it was 
+not convenient for her.” Id.; ECF No. 14 at 9 (Reynolds alleging that “she received a call from 
+Gray informing her that . . . she would . . . be required to attend another ‘physical’ with an 
+unidentified doctor at St. Francis hospital in Hartford”). “Gray attempted to contact [Reynolds] 
+by telephone to confirm her attendance at the November 5, 2019 examination but did not receive 
+a response from [Reynolds].” ECF No. 93-2 ¶ 14; ECF No. 93-3 ¶ 16. Reynolds did not attend 
+the November 5 fitness for duty examination or contact Gray about it. ECF No. 93-3 ¶ 17.  
+    In accordance with “CT Transit’s established policy and procedures,” on November 11, 
+2019, Gray sent Reynolds a letter “informing her that she would be ‘Medically Disqualified’ if 
+she did not complete the fitness for duty examination on or before December 2, 2019.” ECF No. 
+93-2 ¶ 16; ECF No. 93-7 at 2-3. Gray’s letter also asked Reynolds to contact Gray “as soon as 
+possible to schedule a new appointment with St. Francis.” ECF No. 93-7 at 2. “Enclosed with the 
+letter was a copy of the October 30, 2019 letter from [the Lexington Group] recommending the 
+
+fitness for duty examination and [the] FMLA documents, including a Notice of Rights and 
+Responsibilities and Certification of Health Care Provider, should [Reynolds] need a leave of 
+absence under state or federal law.” ECF No. 93-2 ¶ 16; ECF No. 93-7 at 4-11. The FMLA 
+documents were partially filled out and did not constitute a completed FMLA leave application. 
+See ECF No. 93-7 at 5-11; see also id. at 3 (Grey informing Reynolds in November 11, 2019 
+letter that although Reynolds had “not requested leave under the FMLA,” Gray had “included the 
+forms for your convenience in case you and your healthcare provider determine FMLA leave is 
+needed”). Gray sent this letter via certified mail to Reynolds at P.O. Box 1711, Hartford, CT 
+06144-1711. ECF No. 93-7 at 2. After Gray sent this letter, Reynolds “did not contact” Gray and 
+“did not submit a request for FMLA leave.” ECF No. 93-2 ¶ 17; ECF No. 93-3 ¶ 19. Reynolds 
+
+also did not reschedule or attend a fitness for duty examination. ECF 93-3 ¶ 19; ECF No. 93-8 at 
+2 (Gray writing in January 2020 that Reynolds had “not followed up with the physician at St. 
+Francis” about her fitness for duty examination).                         
+    Gray sent a second letter to Reynolds on January 8, 2020. ECF No. 93-3 ¶ 20; ECF No. 
+93-8. In this letter, Gray informed Reynolds that “she was medically disqualified from 
+employment as a Bus Operator and removed from the employee roster.” ECF No. 93-3 ¶ 20; 
+ECF No. 93-8 at 2. Gray also noted that CT Transit had not “received any additional 
+information” from Reynolds after sending the November 11, 2019 letter. ECF No. 93-8 at 2. 
+Gray’s second letter was also sent to Reynolds at P.O. Box 1711, Hartford, CT 06144-1711; the 
+letter was returned to Gray as unclaimed on February 19, 2020. /d. at 4. 
+      Reynolds claims that she filed a charge with the Equal Employment Opportunity 
+Commission (“EEOC”) “on or about October 30, 2019,” that she stopped receiving paychecks in 
+November 2019, and that she “never received any direct correspondence from any employee or 
+agent” of CT Transit after filing the EEOC Complaint. ECF No. 14 at 10. She also claims that 
+she “was never formally terminated, and never received a reason or explanation for said 
+termination.” /d. Finally, Reynolds claims that she was placed on FMLA leave “without [her] 
+knowledge and consent.” /d. at 2. Despite claiming that she never received any correspondence 
+from CT Transit after filing her EEOC charge on October 30, 2019, Reynolds included with her 
+original complaint part of Gray’s November 11, 2019 letter. Compare ECF No. 1 at 75-83 (the 
+second page of Gray’s November letter, the Lexington Group letter, and the partially completed 
+FMLA paperwork), with ECF No. 93-7 at 3-11 (same). 
+      C.     Procedural History 
+      Reynolds filed this action pro se via a 138-page complaint on April 6, 2020. ECF No. 1. 
+After Reynolds failed to file proof of service and I ordered her to show cause why this case 
+should not be dismissed for failure to prosecute, ECF No. 8, she filed a letter, ECF No. 9, that I 
+construed as a motion to appoint counsel, ECF No. 10. I granted this motion and appointed 
+counsel to assist Reynolds in drafting an amended complaint and serving it on CT Transit. /d. I 
+authorized the appointed counsel to continue representing Reynolds if he wished to after counsel 
+completed his initial tasks. ECF No. 11. Through counsel, Reynolds filed an Amended 
+Complaint on November 5, 2020. ECF No. 14. This complaint asserted claims under the ADA
+
+and Title VII. ECF No. 14 at 10-11. After Reynolds’s appointed counsel filed this complaint and 
+served it on CT Transit, he declined to continue representing Reynolds. ECF No. 17. 
+    After CT Transit filed its answer, I held a telephonic status conference, ECF No. 41, and 
+then granted Reynolds’s motion to appoint counsel for a mediation before a magistrate judge, 
+
+ECF No. 37. I again offered appointed counsel the opportunity to continue representing 
+Reynolds after the mediation if he or she desired to do so. ECF No. 37. Counsel declined to 
+represent Reynolds and instead withdrew from the bar of this Court. ECF No. 46. I appointed 
+new counsel for Reynolds, ECF No. 47, but that counsel moved to withdraw because Reynolds 
+“evidenced a complete lack of trust” in counsel and refused to “share information or cooperate,” 
+such that counsel could not “proceed to a mediation or settlement conference in any meaningful 
+manner.” ECF No. 61 at 1; see also ECF No. 57 at 1 (Reynolds writing in a letter that appointed 
+counsel was “insensitive,” showed “no remorse towards [Reynolds’s] situation,” and was 
+“badgering [Reynolds] with all these questions that are irrelevant”); ECF No. 63 at 1 (Reynolds 
+writing in another letter that “[t]he assigned pro bono [a]ttorney . . . was never working in [her] 
+
+favor” and that Reynolds “will ‘never’ get the representation [she] truly deserved from any 
+Attorney in the state of Connecticut”).                                   
+    After I granted this motion to withdraw, ECF No. 65, I appointed new counsel for 
+Reynolds to conduct a settlement conference but then vacated that appointment, ECF No. 72, 
+because appointed counsel had curtailed his legal practice to care for a seriously ill family 
+member, ECF No. 74 at 1. I then appointed new pro bono counsel for Reynolds to conduct a 
+settlement conference. ECF No. 77. When the settlement conference concluded, pro bono 
+counsel withdrew his appearance. ECF No. 87. Reynolds responded to this withdrawal by, 
+among other things, noting that she observed 75% of CT Transit employees with a symbol she 
+identifies as “meaning . . . freemason” “on their vehicle[s]” and that “[a] lot of fraudulent activity 
+can easily be covered up to get rich dishonestly off the government, it takes a lot of team work to 
+achieve this?” ECF No. 88 at 3.                                           
+    I scheduled a telephonic status conference in this case after the settlement conference did 
+
+not lead to a settlement. ECF No. 85. At the telephonic status conference, I discussed with 
+Reynolds the rules governing motions for summary judgment and then set a briefing schedule. 
+ECF No. 90. CT Transit timely filed its motion for summary judgment on July 22, 2022. ECF 
+No. 93. CT Transit also filed on the docket copies of the required notice to self-represented 
+litigant concerning motions for summary judgment, Rule 56 of the Federal Rules of Civil 
+Procedure, and Local Rule 56. ECF No. 94.3 Reynolds’s response was due by September 7, 
+2022. ECF No. 97. Reynolds requested that I appoint counsel to assist her in opposing CT 
+Transit’s motion for summary judgment on July 29, 2022. ECF Nos. 95-96. I denied this request 
+on August 3, 2022, because I could not conclude that her “‘position was likely to be of 
+substance.’” ECF No. 97 (quoting Hodge v. Police Officers, 802 F.2d 58, 61 (2d Cir. 1986)).4 
+
+Reynolds declined to respond to CT Transit’s motion for summary judgment, instead writing that 
+she needed help to prepare her motion for summary judgment and that she was “set up to fail.” 
+
+3 The notice to self-represented litigant advised Reynolds that CT Transit’s summary judgment motion “MAY BE 
+GRANTED AND YOUR CLAIMS MAY BE DISMISSED WITHOUT FURTHER NOTICE IF YOU DO NOT 
+FILE PAPERS AS REQUIRED BY RULE 56 OF THE FEDERAL RULES OF CIVIL PROCEDURE AND RULE 
+56 OF THE LOCAL RULES OF CIVIL PROCEDURE, AND IF THE MOTION SHOWS THAT THE MOVANT 
+IS ENTITLED TO JUDGMENT AS A MATTER OF LAW.” ECF No. 94 at 2. It also advised Reynolds that she 
+must file evidence, id., and explained the process by which Reynolds must file her opposition to summary judgment, 
+id. at 2-3.                                                               
+4 I also emphasized that the Second Circuit has made clear that before an appointment is even considered, the 
+indigent person must demonstrate that she is unable to obtain counsel. Saviano v. Local 32B-32J, 75 Fed. App’x 58, 
+59 (2d Cir. 2003) (quoting Cooper, 877 F.2d at 173). Reynolds did not indicate that she made any attempts to 
+procure counsel to assist her in opposing the motion for summary judgment. ECF No. 97. After I declined to appoint 
+her counsel for the sixth time, Reynolds filed a letter on August 4, 2022, listing five attorneys that she claimed 
+would not take her case. ECF No. 98 at 1-2. These attorneys were the same attorneys she claimed would not take her 
+case when she initially sought counsel in 2020. See ECF No. 9 at 1 (listing the same five attorneys as ones that “did 
+not take [her] case” when she first sought counsel). Reynolds did not, therefore, include any information about 
+counsel she sought to assist her with her summary judgment response.      
+ECF No. 98. One week after her response was due, Reynolds filed a letter stating that she 
+“cannot do [her] own motion for summary judgment” and that she was “still waiting to hear from 
+the court what is their next step.” ECF No. 99.                           
+II.  LEGAL STANDARD                                                       
+
+    “Summary judgment is appropriate only if the movant shows that there is no genuine 
+issue as to any material fact and the movant is entitled to judgment as a matter of law.” Tolan v. 
+Cotton, 572 U.S. 650, 656-57 (2014) (internal quotation marks and citations omitted). In 
+reviewing the summary judgment record, a court must “construe the facts in the light most 
+favorable to the non-moving party and must resolve all ambiguities and draw all reasonable 
+inferences against the movant.” Caronia v. Philip Morris USA, Inc., 715 F.3d 417, 427 (2d Cir. 
+2013). “A genuine dispute of material fact exists for summary judgment purposes where the 
+evidence, viewed in the light most favorable to the nonmoving party, is such that a reasonable 
+jury could decide in that party’s favor.” Zann Kwan v. Andalex Grp. LLC, 737 F.3d 834, 843 (2d 
+Cir. 2013). The moving party bears the burden of demonstrating that no genuine issue exists as to 
+
+any material fact. Celotex Corp. v. Catrett, 477 U.S. 317, 323-25 (1986). If the moving party 
+carries its burden, “the opposing party must come forward with specific evidence demonstrating 
+the existence of a genuine dispute of material fact.” Brown v. Eli Lilly & Co., 654 F.3d 347, 358 
+(2d Cir. 2011). “Where no rational finder of fact could find in favor of the nonmoving party 
+because the evidence to support its case is so slight, summary judgment must be granted.” Id. 
+(internal quotation marks omitted). “Even when a motion for summary judgment is unopposed, 
+the district court is not relieved of its duty to decide whether the movant is entitled to judgment 
+as a matter of law.” Vermont Teddy Bear Co., Inc. v. 1-800 Beargram Co., 373 F.3d 241, 242 (2d 
+Cir. 2004).5                                                              
+III.  DISCUSSION                                                          
+    Reynolds asserts that she “suffered adverse employment actions . . . under circumstances 
+
+giving rise to an inference of discrimination based on a perceived mental disability” in violation 
+of the ADA and that she has “suffered adverse employment actions, under circumstances giving 
+rise to an inference of discrimination based on religion” in violation of Title VII. ECF No. 14 at 
+10-11. Specifically, she alleges that being “required as a condition of continued employment, to 
+undergo repetitive and unnecessary physical and mental examinations by Gray, despite multiple 
+clearances by all attending professionals” was discrimination under the ADA and that she was 
+“subjected to a religiously hostile work environment as a result of the pervasive and severe 
+nature of Ms. Tuttle's two mental examination[s’] focus on the role of her beliefs in decision-
+making” in violation of Title VII. ECF No. 14 at 10-11. I first address Reynolds’s disparate 
+treatment claims before discussing her hostile work environment allegation. 
+
+    The ADA provides that “[n]o covered entity shall discriminate against a qualified 
+individual on the basis of disability in regard to . . . the hiring, advancement, or discharge of 
+employees . . . and other terms, conditions, and privileges of employment.” 42 U.S.C. § 
+12112(a). “Claims alleging disability discrimination in violation of the ADA are subject to the 
+burden-shifting analysis originally established by the Supreme Court in McDonnell Douglas 
+Corp. v. Green, 411 U.S. 792, 93 S.Ct. 1817, 36 L.Ed.2d 668 (1973).” McMillan v. City of New 
+
+
+5 Although Reynolds is currently pro se, her amended complaint — the operative complaint and the only document 
+she has submitted that is pertinent (because it is sworn) to the motion for summary judgment — was drafted by 
+appointed counsel. I thus need not afford that document the special solicitude courts must show towards pro se 
+filings. I have, of course, construed that document in the light most favorable to Reynolds, and no greater level of 
+solicitude would affect the analysis or result here.                      
+York, 711 F.3d 120, 125 (2d Cir. 2013) (quotation marks omitted). Under that analytical 
+framework, the plaintiff “must establish a prima facie case; the employer must offer through the 
+introduction of admissible evidence a legitimate nondiscriminatory reason for the discharge; and 
+the plaintiff must then produce evidence and carry the burden of persuasion that the proffered 
+reason 1s a pretext.” Sista v. CDC [xis N. Am., Inc., 445 F.3d 161, 169 (2d Cir. 2006). 
+      Similarly, Title VII, as relevant here, provides that it is an “unlawful employment 
+practice for an employer . . . to discharge any individual . .  . because of such individual's . . . 
+religion.” 42 U.S.C. § 2000e—2(a)(1). “[A]n unlawful employment practice is established when 
+the complaining party demonstrates that . . . religion . . . was a motivating factor for any 
+employment practice, even though other factors also motivated the practice.” Jd. § 2000e—2(m). 
+Religious discrimination claims under Title VII are also “analyzed under the burden-shifting 
+framework of McDonnell Douglas.” Mandell v. County of Suffolk, 316 F.3d 368, 377 (2d Cir. 
+2003). 
+      A.     Disparate Treatment Claim: Prima Facie Discrimination Case 
+      To establish a prima facie case of discrimination under the ADA, a  plaintiff must show 
+that: “(1) the employer is subject to the ADA; (2) the plaintiff is disabled within the meaning of 
+the ADA or perceived to be so by her employer; (3) she was otherwise qualified to perform the 
+essential functions of the  job with or without reasonable accommodation; (4) she suffered an 
+adverse employment action; and (5) the adverse action was imposed because of her disability.” 
+Davis v. New York City Dept. of Educ., 804 F.3d 231, 235 (2d Cir. 2015). Similarly, a prima 
+facie case of religious discrimination under Title VII requires a plaintiff to show that “(1) she is a 
+member of a protected class; (2) she is qualified for her position; (3) she suffered an adverse 
+employment action; and (4) the circumstances give rise to an inference of discrimination.” Witek 
+
+                                      12 
+
+v. City of New York, 807 Fed. Appx. 52, 54 (2d Cir. 2020) (unpublished). CT Transit first focuses 
+on Reynolds’s complaints about the fitness for duty evaluations, arguing that sending Reynolds 
+“for a fitness for duty evaluation . . . does not constitute an adverse job action” under the ADA 
+and Title VII. ECF No. 93 at 1. This argument assumes that Reynolds is challenging the fitness 
+
+for duty examinations as distinct adverse employment actions, which may be a fair reading of her 
+ADA claims. Compare ECF No. 14 at 2 (challenging “[h]arassment in the form of unnecessary 
+and continued medical and/or mental health evaluations”) and id. at 10 (“The Plaintiff was 
+subjected to a religiously hostile work environment as a result of the pervasive and severe nature 
+of Ms. Tuttle’s two mental examination[s’] focus on the role of her beliefs in decision-making”), 
+with id. at 11 (“The Plaintiff . . . suffered adverse employment actions [in violation of the ADA 
+in that she] was required as a condition of continued employment, to undergo repetitive and 
+unnecessary physical and mental examinations”). To the extent she is, I find that the record 
+suggests that the fitness for duty evaluations did form part of an adverse employment action. 
+    “To qualify as an adverse employment action, the employer's action toward the plaintiff 
+
+must be materially adverse with respect to the terms and conditions of employment.” Davis v. 
+New York City Dept. of Educ., 804 F.3d 231, 235 (2d Cir. 2015) (internal quotation marks 
+omitted). It must be “more disruptive than a mere inconvenience or an alteration of job 
+responsibilities.” Id. (internal quotation marks omitted). “Examples of such a change include 
+termination of employment, a demotion evidenced by a decrease in wage or salary, a less 
+distinguished title, a material loss of benefits, significantly diminished material responsibilities, 
+or other indices . . . unique to a particular situation.” Sanders v. New York City Human Resources 
+Admin., 361 F.3d 749, 755 (2d Cir. 2004) (internal quotation marks omitted).  
+     CT Transit argues that “an employer's request that an employee submit to a fitness for 
+duty examination does not constitute an adverse employment action under Title VII or the ADA” 
+and cites several cases in support of this position. ECF No. 93-1 at 8. It is true that “several 
+district courts in the Second Circuit have concluded that discretionary employee examination or 
+
+testing requirements do not by themselves amount to adverse employment action for the purposes 
+of federal employment discrimination and retaliation claims.” Larsen v. Berlin Bd. of Educ., 588 
+F. Supp. 3d 247, 258 (D. Conn. 2022) (emphasis in original). But many of these courts — 
+including some of the same ones that issued decisions cited by CT Transit — have “left open the 
+possibility that an employer may take adverse employment action if it abuses its discretion” in 
+requiring fitness for duty examinations. Id. (cited by CT Transit, but holding that two employer-
+mandated mental health exams in close temporal proximity could constitute an adverse 
+employment action for purposes of retaliation claim if laws and regulations were manipulated to 
+retaliate against the plaintiff).                                         
+    Other courts have noted that fitness for duty examinations accompanied by material 
+
+consequences could constitute an adverse employment action. See McNulty v. Cnty. of Warren, 
+2019 WL 1080877, at *11 (N.D.N.Y. 2019) (fitness for duty exam, combined with involuntary 
+medical leave pending outcome of exam, could amount to adverse employment action); Manners 
+v. New York State Dept. of Envt'l Conservation, No. 14-CV-810, 2015 WL 4276465, at *12 
+(N.D.N.Y. July 14, 2015) (plaintiff plausibly alleged adverse employment action where fitness 
+for duty examination was imposed as condition of return to work and plaintiff was required to 
+exhaust one month’s worth of sick pay). Indeed, several of the cases cited by CT Transit held 
+that a fitness for duty examination did not constitute an adverse employment action because it 
+was not accompanied by a material consequence. E.g., Farina v. Branford Bd. of Educ., 458 Fed. 
+Appx. 13, 17 (2d Cir. 2011) (unpublished) (finding that two successive fitness for duty 
+examinations did not constitute an adverse employment action when there “was no proof” that 
+the evaluations “had any effect on the terms and conditions of [plaintiff’s] employment”) 
+(internal quotation marks omitted); Baum v. County of Rockland, 337 F. Supp. 2d 454, 474 
+
+(S.D.N.Y. 2004), aff'd sub nom. Baum v. Rockland County, 161 Fed. Appx. 62 (2d Cir. 2005) 
+(unpublished) (CT Transit cites appellate decision affirming district court’s grant of summary 
+judgment, but district court found a single fitness for duty exam “does not constitute an adverse 
+employment action” when plaintiff remained employed until her retirement and was not placed 
+on involuntary leave).                                                    
+    Here, Reynolds was referred for a mandatory physical exam by her supervisor in 
+November 2018 and was found fit to work. ECF No. 14 at 8. Then on October 21, 2019, she was 
+referred again for an “evaluation of her ability to safely perform the duties of a Bus Operator” 
+and was told that she “would not be able to return to work until she was cleared.” ECF No. 93-2 
+¶ 11; ECF No. 93-3 ¶ 13. After her initial evaluation, Reynolds was referred again on October 
+
+30, 2019 for a fitness for duty examination with a psychiatrist. ECF No. 93-3 ¶¶ 15-16. Reynolds 
+did not attend that fitness for duty examination. ECF No. 93-3 ¶ 17. Nor does she appear to have 
+communicated with anyone at CT Transit after October 30, 2019. See id. ¶ 16-17 (Reynolds did 
+not answer Gray’s call to confirm Reynolds’s attendance at the St. Francis examination or 
+contact Gray about the St. Francis examination); id. ¶ 18-19 (after Gray sent Reynolds a letter on 
+November 11, 2019 warning her she would be medically disqualified if she did not attend a 
+fitness for duty exam, Reynolds “did not contact” Gray); ECF No. 93-8 at 2 (by January 8, 2020, 
+CT Transit had not “received any additional information” from Reynolds after sending the 
+November 11, 2019 letter).6  Reynolds stopped receiving paychecks in November 2019. ECF 
+No. 14 at 10. She was eventually “medically disqualified from employment as a Bus Operator 
+and removed from the employee roster” on January 8, 2020. ECF No. 93-3 ¶ 20; ECF No. 93-8 
+at 1.                                                                     
+
+    At this stage, I must construe the facts in the light most favorable to Reynolds and must 
+resolve all ambiguities and draw all reasonable inferences against CT Transit, and I must keep in 
+mind that “the showing the plaintiff must make as to the elements of the prima facie case in order 
+to defeat a motion for summary judgment is de minimis.” Cronin v. Aetna Life Ins. Co., 46 F.3d 
+196, 203-04 (2d Cir. 1995) (internal quotation marks omitted). I infer from the sequence of 
+events recounted above — including Gray’s statement on October 21, 2019 that Reynolds could 
+not return to work until she was cleared — that Reynolds never returned to work for CT Transit 
+after her initial referral on October 21, 2019 and was, in November, 2019, suspended without 
+pay. When the record is construed in the light most favorable to Reynolds, CT Transit did more 
+than just refer her to two successive fitness for duty exams. Rather, it also placed her on 
+
+involuntary medical leave from October 21, 2019 to January 8, 2020, and over a month — and 
+perhaps more — of this leave period was unpaid. The combination of involuntary unpaid leave 
+and two successive fitness for duty exams is a material change to Reynolds’s terms and 
+conditions of employment sufficient to satisfy her de minimis burden to show that she suffered 
+an adverse employment action. McNulty, 2019 WL 1080877, at *11 (fitness for duty exam, 
+
+
+
+
+6 Although Reynolds alleges that she “never received any direct correspondence” from CT Transit after October 30, 
+2019, the record indicates that she did. ECF No. 1 at 75-83 (Reynolds's original complaint attaches the second page 
+of Gray’s November letter and some of the enclosures, and Gray’s November and January letters were both sent to 
+the same P.O box).                                                        
+combined with involuntary medical leave pending outcome of exam, amounted to adverse 
+employment action at prima facie stage of McDonnell Douglas).’ 
+      Because CT Transit has not challenged any other element of Reynolds’s prima facie case 
+with respect to her ADA and Title VII claims, I assume without deciding that Reynolds has met 
+her burden of establishing a prima facie case of discrimination as to both claims and move on to 
+the second stage of the McDonnell Douglas framework. See Richardson v. Comm’n. on Human 
+Rights & Opportunities, 532 F.3d 114, 125 n.11 (2d Cir. 2008) (“We assume without deciding, 
+as did the district court, that [plaintiff] has presented a prima facie case of disparate treatment 
+and retaliation; we inquire only whether the plaintiff can prove by a preponderance of the 
+evidence that the legitimate reasons offered by the defendant were not its true reasons, but were a 
+pretext for discrimination.”) (internal quotation marks omitted). 
+      B.     Non-Discriminatory Reason 
+      “Under McDonnell Douglas, once [a] plaintiff establishes a prima facie case, a 
+presumption arises that his employer unlawfully discriminated against him . . . . To rebut this 
+presumption, the employer must come forward with admissible evidence of legitimate 
+nondiscriminatory reasons for its adverse actions toward plaintiff.” Mandell, 316 F.3d 368, 380 
+(2d Cir. 2003) (internal quotation marks and citation omitted). At this stage, I must determine 
+whether CT Transit has introduced evidence that, “taken as true, would permit the conclusion 
+that there was a nondiscriminatory reason for the adverse action,” St. Mary's Honor Ctr. v. Hicks, 
+509 U.S. 502, 509 (1993) (emphasis in original); “the determination that a defendant has met its 
+
+7 CT Transit also argues that the “request that [Reynolds] participate in a fitness for duty examination does not 
+constitute an adverse job/employment action under Title VII or the ADA because” the request was justified based on 
+the facts known to CT Transit at the time of the request. ECF No. 93-1 at 8-9. These arguments are relevant to CT 
+Transit’s motive for referring Reynolds for fitness for duty exams and placing her on involuntary medical leave, not 
+to whether these steps constituted an adverse employment action. I thus do not address these arguments here but 
+instead address them below. 
+                                      17 
+
+burden of production (and has thus rebutted any legal presumption of intentional discrimination) 
+can involve no credibility assessment,” id. CT Transit has met this burden here. 
+    CT Transit’s bus operators are employed “to safely operate transit buses on routes 
+throughout the Greater Hartford area,” ECF No. 92-3 ¶ 8, and “certain medical conditions, 
+
+including mental disorders, may prevent a [b]us [o]perator from meeting the requirements of the 
+position,” id.; ECF No. 93-5 at 4. Bus operators “must not … suffer from conditions which 
+cannot be controlled” and “conditions which must be controlled to ensure safe driving include . . 
+. mental disorders.” ECF No. 93-5 at 4. This requirement stems from state and federal law, as bus 
+operators are governed by the Federal Motor Carrier Regulations. ECF No. 93-2 ¶ 5. These 
+regulations require bus operators “to have a Connecticut Commercial Driver’s License,” id., and 
+to “maintain an up-to-date Medical Examiner’s Certificate,” id. ¶ 6. When CT Transit becomes 
+concerned about “a Bus Operator's ability to safely operate a bus and perform the duties of the 
+job because of a physical or mental health issue,” it “refers the employee for a fitness for duty 
+evaluation.” Id. ¶ 9; ECF No. 93-3 ¶ 11.                                  
+
+    In this case, CT Transit became concerned “about [Reynolds’s] ability to safely operate a 
+bus and perform her job duties,” ECF No. 93-2 ¶ 10; ECF No. 93-3 ¶ 12, after learning on 
+October 18, 2019, that Reynolds had said she “saw demons” and believed that “demons were 
+coming out of the Transportation Supervisors ears, that a Bus Operator had demons[,] and the 
+company was controlled by Free Masons,” ECF No. 93-2 ¶ 10; ECF No. 93-3 ¶ 12. After 
+speaking with Reynolds about these statements, CT Transit became more concerned and referred 
+Reynolds to the Employee Assistance Program on October 21, 2019 “for evaluation of her ability 
+to safely perform the duties of a Bus Operator.” ECF No. 93-2 ¶ 11; ECF No. 93-3 ¶ 13. On 
+October 30, 2019, CT Transit received a letter from the Employee Assistance Program to which 
+Reynolds was referred. ECF No. 93-2 ¶ 13; ECF No. 93-6 at 2. This letter stated that Reynolds 
+was seen twice, that she declined to schedule any further counseling sessions, and that she should 
+“be seen by a psychiatrist for a fitness for duty evaluation.” ECF No. 93-6 at 2.8 CT Transit 
+scheduled Reynolds for a fitness for duty evaluation after receiving this letter and provided her 
+
+with the date, time, and location of the evaluation. ECF No. 93-3 ¶ 16; ECF No. 14 at 9. 
+Reynolds did not attend this evaluation. ECF No. 93-2 ¶ 15; ECF No. 93-3 ¶ 17. Nor did she 
+respond to CT Transit’s several attempts to contact her about rescheduling the evaluation or CT 
+Transit’s warning that if she did not complete a fitness for duty evaluation, she would be 
+medically disqualified from working as a bus operator. ECF No. 93-3 ¶ 16 (CT Transit 
+attempting to call Reynolds); ECF No. 93-7 at 2-3 (CT Transit sending letter dated November 
+11, 2019). After Reynolds failed to reschedule the fitness for duty evaluation for more than two 
+months, CT Transit sent a second letter to Reynolds informing her that “she was medically 
+disqualified from employment as a Bus Operator and removed from the employee roster.” ECF 
+No. 93-3 ¶ 20; ECF No. 93-8 at 2. This sequence of events — which demonstrates that Reynolds 
+
+repeatedly declined to follow employer instructions to attend a fitness for duty evaluation or 
+otherwise show that she was medically qualified to work as a bus operator — constitutes a 
+legitimate, non-discriminatory reason for Reynolds’s termination. ECF No. 93-1 at 10-12. 
+
+    Because CT Transit has produced evidence that it acted for a non-discriminatory reason, 
+“the burden shifts back to the plaintiff to prove, by a preponderance of the evidence, that the real 
+
+
+8 As I noted above, CT Transit also claims that it learned “additional information which confirmed” CT Transit’s 
+concerns about whether Reynolds “could safely operate a bus and perform her job duties based upon a possible 
+mental disorder” after Reynolds was referred to the Employee Assistance Program. ECF No. 93-2 ¶ 12; ECF No. 
+93-3 ¶ 14. I do not factor this claim into my analysis because it is too vague to contribute to CT Transit’s legitimate, 
+non-discriminatory reason for medically disqualifying Reynolds and removing her from the employee roster. 
+reason for the adverse employment decision was discrimination.” Mandell, 316 F.3d at 381. At 
+the third prong, to “defeat summary judgment ... the [employee's] admissible evidence must 
+show circumstances that would be sufficient to permit a rational finder of fact to infer that the 
+[employer's] employment decision was more likely than not based in whole or in part on 
+
+discrimination.” Kirkland v. Cablevision Sys., 760 F.3d 223, 225 (2d Cir. 2014) (alteration in 
+original) (citation and internal quotation marks omitted). The admissible evidence must allow a 
+reasonable jury to conclude that CT Transit’s stated reason for medically disqualifying Reynolds 
+and then removing her from the employee roster “was false, and that discrimination was the real 
+reason.” St. Mary's Honor Ctr., 509 U.S. at 515 (emphasis in original). Reynolds failed to contest 
+CT Transit’s Local Rule 56(a)1 statement and so all the facts in that statement supported by 
+admissible evidence — including all the facts I have recounted above — are admitted. Nor has 
+Reynolds submitted any evidence of her own except for her verified complaint. Based on this 
+record, I find that no reasonable juror could infer that CT Transit’s decision to medically 
+disqualify and terminate Reynolds was discriminatory.                     
+
+    The record reflects that Reynolds was found fit for duty in December 2016, ECF No. 14 
+at 7, and then was found fit for duty again in November 2018 after she was referred for a 
+physical because she told her union representative she had been followed by car thieves who 
+“may be interested in stealing her newly purchased vehicle,” id. at 8. It is undisputed, however, 
+that on October 18, 2019, CT Transit’s Director of Human Resources, Gray, received reports that 
+Reynolds “saw demons” and believed that “demons were coming out of the Transportation 
+Supervisors ears, that a Bus Operator had demons[,] and the company was controlled by Free 
+Masons.” ECF No. 93-2 ¶ 10; ECF No. 93-3 ¶ 12. After receiving these reports, Gray met with 
+Reynolds. ECF No. 93-2 ¶ 11; ECF No. 14 at 8. CT Transit claims that it then referred Reynolds 
+to its EAP based on the reports that Reynolds saw demons and Reynolds’s statements when she 
+met with Gray, see ECF No. 93-2 ¶ 11; ECF No. 93-3 ¶ 13, because it was concerned about 
+Reynolds’s ability to safely operate a bus, ECF No. 93-3 ¶ 12. This referral was in accordance 
+with CT Transit’s policy of referring bus operators for fitness for duty evaluations when it 
+
+becomes concerned about an operator’s “ability to safely operate a bus and perform the duties of 
+the job because of a . . . mental health issue.” ECF No. 93-3 ¶ 11.       
+    CT Transit told Reynolds she could return to work once “she was cleared” by the EAP. 
+ECF No. 93-3 ¶ 13. Reynolds claims in her verified complaint that CT Transit would not explain 
+why she was referred to the EAP and did not tell Reynolds that the evaluation was a mental 
+examination, ECF No. 14 at 9. But the relevant question at this stage is “what ‘motivated the 
+employer.’” McPherson v. New York City Dept. of Educ., 457 F.3d 211, 216 (2d Cir. 2006) 
+(quoting United States Postal Service Bd. of Governors v. Aikens, 460 U.S. 711, 716, (1983)). 
+Even when I credit these statements, no reasonable juror could infer from them that CT Transit’s 
+reason for referring Reynolds to the EAP and preventing her from working until she was cleared 
+
+to safely operate a bus was discriminatory or based on animus about her religious beliefs or any 
+disability. And there is no other evidence in the record that CT Transit’s initial referral of 
+Reynolds to the EAP was motivated by discrimination.                      
+    Reynolds attended two sessions with a counselor to whom she was referred by the EAP. 
+ECF No. 93-6 at 2; ECF No. 14 at 9. Reynolds claims she was then told she “would not be 
+required to attend another session” and given a form “declaring her fit to return to work,” which 
+she submitted to CT Transit “on or about October 28, 2019.” ECF No. 14 at 9. But CT Transit 
+submitted a letter from its EAP provider dated October 30, 2019, which confirms that Reynolds 
+attended two evaluation sessions but that Reynolds “declined to schedule any further sessions” 
+and that Reynolds should “be seen by a psychiatrist for a fitness for duty evaluation.” ECF No. 
+93-6 at 2.9 After receiving this letter, CT Transit referred Reynolds for a fitness for duty 
+examination with St. Francis Occupational Health. ECF No. 93-3 ¶ 16. It claims that it did so 
+based on the recommendation of the EAP and the information it had received about Reynolds up 
+
+to October 30, 2019. ECF No. 93-3 ¶ 16. Even if Reynolds did submit a form from the EAP 
+declaring her fit to return to work based on the two sessions with an EAP-provided counselor, it 
+is undisputed that CT Transit also received a letter from the EAP two days after the date on 
+which Reynolds claims to have submitted her form stating that Reynolds should be seen by a 
+psychiatrist for a fitness for duty evaluation. On this evidence, no reasonable juror could infer 
+that it is more likely than not that CT Transit’s referral of Reynolds for a fitness for duty 
+examination at St. Francis was motivated by discrimination.               
+    Reynolds did not attend the fitness for duty examination at St. Francis Hospital. ECF No. 
+93-3 ¶ 17. Nor did Reynolds respond to CT Transit’s phone call or letter warning her that she 
+would be medically disqualified and removed from the employee roster if she did not complete 
+
+the required fitness for duty examination. Id. ¶ 17-19. CT Transit finally medically disqualified 
+Reynolds and removed her from the employee roster after it had not received any information 
+from Reynolds for over two months. See ECF No. 93-8 at 2.                 
+    As CT Transit notes, Reynolds has offered no evidence establishing that its “proffered 
+legitimate, nondiscriminatory reason for termination” is pretextual. ECF No. 93-1 at 12. Further, 
+there is no evidence in the record that anyone at CT Transit made remarks suggesting animus 
+against Reynolds based on her religion or a perceived mental disability. Nor is there any 
+
+
+9 Reynolds’s decision not to respond to CT Transit’s Local Rule 56(a)1 statement means that she admits that CT 
+Transit received this letter and that the Employee Assistance Program recommended to CT Transit that Reynolds be 
+evaluated by a psychiatrist. ECF No. 93-6 at 2; see ECF No. 93-2 ¶ 13.    
+evidence that Reynolds was treated differently from other similarly situated employees at CT 
+Transit. Instead, the undisputed evidence shows that CT Transit first referred Reynolds to the 
+Employee Assistance Program after being concerned by things Reynolds had said about demons 
+and free masons, and then referred Reynolds for a fitness for duty evaluation at St. Francis based 
+
+on Reynolds’s comments and a recommendation from the EAP. CT Transit declined to have 
+Reynolds return to work until cleared by these evaluations. And CT Transit ultimately medically 
+disqualified and terminated Reynolds when she refused to attend the fitness for duty evaluation 
+at St. Francis. Even viewing the record in the light most favorable to Reynolds, no reasonable 
+juror could infer that it was more likely than not that CT Transit acted with discriminatory intent. 
+Nor could a reasonable juror conclude that CT Transit’s proffered explanation for Reynolds’s 
+termination — that it was legitimately concerned Reynolds was not able to safely operate a bus 
+and terminated Reynolds when she would not attend a fitness for duty examination to assuage 
+this concern — is pretextual. I thus grant summary judgment as to Reynolds’s disparate 
+treatment claims.                                                         
+
+
+    Finally, Reynolds also alleges in her complaint that she “was subjected to a religiously 
+hostile work environment as a result of the pervasive and severe nature of Ms. Tuttle’s two 
+mental examination[s’] focus on the role of her beliefs in decision-making.” ECF No. 14 at 10. 
+While Reynolds’s other discrimination claims “may scrutinize discrete harms such as hiring or 
+discharge, a hostile work environment claim analy[z]es a workplace environment as a whole to 
+discover whether it is abusive.” Raniola v. Bratton, 243 F.3d 610, 617 (2d. Cir. 2001) (internal 
+quotation marks omitted).                                                 
+    A hostile work environment claim requires a showing “[1] that the harassment was 
+sufficiently severe or pervasive to alter the conditions of the victim's employment and create an 
+abusive working environment, and [2] that a specific basis exists for imputing the objectionable 
+conduct to the employer.” Alfano v. Costello, 294 F.3d 365, 373 (2d Cir. 2002) (internal 
+
+quotation marks omitted). A plaintiff must demonstrate “that the workplace was so severely 
+permeated with discriminatory intimidation, ridicule, and insult that the terms and conditions of 
+her employment were thereby altered.” Id. at 373-74. “This test has objective and subjective 
+elements: the misconduct shown must be severe or pervasive enough to create an objectively 
+hostile or abusive work environment, and the victim must also subjectively perceive that 
+environment to be abusive.” Id. at 374 (internal quotation marks omitted). And as a general rule, 
+“incidents must be more than episodic; they must be sufficiently continuous and concerted in 
+order to be deemed pervasive.” Id. (internal quotation marks omitted). “Isolated acts, unless very 
+serious, do not meet the threshold of severity or pervasiveness.” Id.     
+    Reynolds has failed to raise a genuine dispute of material fact as to her hostile work 
+
+environment claim. The conduct she claims gives rise to a “religiously hostile work 
+environment” is “Ms. Tuttle’s two mental examination[s’] focus on the role of her beliefs in 
+decision-making.” ECF No. 14 at 10. Questioning an employee about her beliefs (religious or 
+otherwise) is not a severe form of misconduct, and two such incidents, even when viewed 
+together, are not pervasive enough to create an objectively hostile or abusive work environment. 
+See, e.g., Khan v. Fed. Reserve Bank of New York, 02 CIV.8893(JCF), 2005 WL 273027, at *8 
+(S.D.N.Y. Feb. 2, 2005) (cartoon that “made fun of Muslims’ clothing and beards” was 
+“certainly not severe enough” to raise genuine dispute of material fact in support of hostile work 
+environment claim); Berrie v. Bd. of Educ. of Port Chester-Rye Union Free Sch. Dist., 750 
+Fed.App'x. 41, 48 (2d Cir. 2018) (unpublished) (affirming summary judgement and finding that 
+eleven incidents over a five-year period were not hostile or abusive); Husser v. New York City 
+Dept. of Educ., 137 F.Supp.3d 253, 259, 276 (E.D.N.Y. 2015) (granting summary judgment as to 
+hostile work environment claim and finding “the twelve cited remarks and events over the course 
+
+of a three-year period are not sufficiently pervasive”). Further, Reynolds alleges no remarks or 
+other conduct that actually suggest religious bias or bias towards persons with disabilities. 
+    Reynolds has also failed to show “that a specific basis exists for imputing the 
+objectionable conduct to the employer.” Alfano, 294 F.3d at 372. Reynolds alleges that her 
+hostile work environment claim arises only from the questions she was asked by Tuttle, the 
+counselor she was referred to by the EAP. There is no evidence showing that the topics discussed 
+in Tuttle’s counseling sessions were connected in any way with Reynolds’s workplace conditions 
+such that her terms and conditions of employment were altered. Tuttle was not employed by CT 
+Transit and the discussions with Tuttle occurred after Reynolds had already been removed from 
+her workplace. I thus grant summary judgment as to the hostile work environment claim in the 
+
+operative complaint.                                                      
+IV.  CONCLUSION                                                           
+    For the reasons above, I grant the motion for summary judgment (ECF No. 93). The 
+Clerk is directed to close this case.                                     
+                                       IT IS SO ORDERED.                 
+
+
+
+                                               /s/                       
+                                        Michael P. Shea, U.S.D.J.        
+
+Dated:  Hartford, Connecticut                                             
+    March 15, 2023

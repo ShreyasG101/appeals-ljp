@@ -1,0 +1,769 @@
+USDC aDNY 
+                                                      DOCUMENT 
+                                                      ELECTRONICALLY FILED 
+                                                      DOC#:               □ 
+UNITED STATES DISTRICT COURT                       DATE FILED:     3/31/2022 
+SOUTHERN DISTRICT OF NEW YORK 
+------------ +--+ +--+ +--+ +--+ +--+ +--+  +--+ +--+  -      ------ 2X 
+
+IN RE SHANDA GAMES LIMITED                            :           1:18-CV-2463-ALC 
+SECURITIES LITIGATION                                 : 
+                                                     :           Opinion and Order 
+
+------------- +--+ +--+ + +--+ +--+  + +--+ +--+ +--+  + -- - -- --- - ----- X 
+ANDREW L. CARTER, JR., United States District  Judge: 
+     This lawsuit is a putative class action involving alleged federal securities fraud and 
+insider trading in the context of a merger. Lead Plaintiff David Monk (‘Plaintiff’) brings this 
+action, individually and on behalf of a class of former stockholders and former owners of 
+American Depository Shares (“ADS”), against Defendants Shanda Games Limited (“Shanda”), 
+Capitalcorp Limited and Capitalhold Limited (together, the “Capital Defendants”), as well as 
+Defendants Yingfeng Zhang (“Zhang”), Li Yao, Lijun Lin, Heng Wing Chan, Yong Gui, Shaolin 
+Liang, and Danian Chen (collectively, the “Individual Defendants’), alleging violations of the 
+Securities and Exchange Act of 1934 (“the Exchange Act”). Defendant Shanda individually, as 
+well as Zhang and the Capital Defendants jointly, move to dismiss the Second Amended Class 
+Action Complaint (the “SAC”) under Federal Rule of Civil Procedure 12(b)(6) for failure to state 
+a claim upon which relief can be granted. ECF Nos. 90, 95. For the reasons stated herein, the 
+motions to dismiss are hereby DENIED IN PART and GRANTED IN PART. 
+                        I. FACTUAL BACKGROUND 
+     Defendant Shanda Games Ltd. (“Shanda” or the “Company”) is a global online video 
+game company incorporated in the Cayman Islands with its principal executive offices in
+
+Shanghai, China. SAC ¶¶ 33, ECF No. 72. In 2009, Shanda underwent an initial public offering 
+and listed American Depository Shares (“ADS”) on the NASDAQ and registered those ADS 
+with the Securities and Exchange Commission. Id. ¶ 5. In mid-2013, Shanda started developing a 
+mobile version of one of its most popular computer games, Mir II PC, which is entitled Mir II 
+
+Mobile. SAC ¶¶ 7. Defendant Yingfeng Zhang (“Zhang”) became CEO of Shanda beginning 
+October 2014 and Chairman of the Board beginning November 2014. SAC ¶ 36.  
+    On April 3, 2015, Shanda announced a proposed merger (the “Transaction”) that would 
+allow the Company to buy all Shanda securities held by unaffiliated holders, with Shanda as the 
+surviving entity, which would allow the Company to go private. Id. ¶ 10. Although the Buyer 
+Group controlled enough votes to execute the merger, the Company was required to file initial 
+and final proxy statements (collectively, the “Proxies”) to allow shareholders to determine 
+whether they wanted to exercise appraisal rights. Shanda subsequently published an initial proxy 
+statement on May 5, 2015, which included summaries of financial projections from March 2014 
+and March 2015. SAC ¶¶ 11. From December 2014 through August 2015, Shanda made public 
+
+statements about its optimism for Mir II Mobile. SAC ¶¶ 13-14. On August 3, 2015, Shanda 
+launched Mir II Mobile and Shanda employees, including Zhang, publicly recognized its 
+success. SAC ¶¶ 15-16. On October 13, 2015, Shanda published a final proxy statement that 
+included the same projections from the initial proxy statement. Id. ¶¶ 18-20.  
+    Shareholders approved the merger on November 18, 2015 at the Extraordinary 
+Shareholders Meeting. Id. ¶¶ 22. Defendant Capitalcorp, wholly owned and controlled by 
+Defendant Capitalhold, merged with Shanda as part of the merger. SAC ¶¶ 34-35. Under the 
+merger agreement, Shanda common stock owned by unaffiliated holders (all except the Buyer 
+Group) was effectively sold at $3.55 per share and $7.10 per ADS. Id. ¶¶ 22, 148. A few 
+dissenting shareholders exercised their appraisal rights and sued Shanda, seeking the Grand 
+Court of the Cayman Islands’ determination of the fair value of its shares. Id. ¶¶ 23, 24. The 
+Grand Court awarded the dissenters $16.68 per ADS. Id. ¶ 25. This award was partially reversed 
+by the Court of Appeal of the Cayman Islands that determined the fair value of the shares was 
+
+$12.84 per ADS. Id.                                                       
+                    II. PROCEDURAL HISTORY                               
+
+    On September 30, 2019, this Court granted Shanda’s Rule 12(b)(6) motion to dismiss the 
+First Amended Class Action Complaint (the “FAC”) (henceforth, the “2019 Order”). ECF No. 
+57. On September 30, 2020, on a motion for reconsideration, this Court concluded that Plaintiff 
+failed to state a securities fraud or insider trading claim against Shanda (the “2020 Order”). ECF 
+No. 70. Defendants Shanda, Zhang, Capitalcorp, and Capitalhold (“the Moving Defendants”) 
+moved to dismiss for failure to state a claim on June 11, 2021. ECF Nos. 90-92, 95-96. By 
+omnibus brief, Plaintiff opposed on July 30, 2021. ECF No. 100. On August 27, 2021, Moving 
+Defendants filed reply briefs. ECF Nos. 101, 102. The Court considers both motions to dismiss 
+fully briefed.                                                            
+                    III. STANDARD OF REVIEW                              
+
+A. Rule 12(b)(6)                                                          
+
+    When deciding a motion to dismiss, the Court must “accept as true all factual statements 
+alleged in the complaint and draw all reasonable inferences in favor of the non-moving 
+party.” McCarthy v. Dun & Bradstreet Corp., 482 F.3d 184, 191 (2d Cir. 2007). However, the 
+Court need not credit “[t]hreadbare recitals of the elements of a cause of action, supported by 
+mere conclusory statements.” Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) (citing Bell Atl. Corp. 
+v. Twombly, 550 U.S. 544, 555 (2007)). Claims should be dismissed when a plaintiff has not 
+pleaded enough facts that “plausibly give rise to an entitlement for relief.” Id. at 679. A claim is 
+plausible “when the plaintiff pleads factual content that allows the Court to draw the reasonable 
+inference that the defendant is liable for the misconduct alleged.” Id. at 678 (citing Twombly, 550 
+U.S. at 556). While not akin to a “probability requirement,” the plaintiff must allege sufficient 
+
+facts to show “more than a sheer possibility that a defendant has acted   
+unlawfully.” Id. (citing Twombly, 550 U.S. at 556). Accordingly, where a plaintiff alleges facts 
+that are “ ‘merely consistent with’ a defendant's liability, it ‘stops short of the line between 
+possibility and plausibility of entitlement to relief.’ ” Id. (quoting Twombly, 550 U.S. at 557). 
+B. Rule 9(b)                                                              
+
+    Under Rule 8(a) of the Federal Rules of Civil Procedure, pleadings must contain only “a 
+short and plain statement” of the basis for the court’s jurisdiction and of the claim showing that 
+the pleader is entitled to relief, and a demand for the relief sought. Fed. R. Civ P. 8(a). However, 
+where, as here, a plaintiff has alleged fraud claims under § 10(b) of the Exchange Act, the 
+complaint is subject to the heightened pleading requirements of Federal Rule of Civil Procedure 
+9(b) and the Private Securities Litigation Reform Act of 1995 (the “PSLRA”). Rule 9(b) requires 
+that the complaint “state with particularity the circumstances constituting fraud or mistake.” To 
+satisfy the particularity requirement, a complaint must “(1) detail the statements (or omissions) 
+that the plaintiff contends are fraudulent, (2) identify the speaker, (3) state where and when the 
+statements (or omissions) were made, and (4) explain why the statements (or omissions) are 
+fraudulent.” Fin. Guar. Ins. Co. v. Putnam Advisory Co., LLC, 783 F.3d 395, 403 (2d Cir. 2015). 
+    The PSLRA holds private securities plaintiffs to an even more stringent pleading 
+standard. Under the PSLRA, a plaintiff must “(1) specify each statement alleged to have been 
+misleading [and] the reason or reasons why the statement is misleading; and (2) state with 
+particularity facts giving rise to a strong inference that the defendant acted with the required state 
+of mind.” Tellabs, Inc. v. Makor Issues & Rights, Ltd., 551 U.S. 308, 321, 127 S. Ct. 2499, 168 
+L. Ed. 2d 179 (2007) (internal citation and quotation marks omitted) (quoting 15 U.S.C. § 78u-
+4(b)). To determine that an inference of scienter is strong, the court must decide whether “a 
+
+reasonable person would deem the inference of scienter cogent and at least as compelling as any 
+opposing inference one could draw from the facts alleged.” Tellabs, 551 U.S. at 324. 
+                          IV. ANALYSIS                                   
+
+    The Court granted Plaintiff limited leave to file the SAC to cure deficiencies identified in 
+its 2019 and 2020 Orders ruling on Defendant Shanda’s motion to dismiss the FAC. This time 
+around, Plaintiff specifically seeks to remedy two deficiencies: (1) inadequate pleading of 
+reliance under a fraud-on-the-market theory, and (2) failure to sufficiently allege insider trading. 
+Pl.’s Opp. at 10. On reliance, the SAC incorporates expert analysis from Mr. Chad Coffman to 
+raise allegations that Plaintiff traded his ADS in an efficient market. On insider trading, he 
+proffers new factual matter to attempt to state claims under Section 10(b) and 20A. Id. 
+    Shanda, Zhang, and the Capital Defendants argue that the SAC fails to state a claim for 
+relief under the federal securities laws for several reasons. First, the new allegations fail to plead 
+reliance. Second, the SAC does not adequately plead loss causation. Third, there are no properly 
+pleaded actionable misstatements or omissions to plead fraud, and the new insider trading 
+allegations remain insufficient because no defendant purchased ADS from Plaintiff. Fourth and 
+finally, Defendants assert a defense under Morrison v. National Australia Bank, Ltd., 561 U.S. 
+247 (2010).                                                               
+A. Law of the Case                                                        
+    As a preliminary matter, the Parties disagree whether this Court’s 2019 and 2020 rulings 
+on Shanda’s motion to dismiss the FAC constitute law of the case. The law of the case doctrine 
+“forecloses re-litigation of issues expressly or impliedly decided by the [ ] court.” United States 
+v. Quintieri, 306 F.3d 1217, 1229 (2d Cir. 2002) (internal citations omitted). Absent “cogent or 
+
+compelling reasons,” the law of the case controls. See Johnson v. Holder, 564 F.3d 95, 99-100 
+(2d Cir. 2009) (internal quotations omitted). “[W]hen a court decides upon a rule of law, that 
+decision should continue to govern the same issues in subsequent stages in the same case” unless 
+the decision “is clearly erroneous and would work a manifest injustice.” Arizona v. California, 
+460 U.S. 605, 618 & n.8 (1983). The doctrine is discretionary. Id.; accord Lewis v. Whelan, 99 
+F.3d 542, 545 (2d Cir. 1996). The law of the case doctrine “counsels against reconsideration” 
+where amended pleadings are “very similar” to the previous complaint.” Weslowski v. Zugibe, 96 
+F.Supp.3d 308, 316 (S.D.N.Y. 2015) (citing State Farm Mut. Auto. Ins. Co. v. Mallela, No. 00-
+4293, 2002 WL 31946762, at *8 (E.D.N.Y. Nov. 21, 2002)). Accordingly, this Court will 
+examine the SAC and apply the law of the case doctrine to recurring issues that do not involve 
+
+new factual allegations.                                                  
+    1. The Morrison Test                                                 
+
+    The 2019 Order on Shanda’s motion to dismiss the FAC determined that this case 
+satisfies the first prong of Morrison because it involves “transactions in securities listed on 
+domestic exchanges.” Sept. 30, 2019 Op. and Order at 6-7. Defendants, including Shanda, 
+reassert this argument in their moving papers. However, the 2019 Order was not an invitation to 
+revive this issue on a second motion to dismiss. Defendants also had an opportunity to seek 
+reconsideration within 14 days of entry of the 2019 Order. They did not do so. Because facts 
+regarding Morrison remain the same and no “cogent or compelling reasons” exist to revisit this 
+issue, further litigation of the Morrison issue is foreclosed.            
+B. Federal Securities Fraud Claims                                        
+
+    Defendants Shanda and Zhang argue that the SAC should be dismissed because it fails to 
+adequately plead the essential elements of a claim under Section 10(b) and Rule 10b-5. To state a 
+claim under both Section 10(b) of the Exchange Act and Rule 10b-5, Plaintiff must show: “(i) a 
+material misrepresentation or omission; (ii) scienter; (iii) a connection with the purchase or sale 
+of security; (iv) reliance by the plaintiff(s); (v) economic loss; and (vi) loss causation.” In re 
+Omnicom Grp., Inc. Sec. Litig., 597 F.3d 501, 509 (2d Cir. 2010). See also 15 U.S.C. § 78u–4(b). 
+    Based on this Court’s prior rulings, the law of the case controls the previously litigated 
+issues here—namely whether Plaintiff has pleaded material misrepresentations or omissions and 
+scienter (which they have). 2019 Order at 7-15.1 On the element of reliance, Plaintiff does not 
+allege direct reliance with respect to Plaintiff or any potential class members. Rather, he has 
+proffered amendments that attempt to plead that he and other ADS holders traded in an efficient 
+
+market, which would entitle them to a rebuttable presumption of reliance under the fraud-on-the-
+market doctrine. If Plaintiff can plead reliance, economic loss, and loss causation, he will 
+adequately state a claim for securities fraud against Shanda and Zhang. Though Plaintiff now 
+pleads reliance, he fails to adequately allege loss causation. Because he fails to plead loss 
+causation, the Court need not reach economic loss element.                
+    1. Reliance2                                                         
+
+
+
+1 2019 Order at 7-15.                                                     
+2 The Court has already concluded that Plaintiff only sufficiently alleged materially false misstatements—not 
+omissions—so the Affiliated Ute presumption of reliance does not apply. 2019 Order at 16 n.2. Re-litigation of this 
+issue is barred by the law of the case doctrine.                          
+    Pursuant to the fraud-on-the-market doctrine, “the market price of shares traded on well-
+developed markets reflects all publicly available information, and, hence, any material 
+misrepresentations.” Erica P. John Fund, Inc. v. Halliburton Co., 563 U.S. 804, 131 S. Ct. 2179, 
+2181, 180 L. Ed. 2d 24 (2011) (quoting Basic Inc. v. Levinson, 485 U.S. 224, 108 S.Ct. 978, 99 
+
+L.Ed.2d 194 (1988)). Because the market “transmits information to the investor in the processed 
+form of a market price,” we can assume that an investor relies on public misstatements whenever 
+he “buys or sells stock at the price set by the market.” Id.              
+    To plead reliance based on the presumption created by the fraud-on-the-market theory, a 
+plaintiff “first must allege that the relevant market was open and developed or, in other words, 
+efficient.” In re Parmalat Sec. Litig., 375 F.Supp.2d 278, 303 (S.D.N.Y. 2005). While the 
+Second Circuit has “declined to adopt a particular test for market efficiency[,] . . . district courts 
+in this and other Circuits regularly consider” the following:             
+    (1) the average weekly trading volume of the [stock], (2) the number of securities 
+    analysts following and reporting on [it], (3) the extent to which market makers 
+    traded in the [stock], (4) the issuer's eligibility to file an SEC registration Form S–
+    3, and (5) the demonstration of a cause and effect relationship between unexpected, 
+    material disclosures and changes in the [stock’s] price[ ].          
+
+Waggoner v. Barclays PLC, 875 F.3d 79, 94 (2d Cir. 2017), cert. denied, 138 S. Ct. 1702 (2018) 
+(internal quotations and citations omitted).                              
+
+    Here, the SAC adds expert analysis from Mr. Chad Coffman who assessed whether 
+Shanda ADS traded in an efficient market during the proposed class period “using generally 
+recognized techniques.” SAC ¶¶ 284-85. Mr. Coffman is the President of Global Economics 
+Group, a Chicago-based firm that specializes in economics, statistics, and valuation in many 
+different contexts, including securities litigation. SAC ¶¶ 284. He opined “that the market for 
+Shanda’s ADS was efficient throughout the Class Period.” SAC ¶¶ 285. The SAC contains “a 
+limited summary of the facts and factors relevant to [his] conclusion that Shanda traded in an 
+efficient market.” SAC ¶¶  285.                                           
+    The Parties disagree whether this Court should credit the expert analysis at this stage in 
+the litigation. Neither party presents case law that squarely addresses this question. This Court 
+
+concludes that the approach taken on a substantially similar issue in another federal securities 
+case entitled Ong v. Chipotle Mexican Grill, Inc., 294 F.Supp.3d 199, 222 (S.D.N.Y. 2018), very 
+persuasive. Other judges in this Circuit agree. See, e.g., Tung v. Bristol-Myers Squibb Co., No. 
+1:18-CV-01611 (MKV), 2020 WL 5849220, at *5 (S.D.N.Y. Sept. 30, 2020), aff'd sub 
+nom. Arkansas Pub. Emps. Ret. Sys. v. Bristol-Myers Squibb Co., No. 20-3716-CV, 2022 WL 
+727149 (2d Cir. Mar. 11, 2022).                                           
+    In Ong, Defendants moved to strike an expert witness declaration and portions of the 
+complaint that relied on expert testimony in the context of a motion to dismiss. Applying Fed. R. 
+Civ. P. 10(c) and the incorporation-by-reference doctrine as interpreted by the Second Circuit, 
+U.S. District Judge Katherine Polk Failla declined to consider the declaration in evaluating the 
+
+legal sufficiency of the complaint. She reasoned that the expert declaration was not relied upon 
+in drafting the complaint and that defendants’ substantive challenges to the strength and accuracy 
+of the declaration raised complex evidentiary issues that were inappropriate for the pleadings 
+stage. Judge Failla struck the declaration from the complaint and declined to consider any 
+conclusory allegations based on the declaration, including legal conclusions made by the expert, 
+though she did still consider well-pleaded factual allegations.           
+    Like in Ong, Defendants here challenge the accuracy and strength of the expert analysis 
+from Coffman. Instead of a declaration, here, Plaintiff attached slides prepared by Coffman and 
+added his analysis of the Cammer and Krogman factors3 into the body of the SAC. SAC ¶¶  286-
+301. For the same reasons that Judge Failla declined to consider the expert declaration in Ong, 
+this Court will neither consider the Coffman slides nor his expert analysis. The former is not a 
+“written document” as defined by Rule 10(c), and the latter constitutes improper legal 
+
+conclusions. This Court will only consider well-pleaded factual averments. 
+    Solely examining well-pleaded, non-conclusory factual allegations, Plaintiff now meets 
+his burden, albeit minimally, of showing that he traded in an efficient market. Taking his 
+amended factual allegations as true, Plaintiff states that weekly trading volume exceeded 2% for 
+most of the proposed class period (Cammer factor 1) and that 46 market makers traded in ADS 
+during that same period (Cammer factor 3). At this stage, the Court is not to weigh the strength 
+of these factors. Thus, these allegations are sufficient to plead an efficient market. Whether these 
+two factors are probative indicators of market efficiency is to be decided as a question of fact 
+later in this litigation. “While the Court notes that . . . Plaintiff[ ] . . . alleges facts that draw the 
+efficiency of the [ADS] market into question, whether a market is efficient ‘is not a pure 
+
+question of law’ and normally should not be decided on a motion to dismiss.” In re Merrill 
+Lynch Auction Rate Sec. Litig., 704 F. Supp. 2d 378, 395 (S.D.N.Y. 2010), aff'd sub nom. Wilson 
+
+
+3 Both Cammer and Krogman provide a set of factors that district courts typically use to determine market 
+efficiency. In Krogman, the court wrote:                                  
+
+    In evaluating whether the market for an individual stock is efficient, courts have looked to a number 
+    of factors. See, e.g., Cammer, 711 F.Supp. at 1286–87; O'Neil v. Appel, 165 F.R.D. 479, 503 
+    (W.D.Mich.  1996).  The Cammer court  identified  five factors relevant  to  the  determination  of 
+    market efficiency: (1) the stock’s average trading volume; (2) the number of analysts that followed 
+    and reported on the stock; (3) the number of market makers; (4) eligibility to file an S–3 Registration 
+    Statement; and (5) the reaction of the stock price to unexpected news events. Cammer, 711 F.Supp. 
+    at 1286–87. Other courts have applied additional factors, based on economic literature, including: 
+    (1) the capitalization of the company; (2) the bid-ask spread of the stock; and (3) the percentage of 
+    stock not held by insiders (the “float”).                            
+
+Krogman v. Sterritt, 202 F.R.D. 467, 474 (N.D. Tex. 2001) (citations and footnotes omitted) (cleaned up). 
+v. Merrill Lynch & Co., 671 F.3d 120 (2d Cir. 2011) (footnote omitted) (quoting In re Initial 
+Public Offering Sec. Litig., 241 F.Supp.2d 281, 377 (S.D.N.Y.2003)). “The Court cannot say, on 
+the record before it, that . . . Plaintiff[ ] cannot establish an efficient market.” Id. As further noted 
+in In re Initial Public Offering Sec. Litig., “[t]he present finding—that plaintiff[ ] ha[s] made a 
+
+sufficient showing that the . . . markets were efficient—is solely for the purposes of adjudicating 
+the pending motion to dismiss and is not binding on the finder of fact.” In re IPO, 241 F.Supp.2d 
+at 288. “Based on the evidence presented at trial, the finder of fact may conclude that the 
+relevant markets were efficient . . . [o]n the other hand, the finder of fact may conclude that one 
+or more of the relevant markets was inefficient.” Id. “This determination is also not binding for 
+purposes of class certification.” Id. At this early pleading stage, the Court will presume that ADS 
+holders, such as Plaintiff, could have reasonably relied on the integrity of the market price when 
+deciding whether to exercise dissenters’ rights or sell shares at the negotiated price. 
+    2. Loss Causation                                                    
+
+    This is where Plaintiff’s securities fraud claims fail. He has not pleaded loss causation 
+under Section 10(b). These elements are separate and distinct from reliance. The fraud-on-the-
+market theory creates “a rebuttable presumption of reliance, not a presumption of causation.” See 
+Robbins v. Kroger Props. Inc., 116 F.3d at 1448 (citing Basic U.S. at 141-42, 108 S.Ct. 978). 
+“Loss causation . . . requires a plaintiff to show that a misrepresentation that affected the 
+integrity of the market price also caused a subsequent economic loss.” Halliburton Co., 563 U.S. 
+at 812, 131 S. Ct. at 2186, 180 L.Ed.2d 24 (2011); 15 U.S.C. § 78u–4(b)(4). To establish loss 
+causation, plaintiffs must show “that the subject of the fraudulent statement or omission was the 
+cause of the actual loss suffered.” Suez Equity Inv’rs, L.P. v. Toronto-Dominion Bank, 250 F.3d 
+87, 95 (2d Cir. 2001).                                                    
+    The SAC fails to plead loss causation. There are no allegations substantiating how or why 
+the material misstatements—omission of 2020 summary data and the application of new methods 
+to calculate depreciation and amortization figures in the Proxies—would have (i) affected the 
+integrity of the market price and (ii) thus caused a subsequent economic loss to Plaintiff. For 
+
+example, the SAC lacks allegations explaining in a plausible manner how or why Plaintiff was 
+personally induced to sell his shares instead of exercising his appraisal rights. Upon the proposed 
+merger announcement, the only outstanding issue for ADS holders to decide was whether to 
+personally exercise appraisal rights or sell at the negotiated price of $7.10 per ADS. Plaintiff has 
+not proffered sufficient and specific allegations to support any causal link between the alleged 
+misrepresentations and his failure to provide timely written notice of objection to the Transaction 
+(to exercise appraisal rights). Loreley Fin. (Jersey) No. 3 Ltd. v. Wells Fargo Sec., LLC, 797 F.3d 
+160, 185 (2d Cir. 2015) (“[W]hereas foreseeability is to some extent relevant to proximate cause, 
+it is ‘aftseeability’ that matters for loss causation . . . even though the link may not have been 
+anticipated and may only have been shown to exist after the fact.”). In fact, Plaintiff only came to 
+
+know of his purported economic loss after the Cayman Islands proceedings. SAC para 277 
+(“Plaintiff and Class Members suffered economic loss when they sold their Shanda Securities for 
+less than those securities were worth. Through the Appraisal Suit, and the subsequent appeal, it 
+was determined that the fair value of the shares was $12.84.”). The logic in Loreley applies with 
+equal force here. In the context of a forced sale of shares with a pre-negotiated price, Plaintiff 
+does not plead that any causal link exists between the alleged misrepresentations and his failure 
+to exercise appraisal rights. For this reason, he cannot sustain securities fraud claims under 
+Section 10(b) against Shanda or Zhang.                                    
+    In sum, Plaintiff has failed to state a securities fraud claim under Section 10(b) against 
+Defendants Shanda and Zhang (Count I). Because there is no primary fraud violation under 
+Section 10(b), it follows that Zhang cannot be held liable as a control person under Section 20(a) 
+(Count IV).4                                                              
+
+C. Insider Trading Claims                                                 
+
+    This Court previously held that Plaintiff failed to state an insider trading claim against 
+Shanda under Section 10(b) and Section 20A because he failed to adequately plead that Shanda 
+was the purchaser in the going-private transaction. Plaintiff has proffered new insider trading 
+allegations, including adding the Capital Defendants as parties to this case. At this early pleading 
+stage, the Court concludes that Plaintiff has stated a claim for insider trading against Defendant 
+Zhang only.                                                               
+    Section 10(b) and Rule 10b-5 are “violated when a corporate insider trades in the 
+securities of his corporation on the basis of material, nonpublic information.” United States v. 
+O'Hagan, 521 U.S. 642, 651–52, 117 S.Ct. 2199, 138 L.Ed.2d 724 (1997). Thus, “a corporate 
+insider must abstain from trading in the shares of his corporation unless he has first disclosed all 
+material inside information known to him.” Chiarella v. United States, 445 U.S. 222, 227, 100 
+S.Ct. 1108, 63 L.Ed.2d 348 (1980). The Second Circuit has explained that “[a]ny duty of 
+
+
+4 Under Section 20(a) of the Exchange Act:                                
+
+    Every person who, directly or indirectly, controls any person liable under any provision of this 
+    chapter or of any rule or regulation thereunder shall also be liable jointly and severally with and to 
+    the same extent as such controlled person to any person to whom such controlled person is liable, 
+    unless the controlled person acted in good faith and did not directly or indirectly induce the act or 
+    acts constituting the violation or cause of action.                  
+
+15 U.S.C. § 78t(a). In the Second Circuit, to plead a prima facie case of control person liability, a plaintiff must 
+allege: “(1) a primary violation by the controlled person, (2) control of the primary violator by the defendant, and (3) 
+that the defendant was, in some meaningful sense, a culpable participant in the controlled person’s fraud.” ATSI 
+Commc’ns, Inc. v. Shaar Fund, Ltd., 493 F.3d at 108.                      
+disclosure is owed only to those investors trading contemporaneously with the insider; non-
+contemporaneous traders do not require the protection of the ‘disclose or abstain’ rule because 
+they do not suffer the disadvantage of trading with someone who has superior access to 
+information.” Wilson v. Comtech Telecommun. Corp., 648 F.2d 88, 94-95 (2d Cir. 1981) 
+
+(citing Fridrich v. Bradford, 542 F.2d 307, 326 (6th Cir. 1976) (Celebrezze, J., concurring), cert. 
+denied, 429 U.S. 1053, 97 S.Ct. 767, 50 L.Ed.2d 769 (1977)).              
+    Similarly, in creating a private cause of action for insider trading, Section 20A expressly 
+limited standing to contemporaneous investors in securities of the same class. 15 U.S.C. § 78t-
+1(a). “In order to state a claim under Section 20A(a), plaintiffs must: (1) plead a predicate insider 
+trading violation of the Exchange Act and (2) allege sufficient facts showing ‘that the defendant 
+traded the security at issue contemporaneously with the plaintiff.’” In re Take-Two Interactive 
+Sec. Litig., 551 F. Supp. 2d 247, 309 (S.D.N.Y. 2008) (citations and internal quotation marks 
+omitted).                                                                 
+    1. Contemporaneous Trading                                           
+
+         a. Shanda                                                       
+
+    Shanda is still not properly deemed a purchaser of ADS. The SAC merely alleges that 
+Shanda held the Extraordinary Shareholders Meeting, approved the proposed merger, and when 
+the merger became effective, converted “the right to surrender one ADS in exchange for 
+US$7.10.” SAC ¶¶ 321. However, as the SAC continues to assert and as explained in the 2020 
+Order, Shanda was the surviving entity after the merger went into effect. The allegations do not 
+fix the pleading problem here, which is that the commitment to accept or appraise came before 
+the merger took effect, and the surviving entity Shanda did not exist until that time. There is thus 
+no way that Plaintiff could have committed to the Transaction with surviving corporation 
+Shanda. The allegations are inadequate to plead that Shanda was a purchaser. 
+         b. Capitalhold                                                  
+
+    However, there is no doubt, and there appears to be no serious dispute among the Parties, 
+that Capitalhold purchased ADS based on the Final Proxy Statement and Merger Agreement. 
+SAC ¶¶ 222, 226, 318.5 Capitalhold gained full ownership interest in Shanda following the 
+merger and distributed the money used to pay the merger consideration to shareholders. SAC ¶¶ 
+321(b). In the context of the specific type of merger at issue, Plaintiff and Capitalhold may be 
+deemed a seller and purchaser of ADS, respectively. See Liana Carrier Ltd. v. Pure Biofuels 
+Corp., 672 F. App’x 85, 91 (2d Cir. 2016) (summary order) (citing Vine v. Beneficial Finance 
+Co., 374 F.2d 627, 635 (2d Cir. 1967) and Goldberg v. Meridor, 567 F.2d 209 (2d Cir. 1977); 
+see also KDH Consulting Grp. LLC v. Iterative Cap. Mgmt. L.P., 528 F. Supp. 3d 192, 205 
+(S.D.N.Y. 2021) (explaining that Vine created the “forced sale” doctrine, whereby the nature of a 
+short form merger may permit shareholders to bring a Section 10(b) claim). Contrary to 
+
+Defendants’ belief, Vine dealt with interpreting “sale” or “purchase” language under Section 
+10(b), and that case did not distinguish between fraud and non-fraud claims. Plaintiff sufficiently 
+pleads that the trade was contemporaneous because he sold his ADS and Capitalhold paid for 
+them at closing on November 18, 2015.                                     
+         c. Capitalcorp and Zhang                                        
+
+    Plaintiff asserts that both Capitalcorp and Zhang are purchasers because they each acted 
+on behalf of Capitalhold in carrying out the purchase of shares. But the allegations only plausibly 
+demonstrate that Zhang, in his capacity as sole director, employee, and indirect owner of 
+
+5 Zhang and the Capital Defendants state that “it was Capitalhold that paid the merger consideration and ended up 
+owning Shanda. Defs.’ Zhang Mem. at 4 (ECF No. 96 at 8) (citations omitted and emphasis original). 
+Capitalhold, was a purchaser of ADS. Plaintiff alleges that Capitalcorp was “created to effectuate 
+the purchase of the outstanding Shanda Securities owned by Unaffiliated Holders.” SAC ¶¶ 
+321(c). But Plaintiff fails to assert that he ever committed to Capitalcorp with respect to the 
+Transaction, does not proffer adequate factual content to substantiate how Plaintiff committed to 
+
+Capitalcorp, and provides no legal authority to support the proposition that merely effectuating a 
+purchase would deem Capitalcorp a purchaser itself. Plaintiff further states that Zhang directed 
+Capitalhold and Capitalcorp to purchase the Shanda securities. Taking the material allegations as 
+true, Zhang indirectly owned 15% of Capitalhold equity, directed that entity to purchase 
+securities in his capacity as its sole director and employee, and signed the merger documents for 
+the Transaction on its behalf, thus it is plausible that he is a purchaser of ADS.6  
+    In sum, the contemporaneous trading requirement is met with respect to Defendants 
+Capitalhold and Zhang. “[T]he time of a ‘purchase or sale’ of securities within the meaning of 
+Rule 10b-5 is to be determined as the time when the parties to the transaction are committed to 
+one another.” Radiation Dynamics, Inc. v. Goldmuntz, 464 F.2d 876, 891 (2d Cir. 1972). As 
+
+discussed in the 2020 Order, Plaintiff twice pleaded that his ADS were sold on November 18, 
+2015—not the earlier date of dissent—a judicial admission to which he was and remains bound. 
+2020 Order at 4.7 The SAC has pleaded that the trade occurred contemporaneously with the 
+purchased made by Capitalhold and/or Zhang.                               
+    2. Corporate and Temporary Insiders                                  
+
+    Though the Court has reasoned that Plaintiff has adequately pleaded that Defendants 
+Capitalhold and Zhang satisfy the contemporaneous trading requirement for his insider trading 
+
+6 Because Capitalcorp is not a purchaser, it is not plausible that Zhang would be a purchaser by acting on its behalf. 
+7 The SAC still contains these same allegations. That Plaintiff sold his shares on November 18, 2015—the date of 
+closing.                                                                  
+claims, only Zhang had a duty to disclose. Plaintiff cannot sustain an insider trading claim 
+against Capitalhold because it was neither a temporary insider nor tippee. 
+    Plaintiff alleges that Zhang, a top executive at Shanda, possessed material non-public 
+information (“MNPI”) regarding Mir II Mobile data, and did not disclose such information 
+
+before purchasing Plaintiff’s ADS. He would thus be liable as a corporate insider under the 
+“traditional” or “classical theory” of insider trading, as articulated in O’Hagan, 521 U.S. at 652, 
+117 S.Ct. at 2207, 138 L.Ed.2d 724 (1997) (citing cases). “The classical theory applies . . . to 
+officers, directors, and other permanent insiders of a corporation.” Id. at 652 (quoting Dirks v. 
+SEC, 463 U.S. 646, 655 n.14, 103 S.Ct. 3255, 3262, 77 L.Ed.2d 911 (1983)).  
+    Whether his knowledge may be imputed to Capitalhold is a separate question that this 
+Court answers in the negative. Under a misappropriation theory of insider trading liability, “a 
+person violates Rule 10b-5 when he misappropriates [MNPI] in breach of a fiduciary duty or 
+similar relationship of trust and confidence and uses that information in a securities transaction.” 
+United States v. Falcone, 257 F.3d 226, 230 (2d Cir. 2001). “[A] qualifying relationship does not 
+
+require one to be a traditional corporate insider.” United States v. Kosinski, 976 F.3d 135, 144 
+(2d Cir. 2020), cert. denied, 141 S. Ct. 2755, 210 L. Ed. 2d 904 (2021). A corporate outsider may 
+become a “temporary insider” when confidential corporate information is revealed to him or her, 
+such as an attorney or accountant, which may result in developing a fiduciary relationship 
+between the outsider and shareholders. Id. (citing Dirks, 463 U.S. at 655 n.14, 103 S.Ct. 3255). 
+“Temporary insiders are therefore forbidden from trading under both the classical and 
+misappropriation theories without the requisite disclosure.” Id. at 145.  
+    Capitalhold is not a temporary insider. Plaintiff asserts that Capitalhold is a temporary 
+insider simply because Zhang is its sole director and, as Shanda CEO, he controlled the entity. 
+But that is not enough to establish that Capitalhold itself owed any fiduciary duty or special 
+relationship to shareholders. It was not a professional advisor or consultant to Zhang. Plaintiff 
+also cites no controlling cases providing that an artificial entity may be held liable as a temporary 
+insider. Courts generally find individuals to be temporary insiders.      
+
+3. Tippees                                                                
+
+    Because this is far from a conventional tipping case, Capitalhold is not subject to tippee 
+liability. “Section 10(b) and Rule 10b-5 also reach situations where the insider or 
+misappropriator tips another who trades on the information.” S.E.C. v. Obus, 693 F.3d 276, 285 
+(2d Cir. 2012). As articulated in Dirks, “a tipper . . . is liable if the tipper breached a fiduciary 
+duty by tipping MNPI, had the requisite scienter . . . when he gave the tip, and personally 
+benefited from the tip.” Id. “Personal benefit” is defined broadly and includes, but is not limited 
+to, “pecuniary gain” and “reputational benefit.” Id. (citing Dirks at 663-64, 103 S.Ct. 3255. 
+“When an unlawful tip occurs, the tippee is also liable if he knows or should know that the 
+information was received from one who breached a fiduciary duty (such as an insider or a 
+misappropriator) and the tippee trades or tips for personal benefit with the requisite scienter.” Id. 
+(citing Dirks, at 660, 103 S.Ct. 3255).                                   
+    Here, Plaintiff argues that Capitalhold is a tippee because it obtained MNPI from Zhang 
+who personally benefited from the merger transaction as a member of the Buyer Group. This 
+argument fails. First, Plaintiff pleads that Zhang is the sole director, employee, and indirect 
+owner of 50% Capitalhold equity. But Plaintiff does not plead that Zhang passed MNPI to any 
+other Capitalhold investor and that such investor knew or should have known that the 
+information was received in breach of his fiduciary duties. Second, there are no allegations that 
+Capitalhold personally benefited from any alleged tip. Plaintiff only alleges that Zhang himself 
+personally benefited in the form of windfall gains following the Transaction. SAC 4f 26. Finally, 
+Plaintiff cites no case law that an artificial entity may be held liable as a tippee under insider 
+trading law. 
+     In sum, the insider trading claims against Defendants Shanda, Capitalcorp, and 
+Capitalhold must therefore be dismissed.* 
+                              V. CONCLUSION 
+     Defendants’ motions to dismiss are hereby denied in part and granted in part. Count I 
+(fraud) is dismissed under Rule 12(b)(6) for failure to plead loss causation. Accordingly, Count 
+IV (fraud) is also dismissed because there is no primary violation to sustain a Section 20(a) claim 
+for control personal liability. Counts II and III (insider trading) are dismissed against Defendants 
+Shanda, Capitalcorp, and Capitalhold. The Clerk of Court is respectfully directed to terminate the 
+motions at ECF Nos. 90 and 95 and to terminate Defendants Shanda, Capitalhold, and 
+Capitalcorp from the case. Lead Plaintiff and the remaining defendants shall file a joint status 
+report within 14 days informing the Court how they would like to proceed with this case. The 
+Clerk of Court is instructed to terminate the motions at ECF Nos. 90, 95. 
+
+Dated: March 31, 2022                      (Arr     Og 
+
+     New York, New York                   ANDREW L. CARTER, JR. 
+                                         United States District  Judge 
+
+Because insider trading claims against the Capital Defendants are dismissed, this Court need not reach their 
+arguments that Plaintiffs second claim (Count II) is untimely. 
+
+                                     19
+
+---
+
+UsDC sUNY 
+                                           DOCUMENT 
+                                           ELECTRONICALLY FILED 
+UNITED STATES DISTRICT COURT             DOC#: 
+                                           DATE  FILED:  _ 902020 
+SOUTHERN DISTRICT OF NEW YORK 
+
+                                              1:18-cv-02463 (ALC) 
+IN RE SHANDA LIMITED SECURITIES 
+LITIGATION                                   OPINION AND ORDER 
+
+ANDREW L. CARTER, JR., United States District Judge: 
+
+                             INTRODUCTION 
+    On September 30, 2019, this Court issued an Opinion dismissing Plaintiff's Amended 
+Complaint. On October 25, 2019, Plaintiff moved the Court to reconsider that Opinion, or, in the 
+alternative, for leave to amend the complaint. Upon careful consideration, Plaintiff’s motion is 
+DENIED in part and GRANTED in part. To the extent reconsideration is granted, the Court finds 
+Plaintiffs arguments without merit. 
+
+                                BACKGROUND 
+
+    The facts of this case were fully set forth in the Court’s Opinion dated September 30, 2019. 
+In re Shanda Games Ltd. Sec. Litig., No.  1:18-cv-02463 (ALC), 2019 U.S. Dist. LEXIS 171592 
+(S.D.N.Y. Sep. 30, 2019). Accordingly, familiarity with the facts is assumed and the summary to 
+follow will only highlight facts necessary for the motion presently before the Court. 
+
+    Defendant Shanda Games is a global video game company incorporated and headquartered 
+in the Cayman Islands. Amended Complaint (“AC”), ECF No. 25 45. On April 3, 2015, Shanda 
+announced a merger agreement by which the company would go private. AC {ff 10, 102. Although 
+the prospective buyers, the “Buyer Group”, controlled enough Shanda votes to enter into the
+
+transaction, Shanda was required to file initial and final proxy statements to allow shareholders to 
+determine whether they wanted to accept the offer price or exercise appraisal rights. AC ¶ 108.  
+
+   On May 5, 2015, Defendant Shanda published an initial proxy statement ("Initial Proxy") 
+explaining the merger that included, inter alia, projections for an unreleased game called Mir II 
+Mobile. It subsequently published a final proxy statement on October 13, 2015, ("Final Proxy"), 
+that included the same projections. AC ¶¶ 131-132.                        
+   Shareholders approved the merger on November 18, 2015. AC ¶¶ 22, 144. Under the 
+merger agreement, Shanda stockholders received $3.55 per share and Shanda ADS owners 
+
+received $7.10 per ADS. AC ¶¶ 144-45. “As a result of the Transaction, Shanda merged into 
+Capitalcorp Limited, a Cayman Islands corporation created for the purpose of the Transaction. AC 
+¶ 147. Shanda was the surviving entity of that merger and became a wholly owned subsidiary of 
+Capitalhold Limited, a Cayman Islands corporation. AC ¶ 147. Capitalhold Limited was owned 
+by a set of individuals Plaintiff refers to as Buyer Group 5, which thereby indirectly owned Shanda. 
+AC ¶ 147.                                                                 
+
+   Some dissenting shareholders exercised their appraisal rights and brought suit against 
+Defendant Shanda, seeking the Grand Court of the Cayman Islands' determination of the fair value 
+of its shares. AC ¶¶ 22-23, 151. The Court of Appeal of the Cayman Islands determined the fair 
+value of the shares was $12.84 per ADS. AC ¶¶ 25.                         
+                       STANDARD OF REVIEW                               
+
+   Reconsideration “is an extraordinary remedy to be employed sparingly in the interests of 
+finality and conservation of scarce judicial resources.” Sigmon v. Goldman Sachs Mortgage Co., 
+229 F. Supp. 3d 254, 257 (S.D.N.Y. 2017) (citing Anwar v. Fairfield Greenwich Ltd., 164 F. Supp. 
+3d 558, 560 (S.D.N.Y. 2016). A court will grant such a motion only where the party seeking 
+reconsideration identifies “an intervening change of controlling law, the availability of new 
+evidence, or the need to correct a clear error or prevent manifest injustice.” Kolel Beth Yechiel 
+Mechil of Tartikov, Inc. v. YLL Irrevocable Trust, 729 F.3d 99, 104 (2d Cir. 2013) (citing Virgin 
+
+Atl. Airways, Ltd. v. Nat'l Mediation Bd., 956 F.2d 1245, 1255 (2d Cir. 1992)). "The standard for 
+granting such a motion is strict, and reconsideration will generally be denied unless the moving 
+party can point to controlling decisions or data that the court overlooked—matters, in other words, 
+that might reasonably be expected to alter the conclusion reached by the court." Shrader v. CSX 
+Transp., Inc., 70 F.3d 255, 257 (2d Cir. 1995) (citing Schonberger v. Serchuk, 742 F. Supp. 108, 
+119 (S.D.N.Y. 1990)). The decision to grant or deny a motion for reconsideration is committed to 
+the sound discretion of the district court, but in exercising that discretion, the court “must be 
+mindful that a motion for reconsideration is not favored and is properly granted only upon a 
+showing of exceptional circumstances.” Boyd v. J.E. Robert Co., No. 05-CV-2455, 2013 WL 
+5436969, at *2 (E.D.N.Y. Sept. 27, 2013), aff’d, 765 F.3d 123 (2d Cir. 2014) (quoting Nakshin v. 
+
+Holder, 360 Fed.Appx. 192, 193 (2d Cir. 2010)).                           
+                         DISCUSSION                                     
+1. Applicability of the Presumption of Reliance                         
+   In its September 30, 2019 Opinion, the Court concluded that Plaintiff failed to plead an
+efficient market, and therefore failed to plead that the presumption of reliance was applicable. 
+Opinion at 25. Plaintiff asks the Court to reconsider this conclusion, directing the Court to 
+purportedly  controlling  precedent  on  the  breadth  of  the  presumption  of  reliance  and  its 
+applicability in off-market transactions. However, none of the authority that Plaintiff points to 
+shows clear error in this Court’s conclusion, nor that reconsideration is necessary to prevent 
+manifest injustice.                                                       
+   Plaintiff cites cases that set forth the fundamentals of the presumption of reliance: Basic 
+Inc. v. Levinson, 485 U.S. 224, 247 (1988), Ark. Teachers Ret. Sys. v. Goldman Sachs Grp., Inc., 
+879 F.3d 474 (2d Cir. 2018) and Black v. Finantra Capital, Inc., 418 F.3d 203, 210 (2d Cir. 2005). 
+But the Court’s conclusion that Plaintiff failed to demonstrate an efficient market and thereby 
+
+plead  reliance  was  not  predicated  on  a  disagreement  with  the  fundamentals  of  the  Basic 
+presumption. Rather, it was in acknowledgement of the unique application that Plaintiff seeks.  
+   Plaintiff has pleaded that but for Shanda’s alleged fraud “the market price for Shanda’s 
+ADS would have reflected its true value (notwithstanding the fact that Buyer Group 5 had enough 
+votes to force the Transaction to be completed at the $7.10 per ADS price), because the availability 
+of appraisal as a remedy would have prevented the deal price from serving as a ceiling limiting the 
+upper-price of the Shanda Securities.” AC ¶ 280.                          
+
+   In light of the unique conditions that Plaintiff set off as a “notwithstanding” parenthetical, 
+this Court looked to cases like In re Initial Public Offerings Securities Litigation. There, the 
+Second Circuit concluded that “the Plaintiffs' own allegations and evidence” demonstrated a lack 
+of efficient market because IPO markets are generally not efficient, and plaintiff alleged the market 
+was slow to integrate corrective information. 471 F.3d 24, 42 (2d Cir. 2006), decision clarified on 
+denial of reh 'g sub nom. In re Initial Pub. Offering Sec. Litig., 483 F .3d 70 (2d Cir. 2007).  
+
+   Like in In re Initial Public Offerings Securities Litigation, the facts Plaintiff pleaded do not 
+make out an efficient market during the class period. According to Plaintiff, “Shanda Securities 
+were covered by numerous securities analysts employed by major brokerage firms who wrote 
+reports that were distributed to the sales force and certain customers of their respective firms, 
+though many of these firms discontinued coverage after the announcement of the proposed 
+Transaction.” AC ¶ 283 (emphasis added). The suspension of analyst coverage at the beginning 
+of the class period in response to the at-issue transaction points towards an inefficient market.  
+
+   While  Plaintiff  pleads  that  “[t]he  market  reacted  promptly  to  public  information 
+disseminated by Shanda”, AC ¶283(e), its allegations do not show that. Plaintiff alleges Shanda 
+and the press publicly discussed the great demand and expectations for MIR II Mobile during the 
+class period, AC ¶ 76. But Plaintiff does not plead a single increase in Shanda stock associated 
+with any such announcements. Rather, Plaintiff pleads that the market price of Shanda ranged 
+between $6.07 per share and $6.98 for the duration of the class period. AC ¶ 279. That is, regardless 
+of public statements about Mir II Mobile being massively successful, the share price never went 
+above the $7.10 per ADS price at which the transaction eventually occurred. This too points to a 
+lack of an efficient market that was incorporating news about Shanda’s value into its price.  
+
+   In light of this, the Court finds no clear error in its conclusion that Shanda failed to plead 
+an efficient market, such that ADS holders could have reasonably relied on the integrity of the 
+market price when they chose to sell shares. Plaintiff’s request for reconsideration as to reliance is 
+DENIED.                                                                   
+
+2. Insider Trading Pursuant to Securities Exchange Act of 1934 Section 10(b), Securities
+   Exchange Commission Rule 10b-5 and Section 20A by Shanda             
+   The Court recognizes that its Opinion overlooked Plaintiff’s insider trading arguments. The
+Court will therefore GRANT Plaintiff’s request to reconsider this issue. First, Plaintiff asks the 
+Court to reconsider whether Plaintiff adequately pleaded that Shanda committed an insider trading 
+violation under Section 10(b), and therefore pleaded a Section 20A claim against Shanda. ECF 
+
+No. 59 at 5. Second, Plaintiff asks the Court to reconsider whether “under insider trading law, 
+Shanda had a duty to disclose all material information prior to buying Plaintiff’s ADS”, such that 
+Shanda not releasing the Mir II Mobile data is actionable. ECF No. 59 at 15-16. For the reasons 
+that follow, the Court finds no merit in Shanda’s insider trading arguments.  
+
+   Section  10(b)  of  the  Securities  Exchange  Act  of  1934  and  Securities  Exchange 
+Commission Rule 10b-5 are “violated when a corporate insider trades in the securities of his 
+corporation on the basis of material, nonpublic information.” United States v. O'Hagan, 521 U.S. 
+642, 651–52 (1997). Thus, “a corporate insider must abstain from trading in the shares of his 
+corporation unless he has first disclosed all material inside information known to him.” Chiarella 
+v. United States, 445 U.S. 222, 227 (1980). The Second Circuit has explained that "[a]ny duty of
+disclosure is owed only to those investors trading contemporaneously with the insider; non-
+contemporaneous traders do not require the protection of the 'disclose or abstain' rule because they 
+
+do not suffer the disadvantage of trading with someone who has superior access to information." 
+Wilson v. Comtech Telecommun. Corp., 648 F.2d 88, 94-95 (2d Cir. 1981) (citing Fridrich v. 
+Bradford, 542 F.2d 307, 326 (6th Cir. 1976) (Celebrezze, J., concurring), cert. denied, 429 U.S. 
+1053 (1977)).                                                             
+   Similarly, in creating a private cause of action for insider trading, Section 20A expressly 
+limited standing to contemporaneous investors in securities of the same class. 15 U.S.C. § 78t-
+
+1(a). “In order to state a claim under Section 20A(a), plaintiffs must: (1) plead a predicate insider 
+trading violation of the Exchange Act, and (2) allege sufficient facts showing ‘that the defendant 
+traded the security at issue 'contemporaneously' with the plaintiff.’” In re Take-Two Interactive 
+Sec. Litig., 551 F. Supp. 2d 247, 309 (S.D.N.Y. 2008) (citations omitted). 
+   Here, Plaintiff’s insider trading claims center on the completion of the going-private 
+transaction. Plaintiff asserts that Shanda was the purchaser in that transaction—in which case the 
+contemporaneous trading requirement would be met. However, Plaintiff has not pleaded facts to 
+support this assertion.                                                   
+
+   Plaintiff concedes that Shanda was not the payor in the going-private transaction. Reply at 
+3 (“. . . Plaintiff admits the Amended Complaint erred in alleging that this payment was made by 
+Shanda. . . .”). The Final Proxy and Merger Agreement indicate that the entities that paid for the 
+shares were Capitalhold Limited, an exempted company with limited liability incorporated under 
+the laws of the Cayman Islands, and Capitalcorp Limited, an exempted company with limited 
+liability incorporated under the laws of the Cayman Islands and a wholly owned subsidiary of 
+Capitolhold. ECF No. 45-1 at I; ECF No. 61-1 at 10.                       
+
+   Plaintiff takes the position that Shanda is a purchaser as well but fails to plead facts 
+substantiating  how.  Plaintiff  seems  to  suggest  that  the  sale  of  the  ADS  occurred  after the 
+Transaction from which Shanda was the surviving corporation. ECF No. 56 at 18-10. This is not 
+right. “[T] he time of a ‘purchase or sale’ of securities within the meaning of Rule 10b-5 is to be 
+determined as the time when the parties to the transaction are committed to one another.” Radiation 
+Dynamics, Inc. v. Goldmuntz, 464 F.2d 876, 891 (2d Cir. 1972). The Final Proxy indicates that 
+shareholders had to commit to sale or appraisal pre-merger. It states: “Shareholders who elect to 
+dissent from the Merger will have the right to receive payment of the fair value of their Shares if 
+
+the Merger is completed, but only if they deliver to the Company, before the vote for the Merger 
+is taken at the extraordinary general meeting, a written objection to the Merger and subsequently 
+comply with all procedures and requirements of [the appropriate Cayman Islands Company Law] 
+for the exercise of dissenters’ rights. . . .” ECF No. 45-1 at iv (emphasis added). Indeed, Plaintiff 
+twice pleaded that he sold his shares on November 18, 2015, AC ¶¶ 31, 287, to which admission 
+he is bound. Bellefonte Re Ins. Co. v. Argonaut Ins. Co., 757 F.2d 523, 528 (2d Cir. 1985) (“A 
+party’s assertion of fact in a pleading is a judicial admission by which it normally is bound . . . .”). 
+The commitment to accept or appraise precedes the merger, and therefore the existence of the 
+surviving corporation Shanda.                                             
+
+   Aside from the timing argument, which is rendered implausible by the Final Proxy—a 
+document on which Plaintiff repeatedly relies in its Amended Complaint—Plaintiff fails to plead 
+facts that indicate why the purchase of Shanda shares by Capitalhold or Capitalcorp is also a 
+purchase by Shanda. Because Plaintiff has failed to plead contemporaneous trading, both the 
+Sections10b-5 and 20A insider trading claim are rightly dismissed. Since Plaintiff did not plead 
+that Shanda engaged in insider trading, it also necessarily fails to plead that Shanda had a duty 
+pursuant to insider trading law to disclose the Mir II Mobile data.       
+
+   For these reasons, the Court finds Plaintiff failed to adequately plead these insider trading 
+claims.                                                                   
+3. Cayman Island Duty To Disclose Mir II Mobile Data                    
+
+   The Court will also reconsider whether Cayman Island law required the disclosure of the
+Mir II Mobile data, which argument the Opinion overlooked. Plaintiff has argued that, pursuant to 
+Cayman  Island  law,  Shanda  had  a  duty  to  provide  Plaintiff  and  shareholders  “sufficient 
+information” to understand the merger, including a “meaningful valuation”. Mot. at 16. This duty 
+would, in turn, establish an element of Section 10b liability for Shanda’s failure to release the Mir 
+II Mobile data as a pure omission. See Matrixx Initiatives, Inc. v. Siracusano, 563 U.S. 27, 37–38 
+(2011) (requiring (a) a material omission; (b) scienter (c) reliance; (d) a connection between the 
+falsity and the purchase or sale of securities; and (e) economic loss).   
+   Plaintiff pleads that “Cayman Islands corporations, like Shanda, have a duty to provide 
+investors with sufficient information to adequately understand the Transaction that they are called 
+upon to consider”. AC ¶ 290. In its briefing, Plaintiff proffers Davis v. Scottish Re Grp. Ltd., 159 
+A.D.3d 528, 529, 74 (App. Div. 1st Dept) as authority on Cayman law. Plaintiff characterizes
+
+Davis as indicating that under Cayman law “Shanda must provide its shareholders with ‘sufficient 
+information’ to understand the merger, including a ‘meaningful valuation’ of their shares.” Mot. 
+at 16. Not so.                                                            
+   The portion of Davis on which Plaintiff relies does not support such an expansive duty. 
+Rather, it says:                                                          
+
+   “However, to the extent the director defendants gave shareholders an information 
+   statement providing information and recommendations about the merger 
+   transaction, they owed the shareholders a ‘sufficient information duty’ (Sharp v. Blank, 
+   [2015] EWHC 3220 [Ch], ¶ 5). This is not a duty of loyalty, which would require the 
+   directors to subordinate their interests to the shareholders' interests, but ‘if [the directors] 
+   are going to invite the shareholders to a meeting, common fairness requires that they 
+   explain what the purpose of the meeting is’ in a "clear and comprehensible’ manner (id. ¶ 
+   21).”                                                                
+Davis, 159 A.D.3d at 529-30 (emphasis added). This is not a statement about pure omission. It 
+indicates that when directors make a statement, for example, by giving shareholders an information 
+statement, they have a duty that it not be misleading.                    
+   The cited portion of Davis indicates that Cayman Island law would ask whether the Final 
+Proxy was misleading because it did not include the Mir II Mobile data. The Court has already 
+concluded that “Plaintiff has failed to demonstrate that the omission was misleading”. Opinion at 
+18-19. Plaintiff has not asked the Court to reconsider this assessment, nor does the Court see any
+reason this question would come out differently under an analogous Cayman Island framework. 
+    The Court therefore concludes that Plaintiffs allegation that said Cayman duty would give 
+rise to an affirmative duty for Shanda to disclose the Mir II Mobile data is without merit. 
+
+                                 CONCLUSION 
+
+    For the foregoing reasons, Plaintiff's motion for reconsideration is DENIED in part and 
+GRANTED in part. The Court concludes that the reconsidered arguments lack merit. Consistent 
+with the request from Plaintiff, the Court will issue a scheduling order to consider granting Plaintiff 
+leave to amend. The Clerk of Court is respectfully directed to terminate the motions at ECF Nos. 
+66 and 68. 
+
+    SO ORDERED. 
+
+Dated:       September 30, 2020         [Arde   7 (Lae 
+          New York, New York          :
+                                        ANDREW L. CARTER, JR. 
+                                        United States District  Judge 
+
+                                    10

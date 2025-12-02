@@ -1,0 +1,1436 @@
+Case 5:22-cv-05181-TLB Document 82           Filed 02/22/24 Page 1 of 27 PageID #: 2778
+
+
+
+
+                      IN THE UNITED STATES DISTRICT COURT
+                         WESTERN DISTRICT OF ARKANSAS
+                              FAYETTEVILLE DIVISION
+
+FORT WORTH PARTNERS, LLC                                                        PLAINTIFF
+
+V.                               CASE NO. 5:22-CV-05181
+
+NILFISK, INC. and
+NILFISK HOLDING A/S,
+a Danish Corporation                                                        DEFENDANTS
+
+                        MEMORANDUM OPINION AND ORDER
+
+       This case arises from a lease between Plaintiff Fort Worth Partners, LLC (“FWP”)
+
+and Defendants Nilfisk, Inc. and Nilfisk Holding A/S, a Danish Corporation (collectively,
+
+“Nilfisk”) of a building that was severely damaged by a tornado. On February 20, 2024,
+
+the case came before the Court for a final pre-trial conference. At that time, the Court
+
+made a number of rulings related to the following pending motions, which are fully briefed
+
+and ripe for review: Nilfisk’s Motion to Exclude the Testimony of Andre Slintak and Kevin
+
+McMahon (Doc. 41) (“Nilfisk’s Daubert Motion”); FWP’s Motion for Summary Judgment
+
+(Doc. 33); and Nilfisk’s Motion for Summary Judgment (Doc. 36). This Order memorializes
+
+those rulings. To the extent anything in this Order differs from the Court's rulings from the
+
+bench, this Order shall control. For the reasons that follow, Nilfisk’s Daubert Motion is
+
+DENIED; FWP’s Motion for Summary Judgment is GRANTED IN PART and DENIED IN
+
+PART; and Nilfisk’s Motion for Summary Judgment is DENIED.
+
+                                   I. BACKGROUND
+
+                                 A. Factual Background
+
+       The following facts are undisputed. This matter concerns a lease agreement (the
+
+“Lease”) between Nilfisk and FWP for a commercial building located at 979 E. Robinson
+
+
+
+                                             1
+Case 5:22-cv-05181-TLB Document 82          Filed 02/22/24 Page 2 of 27 PageID #: 2779
+
+
+
+
+Ave., in Springdale, Arkansas (the “Building”). The Building is an approximately 200,000
+
+square foot warehouse-style building, which is comprised of two approximately 100,000-
+
+square-foot sections, the eastern section and western section. On March 30, 2022, an
+
+EF-3 tornado touched down in Springdale and damaged the Building. All 100,000 square
+
+feet of the western section and 40,000 square feet of the eastern section collapsed. The
+
+portion of the eastern section that remained standing was damaged.
+
+       Under the Lease, FWP owned the Building (and the property on which it sits) and
+
+was the lessor; Nilfisk, Inc. was the sole tenant; and Nilfisk Holding A/S, a Danish
+
+Corporation was the sole guarantor. The Lease includes four parts: an Industrial Lease
+
+Agreement for the Building (the “Original Lease”) (Doc. 2-1) and three amendments
+
+(Docs. 2-2, 2-3, 2-4). FWP and Nilfisk were not parties to the Original Lease. Nilfisk, Inc.
+
+became tenant under the First Amendment in 2015; FWP purchased the Building and
+
+became successor in interest to the Original Lease and First Amendment on May 17,
+
+2016; and Nilfisk Holding A/S became guarantor under the Second Amendment in 2017.
+
+The parties agreed to triple-net lease terms: In addition to rent and utilities, Nilfisk was
+
+obligated to pay for all property-related expenses, including real estate taxes, fire and
+
+casualty insurance, and all maintenance and repairs.
+
+       By its own terms, the Lease is governed by Arkansas law, “the state in which the
+
+Premises is located.” (Doc. 2-1, p. 19). Two terms of the Lease are most important to the
+
+case at bar: Sections 10.2 and 18.3. Section 10.2 imposes an obligation on the tenant to
+
+maintain commercial property insurance:
+
+        10.2. Coverage Amounts. Tenant shall purchase and maintain,
+        throughout the Term, a Tenant's Policy(ies) of (i) “all-risk” commercial
+        property insurance covering the improvements constructed, installed or
+        located on the Premises (but excluding Tenant's Property) against all loss
+
+                                             2
+Case 5:22-cv-05181-TLB Document 82           Filed 02/22/24 Page 3 of 27 PageID #: 2780
+
+
+
+
+        or damage caused by fire, ice, hurricane, windstorm and such other risks
+        of physical loss or damage as are covered by a causes of loss special
+        form insurance policy, which coverage shall, at all times, be in an amount
+        equal to one hundred percent (100%) of the then “full replacement cost”
+        of the Premises subject to a deductible not to exceed One Hundred
+        Thousand and No/100 Dollars ($100,000.00) (“Full Replacement Cost”
+        shall be interpreted to mean the cost of replacing the Premises without
+        deduction for depreciation or wear and tear, less the cost of footings,
+        foundations and other structures below grade) . . . .
+
+(Doc. 2-1, p. 9 (the “Full Replacement Cost Insurance Obligation”)). Section 18.3
+
+provides, inter alia, a termination procedure which is triggered by a Major Casualty:
+
+        18.3.1. If a (i) Casualty, (ii) Condemnation, or (iii) Material Temporary
+        Taking shall affect all or a substantial portion of the Premises, and:
+
+              18.3.1.1. [I]n the case of a Casualty, such Casualty shall be deemed
+        a “total loss” for insurance purposes or shall be determined to be a loss
+        of such dimension that the Premises cannot be completely restored or
+        rebuilt within two hundred seventy (270) days computed after the
+        hypothetical date of commencement of such construction (a “Major
+        Casualty”) . . .
+
+        then Tenant may, at its option, exercisable not later than sixty (60) days
+        after the date of such Major Casualty or Condemnation, deliver to
+        Landlord (A) notice (a “Termination Notice”) of its intention to terminate
+        this Lease on the next rental payment date that occurs not less than forty
+        five (45) days after the delivery of such notice (the “Termination Date”)
+        . . . (C) in the case of a Major Casualty, (x) the certificate of an architect
+        licensed in the state in which the Premises is located stating that the
+        architect has determined, in its good faith judgment, that the Premises
+        cannot be completely restored or rebuilt for continued use and
+        occupancy in Tenant's business within a building construction period of
+        two hundred seventy (270) days computed from the hypothetical date of
+        commencement of such construction or (y) written confirmation from the
+        issuer of the applicable insurance policy that it will treat the damage to
+        the Building or Buildings as a “total loss”; and (D) an irrevocable offer (a
+        “Event of Loss Purchase Offer”) by Tenant to Landlord to purchase the
+        Premises on the Termination Date.
+
+        If Landlord shall reject the Event of Loss Purchase Offer by written notice
+        given to Tenant not later than fifteen (15) days prior to the Termination
+        Date, this Lease shall terminate on the Termination Date, except with
+        respect to obligations and liabilities of Tenant or Landlord hereunder,
+        actual or contingent, which have arisen on or prior to the Termination
+        Date . . . .
+
+                                              3
+Case 5:22-cv-05181-TLB Document 82           Filed 02/22/24 Page 4 of 27 PageID #: 2781
+
+
+
+
+Id. at pp. 14.
+
+       Nilfisk maintained property insurance policies on the Building from 2016 to 2022,
+
+renewed annually. FWP received certificates of each annual policy from Nilfisk. Although
+
+the amount of property insurance Nilfisk obtained on the Building varied from 2016 to
+
+2022, Nilfisk never obtained more than $10 million in property insurance on the Building
+
+in any year during its Lease of the Building. Prior to the tornado, FWP received a 2021-
+
+2022 certificate of property insurance for the Building, which was the certificate outlining
+
+the amount of coverage on the Building when the tornado struck in March 2022. That
+
+amount was $5,149,999.
+
+       After the tornado struck, Nilfisk’s insurer assessed the damage to the Building,
+
+evaluated the estimated cost to repair it, and ultimately paid out the policy limits under the
+
+2021-2022 property insurance policy: $5,149,999.00. In August 2022, Nilfisk paid FWP a
+
+total of $5,292,427.32, which included all of the property insurance proceeds Nilfisk
+
+received related to the damage to the Building, and vacated the Building on or about
+
+August 1, 2022.
+
+                               B. Procedural Background
+
+       FWP filed its Complaint (Doc. 2) on September 6, 2022, bringing a breach of
+
+contract claim against Nilfisk under the Lease. The Complaint alleges that Nilfisk
+
+breached Section 10.2’s Full Replacement Cost Insurance Obligation, improperly
+
+“exercise[d] their casualty, termination, and purchase offer rights under the Lease,” and
+
+vacated “the Building prior to the expiration of the term” of the Lease. (Doc. 2, ¶ 25).
+
+       FWP seeks damages for (1) the difference between the cost to replace the Building
+
+(less footings, foundations, and other structures below grade) and the $5,292,427.32 paid
+
+by or on behalf of Nilfisk in August 2022, and (2) the unpaid rent Nilfisk owes from August
+                                              4
+Case 5:22-cv-05181-TLB Document 82           Filed 02/22/24 Page 5 of 27 PageID #: 2782
+
+
+
+
+2022, when Nilfisk vacated the Building, to October 2024, the expiration date of the Lease.
+
+(Doc. 2-4, p. 1). On August 1, 2023, FWP filed a Motion to amend its Complaint (Doc. 25)
+
+to include a new theory of breach under Section 18.1 of the Lease. The Court denied that
+
+Motion (Doc. 32), finding that it was not timely and did not satisfy Fed. R. Civ. P. 16(b).
+
+       The parties filed their cross-motions for summary judgment on October 30, 2023,
+
+and Nilfisk filed its Daubert motion that same day. There are two additional liminal motions
+
+pending that are not addressed in this Order (Docs. 72 & 74). This matter is scheduled
+
+for a bench trial on February 26, 2024.
+
+                           II. NILFISK’S DAUBERT MOTION
+
+       Nilfisk argues that testimony from FWP’s experts Andre Slintak and Kevin
+
+McMahon should be stricken as irrelevant and inadmissible. Slintak is a licensed engineer
+
+and McMahon is a professional estimator. Slintak and Mahon both contributed to FWP’s
+
+June 9, 2023 Engineering Evaluation Report (the “Report”) (Doc. 33-1. pp. 69–203);
+
+Slintak evaluated the damage and reparability of the Building, and McMahon estimated
+
+the cost to rebuild it.
+
+       In the Report, Slintak and McMahon concluded that the Building “cannot be
+
+repaired” due to damage to its foundation, and that the entirety of the Building “must be
+
+demolished in order to be reconstructed.” Id. at p. 85. Slintak and McMahon initially
+
+estimated replacement cost value of the Building to be $27,722,974.03, and later revised
+
+their estimate to $27,547,056.13 after deducting costs for footings, foundations, and other
+
+
+
+
+                                              5
+Case 5:22-cv-05181-TLB Document 82              Filed 02/22/24 Page 6 of 27 PageID #: 2783
+
+
+
+
+materials below grade as well as associated profit and overhead pursuant to Section 10.2.
+
+(Doc. 33-1, pp. 86, 464–65).
+
+                                      A. Legal Standard
+
+      The decision whether to exclude expert testimony is committed to a district court’s
+
+discretion, subject to the Federal Rules of Evidence, including Rule 702. Johnson v. Mead
+
+Johnson & Co., LLC, 754 F.3d 557, 561 (8th Cir. 2014). Rule 702 states that:
+
+          A witness who is qualified as an expert by knowledge, skill, experience,
+          training, or education may testify in the form of an opinion or otherwise
+          if: (a) the expert’s scientific, technical, or other specialized knowledge will
+          help the trier of fact to understand the evidence or to determine a fact in
+          issue; (b) the testimony is based on sufficient facts or data; (c) the
+          testimony is the product of reliable principles and methods; and (d) the
+          expert has reliably applied the principles and methods to the facts of the
+          case.
+
+      The Eighth Circuit applies these elements through a three-part test:
+
+          First, evidence based on scientific, technical, or other specialized
+          knowledge must be useful to the finder of fact in deciding the ultimate
+          issue of fact. This is the basic rule of relevancy. Second, the proposed
+          witness must be qualified to assist the finder of fact. Third, the proposed
+          evidence must be reliable or trustworthy in an evidentiary sense, so that,
+          if the finder of fact accepts it as true, it provides the assistance the finder
+          of fact requires.
+
+Johnson, 754 F.3d at 561 (quoting Polski v. Quigley Corp., 538 F.3d 836, 839 (8th Cir.
+
+2008)).
+
+      It follows that the proponent of expert testimony bears the burden of showing by a
+
+preponderance of the evidence that the above requirements are satisfied; however,
+
+“[c]ourts should resolve doubts regarding the usefulness of an expert’s testimony in favor
+
+of admissibility.” See Marmo v. Tyson Fresh Meats, Inc., 457 F.3d 748, 757–58 (8th Cir.
+
+2006). Proponents of an expert need not show that their expert’s assessment is correct,
+
+only that it is reliable—a lower standard. Fed. R. Civ. P. 702 advisory committee’s note to
+
+
+                                                6
+Case 5:22-cv-05181-TLB Document 82            Filed 02/22/24 Page 7 of 27 PageID #: 2784
+
+
+
+
+2000 amendment. When assessing the validity of scientific information in particular, the
+
+trial court may consider one or more of the following non-exclusive factors: “(1) whether
+
+the theory or technique can be (and has been) tested; (2) whether the theory or technique
+
+has been subjected to peer review and publication; (3) the known or potential rate of error;
+
+and (4) whether the theory has been generally accepted [in the relevant scientific
+
+community].” Lauzon v. Senco Prods., Inc., 270 F.3d 681, 687 (8th Cir. 2001) (citing
+
+Daubert v. Merrell Dow Pharms., Inc., 509 U.S. 579, 593–94 (1993)). A district court
+
+possesses broad discretion in making its reliability determination. Kumho Tire Co. v.
+
+Carmichael, 526 U.S. 137, 142 (1999).
+
+                                       B. Discussion
+
+       Turning first to relevance, Nilfisk argues that Slintak’s and McMahon’s opinions
+
+regarding rebuilding are irrelevant “because they do not bear on any actual claim asserted
+
+in this case.” (Doc. 42, p. 6). In support of this argument, Nilfisk quotes Slintak’s deposition
+
+testimony, in which he repeatedly referred to basing the Report’s conclusion that repair
+
+was not feasible on an “overlying specification” that “the structure was to be returned to
+
+its preloss condition.” (Doc. 41-4, pp. 4–5). Slintak opined that “performing a substantial
+
+number of isolated repairs or rehabilitations around the perimeter and the interior of the
+
+slab” would “create[e] a condition which didn’t exist there prior.” Id. at p. 4.
+
+       Nilfisk argues that the “overlying specification” to which Slintak referred was
+
+Section 18.1 of the Lease and that, because FWP did not plead its breach of contract
+
+claim under that Section, Slintak’s testimony is irrelevant for lack of “fit” to the claim. This
+
+argument does not carry water. Slintak stated in his deposition that he had not personally
+
+seen the Lease’s requirements and that it was not his role to interpret leases or contracts.
+
+
+
+                                               7
+Case 5:22-cv-05181-TLB Document 82           Filed 02/22/24 Page 8 of 27 PageID #: 2785
+
+
+
+
+Id. at p. 5. And while it may be true that FWP’s breach of contract claim was brought under
+
+Section 10.2, it is a basic tenet of contract law that “different clauses of a contract must
+
+be read together and the contract construed so that all of its parts harmonize, if that is at
+
+all possible.” Tyson Foods, Inc. v. Archer, 147 S.W.3d 681, 685–86 (Ark. 2004) (citing
+
+Continental Cas. Co. v. Davidson, 463 S.W.2d 652 (Ark. 1971)).
+
+       Slintak’s and McMahon’s testimony speaks to the issue of damages. The operative
+
+measure of damages here is “the difference between the amount of insurance on the
+
+property and . . . the property’s replacement cost.” DWB, LLC v. D&T Pure Trust, 550
+
+S.W.3d 420, 431 (Ark. Ct. App. 2018). That measure requires FWP to establish the
+
+Building’s replacement cost, as defined in Section 10.2—and that is precisely what Slintak
+
+and McMahon endeavored to do with their estimate. Regardless of whether their opinions
+
+are deemed credible at trial, their estimate is certainly relevant under the damages
+
+standard.
+
+       Next, Nilfisk argues that Slintak’s and McMahon’s testimony is inadmissible
+
+because FWP cannot recover the amount to fully rebuild the Building under Arkansas law.
+
+Here, Nilfisk essentially restates its inflated damages arguments from its Motion for
+
+Summary Judgment. For the reasons laid out in subsection III.B.2.d, infra (discussing
+
+Nilfisk’s inflated damages arguments), the Court declines to strike Slintak and McMahon’s
+
+testimony on those grounds. Accordingly, the Court finds that FWP’s experts’ testimony
+
+is relevant and admissible. Nilfisk’s Daubert Motion is DENIED.
+
+
+
+
+                                             8
+Case 5:22-cv-05181-TLB Document 82          Filed 02/22/24 Page 9 of 27 PageID #: 2786
+
+
+
+
+                  III. CROSS-MOTIONS FOR SUMMARY JUDGMENT
+
+                                    A. Legal Standard
+
+       “The court shall grant summary judgment if the movant shows that there is no
+
+genuine dispute as to any material fact and the movant is entitled to judgment as a matter
+
+of law.” Fed. R. Civ. P. 56(a). The Court must review the facts in the light most favorable
+
+to the opposing party and give that party the benefit of any inferences that logically can
+
+be drawn from those facts. Canada v. Union Elec. Co., 135 F.3d 1211, 1212–13 (8th Cir.
+
+1997). The moving party bears the burden of proving the absence of a genuine dispute
+
+of material fact and that it is entitled to judgment as a matter of law. See Fed. R. Civ. P.
+
+56(c); Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 475 U.S. 574, 586–87 (1986);
+
+Nat’l Bank of Commerce of El Dorado v. Dow Chem. Co., 165 F.3d 602 (8th Cir. 1999).
+
+       Once the moving party has met its burden, the non-moving party must “come
+
+forward with ‘specific facts showing that there is a genuine issue for trial.’” Matsushita,
+
+475 U.S. at 587 (quoting Fed. R. Civ. P. 56(c)). “[T]he mere existence of a scintilla of
+
+evidence in support of the [moving party’s] position will be insufficient” to survive
+
+summary judgment. Anderson v. Durham D&M, L.L.C., 606 F.3d 513, 518 (8th Cir. 2010)
+
+(quoting Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 252 (1986)). Rather, for there to
+
+be a genuine issue of material fact that would preclude summary judgment, the non-
+
+moving party must produce evidence “such that a reasonable jury could return a verdict
+
+for the nonmoving party.” Allison v. Flexway Trucking, Inc., 28 F.3d 64, 66 (8th Cir. 1994)
+
+(quoting Liberty Lobby, Inc., 477 U.S. at 248).
+
+       Where, as here, the parties have filed cross-motions for summary judgment, this
+
+same standard applies. But each motion must be reviewed in its own right, with each side
+
+
+
+                                             9
+Case 5:22-cv-05181-TLB Document 82          Filed 02/22/24 Page 10 of 27 PageID #: 2787
+
+
+
+
+“entitled to the benefit of all inferences favorable to them which might reasonably be
+
+drawn from the record.” Wermager v. Cormorant Twp. Bd., 716 F.2d 1211, 1214 (8th Cir.
+
+1983); see also Canada v. Union Elec. Co., 135 F.3d 1211, 1212-13 (8th Cir. 1998).
+
+                                     B. Discussion
+
+       In its Motion for Summary Judgment, FWP urges the Court to find on the
+
+undisputed facts that Nilfisk breached Section 10.2 of the Lease by failing to procure and
+
+maintain an “all-risk” commercial property insurance policy as required by the Full
+
+Replacement Cost Insurance Obligation, and that FWP is entitled to damages as a result.
+
+Specifically, FWP argues that it is owed:
+
+        a total of $23,919,928.81, which comprises $27,547,056.13 for the cost
+        to replace the Building (less footings, foundations, and other structures
+        below grade, and associated profit and overhead), plus $915,000 (the
+        amount of base rent from August 2022 through October 31, 2023, i.e.15
+        months), plus $750,300 (the annual rent for October 31, 2023 through
+        October 31, 2024, i.e. 12 months) less the Partial Payment
+        [$5,292,427.32].
+
+(Doc. 33, ¶ 4).
+
+       Nilfisk’s Motion advances four arguments for summary judgment: that FWP’s claim
+
+is barred by (1) the applicable statute of limitations and (2) the doctrine of avoidable
+
+consequences, (3) that Section 10.2 of the Lease is an unenforceable agreement to
+
+agree, and (4) that FWP’s damages claim is inflated and unavailable under Arkansas law.
+
+In its Response to FWP’s Motion, Nilfisk raises several more rebuttal arguments, most
+
+importantly that Nilfisk properly terminated the Lease and that genuine issues of material
+
+fact preclude summary judgment for FWP.
+
+       To streamline its analysis, the Court will first consider FWP’s breach and damages
+
+argument and Nilfisk’s rebuttal arguments in subsection III.B.1, below. Then, in
+
+subsection III.B.2, the Court will consider Nilfisk’s four arguments for summary judgment.
+                                            10
+Case 5:22-cv-05181-TLB Document 82            Filed 02/22/24 Page 11 of 27 PageID #: 2788
+
+
+
+
+                        1. FWP’s Motion for Summary Judgment
+
+                                   a. Liability for Breach
+
+       The first issue raised by FWP’s Motion for Summary Judgment is whether Nilfisk
+
+breached the Lease by failing to comply with Section 10.2’s Full Replacement Cost
+
+Insurance Obligation. In Arkansas, to prove common law breach of contract, a Plaintiff
+
+must show: “(1) an enforceable contract exists, (2) the defendant has a duty under the
+
+contract, (3) the defendant violated that duty, and (4) the plaintiff was damaged.” Smith v.
+
+S. Farm Bureau Cas. Ins. Co., 18 F.4th 976 (8th Cir. 2021). “When performance of a duty
+
+under a contract is contemplated, any non-performance of that duty is a breach.” Zufari
+
+v. Architecture Plus, 323 Ark. 411, 420 (1996) (citing Restatement (Second) of Contracts
+
+§ 235 (2) (1981)).
+
+       Here, it is undisputed that the Lease is an enforceable contract between FWP and
+
+Nilfisk. And for the reasons laid out in subsection III.B.2.c, infra, the Court finds as a matter
+
+of law that the language of Section 10.2 bound Nilfisk to an unambiguous, reasonably
+
+certain, and thus enforceable, duty to comply with the Full Replacement Cost Insurance
+
+Obligation.
+
+       Moreover, the undisputed facts show that Nilfisk breached its duty under the Full
+
+Replacement Cost Insurance Obligation. The parties do not dispute that the amount of
+
+property insurance on the Building on March 30, 2022 was $5,149,999. At least three
+
+estimates have been furnished by the parties as to the cost of rebuilding or repairing the
+
+Building in a manner that complies with Section 10.2. FWP’s expert witnesses estimate
+
+the cost to rebuild the Building to be $27,547,056.13, accounting for deductions for the
+
+costs for footings, foundations, and other materials below grade, as well as the associated
+
+
+
+                                               11
+Case 5:22-cv-05181-TLB Document 82          Filed 02/22/24 Page 12 of 27 PageID #: 2789
+
+
+
+
+profit and overhead. (Doc. 33-1, pp. 86, 464–65). For the purpose of rebuttal, Nilfisk’s
+
+experts estimate the approximate cost to repair the Building to be $14,253,578. (Doc. 51-
+
+17, p. 10). Nilfisk also points the Court to an estimated replacement cost value of
+
+$9,428,939.87, which was calculated by its insurer in April 2022. See Doc. 51, p. 4; Doc.
+
+36-23, pp. 1, 36. FWP responds that the insurer’s low estimate is inadmissible hearsay—
+
+but the Court need not decide that issue now. Reviewing these facts in the light most
+
+favorable to Nilfisk leads the Court to conclude that even under the lowest (contested)
+
+estimate of the Building’s replacement cost value, $9.4 million, Nilfisk was underinsured
+
+by more than $4 million, thus damaging FWP in at least that amount. DWB, LLC v. D&T
+
+Pure Trust, 550 S.W.3d 420, 431 (Ark. Ct. App. 2018) (finding that where a tenant has a
+
+replacement cost insurance obligation and then underinsures that obligation, the measure
+
+of damages is “the difference between the amount of insurance on the property and . . .
+
+the property’s replacement cost”). For these reasons, the Court finds that Nilfisk breached
+
+Section 10.2’s Full Replacement Cost Insurance Obligation as a matter of law.
+
+                                b. Materiality of Breach
+
+       The second issue is whether Nilfisk’s breach was material, thus discharging FWP
+
+from its obligations under the Lease. Generally, “the failure of one party to perform his
+
+contractual obligations releases the other party from his obligations.” Taylor v. George, 92
+
+Ark. App. 264, 272 (2005) (collecting cases). But “for one party's obligation to perform to
+
+be discharged, the other party's breach must be material.” Id. at 272–73. If the breach “‘is
+
+not so material as to discharge the other party's duty of performance, the latter's only
+
+remedy is damages for the partial breach.’” TXO Prod. Corp. v. Page Farms, Inc., 287
+
+Ark. 304, 307 (1985) (quoting Corbin, Contracts, § 1253 (1962)). “A material breach is a
+
+
+
+                                            12
+Case 5:22-cv-05181-TLB Document 82           Filed 02/22/24 Page 13 of 27 PageID #: 2790
+
+
+
+
+failure to perform an essential term or condition that substantially defeats the purpose of
+
+the contract for the other party.” Spann v. Lovett & Co., 2012 Ark. App. 107, 21 (2012).
+
+“An influential circumstance in the determination of the materiality of a failure fully to
+
+perform a contract is the extent to which the injured party will obtain the substantial benefit
+
+that he reasonably anticipated.” Taylor, 92 Ark. App. at 273 (citing TXO Prod. Corp. 287
+
+Ark. 304 (1985)).
+
+       Here, the Court finds that Nilfisk’s breach was material for two reasons. The first is
+
+that, as FWP argues in its Motion, the full cost of replacing the Building after loss from a
+
+tornado is clearly a “substantial benefit”; under any of the replacement cost estimates
+
+advanced by the parties in this case, the replacement cost value of the Building was
+
+several million dollars. And the express language of Section 10.2 makes clear that it was
+
+reasonable for FWP to anticipate it would receive that benefit in the event of a loss like a
+
+tornado. See Doc. 2-1, p. 9 (“Tenant shall purchase and maintain . . . ‘all-risk’ commercial
+
+property insurance . . . against all loss or damage caused by . . . windstorm . . . which
+
+coverage shall . . . be in an amount equal to . . . the then ‘full replacement cost’ of the
+
+Premises . . .”). The allocation of risk is a substantial, material benefit under any lease of
+
+a valuable property asset like the Building at issue here.
+
+       The second reason Nilfisk’s breach was material is that it cut short the monies
+
+required to restore the Building. As a result, the Building could not continue to operate as
+
+a commercial property, and FWP could not relet it. In this sense, Nilfisk’s breach of the
+
+Full Replacement Cost Insurance Obligation prevented both parties from “curing” the
+
+damage that prohibited them from benefiting from the Building’s commercial value as
+
+landlord and lessee—Nilfisk prolonged the damage to the Building by stymying its repair
+
+
+
+                                              13
+Case 5:22-cv-05181-TLB Document 82            Filed 02/22/24 Page 14 of 27 PageID #: 2791
+
+
+
+
+or replacement. Because the Court finds that Nilfisk’s breach of the Full Replacement
+
+Cost Insurance Obligation was material as a matter of law, the breach released FWP from
+
+further obligations under the Lease.
+
+                                           c. Damages
+
+       The final issue is damages. “The underlying purpose in awarding damages for
+
+breach of contract is to place the injured party in as good a position as he would have
+
+been in had the contract been performed.” Cook v. Cook, 378 S.W.3d 275, 289 (Ark. Ct.
+
+App. 2010). Here, damages related to Nilfisk’s breach of the Full Replacement Cost
+
+Insurance Obligation and damages from unpaid rent are required to place FWP in that
+
+position. The Court’s analysis begins with the former.
+
+       Under DWB, LLC, the measure of damages where a tenant fails to meet a
+
+replacement cost insurance obligation is “the difference between the amount of insurance
+
+on the property and . . . the property’s replacement cost.” 550 S.W.3d at 431. Here, the
+
+amount of insurance Nilfisk held on the property, $5,149,999, is undisputed. But the
+
+Building’s replacement cost is contested; most critically, through conflicting expert witness
+
+testimony. FWP’s estimate is nearly twice as much as Nilfisk’s, primarily because the
+
+parties’ dueling experts disagree about whether the Building can be repaired or must be
+
+rebuilt entirely. In any event, the Court finds the matter of the cost to repair or replace the
+
+building to be inappropriate for summary judgment. The Court also declines to strike either
+
+side’s expert testimony prior to trial.1
+
+
+
+
+1 FWP attacked Nilfisk’s experts’ methodology in its Motion for Summary Judgment, rather
+
+than filing a Daubert motion. The Court has considered FWP’s arguments and declines
+to strike Nilfisk’s expert testimony here.
+                                              14
+Case 5:22-cv-05181-TLB Document 82           Filed 02/22/24 Page 15 of 27 PageID #: 2792
+
+
+
+
+       Next, the Court turns to the issue of damages for unpaid rent. As Nilfisk points out,
+
+“Plaintiff’s claim regarding Nilfisk’s termination of the Lease is entirely dependent upon its
+
+breach claim related to insufficient insurance coverage.” (Doc. 51, p. 18). Pursuant to the
+
+Court’s finding that Nilfisk materially breached Section 10.2 by failing to comply with the
+
+Full Replacement Cost Insurance Obligation, FWP was released from the casualty,
+
+termination, and purchase offer rights allocated to Nilfisk under Section 18.3 when Nilfisk
+
+vacated the property on or about August 1, 2022. Consequently, Nilfisk’s termination of
+
+the Lease through that process was improper: FWP was no longer bound by its
+
+obligations under the Lease after Nilfisk’s material breach.
+
+        The traditional view, under common law, gives a landlord three options
+        when a lessee abandons the premises: 1) he may refuse to accept
+        abandonment, let the premises lie idle, and sue the tenants as the rent
+        matures; 2) accept the keys as a surrender of possession, thereby
+        terminating the lease and reenter on his own account; or 3) reenter and
+        relet for the tenant's account and hold the tenant liable for any difference
+        in the agreed rent and that of the new tenant.
+
+Weingarten/Arkansas, Inc. v. ABC Interstate Theatres, Inc., 306 Ark. 64, 67 (1991) (citing
+
+Grayson v. Mixon, 5 S.W.2d 312 (1928)).
+
+       Here, only the first option is available to FWP because the tornado rendered the
+
+Building unusable and Nilfisk’s breach prevented the parties from replacing it. Under the
+
+general rule, FWP would be entitled in this case to the unpaid rent from August 2022 until
+
+trial, set for February 2024, and to file subsequent lawsuits for the remaining months’ rent
+
+until the Lease’s expiration date, October 31, 2024. See Advance Food Servs., Inc. v.
+
+Cooper Realty Invs., Inc., 2002 WL 31019349, at *4 (Ark. Ct. App. Sept. 11, 2002) (citing
+
+Grayson, 5 S.W.2d 312, 314–15 (1928)) (holding that “either multiple suits for each
+
+month's rent or one suit at the end of the lease term were contemplated by the first
+
+common-law option”). However, given the Court’s rulings from the bench, the parties
+                                             15
+Case 5:22-cv-05181-TLB Document 82          Filed 02/22/24 Page 16 of 27 PageID #: 2793
+
+
+
+
+agreed in the pretrial conference that because the Building will not be replaced until after
+
+the Lease’s termination date, the end date for FWP’s damages for unpaid rent extends
+
+through October 2024.
+
+       As the Court discusses further in subsection III.B.2.b, infra, the Court would
+
+ordinarily turn next to the question of whether FWP complied with its general duty to
+
+mitigate damages. But Arkansas imposes no such duty on landlords on these facts.
+
+Browne v. Dugan, 74 S.W.2d 640, 645 (Ark. 1934); see also Howard W. Brill, Arkansas
+
+Law of Damages, § 25:4 (5th ed. 2004) (“Confused case law leads to the conclusion that
+
+the landlord has no common law duty to mitigate by attempting to sublet the premises
+
+after the tenant’s breach and abandonment.”); Jeremy K. Brown, A Landlord's Duty to
+
+Mitigate in Arkansas: What It Was, What It Is, and What It Should Be, 55 Ark. L. Rev. 123,
+
+125–28 (2002) (similar). And even if it did, the Court finds that it was reasonable for FWP
+
+not to relet the Building after Nilfisk vacated it because doing so would have required
+
+FWP to incur the significant cost of replacing the damaged Building on its own.
+
+       Therefore, the Court finds that Nilfisk is liable for a total of $1,665,300 in unpaid
+
+rent, calculated as follows:
+
+   •   $915,000—fifteen months’ rent at $61,000 per month (August 2022 through
+
+       October 2023), the first rate set in the Third Amendment’s base rent schedule, see
+
+       Doc. 2-4, p. 1; plus
+
+   •   $250,100—four months’ rent at $62,525 per month (November 2023 through
+
+       February 2024), the second base rent rate in the same, applied through this case’s
+
+       trial date, see id.; plus
+
+
+
+
+                                            16
+Case 5:22-cv-05181-TLB Document 82           Filed 02/22/24 Page 17 of 27 PageID #: 2794
+
+
+
+
+   •   $500,200—the present value of the eight months’ rent at $62,525 per month, see
+
+       id., that will accrue after trial through the end of the Lease term (March through
+
+       October 2024).2
+
+       In conclusion, for the foregoing reasons, FWP’s Motion for Summary Judgment is
+
+GRANTED on the question of Nilfisk’s liability for breach and damages for unpaid rent
+
+and DENIED on the question of damages for breach of Section 10.2’s Full Replacement
+
+Cost Insurance Obligation.
+
+                      2. Nilfisk’s Motion for Summary Judgment
+
+                                 a. Statute of Limitations
+
+       The first issue Nilfisk raises is whether FWP’s breach of contract claim under
+
+Section 10.2 is barred by the applicable five-year statute of limitations. Nilfisk contends
+
+that because it only held $8,302,200 in property insurance in May 2016 and “never
+
+obtained more than $10 million” in coverage, to the extent the replacement value was
+
+more than that, Nilfisk’s breach began to accrue in May 2016 when FWP purchased the
+
+Building and assumed the Lease—more than six years before FWP filed its Complaint.
+
+(Doc. 37, p. 11). This is a disingenuous contention.
+
+       In Arkansas, “[a]ctions to enforce written obligations, duties, or rights . . . shall be
+
+commenced within five (5) years after the cause of action shall accrue.” Ark. Code Ann.
+
+§ 16-56-111. The cause of action accrues in a breach of contract claim “when the plaintiff
+
+could have first maintained the action to a successful conclusion.’” Dupree v. Twin City
+
+
+
+2 The Court has not calculated the present value of these future rents here; it has instead
+
+used $500,200 as placeholder for that value. The parties are directed to confer and
+attempt to stipulate to the discounted present value. Otherwise, FWP should present
+proof or argument as to how the damages for future rents should be calculated to account
+for the present value of future damages.
+                                             17
+Case 5:22-cv-05181-TLB Document 82         Filed 02/22/24 Page 18 of 27 PageID #: 2795
+
+
+
+
+Bank, 300 Ark. 188, 191 (1989). “Said another way, ‘[a] cause of action accrues the
+
+moment the right to commence an action comes into existence, and the statute of
+
+limitations commences to run from that time.’” Pennington v. BHP Billiton Petroleum
+
+(Fayetteville), LLC, 2021 Ark. 179, 3 (2021) (quoting Ray & Sons Masonry Contractors,
+
+Inc. v. U.S. Fid. & Guar. Co., 353 Ark. 201, 216 (2003)).
+
+      The parties focus their accrual arguments on two Arkansas cases, Pennington and
+
+Beckworth v. Diamante, Private Membership Golf Club, LLC, 2010 Ark. App. 814 (2010),
+
+and dispute their import to the facts at bar. Pennington concerned “contracts requir[ing]
+
+defendants to make a monthly royalty payment to plaintiffs,” which were, “potentially, in a
+
+different amount each month.” 2021 Ark. 179 at 6. The question presented to the Supreme
+
+Court of Arkansas was “whether Arkansas law prevents plaintiffs from pursuing their
+
+breach-of-contract claim when the first breach occurred outside the statute-of-limitations
+
+period.” Id. at 1–2. The court analogized the monthly royalty payments to monthly
+
+installment payments in a debtor-creditor relationship and found that “[e]ach monthly
+
+underpayment constituted a separate cause of action for breach of contract.” Id. at 5.
+
+Therefore, the Court held that a separate statute-of-limitations period began as each
+
+monthly royalty payment became due, and that “[t]he existence of monthly
+
+underpayments of royalties outside the limitations period does not bar recovery for
+
+underpayments within the limitations period under Arkansas law.” Id. at 6. Citing
+
+Pennington, FWP argues that “it doesn’t matter that Defendants breached the Full
+
+Replacement Cost Insurance Obligation annually from 2016 through 2021.” (Doc. 48, p.
+
+5). Instead, “[w]hat matters for statute of limitations purposes is that Defendants again
+
+breached it when they procured the policy at the time of the tornado.” Id.
+
+
+
+                                            18
+Case 5:22-cv-05181-TLB Document 82            Filed 02/22/24 Page 19 of 27 PageID #: 2796
+
+
+
+
+       Nilfisk counters that Pennington is “wholly inapplicable to the facts of this case and
+
+to Plaintiff’s breach claim” because “Plaintiff’s underinsurance breach claim does not
+
+involve the breach of a monthly payment obligation”; Beckworth is “more directly on point.”
+
+(Doc. 56, p. 2). That case concerned a private golf course and club that was developed
+
+as part of a subdivision. Beckworth, 2010 Ark. App. 814 at 1. Every property owner in the
+
+subdivision was entitled to club membership but was required to pay monthly dues under
+
+a recorded covenant. Id. at 1–2. The plaintiff argued that because the subdivision’s
+
+developer had sold over ninety lots without collecting monthly dues from their owners in
+
+breach of the covenants, the developer should not be able to enforce them against her.
+
+Id. at 3–4. The plaintiff further argued that the sale of those lots was a continuing breach,
+
+so that the statute of limitations did not begin to run until the practice terminated, bringing
+
+her claim within the five-year statute of limitations. Id. at 5. However, the court concluded
+
+that the breach of contract claim accrued, and the statute of limitations began to run when
+
+the lots were first sold. Id. at 10. Nilfisk argues that, under Beckworth, “Plaintiff could have
+
+asserted its breach claim as soon as Nilfisk originally placed insurance in May 2016 . . .
+
+and Plaintiff’s underinsurance claim is time-barred.” (Doc. 56, p. 3). FWP counters that
+
+unlike the continuing breach theory in Beckworth, FWP’s claim arises from “a particular,
+
+discreet, single breach [that] resulted to monetary damage to Plaintiff.” Id. “The policy in
+
+place at the time of the tornado is the policy that caused Plaintiff’s monetary damages—
+
+not the 2016 policy.” Id.
+
+       Applied to the facts at bar, the Court finds Pennington to be more instructive than
+
+Beckworth. Like the monthly royalty payments in Pennington, Nilfisk purchased annual
+
+insurance policies in different amounts each year to satisfy the Full Replacement Cost
+
+
+
+                                              19
+Case 5:22-cv-05181-TLB Document 82         Filed 02/22/24 Page 20 of 27 PageID #: 2797
+
+
+
+
+Insurance Obligation. Assuming, as Nilfisk, argues, that each policy breached that
+
+insurance obligation, each breach was distinct, not continuous. By contrast, the breach
+
+at issue in Beckworth was continuous—each of the ninety lot sales breached the same
+
+covenant in the same way, by not enforcing the monthly dues payments. The Court finds
+
+the two cases useful insofar as they distinguish between discreet and continuous
+
+breaches—and finds a discrete breach to be at issue here.
+
+      The Court’s analysis is further guided by the Supreme Court of Arkansas’ opinion
+
+in Shelter Mut. Ins. Co. v. Nash, 357 Ark. 581, 587–88 (2004). Although Nash concerned
+
+a breach of an underinsured motorist policy not an insurance obligation under a lease,
+
+the court’s accrual framework is elucidating here:
+
+        A cause of action for breach of contract accrues the moment the right to
+        commence an action comes into existence, and occurs when one party
+        has, by words or conduct, indicated to the other that the agreement is
+        being repudiated or breached. In ordinary contract actions, the statute
+        of limitations begins to run upon the occurrence of the last element
+        essential to the cause of action.
+
+Id. at 587–88 (emphasis added) (internal citations omitted); see also Chapman v.
+
+Alexander, 307 Ark. 87, 88 (1991).
+
+      Under Nash, the narrow question is when each element of FWP’s breach of
+
+contract claim first occurred. Taking each in turn: (1) An enforceable contract existed
+
+between FWP and Nilfisk as early as May of 2016, when FWP purchased the Building
+
+and became a party to the Lease. (2) Nilfisk first incurred a duty to maintain Full
+
+Replacement Cost Insurance under Section 10.2 at that same time. (3) While Nilfisk may
+
+have been underinsured as early as 2016, violating that duty, the violation at issue
+
+occurred on April 1, 2021, when the operative 2021-2022 policy took effect. But FWP was
+
+not (4) damaged by that violation until the Tornado damaged the building on March 30,
+
+
+                                           20
+Case 5:22-cv-05181-TLB Document 82           Filed 02/22/24 Page 21 of 27 PageID #: 2798
+
+
+
+
+2022. Cf. Ray & Sons Masonry Contractors, Inc. v. U.S. Fid. & Guar. Co., 353 Ark. 201,
+
+216 (2003) (citing Larson Mach., Inc. v. Wallace, 268 Ark. 192 (1980)) (“To be subjected
+
+to damage, there must be a loss.”). The intuition here is simple: “Full Replacement Cost”
+
+is determined by the loss at issue, and underinsurance relative to that replacement cost
+
+determines breach. FWP could not have sought underinsurance damages arising from a
+
+2022 tornado under a 2016 insurance policy any more than the “Full Replacement Cost”
+
+for “all loss or damage caused by” the “windstorm” at issue here was knowable until the
+
+tornado actually struck. (Doc. 2-1. p. 9). Therefore, under Nash, the last element essential
+
+to FWP’s cause of action for breach of Section 10.2 did not begin to accrue until March
+
+30, 2022. Holding otherwise would lead to absurd results. For these reasons, the Court
+
+finds that the applicable five-year statute of limitations has not run.
+
+                               b. Avoidable Consequences
+
+       The second issue is whether FWP’s breach of contract claim is barred by the
+
+doctrine of avoidable consequences, as recognized by Arkansas courts. See Greenway
+
+Equip., Inc. v. Johnson, 602 S.W.3d 142, 149 (Ark. Ct. App. 2020) (citing Bill C. Harris
+
+Constr. Co. v. Powers, 262 Ark. 96, 104–05 (1977); Taylor v. George, 92 Ark. App. 264,
+
+273 (2005); Quality Truck Equip. Co. v. Layman, 51 Ark. App. 195, 199 (1995)). “The
+
+doctrine applies in both tort and contract cases,” Brill, supra, § 4:6 (citing Powers, 262
+
+Ark. at 105), and “provides that a party cannot recover damages for a wrong, even if it is
+
+legally attributable to and proximately caused by another party, if the resulting damages
+
+could have been avoided or reduced.” Id. Under the doctrine, “[r]easonable diligence and
+
+ordinary care are all that are required.” Taylor, 92 Ark. App. at 273 (citing Enter. Sales Co.
+
+
+
+
+                                             21
+Case 5:22-cv-05181-TLB Document 82         Filed 02/22/24 Page 22 of 27 PageID #: 2799
+
+
+
+
+v. Barham, 270 Ark. 544, 551 (1980)). “[R]easonableness is judged under an objective
+
+standard.” Brill, supra, at § 4:6.
+
+       “The burden of proving that a non-breaching party could have avoided some or all
+
+of the damages by acting prudently rests on the breaching party, not only on the question
+
+of causation of damages for failure to avoid harmful consequences, but also on the
+
+question of the amount of damage that might have been avoided.” Taylor, 92 Ark. App. at
+
+273 (citing Powers, 262 Ark. at 104–05); see also Brill, supra, at § 4:6 (“The defendant
+
+must establish both that damages resulted from a failure to act prudently and the amount
+
+of damage that might have been avoided.”). A plaintiff’s failure to mitigate damages does
+
+not relieve the defendant of liability. Cf. Powers, 262 Ark. at 111 (“Failure to mitigate
+
+damages does not relieve a tortfeasor of liability. It is a consideration, only, in the
+
+computation of the amount of damages.”).
+
+       Here, the primary measure of damages is “the difference between the amount of
+
+insurance on the property and . . . the property’s replacement cost.” DWB, LLC v. D&T
+
+Pure Trust, 550 S.W.3d 420, 431 (Ark. Ct. App. 2018). Turning first to the amount of
+
+insurance on the property, the Court first observes that Section 10.2 provided FWP the
+
+option, not the obligation, to procure additional insurance. The Lease laid the Full
+
+Replacement Cost Insurance Obligation on the tenant, as is characteristic of a triple-net
+
+lease. But regardless, once loss occurred, it became impossible to mitigate damages by
+
+procuring additional insurance. As the saying goes, the damage was done.
+
+       Turning next to the Building’s replacement cost, the Court finds that the parties
+
+may present evidence at trial that damages were not reasonably mitigated in the period
+
+
+
+
+                                           22
+Case 5:22-cv-05181-TLB Document 82            Filed 02/22/24 Page 23 of 27 PageID #: 2800
+
+
+
+
+since the tornado struck, thus increasing the Building’s replacement cost. However, they
+
+have not done so here.
+
+       “In most cases, whether one acted reasonably in minimizing, mitigating, or
+
+avoiding damages is a question of fact.” Taylor, 92 Ark. App. at 273 (emphasis added)
+
+(citing Powers, 262 Ark. at 105; Layman, 51 Ark. App. at 199). Without more, the Court
+
+cannot find that Nilfisk has met its burden of proving the absence of a genuine dispute of
+
+material fact on the question of whether FWP “caus[ed] [ ] damages [by] fail[ing] to avoid
+
+harmful consequences” and “the question of the amount of damage that might have been
+
+avoided,” if any. Taylor, 92 Ark. App. at 273 (citing Powers, 262 Ark. at 104–05).
+
+Consequently, the Court finds that summary judgment is inappropriate on this issue,
+
+though the doctrine of avoidable consequences remains available at trial.
+
+                          c. Unenforceable Agreement to Agree
+
+       The third issue Nilfisk raises is whether Section 10.2’s Full Replacement Cost
+
+Insurance Obligation is an unenforceable agreement to agree. Nilfisk argues that “the
+
+Lease’s obligation to obtain ‘Full Replacement Cost’ insurance” on the Building “‘in an
+
+amount equal to one hundred percent (100%) of the then ‘full replacement cost’ of the
+
+Premises,’” (Doc. 37, p. 16 (emphasis in original) (quoting Doc. 2-1, p. 9)), is
+
+unenforceable because it “requires the parties to subsequently reach an agreement with
+
+respect to the unsettled terms in the future. . . .” (Doc. 56, p. 5).
+
+       In Arkansas insurance law, “replacement cost” is a term of art that distinguishes
+
+the cost to replace or repair an insured property from the property’s actual cash value.
+
+See, e.g., Stokes v. Harrell, 289 Ark. 179, 180 (1986) (considering the term as applied to
+
+an insureds commercial store and its inventory after both were destroyed by a fire);
+
+
+
+                                              23
+Case 5:22-cv-05181-TLB Document 82          Filed 02/22/24 Page 24 of 27 PageID #: 2801
+
+
+
+
+Nickelson v. State Farm Fire & Cas. Co., 1998 WL 75660, at *1–2 (Ark. Ct. App. Feb. 11,
+
+1998) (considering the term as applied to an insured’s home that was similarly destroyed).
+
+That distinction maps onto the general technical definition of replacement cost insurance:
+
+        Replacement cost coverage was devised to remedy the shortfall in
+        coverage which results under a property insurance policy compensating
+        the insured for actual cash value alone. That is, while a standard policy
+        compensating an insured for the actual cash value of damaged or
+        destroyed property makes the insured responsible for bearing the cash
+        difference necessary to replace old property with new property,
+        replacement cost insurance allows recovery for the actual value of
+        property at the time of loss, without deduction for deterioration,
+        obsolescence, and similar depreciation of the property's value.
+
+12A Jordan R. Plitt et al., Couch on Ins. § 176:56 (3d ed. 2023) (footnotes omitted).
+
+Because “replacement cost” insurance is a term of art, it is not vague.
+
+       Moreover, Section 10.2 precisely defines “Full Replacement Cost” in plain
+
+language consistent with the technical meaning of “replacement cost” insurance: It
+
+specifically refers to the “cost of replacing the Premises” rather than the Premise’s actual
+
+cash value. See Doc. 2-1, p. 9 (emphasis omitted) (“‘Full Replacement Cost’ shall be
+
+interpreted to mean the cost of replacing the Premises without deduction for depreciation
+
+or wear and tear, less the cost of footings, foundations and other structures below grade
+
+. . . .”). Where parties clearly and unambiguously express their intent, a court should look
+
+to the plain language in construing the agreement. Troutman Oil Co., 75 Ark. App. at 352
+
+(citing Coble v. Sexton, 71 Ark. App. 122 (2000)). Here, the plain language of Section 10.2
+
+clearly and unambiguously imposes a present obligation on Nilfisk to maintain Full
+
+Replacement Cost Insurance as that term is used in Arkansas insurance law and
+
+expressly defined in the Lease.
+
+       In rejoinder, Nilfisk gets spun up about the inclusion of the word “then” in Section
+
+10.2. See Doc. 37, p. 16 (arguing the word “then” was “based on some hypothetical future
+                                            24
+Case 5:22-cv-05181-TLB Document 82           Filed 02/22/24 Page 25 of 27 PageID #: 2802
+
+
+
+
+date,” that it was “dynamic in nature,” and “require[d] Nilfisk to annually . . . predict the
+
+price of construction for the following year”) (internal quotation marks omitted)). But this
+
+argument is unpersuasive. “Then” means “at that time,” generally, Then, Merriam-
+
+Webster.com, https://www.merriam-webster.com/dictionary/then [https://perma.cc/CB82-
+
+C3PX], and “at the time of loss,” technically, Plitt et al., supra, § 176:56. Read in context,
+
+the term “then” is also unambiguous and does not require the parties to reach further
+
+agreement in the future to define it. “Then” means at the time of the tornado damage.
+
+       At bottom, Nilfisk’s argument reveals that it understands precisely what the Full
+
+Replacement Cost Insurance Obligation requires. For example, Nilfisk is correct that, as
+
+applied, “then” means “the date of damage to the building giving rise to a claim under the
+
+insurance policy” and that determining the “cost of replacing the Premises” would have
+
+required taking into account factors like “the cost of construction,” the prices of materials
+
+and labor,” and “market conditions” each year, when the time came to reapply for
+
+insurance coverage. (Doc. 37, p. 16). That is precisely what Nilfisk did when it applied for
+
+property insurance policies each year from 2016 to 2022. This course of performance
+
+further demonstrates that Nilfisk understood the meaning of “then replacement cost” in
+
+Section 10.2. DWDubbell Arkansas, LLC, 2021 WL 4392493, at *4 (citing Swafford Ice
+
+Cream v. Sealtest Foods, 483 S.W.2d 202, 204 (Ark. 1972)) (“To the extent a contract is
+
+indefinite on its face, the parties’ conduct may cure the uncertainty.”). Therefore, the Court
+
+finds that the Full Replacement Cost Insurance Obligation is enforceable.
+
+                                   d. Inflated Damages
+
+       The fourth and final issue is whether FWP’s damages claim is inflated. Nilfisk
+
+makes two arguments to this effect. The first is that FWP’s damages are limited to those
+
+
+
+                                             25
+Case 5:22-cv-05181-TLB Document 82           Filed 02/22/24 Page 26 of 27 PageID #: 2803
+
+
+
+
+that would have been recoverable under a policy with limits that would have complied
+
+with the Full Replacement Cost Insurance Obligation. Nilfisk cites two failure to procure
+
+insurance cases in support of this proposition: Derby v. Blankenship, 217 Ark. 272 (1950)
+
+and Martin v. Langley, 252 Ark. 121 (1972). But these cases are inapposite because the
+
+instant case is a breach of contract case, not a failure to procure insurance case between
+
+insurance agents and insureds. Here, as previously discussed, the measure of damages
+
+for breach of Section 10.2 is “the difference between the amount of insurance on the
+
+property and . . . the property’s replacement cost.” DWB, LLC, 550 S.W.3d at 431.
+
+       Next, Nilfisk argues that “Arkansas case law confirms recoverable damages in
+
+cases involving significant damage or destruction to an aged, damaged property is not
+
+the replacement cost to build a new structure.” (Doc. 37, p. 20). “Plaintiff is not entitled to
+
+a 2023 Cadillac when it was previously driving a 1981 Buick,” Nilfisk continues. Id. at p.
+
+22. “Any damages award to Plaintiff must take into account ‘age condition and
+
+depreciated state’ of the Building prior to the tornado.” Id. Nilfisk accurately states the
+
+general damages rule. But “[p]arties are free to contract on any terms that do not violate
+
+public policy or Arkansas statutes. In particular, contracting parties may fashion their own
+
+remedies in the event of a breach.” Conway Com. Warehousing, LLC v. FedEx Freight
+
+E., Inc., 2011 Ark. App. 51, 7 (2011) (citations omitted).
+
+       Here, Section 10.2 expressly provides that “‘Full Replacement Cost’ shall be
+
+interpreted to mean the cost of replacing the Premises without deduction for depreciation
+
+or wear and tear, less the cost of footings, foundations and other structures below grade.”
+
+(Doc. 2-1, p. 9) (emphasis added). The language of the Lease thus obviates Nilfisk’s
+
+argument. “The parties here agreed on a remedy in the event of a breach, and [the Court]
+
+
+
+                                              26
+Case 5:22-cv-05181-TLB Document 82            Filed 02/22/24 Page 27 of 27 PageID #: 2804
+
+
+
+
+see[s] no reason why they should not be bound to it.” Conway Com. Warehousing, LLC,
+
+2011 Ark. App. at 7. For these reasons, Nilfisk’s arguments fail to show that FWP’s
+
+damages claim is inflated as a matter of law. If FWP was previously driving a 1981 Buick,
+
+it is entitled to a 2024 replica of that vehicle as a matter of law.
+
+       To summarize, then: Nilfisk’s Motion for Summary Judgment is DENIED pursuant
+
+to the Court’s findings that FWP’s breach of contract claim is not barred by the applicable
+
+statute of limitations, is not an unenforceable agreement to agree, and that FWP’s
+
+damages claim is not inflated under Arkansas law. Although the Court finds that FWP had
+
+a duty to mitigate damages, Nilfisk’s Motion is also DENIED on that issue, though it
+
+remains available at trial.
+
+                                      IV. CONCLUSION
+
+       For the foregoing reasons: Nilfisk’s Daubert Motion (Doc. 41) is DENIED. FWP’s
+
+Motion for Summary Judgment (Doc. 33) is GRANTED with respect to Nilfisk’s liability for
+
+FWP’s breach of contract claim and damages for unpaid rent under the Lease and
+
+DENIED insofar as material issues of fact remain as to Nilfisk’s damages for breach of
+
+the Lease’s Full Replacement Cost Insurance Obligation. Finally, Nilfisk’s Motion for
+
+Summary Judgment (Doc. 36) is DENIED.
+
+       IT IS SO ORDERED on this 22nd day of February, 2024.
+
+
+
+                                                   /s/ Timothy L. Brooks_____________
+                                                   TIMOTHY L. BROOKS
+                                                   UNITED STATES DISTRICT JUDGE
+
+
+
+
+                                              27

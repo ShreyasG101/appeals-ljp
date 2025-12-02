@@ -1,0 +1,28 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court properly granted summary judgment to defendants on the basis of collateral estoppel, barring plaintiff's malicious prosecution claim.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that plaintiff waived his arguments against the 'final judgment' and 'full and fair opportunity' elements of collateral estoppel by failing to raise them in the district court, and no exception to the waiver rule applied. Thus, summary judgment for defendants was affirmed on the basis of waiver."
+    }
+  ],
+  "key_precedents": [
+    "Osifodunrin v. Desjardins, 333 A.3d 502 (R.I. 2025)",
+    "McCrory v. Spigel (In re Spigel), 260 F.3d 27 (1st Cir. 2001)",
+    "Nat'l Ass'n of Soc. Workers v. Harwood, 69 F.3d 622 (1st Cir. 1995)",
+    "Teamsters, Chauffeurs, Warehousemen & Helpers Union, Local No. 59 v. Superline Transp. Co., 953 F.2d 17 (1st Cir. 1992)",
+    "Sindi v. El-Moslimany, 896 F.3d 1 (1st Cir. 2018)",
+    "Curet-Vel\u00e1zquez v. ACEMLA de P.R., Inc., 656 F.3d 47 (1st Cir. 2011)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "Harlan Shabshelowitz appeals from the grant of summary judgment to the state law enforcement defendants in his suit against them for malicious prosecution. Shabshelowitz's suit arises out of his arrest and criminal proceedings on charges of obtaining money under false pretenses in violation of R.I. Gen. Laws \u00a7\u00a7 11-41-4 and 11-41-5 (2002), and conspiracy to obtain money under false pretenses in violation of R.I. Gen. Laws \u00a7\u00a7 11-1-6, 11-41-4, and 11-41-5 (2002). Shabshelowitz argues to us, but he did not argue to the federal district court, that defendants failed to establish the \"final judgment\" element of Rhode Island collateral estoppel law, and that he was deprived of a full and fair opportunity to litigate in state court because appellate review in the Rhode Island Supreme Court was unavailable. On appeal, Shabshelowitz has conceded the identity of issues element. He has waived his new arguments by failing to present them to the district court. He has also failed to meet this circuit's standards for considering his waived arguments and so we affirm on the basis of waiver."
+}

@@ -1,0 +1,28 @@
+Extract structured information from this appellate court opinion.
+
+[RULING TEXT START]
+{ruling_text}
+[RULING TEXT END]
+
+Return JSON with this exact structure:
+{{
+    "overall_outcome": "AFFIRM|REVERSE|MIXED|REMAND|DISMISS",
+    "issues": [
+        {{
+            "issue_id": 1,
+            "description": "Brief description of the legal issue",
+            "standard_of_review": "de novo|abuse of discretion|clear error|substantial evidence|other",
+            "holding": "AFFIRM|REVERSE|REMAND",
+            "key_reasoning": "1-2 sentence summary of court's reasoning for this issue"
+        }}
+    ],
+    "key_precedents": ["Case Name, Citation (Year)"],
+    "difficulty_signals": {{
+        "novel_legal_question": true/false,
+        "circuit_split": true/false,
+        "close_case": true/false,
+        "fact_intensive": true/false
+    }},
+    "has_dissent": true/false,
+    "summary_text": "The full SUMMARY section text verbatim (or first ~500 words if very long)"
+}}

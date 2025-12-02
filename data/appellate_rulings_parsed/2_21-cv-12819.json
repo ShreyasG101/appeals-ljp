@@ -1,0 +1,41 @@
+{
+  "overall_outcome": "MIXED",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the insurance policy\u2019s 24-month mental-health limitation applies when the claimant\u2019s physical disabilities alone justify total disability benefits",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that the 24-month mental-health limitation applies only if the claimant\u2019s physical disabilities alone do not cause total disability; since McEachin\u2019s physical disabilities alone justified benefits before April 2021, the limitation did not start until then."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether McEachin was physically totally disabled as of April 1, 2021",
+      "standard_of_review": "other (clear error or fresh review of district court factual findings)",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found that medical evidence showed significant physical improvement by April 2021, supporting the district court\u2019s conclusion that McEachin was not physically totally disabled at that time."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether McEachin may use post-April 2021 medical evidence to toll the 24-month mental-health limitation period",
+      "standard_of_review": "other (issue not decided below; remand for district court to consider)",
+      "holding": "REMAND",
+      "key_reasoning": "The court held that the district court should consider on remand whether McEachin\u2019s post-April 2021 evidence justifies tolling the mental-health limitation clock during the two-year period."
+    }
+  ],
+  "key_precedents": [
+    "Okuno v. Reliance Standard Life Ins., 836 F.3d 600 (6th Cir. 2016)",
+    "George v. Reliance Standard Life Ins., 776 F.3d 349 (5th Cir. 2015)",
+    "Michaels v. Equitable Life Assurance Soc\u2019y, 305 F. App\u2019x 896 (3d Cir. 2009)",
+    "Weyer v. Reliance Standard Life Ins., 109 F.4th 1072 (8th Cir. 2024)",
+    "Gunn v. Reliance Standard Life Ins., 399 F. App\u2019x 147 (9th Cir. 2010)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": true,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "For nearly four years, Reliance Standard Life Insurance Co. paid total disability benefits to Annette McEachin. It stopped the payments when McEachin\u2019s physical health improved. McEachin sued the insurance company under ERISA, more fully known as the Employee Retirement Income Security Act. The district court agreed with Reliance that McEachin no longer had a physical disability but found that her ongoing mental-health disabilities entitled her to two more years of benefits. We vacate in part, affirm in part, and remand the case to the district court."
+}

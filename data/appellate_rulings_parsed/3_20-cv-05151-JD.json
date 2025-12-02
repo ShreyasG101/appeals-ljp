@@ -1,0 +1,41 @@
+{
+  "overall_outcome": "MIXED",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the AMS acted contrary to law by excluding highly refined foods from the definition of 'bioengineered foods' based on detectability of modified genetic material",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE and REMAND",
+      "key_reasoning": "The court held that the AMS erred in equating non-detectability of modified genetic material with non-presence, which is contrary to the plain meaning of 'contain' and the statute. The agency failed to rely on its discretionary authority under 7 U.S.C. \u00a7 1639b(b)(2)(B) to set appropriate thresholds, requiring remand."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the AMS\u2019s choice to require the use of the term 'bioengineered' in disclosures rather than more familiar terms like 'genetically engineered' or 'GMO' was arbitrary and capricious",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The AMS reasonably chose the statutory term 'bioengineered' to ensure uniformity and avoid marketplace confusion, and to align with Congress\u2019s language and preemption provisions, which was not arbitrary or capricious."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the district court abused its discretion by declining to vacate two disclosure-format regulations (\u00a7\u00a7 66.106 and 66.108) found unlawful under the APA",
+      "standard_of_review": "abuse of discretion",
+      "holding": "REVERSE and REMAND",
+      "key_reasoning": "The court found the district court abused its discretion by refusing vacatur despite the serious agency errors and the availability of prospective vacatur to mitigate disruption to the food industry and consumers."
+    }
+  ],
+  "key_precedents": [
+    "Alliance for the Wild Rockies v. U.S. Forest Service, 907 F.3d 1105 (9th Cir. 2018)",
+    "Montana Wildlife Fed. v. Haaland, 127 F.4th 1 (9th Cir. 2025)",
+    "California Cmtys. Against Toxics v. U.S. EPA, 688 F.3d 989 (9th Cir. 2012)",
+    "Hunt v. Washington State Apple Advertising Commission, 432 U.S. 333 (1977)",
+    "SEC v. Chenery Corp., 332 U.S. 194 (1947)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "Administrative Procedure Act / Agricultural Marketing Service\n\nIn a case in which a group of grocery retailers and public interest organizations (\u201cPlaintiffs\u201d) challenge the federal regulations establishing a national uniform disclosure standard governing the use of genetically modified ingredients in food, the panel reversed the district court\u2019s judgment in part, affirmed in part, and remanded.\nThe Secretary of Agriculture delegated the authority to establish the uniform disclosure standard to the Agricultural Marketing Service (\u201cAMS\u201d). Plaintiffs asserted that the AMS\u2019s disclosure standard was unlawful or arbitrary and capricious and should be set aside under the Administrative Procedure Act (\u201cAPA\u201d).\nThe district court\u2019s summary judgment order and accompanying judgment stated only that (1) Plaintiffs were granted summary judgment on their claim challenging two specific disclosure option regulations; and (2) summary judgment was denied in all other respects. The panel construed the district court\u2019s ambiguous September 2023 judgment as implicitly granting summary judgment to the AMS and intervenor-defendants as to the remaining claims, thereby finally disposing of all claims and creating an appealable final judgment.\nThe panel held that Plaintiffs had Article III standing. Here, Plaintiffs seek non-monetary relief under the APA and the scope of the relief does not differ among each Plaintiff. The panel held that because at least one Plaintiff had standing to assert each of the three APA claims at issue, there was jurisdiction to consider the merits of those claims, without the need to consider the standing of the other Plaintiffs.\nThe panel held that the district court erred in rejecting Plaintiffs\u2019 claim that the AMS committed legal error by generally excluding highly refined foods from the definition of the phrase \u201cbioengineered foods,\u201d which generally described the foods that were subject to the disclosure requirement. The panel reversed the grant of summary judgment to Defendants on Plaintiffs\u2019 APA cause of action challenging relevant regulatory provisions, and remanded to the district court with instructions (1) to grant summary judgment to Plaintiffs on that cause of action; (2) to remand the relevant regulations to the AMS; and (3) to determine, after receiving input from the parties, whether any provisions of the regulations should be vacated in connection with that remand to the agency.\nThe panel affirmed the district court\u2019s decision rejecting Plaintiffs\u2019 claim that the regulations were arbitrary and capricious to the extent that those regulations provide that the required disclosures must use the term \u201cbioengineered.\u201d The panel held that the agency\u2019s decision to choose \u201cbioengineered\u201d as the uniform disclosure term, as opposed to \u201cgenetically engineered\u201d or \u201cgenetically modified,\u201d reflected a reasonable consideration of the relevant issues.\nThe panel also held that the district court abused its discretion in declining to vacate the two disclosure-format regulations, contained in 7 C.F.R. \u00a7\u00a7 66.106 and 66.108, that it held were invalid. The panel reversed and directed the district court to prospectively vacate those rules after receiving the parties\u2019 input as to the proper form of such a prospective vacatur."
+}

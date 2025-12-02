@@ -1,0 +1,29 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the 2010 amendment to the Anti-Kickback Statute (AKS), which deems claims 'resulting from' an AKS violation to be 'false or fraudulent' under the False Claims Act (FCA), requires the government to prove but-for causation between the AKS violation and the claim.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that the phrase 'resulting from' in the 2010 AKS amendment imposes a but-for causation requirement, finding no textual or contextual basis to deviate from the default presumption that such language requires actual causality; the government must show that the kickback was a but-for cause of the claim."
+    }
+  ],
+  "key_precedents": [
+    "Burrage v. United States, 571 U.S. 204 (2014)",
+    "Paroline v. United States, 572 U.S. 434 (2014)",
+    "United States ex rel. Martin v. Hathaway, 63 F.4th 1043 (6th Cir. 2023)",
+    "United States ex rel. Cairns v. D.S. Med. LLC, 42 F.4th 828 (8th Cir. 2022)",
+    "United States ex rel. Greenfield v. Medco Health Sols., Inc., 880 F.3d 89 (3d Cir. 2018)",
+    "United States ex rel. Hutcheson v. Blackstone Med., Inc., 647 F.3d 377 (1st Cir. 2011)",
+    "Guilfoile v. Shields, 913 F.3d 178 (1st Cir. 2019)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": true,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "This appeal calls for us to determine the meaning of the words 'resulting from' as used in a 2010 amendment to the federal Anti-Kickback Statute (AKS), 42 U.S.C. \u00a7 1320a-7b. See Patient Protection and Affordable Care Act, Pub. L. No. 111-148, 124 Stat. 119, 759 (2010) (codified at 42 U.S.C. \u00a7 1320a-7b(g)). That 2010 amendment states that 'a claim [for payment by a federal healthcare program] that includes items or services resulting from a violation of [the AKS] constitutes a false or fraudulent claim for purposes of' the False Claims Act (FCA), 31 U.S.C. \u00a7\u00a7 3729-33. Id. (emphasis added). The FCA, in turn, imposes civil liability on anyone who 'knowingly presents, or causes to be presented, a false or fraudulent claim for payment or approval' or 'knowingly makes, uses, or causes to be made or used, a false record or statement material to a false or fraudulent claim.' 31 U.S.C. \u00a7 3729(a)(1)(A), (a)(1)(B). Whether a violation of the AKS is also a false claim under the FCA makes a difference because the FCA allows both the government and whistleblowers to bring civil actions for damages.\n\nThe government alleges that, in violation of the AKS, Regeneron Pharmaceuticals knowingly induced prescriptions of a drug called Eylea by covering copayments for certain patients who received the drug. Further, contends the government, when doctors filed Medicare claims for Eylea prescribed to patients receiving copayment assistance, those claims 'resulted from' a violation of the AKS whether or not those claims would have been made even had Regeneron not covered the co-pay. Accordingly, as the government sees it, those Medicare claims were 'false or fraudulent' for purposes of the FCA.\n\nRegeneron begs to differ. The company says that a claim only 'result[s] from' an AKS violation if it includes 'items or services' that would not have been paid for by the government absent the AKS violation. Put differently, Regeneron contends that an AKS violation must be a but-for cause of the challenged claim. So, reasons Regeneron, if a doctor would have purchased (and sought reimbursement for) Eylea anyway, then the subsequent Medicare claim cannot have 'result[ed] from' Regeneron's allegedly illicit payments. As we will explain, we agree with Regeneron."
+}

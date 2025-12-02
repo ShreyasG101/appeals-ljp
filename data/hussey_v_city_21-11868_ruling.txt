@@ -1,0 +1,1315 @@
+UNITED STATES DISTRICT COURT                            
+              DISTRICT OF MASSACHUSETTS                              
+____________________________________                                      
+                         )                                           
+BRIAN HUSSEY,                 )                                           
+                         )                                           
+     Plaintiff,          )                                           
+                         )                                           
+                         )    Civil Action No. 1:21-CV-11868-AK      
+v.                            )                                           
+                         )                                           
+CITY OF CAMBRIDGE and         )                                           
+BRANVILLE BARD,  in his capacity as   )                                   
+Commissioner of the Cambridge Police   )                                  
+Department                    )                                           
+                         )                                           
+     Defendants.         )                                           
+                                                                   ) 
+
+               MEMORANDUM AND ORDER                                  
+       ON CROSS-MOTIONS FOR SUMMARY JUDGMENT                         
+
+ANGEL KELLEY, D.J.                                                        
+On February 25, 2021, nine months after George Floyd’s murder by a police officer, 
+while the nation was still in a heated debate over racism and police brutality, Cambridge Police 
+Officer Brian Hussey (“Hussey”) reposted an article about a police reform bill called “the 
+George Floyd Act” on his personal Facebook page.  His comment accompanying the post said: 
+“This is what its come to ‘honoring’ a career criminal, a thief and druggie . . . the future of this 
+country is bleak at best.”  [Dkt. 1 (“Compl.”) at ¶ 11].  Despite the post being deleted shortly 
+thereafter, it was brought to the attention of then Police Commissioner Branville Bard (“Bard”) 
+by officers of the local National Association of Advancement of Colored People (“NAACP”) 
+chapter and a local community activist.  Hussey was then placed on leave.  
+After being disciplined, Plaintiff Hussey brought this action pursuant to 42 U.S.C. 
+§ 1983, against the City of Cambridge and Bard (together “the Defendants”), alleging that the 
+Defendants retaliated against him in violation of his First Amendment right to freedom of 
+speech.  [Compl.].  The Defendants then filed a Motion to Dismiss pursuant to Fed. R. Civ. P. 
+12(b)(6).  [Dkt. 9].  This Court denied the Defendants’ Motion to Dismiss, except as to the claim 
+brought against Commissioner Bard in his individual capacity.  [Dkt. 25].  While the Court found 
+
+that Hussey’s post could have had a detrimental impact on the perception of the Cambridge 
+Police Department internally and in the community, the Court could not dismiss the case on the 
+question of whether the department’s interest outweighed Hussey’s interests without a more 
+developed factual record.  [Id. at 13].  The Court therefore allowed Hussey’s claims to proceed 
+against the City of Cambridge and Commissioner Bard in his official capacity.1  [Id.].   
+                                               0F                    
+On June 8, 2023, the City of Cambridge filed their Motion for Summary Judgment.  [Dkt. 
+37].  The same day, Plaintiff filed his Motion for Partial Summary Judgment on the question of 
+the Defendants’ liability for violating his First Amendment right to free speech.  [Dkt. 41].  The 
+Court heard oral argument on January 29, 2024 and took the matter under advisement.  [Dkt. 60].  
+The Court, having considered both of these motions, the parties’ oppositions, and reply briefs, 
+finds that Plaintiff has failed to create a material dispute of fact to survive Defendants’ Motion 
+for Summary Judgment.  The Court also finds that because it has determined that Hussey’s 
+speech was not protected and because there is no factual dispute for a jury to resolve, the 
+Defendants’ Motion for Summary Judgment [Dkt. 37] is GRANTED, Plaintiff’s Partial Motion 
+for Summary Judgment [Dkt. 41] is DENIED, and his case is accordingly DISMISSED.  
+
+
+
+
+1 In August 2022, after this lawsuit had already commenced, Hussey was promoted to the rank of Sergeant.  [Dkt. 54 
+at II at ¶ 5]. The Court therefore denied as moot Plaintiff’s request to amend his complaint to add a retaliation claim 
+related to his denial of a promotion, after counsel reported his intentions to withdraw the motion.  [Dkts. 14, 24].   
+I.   BACKGROUND                                                           
+In evaluating the cross-motions for summary judgment, the Court relies on the parties’ 
+statements of material facts, responses thereto, and any attached exhibits the parties have 
+submitted.  [See Dkts. 39, 43, 52, 54, 58-1].  The Court accepts as true each material fact to the 
+
+extent it has not been disputed by the opposing party and considers contested each material fact 
+that either party has disputed.  Unless otherwise noted, the facts below are undisputed. 
+Giving due respect to George Floyd, the Court notes he was born in North Carolina in 
+1973 and moved to Houston shortly thereafter.  [Dkt. 43 at ¶ 53].  He grew up in the Third 
+Ward—one of Houston’s most economically disadvantaged neighborhoods.  [Dkt. 44-10 at 2-3].  
+Floyd was a star athlete, briefly playing collegiate basketball at Texas A&M University-
+Kingsville, but returned to his old neighborhood in Houston without completing his degree.  [Id. 
+at 3].  Thereafter, Floyd experienced a string of arrests and periods of incarceration.  Between 
+1997 and 2005, he served eight jail terms on charges that included drug possession, theft, and 
+trespass.  [Dkt. 43 at ¶ 54].  In 2007, he was charged with aggravated robbery with a deadly 
+
+weapon and was sentenced to five years in prison.  [Id. at ¶ 55].  He was released on parole in 
+2013.  [Id.].  Floyd thereafter turned his life around and appeared to live a law-abiding life.  [Dkt. 
+44-10 at 4].  In 2014, he had a daughter.  [Dkt. 44-12 at 9].  He became more involved in his 
+church’s program, which took men from Houston’s Third Ward neighborhood to Minnesota to 
+provide them with drug rehabilitation and job placement services.  [Dkt. 44-10 at 4].   
+Floyd soon made the permanent move to Minneapolis, Minnesota.  [Dkt. 44-11 at 8].  He 
+found work first as a security guard for the Salvation Army and later as a bouncer for a 
+nightclub.  [Id.].  When the pandemic forced the nightclub to close, Floyd was out of work.  [Id. 
+at 9].  On Memorial Day 2020, Floyd was at a convenience store when one of the store 
+employees thought he had paid for cigarettes with a counterfeit $20 bill and called the police.  
+[Id.].  The events that followed are known to all due to the widely circulated cellphone video 
+capturing Minneapolis Police Officer Derek Chauvin kneeling on Floyd’s neck for 8 minutes and 
+46 seconds, Floyd’s pleas that he could not breathe, and his body eventually going limp.  [Dkt. 
+
+44-12 at 3].  Floyd’s last words “I can’t breathe” echoed those of Eric Garner and the Black 
+Lives Matter movement’s call to action.  [Dkt. 44-9 at 4].  His killing ignited a national 
+reckoning on issues of racism, police brutality, and accountability for police misconduct, in 
+addition to local, national and global protests.  [Id.].  Officer Chauvin was subsequently 
+convicted of second-degree murder; the three other officers who participated in the arrest were 
+likewise convicted on related charges.2                                   
+                    1F                                               
+The National Climate                                                      
+The impact of Floyd’s death was felt here in Massachusetts where, as in the rest of the 
+country, protesters filled the streets by the thousands demanding an end to such violence. The 
+City of Cambridge saw over 3,500 people in the streets in one such protest.3  In the neighboring 
+                                             2F                      
+City of Boston, the alleged wanton use of pepper spray and riot batons against protesters led to a 
+
+
+
+2 Kiara Alfonseca, Derek Chauvin sentenced to 21 years on federal charges for violating George Floyd’s civil rights, 
+ABC news (July 7, 2022), https://abcnews.go.com/US/derek-chauvin-sentenced-federal-charges-violating-george-
+floyds/story?id=86366456. The Court takes judicial notice of the updated details of the criminal trial following 
+Floyd’s murder under Fed. R. Evid. 201(b).                                
+
+3 Marc Levy, Protest draws thousands to hear the challenges of reforming police, education, other institutions, 
+Cambridge Day (June 7, 2020), https://www.cambridgeday.com/2020/06/07/protest-draws-thousands-to-hear-the-
+challenges-of-reforming-police-education-other-institutions/. The Court takes here and elsewhere judicial notice 
+under Fed. R. Evid. 201(b) of articles describing the unrest that occurred in the aftermath of George Floyd’s killing 
+within Massachusetts between May 2020 and March 2021. See United States v. Griffin, 525 F.2d 710 (1st Cir. 1975) 
+(taking judicial notice of the fact that forced busing in Boston “received substantial publicity and aroused 
+widespread resentment.”).                                                 
+lawsuit accusing the Boston Police Department of using excessive force.4  Protests were ongoing 
+                                           3F                        
+when Hussey made his Facebook post, and many continued for months thereafter.5  
+                                                 4F                  
+Officer Brian Hussey                                                      
+Plaintiff Brian Hussey began working as a Cambridge police officer in 1998 and spent 10 
+years in the Special Investigations Unit (SIU) where he conducted roughly “a couple hundred” 
+drug crime investigations.  [Dkt. 43 at ¶ 4].  For the first decade of his career, he worked as a 
+patrol officer in lower Cambridge.  [Dkt. 39 at ¶ 12].  In June 2009, he applied to and joined the 
+SIU where he investigated drug and vice crimes.  [Id. at ¶ 14].  Hussey worked in the SIU for ten 
+years, taking part in hundreds of drug crime investigations, where he worked with confidential 
+informants and spoke to drug users throughout the City of Cambridge.  [Id. at ¶¶ 15-16].  To 
+secure the cooperation of these informants, Plaintiff had to reassure them that the police were 
+“going to protect them” and that “the police would do whatever [they] could to help them.”  [Id. 
+at ¶ 17].  Much of Hussey’s time in the SIU was spent convincing drug users to trust him.  [Id. at 
+¶ 18].                                                                    
+The Facebook Post                                                         
+On February 25, 2021, Hussey shared on his Facebook page a WHDH news article titled, 
+“House Democrats reintroduce police reform bill in honor of George Floyd.”  [Dkt. 43 at ¶ 5].  In 
+a comment he shared alongside the article, Hussey wrote, “This is what its [sic] come to 
+‘honoring’ a career criminal, a thief and druggie . . . the future of this country is bleak at best.”  
+
+
+
+4 Huffman v. City of Bos., No. 21-CV-10986-ADB, 2022 WL 2308937 (D. Mass. June 27, 2022). 
+
+5 Associated Press, Protesters at Boston Rallies Call for Justice for George Floyd, Action on Police Killing Cases 
+(Mar. 6, 2021), https://www.nbcboston.com/news/local/rally-in-boston-to-call-for-action-on-police-killing-
+cases/2321508/.                                                           
+[Id. at ¶ 7].  The bill in question, which never passed,6 proposed reforms to increase 
+                              5F                                     
+accountability for police misconduct, enhance transparency and data collection, and to eliminate 
+discriminatory policing practices.  [Dkt. 44-3 at 4].  Hussey reports that the day he made that 
+Facebook post was a training day, and since he had previously completed his training online, he 
+spent the day taking his children to the New England Aquarium instead.  [Dkt. 43 at ¶ 12].  He 
+made the post at 8:08 AM using his personal phone while at home.  [Id. at ¶¶ 14, 18; Dkt. 44-3 at 
+3].  Around an hour after his post, two comments were posted, neither of which Hussey replied 
+to.  [Dkt. 43 at ¶¶ 15-16].  Hussey claims that he deleted the post a couple of hours after he 
+posted it.  [Id. at ¶ 17].                                                
+The parties dispute whether the word “druggie” is inherently derogatory, but at minimum 
+it refers to someone who is a drug addict, and the parties agree that the term itself does not have 
+any racial connotation.  [Dkt. 43 at ¶¶ 50-51].  In Hussey’s post, he did not identify himself as a 
+Cambridge police officer or reference his position in the police department.  [Dkt. 43 at ¶ 8].  
+Most of the people on his Facebook though would have been aware that he was a police officer.  
+
+He estimates that around 91 of his Facebook friends as of 2023 were either retired or active 
+members of the Cambridge Police Department, while only 30 may have been unaware of his 
+involvement with the Cambridge Police Department.  [Dkt. 39 at ¶ 10].  In April 2021, at the 
+time he made his post, Hussey had around 674 friends on his Facebook, of which a significant 
+number were Cambridge police officers.  [Id. at ¶ 10].7  His Facebook account is restricted; 
+                               6F                                    
+
+
+
+6 George Floyd Justice in Policing Act of 2020, H.R. 7120, 116th Cong. (2020).   
+
+7 Plaintiff states that as of 2023, he has 535 Facebook friends. [Dkt. 54 at ¶ 9].  
+therefore, only those who have accepted his “friend requests” are able to see his posts.  [Id. at ¶ 
+9].  Hussey does not accept friend requests from people he does not know.  [Id.].   
+The Complaints                                                            
+Approximately six days later, on or around March 3, 2021, Commissioner Branville Bard 
+
+became aware of Hussey’s Facebook post after Richard Harding, who was then either the 
+President or Vice-President of the Cambridge NAACP, contacted him.  [Dkt. 43 at ¶ 19; Dkt. 44-
+5 (“Bard Tr.”) at 25:11-15].  According to Bard, the post was less than an hour old when a 
+screenshot was shared with the NAACP, who then shared it with Bard.  [Bard Tr. at 31:2-15]. 
+Bard was the police commissioner for the City of Cambridge from mid-2017 to August 
+2021.  [Dkt. 43 at ¶ 34].  Bard and Cambridge City Manager Louis Depasquale met with 
+Harding, community activist Mo Barbosa, and former Mayor Ken Reeves (who was then an 
+Officer with the Cambridge NAACP) to discuss Hussey’s Facebook post via videoconference.  
+[Id. at ¶ 20; Bard Tr. at 26:17-24].  The group wanted to speak urgently.  [Bard Tr. at 49:1-14] 
+Bard described the three community leaders as “alarmed and concerned about the post.”  [Id.].  
+
+The identity of the person who initially brought the post to the NAACP’s attention was not 
+disclosed to Bard in order to protect that person’s anonymity.  [Bard Tr. at 31:7-12].  Former 
+Mayor Reeves expressed his concern that Hussey’s post called into question the ability of the 
+Cambridge Police Department to serve in a biased-free manner and ran afoul of what the 
+Department should embody.  [Dkt. 52 at ¶ 68].  At that meeting, Bard obtained a copy of the 
+Facebook post and shared it with the Professional Standards Unit (PSU) for investigation.  [Id. at 
+¶ 69].                                                                    
+Bard’s Explanation                                                        
+Bard considered the post “damaging to the reputation of the Cambridge Police 
+
+Department” because it was “insensitive to individuals who’ve suffered from substance use 
+issues.”  [Dkt. 43 at ¶ 22].  He considered the use of the word “druggie” derogatory and 
+“dehumanizing” to people with substance abuse issues.  [Id. at ¶ 26].  He did not think that race 
+played a role in Hussey’s post.  [Id. at ¶ 27].  Still, Bard felt that the post disparaged George 
+Floyd and would cause irreparable harm to the Cambridge Police Department’s reputation.  [Dkt. 
+39 at ¶ 24].  The Cambridge Police Department, as Bard describes it, disciplined Hussey for his 
+Facebook post because:                                                    
+[I]t had negative connotations and it tore at the fabric of trust that we spent a long 
+time building in the community. Folks viewed the Cambridge Police Department 
+as one who favors prevention, intervention, and diversion over more serious or 
+more punitive methods traditionally associated with the criminal justice 
+system . . . we pride ourselves on the fact that we believe that individuals are 
+better served through a social justice approach than through your traditional 
+criminal justice approaches. And when you have that approach, that often means 
+that you’re often working hand in hand with individuals who have . . . fallen in 
+life and are working towards better outcomes. Some of those individuals have 
+substance use issues.                                                
+[Id. at ¶ 25].  Bard considered the post especially harmful “in the context of the national 
+climate.”  [Id. at ¶ 26].  He added that “trust takes a lifetime to build and just a moment to tear 
+down” and that “any individual associated with the Cambridge Police Department could in a 
+moment tear down . . . trust we’ve spent a long time building with community.”  [Id.].  Bard 
+asserts that the Cambridge Police Department needs to have the public’s trust because the only 
+way the police department can function and do its job is “to be seen as trustworthy and legitimate 
+and bias free.”  [Id. at ¶ 27].  Bard could not recall whether he received any additional calls or 
+complaints about the Facebook post, or if he received any additional complaints from Hussey’s 
+fellow employees at the Cambridge Police Department.  [Bard Tr. at 31:2-5; 43:1-12].  
+The Investigation                                                         
+ During the police department’s investigation of the post, the Professional Standards Unit 
+
+(“PSU”) investigators only interviewed Brian Hussey.  [Dkt. 52 at ¶¶ 31, 45].  Hussey made the 
+following statement where he attempted to put his words into context:     
+I have had many discussions with both coworkers and people in my personal life 
+regarding the George Floyd incident and the subsequent police reform that has 
+come about as a result of that incident. My thoughts and views are consistent and 
+have never wavered.[] What happened to George Floyd on May 25, 2020 never 
+should have happened . . . he did not deserve to die.  Derek Chauvin is a disgrace 
+to the badge and probably never should have worn one in the first place. The same 
+goes for the officers who stood by and did nothing. I am 100% in favor of police 
+reform. I will be the first person to say there absolutely are rogue, questionable 
+and dishonest police officers who are an embarrassment and a disgrace to the 
+profession. That being said, the one thing I disagree with is naming a police 
+reform bill in “honor” of George Floyd. I understand that this incident, the 
+proverbial straw that broke the camel’s back, led to the calls for police reform, 
+hence the naming of the bill in his “honor.” While George Floyd did not deserve 
+to have his life taken away that day, he was still a violent criminal. I feel that 
+attaching the name of a violent career criminal, in “honor,” to a reform bill aimed 
+at the betterment of policing is a disservice to the spirit of the bill. To take it a 
+step further, I would feel this way if any career criminal of any race were to be 
+“honored” in a such a manner. It wouldn’t matter to me if the person were Black, 
+White, Hispanic, Asian, or any other race – my feelings would still be the same. A 
+police reform bill should not be named after a violent career criminal. There are 
+many other people of honor who could have been memorialized in the naming of 
+this bill.                                                           
+
+I am the author of my words and I am fully aware of their meaning and intent. My 
+comment in no way endorses the manner in which the Minneapolis Police 
+Officers dealt with George Floyd. Regardless of his background, he deserved to 
+be treated with respect and with no more force than was necessary to gain 
+compliance with lawful orders.                                       
+
+Rather, my words reflect my opinion that legislators should have considered a 
+more appropriate name for their bill. Any undertaking to interpret or portray them 
+any differently than my intended meaning is misguided . . . As an American 
+citizen, I should be able to voice an opinion and have constructive discussions on 
+a wide variety of topics, covering many aspects of life.             
+
+[Id. at ¶ 32].  When asked about the above statement, in particular Hussey’s condemnation of 
+Derek Chauvin’s actions, Bard said “I wish that was the content of his Facebook post because 
+then we wouldn't be sitting here today.”  [Bard Tr. at 39:2-8].  At the same time, Hussey reported 
+that he received text messages of support from around a dozen fellow Cambridge police officers.  
+[Dkt. 52 at ¶ 33; Dkt. 44-7].                                             
+PSU conducted an investigation into the Facebook post and determined that it violated 
+Cambridge Police Department Rules and Regulations Chapter 2, Section III, Paragraph B, which 
+prohibits “discourtesy, rudeness, or insolence, to any member of the public” and Cambridge 
+Police Department Policies and Procedures Policy 230, Section V, Paragraph A, Part 1, which 
+requires officers to “be courteous and act professionally at all times.”  [Dkt. 52 at ¶ 70].  After 
+two months of being placed on administrative leave, on April 30, 2021, Commissioner Bard 
+informed Hussey that he was suspending him without pay for four days based on his Facebook 
+post and the violation of Cambridge Police Department Rules and Regulations that it entailed.  
+[Dkt. 54-1].  The letter from Bard announcing the suspension also stated that the suspension was 
+“an appropriate sanction for what I view as a violation of Department policy, but more 
+importantly, to caution you against similar conduct.”  [Id.].             
+Other Social Media Posts and Statements Regarding Substance Abuse         
+
+No policy prohibits Cambridge Police officers from posting on social media, although 
+they are prohibited from posting on social media about non-work-related matters during work 
+times.  [Dkt. 43 at ¶ 35].  In a number of instances, the Cambridge Police Department is alleged 
+to have disciplined officers differently than it did Hussey for provocative or offensive postings.  
+For example, Jack Albert, a Deputy Superintendent with the Cambridge Police Department, 
+posted a comment on the department’s official Twitter page that Congressmen Joe Kennedy III 
+was “another liberal [****]ing jerk.”  [Id. at ¶ 36-37].  Albert received a five-day suspension for 
+his post, although Bard did not recall whether he was placed on administrative leave or whether 
+he served his suspension.  [Id. at ¶ 39].  Albert’s post about Congressmen Kennedy was reported 
+
+in the news.  [Bard Tr. 14:17-24].                                        
+In July 2020, in response to a proposed bill redirecting police department funds toward 
+social services, the Cambridge Police Patrol Officers’ Association tweeted, “If you think seven 
+civilians killed in seven days in Boston is bad, just wait for the purge that will come.”  [Dkt. 43 
+at ¶ 40].  The Cambridge Police Department did not investigate who wrote or posted the tweet.  
+[Id. at ¶ 41].  Bard could not recall either whether the Cambridge Police Department disciplined 
+another police officer who made a “deeply disturbing” social media post in praise of political 
+violence while out on extended leave.  [Id. at ¶ 43].                     
+ In April 2022, the Cambridge Police Department received a complaint from a 
+community member that Hussey had said he “was tired of crackheads thinking they can get away 
+
+with everything.”  [Id. at ¶ 46].  He was not placed on administrative leave following that 
+complaint and was not the subject of any discipline as a result of the complaint.  [Id. at ¶ 47].  
+Hussey asserts that in July of 2022, while he and now Commissioner Elow were on duty 
+planning the arrests of drug users in Central Square via the use of informants, Elow said 
+something along the lines of, “well they are just crackheads.”  [Id. at ¶ 48].  Elow admitted using 
+the word “crackheads” to describe drug users in Central Square and conceded to Hussey that it 
+was an inappropriate word to use.  [Dkt. 44-6 (“Elow Tr.”) 10:20-13:11].  Hussey recalled, and 
+Elow disputes, that when Hussey brought up the fact that he was being investigated for using the 
+word “crackheads” that Elow said “you just can’t call them that to their face.”  [Dkt. 43 at ¶ 49; 
+Elow Tr. 11:17-19].                                                       
+II.  LEGAL STANDARD                                                       
+The purpose of summary judgment is to “pierce the pleadings and to assess the proof in 
+
+order to see whether there is a genuine need for trial.”  Mesnick v. Gen. Elec. Co., 950 F.2d 816, 
+822 (1st Cir. 1991) (citing Garside v. Osco Drug, Inc., 895 F.2d 46, 50 (1st Cir. 1990)).  
+Summary judgment may be granted when the record, viewed in the light most favorable to the 
+non-moving party, presents no “genuine issue of material fact,” and the moving party is entitled 
+to judgment as a matter of law.  Paul v. Murphy, 948 F.3d 42, 49 (1st Cir. 2020) (citation 
+omitted).  The Court must consider (1) whether a factual dispute exists; (2) whether the factual 
+dispute is “genuine,” such that a “reasonable fact-finder could return a verdict for the nonmoving 
+party on the basis of the evidence;” and (3) whether a fact genuinely in dispute is material, such 
+that it “might affect the outcome of the suit under the applicable substantive law.”  Scott v. 
+Sulzer Carbomedics, Inc., 141 F. Supp. 2d 154, 170 (D. Mass. 2001); see also Napier v. F/V 
+
+DEESIE, Inc., 454 F.3d 61, 66 (1st Cir. 2006).  Courts must evaluate “the record and [draw] all 
+reasonable inferences therefrom in the light most favorable to the non-moving parties.”  Est. of 
+Hevia v. Portrio Corp., 602 F.3d 34, 40 (1st Cir. 2010) (citing Houlton Citizens’ Coal. v. Town 
+of Houlton, 175 F.3d 178, 183-84 (1st Cir. 1999)).  A non-moving party may “defeat a summary 
+judgment motion by demonstrating, through submissions of evidentiary quality, that a 
+trialworthy issue persists.”  Paul, 948 F.3d at 49 (citation omitted).  When evaluating cross-
+motions for summary judgment, the court must “view each motion, separately, through this 
+prism,” and “may enter summary judgment only if the record, read in this manner, reveals that 
+there is no genuine issue as to any material fact and that the moving party is entitled to judgment 
+as a matter of law.”  Hevia, 602 F.3d at 40 (internal citations omitted). 
+III.  DISCUSSION                                                          
+The constitutional right to free speech is protected by the First Amendment’s guiding 
+
+principle that debate on public issues should be “uninhibited, robust, and wide-open.”  N.Y. 
+Times Co. v. Sullivan, 376 U.S. 254, 270 (1964).  The public interest in that “free and 
+unhindered debate on matters of public importance” is “the core value of the Free Speech Clause 
+of the First Amendment.”  Pickering v. Bd. of Educ., 391 U.S. 563, 573 (1968).  There is 
+“universal agreement that a major purpose of the First Amendment was to protect the free 
+discussion of governmental affairs.”  Mangual v. Rotger-Sabat, 317 F.3d 45, 64-65 (1st Cir. 
+2003) (quoting Mills v. Alabama, 384 U.S. 214, 218 (1966)).  This principle also protects, albeit 
+to a more limited degree, the speech of public employees.  Curran v. Cousins, 509 F.3d 36, 44 
+(1st Cir. 2007) (“Public employees do not lose their First Amendment rights to speak on matters 
+of public concern simply because they are public employees . . . [s]till, those rights are not 
+
+absolute.”).  “In general, government officials may not subject an individual to retaliatory 
+actions . . . for speaking out.”  Gilbert v. City of Chicopee, 915 F.3d 74, 81 (1st Cir. 2019) 
+(internal citations and quotations omitted).  However, when a citizen enters a public role, they 
+must accept certain limitations on their freedoms.  Garcetti v. Ceballos, 547 U.S. 410, 418 (2006) 
+(“Government employers, like private employers, need a significant degree of control over their 
+employees’ words and actions; without it, there would be little chance for the efficient provision 
+of public services.”); Decotiis v. Whittemore, 635 F.3d 22, 29 (1st Cir. 2011) (“Government 
+employees undoubtedly walk a tight rope when it comes to speaking out on issues that touch 
+upon their fields of work and expertise.”).  A government employee speaking as a citizen on a 
+matter of public concern can only be subject to “those speech restrictions that are necessary for 
+their employers to operate efficiently and effectively.”  Garcetti, 547 U.S at 419.  
+Plaintiff brings his First Amendment claim pursuant to 42 U.S.C. § 1983 which  
+provides that “[e]very person” acting “under color of any statute, ordinance, regulation, custom, 
+
+or usage of any State or Territory or the District of Columbia” who subjects or causes to subject 
+someone “to the deprivation of any rights, privileges, or immunities secured by the Constitution 
+and laws” shall be liable to the injured party.  42 U.S.C. § 1983.  An individual asserting a 
+Section 1983 claim must show that the challenged conduct is “attributable to a person acting 
+under color of state law” and that the conduct was a “denial of rights secured by the Constitution 
+or by federal law.”  Soto v. Flores, 103 F.3d 1056, 1061 (1st Cir. 1997). 
+The First Circuit requires a three-step inquiry to determine whether an adverse 
+employment action violated a public employees’ First Amendment right to free speech.  Bruce v. 
+Worcester Reg’l Transit Auth., 34 F.4th 129, 135 (1st Cir. 2022).  This inquiry is modeled after 
+the balancing test initially articulated in Pickering.  First, the Court must evaluate whether the 
+
+employee “spoke as a citizen on a matter of public concern.”  Gilbert, 915 F.3d at 82 (quoting 
+Curran, 509 F.3d at 45).  If the Court finds that the speech in question was made pursuant to the 
+speaker’s official duties, then there is no First Amendment claim as “[r]estricting speech that 
+owes its existence to a public employee's professional responsibilities does not infringe any 
+liberties.”  Id. (quoting Garcetti, 547 U.S. at 421-22).  Second, if the employee did speak as a 
+citizen on a matter of public concern, the Court must look to whether the government entity 
+involved had an adequate justification, based on the impact to its own operations, for the action it 
+took towards that employee.  Bruce, 34 F.4th at 135 (quoting Curran, 509 F.3d at 45).  Third, the 
+Court looks to whether the protected speech was a substantial or motivating factor in the adverse 
+employment action.  Id.                                                   
+There is no dispute as to the first and third prong.  Hussey v. City of Cambridge, No. 21-
+CV-11868-AK, 2022 WL 6820717, at *2 (D. Mass. Oct. 11, 2022); [Dkt. 53 at 2 n.2].  
+
+Therefore, the Defendants’ liability turns on balancing the interest of Hussey, as a citizen 
+speaking on a matter of public concern, with the interests of the Defendants in restricting that 
+speech to aid “the effective and efficient fulfillment of its responsibilities to the public.”  
+Connick v. Myers, 461 U.S. 138, 150 (1983).  The Court must “consider (1) ‘the time, place, and 
+manner of the employee's speech,’ and (2) ‘the employer's motivation in making the adverse 
+employment decision.”  Bruce, 34 F.4th at 138 (quoting Decotiis, 635 F.3d at 35).  If these 
+factors demonstrate that the employee only faced those speech restrictions that were “necessary 
+for his employer to operate efficiently and effectively” then “the defendants’ restrictions on 
+speech were adequately justified.”  Id.  How cautious an employee must be with the words they 
+use “will vary with the extent of authority and public accountability the employee’s role entails.”  
+
+Rankin v. McPherson, 483 U.S. 378, 390 (1987).                            
+Since only the second prong is in dispute, and because the balancing of interests is a 
+question of law the Court must decide, there is not a triable question of fact left for a jury.  See 
+id. at 386 n.9 (describing test for whether speech is of public concern wherein “the ultimate 
+issue—whether the speech is protected—is a question of law”) (quoting Connick, 461 U.S. at 
+148 n.7); Davignon v. Hodgson, 524 F.3d 91, 100 (1st Cir. 2008) (describing Pickering 
+balancing test’s assessment of what the First Amendment protects as subject to de novo review 
+whereas question of causation in retaliation claim presents a question of fact). But see Moser v. 
+Las Vegas Metro. Police Dep’t, 984 F.3d 900, 905 (9th Cir. 2021) (“While the Pickering 
+balancing test presents a question of law for the court to decide, it may still implicate factual 
+disputes that preclude the court from resolving the test at the summary judgment stage.”); 
+Weaver v. Chavez, 458 F.3d 1096, 1101 (10th Cir. 2006) (describing how “it is well-settled that 
+the balancing assessment must be performed by the court, not the jury” although noting that 
+
+circuits are split as to when Pickering test turns on disputed questions of fact).  Although there 
+may be some factual disputes that remain outstanding, such as disagreements about how to 
+interpret the words used and the degree to which the Facebook post was shared, the Court is not 
+aware of any whose resolution is necessary to resolve the balance of interests.  Even if the Court 
+resolved any such disputes in Plaintiff’s favor, it would still find that Defendants’ interest 
+outweighed Plaintiff’s here.                                              
+A.  Interest in Hussey’s Speech                                      
+At the motion to dismiss stage, this Court stated that “the value of Hussey’s speech, 
+including his use of derogatory, pejorative labels, was not particularly high, though it was also 
+not without any value.”  Hussey, 2022 WL 6820717, at *5; [Dkt. 25 at 10].  While the Court’s 
+
+determination at this stage is not dependent on its earlier assessment, the development of the 
+factual record has not altered that conclusion.  Hussey’s post was undoubtedly about a matter of 
+public concern: the naming of an official act of Congress and his objections to the name chosen 
+for it.  [Dkt. 43 at ¶¶ 5-7].  The proposed act sought to address police reform and racial 
+inequality—issues of tremendous importance to the public.  [Dkt. 44-3 at 4].  Moreover, given 
+the galvanizing role George Floyd’s murder played in the widespread protests in 2020 and 
+thereafter, there is value in the public’s continued discussions of his life and legacy.  [See Dkt. 
+44-9 at 4].                                                               
+ The fact that Hussey is employed as a police officer is relevant as well, given that his 
+comments were about the nature of a police reform bill.  Discouraging Hussey and other officers 
+
+from participating as citizens in discussions about public safety, police brutality, and racial 
+profiling would deprive the public of a valuable viewpoint.  Garcetti, 547 U.S. at 419 
+(acknowledging “the importance of promoting the public’s interest in receiving the well-
+informed views of government employees engaging in civic discussion” given the “the necessity 
+for informed, vibrant dialogue in a democratic society” and “the widespread costs may arise 
+when dialogue is repressed”); see also Pickering, 391 U.S. at 573 (rejecting attempt by school 
+administrators to limit teachers’ ability to participate in public debate partly because it was 
+essential that teachers be able to speak freely given that they were more likely than members of 
+the general public to have informed opinions on school operations and funding).   
+Hussey’s post was made on his personal Facebook account from his personal phone. 
+
+[Dkt. 43 at ¶¶ 14, 18].  However, the reach of his statement was amplified by it being on a social 
+media platform.  Writing on Facebook is accurately compared to “writing a letter to a local 
+newspaper” and “suggests an intent to ‘communicate to the public or to advance a political or 
+social point of view beyond the employment context.’”  Liverman v. City of Petersburg, 844 
+F.3d 400, 410 (4th Cir. 2016) (quoting Borough of Duryea v. Guarnieri, 564 U.S. 379, 398 
+(2011)).  Hussey argues that the post could not have had a disruptive impact since the post was 
+only up for a couple of hours on his private Facebook profile.  [Dkt. 42 at 13].  This argument is 
+not persuasive.  The post was screenshotted, its content was shared beyond Hussey’s network, 
+and it had begun to attract attention.  An individual like Hussey takes a “gamble . . .  in posting 
+content on the internet” as there is a “lack of control one has over its further dissemination.”  
+Duke v. Hamil, 997 F. Supp. 2d 1291, 1300, 1302 (N.D. Ga. 2014) (dismissing a veteran police 
+officer’s claim that his government employer violated the First Amendment by demoting him 
+after he posted an image of the Confederate flag accompanied by the phrase, “It’s time for the 
+
+second revolution,” on his private Facebook page).  Hussey also shared his post with all his 
+Facebook friends, who number in the hundreds, and most of whom were aware he was employed 
+as an Officer in the Cambridge Police Department.  [Dkt. 39 at ¶ 10].  Social media use in this 
+context can be a double-edged sword.  On one hand, social media can make any citizen “a town 
+crier with a voice that resonates farther than it could from any soapbox,” increasing the 
+message’s reach and Hussey’s First Amendment interest along with it.  Packingham v. North 
+Carolina, 582 U.S. 98, 107 (2017) (quoting Reno v. Am. Civ. Liberties Union, 521 U.S. 844, 870 
+(1997).  At the same time, such increased exposure amplifies the potential consequences to 
+employers.                                                                
+The value of Hussey’s speech is lessened by the inflammatory and insulting manner in 
+
+which his post was written. “Speech done in a vulgar, insulting, and defiant manner is entitled to 
+less weight in the Pickering balance.”  Curran, 509 F.3d at 49 (citing Jordan v. Carter, 428 F.3d 
+67, 74 (1st Cir. 2005); see also Hernandez v. City of Phx., 43 F.4th 966, 979 (9th Cir. 2022) 
+(police officer’s social media posts that insulted racial and religious minorities occupied “a much 
+lower rung on the First Amendment hierarchy” and “touched on matters of public concern in 
+only the most limited sense” (citations omitted)).  The post called George Floyd “a career 
+criminal, a thief and druggie.”  [Dkt. 43 at ¶ 7].  The term “druggie” may be subject to differing 
+interpretations; however, in both its common understanding and in the manner it was used in the 
+Facebook post, the term is employed as a pejorative to disparage its subject as a person 
+struggling with drug addiction.  [Id. at ¶ 50].  Even if the term itself is not inherently derogatory, 
+here it was used in a derogatory fashion.  The terms “thief” and “a career criminal” are similarly 
+insulting, even though they reflect the fact that, for a ten-year period in Floyd’s life from 1997 
+until 2007, he participated in criminal activity that included offenses related to theft and 
+
+robbery.  [Dkt. 43 at ¶¶ 54-55].  More relevant than the particular terms used was the fact that the 
+thrust of the message disparaged George Floyd as being unworthy of being honored in that 
+manner because of his past criminal conduct and substance abuse issues.  It dismissed the 
+reasons why George Floyd’s life and tragic death inspired the legislation.    
+However, the value of Hussey’s post is not as diminished as it would have been had 
+Hussey used lewd, vulgar, or obscene terms.  See Curran, 509 F.3d at 49; see also Hernandez, 43 
+
+F.4th at 979; Bennett v. Metro. Gov't of Nashville & Davidson Cnty., Tenn., 977 F.3d 530, 538-
+39 (6th Cir. 2020) (use of n-word in social media post did not receive “highest rung” of 
+protection and consequently required a lower showing of disruption to justify employer’s adverse 
+action).  The term “druggie” may be a pejorative and offensive term, but it is neither profane nor 
+obscene.  Notably, both Commissioner Bard and Elow agreed that the term does not have any 
+racial connotation.  [Dkt. 43 at ¶ 51].  The other words used by Hussey are commonplace terms.   
+Hussey’s speech could be categorized as insensitive, disparaging, or dehumanizing (as 
+Bard described it) [id. at ¶ 26], particularly by those concerned with helping individuals with 
+substance use challenges or those who sought to honor Floyd as an emblematic Black victim of 
+police brutality.  However, even if the Court agreed with that assessment, it would not diminish 
+
+Hussey’s interest in being able to share his opinion on the topic.  Offensive speech can still be 
+protected speech if an employer retaliates against the employee because of their objections to the 
+content of that speech, rather than their concern for the speech’s impact on public functions.  See 
+Hayes v. Mass. Bay Transp. Auth., 498 F. Supp. 3d 224, 234 (D. Mass. 2020) (“[V]igilance is 
+necessary to ensure that public employers do not use authority over employees to silence 
+discourse, not because it hampers public functions but simply because superiors disagree with 
+the content of employees’ speech.”) (quoting Rankin, 483 U.S. at 384).    
+
+However, the Court does not find in Hussey’s favor because, even if it viewed his post in 
+the light most favorable to him and resolved any factual disputes about its content or context in 
+his favor, his interest would be outweighed by the strong interest the Cambridge Police 
+Department had here in restricting his speech.  The Court explains below. 
+B.  Cambridge Police Department’s Interest in Restricting Hussey’s Speech 
+
+While evaluating the government’s interest, the Court considers “whether the statement 
+impairs discipline by superiors or harmony among co-workers, has a detrimental impact on close 
+working relationships for which personal loyalty and confidence are necessary, or impedes the 
+performance of the speaker’s duties or interferes with the regular operation of the enterprise.”  
+Rankin, 483 U.S. at 388 (citing Pickering, 391 U.S. at 570-573).  Plaintiff asserts there is no 
+indication Hussey’s speech would disrupt the functioning of the police department because of the 
+lack of objections within the Cambridge Police Department, the Defendants’ failure to address 
+similarly offensive speech, and the lack of controversy in the public sphere that followed the 
+post.  [Dkt. 42 at 11-15].  The Defendants argue instead that Hussey’s comments threatened the 
+Cambridge Police Department’s functions because his public disparagement of Floyd, who 
+struggled with substance abuse and had a criminal history, could have jeopardized public trust in 
+the Department.  [Dkt. 38 at 5-9].  Defendants’ concerns are underscored by a national climate 
+which placed a magnifying glass on the issue of bias within every police department.  
+The focus of the Court’s inquiry here is whether the Cambridge Police Department and 
+Commissioner Bard’s “predictions of disruption” to the Department flowing from Hussey’s post 
+
+were “reasonable,” rather than whether Hussey’s comments caused “an actual adverse effect.”  
+Curran, 509 F.3d at 49.  The nature of the inquiry reflects the fact that government employers 
+must have “wide latitude in managing their offices, without intrusive oversight by the judiciary 
+in the name of the First Amendment.”  Connick, 461 U.S. at 146.  The Court must give 
+“substantial weight to government employers’ reasonable predictions of disruption” and gives 
+“greater deference to government predictions of harm used to justify restriction of employee 
+speech than to predictions of harm used to justify restrictions on the speech of the public at 
+large.”  Waters v. Churchill, 511 U.S. 661, 673 (1994).  Still, the Defendants’ judgment must be 
+based on some evidence and cannot rely on speculation alone to justify its actions.  Moser, 984 
+F.3d at 909 (“[A]n employer must provide some evidence for the court to evaluate whether the 
+
+government’s claims of disruption appear reasonable” such as “evidence that the community it 
+serves discovered the speech or would inevitably discover it.”); Fenico v. City of Phila., 70 F.4th 
+151, 166 (3d Cir. 2023) (“[A]n employer must still establish likely disruption through record 
+support, and courts have long required more than ‘unadorned speculation as to the impact of 
+speech.’”) (quoting Hall v. Ford, 856 F.2d 255, 261 (D.C. Cir. 1988)).    
+Here, the Court is persuaded that the Defendants’ strong interest in maintaining public 
+trust outweighs the interest Hussey had in making his Facebook post.  The timing here is a 
+crucial factor—Hussey’s statements came mere months after Floyd’s killing galvanized public 
+criticism of policing and racial disparities, including in the City of Cambridge and the greater 
+Boston area.8  The vast majority of protests were peaceful, yet departments across the country 
+   7F                                                                
+met many of those same protests with tear gas, arrests, flash grenades, and more—sometimes 
+with fatal consequences for demonstrators.9  Some of the protests turned violent and the ensuing 
+                       8F                                            
+riots set ablaze local businesses, restaurants, news buildings, and even a police department 
+building.10  A number of police officers sustained injuries during such incidents.11  In the weeks 
+ 9F                                             10F                  
+that followed, as the names of more Black persons, like Breonna Taylor, became synonymous 
+with police brutality and impunity, it poured fuel on the collective fury against police 
+departments and ignited new rounds of protests.12  These demonstrations were often 
+                           11F                                       
+accompanied by calls to reform, defund, and even abolish police departments.13  It is thus 
+                                               1F                    
+understandable that in the months that followed, the Cambridge’s Police Department’s sensitivity 
+to public perception was heightened, especially regarding discussions related to victims of police 
+violence.                                                                 
+The effectiveness of the Cambridge Police Department, and any police department, 
+depends on the maintenance of public trust.  Acting in a biased manner, or creating a perception 
+
+8 Supra note 3; Huffman, 2022 WL 2308937, at *1.                          
+
+9 Olalekan N. Sumonu, Shot in the Streets, Buried in Courts: An Assault on Protester Rights, 52 Seton Hall L. Rev. 
+1569 at 1573, 1575 (2022).  Around 570 of the 10,600 protests resulted in violence.  Id.  In Kentucky, the police 
+response to a demonstration led to the death of a photographer named Tyler Gerth and a cook named David McAtee. 
+Id.                                                                       
+
+10 Id. at 1571-74.                                                        
+
+11 Id.                                                                    
+
+12 Id.                                                                    
+
+13 Id.                                                                    
+thereof, undermines that trust.14  Locurto v. Guiliani, 447 F.3d 159, 182 (2d Cir. 2006).  In 
+               13F                                                   
+Locurto, the Second Circuit articulated this challenge:                   
+The effectiveness of a city’s police department depends importantly on the respect 
+and trust of the community and on the perception in the community that it 
+enforces the law fairly, even-handedly, and without bias. If the police department 
+treats a segment of the population of any race, religion, gender, national origin, or 
+sexual preference, etc., with contempt, so that the particular minority comes to 
+regard the police as oppressor rather than protector, respect for law enforcement is 
+eroded and the ability of the police to do its work in that community is impaired. 
+Members of the minority will be less likely to report crimes, to offer testimony as 
+witnesses, and to rely on the police for their protection. When the police make 
+arrests in that community, its members are likely to assume that the arrests are a 
+product of bias, rather than well-founded, protective law enforcement. And the 
+department’s ability to recruit and train personnel from that community will be 
+damaged.                                                             
+
+Locurto, 447 F.3d at 178 (quoting Pappas v. Giuliani, 290 F.3d 143, 146-47 (2d Cir. 2002) 
+(citations omitted)); see also Bennett, 977 F.3d 530, 544 (6th Cir. 2020) (“[D]iverse 
+constituents . . . need to believe that those meant to help them in their most dire moments are 
+fair-minded, unbiased, and worthy of their trust.”).15  The centrality of trust is highlighted by the 
+                            14F                                      
+
+14 The facts in cases like Locurto and Bennett, and other cases that the Defendant relies upon, such as Grutzmacher  
+v. Howard Cnty., 851 F.3d 332, 338 (4th Cir. 2017) feature speech that is significantly more likely to offend and 
+cause disruption in a workplace than Hussey’s Facebook post.  However, this Court does not cite those cases for 
+their factual similarity but rather for their proposition that the effectiveness of a Police Department depends on their 
+ability to build trust in the communities they serve and that incidents that undermine that trust, particular among 
+communities where relationships with law enforcement is historically strained, can hamper a Police Department’s 
+ability to carry out its duties.                                          
+
+15 In resolving this question, the Court finds that community members’ objections regarding Hussey’s post are not 
+analogous to a “heckler’s veto.” A “heckler’s veto” occurs when offensive speech is curtailed to prevent public 
+disorder; the Supreme Court has held that the “heckler’s veto” is an impermissible justification for the restriction of 
+speech.  Bachellar v. Maryland, 397 U.S. 564, 567 (1970) (“it is firmly settled that under our Constitution the public 
+expression of ideas may not be prohibited merely because the ideas are themselves offensive to some of their 
+hearers, or simply because bystanders object to peaceful and orderly demonstrations” (internal citations omitted)).  
+Previously, the Fourth Circuit and Tenth Circuit have extended this logic to prevent restrictions on the speech of 
+police officers that were motivated by potential community backlash.  Berger v. Battaglia, 779 F.2d 992, 1001 (4th 
+Cir. 1985) (rejecting community concerns about an officer’s music performance in blackface because “the perceived 
+threat of disruption [was] only to external operations and relationships, it was caused not by the speech itself but by 
+threatened reaction to it by offended segments of the public”); Flanagan v. Munger, 890 F.2d 1557, 1566-67 (10th 
+Cir. 1989) (citing Berger in its finding that the community’s objections to a police officer’s ownership of a video 
+Cambridge Police Department’s Mission Statement, which describes the Department’s mission 
+as partnering “with the community to solve problems and improve public safety in a manner that 
+is fair, impartial, transparent, and consistent.”16                       
+                         15F                                         
+The Court must also provide greater deference to the Cambridge Police Department’s 
+assessments of the risk of disruption because of its status as a law enforcement agency.  See 
+Curran, 509 F.3d at 50; see also Hughes v. Whitmer, 714 F.2d 1407, 1419 (8th Cir. 1983) 
+(“More so than the typical government employer, the Patrol has a significant government interest 
+in regulating the speech activities of its officers in order ‘to promote efficiency, foster loyalty 
+and obedience to superior officers, maintain morale, and instill public confidence in the law 
+enforcement institution.’”) (quoting Gasparinetti v. Kerr, 568 F.2d 311, 315-16 (3rd Cir. 1977)); 
+Oladeinde v. City of Birmingham, 230 F.3d 1275, 1293 (11th Cir. 2000) (“In a law enforcement 
+agency, there is a heightened need for order, loyalty, morale and harmony, which affords a police 
+department more latitude in responding to the speech of its officers than other government 
+employers.”); O’Donnell v. Barry, 148 F.3d 1126, 1135 (D.C. Cir. 1998) (describing stronger 
+
+government interest in regulating speech of police officers).  Following the national reckoning 
+
+store that included adult films was not a sufficient rationale to justify restrictions on his speech).  In both matters, 
+these complaints were analogized to a “heckler’s veto.”  Berger, 779 F.2d at 1001; Flanagan, 890 F.2d 1567.  The 
+Ninth Circuit and Second Circuit have found that such objections are permissible to consider when assessing 
+disruption to an employer’s function, such as ‘an officer’s job to safeguard public opinion of the police force.  
+Locurto, 447 F.3d at 179 (2d Cir. 2006) (rejecting the analogy to a ‘heckler’s veto’ because “[w]here a Government 
+employee’s job quintessentially involves public contact, the Government may take into account the public’s 
+perception of that employee’s expressive acts in determining whether those acts are disruptive to the Government's 
+operations”); Dible v. City of Chandler, 515 F.3d 918 n.4, 7 (9th Cir. 2008) (acknowledging Flannagan and Berger, 
+but finding that they have both been undermined by subsequent case law, including City of San Diego, Cal. v. Roe, 
+543 U.S. 77 (2004)). This Court similarly declines to follow Flannagan and Berger because of the now demonstrated 
+connection between a police departments’ efficiency and its public perception and because the social context, 
+including as to importance of the relationship between police and the communities they serve, has changed since 
+those cases.                                                              
+
+16 Mission Statement and Core Values, City of Cambridge Police Department, 
+https://www.cambridgema.gov/Departments/cambridgepolice/missionstatementandcorevalues (last visited Mar. 5, 
+2024).                                                                    
+sparked by George Floyd’s murder,17 while police departments sought to rebuild trust in their 
+                   16F                                               
+communities, the need for this deference was even greater.18              
+                                  17F                                
+The community complaints about the Facebook post provide the necessary evidence to 
+justify Defendants’ perception that Hussey’s comments could have undermined public trust.  
+Less than one week after Hussey shared his Facebook post, Richard Harding of the Cambridge 
+NAACP, brought the post to Commissioner Bard’s attention.  [Dkt. 43 at ¶ 19].  The NAACP 
+had been made aware of the post when a screenshot was shared with them by another individual 
+whose identity remains undisclosed.  [Bard Tr. at 31:7-12].  Bard and the Cambridge City 
+Manager then met with Richard Harding, Mo Barbosa, and former Mayor Ken Reeves—all of 
+whom were either in the leadership of the Cambridge chapter of the NAACP or involved 
+community figures in other capacities.  [Dkt. 43 at ¶ 20; Bard Tr. at 26:17-24].  Even though 
+Bard only met with three individuals, at least two were part of a larger organization, and one was 
+a former Mayor of that very city.  The political clout of those individuals made it reasonable for 
+Bard to assume that the post could cause damage to the Department’s reputation in the eyes of 
+
+
+
+
+
+17 See Huffman, 2022 WL 2308937, at *1 (“[Floyd’s] unjust death at the hands of police sparked protests around the 
+country that called attention to the disparate treatment of people of color by law enforcement and demanded justice 
+and police reform.”).                                                     
+
+18 This deference is why the Court is not persuaded by the counter-factual proposed by Plaintiff about an Officer 
+suspended for a social media post criticizing the naming of a bill after President Donald Trump who also is the 
+subject of several criminal misconduct allegations.  [Dkt. 58 at 3].  The distinction drawn here is not in regard to the 
+speech’s content, but rather its context.  Even in the context of government employees, the First Amendment is 
+particularly sensitive to speech restrictions that target speech solely based on its content. See Rankin, 483 U.S. at 
+384.  However, the broader context regarding policing in America supports a heightened concern about breakdown 
+of trust and disruption to the Department’s functions, and thus justifies such a restriction.  The example Plaintiff 
+provides is distinguishable as it does not indicate how such a post would detrimentally impact police operations.  
+many others, especially among those who were concerned about bias within the Cambridge 
+Police Department.  [See Dkt. 52 at ¶ 68].19                              
+                       18F                                           
+Since the primary question is whether the Police Department’s prediction of disruption 
+was reasonable, the level of community feedback that is sufficient to justify such a prediction is 
+necessarily context dependent.  The case law does not identify any magic marker or bright line 
+wherein the level of community feedback is sufficient to justify a speech restriction.  The Court 
+also notes that the matter was presented to Bard as an urgent matter, with community members 
+“alarmed and concerned about the post.”  [Bard Tr. at 49:1-14].  As Bard put it: “trust takes a 
+lifetime to build and just a moment to tear down” and “any individual associated with the 
+Cambridge Police Department could in a moment tear down . . . trust we’ve spent a long time 
+building with community.”  [Dkt. 39 at ¶ 26].  With this in mind, Bard’s actions appear 
+reasonable given the importance to the Department of maintaining the trust of its community 
+members and the concern, especially given the “context of the national climate,” that the 
+Facebook post could have detrimentally impacted that trust.  [Dkt. 39 at ¶ 26]; see Locurto, 447 
+
+F.3d at 182; Bennett, 977 F.3d at 541.  The focus on the community impact renders it less 
+relevant that Hussey received messages of support from his peers in the police department.   
+[Dkt. 43 at ¶ 33; Dkt. 44-7].  The Court is also not persuaded by the fact that there is no evidence 
+that any drug users or individuals with loved ones struggling with substance abuse complained as 
+
+
+19 The fact that the organization that Bard met with was the NAACP is noteworthy as it is an organization whose 
+chapters advocate against bias in policing. The NAACP’s mission is to “achieve equity, political rights, and social 
+inclusion by advancing policies and practices that expand human and civil rights, eliminate discrimination, and 
+accelerate the well-being, education, and economic security of Black people and all persons of color.” Mission-
+Vision, NAACP, https://naacp.org/about/mission-vision (last visited Mar. 5, 2024). In the wake of George Floyd’s 
+killing, the organization called for measures to be put in place to impose strict accountability for police misconduct. 
+NAACP, Joint Statement by NAACP and The Links, Incorporated on Collective Outrage Regarding the Police 
+Murder of George Floyd and other Victims of Law Enforcement, NAACP, https://naacp.org/articles/joint-statement-
+naacp-and-links-incorporated-collective-outrage-regarding-police-murder (last visited Mar. 5, 2024).  
+Commissioner Bard was entitled to rely on his own judgment given the “significant weight” 
+allotted to an employers’ “reasonable predictions of disruption.”  Curran, 509 F.3d at 49. 
+Hussey’s post was subject to multiple interpretations—including some which could 
+undermine the non-punitive and rehabilitative approach that Bard and the Cambridge Police 
+
+Department aimed to have.  Bard saw it as “dehumanizing” and insensitive to individuals with 
+substance abuse histories.  [Dkt. 43 at ¶ 26].  The community members Bard met with saw it as 
+evidence of bias within the Cambridge Police Department and counter to the spirit the 
+Department should embody.  [Dkt. 52 at ¶ 68].  The City of Cambridge’s conclusion in its final 
+report of its investigation was that Hussey’s Facebook post implied he “does not believe in 
+rehabilitation . . . is disrespectful of people suffering from substance abuse” and that it “can be 
+interpreted that the Cambridge Police have a bias against people who have committed felony 
+crimes or have a substance abuse disorder.”  [Dkt. 44-3 at 12].  Hussey, for his part, asserts that 
+his post had nothing to do with race, that his only objection was the naming of the bill (whose 
+objectives he otherwise supported) in “honor” of someone who had a violent criminal past.  [Dkt. 
+
+43 at ¶ 32].   The Defendants’ arguments do not focus directly on concerns about an appearance 
+of racial bias—even though George Floyd’s death is inseparable from issues of racial bias in 
+policing and the post was brought to the Department’s attention by the NAACP, a racial justice 
+organization.                                                             
+The focus of the Court’s inquiry, however, is not what the right interpretation of Hussey’s 
+language is, or even whether it was offensive or its conclusions objectionable, but rather whether 
+its impact “impedes the performance” of or “interferes with the regular operation” of the 
+Cambridge Police Department’s work.  Rankin, 483 U.S. at 388.  In that regard, the 
+Department’s concerns are substantiated by the language Hussey used, the reasonable 
+interpretation of the implications of his words, and by the objections Bard, and other community 
+members, raised in response.                                              
+ Bard was not obligated to wait until the issue developed into a broader controversy, 
+particularly given his concerns about the backlash the Facebook post could generate and his 
+
+assessment that its characterization of George Floyd undermined the Department’s goals.  [See 
+Dkt. 43 at ¶ 25; Bard Tr. at 40:7-19]; see Curran, 509 F.3d at 45 (“An employer need not ‘allow 
+events to unfold to the extent that the disruption of the office and the destruction of working 
+relationships is manifest before taking action.’”) (quoting Connick, 461 U.S. at 152).  According 
+to Bard, the goals of the Cambridge Police Department when addressing drug abuse was to 
+prefer “prevention, intervention, and diversion over more serious or more punitive methods 
+traditionally associated with the criminal justice system,” which often meant that officers had to 
+work with individuals struggling with substance abuse issues.  [Dkt. 39 at ¶ 25].  Hussey, as a 
+member of the SIU, would have been one of the officers working to implement those goals by 
+attempting to build trust within communities where drug use was a widespread and serious 
+
+challenge.  [Dkt. 39 at ¶¶ 11-16].  Bard’s assessment is supported by the fact that Hussey’s 
+comments undermined the Department’s stated goals.                        
+The heightened scrutiny on Hussey’s public comments is connected to the fact that a 
+police officer is an especially public-facing role, and “[t]he more the employee's job requires . . . 
+public contact, the greater the state’s interest” in disciplining them for comments that are 
+offensive.  Grutzmacher v. Howard Cnty., 851 F.3d 332, 346 (4th Cir. 2017) (quoting McEvoy v. 
+Spencer, 124 F.3d 92, 103 (2d Cir. 1997) (citation omitted)).  The Fourth Circuit noted this in 
+Grutzmacher, wherein a firefighter was terminated for several offensive comments he made on 
+his Facebook page.  Grutzmacher, 851 F.3d at 346.  The court dismissed plaintiff’s claim therein, 
+in part, because the plaintiffs’ job required him to safeguard public opinion about his role; by 
+making comments which jeopardized the public’s trust in firefighters, he frustrated the Fire 
+Department’s public safety mission.  Id.  This difference is also what separates Hussey’s case 
+here from the District of Massachusetts’ decision in Hayes v. Mass. Bay Transp. Auth., which 
+also addressed restrictions on government speech.  498 F. Supp. 3d at 236.20   Hayes concerned 
+                                            19F                      
+comments made in the workplace by a 911 operator, rather than someone in a public-facing role.  
+As a police officer, Hussey’s work is public-facing and thus more scrutiny is placed upon his 
+comments that are made in public, or in the semi-public sphere of social media.  Hussey’s post 
+may have been on his private Facebook page, but it was shared online with hundreds of people.  
+While he may have believed his post was only shared among his friends, it led to a community 
+response, through NAACP officers, which then reached his police commissioner.   
+This Court’s conclusion is reached as a matter of law, after weighing Hussey’s interest in 
+his post against his employer’s interest in the potential damage it could have caused.  See Curran, 
+509 F.3d at 50.  Maintaining the public’s confidence in the Cambridge Police Department is part 
+
+of Hussey’s job responsibilities; therefore, the Departments’ objections to the content of 
+Hussey’s statement is invariably linked to their concern about its impact on their image.  On that 
+issue, with greater deference afforded to law enforcement and with the record clear regarding the 
+
+
+20 Additional factual differences further separate this case from Hayes.  In Hayes, 911 call center operator Mark 
+Hayes was overheard saying “she should go back to Africa” in response to a news broadcast in which a naturalized 
+citizen from the Democratic Republic of Congo criticized US immigration policy.  498 F. Supp. 3d at 227.  The 
+remark caused a “ruckus” in the call center and plaintiff was fired thereafter; Hayes then sued alleging his First 
+Amendment rights had been violated.  Id.  The court therein held that there was a jury question as to whether the 
+motivation of the employer in terminating the employee was either based on their personal objection to his statement 
+or on their concern for the workplace disruption it could cause.  Id. at 234.  The possibility that it was the former 
+was supported in part by the fact that the manager did not speak with other employers before terminating Hayes and 
+because Hayes did not receive an opportunity to apologize to his coworkers who heard the comment—which could 
+have impacted the degree of workplace disruption.  Id.  Additionally, there was a question of fact as to whether 
+Hayes’s statement was made to himself or to others, which would have altered the degree of First Amendment 
+protection it would have received.  Id. at 233.                           
+objections raised about Hussey’s post by both Bard and members of the public, this case does not 
+present a factual dispute which a jury need resolve.                      
+Plaintiff draws an analogy here to Ninth Circuit and Third Circuit authority, but the cases 
+he highlights do not control here because of the differences in procedural posture and the 
+
+evidence demonstrating potential disruption.  In Moser, a Las Vegas SWAT sniper was 
+dismissed from his team because of a comment he made on his Facebook page, including that “it 
+was a ‘shame’ that a suspect who had shot a police officer did not have any ‘holes’ in him.”  984 
+F.3d at 902.  The Ninth Circuit reversed the District Court’s decision because there was a factual 
+dispute over the meaning of his Facebook comments and because the Defendant did not provide 
+sufficient evidence to show the comments would have caused disruption.  Id. at 908, 910.  
+However, there was no indication of disruption either internally or externally.  Id. at 909-11.  The 
+post was brought to the department’s attention through an anonymous comment, but otherwise 
+the record failed to show that anyone else saw the comment.  Id. at 910.  Therefore, in Moser, 
+“the public did not see or hear the offending comment, which lessen[ed] the potential impact on 
+
+the agency’s reputation or mission.”  Id. at 911.  Not so here.  Hussey’s post may have been up 
+for a short time, but it was put into the public sphere long enough to attract a controversy that 
+could have negatively impacted the Cambridge Police Department.  [See Dkts. 43 at ¶¶ 17, 19-
+21; 52 at ¶ 68; 39 at ¶¶ 24-26].                                          
+ In Fenico, the Third Circuit reversed the dismissal of a First Amendment retaliation 
+claim brought by a group of police officers who had made social media posts that were clearly 
+“offensive, racist, and violent.”  Fenico, 70 F.4th at 153.  That initial dismissal came at the 
+motion to dismiss stage with an undeveloped factual record and wherein the appellate court had 
+to view the allegations in the light most favorable to the officers.  Id. at 155.  Thus, the court had 
+to assume “that their posts had not and would not disrupt [Philadelphia Police Department] 
+operations.”  Id. at 167 (emphasis in original).  This Court used similar reasoning when it denied 
+the Defendants’ Motion to Dismiss.  [Dkt. 25 at 13].  While the Court here must still evaluate 
+Defendant’ Motion for Summary Judgment by viewing “the record and [drawing] all reasonable 
+
+inferences therefrom in the light most favorable” to Plaintiff, the facts it is evaluating are based 
+on a developed factual record which details the reaction from community members.  Hevia, 602 
+F.3d at 40.  As such, the Court is no longer required to presume that no disruption would take 
+place.                                                                    
+Cambridge Police Department’s Failure to Address Other Comments           
+Finally, the government’s claims are not weakened by their failure to take action in other 
+instances where officers made similar comments.  Such evidence of the “failure to target equally 
+disruptive speech is probative” of the legitimacy, or lack thereof, of Defendants’ predictions of 
+disruption.  Amalgamated Transit Union Loc. 85 v. Port Auth. of Allegheny Cnty., 39 F.4th 95, 
+107 (3d Cir. 2022) (quoting Lodge No. 5 of Fraternal Ord. of Police ex rel. McNesby v. City of 
+
+Phila., 763 F.3d 358, 384 (3d Cir. 2014)).  In other words, if Plaintiff demonstrates that 
+Defendants failed to address similar comments by other employees, it calls into question whether 
+the motivation for the disciplinary action was for reasons other than those provided—such as 
+their personal disagreement with the Plaintiff’s message.  The issue here, however, is that the 
+examples cited by Plaintiff either differ in terms of the Department’s authority over them or 
+show that some disciplinary measures were indeed taken.  Jack Albert, who posted a tweet on the 
+department’s official Twitter page calling Congressmen Joe Kennedy III a “liberal [****]ing 
+jerk” received a five-day suspension for his post, although he was not placed on administrative 
+leave initially.  [Dkt. 43 at ¶¶ 37-39].  The Cambridge Police Department did, in fact, fail to 
+investigate who wrote a tweet on the Cambridge Police Patrol Officers Association’s account 
+warning about a “purge” of killings it predicted would follow the passing of a proposed police 
+reform bill.  [Dkt. 43 at ¶¶ 40-41].  However, the Patrol Officers Association is a separate and 
+distinct entity.  Plaintiff has not persuaded the Court that the Police Department’s failure to 
+
+investigate the anonymous Association’s tweet is comparable to Hussey’s Facebook post, as 
+there is no evidence provided in the record of any backlash, internally or externally, to the 
+Association’s tweet.  The same is true of an unnamed officer who made a “deeply disturbing” 
+social media post in praise of political violence.  [See Dkt. 43 at ¶ 43].  These parallel examples 
+the Plaintiff highlights are notable, but because details about them are so limited they are not 
+sufficient to create a material dispute of facts as to the legitimacy of Defendants’ predictions of 
+disruption.  The Court reaches the same conclusion regarding the facts about both Hussey and 
+Commissioner Elow using derogatory language, such as “crackheads,” to describe drug users.  
+[Dkt. 43 at ¶¶ 46, 48-49].                                                
+IV.  CONCLUSION                                                           
+
+Ensuring the free participation of the people in discussions of public affairs is of 
+paramount importance—including for individuals who are employed by the public.  The Court 
+recognizes a limited exception to that principle here because the Defendants’ disciplinary actions 
+were reasonably calculated to prevent disruption to the Cambridge Police Department, via a 
+further breakdown of trust from community members, that Plaintiff’s comments could have 
+caused.  For this, and the additional reasons stated above, the Defendants’ Motion for Summary 
+Judgment [Dkt. 37] is GRANTED and Plaintiff’s Partial Motion for Summary Judgment [Dkt. 
+41] is DENIED.  This matter is DISMISSED.                                 
+SO ORDERED.                                                          
+Dated: March 12, 2024                   /s/ Angel Kelley                   
+                                   Hon. Angel Kelley                 
+                                   United States District Judge
+
+---
+
+UNITED STATES DISTRICT COURT                            
+              DISTRICT OF MASSACHUSETTS                              
+____________________________________                                      
+                         )                                           
+BRIAN HUSSEY,                 )                                           
+                         )                                           
+     Plaintiff,          )                                           
+                         )                                           
+                         )                                           
+v.                            )                                           
+                         )    Civil Action No. 21-CV-11868-AK        
+CITY OF CAMBRIDGE and         )                                           
+BRANVILLE BARD, individually and  )                                       
+in his capacity as Commissioner of the   )                                
+Cambridge Police Department,    )                                         
+                         )                                           
+     Defendants.         )                                           
+                                                                   ) 
+
+               MEMORANDUM AND ORDER                                  
+A. KELLEY, D.J.                                                           
+Brian Hussey (“Hussey”), a police officer for the City of Cambridge Police Department 
+(“CPD”), brings this action, pursuant to 42 U.S.C. § 1983, against the City of Cambridge (the 
+“City”) and Branville Bard (“Bard”), the previous Commissioner of the CPD, in his individual 
+and official capacities, alleging that the defendants violated his First Amendment right to 
+freedom of speech.  The defendants filed a motion to dismiss [Dkt. 9], which Hussey opposes.  
+For the reasons that follow, the defendants’ motion to dismiss [Dkt. 9] is GRANTED IN PART 
+and DENIED IN PART.                                                       
+I.   Factual and Procedural Background                                    
+Unless otherwise noted, the facts are recited as alleged in Hussey’s complaint.  [See Dkt. 
+1 (“Complaint”)].  Hussey has worked as a police officer for the CPD for twenty-four years.  [Id. 
+at ¶ 1].  Hussey maintains a private Facebook page, which does not identify him as a police 
+officer, where he occasionally posts personal and political comments or articles.  [Id. at ¶ 9].  On 
+or about February 25, 2021, while off duty, Hussey posted an article titled “House Democrats 
+Reintroduce Police Reform Bill Named in Honor of George Floyd,” along with the comment, 
+“This is what its [sic] come to ‘honoring’ a career criminal, a thief and druggie . . . the future of 
+this country is bleak at best.”  [Id. at ¶¶ 10-11].  Hussey states that the motivation behind this 
+
+post was his “concern[] as a private citizen that an important act of Congress would be named ‘in 
+honor’ of someone who was reported to have a criminal record.”  [Id.].  Hussey took the post 
+down approximately two hours after posting.  [Id. at ¶ 12].  In March 2021, Bard informed 
+Hussey that he was being placed on administrative leave because of the Facebook post.  [Id. at 
+¶ 13].  Hussey was on administrative leave for two months before receiving a four-day 
+suspension.  [Id.].  Hussey claims that this punishment violated his First Amendment right to the 
+freedom of speech and seeks monetary damages in addition to declaratory and injunctive relief.  
+[Id. at ¶¶ 14-16].                                                        
+The defendants moved to dismiss Hussey’s complaint pursuant to Federal Rule of Civil 
+Procedure 12(b)(6).  [Dkt. 9].  Hussey opposed that motion.  [Dkt. 13].  The Court held a motion 
+hearing on September 26, 2022.1                                           
+
+II.  Legal Standard                                                       
+To survive a motion to dismiss under Federal Rule of Civil Procedure 12(b)(6), a 
+complaint must allege sufficient facts to state a claim for relief that is “plausible on its face” and 
+actionable as a matter of law.  Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) (quoting Bell Atl. 
+
+
+1 Shortly after filing his opposition, Hussey moved to supplement and amend his complaint.  [Dkt. 14].  In 
+his proposed amended complaint, Hussey does not allege any new underlying facts related to the 
+Facebook post or suspension.  Instead, he adds claims that he was denied a promotion to sergeant in April 
+2022, after filing this suit, because of the discipline he received in response to the Facebook post.  [Dkt. 
+14-1 at ¶ 18].  At the motion hearing on September 26, 2022, counsel informed the Court that Hussey had 
+since been promoted to sergeant and Hussey’s counsel therefore intended to withdraw the motion to 
+amend the complaint.  As such, the Court denied as moot Hussey’s motion to amend.  [See Dkt. 24]. 
+Corp. v. Twombly, 550 U.S. 544, 570 (2007)).  Reading the complaint “as a whole,” the Court 
+must conduct a two-step, context-specific inquiry.  García-Catalán v. United States, 734 F.3d 
+100, 103 (1st Cir. 2013).  First, the Court must perform a close reading of the complaint to 
+distinguish factual allegations from conclusory legal statements.  Id.  Factual allegations must be 
+
+accepted as true, while legal conclusions are not entitled to credit.  Id.  A court may not disregard 
+properly pleaded factual allegations even if actual proof of those facts is improbable.  Ocasio-
+Hernández v. Fortuño-Burset, 640 F.3d 1, 12 (1st Cir. 2011).  Second, the Court must determine 
+whether the factual allegations present a “reasonable inference that the defendant is liable for the 
+misconduct alleged.”  Haley v. City of Bos., 657 F.3d 39, 46 (1st Cir. 2011) (citation omitted).  
+Dismissal is appropriate when the complaint fails to allege a “plausible entitlement to relief.”  
+Rodriguez-Ortiz v. Margo Caribe, Inc., 490 F.3d 92, 95 (1st Cir. 2007) (quoting Bell Atl. Corp. 
+v. Twombly, 550 U.S. 544, 559 (2007)).  When resolving a motion to dismiss under Federal Rule 
+of Civil Procedure 12(b)(6), the Court is generally limited to “the complaint, documents attached 
+to it, and documents expressly incorporated into it,” Foley v. Wells Fargo Bank, N.A., 772 F.3d 
+
+63, 71-72 (1st Cir. 2014), though the Court may also consider “matters of public record[] and 
+other matters susceptible to judicial notice,” Newton Covenant Church v. Great Am. Ins. Co., 
+956 F.3d 32, 35 (1st Cir. 2020).                                          
+III.  Discussion                                                          
+Hussey brings this action pursuant to 42 U.S.C. § 1983.  Section 1983 provides that 
+“[e]very person” acting “under color of any statute, ordinance, regulation, custom, or usage of 
+any State or Territory or the District of Columbia” who subjects or causes to subject someone “to 
+the deprivation of any rights, privileges, or immunities secured by the Constitution and laws” of 
+the United States shall be liable to the injured party.  42 U.S.C. § 1983.  An individual asserting a 
+Section 1983 claim must show that the challenged conduct is “attributable to a person acting 
+under color of state law” and that the conduct was a “denial of rights secured by the Constitution 
+or by federal law.”  Soto v. Flores, 103 F.3d 1056, 1061 (1st Cir. 1997); see Graham v. Connor, 
+490 U.S. 386, 393-94 (1989) (explaining that Section 1983 is “not itself a source of substantive 
+
+rights, but merely provides a method for vindicating federal rights elsewhere conferred” (citation 
+omitted)).  In this case, the defendants do not dispute that they were acting “under color of state 
+law.”  Rather, they contend that the injuries alleged do not amount to a violation of Hussey’s 
+First Amendment rights because he was not engaged in protected speech.2  In the alternative, 
+they argue that Bard did not have final policymaking authority over the disciplinary action taken, 
+and the City therefore cannot be held liable pursuant to Section 1983, and that Bard is entitled to 
+qualified immunity, which “protects government officials . . . from suit and liability for monetary 
+damages under [Section] 1983,” as to the individual capacity claim against him.  Acevedo-Garcia 
+v. Vera-Monroig, 204 F.3d 1, 10 (1st Cir. 2000)).  Hussey counters that he was engaged in 
+protected speech and that Bard was the final policymaking authority as to officer discipline and 
+
+is not entitled to qualified immunity.  [Dkt. 13 at 1-4].                 
+A.  Protected Speech                                                 
+The threshold question is whether Hussey has alleged facts sufficient to plead a First 
+Amendment violation, which requires the speech at issue to be protected.  Although public 
+employees like Hussey “do not forfeit all of their First Amendment rights by undertaking public 
+employment,” the protection public employees enjoy “against speech-based reprisals is 
+qualified.”  Decotiis v. Whittemore, 635 F.3d 22, 29 (1st Cir. 2011) (citing Mercado-Berrios v. 
+Cancel-Alegria, 611 F.3d 18, 25-26 (1st Cir. 2010)).  Government employees “often occupy 
+
+2 The First Amendment was incorporated against the states by the Due Process Clause of the Fourteenth 
+Amendment.  See Grosjean v. Am. Press Co., 297 U.S. 233, 243 (1936).      
+trusted positions in society” and when they speak out “they can express views that contravene 
+governmental policies or impair the proper performance of governmental functions.”  Garcetti v. 
+Ceballos, 547 U.S. 410, 419 (2006); see Curran v. Cousins, 509 F.3d 36, 47 (1st Cir. 2007).  
+Consequently, when a citizen “enters government service, the citizen by necessity must accept 
+
+certain limitations on his or her freedom.”  Garcetti, 547 U.S at 418.  The Court must apply a 
+three-part test to determine whether a government employer has violated an employee’s right to 
+free speech by taking an adverse action against him, considering whether (1) the employee spoke 
+as a citizen on “a matter of public concern”; (2) the government employer had an “adequate 
+justification for treating the employee differently from any other member of the general public,” 
+that is, whether the interests of the employee and public “outweigh the government’s interest in 
+functioning efficiently”; and (3) whether the protected speech “was a substantial motivating 
+factor in the adverse action” against the employee.  Bruce v. Worcester Reg’l Transit Auth., 34 
+F.4th 129, 135, 138 (1st Cir. 2022); see also Borrás-Borrero v. Corporación del Fondo del 
+Seguro del Estado, 958 F.3d 26, 34 (1st Cir. 2020) (citing Rosado-Quiñones v. Toledo, 528 F.3d 
+
+1, 15 (1st Cir. 2008)); Decotiis, 635 F.3d at 29.                         
+The parties here do not dispute the first and third elements.  Therefore, the Court’s 
+analysis will focus on the second element, often referred to as the “Pickering test”: balancing the 
+employee and the public’s interests in the employee’s speech against the “interest of the 
+[government], as an employer, in promoting the efficiency of the public services it performs 
+through its employees.”  Jordan v. Carter, 428 F.3d 67, 73 (1st Cir. 2005) (citing Pickering v. Bd. 
+of Educ., 391 U.S. 563, 568 (1968)).  The resolution of this inquiry is a matter of law for the 
+Court to decide, id., though it does require a “look at the facts of the case, including the nature of 
+the employment and the context in which the employee spoke,” Hayes v. Mass. Bay Transp. 
+Auth., 498 F. Supp. 3d 224, 232 (D. Mass. 2020).  As part of this inquiry, the Court considers the 
+“time, place, and manner of the employee’s speech” and the interests of the government, 
+including its motivation, when making the adverse employment decision.  Bruce, 34 F.4th at 138 
+(citing Decotiis, 635 F.3d at 35).  This balancing test reflects the fact that government employers 
+
+“like private employers, need a significant degree of control over their employees’ words and 
+actions,” because “without it, there would be little chance for the efficient provision of public 
+services.”  Garcetti, 547 U.S. at 418.                                    
+The defendants argue that Hussey’s Facebook post does not constitute protected speech 
+because the interests of the City in “maintaining a police department free of bias and in 
+maintaining public trust far outweigh” Hussey’s interests.  [Dkt. 10 at 5-10].   Hussey counters 
+that he has alleged facts sufficient to survive dismissal, namely, that his Facebook post is 
+protected speech, and the defendants have not shown that his speech caused or risked causing 
+any disruption to their government interest.  [Dkt. 13 at 6, 12-13].      
+     1.  Hussey’s Interest                                           
+
+At the heart of Hussey’s speech is the murder of George Floyd, an African-American 
+man, who was killed by then-Officer Derek Chauvin (“Chauvin”) on May 25, 2020, while in the 
+custody of the Minneapolis Police Department.3  See Armstrong v. City of Minneapolis, 525 F. 
+Supp. 3d 954, 957 (D. Minn. 2021); see also How George Floyd Died, and What Happened 
+Next, N.Y. Times, https://www.nytimes.com/article/george-floyd.html [hereinafter “N.Y. Times 
+Article”]; House Democrats Reintroduce Police Reform Bill Named in Honor of George Floyd, 
+
+
+3 Officer Chauvin was found guilty of second-degree murder, third-degree murder, and second-degree 
+manslaughter for the death of George Floyd on April 20, 2021.  See State v. Chauvin, No. 27-cr-20-12646 
+(Minn. Apr. 20, 2021); see also N.Y. Times Article (noting that Chauvin was found guilty of second-
+degree murder, third-degree murder, and second-degree manslaughter after “a weekslong trial” and 
+sentenced to 22.5 years in prison).                                       
+CNN (February 25, 2021), https://whdh.com/news/politics/house-democrats-reintroduce-police-
+reform-bill-named-in-honor-of-george-floyd/ [hereinafter “CNN WHDH Article”].4  The cell 
+phone video of Chauvin, a white police officer, “kneeling on George Floyd’s neck for several 
+minutes” while George Floyd was handcuffed, pinned to the ground, and “begged for his life” as 
+
+other officers stood by and watched was “circulated nationwide and ignited protests across the 
+country” and internationally.  Black Lives Matter L.A. v. City of L.A., No. 20-cv-05027, 2021 
+WL 3163309, at *1 (C.D. Cal. May 10, 2021); see also N.Y. Times Article; CNN WHDH 
+Article.  Although Chauvin and the other officers involved were eventually arrested and charged 
+with George Floyd’s murder, protests peaceful and violent continued throughout the country and 
+abroad in the following months.  See N.Y. Times Article; CNN WHDH Article.  While the 
+majority of the protests were peaceful, some turned violent.  Law enforcement was criticized by 
+some for responding to the majority peaceful protests with force, including the use of tear gas 
+and shooting of rubber bullets, and with mass arrests.  N.Y. Times Article.  The National Guard 
+was activated in at least twenty-one states, and cities enacted curfews as protestors and law 
+
+enforcement clashed.  See id.  Businesses were set on fire and vandalized, and a Minneapolis 
+police station was burned down.  Id.                                      
+These “large protests against police brutality and systematic racism” led “to a racial 
+justice movement not seen since the civil rights protests of the 1960s.”  N.Y. Times Article; see 
+CNN WHDH Article; see also Huffman v. City of Boston, No. 21-cv-10986-ADB, 2022 WL 
+
+4 The parties did not object when the Court informed them at the motion hearing that it intended to take 
+judicial notice of these two articles, the first of which is referenced in the defendants’ papers, and the 
+second of which is referenced in the plaintiff’s complaint.  See Watterson v. Page, 987 F.2d 1, 3 (1st Cir. 
+1993) (noting that courts may consider “documents the authenticity of which are not disputed by the 
+parties,” “official public records,” “documents central to [the plaintiff’s] claims,” and “documents 
+sufficiently referred to in the complaint” when evaluating a motion to dismiss); see also Madison v. Cruz, 
+393 F. Supp. 3d 135, 137 n.2 (D. Mass. 2019) (noting that “[o]ther courts have also taken judicial notice 
+of newspaper articles and press releases . . . when their conten[t]s cannot be reasonably questioned”).   
+2308937, at *1 (D. Mass. June 27, 2022) (“[George Floyd’s] unjust death at the hands of police 
+sparked protests around the country that called attention to the disparate treatment of people of 
+color by law enforcement and demanded justice and police reform.”).  The bill introduced by 
+Congress—the subject of the article posted by Hussey—included provisions to overhaul the 
+
+qualified immunity defense for law enforcement and establish a national registry of police 
+misconduct; prohibitions on racial profiling and no-knock warrants in federal drug cases; and a 
+ban on chokeholds at the federal level, classifying them as a civil rights violation.  CNN WHDH 
+Article.                                                                  
+Considering the impact of George Floyd’s murder on American society, Hussey’s 
+Facebook post spoke broadly to several topics—use of force by law enforcement, police reform, 
+and racial justice—on which “free and open debate is vital to informed decision-making.”  
+Pickering, 391 U.S. at 571.  Viewed in that light, the value of the speech is high, as the public 
+“also had a non-trivial interest in the information” conveyed.  Decotiis, 635 F.3d at 36.  
+However, the Court must also “factor in particulars such as the nature of the comments and the 
+
+motivation behind the speech.”  Jordan, 428 F.3d at 74.  Here, Hussey “put [the] pejorative 
+labels” of “career criminal,” “thief,” and “druggie” on George Floyd, a victim of murder at the 
+hands of those obliged to protect and serve the public, and whose unjust death sparked a global 
+movement calling for police reform and racial justice.  Curran, 509 F.3d at 45 (citing Jordan, 428 
+F.3d at 74).  Employee speech that is done in a “vulgar, insulting, and defiant” manner is 
+generally “entitled to less weight in the Pickering balance.”  Jordan, 428 F.3d at 74 (citing 
+Stanley v. City of Dalton, 219 F.3d 1280, 1290 (11th Cir. 2000)); see Snipes v. Volusia County, 
+704 Fed. Appx. 848, 854 (11th Cir. 2017) (noting that there “are many ways to communicate 
+ones’ thoughts, and the vulgar, derogatory phrases used by [the employee] weigh against him”).  
+Still, the Court acknowledges that George Floyd’s past, who is at the center of Hussey’s speech, 
+is “potentially of public concern” as it relates to any perceived message sent by the federal 
+legislature.  Jordan, 428 F.3d at 74.                                     
+Hussey’s motive for speaking must also be considered.  Id.  Hussey claims that his 
+
+Facebook post was intended to express his concern “that an important act of Congress would be 
+named ‘in honor’ of someone who was reported to have a criminal record.”  [Complaint at ¶ 11].  
+At this stage, the Court must accept Hussey’s statement as true without evaluating his credibility.  
+See García-Catalán, 734 F.3d at 103.  Hussey’s speech, then, intended to express disapproval of 
+Washington politics, including legislative naming conventions, a “topic[] of value in the civil 
+discourse,” and “provid[ed] information in which there was a legitimate public interest.”  Curren, 
+509 F.3d at 48.  Still, on its face, Hussey’s post was “open to [] many controversial 
+interpretations” and “was likely offensive to some members of the public” and fellow officers in 
+the CPD.  Duke v. Hamil, 997 F. Supp. 2d 1291, 1302 (N.D. Ga. 2014) (dismissing a veteran 
+police officer’s First Amendment claim where the officer posted an image of the Confederate 
+
+flag accompanied by the phrase, “It’s time for the second revolution,” on his private Facebook 
+page).  The very fact that his message could be misinterpreted by the public and police staff 
+speaks to the defendants’ interests in regulating such speech.  See id.   
+As to the time and place of Hussey’s Facebook post, Hussey uploaded the article and his 
+comment to his private Facebook page, which he states does not identify him as a police officer, 
+while off duty, and he removed the post a few hours later.  [Complaint at ¶¶ 9-12].  This 
+generally weighs in Hussey’s favor.  Yet the post clearly came to Bard’s attention despite 
+Hussey’s efforts to delete the post, which “illustrates the very gamble individuals take in posting 
+content on the Internet and the frequent lack of control one has over its further dissemination.”  
+Duke, 997 F. Supp. 2d at 1302.  Hussey could not prevent anyone from sharing, copying, or 
+forwarding his message to others, even if he set his Facebook page at the strictest privacy 
+settings.  Moreover, Hussey’s post came less than a year after George Floyd’s murder and the 
+summer of unprecedented worldwide protests and barely a week before Chauvin’s Minnesota 
+
+trial for George Floyd’s murder began.  See State v. Chauvin, No. 27-cr-20-12646 (Minn.) (trial 
+beginning on March 8, 2021).                                              
+As a whole, the value of Hussey’s speech, including his use of derogatory, pejorative 
+labels, was not particularly high, though it was also not without any value.  See McGunigle v. 
+City of Quincy, 132 F. Supp. 3d 155, 172 (D. Mass. 2015) (noting that the “greater the value of 
+the subject of the speech to the public, the more the balance tilts” in the employee’s favor (citing 
+Guilloty Perez v. Pierluisi, 339 F.3d 43, 53 (1st Cir. 2003))).  The question is whether the 
+government’s interest outweighs Hussey’s.                                 
+     2.  The Government’s Interest                                   
+When evaluating the government’s interest in regulating employee speech, the Court 
+
+must consider “the government’s interest in the effective and efficient fulfillment of its 
+responsibilities to the public” and its “legitimate purpose” in promoting “efficiency and integrity 
+in the discharge of official duties” and “proper discipline in the public service.”  Connick, 461 
+U.S. 138, 150-51 (1983) (citing Ex parte Curtis, 106 U.S. 371, 373 (1882)).  The First Circuit 
+and other courts have recognized that the government’s interest is “particularly acute in the 
+context of law enforcement,” where there is a “heightened interest” in “maintaining discipline 
+and harmony among employees.”  Jordan, 428 F.3d at 74 (citing Moore v. Wynnewood, 57 F.3d 
+924, 934 (10th Cir. 1995)); see, e.g., O’Donnell v. Barry, 148 F.3d 1126, 1135 (D.C. Cir. 1998) 
+(“[B]ecause of the special degree of trust and discipline required in a police force there may be a 
+stronger governmental interest in regulating the speech of police officers than in regulating the 
+speech of other governmental employees.”).  The defendants contend that they have “a strong 
+interest in maintaining a police department free of bias and maintaining public trust” and that the 
+defendants can “effectively provide the critical public safety services of its police department” 
+
+only if “its officers are unbiased and the public has trust in the officers.”  [Dkt. 10 at 8-9].   
+Hussey counters that the defendants’ “speculation about workplace disruption is not sufficient” 
+and “language that is considered to be inflammatory is simply not enough to establish that the 
+speech will sufficiently impact the operations of a public employer.”  [Dkt. 13 at 13-14]. 
+Hussey’s Facebook post “on its face . . . could convey a drastically different message 
+with different implications” than his intended disapproval of Washington politics and legislative 
+naming conventions.  Duke, 997 F. Supp. 2d at 1301.  George Floyd’s murder is inextricably tied 
+to discussions about police brutality and racial justice, and it is a topic that may be deemed 
+“controversial, divisive, and prejudicial.”  Id.  It is not unreasonable to conclude that Hussey’s 
+comments could sow discord among his fellow officers, and his senior status on the force could 
+
+only heighten this friction.  See id. at 1303.  Indeed, Hussey’s Facebook post came to Bard’s 
+attention, which suggests that at least one person was concerned about its effect on the CPD.  
+When trust among officers can literally save—or ruin—lives, law enforcement understandably 
+must be careful to monitor charged statements that risk dividing the force’s ranks.  
+Also of tantamount importance to any police department is ensuring that the public 
+perceives its officers and their enforcement of the law to “be even-handed and fair,” McGunigle, 
+132 F. Supp. 3d at 173, as the “promotion of safety of persons and property is unquestionably at 
+the core of the State’s police power,” Kelley v. Johnson, 425 U.S. 238, 247 (1976).  Police 
+officers “are quintessentially public servants” and “part of their job is to safeguard the public’s 
+opinion of them, particularly with regard to a community’s view of the respect that police 
+officers . . . accord the members of that community.”  Locurto v. Giuliani, 447 F.3d 159, 178-79 
+(2d Cir. 2006); see Duke, 997 F. Supp. 2d at 1301.  Hussey’s Facebook post had the potential to 
+damage CPD’s reputation and to undermine the community’s confidence in CPD’s willingness to 
+
+fulfill its duty to protect all members of the community and respect the constitutional rights of 
+those in its custody.  See Snipes, 704 Fed. Appx. at 853.  People in the community could take 
+offense to Hussey’s speech “not just because they disapprove of it, but because it raises concerns 
+of [Hussey’s] prejudice—and the [police] [d]epartment’s.”  Duke, 997 F. Supp. 2d at 1302.  A 
+police department and the public must be able to trust that officers will not justify the use of 
+unlawful force or other illicit disparate treatment or targeting of individuals because of their race 
+and backgrounds.                                                          
+Still, the Court must consider whether the defendants’ predictions about the disruption 
+Hussey’s speech would have on their interests were reasonable.  See Curran, 509 F.3d at 49 
+(noting that a government employer “need not show an actual adverse effect” on the public 
+
+employer’s operations to terminate an employee for something that employee said); see also 
+Sabatini v. Las Vegas Metro. Police Dept., 369 F. Supp. 3d 1066, 1077, 1091 (D. Nev. 2019); 
+Venable v. Metro. Gov’t of Nashville, 430 F. Supp. 3d 350, 360 (M.D. Tenn. 2019); Buker v. 
+Howard Cty., No. MJG-12-cv-03046, MJG-13-cv-03747, 2015 WL 3456750, at *12-13 (D. Md. 
+May 27, 2015).  Hussey’s complaint does not allege that any actual disruption or harm resulted 
+from Hussey’s Facebook post, nor do the defendants describe any such consequences.  There is 
+nothing to indicate that Hussey’s Facebook post was reported by local media, see Locurto, 447 
+F.3d at 165, undermined CPD outreach to the community, see Venable, 430 F. Supp. 3d at 360, 
+violated any CPD policies or diversity initiatives, see Hernandez v. City of Phx., 432 F. Supp. 3d 
+1049, 1067-68 (D. Ariz. 2020), or was talked about by his fellow officers, see Buker, 2015 WL 
+3456750, at *12, all of which could support the government’s prediction that Hussey’s speech 
+would harm its strong interest in maintaining the public trust and a bias-free police department.  
+While Hussey’s post could undermine the community’s trust in the CPD and relationships 
+
+between officers, resulting in “significant disruption and inefficiency,” the Court cannot, based 
+on the facts in the complaint before it, definitively resolve the close constitutional question of 
+whether “such a risk” outweighs the interests served by Hussey’s speech.  Decotiis, 635 F.3d at 
+36; Jordan, 428 F.3d at 74; see Gargano v. Liberty Int’l Underwriters, Inc., 572 F.3d 45, 48 (1st 
+Cir. 2009) (noting that the court must “accept as true all well-pleaded facts in the complaint and 
+draw all reasonable inferences in favor of the plaintiffs” at the motion to dismiss stage).  Given 
+that the Court must “indulge all inferences in favor of” Hussey at this stage, the complaint 
+sufficiently states a plausible claim to relief.  Id.  The Court cannot grant the defendants’ motion 
+to dismiss in its entirety.                                               
+B.  Bard’s Final Policymaking Authority                              
+
+The defendants alternatively argue that Bard did not have final policymaking authority 
+over the discipline of officers, and the City therefore cannot be held liable pursuant to Section 
+1983.  [Dkt. 10 at 11-13].  A municipality can be liable for a constitutional violation “only if the 
+violation occurs pursuant to an official policy or custom,” where the existence of an official 
+policy can be established by “showing that the alleged constitutional injury was caused by . . . a 
+person with final policymaking authority.”  Welch v. Ciampa, 542 F.3d 927, 941 (1st Cir. 2008) 
+(citations omitted).  A “single decision by municipal policymakers” can lead to municipal 
+liability when “the decisionmaker possesses final authority to establish municipal policy with 
+respect to the action ordered.”  Pembaur v. City of Cincinnati, 475 U.S. 469, 480-81 (1986).  
+Although the defendants claim that, as a matter of law, the City Manager, not Bard, had final 
+policymaking authority over Hussey’s discipline, the municipal charter provisions they cite in 
+support of that argument reference only appointments and removals.  [See Dkt. 10 at 11-12].  
+They say nothing of disciplinary decisions—and Hussey’s complaint challenges a suspension, 
+
+not a termination—and the defendants do not point to any other City official who does have the 
+final say in police officer discipline.  See Welch, 542 F.3d at 942 (“We are bound by Pembaur 
+and conclude that a single decision by a final policymaker can result in municipal liability.”).  
+The defendants’ arguments regarding final policymaking authority fall short, and the Court 
+denies the defendants’ motion to dismiss the claim against the City.5     
+C.  Qualified Immunity                                               
+The defendants also argue that the claim against Bard in his individual capacity must be 
+dismissed as he is entitled to qualified immunity.  [Dkt. 10 at 13-15].  Hussey responds that Bard 
+is not entitled to qualified immunity because he has asserted a valid First Amendment claim 
+against Bard, and his rights were clearly established at the time of the alleged violation.  [Dkt. 13 
+
+at 17-19].  Qualified immunity provides that “government officials performing discretionary 
+functions” are generally “shielded from liability for civil damages insofar as their conduct does not 
+violate clearly established statutory or constitutional rights of which a reasonable person would have 
+known.”  Floyd v. Farrell, 765 F.2d 1, 4 (1st Cir. 1985) (citing Harlow v. Fitzgerald, 457 U.S. 800, 
+818 (1982)).  Qualified immunity applies to claims against government officials in their individual 
+capacities, and not to official capacity claims.6  Febus-Rodriguez v. Betancourt-Lebron, 14 F.3d 87, 
+
+5 Because the Court has denied the defendants’ request to dismiss Hussey’s claim against the City, it will 
+not dismiss the official capacity claim against Bard.  [See Dkt. 10 at 12]. 
+6 The Court notes that the official capacity claim against Bard “in essence, is simply a claim against the 
+[m]unicipality,” as “an official capacity suit is, in reality, a suit against the governmental entity, [and] not 
+against the governmental actor.”  Febus-Rodriguez v. Betancourt-Lebron, 14 F.3d 87, 91 n.3 (1st Cir. 
+1994) (citations omitted).                                                
+91 n.3 (1st Cir. 1994) (citations omitted).  The Court must decide “(1) whether the facts alleged or 
+shown by the plaintiff make out a violation of a constitutional right; and (2) if so, whether the right 
+was ‘clearly established’ at the time of the defendant’s alleged violation.”  Maldonado v. Fontanes, 
+568 F.3d 263, 269 (1st Cir. 2009) (citing Pearson v. Callahan, 555 U.S. 223, 232, 236 (2009)).  To 
+answer the second question, the Court must evaluate whether, “in the specific context of the case,” 
+Decotiis, 635 F.3d at 36, the law was “sufficiently clear” such that “every reasonable official would 
+understand that what he is doing is unlawful,” Eves v. LePage, 927 F.3d 575, 583 (1st Cir. 2019) 
+
+(citation and internal quotation marks omitted).  In other words, immunity “exists even where the 
+abstract ‘right’ invoked by the plaintiff is well-established, so long as the official could reasonably 
+have believed ‘on the facts’ that no violation existed.”  Dirrane v. Brookline Police Dep’t, 315 F.3d 
+65, 69 (1st Cir. 2002) (citations omitted).  Courts need not follow the two-step analysis sequentially.  
+Maldonado, 568 F.3d at 270.                                               
+“The Supreme Court has ‘repeatedly told courts’ not to define the qualified immunity inquiry 
+‘at a high level of generality,’” Eves, 927 at 583 (citing City & Cty. of S.F. v. Sheehan, 575 U.S. 600, 
+613 (2015), and the First Circuit has observed that “[b]ecause Pickering’s constitutional rule turns 
+upon a fact-intensive balancing test, it can rarely be considered ‘clearly established’ for purposes of 
+qualified immunity,” Fabiano v. Hopkins, 352 F.3d 447, 457 (1st Cir. 2003) (citation omitted).  
+Though the Court has concluded that Hussey stated a plausible claim to relief such that it survives the 
+defendants’ motion to dismiss, the Court’s discussion of whether Hussey was engaged in protected 
+speech, and therefore whether Bard violated his First Amendment right, illustrates that the “state of 
+the law at the time of the alleged constitutional violation was not clear enough in the circuits 
+generally, and in this circuit particularly, to put [Bard] on fair notice that [his] actions constituted a 
+constitutional deprivation.”  Decotiis, 635 F.3d at 38.  A reasonable person in Bard’s position could 
+have believed that he was not violating Hussey’s rights by suspending him for his Facebook post.  
+See id.  Bard is entitled to qualified immunity here.  As such, the Court grants the defendants’ motion 
+to dismiss as to Bard in his individual capacity, though the official capacity claim against Bard 
+survives dismissal.                                                       
+IV.  Conclusion                                                           
+For the foregoing reasons, the defendants’ motion to dismiss [Dkt. 9] is GRANTED IN 
+PART and DENIED IN PART.  The claim against Bard in his individual capacity is 
+
+DISMISSED.  Hussey’s claim against the City of Cambridge remains, as does his claim against 
+Bard in his official capacity.                                            
+SO ORDERED.                                                          
+Dated: October 11, 2022                 /s/ Angel Kelley                   
+                                   Hon. Angel Kelley                 
+                                   United States District Judge

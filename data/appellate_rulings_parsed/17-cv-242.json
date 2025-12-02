@@ -1,0 +1,49 @@
+{
+  "overall_outcome": "MIXED",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the conditions of confinement in Q-Pod violated the Eighth Amendment prohibition on cruel and unusual punishment.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found no clearly established law that the level of isolation or toilet restrictions in Q-Pod constituted cruel and unusual punishment, so qualified immunity applied."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether Plaintiffs' confinement in Q-Pod without additional process violated their Fourteenth Amendment procedural due process rights.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that Plaintiffs failed to show that Q-Pod conditions imposed an atypical and significant hardship under clearly established law, so qualified immunity was appropriate."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether denial of access to congregate Native American religious services (sweat lodge and smudging) to two Plaintiffs violated their First Amendment free exercise rights.",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "The court found a clearly established right to participate in congregate religious services absent penological justification, and Defendants offered none, so qualified immunity did not apply to these claims."
+    },
+    {
+      "issue_id": 4,
+      "description": "Whether the district court properly declined supplemental jurisdiction over state-law claims after dismissing all federal claims.",
+      "standard_of_review": "de novo",
+      "holding": "REMAND",
+      "key_reasoning": "Because some federal claims are reinstated, the basis for declining supplemental jurisdiction no longer applies, so the state-law claims must be reinstated for further consideration."
+    }
+  ],
+  "key_precedents": [
+    "Ashcroft v. al-Kidd, 563 U.S. 731 (2011)",
+    "Salahuddin v. Coughlin, 993 F.2d 306 (2d Cir. 1993)",
+    "Sandin v. Conner, 515 U.S. 472 (1995)",
+    "Farmer v. Brennan, 511 U.S. 825 (1994)",
+    "Palmer v. Richards, 364 F.3d 60 (2d Cir. 2004)",
+    "Taylor v. Barkes, 575 U.S. 822 (2015)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "Nine Connecticut inmates claim that their confinement in a special housing unit called Q-Pod violated their constitutional rights. They sued prison officials under 42 U.S.C. \u00a7 1983, alleging violations of their First, Eighth, and Fourteenth Amendment rights. The district court (Chatigny, J.) granted Defendants\u2019 motion for summary judgment on qualified-immunity grounds.\n\nWe affirm as to Plaintiffs\u2019 Eighth Amendment and procedural due process claims, as well as the free exercise claims of seven of the nine Plaintiffs. But we reverse as to two Plaintiffs\u2019 free exercise claims alleging that Defendants denied their requests to participate in Native American sweat lodge and smudging practices, which are congregate religious services. Defendants offered no penological justification for the denials\u2014not to Plaintiffs, the district court, or this Court\u2014so their refusal to permit participation in religious congregation violated clearly established law. The judgment and order of the district court are AFFIRMED in part and REVERSED in part and the case is REMANDED with instructions to deny Defendants\u2019 motion as to Joe Baltas\u2019s and Joseph Tarasco\u2019s denial-of-congregation claims. We also VACATE the dismissal of Baltas\u2019s and Tarasco\u2019s state-law claims."
+}

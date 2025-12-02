@@ -1,0 +1,33 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the bankruptcy trustee (standing in the debtor's shoes) can avoid the extinguishment of the debtor's equity of redemption in real property under 11 U.S.C. \u00a7 544(a)(3) when the foreclosure deed was recorded without a certificate of acknowledgment, but an affidavit of sale was properly recorded.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that under Massachusetts law, the debtor's equity of redemption was extinguished at the foreclosure sale upon execution of the memorandum of sale, and the properly recorded affidavit of sale provided constructive notice of this extinguishment to a hypothetical bona fide purchaser, precluding avoidance under \u00a7 544(a)(3)."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the debtor's post-foreclosure interests (right to surplus proceeds and possessory interest) constitute 'transfers' that can be avoided under \u00a7 544(a)(3).",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found that there was no 'transfer' of these post-foreclosure interests to avoid, and that these limited rights do not revive the lost equity of redemption, so the debtor could not use them as a basis for avoidance."
+    }
+  ],
+  "key_precedents": [
+    "U.S. Bank, N.A. v. Desmond (In re Mbazira), 15 F.4th 106 (1st Cir. 2021)",
+    "Stern v. Cont\u2019l Assurance Co. (In re Ryan), 851 F.2d 502 (1st Cir. 1988)",
+    "Williams v. Resol. GGF OY, 630 N.E.2d 581 (Mass. 1994)",
+    "Bevilacqua v. Rodriguez, 955 N.E.2d 884 (Mass. 2011)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "This appeal arises out of an adversary action filed in a Chapter 13 proceeding in the U.S. Bankruptcy Court for the District of Massachusetts. Under the \"strong arm\" provision of the Bankruptcy Code, 11 U.S.C. \u00a7 544(a)(3), the debtor, Andy Luu Tran, seeks to avoid the transfer of his interest in his Massachusetts home (the \"Property\") because the foreclosure deed was recorded without an accompanying certificate of acknowledgment. The bankruptcy court granted summary judgment against Tran; the district court affirmed. Tran timely appealed. For the following reasons, we affirm the judgment of the bankruptcy court."
+}

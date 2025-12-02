@@ -1,0 +1,31 @@
+{
+  "overall_outcome": "REMAND",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court erred in concluding that the union's grievance over retiree benefits was not arbitrable under the expired collective bargaining agreement because the agreement did not vest retiree benefits beyond its expiration.",
+      "standard_of_review": "de novo",
+      "holding": "REMAND",
+      "key_reasoning": "The Second Circuit found that the union identified language in the CBA and incorporated plan documents that could reasonably be interpreted as promising vested benefits or deferred compensation, and that the reservation-of-rights clause did not unambiguously bar such an interpretation; thus, the dispute is arbitrable and should proceed to a trier of fact (arbitrator) to resolve the vesting question, possibly with extrinsic evidence."
+    }
+  ],
+  "key_precedents": [
+    "Litton Fin. Printing Div., Litton Bus. Sys., Inc. v. NLRB, 501 U.S. 190 (1991)",
+    "M & G Polymers USA, LLC v. Tackett, 574 U.S. 427 (2015)",
+    "CNH Indus. N.V. v. Reese, 583 U.S. 133 (2018)",
+    "Am. Fed\u2019n of Grain Millers v. Int\u2019l Multifoods Corp., 116 F.3d 976 (2d Cir. 1997)",
+    "Devlin v. Empire Blue Cross & Blue Shield, 274 F.3d 76 (2d Cir. 2001)",
+    "Kelly v. Honeywell Int\u2019l, Inc., 933 F.3d 173 (2d Cir. 2019)",
+    "Local Union 97, IBEW v. NRG Energy, Inc., 53 F.4th 42 (2d Cir. 2022)",
+    "Abbruscato v. Empire Blue Cross & Blue Shield, 274 F.3d 90 (2d Cir. 2001)",
+    "Nolde Brothers v. Local No. 358, Bakery & Confectionery Workers Union, 430 U.S. 243 (1977)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": true,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "Xerox Corporation (\u201cXerox\u201d) filed a petition, under Section 301 of the Labor Management Relations Act (\u201cLMRA\u201d), for injunctive and declaratory relief against Local 14A, Rochester Regional Joint Board, Xerographic Division Workers United (the \u201cUnion\u201d). After the collective bargaining agreement between Xerox and the Union expired, Xerox terminated retiree benefits. The Union argued that Xerox could not unilaterally terminate vested benefits and sought to enforce the expired agreement\u2019s arbitration provision. In its LMRA petition, Xerox sought to stay and enjoin arbitration.\n\nThe United States District Court for the Western District of New York (Geraci, J.) granted Xerox\u2019s petition, concluding that the Union\u2019s grievance was not arbitrable under the parties\u2019 expired collective bargaining agreement. The district court reasoned that the Union had failed to identify language in the agreement that could be understood to have promised vested benefits beyond the agreement\u2019s expiration, and, regardless, the reservation-of-rights clause in plan documents barred an interpretation that benefits had vested.\n\nOn appeal, the Union argues that the district court erred. We agree. First, the Union identified language that could be reasonably understood as guaranteeing benefits beyond the contract\u2019s expiration or as constituting deferred compensation. Second, the reservation-of-rights clause in plan documents did not conclusively bar an interpretation that benefits had vested. To discern the parties\u2019 intent, the appropriate trier of fact would need to consult extrinsic evidence.\n\nAccordingly, we VACATE the district court\u2019s judgment and REMAND for further proceedings."
+}

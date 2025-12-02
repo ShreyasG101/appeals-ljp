@@ -1,0 +1,1293 @@
+United States Court of Appeals
+                     For the First Circuit
+
+No. 24-1815
+
+              HOSPITAL AMERIMED CANCUN S A DE C V,
+
+                      Plaintiff, Appellant,
+
+                               v.
+
+                MARTIN'S POINT HEALTH CARE, INC.,
+
+                      Defendant, Appellee.
+
+
+
+No. 24-1816
+
+                  HOSPITAL QUIRURGICA DEL SUR,
+
+                      Plaintiff, Appellant,
+
+                               v.
+
+                MARTIN'S POINT HEALTH CARE, INC.,
+
+                      Defendant, Appellee.
+
+
+          APPEALS FROM THE UNITED STATES DISTRICT COURT
+                    FOR THE DISTRICT OF MAINE
+
+           [Hon. Lance E. Walker, U.S. District Judge]
+
+
+                              Before
+
+                Montecalvo, Kayatta, and Aframe,
+                         Circuit Judges.
+
+
+     Mark A. Darling, with whom Litchfield Cavo, LLP was on brief,
+for appellants.
+     Brian P. Dunphy, with whom Nicole L. Masiello, Alexis P.
+Gannaway, Alex E. Sirio, and Arnold & Porter Kaye Scholer LLP were
+on brief, for appellee.
+
+
+                         August 19, 2025
+            AFRAME,   Circuit   Judge.    These   consolidated   appeals
+
+challenge the dismissals of two diversity actions brought by
+
+hospitals incorporated and operating in Mexico (together, the
+
+"Hospitals") against Martin's Point Health Care, Inc. ("Martin's
+
+Point"), a Maine health insurance company.          The district court
+
+dismissed both actions for lack of subject-matter jurisdiction,
+
+concluding that the Hospitals' negligent-misrepresentation and
+
+promissory-estoppel claims arose under the Medicare Act, such that
+
+the Hospitals were required to exhaust administrative remedies
+
+before suing Martin's Point in federal court.           See 42 U.S.C.
+
+§§ 405(g)-(h), 1395w-22(g)(5), 1395ii.       On appeal, the Hospitals
+
+contend that they were not required to exhaust administrative
+
+remedies because their claims do not arise under the Medicare Act.
+
+Alternatively, they argue that they should have been exempted from
+
+the exhaustion requirement because, as foreign hospitals, they
+
+cannot participate in Medicare's administrative-remedies process.
+
+We affirm.
+
+                                   I.
+
+            The facts and procedural history of the two appeals are
+
+similar.1    Each began with a Martin's Point enrollee seeking
+
+
+     1    We draw the facts from the Hospitals' complaints and
+extrinsic material considered by the district court. See Aversa
+v. United States, 99 F.3d 1200, 1209-10 (1st Cir. 1996).     The
+extrinsic material considered was certain correspondence from
+Martin's Point, as well as benefits-verification forms completed
+
+
+
+                                  - 3 -
+medical care from one of the plaintiff hospitals while in Mexico.
+
+Upon admission, the enrollees signed contracts obligating them to
+
+pay for all services rendered by the admitting hospital.                    They
+
+also   provided   information       about   their   Martin's    Point   medical
+
+insurance.      The Hospitals then each contacted Martin's Point
+
+through   the    same    third-party    administrator.         Martin's   Point
+
+allegedly represented to the administrator that the enrollees had
+
+"full medical insurance benefits for the . . . out of country
+
+emergency services proposed to be provided."              The administrator
+
+thereafter created verification-of-benefits forms stating that the
+
+enrollees' benefits were "unlimited."
+
+           Believing that the enrollees had "unlimited" benefits,
+
+the Hospitals provided them with extensive medical treatment.
+
+Partway through the enrollees' hospital stays, Martin's Point sent
+
+letters authorizing the stays for several days.                   The letters
+
+stated, however, that Martin's Point's authorization was "subject
+
+to Medicare coding requirements for coverage" and that "payment
+
+[wa]s based on the [enrollee's] eligibility and benefit coverage
+
+at the time of service."             When the Hospitals discharged the
+
+enrollees,      the     enrollees    had     incurred   medical     bills    of
+
+$2,132,982.98 and $512,464.00, respectively.            The Hospitals sought
+
+
+
+by a third-party administrator used by the Hospitals. No one
+contends on appeal that the court's consideration of these
+documents was improper.
+
+
+
+                                     - 4 -
+reimbursement from Martin's Point, but Martin's Point, asserting
+
+that the two enrollees' Medicare Advantage plans capped benefits
+
+for   out-of-country    medical     services     at   $25,000,    refused   to
+
+reimburse the Hospitals above that limit.
+
+            The Hospitals then commenced separate civil actions in
+
+the District of Maine against Martin's Point based on diversity
+
+jurisdiction, 28 U.S.C. § 1332, asserting Maine common-law claims
+
+for promissory estoppel and negligent misrepresentation (together,
+
+the "common-law claims").       The Hospitals' common-law claims rested
+
+on the same     premise:       By   misrepresenting to      the third-party
+
+administrator that its enrollees' medical insurance would fully
+
+cover the proposed course of treatment, Martin's Point had induced
+
+the Hospitals to provide non-reimbursable care to the enrollees.
+
+            Martin's   Point     moved    to   dismiss,   arguing    that   the
+
+Hospitals' common-law claims sought, at bottom,                reimbursement
+
+under the enrollees' Medicare Advantage plans.            And Martin's Point
+
+submitted that, because the Hospitals had not administratively
+
+exhausted    their   benefits    claims    under   the    Medicare   Act,   the
+
+district    court    lacked     subject-matter     jurisdiction      over   the
+
+actions.    See Fed. R. Civ. P. 12(b)(1).        Martin's Point also argued
+
+that the Hospitals' common-law claims failed to state claims for
+
+relief even if they were not construed as Medicare-benefits claims.
+
+See Fed. R. Civ. P. 12(b)(6).        The Hospitals opposed the motions,
+
+insisting that because they provided care outside the United States
+
+
+                                    - 5 -
+and sought recovery on common-law theories, they were not required
+
+to exhaust their claims through Medicare's appeals process.                The
+
+Hospitals also argued that their complaints plausibly alleged
+
+common-law claims for relief.
+
+            In   substantially      identical   memorandum    opinions,    the
+
+district court granted Martin's Point's motions to dismiss for
+
+lack of subject-matter jurisdiction.            See Hosp. Amerimed Cancun
+
+S A de C V v. Martin's Point Health Care, Inc., No. 23-cv-00258,
+
+2024 WL 1769171 (D. Me. Apr. 23, 2024) [hereinafter Amerimed I];
+
+Hosp. Quirurgica Del Sur v. Martin's Point Health Care, Inc., No.
+
+23-cv-00259, 2024 WL 1769183 (D. Me. Apr. 23, 2024) [hereinafter
+
+Quirurgica I].      The     court     first     described      the   general
+
+administrative-exhaustion requirements for claims arising under
+
+Medicare.    Amerimed I, 2024 WL 1769171, at *3-4; Quirurgica I,
+
+2024 WL 1769183, at *3-4.      Then, turning to the Hospitals' claims,
+
+the court concluded that, despite being styled as common-law causes
+
+of action, the claims sought to make Martin's Point "pay for
+
+services    provided   to   . . .    Medicare   Part    C   enrollee[s]"   and
+
+therefore arose under Medicare.         Amerimed I, 2024 WL 1769171, at
+
+*5; Quirurgica I, 2024 WL 1769183, at *5.              Because the Hospitals
+
+had not exhausted their administrative remedies under Medicare
+
+Part C before filing suit in federal district court, the court
+
+granted Martin's Point's motions and entered judgment dismissing
+
+
+
+
+                                     - 6 -
+each case.     See Amerimed I, 2024 WL 1769171, at *5; Quirurgica I,
+
+2024 WL 1769183, at *5.
+
+            The Hospitals subsequently moved to alter the judgments
+
+of dismissal, arguing that, as foreign hospitals, they could not
+
+participate in the Medicare Part C administrative-review process
+
+and   therefore   were    exempt     from     the    administrative-exhaustion
+
+requirement.      See    Fed.   R.   Civ.     P.    59(e).      In   substantially
+
+identical    memorandum    opinions,     the       district    court    denied   the
+
+motions.     See Hosp. Amerimed Cancun S A de C V v. Martin's Point
+
+Health Care, Inc., No. 23-cv-00258, 2024 WL 3759728 (D. Me. Aug.
+
+12, 2024) [hereinafter Amerimed II]; Hosp. Quirurgica Del Sur v.
+
+Martin's Point Health Care, Inc., No. 23-cv-00259, 2024 WL 3759746
+
+(D. Me. Aug. 12, 2024) [hereinafter Quirurgica II].                    It explained
+
+that by refusing to reimburse the Hospitals for the full value of
+
+the   services    rendered,      Martin's      Point     had     made    so-called
+
+"[o]rganization determinations" under Medicare Part C, which were
+
+subject to mandatory administrative appeal.                  Amerimed II, 2024 WL
+
+3759728, at *2; Quirurgica II, 2024 WL 3759746, at *2. And, noting
+
+that the Hospitals had failed to provide legal authority to support
+
+their argument that, by virtue of their foreign status, they were
+
+precluded from participating in the administrative-review process,
+
+the court concluded that the Hospitals had not shown that the
+
+dismissal of their complaints rested on a manifest error of law,
+
+as required by Rule 59(e).           Amerimed II, 2024 WL 3759728, at *2;
+
+
+                                      - 7 -
+Quirurgica II, 2024 WL 3759746, at *2.       The Hospitals timely
+
+appealed, and we have jurisdiction under title 28, section 1291.
+
+                               II.
+
+          As made applicable to Medicare Part C by title 42,
+
+section 1395w-22(g)(5), title 42, section 405(g) provides for
+
+judicial review of "final decision[s]" of the Secretary of Health
+
+and Human Services regarding the availability of Medicare Part C
+
+benefits and the amounts, if any, due in benefits reimbursement.
+
+Judicial review under section 405(g) is "ma[de] exclusive" by
+
+section 405(h), which strips federal jurisdiction over other civil
+
+actions brought "against the United States, the [Secretary of
+
+Health and Human Services], or any officer or employee thereof
+
+. . . under section 1331 or 1346 of title 28 to recover on any
+
+claim arising under" Medicare Part C.2   Shalala v. Ill. Council on
+
+
+
+
+     2    Although subject-matter jurisdiction in these cases
+rests on title 28, section 1332 -- not sections 1331 or 1346, see
+42 U.S.C. § 405(h) -- the Hospitals have not argued that they are
+exempt from section 405(h)'s bar for this reason.     Because the
+Hospitals have waived any argument that section 405(h) does not
+apply to civil actions brought under section 1332, we do not
+consider the question here.     See Mass. Lobstermen's Ass'n v.
+Menashes, 127 F.4th 398, 403 n.2 (1st Cir. 2025). The Hospitals
+likewise have never argued that Martin's Point, as a Medicare
+Advantage organization, is not a federal officer for the purposes
+of 405(h). But see Glob. Rescue Jets, LLC v. Kaiser Found. Health
+Plan, Inc., 30 F.4th 905, 915-17 (9th Cir. 2022) (holding that
+Medicare Advantage organizations are "officers or employees" of
+the federal government). That argument too is therefore waived.
+See Mass. Lobstermen's Ass'n, 127 F.4th at 403 n.2.
+
+
+
+                              - 8 -
+Long Term Care, Inc., 529 U.S. 1, 10 (2000) (emphasis omitted)
+
+(quoting 42 U.S.C. § 405(h)); see 42 U.S.C. § 1395ii.
+
+           It is undisputed that the Secretary has not issued "final
+
+decision[s]" regarding the amounts reimbursable by Martin's Point
+
+to the Hospitals for the services they rendered to its enrollees.
+
+42 U.S.C. §§ 405(g), 1395w-22(g)(5).           The Hospitals' argument is,
+
+in essence, that they may pursue their common-law claims in federal
+
+district court notwithstanding section 405(h)'s jurisdictional bar
+
+because their claims do not "aris[e] under" Medicare.              42 U.S.C.
+
+§§ 405(h), 1395ii.    The Hospitals also argue that, if their claims
+
+do arise under Medicare, their failure to pursue those claims
+
+through administrative channels should be excused because, as
+
+foreign hospitals, they are unable to participate in Medicare Part
+
+C's administrative-review process.          See Ill. Council, 529 U.S. at
+
+19 (holding that section 1395ii does not apply section 405(h) to
+
+Medicare Part B where doing so "would not simply channel review
+
+through the agency, but would mean no review at all").
+
+           We address the Hospitals' arguments in turn.            To set the
+
+stage for our analysis, we first provide some general background
+
+about   Medicare   Part   C   and   describe    when   a   claim   "aris[es]"
+
+thereunder.   42 U.S.C. §§ 405(h), 1395ii.
+
+                                     A.
+
+           Medicare is a federal health-insurance program that
+
+primarily serves those sixty-five years of age and older.                 See
+
+
+                                    - 9 -
+First Med. Health Plan v. Vega-Ramos, 479 F.3d 46, 48 (1st Cir.
+
+2007).        When enacted in 1965, Medicare covered inpatient care
+
+(through Medicare Part A, presently codified at 42 U.S.C. §§ 1395c
+
+to 1395i-6) and outpatient care (through Medicare Part B, presently
+
+codified at 42 U.S.C. §§ 1395j to 1395w-6).             See First Med. Health
+
+Plan, 479 F.3d at 48.         Under Parts A and B -- sometimes referred
+
+to together as "original Medicare," see, e.g., 42 C.F.R. § 422.2
+
+(2025) -- the federal government reimburses healthcare providers
+
+on a fee-for-service basis at rates set by the Centers for Medicare
+
+and Medicaid Services (CMS), an agency within the Department of
+
+Health and Human Services.         See Glob. Rescue Jets, 30 F.4th at
+
+909.       Original Medicare usually does not provide reimbursement for
+
+services rendered outside of the United States.                See 42 C.F.R.
+
+§§ 424.121-424.122 (2025).
+
+               In 1997, Congress enacted Medicare Part C.         See Pub. L.
+
+No. 105–33, § 4001, 111 Stat. 251, 275-327 (1997) (codified as
+
+amended at 42 U.S.C. §§ 1395w-21 to 1395w-29).3               Medicare Part C
+
+permits       Medicare   beneficiaries    to   enroll    in   private   health
+
+insurance plans, known as Medicare Advantage plans.             See 42 U.S.C.
+
+§ 1395w-21.         Private   entities,   known    as    Medicare   Advantage
+
+organizations, administer these plans.            See id. § 1395w-21(a)(2).
+
+
+       3  Certain provisions of Medicare Part C, including section
+1395w-21, refer to "Medicare+Choice," which was the name by which
+the Medicare Advantage program was previously known. See Vega-
+Ramos, 479 F.3d at 48 n.1.
+
+
+                                   - 10 -
+Medicare Advantage organizations receive a fixed monthly sum from
+
+the federal government for each                 enrollee.    See id.     § 1395w-
+
+23(a)(1)(A); 42 C.F.R. § 422.304(a) (2025).               In exchange for these
+
+payments, Medicare Advantage organizations must provide enrollees
+
+with the benefits available under original Medicare, subject to
+
+several exceptions not relevant here.                   See 42 U.S.C. § 1395w-
+
+22(a)(1); 42 C.F.R. §§ 422.100(a), (c)(1), 422.101 (2025).                  These
+
+are known as "basic benefits."               42 U.S.C. § 1395w-22(a); 42 C.F.R.
+
+§ 422.2 (2025).
+
+                  In addition to basic benefits, Medicare Advantage plans
+
+may offer, subject to approval by the Department of Health and
+
+Human Services, "supplemental benefits" for services not covered
+
+by original Medicare.           See 42 U.S.C. § 1395w-22(a)(3); 42 C.F.R.
+
+§§ 422.100(c)(2), 422.102 (2025); see also Glob. Rescue Jets, 30
+
+F.4th at 909.             Enrollees pay for these supplemental benefits
+
+through additional premiums or increased cost-sharing.                    See 42
+
+C.F.R. § 422.100(c)(2)(i) (2025).                Supplemental benefits, which
+
+vary       from    plan   to   plan,   may    include   out-of-country   medical
+
+services.4
+
+
+
+       4  For instance, Martin's Point advertises its Medicare
+Advantage plans as offering out-of-country emergency and urgent
+care supplemental benefits:
+
+                  All our [Medicare Advantage] plans -- whether
+                  they   are   an   HMO,   HMO-POS,   or   LPPO
+                  plan -- cover you for urgent and emergency
+
+
+
+                                        - 11 -
+           To provide basic and supplemental benefits, Medicare
+
+Advantage organizations may contract with healthcare providers.5
+
+See   42   C.F.R.   §§ 422.200-422.224        (2025).      These       contracts
+
+establish the terms of reimbursement for services provided to the
+
+Medicare    Advantage     organization's      enrollees        under    specific
+
+Medicare Advantage plans.          See RenCare, Ltd. v. Humana Health Plan
+
+
+
+           care, anywhere in the world. Feel dizzy while
+           sightseeing in Rome and need to see a doctor?
+           Twist your ankle and need an urgent X-ray in
+           . . . Mexico? No problem. We have your back.
+
+Understanding Medicare: Get the Care You Need, Wherever You Are,
+Martin's          Point         (Jan.          10,          2024),
+https://martinspoint.org/Generations-Advantage/Newsletter/All-
+Articles/Understanding-Medicare     [https://perma.cc/4UL7-Q76C].
+Other Medicare Advantage insurers do as well.     See, e.g., Mark
+Pabst, How Medicare Advantage Can Provide Coverage While You’re
+Traveling,      Aetna      (updated      June       3,      2025),
+https://www.aetna.com/medicare/understanding-medicare/medicare-
+for-travelers.html   [https://perma.cc/K59Z-MJ5G]   (noting   that
+original Medicare does not cover emergency room and urgent care
+outside the United States, but that Aetna's Medicare Advantage
+plans provide such coverage).
+      5    Medicare     Part   C    regulations   define   a    "provider"   as
+follows:
+
+           (1) Any individual who is engaged in the
+           delivery of health care services in a State
+           and is licensed or certified by the State to
+           engage in that activity in the State; and
+
+           (2) Any entity that is engaged in the delivery
+           of health care services in a State and is
+           licensed or certified to deliver those
+           services if such licensing or certification is
+           required by State law or regulation.
+
+42 C.F.R. § 422.2 (2025).
+
+
+
+                                     - 12 -
+of Tex., Inc., 395 F.3d 555, 558-59 (5th Cir. 2004); Glob. Rescue
+
+Jets, 30 F.4th at 909-10.   Not all providers enter such contracts,
+
+however.   See Tenet Healthsystem GB, Inc. v. Care Improvement Plus
+
+S. Cent. Ins. Co., 875 F.3d 584, 587-88 (11th Cir. 2017); Caris
+
+MPI, Inc. v. UnitedHealthcare, Inc., 108 F.4th 340, 344 (5th Cir.
+
+2024).   If an enrollee receives covered services from a healthcare
+
+provider that does not have a contract with the Medicare Advantage
+
+organization -- referred    to   by   federal   regulations    as   a   non-
+
+contract provider, see, e.g., 42 C.F.R. § 422.214 (2025) -- the
+
+provider generally must accept reimbursement for the services at
+
+original-Medicare rates.    See id.; 42 U.S.C. § 1395w-22(k)(1); see
+
+also Glob. Rescue Jets, 30 F.4th at 910.
+
+           Federal law and regulations charge Medicare Advantage
+
+organizations with the initial responsibility for deciding whether
+
+services are covered under their Medicare Advantage plans and, if
+
+so, the reimbursement rates for those services.          See 42 U.S.C.
+
+§ 1395w-22(g)(1); 42 C.F.R. § 422.566 (2025).        Coverage decisions
+
+made by Medicare Advantage organizations are called "organization
+
+determinations."   See 42 C.F.R. § 422.566 (2025).            Organization
+
+determinations include the refusal "to provide or pay for services,
+
+in whole or in part . . . , that the enrollee believes should be
+
+furnished or arranged for" by the Medicare Advantage organization.
+
+Id. § 422.566(b)(3).    An enrollee may request an organization
+
+determination from their Medicare Advantage organization, as may
+
+
+                                 - 13 -
+the   representative   of    the   enrollee    and    "[a]ny    provider     that
+
+furnishes, or intends to furnish, services to the enrollee."                  See
+
+id. § 422.566(c)(1).
+
+           Unsurprisingly,      sometimes     there       are   disputes     over
+
+coverage   and    reimbursement     under     Medicare      Advantage      plans.
+
+Medicare Part C contains a multi-step process through which a
+
+dissatisfied party may administratively appeal an organization
+
+determination.6 See 42 U.S.C. § 1395w-22(g); 42 C.F.R. §§ 422.560-
+
+422.634 (2025).    The "final decision" of the agency is reviewable
+
+in federal district court, subject to the satisfaction of an
+
+amount-in-controversy       requirement.      See    42    U.S.C.   §§ 405(g),
+
+1395w-22(g)(5).
+
+                                     B.
+
+           Judicial review of the Secretary's final decision is the
+
+"purport[edly] . . . exclusive" means of access to federal court,
+
+
+      6   Medicare Part C regulations define the parties to an
+organization determination as follows:
+
+           (a) The   enrollee   (including   his  or   her
+           representative);   (b) An   assignee   of   the
+           enrollee (that is, a physician or other
+           provider who has furnished a service to the
+           enrollee and formally agrees to waive any right
+           to payment from the enrollee for that service);
+           (c) The legal representative of a deceased
+           enrollee's estate; or (d) any other provider or
+           entity (other than the [Medicare Advantage]
+           organization) determined to have an appealable
+           interest in the proceeding.
+
+42 C.F.R. § 422.574 (2025).
+
+
+
+                                   - 14 -
+Ill. Council, 529 U.S. at 10, for claims that "aris[e] under"
+
+Medicare Part C, 42 U.S.C. § 405(h).7        "[A] claim 'arises under'
+
+the . . . Medicare Act if 'the standing and the substantive basis'
+
+for the claim derive from that statute."        Puerto Rican Ass'n of
+
+Physical Med. & Rehab., Inc. v. United States, 521 F.3d 46, 48
+
+(1st Cir. 2008) (quoting Weinberger v. Salfi, 422 U.S. 749, 761
+
+(1975)); see also Heckler v. Ringer, 466 U.S. 602, 615 (1984)
+
+(same).
+
+          The   Medicare   Act    provides   "the   standing   and   the
+
+substantive basis," Heckler, 466 U.S. at 615, for a "typical . . .
+
+Medicare benefits case, where an individual seeks a monetary
+
+benefit from the agency . . . , the agency denies the benefit, and
+
+the individual challenges the lawfulness of that denial," Ill.
+
+Council, 529 U.S. at 10.         It also provides the standing and
+
+substantive basis for claims that challenge, "on general legal
+
+
+
+     7    Section 405(h), which by its terms pertains to the Social
+Security statutes, is "incorporated mutatis mutandis," into
+Medicare Parts A through D by title 42, section 1395ii. See Ill.
+Council, 529 U.S. at 16 (quoting Bowen v. Mich. Acad. of Fam.
+Physicians, 476 U.S. 667, 680 (1986)) (addressing incorporation
+into Medicare Part B); 42 U.S.C. § 1395ii. Because the Hospitals
+do not contend that section 405(h), as incorporated into Medicare
+Part C, applies in a manner materially different from section
+405(h) as incorporated into original Medicare, we consider
+decisions concerning section 405(h)'s application to claims
+arising under original Medicare as instructive as to the scope of
+the provision for the purposes of this appeal. See Glob. Rescue
+Jets, 30 F.4th at 914 (concluding that "the constraints on judicial
+review imposed by § 405(h) apply equally to claims for benefits
+under Part C" and to claims for benefits under original Medicare).
+
+
+                                 - 15 -
+grounds," the lawfulness of a rule or regulation that "might later
+
+bar recovery of" benefits, id. (emphasis omitted), as well as other
+
+claims that are "inextricably intertwined" with Medicare-benefits
+
+determinations, Heckler, 466 U.S. at 614; see also Jones v. R.R.
+
+Donnelley & Sons Co., 541 U.S. 369, 376 & n.6, n.7 (2004) (noting
+
+that "arising under" as used in section 405(h) covers more claims
+
+than those for which "federal law provides a necessary element").8
+
+            Claims do not arise under Medicare, however, if they are
+
+"wholly collateral to" its "review provisions and outside the
+
+agency's expertise."     Thunder Basin Coal Co. v. Reich, 510 U.S.
+
+200, 212 (1994) (citation modified) (quoting Heckler, 466 U.S. at
+
+618).    The federal courts of appeals have described such claims as
+
+concerning issues "completely separate" from the substantive claim
+
+
+
+     8     See, e.g., Glob. Rescue Jets, 30 F.4th at 918-19
+(contract and state statutory claims arose under the Medicare Act
+where their resolution required Medicare-benefits determinations);
+Blue Valley Hosp., Inc. v. Azar, 919 F.3d 1278, 1283–84 (10th Cir.
+2019) (same for procedural due process claim challenging the
+termination of a Medicare provider agreement); Nichole Med. Equip.
+& Supply, Inc. v. TriCenturion, Inc., 694 F.3d 340, 347-49 (3d
+Cir. 2012) (same for tort and contract claims that turned on
+whether certain recoupment decisions were correct); Wilson ex rel.
+Est. of Wilson v. United States, 405 F.3d 1002, 1010-13 (Fed. Cir.
+2005) (same for illegal-exaction claim seeking to recover a portion
+of a medical-malpractice settlement paid from the decedent's
+estate to the Department of Health and Human Services, on behalf
+of Medicare); Midland Psychiatric Assocs. v. United States, 145
+F.3d 1000, 1004 (8th Cir. 1998) (same for tortious-interference
+and negligent-supervision claims relating to denials of Medicare
+claims); Bodimetric Health Servs. v. Aetna Life & Cas., 903 F.2d
+480, 483-87 (7th Cir. 1990) (same for tort, statutory, and contract
+claims predicated on denials of benefits claims).
+
+
+
+                                - 16 -
+to benefits, Cathedral Rock of N. Coll. Hill, Inc. v. Shalala, 223
+
+F.3d 354, 363 (6th Cir. 2000); provable "without regard to any
+
+provisions   of   the   [Medicare]    Act   relating   to   provision   of
+
+benefits," Do Song Uhm v. Humana, Inc., 620 F.3d 1134, 1145 (9th
+
+Cir. 2010); or capable of being "brought without reference to the
+
+Medicare Act," Nat'l Infusion Ctr. Ass'n v. Becerra, 116 F.4th
+
+488, 505 (5th Cir. 2024).      These various formulations reflect a
+
+consensus that a claim usually does not arise under Medicare where
+
+a court does not need to interpret the Medicare Act to grant
+
+relief, and the relief ultimately sought is not Medicare benefits
+
+or their practical equivalent.        See, e.g., Nichole Med. Equip.,
+
+694 F.3d at 348; Do Song Uhm, 620 F.3d at 1145; Nat'l Infusion
+
+Ctr. Ass'n, 116 F.4th at 505; see also Blue Valley Hosp., 919 F.3d
+
+at 1285 ("For a claim to be collateral, it must not require the
+
+court to immerse itself in the substance of the underlying Medicare
+
+claim or demand a factual determination as to the application of
+
+the Medicare Act." (quoting Family Rehab., Inc. v. Azar, 886 F.3d
+
+496, 501 (5th Cir. 2018))).
+
+                                     C.
+
+          With this framework in mind, we return to the Hospitals'
+
+arguments.   The Hospitals' principal argument is that they were
+
+not required to exhaust administrative remedies for their common-
+
+law claims because neither the treatment that they provided to the
+
+Martin's Point enrollees nor the civil actions that they later
+
+
+                                - 17 -
+filed had anything to do with Medicare.                        The Hospitals contend
+
+that, "as Medicare enrollees," the Martin's Point enrollees were
+
+"not    entitled       to     any    out-of-country         health     benefits      from
+
+Medicare."       The Hospitals' point seems to be that any "out-of-
+
+country" benefits owed to the enrollees under their Medicare
+
+Advantage      plans    could       not   be    Medicare       benefits,     and   claims
+
+concerning      the    existence       or   non-existence         of   those      benefits
+
+consequently         cannot    "aris[e]        under"      Medicare.         42    U.S.C.
+
+§§ 405(h), 1395ii.
+
+            The Hospitals' argument                  misapprehends     the nature of
+
+supplemental benefits under Medicare Part C.                       Although coverage
+
+under original Medicare may not extend to the sorts of services
+
+that the Hospitals            rendered to the enrollees,               see     42 C.F.R.
+
+§§ 411.9, 424.120-424.127 (2025), Medicare Advantage plans, such
+
+as those that Martin's Point issued to the enrollees here, can
+
+provide supplemental benefits for medical care rendered abroad,
+
+see    supra    II.A.         Supplemental          benefits    constitute        Medicare
+
+benefits       for     the    purposes         of    the   administrative-remedies
+
+provisions of Medicare Part C and related regulations.                         See Glob.
+
+Rescue Jets, 30 F.4th at 918; 42 U.S.C. § 1395w-22; 42 C.F.R.
+
+§ 422.566(a) (2025).                And the Hospitals do not contend that
+
+disputes concerning Medicare benefits are outside of Medicare
+
+"Part C's administrative review scheme," Glob. Rescue Jets, 30
+
+F.4th at 918; see 42 C.F.R. § 422.566(a)-(b) (2025); we therefore
+
+
+                                          - 18 -
+assume that they are subject to the scheme.                Thus, although the
+
+fact that the services at issue were rendered abroad by foreign
+
+hospitals may bear on the extent of Martin's Point's reimbursement
+
+obligations under its plans, it does not remove the reimbursement
+
+dispute entirely from the scope of Medicare Part C.
+
+            With that misapprehension dispelled, it is apparent that
+
+the Hospitals' common-law claims "aris[e] under" Medicare Part C.
+
+42 U.S.C. §§ 405(h), 1395ii.                To recover on these claims, the
+
+Hospitals must prove, inter alia, that, contrary to Martin's
+
+Point's alleged representations, the Medicare Advantage plans at
+
+issue did not, in fact, provide unlimited benefits for the disputed
+
+medical services.          See Rand v. Bath Iron Works Corp., 832 A.2d
+
+771, 774 (Me. 2003) (noting that information provided must be false
+
+to maintain a negligent-misrepresentation claim); Harvey v. Dow,
+
+962 A.2d 322, 325 (Me. 2008) (requiring promise to be "otherwise
+
+unenforceable" to maintain a promissory-estoppel claim (quoting
+
+Daigle Com. Grp., Inc. v. St. Laurent, 734 A.2d 667, 672 (Me.
+
+1999))).    We see no way for the Hospitals to make that showing
+
+that would not require the district court to redecide Martin's
+
+Point's organization determination about the extent of benefits
+
+due under its plans.           See Glob. Rescue Jets, 30 F.4th at 919
+
+(concluding that tort claims arose under Medicare Part C when their
+
+success    "rest[ed]       directly    on   the   interpretation   of   benefits
+
+provided    under"     a    Medicare    plan).       The   Hospitals'   claims,
+
+
+                                       - 19 -
+consequently, are not "independent," Kaiser v. Blue Cross of Cal.,
+
+347 F.3d 1107, 1115 (9th Cir. 2003), or "separate," Nichole Med.
+
+Equip., 694 F.3d at 348, from the underlying Medicare supplemental-
+
+benefits determinations, but rather are "inextricably intertwined"
+
+with them, Heckler, 466 U.S. at 614.                As a result, the claims
+
+"aris[e] under" Medicare Part C.9            42 U.S.C. §§ 405(h), 1395ii.
+
+            The     Hospitals'    promissory-estoppel         claims   may   arise
+
+under    Medicare    Part   C    for   a   second   reason.     The    Hospitals'
+
+argument, as we have described it so far, is premised upon the
+
+unavailability of Medicare benefits for services rendered abroad.
+
+At times, however, the Hospitals appear to advance the separate
+
+and seemingly contradictory argument that benefits covering these
+
+services may be available under the Martin's Point plans, but as
+
+a practical matter cannot be recovered by the Hospitals because
+
+Martin's Point will not pay the benefits voluntarily and the
+
+Hospitals are unable to participate in the administrative-review
+
+
+
+
+     9    We need not address whether tort claims would arise under
+Medicare where the allegedly tortious conduct was undertaken by
+the defendant independent of its role as a Medicare Advantage
+organization administering a benefits plan. Cf. Do Song Uhm, 620
+F.3d at 1145 (holding that enrollees' false-advertising and
+consumer-protection    claims   against   a    Medicare   Advantage
+organization were "wholly collateral to a claim for benefits" where
+plaintiffs could prove the elements of their claims "without regard
+to any provisions of [Medicare Part D] relating to provision of
+benefits." (quotation marks and citation omitted)).
+
+
+                                       - 20 -
+process necessary to force Martin's Point to pay, see infra II.D.10
+
+If the Hospitals intend to assert that they are entitled to
+
+additional reimbursement under the enrollees' Medicare Advantage
+
+plans, as it appears that they do, then their attempt to enforce
+
+their entitlement to those benefits through a promissory-estoppel
+
+claim would be virtually indistinguishable from a direct claim for
+
+Medicare Part C benefits.   See Heckler, 466 U.S. at 614 (holding
+
+that claims arose under the Medicare Act where, "at bottom," they
+
+sought benefits).   And claims for benefits arise under Medicare,
+
+no matter how "[c]leverly concealed" they may be.     Do Song Uhm,
+
+620 F.3d at 1141 (alteration in original) (quoting Kaiser, 347
+
+F.3d at 1112).
+
+           The Hospitals' remaining arguments are without merit.
+
+The Hospitals contend that their common-law claims do not arise
+
+under Medicare because they sound in tort and seek to recover
+
+damages.   But "[a] claim may arise under the Medicare Act even
+
+though, as pleaded, it also arises under some other law," Midland
+
+Psychiatric Assocs., 145 F.3d at 1004, and "the type of remedy
+
+sought is not strongly probative of whether a claim" arises under
+
+Medicare, Kaiser, 347 F.3d at 1112.
+
+
+
+     10   The Hospitals declined to concede at oral argument that
+they are not entitled to benefits under the Martin's Point Medicare
+Advantage plans. And nowhere have they explained what, if not the
+plans, would entitle them to the approximately $25,000 per insured
+that Martin's Point has paid them so far.
+
+
+
+                              - 21 -
+            The Hospitals also rely on the Fifth Circuit's decisions
+
+in Caris MPI, Inc. v. UnitedHealthcare, Inc., 108 F.4th 340 (5th
+
+Cir. 2024) and RenCare, Ltd. v. Humana Health Plan of Texas, Inc.,
+
+395 F.3d 555 (5th Cir. 2004).            Noting that they are asserting
+
+claims in their own right (and not as assignees of the enrollees),
+
+the Hospitals contend that, as in Caris and RenCare, the enrollees
+
+have no interest in these actions.              See Caris, 108 F.4th at 350;
+
+RenCare, 395 F.3d at 560.        Caris and RenCare, however, turned on
+
+facts that are not present here. RenCare concerned a reimbursement
+
+dispute between a Medicare Advantage organization and a provider,
+
+but, unlike here, the reimbursement terms were set by a contract
+
+between the parties, and the dispute could be resolved under that
+
+contract without reference to underlying Medicare law.                 See 395
+
+F.3d at 558-59. Moreover, the contract waived the provider's right
+
+to recover from the enrollees, meaning that regardless of how the
+
+contract dispute resolved, no enrollee would face liability.                  See
+
+id.
+
+            Caris, for its part, concerned a dispute between a
+
+provider and a Medicare Advantage organization over the latter's
+
+efforts to recoup alleged overpayments discovered during a post-
+
+payment   audit.    See   108    F.4th     at    345.    The    provider   sued,
+
+principally challenging the recoupments as having violated an
+
+unwritten    contract    between   the     parties,      implied   from    their
+
+longstanding    course    of    dealing.         See    Caris   MPI,   Inc.    v.
+
+
+                                   - 22 -
+UnitedHealthcare, Inc., No. 21-CV-3101-X, 2023 WL 4768187, at *1
+
+(N.D. Tex. July 26, 2023), aff'd in part, rev'd in part and
+
+remanded, 108 F.4th 340.           The Fifth Circuit concluded that no
+
+enrollee had an interest in the "only question" presented by the
+
+case, i.e., "whether [the Medicare Advantage organization] can
+
+recoup payments it made to [the provider] for services already
+
+performed."       Caris, 108 F.4th at 350.                  The recoupment did not
+
+amount to an organization determination; no enrollee had been
+
+denied    benefits;    and   no    enrollee          stood    to   face   liability,
+
+regardless of the outcome of the parties' dispute.                        See id. at
+
+350-51.      Relying    on     RenCare,        the    Fifth    Circuit    held      that
+
+administrative exhaustion was not required.                   See id.
+
+            Here, by contrast, there is no allegation of a contract
+
+between   Martin's     Point      and    the     Hospitals;        Martin's    Point's
+
+conclusion    that     certain     benefits          were    not   covered    was    an
+
+organization determination; and the Hospitals' complaints state
+
+that the enrollees are personally responsible to the Hospitals for
+
+the unreimbursed costs of their care.                 Caris and RenCare thus fail
+
+to support the Hospitals' argument that their claims do not arise
+
+under Medicare Part C.
+
+                                          D.
+
+            Our    conclusion     that    the        Hospitals'     claims    "aris[e]
+
+under" Medicare does not fully resolve these appeals.                        42 U.S.C.
+
+§§ 405(h), 1395ii.       Claims that "aris[e] under" Medicare Part C
+
+
+                                        - 23 -
+may be brought in federal court notwithstanding section 405(h)'s
+
+jurisdiction-stripping provision if an administrative-exhaustion
+
+requirement "would not lead to a channeling of review through the
+
+agency" but instead "would mean no review at all."11              Ill. Council,
+
+529 U.S. at 17.          Although the Hospitals do not cite Illinois
+
+Council, they contend in substance that its exception should apply
+
+here because, as foreign hospitals, they are, in their words,
+
+"simply   . . .    not    eligible"    and    "do    not   have   standing"   to
+
+participate in the administrative-appeals process.
+
+           The    Hospitals    did    not    raise   their   Illinois     Council
+
+argument or anything resembling it below until their Rule 59(e)
+
+motions   seeking    relief    from    the     judgments     dismissing    their
+
+respective cases.        "[A]rguments that could have been but were not
+
+presented to the district court prior to judgment are not preserved
+
+for appeal." Disaster Sols., LLC v. City of Santa Isabel, 21 F.4th
+
+1, 7 (1st Cir. 2021).         And raising an argument in a motion for
+
+reconsideration, as the Hospitals have done here, "neither cures
+
+the original omission nor preserves the argument as a matter of
+
+
+
+
+     11   None of the parties contend that the Illinois Council
+exception applies to Medicare Part C differently than it does to
+Medicare Parts A and B. See Ill. Council, 529 U.S. at 17. For
+the purposes of this appeal, we assume no difference in the
+application of the exception to Medicare Part C.
+
+
+
+                                     - 24 -
+right for appellate review."12    Iverson v. City of Boston, 452 F.3d
+
+94, 104 (1st Cir. 2006).     Rule 59(e) motions are intended to
+
+provide relief where the "judgment evidence[s] a manifest error of
+
+law," Biltcliffe v. CitiMortgage, Inc., 772 F.3d 925, 930 (1st
+
+Cir. 2014) (quoting Glob. Naps, Inc. v. Verizon New England, Inc.,
+
+489 F.3d 13, 25 (1st Cir. 2007)), and it is rarely error -- let
+
+alone manifest error -- for the district court to have entered
+
+judgment without passing on an argument that was not raised, see
+
+United States v. Rivera-Rodríguez, 75 F.4th 1, 26 (1st Cir. 2023).
+
+          In any event, the Hospitals have failed to demonstrate
+
+that the Illinois Council exception applies here.     The Hospitals'
+
+argument is that they are ineligible to participate in Medicare
+
+Part C, including its administrative-review process, because they
+
+are not "providers" as defined by the pertinent regulations.    They
+
+contend that because a "provider" is an "entity . . . engaged in
+
+the delivery of health care services in a State," they are not
+
+included, since they operate in Mexico.     42 C.F.R. § 422.2 (2025)
+
+
+
+     12   The Hospitals contend that they were free to raise their
+Illinois Council argument at any time because the argument goes to
+subject-matter jurisdiction. Although the lack of subject-matter
+jurisdiction may be raised at any time, a party may not freely
+debut new arguments in support of subject-matter jurisdiction
+after their case has been dismissed. See Seafreeze Shoreside v.
+U.S. Dep't of Interior, 123 F.4th 1, 17-18 (1st Cir. 2024); Bronner
+v. Duggan, 962 F.3d 596, 611 (D.C. Cir. 2020) ("[A]rguments in
+favor of subject matter jurisdiction can be waived by inattention
+or deliberate choice." (quoting NetworkIP, LLC v. FCC, 548 F.3d
+116, 120 (D.C. Cir. 2008))).
+
+
+
+                                 - 25 -
+(emphasis   added).      The   Hospitals   then   submit   that,   as   non-
+
+providers, they are barred from participating in the Medicare Part
+
+C administrative-review process.
+
+            But the Hospitals give essentially no explanation for
+
+that final -- and critical -- portion of their argument, i.e.,
+
+that, as non-providers, they are barred from the administrative-
+
+review process.       Their appellate briefs, like their Rule 59(e)
+
+motions, principally rely on an affidavit from the chief executive
+
+of their third-party administrator.        The affidavit states that, in
+
+the executive's experience, CMS rejects administrative appeals
+
+from foreign hospitals "out of hand" because such hospitals, not
+
+qualifying as providers, "have no status with CMS."13 The affidavit
+
+does not elaborate on this point, and the Hospitals do not explain
+
+
+
+     13   Whether CMS does in fact reject such appeals is not clear
+from the record.    Two emails attached to the chief executive's
+affidavit as proof of this practice are at best inconclusive.
+Nevertheless, the Hospitals assert we must accept as a well-pleaded
+fact that CMS "does not review or handle disputes between a foreign
+provider and a Medicare Advantage Organization." But insofar as
+the chief executive intended to say that CMS has no legal authority
+to handle such disputes, the ostensible fact is simply a legal
+conclusion. See Thompson v. JPMorgan Chase Bank, N.A., 982 F.3d
+809, 811 (1st Cir. 2020) (noting that, in assessing whether a
+plaintiff's complaint has stated a claim, courts do not accept
+"legal conclusions clothed as factual allegations"). And insofar
+as the Hospitals intend instead to argue that CMS's "pattern of
+conduct" in rejecting disputes involving foreign hospitals permits
+us to conclude that there is a de facto exclusion of the Hospitals
+from the administrative review process, we cannot do so based on
+two facially inconclusive emails unaccompanied by "the legal
+analysis necessary to develop such an argument."       Puerto Rican
+Ass'n, 521 F.3d at 50.
+
+
+
+                                  - 26 -
+why their not being providers leads them to have "no status" with
+
+CMS, what having "no status" with CMS means as a legal matter, or
+
+why having "no status" with CMS results in their preclusion from
+
+participating in the administrative-review process.           Failing to
+
+explain   how   or   why   they    are     supposedly   foreclosed   from
+
+participating in the administrative-review process, the Hospitals
+
+cannot establish that the Illinois Council exception applies here.
+
+See W.R. Cobb Co. v. V.J. Designs, LLC, 130 F.4th 224, 239 (1st
+
+Cir. 2025) ("[D]eveloping a sustained argument out of [the record]
+
+and legal precedents is the job of the appellant, not the reviewing
+
+court . . . ." (alterations in original) (quoting Town of Norwood
+
+v. FERC, 202 F.3d 392, 405 (1st Cir. 2000))).              We therefore
+
+conclude that the district court's denial of the Hospitals' Rule
+
+59(e) motions was not an abuse of discretion.
+
+                                   III.
+
+          For the reasons stated, we affirm the district court's
+
+dismissals of the Hospitals' complaints for lack of subject-matter
+
+jurisdiction and the denials of the Hospitals' Rule 59(e) motions.
+
+
+
+
+                                  - 27 -

@@ -1,0 +1,49 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the Secretary's regulation allowing 'pre-deeming' of FTCA coverage for certain non-patient services under 42 C.F.R. \u00a7 6.6(e)(4) is consistent with the PHSA statutory scheme.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held the regulation is consistent with the PHSA, as the statute gives the Secretary discretion over the form and manner of deeming applications, and does not require individualized applications for every non-patient scenario covered by the regulation."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether Dr. Roca\u2019s treatment of Allen, a non-health center patient, was covered by FTCA under the 'hospital call' exception in 42 C.F.R. \u00a7 6.6(e)(4)(ii).",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found Dr. Roca\u2019s employment contract and hospital bylaws required him to provide on-call coverage as a condition of his privileges, satisfying the regulatory exception and extending FTCA coverage to his treatment of Allen."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether O'Brien\u2019s FTCA claim was timely under the statute of limitations and the discovery rule.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held the claim accrued at Allen\u2019s death, as a reasonable person would have been prompted to investigate the cause; O'Brien failed to show the factual basis was inherently unknowable or that he exercised reasonable diligence, making the claim untimely."
+    },
+    {
+      "issue_id": 4,
+      "description": "Whether the FTCA\u2019s Savings Clause (28 U.S.C. \u00a7 2679(d)(5)) preserved O'Brien\u2019s claim despite untimely presentment.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held the Savings Clause did not apply because O'Brien did not file his state court action within two years of accrual, failing the first requirement for the clause to operate."
+    }
+  ],
+  "key_precedents": [
+    "United States v. Kubrick, 444 U.S. 111 (1979)",
+    "Skwira v. United States, 344 F.3d 64 (1st Cir. 2003)",
+    "Morales-Melecio v. United States (Dep't of Health & Hum. Servs.), 890 F.3d 361 (1st Cir. 2018)",
+    "Bray v. Bon Secours Mercy Health, Inc., 97 F.4th 403 (6th Cir. 2024)",
+    "O'Brien v. United States, 56 F.4th 139 (1st Cir. 2022)",
+    "Sanchez v. United States, 740 F.3d 47 (1st Cir. 2014)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "Plaintiff-Appellant Brad O'Brien filed a wrongful death medical malpractice suit as the personal representative of the estate of Melissa Allen, who died eleven days after receiving medical care at Lowell General Hospital. The suit alleged that LGH and its providers\u2014including Dr. Fernando Roca\u2014were negligent in the care of Allen, acts which O'Brien contends resulted in Allen's death. The district court dismissed the suit for failure to make timely presentment under the Federal Tort Claims Act (\"FTCA\"). We affirm."
+}

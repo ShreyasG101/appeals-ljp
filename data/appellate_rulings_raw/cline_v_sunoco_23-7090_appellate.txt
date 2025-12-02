@@ -1,0 +1,3569 @@
+     Appellate Case: 23-7090     Document: 99-1   Date Filed: 11/17/2025     Page: 1
+                                                                               FILED
+                                                                   United States Court of Appeals
+                                                                           Tenth Circuit
+                                      PUBLISH
+                                                                           November 17, 2025
+                     UNITED STATES COURT OF APPEALS
+                                                                       Christopher M. Wolpert
+                             FOR THE TENTH CIRCUIT                         Clerk of Court
+                           _________________________________
+
+PERRY CLINE, on behalf of himself
+and all others similarly situated,
+
+        Plaintiff - Appellee,
+
+v.                                                         No. 23-7090
+
+SUNOCO, INC. (R&M); SUNOCO
+PARTNERS MARKETING &
+TERMINALS L.P.,
+
+        Defendants - Appellants.
+
+-----------------------------
+
+CHAMBER OF COMMERCE OF
+THE UNITED STATES OF
+AMERICA; ROYALTY OWNER
+COALITION OF OKLAHOMA, INC.,
+
+        Amici Curiae.
+                           _________________________________
+
+                 Appeal from the United States District Court
+                    for the Eastern District of Oklahoma
+                         (D.C. No. 6:17-CV-00313-JAG)
+                       _________________________________
+
+Erin E. Murphy, Clement & Murphy, PLLC, Alexandria, Virginia (Paul D.
+Clement and Matthew D. Rowen; R. Paul Yetter and Robert D. Woods, Yetter
+Coleman LLP, Houston, Texas; and Daniel M. McClure, Norton Rose Fulbright
+US LLP, Houston, Texas, with him on the briefs) for Defendants-Appellants.
+   Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 2
+
+
+
+Russell S. Post, Beck Redden LLP, Houston, Texas (Owen J. McGovern and
+Bennett J. Ostdiek; and Bradley E. Beckworth, Jeffrey Angelovich, and
+Andrew Pate, Nix Patterson, LLP, Austin, Texas, with him on the brief) for
+Plaintiff-Appellee.
+
+Ryan K. Wilson and Reagan E. Bradford, Bradford & Wilson PLLC, Oklahoma
+City, Oklahoma, filed an amicus curiae brief for Royalty Owner Coalition of
+Oklahoma Inc.
+
+Michael Francisco and Francis J. Aul, McGuireWoods LLP, Washington,
+District of Columbia; Jennifer B. Dickey, U.S. Chamber Litigation Center,
+Washington, District of Columbia, filed an amicus curiae brief for The
+Chamber of Commerce of the United States of America.
+                    _________________________________
+
+Before MATHESON, MORITZ, and FEDERICO, Circuit Judges.
+               _________________________________
+
+FEDERICO, Circuit Judge.
+                 _________________________________
+
+      This appeal arises from a dispute over oil proceeds and a class action
+
+bench trial in Oklahoma. It centered on class-wide violations of Oklahoma’s
+
+Production Revenue Standards Act (PRSA), Okla. Stat. Ann. tit. 52,
+
+§§ 70.1–570.15. The PRSA imposes strict timeframes on when a “first
+
+purchaser or holder of proceeds” of crude oil from an Oklahoma well must
+
+distribute proceeds to royalty interest or working interest owners entitled
+
+to payments. Cline v. Sunoco, Inc. (R&M), 479 F. Supp. 3d 1148, 1157 (E.D.
+
+Okla. 2020) (Cline II). If the proceeds payments arrive late, the PRSA
+
+mandates that these payments must include statutory interest, at a default
+
+rate of 12 percent. Id.
+
+
+                                       2
+   Appellate Case: 23-7090   Document: 99-1    Date Filed: 11/17/2025   Page: 3
+
+
+
+      The named plaintiff and class representative, Perry Cline, is an
+
+Oklahoma farmer and landowner who owns royalty interests in three
+
+Oklahoma oil wells. Id. at 1159. In 2017, Cline filed a class action lawsuit
+
+against Sunoco, Inc. (R&M), and Sunoco Partners Marketing & Terminals,
+
+L.P. (collectively, Sunoco). Id. at 1155. He sought to represent all owners
+
+who received late payments from Sunoco without the PRSA-required
+
+interest. Id. Under the PRSA, an “[o]wner” is “a person or governmental
+
+entity with a legal interest in the mineral acreage under a well which
+
+entitles that person or entity to oil or gas production or the proceeds or
+
+revenues therefrom[.]” Okla. Stat. Ann. tit. 52, § 570.2. The class definition
+
+setting forth the members of the class included all “owners” of mineral
+
+interests who received late payments from Sunoco. See Cline v. Sunoco, Inc.
+
+(R&M), 333 F.R.D. 676, 681–82 (E.D. Okla. 2019) (Cline I) (defining the
+
+certified class); see id. at 681 n.1 (discussing class definition).
+
+      In 2019, the district court certified this class. Relevant to this appeal,
+
+Cline’s lawsuit asserted two state law claims for relief: violation of the
+
+PRSA and common law fraud. Id. at 681.
+
+      In 2020, after a four-day bench trial, the district court ruled for the
+
+Class on the PRSA claim and for Sunoco on the fraud claim. The Class of
+
+over 53,000 owners was awarded damages for over $1.5 million late
+
+proceeds payments that failed to include the 12 percent rate of interest.
+
+                                        3
+   Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 4
+
+
+
+Cline II, 479 F. Supp. 3d at 1164, 1176–77. The judgment totaled over $103
+
+million in actual damages (which included additional prejudgment interest
+
+that accrued post-trial) and $75 million in punitive damages.
+
+      Before this appeal, Sunoco filed a string of appeals that we dismissed.
+
+We accepted Sunoco’s last appeal preceding this one, however, because the
+
+district court’s initial allocation of damages failed to provide adequate
+
+instructions regarding two undivided accounts for owners whom Sunoco
+
+could not locate. Cline v. Sunoco, Inc. (R&M), No. 22-7018, 2023 WL
+
+4946312, at *6–8 (10th Cir. Aug. 3, 2023) (Cline III). On remand, the district
+
+court corrected those issues in an amended plan of allocation order and an
+
+updated damages order. Together, these orders instructed the settlement
+
+administrator regarding the amount of damages to pay each class member,
+
+including class members who could not be identified and whose payments
+
+were sent to state unclaimed property funds.
+
+     After finalizing the total damages awarded to the Class, the district
+
+court entered final judgment. We therefore have jurisdiction under 28
+
+U.S.C. § 1291. We affirm much of the district court’s findings and rulings,
+
+however, we reverse on one issue, punitive damages.
+
+
+
+
+                                       4
+   Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 5
+
+
+
+                                       I
+
+      We begin by discussing the PRSA, including its text, legislative
+
+history, and application to Sunoco. We then discuss this case’s procedural
+
+history as it informs the issues raised on appeal.
+
+                                       A
+
+      The Oklahoma Legislature enacted the PRSA in 1980 to “regulate[]
+
+the marketing, sale, and production of hydrocarbons from Oklahoma wells.”
+
+H.B. Krug v. Helmerich & Payne, Inc., 362 P.3d 205, 211 (Okla. 2015). The
+
+PRSA “generally applies to all owners and all producing wells in Oklahoma
+
+with certain exceptions[,]” defining the duties and requirements for
+
+“proceed sharing” and “royalty disbursement” to those who own interests in
+
+such wells. Id.
+
+      The PRSA was passed to stop the industry practice of delaying
+
+proceeds payments from the sale of oil and gas to royalty owners. See id. at
+
+214. Originally, the PRSA’s 12 percent statutory interest rate for late
+
+payments was punitive. But in 1985, the Oklahoma Legislature “removed
+
+the phrase ‘as a penalty’ from the statute[.]” Purcell v. Santa Fe Mins., Inc.,
+
+961 P.2d 188, 193 (Okla. 1998). That means the PRSA is no longer a
+
+punitive statute, and the 12 percent interest rate is held to be
+
+“incorporate[d] . . . into the contractual arrangements” among the parties.
+
+Id. at 194. “The obvious overriding purpose of the [PRSA] is to ensure that
+
+                                       5
+   Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 6
+
+
+
+royalty owners are timely paid their share of the proceeds.” H.B. Krug, 362
+
+P.3d at 214. And when interpreting the PRSA, the Oklahoma “Legislature
+
+has followed a path of strengthening mineral owners[’] rights since the Act’s
+
+inception.” Id.
+
+      The PRSA sets forth a specific timetable of when proceeds payments
+
+to owners must occur: within six months from the date of the first sale and
+
+within two months of any subsequent sales. Okla. Stat. Ann. tit. 52,
+
+§ 570.10(B)(1). Subject to a marketable title exception – an exception that
+
+allows a delay or suspension in proceeds payments if there is a legitimate
+
+question over an owner’s marketable title, see Base v. Devon Energy Prod.
+
+Co., 563 P.3d 934, 954 (Okla. 2024) – statutory interest must be added to
+
+any late proceeds payment. § 570.10(D)(1). Relevant here, the statutory
+
+interest rate is 12 percent or, if marketable title is legitimately in question,
+
+6 percent for payments before 2018 (and a lower rate after 2018).
+
+§ 570.10(D)(2). This statutory interest “shall” be “compounded annually . . .
+
+until the day paid.” § 570.10(D)(1). In other words, the PRSA sets a default
+
+12 percent interest rate subject to the marketable title exception:
+
+      D.1. Except as otherwise provided in paragraph 2[,] . . . that
+      portion not timely paid shall earn interest at the rate of twelve
+      percent (12%) per annum to be compounded annually, calculated
+      from the end of the month in which such production is sold until
+      the day paid.
+
+
+
+                                       6
+   Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 7
+
+
+
+            2.a. Where such proceeds are not paid because the title
+            thereto is not marketable, such proceeds shall earn
+            interest at the rate of (i) six percent (6%) per annum[.]
+
+§ 570.10(D)(1), (2)(a) (emphases added).
+
+     Although the PRSA applies to both crude oil and natural gas wells in
+
+Oklahoma, this case involves only the purchase of oil. Sunoco buys oil
+
+extracted from Oklahoma wells, making it a “first purchaser” under the
+
+PRSA, but “Sunoco is not itself an oil and gas producer and does not have
+
+leases with individual landowners.” Cline II, 479 F. Supp. 3d at 1157–58.
+
+Instead, the “‘operators’ typically extract the oil from the ground and,
+
+pursuant to contracts, convey it to Sunoco. Sunoco then pays owners their
+
+
+
+
+                                       7
+   Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 8
+
+
+
+proceeds directly.” 1 Id. at 1158–59 (footnote omitted). In addition, Sunoco
+
+signs contracts with thousands of oil producers in Oklahoma to purchase
+
+their oil, and it “has paid over 100,000 well owners royalty proceeds for oil
+
+and gas production from over 20,000 properties since 2006.” Cline I, 333
+
+F.R.D. at 681.
+
+
+
+
+     1  Numerous players are involved, including royalty owners (like
+Cline), working interest owners, operators, and first purchasers (like
+Sunoco), among others:
+     Oil production has a cast of varied characters. When someone
+     (such as Cline) owns land that may have oil on it, an exploration
+     and production (“E&P”) company leases the land to drill for and
+     extract the oil. The E&P company agrees to split the proceeds from
+     the sale of that oil with the landowner if the company can extract
+     it. Usually, the landowner gets at least a one-eighth royalty and
+     bears no costs or risk associated with drilling the well or cleaning
+     and closing a dry hole. The E&P company partners with other
+     industry players, known as working interest owners, to drill the
+     well, and they split the remaining interest. One of the working
+     interest owners is deemed the “operator.” The operator “frequently
+     ha[s] either a majority interest, or [it is] elected because [it is]
+     knowledgeable and the other working interest owners respect [it].”
+     The working interest owner with the largest share of the interest
+     performs and coordinates the work, with the remaining companies
+     sharing in the cost and risk. After the working interest owners
+     extract the oil, companies such as Sunoco will enter into contracts
+     with the operators to transport and market the oil. The
+     landowner’s interest may fracture over time, such as when a
+     landowner dies or sells the interest to another individual or entity.
+     Thus, it is not unusual for Sunoco to pay anywhere from tens to
+     thousands of interest owners for oil produced from a well.
+Cline v. Sunoco, Inc. (R&M), 479 F. Supp. 3d 1148, 1158 n.6 (E.D. Okla.
+2020) (Cline II) (alterations in original) (internal citations omitted).
+
+                                       8
+   Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 9
+
+
+
+                                       B
+
+      Cline filed this lawsuit against Sunoco in Oklahoma state court in
+
+2017. Cline II, 479 F. Supp. 3d at 1155. Sunoco removed the lawsuit to the
+
+United States District Court for the Eastern District of Oklahoma. Id. “The
+
+case moved along slowly” until June 2019, when Cline moved for class
+
+certification. Id. Cline argued that because Sunoco uniformly failed to pay
+
+the statutory interest it owed under the PRSA on late proceeds payments
+
+for all wells in Oklahoma, the Class should be certified based on Sunoco’s
+
+uniform duty and breach under the PRSA to all 53,000 class members. See
+
+id. at 1155–56. The district court granted class certification in October
+
+2019, citing four common questions in support:
+
+      (1)   whether, under Oklahoma law, Sunoco owed interest to Plaintiff
+            and the Class on any and all Untimely Payments;
+
+      (2)   whether owners must make a demand prior to being entitled to
+            receive statutory interest;
+
+      (3)   whether Sunoco’s failure to pay interest to Plaintiff and the
+            putative class on any Untimely Payments constitutes a violation
+            of the PRSA; and
+
+      (4)   whether Sunoco defrauded Plaintiff and the putative class by
+            knowingly withholding statutory interest [as applied to Count
+            II (fraud) of the original petition].
+
+Cline I, 333 F.R.D. at 683 (alteration in original).
+
+      On October 3, 2019, the district court certified both the PRSA claim
+
+and the fraud claim. Id. at 681, 688. In the class certification decision, the
+
+                                       9
+  Appellate Case: 23-7090    Document: 99-1   Date Filed: 11/17/2025   Page: 10
+
+
+
+district court rigorously analyzed each of the factors in Federal Rule of Civil
+
+Procedure 23. Id. at 682–88. The testimony and damages model of Cline’s
+
+expert, Barbara Ley, “establish[ed] that Cline [could] identify the putative
+
+class members and calculate damages class-wide with common proof.” Id.
+
+at 681 n.3. Citing our decision in Naylor Farms, Inc. v. Chaparral Energy,
+
+LLC, 923 F.3d 779, 798 (10th Cir. 2019), the district court advised that it
+
+could “later divide the class into subclasses to determine damages, or amend
+
+or alter its class certification order, if necessary.” Cline I, 333 F.R.D. at 686
+
+n.9.
+
+       Regarding class certification of the fraud claim, Sunoco argued that
+
+individualized questions on each owner’s reliance on Sunoco’s statements
+
+precluded class certification. Id. at 686. But as the district court explained,
+
+“[c]ourts will certify fraud claims . . . when the law of one state applies to
+
+the majority of the claims and the check stubs sent to royalty owners
+
+‘presented . . . a standardized, written representation.’” Id. at 687 (quoting
+
+Rhea v. Apache Corp., No. CIV-14-0433-JH, 2019 WL 1548909, at *9 (E.D.
+
+Okla. Feb. 15, 2019)). And it held that Cline could “establish fraud through
+
+the check stubs Sunoco issued uniformly to the putative class members.” Id.
+
+       Sunoco also claimed that not all members of the Class could be
+
+identified, and thus were not ascertainable. But the Class’s damages “model
+
+provides   a   reliable     and   administratively   feasible   mechanism     for
+
+                                        10
+  Appellate Case: 23-7090   Document: 99-1      Date Filed: 11/17/2025   Page: 11
+
+
+
+determining class membership.” Id. at 688. Ultimately, using the revised
+
+class definition set forth in Cline’s reply brief, the district court granted
+
+class certification, 2 defining the Class as:
+
+      All non-excluded persons or entities who: (1) received Untimely
+      Payments from Defendants (or Defendants’ designees) for oil
+      proceeds from Oklahoma wells and (2) who have not already
+      been paid statutory interest on the Untimely Payments. An
+      “Untimely Payment” for purposes of this class definition means
+      payment of proceeds from the sale of oil production from an oil
+      and gas well after the statutory periods identified in O[kla].
+      S[tat]. tit 52, § 570.10(B)(1) (i.e., commencing not later than six
+      (6) months after the date of first sale, and thereafter not later
+      than the last day of the second succeeding month after the end
+      of the month within which such production is sold). Untimely
+      Payments do not include: (a) payments of proceeds to an owner
+      under O[kla]. S[tat]. tit 52, § 570.10(B)(3) (minimum pay); (b)
+      prior period adjustments; or (c) pass-through payments.
+
+Id. at 681–82 (alterations in original).
+
+      Pointing to the two years the case had languished, the district court
+
+set the discovery cutoff as October 18, 2019, and the trial date as December
+
+16, 2019. Cline II, 479 F. Supp. 3d at 1156.
+
+      On December 10, 2019, the district court granted the Class’s partial
+
+motion for summary judgment on class-wide liability for the PRSA claim. It
+
+held that the PRSA requires Sunoco to include statutory interest
+
+
+
+      2  Cline’s “revisions provide[d] a more narrow and manageable
+definition[.]” Cline I, 333 F.R.D. at 681 n.4. Because of a statute of
+limitations argument, the class definition was limited to a five-year period
+of late payments. Id. at 687.
+
+                                       11
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 12
+
+
+
+automatically every time it makes a late proceeds payment. Sunoco had
+
+admitted that it did not add interest to late payments unless specifically
+
+requested, which seldom happened. Class-wide partial summary judgment
+
+established Sunoco’s liability under the PRSA to every class member.
+
+      On December 16, 2019, the Class proceeded to a class action bench
+
+trial on both claims for relief. The trial established that Sunoco was already
+
+making proceeds payments to the members of the Class. Sunoco’s corporate
+
+representative, Eric Koelling, agreed that Sunoco had “already sent”
+
+“principal proceeds owed to every class member directly, or to an unclaimed
+
+property fund[,]” and that “there is no issue” that each class member had “a
+
+right to be paid their principal proceeds[.]” Aple. App. IV at 18.
+
+      The Class also offered a class-wide damages expert and damages
+
+model to prove that the actual damages owed can be – and, in fact, already
+
+have been – allocated to each class member:
+
+      To prove the precise amount due, Cline relied on the expert
+      testimony of Barbara Ley, a certified public accountant who has
+      extensive experience with accounting in the oil and gas
+      industry. Ley testified credibly, and described a thorough and
+      defensible method of calculating the amount due from Sunoco.
+      Ley received information from Sunoco to create a database of
+      individual owner information and to determine whether each
+      payment was late based on that data. Sunoco’s data identifies
+      the date proceeds were sold, the date Sunoco paid proceeds to
+      an owner, and the amount of the proceeds. To the extent she
+      could, Ley checked the sale date against public records. She also
+      reviewed depositions and other documents produced in the case,
+      and was present in the courtroom during the majority of the
+
+                                      12
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 13
+
+
+
+      trial. Sunoco agrees that Ley’s data reliably reflects the sale
+      date, payment date, and amount of proceeds.
+
+Cline II, 479 F. Supp. 3d at 1161 (citations omitted).
+
+      In August 2020, the district court struck Sunoco’s damages expert,
+
+Eric Krause. His report was untimely and, according to the district court,
+
+not helpful because it rested upon faulty assumptions. Id. at 1165–68.
+
+Sunoco does not appeal these rulings. During the bench trial, Sunoco relied
+
+exclusively upon the testimony of Krause to challenge Ley and to attack the
+
+Class’s damages. So, with Krause struck as an expert, Sunoco ultimately
+
+defended the class action trial with liability already entered class-wide on
+
+the PRSA claim, no damages expert, no damages model, no challenge to
+
+Ley’s expert damages testimony, and no challenge to Ley’s damages model.
+
+      On appeal, Sunoco criticizes at length the district court’s change of
+
+the trial date and the discovery cutoff date. Sunoco, however, does not
+
+actually appeal any of the discovery deadlines, the case scheduling order,
+
+or the trial date. And the district court made unchallenged, specific factual
+
+findings in its trial opinion when it struck Sunoco’s damages expert, id. at
+
+1167–68, and dismantled Sunoco’s critique of the scheduling order, id. at
+
+1164. Despite Sunoco blaming the outcome of this case on a “rogue” district
+
+court, Sunoco did not file a motion to amend the scheduling order, discovery
+
+cutoff date, or trial date. Op. Br. at 57.
+
+
+                                       13
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 14
+
+
+
+      Also left unchallenged are the district court’s findings that Sunoco
+
+and its counsel engaged in litigation obstruction. The district court found
+
+that “[w]hen it became clear that the case would move forward, Sunoco
+
+adopted a number of tactics to derail the litigation.” Cline II, 479 F. Supp.
+
+3d at 1156. Sunoco’s tactics included (1) “sending Cline an unrequested
+
+check for the amount of interest it owed him, and then, nearly two years
+
+later, claim[ing] that the tendered check deprived him of standing[,]” (2)
+
+filing a baseless motion to clarify the class definition that “merely amounted
+
+to an argument to cut down the size of the class[,]” and (3) “after the [c]ourt
+
+certified the class (and long after the [c]ourt set a trial date and discovery
+
+cutoff),” waiting “to look through thousands of files for evidence of what it
+
+might owe.” Id. at 1156–57.
+
+      According to the district court, Sunoco’s delays in producing relevant
+
+documents resulted in an untimely and prejudicial “production of millions
+
+of lines of data to the plaintiff – after the plaintiff’s expert report was due,
+
+and after the discovery cutoff.” Id. at 1156. The district court found that
+
+“Sunoco characterizes its search for data as heroic; in reality, Sunoco
+
+ignored its files for years because it never intended to pay much interest,
+
+and let this case sit around for three years without getting its evidence
+
+together.” Id.
+
+
+
+                                      14
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 15
+
+
+
+     Before this appeal, Sunoco filed a string of appeals that we dismissed
+
+for lack of jurisdiction. In 2023, however, we agreed with Sunoco’s latest
+
+appeal preceding this one and reversed the district court’s damages
+
+allocation order. Cline III, 2023 WL 4946312, at *6-7. We held that
+
+“although the allocation plan provides a formula that will produce
+
+individual damage awards for most class members, it will not produce such
+
+awards for the group of class members associated with the two undivided
+
+accounts.” Id. at *6. These undivided accounts held the damages awards for
+
+class members who could not be identified and located. On remand, the
+
+district court issued an amended plan of allocation order that addressed our
+
+concerns. Notably, in this appeal, Sunoco does not challenge the amended
+
+allocation award.
+
+     After resolving post-trial motions, in October 2023, the district court
+
+entered an amended award of damages that updated the actual damages
+
+awarded to $103,873,002.50. These increased actual damages included the
+
+compounded, prejudgment interest that had continued to accrue post-trial.
+
+     Final judgment was entered on October 19, 2023, and Sunoco timely
+
+appealed.
+
+                                      II
+
+     In this appeal, Sunoco’s challenges: (1) class certification, (2) Article
+
+III standing of certain class members whose payments went to unclaimed
+
+                                      15
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 16
+
+
+
+state property funds because Sunoco’s records were insufficient to locate
+
+them, (3) the prejudgment interest awarded as actual damages to the class,
+
+and (4) the punitive damages awarded to the Class. We affirm the district
+
+court on the first three issues, but we vacate the punitive damages award.
+
+                                      A
+
+      We start with Sunoco’s challenge to the class certification order. We
+
+review de novo whether a district court applied the proper legal standard to
+
+decide a motion for class certification. Black v. Occidental Petroleum Corp.,
+
+69 F.4th 1161, 1173 (10th Cir. 2023). In this case, because the district court
+
+rigorously applied each of the Rule 23(a) and (b)(3) factors, our review of
+
+the decision granting class certification “is highly deferential.” Naylor
+
+Farms, 923 F.3d at 790–91. We may reverse only for an abuse of discretion,
+
+which means that we “must defer to the district court’s ruling unless” the
+
+class certification “decision falls outside the bounds of rationally available
+
+choices given the facts and law involved in the matter at hand.” Id. at 791
+
+(internal quotation marks omitted).
+
+      Class actions in federal court are controlled by Federal Rule of Civil
+
+Procedure 23. There are four Rule 23(a) factors that all class actions must
+
+satisfy, and, in a case seeking damages under Rule 23(b)(3), two additional
+
+factors must be met: predominance and superiority. Amgen Inc. v.
+
+Connecticut Ret. Plans & Tr. Funds, 568 U.S. 455, 460 (2013).
+
+                                      16
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 17
+
+
+
+      The four Rule 23(a) factors are:
+
+      1. [Numerosity:] the class is so numerous that joinder of all members
+         is impracticable; 3
+
+      2. [Commonality:] there are questions of law or fact common to the
+         class; 4
+
+      3. [Typicality:] the claims or defenses of the representative parties
+         are typical of the claims or defenses of the class; 5 and
+
+      4. [Adequacy:] the representative parties will fairly and adequately
+         protect the interests of the class. 6
+
+
+      3 No set threshold exists for the number of class members needed to
+
+meet the numerosity factor. Usually, a total of 40 or more class members
+“raises a presumption of impracticability of joinder based on numbers
+alone.” 1 Newberg and Rubenstein on Class Actions § 3:12 (6th ed. 2025).
+
+      4 “A finding of commonality requires only a single question of law or
+
+fact common to the entire class.” Menocal v. GEO Grp., Inc., 882 F.3d 905,
+914 (10th Cir. 2018) (quoting DG ex rel. Stricklin v. Devaughn, 594 F.3d
+1188, 1195 (10th Cir. 2010)); see also Wal-Mart Stores, Inc. v. Dukes, 564
+U.S. 338, 359 (2011) (“We quite agree that for purposes of Rule 23(a)(2) even
+a single common question will do.”) (brackets and internal quotation marks
+omitted)).
+
+      5 Typicality looks only to confirm that the legal claims for relief are
+
+similar; factual variations among the class members do not defeat
+typicality. Menocal, 882 F.3d at 914.
+
+      6 Under Rule 23(a)(4), “[o]nly a conflict that goes to the very subject
+
+matter of the litigation will defeat a party’s claim of representative status.”
+Tennille v. W. Union Co., 785 F.3d 422, 430 (10th Cir. 2015) (internal
+quotation marks omitted). Likewise, Sunoco alleges without support the
+possibility of intra-class conflicts based on some class members having
+indemnity agreements, but a “merely speculative or hypothetical” conflict
+will not defeat the adequacy requirement. Ward v. Dixie Nat’l Life Ins. Co.,
+595 F.3d 164, 180 (4th Cir. 2010) (internal quotation marks omitted).
+
+                                      17
+  Appellate Case: 23-7090   Document: 99-1    Date Filed: 11/17/2025   Page: 18
+
+
+
+Fed. R. Civ. P. 23(a).
+
+      A class action seeking damages must also satisfy Rule 23(b)(3), 7 which
+
+requires a plaintiff to show predominance and superiority. Rule 23(b)(3)
+
+states that predominance is satisfied if “the court finds that the questions
+
+of law or fact common to class members predominate over any questions
+
+affecting only individual members,” and superiority is met if a “class action
+
+is superior to other available methods for fairly and efficiently adjudicating
+
+the controversy.” Fed. R. Civ. P. 23(b)(3) (emphases added). 8
+
+      In   challenging      class   certification,   Sunoco     contends     that
+
+(1) individualized issues on each owner’s marketable title overwhelm the
+
+common issues so predominance is not met, (2) the class members are not
+
+ascertainable because not all of them can be identified from Sunoco’s
+
+
+
+
+      7 In contrast to a Rule 23(b)(3) class action for damages, a class action
+
+for injunctive relief is pursued under Rule 23(b)(2), and it does not require
+predominance or superiority. A plaintiff is allowed to pursue in the same
+case both injunctive relief under Rule 23(b)(2) and damages under Rule
+23(b)(3). See, e.g., Chicago Tchrs Union, Loc. No. 1 v. Bd. of Educ. of City of
+Chicago, 797 F.3d 426, 443 (7th Cir. 2015).
+
+      8 The factors to assess superiority include, but are not limited to:
+“(A) the class members’ interests in individually controlling the prosecution
+or defense of separate actions; (B) the extent and nature of any litigation
+concerning the controversy already begun by or against class members;
+(C) the desirability or undesirability of concentrating the litigation of the
+claims in the particular forum; and (D) the likely difficulties in managing a
+class action.” Fed. R. Civ. P. 23(b)(3)(A)–(D).
+
+                                       18
+  Appellate Case: 23-7090   Document: 99-1     Date Filed: 11/17/2025   Page: 19
+
+
+
+records, and (3) several unidentified class members lack standing so the
+
+class should not have been certified. We address these challenges in turn.
+
+                                      1
+
+      Challenging whether the Class met predominance, Sunoco argues
+
+that the class is not cohesive and there are too many individualized issues
+
+to warrant class certification. See Op. Br. at 34 (“There is simply no way to
+
+adjudicate on a classwide basis claims dependent on the individualized
+
+land-ownership details of each plaintiff.”).
+
+      “The Rule 23(b)(3) predominance inquiry tests whether proposed
+
+classes are sufficiently cohesive to warrant adjudication by representation.”
+
+Menocal v. GEO Grp., Inc., 882 F.3d 905, 914 (10th Cir. 2018) (quoting
+
+Amchem Prods., Inc. v. Windsor, 521 U.S. 591, 623 (1997)). To apply the
+
+predominance factor at class certification, “the district court must
+
+determine ‘whether the common, aggregation-enabling, issues in the case
+
+are more prevalent or important than the non-common, aggregation-
+
+defeating, individual issues.’” Sherman v. Trinity Teen Sols., Inc., 84 F.4th
+
+1182, 1194 (10th Cir. 2023) (quoting Tyson Foods, Inc. v. Bouaphakeo, 577
+
+U.S. 442, 453 (2016)). This means a district court first “should ‘characterize
+
+the issues in the case as common or not, and then weigh which issues
+
+predominate.’” Black, 69 F.4th at 1175 (quoting CGC Holding Co., LLC v.
+
+Broad & Cassel, 773 F.3d 1076, 1087 (10th Cir. 2014)). As we have
+
+                                      19
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 20
+
+
+
+emphasized, “[i]t is not necessary that all” the “elements of the claim entail
+
+questions of fact and law that are common to the class.” Id. (quoting CGC
+
+Holding Co., 773 F.3d at 1087).
+
+      The predominance inquiry “begins ‘with the elements of the
+
+underlying cause of action.’” Id. (quoting CGC Holding Co., 773 F.3d at
+
+1088). In this case, the district court certified claims for violation of the
+
+PRSA and common law fraud. The elements of a PRSA violation claim have
+
+not been affirmatively stated in a published opinion by an Oklahoma
+
+appellate court, but we must construe the PRSA claim here as a breach of
+
+contract claim. See Purcell, 961 P.2d at 193. A breach of contract claim
+
+under Oklahoma law requires “(1) formation of a contract; (2) breach of the
+
+contract; and (3) damages as a result of that breach.” Morgan v. State Farm
+
+Mut. Auto. Ins. Co., 488 P.3d 743, 748 (Okla. 2021); accord Cline I, 333
+
+F.R.D. at 684 (“To succeed on his PRSA claims, Cline must show that
+
+Sunoco (1) owed Cline payments; (2) made the payments to Cline late; and
+
+(3) did not pay the interest on the late payments.” (citing Chieftain Royalty
+
+Co. v. Marathon Oil Co., No. CIV-17-334-SPS, 2018 WL 2745906, at *2 (E.D.
+
+Okla. June 7, 2018))).
+
+      Regarding the fraud claim, “fraud is a generic term embracing the
+
+multifarious means which human ingenuity can devise so one can get
+
+advantage over another by false suggestion or suppression of the truth.”
+
+                                      20
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 21
+
+
+
+Croslin v. Enerlex, Inc., 308 P.3d 1041, 1045 (Okla. 2013). The district court
+
+did not identify which type or form of fraud it interpreted Cline’s fraud
+
+claim to be alleging. Oklahoma recognizes two forms of fraud – actual and
+
+constructive – along with similar claims for relief that could apply, such as
+
+deceit by nondisclosure. “Actual fraud is the intentional misrepresentation
+
+or concealment of a material fact, with an intent to deceive, which
+
+substantially affects another person[.]” Id. (footnote omitted). And
+
+“constructive fraud,” which “has the same legal consequence as actual
+
+fraud[,]” “is a breach of a legal or equitable duty to the detriment of another,
+
+which does not necessarily involve any moral guilt, intent to deceive, or
+
+actual dishonesty of purpose.” Id. at 1045–46.
+
+      In line with Oklahoma law on both the PRSA claim and the fraud
+
+claim, the district court identified four common and predominant questions
+
+that would determine class-wide liability against Sunoco as a matter of law.
+
+Cline I, 333 F.R.D. at 683. As Cline argued in seeking class certification,
+
+“Sunoco’s business records and employee testimony will confirm its ‘uniform
+
+policy of not paying statutory interest unless requested by an owner.’” Id.
+
+Cline pointed out “that the proposed class will use common evidence of
+
+Sunoco’s unlawful actions, and that if the Court finds Sunoco had a duty to
+
+pay that interest without a request and Sunoco breached that duty, every
+
+class member will prevail.” Id.
+
+                                      21
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 22
+
+
+
+      Predominance hinges on the distinction between common issues and
+
+individual issues. “Common issues are those for which ‘the same evidence
+
+will suffice for each member to make a prima facie showing [or] the issue is
+
+susceptible to generalized, class-wide proof.’” Black, 69 F.4th at 1175
+
+(quoting Tyson Foods, Inc., 577 U.S. at 453) (alteration in original). In
+
+contrast, “[i]ndividual issues are those for which ‘members of [the] proposed
+
+class will need to present evidence that varies from member to member.’”
+
+Id. (quoting Tyson Foods, Inc., 577 U.S. at 453).
+
+      Because of the distinction between common and individualized
+
+evidence, we agree that the Class met the Rule 23(b)(3) predominance
+
+factor. To show predominance, “[i]t is not necessary that all of the elements
+
+of the claim entail questions of fact and law that are common to the class,
+
+nor that the answers to those common questions be dispositive.” CGC
+
+Holding Co., 773 F.3d at 1087. What Rule 23(b)(3) “does require is that
+
+common questions ‘predominate over any questions affecting only
+
+individual [class] members.’” Amgen Inc., 568 U.S. at 469 (quoting Fed. R.
+
+Civ. P. 23(b)(3)). And “Rule 23(b)(3) requires a showing that questions
+
+common to the class predominate, not that those questions will be
+
+answered, on the merits, in favor of the class.” Id. at 459.
+
+      Thus, Rule 23(b)(3) requires predominance, not perfection, such that
+
+“the common, aggregation-enabling, issues in the case are more prevalent
+
+                                      22
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 23
+
+
+
+or important than the non-common, aggregation-defeating, individual
+
+issues.” Menocal, 882 F.3d at 914–15 (quoting CGC Holding Co., 773 F.3d
+
+at 1087). “Critically, so long as at least one common issue predominates, a
+
+plaintiff can satisfy Rule 23(b)(3) – even if there remain individual issues,
+
+such as damages, that must be tried separately.” Naylor Farms, 923 F.3d
+
+at 789; accord 7AA C. Wright, A. Miller, M. Kane & R. Klonoff, Federal
+
+Practice & Procedure § 1778 (3d ed. 2025) (“The common questions need not
+
+be dispositive of the entire action. In other words, ‘predominate’ should not
+
+be automatically equated with ‘determinative.’” (footnote omitted)).
+
+      Key aspects of this class action align with several controlling Tenth
+
+Circuit class certification decisions: In re Urethane Antitrust Litig., 768 F.3d
+
+1245 (10th Cir. 2014); CGC Holding Co., 773 F.3d 1076; Menocal, 882 F.3d
+
+905; and Naylor Farms, 923 F.3d 779. Across these decisions, we
+
+emphasized three traits that the Class proved were present here: (1) the
+
+defendant used a common or uniform scheme, policy, or practice to target
+
+most of the class (or each sub-class); (2) the empirical proof of a class action
+
+trial confirmed whether predominance actually existed or whether the class
+
+imploded at trial under the force of too many individualized issues; and
+
+(3) the predominating issue of a defendant’s breach outweighed any
+
+individualized issues on damages or other matters.
+
+
+
+                                      23
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 24
+
+
+
+                                      a
+
+     First, we start with the principle that predominance is often satisfied
+
+when a defendant has implemented a class-wide scheme, policy, or
+
+practice. 9 In most of our recent decisions concluding that the predominance
+
+factor was satisfied, we have emphasized the legal significance of this
+
+showing under Rule 23(b)(3):
+
+     • In re Urethane, 768 F.3d at 1258–59 (affirming class-wide jury
+       verdict in an antitrust conspiracy case because the defendants’
+       price-fixing scheme created a singular, common issue that
+       predominated over any individualized issues).
+
+     • CGC Holding Co., 773 F.3d at 1082, 1091 (affirming class
+       certification of a civil RICO claim based on the defendants’
+       “common scheme to defraud” all investors in a real estate
+       investment offering and a generalized inference of reliance).
+
+     • Menocal, 882 F.3d at 920 (affirming class certification based on the
+       defendant’s uniform policy to coerce all prisoners in its private
+       prison to perform forced labor).
+
+     • Naylor Farms, 923 F.3d at 782–83 (affirming class certification
+       because the defendant’s uniform policy of deducting midstream
+       services from royalty payments created a singular, class-wide
+       issue).
+
+
+
+     9 A “scheme” and a “policy” are the same thing; a “scheme” is a “policy”
+
+that harms the plaintiffs, often by deception or foul play. A “practice” is
+included to illustrate that even if a defendant denies having a business
+policy or avoids reducing its business policy to writing, a “practice”
+functions as a de facto “scheme” or “policy.” See, e.g., Aplt. App. II at 55
+(negating Sunoco’s assertion that it did not have a “policy” and merely
+engaged in a “practice” to not pay interest it owed without receiving a
+demand). These three terms function the same way, and we use them
+interchangeably.
+
+                                      24
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 25
+
+
+
+      When a class action targets a defendant’s class-wide policy or practice,
+
+the focus at trial necessarily is on the defendant and the common evidence
+
+in its documents and business records – not on individual issues that
+
+require the individualized testimony of each class member. And as this case
+
+confirms, the “predominant question” of a defendant’s class-wide liability
+
+will, in many cases, “definitively end the litigation.” CGC Holding Co., 773
+
+F.3d at 1093 n.11.
+
+      The Class successfully demonstrated that Sunoco “engaged in an
+
+ongoing scheme to avoid making the required interest payments” by not
+
+disclosing its duty to pay interest and only paying interest when specifically
+
+requested. Cline I, 333 F.R.D. at 681. Sunoco’s class-wide scheme made
+
+“class-wide proof possible.” Menocal, 882 F.3d at 920. Sunoco’s scheme
+
+allowed the district court to grant partial summary judgment on liability to
+
+the Class – a class-wide, dispositive ruling for all 53,000 class members that
+
+Sunoco does not appeal. To be clear, Sunoco does not appeal the ruling of
+
+class-wide liability, only the amount of interest (which, in this case,
+
+constitutes the actual damages) it owes to each of the 53,000 members of
+
+the Class. Thus, Sunoco’s class-wide scheme supplies “the ‘glue’ that holds
+
+together” the Class’s claim that Sunoco violated the PRSA and owes
+
+statutory interest to every class member. See Menocal, 882 F.3d at 920
+
+(quoting Wal-Mart Stores, Inc. v. Dukes, 564 U.S. 338, 352 (2011)). We thus
+
+                                      25
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 26
+
+
+
+affirm the unchallenged factual findings that “[t]he trial testimony
+
+established that Sunoco followed a practice of not paying interest until it
+
+received a request from an owner[;]” that “Ley created a methodology
+
+through which she could calculate class-wide damages based on that
+
+conduct[;]” and that Ley’s “computer calculations identify the precise
+
+damages for each late payment for each owner of each well.” Cline II, 479
+
+F. Supp. 3d at 1164.
+
+     Sunoco primarily relies on Wal-Mart Stores, Inc. v. Dukes to argue
+
+that class certification was improper. But Wal-Mart is less valuable in a
+
+Rule 23(b)(3) damages case than Sunoco contends. See Menocal, 882 F.3d at
+
+920 n.10 (explaining the limited utility of Wal-Mart in a damages class
+
+action involving a corporate policy that unifies the class). The Wal-Mart
+
+plaintiffs alleged “that the discretion exercised by their local supervisors
+
+over pay and promotion matters” violated Title VII by discriminating
+
+against women. Wal-Mart, 564 U.S. at 342. The Ninth Circuit in Wal-Mart
+
+had approved class certification of “one of the most expansive class actions
+
+ever[,]” with a decade-long class period and 1.5 million current and former
+
+
+
+
+                                      26
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 27
+
+
+
+female employees in all of Wal-Mart’s 3,400 stores across America. Id. 10 The
+
+Supreme Court reversed the order granting class certification, ruling that
+
+the plaintiffs had not established commonality because the employment
+
+decisions complained of resulted from millions of individual decisions made
+
+by low-level decision-makers who had total, subjective discretion over such
+
+matters. Id. at 359–60. As a result of these outlier facts, the class members
+
+“wish[ed] to sue about literally millions of employment decisions at once[,]”
+
+but the class could not be certified “[w]ithout some glue holding the alleged
+
+reasons for all those decisions together[.]” Id. at 352; see also id. at 359
+
+(finding no commonality absent “convincing proof of a companywide
+
+discriminatory pay and promotion policy”).
+
+     But Wal-Mart involved outlier facts, and the class sought nationwide
+
+injunctive relief under Rule 23(b)(2). Given the fact pattern, even the
+
+dissenting Justices agreed that class certification for injunctive relief was
+
+improper under Rule 23(b)(2). 11 The plaintiffs did not target a corporate
+
+
+     10 These plaintiffs “held a multitude of jobs, at different levels of Wal–
+
+Mart's hierarchy, for variable lengths of time, in 3,400 stores, sprinkled
+across 50 states, with a kaleidoscope of supervisors (male and female),
+subject to a variety of regional policies that all differed[.]” Wal-Mart, 564
+U.S. at 359–60 (internal quotation marks omitted).
+
+     11 See Wal-Mart, 564 U.S. at 367 (Ginsburg, J., dissenting in part and
+
+concurring in part) (“The class in this case, I agree with the Court, should
+not have been certified under Federal Rule of Civil Procedure 23(b)(2).”).
+
+                                      27
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 28
+
+
+
+policy or a series of corporate policies, 12 but rather sought to challenge
+
+“literally millions of employment decisions at once.” Id. at 352.
+
+       Those concerns, however, are wholly absent here. Sunoco’s uniform,
+
+objective policy not to pay interest was devised at the corporate level by its
+
+executives and legal counsel as a corporate policy or practice (not by
+
+thousands of low-level individual employees). Sunoco’s policy did not
+
+involve thousands of decision-makers scattered across the 50 states.
+
+Equally important, Cline and the Class did not seek injunctive relief under
+
+Rule 23(b)(2). As the Wal-Mart majority clarified, “[t]he applicability” of the
+
+language in Rule 23(b)(3) on predominance was “not before [the Court].” Id.
+
+at 346 n.2.
+
+       The class certification in this case involved a uniform corporate policy
+
+and a damages class action pursued under Rule 23(b)(3). Both wide-scale
+
+exercise of independent discretion and the Rule 23(b)(2) concerns in Wal-
+
+Mart are absent. And Rule 23(b)(3) “allows class certification in a much
+
+wider set of circumstances but with greater procedural protections.” Id. at
+
+362.
+
+
+
+
+       12See id. at 355 (“The only corporate policy that the plaintiffs’
+evidence convincingly establishes is Wal–Mart’s ‘policy’ of allowing
+discretion by local supervisors over employment matters.”).
+
+
+                                      28
+  Appellate Case: 23-7090   Document: 99-1    Date Filed: 11/17/2025   Page: 29
+
+
+
+                                       b
+
+      Next, we recognize the significance that this class action proceeded to
+
+a bench trial and that the allocation of individual damages awards to each
+
+of the 53,000 class members is unchallenged. That damages could be – in
+
+fact, already were – individually allocated to each of the 53,000 class
+
+members proves the Class satisfied the predominance factor. The amended
+
+allocation order, which states precisely how much is awarded individually
+
+to each class member, is not at issue on appeal.
+
+      Typically, our review of class certification is at the Rule 23(f) stage,
+
+before summary judgment and long before trial. But here, we do not have
+
+to predict whether the common issues of Sunoco’s liability will predominate
+
+– “we know from the actual trial” that they in fact did. In re Urethane, 768
+
+F.3d at 1258–59 (affirming class action trial aggregate damages award
+
+totaling nearly $1 billion for antitrust violations). Indeed, “the district court
+
+had the benefit of seeing what ultimately took place at trial. The court had
+
+no need to make a prediction based on the expert report. Instead, the
+
+district court could see that common issues of liability had predominated
+
+over individualized issues.” Id. at 1259.
+
+      With the proof generated by the class action trial transcript, the
+
+district court’s findings disproved Sunoco’s challenges to predominance:
+
+“The trial testimony established that Sunoco followed a practice of not
+
+                                       29
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 30
+
+
+
+paying interest until it received a request from an owner. Ley created a
+
+methodology through which she could calculate class-wide damages based
+
+on that conduct.” Cline II, 479 F. Supp. 3d at 1164 (citations omitted).
+
+“Further, her computer calculations identify the precise damages for each
+
+late payment for each owner of each well.” Id. We see no reason to disturb
+
+the district court’s findings.
+
+                                      c
+
+      Additionally, we conclude that the predominating issue of Sunoco’s
+
+liability outweighed any individualized issues on damages or other matters.
+
+This case aligns with our decision in Naylor Farms, a royalty underpayment
+
+class action pursued under Oklahoma law. As to our federal class action
+
+standards, we explained that, “[c]ritically, so long as at least one common
+
+issue predominates, a plaintiff can satisfy Rule 23(b)(3) – even if there
+
+remain individual issues, such as damages, that must be tried separately.”
+
+Naylor Farms, 923 F.3d at 789.
+
+      Our review of class certification in Naylor Farms was at the Rule 23(f)
+
+stage, so we had to predict what issues would predominate at trial. 13 That
+
+
+
+      13 Naylor Farms, 923 F.3d at 798 (stating at the Rule 23(f) stage,
+before trial, that “[w]e see no indication” that individualized issues
+overwhelming the common issue “will occur here” later at trial). But in this
+case, with the trial concluded and damages allocated to the Class members,
+we know with certainty that no individualized issues predominated.
+
+                                      30
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 31
+
+
+
+case involved a class of royalty owners who alleged they were charged excess
+
+deductions for midstream services applied to natural gas produced from
+
+Oklahoma wells in which they had royalty interests. Id. The defendant
+
+insisted that the variations among gas quality and different lease language
+
+made it impossible to certify a cohesive class. Id. at 795–96. Similarly,
+
+Sunoco here insists there are individualized variations regarding the timing
+
+of the interest payments and each owner’s marketable title among the
+
+Class.
+
+     We rejected the defendant’s argument in Naylor Farms, explaining
+
+that a single common issue (the defendant’s class-wide breach of lease to
+
+each class member) predominated, and that all the defendant’s alleged
+
+individualized issues were “relevant only to the post-breach question of
+
+damages.” Id. at 790. We reject Sunoco’s argument on the same grounds.
+
+And because the class plaintiffs in Naylor Farms “provided evidence that
+
+[their] expert [could] determine damages on a class[-]wide basis through
+
+use of a model,” we affirmed the district court’s ruling that “these
+
+distinctions don’t defeat predominance.” Id. (internal quotation marks
+
+omitted). We highlighted that the defendant failed to identify any “specific”
+
+evidence that showed any actual lease language variations that would
+
+create genuine individualized issues and make a class action trial
+
+unworkable. Id. at 797. All this analysis applies with full force here, and
+
+                                      31
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 32
+
+
+
+even more so, given that Sunoco’s only identified expert on class
+
+certification and damages – Krause – was struck (and independently
+
+deemed unreliable as an expert).
+
+      Sunoco relies on our decision reversing class certification in Wallace
+
+B. Roderick Revocable Living Trust v. XTO Energy, Inc., 725 F.3d 1213 (10th
+
+Cir. 2013). That case, like Naylor Farms, involved alleged royalty
+
+underpayments that depended on the language in hundreds of individual
+
+leases, but our ruling there was largely driven by the class plaintiffs’ basic
+
+failure to even review all the leases. See id. at 1219 (“[T]here are roughly
+
+430 leases which have yet to be examined[.]”). We did not suggest that the
+
+class could never be certified as a matter of law; rather, we said that “[o]n
+
+remand” the class plaintiffs “could, for example, create a chart classifying
+
+lease types” so that the district court could determine whether the lease
+
+language variations were too individualized. Id.; see also Naylor Farms, 923
+
+F.3d at 795–96 (distinguishing Roderick because the royalty owner class
+
+plaintiffs created a “generally accurate” lease chart, doing exactly as we
+
+suggested in Roderick (internal quotation marks omitted)).
+
+     As Sunoco argues, we also suggested in Roderick that on remand the
+
+district court needed to assess “the extent to which material differences in
+
+damages determinations will require individualized inquiries.” Roderick,
+
+
+
+                                      32
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 33
+
+
+
+725 F.3d at 1220. But we continued: “That said, there are ways to preserve
+
+the class action model in the face of individualized damages.” Id.
+
+      As a matter of law, individualized damages in class actions typically
+
+do not defeat predominance under Rule 23(b)(3). “[T]he black letter rule is
+
+that individual damage calculations generally do not defeat a finding that
+
+common issues predominate, and courts in every circuit have uniformly held
+
+that the 23(b)(3) predominance requirement is satisfied despite the need to
+
+make individualized damage determinations.” Brayman v. KeyPoint Gov’t
+
+Sols., Inc., 83 F.4th 823, 839 (10th Cir. 2023) (quoting 2 Newberg and
+
+Rubenstein on Class Actions § 4:55); see also Menocal, 882 F.3d at 922
+
+(same).
+
+      Sunoco   primarily    challenges     predominance    by   claiming    that
+
+individualized questions on marketable title (which went only to the
+
+amount of damages owed) overwhelmed the common questions on liability.
+
+But Sunoco fails to confront the district court’s analysis on marketable title
+
+or show any legal error.
+
+      Because this case is in federal court based on federal diversity
+
+jurisdiction under the Class Action Fairness Act (CAFA), 14 “we apply the
+
+
+
+      14 Sunoco removed this case to federal court under the Class Action
+
+Fairness Act of 2005 (CAFA), a sub-section of the diversity jurisdiction
+statute, 28 U.S.C. § 1332. See § 1332(d)(2).
+
+                                      33
+  Appellate Case: 23-7090    Document: 99-1   Date Filed: 11/17/2025   Page: 34
+
+
+
+substantive law of the forum state – Oklahoma.” Shotts v. GEICO Gen. Ins.
+
+Co., 943 F.3d 1304, 1308 n.4 (10th Cir. 2019). To do so, we “must ascertain
+
+and apply Oklahoma law with the objective that the result obtained in the
+
+federal court should be the result that would be reached in an Oklahoma
+
+court.” Siloam Springs Hotel, L.L.C. v. Century Sur. Co., 906 F.3d 926, 930
+
+(10th Cir. 2018) (quoting Wood v. Eli Lilly & Co., 38 F.3d 510, 512 (10th
+
+Cir. 1994)). Thus, when considering the arguments on marketable title, we
+
+look to Oklahoma law.
+
+      We start by analyzing the factual underpinnings of Sunoco’s
+
+arguments. Sunoco does not address the district court’s findings of fact
+
+regarding Sunoco’s failure to substantiate its marketable title defense. The
+
+district court found that:
+
+
+
+
+                                       34
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 35
+
+
+
+      • “Sunoco did not identify a single case in which an owner did not
+        have marketable title.” Cline II, 479 F. Supp. 3d at 1171.
+
+      • “Sunoco has never even bothered to figure out how much interest
+        it owes to owners. It keeps scant records of why it made late
+        payments.” Id. at 1155.
+
+      • It was only “after the [c]ourt certified the class (and long after the
+        [c]ourt set a trial date and discovery cutoff)” that “Sunoco finally
+        began to look through thousands of files for evidence of what it
+        might owe.” Id. at 1156.
+
+      • “For its millions of late payments, it says it cannot determine the
+        amount of interest due. This inability, however, does not arise from
+        a lack of information. Rather, it arises from Sunoco’s unwillingness
+        to make the effort, at the time of the late payment, to determine
+        the cause of the lateness and the amount of interest due.” Id. at
+        1160.
+
+      These factual findings undercut Sunoco’s marketable title challenge
+
+on appeal. Under Oklahoma law, doubts regarding marketable title can be
+
+used to suspend or deny proceeds payments to owners “only when a
+
+legitimate question as to marketability of title exist[s.]” Hull v. Sun Refin.
+
+& Mktg. Co., 789 P.2d 1272, 1277 (Okla. 1989). We explored this issue in
+
+Quinlan v. Koch Oil Co., 25 F.3d 936 (10th Cir. 1994), applying Oklahoma
+
+law and rejecting an oil producer’s defense that a royalty owner seeking
+
+relief under the PRSA had to make “a showing of marketable title every
+
+time a royalty payment was due.” Id. at 940. We declined “to read Hull as
+
+broadly as [the defendant] would have us.” Id.
+
+
+
+
+                                      35
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 36
+
+
+
+      The parties in this case frame this inquiry as a question of who has
+
+the burden of proof on marketable title. We assume, without deciding, that
+
+generally each royalty owner has the initial burden to establish marketable
+
+title to receive royalty payments under the PRSA, if there are “legitimate
+
+questions” on marketable title. But in this case, Sunoco itself had already
+
+determined that every member of the Class had marketable title, and it is
+
+“implausible that Sunoco paid people money that it did not owe them,
+
+especially considering the company’s policy of withholding interest
+
+payments from their rightful owners in contravention of clear Oklahoma
+
+law.” See Aplt. App. II at 204. Additionally, the definition of the class also
+
+ensured that Sunoco would pay damages only to those owners it had already
+
+determined were entitled to proceeds payments. See id. (“These limitations
+
+– narrowing the class to those who have already received untimely
+
+payments for oil proceeds but have not received the statutory interest
+
+payments – ensure the legal entitlement of each member of the class to
+
+interest payments under the PRSA.”).
+
+      As a result, we “conclude that the marketability of [the Class
+
+members’] title was not legitimately in question[,]” and thus we affirm the
+
+holding that each member of the Class is not obligated “to make an
+
+affirmative showing of marketable title” to prevail against Sunoco, Quinlan,
+
+25 F.3d at 940; accord Base, 563 P.3d at 954 (advising that “it does not
+
+                                      36
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 37
+
+
+
+appear that the parties even dispute whether [plaintiffs] have marketable
+
+title, as [the defendant] has been making royalty payments to [them]”).
+
+      In the absence of legitimate questions on marketable title in the first
+
+instance, marketable title became an affirmative defense, which Sunoco
+
+bore the burden to establish. See, e.g., Pioneer Centres Holding Co. Emp.
+
+Stock Ownership Plan & Tr. v. Alerus Fin., N.A., 858 F.3d 1324, 1335 (10th
+
+Cir. 2017); FTC v. Morton Salt Co., 334 U.S. 37, 44–45 (1948) (“[T]he burden
+
+of proving justification or exemption under a special exception to the
+
+prohibitions of a statute generally rests on one who claims its benefits[.]”).
+
+Sunoco pleaded a lack of marketable title as an affirmative defense, and
+
+“the burden of proving all affirmative defenses rests on the defendant.”
+
+Roberts v. Barreras, 484 F.3d 1236, 1241 (10th Cir. 2007). Placing the
+
+impossible burden on each Class member to determine how Sunoco
+
+conducted its internal corporate decision-making on the lack of marketable
+
+title would be both unworkable and unreasonable.
+
+      Sunoco failed to meet its burden to establish a lack of marketable title.
+
+At trial, Sunoco presented Kraettli Epperson “as an expert on marketable
+
+title.” Cline II, 479 F. Supp. 3d at 1163. But Epperson “did not examine any
+
+titles” and “could not testify that any of the owners did not have marketable
+
+title.” Id. Beyond this, “Epperson did not conduct a title search on property
+
+of any of the 53,000 owners to whom Sunoco made late payments. He offered
+
+                                      37
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 38
+
+
+
+no opinion on the state of any titles at issue in this case.” Id. Thus, Sunoco’s
+
+expert was unable to locate a single instance out of over 1.5 million late
+
+payments where legitimate questions on marketable title justified the late
+
+proceeds payment to an owner.
+
+      Finally, Sunoco argues that affirmative defenses are individualized
+
+and defeat class certification. See Reply Br. at 19. But affirmative defenses
+
+rarely defeat class certification, especially where, as here, they target only
+
+the amount of damages owed by a defendant:
+
+      In many circumstances, however, a class that otherwise
+      satisfies predominance can be certified even if affirmative
+      defenses raise individual questions of law or fact. Courts are
+      generally reluctant to deny class action status under Rule
+      23(b)(3) simply because affirmative defenses may be available
+      against individual members, such that the presence of
+      individual defenses does not by its terms preclude class
+      certification. Courts in most circuits have adopted some version
+      of this approach. This is particularly true given the range of
+      procedural mechanisms available to courts to deal with
+      potentially individualized affirmative defenses.
+
+2 Newberg and Rubenstein on Class Actions § 4:55 (6th ed. 2025) (footnotes
+
+and internal quotation marks omitted); see also Tyson Foods, Inc., 577 U.S.
+
+at 453–54 (predominance is met “under Rule 23(b)(3) even though other
+
+important matters will have to be tried separately, such as damages or some
+
+affirmative defenses peculiar to some individual class members” (quoting
+
+7AA C. Wright, A. Miller, M. Kane & R. Klonoff, Federal Practice &
+
+Procedure § 1778 (3d ed. 2005))); Olean Wholesale Grocery Coop., Inc. v.
+
+                                      38
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 39
+
+
+
+Bumble Bee Foods LLC, 31 F.4th 651, 668 (9th Cir. 2022) (same); Young v.
+
+Nationwide Mut. Ins. Co., 693 F.3d 532, 544 (6th Cir. 2012) (same); Sullivan
+
+v. DB Invs., Inc., 667 F.3d 273, 301 (3d Cir. 2011) (same); Smilow v. Sw.
+
+Bell Mobile Sys., Inc., 323 F.3d 32, 39 (1st Cir. 2003) (same) (collecting
+
+cases).
+
+      In sum, we reject Sunoco’s challenges to predominance under Rule
+
+23(b)(3) and affirm the district court’s decision to certify the Class and
+
+thereafter to decline to decertify the Class following the successful class
+
+action trial.
+
+                                      2
+
+      We next address Sunoco’s argument that the members of the class
+
+were not ascertainable. Sunoco says that the Class should not have been
+
+certified because all members of the Class were not identified by name. Op.
+
+Br. at 35–37.
+
+      Rule 23 does not expressly include an ascertainability requirement.
+
+But “most circuits have implemented some version of an ascertainability
+
+test as an implied prerequisite to class certification.” Freund v. McDonough,
+
+114 F.4th 1371, 1378 (Fed. Cir. 2024); see also Sandusky Wellness Ctr., LLC
+
+v. Medtox Sci., Inc., 821 F.3d 992, 995 (8th Cir. 2016) (same) (collecting
+
+cases). At class certification, the movant must provide “a sufficiently
+
+definite” class definition, and “[a]ll courts essentially focus on the question
+
+                                      39
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 40
+
+
+
+of whether the class can be ascertained by objective criteria.” 1 Newberg
+
+and Rubenstein on Class Actions § 3:3 (6th ed. 2025). “[A]scertainability
+
+requires only that the court be able to identify class members at some stage
+
+of the proceeding.” Freund, 114 F.4th at 1378 (internal quotation marks
+
+omitted).
+
+      In challenging ascertainability, Sunoco argues that we should adopt
+
+the minority view that “administrative feasibility” is a required element of
+
+the test for ascertainability. In support, Sunoco cites Adashunas v. Negley,
+
+626 F.2d 600, 604 (7th Cir. 1980), a Seventh Circuit decision from several
+
+decades ago. 15 Reply Br. at 14. Sunoco contends that class certification
+
+violates the “administrative feasibility” factor because locating class
+
+members will be time-consuming and overly difficult. However, Sunoco
+
+cannot defeat class certification either by failing to keep proper records or
+
+failing to produce them. See Cline II, 479 F. Supp. 3d at 1171 n.21 (declining
+
+to “allow Sunoco to hide behind a mess of its own making” by failing to keep
+
+proper records).
+
+
+
+
+      15 Not only does this 1980 decision precede the amendments to modern
+
+Rule 23, but it also advises that a court facing an overbroad class definition
+should narrow it – not outright deny class certification, and thereby deny
+relief to the entire class. See Kohen v. Pac. Inv. Mgmt. Co., 571 F.3d 672,
+678 (7th Cir. 2009) (citing Adashunas, 626 F.2d at 603-04).
+
+                                      40
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 41
+
+
+
+      The record demonstrates that Sunoco failed to gather and produce the
+
+owner information it was statutorily required to maintain under the PRSA.
+
+And gaps in the records kept and produced by a defendant cannot be used
+
+to hinder class certification. See Kelly v. RealPage Inc., 47 F.4th 202, 223
+
+(3d Cir. 2022). It is settled that “where [a defendant’s] lack of records makes
+
+it more difficult to ascertain members of an otherwise objectively verifiable
+
+class, the [individuals] who make up that class should not bear the cost of
+
+the [defendant’s] faulty record keeping.” Id. (alterations in original)
+
+(quoting Hargrove v. Sleepy’s LLC, 974 F.3d 467, 470 (3d Cir. 2020)); 16 see
+
+also Rikos v. Procter & Gamble Co., 799 F.3d 497, 525-26 (6th Cir. 2015)
+
+(advising that ascertaining the class members requires only “reasonable
+
+accuracy” and that class certification is proper even if that “process may
+
+require additional, even substantial, review of files”) (quoting Young, 693
+
+F.3d at 539).
+
+
+
+
+      16 These bracketed alterations in Kelly v. RealPage Inc. expanded the
+
+ruling in Hargrove v. Sleepy’s LLC, 974 F.3d 467 (3d Cir. 2020), which
+involved an employer-employee dynamic. In RealPage, the Third Circuit
+stated that it is appropriate to “rel[y] on Hargrove outside of the
+employment context for the proposition that a defendant’s faulty
+recordkeeping will not preclude certification of an otherwise ascertainable
+class.” Lewis v. Gov’t Emps. Ins. Co., 98 F.4th 452, 462 n.13 (3d Cir. 2024)
+(citing Kelly v. RealPage Inc., 47 F.4th 202, 223 (3d Cir. 2022)). Thus, these
+ascertainability rulings apply to all class actions.
+
+                                      41
+  Appellate Case: 23-7090   Document: 99-1    Date Filed: 11/17/2025   Page: 42
+
+
+
+      Nor can “defendants . . . defeat ascertainability with a strategic
+
+decision to house records across multiple sources or databases.” Kelly, 47
+
+F.4th at 223; Lewis v. Gov’t Emps. Ins. Co., 98 F.4th 452, 462 & n.13 (3d
+
+Cir. 2024) (explaining that “a straightforward ‘yes-or-no’ review of existing
+
+records to identify class members is administratively feasible even if it
+
+requires review of individual records with cross-referencing of voluminous
+
+data from multiple sources”) (quoting Kelly, 47 F.4th at 224); see also Kelly,
+
+47 F.4th at 223 (A “matching of records is precisely the sort of exercise we
+
+have found sufficiently administrable to satisfy ascertainability in other
+
+cases.”).
+
+      Likewise, a defendant cannot avoid class certification by objecting “to
+
+the number of records that must be individually reviewed,” because that “is
+
+essentially an objection to the size of the class, which . . . explicitly . . . is
+
+not a reason to deny class certification.” Kelly, 47 F.4th at 224; see also
+
+Young, 693 F.3d at 539-40 (same and collecting cases). “To hold otherwise
+
+would be to categorically preclude class actions where defendants
+
+purportedly harmed too many people, which would seriously undermine the
+
+purpose of a class action to vindicate meritorious individual claims in an
+
+efficient manner.” Id. at 225 (internal quotation marks omitted). Indeed,
+
+“[i]t is often the case that class action litigation grows out of systemic
+
+failures of administration, policy application, or records management that
+
+                                       42
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 43
+
+
+
+result in small monetary losses to large numbers of people.” Rikos, 799 F.3d
+
+at 525 (quoting Young, 693 F.3d at 540). And, thus, “[t]o allow that same
+
+systemic failure to defeat class certification would undermine the very
+
+purpose of class action remedies.” Id. at 525–26 (quoting Young, 693 F.3d
+
+at 540).
+
+      At the same time, our circuit has not yet published a decision on
+
+whether ascertainability is a separate class certification factor. 17 It appears
+
+that there is now some uncertainty, which has left some district courts in
+
+this circuit forced to guess about what ascertainability standard to apply.
+
+At least two lower courts in our circuit have predicted that we would adopt
+
+
+
+
+      17 We did state in the 1970s that “[i]n class action suits there must be
+
+presented some evidence of established, ascertainable numbers constituting
+the class” to satisfy the numerosity requirement in Rule 23(a)(1). Rex v.
+Owens ex rel. State of Okla., 585 F.2d 432, 436 (10th Cir. 1978). But we did
+not expand on what that meant, and in the nearly half century since then,
+Rule 23 and the corresponding case law on class actions and ascertainability
+have evolved significantly (along with the ability to gather and analyze
+records electronically, allowing litigants to ascertain in seconds what might
+have taken months or years in previous decades).
+
+                                      43
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 44
+
+
+
+the Seventh Circuit’s test for ascertainability, which is the majority rule
+
+among our sister circuits. 18
+
+      We join the majority view by adopting the Seventh Circuit’s test for
+
+ascertainability of a class action’s members. We also reject “administrative
+
+feasibility” as an additional required factor. Freund, 114 F.4th at 1378
+
+(quoting Hayes v. Wal-Mart Stores, Inc., 725 F.3d 349, 356 (3d Cir. 2013)).
+
+Instead, we “agree with the majority of circuits that there is no basis for
+
+finding a lack of ascertainability because it is difficult to identify the class
+
+members.” Id.; see also id. at 1378 n.6 (collecting cases from the Second,
+
+Seventh, Eighth, and Ninth Circuits). Rather, as our sister circuits have
+
+explained, “administrative feasibility may bear on whether class resolution
+
+is superior to individual resolution,” but it should not operate as a trump
+
+card that outweighs all other factors under Rule 23. Id.; see also Davoll v.
+
+Webb, 194 F.3d 1116, 1146 (10th Cir. 1999) (upholding district court’s
+
+
+
+
+      18 In two multi-district litigations involving complex class actions in
+
+the District of Kansas, both district courts predicted our adoption of the
+Seventh Circuit’s test for ascertainability, “under which the class definition
+must not be too vague, the class must not be defined by subjective criteria,
+and the class must not be defined in terms of success on the merits.” In re:
+Syngenta AG MIR 162 Corn Litig., No. 14-MD-2591-JWL, 2016 WL
+5371856, at *2 (D. Kan. Sept. 26, 2016); see also In re EpiPen (Epinephrine
+Injection, USP) Mktg., Sales Pracs. & Antitrust Litig., No. 17-MD-2785-
+DDC-TJJ, 2020 WL 1180550, at *11 (D. Kan. Mar. 10, 2020) (same).
+                                      44
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 45
+
+
+
+exercise of discretion that determining class membership would be
+
+administratively infeasible).
+
+      For class members to be ascertainable, the class definition must (1) be
+
+defined clearly and cannot be defined too vaguely, and (2) be defined
+
+objectively and cannot be based on subjective criteria, such as by a person’s
+
+state of mind. 19 Mullins v. Direct Digit., LLC, 795 F.3d 654, 659–60 (7th Cir.
+
+2015). Again, we “see no reason” to make administrative feasibility a
+
+required element of this test, “particularly given the strong criticism it has
+
+attracted from other courts.” Rikos, 799 F.3d at 525; see also Mullins, 795
+
+F.3d at 662 (same). In contrast, we require the movant seeking class
+
+certification to show that class members can ultimately be identified (i.e.,
+
+they are ascertain-able but not necessarily ascertained at the time of class
+
+certification) using “reasonable – but not perfect – accuracy.” Rikos, 799
+
+F.3d at 526.
+
+      The Class satisfied this ascertainability standard. The district court
+
+made specific fact-findings that the class was objectively defined with a
+
+
+
+
+      19 We again decline to decide whether a “fail-safe” class definition is
+
+an independent bar to class certification because this argument was not
+adequately briefed. Sherman v. Trinity Teen Solutions, Inc., 84 F.4th 1181,
+1191 n.6 (10th Cir. 2023). A “fail-safe” class is “one that is defined so that
+whether a person qualifies as a member depends on whether the person has
+a valid claim.” Messner v. Northshore Univ. HealthSystem, 669 F.3d 802,
+825 (7th Cir. 2012).
+                                      45
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 46
+
+
+
+reliable and administratively feasible mechanism for determining class
+
+membership. Cline I, 333 F.R.D. at 688. Sunoco does not challenge these
+
+findings of fact, again failing to point us to an error in the trial proceedings
+
+or district court rulings. Having paid every class member principal proceeds
+
+and deemed its own records sufficient to satisfy its obligations under the
+
+PRSA, Sunoco is not permitted to cast doubt on its own record-keeping to
+
+avoid liability. See Soutter v. Equifax Info. Servs., LLC, 307 F.R.D. 183,
+
+197–98 (E.D. Va. 2015) (“In general, courts do not look favorably upon the
+
+argument that records a defendant treats as accurate for business purposes
+
+are not accurate enough to define a class.”).
+
+      This is especially true in this case because, as a “first purchaser” of
+
+oil, Sunoco is obligated under the PRSA to keep proper records on the
+
+payments owed and made to owners. Cline II, 479 F. Supp. 3d at 1172. And
+
+Sunoco does not contest on appeal the district court’s factual findings on
+
+ascertainability or its ability to locate members of the Class. The district
+
+court found:
+
+      Unsurprisingly, Sunoco conflates doing what is impossible with
+      doing what is hard. No doubt, figuring out what Sunoco owes to
+      interest owners is difficult when it has failed to comply with the
+      PRSA for years. Had Sunoco done its homework in the years
+      before this suit, it would have known how much interest it owes,
+      and could have presented a compilation or summary. See Fed.
+      R. Evid. 1006. Sunoco's own evidence shows that it has the
+      ability to determine what Sunoco owes interest owners; it just
+
+
+                                      46
+  Appellate Case: 23-7090   Document: 99-1      Date Filed: 11/17/2025   Page: 47
+
+
+
+      does not do so until asked. Thus, Sunoco's arguments fall far
+      short.
+
+Id. at 1164-65. For all these reasons, we affirm the district court’s ruling
+
+that the Class satisfied ascertainability. 20
+
+                                       B
+
+      Sunoco next challenges standing. It contends that a portion of the
+
+Class was not identified by name because Sunoco had only the account
+
+information, not the names for each “flesh and blood” class member. 21 As a
+
+
+
+
+      20 Beyond its challenges to class certification based on predominance
+
+and ascertainability, Sunoco also lists several other class action factors, left
+undeveloped as legal arguments, that we decline to review under “the
+doctrine of appellate-briefing waiver.” In re Syngenta AG MIR 162 Corn
+Litig., 111 F.4th 1095, 1112 (10th Cir. 2024). The mere “[r]ecitation of a tale
+of apparent injustice . . . cannot substitute for legal argument.” Id. (internal
+quotation marks omitted). Sunoco asserts, for instance, that the district
+court violated the Rules Enabling Act and that some class members had
+intra-class conflicts based on indemnity agreements. Sunoco also mentions
+that determining the date of first-sale as a factual matter defeated the
+typicality and adequacy requirements under Rule 23(a)(3) and (4). Before
+the district court, it made a similar argument to challenge predominance.
+See Aplt. App. I at 202. But even if this argument was not waived as under-
+developed on appeal, the district court’s fact-finding, made in reliance upon
+the Class’s expert, was not an abuse of discretion.
+
+      21 Sunoco inserted a “flesh and blood” phrase or argument for the first
+
+time in its reply brief, no less than six times. Reply Br. at 6, 7, 12, 16, 22,
+23. But it does not adequately explain the meaning of that phrase nor
+provide a citation for any authority that would give this phrase legal
+significance to this case.
+
+                                      47
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 48
+
+
+
+result, Sunoco argues that the entire class action failed for lack of standing.
+
+We disagree.
+
+      To establish standing, a plaintiff must demonstrate that they
+
+(1) “ha[ve] suffered or likely will suffer an injury in fact,” (2) “the injury
+
+likely was caused or will be caused by the defendant,” and (3) “the injury
+
+likely would be redressed by the requested judicial relief.” Food & Drug
+
+Admin. v. All. for Hippocratic Med., 602 U.S. 367, 380 (2024). The Class met
+
+all three factors. Sunoco underpaid every class member by failing to
+
+automatically pay interest (monetary injury), and every time it did so, the
+
+cause of this underpayment is directly traceable to (and, thus, directly
+
+redressable by the damages paid by) Sunoco.
+
+      Sunoco’s standing challenge focuses primarily on the Article III
+
+standing of the Class members whose damages awards were allocated to
+
+unclaimed state property funds. Sunoco argues that class members who
+
+have not been located have not been injured, but it fails to offer any legal
+
+support addressing its unclaimed property fund argument.
+
+      The district court’s reasoning on standing is sound. “Each state has
+
+created by statute a government agency that collects money held by
+
+businesses for people who cannot be found. The agency holds the money on
+
+behalf of the true owners.” Cline II, 479 F. Supp. 3d at 1162. In turn, “[o]nce
+
+the state receives the money on behalf of the individual, the owner can claim
+
+                                      48
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 49
+
+
+
+the money.” Id. at 1172 (citing Okla. Stat. Ann. tit. 60, §§ 661, 663–64, 674–
+
+75; Tex. Prop. Code Ann. §§ 74.304, 74.501 (state unclaimed property funds
+
+for Oklahoma and Texas)). Therefore, “[p]aying the state amounts to paying
+
+the owner or an agent or trustee on behalf of the owner. Thus, each class
+
+member has suffered an injury because Sunoco has withheld interest it
+
+owes to the owner.” Id.
+
+      Sunoco has not presented persuasive arguments to the contrary.
+
+Oklahoma has adopted the Uniform Unclaimed Property Act, and “this
+
+statutory scheme governs the distribution of unclaimed or abandoned
+
+property in Oklahoma.” Unit Petroleum Co. v. Veitch, 79 F. Supp. 3d 1234,
+
+1241 (N.D. Okla. 2015); see Okla. Stat. Ann. tit. 60, § 651–88 (the Uniform
+
+Unclaimed Property Act (UUPA)). Sunoco says the district court’s award to
+
+the unclaimed property funds is an invalid order of “escheat,” which “is a
+
+procedure with ancient origins whereby a sovereign may acquire title to
+
+abandoned property if after a number of years no rightful owner appears.”
+
+Dani v. Miller, 374 P.3d 779, 786 n.4 (Okla. 2016). But Sunoco’s effort to
+
+defeat standing by its escheat argument is off the mark because the UUPA
+
+is “not” an “escheat” statute. See TXO Prod. Corp. v. Oklahoma Corp.
+
+Comm’n, 829 P.2d 964, 971–72 (Okla. 1992) (explaining that the UUPA is
+
+not a true escheat statute but rather a custodial taking law). Oklahoma’s
+
+unclaimed property fund “protects the owners of unclaimed property by
+
+                                      49
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 50
+
+
+
+providing an orderly system of recovery for presumably abandoned
+
+property[.]” Dani, 374 P.3d at 788 (rejecting numerous constitutional
+
+challenges to Oklahoma’s UUPA statute); see also Croslin v. Enerlex, Inc.,
+
+308 P.3d 1041, 1049 (Okla. 2013) (advising that the UUPA properly ensures
+
+“mineral proceeds of unknown and unlocated property owners will be
+
+safeguarded[.]”). Which is to say, the payments to the unclaimed property
+
+fund do not defeat the injury in fact requirement of standing.
+
+     Both Oklahoma, where the oil wells at issue in this case are located,
+
+and Texas, where Sunoco is headquartered and sends unclaimed funds for
+
+which it has no owner information, Cline II, 479 F. Supp. 3d at 1160, have
+
+adopted the UUPA. Dani, 374 P.3d at 786; Clark v. Strayhorn, 184 S.W.3d
+
+906, 910 (Tex. App. 2006). In contrast, Sunoco’s novel view on standing
+
+would motivate oil and gas companies to make every effort to avoid locating
+
+owners entitled to proceeds and interest under the PRSA. That would
+
+undermine the statutory purpose of both the PRSA and the UUPA, which
+
+is “designed so that unclaimed property is held by and for the benefit of the
+
+state until the rightful owner can be found, and . . . is intended to prevent
+
+a windfall to a private holder seeking to claim property for [itself].” Unit
+
+Petroleum, 79 F. Supp. 3d at 1241 (citing Combs v. B.A.R.D. Indus. Inc., 299
+
+S.W.3d 463, 471–72 (Tex. App. 2009)).
+
+
+
+                                      50
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 51
+
+
+
+      In addition, Sunoco’s standing argument fails because it admits, as it
+
+must, that it owes a statutory duty to keep adequate records regarding its
+
+royalty payments. See Okla. Stat. Ann. tit. 52, § 570.12(A). And Sunoco’s
+
+deficient recordkeeping is the reason these royalty owners are not identified
+
+by name. In this case, “Cline offered evidence” showing that “Sunoco did not
+
+make a bona fide effort to find people before sending their proceeds to
+
+unclaimed property funds” and even “threatened to send one of Cline’s
+
+interest checks to unclaimed property, even though it was in litigation with
+
+Cline, knew his address, and had frequent contact with his lawyers[.]” Cline
+
+II, 479 F. Supp. 3d at 1162 n.15.
+
+      Thus, although “Sunoco has vigorously argued that its own records
+
+are too unreliable to explain why it made a late payment,” we agree that
+
+“interpret[ing] the PRSA to impose on the owners the burden to prove why
+
+Sunoco withheld payment” in turn “would effectively allow Sunoco to hide
+
+behind a mess of its own making, claiming innocence.” Id. at 1171 n.21; see
+
+also Nieberding v. Barrette Outdoor Living, Inc., 302 F.R.D. 600, 607 (D.
+
+Kan. 2014) (pointing out in a consumer class action the danger that a
+
+defendant “could immunize itself from class certification by merely choosing
+
+not to keep records[.]”).
+
+      Simply put, every class member was underpaid by Sunoco and
+
+therefore has standing based on a monetary injury that is traceable and
+
+                                      51
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 52
+
+
+
+redressable by Sunoco. See TransUnion LLC v. Ramirez, 594 U.S. 413, 425
+
+(2021) (“If a defendant has caused . . . monetary injury to the plaintiff, the
+
+plaintiff has suffered a concrete injury in fact under Article III.”). For all
+
+these reasons, we reject Sunoco’s standing argument. 22
+
+                                      C
+
+      We next turn to the outcome of the bench trial – damages. This case
+
+proceeded as a class action to trial, and then to post-trial proceedings to
+
+allocate the damages to the Class. The district court issued its trial opinion
+
+with its findings of fact and conclusions of law, as Federal Rule of Civil
+
+Procedure 52(a) requires.
+
+      On appeal, we review the district court’s legal rulings de novo and the
+
+district court’s findings of fact “must not be set aside unless clearly
+
+erroneous.” Fed. R. Civ. P. 52(a)(6). Thus, “deference to the trier of fact” is
+
+“the rule, not the exception.” Anderson v. City of Bessemer City, 470 U.S.
+
+564, 575 (1985). Our role is limited “[i]n reviewing the district court’s
+
+findings after a bench trial for clear error,” and “we do not retry the facts.”
+
+
+
+
+      22 In a footnote to its opening brief, Sunoco also argues that “any claim
+
+to interest on proceeds sitting in unclaimed-property funds is not
+prudentially ripe.” Because this argument is underdeveloped and
+inadequately briefed, we deem it to be waived. Valdez v. Macdonald, 66
+F.4th 796, 834 (10th Cir. 2023).
+                                      52
+  Appellate Case: 23-7090   Document: 99-1    Date Filed: 11/17/2025   Page: 53
+
+
+
+MVT Servs., LLC v. Great W. Cas. Co., 118 F.4th 1274, 1281 (10th Cir.
+
+2024).
+
+      Sunoco challenges the award of prejudgment interest owed at a 12
+
+percent rate, compounded annually, until the date the trial order was
+
+published. 23 “When royalty proceeds are not paid within the time
+
+constraints outlined in the [PRSA], interest begins to accrue and is
+
+compounded annually.” Krug, 362 P.3d at 212. Sunoco primarily argues that
+
+a significant amount of interest was added after the date of trial, which is
+
+unfair and unlawful.
+
+      Both parties frame this issue on appeal as a question of prejudgment
+
+interest. This circuit has also described the damages owed for unpaid PRSA
+
+statutory interest as “prejudgment interest,” Okland Oil Co. v. Conoco Inc.,
+
+144 F.3d 1308, 1320 (10th Cir. 1998). Prejudgment interest in a diversity
+
+action is “a substantive matter governed by state law.” Webco Indus., Inc.
+
+v. Thermatool Corp., 278 F.3d 1120, 1134 (10th Cir. 2002).
+
+      To the district court, Sunoco argued that “once it makes the late
+
+payment to the interest owner, statutory interest stops accruing.” Cline II,
+
+
+      23 As a cutoff date for when prejudgment interest stopped accruing,
+
+the district court stated that it used the date that it issued its trial decision,
+which was published on August 17, 2020. See Cline II, 479 F. Supp. at 1161
+n.13 (explaining that “the interest owed in this case is $74,763,113.00 plus
+any additional interest due from December 17, 2019, to the date of this
+Opinion.”).
+
+                                       53
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 54
+
+
+
+479 F. Supp. 3d at 1175. In response, the Class argued that “Sunoco owes
+
+compound interest until Sunoco pays the statutory interest.” Id. At trial and
+
+on appeal, “Sunoco interprets ‘until the day paid’ to mean ‘until the day
+
+Sunoco paid the proceeds.’ Thus, Sunoco argues that it does not owe
+
+compound interest.” Id.; see Op. Br. at 51–52.
+
+      The district court sided with the Class, determining that “compound
+
+interest is a common feature in investments and means simply that interest
+
+becomes part of the principal and therefore earns interest.” Cline II, 479 F.
+
+Supp. 3d at 1175. It further cited and adopted the reasoning of Cockerell Oil
+
+Props., Ltd v. Unit Petroleum Co., No. CIV-16-135-KEW, 2020 WL 2110904,
+
+at *2 (E.D. Okla. May 4, 2020), which held that compound interest, as used
+
+in the PRSA, is “unambiguous” and “provid[es] for the annual accrual of
+
+interest on the accumulated interest on any unpaid proceeds not paid timely
+
+under the provisions of that statute.”
+
+      We start with the PRSA’s plain language. See Am. Airlines, Inc. v.
+
+State, ex rel. Oklahoma Tax Comm’n, 341 P.3d 56, 64 (Okla. 2014) (“The
+
+cardinal rule of statutory construction is to ascertain and give effect to the
+
+legislative intent and purpose as expressed by the statutory language.”).
+
+The PRSA states, in relevant part:
+
+      [T]hat portion [of the proceeds] not timely paid shall earn
+      interest at the rate of twelve percent (12%) per annum to be
+
+
+                                      54
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 55
+
+
+
+      compounded annually, calculated from the end of the month in
+      which such production is sold until the day paid.
+
+Okla. Stat. Ann. tit. 52, § 570.10(D)(1).
+
+      As the Class argues, under Oklahoma law and universally across
+
+jurisdictions, “amounts of unpaid interest become part of the principal; that
+
+is the technical definition of ‘compound interest.’” Resp. Br. at 55.
+
+Oklahoma’s statute defining compound interest says this expressly. See
+
+Okla. Stat. Ann. tit. 25, § 27 (“The words ‘compound interest’ mean interest
+
+added to the principal as the former becomes due, and thereafter made to
+
+bear interest.” (emphasis added)).
+
+      As unpaid compound interest accrues, it is added to the principal,
+
+effectively converting it from unpaid interest to become a portion of the
+
+underlying unpaid principal proceeds that are owed to the plaintiff. See id.;
+
+see also 47 C.J.S. Interest & Usury § 2 (“Compound interest is interest on
+
+interest. It is paid both on the principal and the previously accumulated
+
+interest. Accrued interest is added periodically to the principal, and interest
+
+is computed upon the new principal thus formed. (footnotes omitted)”); 44B
+
+Am. Jur. 2d Interest and Usury § 41 (same). Nor does Sunoco refute that,
+
+generally, debt payments are applied to any unpaid interest before they
+
+ever are applied to reduce the unpaid principal. See Resp. Br. at 56 (citing
+
+Landess v. State ex rel. Comm’rs of Land Off., 335 P.2d 1077, 1079 (Okla.
+
+
+                                      55
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 56
+
+
+
+1958) (“[T]he rule is to apply the payments in the first place to the discharge
+
+of the interest then due and the remainder on the principal.”) (internal
+
+quotation marks omitted)).
+
+      We agree with the dissent that the accrual date for payment stops the
+
+day something is paid. Dissent at 3 (emphasis in original). However, the
+
+dissent concludes the “something” is “that portion [of proceeds] not timely
+
+paid.” Id. But this reading of the PRSA does not give adequate weight to the
+
+language that commands those unpaid proceeds “shall earn interest . . . to
+
+be compounded annually.” § 570.10(D)(1). Thus, under Oklahoma law, the
+
+better reading of the PRSA is “take all of its provisions and read them as a
+
+whole so that each provision will be in harmony with every other, . . . .”
+
+Melton v. Quality Homes, Inc., 312 P.2d 476, 479 (Okla. 1957). The PRSA
+
+mandates the payment of unpaid proceeds and compounded interest, so we
+
+agree with the district court that the accrual date stops when “that portion
+
+[of proceeds and compounded interest are] paid.” § 570.10(D)(1) (citation
+
+modified).
+
+      Even if the PRSA’s language on compound interest were ambiguous
+
+(which it is not), we would affirm and reach the same result by applying
+
+Oklahoma’s rules of statutory construction. See Am. Airlines, 341 P.3d at
+
+64 (“If the legislative intent cannot be ascertained from the language of a
+
+statute, as in the cases of ambiguity, we must apply rules of statutory
+
+                                      56
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 57
+
+
+
+construction.”). In interpreting the PRSA specifically, the Oklahoma
+
+Supreme Court has directed that “[l]egislative intent controls statutory
+
+interpretation.” Krug, 362 P.3d at 210. So we must “give effect to the
+
+legislative intent and the public policy underlying the intent.” Am. Airlines,
+
+341 P.3d at 65.
+
+      Furthermore, the Oklahoma “Legislature has expressed its intent
+
+that it shall be the public policy in Oklahoma for royalty owners to receive
+
+prompt payment from the sale of oil and gas products.” Hull, 789 P.2d at
+
+1279; see also In re Tulsa Energy, Inc., 111 F.3d 88, 90 (10th Cir. 1997)
+
+(same). To this end, “[f]rom 1980 to 1989,” the PRSA “provided for interest
+
+of twelve percent per annum, without compounding.” Hebble v. Shell W. E
+
+& P, Inc., 238 P.3d 939, 945 (Okla. Civ. App. 2009). 24 Not only does the
+
+statute now mandate that unpaid proceeds “shall earn interest at the rate
+
+of twelve percent (12%) per annum to be compounded annually . . . until the
+
+day paid,” but “[t]he prejudgment interest authorized by § 570.10
+
+constitutes a part of the judgment and is considered a part of the total
+
+liability recovered.” Id. (quoting § 570.10); see also id. at 946 (advising that
+
+“prejudgment interest under the PRSA is part of [the] compensatory
+
+
+      24 Hebble involved a challenge to the trial court’s instruction to the
+
+jury about the awarding of prejudgment interest under the PRSA. 238 P.3d
+at 946. It did not interpret the PRSA’s “until the day paid” language that is
+at issue here.
+                                      57
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 58
+
+
+
+damages” to be awarded). We decline to reach a conclusion that “conflicts
+
+with the spirit and letter of [the PRSA] and [violates] the public policy
+
+intended to be promoted through its enactment – prompt payment to royalty
+
+owners of proceeds from the sale of oil or gas.” Hull, 789 P.2d at 1280.
+
+      Under Oklahoma law, and the law of most states generally, 25
+
+“[p]rejudgment interest serves to compensate for the loss of use of money
+
+due as damages from the time the claim accrues until judgment is entered,
+
+thereby achieving full compensation for the injury those damages are
+
+intended to redress.” Krug, 362 P.3d at 214. Indeed, “[i]t is an element of
+
+the total liability adjudicated.” Id.
+
+      On top of this, we are bound to recognize that the Oklahoma
+
+“Legislature has followed a path of strengthening mineral owners[’] rights
+
+since the [PRSA’s] inception.” Id.; see also Hull, 789 P.2d at 1279 (same).
+
+The Oklahoma legislature “removed” language in the PRSA that led courts
+
+
+
+
+      25 “Prejudgment interest . . . is part of the actual damages sought to
+
+be recovered.” Webco Indus., Inc. v. Thermatool Corp., 278 F.3d 1120, 1134
+(10th Cir. 2002) (quoting Johnson v. Continental Airlines Corp., 964 F.2d
+1059, 1062–63 (10th Cir. 1992)). Thus, “[p]rejudgment interest is an
+element of complete compensation,” and without awarding prejudgment
+interest, a plaintiff is not made whole because it loses out on the time value
+of money. Morrison Knudsen Corp. v. Ground Improvement Techs., Inc., 532
+F.3d 1063, 1073 (10th Cir. 2008) (quoting West Virginia v. United States,
+479 U.S. 305, 310 (1987)).
+
+
+                                        58
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 59
+
+
+
+to interpret the statute as punitive. Krug, 362 P.3d at 213 n.24. When a
+
+legislature amends a statute, we presume that “it intends its amendment
+
+to have real and substantial effect.” Bufkin v. Collins, 145 S. Ct. 728, 741
+
+(2025) (quoting Intel Corp. v. Advanced Micro Devices, Inc., 542 U.S. 241,
+
+258–59 (2004)); see also Estrada v. Smart, 107 F.4th 1254, 1268 (10th Cir.
+
+2024) (same). Taken together, we discern from the statutory text and a clear
+
+legislative intent to make royalty owners whole by compensating them for
+
+the lost time value of their money.
+
+     Sunoco claims it is unfair to compound the prejudgment interest owed
+
+because the delays caused by the district court’s initial order allocating
+
+damages – which we reversed – caused an increase in the amount of
+
+prejudgment interest. But “courts should not read into a statute exceptions
+
+not made by the Legislature.” Antini v. Antini, 440 P.3d 57, 60 (Okla. 2019)
+
+(quoting Seventeen Hundred Peoria, Inc. v. City of Tulsa, 422 P.2d 840, 843
+
+(Okla. 1966)). Similarly, the PRSA states that prejudgment interest “shall”
+
+accrue at 12 percent, and “the word ‘shall’ is a mandatory command” we are
+
+obligated to follow. State ex rel. W. State Hosp. v. Stoner, 614 P.2d 59, 63
+
+(Okla. 1980); see also Smith v. Spizzirri, 601 U.S. 472, 476 (2024) (same).
+
+As a federal court sitting in diversity jurisdiction, we are “not free to
+
+engraft” any “exceptions or modifications” to Oklahoma law. Day &
+
+Zimmermann, Inc. v. Challoner, 423 U.S. 3, 4 (1975). Our “proper function”
+
+                                      59
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 60
+
+
+
+in a diversity case “is to ascertain what the state law is, not what it ought
+
+to be.” Klaxon Co. v. Stentor Elec. Mfg. Co., 313 U.S. 487, 497 (1941).
+
+      Moreover, we have also already considered and rejected the notion of
+
+an equitable exception argument to prejudgment interest. Applying
+
+Colorado law, which is substantially similar to Oklahoma law on
+
+prejudgment interest, we held that it was reversible error to insert an
+
+equitable exception into a state statute awarding prejudgment interest. See
+
+Echo Acceptance Corp. v. Household Retail Servs., Inc., 267 F.3d 1068, 1092
+
+(10th Cir. 2001) (“Regardless of the factors that contributed to the length of
+
+time during which prejudgment interest was accruing[,]” there is “no
+
+discretion” to add an equitable exception.). A state prejudgment interest
+
+statute – whether Colorado’s or Oklahoma’s – “merely recognizes the time
+
+value of money” and restores the plaintiff to the position the plaintiff would
+
+have been in but for the defendant’s harm. Id. (internal quotation marks
+
+omitted).
+
+      Finally, Sunoco argues that the Energy Litigation Reform Act
+
+(ELRA), Okla. Stat. Ann. tit. 52, §§ 901-03, expressly limits the scope of
+
+damages and “confirms that extra-statutory prejudgment interest is off the
+
+table.” Op. Br. at 54. Sunoco contends the ELRA, which was enacted in
+
+2012, requires that “no interest beyond what the PRSA awards as
+
+damages—which stops accruing once proceeds are paid—may be awarded.”
+
+                                      60
+  Appellate Case: 23-7090   Document: 99-1    Date Filed: 11/17/2025   Page: 61
+
+
+
+Id. It is questionable whether this ELRA argument was properly raised
+
+before the district court to not be forfeited on appeal, Richison v. Ernest
+
+Group, Inc., 634 F.3d 1123, 1128 (10th Cir. 2011), however, the Class does
+
+not raise forfeiture in its Response Brief because it does not mention
+
+Sunoco’s   ELRA     argument      regarding   prejudgment     interest   at   all.
+
+Nevertheless, Sunoco cites no authority to support its reading that the
+
+ELRA mandates that interest stops accruing once proceeds are paid, and
+
+we are aware of none. Based upon the thin argument presented and the
+
+depth of authority that supports our holding, we are not persuaded that
+
+Sunoco’s ELRA argument alters our reading of the PRSA’s compound
+
+interest or merits Sunoco any relief.
+
+      We affirm the district court’s final actual damages award, which
+
+included the additional prejudgment interest added until the entry of the
+
+district court’s trial opinion.
+
+                                        D
+
+      The last argument we reach is Sunoco’s challenge to the punitive
+
+damages award. The district court awarded $75 million in punitive
+
+damages, ruling that Sunoco willfully violated the PRSA by failing to pay
+
+interest that it knew was owed to every class member without receiving an
+
+
+
+
+                                        61
+  Appellate Case: 23-7090   Document: 99-1    Date Filed: 11/17/2025   Page: 62
+
+
+
+individual demand from each royalty owner. Cline II, 479 F. Supp. 3d at
+
+1178–81.
+
+      On appeal, Sunoco argues that punitive damages are available only
+
+for tort claims, not claims for breach of contract, and the PRSA claim must
+
+be interpreted as a breach of contract claim under Oklahoma law. In
+
+response, the Class argues that the PRSA creates a statutory tort, and that
+
+the ELRA expressly allows punitive damages in a case also involving a
+
+claim and liability under the PRSA. See Okla. Stat. Ann. tit. 52, § 903
+
+(allowing punitive damages under the ELRA if a factfinder determines
+
+“upon clear and convincing evidence” that the defendant failed to pay
+
+required proceeds “with the actual, knowing and willful intent: (a) to
+
+deceive the person to whom the proceeds were due, or (b) to deprive proceeds
+
+from the person the holder knows, or is aware, is legally entitled thereto”).
+
+We agree with Sunoco and vacate the punitive damages award.
+
+      The district court found that the Class had to clear two hurdles to be
+
+awarded punitive damages, the ELRA and the Oklahoma punitive damages
+
+statute, Okla. Stat. Ann. tit. 23, § 9.1. By awarding punitive damages, the
+
+district court found that the Class was successful in its clearance of both.
+
+However, the punitive damages award runs afoul of Oklahoma law, which
+
+precludes punitive damages for a breach of contract claim. See Okla. Stat.
+
+Ann. tit. 23, § 9.1(A) (“In an action for the breach of an obligation not arising
+
+                                       62
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 63
+
+
+
+from contract, the jury, in addition to actual damages, may, . . . award
+
+punitive damages . . .) (emphasis added).
+
+      Taking a step back, we acknowledge again that the only claim before
+
+us on appeal is the PRSA claim because the Class did not prevail on the
+
+fraud claim at trial. Under Oklahoma law, a claim under the PRSA is
+
+construed as a claim for breach of contract. Purcell, 961 P.2d at 193; see also
+
+Krug, 362 P.3d at 213 (explaining that the 12 percent interest owed under
+
+the PRSA “should not be characterized as a penalty but, rather, an integral
+
+part of a contractual claim”). Which is to also say, under Oklahoma law, a
+
+party cannot recover punitive damages unless it also prevails on an
+
+independent tort claim for fraud, deceit by nondisclosure, or a similar tort
+
+claim that permits punitive damages. We made this point in our decision in
+
+Zenith Drilling Corp. v. Internorth, Inc., 869 F.2d 560 (10th Cir. 1989),
+
+where we explained that punitive damages are available under Oklahoma
+
+law in a case involving a breach of contract only when a plaintiff prevails
+
+on an “independent, willful tort[.]” Id. at 565 (quoting Z.D. Howard Co. v.
+
+Cartwright, 537 P.2d 345, 347 (Okla. 1975)).
+
+      To sidestep the general rule that a party cannot receive punitive
+
+damages based on a breach of contract claim, the Class argues that the
+
+PRSA created a statutory tort. This argument has been rejected by
+
+Oklahoma courts. See, e.g., Purcell, 961 P.2d at 191–94 (rejecting the
+
+                                      63
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 64
+
+
+
+argument that the PRSA creates “statutory liability” that arises
+
+“separately” and instead stating that the “12 [percent] interest” awarded as
+
+PRSA damages is “part of the contractual claim”); Krug, 362 P.3d at 213
+
+(explaining that the 12 percent interest owed under the PRSA “should not
+
+be characterized as a penalty but, rather, an integral part of a contractual
+
+claim”); Hebble, 238 P.3d at 945 (“[t]he PRSA does not create a statutory
+
+claim.”).
+
+      In Purcell, the Oklahoma Supreme Court held that a PRSA violation
+
+“is based upon a breach of the obligation to pay the royalty arising ex
+
+contractu in the manner prescribed by [the PRSA].” 961 P.2d at 193 (citation
+
+omitted); see also Ex Contractu, Black’s Law Dictionary (12th ed. 2024)
+
+(defining “ex contractu” as “[a]rising from a contract”); see also Uptegraft v.
+
+Home Ins. Co., 662 P.2d 681, 684–85 (Okla. 1983) (holding that a claim for
+
+relief that is ex contractu “is clearly a contract action”). Just last year, the
+
+Oklahoma Supreme Court reaffirmed this language from Purcell, holding
+
+that “claims under the PRSA are really an action ex contractu—i.e., they
+
+arise out of a contract[.]” Base, 563 P.3d at 953 (emphases in original). The
+
+continued expression of this legal principle by Oklahoma courts leaves no
+
+reason for us to doubt that a PRSA claim is a breach of contract and thus
+
+excluded from potential punitive damages awards by statute.
+
+
+
+                                      64
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 65
+
+
+
+     The Class also argues that the ELRA is another route to the punitive
+
+damages award. The district court assumed the ELRA was applicable and
+
+focused on whether “Sunoco’s conduct overcomes the ELRA’s bar to punitive
+
+damages.” Cline II, 479 F. Supp. 3d at 1178.
+
+     As the Class did here, a plaintiff can pursue a PRSA breach of contract
+
+claim for underpayment of royalties alongside a claim for common law fraud
+
+or deceit in the same case. See Okland Oil Co., 144 F.3d at 1314. The
+
+Oklahoma Supreme Court has also held that “the claims of fraud, deceit,
+
+constructive fraud, and punitive damages are appropriate for class
+
+certification.” Weber v. Mobil Oil Corp., 243 P.3d 1, 7 (Okla. 2010). As a
+
+result, there is no barrier to a single plaintiff or a class pursuing and
+
+recovering damages for both a PRSA breach of contract and a fraud claim
+
+in the same case.
+
+     Oklahoma law, however, draws a distinction between the claims for
+
+breach of contract and fraud. See Finnell v. Seismic, 67 P.3d 339, 345 (Okla.
+
+2003) (explaining that the “words negligent and willful are legal terms of
+
+art that refer to tortious conduct” rather than a “breach of contract”). A
+
+PRSA claim, which is construed as a breach of contract, does not require
+
+any showing of “actual, knowing and willful intent” to deceive or deprive
+
+
+
+
+                                      65
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 66
+
+
+
+the victim of proceeds, which is required to obtain punitive damages under
+
+the ELRA. Okla. Stat. Ann. tit. 52, § 903.
+
+      In this context, owners suing for an intentional tort like fraud or
+
+deceit are alleging fraud in the performance of existing contracts (or leases),
+
+not that they detrimentally relied on the promises of the defendant to enter
+
+a contract or a lease in the first place (i.e., fraudulent inducement). The
+
+owners “already ha[ve] a protectable interest” to be paid royalties (and
+
+interest for late payments under the PRSA) based on their existing
+
+“contracts” or leases. In re U.S. Foodservice Inc. Pricing Litig., 729 F.3d 108,
+
+123 (2d Cir. 2013). 26
+
+      The dissent voices strong opposition to this reasoning and concludes
+
+that our reading of “§ 9.1, a general statute governing punitive damages in
+
+breach-of-contract cases, as somehow overriding § 903’s exclusive remedy.”
+
+Dissent at 7. We agree with the dissent that, under Oklahoma law, “when
+
+there is a conflict between two statutes, one specific . . . and one general,
+
+the statute enacted for the purpose of dealing with the subject matter
+
+
+      26 Both  fraudulent inducement and fraud in the performance of an
+existing contract are cognizable forms of fraud. In re U.S. Foodservice Inc.
+Pricing Litig., 729 F.3d 108, 123 (2d Cir. 2013). This court approvingly
+discussed the Second Circuit’s decision in In re U.S. Foodservice and other
+similar cases (including state common law fraud decisions) in CGC Holding
+Co., LLC v. Broad & Cassel, 773 F.3d 1076, 1089–91 (10th Cir. 2014),
+explaining that class certification of a fraud claim can be based on
+“circumstantial proof of classwide reliance.”
+                                      66
+  Appellate Case: 23-7090   Document: 99-1   Date Filed: 11/17/2025   Page: 67
+
+
+
+controls over the general statute.” Stitt v. Treat, 546 P.3d 882, 893 (Okla.
+
+2024). But we discern no conflict in the statutes here and instead determine
+
+that Oklahoma’s punitive damages statute § 9.1 “must be read
+
+harmoniously” with the ELRA § 903. Id. at 892. Which is to say, we agree
+
+the ELRA allows for punitive damages to be awarded in a PRSA case so long
+
+as the plaintiff alleges and proves an independent, intentional tort to the
+
+statutory standard set out in the ELRA § 903.
+
+     The trial found that Sunoco’s liability arose from a PRSA violation
+
+(breach of contract), not an intentional tort (fraud). Because the Class did
+
+not prevail on its independent, intentional tort claim, the ELRA does not
+
+provide a backdoor to an award of punitive damages in this case. As a result,
+
+with only a PRSA claim proved at trial, which we must interpret as a breach
+
+of contract under Oklahoma law, the punitive damages award cannot stand.
+
+For these reasons, we vacate the punitive damages award.
+
+                                     III
+
+     We AFFIRM the district court’s orders granting class certification
+
+and denying post-trial class decertification, along with the orders
+
+determining the actual damages awarded to the Class, including
+
+prejudgment interest. We VACATE the punitive damages award and
+
+REMAND for the district court to amend the judgment consistent with this
+
+opinion.
+
+                                      67
+  Appellate Case: 23-7090      Document: 99-1     Date Filed: 11/17/2025      Page: 68
+
+
+
+23-7090, Cline v. Sunoco
+
+MORITZ, Circuit Judge, concurring in part, dissenting in part.
+
+      I join sections II.A and II.B of the majority opinion analyzing class
+
+certification and standing. I write separately to address the interest and punitive
+
+damages Cline can recover under Oklahoma law.
+
+      As I see it, Oklahoma’s Production Revenue Standards Act (PRSA), Okla.
+
+Stat. tit. 52, §§ 570.1–570.15, dictates that interest on unpaid oil proceeds stops
+
+accruing once the proceeds are paid, even if some amount of statutory interest
+
+remains outstanding. So unlike the majority, I would vacate the district court’s nearly
+
+$104 million interest award (which reflects accrual through the date of judgment) and
+
+remand for recalculation.
+
+      As for punitive damages, I would give effect to the Energy Litigation Reform
+
+Act (ELRA), Okla. Stat. tit. 52, §§ 901–903, which specifically authorizes punitive
+
+awards against defendants that willfully withhold proceeds. Because the ELRA and
+
+PRSA provide the exclusive remedies for these oil and gas claims, Oklahoma’s
+
+general prohibition on punitive damages in contract cases—which the majority sees
+
+as a barrier to Cline’s recovery—simply does not apply here. Punitive damages
+
+would thus be available if the district court made an appropriate finding. But the
+
+district court found that Sunoco intended to withhold the interest, not the proceeds.
+
+So I join the majority in vacating the $75 million punitive award but would remand
+
+for the district court to reconsider punitive damages under the correct ELRA
+
+standard.
+   Appellate Case: 23-7090      Document: 99-1      Date Filed: 11/17/2025     Page: 69
+
+
+
+       Fundamentally, both issues turn on the special statutes applicable to the oil and
+
+gas industry. I start by explaining the relevant statutes and then discuss their
+
+application to the interest and punitive-damages questions raised here.
+
+       Oklahoma has carved out a distinct set of rules for oil and gas disputes, of
+
+which the PRSA and the ELRA are part. See generally Okla. Stat. tit. 52 (“Oil and
+
+Gas”). Per the ELRA, the PRSA provides the “exclusive remedy” for late payment of
+
+oil and gas proceeds (subject to certain listed exceptions not relevant here). Okla.
+
+Stat. tit. 52, § 903. When a company like Sunoco fails to pay well owners on time,
+
+well owners can recoup “actual damages,” which are “limited to the proceeds due and
+
+the interest as provided in [the PRSA].” Id. Actual damages “are deemed to be
+
+adequate remedies for failure to pay proceeds,” unless a court finds that the defendant
+
+withheld proceeds with the requisite intent, in which case punitive damages are
+
+available, too. Id.
+
+       Because Oklahoma has specifically enumerated the sole remedies for late
+
+payment of proceeds—and clarified that such remedies fully compensate plaintiffs—
+
+we don’t need to look to the state’s general remedies statutes to determine what
+
+remedies are available here. See Okla. Stat. tit. 23, §§ 6, 9.1 (part of Chapter 1,
+
+“Damages in General,” of Title 23, “Damages”). Instead, we go straight to the oil and
+
+gas statutes, which answer both damages questions on appeal.
+
+       Let’s begin with the PRSA’s statutory interest provision. It says:
+
+       [W]here proceeds from the sale of oil or gas production or some portion of
+       such proceeds are not paid prior to the end of the applicable time periods
+       provided in this section, that portion not timely paid shall earn interest at
+
+                                             2
+   Appellate Case: 23-7090       Document: 99-1       Date Filed: 11/17/2025       Page: 70
+
+
+
+       the rate of . . . 12%[] per annum to be compounded annually, calculated
+       from the end of the month in which such production is sold until the day
+       paid.
+Okla. Stat. tit. 52, § 570.10(D)(1). Like most statutes, it isn’t the easiest thing to read. But
+
+it is clear about how long interest accrues: “until the day paid.” Id.
+
+       Right off the bat, this means the district court erred in awarding interest up to
+
+the date it entered judgment, and the majority errs in affirming this faulty analysis.
+
+The district court’s award might have been appropriate if Oklahoma’s statute
+
+assessed interest until “the date of payment or . . . the date judgment is entered,
+
+whichever first occurs,” like a Colorado statute governing prejudgment interest in
+
+contract suits. Echo Acceptance Corp. v. Household Retail Srvs., Inc., 267 F.3d 1068,
+
+1092 (10th Cir. 2001) (quoting Colo. Rev. Stat. § 5-12-102(1)(b)). But the PRSA
+
+doesn’t say that, so the date of judgment can’t be the correct stop date.
+
+       What is the correct accrual stop date? Well, “the day [something is] paid.”
+
+§ 570.10(D)(1). And that something, if one looks back at the statute, is “that portion
+
+[of proceeds] not timely paid.” 1 Id. Putting this all together, PRSA interest accrues
+
+“from the end of the month in which [the oil] is sold until the day [the proceeds from
+
+the sale are belatedly] paid.” Id. This makes intuitive as well as textual sense: once
+
+late proceeds are paid, interest stops accruing.
+
+
+
+
+       1
+         The relevant clause reads, “where proceeds from the sale of oil or gas
+production . . . are not paid prior to the end of the applicable time periods provided in
+this section, that portion not timely paid shall earn interest . . . , calculated from the
+end of the month in which such production is sold until the day paid.” § 570.10(D)(1)
+(emphasis added).
+                                               3
+   Appellate Case: 23-7090     Document: 99-1      Date Filed: 11/17/2025     Page: 71
+
+
+
+      Yes, this means PRSA statutory interest functions differently than typical
+
+prejudgment interest. But that’s the point of creating special rules, as Oklahoma’s
+
+done for oil and gas disputes. Indeed, the state’s choice to jettison traditional
+
+prejudgment-interest rules in favor of distinct rules designed for oil and gas royalties
+
+is also apparent in the accrual start dates. Generally, Oklahoma law provides that
+
+prejudgment interest begins accruing from a payment’s due date. See Okla. Stat. tit.
+
+23, § 6 (providing for interest from the day on which “the right to recover [a debt] is
+
+vested in . . . the creditor”). And under the PRSA, proceeds are due “not later than
+
+the last day of the second succeeding month after the end of the month within which
+
+such production is sold”—in other words, roughly two months after the oil sells.
+
+§ 570.10(B)(1)(b). But PRSA statutory interest starts accruing before that, at “the end
+
+of the month in which such production is sold.” § 570.10(D)(1). This gives well
+
+owners two more months of interest than they would receive under traditional
+
+prejudgment-interest principles, thereby increasing the penalty for payments that are
+
+even slightly late. I see this as further proof that Oklahoma intended to displace
+
+traditional prejudgment interest in favor of a distinct statutory remedy for late
+
+payment of oil and gas proceeds.
+
+      Yet the majority avoids this straightforward understanding by way of the
+
+PRSA’s requirement that interest “be compounded annually.” Id. “‘[C]ompound
+
+interest’ mean[s] interest added to the principal . . . and thereafter made to bear
+
+interest.” Okla. Stat. tit. 25, § 27. From that uncontroversial premise, the majority
+
+leaps to the conclusion that adding interest to the principal when calculating interest
+
+                                            4
+   Appellate Case: 23-7090      Document: 99-1      Date Filed: 11/17/2025      Page: 72
+
+
+
+on proceeds “effectively convert[s] . . . unpaid interest to . . . unpaid . . . proceeds.”
+
+Maj. Op. 55.
+
+        But nowhere does Oklahoma law say that the process of compounding—a
+
+simple mathematical step—somehow changes what the law considers “[p]roceeds
+
+from the sale of oil or gas production from an oil or gas well.” § 570.10(B)(1). And
+
+reading all the PRSA’s provisions “in harmony,” as the majority urges, doesn’t
+
+change my assessment. Maj. Op. 57 (quoting Metlon v. Quality Homes, Inc., 312 P.2d
+
+476, 479 (Okla. 1957)). To the contrary, the statute’s use of “proceeds” and “accrued
+
+interest” confirms that the two are separate. § 570.10(D)(2)(b). Addressing the
+
+treatment of “proceeds which have not been paid because of unmarketable title,” the
+
+PRSA provides for interest to be “compounded annually” and authorizes parties “to
+
+interplead the proceeds and all accrued [compound] interest into court.”
+
+§ 570.10(D)(2)(a), (b) (emphasis added). If proceeds and accrued compound interest
+
+were one and the same, as the majority asserts, the statute wouldn’t need to reference
+
+both.
+
+        Perhaps anticipating these textual weaknesses, the majority suggests that
+
+Oklahoma legislative intent favors its interpretation. Yet the legislative goal it cites—
+
+that “royalty owners . . . receive prompt payment from the sale of oil and gas
+
+products”—is equally served by awarding interest until proceeds are paid. Maj. Op.
+
+57 (quoting Hull v. Sun Refin. & Mktg. Co., 789 P.2d 1272, 1279 (Okla. 1989)). If
+
+interest accrues until proceeds are paid, as it does under these unique statutes,
+
+companies like Sunoco have an incentive to pay well owners on time. Awarding
+
+                                             5
+   Appellate Case: 23-7090       Document: 99-1        Date Filed: 11/17/2025   Page: 73
+
+
+
+additional interest after that just incentivizes companies to pay the interest, not to pay
+
+on time in the first place. So in my book, the legislative intent doesn’t tip the scales.
+
+       Accordingly, I would hold that Oklahoma law does not authorize statutory
+
+interest to accrue after late proceeds are paid, even if interest is outstanding. The
+
+district court awarded Cline interest through entry of judgment, long after Sunoco
+
+paid the overdue proceeds. The interest award has since ballooned to nearly $104
+
+million, over twice the roughly $49 million Sunoco concedes it could be liable for. In
+
+upholding that award, the majority significantly misinterprets Oklahoma’s statutory
+
+scheme and turns legislative intent on its head. I would thus vacate and remand for
+
+the district court to recalculate interest through the date of payment, consistent with
+
+§ 570.10(D)(1).
+
+       Now to punitive damages. As with the interest issue, I confine my analysis to
+
+the relevant oil and gas statute, § 903. That provision generally forecloses punitive
+
+damages for late payment of proceeds, except if:
+
+       there [is] a determination by the finder of fact upon clear and convincing
+       evidence that the holder who failed to pay such proceeds did so with the
+       actual, knowing[,] and willful intent: (a) to deceive the person to whom the
+       proceeds were due, or (b) to deprive proceeds from the person the holder
+       knows, or is aware, is legally entitled thereto.
+§ 903. The clear aim of the statute is to permit punitive damages in late-payment actions
+
+if the district court makes a sufficient intent finding.
+
+       Nevertheless, the majority concludes that the punitive damage award must be
+
+vacated not because the district court’s findings were insufficient, but because the
+
+award doesn’t pass muster under Okla. Stat. tit. 23, § 9.1. That provision, entitled
+
+                                               6
+   Appellate Case: 23-7090      Document: 99-1      Date Filed: 11/17/2025     Page: 74
+
+
+
+“[p]unitive damages awards by jury,” sets out criteria for awarding punitive damages
+
+in “action[s] for the breach of . . . obligation[s] not arising from contract.” § 9.1.
+
+Because late-payment claims are based on an underlying contract, the majority
+
+reasons that punitive damages are unavailable for such claims.
+
+       Once again, the majority’s holding is seriously flawed in that it directly
+
+contravenes the Oklahoma legislature’s express directive in the ELRA that the PRSA
+
+provides the “exclusive remedy” for late payment of oil and gas proceeds. § 903
+
+(emphasis added). In fact, it’s hard to imagine a more blatant deviation from this
+
+directive than the path taken by the majority here. Instead of adhering to the
+
+“exclusive remedy” for late payment of oil and gas proceeds, id., the majority elects
+
+to interpret § 9.1, a general statute governing punitive damages in breach-of-contract
+
+cases, as somehow overriding § 903’s exclusive remedy.
+
+       Even more perplexingly, the majority does so based on language from Purcell
+
+v. Santa Fe Minerals, Inc., 961 P.2d 188 (Okla. 1998)—a case that preceded the
+
+enactment of the ELRA and its exclusive remedy provision. There, the Oklahoma
+
+Supreme Court unsurprisingly observed that PRSA interest is “part of [a] contractual
+
+claim.” Id. at 193. Extrapolating from this observation, the majority concludes that
+
+plaintiffs can never recover punitive damages on PRSA statutory claims, like Cline’s,
+
+because those claims are based on royalty agreements—that is, underlying
+
+contracts—and § 9.1 prohibits such damages.
+
+       In addition to ignoring that the general punitive-damages statute, § 9.1, is
+
+irrelevant here, the majority ignores that Purcell didn’t consider whether a general
+
+                                             7
+  Appellate Case: 23-7090      Document: 99-1      Date Filed: 11/17/2025    Page: 75
+
+
+
+statute governing punitive damages can somehow negate the ELRA’s exclusive-
+
+remedy provision governing late-payment remedies, including punitive damages. See
+
+Guidry v. Sheet Metal Workers Nat’l Pension Fund, 493 U.S. 365, 375 (1990) (“It is
+
+an elementary tenet of statutory construction that ‘where there is no clear intention
+
+otherwise, a specific statute will not be controlled or nullified by a general one.’”
+
+(cleaned up) (quoting Morton v. Mancari, 417 U.S. 535, 550–51 (1974)). Nor could it
+
+have, because Oklahoma didn’t enact the ELRA—the statute clarifying that the
+
+PRSA and the ELRA’s punitive-damages provision provide the exclusive remedy for
+
+withheld proceeds—until 2012, well after the Oklahoma Supreme Court decided
+
+Purcell. Rather, Purcell addressed the applicable statute of limitations for a claim to
+
+statutory damages under the PRSA. See 961 P.2d at 194. And although the Oklahoma
+
+Supreme Court later relied on Purcell’s characterization of late-payment claims in
+
+Base v. Devon Energy Production Co., it again said nothing about the available
+
+damages. 563 P.3d 934, 953–54 (Okla. 2024).
+
+      The majority’s underlying premise seems to be that we can’t give effect to an
+
+Oklahoma statute expressly permitting punitive damages in one setting if a
+
+preexisting statute more generally prohibits punitive damages. Of course, that is not
+
+the case. See BMW of N. Am., Inc. v. Gore, 517 U.S. 559, 614 (1996) (Ginsburg, J.,
+
+dissenting) (“At least one state legislature has prohibited punitive damages
+
+altogether, unless explicitly provided by statute.”). “A fundamental premise of
+
+statutory construction is that a specific statute dealing with a subject controls over the
+
+general statute on the subject, unless it appears the legislature intended the general
+
+                                            8
+   Appellate Case: 23-7090     Document: 99-1      Date Filed: 11/17/2025     Page: 76
+
+
+
+act to control.” Wetherill v. Bank IV Kan., N.A., 145 F.3d 1187, 1193 (10th Cir.
+
+1998). The majority suggests we needn’t apply this principal because it “discern[s]
+
+no conflict in the statutes here.” Maj. Op. 67. But under “a common-sense reading of
+
+the various provisions,” the typical PRSA action would, in the majority’s view, fail
+
+§ 9.1 even if it satisfied § 903. Cherokee Nation v. U.S. Dep’t of Interior, 564 P.3d
+
+58, 70 (Okla. 2025) (analyzing potential conflict). That’s an effective conflict
+
+warranting application of § 903, “[a] statute . . . enacted for the primary purpose of
+
+dealing with a particular subject, and which prescribes the terms and conditions of
+
+that particular subject matter,” over § 9.1, “a general statute which does not refer to
+
+the particular subject matter, but does contain language which might be broad enough
+
+to cover the subject matter if the special statute was not in existence.” Multiple Inj.
+
+Tr. Fund v. Coburn, 386 P.3d 628, 635–36 (Okla. 2016).
+
+       All this to say, I depart from the majority and read Oklahoma’s dedicated
+
+punitive-damages statute regarding late payment of oil and gas proceeds exactly as
+
+the Oklahoma legislature intended it to be read. That is, § 903 authorizes punitive
+
+damages if the district court finds that the defendant intended to deceive or deprive
+
+the well owner of the withheld proceeds. Full stop.
+
+       Nevertheless, I agree with the majority that the district court’s punitive
+
+damages award cannot survive in its current state. To justify punitive damages, the
+
+defendant must have “inten[ded] . . . to deceive . . . or . . . deprive [the well owner of]
+
+proceeds”—not interest. § 903 (emphasis added). But the district court focused its
+
+punitive-damages analysis on interest. It concluded that “Sunoco knew that it owed
+
+                                            9
+  Appellate Case: 23-7090     Document: 99-1      Date Filed: 11/17/2025    Page: 77
+
+
+
+interest on late payments, but it made no effort to identify those payments to
+
+determine the interest it owed—much less pay that interest.” App. vol. 2, 451. But
+
+that rationale cannot sustain a punitive-damages award under § 903 because Sunoco’s
+
+intent in withholding proceeds may have differed from its intent in withholding
+
+interest. As such, I would vacate and remand the punitive damages award against
+
+Sunoco so the district court could analyze the evidence of intent under this standard.
+
+      Accordingly, I join the majority opinion except as to its discussions of interest
+
+and punitive damages. Hewing closely to the text of Oklahoma’s oil and gas statutes,
+
+I respectfully dissent from the majority’s affirmance of the interest award. I concur in
+
+the vacatur of punitive damages, but I would remand for the district court to consider
+
+awarding punitive damages under the appropriate standard.
+
+
+
+
+                                          10
+

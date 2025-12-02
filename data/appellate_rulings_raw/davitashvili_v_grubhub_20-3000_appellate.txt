@@ -1,0 +1,1164 @@
+23-521-cv (L)
+Davitashvili v. Grubhub
+
+
+
+
+                                        In the
+                United States Court of Appeals
+                             for the Second Circuit
+
+
+                                  AUGUST TERM 2023
+
+
+                          Nos. 23-521-cv (L); 23-522-cv (Con)
+
+
+  MARIAM DAVITASHVILI and ADAM BENSIMON, individually and on
+                      behalf of all others similarly situated,
+                                  Plaintiffs-Appellees,
+
+
+     PHILIP ELIADES, JONATHAN SWABY, JOHN BOISI, NATHAN OBEY,
+                            Consolidated Plaintiffs-Appellees,
+
+
+                                           v.
+
+
+GRUBHUB INC., DBA Seamless, POSTMATES INC., UBER TECHNOLOGIES,
+INC., in its own right and as parent of wholly owned subsidiary Uber
+                                          Eats,
+                                Defendants-Appellants. *
+
+         *   The Clerk of Court is directed to amend the caption as set forth
+above.
+23-521-cv (L)
+Davitashvili v. Grubhub
+
+
+
+
+  On Appeal from the United States District Court for the Southern
+                             District of New York
+
+
+
+                          ARGUED: DECEMBER 15, 2023
+                           DECIDED: MARCH 13, 2025
+
+
+
+Before: CABRANES, SULLIVAN, and PÉREZ, Circuit Judges.
+
+
+
+
+        Grubhub Inc., Postmates Inc., and Uber Technologies, Inc.
+(jointly, “Defendants”) moved to compel arbitration of a putative
+antitrust class action. The question presented is whether the United
+States District Court for the Southern District of New York (Lewis A.
+Kaplan, Judge) erred in denying the motion of Defendants to compel
+arbitration. We consider (1) whether an agreement to arbitrate was
+made between Defendants and Plaintiffs; (2) whether, in the
+circumstances presented, arbitrability is an issue for the Court or the
+arbitrator to resolve; and (3) whether the relevant arbitration clauses
+are enforceable.
+
+        Defendants provide online “platforms”—websites or mobile
+applications—for ordering restaurant meals. Customers place
+restaurant orders on a platform for pickup or delivery, and restaurants
+use the platform to fill those orders. The restaurants agree not to sell
+meals at lower prices “off-platform”—that is, through channels other
+than Defendants’ web and mobile applications. These agreements are
+known as no-price competition clauses, or “NPCCs.”
+
+      This appeal arises from a putative class action against
+Defendants alleging violations of Section 1 of the Sherman Antitrust
+Act of 1890 and its state analogues. The case is brought by three classes
+of restaurant customers: customers who purchased “takeout” or
+delivery goods directly from a restaurant subject to a Defendant’s
+NPCC; customers who purchased dine-in goods from a restaurant
+subject to a Defendant’s NPCC; and customers who purchased goods
+through a non-defendant’s platform from a restaurant subject to a
+Defendant’s NPCC.
+
+      Defendants moved to compel arbitration for the customers who
+have used Defendants’ platforms (jointly, “Plaintiffs”), on the basis of
+the arbitration clauses in Defendants’ respective “Terms of Use.” On
+March 16, 2023, the District Court denied Defendants’ motion to
+compel arbitration, holding that the scope of the arbitration clauses
+presented issues for the Court, rather than the arbitrator, to resolve,
+and that they did not apply to Plaintiffs’ claims because the claims
+lacked “any nexus” to Defendants’ Terms of Use. This appeal
+followed.
+
+      We now AFFIRM the District Court’s order in part insofar as it
+ruled that the threshold question of arbitrability for Plaintiffs’ claims
+
+
+
+
+                                   3
+against Grubhub is for the court to decide and that Grubhub’s
+arbitration clause does not apply to Plaintiffs’ antitrust claims against
+Grubhub, REVERSE the District Court’s order in part insofar as it
+ruled that Grubhub failed to establish that it formed an agreement to
+arbitrate with Plaintiffs and that the threshold question for Plaintiffs’
+claims against Uber and Postmates is for the court to decide, and
+REMAND the cause for further proceedings consistent with this
+opinion.
+
+      Judge Pérez concurs in full in the judgment of the Court and files
+a separate opinion. Judge Sullivan concurs in part and dissents in part,
+concurring with the judgment of the Court with respect to Parts II-A
+and II-B and dissenting with respect to Part II-C.
+
+
+
+
+                          ZACHARY D. TRIPP, Washington, DC (David
+                          J. Lender, Eric S. Hochstadt, New York, NY,
+                          on the brief), Weil, Gotshal & Manges LLP,
+                          Washington, DC for Defendant-Appellant
+                          Grubhub Inc.
+
+                          ADAM G. UNIKOWSKY, New York, NY
+                          (Elizabeth B. Deutsch, on the brief), Jenner &
+                          Block LLP, Washington, DC for Defendants-
+                          Appellants Uber Technologies, Inc. and
+                          Postmates Inc.
+
+
+
+
+                                   4
+                           STEPHEN LAGOS, New York, NY (Edward
+                           Normand, Velvel (Devin) Freedman, on the
+                           brief), Freedman Normand Friedland LLP,
+                           New York, NY for Plaintiffs-Appellees.
+
+
+
+
+JOSÉ A. CABRANES, Circuit Judge:
+
+      Grubhub Inc., Postmates Inc., and Uber Technologies, Inc.
+(jointly “Defendants”) moved to compel arbitration of a putative
+antitrust class action. The question presented is whether the United
+States District Court for the Southern District of New York (Lewis A.
+Kaplan, Judge) erred in denying the motion of Defendants to compel
+arbitration. We consider (1) whether an agreement to arbitrate was
+made between Defendants and Plaintiffs; (2) whether, in the
+circumstances presented, arbitrability is an issue for the Court or the
+arbitrator to resolve; and (3) whether the relevant arbitration clauses
+are enforceable.
+
+      Defendants provide online “platforms”—websites or mobile
+applications—for ordering restaurant meals. 1 Customers place
+
+      1  Grubhub defines a “Mobile Application” as a “software to access
+Grubhub’s websites, technology platforms, and related online and mobile
+services via a mobile device.” Appendix (“A”) 134. While Uber and
+Postmates do not define the term “mobile application” in their Terms of Use,
+see infra note 5, we understand that the Uber and Postmates mobile
+applications have the same function and have similar characteristics as the
+Grubhub mobile application. “The term online platform is not defined in [any]
+
+
+
+
+                                     5
+restaurant orders on a platform for pickup or delivery, and restaurants
+use the platform to fill those orders. The restaurants agree not to sell
+meals at lower prices “off-platform”—that is, through channels other
+than Defendants’ web and mobile applications. These agreements are
+known as no-price competition clauses, or “NPCCs.” 2
+
+      This appeal arises from a putative class action against
+Defendants alleging violations of Section 1 of the Sherman Antitrust
+Act of 1890 and its state analogues. 3 The case is brought by three
+classes of restaurant customers: customers who purchased “takeout”
+or delivery goods directly from a restaurant subject to a Defendant’s
+NPCC; customers who purchased dine-in goods from a restaurant
+subject to a Defendant’s NPCC; and customers who purchased goods
+through a non-defendant’s platform from a restaurant subject to a
+Defendant’s NPCC. 4
+
+      Defendants moved to compel arbitration for the customers who
+have used Defendants’ platforms (jointly “Plaintiffs”), on the basis of
+
+
+
+
+federal statute. An online platform generally refers to any computer
+application or service that provides digital content and services on the
+internet.” CONG. RSCH. SERV., R47662, DEFINING AND REGULATING ONLINE
+PLATFORMS (2023).
+      2   A-20 (¶ 1).
+      3   A-20 (¶ 1), 49-73 (¶¶ 188-214).
+      4   A-65-66 (¶¶ 173-75).
+
+
+
+
+                                        6
+the arbitration clauses in Defendants’ respective “Terms of Use.” 5 On
+March 16, 2023, the District Court denied Defendants’ motion to
+compel arbitration, holding that the scope of the arbitration clauses
+presented issues for the Court, rather than the arbitrator, to resolve,
+and that they did not apply to Plaintiffs’ claims because the claims
+lacked “any nexus” to Defendants’ Terms of Use. 6 This appeal
+followed. We now AFFIRM the District Court’s order in part insofar
+as it ruled that the threshold question of arbitrability for Plaintiffs’
+claims against Grubhub is for the court to decide and that Grubhub’s
+arbitration clause does not apply to Plaintiffs’ antitrust claims against
+Grubhub, REVERSE the District Court’s order in part insofar as it
+ruled that Grubhub failed to establish that it formed an agreement to
+arbitrate with Plaintiffs and that the threshold question for Plaintiffs’
+claims against Uber and Postmates is for the court to decide, and
+REMAND the cause for further proceedings consistent with this
+opinion.
+
+
+       5    Defendants’ Terms of Use refer to their relationships with
+customers. Thus, Grubhub defines its Terms of Use as “a contract between
+[the customer] and [Grubhub] that governs [the customer’s] access and use
+of the Platform and Services.” A-124. Uber states that its Terms of Use
+“govern [the customer’s] access or use . . . of the multi-sided digital
+marketplace platform . . . and any related content or services . . . made
+available . . . by Uber.” A-193. Because Postmates is an Uber subsidiary,
+Uber’s Terms of Use apply equally to Postmates. See A-170-173.
+       6   Davitashvili v. Grubhub Inc., No. 20-cv-3000, 2023 WL 2537777, at *11-
+12 (S.D.N.Y. 2023) (Lewis A. Kaplan, Judge); see supra note 5.
+
+
+
+
+                                         7
+                            I. BACKGROUND
+
+      Plaintiffs allege that Defendants fixed restaurant meal prices by
+entering into NPCCs with restaurants in which the restaurants agreed
+not to charge lower prices off-platform. Plaintiffs claim that these
+NPCCs have caused them to pay artificially high prices for restaurant
+meals. They seek injunctive relief and damages based on both their
+direct purchases from NPCC-bound restaurants through Defendant
+platforms and their indirect purchases from NPCC-bound restaurants
+through non-defendant platforms.
+
+      Defendants jointly moved to compel arbitration, arguing that
+their platforms’ Terms of Use contained arbitration clauses. On March
+16, 2023, the District Court denied the motion to compel. 7 The Court
+first determined that Plaintiffs agreed to Uber’s and Postmates’s Terms
+of Use, but not Grubhub’s. Next, the Court held that the enforceability
+of the arbitration clauses was a question for the Court, rather than the
+arbitrator, to resolve. The Court concluded that the arbitration clauses
+in Defendants’ Terms of Use did not apply to Plaintiffs’ claims because
+the claims “lacked any nexus to the agreement containing the clause.” 8
+
+      Defendants appealed the District Court’s order denying the
+motions to compel arbitration under 9 U.S.C. § 16, which allows
+interlocutory appeals from orders denying motions to compel
+arbitration.
+
+
+      7   Davitashvili, 2023 WL 2537777.
+      8   Id. at *10.
+
+
+
+
+                                      8
+                                II. DISCUSSION
+
+           The Federal Arbitration Act (“FAA”) reflects “both a liberal
+federal policy favoring arbitration and the fundamental principle that
+arbitration is a matter of contract.” 9 Specifically, Section 2 of the FAA,
+in relevant part, guarantees that “[a] written provision in . . . a contract
+evidencing a transaction involving commerce to settle by arbitration a
+controversy thereafter arising out of such contract . . . shall be valid,
+irrevocable, and enforceable, save upon such grounds as exist at law
+or in equity for the revocation of any contract.” 10 Because Sections 3
+and 4 of the FAA require courts to “respect and enforce the parties’
+chosen arbitration procedures,” the courts must “place[] arbitration
+agreements on an equal footing with other contracts.” 11 The Supreme
+Court has explained that courts must “rigorously enforce arbitration
+agreements according to their terms.” 12 Under Section 4, a party may
+move to compel arbitration in accordance with an arbitration
+agreement. 13 We review de novo a district court’s denial of a motion to
+compel arbitration. 14
+
+
+       9AT&T Mobility LLC v. Concepcion, 563 U.S. 333, 339 (2011) (internal
+quotation marks and citations omitted).
+       10   9 U.S.C. § 2.
+       11  Epic Sys. Corp. v. Lewis, 584 U.S. 497, 506 (2018); Rent-A-Center, W.,
+Inc. v. Jackson, 561 U.S. 63, 67 (2010) (citations omitted).
+       12 Am. Express Co. v. Italian Colors Rest., 570 U.S. 228, 232 (2013)
+(internal quotation marks and citation omitted).
+       13   See 9 U.S.C. § 4.
+       14   Lloyd v. J.P. Morgan Chase & Co., 791 F.3d 265, 269 (2d Cir. 2015).
+
+
+
+
+                                         9
+        We hold, first, that Plaintiffs agreed to arbitrate with
+Defendants. Next, we hold that in the circumstances presented here,
+the Court should resolve questions of “arbitrability”— that is, whether
+the instant disputes are subject to arbitration—with respect to
+Grubhub, while the arbitrator should resolve questions of arbitrability
+with respect to Uber and Postmates. We conclude that Grubhub’s
+arbitration agreement does not apply to Plaintiffs’ antitrust claims.
+
+              A. Plaintiffs Agreed to Arbitrate with Defendants
+
+       To determine whether parties agreed to arbitrate, courts apply
+a “standard similar to that applicable for a motion for summary
+judgment,” that is, courts must “consider all relevant, admissible
+evidence submitted by the parties” and must “draw all reasonable
+inferences in favor of the non-moving party.” 15 In doing so, the court
+applies “ordinary state-law principles that govern the formation of
+contracts”—here, the state-law principles of New York. 16 The party
+seeking arbitration bears the initial burden of demonstrating that an
+agreement to arbitrate exists. 17
+
+
+       15   Nicosia v. Amazon.com, Inc., 834 F.3d 220, 229 (2d Cir. 2016)
+(quotation marks and citations omitted).
+       16First Options of Chi., Inc. v. Kaplan, 514 U.S. 938, 944 (1995). The
+parties do not dispute that New York state law applies. See Pls. Br. at 14-15;
+Grubhub Br. at 24 (“It is undisputed that New York law governs contract
+formation and contract interpretation in this case.”).
+       17   Zachman v. Hudson Valley Fed. Credit Union, 49 F.4th 95, 101-02 (2d
+Cir. 2022).
+
+
+
+
+                                       10
+       Before we address whether the putative agreements require
+arbitration of the disputes at issue, we first need to inquire whether an
+agreement to arbitrate between the parties exists, and whether
+questions of “arbitrability” are for the court or the arbitrator to
+decide. 18 We address these questions in turn.
+
+       Defendants’ Terms of Use contain arbitration clauses. No party
+disputes that Plaintiffs assented to the Terms of Use of Uber and
+Postmates. 19 Plaintiffs argue, however, that they did not affirmatively
+assent to Grubhub’s Terms of Use. We disagree.
+
+       Under New York law, when “an offeree does not have actual
+notice of certain contract terms, he is nevertheless bound by such terms
+if he is on inquiry notice of them and assents to them through conduct
+that a reasonable person would understand to constitute assent.” 20 In
+determining whether an offeree has inquiry notice of a contract’s
+terms, New York courts evaluate “whether the term was obvious and
+whether it was called to the offeree’s attention”—an analysis that
+
+
+
+       18   See Coinbase, Inc. v. Suski, 602 U.S. 143, 148-149 (2024) (laying out
+this framework).
+       19   See Davitashvili, 2023 WL 2537777, at *6.
+       In the proceedings below, the District Court held that, with respect to
+Plaintiff-Appellee Bensimon, Uber had not satisfied its initial burden that
+Bensimon had agreed to an arbitration clause. We do not address this
+question with respect to Bensimon because Uber does not appeal the District
+Court’s Order as to Bensimon.
+       20   Starke v. SquareTrade, Inc., 913 F.3d 279, 289 (2d Cir. 2019).
+
+
+
+
+                                          11
+“often turns on whether the contract terms were presented to the
+offeree in a clear and conspicuous way.” 21
+
+       The same principles apply to online contracts, where “we look
+to the design and content of the relevant interface22 to determine if the
+contract terms were presented to the offeree in way that would put her
+on inquiry notice of such terms.” 23 Factors include whether the terms
+of use are “spatially coupled” with the checkout button, whether the
+entire screen is visible at once without scrolling, whether the checkout
+button is “temporally coupled” with the hyperlink 24 to the terms of
+use, and whether the language is clear. 25
+
+
+
+
+       21   Id.
+       22   The term “interface” includes websites and smartphone
+applications. Meyer v. Uber Techs., Inc., 868 F.3d 66, 75 (2d Cir. 2017).
+       23   Id.
+       24   “An electronic link providing direct access from one distinctively
+marked place in a hypertext or hypermedia document to another in the same
+or a different document.” Merriam-Webster Online, https://www.merriam-
+webster.com/dictionary/hyperlink.
+       25Id. at 292 (citing Meyer, 868 F.3d at 78 ); see also id. at 291 n.8 (“The
+Meyer Court applied California law to the contract formation question, but
+noted that New York and California apply substantially similar rules for
+determining whether the parties have mutually assented to a contract term.”
+(quotation marks omitted)).
+
+
+
+
+                                       12
+          Here, we conclude that Grubhub’s web and mobile application
+interfaces—screenshots of which were included in the amended
+complaint—gave reasonable notice of the arbitration provision. 26
+
+          The mobile application checkout page of Grubhub is akin to the
+one we found, in 2017, to provide inquiry notice in Meyer v. Uber
+Technologies, Inc. As in Meyer, the hyperlink to the Terms and
+Conditions “appears directly below” the checkout button. 27 In
+addition to being spatially coupled with the checkout button, the
+notice is temporally coupled because it is presented on the same screen
+“at a place and time that the consumer will associate with the initial
+purchase or enrollment”—that is, on the purchase screen itself. 28
+Finally, the phrase “By placing your order, you agree,” is substantially
+identical to the “By creating an Uber account, you agree” language in
+Meyer that we held to be “a clear prompt directing users to read the
+Terms and Conditions and signaling that their acceptance of the
+benefit of registration would be subject to contractual terms.” 29 In
+short, we conclude that “a reasonably prudent smartphone user”
+would have notice of Grubhub’s Terms of Use for its mobile app. 30
+
+
+
+          26   See A-120 (Grubhub mobile interface); 122 (Grubhub web interface).
+          27   Meyer, 868 F.3d at 78.
+          28   Id. (quoting Schnabel v. Trilegiant Corp., 697 F.3d 110, 127 (2d Cir.
+2012)).
+          29   Id. at 79.
+          30   Id.
+
+
+
+
+                                           13
+      Grubhub’s web interface also puts users on inquiry notice.
+Plaintiffs argue that Grubhub’s web interface is akin to the one we
+found wanting in Nicosia v. Amazon.com, Inc. While the Grubhub web
+interface is not as streamlined as its mobile app, the page is less
+cluttered than the webpage in Nicosia. 31 Additionally, the Grubhub
+web interface has hyperlinks to Grubhub’s Terms of Use that are both
+spatially and temporally coupled with the checkout button. And the
+relevant language (“By placing your order, you agree”) is the same as
+the mobile application’s. 32 These features, taken together, are enough
+to provide inquiry notice to a reasonably prudent web user. 33
+
+      Thus, we hold that there is a valid agreement to arbitrate
+between Plaintiffs and Grubhub.
+
+
+
+
+      31   Compare A-122 with Nicosia, 834 F.3d at 241.
+      32   A-122.
+      33   We also reject Plaintiffs’ argument that Grubhub failed to establish
+what its mobile and web interfaces looked like at the time Plaintiffs placed
+their respective orders. Although Grubhub’s declaration did not specify the
+exact date on which the screenshots were taken, the only plausible reading
+of the declaration is that the screenshots depict the mobile application and
+website as they appeared at all times relevant to the complaint.
+
+
+
+
+                                       14
+      B. For Grubhub, Arbitrability Is for the Court to Decide. For
+            Uber and Postmates, Arbitrability Is for the Arbitrator to
+                                          Decide.
+
+   When a party moves to compel arbitration under Section 4, the
+gateway question of “arbitrability” arises. 34 Thus, our next inquiry is
+related to the question of arbitrability, or, in other words, whether an
+arbitration agreement covers a specific issue. First, we need to
+determine whether the court or the arbitrator should be the decision-
+maker on the question of arbitrability. Second, if it is for the court to
+make that determination, we inquire whether the issues are within the
+scope of the arbitration agreement and if the agreement is enforceable.
+   We review de novo a district court’s determination “whether the
+issue of arbitrability is for the court or for the arbitrator.” 35 The
+Supreme Court has instructed us that “[c]ourts should not assume that
+the parties agreed to arbitrate arbitrability unless there is clear and
+unmistakable evidence that they did so.” 36 The FAA provides that the
+issue of arbitrability should presumptively be resolved by the courts. 37
+   Parties can include in the arbitration agreement a provision
+delegating the question of arbitrability to the arbitrator. This is usually
+
+       34   Gingras v. Think Fin., Inc., 922 F.3d 112, 126 (2d Cir. 2019) (quoting
+Rent-A-Center, W., Inc., 561 U.S. at 68–69).
+       35   Bell v. Cendant Corp., 293 F.3d 563, 565 (2d Cir. 2002).
+       36   First Options, 514 U.S. at 944 (alterations adopted) (quotation marks
+and citation omitted).
+       37BG Grp., PLC v. Republic of Argentina, 572 U.S. 25, 34 (2014); see also
+9 U.S.C. § 2.
+
+
+
+
+                                         15
+called a “delegation clause” or a “delegation provision.” When parties
+“explicitly incorporate rules that empower an arbitrator to decide
+issues of arbitrability, the incorporation serves as clear and
+unmistakable evidence of the parties’ intent to delegate such issues to
+an arbitrator.” 38
+   With respect to Grubhub, the District Court correctly found that the
+question of arbitrability remains with the Court. Grubhub's arbitration
+clause clearly and unmistakably states that “issues related to the scope,
+validity, and enforceability of this Arbitration Agreement are for a
+court to decide.”
+   As for Uber and Postmates, the District Court denied their motion
+to compel arbitration, concluding that the dispute belonged in federal
+court because Plaintiffs had mounted a convincing challenge to the
+delegation clause contained in the agreements. 39 We disagree.
+   “When the parties’ contract delegates the arbitrability question to
+an arbitrator, the courts must respect the parties’ decision as embodied
+in the contract” pursuant to §§ 2, 3, and 4 of the FAA, “unless
+[Plaintiffs] challenged the delegation provision specifically.” 40 The
+District Court found that Plaintiffs had challenged the delegation
+clause by mentioning it in a footnote that reads: “For the avoidance of
+doubt, the Platform Plaintiffs challenge the validity of the Delegation
+
+
+
+
+       38   Contec Corp. v. Remote Sol., Co., 398 F.3d 205, 208 (2d Cir. 2005).
+       39   Davitashvili, 2023 WL 2537777, at *9.
+        Henry Schein, Inc. v. Archer & White Sales, Inc., 586 U.S. 63, 65 (2019);
+       40
+
+Rent-A-Center, W., Inc., 561 U.S. at 72 (emphasis added).
+
+
+
+
+                                         16
+Clause itself, on the grounds that it would be unconscionable to permit
+Postmates to enforce that clause.” 41
+   But this brief aside does not allow Plaintiffs to evade the
+agreement’s delegation clause. “An argument mentioned only in a
+footnote” is not “adequately raised or preserved for appellate
+review.” 42 All the more so here, where Plaintiffs did not append any
+argument         to   their    conclusory      assertion       of   the   clause’s
+unconscionability. 43
+   In any event, Plaintiffs fail to challenge the clause with sufficient
+specificity. Plaintiffs argue that arbitration in general would be
+unconscionable. Our precedents require something more: Plaintiffs
+must show why allowing an arbitrator—as opposed to a court—to
+decide the question of arbitrability would be unconscionable. 44 In
+
+
+       41   Davitashvili, 2023 WL 2537777, at *9; see A-221.
+       42   City of New York v. Mickalis Pawn Shop, LLC, 645 F.3d 114, 137 (2d
+Cir. 2011).
+       43   See Niagara Mohawk Power Corp. v. Hudson River-Black River
+Regulating Dist., 673 F.3d 84, 107 (2d Cir. 2012) (“Merely mentioning or
+simply stating an issue in an appellate brief is insufficient to preserve it for
+our review: an appellant must advance an argument, and we generally will
+decline to consider issues that are not sufficiently argued.”) (alterations
+adopted and quotation marks omitted).
+       44   Compare Rent-A-Center, 561 U.S. 63 (declining to consider plaintiff’s
+unconscionability challenges because none were specific to the delegation
+provision), with Gingras v. Think Fin., Inc., 922 F.3d 112 (2d Cir. 2019)
+(plaintiffs alleged that the delegation provision was fraudulent).
+
+
+
+
+                                         17
+Gingras, for instance, the plaintiffs alleged that a tribe-affiliated
+payday lender had set up an arbitration scheme governed by tribal law
+where the lender itself could influence the contents of tribal law and
+where tribal courts had “broad authority” to set aside any arbitral
+award. 45 According to the plaintiffs, the entire process, including the
+delegation clause, was designed to funnel arbitration into a “sham”
+tribunal and “shield” any award from federal court review. 46 Because
+this was a “specific attack” on the delegation clause itself, we
+concluded that arbitrability was an issue for the courts. 47 Here, by
+contrast, Plaintiffs have not shown that it would be unfair to defer to
+an arbitrator on that question.
+   Because Plaintiffs have not specifically challenged the delegation
+clause, we hold that their claims against Uber and Postmates should
+be sent to an arbitrator to determine whether those claims are
+arbitrable.
+
+    C. Grubhub’s Arbitration Clause Does Not Apply to Plaintiffs’
+                                          Claims
+
+      Plaintiffs argue that even if they can be said to have agreed to
+arbitrate with Grubhub, their antitrust claims do not fall within the
+scope of the arbitration clause. We agree.
+
+      45   See Gingras, 922 F.3d at 118, 126; see also Joint Appendix at 55 (¶ 131),
+Gingras, 922 F.3d 112 (No. 16-2019), ECF No. 102.
+      46   Joint Appendix at 55 (¶ 131), Gingras, 922 F.3d 112 (No. 16-2019),
+ECF No. 102.
+      47   Gingras, 922 F.3d at 126.
+
+
+
+
+                                         18
+       In determining whether the parties’ arbitration agreement
+covers a particular claim—a question we review de novo—we “focus[]
+on the factual allegations in the complaint rather than the legal causes
+of action asserted.” 48 The FAA’s scope is limited to “agreements to
+arbitrate controversies that ‘arise out of’ the parties’ contractual
+relationship”—that is, controversies that were "cause[d]” by the
+relationship. 49
+       Grubhub’s arbitration provision states:
+       You and Grubhub agree that all claims, disputes, or
+       disagreements that may arise out of the interpretation or
+       performance of this Agreement or payments by or to
+       Grubhub, or that in any way relate to your use of the
+       Platform, the Materials, the Services, and/or other
+       content on the Platform, your relationship with
+       Grubhub, or any other dispute with Grubhub, (whether
+       based in contract, tort, statute, fraud, misrepresentation,
+       or any other legal theory) (each, a ‘Dispute’) shall be
+       submitted exclusively to binding arbitration. Dispute
+       shall have the broadest possible meaning. This includes
+       claims that arose, were asserted, or involve facts
+
+
+       48Specht v. Netscape Commc’ns Corp., 306 F.3d 17, 36 (2d Cir. 2002)
+(quoting Genesco, Inc. v. T. Kakiuchi & Co., 815 F.2d 840, 846 (2d Cir. 1987)).
+       49   Viking River Cruises, Inc. v. Moriana, 596 U.S. 639, 652 n.4 (2022)
+(noting that the “‘arising out of’ language normally refers to a causal
+relationship”); see also 9 U.S.C. § 2 (referring to controversies “arising out of”
+arbitration contracts or transactions).
+
+
+
+
+                                       19
+      occurring before the existence of this or any prior
+      Agreement as well as claims that may arise after the
+      termination of this Agreement. This Mutual Arbitration
+      Agreement is intended to be broadly interpreted. 50
+
+
+      Grubhub argues that Plaintiffs’ claims are related to Plaintiffs’
+“access and use of Grubhub” and thus fall within the scope of the
+arbitration provision. 51 Not so. Plaintiffs’ claims—that Defendants
+violated federal and state antitrust law by inducing restaurants to
+agree to NPCCs—have nothing to do with Plaintiffs’ individualized
+use of Grubhub’s website or mobile application. Rather, their claims
+concern their access and use of other platforms and restaurants; they
+allege that they pay higher prices when ordering from these entities
+because of Grubhub’s anticompetitive practices. 52 And to the extent
+Plaintiffs’ use of Grubhub helped improve Grubhub’s market share,
+thereby enabling Grubhub to act anticompetitively, this alleged
+relation is both too speculative and too attenuated to qualify as a
+“cause” of Plaintiffs’ antitrust claims. For example, in rejecting the
+applicability of an employment arbitration agreement to a plaintiff’s
+ERISA claims, we noted in Cooper v. Ruane Cunnif & Goldfarb Inc. that
+“others who were never [defendant’s] employees could have brought
+
+
+
+
+      50   A-143.
+      51   Grubhub Br. at 60.
+      52   See A-21-22 (¶¶ 7-8), 65-67 (¶¶ 170-75, 180(b)).
+
+
+
+
+                                        20
+claims identical to those stated by [plaintiff].” 53 So too here. Plaintiffs
+who never used Grubhub are just as much class members as those who
+have. Indeed, Grubhub does not dispute that at least some plaintiffs
+have “well-plead claims despite never having used any of the
+[D]efendants’ platforms.” 54 As the District Court put it, the fact that
+any members of the three classes of plaintiffs used Grubhub’s platform
+is “purely coincidental.” 55
+      Because Grubhub’s arbitration provision does not apply to
+Plaintiffs’ claims, the District Court—not an arbitrator—should
+adjudicate the merits of the complaint.
+                                CONCLUSION
+
+      To summarize:
+
+      1. Plaintiffs assented to Uber’s, Postmates’s, and Grubhub’s
+            Terms of Use. Therefore, agreements to arbitrate were
+            formed between Plaintiffs and Defendants.
+
+      2. Grubhub’s Terms of Use clearly and unmistakably delegates
+            arbitrability questions to the court.
+
+
+
+      53   990 F.3d 173, 183 (2d Cir. 2021).
+      54   Davitashvili, 2023 WL 2537777, at *10; see Grubhub Br. at 58.
+      55   Davitashvili, 2023 WL 2537777, at *10. Because we hold that
+Grubhub’s arbitration provision does not apply to Plaintiffs’ claims, we do
+not reach whether the provision is unconscionable or otherwise
+unenforceable.
+
+
+
+
+                                        21
+      3. Uber’s and Postmates’s Terms of Use delegate arbitrability
+           questions to the arbitrator, and Plaintiffs failed to challenge
+           the delegation provision specifically. Thus, Plaintiffs’ claims
+           against Uber and Postmates should be sent to an arbitrator to
+           determine, inter alia, whether those claims are arbitrable.
+
+      4. Grubhub’s arbitration clause does not apply to Plaintiffs’
+           antitrust claims against Grubhub because Plaintiffs’ antitrust
+           claims do not arise out of the Terms of Use.
+
+      For the foregoing reasons, we AFFIRM in part and REVERSE
+in part the District Court’s judgment, and we REMAND the cause to
+the District Court to adjudicate the merits of the complaint with
+respect to Grubhub and for further proceedings consistent with this
+opinion.
+
+
+
+
+                                    22
+MYRNA PÉREZ, Circuit Judge, concurring:
+        The speciﬁcs of this dispute concern a distinctly modern form of
+online contract formation, but this is just another skirmish in a long-
+running battle over the enforcement of arbitration agreements. 1 I join
+this Court’s well-reasoned opinion in full.                       I write separately to
+emphasize two important limits on merchants’ ability to force
+consumers into arbitration that we recognize and reinforce in our
+holdings as to Grubhub.
+
+
+
+1 See, e.g., Cedeno v. Sasson, 100 F.4th 386, 400 (2d Cir. 2024) (declining to enforce arbitration
+agreements that waived “statutory remedies under” ERISA); Specht v. Netscape Commc’ns
+Corp., 306 F.3d 17, 35 (2d Cir. 2002) (holding that downloading software did not constitute
+acceptance of terms and therefore plaintiﬀs were not bound by arbitration clause contained
+therein); Genesco, Inc. v. T. Kakiuchi & Co., Ltd., 815 F.2d 840 (1987) (holding arbitration
+agreement was enforceable and holding certain claims were covered by arbitration
+agreement but others were not); World Brilliance Corp. v. Bethlehem Steel Co., 342 F.2d 362,
+364–66 (2d Cir. 1965) (holding that parties validly agreed to arbitrate defense of waiver).
+This warfare metaphor is deployed frequently in discussions of the last few decades of
+litigation about arbitration, which may reﬂect the persistence of the stakeholders on both
+sides of the issue. See, e.g., Ferrell v. SemGroup Corp., 485 F. Supp. 3d 1334, 1336 n.1 (N.D.
+Okla. 2020) (“[T]his case is only the latest skirmish in a running battle between interest
+groups in employment litigation, with one side looking to weaponize the sweeping eﬀect
+of mandatory individual arbitration while the other side seeks to neutralize it.” (quoting
+Bock v. Salt Creek Midstream LLC, No. 19-1165, 2020 WL 3989646, at *1 (D.N.M. July 15,
+2020))), rev'd and remanded sub nom. Ferrell v. Cypress Env't Mgmt.-TIR, LLC, No. 20-5092,
+2021 WL 5576677 (10th Cir. Nov. 30, 2021); Becker v. Delek US Energy, Inc., No. 20-CV-285,
+2020 WL 4604544, at *1 (M.D. Tenn. Aug. 11, 2020) (same); GGNSC Chestnut Hill LLC v.
+Schrader, No. CV 16-10525, 2018 WL 1582555, at *1 (D. Mass. Mar. 31, 2018) (“This case is an
+example of the many skirmishes that continue along the recently intensifying—but
+wavering—battle line between those who support resolution of disputes by arbitration and
+those who support resolution of disputes by conventional litigation.”), aﬀ'd sub nom.
+GGNSC Admin. Servs., LLC v. Schrader, 958 F.3d 93 (1st Cir. 2020); see also David Horton,
+Arbitration About Arbitration, 70 Stan. L. Rev. 363, 369 & n.39 (2018) (discussing whether
+certain regulatory action “may be the next battleground in the ‘arbitration war’” (quoting
+Editorial,       The      Arbitration     War,      N.Y.      Times      (Nov.      26,     2010),
+https://www.nytimes.com/2010/11/27/opinion/27sat1.html)).
+      First, traditional contract law principles apply equally to
+contracts formed online and to arbitration clauses within such
+contracts. The relevant principles hold that one cannot assent to a
+contract term unless one has at least inquiry notice of the term, which
+“turns on” its “[c]larity and conspicuousness.” Meyer v. Uber Techs.,
+Inc., 868 F.3d 66, 75 (2d Cir. 2017) (internal quotation marks omitted)
+(citing Specht v. Netscape Commc'ns Corp., 306 F.3d 17, 30 (2d Cir. 2002)).
+Our Court’s decision today sensibly applies Meyer in ﬁnding
+Grubhub’s arbitration agreement suﬃciently conspicuous in the
+context of Grubhub’s online interfaces. But this is likely the high-water
+mark for enforcement of arbitration agreements in such settings,
+where the relevant contract clauses could escape consumers’ notice.
+      Second, the panel agrees unanimously on the principle that
+Section 2 of the Federal Arbitration Act (“FAA”) applies only to
+contracting parties’ agreements to arbitrate claims “arising out of such
+contract or transaction.” 9 U.S.C. § 2. We also agree unanimously that
+one consequence of that principle is that the FAA does not
+countenance motions to compel arbitration of claims that lack a
+requisite “nexus” to the contract containing the arbitration clause. See
+Maj. Op. at 22, 24; Dissenting Op. at 2–3. In this case, that principle
+required denial of Grubhub’s motion.
+                                    I.
+      Congress enacted the FAA to make “arbitration agreements as
+enforceable as other contracts, but not more so.” Morgan v. Sundance,
+Inc., 596 U.S. 411, 418 (2022) (internal quotation marks omitted)
+(quoting Prima Paint Corp. v. Flood & Conklin Mfg. Co., 388 U.S. 395, 404
+n.12 (1967)).   The FAA was not intended to elevate arbitration
+
+
+
+
+                                    2
+agreements above reproach, and while courts often uphold such
+agreements, there are limits. Arbitration agreements are subject to
+“generally applicable contract defenses.”                       Doctor’s Assocs., Inc. v.
+Casarotto, 517 U.S. 681, 687 (1996). For example, we will not enforce
+arbitration agreements that are unconscionable, id., or contrary to
+federal law, see, e.g., Cedeno v. Sasson, 100 F.4th 386, 400 (2d Cir. 2024).
+And, relevant here, we will not enforce arbitration agreements to
+which one party did not assent, for example because they lacked
+reasonable notice, 2 or because no reasonable person would
+understand their assent to arbitration to extend to a given dispute. 3
+Our holding today is consistent with these limitations.
+
+
+
+2 See, e.g., Soliman v. Subway Franchisee Advert. Fund Tr., Ltd., 999 F.3d 828, 842 (2d Cir. 2021)
+(holding consumer lacked reasonable notice of arbitration agreement that was accessible
+online via a web address displayed on a hard-copy in-store display that failed to alert
+consumers to what actions would constitute assent); Starke v. SquareTrade, Inc., 913 F.3d 279,
+292–95 (2d Cir. 2019) (holding consumer lacked reasonable notice of arbitration agreement
+that was accessible via a hyperlink to which the consumer’s attention was not called that
+was contained in a lengthy post-sale email); Nicosia v. Amazon.com, Inc., 834 F.3d 220, 235–
+37 (2d Cir. 2016) (holding consumer plausibly alleged lack of reasonable notice of arbitration
+agreement that was accessible via a hyperlink that appeared on a cluttered web page and
+was not adjacent to the “Place your order” button that would ostensibly manifest assent);
+Schnabel v. Trilegiant Corp., 697 F.3d 110, 123 (2d Cir. 2012) (holding consumer lacked
+reasonable notice of arbitration agreement contained in an unsolicited email sent after
+enrollment that purported to require no aﬃrmative manifestation of assent); Specht, 306
+F.3d at 32 (holding consumer lacked reasonable notice of arbitration agreement to which
+their attention was not called that was accessible only by scrolling down).
+3 See, e.g., McFarlane v. Altice USA, Inc., 524 F. Supp. 3d 264, 277 (S.D.N.Y. 2021)
+
+(“Notwithstanding the literal meaning of the clause’s language, no reasonable person
+would think that agreeing to [Defendant’s] Terms and Conditions would obligate them to
+arbitrate literally every possible dispute he or she might have with the service provider.”
+(internal quotation marks omitted)); see also Cooper v. Ruane Cunniﬀ & Goldfarb Inc., 990 F.3d
+173, 180–85 (2d Cir. 2021) (holding agreement that undisputedly required arbitration of “all
+
+
+
+
+                                                3
+        In my view, Grubhub barely threaded the needle through our
+precedents that have examined reasonable notice of arbitration
+agreements in the context of online interfaces. If the check-out page in
+Grubhub’s web interface were even marginally more cluttered, the
+outcome of this appeal would likely be diﬀerent. 4
+        While the details of this case are speciﬁc to online consumer
+transactions, the relevant principles are historically rooted and widely
+applicable.      Every contract, “in order to be binding,” “requires a
+meeting of the minds and a manifestation of mutual assent.” Starke v.
+SquareTrade, Inc, 913 F.3d 279, 288 (2d Cir. 2019) (internal quotation
+marks omitted) (quoting Express Indus. & Terminal Corp. v. N.Y. Dep’t
+of Transp., 715 N.E.2d 1050 (N.Y. 1999)). There can be no meeting of
+the minds if one party lacks notice of the contract’s terms. Id. at 289.
+“Where an oﬀeree does not have actual notice of certain contract terms,
+he is nevertheless bound by such terms if he is on inquiry notice” and
+then assents. Id. Inquiry notice depends on “whether the term was
+obvious and whether it was called to the oﬀeree’s attention,” and that
+
+
+
+
+legal claims arising out of or relating to employment” did not cover ﬁduciary breach claim
+under ERISA).
+4 Grubhub put two interfaces before us, a mobile application and a “web interface” which
+
+“is not as streamlined as its mobile app.” Maj. Op. at 16. Because Grubhub failed to oﬀer
+any evidence before the district court about which of the interfaces Plaintiﬀs used, we must
+infer that they used the web interface, which presents a closer call on reasonable
+conspicuousness and notice. See Soliman, 999 F.3d at 833–34 (noting that “[c]ourts deciding
+motions to compel arbitration apply a standard similar to that applicable for a motion for
+summary judgment,” in which “we draw[] all reasonable inferences in favor of the non-
+moving party” (internal quotation marks omitted) (quoting Nicosia, 834 F.3d at 229)). In any
+event, I concur in our holding that both interfaces provide (barely) suﬃcient notice.
+
+
+
+
+                                             4
+determination “often turns on whether the contract terms were
+presented to the oﬀeree in a clear and conspicuous way.” Id. 5
+        Applying these principles to contracts formed between
+consumers and merchants online, we have recognized that
+“[r]easonable conspicuousness turns on the design and content of the
+relevant interface.” Soliman v. Subway Franchisee Advert. Fund Tr., Ltd.,
+999 F.3d 828, 835 (2d Cir. 2021) (internal quotation marks omitted)
+(quoting Starke, 913 F.3d at 289). This is a “fact-intensive” inquiry into
+the totality of the circumstances.                   Id. (internal quotation marks
+omitted) (quoting Meyer, 868 F.3d at 76). And that is reﬂected in our
+fact-bound conclusion today that the relevant “features, taken
+together, are enough to provide inquiry notice to a reasonably prudent
+web user.”         Maj. Op. at 17.           But our precedent sets out several
+guardrails that guide our inquiry.
+        Two of our prior cases bookend the facts of this case: Meyer v.
+Uber Technologies and Nicosia v. Amazon.com, Inc., 834 F.3d 220, 235–376
+(2d Cir. 2016). We have said the “clean, uncluttered, and conspicuous”
+placement of the terms at issue in Meyer “can be used as a model that
+
+
+5 Starke applied New York law, which applies here as well, but we have recognized that
+“traditional contract formation law does not vary meaningfully from state to state.”
+Edmundson v. Klarna, Inc., 85 F.4th 695, 702–03 (2d Cir. 2023); see, e.g., Meyer, 868 F.3d at 74-
+75 (reciting similar principles under California law, which contains “substantially similar
+rules for determining whether the parties have mutually assented to a contract term”
+(internal quotation marks omitted) (quoting Schnabel, 697 F.3d at 119)); Starke, 913 F.3d at
+287 n.5 (noting that in Berkson v. Gogo LLC, 97 F. Supp. 3d 359, 388 (E.D.N.Y. 2015), the court
+found New York, California, and Illinois law to be substantively similar on the issue of
+contract formation); id. at 290 n.7 (“In Nicosia, we applied Washington law on the question
+of contract formation, but Washington law is the same as New York law with respect to the
+issue of contract formation.” (citations omitted)); Schnabel, 697 F.3d at 119 (similar with
+respect to Connecticut and California).
+
+
+
+
+                                               5
+this Court has found eﬀective.” Starke, 913 F.3d at 297. But just a year
+before Meyer, we found that a web interface with extra bells and
+whistles was too distracting to provide reasonable notice. See Nicosia,
+834 F.3d at 236–37. We have since tolerated minor deviation from the
+clarity of Meyer, such as using a diﬀerent font color in an otherwise
+clean interface. Edmundson v. Klarna, Inc., 85 F.4th 695, 707 (2d Cir.
+2023). But we rejected an approach that bore “more resemblance to
+the Amazon order page in Nicosia than to the uncluttered screen in
+Meyer.” Starke, 913 F.3d at 293 (citations omitted).
+      Merchants therefore have a very narrow space in which to use
+an interface that is less lucid than in Meyer and still compel arbitration,
+and Grubhub comes very close to its outer perimeter. Like in Meyer,
+Grubhub’s web interface does not hide from consumers that Grubhub
+would consider their pressing the “order” button to mean they agree
+to terms accessible via hyperlink. But Grubhub’s web interface is
+unmistakably more chaotic than in Meyer, and only marginally less
+busy than in Nicosia. Ultimately, we have declined to “hold that the
+format used in Meyer is the only eﬀective way to use hyperlinks,”
+Starke, 913 F.3d at 296–97, and Grubhub’s variation on the theme oﬀers
+just enough to edge over the line of reasonableness. As merchants
+continue to try to enforce contracts of adhesion containing mandatory
+arbitration clauses, they would do well to strive for clarity.
+      Finally, I note that Grubhub also just barely met its evidentiary
+burden to “submit evidence of how [its Terms of Use were] presented
+to users.” Zachman v. Hudson Valley Fed. Credit Union, 49 F.4th 95, 103
+(2d Cir. 2022). Grubhub oﬀered a declaration describing the timeline
+of updates to Grubhub’s Terms of Use and of Plaintiﬀs’ purchases from
+
+
+
+
+                                    6
+Grubhub, which purports to attach screenshots of “the Grubhub
+checkout page.” Joint App’x 114 ¶ 10; id. 120, 122. Like Grubhub’s
+web interface, its declaration is not a model for future litigants hoping
+to prevail on a standard akin to the standard for summary judgment.
+But viewed in its entirety, including both the screenshots and timeline,
+the declaration is reasonably read to declare that the screenshots
+depict the web interface on the relevant dates.
+                                   II.
+      I need not belabor the above because, even though Grubhub’s
+web interface provided barely adequate notice of its arbitration clause,
+we hold that Grubhub’s arbitration clause is unenforceable as to
+Plaintiﬀs’ claims. The Court appropriately rejects what amounts to an
+attempt by Grubhub to funnel every conceivable claim against it into
+arbitration, no matter its content. The principle that controls this case
+is recognized by all three panel members: “The phrase ‘arising out of’
+[in Section 2 of the FAA] establishes a nexus limitation on which
+disputes are subject to the FAA,” beyond which the FAA “will not
+apply to any attempts to send that dispute to arbitration.” Dissenting
+Op. at 2; see Maj. Op. at 22.
+      Two important consequences follow where the FAA does not
+apply due to a lack of nexus. First, the FAA gives federal courts “no
+power to compel arbitration” in such cases. See Revitch v. DIRECTV,
+LLC, 977 F.3d 713, 724 (9th Cir. 2020) (O’Scannlain, J., concurring)
+(citations omitted). Because Grubhub moved to compel only under
+the FAA, that is suﬃcient to resolve the issue for now.              See
+Memorandum of Law in Support of Defendant Grubhub Inc.’s Motion
+to Compel Arbitration of Certain Named Plaintiﬀs’ Claims,
+
+
+
+
+                                   7
+Davitashvili v. Grubhub, Inc., No. 20-cv-3000 (S.D.N.Y. Aug. 26, 2022),
+ECF No. 73.
+        Second, while not necessary to decide the instant appeal, the
+nexus limitation we recognize constrains the FAA’s extra protections
+for arbitration clauses wherever and however they may be enforced.
+Where claims do not “arise out of” the contract at issue, that means no
+federal presumption of arbitrability, see Calderon v. Sixt Rent a Car, LLC,
+5 F.4th 1204, 1213–14 (11th Cir. 2021), and no preemption of state law
+perceived as hostile to arbitration, cf. AT&T Mobility LLC v. Concepcion,
+563 U.S. 333, 352 (2011). Many courts have already declined to enforce
+exceptionally broad arbitration clauses or to interpret them to reach
+absurd results. 6 Faithful application of the nexus requirement means
+that in some cases, the FAA does not displace state law limits on
+arbitration or place a thumb on the scale in interpreting those clauses.
+                                      *        *        *
+        Online merchants should remember that there are real limits on
+their ability to force consumers to arbitrate. Those limits protect,
+among others, consumers who had no reasonable notice they had
+implicitly agreed to arbitration at all, or who could not reasonably
+
+
+
+
+6See, e.g., Revitch, 977 F.3d at 716-21; McFarlane, 524 F. Supp. 3d at 275–79; Mey v. DIRECTV,
+LLC, No. 17-CV-179, 2021 WL 973454, at *11 (N.D. W. Va. Feb. 12, 2021); Thomas v. Cricket
+Wireless, LLC, 506 F. Supp. 3d 891, 903–07 (N.D. Cal. 2020); Wexler v. AT&T Corp., 211 F.
+Supp. 3d 500, 502–05 (E.D.N.Y. 2016); In re Jiﬀy Lube Int’l, Inc. Text Spam Litig., 847 F. Supp.
+2d 1253, 1262–63 (S.D. Cal. 2012); see also Smith v. Steinkamp, 318 F.3d 775, 776–77 (7th Cir.
+2003) (noting that, if certain clauses of an arbitration agreement that appear to go beyond
+claims “arising from or relating” to the contract were “read as standing free from” the
+underlying contract, “absurd results ensue”).
+
+
+
+
+                                               8
+conceive that an arbitration clause was as broad as the merchant later
+claims.
+        We have emphasized in several arbitration decisions that we
+have not prescribed rigid formulas to govern reasonable notice across
+all online commerce, 7 and we have not done so here. But as our law
+comes to rest on the outer limits, merchants take on risk when they
+choose not to be very clear with consumers.
+        The same is true of eﬀorts to push the limits of arbitrability
+under the FAA. If merchants are dissatisﬁed with these limits, they of
+course may ask Congress to expand the FAA’s scope, but importantly,
+they might not. Merchants may decide that forcing arbitration on
+consumers who suﬀer serious injuries unrelated to their transactions
+is too unpopular a position to take, commercially or politically, in
+addition to being a losing argument under current law.
+
+
+
+
+7 See, e.g., Edmundson, 85 F.4th at 707; Starke, 913 F.3d at 296–97; Soliman, 999 F.3d at 842
+(emphasizing, “as we did in Meyer, that ‘there are inﬁnite ways to design a website or
+smartphone application’” and “we impose no particular features that must be present to
+satisfy the reasonably conspicuous standard”).
+
+
+
+
+                                             9
+23-521
+Davitashvili v. Grubhub Inc.
+
+
+
+
+RICHARD J. SULLIVAN, Circuit Judge, concurring in part and dissenting
+in part:
+         I agree with the majority that Plaintiffs’ claims against Uber
+must be sent to an arbitrator to decide the threshold question of
+arbitrability, Maj. Op. Part II-B, and that Plaintiffs agreed to Grubhub’s
+terms of service, Maj. Op. Part II-A. I also agree, as a general matter,
+that a defendant may not compel arbitration of claims that are
+“completely unrelated” to the underlying transaction or contract in
+which the agreement to arbitrate was made. Revitch v. DIRECTV, LLC,
+977 F.3d 713, 722 (9th Cir. 2020) (O’Scannlain, J., concurring). Where I
+part ways with the majority is in its conclusion that Plaintiffs’ antitrust
+claims here are unrelated to their use of Grubhub’s platform. Maj. Op.
+Part II-C. As Plaintiffs allege in their own complaint, and as they
+argued in opposing Grubhub’s motion to dismiss, their use of
+Grubhub is what gave it the market power it needed to force
+restaurants to raise their off-app prices. If that use of Grubhub is so
+legally significant as to form the crux of Plaintiffs’ antitrust theory,
+then it stands to reason that the antitrust claims “arise out of”
+Plaintiffs’ use of Grubhub, and Grubhub may compel arbitration of
+those claims under the Federal Arbitration Act (“FAA”).
+         As a threshold matter, I would hold that the FAA – and its
+presumption in favor of arbitrability – applies to this dispute. See
+Moses H. Cone Mem’l Hosp. v. Mercury Constr. Corp., 460 U.S. 1, 25
+(1983). Pursuant to section 2 of the FAA, parties may agree to arbitrate
+any dispute “arising out of” an underlying “contract or transaction”
+between them. 9 U.S.C. § 2. The phrase “arising out of” establishes a
+nexus limitation on which disputes are subject to the FAA.             See
+Calderon v. Sixt Rent a Car, LLC, 5 F.4th 1204, 1212–13 (11th Cir. 2021).
+A dispute cannot be said to “arise out of” the parties’ underlying
+transaction when the dispute is “completely unrelated” to that earlier
+transaction. Revitch, 977 F.3d at 722 (O’Scannlain, J., concurring).
+While this does not necessarily require a “caus[al]” relationship,
+“arising out of” does require some meaningful nexus between the
+transaction and the subsequent dispute. Id.
+      This means that, at least in some cases, a dispute will be so
+untethered from the parties’ initial transaction that the FAA (and its
+pro-arbitration presumption) will not apply to any attempts to send
+that dispute to arbitration. For instance, even if a customer were to
+sign up for a cell phone contract and agree to arbitrate “all disputes”
+with the cell provider or its “affiliates,” the FAA would not compel
+arbitration in the event that the customer sued one of those affiliates
+over unwanted robocalls by the affiliates’ satellite television services. Id.
+at 715 (majority opinion) (affirming district court’s denial of motion to
+compel arbitration on these facts).        Nor would the FAA compel
+arbitration of a cable company employee’s claims against his employer
+for leaking his personal data merely because the employee happened
+to be a private cable customer who agreed to arbitrate “any and all
+disputes” when he signed up for cable. McFarlane v. Altice USA, Inc.,
+524 F. Supp. 3d 264, 277–78 (S.D.N.Y. 2021). In such cases, there would
+be no nexus between the underlying transaction (for the provision of
+cell phone and cable services) and the subsequent litigation claims
+(based on illegal satellite television robocalls and breaches of
+employee data), and so the FAA would not apply.
+      Here, by contrast, there is a clear nexus between the litigation
+
+
+
+
+                                     2
+claims and the underlying transaction, since Plaintiffs’ use of
+Grubhub’s platform is what gave Grubhub the market power to
+commit the alleged antitrust violations.       Indeed, Plaintiffs’ entire
+theory of antitrust liability – which they allege in their complaint and
+relied on in opposing Grubhub’s motion to dismiss – is that Grubhub
+was able to accumulate so many users on its app that it had “market
+power” to “force” restaurants to raise their off-app prices. App’x at 32
+(¶ 55), 68 (¶ 190); see also Davitashvili v. Grubhub Inc., No. 20-cv-3000
+(LAK), 2022 WL 958051, at *10 (S.D.N.Y. Mar. 30, 2022) (“The amended
+complaint also alleges plausibly that restaurants cannot feasibly avoid
+doing business with Defendants because restaurants need access to the
+platforms’ customers – many of whom use only one platform due to
+platform ‘stickiness’ – in order to generate sufficient sales.”).
+      Put simply, not only is there a nexus between Plaintiffs’ use of
+Grubhub and their antitrust claims, Plaintiffs affirmatively relied on
+that very nexus in asserting their antitrust claims. That is a key
+distinction between this case and others like Revitch and McFarlane, in
+which the plaintiffs’ theories of liability were “completely unrelated”
+to the parties’ underlying transaction.        Revitch, 977 F.3d at 722
+(O’Scannlain, J., concurring). And it also distinguishes this case from
+others relied on by the majority, where “the substance of [the
+plaintiff’s] claims ha[d] no connection” to his relationship with the
+defendant. Cooper v. Ruane Cunniff & Goldfarb Inc., 990 F.3d 173, 183
+(2d Cir. 2021) (emphasis added). In other words, if Plaintiffs’ use of
+Grubhub is sufficient to form the crux of Plaintiffs’ antitrust theory, it
+stands to reason that Plaintiffs’ claims “aris[e] out of” their use of
+Grubhub within the meaning of the FAA. 9 U.S.C. § 2.
+
+
+
+
+                                    3
+      Because the FAA applies to this dispute, so does its “emphatic
+federal policy in favor of arbitral dispute resolution.” KPMG LLP v.
+Cocchi, 565 U.S. 18, 21 (2011) (internal quotation marks omitted).
+Applying that presumption here, I would also hold that Grubhub’s
+arbitration clause extends to the antitrust claims.       The majority
+disagrees, concluding that Grubhub’s arbitration clause does not cover
+the antitrust claims because the clause extends only to claims that
+“relate[] to Plaintiffs’ access and use of Grubhub.” Maj. Op. at 20
+(internal quotation marks omitted). But as just discussed, the antitrust
+claims do relate to Plaintiffs’ use of Grubhub, since Plaintiffs’ entire
+theory of liability is that so many customers (including Plaintiffs) used
+Grubhub that it was able to force restaurants to raise their off-app
+prices. See Davitashvili, 2022 WL 958051, at *10. And even if we
+harbored doubts as to whether that nexus is significant enough, the
+FAA mandates that “any doubts concerning the scope of arbitrable
+issues should be resolved in favor of arbitration.” Moses H. Cone, 460
+U.S. at 24–25.
+      I therefore would hold that Grubhub’s arbitration clause validly
+covers Plaintiffs’ antitrust claims, and that those claims must be sent
+to arbitration. Accordingly, I respectfully dissent from Part II-C of the
+majority’s opinion.
+
+
+
+
+                                   4

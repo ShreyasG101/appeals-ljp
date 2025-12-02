@@ -1,0 +1,50 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court erred in dismissing plaintiffs' Title VI claim for failure to state a claim based on MIT's alleged deliberate indifference to antisemitic harassment.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that most of the protestors' conduct was protected speech and not actionable harassment under Title VI, and that the few plausibly antisemitic incidents were not sufficiently severe, pervasive, or known to MIT to support liability."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the district court erred in dismissing plaintiffs' Ku Klux Klan Act (42 U.S.C. \u00a7 1986) claim for failure to plead a conspiracy to deprive civil rights.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found plaintiffs failed to plausibly allege that the student protestors conspired for the purpose of depriving Jewish and Israeli students of their civil rights, as required under \u00a7 1985(3), so the \u00a7 1986 claim necessarily failed."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the district court abused its discretion in declining supplemental jurisdiction over state law claims after dismissing all federal claims.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court affirmed that dismissal of state law claims without prejudice was proper after all federal claims were dismissed at an early stage."
+    },
+    {
+      "issue_id": 4,
+      "description": "Whether the district court abused its discretion by not granting leave to amend the complaint a second time.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that plaintiffs did not properly move for leave to amend, and the district court was not required to grant leave sua sponte based on a cursory request in briefing."
+    }
+  ],
+  "key_precedents": [
+    "Davis ex rel. Lashonda D. v. Monroe Cnty. Bd. of Educ., 526 U.S. 629 (1999)",
+    "Ashcroft v. Iqbal, 556 U.S. 662 (2009)",
+    "Snyder v. Phelps, 562 U.S. 443 (2011)",
+    "Fitzgerald v. Barnstable Sch. Comm., 555 U.S. 246 (2009)",
+    "Bray v. Alexandria Women's Health Clinic, 506 U.S. 263 (1993)",
+    "Aulson v. Blanchard, 83 F.3d 1 (1st Cir. 1996)",
+    "Gray v. Evercore Restructuring L.L.C., 544 F.3d 320 (1st Cir. 2008)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "This case emerges from a school year of tension among students, faculty, and administrators at the Massachusetts Institute of Technology (MIT) in response to extraordinary violence in the Middle East. Two plaintiffs are MIT students. The third is StandWithUs Center for Legal Justice, the legal arm of a California-based membership organization \"dedicated to combatting antisemitism.\" Together, plaintiffs allege that MIT failed to take sufficient action to curtail a surge of anti-Israel and pro-Palestinian student protests, thereby allegedly subjecting MIT's Jewish and Israeli students to antisemitic harassment. The district court dismissed the suit for failure to state a claim. For the reasons that follow, we affirm."
+}

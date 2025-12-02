@@ -1,0 +1,30 @@
+{
+  "overall_outcome": "REVERSE",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the Eleventh Amendment bars plaintiffs' claims for the return of forfeited property and related relief against state officials under the Ex parte Young exception.",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "The court held that the Ex parte Young exception does not apply because plaintiffs allege only a past violation of federal law, not an ongoing one, and the relief sought is retrospective rather than prospective. Additionally, the state officials sued lack authority to change state court procedures, so no valid prospective relief can be granted."
+    }
+  ],
+  "key_precedents": [
+    "Ex parte Young, 209 U.S. 123 (1908)",
+    "Edelman v. Jordan, 415 U.S. 651 (1974)",
+    "Papasan v. Allain, 478 U.S. 265 (1986)",
+    "Green v. Mansour, 474 U.S. 64 (1985)",
+    "Quern v. Jordan, 440 U.S. 332 (1979)",
+    "Pennhurst State Sch. & Hosp. v. Halderman, 465 U.S. 89 (1984)",
+    "Whalen v. Mass. Trial Ct., 397 F.3d 19 (1st Cir. 2005)",
+    "Verizon Md., Inc. v. Pub. Serv. Comm'n of Md., 535 U.S. 635 (2002)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "We conclude that the Eleventh Amendment bars all the relief sought by plaintiffs. Plaintiffs' attempt to recover their forfeited property focuses on a past alleged wrong, but the Ex parte Young exception applies only when individuals seek prospective relief against a state official's ongoing violation of federal law. Because there is no ongoing violation to anchor plaintiffs' various claims, there is no prospective or ancillary relief to grant. Plaintiffs' claim for additional procedural protections in state court also cannot proceed under Ex parte Young because the state officials they sued lack the authority to enforce or change those procedures. We therefore reverse the district court's partial denial of the motion to dismiss and remand with instructions to dismiss the case in full."
+}

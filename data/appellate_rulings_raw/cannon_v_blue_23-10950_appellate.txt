@@ -1,0 +1,582 @@
+United States Court of Appeals
+                        For the First Circuit
+
+
+No. 24-1862
+
+SCOTT CANNON, individually and as the Personal Representative of
+                  the Estate of Blaise Cannon,
+
+                        Plaintiff, Appellant,
+
+                                  v.
+
+       BLUE CROSS AND BLUE SHIELD OF MASSACHUSETTS, INC.,
+
+                         Defendant, Appellee.
+
+
+          APPEAL FROM THE UNITED STATES DISTRICT COURT
+               FOR THE DISTRICT OF MASSACHUSETTS
+
+          [Hon. Denise J. Casper, U.S. District Judge]
+
+
+                                Before
+
+              Aframe, Lynch, and Howard, Circuit Judges.
+
+
+     Louis C. Schneider, with whom Thomas Law Offices, PLLC,
+Heather M. Bonnet-Hébert and Feingold Bonnet-Hébert were on brief,
+for appellant.
+     Brooks R. Magratten, with whom Stanley F. Pupecki and Pierce
+Atwood LLP were on brief, for appellees.
+
+
+                            March 19, 2025
+            LYNCH, Circuit Judge.         Scott Cannon, individually and as
+
+the personal representative of the estate of Blaise Cannon, appeals
+
+from the grant of summary judgment on ERISA preemption grounds to
+
+defendant Blue Cross and Blue Shield of Massachusetts ("BCBS") on
+
+his state law wrongful death/punitive damages claim.               See Mass.
+
+Gen. Laws ch. 229 § 2.           His assertion is that BCBS's denial of
+
+insurance coverage for a particular inhaler for Blaise Cannon
+
+("Blaise")    prematurely        caused     Blaise's    later    death    from
+
+asthma-related complications.         The parties agree that Blaise was
+
+a beneficiary of his partner's BCBS health insurance policy through
+
+the partner's employer, and that policy was covered by the Employee
+
+Retirement Income Security Act of 1974 ("ERISA"), 29 U.S.C. §§ 1001
+
+et seq.     Cannon's primary contention is that Rutledge v. Pharm.
+
+Care Mgmt. Ass'n, 592 U.S. 80 (2020), overrules prior law and
+
+requires reinstatement of the wrongful death/punitive damages suit
+
+(the "claim").    We affirm the district court's holding that as a
+
+matter of law ERISA preempts his claim.
+
+            Two provisions of ERISA are relevant to Cannon's appeal,
+
+each of which provides a basis for preemption.              ERISA expressly
+
+preempts "any and all State laws insofar as they may now or
+
+hereafter    relate   to   any    employee    benefit   plan."    29     U.S.C.
+
+§ 1144(a).    This is often called statutory preemption.          See Metro.
+
+Life Ins. Co. v. Mass., 471 U.S. 724, 747 (1985).          "The term 'State
+
+law' includes all laws, decisions, rules, regulations, or other
+
+
+                                     - 2 -
+State action having the effect of law, of any State."                   Id.
+
+§ 1144(c)(1).      A state cause of action may also be preempted if it
+
+conflicts   with    the   remedial   scheme   established   by   29   U.S.C.
+
+§ 1132(a), which provides that a "civil action may be brought[] by
+
+a participant or beneficiary . . . to recover benefits due to him
+
+under the terms of his plan, to enforce his rights under the terms
+
+of the plan, or to clarify his rights to future benefits under the
+
+terms of the plan."
+
+                                       I.
+
+            The facts are drawn from the record and discovery as to
+
+Blaise's health insurance policy.
+
+            Blaise was insured as a covered dependent of his domestic
+
+partner's BCBS group health insurance policy.         On March 18, 2020,
+
+Blaise, through his doctor, sought coverage for a Wixela Inhub
+
+inhaler to treat his asthma.           On March 25, 2020, BCBS denied
+
+coverage, explaining:
+
+            Our Pharmacy Operations Unit considered the
+            material your doctor provided.     Coverage of
+            Wixela Inhub was requested for the treatment
+            of asthma (breathing disorder). We could not
+            approve coverage of this medication because
+            there was no documentation of trying one
+            prescription    inhaled    steroid,    inhaled
+            beta-agonist, inhaled mast cell stabilizer,
+            oral albuterol, or theophylline product within
+            the previous 130 days and there was no
+            documentation of trying two of the following:
+            Dulera (Prior Authorization required) and/or
+            Symbicort   (Prior   Authorization   required)
+            and/or fluticasone/salmeterol (generic for
+
+
+
+
+                                     - 3 -
+           Airduo -- Prior Authorization required) by the
+           patient.
+
+Blaise did not take any appeal from this denial of benefits.
+
+           Following Blaise's death, Cannon brought six state law
+
+claims against BCBS: declaratory judgment, breach of contract, bad
+
+faith, wrongful death, punitive damages, and loss of consortium.
+
+BCBS removed the case to federal court and moved to dismiss the
+
+action on the basis of ERISA preemption, and the district court
+
+allowed Cannon a brief period of limited discovery.    On November
+
+7, 2023, the court denied the motion to dismiss "without prejudice
+
+to BCBS raising the issue of ERISA preemption in a motion for
+
+summary judgment."   Cannon v. Blue Cross and Blue Shield of Mass.,
+
+Inc., No. 23-cv-10950, 2024 WL 3902835, at *1 (D. Mass. Aug. 22,
+
+2024).   After Cannon conducted a Rule 30(b)(6) deposition of BCBS,
+
+on February 28, 2024, BCBS moved for summary judgment.      Conceding
+
+ERISA preempted most of his claims, Cannon argued that his wrongful
+
+death claim and corresponding punitive damages claim were not
+
+preempted and survived.
+
+           On August 22, 2024, the district court held that ERISA
+
+statutorily preempted the wrongful death claim because "the cause
+
+of action 'relate[d] to' th[e] employee benefit plan" covered by
+
+ERISA.   Id. at *2 (quoting Hampers v. W.R. Grace & Co., Inc., 202
+
+F.3d 44, 49 (1st Cir. 2000)).     The claim "related" to Blaise's
+
+health insurance policy because the district court "would be
+
+
+
+                               - 4 -
+required to consult the Policy to resolve [it] and because [it]
+
+arose from the alleged improper denial of benefits." Id. Further,
+
+the court held that the claim "is an action for damages related to
+
+a breach of plan and is therefore precisely the type of alternative
+
+enforcement    mechanism    disallowed    under     ERISA   [29   U.S.C.
+
+§ 1132(a)]."   Id. at *3.
+
+                                    II.
+
+          We review a grant of a motion for summary judgment de
+
+novo, construing the evidence "in the light most congenial to the
+
+nonmovant" and affirming the grant if the record "presents no
+
+genuine issue as to any material fact and reflects the movant's
+
+entitlement to judgment as a matter of law."       Mullane v. U.S. Dep't
+
+of Just., 113 F.4th 123, 130 (1st Cir. 2024) (quoting McKenney v.
+
+Mangino, 873 F.3d 75, 80 (1st Cir. 2017)).        Cannon did not respond
+
+to BCBS's statement of material facts, so those facts are deemed
+
+undisputed.    See D. Mass. L.R. 56.1.
+
+          Cannon's claim is statutorily preempted under ERISA, 29
+
+U.S.C. § 1144(a).    "A law 'relates to' an employee benefit plan,
+
+in the normal sense of the phrase, if it has a connection with or
+
+reference to such a plan."       Shaw v. Delta Air Lines, Inc., 463
+
+U.S. 85, 96-97 (1983).     The Supreme Court recently reaffirmed this
+
+test in Rutledge, saying that "a state law relates to an ERISA
+
+plan," and is preempted, "if it has a connection with or reference
+
+to such a plan."    592 U.S. at 86 (quoting Egelhoff v. Egelhoff,
+
+
+                                 - 5 -
+532 U.S. 141, 147 (2001)); see also Guerra-Delago v. Popular, Inc.,
+
+774 F.3d 776, 781 (1st Cir. 2014) ("A law is preempted 'even if
+
+the law is not specifically designed to affect such plans, or the
+
+effect is only indirect.'" (quoting Zipperer v. Raytheon Co., 493
+
+F.3d 50, 53 (1st Cir. 2007))).         The Court has explained that ERISA
+
+is   "primarily     concerned   with    pre-empting    laws   that   require
+
+providers to structure benefit plans in particular ways, such as
+
+by requiring payment of specific benefits."           Rutledge, 592 U.S. at
+
+86-87 (citing Shaw, 463 U.S. at 97-98).          A claim is preempted if
+
+a state law "governs a central matter of plan administration or
+
+interferes   with    nationally   uniform    plan     administration."   Id.
+
+(quoting Egelhoff, 532 U.S. at 142).1 As we explain below, Rutledge
+
+reinforces our prior law and does not support Cannon's arguments.
+
+           We have repeatedly held that an impermissible connection
+
+with ERISA exists when "a court must evaluate or interpret the
+
+terms of the ERISA-regulated plan to determine liability under the
+
+state law cause of action."        Hampers, 202 F.3d at 52; see also
+
+Harris v. Harvard Pilgrim Health Care, Inc., 208 F.3d 274, 281
+
+(1st Cir. 2000) (holding that a state law claim is preempted if
+
+
+      129 U.S.C. § 1144 contains a "savings clause," which exempts
+from preemption "any law of any state which regulates insurance,
+banking, or securities . . . ."       29 U.S.C. § 1144(b)(2)(B).
+Cannon does not argue that his claim falls within this provision
+and instead argues that the Massachusetts wrongful death statute
+"is not intended to regulate insurance or have any effect on
+insurance plans." As such, we do not consider whether the savings
+clause applies to Cannon's claim.
+
+
+                                   - 6 -
+"the trier of fact necessarily would be required to consult the
+
+ERISA plan to resolve the plaintiff's claims"). More specifically,
+
+our decision in Turner v. Fallon Cmty. Health Plan, Inc., 127 F.3d
+
+196, 197-99 (1st Cir. 1997), held that ERISA statutorily preempts
+
+wrongful death claims alleging that a defendant insurer improperly
+
+denied a decedent benefits under an ERISA plan, causing death.
+
+There, the plaintiff brought a wrongful death action against an
+
+insurer after the insurer denied coverage for a particular cancer
+
+treatment for the plaintiff's wife, and the plaintiff's wife later
+
+died of cancer.   Id. at 197-98.   We held that ERISA statutorily
+
+preempted the claim because it was "a state's attempt to provide
+
+state remedies for what is in essence a plan administrator's
+
+refusal to pay allegedly promised benefits," and "[i]t would be
+
+difficult to think of a state law that 'relates' more closely to
+
+an employee benefit plan than one that affords remedies for the
+
+breach of obligations under that plan."   Id. at 199.2
+
+          For reasons similar to those expressed in Turner, our
+
+sister circuits have also held that state wrongful death actions
+
+based on an insurer's denial of benefits under an ERISA-governed
+
+plan are statutorily preempted.    See Tolton v. American Biodyne,
+
+
+     2 Cannon argues that the language of Clause 2 of the statute
+at issue has no facial relationship to ERISA and is therefore not
+preempted.   That argument mischaracterizes the Supreme Court's
+"connection with or reference to" test and overlooks the fact that
+Cannon bases his claim under the statute on the allegedly wrongful
+denial of benefits.
+
+
+                              - 7 -
+Inc., 48 F.3d 937, 942 (6th Cir. 1995) (holding that wrongful death
+
+claim    alleging   a    refusal    to     authorize      certain     benefits     was
+
+preempted under ERISA); Spain v. Aetna Life Ins. Co., 11 F.3d 129,
+
+131 (9th Cir. 1993) (holding that a wrongful death action was
+
+preempted as it "'relates to' the administration and disbursement
+
+of ERISA plan benefits"); Corcoran v. United HealthCare, Inc., 965
+
+F.2d 1321, 1332 (5th Cir. 1992) (holding that wrongful death claim
+
+based on insurer's denial of advance approval for treatment was
+
+statutorily preempted under ERISA), abrogated on other grounds by
+
+Mertens v. Hewitt Assoc., 508 F.3d 248 (1993).
+
+            We reject the argument that the Supreme Court's recent
+
+decision in Rutledge changes this analysis such that Cannon's claim
+
+survives.     As said, Rutledge reinforced the "connection with or
+
+reference     to"       test,      and        it    reaffirmed        that      "ERISA
+
+is . . . primarily concerned with pre-empting laws that require
+
+providers to structure benefit plans in particular ways, such as
+
+by requiring payment of specific benefits."                  592 U.S. at 86-87.
+
+Rutledge stated the challenge there was a very different type of
+
+challenge,    not   to   a    denial     of    benefits    but   to    a     generally
+
+applicable statute.          See id. at 88.         The plaintiffs challenged
+
+enforcement    against       pharmacy     benefit    managers    of    an     Arkansas
+
+statute regulating the price at which pharmacy benefit managers
+
+reimburse pharmacies for the cost of prescription drugs.                       Id. at
+
+83.     The Court determined that ERISA did not statutorily preempt
+
+
+                                         - 8 -
+the   statute:    no   impermissible    connection     existed   because    the
+
+statute was "merely a form of cost regulation," and the only
+
+potential connection with an ERISA plan was that "[pharmacy benefit
+
+managers] may well pass . . . increased costs on to plans, meaning
+
+that ERISA plans may pay more for prescription-drug benefits in
+
+Arkansas than in, say, Arizona."          Id. at 88.    Rutledge is in line
+
+with previous cases holding "cost uniformity was almost certainly
+
+not an object of pre-emption."         Id. (quoting New York State Conf.
+
+of Blue Cross & Blue Shield Plans v. Travelers Ins. Co., 514 U.S.
+
+645, 662 (1995)).       The effect of the statute was not "so acute
+
+that it will effectively dictate plan choices."            Id.     Nor did the
+
+statute "refer to" ERISA, since it "applie[d] to [pharmacy benefit
+
+managers] whether or not they manage[d] an ERISA plan" and "ERISA
+
+plans [we]re likewise not essential to [the statute's] operation."
+
+Id. at 89.    The case before us does not challenge enforcement of
+
+a statute seeking uniformity of costs regardless of whether any
+
+costs are passed on to ERISA or non-ERISA plans.
+
+            Cannon's     claim   is    also   preempted    under    29    U.S.C
+
+§ 1132(a)    of   ERISA.    "[A]ny     state-law   cause   of    action    that
+
+duplicates, supplements, or supplants the ERISA civil enforcement
+
+remedy conflicts with the clear congressional intent to make the
+
+ERISA remedy exclusive and is therefore pre-empted."             Aetna Health
+
+Inc. v. Davila, 542 U.S. 200, 209 (2004).              "The policy choices
+
+reflected in the inclusion of certain remedies and the exclusion
+
+
+                                      - 9 -
+of others under the federal scheme would be completely undermined
+
+if ERISA-plan participants and beneficiaries were free to obtain
+
+remedies under state law that Congress rejected in ERISA."   Pilot
+
+Life Ins. Co. v. Dedeaux, 481 U.S. 41, 54 (1987).   Specifically,
+
+          [i]t follows that if an individual brings suit
+          complaining of a denial of coverage for
+          medical care, where the individual is entitled
+          to such coverage only because of the terms of
+          an ERISA-regulated employee benefit plan, and
+          where no legal duty (state or federal)
+          independent of ERISA or the plan terms is
+          violated, then the suit falls "within the
+          scope" of ERISA § 502(a)(1)(B) [29 U.S.C
+          § 1132(a)].
+
+Davila, 542 U.S. at 210 (citing Metro. Life Ins. Co. v. Taylor,
+
+481 U.S. 58, 66 (1987)).   "In other words, if an individual, at
+
+some point in time, could have brought his claim under ERISA
+
+§ 502(a)(1)(B), and where there is no other independent legal duty
+
+that is implicated by a defendant's actions," preemption applies.
+
+Id.
+
+          As Turner held, the ERISA "relief expressly provided is
+
+to secure benefits under the plan rather than damages for a breach
+
+of the plan."   127 F.3d at 198.    Cannon attempts to evade this
+
+outcome by arguing (a) he is not a plan participant or beneficiary
+
+either in his individual capacity or as a representative of the
+
+decedent's estate and (b) that the plan participant or beneficiary
+
+could not have brought the wrongful death claim because it did not
+
+arise until after Blaise's death.     As to his first argument, in
+
+
+
+                             - 10 -
+both capacities in which he sues, his claim is derivative.                       The
+
+Massachusetts         Supreme     Judicial      Court     has   held    that     the
+
+Massachusetts wrongful death statute permits only the "executor or
+
+administrator of the deceased" to bring an action, while others
+
+can be beneficiaries of the action in their individual capacities.
+
+GGNSC Admin. Servs., LLC v. Schrader, 140 N.E.3d 397, 404 (Mass.
+
+2020).    As to both the executor-plaintiff and any other individual
+
+beneficiaries, wrongful death actions are derivative from, not
+
+independent from, "what would have been the decedent's own cause
+
+of action for the injuries causing her death."                  Id. at 399.      The
+
+SJC has explained that "the beneficiaries of the death action can
+
+sue only if the decedent would still be in a position to sue."
+
+Id. at 402 (quoting Ellis v. Ford Motor Co., 628 F. Supp. 849, 858
+
+(D. Mass. 1986)). It has rejected the argument that wrongful death
+
+actions represent "a separate legal interest," id. (quoting Ellis,
+
+628 F. Supp. at 858), from the decedent's cause of action such
+
+that they "deal[] only with the economic effect the decedent's
+
+death had upon specific family members," id. (quoting Victoria
+
+A.B.     Willis   &     Judson    R.   Peverall,        The   "Vanishing    Trial":
+
+Arbitrating Wrongful Death, 53 U. Rich. L. Rev. 1339, 1352 (2019)).
+
+In that case, the SJC concluded that an arbitration agreement
+
+binding the decedent barred the plaintiff's wrongful death claim,
+
+even   though     the    plaintiff     herself    was     not   a   party   to   the
+
+arbitration agreement.           Id. at 401.
+
+
+                                       - 11 -
+           The SJC reaffirmed Schrader in Fabiano v. Philip Morris
+
+USA Inc., 211 N.E.3d 1048 (Mass. 2023), holding that "because the
+
+decedents had no right to bring a cause of action for the injuries
+
+that caused their deaths at the time that they died . . . the
+
+plaintiffs, as personal representatives of the decedents' estates,
+
+had no right to bring wrongful death actions based on those
+
+injuries."   Id. at 1052.      In short, Cannon's wrongful death claim
+
+is merely derivative of any claim Blaise could have brought for
+
+damages based on breach of the policy.      Since such a claim brought
+
+by Blaise would have been preempted by § 1132(a)(1)(B), Cannon's
+
+derivative wrongful death claim is similarly preempted.               See
+
+Settles v. Golden Rule Ins. Co., 927 F.2d 505, 509-10 (10th Cir.
+
+1991) ("Had [the decedent] survived the wrongful termination of
+
+his benefits, any claim that he could have brought based on the
+
+wrongful termination of his benefits would have been barred by
+
+ERISA . . . because the decedent could not have brought suit under
+
+these   facts,   plaintiff's    wrongful   death   claim   is   similarly
+
+barred.").
+
+           We affirm the district court's grant of summary judgment
+
+to BCBS.   Costs are awarded to BCBS.
+
+
+
+
+                                  - 12 -

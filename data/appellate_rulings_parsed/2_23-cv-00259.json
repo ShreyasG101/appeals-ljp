@@ -1,0 +1,35 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court properly dismissed the Hospitals' common-law claims for lack of subject-matter jurisdiction on the ground that the claims 'arise under' the Medicare Act and require administrative exhaustion.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that the Hospitals' claims, though styled as common-law torts, are inextricably intertwined with Medicare benefits determinations and thus 'arise under' the Medicare Act, requiring administrative exhaustion before federal court review."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the district court abused its discretion in denying the Hospitals' Rule 59(e) motions to alter or amend the judgment based on the argument that, as foreign hospitals, they are unable to participate in the Medicare administrative review process.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found no abuse of discretion because the Hospitals failed to adequately develop or support their argument that they are categorically excluded from the administrative process, and such arguments were raised only after judgment."
+    }
+  ],
+  "key_precedents": [
+    "Shalala v. Ill. Council on Long Term Care, Inc., 529 U.S. 1 (2000)",
+    "Heckler v. Ringer, 466 U.S. 602 (1984)",
+    "Weinberger v. Salfi, 422 U.S. 749 (1975)",
+    "Glob. Rescue Jets, LLC v. Kaiser Found. Health Plan, Inc., 30 F.4th 905 (9th Cir. 2022)",
+    "RenCare, Ltd. v. Humana Health Plan of Tex., Inc., 395 F.3d 555 (5th Cir. 2004)",
+    "Caris MPI, Inc. v. UnitedHealthcare, Inc., 108 F.4th 340 (5th Cir. 2024)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "These consolidated appeals challenge the dismissals of two diversity actions brought by hospitals incorporated and operating in Mexico (together, the \"Hospitals\") against Martin's Point Health Care, Inc. (\"Martin's Point\"), a Maine health insurance company. The district court dismissed both actions for lack of subject-matter jurisdiction, concluding that the Hospitals' negligent-misrepresentation and promissory-estoppel claims arose under the Medicare Act, such that the Hospitals were required to exhaust administrative remedies before suing Martin's Point in federal court. See 42 U.S.C. \u00a7\u00a7 405(g)-(h), 1395w-22(g)(5), 1395ii. On appeal, the Hospitals contend that they were not required to exhaust administrative remedies because their claims do not arise under the Medicare Act. Alternatively, they argue that they should have been exempted from the exhaustion requirement because, as foreign hospitals, they cannot participate in Medicare's administrative-remedies process. We affirm."
+}

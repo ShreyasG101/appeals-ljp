@@ -1,0 +1,27 @@
+{
+  "overall_outcome": "REVERSE",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court erred in dismissing plaintiff's copyright infringement claim on the ground of fair use, sua sponte, after defendant defaulted.",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "The Second Circuit held that the district court misapplied the fair use doctrine, as the facts alleged did not support a finding of fair use under any of the statutory factors, and the defendant's use was not transformative nor justified. The court also noted that sua sponte consideration of an affirmative defense for a defaulting defendant is not categorically barred, but here, the defense failed on the merits."
+    }
+  ],
+  "key_precedents": [
+    "Andy Warhol Found. for the Visual Arts, Inc. v. Goldsmith, 598 U.S. 508 (2023)",
+    "Campbell v. Acuff-Rose Music, Inc., 510 U.S. 569 (1994)",
+    "Authors Guild v. Google, Inc., 804 F.3d 202 (2d Cir. 2015)",
+    "Chambers v. Time Warner, Inc., 282 F.3d 147 (2d Cir. 2002)",
+    "Finkel v. Romanowicz, 577 F.3d 79 (2d Cir. 2009)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": true,
+  "summary_text": "Plaintiff Jana Romanova appeals from the judgment of the United States District Court for the Southern District of New York (Caproni, J.) dismissing Romanova\u2019s claim of willful copyright infringement against Defendant Amilus Inc. pursuant to Section 501 of the Copyright Act. Her complaint alleged that Defendant infringed upon her rights when it published a photograph authored by her on its website without her authorization. Defendant made no answer to the complaint and did not appear in the district court. On Plaintiff\u2019s motion for default judgment, the district court ordered Defendant to show cause why the court should not grant the motion. Having received no response from Defendant, the court then sua sponte ordered Plaintiff to show cause why Defendant\u2019s use of Plaintiff\u2019s photograph did not constitute fair use. After considering Plaintiff\u2019s response, the district court dismissed Plaintiff\u2019s complaint with prejudice on the ground that Defendant\u2019s publication of Plaintiff\u2019s photograph constituted fair use. The district court\u2019s judgment is REVERSED, and the case is REMANDED with instructions to enter a default judgment in Plaintiff\u2019s favor."
+}

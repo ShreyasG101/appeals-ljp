@@ -1,0 +1,1207 @@
+22-1191-cv
+Shapiro v. U.S. Soc. Sec. Admin.
+
+
+
+
+                                        In the
+                            United States Court of Appeals
+                               For the Second Circuit
+                                   ___________________________
+
+                                       August Term, 2022
+                                      Argued: May 10, 2023
+                                   Decided: November 26, 2025
+
+                                        Docket No. 22-1191
+                                   ___________________________
+
+                                       ROBERT E. SHAPIRO,
+
+                                                                       Plaintiff-Appellee,
+
+                                             —v.—
+
+                        UNITED STATES SOCIAL SECURITY ADMINISTRATION,
+
+                                                                Defendant-Appellant.
+                        ____________________________________________
+
+                         On Appeal from the United States District Court
+                                  for the District of Vermont
+                           No. 19-cv-238, Christina Reiss, Chief Judge.
+                           _____________________________________
+
+Before: CARNEY, SULLIVAN, and LEE, Circuit Judges.
+
+      Plaintiff-Appellee Robert E. Shapiro submitted a request under the Freedom
+of Information Act (“FOIA”), 5 U.S.C. § 552, for documents related to how
+Defendant-Appellant, the United States Social Security Administration (“SSA”),
+assesses disability claims for migraines and other headache disorders. Under 42
+U.S.C. § 1306(c), the SSA can require a requesting party to repay the agency for the
+22-1191-cv
+Shapiro v. U.S. Soc. Sec. Admin.
+
+
+“full cost” of responding to a FOIA submission that is “not directly related to the
+administration” of an applicable SSA program. At the same time, FOIA prohibits
+agencies from charging fees if they did not timely respond to the FOIA request.
+See 5 U.S.C. § 552(a)(4)(A)(viii). The SSA sought reimbursement from Shapiro
+according to § 1306(c)’s cost-reimbursement provision, but Shapiro refused
+because the agency had failed to respond to his request within FOIA’s statutory
+deadline. The United States District Court for the District of Vermont ruled in
+favor of Shapiro (Christina Reiss, Chief Judge), holding that FOIA’s fee-preclusion
+provision prevailed over § 1306(c)’s cost-reimbursement provision and ordering a
+refund of the fee charged to Shapiro. Based in part on this ruling, the district
+court also awarded Shapiro attorneys’ fees and costs.
+
+      On appeal, we hold that the text of the SSA’s cost-reimbursement provision,
+§ 1306(c), is unambiguous and takes precedence over the competing FOIA
+provision. The cost-reimbursement provision begins with a “notwithstanding”
+clause that expressly exempts the agency from “section[] 552,” i.e., FOIA, when
+the FOIA request is “not directly related to the administration of” an applicable
+SSA program. Here, the SSA determined that Shapiro’s request was not
+program-related, and we agree. Accordingly, we REVERSE the district court’s
+judgment and VACATE its order granting attorneys’ fees and costs.
+                         ___________________________
+
+                                   CAROLINE D. LOPEZ, Appellate Staff, Civil
+                                   Division, (Charles W. Scarborough, Appellate
+                                   Staff, Civil Division, on the brief), for Brian M.
+                                   Boynton, Principal Deputy Assistant Attorney
+                                   General, U.S. Department of Justice, Washington,
+                                   DC; Nikolas Kerest, United States Attorney for the
+                                   District of Vermont, Burlington, VT (on the brief);
+                                   Royce B. Min, General Counsel, U.S. Social
+                                   Security Administration (on the brief), for
+                                   Defendant-Appellant United States Social Security
+                                   Administration.
+
+                                   JUSTIN G. SHERMAN, Langrock Sperry & Wool,
+                                   LLP, Burlington, VT (Emily J. Joselson on the brief),
+                                   for Plaintiff-Appellee Robert E. Shapiro.
+
+
+                                            2
+22-1191-cv
+Shapiro v. U.S. Soc. Sec. Admin.
+
+
+
+
+                                        Katie Townsend, Reporters Committee for
+                                        Freedom of the Press, Washington, DC, for Amicus
+                                        Curiae Reporters Committee for Freedom of the Press.
+                                   ___________________________
+
+EUNICE C. LEE, Circuit Judge:
+
+         Plaintiff-Appellee Robert E. Shapiro submitted a request under the Freedom
+
+of Information Act (“FOIA”), 5 U.S.C. § 552, for documents related to how
+
+Defendant-Appellant, the United States Social Security Administration (“SSA”),
+
+assesses disability claims for migraines and other headache disorders. Under 42
+
+U.S.C. § 1306(c), the SSA can require a requesting party to repay the agency for the
+
+“full cost” of responding to a FOIA submission that is “not directly related to the
+
+administration” of an applicable SSA program. At the same time, FOIA prohibits
+
+agencies from charging fees if they did not timely respond to the FOIA request.
+
+See 5 U.S.C. § 552(a)(4)(A)(viii). The SSA sought reimbursement from Shapiro
+
+according to § 1306(c)’s cost-reimbursement provision, but Shapiro refused
+
+because the agency had failed to respond to his request within FOIA’s statutory
+
+deadline. The United States District Court for the District of Vermont (Christina
+
+Reiss, Chief Judge) ruled in favor of Shapiro, holding that FOIA’s fee-preclusion
+
+provision prevailed over § 1306(c)’s cost-reimbursement provision and ordering a
+
+refund of the fee charged to Shapiro. Based in part on this ruling, the district
+
+
+                                                  3
+22-1191-cv
+Shapiro v. U.S. Soc. Sec. Admin.
+
+
+court also awarded Shapiro attorneys’ fees and costs.
+
+         On appeal, we hold that the text of the SSA’s cost-reimbursement provision,
+
+§ 1306(c), is unambiguous and takes precedence over the competing FOIA
+
+provision. The cost-reimbursement provision begins with a “notwithstanding”
+
+clause that expressly exempts the agency from “section[] 552,” i.e., FOIA, when
+
+the FOIA request is “not directly related to the administration of” an applicable
+
+SSA program.               Here, the SSA determined that Shapiro’s request was not
+
+program-related, and we agree. Accordingly, we REVERSE the district court’s
+
+judgment and VACATE its order granting attorneys’ fees and costs.
+
+                                       BACKGROUND
+
+I.       Relevant Statutes
+
+         We begin with a brief overview of FOIA and the Social Security Act’s cost-
+
+reimbursement provision.
+
+         Originally enacted in 1966, FOIA created a public right of access to agency
+
+records. See 5 U.S.C. § 552 et seq.; Am. C.L. Union Immigrants’ Rts. Project v. U.S.
+
+Immigr. & Customs Enf’t, 58 F.4th 643, 651 (2d Cir. 2023). FOIA requires virtually
+
+any agency record to be made available to the public subject to certain exemptions.
+
+Am. C.L. Union Immigrants’ Rts. Project, 58 F.4th at 652. The original version of the
+
+statute required that an agency make records “promptly available to any person”
+
+
+                                              4
+22-1191-cv
+Shapiro v. U.S. Soc. Sec. Admin.
+
+
+“in accordance with published rules stating the time, place, [and] fees to the extent
+
+authorized by statute and procedure to be followed,” but did not set express time
+
+limits for when an agency had to respond to initial FOIA requests or appeals of
+
+adverse determinations. Act of July 4, 1966, Pub. L. No. 89-487, 80 Stat. 250, 251
+
+(1966) (codified as amended at 5 U.S.C. § 552).
+
+         A few decades later, the Social Security Act, which predated FOIA and was
+
+originally passed in 1935, was amended to add a provision that authorized the SSA
+
+to charge the requesting party the “full cost” of responding to FOIA requests “not
+
+directly related to the administration of” an applicable SSA program (the “Cost-
+
+Reimbursement Provision”).           See Omnibus Budget Reconciliation Act of 1981,
+
+Pub. L. No. 97-35, § 2207, 95 Stat. 357, 839 (1981) (codified at 42 U.S.C. § 1306(c)).
+
+The Cost-Reimbursement Provision reads, in relevant part:
+
+         Notwithstanding sections 552 and 552a of title 5 [i.e., FOIA] or any other
+         provision of law, whenever the Commissioner of Social Security or the
+         Secretary determines that a request for information is made in order
+         to assist a party in interest . . . with respect to the administration of an
+         employee benefit plan . . . or is made for any other purpose not directly
+         related to the administration of the program or programs under this chapter
+         to which such information relates, such Commissioner or Secretary may
+         require the requester to pay the full cost . . . of providing such information.
+
+42 U.S.C. § 1306(c) (emphases added).
+
+         The SSA’s regulations implement this provision, including rules regarding
+
+
+
+                                                5
+22-1191-cv
+Shapiro v. U.S. Soc. Sec. Admin.
+
+
+“[w]hat fees may be charged” for responding to FOIA requests, 20 C.F.R. § 402.5, 1
+
+and how to determine whether such requests are directly related to the
+
+administration of an applicable SSA program, see id. § 402.170. 2               The SSA
+
+regulations also permit the Commissioner to charge “the full cost of supplying the
+
+information where the information is requested” for non-program-related purposes
+
+“notwithstanding the fee provisions of the FOIA . . . or any other provision of law.”
+
+Id. § 402.175(a). In addition, the regulations include a fee schedule governing the
+
+costs to be paid by the requester for responses to non-program-related requests.
+
+Id. § 402.175(c).
+
+         After passing the SSA Cost-Reimbursement Provision of § 1306(c) in 1981,
+
+Congress later amended FOIA, as relevant to this case, in 2007. As part of the
+
+OPEN Government Act of 2007 (the “2007 FOIA Amendment”), Congress again
+
+amended subparagraph 4 of FOIA, this time to prohibit an agency from assessing
+
+any fees “if the agency fails to comply with any time limit under paragraph (6)
+
+[setting statutory time limits for agencies to act on requests], if no unusual or
+
+
+
+1We rely on the version of the regulations in effect at the time of the agency’s decisions.
+Revised provisions became effective on January 17, 2025. These revisions do not affect
+our analysis.
+
+2 As explained in the Discussion infra, the regulations promulgate a list of criteria to be
+considered in making the determination of whether a request is program-related.
+
+                                             6
+22-1191-cv
+Shapiro v. U.S. Soc. Sec. Admin.
+
+
+exceptional circumstances . . . apply to the processing of the request.”              See
+
+Openness Promotes Effectiveness in our National Government Act of 2007, Pub.
+
+L. No. 110-175, § 6, 121 Stat. 2524, 2526 (2007) (codified at 5 U.S.C.
+
+§ 552(a)(4)(A)(viii)). 3
+
+II.      Facts and Procedural History
+
+         Shapiro is a medical doctor specializing in neurology who advocates for
+
+Americans with disabling headache disorders.               In October 2018, Shapiro
+
+submitted a FOIA request to the SSA seeking information regarding the SSA’s
+
+decision-making process for choosing migraine and other headache-related
+
+disorders for inclusion in the SSA’s Listing of Impairments. 4          He also sought
+
+information related to how SSA adjudicators evaluate disability claimants for such
+
+
+
+
+3 As relevant here, under FOIA, an agency has “20 days . . . after the receipt of any such
+request [to determine] whether to comply with such request” and to “immediately notify
+the person making such request of such determination and the reasons therefor.” 5
+U.S.C. § 552(a)(6)(A)(i). Similarly, the agency has twenty federal working days to
+respond to appeals of adverse determinations. Id. § 552(a)(6)(A)(ii).
+
+4 The Listing of Impairments is an appendix in the SSA’s regulations that “describes[,]
+for each of the major body systems[,] impairments that we consider to be severe enough
+to prevent an individual from doing any gainful activity, regardless of his or her age,
+education, or work experience.” 20 C.F.R. § 404.1525(a). The agency uses the criteria in
+the Listing of Impairments to evaluate claims for disability benefits.           See id.
+§ 404.1525(c)(5) (explaining how the SSA uses the listing to find whether a claimant is
+“disabled or still disabled”).
+
+                                            7
+22-1191-cv
+Shapiro v. U.S. Soc. Sec. Admin.
+
+
+disorders. Specifically, he requested the following from the SSA:
+
+         I seek all documents, regardless of age, pertaining to SSA assessment,
+         evaluation, and decisions regarding inclusion or exclusion of a
+         proposed listing for impairments due to migraine and other headache
+         disorders in the SSA Listing of Impairments (Blue Book). These
+         documents should relate to, but not be limited to, the 2013 to 2016
+         process of SSA rules-making, ANPRM, NPRM and final rules-making
+         for revision of Medical Criteria for Evaluating Neurological Disorders
+         listings (11.00 Neurological – Adult). These documents should
+         include, but be not limited to, all relevant correspondence, emails,
+         memoranda, drafts, cost-benefit analyses, public comments, and
+         related guidance documents, including those documents from and
+         between all relevant SSA offices (i.e. Office of Regulations and
+         Reports Clearance, Office of Disability Policy, Office of General
+         Counsel, Offices of the Chief Actuary and Budget, etc.), as well as
+         those document[s] from and between SSA offices and offices of other
+         Federal Government agencies. I also seek all documents (i.e. from
+         SSA Office of Disability Policy or other SSA offices), regardless of age,
+         pertaining to, and/or informing, guidance as to how Listings of
+         Impairments (e.g[.] 11.02 Epilepsy) are to be appropriately utilized
+         and interpreted (i.e. by SSA adjudicators and administrative law
+         judges) in order to assess and determine medical equivalency with
+         impairments attributed to, or caused by, migraine or other headache
+         disorders, such as cluster headache.
+
+Joint App’x at 45.                 According to Shapiro, he sought these records to further
+
+scholarship on migraine disability and the public’s understanding of how the SSA
+
+evaluates migraine and headache-related disorders for disability benefits.
+
+         In May 2019, more than six months after Shapiro submitted his initial FOIA
+
+request, the SSA responded by letter and asked Shapiro to pay $2,908 for
+
+processing fees associated with his “unusual,” “non-program related” request.
+
+
+                                                    8
+22-1191-cv
+Shapiro v. U.S. Soc. Sec. Admin.
+
+
+Id. at 42. The agency also explained that Shapiro could narrow his request or set
+
+a limit on the amount he was willing to pay. Shapiro promptly paid the fee in
+
+full. In July 2019, the SSA issued a decision on Shapiro’s FOIA request, producing
+
+two memoranda and explaining that the agency was otherwise withholding 1,377
+
+pages of responsive documents under FOIA Exemption 5. 5 The decision also
+
+explained that personal information had been deleted from the enclosed
+
+memoranda pursuant to FOIA Exemption 6. 6
+
+         Shapiro filed an administrative appeal in August 2019, challenging the
+
+agency’s withholding of documents. See id. at 14 (“I appeal the withholding by
+
+SSA of 1,377 page(s) of respons[ive] documents . . . . I also appeal the withholding
+
+by SSA of any further relevant documents responsive to the FOIA request . . . .”).
+
+Further, he appealed and sought a refund of the $2,908 fee he paid for the cost of
+
+
+
+
+5  FOIA Exemption 5 protects from disclosure “inter-agency or intra-agency
+memorandums or letters that would not be available by law to a party other than an
+agency in litigation with the agency.” Am. Oversight v. U.S. Dep’t of Just., 45 F.4th 579,
+587 (2d Cir. 2022) (quoting 5 U.S.C. § 552(b)(5)). In other words, “agency documents that
+would be privileged in ordinary civil discovery are also protected from disclosure under
+FOIA.” Id. at 588 (quoting N.Y. Times v. U.S. Dep’t of Just., 939 F.3d 479, 488 (2d Cir.
+2019)).
+
+6 Under FOIA Exemption 6, agencies can withhold “personnel and medical files and
+similar files[,] the disclosure of which would constitute a clearly unwarranted invasion
+of personal privacy.” Jabar v. U.S. Dep’t of Just., 62 F.4th 44, 50 n.3 (2d Cir. 2023) (quoting
+5 U.S.C. § 552(b)(6)).
+
+                                               9
+22-1191-cv
+Shapiro v. U.S. Soc. Sec. Admin.
+
+
+processing the request. In particular, he cited the SSA’s failure to comply with
+
+the FOIA time limits as the basis for his request to “discharge and refund the
+
+$2,908.00 FOIA fee.” Id. at 34.
+
+         In December 2019, before the SSA had adjudicated the administrative
+
+appeal, Shapiro initiated the underlying litigation in federal district court on the
+
+assumption that the agency’s twenty-day deadline to decide the appeal, which had
+
+been filed four months earlier, had expired.             Shapiro’s complaint alleged
+
+violations of his rights under 5 U.S.C. § 552(a)(3), (4), and (6) and asserted three
+
+claims against the SSA: (1) failure to respond to Shapiro’s FOIA request within the
+
+statutory timeframe; (2) failure to produce responsive records; and (3) failure to
+
+grant Shapiro’s request for a fee waiver or reduction. Shapiro also sought an
+
+award of attorneys’ fees and costs.
+
+         In July 2020, the SSA filed a motion to dismiss for failure to state a claim, or
+
+in the alternative, a motion for summary judgment.             The SSA asserted three
+
+arguments in support of its position. First, the agency argued that Shapiro failed
+
+to exhaust his administrative remedies because his FOIA request did not
+
+“reasonably describe the records sought” and therefore was not “perfected.”
+
+Def.’s Mot. to Dismiss or, for Summ. J. & Mem. in Supp., at 8, Shapiro v. U.S. Soc.
+
+Sec. Admin., No. 19-cv-238 (D. Vt. July 24, 2020), ECF No. 14. Second, the SSA
+
+
+                                            10
+22-1191-cv
+Shapiro v. U.S. Soc. Sec. Admin.
+
+
+argued that, with respect to its purported failure to produce documents, the
+
+agency was not required to respond because Shapiro’s FOIA request was
+
+“unreasonably broad.”                  Id. at 2.   Third, regarding Shapiro’s request for a fee
+
+waiver, the SSA argued that it had “clear authority” under the Cost-
+
+Reimbursement Provision, § 1306(c), to charge Shapiro the full cost of processing
+
+his request “notwithstanding” any of FOIA’s fee provisions. Id.
+
+         In response, Shapiro filed a cross-motion for summary judgment on the
+
+same three issues.                 See Pl.’s Cross-Mot. for Summ. J., Shapiro v. U.S. Soc. Sec.
+
+Admin., No. 19-cv-238 (D. Vt. Sept. 22, 2020), ECF No. 16. As relevant to this
+
+appeal, he presented two counterarguments against the SSA’s right to charge him
+
+processing fees. First, Shapiro argued that he qualified for a fee waiver even if
+
+the Cost-Reimbursement Provision was enforced because his request was “directly
+
+related to the administration of the SSA.” Id. at 17. Second, Shapiro argued that
+
+the 2007 FOIA Amendment, which prohibits fees when the agency response is
+
+untimely, should override the SSA’s Cost-Reimbursement Provision because the
+
+2007 FOIA Amendment was enacted later in time than the SSA provision, and
+
+courts should prioritize the most recently enacted statute as Congress’s latest
+
+intent when interpreting statutes.                  See Pl.’s Reply in Supp. of Cross-Mot. for
+
+Summ. J., at 9, Shapiro v. U.S. Soc. Sec. Admin., No. 19-cv-238 (D. Vt. Oct. 27, 2020),
+
+
+                                                      11
+22-1191-cv
+Shapiro v. U.S. Soc. Sec. Admin.
+
+
+ECF No. 21 (comparing 2007 FOIA Amendment with Cost-Reimbursement
+
+Provision, which was last amended in 1994).
+
+         The district court issued a series of decisions from March 2021 to March 2022
+
+partly granting and partly denying both parties’ motions. The first order was
+
+published on March 8, 2021, and held that, although the SSA did not need to
+
+respond to Shapiro’s FOIA request because it was “unreasonably broad and
+
+burdensome,” Shapiro was nevertheless entitled to a refund of his FOIA
+
+processing fees because the SSA had not timely responded to the request and
+
+therefore relinquished its right to assess fees under the 2007 FOIA Amendment.
+
+Shapiro v. U.S. Soc. Sec. Admin., 525 F. Supp. 3d. 528, 539, 542 (D. Vt. 2021).7 The
+
+district court also ordered the SSA to “specify a basis for withholding” certain
+
+responsive documents under FOIA Exemptions 5 and 6. Id. at 540.
+
+         To reach its conclusion that the fee refund was warranted under the 2007
+
+FOIA Amendment and that § 1306 did not justify the SSA’s charging of the fee, the
+
+district court relied on the canon of statutory interpretation disfavoring implied
+
+
+
+
+7 The district court also held as a preliminary matter that Shapiro had exhausted his
+administrative remedies because the SSA had failed to timely respond to his FOIA
+request and appeal.
+
+                                           12
+22-1191-cv
+Shapiro v. U.S. Soc. Sec. Admin.
+
+
+repeals. 8 In the district court’s view, the 2007 FOIA Amendment “underscore[d]
+
+Congress’s belief in the importance of [FOIA’s] statutory time limit.” Id. at 541
+
+(quoting Bensman v. Nat’l Park Serv., 806 F. Supp. 2d 31, 38 (D.D.C. 2011)). The
+
+district court reasoned that construing the Cost-Reimbursement Provision of 1981
+
+to allow the SSA to recoup its fees notwithstanding the FOIA fee provisions would
+
+impliedly repeal the 2007 FOIA Amendment because the agency could then
+
+“charge fees regardless of whether it complied with FOIA deadlines.” Id. at 542.
+
+Accordingly, the district court “harmonized” the two statutes by “interpreting the
+
+2007 Amendment as prohibiting the charging of fees when an agency fails to
+
+timely respond to a FOIA request.” Id. at 541. That is, the Cost-Reimbursement
+
+Provision had to give way to the 2007 FOIA Amendment because “[a]ny other
+
+interpretation would render the 2007 Amendment a nullity and frustrate its
+
+legislative purpose.” Id. at 542. The district court did not reach the issue of
+
+whether Shapiro’s request warranted a fee waiver because it had already ruled
+
+that the SSA could not charge any fees due to its failure to comply with FOIA
+
+
+
+
+8 “[R]epeals by implication are not favored . . . .” Me. Cmty. Health Options v. United
+States, 590 U.S. 296, 315 (2020) (quoting Morton v. Mancari, 417 U.S. 535, 549 (1974)).
+Thus, when “[p]resented with two statutes, the Court will regard each as effective—
+unless Congress’[s] intention to repeal is clear and manifest, or the two laws are
+irreconcilable.” Id. (internal quotation marks omitted).
+
+                                          13
+22-1191-cv
+Shapiro v. U.S. Soc. Sec. Admin.
+
+
+deadlines.         It also deferred its decision on attorneys’ fees pending the SSA’s
+
+submission of supplemental information regarding the documents withheld from
+
+Shapiro.
+
+         Nine months later, the district court issued its second order regarding the
+
+cross-motions and ruled that the SSA had properly withheld the disputed
+
+documents under FOIA Exemption 5. See Shapiro v. U.S. Soc. Sec. Admin., No. 19-
+
+cv-238, 2021 WL 8316784, at *8 (D. Vt. Dec. 10, 2021) (concluding that the “SSA’s
+
+withholding of all 1,845 pages of documents is justified under Exemption 5, and
+
+the court need not determine whether withholding the same documents is also
+
+justified under Exemption 6”). Nevertheless, the district court awarded Shapiro
+
+partial attorneys’ fees and costs, even though he “did not prevail on the central
+
+issue of his case, [i.e.,] obtaining the release of the requested records or establishing
+
+that SSA wrongfully withheld them,” because he did successfully obtain a refund
+
+of his FOIA fees and an order requiring the SSA to explain the reasons for its
+
+withholdings. Id. Accordingly, on March 30, 2022, the district court entered
+
+judgment awarding Shapiro $10,262.75 in attorneys’ fees, $444.50 in costs, and
+
+$2,908 in refunded FOIA fees.
+
+                                   STANDARD OF REVIEW
+
+         Summary judgment rulings in FOIA actions are reviewed de novo. See Am.
+
+
+                                             14
+22-1191-cv
+Shapiro v. U.S. Soc. Sec. Admin.
+
+
+C.L. Union Immigrants’ Rts. Project, 58 F.4th at 651.       This Court also reviews
+
+questions of statutory interpretation de novo. See Carroll v. Trump, 49 F.4th 759,
+
+767 (2d Cir. 2022). We consider awards of attorneys’ fees and costs for abuse of
+
+discretion and consider arguments that the district court committed an error of
+
+law in denying the award de novo. Wilson v. Fed. Bureau of Investigation, 91 F.4th
+
+595, 598 (2d Cir. 2024).
+
+                                   DISCUSSION
+
+         On appeal, multiple statutory provisions are arguably in tension. The SSA
+
+asserts that the use of the word “notwithstanding” in the Cost-Reimbursement
+
+Provision of the Social Security Act is a textual indication of Congress’s intent for
+
+the statute to supersede FOIA and all subsequent amendments to FOIA, including
+
+those prohibiting fees for an untimely response. In contrast, Shapiro argues that
+
+we should turn to various canons of statutory interpretation to harmonize the
+
+statutes or, in the alternative, give effect to the later-enacted fee provisions of the
+
+2007 FOIA Amendment over the Cost-Reimbursement Provision, which was
+
+enacted in 1981.
+
+         We conclude that the plain text of § 1306(c), the Cost-Reimbursement
+
+Provision, is crystal clear: despite FOIA or any other law, the SSA can charge the
+
+requesting party for processing non-program-related information requests.
+
+
+                                          15
+22-1191-cv
+Shapiro v. U.S. Soc. Sec. Admin.
+
+
+Congress’s use of the word “notwithstanding” unambiguously demonstrates its
+
+intent to permit the SSA to recoup the “full cost” of processing fees for FOIA
+
+requests that meet the requirements of § 1306(c) and overrides any other provision
+
+of law which would otherwise conflict. Thus, the SSA had the authority to charge
+
+Shapiro the “full cost” of FOIA processing fees despite the agency’s failure to
+
+respond to his request within the twenty-day statutory deadline.
+
+I.       SSA Authorization to Charge Fees “Notwithstanding” Any Failure to
+         Comply with FOIA Deadlines
+
+         The plain language of the Cost-Reimbursement Provision expressly
+
+specifies that it applies notwithstanding FOIA.             See 42 U.S.C. § 1306(c)
+
+(“Notwithstanding section[] 552 . . . of title 5 [i.e., FOIA] or any other provision of
+
+law . . . .”). Therefore, we read the “notwithstanding” clause in § 1306(c) to mean
+
+that the Cost-Reimbursement Provision supersedes FOIA.
+
+         To reach our conclusion, we begin our analysis with the plain text of the
+
+statute. See Carroll, 49 F.4th at 767 (“Like any other statutory interpretation case,
+
+our inquiry begins with the text of the statute.”). Section 1306(c) reads as follows:
+
+         Notwithstanding section[] 552 . . . of title 5 [i.e., FOIA] or any other
+         provision of law, whenever the Commissioner of Social Security or
+         the Secretary determines that a request for information . . . is made for
+         any other purpose not directly related to the administration of the
+         program or programs . . . , such Commissioner or Secretary may
+         require the requester to pay the full cost . . . of providing such
+
+
+                                            16
+22-1191-cv
+Shapiro v. U.S. Soc. Sec. Admin.
+
+
+         information.
+
+42 U.S.C. § 1306(c) (emphasis added). Here, our analysis starts with the word
+
+“notwithstanding.” “The ordinary meaning of ‘notwithstanding’ is ‘in spite of,’
+
+or ‘without prevention or obstruction from or by.’” N.L.R.B. v. SW Gen., Inc., 580
+
+U.S. 288, 301 (2017) (quoting Webster’s Third New International Dictionary 1545
+
+(1986); Black’s Law Dictionary 1091 (7th ed. 1999)). According to the Supreme
+
+Court, the use of “notwithstanding” in a statute is an unambiguous congressional
+
+statement that such statute supersedes other specified laws enumerated in the text.
+
+See id. (explaining that the use of the word “notwithstanding” in a statute “shows
+
+which provision prevails in the event of a clash” (quoting A. Scalia & B. Garner,
+
+Reading Law: The Interpretation of Legal Texts 126–27 (2012))).
+
+         Further, the “notwithstanding” clause at issue here is followed by the all-
+
+encompassing phrase “any other provision of law,” 42 U.S.C. § 1306(c), which
+
+expressly indicates Congress’s intent that the Cost-Reimbursement Provision
+
+supersede not only FOIA but also all other laws. See Cisneros v. Alpine Ridge Grp.,
+
+508 U.S. 10, 18 (1993) (noting favorably that “the Courts of Appeals generally have
+
+interpreted similar ‘notwithstanding’ language . . . to supersede all other laws,
+
+stating that [a] clearer statement is difficult to imagine” (alterations in original and
+
+internal quotation marks omitted)). Indeed, our Circuit regularly determines that
+
+
+                                           17
+22-1191-cv
+Shapiro v. U.S. Soc. Sec. Admin.
+
+
+“notwithstanding” clauses “clearly signal[] the drafter’s intention that the
+
+provisions of the ‘notwithstanding’ section override conflicting provisions of any
+
+other s[tatute].” United States v. Shkreli, 47 F.4th 65, 72 (2d Cir. 2022) (emphasis
+
+added) (quoting Cisneros, 508 U.S. at 18); see Weinstein v. Islamic Republic of Iran, 609
+
+F.3d 43, 53 (2d Cir. 2010) (same); Conyers v. Rossides, 558 F.3d 137, 145 (2d Cir. 2009)
+
+(same).
+
+         We       therefore        conclude   that    the   Cost-Reimbursement   Provision’s
+
+“notwithstanding” clause need not be harmonized with but, rather, takes
+
+precedence over subsequently enacted laws like the 2007 FOIA Amendment. 9 See,
+
+e.g., Castro v. Sec’y of Homeland Sec., 472 F.3d 1334, 1337 (11th Cir. 2006) (holding
+
+that the phrase “notwithstanding any other provision of law” reflects Congress’s
+
+intent for the statute containing that language to take precedence over existing and
+
+later-enacted laws on the same subject (quoting United States v. McLymont, 45 F.3d
+
+400, 401 (11th Cir. 1995))); McLymont, 45 F.3d at 401 (“Congress’[s] use of the
+
+phrase ‘notwithstanding any other provision of law’ makes it clear that Congress
+
+
+
+
+9 We note that because there is no conflict between the Cost-Reimbursement Provision
+and the 2007 FOIA Amendment, Shapiro’s argument that we must “give effect to the
+most recently enacted statute” “when two statutes are in irreconcilable conflict” is thus
+inapplicable. See Appellee’s Br. at 17 (emphasis added) (quoting In re Ionosphere Clubs,
+Inc., 922 F.2d 984, 991 (2d Cir. 1990)).
+
+                                                     18
+22-1191-cv
+Shapiro v. U.S. Soc. Sec. Admin.
+
+
+intended the penalty provisions of § 924(c) to take precedence over any preexisting
+
+or subsequently-enacted sentencing legislation, including the Sentencing
+
+Guidelines.”); cf. Lockhart v. United States, 546 U.S. 142, 146 (2005) (“The fact that
+
+Congress may not have foreseen all of the consequences of a statutory enactment
+
+is not a sufficient reason for refusing to give effect to its plain meaning.” (quoting
+
+Union Bank v. Wolas, 502 U.S. 151, 158 (1991))); Hall v. United States, 566 U.S. 506,
+
+516 (2012) (“We assume that Congress is aware of existing law when it passes
+
+legislation . . . .” (quoting Miles v. Apex Marine Corp., 498 U.S. 19, 32 (1990)). It
+
+follows that § 1306(c) authorizes the SSA to charge requesting parties the “full
+
+cost” of processing their FOIA requests for non-program-related information—
+
+even if the SSA fails to comply with FOIA’s time limits.
+
+         Shapiro contends that permitting the SSA to submit untimely responses to
+
+requesters under FOIA while still allowing the agency to charge the “full cost” of
+
+fees under § 1306(c) “would render the 2007 Amendments a nullity and
+
+superfluous because it would allow an agency to charge fees regardless of whether
+
+it complied with FOIA deadlines.” Appellee’s Br. at 15 (internal quotation marks
+
+omitted). This argument misses the mark.
+
+         In our view, the Social Security Act’s Cost-Reimbursement Provision creates
+
+an express (and quite narrow) exemption to FOIA specifically for the SSA, and
+
+
+                                          19
+22-1191-cv
+Shapiro v. U.S. Soc. Sec. Admin.
+
+
+only when an information request submitted to that agency is not directly
+
+connected to a program-related purpose. Indeed, this interpretation is supported
+
+by the legislative history underlying § 1306(c), which indicates Congress’s clear
+
+desire to protect the SSA’s trust funds from being used to cover FOIA requests.
+
+See H.R. Rep. No. 97-158, at 287 (1981) (explaining that § 1306(c) “make[s] clear
+
+that reimbursement of [] costs is not governed by the Freedom of Information Act or by
+
+the Privacy Act, which contain provisions limiting the extent to which the cost of
+
+furnishing information can be recovered” (emphasis added)); id. (explaining that
+
+§ 1306(c) allows the SSA to charge the “full cost of retrieving and transmitting any
+
+[FOIA] information requested” for non-program-related purposes).
+
+         Moreover, even under our interpretation of § 1306(c), the 2007 FOIA
+
+Amendment still applies to all other agencies—and even the SSA when the
+
+information request is made for a purpose directly related to the administration of
+
+an applicable SSA program.           Thus, we do not see giving effect to the
+
+“notwithstanding” clause in the Cost-Reimbursement Provision as an implied
+
+repeal of the 2007 FOIA Amendment.
+
+         In sum, we hold that the SSA is authorized to charge FOIA fees for any non-
+
+program-related requests, “notwithstanding” any failure by the agency to comply
+
+with FOIA deadlines based on the plain text of § 1306(c).
+
+
+                                          20
+22-1191-cv
+Shapiro v. U.S. Soc. Sec. Admin.
+
+
+II.      Shapiro’s FOIA Request is Not Program-Related
+
+         Shapiro alternatively argues that even if § 1306(c) controls, he should not
+
+have been charged a fee because his FOIA request was designed to educate the
+
+public and to inform disability claimants how to assert claims based on headache
+
+and migraine disorders. According to Shapiro, this goal is directly related to the
+
+administration of SSA programs, thereby exempting his request from the Cost-
+
+Reimbursement Provision. We disagree.
+
+         The plain language of § 1306(c) authorizes the SSA to impose full costs on
+
+information requests that are “not directly related to the administration of [SSA]
+
+programs,” notwithstanding FOIA.          42 U.S.C. § 1306(c) (emphasis added)
+
+(explaining that the SSA “may require the requester to pay the full cost”). When
+
+interpreting a statute, the Court looks first to the statute’s plain meaning. United
+
+States v. Dauray, 215 F.3d 257, 260 (2d Cir. 2000). Congress’s use of “directly” to
+
+qualify “related” in § 1306(c) suggests that a party seeking to avoid the imposition
+
+of full costs must demonstrate that the FOIA information is indisputably
+
+connected to the SSA’s administration of benefits, not merely plausibly, loosely, or
+
+inferably tied to the SSA’s program. See Directly, Black’s Law Dictionary (12th ed.
+
+2024) (defining “directly” as “[i]n a straightforward manner”; “[i]n a straight line
+
+or course”; “[i]mmediately”); Directly, Am. Heritage Coll. Dictionary (5th ed. 2022)
+
+
+                                          21
+22-1191-cv
+Shapiro v. U.S. Soc. Sec. Admin.
+
+
+(defining “directly” as “without anyone or anything intervening”).
+
+         Additionally, the legislative history of § 1306(c) provides more context as to
+
+what constitutes a sufficiently program-related FOIA request.          The legislative
+
+history suggests that Congress’s intent was for the SSA to subsidize requesters
+
+seeking information related to its programmatic purposes but to recover full
+
+payment from requesters whose “request[s] [are] not directly related to
+
+determining an individual’s social security benefit.” H.R. Rep. No. 97-158, at 253;
+
+see also id. at 287 (“[T]he [SSA] would have authority to recover the full cost of
+
+retrieving and transmitting any information requested for any other purpose not
+
+directly related to the administration of the program or programs under the Social
+
+Security Act. This authority, of course, would not be used to recover the full cost
+
+of furnishing to individuals information requested for social security program
+
+purposes.”).
+
+         Analysis of the SSA’s regulations implementing § 1306(c) confirms that
+
+Shapiro’s request is not program-related. When evaluating whether a request is
+
+program-related, including whether the information is needed “for a purpose
+
+which is directly related to the administration of a program under the Social
+
+Security Act,” the SSA considers whether the request satisfies certain “major
+
+criteria.”        20 C.F.R. § 402.170(a)(1)–(2)(i).   “The major criteria [the SSA]
+
+
+                                              22
+22-1191-cv
+Shapiro v. U.S. Soc. Sec. Admin.
+
+
+consider[s] in deciding whether a proposed use is [directly] related [to the
+
+administration of SSA programs] are: (A) Is the information needed to pursue a
+
+benefit under the Act? (B) Is the information needed solely to verify the accuracy
+
+of information obtained in connection with a program administered under the
+
+Act? (C) Is the information needed in connection with an activity which has been
+
+authorized under the Act? [and] (D) Is the information needed by an employer to
+
+carry out her or his taxpaying responsibilities under the Federal Insurance
+
+Contributions Act or section 218 of the Act?” Id. § 402.170(a)(i)–(2)(i).
+
+         Shapiro argues that two factors, (A) and (C), weigh heavily in his favor.
+
+With respect to factor (A), Shapiro contends that the “[d]isclosure of the
+
+[requested] records will educate the public, informing them about how to pursue
+
+disability benefits under the Social Security Act related to migraine and headache
+
+disorders.” Appellee’s Br. at 18. With respect to factor (C), Shapiro argues that
+
+“[t]he information is needed in connection with an activity authorized under the
+
+Act: namely, how Defendant reviews, evaluates and considers disability
+
+applications for migraine and headache disorders.”          Id. at 18–19.   Shapiro
+
+explains further that the SSA’s opaqueness has contributed to inequities in its
+
+program implementation in violation of federal and constitutional law with
+
+respect to claimants disabled by migraine and headache disorders. See id. at 19
+
+
+                                         23
+22-1191-cv
+Shapiro v. U.S. Soc. Sec. Admin.
+
+
+(citing 29 U.S.C. § 794 (Section 504 of the Rehabilitation Act of 1973); U.S. Const.
+
+amend. XIV § 1 (Due Process Clause)). We are not persuaded.
+
+         Regarding factor (A), Shapiro’s request is “not needed to pursue some benefit
+
+under the Act,” 20 C.F.R. § 402.170(a)(1)–(2)(i) (emphasis added), but rather is for
+
+the general purpose of raising public awareness about governmental activity;
+
+namely, the SSA’s approach to evaluating disability claims from individuals with
+
+migraine and headache disorders. While greater public awareness might assist
+
+future applicants in pursuing Social Security benefits, this does not turn Shapiro’s
+
+request into one seeking information “needed” to pursue benefits.           Similarly,
+
+regarding factor (C), Shapiro’s sweeping request is “not needed in connection
+
+with,” id. (emphasis added), or even focused on, a specific activity of the SSA, but
+
+rather seeks broad information about the SSA’s rubrics for evaluating two specific
+
+categories of claimants in order to inform those claimants about what he argues,
+
+without explanation, are violations of federal and constitutional law. At best,
+
+Shapiro’s request is only tenuously “connect[ed to] an activity under SSA’s
+
+purview,” id., permitting the SSA to impose full costs under § 1306(c).
+
+         In short, Shapiro’s request primarily seeks to further his “scholarly research
+
+on migraine disability,” Joint App’x at 11 (quoting Compl. ¶ 28), which is not
+
+related to him, as an individual, or to his employer, or to the administration of any
+
+
+                                           24
+22-1191-cv
+Shapiro v. U.S. Soc. Sec. Admin.
+
+
+SSA program, but instead is geared toward general educational purposes.
+
+Shapiro’s more routine FOIA request is akin to requests where the SSA has
+
+imposed costs rather than requests that the SSA has responded to free of charge.10
+
+Thus, analyzing the plain meaning of § 1306(c), the legislative history, and the
+
+SSA’s implementing regulations, we conclude that Shapiro’s request is not directly
+
+program-related, and therefore the SSA was well within its authority to impose a
+
+processing fee. Accordingly, we reverse the district court’s judgment granting
+
+Shapiro a refund of his FOIA processing fees.
+
+III.     Attorneys’ Fees and Costs
+
+         “[A] district court may ‘assess against the United States reasonable attorney
+
+fees and other litigation costs reasonably incurred’ by a complainant who ‘has
+
+substantially prevailed’ in his or her FOIA action.” Wilson, 91 F.4th at 598–99
+
+(quoting 5 U.S.C. § 552(a)(4)(E)(i)); see also Pietrangelo v. U.S. Army, 568 F.3d 341,
+
+343 (2d Cir. 2009) (same). “[A] complainant has substantially prevailed if the
+
+
+
+
+10 For example, the SSA has clarified that, pursuant to § 1306(c), it provides information
+free of charge to requesters seeking to verify an employer’s earnings report or compute
+an individual’s Social Security taxes and, by contrast, imposes costs on requesters seeking
+information such as a more detailed earnings report or for civil litigation purposes. See
+SSA, Social Security Handbook § 1419.2, https://perma.cc/B5U8-M6K5 (last updated Aug.
+8, 2011); see also John A. Svahn, Omnibus Reconciliation Act of 1981: Legislative History and
+Summary of OASDI and Medicare Provisions, 44 Soc. Security Bull. 3, 17 (1981).
+
+                                             25
+22-1191-cv
+Shapiro v. U.S. Soc. Sec. Admin.
+
+
+complainant has obtained relief through . . . a judicial order, or an enforceable
+
+written agreement or consent decree[.]” 5 U.S.C. § 552(a)(4)(E)(ii)(I). Relevant
+
+here, “enforceable judgments on the merits and court-ordered consent decrees
+
+create the ‘material alteration of the legal relationship of the parties’ necessary to
+
+permit an award of attorney’s fees.” Buckhannon Bd. & Care Home, Inc. v. W. Va.
+
+Dep’t of Health & Hum. Res., 532 U.S. 598, 604 (2001) (quoting Tex. State Teachers
+
+Ass’n v. Garland Indep. Sch. Dist., 489 U.S. 782, 792–93 (1989)).
+
+         The district court noted that determining “whether Plaintiff substantially
+
+prevailed here [was] a close call” but ultimately awarded partial attorneys’ fees
+
+and costs to Shapiro, reasoning that he had substantially prevailed by obtaining
+
+an order directing the SSA to (1) refund the FOIA processing fees and (2) explain
+
+the reasons for its withholdings. See Shapiro, 2021 WL 8316784, at *8–10. The
+
+district court concluded that because this order “changed the legal relationships
+
+of the parties,” it was sufficient to make Shapiro eligible for attorneys’ fees. Id. at
+
+*8.
+
+         However, because we reverse the district court’s decision regarding the first
+
+issue, i.e., the refund of the FOIA fees, and because we now conclude that the
+
+portion of the order requiring the SSA to explain its withholdings is insufficient to
+
+make Shapiro a “substantially prevailing” party, the judgment awarding
+
+
+                                           26
+22-1191-cv
+Shapiro v. U.S. Soc. Sec. Admin.
+
+
+attorneys’ fees must also be vacated. See Jacobson v. Healthcare Fin. Serv., 516 F.3d
+
+85, 96 (2d Cir. 2008) (partially reversing the judgment appealed from and vacating
+
+the award of attorneys’ fees and costs where the “basis for granting costs and fees
+
+was necessarily erroneous”). Under the specific procedural and factual posture
+
+of this case, in which the only relief obtained was an order requiring a further
+
+explanation without requiring additional disclosure or other substantive change
+
+in position by the SSA, Shapiro cannot be deemed to have “substantially
+
+prevailed” under FOIA. A plaintiff “prevails” when actual relief on the merits of
+
+the claim “material[ly] alter[s] the [] legal relationship of the parties”—not when
+
+the court merely directs the agency to clarify its reasoning. See Buckhannon Bd.,
+
+532 U.S. at 604 (internal quotation marks omitted); Farrar, 506 U.S. at 111–12.
+
+         The district court’s order determining that the SSA’s response was
+
+“untimely and unsupported by adequate explanation,” Joint App’x at 150,
+
+required the SSA to provide a more detailed explanation but did not compel the
+
+release of documents, change the agency’s withholding decisions, or otherwise
+
+grant Shapiro the substantive relief he sought.           Thus, that procedural ruling
+
+neither constitutes success on a “significant issue” nor confers “prevailing” party
+
+status, substantially or otherwise.          Farrar, 506 U.S. at 109 (internal quotation
+
+marks omitted).             Put differently, while Shapiro may have obtained a judicial
+
+
+                                               27
+22-1191-cv
+Shapiro v. U.S. Soc. Sec. Admin.
+
+
+order, he did not obtain meaningful relief on the merits of his FOIA claim.
+
+Because Shapiro has not “substantially prevailed” on any significant issue, we
+
+vacate the district court’s order granting attorneys’ fees and costs.
+
+                                   CONCLUSION
+
+         Accordingly, for the reasons stated above, the judgment of the United States
+
+District Court for the District of Vermont is REVERSED and its order granting
+
+attorneys’ fees and costs is VACATED.
+
+
+
+
+                                           28

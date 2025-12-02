@@ -1,0 +1,494 @@
+RECOMMENDED FOR PUBLICATION
+                               Pursuant to Sixth Circuit I.O.P. 32.1(b)
+                                      File Name: 25a0030p.06
+
+                   UNITED STATES COURT OF APPEALS
+                                 FOR THE SIXTH CIRCUIT
+
+
+
+                                                         ┐
+ DEREK KRAMER,
+                                                         │
+                               Plaintiff-Appellant,      │
+                                                         │
+                                                          >      No. 24-3174
+       v.                                                │
+                                                         │
+ AMERICAN     ELECTRIC POWER     EXECUTIVE               │
+ SEVERANCE PLAN; AMERICAN ELECTRIC POWER                 │
+ SERVICE CORPORATION,                                    │
+                                                         │
+                       Defendants-Appellees.
+                                                         ┘
+
+  Appeal from the United States District Court for the Southern District of Ohio at Columbus.
+             No. 2:21-cv-05501—Sarah Daggett Morrison, Chief District Judge.
+
+                                  Argued: October 31, 2024
+
+                            Decided and Filed: February 10, 2025
+
+               Before: COLE, MATHIS, and BLOOMEKATZ, Circuit Judges.
+                                _________________
+
+                                           COUNSEL
+
+ARGUED: Tony C. Merry, LAW OFFICES OF TONY C. MERRY, LLC, Worthington, Ohio,
+for Appellant. Jason T. Gerken, PORTER, WRIGHT, MORRIS & ARTHUR, LLP, Columbus,
+Ohio, for Appellees. ON BRIEF: Tony C. Merry, LAW OFFICES OF TONY C. MERRY,
+LLC, Worthington, Ohio, for Appellant. Jason T. Gerken, PORTER, WRIGHT, MORRIS &
+ARTHUR, LLP, Columbus, Ohio, for Appellees. Christopher J. Rillo, BAKER BOTTS L.L.P.,
+San Francisco, California, for Amicus Curiae.
+                                     _________________
+
+                                            OPINION
+                                     _________________
+
+      MATHIS, Circuit Judge. This case looks like a standard claim under the Employee
+Retirement Income Security Act (“ERISA”) to recover benefits. But Derek Kramer wants to
+ No. 24-3174            Kramer v. Am. Electric Power Exec. Severance Plan               Page 2
+
+
+change the rules for these claims. Kramer believes he has a right to “full discovery,” including
+documents subject to the attorney-client privilege, rather than an adjudication based on the
+administrative record. Kramer also thinks he has a constitutional right to a jury trial for his
+ERISA claim. And he seeks to apply a different standard to adjudicate his claim than the one we
+instructed district courts to use more than two decades ago. We reject Kramer’s request to
+change the rules.
+
+         On the merits, Kramer has not shown that the district court erred in finding that the
+decision denying Kramer benefits was not arbitrary and capricious. We thus affirm.
+
+                                              I.
+
+         In 2018, Kramer joined American Electric Power Service Corporation (“AEP”) as the
+vice president and chief digital officer of AEP Charge, the company’s new “innovation hub.” R.
+21–1, PageID 139. Almost a year after hiring him, AEP offered Kramer the option to participate
+in the AEP Executive Severance Plan (the “Plan”). He accepted. The Plan provides eligible
+employees a severance payment based on their base salary and performance “due to an
+Involuntary Termination or a Good Reason Resignation.” Id. at 155.
+
+         In 2020, the company terminated Kramer’s employment. Two events led to that decision.
+
+         First, during an annual audit, AEP’s audit services department found that Kramer’s
+executive assistant charged personal expenses to her company credit card in violation of
+corporate policy.    Audit department representatives called Kramer to discuss the charges.
+Kramer followed up the same day to confirm that he spoke with his assistant and warned her
+about charging personal expenses to her company credit card. In the same audit the next year,
+the audit services department again flagged Kramer’s assistant because she had the third highest
+charges on a company credit card, including excessive business expenditures and prohibited
+personal charges, all of which Kramer had approved.            AEP suspended Kramer while
+investigating the charges.
+
+         The second event leading to Kramer’s termination involved his company-issued cell
+phone.    Per company policy and as part of the investigation of the credit-card charges,
+ No. 24-3174            Kramer v. Am. Electric Power Exec. Severance Plan                   Page 3
+
+
+AEP’s region security coordinator, Kerrie Campbell, went to Kramer’s home to retrieve his
+phone. Kramer hesitated to turn over the phone and asked if he could first make a call.
+Campbell agreed and waited on the porch while Kramer went inside.               When he returned,
+Campbell asked for the phone and the PIN to unlock it, but Kramer hesitated again out of
+concern that AEP would be able to “see what [he had] on the phone,” which he claimed he also
+used as a personal device. Id. at 202. After Campbell explained that the investigation might
+require looking at the phone, Kramer provided the PIN, and Campbell repeated the numbers out
+loud for confirmation. As she returned to her vehicle, Campbell discovered that the PIN Kramer
+provided was incomplete. She returned to the house and requested the PIN again, this time
+confirming that the phone unlocked. Following company procedure, she put the phone on
+airplane mode before leaving Kramer’s home.
+
+         Campbell delivered the phone to AEP’s security manager, Michael Knorps, who
+connected it to forensic software to transfer the data. During the extraction process, Knorps
+observed the device spontaneously “reboot[] and beg[i]n wiping itself clean.”            Id. at 182.
+Although he had significant information-technology and law-enforcement experience, Knorps
+had never seen this happen at AEP and suspected that Kramer had remotely wiped the phone.
+AEP contacted Kramer for an explanation, and he responded that he removed his personal Apple
+ID and iCloud account but did not intend to wipe the device. Based on further research, testing,
+and internal consulting, Knorps confirmed his suspicion that Kramer intentionally wiped the
+phone.
+
+         On October 2, 2020, AEP terminated Kramer. Kramer’s direct supervisor informed him
+that the termination was based on Kramer’s failure to tighten oversight of his assistant’s
+expenses. The next month, Kramer submitted a formal claim for severance under the Plan.
+
+         In a January 19, 2021 letter, AEP’s chief human resources officer Julius Cox denied
+Kramer’s benefits claim, finding that the company terminated his employment “for Cause.” Id.
+at 146. Under the Plan, a participant terminated for cause is ineligible to receive benefits.
+
+         The letter identified two bases for Cox’s determination.       First, Cox concluded that
+Kramer’s violations of company policies on “proper expense account behavior” qualified as
+ No. 24-3174           Kramer v. Am. Electric Power Exec. Severance Plan                  Page 4
+
+
+“Cause” under § 2.5(v) of the Plan. Id. That section states that “Cause” includes “a material
+violation of any of the rules of conduct of behavior of any AEP System Company . . . following
+notice and a reasonable opportunity to cure[.]” Id. at 156–57. Second, Cox found that Kramer
+wiping his company cell phone while it was subject to investigation constituted cause under
+§ 2.5(ii). That provision identifies “Cause” as “commission of an act of willful misconduct,
+fraud, embezzlement or dishonesty . . . in connection with the Employee’s duties to any AEP
+System Company[.]” Id.
+
+       Kramer appealed the initial claim determination to the Plan’s appeal committee. The
+committee agreed with Cox’s findings and denied Kramer’s appeal. In its letter issuing the
+decision, the committee identified specific evidence in the administrative record supporting each
+of Cox’s findings.
+
+       Kramer brought an ERISA action against AEP and the Plan. He asserted claims for a
+denial of benefits under 29 U.S.C. § 1132(a)(1)(B), and for interference under 29 U.S.C. § 1140.
+Kramer included a jury demand with his complaint. AEP and the Plan moved to strike Kramer’s
+jury demand, and the district court granted the motion.
+
+       Kramer moved to conduct discovery beyond the administrative record (i.e., the record of
+proceedings before Cox and the appeal committee). Acknowledging that our precedent limits
+discovery in ERISA denial-of-benefits actions to procedural claims, Kramer argued that the
+Supreme Court had implicitly abrogated that precedent, and that regardless, the district court
+should allow discovery into his procedural allegations. The magistrate judge granted discovery
+into the alleged “conflict of interest or bias” in the administrative process but otherwise denied
+additional discovery. R. 24, PageID 309. Kramer did not object to the magistrate judge’s order.
+
+       Although AEP and the Plan produced some documents in response to Kramer’s discovery
+requests, it withheld nearly 300 documents based on the attorney-client privilege. Kramer
+moved to compel production, arguing that the fiduciary exception to the attorney-client privilege
+applied because of ERISA’s fiduciary requirements. AEP and the Plan maintained that the Plan
+was not subject to fiduciary requirements because it was a “top hat” plan, as defined by ERISA.
+ No. 24-3174            Kramer v. Am. Electric Power Exec. Severance Plan                    Page 5
+
+
+The magistrate judge agreed with AEP and the Plan and denied Kramer’s motion to compel. The
+district court overruled Kramer’s objections to the magistrate judge’s order.
+
+       AEP and the Plan then moved for summary judgment. The district court construed the
+motion as a motion for judgment on the administrative record. Applying an arbitrary-and-
+capricious standard of review, the district court found that both Cox and the committee offered a
+reasonable, evidence-based explanation for their conclusion that AEP terminated Kramer’s
+employment for cause. Accordingly, the district court granted judgment in AEP and the Plan’s
+favor. Kramer appeals only the district court’s adjudication of his denial-of-benefits claim.
+
+                                                 II.
+
+       On appeal, Kramer argues that the district court erred by: (1) limiting the scope of
+discovery for his ERISA denial-of-benefits claim; (2) striking Kramer’s jury-trial demand; and
+(3) granting judgment to AEP and the Plan. We address each argument in turn.
+
+                                                 A.
+
+       Kramer makes two discovery-related challenges. First, he argues that the district court
+erred in denying his motion to compel AEP and the Plan to produce certain documents that AEP
+and the Plan were subject to the attorney-client privilege. Second, he argues that he was entitled
+to “full discovery” on his ERISA denial-of-benefits claim.
+
+       We review the district court’s discovery rulings “for an abuse of discretion.” Louzon v.
+Ford Motor Co., 718 F.3d 556, 560 (6th Cir. 2013) (quotation omitted). “A district court abuses
+its discretion when it applies the incorrect legal standard, misapplies the correct legal standard, or
+relies upon clearly erroneous findings of fact.” State Farm Mut. Auto. Ins. Co. v. Angelo,
+95 F.4th 419, 429 (6th Cir. 2024) (quotation omitted).
+
+                                                  1.
+
+       Kramer’s first discovery challenge turns on whether he established an exception to AEP
+and the Plan’s assertion of the attorney-client privilege to withhold production of certain
+documents. Kramer purports to rely on the fiduciary exception to the privilege.
+ No. 24-3174            Kramer v. Am. Electric Power Exec. Severance Plan                  Page 6
+
+
+       In the context of common-law trusts, the fiduciary exception prohibits “a trustee who
+obtains legal advice related to” executing his fiduciary obligations “from asserting the attorney-
+client privilege against beneficiaries of the trust.” United States v. Jicarilla Apache Nation, 564
+U.S. 162, 167 (2011). In other words, the fiduciary exception “requires that when an attorney
+gives advice to a client acting as a fiduciary for third-party beneficiaries, that attorney owes the
+beneficiaries a duty of full disclosure.” Moss v. Unum Life Ins. Co., 495 F. App’x 583, 595 (6th
+Cir. 2012) (citing Becher v. Long Island Lighting Co. (In re Long Island Lighting Co.), 129 F.3d
+268, 272 (2d Cir. 1997)).
+
+       Trust law informs our “effort to interpret ERISA’s fiduciary duties.” Varity Corp. v.
+Howe, 516 U.S. 489, 497 (1996). Thus, in the ERISA context, a plan fiduciary “must make
+available to the beneficiary, upon request, any communications with an attorney that are intended
+to assist in the administration of the plan.” Moss, 495 F. App’x at 595 (quoting Bland v. Fiatallis
+N. Am., Inc., 401 F.3d 779, 787 (7th Cir. 2005)).
+
+       The fiduciary exception to the attorney-client privilege does not apply to the Plan if the
+Plan is an executive deferred-compensation plan, commonly referred to as a top-hat plan.
+Congress exempts top-hat plans from ERISA’s fiduciary requirements. 29 U.S.C. § 1101(a)(1);
+Simpson v. Mead Corp., 187 F. App’x 481, 484 (6th Cir. 2006). ERISA defines a top-hat plan as
+an employee benefit plan that is “[1] unfunded and [2] is maintained by an employer primarily
+for the purpose of providing deferred compensation [3] for a select group of management or
+highly compensated employees.” 29 U.S.C. § 1051(2). The parties do not dispute that the Plan
+is unfunded and that the Plan is for certain highly compensated employees. But does AEP
+maintain the Plan to provide deferred compensation? The answer to this question turns on the
+meaning of “deferred compensation.”
+
+       ERISA does not define deferred compensation. When a statute does not define a term,
+“we give the term its ordinary meaning,” Enriquez-Perdomo v. Newman, 54 F.4th 855, 863 (6th
+Cir. 2022) (internal quotation marks omitted), using “the traditional tools of statutory
+construction,” Loper Bright Enters. v. Raimondo, 603 U.S. 369, 403 (2024).               Normally,
+“dictionaries are a good place to start” in determining a term’s ordinary meaning. United States
+v. Hill, 963 F.3d 528, 532 (6th Cir. 2020) (quotation omitted). Black’s Law Dictionary (12th ed.
+ No. 24-3174            Kramer v. Am. Electric Power Exec. Severance Plan                Page 7
+
+
+2024) defines “deferred compensation” to mean (1) “[p]ayment for work performed, to be paid
+in the future or when some future event occurs”; or (2) “[a]n employee’s earnings that are taxed
+when received or distributed rather than when earned, such as contributions to a qualified
+pension or profit-sharing plan.” And the Third Circuit has said that “[a] deferred compensation
+plan ‘is an agreement by the employer to pay compensation to employees at a future date. The
+main purpose of the plan is to defer the payment of taxes.’” Accardi v. IT Litig. Tr. (In re IT
+Grp., Inc.), 448 F.3d 661, 664 (3d Cir. 2006) (quoting David J. Cartano, Taxation of
+Compensation & Benefits § 20.01, at 709 (2004)). Indeed, several of our sister circuits have held
+that severance payments are a form of deferred compensation under ERISA’s top-hat provision.
+Duggan v. Hobbs, 99 F.3d 307, 311–13 (9th Cir. 1996); Pane v. RCA Corp., 868 F.2d 631, 637
+(3d Cir. 1989); Am. Int’l Grp., Inc. v. Guterman, 496 F. App’x 149, 150–51 (2d Cir. 2012)
+(order).   Thus, the Plan is a top-hat plan if AEP maintained it to pay compensation to
+participants, like Kramer, in the future.
+
+       The plain language of the Plan shows that AEP maintained it to provide deferred
+compensation. The Plan’s benefits include a severance payment equal to the participant’s annual
+base salary and maximum incentive bonus, immediate vesting of a portion of the participant’s
+restricted stock units, and a prorated share of “performance unit” awards. R. 21–1, Page ID 164.
+Under the Plan’s terms, AEP must pay those benefits—“to which a Participant is entitled” (i.e.,
+as of the Plan’s effective date)—according to a payment schedule. Id. at 165–66. The payment
+schedule provides that AEP shall pay 50% of the total amount as of the first regular payroll date
+that coincides with or immediately follows the day six months after the termination, and the
+remaining balance in 13 equal bi-weekly installments on the later regular payroll dates. A Plan
+participant can receive benefits only after he has resigned or been terminated, and at least one
+year will pass between the time they acquire the right to compensation and when the final
+installment becomes payable. Phrased differently, the Plan entitles participants to compensation
+that is or may be payable in a later year.
+
+       Kramer resists the conclusion that AEP maintained the Plan to provide deferred
+compensation. Relying on Raymond B. Yates, M.D., P.C. Profit Sharing Plan v. Hendon,
+541 U.S. 1 (2004), Kramer argues that we should look to Section 409A of the Internal Revenue
+ No. 24-3174            Kramer v. Am. Electric Power Exec. Severance Plan                  Page 8
+
+
+Code and related Treasury regulations to construe “deferred compensation.” We should do so,
+he contends, because “Congress’ objective” in enacting ERISA “was to harmonize ERISA with
+longstanding tax provisions.” See Raymond B. Yates, 541 U.S. at 13.
+
+        The provisions that Kramer relies on do not help his cause. First, Section 409A does not
+define deferred compensation.     Instead, that statute, as its title suggests, governs when an
+employee is taxed for deferred compensation under nonqualified deferred-compensation plans.
+26 U.S.C. § 409A(a). Second, the Treasury regulation that Kramer cites provides that “a
+nonqualified deferred compensation plan meets the requirements of section 409A(a)(4)(B) only
+if . . . the election to defer such compensation is made and becomes irrevocable not later than the
+latest date permitted in this paragraph.” 26 C.F.R. § 1.409A-2(a)(1). The statutory provision
+mentioned in the regulation describes requirements for when the initial deferral election must be
+made.    See 26 U.S.C § 409A(a)(4)(B).        But again, it does not define what a deferred-
+compensation plan is in the first place. If anything, the relevant provision for defining “deferred
+compensation” might be Treasury Regulation § 1.404(b)-1T, which provides that a plan “defers
+the receipt of compensation” if an employee receives compensation “more than a brief period of
+time after the end of the employer’s taxable year in which the services creating the right to such
+compensation or benefits are performed.” 26 C.F.R. § 1.404(b)–1T; see Duggan, 99 F.3d at
+311–12 (citing the same).     The plain terms of this provision suggest that the Plan defers
+compensation.
+
+        Kramer also argues that the Plan falls under an exception to deferred compensation in the
+Treasury regulations for some “separation pay plan[s].” See 26 C.F.R. § 1.409A-1(b)(9)(iii).
+But regardless of whether the Plan would qualify as a “separation pay plan,” those regulations
+apply only to § 409A of the Internal Revenue Code, not to ERISA’s top-hat provision. Although
+the definitions in the Code and corresponding regulations may be useful for interpreting some
+ERISA provisions, see Raymond B. Yates, 541 U.S. at 13–14, that does not mean ERISA
+incorporates the entire legislative and regulatory scheme of the Internal Revenue Code. And
+even though the Plan provides that its terms are “intended to comply with the requirements of
+[§] 409A and its related regulations and guidance,” R. 21–1, PageID 155, that language simply
+ No. 24-3174            Kramer v. Am. Electric Power Exec. Severance Plan                  Page 9
+
+
+expresses an intent to comply with the tax law. It does not establish (nor could it) that courts
+must read every Internal Revenue Code provision and Treasury regulation into ERISA.
+
+       Finally, Kramer argues we should avoid a broad interpretation of deferred compensation
+because it produces an absurd result—namely, that the term would mean something different
+under Title I of ERISA than it would under the Internal Revenue Code. But it is not absurd for
+the same term to have different meanings in different statutes. See Antonin Scalia & Bryan A.
+Garner, Reading Law: The Interpretation of Legal Texts 237–38 (2012) (explaining that the
+absurdity doctrine applies only if no reasonable person could intend the outcome and the error
+was obviously technical or ministerial).
+
+       Because the Plan qualifies as a top-hat plan, the fiduciary exception to the attorney-client
+privilege does not apply. As a result, the district court did not abuse its discretion in denying
+Kramer’s motion to compel AEP and the Plan to produce privileged documents.
+
+                                                2.
+
+       Kramer has waived appellate review of his argument about his request for “full
+discovery.” Kramer sought discovery beyond what was contained in the administrative record.
+The magistrate judge granted Kramer’s request in part.        Specifically, the magistrate judge
+allowed Kramer to obtain discovery into his allegations of bias and prejudice in the
+administrative process. Kramer did not object to the magistrate judge’s order.
+
+       Because Kramer did not object to the magistrate judge’s order, he may not challenge it on
+appeal. “A party may not assign as error a defect in the [magistrate judge’s] order not timely
+objected to.” Fed. R. Civ. P. 72(a). Although we may excuse Kramer’s default in the interest of
+justice, see Superior Prod. P’ship v. Gordon Auto Body Parts Co., 784 F.3d 311, 321 (6th Cir.
+2015), Kramer has shown no injustice.
+
+                                                B.
+
+       Next, Kramer claims that he was entitled to a jury trial on his ERISA denial-of-benefits
+claim. He brought that claim under 29 U.S.C. § 1132(a)(1)(B). That provision allows “a
+participant or beneficiary” to bring a civil action “to recover benefits due to him under the terms
+ No. 24-3174            Kramer v. Am. Electric Power Exec. Severance Plan                 Page 10
+
+
+of his plan.” He asserts that the district court erred in striking his jury demand because the
+Seventh Amendment entitles him to a jury trial.
+
+       The Seventh Amendment preserves the right to a jury trial “[i]n Suits at common law,
+where the value in controversy shall exceed twenty dollars[.]” U.S. Const. amend. VII. This
+jury-trial right applies only to “suits in which legal rights were to be ascertained and
+determined”; it does not extend to equitable claims seeking equitable remedies. Granfinanciera,
+S.A. v. Nordberg, 492 U.S. 33, 41 (1989) (quotation omitted). To determine whether the jury-
+trial right applies to a statutory cause of action, “we compare the statutory action to 18th-century
+actions brought in the courts of England prior to the merger of the courts of law and equity.”
+Tull v. United States, 481 U.S. 412, 417 (1987). And then “we examine the remedy sought and
+determine whether it is legal or equitable in nature.” Id. at 417–18.
+
+       We have held that ERISA claims for denial-of-benefits claims are equitable in nature.
+Wilkins v. Baptist Healthcare Sys., Inc., 150 F.3d 609, 616 (6th Cir. 1998); Bair v. Gen. Motors
+Corp., 895 F.2d 1094, 1096–97 (6th Cir. 1990). Thus, Kramer was not entitled to a jury trial on
+his ERISA claim.
+
+       Kramer’s arguments to the contrary are unpersuasive. First, he argues that, because
+ERISA explicitly limits recovery to “equitable relief” in its other causes of action for plan
+participants but not in § 1132(a)(1)(B), this subpart must provide for legal relief. See 29 U.S.C.
+§ 1132(a)(1)–(3). We have already rejected this argument. See Bair, 895 F.2d at 1096–97. And
+we are not alone in reaching this conclusion. See Crews v. Cent. States, Se. & Sw. Areas Pension
+Fund, 788 F.2d 332, 338 (6th Cir. 1986) (collecting cases).
+
+       Second, Kramer tries to read our prior holdings about the jury-trial right in ERISA denial-
+of-benefits cases as dicta.       But in those cases, we consciously considered whether
+§ 1132(a)(1)(B) claims are triable by a jury and concluded that they are not. See Wright v.
+Spaulding, 939 F.3d 695, 697 (6th Cir. 2019); see, e.g., Bair, 895 F.2d at 1096–97. These are
+therefore holdings, and they are dispositive here.
+
+       Finally, Kramer argues that intervening Supreme Court precedent—namely, CIGNA
+Corporation v. Amara, 563 U.S. 421 (2011), and Montanile v. Board of Trustees of National
+ No. 24-3174             Kramer v. Am. Electric Power Exec. Severance Plan                    Page 11
+
+
+Elevator Industry Health Benefit Plan, 577 U.S. 136 (2016)—have implicitly abrogated these
+precedents. Neither case addresses jury trials, however, and Montanile interprets a different
+ERISA cause of action altogether. See 577 U.S. at 139 (discussing § 1132(a)(3)). As much as
+Kramer suggests these cases imply that § 1132(a)(1)(B) contemplates legal relief, undoing our
+precedent based on mere implication—and one that is not clear—would stretch Amara and
+Montanile too far. See In re Smith, 806 F. App’x 462, 464 (6th Cir. 2020) (per curiam) (holding
+that an intervening decision is not directly applicable if the pertinent issue “is not implicated by
+the question presented in [the intervening case], its holding, or its primary legal reasoning”).
+
+        The district court did not err in striking Kramer’s jury demand.
+
+                                                  C.
+
+        Finally, we consider the district court’s decision granting judgment to AEP and the Plan
+on the merits of Kramer’s denial-of-benefits claim. District courts review an ERISA denial-of-
+benefits claim de novo “unless the benefit plan gives the administrator or fiduciary discretionary
+authority to determine eligibility for benefits or to construe the terms of the plan.” Firestone
+Tire & Rubber Co. v. Bruch, 489 U.S. 101, 115 (1989). If the plan gives “the plan administrator
+such discretion, then a court must review the administrator’s denial of benefits under the
+arbitrary-and-capricious standard.” Shaw v. AT&T Umbrella Ben. Plan No. 1, 795 F.3d 538, 546
+(6th Cir. 2015) (citation omitted).
+
+        The Plan grants its administrator discretion to make eligibility determinations and to
+construe the Plan. Therefore, the district court correctly applied the arbitrary-and-capricious
+standard. That “standard is extremely deferential.” McClain v. Eaton Corp. Disability Plan, 740
+F.3d 1059, 1064 (6th Cir. 2014) (quotation omitted). “[W]e review de novo the district court’s
+finding that the administrator’s denial was not arbitrary and capricious.” Shaw, 795 F.3d at 547
+(citation omitted).
+
+        Kramer has failed to show that the denial of benefits was arbitrary and capricious. An
+administrator’s decision is not arbitrary or capricious “if it is the result of a deliberate, principled
+reasoning process[,] supported by substantial evidence,” Bennett v. Kemper Nat’l Servs., Inc.,
+514 F.3d 547, 552 (6th Cir. 2008) (quotation omitted), and “rational in light of the plan’s
+ No. 24-3174            Kramer v. Am. Electric Power Exec. Severance Plan                  Page 12
+
+
+provisions,” Miller v. Metro. Life Ins. Co., 925 F.2d 979, 984 (6th Cir. 1991) (quotation
+omitted). Section 7.4(d) of the Plan provides that the administrator must give written notice that:
+(i) provides the reasons for denial; (ii) references specific Plan provisions on which the
+determination was based; (iii) includes a statement that the claimant is entitled to receive relevant
+documents upon request; and (iv) states that the claimant has the right to bring an action under
+ERISA. Both the Plan administrator’s letter denying Kramer’s initial claim and the committee’s
+letter denying his appeal provided such notice. And both letters provided substantial evidence in
+support of their finding that Kramer’s termination was for cause under § 2.5 of the Plan. To
+show that Kramer violated company rules of conduct (§ 2.5(v)), the letters cited AEP’s principles
+of business conduct, the annual audit reports revealing the expense account irregularities, and
+two affidavits corroborating repeated violations after a reasonable opportunity to cure. And to
+show that Kramer acted with willful dishonesty (§ 2.5(ii)), the letters relied on a report detailing
+the forensic testing performed on Kramer’s company-issued phone and two affidavits attesting to
+his failure to cooperate with the investigation.
+
+       That Kramer disagrees with the administrator’s findings does not make them arbitrary or
+capricious. See Shields v. Reader’s Dig. Ass’n, 331 F.3d 536, 541 (6th Cir. 2003) (“When it is
+possible to offer a reasoned explanation, based on the evidence, for a particular outcome, that
+outcome is not arbitrary or capricious.” (quotation omitted)).
+
+       Kramer argues that the district court erred in four ways. None is persuasive.
+
+       First, Kramer argues that we should reverse the district court’s decision because he did
+not receive the discovery to which he believes he was entitled. But, as we explained above, the
+district court did not err in denying Kramer’s motion to compel AEP and the Plan to produce
+documents subject to the attorney-client privilege. And Kramer waived any challenge to the
+denial of his motion for full discovery.
+
+       Second, Kramer claims the district court violated the party-presentation principle by
+construing the dispositive motion as a motion for judgment on the administrative record, rather
+than a Rule 56 motion for summary judgment. Under the party-presentation principle, courts
+rely on the parties to frame the issues for decision and normally decide only the questions
+ No. 24-3174              Kramer v. Am. Electric Power Exec. Severance Plan              Page 13
+
+
+presented. United States v. Sineneng-Smith, 590 U.S. 371, 375–76 (2020). But the party-
+presentation principle is “supple, not ironclad,” id. at 376, and courts sometimes can
+recharacterize motions to avoid an “inappropriately stringent application of formal labeling
+requirements,” id. at 375 (quoting Castro v. United States, 540 U.S. 375, 381 (2003)).
+
+       This is one of those circumstances. In Wilkins, we rejected applying Rule 56 in ERISA
+denial-of-benefits actions because the summary-judgment standard is “designed to screen out
+cases not needing a full factual hearing,” so “apply[ing] Rule 56 after a full factual hearing has
+already occurred before an ERISA administrator [would be] pointless.” 150 F.3d at 619. The
+district court understood this and properly used the arbitrary-and-capricious standard rather than
+the Rule 56 standard. And consistent with Wilkins, the parties did not present, and the district
+court did not consider, any evidence beyond the administrative record. See id. Only the title—
+not the substance—of the dispositive motion indicated that AEP and the Plan moved for
+summary judgment under Rule 56. Thus, the district court’s decision to construe AEP and the
+Plan’s motion as a motion for judgment on the administrative record did not violate the party-
+presentation principle.
+
+       Third, Kramer argues that the district court should not have followed the procedures
+governing the review of denial-of-benefits claims that we adopted in Wilkins because, according
+to Kramer, the Supreme Court implicitly abrogated Wilkins in United States v. Tsarnaev, 595
+U.S. 302 (2022).
+
+       In Tsarnaev, the Supreme Court considered whether the First Circuit’s rules could cabin
+the discretion that district courts are entitled to when conducting jury selection under Supreme
+Court precedent.    595 U.S. at 312–13.      The Court opined that lower courts cannot issue
+“supervisory” rules that conflict with a constitutional provision, federal statute, federal rule of
+procedure, or Supreme Court standards. Id. at 315–16. And it held that the First Circuit erred by
+“supplant[ing] the district court’s broad discretion to manage voir dire by prescribing specific
+lines of questioning, and thereby circumvent[ing] a well-established standard of review.” Id. at
+317.
+ No. 24-3174            Kramer v. Am. Electric Power Exec. Severance Plan                  Page 14
+
+
+       Tsarnaev did not supplant Wilkins. We are bound by Wilkins unless “the Supreme Court
+issues an intervening decision that is directly on point” or that “provides directly applicable legal
+reasoning” or “on-point dictum.” United States v. Fields, 53 F.4th 1027, 1046–47 (6th Cir.
+2022) (internal quotation marks omitted). Tsarnaev is not directly on point because it did not
+address ERISA. Moreover, in adopting procedures district courts must follow in adjudicating
+ERISA actions, Wilkins followed the reasoning from Perry v. Simplicity Engineering, 900 F.2d
+963 (6th Cir. 1990). See 150 F.3d at 617–19. Perry, in turn, followed the relevant Supreme
+Court standard from Firestone. 900 F.2d at 965–66. Thus, any supervisory rules created in
+Wilkins were meant to comport with Supreme Court standards, which is in line with Tsarnaev.
+To the extent that Tsarnaev and Firestone are “in tension,” as one of our colleagues has
+intimated, Tranbarger v. Lincoln Life & Annuity Co. of N.Y., 68 F.4th 311, 322–23 (6th Cir.
+2023) (Nalbandian, J., concurring), the Supreme Court, not this court, must resolve that tension.
+We must follow existing precedent.
+
+       Fourth, Kramer argues that he created a genuine dispute of fact that should have
+precluded summary judgment under Rule 56.              Because Rule 56 does not apply to the
+adjudication of ERISA denial-of-benefits claims, this argument is meritless.
+
+                                                III.
+
+       For these reasons, we AFFIRM the district court’s judgment.

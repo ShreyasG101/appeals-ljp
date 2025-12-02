@@ -1,0 +1,37 @@
+{
+  "overall_outcome": "REMAND",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the severance provision in the Release Agreement unambiguously required Dahua to pay Zhang $680,000 per month for sixteen months, or whether the provision is ambiguous and requires consideration of extrinsic evidence.",
+      "standard_of_review": "de novo",
+      "holding": "REMAND",
+      "key_reasoning": "The court found the severance provision ambiguous as a matter of law, rejecting the district court's conclusion that it was unambiguous, and remanded for the district court to construe the provision in light of extrinsic evidence of the parties' intent."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether Zhang breached the implied covenant of good faith and fair dealing by refusing to sign an amendment to the Release Agreement to correct the alleged scrivener's error.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court affirmed the district court's ruling that the implied covenant claim fails because nothing in the agreement required Zhang to agree to a modification, and the claim cannot be based on pre-contract formation conduct."
+    }
+  ],
+  "key_precedents": [
+    "Nevor v. Moneypenny Holdings, LLC, 842 F.3d 113 (1st Cir. 2016)",
+    "Sancta Maria Hosp. v. City of Cambridge, 341 N.E.2d 674 (Mass. 1976)",
+    "LaFleur v. C.C. Pierce Co., 496 N.E.2d 827 (Mass. 1986)",
+    "Restatement (Second) of Contracts \u00a7 152, \u00a7 155",
+    "Homeowner's Rehab, Inc. v. Related Corp. V SLP, L.P., 99 N.E.3d 744 (Mass. 2018)",
+    "Starr v. Fordham, 648 N.E.2d 1261 (Mass. 1995)",
+    "Fenoglio v. Augat Inc., 254 F.3d 368 (1st Cir. 2001)",
+    "Young v. Wells Fargo Bank, N.A., 717 F.3d 224 (1st Cir. 2013)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "This is the second appeal in a protracted contract dispute between Dahua Technology USA, Inc. (\"Dahua\") and Feng \"Frank\" Zhang, a former Dahua executive. See Dahua Tech. USA, Inc. v. Zhang, 988 F.3d 531, 539-40 (1st Cir. 2021). Zhang alleges that Dahua breached its obligation to pay him severance of $680,000 per month for sixteen months. Dahua maintains that the parties only intended Zhang to receive a total severance of $680,000, paid in sixteen monthly installments.\n\nDahua sued under diversity jurisdiction and asserted claims for reformation of the relevant contract and breach of the implied covenant of good faith and fair dealing. Zhang counterclaimed for breach of contract. After this Court vacated a grant of summary judgment in Dahua's favor, the parties proceeded to an eleven-day bench trial on whether unilateral or mutual mistake infected the severance provision at issue. Ultimately, the district court concluded that the severance provision contained a mistake that could not be fixed under Massachusetts law and therefore must be enforced \"as written.\" Dahua Tech. USA, Inc. v. Zhang, No. 1:18-CV-11147-IT, 2024 WL 1075066, at *1 (D. Mass. Mar. 12, 2024). The district court accordingly entered judgment for Zhang in the amount of $10,200,000, plus prejudgment interest. Dahua appeals. Because we conclude that the inartfully drafted severance provision is ambiguous, we vacate the judgment and remand for this dispute to be resolved consistent with extrinsic evidence of the parties' intent."
+}

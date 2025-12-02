@@ -1,0 +1,2483 @@
+United States Court of Appeals
+                       For the First Circuit
+
+
+No. 24-1279
+
+                            BRIAN HUSSEY,
+
+                        Plaintiff, Appellant,
+
+                                 v.
+
+ CITY OF CAMBRIDGE; CHRISTINE ELOW, in her official capacity as
+        Commissioner of the Cambridge Police Department,
+
+                       Defendants, Appellees,
+
+       BRANVILLE G. BARD, JR., in his individual capacity,
+
+                             Defendant.
+
+
+          APPEAL FROM THE UNITED STATES DISTRICT COURT
+               FOR THE DISTRICT OF MASSACHUSETTS
+
+              [Hon. Angel Kelley, U.S. District Judge]
+
+
+                               Before
+
+              Gelpí, Lipez, and Howard, Circuit Judges.
+
+
+     Jack Bartholet, with whom Harold Lichten       and   Lichten   &
+Liss-Riordan, P.C. were on brief, for appellant.
+
+     Kate M. Kleimola, Assistant City Solicitor, City of Cambridge
+Law Department, for appellees.
+
+     Peter J. Duffy and Pollack Solomon Duffy LLP on brief for the
+Cambridge Police Patrol Officers Association and the Cambridge
+Police Superior Officers Association, amici curiae.
+     Eric R. Atstupenas on brief for the Massachusetts Chiefs of
+Police Association, Inc., amicus curiae.
+
+
+                        August 15, 2025
+
+
+
+
+                             - 2 -
+                LIPEZ,    Circuit    Judge.       Contending      that     he   was
+
+ unconstitutionally disciplined in retaliation for exercising his
+
+ First Amendment rights, Cambridge Police Officer Brian Hussey
+
+ sued the City of Cambridge, Massachusetts, and the Commissioner
+
+ of       the    Cambridge     Police       Department     (collectively,       the
+
+ "Department") under 42 U.S.C. § 1983.                The district court granted
+
+ summary judgment for the Department, finding that its interest in
+
+ regulating Hussey's speech outweighed the relevant free speech
+
+ interests.        After careful review, we affirm.
+
+                                           I.
+
+                The details of the tragic death of George Floyd on May
+
+25, 2020, are well known. Floyd, a Minneapolis, Minnesota resident
+
+and   father,      went   to   a    convenience   store     to   buy    cigarettes.
+
+Believing Floyd used a counterfeit twenty-dollar bill to make his
+
+purchase, a store employee contacted the police.                  As seen in the
+
+widely      circulated      video    of     Floyd's     arrest   that    followed,
+
+Minneapolis Police Officer Derek Chauvin knelt on Floyd's neck for
+
+more than nine minutes, ignoring Floyd's pleas until his body went
+
+limp.      Floyd's last words were "I can't breathe."1
+
+                The murder of George Floyd led to a public reckoning on
+
+issues of racism and policing and sparked historic protests around
+
+
+
+      Chauvin was convicted of second-degree murder, and the other
+      1
+
+officers involved in Floyd's death were convicted on related
+charges.
+
+
+                                          - 3 -
+the world.2      In the City of Cambridge, protesters took to the
+
+streets   by   the     thousands     to    demand    action    addressing    police
+
+brutality and impunity.            See Hussey v. City of Cambridge, 720 F.
+
+Supp. 3d 41, 47 & n.3 (D. Mass. 2024) (citing Marc Levy, Protest
+
+Draws    Thousands     to   Hear    the    Challenges    of    Reforming     Police,
+
+Education,     Other    Institutions,        Cambridge   Day    (June   7,    2020),
+
+https://www.cambridgeday.com/2020/06/07/protest-draws-thousands-
+
+to-hear-the-challenges-of-reforming-police-education-other-
+
+institutions/ [https://perma.cc/37UE-DQUB]).                   In nearby Boston,
+
+racial-justice protesters were allegedly met with unreasonable
+
+force by the Boston Police Department, leading to a lawsuit
+
+asserting constitutional violations.                See id. at 47 & n.4 (citing
+
+Huffman v. City of Boston, No. 21-cv-10986, 2022 WL 2308937, at
+
+*1-3 (D. Mass. June 27, 2022)).                   These protests and related
+
+intensive scrutiny of law enforcement continued for many months,
+
+well into 2021.        See id. at 47 & n.5 (citing Protesters at Boston
+
+Rallies Call for Justice for George Floyd, Action on Police Killing
+
+Cases,         NBC          10        Boston          (Mar.       6,         2021),
+
+https://www.nbcboston.com/news/local/rally-in-boston-to-call-
+
+for-action-on-police-killing-cases/2321508/
+
+
+     2 The district court took judicial notice pursuant to Federal
+Rule of Evidence 201(b) of the unrest that followed George Floyd's
+murder. See Hussey v. City of Cambridge, 720 F. Supp. 3d 41, 47
+n.3 (D. Mass. 2024). We consider the material relied upon by the
+district court as part of the record on appeal. All other facts
+are undisputed unless otherwise noted.
+
+
+                                          - 4 -
+[https://perma.cc/358H-RQQ7]). On February 24, 2021, the George
+
+Floyd Justice in Policing Act of 2021 (the "Act") was introduced
+
+in the U.S. House of Representatives, the purpose of which was
+
+"[t]o hold law enforcement accountable for misconduct in court,
+
+improve transparency through data collection, and reform police
+
+training and policies."       H.R. 1280, 117th Cong. (2021).
+
+           Hussey   became     an   officer   of   the    Cambridge   Police
+
+Department in 1998, working as a patrol officer for the first
+
+decade of his career.    In 2009, he joined the Department's Special
+
+Investigations Unit ("SIU"), where he participated in hundreds of
+
+drug investigations.    Much of his work in the SIU involved gaining
+
+the trust of confidential informants, who were often current or
+
+former drug users, and speaking with current drug users throughout
+
+the City of Cambridge.        Hussey was part of the SIU for about ten
+
+years, returning to his role as a patrol officer in 2020.
+
+           On February 25, 2021, at 8:08 a.m., Hussey shared to his
+
+personal   Facebook    page    an   article   titled      "House   Democrats
+
+Reintroduce Police Reform Bill in Honor of George Floyd."              Along
+
+with the article, he posted the following comment:            "This is what
+
+it's come to . . . 'honoring' a career criminal, a thief and
+
+druggie . . . the future of this country is bleak at best." Hussey
+
+made this post from his personal phone while at home. A screenshot
+
+taken about one hour after the post was made shows it had two
+
+comments, to which Hussey did not respond.               Hussey deleted the
+
+
+                                    - 5 -
+post a few hours after he shared it, testifying that he did so
+
+because the post did not generate much conversation.
+
+           Hussey's Facebook account was "restricted," meaning only
+
+people Hussey accepted as "friends" could view his posts, and he
+
+did not accept friend requests from people he did not know.               At
+
+the time of the posting, Hussey had 674 Facebook friends, including
+
+roughly ninety current or former members of the Cambridge Police
+
+Department.      While Hussey did not identify himself as a police
+
+officer on his Facebook page, most of his Facebook friends were
+
+aware of his profession.
+
+           Around March 3, approximately six days after Hussey made
+
+the   Facebook   post,   then-Commissioner    of   the    Cambridge    Police
+
+Department Branville G. Bard, Jr. was contacted by a senior officer
+
+of the Cambridge chapter of the NAACP.        The NAACP officer alerted
+
+Bard to Hussey's post, which had been screenshotted and shared
+
+with the NAACP soon after Hussey posted it.          Shortly thereafter,
+
+Bard and the Cambridge City Manager met via videoconference with
+
+the senior NAACP officer who initially contacted Bard, another
+
+individual who was an NAACP member and community organizer, and a
+
+third individual, the former mayor of Cambridge, to discuss the
+
+post.    Bard    testified   that,   during   this   meeting,    the   three
+
+individuals were "alarmed and concerned," believing that Hussey's
+
+post "called into question" the Cambridge Police Department's
+
+"ability to serve in a bias[]-free manner."              Bard requested and
+
+
+                                 - 6 -
+was sent a copy of Hussey's post, which he shared with the
+
+Cambridge Police Department's Professional Standards Unit ("PSU")
+
+to investigate whether the post violated Department policy.
+
+           Hussey was placed on administrative leave while the PSU
+
+investigated his post.       During this time, he received several
+
+messages of support from fellow officers of the Cambridge Police
+
+Department.
+
+           On March 7, as part of the PSU's inquiry, Hussey provided
+
+a written statement in which he expressed the following:
+
+           What happened to George Floyd on May 25, 2020
+           never should have happened . . . he did not
+           deserve to die. Derek Chauvin is a disgrace
+           to the badge and probably never should have
+           worn one in the first place. The same goes
+           for the officers who stood by and did nothing.
+           I am 100% in favor of police reform.
+
+He explained further:
+
+           That being said, the one thing I disagree with
+           is naming a police reform bill in "honor" of
+           George Floyd.      I understand that this
+           incident, the proverbial straw that broke the
+           camel's back, led to the calls for police
+           reform, hence the naming of the bill in his
+           "honor." While George Floyd did not deserve
+           to have his life taken away that day, he was
+           still a violent criminal.        I feel that
+           attaching the name of a violent career
+           criminal, in "honor," to a reform bill aimed
+           at the betterment of policing is a disservice
+           to the spirit of the bill.
+
+The PSU also interviewed Hussey (and only Hussey) as part of its
+
+investigation.    During this interview, Hussey acknowledged that he
+
+never   called   persons   suffering   from   substance   use   disorders
+
+
+
+                                 - 7 -
+"druggie[s]"     to   their    faces,     noting     that     "it   would    be
+
+unprofessional to do so."
+
+            On April 14, approximately six weeks after Hussey was
+
+placed on administrative leave, the PSU released a Final Report of
+
+Investigation,    concluding     that     Hussey's     post    violated     the
+
+Cambridge    Police   Department's      policy     against    "[d]iscourtesy,
+
+rudeness, or insolence to any member of the public" and its rule
+
+that officers must "[b]e courteous and act professionally at all
+
+times."     Two weeks later, and two months after Hussey made his
+
+Facebook post commenting on the Act, Bard informed Hussey that he
+
+would be suspended without pay for four days because of his rule
+
+and policy violations.    During his deposition, Bard explained that
+
+he considered Hussey's Facebook post "damaging to the reputation
+
+of the Cambridge Police Department" and especially harmful "in the
+
+context of the national climate."         Bard further testified that he
+
+believed it was important for the Cambridge Police Department to
+
+maintain a positive reputation within the community "[b]ecause
+
+that's the only way we can function properly and do our job.                We
+
+have to be seen as trustworthy and legitimate and bias-free."
+
+            Asserting that he was disciplined in retaliation for
+
+exercising his First Amendment rights, Hussey filed this suit in
+
+federal court under 42 U.S.C. § 1983.3           Following discovery, the
+
+
+     3  Hussey originally sued then-Commissioner Bard in his
+official capacity.     Christine Elow, who was sworn in as
+
+
+                                  - 8 -
+Department moved for summary judgment, arguing in relevant part
+
+that its interest in regulating Hussey's speech far outweighed the
+
+countervailing free speech interests.           Hussey filed a cross-motion
+
+for partial summary judgment on the question of the Department's
+
+liability for violating his First Amendment rights.
+
+           The district court granted summary judgment for the
+
+Department    and   denied   Hussey's      cross-motion,      emphasizing   in
+
+particular the contemporaneous civil unrest in concluding that
+
+Hussey's suspension did not violate his constitutional rights.
+
+This appeal followed.
+
+                                     II.
+
+           We review the district court's grant of summary judgment
+
+de novo.     See Satanic Temple, Inc. v. City of Boston, 111 F.4th
+
+156, 167 (1st Cir. 2024).      Summary judgment should be granted when
+
+the record reveals "no genuine dispute as to any material fact and
+
+the movant is entitled to judgment as a matter of law."                Fed. R.
+
+Civ. P. 56(a).      A dispute is genuine when "the evidence is such
+
+that a reasonable jury could resolve the point in the favor of the
+
+non-moving party," and a material fact is one that "has the
+
+potential of affecting the outcome of the case."              Hamdallah v. CPC
+
+Carolina   PR,   LLC,   91   F.4th   1,    16   (1st   Cir.    2024)   (quoting
+
+
+
+Commissioner in January 2022, was automatically substituted as a
+defendant pursuant to Federal Rule of Appellate Procedure
+43(c)(2).
+
+
+                                     - 9 -
+Taite v. Bridgewater State Univ., Bd. of Trs., 999 F.3d 86, 93
+
+(1st Cir. 2021)).     "In opposing a motion for summary judgment, the
+
+plaintiff    'bears   "the   burden      of   producing   specific      facts
+
+sufficient to"' defeat summary judgment."             González-Cabán v. JR
+
+Seafood Inc., 48 F.4th 10, 14 (1st Cir. 2022) (quoting Theidon v.
+
+Harvard Univ., 948 F.3d 477, 494 (1st Cir. 2020)).               "While we
+
+resolve all reasonable inferences in favor of the nonmoving party,
+
+we must ignore conclusory allegations, improbable inferences, and
+
+unsupported speculation."     Viscito v. Nat'l Plan. Corp., 34 F.4th
+
+78, 83 (1st Cir. 2022) (quoting Garcia-Garcia v. Costco Wholesale
+
+Corp., 878 F.3d 411, 417 (1st Cir. 2017)).
+
+A. First Amendment Framework
+
+            The First Amendment guarantees the right of the people
+
+to speak on matters of public concern, and individuals do not lose
+
+that right simply by choosing to work for the government.                 See
+
+Curran v. Cousins, 509 F.3d 36, 44 (1st Cir. 2007) (citing Connick
+
+v. Myers, 461 U.S. 138, 142 (1983)). However, as the Supreme Court
+
+has explained, "[g]overnment employers . . . need a significant
+
+degree of control over their employees' words and actions; without
+
+it, there would be little chance for the efficient provision of
+
+public services."     Garcetti v. Ceballos, 547 U.S. 410, 418 (2006).
+
+"Public employees, moreover, often occupy trusted positions in
+
+society.    When   they   speak   out,   they   can   express   views    that
+
+
+
+
+                                  - 10 -
+contravene governmental policies or impair the proper performance
+
+of governmental functions."             Id. at 419.
+
+            We use a three-part test "to balance the competing
+
+interests of the government employer and the employee."                       MacRae v.
+
+Mattos, 106 F.4th 122, 133 (1st Cir. 2024).               At step one, we assess
+
+whether the employee "spoke as a citizen on a matter of public
+
+concern."    Gilbert v. City of Chicopee, 915 F.3d 74, 82 (1st Cir.
+
+2019)   (quoting    Curran,       509    F.3d    at    45).      "In    making     this
+
+determination,      we    ask    whether    the       'speech'   underlying        [the
+
+employee's] claim was made 'pursuant to [the employee's] official
+
+duties.'"    Id. (quoting Garcetti, 547 U.S. at 421).                       If so, the
+
+employee    has    no    First    Amendment      claim    because,          "generally,
+
+'[r]estricting      speech       that   owes     its    existence      to    a   public
+
+employee's professional responsibilities does not infringe any
+
+liberties.'"      Id. (alteration in original) (quoting Garcetti, 547
+
+U.S. at 421-22).         If we instead conclude that "the employee did
+
+speak as a citizen on a matter of public concern," we move to step
+
+two.    MacRae, 106 F.4th at 133.
+
+            At step two, we must determine "whether, when balanced
+
+against each other, the First Amendment interests of the plaintiff
+
+and the public outweigh the government's interest in functioning
+
+efficiently."      Mihos v. Swift, 358 F.3d 91, 102 (1st Cir. 2004).
+
+This assessment is commonly referred to as the Pickering balancing
+
+test.    See Pickering v. Bd. of Educ., 391 U.S. 563, 568 (1968);
+
+
+                                        - 11 -
+see also, e.g., Mihos, 358 F.3d at 103.       If the balance "tip[s] in
+
+the employer's favor, the inquiry ends there, and the employee's
+
+speech is not constitutionally protected."        MacRae, 106 F.4th at
+
+133.     If, however, the balancing test favors the employee, "the
+
+employee's speech 'is protected speech under the First Amendment'
+
+and '[t]he analysis then proceeds to the third step.'"                   Id.
+
+(alteration     in   original)    (quoting   Ciarametaro    v.   City    of
+
+Gloucester, 87 F.4th 83, 88 (1st Cir. 2023)).
+
+            At the third step, we ask "whether the protected speech
+
+was a 'substantial or motivating factor in the adverse employment
+
+decision.'"     Ciaramentaro, 87 F.4th at 88 (quoting Curran, 509
+
+F.3d at 45).     Even if the test favors the employee at all three
+
+steps,    the   employer   "has   the   opportunity   'to   prove   by    a
+
+preponderance of evidence that "it would have reached the same
+
+decision regarding the adverse employment event even in the absence
+
+of the protected conduct."'"        MacRae, 106 F.4th at 133 (quoting
+
+Stuart v. City of Framingham, 989 F.3d 29, 35 (1st Cir. 2021)).
+
+            In this case, the first step of the three-step test is
+
+undisputed -- that is, the parties agree that Hussey spoke as a
+
+citizen on a matter of public concern.       Although we note that the
+
+third step is also undisputed -- that is, the parties agree that
+
+Hussey's speech motivated the Department's decision to discipline
+
+him -- our inquiry here ends at step two because, as we shall
+
+explain, the Pickering balancing test favors the Department, and
+
+
+                                  - 12 -
+Hussey's speech is not constitutionally protected.          Accordingly,
+
+we turn now to the Pickering balancing test.
+
+B. The Pickering Balancing Test
+
+          As   indicated,    but   stated   more   specifically,   at   the
+
+second step of our three-step inquiry, we must "attempt[] to
+
+'balance the value of an employee's speech -- both the employee's
+
+own interests and the public's interest in the information the
+
+employee seeks to impart -- against the employer's legitimate
+
+government interest in preventing unnecessary disruptions and
+
+inefficiencies in carrying out its public service mission.'" Bruce
+
+v. Worcester Reg'l Transit Auth., 34 F.4th 129, 138 (1st Cir. 2022)
+
+(alteration in original) (quoting Decotiis v. Whittemore, 635 F.3d
+
+22, 35 (1st Cir. 2011)).     In conducting this inquiry, we recognize
+
+that "the stronger the First Amendment interests in the speech,
+
+the stronger the justification the employer must have."            MacRae,
+
+106 F.4th at 136 (quoting Curran, 509 F.3d at 48).           In weighing
+
+the countervailing interests, we consider a host of factors,
+
+including "(1) 'the time, place, and manner of the employee's
+
+speech,' and (2) 'the employer's motivation in making the adverse
+
+employment decision.'"      Bruce, 34 F.4th at 138 (quoting Decotiis,
+
+635 F.3d at 35).   If "we determine that the employee 'face[d] only
+
+those speech restrictions that are necessary for [the] employer[]
+
+to operate efficiently and effectively,' then the defendants'
+
+
+
+
+                                   - 13 -
+restrictions on speech were adequately justified."                   Id. (first and
+
+third alterations in original) (citation omitted).
+
+               The Pickering balancing inquiry is a question of law for
+
+the court, but "it is also a 'fact-intensive' inquiry."                    MacRae,
+
+106 F.4th at 136 (quoting Fabiano v. Hopkins, 352 F.3d 447, 457
+
+(1st Cir. 2003)).            In other words, where the material facts are
+
+undisputed, we may determine the outcome of the Pickering inquiry
+
+as a matter of law at the summary judgment stage.                     If, however,
+
+material factual disputes remain, summary judgment is improper.
+
+Cf. Reuland v. Hynes, 460 F.3d 409, 419 (2d Cir. 2006) (holding
+
+that genuine "factual disputes underlying Pickering balance must
+
+be submitted to the jury").
+
+               Hussey argues that the district court erred in holding
+
+that     the     Department's        interest      in   preventing     unnecessary
+
+disruptions           outweighed       his     First     Amendment      interests.
+
+Specifically, he asserts that (1) the value of his speech was high
+
+because his comment touched on important public issues concerning
+
+pending    legislation;        (2)   the     Department's    mere    prediction    of
+
+disruption, absent evidence of "actual disruption," should not
+
+outweigh the relevant free speech interests; (3) even if actual
+
+disruption       is    not    required,      the   Department's     prediction     of
+
+disruption was unreasonable; and (4) the Department's interest
+
+should    be    accorded      little    value      because   the    Department    was
+
+motivated not by any reasonable concern for disruption but by
+
+
+                                        - 14 -
+impermissible viewpoint discrimination or, at the least, there is
+
+a genuine dispute of fact as to its motivation.     We address each
+
+argument in turn.
+
+         1. Interest in Hussey's Speech
+
+         We begin with Hussey's assertion that his comment on the
+
+Act is entitled to significant weight in the Pickering balance.
+
+Hussey's post, in which he objected to the naming of pending
+
+federal legislation, touched on important political issues.        That
+
+conclusion is bolstered by the fact that the legislation was
+
+intended to address such important subjects as police reform and
+
+racial inequity and that, as a law enforcement officer, Hussey
+
+could potentially offer a valuable perspective on those subjects.
+
+See Garcetti, 547 U.S. at 419 (acknowledging "the importance of
+
+promoting the public's interest in receiving the well-informed
+
+views of government employees engaging in civic discussion").
+
+Moreover, as the district court rightly determined, "given the
+
+galvanizing role George Floyd's murder played in the widespread
+
+protests in 2020 and thereafter, there is value in the public's
+
+continued discussions of his life and legacy."       Hussey, 720 F.
+
+Supp. 3d at 54.
+
+         Normally,   considering   the   above,   Hussey's   and   the
+
+public's interest in Hussey's speech would weigh heavily in his
+
+favor because, as the Supreme Court "has frequently reaffirmed[,]
+
+. . . speech on public issues occupies the 'highest rung of the
+
+
+                             - 15 -
+hierarchy of First Amendment values,' and is entitled to special
+
+protection."       Connick, 461 U.S. at 145 (quoting NAACP v. Claiborne
+
+Hardware    Co.,    458    U.S.     886,    913    (1982)).         However,    we    have
+
+recognized that speech commenting on public "issues in a mocking,
+
+derogatory, and disparaging manner" is accorded less weight in the
+
+balancing test.       MacRae, 106 F.4th at 137; see also Curran, 509
+
+F.3d at 49 ("Speech done in a vulgar, insulting, and defiant manner
+
+is entitled to less weight in the Pickering balance.").                                The
+
+district court concluded that Hussey's comment was "inflammatory
+
+and insulting," and, for that reason, it found that the post's
+
+value was "lessened."         Hussey, 720 F. Supp. 3d at 55.
+
+            Hussey argues on appeal that his comment "does not even
+
+come close" to constituting the "extreme" insulting or defiant
+
+speech to which           we assign     diminished        value in the         Pickering
+
+balance.    Specifically, he contends that the term "druggie" is not
+
+offensive and that none of the individual words he used was
+
+inherently     derogatory,        profane,         or    racially     charged.         Our
+
+dissenting colleague agrees with Hussey's contention but goes a
+
+step further, arguing that because "Hussey's chosen terminology"
+
+is not "widely accepted to meet the same level of vulgarity as an
+
+insidious    moniker       like   the      n-word,"      Hussey's    post   cannot     be
+
+considered "mocking" or "disparaging" under our precedents.
+
+            Hussey     and    the    dissent       are    incorrect,     however,      in
+
+arguing    that     the    specific        words    Hussey    used     needed    to     be
+
+
+                                        - 16 -
+intrinsically vulgar or racist for his speech to be considered
+
+insulting.      Rather, we consider the words in context and assess
+
+whether the manner in which the message as a whole was conveyed
+
+"mock[s]" and "disparag[es]."         MacRae, 106 F.4th at 137.          For
+
+example, we recently found that a meme posted online concerning
+
+Dr. Rachel Levine, the then-United States Assistant Secretary for
+
+Health,   and    a   transgender   woman,   "was   clearly   insulting   and
+
+disparaging when it included the following text: '"I'm an expert
+
+on mental health and food disorders." . . . says the obese man who
+
+thinks he's a woman.'"      Id. at 127, 137.   Even though no individual
+
+word in the speech at issue was innately offensive, we concluded
+
+that the message was derogatory toward transgender individuals and
+
+therefore "not accorded the highest value by the First Amendment."
+
+Id. at 137.     In light of this precedent,4 we do not understand the
+
+basis for our dissenting colleague's "insidious moniker" rule.
+
+
+
+
+     4  Our dissenting colleague attempts to diminish the
+significance of Curran and MacRae by insisting that we "borrowed"
+the rule articulated in those cases from the Eleventh Circuit's
+decision in Stanley v. City of Dalton, 219 F.3d 1280 (11th Cir.
+2000), seemingly suggesting that those cases are not forceful
+precedents, and by implying that we have been reluctant to invoke
+those precedents. However, we routinely evaluate and adopt legal
+rules from other circuits. That practice is uncontroversial and,
+indeed, is a critical part of the judicial process. The fact that
+the rule we applied first in Curran and recently reaffirmed in
+MacRae originated in another circuit in no way diminishes the
+weight of that precedent in this circuit. Additionally, we are
+unpersuaded by the dissent's attempt to cabin Curran and MacRae to
+their facts.    That is, contrary to our dissenting colleague's
+assertion, neither case requires that speech occur over an extended
+
+
+                                   - 17 -
+          When we evaluate whether the message of Hussey's post
+
+was derogatory or disparaging by considering the words he used in
+
+context, as our caselaw instructs, we conclude, as did the district
+
+court, that his speech is not entitled to "special protection."
+
+Connick, 461 U.S. at 145.        Hussey's post referred to George Floyd
+
+as "a career criminal," "a thief," and a "druggie" and suggested
+
+that "the future" of a country that would honor Floyd by naming
+
+legislation after him "is bleak at best."       This post -- because of
+
+the words Hussey chose -- disparaged both George Floyd and those
+
+who rallied in response to the horrific circumstances of his
+
+death.5
+
+          To   be   sure,   in    his   statement   to   the   PSU,   Hussey
+
+acknowledged that George Floyd's murder was "the proverbial straw
+
+that broke the camel's back" and "led to the calls for police
+
+reform, hence the naming of the bill in his 'honor.'"          In its Final
+
+Report of Investigation, the PSU stated that "[i]t is unfortunate
+
+
+
+
+period or advocate harm to its target audience to be considered
+"mocking, derogatory, and disparaging." MacRae, 106 F.4th at 137.
+     5 We also note that Hussey's use of the pejorative "druggie"
+to describe George Floyd could be deemed offensive to drug users.
+Indeed, although the dissent asserts that the Department has never
+"identified any authority besides itself that characterizes
+Hussey's language as materially offensive," Hussey himself
+acknowledged that he would never refer to individuals with
+substance use disorder as "druggie[s]" to their faces because "it
+would be unprofessional to do so." That is, even Hussey recognized
+the inappropriateness of referring to drug users in a way that
+reduces them to the sole fact of their drug use.
+
+
+                                   - 18 -
+Officer Hussey did not mention his . . . support of police reform"
+
+in his post, which could have "provide[d] additional context to
+
+his actions and beliefs."   Bard similarly testified that he wished
+
+Hussey's statement to the PSU "was the content of his Facebook
+
+post because then we wouldn't be sitting here today."      But, of
+
+course, Hussey's post did not express his views on the Act's title
+
+in the same manner as his statement to the PSU.
+
+          Despite the alarm sounded by our dissenting colleague,
+
+our conclusion does not mean that Hussey's comment is not entitled
+
+to protection at all or that his interest in making it does not
+
+weigh in his favor in the Pickering balancing test.     Nor are we
+
+creating "a free pass for governments to police . . . viewpoints,"
+
+a warning by the dissent that discounts the ability of courts to
+
+draw meaningful lines when applying a doctrine.        Rather, the
+
+disparaging nature of Hussey's speech simply means that it is not
+
+on the "highest rung" of the First Amendment "hierarchy" as we
+
+consider the strength of the Department's countervailing interest.
+
+Connick, 461 U.S. at 145 (quoting Claiborne, 458 U.S. at 913).
+
+          2. Interest in Regulating Hussey's Speech
+
+          The Department has an "interest in the effective and
+
+efficient fulfillment of its responsibilities to the public."   Id.
+
+at 150.   And a government employer has a "strong interest in
+
+'preventing unnecessary disruptions and inefficiencies in carrying
+
+out its public service mission.'"       MacRae, 106 F.4th at 137
+
+
+                               - 19 -
+(quoting Díaz-Bigio v. Santini, 652 F.3d 45, 53 (1st Cir. 2011)).
+
+Moreover, the government employer's interest in regulating speech
+
+to prevent disruption is "heighten[ed]" when the employer is a law
+
+enforcement   agency    due    to    "the   special   degree      of   trust   and
+
+discipline required in" that context.               Curran, 509 F.3d at 50
+
+(quoting O'Donnell v. Barry, 148 F.3d 1126, 1135 (D.C. Cir. 1998));
+
+see also Lalowski v. City of Des Plaines, 789 F.3d 784, 792
+
+(7th Cir. 2015) ("[D]eference to the employer's judgment regarding
+
+the   disruptive    nature    of    an   employee's   speech      is   especially
+
+important in the context of law enforcement." (quoting Kokkinis v.
+
+Ivkovich, 185 F.3d 840, 846 (7th Cir. 1999))).                    Nevertheless,
+
+Hussey   offers    several    reasons       to   diminish   the    Department's
+
+interest in regulating his speech.
+
+                   (a) Actual Disruption
+
+           Hussey argues that, notwithstanding the Department's
+
+legitimate interest in preventing disruption to its ability to
+
+carry out its mission, it should not have been permitted to take
+
+adverse action against him absent a showing of "actual disruption"
+
+resulting from his speech.          Asserting that we "have been unclear
+
+on precisely when actual disruption is needed," Hussey invites us
+
+to "make clear that where the primary purpose of speech is to
+
+discuss a matter of public concern, the government must show an
+
+actual disruption."       Allowing government employers to regulate
+
+political speech based only on predicted disruption, Hussey warns,
+
+
+                                     - 20 -
+would "invite governmental abuses" and violate "the intent of the
+
+First Amendment."    Because there is no evidence in the record that
+
+his post caused actual disruption in the community or within the
+
+Department,   Hussey   contends,     the   district   court   erred    in
+
+concluding that the Pickering balance weighed in the Department's
+
+favor.
+
+           We are puzzled by Hussey's assertion that our caselaw is
+
+unclear as to the necessary showing of disruption in this context.
+
+We have long recognized that "[a]n employer need not show an actual
+
+adverse effect in order to terminate an employee under the"
+
+Pickering balancing test.    Curran, 509 F.3d at 49.     Rather, as we
+
+have repeatedly stated, "an employer may consider a speech's
+
+potential to disrupt."      Davignon v. Hodgson, 524 F.3d 91, 105
+
+(1st Cir. 2008).    And this is so even when a government employee's
+
+speech touches upon important political issues.       MacRae, 106 F.4th
+
+at 137-38.    Our established precedent is consistent with the
+
+Supreme   Court's   direction   to   "give[]   substantial    weight   to
+
+government employers' reasonable predictions of disruption, even
+
+when the speech involved is on a matter of public concern," Waters
+
+v. Churchill, 511 U.S. 661, 673 (1994), and is in line with how
+
+other circuits have applied the Pickering balancing test, see,
+
+e.g., Moser v. L.V. Metro. Police Dep't, 984 F.3d 900, 909-10 (9th
+
+Cir. 2021); Gillis v. Miller, 845 F.3d 677, 687 (6th Cir. 2017);
+
+Munroe v. Cent. Bucks Sch. Dist., 805 F.3d 454, 472 (3d Cir.
+
+
+                                - 21 -
+2015); Anzaldua v. Ne. Ambulance & Fire Prot. Dist., 793 F.3d 822,
+
+833-34 (8th Cir. 2015); Anemone v. Metro. Transp. Auth., 629 F.3d
+
+97, 115 (2d Cir. 2011).6
+
+           We see no reason to depart from our past decisions by
+
+requiring government employers to wait for actual disruptions to
+
+their operations before disciplining employees for their speech.
+
+Indeed, we recently rejected a similar invitation to adopt such a
+
+requirement, noting that the argument for doing so does not "make[]
+
+much sense given our caselaw."       MacRae, 106 F.4th at 138.   The
+
+rule in this circuit, as we explain further below, requires a
+
+government employer's prediction of disruption to "be reasonable
+
+based upon the record."    Id.     That rule strikes an appropriate
+
+balance.   It safeguards employees from the "governmental abuses"
+
+that Hussey fears without forcing the government "employer to allow
+
+events to unfold to the extent that the disruption of the office
+
+and the destruction of working relationships is manifest before
+
+taking action."    Connick, 461 U.S. at 152.        Accordingly, we
+
+reaffirm our existing application of the Pickering balancing test
+
+
+
+     6 Hussey points to the Tenth Circuit as requiring a showing
+of actual disruption, citing Melton v. City of Oklahoma City, 879
+F.2d 706, 716 (10th Cir. 1989), vacated on other grounds en banc,
+928 F.2d 920 (10th Cir. 1991).    However, the Tenth Circuit has
+made clear that "when the employer's intent in taking an adverse
+action is to avoid actual disruption, [it] will generally defer to
+a public employer's reasonable predictions of disruption, as long
+as the predictions are supported by specific evidence." Duda v.
+Elder, 7 F.4th 899, 913 (10th Cir. 2021) (citation modified).
+
+
+                                 - 22 -
+that assesses the reasonableness of the government employer's
+
+prediction of disruption.         See MacRae, 106 F.4th at 138.
+
+                 (b) Reasonable Prediction of Disruption
+
+             Hussey next contends that, even absent a requirement
+
+that   the   Department    show    evidence     of    actual    disruption,   the
+
+district court erred in favoring the Department in the Pickering
+
+balance because the Department's prediction of disruption was
+
+unreasonable.    To be sure, "mere speculation of disruption" is not
+
+enough.      Id.; see also Davignon, 524 F.3d at 105 ("The 'mere
+
+incantation of the phrase "internal harmony in the workplace" is
+
+not enough to carry the day.'" (quoting Gustafson v. Jones, 290
+
+F.3d 895, 911 (7th Cir. 2002))).            Instead, we consider whether the
+
+government employer can point to "specific facts and circumstances
+
+. . . that support [its] prediction."            MacRae, 106 F.4th at 140.
+
+             In making his claim of error, Hussey primarily argues
+
+that the Department could not have reasonably anticipated his
+
+speech would negatively impact internal workplace harmony.                     He
+
+notes,    for   example,    that      his    speech    did     not   "encourage[]
+
+insubordination" or "encourage[] strikes or work stoppage," he
+
+"did not personally attack any of his coworkers," and the only
+
+reaction to his post amongst his fellow officers was support.
+
+While we agree with Hussey that there is scant evidence in the
+
+record to support a prediction of disruption to the Cambridge
+
+Police    Department's     internal    operations,      the    absence   of   such
+
+
+                                      - 23 -
+evidence here is beside the point.            The Department does not claim
+
+that it disciplined Hussey because his speech could potentially
+
+interfere   with    internal       management.       Rather,   the    Department
+
+maintains that Hussey's suspension was motivated by its concern
+
+that Hussey's post would undermine the Department's relationship
+
+of trust with the public.
+
+            As    multiple     circuits       have    recognized,      "[p]olice
+
+departments      . . . have    a    strong    interest    in   maintaining     a
+
+relationship of trust and confidence with the communities they
+
+serve."   Hernandez v. City of Phoenix, 43 F.4th 966, 981 (9th Cir.
+
+2022); see also Lalowski, 789 F.3d at 792 (noting that police
+
+officers have a "responsibilit[y] . . .              to foster a relationship
+
+of trust and respect with the public").              "The effectiveness of a
+
+city's police department depends importantly on the respect and
+
+trust of the community and on the perception in the community that
+
+it enforces the law fairly, even-handedly, and without bias."
+
+Locurto v. Guiliani, 447 F.3d 159, 178 (2d Cir. 2006) (quoting
+
+Pappas v. Guiliani, 290 F.3d 143, 146 (2d Cir. 2002)); see also
+
+Bennett v. Metro. Gov't of Nash. & Davidson Cnty., 977 F.3d 530,
+
+544 (6th Cir. 2020) ("[D]iverse constituents . . . need to believe
+
+that those meant to help them in their most dire moments are fair-
+
+minded, unbiased, and worthy of their trust.").                      Because the
+
+Department claims that it disciplined Hussey due to its belief
+
+that his post could "tear down . . . th[e] trust [the Department]
+
+
+                                     - 24 -
+spent a long time building with [the] community," it is the
+
+reasonableness of that prediction that we must assess.
+
+          We agree with the district court that the timing of
+
+Hussey's speech is central to that assessment and, ultimately, to
+
+our conclusion that the Department's prediction was reasonable.
+
+Hussey posted about the Act during a period of intense scrutiny of
+
+and protest against law enforcement, including within the City of
+
+Cambridge and in nearby Boston.      As the district court recounted:
+
+          The vast majority of protests were peaceful,
+          yet departments across the country met many of
+          those same protests with tear gas, arrests,
+          flash grenades, and more -- sometimes with
+          fatal consequences for demonstrators. Some of
+          the protests turned violent and the ensuing
+          riots    set    ablaze    local    businesses,
+          restaurants, news buildings, and even a police
+          department building.     A number of police
+          officers sustained injuries       during such
+          incidents. In the weeks that followed, as the
+          names of more Black persons, like Breonna
+          Taylor,   became    synonymous   with   police
+          brutality and impunity, it poured fuel on the
+          collective fury against police departments and
+          ignited new rounds of protests.          These
+          demonstrations were often accompanied by calls
+          to reform, defund, and even abolish police
+          departments.
+
+Hussey, 720 F. Supp. 3d at 57 (footnotes omitted).             Given the
+
+contentiousness of this period, the Department's concern about its
+
+reputation within the community is easy to understand.                 This
+
+contentiousness   also   explains    why    the   Department   would    be
+
+especially   sensitive   to   a   comment   disparaging   George   Floyd,
+
+particularly one made by a long-term employee who frequently
+
+
+                                  - 25 -
+interacted with vulnerable community members.            See Grutzmacher v.
+
+Howard County, 851 F.3d 332, 346 (4th Cir. 2017) ("[T]he more the
+
+employee's job requires . . . public contact, the greater the
+
+[government's] interest in firing [the employee] for expression
+
+that offends [the] employer." (first alteration and omission in
+
+original) (quoting McEvoy v. Spencer, 124 F.3d 92, 103 (2d Cir.
+
+1997))).   Affording due deference to the Department, see Lalowski,
+
+789 F.3d at 792, we cannot say it was unreasonable to worry, as
+
+Bard testified, that "in the context of the national climate,"
+
+Hussey's   post   "tore   at   the   fabric   of   the    trust   that   [the
+
+Department] spent a long time building."7
+
+           To counter this broad context argument, Hussey claims
+
+that "nothing about the time, place, and manner of [his] speech
+
+had the potential to be disruptive" because he posted on his
+
+personal Facebook account, from his personal phone, while he was
+
+at home.    That claim is unpersuasive for several reasons.               For
+
+one, speech does not need to occur within the workplace during
+
+
+     7 Like the district court, we do not view the Department's
+consideration of the community's response to Hussey's post as
+permitting a "heckler's veto." See Hussey, 720 F. Supp. 3d at 58
+n.15; see also March v. Frey, 458 F. Supp. 3d 16, 34 (D. Me. 2020)
+("An unconstitutional 'heckler's veto' exists when the government
+allows or disallows protected speech based merely on the audience's
+reaction to its content."). Rather, because the Department depends
+on its positive relationship with the public to function
+effectively, the Department "may take into account the public's
+perception of [an] employee's expressive acts in determining
+whether those acts are disruptive to [its] operations." Locurto,
+447 F.3d at 179.
+
+
+                                 - 26 -
+working hours for a government employer to predict reasonably that
+
+it could disrupt the employer's provision of public services. See,
+
+e.g., Curran, 509 F.3d at 41, 47-50 (finding substantial risk of
+
+disruption where employee posted on union message board while
+
+suspended from employment); Locurto, 447 F.3d at 164-65, 182
+
+(determining employer's prediction of disruption was reasonable
+
+where employee's speech occurred outside of work during Labor Day
+
+parade).
+
+           Additionally, once speech is posted on the internet, the
+
+speaker has virtually no control over its distribution, creating
+
+the possibility that it will reach a far broader audience far more
+
+quickly than speech disseminated in other ways.     The facts here
+
+clearly indicate as much.      Even though Hussey posted on his
+
+personal Facebook page, and despite his intention to restrict his
+
+Facebook page to people whom he knew, the post was screenshotted
+
+within an hour and distributed outside his network of Facebook
+
+friends.   Far from being "private," Hussey's Facebook post had the
+
+reasonable potential to -- and, in fact, quickly did -- reach the
+
+broader public with whom the Cambridge Police Department sought to
+
+maintain a relationship of trust.8
+
+
+     8 Hussey's reliance on Rankin v. McPherson, 483 U.S. 378
+(1987), is misplaced.   In that case, the plaintiff, a clerical
+employee with no public-facing responsibilities, was terminated
+for a comment she "made in a private conversation with another
+employee."   Rankin, 483 U.S. at 389.     In concluding that the
+plaintiff's termination was unconstitutional, the Court noted that
+
+
+                              - 27 -
+          Hussey also asserts that the Department's prediction of
+
+impaired community relations was unreasonable because "there was
+
+no   evident   disruption"       during   the      pendency      of   the   PSU's
+
+investigation.     Our dissenting colleague accepts this assertion,
+
+arguing that, regardless of whether the Department's prediction of
+
+disruption was reasonable "at the time the Department learned of
+
+Hussey's comment," the absence of "actual disruption" during the
+
+PSU's approximately two-month investigation necessarily rendered
+
+the Department's prediction unreasonable by the time it suspended
+
+Hussey.
+
+          In   making     this   argument,      the    dissent    portrays     the
+
+Department's     "first   disciplinary      act"      of   placing    Hussey   on
+
+administrative leave as disconnected from the "second disciplinary
+
+action" of suspending Hussey.        That disconnect is a contrivance.
+
+Hussey's placement on leave and suspension were not unrelated.
+
+Rather, they were two steps in a disciplinary process triggered by
+
+a single event -- Hussey's post -- and the Department's concern
+
+
+there was no "danger that [the plaintiff] had discredited the
+office" because she spoke in an area where there was no risk the
+public would overhear her and that her employer "testified that
+the possibility of interference with the functions of the
+. . . office had not been a consideration in" the plaintiff's
+discharge.     Id.      In  contrast,   Hussey,   whose role   is
+quintessentially public-facing, posted a comment on his social
+media page to an immediate audience of almost 700 people, and the
+comment was quickly disseminated to the broader public. Moreover,
+Bard repeatedly testified that his decision to discipline Hussey
+was due to his concern that Hussey's post had the potential to
+harm the Department's public reputation.
+
+
+                                   - 28 -
+about a breach of public trust with tangible consequences in the
+
+post's aftermath.
+
+              Thus, in determining whether the Department's prediction
+
+of disruption was reasonable when it suspended Hussey, we cannot
+
+disregard the circumstances that existed when the Department first
+
+acted in response to the community representatives' concerns. That
+
+is,    the    reasonableness            of    the     Department's         prediction      of
+
+disruption cannot turn solely on whether its initial prediction
+
+materialized during the time it took the PSU to conduct its
+
+investigation.             To    hold   otherwise          would    be    to    require   the
+
+Department to show actual disruption to justify suspending Hussey.
+
+But,    as         we    have      explained          --     and     as        the   dissent
+
+acknowledges -- there is a broad consensus that the absence of
+
+actual disruption does not determine the permissibility of an
+
+employer's regulation of speech.                      See supra; see also, e.g.,
+
+Gillis,      845    F.3d    at    681-82,      687    (concluding         that   employer's
+
+prediction         of   disruption      was       reasonable       where   it    terminated
+
+employee for his speech two months after placing him on leave,
+
+notwithstanding that no actual disruption occurred during those
+
+months).
+
+              The       nonoccurrence        of    actual     disruption         during   the
+
+investigation, prior to the imposition of final discipline, is
+
+simply one factor to               consider as         part of the reasonableness
+
+inquiry.      Here, notably, the probative weight of the absence of
+
+
+                                             - 29 -
+actual disruption is diminished because of another factor relevant
+
+to the reasonableness analysis -- the plausible link between the
+
+period of calm while the PSU's investigation took place and the
+
+investigation itself.           As the Department argues, its "decisive
+
+action to avoid a loss of the public's trust" reasonably might
+
+have shown the community representatives and the public at large
+
+that their concerns were being taken seriously, thus tempering
+
+their response while the PSU investigated.                See Snipes v. Volusia
+
+County, 704 F. App'x 848, 852-53 (11th Cir. 2017) (holding in
+
+similar context that it was "reasonably possible" that defendant's
+
+"swift    action"      in    launching      an     investigation     that   led    to
+
+plaintiff's dismissal prevented actual disruption from occurring).
+
+Despite agreeing that "factual developments" taking place "prior
+
+to   a    public      employee's   discipline"         are    "relevant     to    the
+
+reasonableness of the employer's prediction of disruption," the
+
+dissent    ignores     the    impact   of    the    intervening      investigation,
+
+instead elevating one factual development above all others.                       This
+
+insistence that the absence of disruption during the investigative
+
+period is dispositive of the reasonableness inquiry is nothing
+
+more than an actual disruption requirement in a different guise.
+
+            Moreover,        accepting      the    argument   that    the   dissent
+
+advances would incentivize hasty, underinformed impositions of
+
+final discipline rather than the measured decision-making that the
+
+stakes    for   the    employer    and      employee    require.       Indeed,    our
+
+
+                                       - 30 -
+dissenting colleague seems to accept that there would be no First
+
+Amendment problem if the Department had suspended Hussey as soon
+
+as it learned of the community's concerns but insists that it
+
+became impermissible to impose that discipline by the conclusion
+
+of the PSU's full investigation solely because the community did
+
+not erupt while that investigation played out.                  That cannot be.
+
+An investigation such as the PSU's that may lead to the imposition
+
+of   discipline       against   a   public   servant   must   be   careful    and
+
+thorough, not rushed.           We will not undermine the Department's
+
+ability to investigate carefully by placing dispositive weight on
+
+a lack of disruption during that investigation in our consideration
+
+of the factors pertinent to the reasonable prediction inquiry.9
+
+                 In sum, considering how Hussey disseminated his speech,
+
+the broader context in which he spoke, and all other relevant
+
+factors, and deferring to the Department, as we must, we agree
+
+with       the   district   court   that   the   Department's    prediction    of
+
+disruption was reasonable.
+
+
+
+
+       The dissent characterizes us as "ignor[ing] the numerable
+       9
+
+non-disciplinary measures" that might have been available to the
+Department, such as "publicly disavowing Hussey's comment,"
+without explaining how the availability of such alternatives is
+remotely relevant to the reasonableness of the Department's
+prediction of disruption.       Our role is to evaluate the
+constitutionality of the choice the Department made, not decide
+whether the Department could have made a different choice.
+
+
+                                      - 31 -
+                  (c) Viewpoint Discrimination
+
+            Lastly, Hussey avers that while the Department claims to
+
+have suspended him out of concern for potential disruption to its
+
+relationship with the public -- a "weighty interest[] on [its]
+
+side of the Pickering scale," Mihos, 358 F.3d at 103 -- its true
+
+purpose was disagreement with the content of his speech, negating
+
+the   strength    of    the    Department's      interest     in     the    Pickering
+
+balancing   test.        See    id.    (explaining   that      if    employee    was
+
+terminated because government employer "disagreed with" employee's
+
+speech, employer "would have no legitimate governmental interests
+
+on [its] side of the scale").             At a minimum, Hussey says he has
+
+pointed to sufficient facts to raise a genuine dispute as to the
+
+Department's     purpose,      rendering    a    grant   of    summary       judgment
+
+inappropriate.
+
+            First,     Hussey     finds    it   relevant      that    the    initial
+
+complaint to Bard was made by a "well-connected" community member,
+
+i.e., an officer of the NAACP.             But Hussey's assertion that the
+
+involvement      of    the     NAACP   somehow     suggests        that    viewpoint
+
+discrimination was at play is precisely the sort of "unsupported
+
+speculation" that "we must ignore" when deciding a motion for
+
+summary judgment.       See Viscito, 34 F.4th at 83.            To the contrary,
+
+the fact that an NAACP officer and other community activists,
+
+including the former Cambridge mayor, complained to the Department
+
+about Hussey's post simply reinforces the reasonableness of the
+
+
+                                       - 32 -
+Department's conclusion that the post threatened its relationship
+
+with the public.    The community leaders' concern, without more, in
+
+no way shows that the Department responded to Hussey's comments
+
+differently from the way it would have treated any comments calling
+
+into question the Department's ability to interact with the public
+
+in a "bias-free manner."
+
+           Second, taking a more specific approach to his viewpoint
+
+discrimination claim, Hussey avers that the Department did not
+
+regulate other speech that could have implicated harmony and
+
+community trust, demonstrating that he was "singled out" based on
+
+the Department's disagreement with the content of his speech.          We
+
+agree with the district court, however, that the other instances
+
+Hussey cites do not raise a genuine dispute as to the Department's
+
+purpose here:
+
+  •   Hussey    claims   that   the   Department   did   not   discipline
+
+      Commissioner Elow for referring to drug users as "crackheads"
+
+      in July 2022.      But the few details in the record about this
+
+      comment indicate significantly different circumstances.        Most
+
+      importantly, Commissioner Elow apparently made the comment in
+
+      person only to Hussey, with no one else present.
+
+  •   Hussey points out that Bard could not recall whether he
+
+      initiated an investigation into a post on the Twitter page of
+
+      the Cambridge Police Patrol Officers Association suggesting
+
+      that a violent "purge" would result from a proposed police
+
+
+                                  - 33 -
+      reform bill.   However, Hussey has identified no evidence that
+
+      the Department had the authority to investigate activity by
+
+      the police union, a distinct entity.
+
+  •   Hussey asserts that he was treated less favorably than an
+
+      officer who used an expletive to refer to a congressman on
+
+      the Cambridge Police Department's official Twitter page.         But
+
+      the record shows that, in fact, the Department suspended that
+
+      officer for five days -- longer than Hussey's suspension.
+
+            Third, Hussey contends that he has raised a genuine
+
+dispute as to the Department's purpose for imposing discipline
+
+because the Department "made no inquiry into who was aware of the
+
+speech in question," and there is no evidence that the post
+
+"reach[ed] members of the community with substance abuse issues."10
+
+Even drawing all inferences in Hussey's favor, we do not see how
+
+those assertions reasonably call into question the Department's
+
+purpose in suspending him.        The record indisputably shows that
+
+multiple community members were aware of Hussey's speech and were
+
+concerned   that   it   evinced   bias   within   the   Cambridge   Police
+
+Department.    Hussey also offers no support for requiring the
+
+Department to show a threat to its relationship with the specific
+
+subset of the public implicated by his use of the pejorative
+
+
+
+       The dissent similarly asserts that "nothing in the record
+      10
+
+suggests that Hussey directed his speech at the 'career
+criminal[s],' 'thie[ves]' and 'druggie[s]' he referenced."
+
+
+                                  - 34 -
+"druggie" -- particularly when the overall thrust of his comments
+
+went well beyond the issue of substance abuse. Accordingly, Hussey
+
+has   failed    to   raise       a    genuine     dispute   of    fact    as   to    the
+
+Department's purpose for its disciplinary action.
+
+           3. Weighing the Interests
+
+           In sum, there are no genuine disputes of material fact
+
+that prevent us from reaching the following conclusions.                       First,
+
+while Hussey's and the public's First Amendment interests in
+
+Hussey's speech are significant, the speech's value was modestly
+
+diminished     due   to    its       "mocking,    derogatory,     and    disparaging"
+
+nature.    MacRae, 106 F.4th at 137.                   Second, the Department's
+
+prediction that Hussey's post could undermine its relationship of
+
+trust with the community was reasonable.                     Third, there is no
+
+evidence suggesting that the Department's decision to discipline
+
+him was driven by anything other than that reasonable prediction.
+
+Given   the    importance        of     that     trusting   relationship       to    the
+
+Department's public service mission, we hold that the Department's
+
+interest   outweighs       Hussey's       in    the   Pickering    balancing        test.
+
+Therefore, as explained above, our inquiry ends here.                     We affirm.
+
+      So ordered.
+
+
+
+                          –Dissenting Opinion Follows–
+
+
+
+
+                                         - 35 -
+            HOWARD, Circuit Judge, dissenting.          There can be no
+
+disputing that a police department's management has a powerful
+
+interest    in   maintaining   the    public's     confidence   that   the
+
+department serves without bias the entire community it is sworn to
+
+protect.    But a government agency is not free to discipline an
+
+employee for simply expressing a viewpoint with which the employer
+
+disagrees to friends outside of work.            Because Hussey's online
+
+comment merits no less than the maximum protection afforded by the
+
+First Amendment, and the record belies the reasonableness of his
+
+suspension, the Pickering balance tilts decidedly in his favor.          I
+
+would accordingly reverse the district court's grant of summary
+
+judgment.
+
+                                     I.
+
+            As my colleagues acknowledge, a public employee's speech
+
+generally receives the highest level of protection under the First
+
+Amendment when that speech addresses a matter of public concern
+
+such as, in this case, the text of pending legislation.                See
+
+Connick v. Myers, 461 U.S. 138, 145 (1983); see also Am. Postal
+
+Workers Union, AFL-CIO v. USPS, 830 F.2d 294, 305-07 (D.C. Cir.
+
+1987) (describing terminated public employee's published column
+
+criticizing "right to work" legislation as "l[ying] close to, if
+
+not at, the top of that spectrum" "of [F]irst [A]mendment values").
+
+This is especially true where, as here, the speaker's employment
+
+relates to the matter of public concern at hand, since the public
+
+
+                                - 36 -
+also   has   an   interest     in   hearing    a   perspective   informed   by
+
+professional expertise.        Pickering v. Bd. of Educ., 391 U.S. 563,
+
+571-72 (1968) (describing as "essential" a teacher's ability to
+
+"speak out freely" on "how funds allotted to the operations of the
+
+schools should be spent" given that teachers are "the members of
+
+a community most likely to have informed and definite opinions" on
+
+such matters); Waters v. Churchill, 511 U.S. 661, 674 (1994)
+
+("Government employees are often in the best position to know what
+
+ails the agencies for which they work; public debate may gain much
+
+from their informed opinions.").          I thus follow a different path
+
+than my colleagues because I disagree with their extension here of
+
+a tenuous rule, seldom applied in our circuit or elsewhere, to
+
+devalue Hussey's and the public's interest in his speech on the
+
+ground that the view he expressed was substantively "insulting"
+
+and "disparaging."
+
+             Occasions on which we have applied a "vulgarity penalty"
+
+to diminish a public employee's interest in the Pickering balance
+
+are tellingly scarce among our cases.               We first borrowed this
+
+concept from the Eleventh Circuit in dicta, noting in Jordan v.
+
+Carter that "when public-employee expression is done in a '"vulgar,
+
+insulting,    and   defiant"    manner' . . . it      is   entitled   to   less
+
+weight in the Pickering balance."             428 F.3d 67, 73-74 (1st Cir.
+
+2005) (quoting Stanley v. City of Dalton, 219 F.3d 1280, 1290 (11th
+
+
+
+
+                                     - 37 -
+Cir. 2000)).11   Still, we acknowledged in that case that we lacked
+
+sufficient "particulars relevant to both sides of the balance" to
+
+"definitively resolve the constitutional question."   Id. at 74.
+
+          Since then, we have applied this penalty in only two
+
+cases: Curran v. Cousins, 509 F.3d 36 (1st Cir. 2007), and MacRae
+
+v. Mattos, 106 F.4th 122 (1st Cir. 2024), cert. denied, 606
+
+U.S. __, 2025 WL 1787664 (June 30, 2025).    In the first, Curran,
+
+
+
+     11 In so doing, we diverged from the approach in many other
+circuits, where the vulgar character of contested speech is instead
+considered on the employer's side of the Pickering scales. See
+Locurto v. Giuliani, 447 F.3d 159, 180-81 (2d Cir. 2006)
+(considering whether "the content of racist speech" motivated "the
+City's assessment of the incident's disruptive effects"); Fenico
+v. City of Philadelphia, 70 F.4th 151, 165 (3d Cir. 2023) ("[T]he
+'inappropriate or controversial nature' of the speech . . . is
+only a factor in evaluating its disruptiveness during Pickering
+balancing." (quoting Munroe v. Cent. Bucks Sch. Dist., 805 F.3d
+454, 470 (3d Cir. 2015)); Hardy v. Jefferson Comm. Coll., 260 F.3d
+671, 680-82 (6th Cir. 2001) (dismissing as "totally unpersuasive"
+the argument that "because . . . speech was 'sexist and racially
+derogatory,' it warranted no constitutional protection" and
+instead addressing speech's character in analysis of potential
+disruption); Cochran v. City of Los Angeles, 222 F.3d 1195, 1201
+(9th Cir. 2000) (reasoning that because "the nature of the speech
+was conducive to racial and gender tension," "[t]he City had a
+significant interest in responding"); Craven v. Univ. of Colo.
+Hosp. Auth., 260 F.3d 1218, 1229 (10th Cir. 2001) (concluding that
+"the manner in which [the plaintiff] expressed herself to others"
+bolstered the employer's interest).      Although it might seem a
+distinction without a difference, evaluating the vulgarity of an
+employee's speech in light of the employer's interest produces a
+more context-dependent inquiry, as the vulgarity's significance in
+the inquiry is thereby limited to its actual effect on the
+potential for workplace disruption. See Hardy, 260 F.3d at 681.
+Thus, in these circuits, the vulgarity of the speech at issue does
+not diminish an employee's interest per se but instead only comes
+into play if the employer advances a reasonable theory under which
+it predicts that the vulgarity will be disruptive.
+
+
+                               - 38 -
+we considered a series of statements by a disgruntled corrections
+
+officer to his coworkers.        509 F.3d at 39-43.          His "threatening
+
+and menacing" statements included: implying to a supervisor that
+
+enforcement of a department "sick-call policy" was akin to Nazi
+
+war   crimes    during   World   War    II;    explicitly    threatening   that
+
+"captains and deputies are gonna get shot" when a supervisor
+
+inquired about his use of sick time; and writing two extensive
+
+posts on an online discussion board for union members in which he
+
+analogized supervisors to Adolf Hitler and Nazi officials "that
+
+pushed the Jews in" and advocated that other officers "[a]ct
+
+brutally" and "plot against" the sheriff like German officials did
+
+to Hitler because "[d]eath [comes] before dishonor." Id. at 40-42.
+
+In concluding that this "intemperate and extreme language" was
+
+"entitled to less weight" because it was "vulgar, insulting, and
+
+defiant," we noted that "[i]t [was] difficult to find any First
+
+Amendment value to the citizenry" therein.             Id. at 49 (emphasis
+
+added).   Seventeen years later, we revived this penalty for the
+
+second time in MacRae, in which we concluded that a series of
+
+online posts merited diminished weight in the Pickering balance in
+
+part because the plaintiff conceded that the posts were "derogatory
+
+towards transgender people."           106 F.4th at 137.
+
+           By    comparison,     it    stretches    reason    to   affix   this
+
+"vulgarity penalty" to Hussey's Facebook post given the factual
+
+gulf between those two cases and this one.                   As a preliminary
+
+
+                                      - 39 -
+matter, one need only skim Curran and MacRae to observe the
+
+material differences between those plaintiffs' speech and Hussey's
+
+one-sentence post.      For one, both Curran and MacRae involved
+
+torrents of vitriol dispensed over an extended period: multiple
+
+oral statements and online writings over a fourteen-month period
+
+in Curran, see 509 F.3d at 40-43, and seven TikTok posts over the
+
+course of a year in MacRae, see 106 F.4th at 127-28.            Hussey, by
+
+contrast, only wrote one comment that he deleted "after a couple
+
+of hours."     Similarly, Hussey's post is unlike the plaintiffs'
+
+statements in Curran and MacRae in that the targeted audience of
+
+his speech was not, by all accounts, the group purportedly insulted
+
+by it.   In Curran, the plaintiff expressly threatened to have his
+
+supervisors "shot" to their faces and likened them to Nazis in
+
+conversation   before   advocating      their   violent    demise   to   his
+
+coworkers by metaphor.    509 F.3d at 40.       Likewise, in MacRae, the
+
+plaintiff's transphobic TikTok posts were part-and-parcel of her
+
+inherently public election campaign for her local school board,
+
+which she staked in part on her desire to reform the school
+
+district's treatment of transgender students.             See 106 F.4th at
+
+128.   On the other hand, nothing in the record suggests that Hussey
+
+directed his speech at the "career criminal[s]," "thie[ves]," and
+
+"druggie[s]"   he   referenced;    if   anything,   he     sought   (albeit
+
+unsuccessfully) to limit its reach to his restricted group of
+
+Facebook "friends" and perhaps, at least abstractly, for it to
+
+
+                                  - 40 -
+influence legislative behavior.             And quite unlike Curran and
+
+MacRae,   Hussey    did    not   expressly      or    impliedly     advocate        any
+
+meaningful   harm     to   the   audience      of    his   post   nor    the   group
+
+purportedly insulted by it.           Instead, he merely sought to change
+
+the name (but not, notably, the substance) of pending legislation.
+
+            We can set aside the poor fit of the "vulgarity penalty"
+
+to these facts, however, because the majority's preliminary error
+
+in applying it here is its antecedent assumption that the terms
+
+"career criminal," "thief," and "druggie" are so offensive that
+
+their use -- in this context or otherwise -- could ever merit the
+
+penalty's application.       See Slip. Op. at 18.           In our prior cases,
+
+speech deemed so "vulgar, insulting, and defiant" that it lost
+
+protection was of the kind subject to widespread, near-universal
+
+social consensus of its contemptibility.               See Curran, 509 F.3d at
+
+41 (threatening violence amid comparisons to Nazism); MacRae, 106
+
+F.4th at 128 (targeting schoolchildren).               Indeed, other circuits
+
+that apply similar standards only unweight the speaker's interest
+
+when the language at issue is of the kind incontrovertibly reviled
+
+in modern society. See, e.g., Bennett v. Metro. Gov't of Nashville
+
+& Davidson Cnty., 977 F.3d 530, 543 (6th Cir. 2020) (noting how
+
+"centuries of history . . . make the use of the [n-word] more than
+
+just 'a single word'"); Hernandez v. City of Phoenix, 43 F.4th
+
+966, 978 (9th Cir. 2022) (suggesting that "[s]peech that expresses
+
+hostility    toward    racial    or    religious       minorities       may    be    of
+
+
+                                      - 41 -
+particularly     low     First    Amendment       value      [in]    the      Pickering
+
+balancing test").        But see Hardy v. Jefferson Comm. Coll., 260
+
+F.3d 671, 678-82 (6th Cir. 2001) (holding that even professor's
+
+use   of   "racially     vulgar       words"   such    as   the     "N-word"     during
+
+"in-class discussion of 'socially controversial words'" receives
+
+"paramount" "constitutional protection" (third quoting Bonnell v.
+
+Lorenzo, 241 F.3d 800, 823 (6th Cir. 2001)).
+
+            By contrast, the record in this case supplies no credible
+
+basis on which to conclude, without more, that Hussey's chosen
+
+terminology is widely accepted to meet the same level of vulgarity
+
+as an insidious moniker like the n-word.                         In fact, the only
+
+authority advanced in this case to support that conclusion was an
+
+assertion by the Commissioner -- the government defendant -- that
+
+he considered "druggie" to be "a derogatory term."                    At no point in
+
+the course of Hussey's discipline or this litigation, however, has
+
+the Department ever identified any authority besides itself that
+
+characterizes Hussey's language as materially offensive such that
+
+it might suffer diminished protection under the First Amendment.
+
+            The consequence of relying on such thin support to
+
+condemn     a    public     employee's           manner      of     expression        is
+
+self-explanatory in this case: my colleagues have simply reached
+
+an unsupported result.           Less obvious, but more troubling, is the
+
+precedent    that   we    set    by    uncritically        accepting     a    defendant
+
+employer's      self-serving       assurances         as    to    what       speech   is
+
+
+                                        - 42 -
+"offensive" or otherwise deserving of our "vulgarity penalty."                      By
+
+the majority's reasoning, no public employee will ever be able to
+
+demonstrate maximal interest in his or her speech, so long as the
+
+defendant employer asserts -- apparently on no other authority
+
+than its own declaration as much -- that it or another group
+
+considers the speech offensive.
+
+             Indeed, now, what was a narrowly circumscribed rule has
+
+transformed       into   a   free      pass    for    governments    to   police   the
+
+viewpoints     expressed          by   their    employees     simply      by   deeming
+
+"derogatory"       or    "disparaging"          the    vocabulary     essential     to
+
+expressing certain disfavored opinions and thus subjecting those
+
+opinions to only qualified protection under the First Amendment.
+
+Slip   Op.   at    18.       My    colleagues     openly    embrace    this    result,
+
+emphasizing       that   the       principal     reason    that     Hussey's    speech
+
+deserves less protection is that "in context" his "message as a
+
+whole" cast aspersions on "both George Floyd and those who rallied
+
+in response to the horrific circumstances of his death."                       Slip Op.
+
+at 17-18.    Thus the majority opinion, as I read it, goes so far as
+
+to suggest that any expression of the view that pending legislation
+
+should not be named after Floyd would not merit full protection so
+
+long as it criticized the legislation's namesake.                    That is to say,
+
+Hussey's views apparently deserve less protection not because of
+
+the terminology with which he expressed them, but because my
+
+colleagues disagree.              Such textbook viewpoint discrimination is
+
+
+                                         - 43 -
+well outside the Eleventh Circuit-borne vulgarity standard we
+
+adopted in Jordan, 428 F.3d at 74, which asks only whether the
+
+"nature of his words," rather than the substantive message they
+
+convey, implicates the viewpoint-neutral "manner, time, and place"
+
+of his speech on which Connick trains our attention.   Dartland v.
+
+Metro. Dade Cnty., 866 F.2d 1321, 1324 (11th Cir. 1989) (second
+
+quoting Connick, 461 U.S. at 152); see also MacRae, 2025 WL
+
+1787664, at *2 (Thomas, J., concurring in denial of certiorari)
+
+("It undermines core First Amendment values to allow a government
+
+employer to adopt an institutional viewpoint on the issues of the
+
+day and then, when faced with a dissenting employee, portray this
+
+disagreement as evidence of disruption.").
+
+          And on that point -- the manner, time, and place in which
+
+Hussey expressed his views -- my colleagues fault him for doing so
+
+contemporaneously with   ongoing public discourse about Floyd's
+
+death, apparently suggesting that Hussey's comment would somehow
+
+earn greater protection as the debate settled with time.   But such
+
+a directive obscures the very purpose of the Supreme Court's
+
+framework for analyzing public employees' speech rights, which
+
+strives to ensure that public employees "face only those speech
+
+restrictions that are necessary," Garcetti v. Ceballos, 547 U.S.
+
+410, 419 (2006), and that "citizens are not deprived of fundamental
+
+rights by virtue of working for the government," Connick, 461 U.S.
+
+at 147.   Like waiting to warn a patient of a drug's side effects
+
+
+                              - 44 -
+until after the patient has already taken the drug, the majority
+
+asks public employees to abstain from commenting on matters of
+
+public concern until those matters are no longer of concern to the
+
+public.
+
+          In our time, when questions of permissible terminology
+
+are at the fore of public debate, we should be hesitant to limit
+
+the protection afforded a public employee's speech based only on
+
+an employer's self-serving appraisal of his terminology, lest we
+
+allow the government to censor all but its preferred side of that
+
+debate.   In my estimation, that is precisely what happened here,
+
+and setting aside the Department's disagreement with his views,
+
+Hussey's online comment was nowhere near so vulgar as to merit any
+
+less than the maximum weight afforded in the Pickering balance.
+
+                                  II.
+
+          As for the Department's interest in restricting Hussey's
+
+speech, I agree that it need not show that Hussey's post provoked
+
+actual disruption to its operations; rather, the Department only
+
+need show a "reasonable prediction of disruption."            MacRae, 106
+
+F.4th at 138.   And I also agree that the Department could ground
+
+its predictions of disruption in the effect Hussey's speech was
+
+likely to have on the Department's external relationships and
+
+activities.     See   Connick,   461   U.S.   at   150   (requiring   "full
+
+consideration of the government's interest in the effective and
+
+efficient fulfillment of its responsibilities to the public");
+
+
+                                 - 45 -
+Decotiis    v.    Whittemore,    635    F.3d    22,   35-36    (1st      Cir.   2011)
+
+(accepting public employer's argument concerning the "risk of
+
+disruption and efficiency" based on its interest in "its ability
+
+to   effectively       communicate    with   the   vulnerable      population        it
+
+serves").    Where I part ways with my colleagues on this score is
+
+on whether the Department's prediction of disruption here, taking
+
+stock of the full record, was reasonable by the time Hussey was
+
+suspended without pay in May 2021.              In my view, it was not.
+
+            Briefly summarized, the disruption predicted by the
+
+Department distills to its worry that Hussey's harsh criticism of
+
+Floyd amidst widespread public outcry about Floyd's death would
+
+undermine    the       Department's    relationships     with      the    Cambridge
+
+community writ large and drug users therein.                  And affording the
+
+Department       the   "heightened"     deference     owed    to   it     as    a   law
+
+enforcement agency, see Jordan, 428 F.3d at 74 (quoting Moore v.
+
+Wynnewood, 57 F.3d 924, 934 (10th Cir. 1995)), this prediction of
+
+ensuing mistrust could very well have been reasonable at the time
+
+the Department learned of Hussey's comment in February 2021 and
+
+first placed him on administrative leave.12
+
+
+
+
+       But see Moser v. L.V. Metro. Police Dep't, 984 F.3d 900,
+      12
+
+910 (9th Cir. 2021) (finding employer's prediction unreasonable
+because "the record show[ed] no evidence that anyone other than
+the . . . tipster even saw [the employee]'s Facebook comment" and
+"the chance that the public would have seen the Facebook comment
+remained low" because the employee later deleted the comment).
+
+
+                                       - 46 -
+          The   reasonableness    of      the    Department's    prediction
+
+dissipated, however, by the time the Department again disciplined
+
+Hussey in May, more than two months after he published and deleted
+
+his Facebook post.    By then, many weeks after a few community
+
+members learned of his comment, the Department concedes that it
+
+had nonetheless "successfully avoided widespread media publicity
+
+and a loss of public trust due to [Hussey's] post."                  In other
+
+words, by the time the Department suspended Hussey without pay, it
+
+already knew that its worries of impaired community relationships
+
+had not, in the end, materialized.              As public interest in an
+
+episode such as this one typically declines with time, this
+
+admission fatally belies any reasonableness in the Department's
+
+supposed prediction that yet-unaffected community relationships
+
+were still nonetheless at risk of rupturing.             More accurately, by
+
+May, the Department's "prediction" had morphed from a prospective,
+
+experience-informed   judgment    call     into     an    unlikely    pretext
+
+affirmatively disproven by its experiences to date.             And while we
+
+defer to a law enforcement agency's "reasonable prediction of
+
+disruption," MacRae, 106 F.4th at 138 (emphasis added), that
+
+deference does not require us to blind ourselves to a record that
+
+exclusively contradicts the basis for that prediction.
+
+          Accounting for such contradiction in the record does not
+
+impose an actual-disruption standard on public employers.             Indeed,
+
+with respect to the Department's first disciplinary act -- placing
+
+
+                                 - 47 -
+Hussey on administrative leave in February -- any subsequent lack
+
+of disruption is irrelevant to our analysis of the Department's
+
+prediction of disruption at that time, even if it later learned
+
+that its prediction was wrong.            But, once the Department had the
+
+opportunity to observe over multiple months that these preliminary
+
+fears did not come to pass (or had already been sufficiently
+
+ameliorated by its preemptive disciplinary step), it was incumbent
+
+on the Department to account for that development in considering
+
+its   second    disciplinary    act    against     Hussey -- suspending        him
+
+without pay -- in May.         See Davignon v. Hodgson, 524 F.3d 91,
+
+104-05 (1st Cir. 2008) (reasoning that sheriff's "concerns about
+
+potential disruption" did not "have substance" because record
+
+evidence contradicted the concerns); cf. MacRae, 106 F.4th at
+
+137-38 & n.16 (noting that "there was little opportunity . . . for
+
+actual disruption to have occurred" before the plaintiff was
+
+disciplined three days after her speech was publicized).                  By all
+
+accounts, it did not.     I thus cannot conclude that any prediction
+
+of further disruption by the Department at that time was reasonable
+
+as the First Amendment requires when, to reach it, the Department
+
+evidently ignored its still-intact public trust and unimpaired
+
+community relationships.
+
+           My    colleagues    do   not    meaningfully     contend     with   the
+
+effect of this two-month window on the reasonableness of the
+
+Department's     prediction,    instead        suggesting   that   we    are   to
+
+
+                                      - 48 -
+consider only the facts extant when the Department initiated its
+
+investigation        and        somehow   ignore     any    that     arose   as     the
+
+investigation unfolded.             The law supplies no foundation for this
+
+self-imposed limitation.             We often consider factual developments
+
+that arise prior to a public employee's discipline to be relevant
+
+to the reasonableness of the employer's prediction of disruption,
+
+even     if    the    developments        occur     contemporaneously        with     an
+
+investigation.         See, e.g., Davignon, 524 F.3d at 103 (requiring
+
+employer to "engage in further investigation" because he "had
+
+strong      evidence      indicating      the      plaintiffs'     speech    was    not
+
+disruptive" that he did not consider); see also Waters, 511 U.S.
+
+at 677-78 (calling for consideration of employer's investigatory
+
+"procedures" because "it may be unreasonable for an employer to
+
+act based on extremely weak evidence when strong evidence is
+
+clearly available").               To hold otherwise contradicts the very
+
+purpose       of   such    an    investigation      and    implies   that    we     must
+
+uncritically accept as gospel the government's conclusions, even
+
+when faced with a wholly contradictory record.                          Rather than
+
+discourage "hasty" decision-making as the majority maintains,13 see
+
+
+
+        Separately, the majority seemingly contradicts itself on
+       13
+
+this point, both endorsing the Department's "swift" and "decisive"
+action by placing Hussey on administrative leave while also
+denouncing the "hasty" decision-making that might result from
+fulsome consideration of events (or lack thereof) that occurred
+contemporaneously with the Department's investigation. Slip Op.
+at 30-31. In any event, acknowledging the reasonableness of the
+Department's initial placement of Hussey on administrative leave
+
+
+                                          - 49 -
+Slip Op. at 31, such willing ignorance will incentivize savvy
+
+public employers to manipulate the timing, scope, and conclusions
+
+of such investigations to present an incomplete picture of what
+
+they learned about the likelihood of disruption as an investigation
+
+unfolded, secure in the knowledge that we have promised to close
+
+our eyes to any contrary developments during the pendency of that
+
+investigation.
+
+                                    III.
+
+              As is commonplace in the era of social media, Hussey
+
+expressed a view online that may very well have fared poorly in
+
+the   court    of   public   opinion     and   that   even   he   attests,    in
+
+retrospect, that he wishes he had phrased differently.               Even so,
+
+"the First Amendment does not permit one side of a debate to use
+
+the   government     to   cancel   the    other   side.      It   allows     all
+
+perspectives, even the very offensive, to be heard."                 Noble v.
+
+Cincinnati & Hamilton Cnty. Pub. Libr., 112 F.4th 373, 383 (6th
+
+Cir. 2024).
+
+
+
+(before it had the benefit of knowing more than a couple of
+community members' reactions to his post) but not the
+reasonableness of its later suspension of him (after the agency
+observed that few others agreed with those community members or
+were at least satisfied with the measures already taken by the
+Department) mollifies both concerns.    Moreover, in fretting the
+haste with which employers might discipline employees, my
+colleagues ignore the numerable non-disciplinary measures that the
+Department could have alternatively pursued to address its
+interests in this case, such as publicly disavowing Hussey's
+comment.
+
+
+                                   - 50 -
+           Hussey's expression of one such unpopular perspective on
+
+legislation pending before his elected representatives is of the
+
+kind quintessentially draped with the utmost protection by the
+
+First Amendment.   Especially as the Department's justification for
+
+punishing him for that speech was demonstrably unreasonable, the
+
+Pickering balance tilts decisively in his favor -- a result that
+
+the appropriate analysis on even just one side of the scales would
+
+produce.
+
+           I respectfully dissent.
+
+
+
+
+                               - 51 -

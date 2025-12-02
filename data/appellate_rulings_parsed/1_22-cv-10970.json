@@ -1,0 +1,33 @@
+{
+  "overall_outcome": "REVERSE",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the doctrine of consular nonreviewability bars judicial review of a challenge to the reclassification of a visa petition (as opposed to a visa denial).",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "The court held that consular nonreviewability does not bar review of a challenge to the reclassification of a visa petition, as the complaint did not allege a visa denial but rather an erroneous reclassification, which is subject to judicial review."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the Child Status Protection Act (CSPA) requires that the beneficiary's statutory age, as calculated under 8 U.S.C. \u00a7 1153(h)(1), be used to determine eligibility for conversion to 'immediate relative' status upon the parent's naturalization.",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "The court concluded that the CSPA's age calculation formula applies to F2A beneficiaries whose parents naturalize, so the statutory age (not biological age) controls; thus, the reclassification to the F1 category was unlawful."
+    }
+  ],
+  "key_precedents": [
+    "Dep't of State v. Mu\u00f1oz, 602 U.S. 899 (2024)",
+    "Cuthill v. Blinken, 990 F.3d 272 (2d Cir. 2021)",
+    "Tovar v. Sessions, 882 F.3d 895 (9th Cir. 2018)",
+    "Scialabba v. Cuellar de Osorio, 573 U.S. 41 (2014)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "In this appeal, we confront a challenge to a judgment of dismissal in a suit against the U.S. Secretary of State and the Consul General of the U.S. Consulate in Rio de Janeiro, Brazil. It was brought in the United States District Court for the District of Massachusetts. The plaintiffs are a naturalized U.S. citizen and his noncitizen son. They are challenging the reclassification of the parent's petition for a visa on behalf of his son. They allege that this reclassification has unlawfully delayed the visa process in their case.\n\nThe merits of the claims hinge on whether the son, despite turning 21 years old during the visa process, must be treated as under \"21 years of age\" and, therefore, a \"child\" for purposes of the visa petition classification under the Child Status Protection Act (CSPA), Pub. L. No. 107-208, 116 Stat. 927 (2002). If so, then the reclassification of the visa petition would be unlawful, with the consequence that the son would be entitled to a much speedier resolution of whether he is entitled to a visa than if the reclassification were to remain in place.\n\nThe District Court did not address whether the reclassification was lawful because it dismissed the complaint under the doctrine of consular nonreviewability. We first conclude that the District Court erred in doing so, at least given the arguments that the appellees have advanced, both below and to our Court, for concluding that the doctrine applies. We then address whether, as the plaintiffs allege, the reclassification of the visa petition is unlawful. We conclude that it is. We thus reverse the claims' dismissal and remand for further consideration consistent with this decision."
+}

@@ -1,0 +1,33 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court erred in dismissing the False Claims Act (FCA) complaint for failure to plead fraud with particularity under Rule 9(b), including failure to adequately allege but-for causation for Anti-Kickback Statute (AKS)-based FCA claims.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that the amended complaint failed to plausibly allege but-for causation between the alleged kickbacks and the submission of false claims, as required by recent circuit precedent, and did not plead with sufficient particularity the connection between false records/statements and government payment."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the district court abused its discretion in denying Flanagan's motion for leave to amend the complaint after dismissal.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found no abuse of discretion because Flanagan waited nearly two years after being on notice of the complaint's deficiencies and only sought to amend after dismissal, constituting undue delay."
+    }
+  ],
+  "key_precedents": [
+    "United States v. Regeneron Pharms., Inc., 128 F.4th 324 (1st Cir. 2025)",
+    "United States ex rel. Karvelas v. Melrose-Wakefield Hosp., 360 F.3d 220 (1st Cir. 2004)",
+    "Comcast Corp. v. Nat'l Ass'n of Afr. Am.-Owned Media, 589 U.S. 327 (2020)",
+    "Kader v. Sarepta Therapeutics, Inc., 887 F.3d 48 (1st Cir. 2018)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "Martin Flanagan brought this qui tam suit against Fresenius Medical Care Holdings, Inc. (\"Fresenius\"), under the False Claims Act (\"FCA\"), 31 U.S.C. \u00a7 3729, alleging a fraudulent kickback scheme related to referrals to Fresenius-operated dialysis clinics. The district court dismissed Flanagan's complaint for failing to meet the heightened pleading standard under Rule 9(b) of the Federal Rules of Civil Procedure, among other reasons. When Flanagan then sought leave to amend his complaint, the district court also denied that motion. Flanagan now appeals these decisions, arguing that the complaint satisfied the heightened pleading standard necessary to assert fraud claims and that the district court abused its discretion in denying his motion for leave to amend. For the reasons that follow, we affirm both decisions of the district court."
+}

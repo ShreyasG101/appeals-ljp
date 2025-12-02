@@ -1,0 +1,41 @@
+{
+  "overall_outcome": "REVERSE",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether summary judgment was properly granted to Defendants on Dr. Byrnes's Title VII retaliation claim based on his termination.",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "The court found that a reasonable jury could conclude Dr. Byrnes established a prima facie case of retaliation and pretext under the McDonnell Douglas framework, particularly given evidence of an unfair investigation and temporal proximity between protected activity and termination."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether summary judgment was properly granted to Defendants on Dr. Byrnes's Title VII retaliation claim based on Defendants' reporting of his cases to the Kansas Board of Healing Arts (KBHA).",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "The court held that Dr. Byrnes presented sufficient evidence of causation and pretext, including disparate treatment compared to similarly situated doctors and reporting a non-mandatory case, to survive summary judgment."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the district court properly declined to exercise supplemental jurisdiction over Dr. Byrnes's state law claims after dismissing his federal claims.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "REMAND",
+      "key_reasoning": "Because the federal claims are reinstated, the court remanded for the district court to reconsider whether to exercise supplemental jurisdiction over the state law claims."
+    }
+  ],
+  "key_precedents": [
+    "McDonnell Douglas Corp. v. Green, 411 U.S. 792 (1973)",
+    "Sellman v. Aviation Training Consulting, No. 23-6138, --- F.4th ---, 2025 WL 2957951 (10th Cir. Oct. 21, 2025)",
+    "Thomas v. Berry Plastics Corp., 803 F.3d 510 (10th Cir. 2015)",
+    "Smothers v. Solvay Chems., Inc., 740 F.3d 530 (10th Cir. 2014)",
+    "Bekkem v. Wilkie, 915 F.3d 1258 (10th Cir. 2019)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "Dr. Matthew Byrnes brought retaliation claims under Title VII of the Civil Rights Act of 1964 against his former joint employers\u2014St. Catherine Hospital (\u201cSCH\u201d) and Centura Health Corporation (\u201cCentura\u201d) (collectively, \u201cDefendants\u201d)\u2014for firing him and later reporting him to the Kansas medical licensing board. He alleged Defendants retaliated because he reported that another doctor working at SCH was sexually harassing nurses.\n\nThe district court granted summary judgment to Defendants on Dr. Byrnes\u2019s federal claims and declined to exercise supplemental jurisdiction over his related state law claims. Exercising jurisdiction under 28 U.S.C. \u00a7 1291, we reverse and remand.\n\n                                   I. BACKGROUND\n\n       We provide a brief factual summary and procedural history here and later discuss additional details as relevant to the issues on appeal.\n\n                       A. Key Participants and Factual Summary 1\n\n       Centura is a not-for-profit corporation headquartered in Colorado. It operates a regional healthcare network. SCH, located in Garden City, Kansas, is a Centura member hospital. Centura manages the clinical practices of SCH, including personnel matters.\n\n       Dr. Byrnes is a medical doctor licensed to practice medicine in Kansas by the Kansas Board of Healing Arts (\u201cKBHA\u201d). He worked as a general surgeon and intensivist at SCH from 2012 until February 12, 2020. He also served as SCH\u2019s Chief Medical Officer (\u201cCMO\u201d) from 2013 to June 2019. Centura and SCH jointly employed Dr. Byrnes.\n\n       Many individuals were involved in this case. The following played significant roles:\n\n       \u2022 Dr. William Freund, President of SCH\u2019s Medical Executive Committee (\u201cMEC\u201d)\n\n       \u2022 Dr. Bryan Stucky, MEC Vice President and later President\n\n       \u2022 Dr. Toni Green-Cheatwood, Centura Colorado Kansas Group (\u201cCKG\u201d) Vice President and Physician Executive\n\n       \u2022 Peter Sabey, Centura General Counsel\n\n       \u2022 Dr. Scott Lichtenberger, Centura President\n\n       \u2022 Tom Gessel, CKG Group President\n\n       \u2022 Scott Taylor, SCH Chief Executive Officer (\u201cCEO\u201d)\n\n       \u2022 Nancy Killion, Centura Director of Quality\n\n       On August 31, 2019, Dr. Byrnes reported Dr. Kurt Kessler, a doctor working at SCH, for sexual harassment. Dr. Freund investigated. Dr. Freund, Dr. Stucky, and Dr. Green-Cheatwood informed Dr. Byrnes that his allegations lacked merit.\n\n       After receiving a subpoena from the KBHA about a complaint filed against Dr. Byrnes, Dr. Green-Cheatwood and Mr. Sabey conducted an internal investigation. They interviewed various doctors, but not Dr. Byrnes or any nurses. They reported their investigation results and Dr. Green-Cheatwood recommended firing Dr. Byrnes to Dr. Lichtenberger and Mr. Gessel, who jointly decided to fire Dr. Byrnes.\n\n       After firing Dr. Byrnes, SCH referred some of Dr. Byrnes\u2019s cases to an outside peer review committee at Centura\u2019s St. Anthony\u2019s Hospital in Colorado, which reviewed and scored Dr. Byrnes\u2019s cases. Defendants reviewed St. Anthony\u2019s findings and reported four of Dr. Byrnes\u2019s cases to the KBHA for possible disciplinary action.\n\n                                   B. Procedural History\n\n       Dr. Byrnes\u2019s Title VII claims alleged that Defendants (1) fired and (2) unfairly reviewed and reported four of his cases to the KBHA in retaliation for the sexual harassment complaint. 2 He also brought state law claims.\n\n       Defendants moved for summary judgment. The district court found Dr. Byrnes could not meet his burden on either Title VII retaliation claim and granted summary judgment to Defendants. It also declined to exercise supplemental jurisdiction over his state law claims.\n\n       Dr. Byrnes timely appealed."
+}

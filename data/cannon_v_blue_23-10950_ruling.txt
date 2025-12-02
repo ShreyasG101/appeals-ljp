@@ -1,0 +1,405 @@
+UNITED STATES DISTRICT COURT                            
+              DISTRICT OF MASSACHUSETTS                              
+__________________________________________                                
+                              )                                      
+                              )                                      
+SCOTT CANNON, individually and as the  )                                  
+personal representative of the estate of     )                            
+Blaise Cannon,                     )                                      
+                              )                                      
+          Plaintiff,          )                                      
+                              )                                      
+     v.                       )                                      
+                              )    Case No. 23-cv-10950-DJC          
+                              )                                      
+BLUE CROSS AND BLUE SHIELD OF      )                                      
+MASSACHUSETTS, INC.,               )                                      
+                              )                                      
+          Defendant.          )                                      
+                              )                                      
+                              )                                      
+__________________________________________)                               
+
+               MEMORANDUM AND ORDER                                  
+
+CASPER, J.                                           August 22, 2024      
+
+I.   Introduction                                                         
+
+Plaintiff Scott Cannon (“Cannon”), individually and as the personal representative of the 
+estate of Blaise Cannon (“Blaise”), has filed this lawsuit against Defendant Blue Cross and Blue 
+Shield of Massachusetts, Inc. (“BCBS”) alleging various state law claims arising from BCBS’s 
+denial of health benefits.  D. 1-1.  Defendant has moved for summary judgment.  D. 35.  For the 
+reasons stated below, the Court ALLOWS the motion.                        
+II.  Standard of Review                                                   
+The Court grants summary judgment where there is no genuine dispute as to any material 
+fact and the undisputed facts demonstrate that the moving party is entitled to judgment as a matter 
+of law.  Fed. R. Civ. P. 56(a).  “A fact is material if it carries with it the potential to affect the 
+outcome of the suit under applicable law.”  Santiago-Ramos v. Centennial P.R. Wireless Corp., 
+217 F.3d 46, 52 (1st Cir. 2000).  The movant bears the burden of demonstrating the absence of a 
+genuine issue of material fact.  Carmona v. Toledo, 215 F.3d 124, 132 (1st Cir. 2000); see Celotex 
+v. Catrett, 477 U.S. 317, 323 (1986).  If the movant meets its burden, the non-moving party may 
+not rest on the allegations or denials in its pleadings, Anderson v. Liberty Lobby, Inc., 477 U.S. 
+242, 256 (1986), but must come forward with specific admissible facts showing that there is a 
+
+genuine issue for trial,  see Borges ex rel. S.M.B.W. v. Serrano-Isern, 605 F.3d 1, 5 (1st Cir. 2010).  
+The Court “view[s] the record in the light most favorable to the nonmovant, drawing reasonable 
+inferences in his favor.”  Noonan v. Staples, Inc., 556 F.3d 20, 25 (1st Cir. 2009).  
+III.  Factual Background                                                  
+
+The  following  facts  are  drawn  from  Defendant’s  submission  of  material  facts  and 
+documents cited therein, D. 37, and are undisputed.1                      
+Blaise was the domestic partner of a SessionM, Inc. (“SessionM”) employee.  D. 37 ¶ 12.  
+In March 2020, he was insured through a group policy of health insurance (the “Policy”) issued 
+by BCBS to SessionM employees and their covered dependents, including domestic partners.  
+Id. ¶¶ 1, 9, 12.  On March 18, 2020, Blaise sought coverage under the Policy for a Wixela Inhub 
+inhaler to treat his asthma.  Id. ¶¶ 2, 23.  On March 25, 2020, BCBS denied the request because 
+there was no evidence that Blaise had tried other inhalers as the Policy required.  Id. ¶¶ 27–28.  On 
+March 31, 2020, Blaise died from complications related to his asthma.  Id. ¶ 3.  
+
+
+
+1 Plaintiff failed to file a response to Defendant’s statement of material facts as required.  
+Accordingly, Defendant’s statement of material facts, D. 37, is deemed admitted.  D. 51 at 2; 
+Stonkus v. City of Brockton Sch. Dep’t, 322 F.3d 97, 102 (1st Cir. 2003) (providing that “material 
+facts of record set forth in the statement required to be served by the moving party will be deemed 
+for purposes of the motion to be admitted by the opposing parties unless controverted by the 
+statement required to be served by opposing parties”) (quoting D. Mass. L.R. 56.1).  
+IV.  Procedural History                                                   
+
+Cannon instituted this action in Middlesex Superior Court alleging six state law claims:  
+declaratory judgment regarding BCBS (Count I); breach of contract (Count II); bad faith (Count 
+III); wrongful death (Count IV); punitive damages (Count V) and loss of consortium (Count VI).  
+D. 1-1 ¶¶ 14–44.  BCBS removed the action to this Court, D. 1, and moved to dismiss the 
+complaint shortly thereafter.  D. 7.  The Court heard the parties on that motion, D. 24, and, while 
+reserving on the motion, ordered a brief period of discovery limited to the BCBS policy issued to 
+Blaise and related correspondence.  D. 25.  Following this discovery, the Court denied the motion 
+to dismiss without prejudice to BCBS raising the issue of ERISA preemption in a motion for 
+summary judgment.  D. 30 at 7.  BCBS now moves for summary judgement on the basis that all 
+six state law claims are preempted by ERISA.  D. 35.  Cannon “does not contest here” that ERISA 
+preempts his claims for declaratory judgment, breach of contract, bad faith and loss of consortium 
+(Counts I, II, III and VI).  D. 50 at 2.  Instead, Cannon argues only that his claim for wrongful 
+death and his corresponding claim for punitive damages (Counts IV and V) survive.  Id. at 1–2.  
+
+The Court therefore limits its analysis to those claims.                  
+V.   Discussion                                                           
+
+A.   ERISA Preemption                                                
+
+BCBS argues that Cannon’s two remaining claims also are preempted by ERISA.  D. 36 at 
+9–17.  “ERISA preemption analysis involves two central questions:  (1) whether the plan at issue 
+is an ‘employee benefit plan’ and (2) whether the cause of action ‘relates to’ this employee benefit 
+plan.”  Hampers v. W.R. Grace & Co., Inc., 202 F.3d 44, 49 (1st Cir. 2000) (quoting McMahon v. 
+Digital Equip. Corp., 162 F.3d 28, 36 (1st Cir. 1998)).  The parties agree that the Policy in question 
+is a benefit plan covered by ERISA.  D. 36 at 2; D. 50 at 1–2.  The question is therefore whether 
+Cannon’s wrongful death and punitive damages claims “relate” to that Policy.      
+With exceptions not relevant here,2 § 514(a) of ERISA preempts “any and all State laws 
+insofar as they may now or hereafter relate to any employee benefit plan.”  29 U.S.C. § 1144(a).  
+“The term ‘State Law’ includes all laws, decisions, rules, regulations, or other State action having 
+
+the effect of law, of any State.”  29 U.S.C. § 1144(c)(1).  The Supreme Court has recognized “the 
+expansive sweep of the pre-emption clause,” Pilot Life Ins. Co. v. Dedeaux, 481 U.S. 41, 47 
+(1987), and has articulated that, “[t]he phrase ‘relate to’ [is to be] given its broad common-sense 
+meaning, such that a state law ‘relate[s] to’ a benefit plan ‘in the normal sense of the phrase, if it 
+has a connection with or reference to such a plan.’”  Metro. Life Ins. Co. v. Massachusetts, 471 
+U.S. 724, 739 (1985) (quoting Shaw v. Delta Air Lines, Inc., 463 U.S. 85, 96–97 (1983)).  “In 
+adopting § 514(a), Congress deliberately rejected narrower preemption language directed at state 
+laws relating to the specific subjects covered by ERISA, choosing instead to supplant all state laws 
+that relate to ERISA-regulated plans.”  Hampers, 202 F.3d at 49 (citation and internal quotation 
+
+marks omitted).                                                           
+Section 514(a) is satisfied if “a court must evaluate or interpret the terms of the ERISA-
+regulated plan to determine liability under the state law cause of action.”  Hampers, 202 F.3d at 
+52; see Harris v. Harvard Pilgrim Health Care, Inc., 208 F.3d 274, 281 (1st Cir. 2000) (concluding 
+that a state law claim is preempted if “the trier of fact necessarily would be required to consult the 
+ERISA plan to resolve the plaintiff’s claims”).  “A law is preempted ‘even if the law is not 
+
+2 Section 514(a) is qualified by a “savings clause,” which precludes from preemption any 
+“state law[s] . . . which regulate insurance, banking, or securities . . . .”  29 U.S.C. § 1144(b).  
+Cannon does not raise the savings clause and “it is the parties[’] burden, not the court[’s], to 
+develop arguments in support of their claims/positions, with citation to relevant legal authority.”  
+Lovern v. Astrue, No. 09-40098-TSH, 2011 WL 4621455, at *6 (D. Mass. Sept. 29, 2011).   
+specifically designed to affect such plans, or the effect is only indirect.’”  Guerra-Delago v. 
+Popular, Inc., 774 F.3d 776, 781 (1st Cir. 2014) (quoting Zipperer v. Raytheon Co., 493 F.3d 50, 
+53 (1st Cir. 2007)).  In addition, state law claims relate to an ERISA plan if they arise from the 
+enforcement of rights under an ERISA-regulated plan.  Pilot Life, 481 U.S. at 52–57; see Hampers, 
+202 F.3d at 49–50 (compiling cases); Turner v. Fallon Cmty. Health Plan, Inc., 127 F.3d 196, 199 
+
+(1st Cir. 1997) (observing that “[i]t would be difficult to think of a state law that ‘relates’ more 
+closely to an employee benefit plan than one that affords remedies for breach of obligations under 
+that plan”).                                                              
+Cannon’s claims for wrongful death (Count IV) and punitive damages (Count V) are 
+preempted both because the Court would be required to consult the Policy to resolve them and 
+because they arose from the alleged improper denial of benefits.  Each claim relies upon the same 
+premise:  that Defendant improperly denied Blaise a particular health benefit, thus resulting in his 
+death.  Determining whether that denial was improper requires the Court to consult the Policy.3  
+Plaintiff posits that its wrongful death claim cannot be preempted because the Massachusetts 
+
+wrongful death statute has no regulatory effect on insurance, D. 50 at 3, but § 514(a) does not limit 
+ERISA’s preemptive reach to statutes directly regulating insurance and instead covers “state 
+claims to enforce rights under an ERISA plan or obtain damages for the wrongful withholding of 
+those rights.”  Turner, 127 F.3d at 199.  Claims for wrongful death and punitive damages resulting 
+from an allegedly improper denial of benefits under an ERISA plan are precluded on this basis.  
+See e.g., id. at 198–200 (concluding that wrongful death and other state law claims arose from a 
+
+
+
+3  Cannon  argues  the  wrongful  death  inquiry  would  instead  be  directed  to  BCBS’s 
+negligence, D. 50 at 4, but fails to identify any duty BCBS owed Cannon other than the duty 
+prescribed by the Policy itself.                                          
+denial of benefits and were thus preempted by ERISA); Andrews-Clarke v. Lucent Techs., Inc., 
+157 F. Supp. 2d 93, 104–05 (D. Mass. 2001) (same).                        
+Cannon also argues that its wrongful death and punitive damages claims are not preempted 
+because the Massachusetts wrongful death statute provides a distinct form of relief.  D. 50 at 3–6.  
+According to Cannon, a wrongful death claim cannot be preempted by ERISA because an ERISA 
+
+plan participant or beneficiary could never bring such a claim.  Id. at 4.4  But the wrongful death 
+claim is an action for damages related to a breach of plan and is therefore precisely the type of 
+alternative enforcement mechanism disallowed under ERISA § 502(a).  29 U.S.C. § 1132(a).  “The 
+relief expressly provided [under ERISA] is to secure benefits under the plan rather than damages 
+for a breach of the plan.”  Turner, 127 F.3d at 198.  “This is not a minor technicality:  damage 
+awards may increase effective coverage but may also add significantly to the costs of coverage.”  
+Id. at 198–99.  “[S]tate laws which furnish alternative enforcement mechanisms threaten the 
+uniformity that Congress labored to achieve and thus are preempted by ERISA.”  Carpenters Loc. 
+Union No. 26 v. U.S. Fid. & Guard Co., 215 F.3d 136, 140 (1st Cir. 2000); see Danca, 185 F.3d at 
+
+4–6 (holding that state law tort claims alleging improper processing of claim benefits under ERISA 
+plan were preempted since all state-law-based attacks on this conduct would amount to an 
+“alternative enforcement mechanism”); Pilot Life, 481 U.S. at 53–54 (concluding that to allow 
+punitive damages for a failure to pay benefits would be at odds with Congress’s refusal to allow 
+punitive damages for benefit claims under ERISA).                         
+
+
+4 BCBS posits that the Massachusetts wrongful death statute does not provide a distinct 
+form of relief because it is derivative in nature and belongs to the decedent and his estate.  D. 51 
+at 2.  The Court need not reach the issue because, derivative or not, the wrongful death and punitive 
+damages claims arise from the allegedly improper denial of benefits under an ERISA plan and are 
+therefore preempted.                                                      
+B.   ERISA Claim                                                     
+
+Even assuming arguendo that the complaint asserted an ERISA claim, BCBS would still 
+be entitled to summary judgment.  D. 36 at 14–16.  ERISA preemption “does not always entitle 
+the defendant to dismissal because there is the possibility that the plaintiff’s complaint may state 
+a valid ERISA claim.”  Andrews-Clarke, 157 F. Supp. 2d at 106 (citing Fitzgerald v. Codex Corp., 
+882 F.2d 586, 589 (1st Cir. 1989)).  Section 502(a) provides that a civil action may be brought by 
+“[a] participant or beneficiary.”  29 U.S.C. § 1132(a)(1)(B).  A participant or beneficiary may sue 
+under ERISA to “recover benefits due to them under the terms of their plan, enforce their rights 
+under the plan, or clarify their rights to future benefits under the plan.”  Id.  
+In Counts IV and V (or even elsewhere in the complaint), Cannon does not seek benefits 
+due under the Policy but rather damages for the allegedly “improper refusal of an insurer . . . to 
+authorize treatment.”  Andrews-Clarke, 984 F. Supp. at 59.  But, as already discussed, ERISA 
+“does not create compensatory or punitive damage remedies where an administrator of a plan fails 
+to provide the benefits due under that plan.”  Hampers, 202 F.3d at 51.5  Accordingly, at least for 
+
+this reason, Cannon also has failed to state an ERISA claim.              
+VI.  Conclusion                                                           
+
+For the foregoing reasons, the Court ALLOWS BCBS’s motion for summary judgment.  
+D. 35.                                                                    
+So Ordered.                                                          
+
+                                   /s Denise J. Casper               
+                                   United States District Judge      
+
+5 BCBS also argues that Cannon did not exhaust all administrative remedies.  D. 36 at 16–
+17.  “A plaintiff who wishes to raise an ERISA claim in federal court must first exhaust all 
+administrative remedies that the fiduciary provides.”  Medina v. Metro. Life Ins. Co., 588 F.3d 41, 
+47 (1st Cir. 2009).  The Court need not reach this issue, however, because it otherwise concludes 
+that BCBS is entitled to summary judgment for the reasons explained above.
+
+---
+
+UNITED STATES DISTRICT COURT                            
+              DISTRICT OF MASSACHUSETTS                              
+__________________________________________                                
+                              )                                      
+                              )                                      
+SCOTT CANNON, individually and as the  )                                  
+personal representative of the estate of     )                            
+Blaise Cannon,                     )                                      
+                              )                                      
+          Plaintiff,          )                                      
+                              )                                      
+     v.                       )                                      
+                              )    Case No. 23-cv-10950-DJC          
+                              )                                      
+BLUE CROSS AND BLUE SHIELD OF      )                                      
+MASSACHUSETTS, INC.,               )                                      
+                              )                                      
+          Defendant.          )                                      
+                              )                                      
+                              )                                      
+__________________________________________)                               
+
+               MEMORANDUM AND ORDER                                  
+
+CASPER, J.                                          November 7, 2023      
+
+I.   Introduction                                                         
+
+Plaintiff Scott Cannon (“Cannon”), individually and as the personal representative of the 
+estate of Blaise Cannon (“Blaise”), has filed this lawsuit against Defendant Blue Cross and Blue 
+Shield of Massachusetts, Inc. (“BCBS”) alleging various state law claims arising from BCBS’s 
+denial of health benefits.  D. 1-1.  BCBS has moved to dismiss pursuant to Federal Rule of Civil 
+Procedure 12(b)(6).  D. 7.  For the reasons stated below, the Court DENIES the motion.  
+II.  Standard of Review                                                   
+On a motion to dismiss for failure to state a claim upon which relief can be granted pursuant 
+to Federal Rule of Civil Procedure 12(b)(6), the Court must determine if the facts alleged 
+“plausibly narrate a claim for relief.”  Schatz v. Republican State Leadership Comm., 669 F.3d 50, 
+55 (1st Cir. 2012) (citation omitted).  Reading the complaint “as a whole,” the Court must conduct 
+a two-step, context-specific inquiry.  García-Catalán v. United States, 734 F.3d 100, 103 (1st Cir. 
+2013).  First, the Court must perform a close reading of the claim to distinguish the factual 
+allegations from the conclusory legal allegations contained therein.  Id.  Factual allegations must 
+be accepted as true, while conclusory legal conclusions are not entitled credit.  Id.  Second, the 
+Court must determine whether the factual allegations present a “reasonable inference that the 
+
+defendant is liable for the misconduct alleged.”  Haley v. City of Boston, 657 F.3d 39, 46 (1st Cir. 
+2011) (citation omitted).  In sum, the complaint must provide sufficient factual allegations for the 
+Court to find the claim “plausible on its face.”  García-Catalán, 734 F.3d at 103 (quoting Ashcroft 
+v. Iqbal, 556 U.S. 662, 678 (2009)).                                      
+Although the “consideration of documents not attached to the complaint, or not expressly 
+incorporated therein” is generally improper under Rule 12(b)(6), “courts have made narrow 
+exceptions for documents the authenticity of which are not disputed by the parties; for official 
+public records; for documents central to plaintiffs’ claim; or for documents sufficiently referred to 
+in the complaint.”  Watterson v. Page, 987 F.2d 1, 3 (1993).  The Court may review the “relevant 
+
+entirety of a document integral to or explicitly relied upon in the complaint, even though not 
+attached to the complaint, without converting the motion into one for summary judgment.”  Clorox 
+Co. P.R. v. Proctor & Gamble Com. Co., 228 F.3d 24, 32 (1st Cir. 2000) (citation omitted).   
+III.  Factual Background and Procedural History                           
+
+Unless otherwise indicated, the following facts are drawn from the allegations in Cannon’s 
+complaint.  D. 1-1.                                                       
+As alleged by Cannon, BCBS issued Blaise a “policy of health insurance” (the “Policy”), 
+which remained in force as of March of 2020.  Id. ¶¶ 7–8.  That month, Blaise sought coverage for 
+a Wixela Inhub inhaler to treat his asthma.  Id. ¶ 9.  BCBS denied coverage pursuant the Policy.  
+Id. ¶ 10.  Blaise subsequently died due to complications related to his asthma on March 31, 2020.  
+Id. ¶ 12.                                                                 
+Cannon instituted this action in Middlesex Superior Court alleging six state law claims: 
+declaratory judgment with regard to BCBS (Count I); breach of contract (Count II); bad faith 
+(Count III); wrongful death (Count IV); punitive damages (Count V); and loss of consortium 
+
+(Count VI).  D. 1-1 ¶¶ 14–44.  BCBS removed the action to this Court, D. 1, and moved to dismiss 
+the complaint shortly thereafter.  D. 7.  The Court heard the parties on the pending motion and, 
+while reserving on the motion, ordered a brief period of discovery limited to the BCBS policy 
+issued to Blaise and related correspondence.  D. 25.  Following limited discovery, the parties 
+submitted supplemental memoranda.  See D. 27; D. 28.                      
+IV.  Discussion                                                           
+
+BCBS argues that Cannon’s complaint should be dismissed because his state law claims 
+are preempted by the Employee Retirement Income Security Act of 1974, as amended, 29 U.S.C. 
+§§ 1001 et seq. (“ERISA”) and that Cannon has failed to state a claim under ERISA.  D. 14 at 1–
+2.  Central to BCBS’s argument are exhibits to its motion to dismiss, which purportedly include 
+the Policy cited in the complaint.  See D. 8-1.  Cannon responds that the Court cannot consider 
+these exhibits on a 12(b)(6) motion and insists that they are “incomplete and unauthenticated.”  
+D. 12 at 1.                                                               
+Although a court may consider some documents on a 12(b)(6) motion, it is still incumbent 
+on the defendant to present sufficient indicia of authenticity as to any proffered exhibits.  For 
+example, in Prouty v. Hartford Life & Accident Ins., 997 F. Supp. 2d 85, 86, 88–89 (D. Mass. 
+2014), two defendants, a former employer and an insurer, moved to dismiss a complaint on the 
+grounds that the plaintiff had failed to state a claim under ERISA; in support of their motion, the 
+defendants produced a copy of the summary plan description (“SPD”) referenced in the plaintiff’s 
+complaint.  The plaintiff argued that the SPD could not be considered because they “were not 
+properly authenticated as true copies of the SPD.”  Id. at 89.  The defendants responded that the 
+documents had been properly authenticated by an employee of the insurer, pointing to a declaration 
+confirming same.  Id.  The court concluded that “[t]he SPD produced by Defendants ha[d] 
+
+sufficient indicia of authenticity to permit its consideration in connection with these motions to 
+dismiss.”  Id.                                                            
+Similarly, in Blay v. Zipcar, 716 F. Supp. 2d 115, 118 (D. Mass. 2010), a plaintiff moved 
+to strike documents submitted with defendant Zipcar’s motion to dismiss, arguing the documents 
+were “not authenticated.”  Zipcar responded that, “as is common practice, it [ ] submitted a 
+lawyer’s sworn affidavit verifying the documents and even attache[d] two affidavits from Zipcar 
+employees confirming the documents’ authenticity.”  Id.  The court denied the plaintiff’s motion 
+to strike.  Id.                                                           
+Here, the complaint alleges that BCBS “provided a policy of health insurance to Decedent, 
+
+Blaise Cannon,” D. 1-1 ¶ 7; that “[t]he Policy was in good standing and in force as of March 2020,” 
+id. ¶ 8; that “Blaise Cannon sought coverage . . . under the Policy,” id. ¶ 9; and that “Blaise Cannon 
+was denied coverage . . . under the Policy.”  Id. ¶10.  Cannon’s extensive reference to, and reliance 
+upon, Blaise’s health insurance policy—which was not attached to the complaint—opened the 
+door for BCBS to submit exhibits concerning same for the Court’s consideration on a 12(b)(6) 
+motion.  See Watterson, 987 F.2d at 3.                                    
+This does not relieve BCBS of the obligation to ensure that any documents submitted to 
+the Court for consideration possess sufficient indicia of authenticity.  See Prouty, 997 F. Supp. 2d 
+at 89; Blay, 716 F. Supp. 2d at 118.  Having reviewed the exhibits submitted by BCBS, the Court 
+cannot conclude on the present record that they possess sufficient indicia of authenticity to warrant 
+consideration at this stage.  BCBS has submitted an assortment of documents in support of its 
+motion to dismiss, including what BCBS’s counsel describes as excerpts of the Policy issued to 
+Blaise as the domestic partner of an employee of a company called SessionM Inc. (“SessionM”).  
+D. 14 at 2; see D. 8-1 at 1–32.  Specifically, BCBS has produced (1) a subscriber certificate 
+
+detailing plan benefits for individuals receiving their health insurance through SessionM, D. 8-1 
+at 1–24; (2) BCBS’s “Pharmacy Medical Policy” on asthma and chronic obstructive pulmonary 
+disease, id. at 25–29; and (3) a “Premium Account Agreement” which “describes the terms of the 
+arrangement between Blue Cross and Blue Shield of Massachusetts, Inc. . . . and the Account to 
+provide health care benefits for the Account’s covered employees and their covered dependents.” 
+1  D. 8-1 at 30, 30–32.                                                   
+While these documents appear to pertain to a health insurance policy available to SessionM 
+employees and their domestic partners, BCBS’s assertion is more specific, i.e., that Blaise 
+subscribed to the same as the domestic partner of a SessionM employee.  D. 14 at 2.  None of these 
+
+exhibits contain information linking the proffered policy documents or SessionM specifically to 
+Blaise.  See D. 8-1 at 1–32.  Any such connection arises from a statement in BCBS counsel’s 
+memorandum of law that “Blaise obtained coverage through the Plan because his domestic partner 
+was an employee of SessionM and a participant in the Plan.”  D. 14 at 2.  To support this assertion, 
+BCBS cites an attachment to the group health insurance plan issued to SessionM titled “Domestic 
+Partner Eligibility.”  See 8-1 at 24.  But all this document shows is that a subscriber of the proffered 
+
+
+1 BCBS also submitted correspondence concerning Blaise’s claim for the Wixela Inhub 
+inhaler.  D. 8-1 at 33–52.  As these documents seem to consist of claim correspondence not 
+referenced in the complaint, the Court will not consider them here on a Rule 12(b)(6) motion.  See 
+Watterson, 987 F.2d at 3.                                                 
+health plan “may enroll a domestic partner for coverage under his or her membership,” not that 
+Blaise’s  health  insurance  policy—i.e.,  the  Policy  referenced  in  the  complaint—was  issued 
+pursuant to the terms of the SessionM plan.2  See id.; see also Setterlund v. Potter, 597 F. Supp. 
+2d 167, 171 (D. Mass. 2008) (explaining how, in the summary judgment context, “the appearance 
+of authenticity is not enough” and that “it is not sufficient for [ ] counsel merely to assert, in the 
+
+memorandum of law . . . , that the documents are authentic”).             
+The exhibits produced by BCBS with its supplemental memorandum do not allay the 
+Court’s concerns as to the gaps in the record.  See D. 27-1; D. 27-2; D. 27-3; D. 27-4.  According 
+to BCBS, these exhibits are “screen shots of its member and enrollment systems showing that 
+Cannon was insured solely as a dependent of a SessionM Inc. [ ] employee under the SessionM 
+group health plan.”  D. 27 at 2.  Only two of these screenshots list Blaise Cannon’s name, however.  
+See D. 27-3; D. 27-4 at 1.  And while they note Blaise’s status as a “dependent” or “domestic 
+partner,” the screenshots’ connection to SessionM is not apparent from the face of the documents.  
+See D. 27-3; D. 27-4 at 1.                                                
+
+Cannon also raises a number of questions concerning these screenshots.  According to an 
+affidavit by Cannon’s counsel, these documents were produced in response to discovery requests 
+seeking information as to the BCBS policy issued to Blaise.  D. 29-1 ¶ 2.  One of these screenshots, 
+D. 27-1, appears to note an entry related to subscriber benefits on March 17, 2020 under the 
+heading  “Activity  History.”    Cannon’s  counsel  asked  BCBS  whether  there  were  additional 
+documents  concerning  this  and  other  entries  depicted  in  the  screenshot;  BCBS’s  counsel 
+responded, “[t]here are no records relating to the entries in this screen shot . . . .  The entry for 
+
+
+2  Relatedly,  the  Court  notes  that  the  excerpts  of  the  Premium  Account  Agreement, 
+produced by BCBS, do not expressly name SessionM as the counterparty to the agreement.  See 
+D. 8-1 at 30–32.                                                          
+3/17/20 reflects the date that the insured’s benefits were updated for the annual renewal date for 
+the group plan of 4/1/20.”  D. 29-1 ¶¶ 3–4, 6.                            
+Had  BCBS  submitted  an  affidavit  or  declaration  explaining  the  significance  of  the 
+proffered policy documents and verifying that they concerned the health insurance policy through 
+which Blaise sought coverage for the Wixela Inhub inhaler, D. 1-1 ¶ 9, the Court may have 
+
+considered the exhibits and reached the ERISA preemption arguments raised by BCBS’s motion 
+to dismiss.  See Prouty, 997 F. Supp. 2d at 89; Blay, 716 F. Supp. 2d at 118.  However, in light of 
+the parties’ submissions to date, the Court is unable to do so.  Accordingly, the Court denies 
+BCBS’s motion to dismiss without prejudice to BCBS raising the issue of ERISA preemption in a 
+motion for summary judgment.                                              
+V.   Conclusion                                                           
+
+For the foregoing reasons, the Court DENIES BCBS’s motion to dismiss, D. 7.  Given that 
+resolution of the ERISA preemption issue may be dispositive here, see Danca v. Private Health 
+Care Sys., Inc., 185 F.3d 1, 4–6 (1st Cir. 1999), the Court ORDERS the following schedule for a 
+motion for summary judgment on the issue of ERISA preemption.  Fact discovery, limited to 
+matters bearing upon this issue, may be conducted through January 31, 2024.  BCBS may file any 
+motion for summary judgment on ERISA preemption by February 28, 2024.  Cannon’s opposition 
+to same will be due by March 20, 2024.                                    
+So Ordered.                                                          
+
+                                   /s/ Denise J. Casper              
+                                   United States District Judge

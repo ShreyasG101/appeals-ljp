@@ -1,0 +1,50 @@
+{
+  "overall_outcome": "MIXED",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court erred in denying qualified immunity to police officers for use of force during the initial phase of the encounter (Phase One), when one officer's arm was pinned under the decedent.",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "The court found that existing precedent (McCue and Abdullahi) did not clearly establish that the force used in Phase One, when the officer was immobilized, was unconstitutional, so qualified immunity should have been granted for this phase."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the district court erred in denying qualified immunity to police officers for use of force during the later phase of the encounter (Phase Two), when an officer allegedly applied compressive force to the decedent's back after regaining use of his arm.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that, under McCue and Abdullahi, it was clearly established that applying significant, continued force to a prone, subdued individual who is not resisting constitutes excessive force, and factual disputes precluded summary judgment on qualified immunity for this phase."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the district court erred in denying qualified immunity to the second officer for failure to intervene in the use of excessive force during Phase Two.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found that, under Davis v. Rennie, the law was clearly established that an officer must intervene to prevent excessive force, and factual disputes about the second officer's opportunity and knowledge precluded summary judgment."
+    },
+    {
+      "issue_id": 4,
+      "description": "Whether the court has jurisdiction to review fact-based challenges to the district court's denial of summary judgment on qualified immunity.",
+      "standard_of_review": "other",
+      "holding": "DISMISS",
+      "key_reasoning": "The court dismissed the appeal to the extent it raised fact-based arguments, reiterating that interlocutory review is limited to purely legal questions and not disputes over the plaintiff's version of the facts."
+    }
+  ],
+  "key_precedents": [
+    "McCue v. City of Bangor, 838 F.3d 55 (1st Cir. 2016)",
+    "Abdullahi v. City of Madison, 423 F.3d 763 (7th Cir. 2005)",
+    "Graham v. Connor, 490 U.S. 386 (1989)",
+    "Davis v. Rennie, 264 F.3d 86 (1st Cir. 2001)",
+    "Johnson v. Jones, 515 U.S. 304 (1995)",
+    "Ashcroft v. al-Kidd, 563 U.S. 731 (2011)",
+    "District of Columbia v. Wesby, 583 U.S. 48 (2018)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "Robert Miller died during a run-in with Barnstable police officers Sean Roycroft and Spencer Jackson at his Cape Cod home in 2019. He was 63. A big question is how this happened. The parties (whose names appear in our caption) give differing accounts. But at this stage, we (as will be seen) must credit Miller's representative's version if there's evidence to support it. And that's the version we set out here and throughout.\n\nThe tragedy impelling this litigation unfolded in just minutes. Responding to a 911 call from Miller's girlfriend that he \"need[ed] a psych evaluation,\" Roycroft got to Miller's place at 7:09 p.m. (she made the call around 7:03 p.m. and reported no crime (to be clear)). Jackson got there about a minute later. And by 7:12 p.m. \u2014 after struggling to handcuff him while on the floor of the home's office area \u2014 the officers needed an ambulance for the now-lifeless Miller, who was pronounced dead at 8:00 p.m.\n\nMiller's son (whom we'll just call \"plaintiff\") sued the officers on behalf of the estate, alleging a federal excessive-force claim. See 42 U.S.C. \u00a7 1983. Following discovery, the officers moved for summary judgment on qualified-immunity grounds. Qualified immunity (broadly speaking) protects them from this suit unless they violated clearly established constitutional norms. See, e.g., Plumhoff v. Rickard, 572 U.S. 765, 778 (2014). But the district judge (roughly speaking) thought that plaintiff raised triable issues because of questions concerning what reasonable jurors could infer about the officers' conduct (described more fully below) after \"Roycroft and Miller tripped and fell to the floor in the office space area.\" See Est. of Miller v. Roycroft, No. 21-CV-10738-AK, 2024 WL 1416066, at *12 (D. Mass. Mar. 31, 2024). So the judge denied summary judgment on that aspect of the case. See id. at *15. The officers appealed.\n\nAfter careful consideration of this interlocutory matter (\"interlocutory,\" because the suit remains live in the district court), we reverse in part, affirm in part, and dismiss in part \u2014 sharing only those details needed to justify our decision (anyone interested in the full background can consult the district judge's opinion (cited in the preceding paragraph)). See generally McKenney v. Mangino, 873 F.3d 75, 85 (1st Cir. 2017) (signaling that a \"pretrial denial of qualified immunity is but a way station in the travel of a case,\" and adding that \"[d]epending on the facts proven at trial and the inferences drawn by the jury, the defendant may or may not ultimately prevail on his qualified immunity defense\" (quotation marks omitted))."
+}

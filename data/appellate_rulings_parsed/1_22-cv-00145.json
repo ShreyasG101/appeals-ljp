@@ -1,0 +1,39 @@
+{
+  "overall_outcome": "REVERSE",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether ERISA applies to the Allure life insurance policy",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found ERISA applies because Allure had employees under the Darden factors, making the policy an employee benefit plan."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether Guardian waived its contractual right to cancel the life insurance policy by accepting premiums after the cancellation right vested",
+      "standard_of_review": "abuse of discretion",
+      "holding": "REVERSE",
+      "key_reasoning": "Guardian accepted premiums for 26 months after its right to cancel vested, including a 10-month COVID suspension period, thereby waiving its right to cancel and obligating it to pay the claim."
+    }
+  ],
+  "key_precedents": [
+    "Shearer v. Sw. Serv. Life Ins. Co., 516 F.3d 276 (5th Cir. 2008)",
+    "Meredith v. Time Ins. Co., 980 F.2d 352 (5th Cir. 1993)",
+    "House v. Am. United Life Ins. Co., 499 F.3d 443 (5th Cir. 2007)",
+    "Raymond B. Yates, M.D., P.C. Profit Sharing Plan v. Hendon, 541 U.S. 1 (2004)",
+    "Penn v. Howe-Baker Eng\u2019rs, Inc., 898 F.2d 1096 (5th Cir. 1990)",
+    "Nationwide Mut. Ins. Co. v. Darden, 503 U.S. 318 (1992)",
+    "Pitts ex rel. Pitts v. Am. Sec. Life Ins. Co., 931 F.2d 351 (5th Cir. 1991)",
+    "Corry v. Liberty Life Assur. Co. of Bos., 499 F.3d 389 (5th Cir. 2007)",
+    "Holland v. Int\u2019l Paper Co. Ret. Plan, 576 F.3d 240 (5th Cir. 2009)",
+    "Rhorer v. Raytheon Eng\u2019rs and Constructors, Inc., 181 F.3d 634 (5th Cir. 1999)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "After Pamela Edwards died of cancer, her widower sought payment on her life insurance policy. Guardian Life Insurance denied his claim. Jimmy Edwards then sued the insurer in federal court. The district court granted Guardian\u2019s motion for partial summary judgment. We reverse and render judgment for Edwards.\n\nPam Edwards owned and operated a beauty salon in Starkville, Mississippi called Allure Salon. She was diagnosed with cancer in 2019 and underwent radiation, chemotherapy, and surgery thereafter. Tragically, Pam\u2019s cancer never went into remission, and she died on May 27, 2022.\n\nUpon Pam\u2019s death, insurance agent Debbie Jaudon informed her husband, Jimmy, that Pam had a life insurance policy from Guardian. She had purchased the policy in 2007, as she \u201cwanted to be sure that she had something to leave to her husband.\u201d Pam dealt exclusively with Allure\u2019s finances, so Jimmy was unaware of the policy until Jaudon informed him of its existence.\n\nJaudon then requested a life claim form from Guardian. But Guardian claimed the policy had been cancelled before Pam\u2019s death. The insurer argued that Pam bought a group policy to cover multiple Allure employees. But in November 2019, Allure\u2019s coverage dropped to one (Pam)\u2014thus triggering Guardian\u2019s contractual right to cancel it.\n\nThat was news to Jaudon, Pam\u2019s insurance agent, because she never received a notice of cancellation. How so? Guardian says that in September 2020, it \u201ctemporarily suspended its practice of terminating plans that had dropped to one participant due to the COVID 19 pandemic that was impacting the entire globe.\u201d Guardian later renewed its normal cancellation practices and terminated Pam\u2019s coverage on January 15, 2022. It nevertheless remains a mystery why Guardian never notified Jaudon of the cancellation.\n\nJimmy Edwards sued Guardian in the Northern District of Mississippi. He brought various claims under Mississippi common law, and argued that in the alternative, ERISA entitled him to recover benefits under the plan. Guardian moved for partial summary judgment, arguing ERISA governed the plan and preempted Edwards\u2019 common-law claims. The district court granted Guardian\u2019s motion. Jimmy timely appealed."
+}

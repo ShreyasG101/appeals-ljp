@@ -1,0 +1,2330 @@
+23-132
+Wildman et al. v. Deutsche Bank et al.
+
+
+                                               In the
+                     United States Court of Appeals
+                                  for the Second Circuit
+                                         _________________
+
+                                       August Term 2023
+                                     Argued: March 13, 2024
+                                      Decided: July 21, 2025
+                                       _________________
+
+                                         Docket No. 23-132
+
+                                JONATHAN L. ASHLEY, III, ET AL.,
+
+                                         Plaintiffs-Appellants,
+
+                                                  v.
+
+                       DEUTSCHE BANK AKTIENGESELLSCHAFT, ET AL.,
+
+                                   Defendants-Appellees. 1
+                           –––––––––––––––––––––––––––––––––––
+
+Before:         CABRANES, WESLEY, and NATHAN, Circuit Judges.
+
+       Plaintiffs-Appellants are Americans who were killed or injured, as well as
+their family members, in terrorist attacks in Afghanistan. They sued three sets of
+banks—Deutsche Bank Aktiengesellschaft and Deutsche Bank Trust Company
+Americas; Standard Chartered Bank, Standard Chartered PLC, and Standard
+Chartered Bank (Pakistan) Limited (together, “SCB”); and Danske Bank A/S—
+under the Anti-Terrorism Act, 18 U.S.C. § 2333, as amended by the Justice Against
+Sponsors of Terrorism Act (“JASTA”), id. § 2333(d)(2), for aiding and abetting the
+
+1   For a complete list of the parties to this appeal, contact the Clerk of Court.
+terrorist organizations who committed the attacks. Plaintiffs allege that the
+banks’ customers used their banking services to execute tax fraud and money
+laundering schemes; the proceeds went to terrorist organizations, providing them
+with access to crucial financial resources, including those necessary to commit the
+attacks that injured Plaintiffs. Plaintiffs also claim that SCB aided and abetted the
+terrorist attacks by providing banking services to two fertilizer companies whose
+product was smuggled into Afghanistan and used to make the bombs that killed
+or injured Plaintiffs.
+
+      The United States District Court for the Eastern District of New York (Hector
+Gonzalez, J.) granted Defendants’ motion to dismiss Plaintiffs’ amended
+complaint in its entirety. While Plaintiffs’ appeal was pending, the Supreme
+Court decided Twitter, Inc. v. Taamneh, 598 U.S. 471 (2023), which clarified the
+appropriate pleading standard for an aiding-and-abetting claim under JASTA.
+Applying Twitter and our prior JASTA precedent, we agree that Plaintiffs have not
+plausibly alleged that Defendants are liable under JASTA for aiding and abetting.
+Accordingly, we AFFIRM the judgment of the district court.
+                               _________________
+
+                                       TEJINDER SINGH (Geoffrey P. Eaton, on the
+                                       brief), Sparacino PLLC, Washington, DC, for
+                                       Plaintiffs-Appellants.
+
+                                       JEFFREY B. WALL (Judson O. Littleton, Zoe A.
+                                       Jacoby, Sullivan & Cromwell LLP,
+                                       Washington, DC; Sharon L. Nelles, Andrew
+                                       J. Finn, Bradley P. Smith, Sullivan &
+                                       Cromwell LLP, New York, NY, on the brief),
+                                       for Defendants-Appellees Standard Chartered
+                                       Bank, Standard Chartered PLC, and Standard
+                                       Chartered Bank (Pakistan) Limited.
+
+                                       Brian T. Frawley, Sullivan & Cromwell LLP,
+                                       New York, NY, for Defendant-Appellee Danske
+                                       Bank A/S.
+
+
+
+                                         2
+                                      David G. Januszewski, Sheila C. Ramesh,
+                                      Sesi V. Garimella, Miles Wiley, Cahill
+                                      Gordon & Reindel LLP, New York, NY, for
+                                      Defendants-Appellees     Deutsche    Bank
+                                      Aktiengesellschaft and Deutsche Bank Trust
+                                      Company Americas.
+
+                                      ANDRIANNA D. KASTANEK (Lee Wolosky, on
+                                      the brief), Jenner & Block LLP, New York,
+                                      NY, for Amici Curiae Diana Bonacasa, Vincent
+                                      Bonacasa, Raquel Bonacasa, Barbara Rosendahl,
+                                      Jeffrey Muncy, Gilbert Russell, Abigail Russell,
+                                      Sarah Russell, Noemi Russell, Benjamin
+                                      Russell, Nathanael Russell, Debbie Williams,
+                                      and Chelsea Mangano in support of Plaintiffs-
+                                      Appellants.
+
+                                      Mark G. Hanchet, Robert W. Hamburg,
+                                      Benjamin D. Bright, Mayer Brown LLP,
+                                      New York, NY; Andrew J. Pincus, Marc R.
+                                      Cohen, Alex C. Lakatos, Mayer Brown LLP,
+                                      Washington, DC, for Amici Curiae The
+                                      Institute of International Bankers, American
+                                      Bankers Association, Bank Policy Institute, the
+                                      Chamber of Commerce in support of Defendants-
+                                      Appellees.
+
+WESLEY, Circuit Judge:
+
+      Plaintiffs-Appellants are American service members and civilians who were
+
+killed or injured, or their family members, during terrorist attacks in Afghanistan
+
+between 2011 and 2016. Improvised explosive devices (“IEDs”) were used by the
+
+terrorists in nearly all of the attacks.       Plaintiffs sued Defendants-Appellees
+
+
+                                           3
+Deutsche Bank Aktiengesellschaft and Deutsche Bank Trust Company Americas
+
+(together, “Deutsche Bank”); Standard Chartered Bank, Standard Chartered PLC,
+
+and Standard Chartered Bank (Pakistan) Limited (together, “SCB”); and Danske
+
+Bank A/S (“Danske Bank”) for aiding and abetting the terrorist attacks, in violation
+
+of the Anti-Terrorism Act (“ATA”), 18 U.S.C. § 2333, as amended by the Justice
+
+Against Sponsors of Terrorism Act (“JASTA”), id. § 2333(d)(2). SCB, Deutsche
+
+Bank, and Danske Bank are among the world’s largest international banks.
+
+      In the first cause of action, Plaintiffs offer three theories of liability. The
+
+thrust of Plaintiffs’ theories is that the Banks “provided substantial assistance to
+
+the terrorist organizations behind the attacks,” J.A. 668, by providing access to
+
+“resources they needed to commit the attacks that injured [P]laintiffs,” thus aiding
+
+and abetting the attacks, Appellants’ Br. at 3. First, Plaintiffs contend that SCB
+
+provided commercial bank services to two Pakistani fertilizer companies whose
+
+product was smuggled into Afghanistan and used to manufacture the IEDs that
+
+were employed in the bombings that injured Plaintiffs, thereby aiding and
+
+abetting those bombings. Second, Plaintiffs contend that the Banks purportedly
+
+facilitated large-scale money laundering schemes while knowing that money
+
+laundering is closely connected to terrorist financing.     Under that theory, the
+
+
+
+                                         4
+Banks aided and abetted the attacks because the proceeds of these sprawling
+
+money laundering operations ultimately reached the terrorist organizations.
+
+Third, Plaintiffs contend that the Banks aided and abetted the financing of a
+
+complex web of terrorists in Afghanistan and Pakistan known as the “Syndicate”
+
+by facilitating transactions in tax fraud schemes while knowing that such schemes
+
+were commonly used by terrorists.
+
+       In the second cause of action, Plaintiffs allege that Defendants’ banking
+
+services aided and abetted a terrorist “campaign” engaged in a pattern of violent
+
+“racketeering” activities designed to remove Americans from Afghanistan. J.A.
+
+669.   Plaintiffs argue that liability can extend to Defendants for purportedly
+
+aiding a group of terrorists in their nearly decades-long racketeering activities, as
+
+opposed to aiding a particular terrorist attack.
+
+       The United States District Court for the Eastern District of New York
+
+(Gonzalez, J.) granted Defendants’ motion to dismiss for failure to state a claim
+
+under Federal Rule of Civil Procedure 12(b)(6), concluding that none of Plaintiffs’
+
+theories sufficiently alleged an aiding-and-abetting claim under JASTA.
+
+Plaintiffs argue on appeal that the district court erred in dismissing their complaint
+
+and argue that Defendants knowingly and culpably provided their customers with
+
+
+
+                                           5
+assistance to aid and abet the attacks or the terrorist racketeering “campaign.”
+
+We disagree. Accordingly, we AFFIRM the district court’s dismissal.
+
+                                     BACKGROUND
+
+       The factual background comes from the allegations in Plaintiffs’ operative
+
+complaint, as well as any documents incorporated by reference. See Chambers v.
+
+Time Warner, Inc., 282 F.3d 147, 152 (2d Cir. 2002). In reviewing the district court’s
+
+dismissal under Rule 12(b)(6), we accept the allegations as true and construe them
+
+in the light most favorable to Plaintiffs. See id.
+
+       I.     The Banks’ Connections to the Attacks
+
+       Plaintiffs or their family members were injured or killed between 2011 and
+
+2016 in attacks committed, planned, or authorized by members of the Syndicate, a
+
+complex “joint venture” of terrorists in Afghanistan and Pakistan. J.A. 98. Al-
+
+Qaeda led the Syndicate, which also included the Taliban, particularly “the most
+
+extreme faction of the Taliban” known as the Haqqani Network. J.A. 78. The
+
+U.S. Government designated Al-Qaeda as a foreign terrorist organization (“FTO”)
+
+in 1999 and the Haqqani Network in 2012. 2 Plaintiffs seek to hold Defendants
+
+
+
+2 The U.S. Secretary of State “is authorized to designate an organization as a foreign
+terrorist organization” if it “engages in terrorist activity” or “retains the capability and
+intent to engage in terrorist activity” and “the terrorist activity . . . threatens the security
+
+                                               6
+liable as aiders and abettors of the attacks for providing financial services to certain
+
+individuals and entities affiliated with the Syndicate. 3
+
+          A. SCB’s Financial Services to Pakistani Fertilizer Companies
+
+      Plaintiffs allege that SCB aided and abetted the Syndicate by providing
+
+banking services to Fatima Fertilizer Company Limited and Pakarab Fertilizers
+
+Limited (together, “the Companies”). As further described below, downstream
+
+actors used a fertilizer both Companies produced to manufacture Syndicate
+
+bombs employed in attacks against Americans.
+
+      The Companies are two “related” Pakistani fertilizer companies with a
+
+“near-monopoly” in Pakistan on the production of calcium ammonium nitrate
+
+(“CAN”) fertilizer. J.A. 308. The Companies “legally produce[]” CAN and other
+
+fertilizer, which is marketed by distributors “to millions of Pakistani cotton, fruit
+
+and wheat farmers.” 4
+
+
+
+of United States nationals or the national security of the United States.” 8 U.S.C.
+§ 1189(a)(1).
+3 Plaintiffs also brought claims below against several money remitters, as well as under
+additional theories of liability against Defendants. Because Plaintiffs “have failed to
+make any meaningful—let alone meritorious—argument as to how the district court
+erred in analyzing” these issues, we deem these claims abandoned. In Re Philip Morris
+Int’l Inc. Sec. Litig., 89 F.4th 408, 428 (2d Cir. 2023).
+4 Chris Brummitt, Pakistani Fertilizer Fuels Afghan Bombs, US Troop Deaths, Associated
+Press (Aug. 31, 2011), https://www.nbcnews.com/id/wbna44346944. Plaintiffs fault the
+
+                                           7
+       In 2008, the Syndicate increased its use of “ammonium nitrate bombs
+
+derived from CAN fertilizer.” J.A. 307. By 2009, “ammonium nitrate fertilizer
+
+bombs had become the deadliest weapons used by Syndicate terrorists to attack
+
+Americans.” J.A. 309 (alterations adopted) (internal quotation marks and citation
+
+omitted). In response to the Syndicate’s increased reliance on fertilizer-based
+
+IEDs, the Afghan government banned the “possession, production, and
+
+importation” of CAN in 2010. J.A. 310.
+
+       Smuggling CAN into Afghanistan, however, remained ubiquitous. A 2011
+
+Associated Press article reported that CAN was being “smuggled” across the border
+
+by “militants” or “trucked” from Pakistan into Afghanistan by “wealthy people
+
+with links to the insurgents.”       J.A. 310–11 (quoting Chris Brummitt, Pakistani
+
+Fertilizer Fuels Afghan Bombs, US Troop Deaths, Associated Press (Aug. 31, 2011),
+
+https://www.nbcnews.com/id/wbna44346944).               The article also identified the
+
+Companies as producers of the fertilizer used in the bombs killing Americans.
+
+
+
+district court for referring to “farmers” and “fertilizer dealers,” arguing that the
+complaint does not refer to such groups. Appellants’ Br. at 42 & n.5. While the
+complaint does not explicitly refer to “farmers,” the Associated Press article, quoted above,
+does. The district court was well within its authority to consider the article, which
+Plaintiffs cite and quote from extensively in their complaint. See Chambers, 282 F.3d at
+152–53. Moreover, the portion of the complaint the district court cited quotes the
+article’s reference to fertilizer “dealers” directly. See J.A. 311.
+
+
+                                             8
+Military leadership concluded that about “one percent” of the Companies’ total
+
+CAN output “was transferred to insurgents” who made it into inexpensive
+
+explosives, which in turn were responsible for around “80 percent of IEDs” and
+
+around “90 percent of U.S. casualties in Afghanistan.”           J.A. 311 (alteration
+
+adopted) (internal quotation marks and citation omitted).
+
+      The U.S. Government appealed directly to the Companies to try to prevent
+
+terrorists from obtaining CAN. The Government requested that the Companies
+
+facilitate better management of the flow of their fertilizer into Afghanistan. For
+
+example, the Government sought to have the Companies add “a color or an odor”
+
+(at the expense of the U.S. Government) to their fertilizer for easier detection at the
+
+Afghani-Pakistani border. J.A. 313. The Companies refused these requests.
+
+      Lawmakers expressed frustration with the Companies’ unwillingness to
+
+help. One member of the U.S. House of Representatives opined that there was a
+
+connection between the Companies’ refusal to help and “rogue” members of a
+
+Pakistani intelligence agency who wanted to “destabilize the Afghan government”
+
+by allowing the “Haqqani Network to smuggle this across the border.” J.A. 312–
+
+13. By 2013, news reports indicated that evidence suggested that the intelligence
+
+agency was “influencing” the Companies’ decisions. J.A. 315.
+
+
+
+                                          9
+      In the fall of 2012, members of the U.S. military began “complement[ing]”
+
+their efforts to “persuade” the Companies “to cease supplying the Syndicate with
+
+easy-to-divert fertilizer by identifying corporations and banks that, directly or
+
+indirectly, facilitated the Syndicate’s CAN fertilizer bomb pipeline through [the
+
+Companies].” J.A. 317. Military personnel then “contacted” those corporations
+
+and banks “to encourage them to change their practices in order to interdict the
+
+flow” of CAN to Syndicate terrorists. J.A. 317. That effort included speaking to
+
+executives at SCB, which provided foreign exchange, export finance, and letter-of-
+
+credit services to the Companies from 2009 to at least 2016.         In 2010, the
+
+Companies “publicly identified” SCB as “one of the ‘major bankers of the
+
+company.’” J.A. 316 (citation omitted).
+
+      In January 2013, members of the U.S. military, including Lieutenant General
+
+Mike Barbero, then-leader of the Department of Defense’s counter-IED
+
+organization, met with senior SCB executives in New York. At that meeting,
+
+Plaintiffs allege that Lieutenant General Barbero informed SCB that: (1) CAN—
+
+“exclusive[ly]” sourced from the Companies—was involved in “approximately
+
+80% of all American bomb casualties in Afghanistan”; (2) the Companies “had
+
+repeatedly refused to cooperate with American efforts to stop, or even reduce, the
+
+
+
+                                       10
+unfettered flow of . . . CAN Fertilizer into Afghanistan for use by al-Qaeda
+
+affiliated terrorists”; and (3) SCB provided “irreplaceable foreign exchange and
+
+export finance services” to the Companies, without which they would not be able
+
+to supply fertilizer to the Syndicate “at the scale necessary to sustain the
+
+Syndicate’s nationwide CAN fertilizer bomb campaign.”          J.A. 317–18.    The
+
+Lieutenant General “urg[ed]” SCB to stop providing banking services to the
+
+Companies, claiming it would “save American lives.” J.A. 318. Nevertheless,
+
+SCB continued to provide the Companies with the same financial services after
+
+this meeting.
+
+                B. Money Laundering
+
+      Plaintiffs allege that the Banks aided and abetted the Syndicate’s terrorist
+
+attacks through their involvement in money laundering schemes.         The Banks
+
+purportedly have a history of placing profits first, failing to employ robust anti-
+
+money laundering and counter-terrorist finance policies, and operating in “‘high
+
+risk’ terrorist finance jurisdictions,” such as Afghanistan, Pakistan, and Russia.
+
+J.A. 350.   The FBI apparently concluded that this “culture” allowed money
+
+laundering to thrive. See J.A. 396. Money laundering generated a particularly
+
+“potent form of terrorist finance” because “regular and predictable cash flow” in
+
+
+
+                                        11
+U.S. dollars increased the Syndicate’s effectiveness. J.A. 469–70. The U.S. dollar
+
+is the preferred currency “because it is stable and can be spent anywhere.”
+
+J.A. 79.
+
+                       1. SCB
+
+       Plaintiffs allege that SCB contributed to the Syndicate’s money laundering
+
+operations when SCB performed U.S.-dollar transactions for entities connected to
+
+a well-known Syndicate money launderer.             From 2008 through 2016, SCB
+
+provided financial services to two Emirati entities: Al Zarooni Exchange and
+
+Mazaka General Trading. Al Zarooni and Mazaka served as “fronts” for Altaf
+
+Khanani, an “internationally infamous” money launderer for the Syndicate. J.A.
+
+219–20.    Khanani “used accounts” at SCB “on behalf of” Al Zarooni and
+
+“maintained accounts . . . on behalf of Mazaka” to execute “USD-denominated
+
+transactions” and “repatriate it back to al-Qaeda or Haqqani Network-controlled
+
+accounts to be shared with the other members of the Syndicate.” J.A. 222, 294–
+
+95. News reporting in the early 2000s connected Khanani and an affiliated entity,
+
+Khanani & Kalia International, to terrorist financing. 5      In 2008, Khanani was
+
+
+
+5 See J.A. 361 (“The worldwide hunt for [al-Qaeda’s] finances … could [] dead-end in a
+place like [the Khanani & Kalia currency exchange], one of [Pakistan’s] ubiquitous
+currency exchanges.” (alterations in original)); J.A. 362 (“One of the largest exchange
+
+                                          12
+charged in Pakistan with laundering over “$10 billion annually”; he purportedly
+
+avoided conviction with a “bribe.” J.A. 223. Khanani then moved to Dubai and
+
+continued his money laundering operation from there until his arrest by the
+
+United States in September 2015. Plaintiffs allege that the money laundering
+
+scheme “continued operating after Khanani’s arrest” and conviction in 2016 for
+
+money laundering. J.A. 226.
+
+      Between 2012 and 2013, during “a terrorism-related audit,” “a senior
+
+compliance employee” at SCB Dubai learned that SCB Dubai used SCB New York
+
+to process U.S. dollar-denominated transactions for “one or more known Khanani
+
+fronts” and that “Khanani was a suspected terrorist money launderer who
+
+laundered overseas funds on behalf of anti-American terrorist groups.” J.A. 296.
+
+A “whistleblower” determined that “there were many SCB transactions post-2008
+
+on behalf of Al Zarooni Exchange.”              J.A. 298 (alteration adopted).       SCB
+
+purportedly “retaliated against one or more persons who questioned the
+
+foreseeable terrorism risks raised by SCB Dubai’s and SCB New York’s practices.”
+
+
+
+
+houses and hawala dealers in the Muslim world, [Khanani & Kalia International (or ‘KKI’),
+i.e., the Khanani MLO ] … [was] now being investigated … on suspicion of having
+transferred money to militant groups, American and Pakistani officials said.” (alterations
+in original)).
+
+
+                                           13
+J.A. 297. Plaintiffs estimate that SCB helped Khanani with at least $5,350,000 in
+
+terrorist financing between 2009 and 2016.
+
+      That would not have been the first time SCB was charged with facilitating
+
+terrorist financing. In 2012, SCB entered into a deferred prosecution agreement
+
+with the U.S. Attorney’s Office for the District of Columbia, resolving potential
+
+charges related to SCB’s financial services for “known and suspected fronts for
+
+Iranian terrorist groups such as Hezbollah and the IRGC-QF.” J.A. 427–28. That
+
+same year, SCB entered into a Consent Order with the New York State Department
+
+of Financial Services related to the same misconduct. In 2014, when the New
+
+York State Department of Financial Services fined SCB for failing to adhere to the
+
+Consent Order, SCB admitted to “deficiencies in the anti-money laundering
+
+transaction surveillance system at its New York branch.” J.A. 452.
+
+                      2. Deutsche Bank
+
+      Plaintiffs allege that Deutsche Bank set up a money laundering operation
+
+for Russian organized crime that benefitted the Syndicate’s drug trade and the
+
+Syndicate’s own money laundering efforts.       In 2011, Deutsche Bank’s “head
+
+equities trader” in Moscow met with two unnamed (but allegedly well-known)
+
+
+
+
+                                       14
+money launderers “notoriously associated with the Russian Mafia” 6 to “custom
+
+build” a “Russian Laundromat.” J.A. 265, 258. The Russian Laundromat was an
+
+“industrial-scale operation” that used “mirror trades” to convert rubles to U.S.
+
+dollars and move the money undetected across international borders. J.A. 392,
+
+404. Basically, a company asks a trading desk in Moscow to purchase a “blue chip
+
+Russian stock” in rubles while a different company asks another trading desk at
+
+the same bank to sell “the same number of shares of the same Russian stock in
+
+USD.” J.A. 258 n.281. The companies are actually owned by the same person,
+
+thus allowing the individual to exchange rubles for U.S. dollars across borders
+
+“without scrutiny.” J.A. 258 n.281.
+
+      As covered in public documents and the media, the Syndicate has for
+
+decades grown opium and sold it to Russians in exchange for laundered money
+
+and weapons. Plaintiffs contend that “the Russian Mafia used” the Laundromat
+
+“to convert al-Qaeda’s and the Taliban’s sea of Rubles from their Russian opium
+
+sales” into U.S. dollars, which was the “‘gold standard’ of Syndicate terrorist
+
+finance.” J.A. 258. Deutsche Bank also exploited the Russian Laundromat to
+
+
+
+6Plaintiffs allege that the “Russian Mafia” includes “the Solntsevskaya Group, which
+was Russia’s largest transnational narco-terrorist cartel” and Semion Mogilevich, who
+was publicly described as “one of the world’s most dangerous terrorists.” J.A. 238–39.
+
+
+                                         15
+execute trades on behalf of Khanani—via accounts held by Al Zarooni and
+
+Mazaka—which ultimately led to tens of millions of dollars making its way back
+
+to the Syndicate. 7 Plaintiffs allege that processing the “bulk 7- and 8-figure USD
+
+cash transfers that were common in the Syndicate’s opium trade” were something
+
+that only large global banks could handle. J.A. 124.
+
+      Deutsche Bank’s “size and global presence” also concealed the Russian
+
+Laundromat from detection.       J.A. 473.   However, it may not have escaped
+
+scrutiny altogether.    In 2014, a Cypriot bank found the “pattern” of a
+
+counterparty’s transactions with Deutsche Bank “suspicious.” J.A. 417–18. The
+
+bank sent a Request for Assistance to Deutsche Bank in London to learn more
+
+information. Deutsche Bank’s head equities trader in Moscow responded to the
+
+inquiry by reassuring the bank that the company “passed through our KYC
+
+[know-your-customer] procedures” and that there was “no reason for concern.”
+
+J.A. 418. Plaintiffs allege that “statement was a lie told to conceal and sustain
+
+Deutsche Bank’s mirror trading scheme and the Russian Laundromat.” J.A. 418.
+
+The head equities trader later stated publicly, in October 2015, that Deutsche
+
+
+
+7 Plaintiffs allege that Khanani benefited from the Russian Laundromat. However, the
+complaint stops short of alleging Khanani’s involvement in its creation, instead
+conjecturing that discovery may reveal his direct or indirect assistance.
+
+
+                                        16
+Bank’s compliance department “must have known” about the mirror trades he
+
+conducted as part of the Russian Laundromat because he received “approvals”
+
+from “colleagues, including two senior Deutsche Bank managers at DB London.”
+
+J.A. 422.
+
+                       3. Danske Bank
+
+        Danske Bank operated the “Global Laundromat” through one of its
+
+branches in Estonia, called that because of “its magnitude and geographic reach,”
+
+J.A. 320; Plaintiffs allege that a customer with connections to a Syndicate-affiliated
+
+entity used the Laundromat.         The Global Laundromat “made over $233
+
+billion . . . in suspicious transactions” from 2007 to 2016. J.A. 319–20. In 2022,
+
+Danske Bank pled guilty to conspiracy to commit bank fraud and agreed to forfeit
+
+$2 billion to resolve a U.S. investigation into its Estonian operations beginning in
+
+2007.
+
+        Several individuals raised concerns about the operations in Estonia: “in
+
+2013, a whistleblower, an employee at the Estonia branch, reported to Danske
+
+Bank that Danske Bank knowingly continued to deal with a company that it knew
+
+had committed crime,” and “in 2014 Danske Bank’s own internal auditors had
+
+found branch staff to have deliberately concealed the identities of suspicious
+
+
+
+                                         17
+clients from local authorities.” J.A. 460. In addition, Plaintiffs allege that the
+
+profitability of that branch (10.7% of Danske Bank’s overall profit) was not
+
+“explainable,” which, considered with the “sheer number and volume of U.S.
+
+dollar transactions,” should have “raised red flags.” J.A. 460.
+
+      Plaintiffs allege that the Global Laundromat is connected to the Syndicate
+
+because “[a] customer of Danske Bank’s Estonia branch,” which “purportedly had
+
+‘hidden owners,’ exchanged millions” with Mazaka. J.A. 320. Plaintiffs cite a
+
+German news article from 2020, which states that “a total of $720,000 flowed into
+
+Mazaka’s account at Danske Bank.” J.A. 321 (alteration adopted).
+
+                C. VAT Fraud
+
+      Plaintiffs allege that SCB and Deutsche Bank facilitated transactions and
+
+trades for value-added tax (“VAT”) fraud schemes and that VAT fraud occurred
+
+through a Danish company’s account held at Danske Bank.                The Banks’
+
+involvement in these tax fraud schemes purportedly aided the Syndicate’s
+
+terrorist financing for its operations in Afghanistan.
+
+      VAT is a form of sales tax used in Europe that is paid at each step along a
+
+product’s chain of distribution.    Each purchaser pays the increment of VAT
+
+corresponding to the value it adds to the sale. “[I]t is possible to engage in fraud
+
+
+
+                                         18
+by moving goods across borders through a chain of sham businesses issuing fake
+
+invoices that give the appearance that VAT was paid when it was not.” J.A. 232–
+
+33. The fraudster then submits to a tax authority an invoice that falsely states
+
+VAT was paid on a product in one country, causing the tax authority of a different
+
+country to improperly issue a VAT refund.
+
+      Public reports by European authorities and global financial organizations
+
+have linked VAT fraud schemes to terrorist finance activity since around 2006.
+
+For example, in 2006, the United Kingdom’s Home Secretary John Reid “drew an
+
+explicit link between fundraising by terrorist groups and the European-wide so-
+
+called carousel VAT fraud.”     J.A. 236 (alteration adopted) (internal quotation
+
+marks and citation omitted).     The Syndicate set up “VAT fraud cells” that
+
+obtained fraudulent refunds from European governments.            J.A. 233.   The
+
+proceeds would be laundered through international banks “to convert the Euros
+
+obtained through the VAT fraud into USD, which the Syndicate greatly
+
+preferred.”   J.A. 234.   Plaintiffs generally identify three VAT fraud schemes
+
+involving the Banks: one run by a teenaged Syndicate operative, Samir Azizi,
+
+which used both SCB and Deutsche Bank; another by a British-Pakistani citizen,
+
+Imran Yakub Ahmed, using Deutsche Bank; and a third one through an account
+
+
+
+                                       19
+at Danske Bank held by a Danish company.
+
+       Azizi perpetrated his VAT fraud by purchasing cell phones in the United
+
+States and sending them to Afghanistan “through Europe and Dubai.” J.A. 281.
+
+Along the way, Azizi sought sham VAT refunds.           SCB and Deutsche Bank
+
+facilitated transactions and trades, which allowed Azizi to purchase cell phones
+
+for his fraud and route millions of dollars “likely” to the Syndicate. J.A. 274.
+
+Azizi’s scheme “used Deutsche Bank accounts,” while SCB “transferr[ed] the
+
+funds” on the scheme’s behalf, from around 2009 until his arrest in 2015. J.A. 275,
+
+300.   After Azizi’s arrest, he reported to law enforcement that SCB “made
+
+available” a company that served as a “vital cog[]” in his VAT fraud scheme. J.A.
+
+299. He similarly identified Deutsche Bank as a “willing financial partner” in the
+
+scheme. J.A. 275. The complaint does not state that SCB or Deutsche Bank were
+
+charged for their roles in Azizi’s scheme.
+
+       Ahmed raised over a billion Euros from his VAT fraud schemes. From
+
+2005 to 2010, Deutsche Bank “facilitat[ed] transactions” for Ahmed, J.A. 274, which
+
+resulted in at least $10 million in financing repatriated to the Syndicate. Ahmed
+
+was convicted in 2017 by an Italian court for “conspiracy to steal VAT.” J.A. 238.
+
+The complaint does not allege that Deutsche Bank was charged for its role in
+
+
+
+                                        20
+Ahmed’s scheme.
+
+      For Azizi and Ahmed’s schemes, Deutsche Bank employees also traded
+
+carbon emissions certificates.    In the carbon trading market, companies buy
+
+emissions permits in one European country without paying VAT and then re-sell
+
+them in the market to another company, “adding VAT to the price and generating
+
+tax refunds when no tax had been paid.” 8 Deutsche Bank purportedly would
+
+“buy up the certificates from various front companies, export them, and put them
+
+back into the system.” J.A. 276. It also used a “program that enabled super-fast
+
+transfers,” which allowed the transactions to “run across multiple accounts” and
+
+“generate even more profit.” J.A. 276. At an unspecified time, a Deutsche Bank
+
+compliance employee told the team that the carbon-emissions market generally
+
+was “showing typical characteristics of a sales tax” fraud. J.A. 393. In April
+
+2010, German law enforcement searched Deutsche Bank’s Frankfurt offices on
+
+suspicions of “aiding and abetting VAT fraud” based on its carbon trades. J.A.
+
+283. In December 2012, German authorities “raided” Deutsche Bank offices for
+
+
+
+
+8 Alexander Hübner & Jonathan Gould, Seven Deutsche Bank Staff Charged Over Carbon
+Trading Scandal, Reuters (Aug. 13, 2015), https://www.reuters.com/article/uk-deutsche-
+bankcarbon-idUKKCN0QI0M220150813. Plaintiffs cite and rely on this article in their
+complaint. See J.A. 274.
+
+
+                                         21
+evidence related to VAT fraud and criminal charges were brought “against some
+
+of the [employees] involved” in 2015. J.A. 275. However, the complaint does
+
+not allege that Deutsche Bank was charged for its involvement.
+
+      With respect to Danske Bank, Plaintiffs allege that in 2009, one of its
+
+branches in Denmark “allowed accounts controlled by the Danish-owned
+
+company Swefin to conduct VAT fraud of over $100 million.” J.A. 323. The
+
+same account was used a year later to facilitate a VAT fraud scheme that targeted
+
+Spain’s tax authorities.    The complaint adds that VAT fraud schemes by
+
+individuals with suspected ties to the Syndicate were common in Denmark;
+
+“[p]ublished reports indicate that VAT fraud in Denmark accounted for
+
+approximately $12 million in terrorist finance.” J.A. 325.
+
+      II.    Procedural Background
+
+      Plaintiffs brought two causes of action against the Banks under JASTA:
+
+First, they alleged that the Banks’ financial services to non-terrorist entities
+
+affiliated with the Syndicate indirectly aided and abetted the terrorist attacks that
+
+injured and killed the American service members and civilians. Second, they
+
+claimed that the Banks’ financial services more generally aided and abetted what
+
+Plaintiffs call the “Taliban-al-Qaeda Campaign,” i.e., the Syndicate’s “pattern of
+
+
+
+                                         22
+racketeering activity” designed to “expel Americans from Afghanistan” through
+
+violence. J.A. 669–70.
+
+       The district court granted Defendants’ motion to dismiss for failure to state
+
+a claim pursuant to Federal Rule of Civil Procedure 12(b)(6).           See Wildman v.
+
+Deutsche Bank Aktiengesellschaft, 21-CV-04400, 2022 WL 17993076, at *2 (E.D.N.Y.
+
+Dec. 29, 2022). The court characterized the complaint as “a series of vignettes
+
+describing a wide range of criminal activity” that “go into great detail about the
+
+complex interplay between different criminal players, and how those criminals or
+
+terrorists contributed to Plaintiffs’ injuries” but, in the end, failed “to establish the
+
+necessary nexus between any Defendant and the alleged terrorist acts that injured
+
+Plaintiffs.”   Id. at *5.   The court dismissed the complaint with prejudice,
+
+concluding that any further amendment would be futile because Plaintiffs had
+
+already amended their six-hundred-page complaint once after Defendants raised
+
+in a pre-motion conference letter the same deficiencies that the district court relied
+
+on in dismissing. Id. at *27 n.38. Plaintiffs appeal the district court’s dismissal of
+
+both causes of action.
+
+
+
+
+                                           23
+                                       DISCUSSION
+
+         “We review de novo a district court’s dismissal of a complaint under Rule
+
+12(b)(6).”     Freeman v. HSBC Holdings PLC, 57 F.4th 66, 74 (2d Cir. 2023).       A
+
+complaint survives a motion to dismiss when, accepting its non-conclusory
+
+allegations as true, the complaint plausibly supports a claim for relief. Ashcroft v.
+
+Iqbal, 556 U.S. 662, 678 (2009). “A claim has facial plausibility when the plaintiff
+
+pleads factual content that allows the court to draw the reasonable inference that
+
+the defendant is liable for the misconduct alleged.” Id. That burden is not met
+
+where a pleading offers only “labels and conclusions,” “a formulaic recitation of
+
+the elements of a cause of action,” or “naked assertions devoid of further factual
+
+enhancement.”        Id. (alteration adopted) (internal quotation marks and citation
+
+omitted).
+
+         I.     JASTA
+
+         The ATA authorizes U.S. nationals who are “injured in his or her person,
+
+property, or business” to sue the primary perpetrator of an “act of international
+
+terrorism” for treble damages, plus attorney’s fees and costs. 9 18 U.S.C. § 2333(a).
+
+
+
+9   International terrorism as defined in the ATA includes activities that:
+                (A) involve violent acts or acts dangerous to human life that
+                are a violation of the criminal laws of the United States or of
+
+                                              24
+In 2016, JASTA added a cause of action for those who aid and abet an act of
+
+terrorism.    See Pub. L. No. 114-222, 130 Stat. 852 (2016).                Specifically, U.S.
+
+nationals may sue “any person who aids and abets, by knowingly providing
+
+substantial assistance, or who conspires with the person who committed . . . an act
+
+of international terrorism.”         18 U.S.C. § 2333(d)(2); see also id. § 2333(d)(1)
+
+(incorporating the definition of “person” of 1 U.S.C. § 1, which includes
+
+“corporations” and “companies”).             The “act of international terrorism” must
+
+have been “committed, planned, or authorized by an organization that had been
+
+designated as a foreign terrorist organization under [8 U.S.C. § 1189] as of the date
+
+
+
+              any State, or that would be a criminal violation if committed
+              within the jurisdiction of the United States or of any State;
+              (B) appear to be intended—
+                       (i) to intimidate or coerce a civilian population;
+                       (ii) to influence the policy of a government by
+                       intimidation or coercion; or
+                       (iii) to affect the conduct of a government by mass
+                       destruction, assassination, or kidnapping; and
+              (C) occur primarily outside the territorial jurisdiction of the
+              United States, or transcend national boundaries in terms of
+              the means by which they are accomplished, the persons they
+              appear intended to intimidate or coerce, or the locale in which
+              their perpetrators operate or seek asylum; . . . .
+
+18 U.S.C. § 2331(1).
+
+
+
+
+                                              25
+on which such act of international terrorism was committed, planned, or
+
+authorized.” Id. § 2333(d)(2).
+
+      When Congress enacted JASTA, it explicitly endorsed the D.C. Circuit’s
+
+analysis in Halberstam v. Welch, 705 F.2d 472 (D.C. Cir. 1983), as the “proper legal
+
+framework” for assessing aiding-and-abetting claims.               130 Stat. at 852.
+
+Halberstam outlined three elements for aiding-and-abetting liability. First, “the
+
+party whom the defendant aids must perform a wrongful act that causes an
+
+injury.” Halberstam, 705 F.2d at 477. Second, “the defendant must be generally
+
+aware of his role as part of an overall illegal or tortious activity at the time that he
+
+provides the assistance.”      Id.   Finally, the defendant must “knowingly and
+
+substantially assist the principal violation.” Id. Halberstam further identified six
+
+factors relevant to whether a defendant’s assistance qualified as “substantial”:
+
+“(1) the nature of the act encouraged, (2) the amount of assistance given by
+
+defendant, (3) defendant’s presence or absence at the time of the tort, (4)
+
+defendant’s relation to the principal, (5) defendant’s state of mind, and (6) the
+
+period of defendant’s assistance.” Linde v. Arab Bank, PLC, 882 F.3d 314, 329 (2d
+
+Cir. 2018) (citing Halberstam, 705 F.2d at 483–84).
+
+
+
+
+                                          26
+       We have applied the pleading requirements to state a claim for secondary
+
+liability under JASTA on several occasions, each time guided by Congress’s
+
+instruction to use the Halberstam framework. For example, in Honickman v. BLOM
+
+Bank SAL, we affirmed the dismissal of a JASTA claim where the plaintiffs did not
+
+sufficiently allege the defendant-bank’s general awareness of its customers’ ties to
+
+terrorists prior to the attacks. See 6 F.4th 487, 501–03 (2d Cir. 2021). Relatedly,
+
+in Siegel v. HSBC North American Holdings, Inc., the plaintiffs provided only
+
+conclusory allegations that a defendant-bank’s services to another bank with
+
+possible terrorist connections aided and abetted terrorist attacks; this Court held
+
+that the plaintiffs did not sufficiently allege that the defendant-bank was generally
+
+aware of its role in the terrorist activities or that it substantially assisted the
+
+terrorists.   See 933 F.3d 217, 224–26 (2d Cir. 2019).    But in Kaplan v. Lebanese
+
+Canadian Bank, SAL, the plaintiffs sufficiently alleged both the general awareness
+
+and knowing and substantial assistance factors, given the defendant-bank’s
+
+targeted services that allowed customers—publicly-identified by senior officials of
+
+the terrorist organization that carried out the relevant attacks as “integral” to the
+
+
+
+
+                                         27
+organization—to hide their money laundering transactions while circumventing
+
+U.S. sanctions. See 999 F.3d 842, 864–67 (2d Cir. 2021). 10
+
+         In Twitter, Inc. v. Taamneh, 598 U.S. 471 (2023)—decided after the district
+
+court’s decision and while briefing for this appeal was ongoing—the Supreme
+
+Court clarified that Halberstam’s “elements and factors should not be taken as
+
+inflexible codes.”    Twitter, 598 U.S. at 497.      Rather, Halberstam’s framework
+
+“rest[s] on the same conceptual core that has animated aiding-and-abetting
+
+liability for centuries: that the defendant consciously and culpably ‘participate[d]’
+
+in a wrongful act so as to help ‘make it succeed.’” Id. at 493 (second alteration in
+
+original) (quoting Nye & Nissen v. United States, 336 U.S. 613, 619 (1949)).
+
+      Plaintiffs in Twitter brought an aiding-and-abetting claim under JASTA
+
+against several social media companies.         They alleged that those companies
+
+aided and abetted a terrorist attack committed on behalf of the Islamic State of Iraq
+
+and Syria (“ISIS”) because ISIS used the social media platforms and their
+
+
+
+
+10 We have also considered JASTA claims outside of the pleading context. See Linde, 882
+F.3d at 328–29 (addressing whether instructional error on ATA primary liability claim
+was harmless in light of newly-available JASTA secondary liability claim); Weiss v. Nat’l
+Westminster Bank, PLC, 993 F.3d 144, 163–67 (2d Cir. 2021) (considering district court’s
+denial of plaintiffs’ motion to amend complaint to add secondary liability claims
+following grant of summary judgment dismissing ATA primary liability claims).
+
+
+                                           28
+recommendation algorithms to recruit and fundraise—activities “crucial to ISIS’
+
+growth.” Id. at 481–82. The plaintiffs did not allege that the particular terrorist
+
+attack was planned using the platforms or that the companies somehow favored
+
+ISIS’ content, id. at 498; instead, they alleged that the companies failed to do
+
+enough to stop ISIS from using the platforms, id. at 500. They further claimed
+
+that these companies profited from advertisements automatically added to ISIS’
+
+posts, id. at 480–81, and that the companies knew for years that ISIS used their
+
+platforms, id. at 481.
+
+      The Supreme Court held that these allegations failed to state a viable aiding-
+
+and-abetting claim, considering both common law principles and Halberstam’s
+
+framework, which “reflected and distilled those common-law principles.” See id.
+
+at 492, 497–504.     Most significantly, the Supreme Court explained that the
+
+common law makes clear that “passive nonfeasance” is insufficient to support
+
+aiding-and-abetting liability without “a strong showing of assistance and
+
+scienter.” Id. at 500. The social media companies did not elevate ISIS’ content
+
+or screen it before allowing users to upload it—behavior that may have indicated
+
+a degree of affirmative misconduct.     See id. at 498–99.   Instead, the plaintiffs
+
+
+
+
+                                        29
+effectively faulted the social media companies for “watching passively as ISIS
+
+carried out its nefarious schemes.” Id. at 500.
+
+        That “some bad actors took advantage of these platforms” was insufficient
+
+to plead knowing and substantial assistance even though the social media
+
+companies knew that ISIS exploited the platforms to recruit, fundraise, and spread
+
+its message.       Id. at 481, 503.     In essence, the Supreme Court reasoned,
+
+“‘[c]ulpability of some sort is necessary to justify punishment of a secondary actor,’
+
+lest mostly passive actors like banks become liable for all of their customers’ crimes
+
+by virtue of carrying out routine transactions.”        Id. at 491 (alteration omitted)
+
+(quoting Monsen v. Consolidated Dressed Beef Co., 579 F.2d 793, 799 (3d Cir. 1978)).
+
+The Supreme Court also concluded, with reference to Halberstam’s “six
+
+substantiality factors,” that the general availability of the companies’ platforms,
+
+their mere “incidental” benefit to ISIS, and the indistinguishable nature of the
+
+companies’ relationship with ISIS from their other users, supported the conclusion
+
+that the companies did not culpably direct any conduct towards ISIS. Id. at 504.
+
+        The parties dispute whether, and to what extent, Twitter conflicts with our
+
+past JASTA aiding-and-abetting cases. 11 There is no doubt that the conclusions
+
+
+
+11   See Appellees’ Br. at 19 (“[Twitter] raise[d] the standard for pleading aiding-and-
+
+                                           30
+we have reached in the past are entirely consistent with Twitter’s command that
+
+aiding-and-abetting liability is reserved “to cases of truly culpable conduct.” Id.
+
+at 489. Nonetheless, given that Twitter offers some new guidance, it is best to
+
+revisit JASTA’s sweep under the Halberstam framework with the benefit of Twitter.
+
+                A. A Causal Relationship to the Injury
+
+      The first requirement under Halberstam’s framework is that “the party
+
+whom the defendant aids must perform a wrongful act that causes an injury.”
+
+Twitter, 598 U.S. at 486 (quoting Halberstam, 705 F.2d at 477).      JASTA permits
+
+recovery against those who aid and abet international terrorism “directly or
+
+indirectly.” Kaplan, 999 F.3d at 856 (quoting 130 Stat. at 853). Accordingly, a
+
+plaintiff may bring a claim for aiding and abetting under JASTA so long as “the
+
+defendant’s acts aided and abetted the principal even where his relevant
+
+substantial assistance was given to an intermediary.”           Id. at 856; see also
+
+Honickman, 6 F.4th at 495–96.      A plaintiff must also satisfy the “definitional
+
+requirements” in 18 U.S.C. § 2331, including, most significantly, the statutory
+
+
+
+
+abetting claims under the ATA above what this Court previously required”); Appellants’
+Reply at 15 (“Twitter is consistent with this Court’s precedents”).
+
+
+                                         31
+definition of “international terrorism.”       See Linde, 882 F.3d at 329; 18 U.S.C.
+
+§ 2331(1); see also supra n.9.
+
+                 B. The Defendant’s General Awareness
+
+       Under the Halberstam framework, to hold a defendant liable as an aider and
+
+abettor, the defendant also must be “generally aware of his role as part of an
+
+overall illegal or tortious activity at the time that he provides the assistance.”
+
+Twitter, 598 U.S. at 486 (quoting Halberstam, 705 F.2d at 477).            The phrase
+
+“generally aware” connotes “something less than full, or fully focused,
+
+recognition.”    Kaplan, 999 F.3d at 863.      In other words, although a defendant
+
+need not be aware of its role in the specific terrorist attack that caused the
+
+plaintiff’s injury, it must be generally aware of its role in some illegal activity from
+
+which the terrorist attack was foreseeable. Honickman, 6 F.4th at 496.
+
+       In many cases involving banks, a plaintiff’s aiding-and-abetting theory
+
+postulates that the defendant-bank aided the principal indirectly through the
+
+bank’s customers. In those circumstances, the general awareness inquiry focuses
+
+on (1) whether the bank was aware of the customers’ connections with the terrorist
+
+organization before the relevant attacks; and (2) whether the customers “were so
+
+closely intertwined with” the terrorist organization’s “violent terrorist activities
+
+
+
+                                          32
+that one can reasonably infer” that the bank “was generally aware of its role in
+
+unlawful activities from which the attacks were foreseeable while it was providing
+
+financial services” to those customers. Id. at 501; see also Kaplan, 999 F.3d at 860–
+
+61. Plaintiffs typically seek to establish a bank’s awareness of its customers’ ties
+
+to terrorist organizations by citing public sources, such as media articles pre-
+
+dating the attacks.    See, e.g., Kaplan, 999 F.3d at 862 (alleging that terrorist
+
+organization “repeatedly publicized” on its own websites, radio, and television
+
+stations that the bank’s customers were “integral parts” of the organization);
+
+Honickman, 6 F.4th at 502 & n.18. At the pleading stage, the plaintiff does not
+
+have to allege that the bank actually knew of or should have seen those public
+
+sources. Honickman, 6 F.4th at 501.
+
+                C. The Defendant’s Knowing and Substantial Assistance
+
+      The final requirement under the Halberstam framework is that the defendant
+
+provides knowing and substantial assistance.         The “twin requirements” of
+
+“knowing and substantial assistance” are “part of a single inquiry designed to
+
+capture conscious and culpable conduct.”       Twitter, 598 U.S. at 491, 504.   Both
+
+
+
+
+                                         33
+considerations work “in tandem”—“a lesser showing of one” demands “a greater
+
+showing of the other.” Id. at 491–92.
+
+      A few principles guide analysis of this element.             First, whether the
+
+defendant rendered knowing assistance is distinct from a defendant’s general
+
+awareness of its role in a terrorist scheme. 12      Id. at 504.   Unlike the general
+
+awareness inquiry, the defendant’s knowing assistance is “designed to capture the
+
+defendants’ state of mind with respect to their actions and the tortious conduct.”
+
+Id. Second, the defendant must aid and abet “the act of international terrorism
+
+that injured the plaintiffs—though that requirement does not always demand a
+
+strict nexus between the alleged assistance and the terrorist act.” Id. at 497. For
+
+example, the defendant need not “always” know “all particulars of the primary
+
+actor’s plan” or even of “the particular terrorist act.” Id. at 495, 504. But “a close
+
+nexus between the assistance and the tort might help establish that the defendant
+
+aided and abetted the tort.”      Id. at 496.   Finally, the crux of Halberstam’s six
+
+substantial assistance factors requires balancing “the nature and amount of
+
+
+
+12 This Court noted in Honickman that to satisfy the “knowing” component, the defendant
+need not know anything more about the principal’s unlawful activities beyond the
+defendant’s general awareness. 6 F.4th at 500. Twitter warns that it is inappropriate to
+collapse the general awareness element into the knowing and substantial assistance
+element. See 598 U.S. at 503–04.
+
+
+                                          34
+assistance on the one hand and the defendant’s scienter on the other.” 13 Id. at
+
+492–93.     The six factors are a tool to identify “participation in another’s
+
+wrongdoing that is both significant and culpable enough to justify attributing the
+
+principal wrongdoing to the aider and abettor.” Id. at 504.
+
+      II.    The Sufficiency of Plaintiffs’ Complaint
+
+      Both parties agree that Plaintiffs sufficiently allege the first Halberstam
+
+element: that the terrorists whom the Banks purportedly indirectly aided—the
+
+Syndicate—committed the attacks that caused Plaintiffs’ injuries.14 The parties
+
+dispute whether the complaint sufficiently alleges the Banks’ general awareness
+
+and their knowing and substantial assistance as to each of Plaintiffs’ theories of
+
+aiding-and-abetting liability. Plaintiffs allege sweeping theories of international
+
+
+
+
+13 This Court previously considered evidence of intent and the defendant’s state of mind
+as part of the “the third Halberstam element of knowing and substantial assistance.”
+Kaplan, 999 F.3d at 860. Although we noted that “absence of proof of intent is not fatal,”
+id., Halberstam and Twitter necessitate balancing scienter with the degree of assistance.
+14 However, the parties dispute whether each attack was “committed, planned, or
+authorized” by an organization designated as an FTO by the Secretary of State as required
+under 18 U.S.C. § 2333(d)(2). While the complaint alleges that the attacks were
+committed by the Syndicate, not every attack was committed by the same entities, nor
+was every entity designated as an FTO for the entire 2011–2016 timeframe. Because we
+conclude that Plaintiffs otherwise fail to state a claim, we assume without deciding that
+the “committed, planned, or authorized” requirement is satisfied.
+
+
+                                           35
+criminal conspiracies spanning different continents and terrorist organizations
+
+without ever persuasively tying those theories to the terrorist attacks here.
+
+                A. SCB’s Banking Services for the Fertilizer Companies
+
+      Plaintiffs seek to hold SCB liable as an aider and abettor of the Syndicate’s
+
+terrorist attacks for continuing to provide the Companies with basic commercial
+
+banking services after learning that the Companies’ product would be exploited
+
+by the Syndicate to make IEDs that would harm Americans.             The complaint
+
+plausibly demonstrates that SCB was generally aware of its indirect role.
+
+However, the complaint does not allege that SCB provided knowing and
+
+substantial assistance to the Syndicate’s terrorist activities by way of its banking
+
+relationship with the Companies.
+
+      The complaint alleges that SCB was generally aware that its banking
+
+services to the Companies indirectly had a connection to the Syndicate’s terrorist
+
+activities. An article published in 2011 identified the Companies’ fertilizer as the
+
+“main ingredient in most of the homemade bombs” used by the Syndicate against
+
+Americans in Afghanistan. J.A. 310. In 2012, a member of the U.S. House of
+
+Representatives expressed frustrations during a hearing that the Companies
+
+refused to help the U.S. Government facilitate detection of CAN at the Afghan
+
+
+
+                                         36
+border. SCB certainly became generally aware of its connection by 2013 when
+
+Lieutenant General Barbero told SCB that the Companies’ product was the source
+
+for the explosive materials used by the Syndicate; that CAN IEDs had caused
+
+about 80 percent of all American bomb casualties in Afghanistan; that the
+
+Companies had refused to cooperate with efforts to prevent individuals from
+
+smuggling CAN into Afghanistan; and that SCB’s banking services were crucial to
+
+allow the Companies to produce the amount of fertilizer necessary to “sustain”
+
+the Syndicate’s attacks.   J.A. 317–18.    After that meeting, SCB was generally
+
+aware that its banking services would play a role (albeit indirectly) in the
+
+Syndicate’s use of CAN bombs against Americans, especially because the
+
+Companies had rebuffed the U.S. Government’s efforts to prevent traffickers from
+
+diverting CAN to Afghanistan.
+
+      But we know from Twitter that knowledge of one’s role in terrorist activities
+
+by itself is insufficient to allege an aiding-and-abetting claim. There, the social
+
+media companies knew that ISIS used their platforms to recruit and fundraise its
+
+operations.   The Supreme Court nonetheless concluded that the plaintiffs’
+
+allegations were insufficient to plead knowing and substantial assistance.
+
+Twitter, 598 U.S. at 497, 501. The same is true here. Even with SCB’s general
+
+
+
+                                          37
+awareness of its indirect role in the Syndicate’s bombmaking operations, the
+
+complaint does not allege that SCB consciously or culpably sought to make the
+
+Syndicate’s bombings succeed.
+
+      Plaintiffs argue that SCB’s banking services, which continued after SCB’s
+
+meeting with the U.S. Government, demonstrate the bank’s knowing and
+
+substantial assistance.   Plaintiffs emphasize that SCB’s financial services were
+
+critical to the Syndicate’s ready access to the Companies’ fertilizer: without the
+
+ability to transact in U.S. dollars through the Companies’ SCB accounts, the cost
+
+of two of the most important components for the fertilizer would have increased
+
+and thus the Companies “could not have maintained their stable low-cost prices”
+
+necessary to allow the Syndicate to acquire as much fertilizer and detonate as
+
+many bombs against Americans as it did. J.A. 505–06. Similarly, SCB’s letter-of-
+
+credit services “ensure[d] the smooth operation of [the Companies’] fertilizer
+
+sales.” J.A. 507.
+
+      Those allegations, while serious, unfortunately focus “primarily on the
+
+value” of SCB’s services to the Companies and assume that those services
+
+ultimately inured to the benefit of the Syndicate, as opposed to “whether [SCB]
+
+culpably associated” itself with the Syndicate’s wrongful actions. See Twitter, 598
+
+
+
+                                        38
+U.S. at 504. Moreover, considering the tenuous connection between the banking
+
+services and the terrorist attacks, SCB’s services were not substantial.       SCB’s
+
+banking services allowed the Companies to continue producing and selling their
+
+products, one of them being CAN fertilizer—legally produced and sold in
+
+Pakistan.
+
+      Plaintiffs do not allege that SCB directly aided the Syndicate in carrying out
+
+the bombings.      Nor do Plaintiffs allege that SCB took steps to help the
+
+downstream actors’ exploitation of CAN. The U.S. Government did not seek to
+
+close the Companies’ operations; the Companies failed to “stop” or “reduce” the
+
+flow of CAN into Afghanistan by taking steps to make it more difficult to smuggle
+
+across the border. See J.A. 317; see also Oral Arg. Tr. 3:10–3:38 (Plaintiffs’ counsel
+
+conceding the distribution to the Syndicate could have been “maybe one, perhaps
+
+sometimes two steps removed” from the Companies). When the Companies did
+
+not support the U.S. Government’s efforts, the Government turned to SCB.
+
+Plaintiffs do not allege that SCB aided CAN fertilizer production or its smuggling;
+
+SCB “never . . . did anything positive.” J.A. 318. Plaintiffs’ theory of liability
+
+veers towards holding SCB liable for its refusal to stop providing routine banking
+
+services.
+
+
+
+                                         39
+      Without having alleged that SCB provided more than peripheral assistance
+
+to the Companies, Plaintiffs have a higher burden to allege that SCB was
+
+consciously trying to help or otherwise participate in the Syndicate’s wrongdoing,
+
+see Twitter, 598 U.S. at 492—that is, Plaintiffs’ claim might still succeed with
+
+plausible allegations that SCB wanted to help the Syndicate’s bombmaking
+
+operation succeed by providing banking services to the Companies.       Plaintiffs
+
+rely extensively on this Court’s decision in Kaplan and argue that “[t]he level of
+
+culpability alleged . . . dwarf[s] what the Court held sufficient in Kaplan.”
+
+Appellants’ Br. at 36. But the services provided by the bank in Kaplan are not
+
+comparable to those identified here.
+
+      In Kaplan, a United Nations report identified that the defendant-bank’s
+
+customer was a “Hizbollah-linked money laundering gang.” 999 F.3d at 849. In
+
+response, the bank stated that the U.N. Report was “propaganda” and “not only
+
+refused to end the [banking] relationship, but instead authorized an increase in
+
+credit limits for the Hizbollah gang.” Id. In addition, senior Hizbollah officials
+
+identified certain of the defendant-bank’s customers on Hizbollah’s official
+
+websites and in press conferences and news media interviews as “integral parts of
+
+Hizbollah.”   Id. at 850.   The defendant-bank gave those customers “special
+
+
+
+                                       40
+treatment, exempting them from submitting cash transaction slips” that disclosed
+
+the sources of cash deposits exceeding a certain amount and from restrictions on
+
+depositing certain amounts in Lebanese currency.              Id.   In holding that the
+
+complaint plausibly alleged knowing and substantial assistance, we reiterated that
+
+the defendant-bank gave its customers “special treatment,” including allowing its
+
+customers to “deposit large sums in various accounts at different [bank]
+
+branches . . . without disclosing their source, thereby circumventing sanctions
+
+imposed in order to hinder terrorist activity.”      Id. at 866.
+
+       Plaintiffs allege nothing of the sort here. The complaint offers not a single
+
+allegation of fact that SCB sought to indirectly assist the Syndicate’s bomb
+
+operations by violating sanctions or other restrictions as they relate to banking
+
+services provided to the Companies. 15           Plaintiffs do not allege that SCB’s
+
+customers were themselves terrorists. SCB simply offered the Companies basic
+
+
+
+15 Plaintiffs point to a single paragraph in their complaint that alleges that unidentified
+SCB “personnel knew of terrorist finance ‘red flags’ relating to” the Companies, but
+“facilitated” transactions by unspecified “known or suspected fronts, agents or
+operatives” of the Syndicate by “knowingly ignoring” the red flags and allowing the
+transactions to proceed. J.A. 500. This paragraph does not explain what these
+supposed “terrorist finance red flags” are; it conspicuously stops short of alleging that
+SCB knowingly violated U.S. sanctions or terrorist finance laws in engaging with the
+Companies. This vague and conclusory allegation, without more, does not save
+Plaintiffs’ complaint.
+
+
+                                            41
+commercial banking services—foreign exchange, export finance, and letter-of-
+
+credit services—which SCB had been providing when the Government met with
+
+SCB’s executives and were utilized across the Companies’ entire book of business.
+
+      Plaintiffs emphasize, however, that SCB’s “relationship” with the
+
+Companies was not “routine” because the Companies were being controlled by
+
+rogue members of Pakistan’s intelligence agency. Appellants’ Reply at 6. But
+
+based on the complaint’s allegations, SCB could not have reasonably foreseen that
+
+its services to the Companies were supporting rogue members of that agency.
+
+Plaintiffs cite two sources from the relevant time period, which merely surmise
+
+that the Companies’ refusal to help may have been linked to the agency’s
+
+influence. 16 Notably, Plaintiffs do not allege that Lieutenant General Barbero told
+
+SCB that the U.S. Government believed the Companies were under the agency’s
+
+control. SCB could not have intended to reach the intelligence agency or support
+
+its causes without that knowledge; any subsequently confirmed connection
+
+between the Companies and the intelligence agency did not taint the nature of
+
+
+
+16 Eventually, a member of the U.S. military publicly stated that “rogue [intelligence
+agency members] supported the Taliban and had ‘built two chemical fertilizer factories,’”
+referencing the Companies. J.A. 314 (citation omitted). But SCB could not have known
+of this particular U.S. Government position because it post-dates the relevant time period
+by nearly five years. See Honickman, 6 F.4th at 501–02.
+
+
+                                           42
+SCB’s services at the time it provided them.        SCB’s potential support to the
+
+intelligence agency was incidental.
+
+      Lacking sufficient factual allegations of scienter, Plaintiffs contend that
+
+Twitter allowed that some type of “aid to a known terrorist group would justify
+
+holding a secondary defendant liable for all of the group’s actions or perhaps some
+
+definable subset of terrorist acts,” and hypothesized that one category could
+
+include selling “dangerous wares” to a terrorist organization. Twitter, 598 U.S. at
+
+502. In identifying that potential theory of liability, the Supreme Court cited its
+
+decision in Direct Sales Co. v. United States, 319 U.S. 703 (1943), which upheld a
+
+defendant-pharmacy’s conviction for aiding a doctor’s illegal distribution of
+
+“vast” amounts of morphine purchased by mail order.             Id. at 704–05.   The
+
+pharmacy used business strategies that “actively stimulated” the doctor’s
+
+purchases, such as offering fifty-percent discounts that “pushed” quantity sales,
+
+and listing quantities in much larger tablet units than many of its competitors. Id.
+
+at 705–06. The pharmacy superficially complied with the Bureau of Narcotics’
+
+requests that it change its practices, but it continued with its “high pressure sales
+
+methods” in sum and substance.        Id. at 707, 711.   The pharmacy’s tactics and
+
+“prolonged cooperation” to supply the doctor demonstrated not only that the
+
+
+
+                                         43
+pharmacy knew and acquiesced to the doctor’s “illicit enterprise” but also that it
+
+“join[ed] both mind and hand with him to make its accomplishment possible.” 17
+
+Id. at 713.
+
+       We assume that CAN fertilizer qualifies as a dangerous ware given its
+
+potential to cause harm when used to make IEDs. That deadly potential resulted
+
+in its ban in Afghanistan. Cf. id. at 711 (distinguishing “narcotic drugs, machine
+
+guns and such restricted commodities” from “sugar, cans, and other articles of
+
+normal trade” on the basis of “inherent capacity for harm”).
+
+       Direct Sales illustrates what is lacking in Plaintiffs’ theory of liability. While
+
+Direct Sales bears some resemblance to aspects of the Companies’ conduct,
+
+Plaintiffs seek to hold SCB liable. SCB is one step removed from the Companies’
+
+manufacturing and then several steps removed from CAN’s unlawful use in IEDs.
+
+Whatever the exact nature of liability for aiding and abetting “dangerous wares,”
+
+Direct Sales does not suggest that such liability attaches to an upstream financial
+
+institution of a company that itself produces a potentially dangerous ware.
+
+
+
+
+17Indeed, the pharmacy and doctor were co-conspirators in law and in fact, see Direct
+Sales, 319 U.S. at 713, which is far from the allegations here.
+
+
+                                           44
+      The Supreme Court recently emphasized this distinction in Smith & Wesson
+
+Brands, Inc. v. Estados Unidos Mexicanos, 605 U.S. ___, 145 S. Ct. 1556 (2025), albeit
+
+in the context of a different statutory regime. The Government of Mexico sued
+
+American gun manufacturers under state tort law for aiding and abetting retail
+
+dealers’ gun sales made in violation of federal gun laws, alleging that the
+
+manufacturers knew some dealers would make illegal sales to Mexican traffickers
+
+who would in turn deliver the guns to drug cartels.               Id. at 1563.     The
+
+manufacturers sold their guns to wholesale distributors—not directly to retail
+
+dealers or end purchasers.         Id. at 1564.      Mexico asserted that the gun
+
+manufacturers were liable for failing to “cut off the flow of firearms to the known
+
+rogue dealers.” Id.
+
+      There, the Supreme Court concluded that Mexico’s allegations “that the
+
+manufacturers ha[d] declined to suitably regulate the dealers’ practices” were
+
+insufficient. Id. at 1568. The Court held as much because although “responsible
+
+manufacturers might well impose constraints on their distribution chains to
+
+reduce the possibility of unlawful conduct,” the simple “failure to do so
+
+is . . . ‘passive nonfeasance.’”   Id. at 1568–69.    And “[s]uch ‘omissions’ and
+
+‘inactions’ . . . are rarely the stuff of aiding-and-abetting liability.”   Id. at 1569.
+
+
+
+                                          45
+So too here. SCB certainly failed to “impose constraints” on its distribution chain
+
+because of downstream bad actors, but, without more, these are allegations of
+
+“indifferen[ce], rather than assistance.”     Id. at 1568–69 (alteration in original)
+
+(internal quotation marks and citation omitted). To extend aiding-and-abetting
+
+liability to these circumstances risks making a “manufacturer of goods . . . an
+
+accomplice to every unaffiliated retailer whom it fails to make follow the law.”
+
+Id. at 1569.
+
+       An assessment of a defendant’s knowing and substantial assistance under
+
+the JASTA framework is highly fact intensive; the analysis differs “on a case-by-
+
+case basis.” See Honickman, 6 F.4th at 500. At bottom, Plaintiffs have not alleged
+
+facts leading to the reasonable inference that SCB consciously and culpably
+
+assisted the Syndicate’s bombings. Similar banking services in a different context
+
+may lead to a different result.     For example, Plaintiffs would have a much
+
+stronger claim if they plausibly alleged that SCB was treating the Companies
+
+differently than it treated its other clients. If SCB routinely cut off those clients
+
+whom the U.S. military asked it to but then refused in the instant case, the context
+
+would more readily allow an inference that the failure to act was nonetheless
+
+culpable—that SCB gave the Companies “special treatment.” Kaplan, 999 F.3d at
+
+
+
+                                         46
+850. But here, SCB’s continued services demonstrate “knowledge, acquiescence,
+
+carelessness, indifference, lack of concern”—not “interested cooperation,
+
+stimulation, instigation.” See Direct Sales, 319 U.S. at 713. Without something
+
+more to indicate a willingness to aid the Syndicate’s terrorist activities, Plaintiffs’
+
+aiding-and-abetting claim against SCB for its banking services to the Companies
+
+fails.
+
+                  B. Money Laundering
+
+         Plaintiffs allege that by performing transactions connected to Altaf
+
+Khanani’s money laundering organization, Deutsche Bank’s Russian Laundromat,
+
+and Danske Bank’s Global Laundromat, the Banks “assisted” with “terrorist
+
+money laundering that allowed [the] Syndicate to access funds in Afghanistan.”
+
+Appellants’ Br. at 61–62. Plaintiffs claim that this access, “particularly [to] U.S.
+
+dollars, was critical to the Syndicate’s ability to attack Americans,” because “[t]he
+
+Syndicate depended on money launderers to convert the proceeds of its opium
+
+trafficking, protection rackets, and other criminal enterprises into U.S. dollars that
+
+it could spend on weapons, supplies, and personnel in Afghanistan . . . .” Id. at
+
+62. Plaintiffs’ sweeping theory of liability is untenable for several reasons.
+
+         Plaintiffs posit a theory based on money’s fungibility: because Defendants
+
+
+
+                                          47
+engaged in widespread money laundering for individuals and entities with an
+
+apparent or possible connection to terrorists, some of the money must have gone
+
+to the terrorists’ violent activities. But we have already rejected the notion that
+
+Halberstam allows aiding-and-abetting liability to attach based on such a
+
+“fungibility theory.” See Honickman, 6 F.4th at 498–99 (internal quotation marks
+
+and citation omitted).       In Linde, this Court distinguished between the
+
+requirements to bring a JASTA aiding-and-abetting claim and a claim under 18
+
+U.S.C. § 2339B for knowingly providing a terrorist organization with material
+
+support. See 882 F.3d at 329–30. Whereas a material support claim “requires
+
+only knowledge of the organization’s connection to terrorism,” a JASTA claim
+
+requires “intent to further [a terrorist organization’s] terrorist activities” and
+
+“awareness that one is playing a role in those activities.” Id. at 330. In context
+
+of the material support statute, it does not matter whether material support is
+
+directed “to promote peaceable, lawful conduct” as opposed to terrorist activities
+
+because “‘money is fungible’ and ‘there is reason to believe that foreign terrorist
+
+organizations do not maintain legitimate financial firewalls between those funds
+
+raised for civil, nonviolent activities, and those ultimately used to support violent,
+
+terrorist operations.” Honickman, 6 F.4th at 498–99 (alteration adopted) (quoting
+
+
+
+                                         48
+Holder v. Humanitarian L. Project, 561 U.S. 1, 31 (2010)). Importing the fungibility
+
+rationale from the material support statute into the JASTA context “erase[s]” the
+
+difference between the two statutes.     Id. at 499.   A “central” tenet of JASTA
+
+aiding-and-abetting liability is the “foreseeability principle”—that the defendant
+
+is not liable for the principal’s wrongs without understanding, to some extent, the
+
+foreseeable consequences of the defendant’s actions. See id. at 496–97, 499. A
+
+fungibility theory would “evade” that principle entirely. Id. at 499.
+
+      In other words, it is not enough to say that facilitating the money laundering
+
+operations, which are not themselves Syndicate entities, results in substantial
+
+support to the Syndicate. That level of attenuation between the Banks’ conduct
+
+and the Syndicate’s attacks would effectively render the requirements of the
+
+JASTA and the material support statutes the same while eliminating a key
+
+requirement of JASTA aiding-and-abetting liability.
+
+      In addition, it is not enough to say that the defendant assisted the terrorist
+
+organization’s “activities in general,” see Twitter, 598 U.S. at 503; the complaint
+
+offers no discernable nexus between the money laundering and the attacks
+
+committed against Plaintiffs, see id. at 501. To be sure, it is possible that some of
+
+the Banks’ transactions in the money laundering schemes produced money that
+
+
+
+                                         49
+was transferred to the Syndicate and used to facilitate bombings in Afghanistan
+
+during the relevant time.      But the complaint fails to plead with specificity
+
+allegations from which this Court could draw adequate inferences to support a
+
+claim of aiding-and-abetting liability; in fact, it barely offers any information about
+
+the Banks’ transactions in the money laundering operations. “Factual allegations
+
+must be enough to raise a right to relief above the speculative level.” Bell Atl.
+
+Corp. v. Twombly, 550 U.S. 544, 555 (2007). The complaint demands a high degree
+
+of speculation, particularly because of the disconnect between the Banks’
+
+involvement and support for the terrorist attacks, which is insufficient to plead an
+
+aiding-and-abetting claim.
+
+      We rejected that type of attenuated connection in Siegel, where the plaintiffs
+
+sued a U.S. bank under JASTA for aiding and abetting al-Qaeda’s suicide
+
+bombings at three hotels in Amman, Jordan.            933 F.3d at 219.     There, the
+
+plaintiffs alleged that the U.S. bank assisted the bombings through its commercial
+
+relationship with a large Saudi bank that had known links to terrorist
+
+organizations.   Id. at 220.   Much like Plaintiffs’ claims here, the U.S. bank in
+
+Siegel purportedly provided the Saudi bank with the “means” to transfer “millions
+
+of U.S. dollars” to al-Qaeda to use for bombings. See id. at 221. In addition to
+
+
+
+                                          50
+the fact that the U.S. bank ceased its banking relationship prior to the bombings,
+
+making it implausible that the U.S. bank assumed a role in the attacks, id. at 224,
+
+we also emphasized the divide between the allegations and the assistance.         In
+
+particular, even though the defendant-bank purportedly gave “hundreds of
+
+millions of dollars” to the Saudi bank and helped the bank “flout” U.S. sanctions
+
+laws, plaintiffs failed to plausibly suggest that the U.S. bank “knew or intended
+
+that [al-Qaeda] would receive the funds.” Id. at 221, 225. The same is true here.
+
+      When a “concrete nexus” to the terrorist attack is lacking, Twitter, 598 U.S.
+
+at 501, it is possible for a plaintiff to instead allege that the defendant aided and
+
+abetted “a broad category of misconduct,” Smith & Wesson, 145 S. Ct. at 1566. But
+
+the defendant’s “participation must be correspondingly ‘pervasive, systemic, and
+
+culpable’” such that we can say the defendant aided every wrongful act.           Id.
+
+(quoting Twitter, 598 U.S. at 502).   “At this point, aiding-and-abetting liability
+
+begins to blur with conspiracy liability, which typically holds co-conspirators
+
+liable for all reasonably foreseeable acts taken to further the conspiracy.” Twitter,
+
+598 U.S. at 496.
+
+      The allegations here do not meet that high bar. Even assuming the Banks’
+
+aid was pervasive and systemic, the complaint does not support the inference that
+
+
+
+                                         51
+the Banks’ money laundering operations were designed or performed with the
+
+intent to aid the Syndicate.   The Banks are alleged to have culpably executed
+
+financially suspect transactions writ large, not in a manner that actively sought to
+
+“associate[] themselves” with the Syndicate’s “operations” or to form “a near-
+
+common enterprise” with the Syndicate.        See id. at 502.   With each money
+
+laundering scheme, the Syndicate was at least one step removed, and the endpoint
+
+of the laundered money was entirely amorphous. As pled, the Banks may have
+
+opened their doors to criminals with ties to terrorists to clean their money—a
+
+portion of which was likely to end up in the Syndicate’s pile of resources. That
+
+is insufficient.
+
+       This is not to say money laundering can never form the basis of a JASTA
+
+claim. In Kaplan, we held that the plaintiffs sufficiently stated a claim premised
+
+on the bank’s role in money laundering. Not only were the bank’s clients clearly
+
+and publicly identified as part of the terrorist organization, but the bank violated
+
+sanctions laws and granted exemptions to obscure the substance of deposits,
+
+including for a client known to provide financial support to suicide bombers’
+
+families. Kaplan, 999 F.3d at 858, 865. But with allegations that require making
+
+significant assumptions to establish a connection to the Syndicate’s terrorist
+
+
+
+                                        52
+activities, we decline to endorse the money laundering theory advanced here.
+
+                C. VAT Fraud
+
+      Plaintiffs’ claim premised on Defendants’ facilitation of VAT fraud also fails.
+
+The allegations do not support an inference that any Bank was aware of its
+
+customers’ connections with the Syndicate before the relevant attacks.           The
+
+allegations also do not demonstrate that SCB and Deutsche Bank appreciated,
+
+while participating in VAT fraud transactions, that they played a role in a
+
+wrongful activity from which the Syndicate’s bombings were foreseeable. See
+
+Kaplan, 999 F.3d at 860–61.   Thus, the complaint fails the “general awareness”
+
+element of aiding-and-abetting liability.
+
+                   i. The Azizi Scheme
+
+      Plaintiffs contend that SCB and Deutsche Bank helped facilitate Azizi’s VAT
+
+fraud scheme, but apart from the Banks’ execution of trades and transactions on
+
+the scheme’s behalf, the allegations about their conduct are too vague to survive a
+
+motion to dismiss. For example, the complaint alleges that SCB “made available”
+
+a company that was “vital” to the Azizi scheme’s “value chain,” J.A. 299, and
+
+Deutsche Bank “prepared” documents, J.A. 260. Whether Azizi maintained
+
+accounts in his own name or that of his front companies, and what those accounts
+
+
+
+                                         53
+entailed, is left unsaid: the complaint states only that Azizi’s scheme “used”
+
+Deutsche Bank accounts and SCB “transferr[ed] the funds” on the scheme’s behalf.
+
+J.A. 275, 300. The estimated proceeds transferred from Azizi’s sham companies
+
+to the Syndicate spanned from 2007 to 2012, but the majority of transfers fall
+
+outside of the relevant time period. 18
+
+         Plaintiffs have not sufficiently alleged that either SCB or Deutsche Bank was
+
+generally aware of Azizi’s terrorist-linked VAT fraud prior to his arrest.
+
+Plaintiffs cite several public sources connecting VAT fraud with terrorism
+
+generally, but no source that pre-dates Azizi’s arrest connects him to terrorist
+
+organizations or VAT fraud.         Plaintiffs also note that after Azizi’s arrest, he
+
+apparently implicated SCB by claiming that it “made available” a company for his
+
+use, J.A. 299, and referred to Deutsche Bank as his “willing financial partner” in
+
+the tax fraud, 19 J.A. 275.     Those reflections do not lead to the inference that
+
+Defendants knew of Azizi’s ties to the Syndicate while executing trades on his
+
+
+
+18   However, SCB and Deutsche Bank purportedly worked with Azizi until 2015.
+19  Plaintiffs’ brief argues that Azizi’s colleagues confessed that SCB was complicit in his
+scheme. That is not what the complaint alleges. The portion Plaintiffs cite alleges only
+that “one or more members” of Azizi’s scheme “‘generally confessed’ and ‘cooperated
+with the investigation.’” J.A. 284 (alteration adopted) (citation omitted). This merely
+establishes that Azizi (or members of his scheme) knew they were committing VAT fraud;
+it says nothing about SCB’s awareness.
+
+
+                                            54
+behalf, even if they executed fraudulent trades willingly. And even though an
+
+internal compliance employee raised concerns about VAT fraud occurring at
+
+Deutsche Bank, and German authorities searched Deutsche Bank’s offices for
+
+evidence of VAT fraud, in no instance did anyone raise concerns specific to Azizi
+
+or accounts associated with his scheme.        This information does not plausibly
+
+allege that SCB and Deutsche Bank understood the “true nature and activities” of
+
+Azizi’s scheme “from the public record at the time.” See Honickman, 6 F.4th at 502.
+
+      Seemingly recognizing that the complaint does not allege the Banks’
+
+awareness, Plaintiffs highlight certain facts that they claim should have made the
+
+Banks aware of his nefarious conduct: (1) “Azizi was a young Afghan national
+
+with no demonstrable means of support,” Appellants’ Br. at 50; (2) his business
+
+involved purchasing cell phones and exporting them to Afghanistan—“definitive
+
+red flag of all red flags” for VAT fraud, J.A. 281; (3) VAT fraud schemes are easy
+
+to detect because they involve high volume transactions; and (4) banks perform
+
+diligence on their customers and have access to more data than what is publicly
+
+available. In other words, Plaintiffs argue that SCB and Deutsche Bank should
+
+have known that Azizi’s “pattern fit the mold of a Syndicate VAT fraudster.”
+
+Appellants’ Br. at 50; see also, e.g., J.A. 324 (“These types of VAT fraud schemes have
+
+
+
+                                          55
+been linked to terrorist finance.” (emphasis added)). Perhaps these allegations
+
+support the inference that the Banks were aware that they were involved in tax
+
+fraud.      But the “red flags” made it possible—not plausible—that Azizi’s
+
+transactions were “closely intertwined with” the Syndicate.       See Honickman, 6
+
+F.4th at 501. “‘Plausibly’ does not mean ‘probably,’ but ‘it asks for more than a
+
+sheer possibility that a defendant has acted unlawfully.’” Smith & Wesson, 145 S.
+
+Ct. at 1565 (quoting Iqbal, 556 U.S. at 678).
+
+         Moreover, as mentioned above, Plaintiffs do not specify much about the
+
+scheme’s accounts at either bank.       It thus cannot be inferred from Plaintiffs’
+
+threadbare allegations that a deeper investigation of the accounts would have
+
+revealed a connection to terrorist activity.    Accordingly, the complaint fails to
+
+plausibly allege that when the Banks made trades and transactions connected to
+
+Azizi’s scheme, they were generally aware of their role in an activity from which
+
+the Syndicate’s attacks were foreseeable.
+
+                    ii. Remaining Involvement in VAT Fraud
+
+         Plaintiffs’ remaining VAT fraud allegations against Deutsche Bank and
+
+Danske Bank are easily dismissed. On behalf of Imran Yakub Ahmed, Deutsche
+
+Bank allegedly processed carbon emissions trades, resulting in millions
+
+
+
+                                          56
+transferred for his scheme from 2005 to 2010.          Similarly, Plaintiffs claim that
+
+Swefin, a Danish company with an account at Danske Bank, conducted VAT fraud
+
+in 2009 and 2010.      Even if true, and even if the Banks were aware of those
+
+individuals and entities’ connections to the Syndicate, that means the Banks’
+
+involvement concluded before the attacks here began. Given that Deutsche Bank
+
+and Danske Bank’s involvement “ceased” at least a year prior to the first attack in
+
+this case, it is “implausible under the circumstances” that either bank was aware
+
+it “assumed a role in the [a]ttacks.” See Siegel, 933 F.3d at 224 (bank’s decision to
+
+stop dealing with customer connected to terrorism ten months before attacks
+
+injuring plaintiffs made general awareness “implausible”). The complaint also
+
+alleges that Denmark (where Danske Bank is located) was a hotspot for using VAT
+
+fraud for terrorist financing; those allegations, pled at the generality of an entire
+
+country, are simply too arbitrary and unconnected to any conduct by Danske Bank
+
+to support aiding-and-abetting liability.20
+
+
+
+
+20 Given that Plaintiffs have failed to allege general awareness with respect to their VAT
+fraud theories, we need not address whether any Bank’s participation in the tax fraud
+was sufficiently “pervasive, systemic, and culpable” to justify liability for each of the
+terrorist attacks that injured plaintiffs. See Twitter, 598 U.S. at 502.
+
+
+                                           57
+                D. Terrorist Campaign Aiding-and-Abetting Claim
+
+      Plaintiffs’ second cause of action claimed that Defendants aided and abetted
+
+the “Taliban-al-Qaeda Campaign,” “an act of international terrorism” comprising
+
+“an enterprise” of terrorist organizations “engaging in” a “pattern of racketeering
+
+activity” to “expel Americans from Afghanistan through crime and anti-American
+
+violence.”   J.A. 669–70.   We affirm the district court’s dismissal of this claim
+
+because JASTA does not provide relief where a “campaign” is alleged to be the
+
+“act of international terrorism.”
+
+      This conclusion is supported by the statute’s text.      The ATA provides
+
+liability for injury suffered “by reason of an act of international terrorism.” 18
+
+U.S.C. § 2333(a) (emphasis added). JASTA likewise permits secondary liability
+
+for “an injury arising from an act of international terrorism” where the defendant
+
+assists a primary tortfeasor in committing “such an act of international terrorism.”
+
+Id. § 2333(d)(2) (emphasis added).
+
+      Twitter reaffirms that the defendant must aid and abet a specific act,
+
+observing that JASTA expressly provides that liability only attaches for aiding and
+
+abetting a particular terrorist attack. 598 U.S. at 494 (“[A]iding and abetting is
+
+inherently a rule of secondary liability for specific wrongful acts.” (emphasis
+
+
+
+                                        58
+added)).   As Twitter explained, focusing on the terrorist attack makes sense in
+
+light of the common law.        “[T]ort law imposes liability only when someone
+
+commits an actual tort.” Id. “‘Enterprises’ or ‘conspiracies’ alone are therefore
+
+not tortious—the focus must remain on the tort itself.” Id. Accordingly, “it is
+
+not enough, as [P]laintiffs contend, that a defendant have given substantial
+
+assistance to a transcendent ‘enterprise’ separate from and floating above all the
+
+actionable wrongs that constitute it.”      Id. at 495.   The focus must remain on
+
+whether the defendant aided and abetted “another person in the commission of
+
+the actionable wrong—here, an act of international terrorism.” Id.
+
+      Plaintiffs contend that the word “act,” as used in the statute, can describe a
+
+“multifaceted enterprise,” Appellants’ Br. at 74, but that reading is strained. See
+
+Twitter, 598 U.S. at 495. To be sure, as noted above, a defendant may provide
+
+such systemic and intentional aid to an individual or organization that the
+
+defendant may be liable for each and every tortious act committed by the
+
+principal. See supra 51–52. Even in that circumstance, however, the defendant
+
+is liable for the injury-causing act, see Twitter, 598 U.S. at 495, not an overall group
+
+of activity that may or may not have led to the plaintiff’s particular injuries. The
+
+scope of Plaintiffs’ racketeering theory would sweep as broad as covering every
+
+
+
+                                          59
+terrorist attack of all time carried out against Americans by the Taliban-al-Qaeda
+
+Campaign.     Accordingly, Plaintiffs’ campaign and racketeering theory, vast in
+
+scope and unlinked to any culpable conduct, contravenes the statute’s text and the
+
+JASTA aiding-and-abetting framework.
+
+      III.   Leave to Amend
+
+      Plaintiffs ask that if we find fault with any of their factual allegations, we
+
+allow them leave to amend their complaint. We decline to allow Plaintiffs who,
+
+after filing two complaints together totaling over 1,200 pages, failed to state a claim
+
+for relief, and who have largely failed to provide any specific explanation as to
+
+how they would fix their complaint. See, e.g., Hayden v. County of Nassau, 180 F.3d
+
+42, 53 (2d Cir. 1999) (“[W]here the plaintiff is unable to demonstrate that he would
+
+be able to amend his complaint in a manner which would survive dismissal,
+
+opportunity to replead is rightfully denied.”).
+
+                                  CONCLUSION
+
+      For the foregoing reasons, the judgment of the district court is AFFIRMED.
+
+
+
+
+                                          60

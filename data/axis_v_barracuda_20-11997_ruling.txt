@@ -1,0 +1,1950 @@
+United States District Court                            
+               District of Massachusetts                             
+
+                               )                                     
+AXIS INSURANCE COMPANY              )                                     
+                               )                                     
+     Plaintiff,                )                                     
+                               )                                     
+     v.                        )    Civil Action No.                 
+                               )    20-11997-NMG                     
+BARRACUDA NETWORKS, INC. et al.     )                                     
+                               )                                     
+     Defendants.               ))                                    
+                               )                                     
+                               )                                     
+
+                  MEMORANDUM & ORDER                                 
+GORTON, J.                                                                
+This case arises out of a 2018 data breach that compromised          
+the protected health information of more than 277,000 patients            
+of Zoll Services LLC, a subsidiary of Zoll Medical (together,             
+“Zoll”).  Pending before the Court is the motion of defendant             
+Barracuda Network, Inc. (“Barracuda”) for summary judgment on             
+three claims, which survived a motion to dismiss, brought by              
+plaintiff Axis Insurance Co. (“Axis”), as assignee of Zoll and            
+subrogee of Fusion LLC (“Fusion”).  For the reasons that follow,          
+the motion will be allowed.                                               
+I.   Background                                                           
+This Court has recited the lengthy and complex background            
+of this action in its prior memoranda and orders. See, e.g.,              
+Axis Ins. Co. v. Barracuda Networks, Inc., No. CV 20-11997-NMG,           
+2024 WL 3458143, at *1 (D. Mass. July 17, 2024); Axis Ins. Co.            
+v. Barracuda Networks, Inc., No. CV 20-11997-NMG, 2023 WL                 
+2838380, at *1-*2 (D. Mass. Apr. 7, 2023).  The following                 
+addresses only the background relevant to the pending motion.             
+
+A.  Factual Background                                               
+Fusion sells hosted business communications products. In             
+2012, a company that is now a subsidiary of Fusion entered into           
+an Original Equipment Manufacturer (“OEM”) agreement with a               
+company that has since merged with Barracuda.  The OEM agreement          
+provided for customer communications and email management                 
+
+software and related services.  At approximately the same time,           
+Fusion entered a Hosting Services Agreement (“HSA”) with Zoll             
+that would provide Zoll with cloud-based messaging software and           
+services for electronic messages and email communications.                
+In 2018, a Barracuda employee allegedly left a data port in          
+its system open during a standard data migration in its network.          
+In the approximately seven weeks before the error was detected,           
+protected health information (“PHI”) from Zoll patients was               
+apparently accessed by unauthorized third parties.  In early              
+2019, Barracuda advised Fusion of the breach, although Fusion             
+claims Barracuda misrepresented its magnitude and the prior               
+existence of “reasonable and readily available security                   
+protocols and products.”                                                  
+B. Procedural Background                                             
+
+In 2020, Zoll filed an action against Barracuda in this              
+Court, asserting claims for negligence, breach of implied                 
+warranties, breach of contract, and equitable indemnification.            
+Fusion was allowed to intervene in this case under Fed. R. Civ.           
+P. 20 and proceeded to bring actions for breach of contract,              
+breach of the covenant of good faith, negligent                           
+misrepresentation, tortious interference and equitable                    
+indemnification.  In a previous order, the Court dismissed all            
+
+of those claims except Zoll’s claim of equitable indemnification          
+and Fusion’s claims of breach of contract and breach of the               
+covenant of good faith.                                                   
+Pursuant to a previous arbitration settlement, any claims            
+Zoll and Fusion had against Barracuda in connection with the              
+data breach were assigned to Axis.  Axis, the only remaining              
+party in interest, was substituted as plaintiff in 2022, at               
+which time Fusion and Zoll were dismissed as parties.                     
+Now, Barracuda moves for summary judgment against Axis               
+under Fed. R. Civ. P. 56 on the three remaining claims.                   
+III. Motion for Summary Judgment                                          
+Under Fed. R. Civ. P. 56, summary judgment is warranted              
+where “there is no genuine issue as to any material fact” and             
+
+thus “the moving party is entitled to a judgment as a matter of           
+law.” Fed. R. Civ. P. 56(c); see Anderson v. Liberty Lobby,               
+Inc., 477 U.S. 242, 249 (1986).  A fact is “material” if it “is           
+one that affects the outcome of the suit,” id. at 48; see Patco           
+Constr. Co. v. People’s United Bank, 683 F.3d 197, 207 (1st Cir.          
+2012), and a “genuine issue” exists as to that material fact if           
+“there is sufficient evidence supporting the claimed factual              
+dispute,” Garside v. Osco Drug, Inc., 895 F.2d 46, 48 (1st Cir.           
+1990).  For a claim to survive summary judgment, the plaintiff            
+must provide a sufficient evidentiary basis to establish each             
+essential element of the claims at issue. Katz v. Belveron Real           
+
+Est. Partners, LLC, 28 F.4th 300, 307 (1st Cir. 2022).                    
+A. Equitable Indemnification                                         
+Barracuda first asserts that Zoll’s equitable                        
+indemnification claim fails as a matter of law because Zoll               
+lacks a “special relationship” with Barracuda and,                        
+alternatively, because Zoll is a party at fault and therefore             
+
+lacks “clean hands” to seek equitable indemnification.                    
+A valid claim of indemnification can arise under                     
+Massachusetts law in one of three circumstances: 1) where there           
+is an express contractual agreement to indemnify, 2) where an             
+agreement to indemnify can be “implied from the nature of the             
+relationship between the parties,” or 3) where there is “a tort           
+based right to indemnification” based on “a great disparity in            
+the fault of the parties.” Araujo v. Woods Hole, Martha’s                 
+
+Vineyard, Nantucket S.S. Auth., 693 F.2d 1, 2 (1st Cir. 1982).            
+The claim at issue concerns only the third circumstance, a tort-          
+based, or equitable, right of indemnification.                            
+Equitable indemnification allows a party “who is without             
+fault, compelled by operation of law to defend himself against            
+the wrongful act of another, to recover from the wrongdoer the            
+entire amount of the loss.” Santos v. Chrysler Corp., 715 N.E.2d          
+47, 62 (Mass. 1999).  An equitable indemnification claim does             
+not require proof of a contractual relationship between the               
+parties. Fireside Motors, Inc. v. Nissan Motor Corp. in U.S.A.,           
+479 N.E.2d 1386, 1388 (Mass. 1985).  Instead, it arises under             
+equitable principals and is available where there is a                    
+
+“derivative or vicarious relationship” between the indemnitor             
+and indemnitee. Santos, 715 N.E.2d at 62; see Wade v. Touchdown           
+Realty Grp., LLC, 386 F. Supp. 3d 56, 67 (D. Mass. 2019) (“[T]he          
+right to indemnity is limited to those cases where the                    
+person . . . is held derivatively or vicariously liable for the           
+wrongful act of another.” (emphasis omitted) (quoting Ferreira            
+v. Chrysler Grp. LLC, 13 N.E.3d 561, 567 (Mass. 2014)).1                  
+Derivative or vicarious liability can emerge only “because of             
+the relationship between the two parties.” Chapman v. Finnegan,           
+950 F. Supp. 2d 285, 292 n.4 (D. Mass. 2013).                             
+Here, nothing in the record suggests that Zoll and                   
+
+Barracuda shared any relationship recognized under Massachusetts          
+law as giving rise to derivative or vicarious liability.  The             
+relationship at issue between Zoll and Barracuda can best be              
+described as one of an independent contractor.  As Barracuda              
+contends, the OEM agreement between the parties established that          
+Zoll operated as an independent contractor, not as an agent.              
+While not dispositive, the inclusion of a provision that a party          
+is an independent contractor is significant evidence that the             
+parties’ relationship is as such.  See Theos & Sons, Inc. v.              
+Mack Trucks, Inc., 729 N.E.2d 1113, 1120 (Mass. 2000).  Axis              
+makes no claim that Zoll was anything more than an independent            
+contractor to Barracuda.                                                  
+
+Barracuda’s status as an independent contractor with                 
+respect to Zoll fails to create derivative or vicarious                   
+liability to those with whom Barracuda contracts.  See Lyon v.            
+
+1 Contrary to Barracuda’s assertion, an equitable                    
+indemnification claim does not require a “special relationship”           
+between the parties to be actionable.  Cf. Arujo, 693 F.2d at 3.          
+(requiring “special relationship between the parties” for                 
+“implied contract” indemnification claim); Decker v. Black &              
+Decker Mfg. Co., 449 N.E.2d 641, 643 (Mass. 1983) (same).                 
+Morphew, 678 N.E.2d 1306, 1310 (Mass. 1997) (“In general, an              
+employer of an independent contractor is not liable for harm              
+caused to another by the independent contractor’s negligence.”);          
+see also Decker, 449 N.E.2d at 643 (holding that relationship             
+between manufacturer and supplier of equipment does not give              
+
+rise to vicarious or derivative liability necessary for                   
+equitable indemnification claim).  Axis makes no claim that               
+derivative liability exists here even in spite of the                     
+independent contract status. Cf. Lyon, 678 N.E.2d at 1310                 
+(stating independent contractor status can give rise to                   
+derivative liability where there is evidence of employer control          
+over independent contractor).                                             
+Axis likewise does not contend that Barracuda shared with            
+Zoll any other form of recognized relationship that would create          
+the derivative or vicarious liability necessary for a viable              
+equitable indemnification claim. See Leonard v. Lumbermens Mut.           
+Cas. Co., 10 N.E.2d 469, 470 (Mass. 1937) (recognizing existence          
+
+of derivative liability based on agency relationship); see also           
+Hollywood Barbecue Co. v. Morse, 50 N.E.2d 55, 56 (Mass. 1943)            
+(recognizing derivative liability arising from master-servant             
+relationship); Tenedios v. Wm. Filene’s Sons Co., 20 Mass. App.           
+Ct. 252, 257, 479 N.E.2d 723, 727 (1985) (recognizing derivative          
+liability based on employer and employee relationship); accord            
+McGuire v. Reilly, 271 F. Supp. 2d 335, 342 (D. Mass. 2003),              
+aff’d, 386 F.3d 45 (1st Cir. 2004) (stressing that summary                
+judgment is “appropriate” where “the nonmoving party fails to             
+show the existence of a genuine issue of material fact” in                
+record).                                                                  
+Because the absence of a relationship that would legally             
+
+give rise to vicarious or derivative liability negates Axis’s             
+equitable indemnification claim, the Court need not address               
+Barracuda’s argument that Axis cannot recover because Zoll                
+lacked “clean hands.”2  While the Court previously determined             
+that Zoll had sufficiently pled that its fault was “vicarious in          
+nature” at the motion to dismiss stage, Zoll Med. Corp. v.                
+Barracuda Networks, Inc., 565 F. Supp. 3d 101, 110 (D. Mass.              
+2021), the absence of evidence of such a relationship that would          
+give rise to vicarious or derivative liability at the summary             
+judgment stage is dispositive.  See Chapman v. Bernard’s Inc.,            
+198 F.R.D. 575, 579 (D. Mass. 2001) (allowing summary judgment            
+on equitable indemnification claim because would-be indemnitor            
+
+
+2 The Court recognizes that sources conflict as to whether           
+Massachusetts law requires a party be without fault before                
+claiming equitable indemnification or simply be less culpable             
+than the indemnitor. Compare Stewart v. Roy Bros. Inc., 265               
+N.E.2d 357, 365 (Mass. 1970) (holding that equitable                      
+indemnification is available only where indemnitee “does not              
+join in the negligent act”), with Rathbun v. W. Mass. Elec. Co.,          
+395 Mass. 361, 364, 479 N.E.2d 1383, 1385 (1985) (finding no              
+“general rule” as to whether negligent indemnitee can recover             
+and noting that some prior cases have allowed negligent                   
+indemnitee to prevail).                                                   
+was “not an agent of [indemnitee], nor d[id] it have a                    
+relationship . . . from which it could be held vicariously or             
+derivatively liable for the actions of [indemnitor]” and                  
+therefore [indemnitee] was “not entitled to indemnification from          
+[indemnitor] under any circumstances.”); see also Walter &                
+
+Shuffain, P.C. v. CPA Mut. Ins. Co. of Am. Risk Retention Grp.,           
+660 F. Supp. 2d 116, 126 (D. Mass. 2009) (dismissing equitable            
+indemnification claim because nonmoving party “ha[d] not alleged          
+any facts establishing a relationship . . . that would give rise          
+to vicarious or derivative liability”).                                   
+B. Breach of Contract                                                
+
+Barracuda next contends that Fusion’s breach of contract             
+claim fails as a matter of law because Axis cannot prove that             
+Barracuda waived the conditions precedent in the OEM agreement,           
+which this Court previously determined Fusion failed to fulfill.          
+One such condition required Fusion to include limitation of               
+liability and indemnification provisions in its customer                  
+contracts.                                                                
+Under Massachusetts law, a contractual condition precedent           
+is “an event [that] must occur before a contract becomes                  
+effective or before an obligation to perform arises.” Sands v.            
+Ridefilm Corp., 212 F.3d 657, 661-62 (1st Cir. 2000).  If a               
+condition precedent is not satisfied, the contract and the                
+obligations therein cannot be enforced. Mass. Mun. Wholesale              
+Elec. Co. v. Town of Danvers, 577 N.E.2d 283, 288 (Mass. 1991).           
+It is well settled that conditions precedent can be waived.          
+See Millen Indus., Inc. v. Flexo-Accessories Co., 5 F. Supp. 2d           
+72, 74 (D. Mass. 1998) (“A condition precedent in favor of one            
+
+of the parties may be waived by that party.”).  Waiver occurs             
+when a party voluntarily relinquishes a known right.  Bos.                
+Helicopter Charter, Inc. v. Augusta Aviation Corp., 767 F. Supp.          
+363, 372 (D. Mass. 1991).  A waiver is voluntary if the party             
+either expressly or impliedly manifests intent to surrender a             
+right and no other reasonable explanation exists for that                 
+surrender, which requires “clear, decisive and unequivocal                
+conduct.” Bachoroz v. Miller-Forslund, 703 F.3d 27, 32-33 (1st            
+Cir. 2012); Paterson-Leitch Co. v. Mass. Mun. Wholesale Elec.             
+Co., 840 F.2d 985, 992 (1st Cir. 1988) (emphasis omitted).                
+Silence, generally, is insufficient to support waiver. Dunkin’            
+Donuts Inc. v. Panagakos, 5 F. Supp. 2d 57, 61 (D. Mass. 1998).           
+
+Determining “[w]hether a condition precedent has been                
+waived” is usually “a question of fact.”  Millen Indus., Inc., 5          
+F. Supp. 2d at 74; see Wildlands Tr. of Se. Mass., Inc. v. Cedar          
+Hill Retreat Ctr., Inc., 160 N.E.3d 297, 305 n.12 (Mass. App.             
+Ct. 2020).  Here, the facts are clear that the subject OEM                
+agreement contains an anti-waiver provision stating that                  
+No failure or delay of [Barracuda] in exercising any right           
+or remedy under this [OEM a]greement shall operate as a              
+waiver of such right.                                                
+
+Although this provision may serve as evidence that inaction by            
+Barracuda does not constitute waiver, the existence of an anti-           
+waiver provision under Massachusetts law is “not dispositive,”            
+and it remains a question of fact whether waiver has in fact              
+occurred.  Wildlands, 160 N.E.3d at 305 n.12.3                            
+Barracuda contends that no evidence demonstrates a clear             
+and unequivocal intent to waive the OEM’s condition precedent to          
+overcome this operative provision.  Axis posits that Barracuda            
+has failed to act on its right to audit Fusion’s customer                 
+contracts, a right it claims Barracuda held under the terms of            
+the OEM agreement.  Silence alone does not, however, preclude             
+Barracuda from summary judgment on this claim. See Dunkin’                
+Donuts Inc., 5 F. Supp. 2d at 61 (“[I]t is doubtful that mere             
+silence could satisfy [the] burden of establishing clear,                 
+decisive, and unequivocal conduct.” (internal quotations                  
+omitted)); cf. KACT, Inc. v. Rubin, 819 N.E.2d 610, 616 (Mass.            
+
+3 A previous session of this Court treated anti-waiver               
+clauses as determinative to preventing waiver, see Blue Hills             
+Office Park LLC v. J.P. Morgan Chase Bank, 477 F. Supp. 2d 366,           
+374 (D. Mass. 2007), but this session disagrees with that                 
+conclusion based upon controlling Massachusetts case law, see             
+M.J.G. Properties, Inc. v. Hurley, 537 N.E.2d 165, 167 (Mass.             
+App. Ct. 1989) (“[W]e think the proper approach, and one which            
+is in accord with our cases, is to look at the question of                
+waiver as a question of fact in light of all the circumstances,           
+including the existence of the anti[-]waiver clause.”).                   
+App. Ct. 2004) (finding waiver where party “did more than remain          
+silent”).  Without more, evidence of Barracuda’s inaction and             
+lack of inquiry as to its rights under the condition is                   
+insufficient to raise a dispute of fact as to whether                     
+Barracuda’s conduct showed a clear, unequivocal intent to waive.          
+
+Cf. J.H. Lynch & Sons, Inc. v. Shaw’s Supermarkets, Inc., No. CV          
+05-12445-JGD, 2008 WL 11388729, at *8 (D. Mass. Feb. 15, 2008)            
+(finding allegations of waiver sufficient to survive summary              
+judgment where evidence showed party actively approved payment            
+agreements despite condition precedent to the contrary).                  
+Nevertheless, Axis claims Barracuda cannot rely on waiver            
+to defeat the breach of contract claim under the doctrine of              
+equitable estoppel, based on Barracuda’s failure to inquire               
+about whether Fusion was in compliance.  To invoke equitable              
+estoppel, Axis must establish that Barracuda made a                       
+representation that was intended to induce a course of conduct            
+by Fusion and that Fusion did reasonably rely on that conduct to          
+
+its detriment.  Dunkin’ Donuts Inc., 5 F. Supp. 2d at 62                  
+(“Although estoppel can be based on mere silence, that is true            
+only where there is a duty to speak . . . .”).  Axis, however,            
+has not shown that Barracuda was duty-bound to inquire whether            
+Fusion was complying with the condition precedent rather than             
+remain silent.  Thus, the failure to inquire is not grounds for           
+equitable estoppel.                                                       
+C. Breach of Covenant                                                
+Finally, Barracuda claims Axis is unable to prove its claim          
+of breach of the covenant of good faith and fair dealing because          
+
+it impermissibly seeks to expand Barracuda’s obligations under            
+the contract.                                                             
+Every contract governed under Massachusetts law contains an          
+implied covenant of good faith and fair dealing. Ayash v. Dana-           
+Farber Cancer Inst., 822 N.E.2d 667, 683 (Mass. 2005).  That              
+covenant reflects an implicit condition that neither party                
+“shall do anything that will have the effect of destroying or             
+injuring the right of the other party to receive the fruits of            
+the contract.” Galvin v. U.S. Bank Nat. Ass’n, No. CIV.A. 14-             
+14723, 2015 WL 1014549, at *4 (D. Mass. Mar. 9, 2015) (citing             
+Anthony’s Pier Four, Inc. v. HBC Assocs., 583 N.E.2d 806 (Mass.           
+
+1991)), aff’d sub nom. Galvin v. U.S. Bank, N.A., 852 F.3d 146            
+(1st Cir. 2017)).  To show breach of covenant, a plaintiff must           
+demonstrate that “there existed an enforceable contract between           
+the two parties” and “the defendant did something that had the            
+effect of destroying . . . the right of [the plaintiff] to                
+receive the fruits of the contract.” Laser Labs, Inc. v. ETL              
+Testing Lab’ys, Inc., 29 F. Supp. 2d 21, 24 (D. Mass. 1998)               
+(internal quotations omitted).  Thus, the covenant cannot be              
+used to “create rights and duties not otherwise provided for in           
+the existing contractual relationship.” Ayash, 822 N.E.2d at 684          
+(quotations omitted); see MacKenzie v. Flagstar Bank, FSB, 738            
+F.3d 486, 493 (1st Cir. 2013) (“The concept of good faith is              
+shaped by the nature of the contractual relationship and the              
+scope of the covenant is only as broad as the contract . . . .”           
+(quotations omitted)).                                                    
+
+Allegations that a party breached the covenant of good               
+faith and fair dealing is “ordinarily a question of fact to be            
+determined by the jury.”  Wilder v. Toyota Fin. Servs. Americas           
+Corp., 764 F. Supp. 2d 249, 259 (D. Mass. 2011).  This case,              
+however, presents an exception.  Because the covenant of good             
+faith cannot be used to create rights that do not exist in the            
+contractual relationship, see Ayash, 822 N.E.2d at 684, Axis              
+must demonstrate some contractual right to which Fusion is                
+entitled in the event of a data breach.  No evidence of such was          
+produced during discovery.  As Barracuda articulates, its OEM             
+agreement with Fusion contains no provision regarding any                 
+actions that must be taken in response to a data breach.4  As             
+
+such, Axis cannot rely on an implied duty of good faith to                
+create a new obligation where one does not exist under the terms          
+of their agreement.  See Lohnes v. Level 3 Commc’ns, Inc., 272            
+F.3d 49, 62 (1st Cir. 2001) (holding that defendant did not               
+violate covenant of good faith by failing to provide notice of a          
+
+4  By contrast, Fusion’s agreement with Zoll contains                
+detailed language concerning such events.                                 
+stock split because defendant was “not contractually bound to             
+provide the appellant with individualized notice of the stock             
+split”).                                                                  
+That the breach of covenant claim rests mainly on                    
+Barracuda’s alleged inaction further demonstrates why the claim           
+
+cannot survive a motion for summary judgment.  Inaction                   
+constitutes “a lack of good faith . . . only when the                     
+contracting party had a duty to act,” and no such duty exists             
+under this agreement.  Uno Rests., Inc. v. Bos. Kenmore Realty            
+Corp., 805 N.E.2d 957, 965 (D. Mass. 2004).  In response, Axis            
+makes no attempt to refute Barracuda’s argument, and Barracuda            
+is therefore entitled to summary judgment on this claim.  See             
+Boyle v. Douglas Dynamics, LLC, 292 F. Supp. 2d 198, 210 (D.              
+Mass. 2003), aff’d, 99 F. App’x 243 (1st Cir. 2004) (rejecting            
+breach of covenant claim where party “did not have an                     
+enforceable right” in question under agreement); see also                 
+Piantes v. Pepperidge Farm, Inc., 875 F. Supp. 929, 938 (D.               
+
+Mass. 1995) (rejecting breach of covenant claim because contract          
+did not provide plaintiff franchise distributor with right                
+through which to assert breach of good faith and fair dealing.            
+                         ORDER                                       
+For the foregoing reasons, the motion of defendant,                  
+Barracuda Networks, Inc., for summary judgment is ALLOWED.                
+
+So ordered.                                                               
+
+                                /s/ Nathaniel M. Gorton              
+                              Nathaniel M. Gorton                    
+                              United States District Judge           
+
+Dated:  September 9, 2024
+
+---
+
+United States District Court                            
+                   District of Massachusetts                             
+
+                                   )                                     
+AXIS INSURANCE COMPANY, a/a/o ZOLL  )                                     
+MEDICAL CORPORATION and ZOLL        )                                     
+SERVICES LLC, and a/s/o FUSION LLC, )                                     
+                                   )                                     
+         Plaintiff,                )    Civil Action No.                 
+                                   )    20-11997-NMG                     
+         v.                        )                                     
+                                   )                                     
+BARRACUDA NETWORKS, INC., and       )                                     
+SONIAN INC.,                        )                                     
+                                   )                                     
+         Defendants.               )                                     
+                                   )                                     
+
+                      MEMORANDUM & ORDER                                 
+GORTON, J.                                                                
+    This case arises out of a data breach which compromised              
+certain confidential, protected health information (“PHI”) of             
+more than 277,000 patients of Zoll Services LLC, an indirect              
+subsidiary of Zoll Medical (together, “Zoll”).  Pending before            
+the Court is the motion of defendants Barracuda Networks, Inc.            
+("Barracuda") and Sonian, Inc. (“Sonian” and together,                    
+“defendants”) for judgment on the pleadings (Docket No. 128).             
+For the reasons that follow, the motion will be denied.                   
+I.   Background                                                           
+    The Court has recited the lengthy and complex background of          
+this action in its prior memoranda and orders of which the                
+parties are undoubtedly well-aware. See Zoll Med. Corp. v.                
+Barracuda Networks, Inc., 585 F. Supp. 3d 128, 133-34 (D. Mass.           
+2022); Zoll Med. Corp. v. Barracuda Networks, Inc., 2021 U.S.             
+Dist. LEXIS 180761 at *2-6 (D. Mass. Sept. 21, 2021).  The Court          
+will therefore address only the factual and procedural                    
+background of particular relevance to the pending motion.                 
+      A. Factual Background                                              
+    Rule 20 plaintiff Fusion, LLC (“Fusion” or “plaintiff”) is           
+
+a company that provides hosted business communications products.          
+In 2012, Apptix, Inc. (now a subsidiary of Fusion) contracted             
+with Sonian (which has merged with Barracuda) to provide its              
+customers with software and related services for the management           
+of customer communications and emails (“the OEM Agreement”).1  At         
+about the same time, Fusion entered into a Hosting Services               
+Agreement (“the HSA”) with Zoll to provide it with hosted                 
+communications services.                                                  
+    In November, 2018, a Barracuda employee allegedly left a             
+data port open in its system during a standard migration of data          
+within its network.  In the approximately seven weeks until the           
+
+error was detected, the PHI of Zoll patients was apparently               
+accessed by unauthorized third parties.  Barracuda advised                
+Fusion of the data breach in January, 2019, although Fusion               
+contends that Barracuda misrepresented the extent of the breach.          
+Fusion also alleges that Barracuda misrepresented that its data           
+
+
+1 Although plaintiff does not define “OEM,” the Court understands that it 
+generally refers to “original equipment manufacturer.”                    
+management enabled customers 1) to identify and reduce risks and          
+2) to provide “reasonable and readily available security                  
+protocols and products.”                                                  
+
+    B.  Procedural Background                                            
+    In June, 2019, Fusion filed for bankruptcy protection under          
+Chapter 11 of the United States Bankruptcy Code in                        
+the United States Bankruptcy Court for the Southern District of           
+New York. A reorganization plan was confirmed in January, 2020.           
+    The plan allowed Zoll to seek damages from Fusion for harm           
+
+suffered as a result of the data breach “to the extent of                 
+available insurance coverage and proceeds.”                               
+    Zoll initiated arbitration with Fusion in March, 2020,               
+asserting claims for negligence and breach of contract.  Zoll             
+also attempted to assert claims against Barracuda which were              
+dismissed for lack of privity.  Zoll’s insurer, Ace American              
+Insurance Co. (“Ace”), paid Zoll on its claims for damages                
+incurred due to the data breach and was subrogated as the real            
+party in interest in the arbitration.  Fusion’s insurer, Axis             
+Insurance Co. (“Axis”), confirmed coverage of claims against              
+Fusion related to the data breach and provided a defense against          
+those claims.                                                             
+
+    In November, 2020, Zoll initiated this action against                
+Barracuda in the District of Massachusetts.  Fusion moved to              
+intervene as a Rule 20 party shortly thereafter and its motion            
+was allowed in June, 2021.                                                
+     Zoll, Ace, Fusion and Axis settled the claims at issue in            
+their arbitration in November, 2021.  Pursuant to their                   
+settlement, any claims that Zoll/Ace had against Barracuda in             
+connection with the data breach were assigned to Axis and any             
+
+such claims that Fusion had were subrogated to Axis.  Axis, the           
+remaining real party in interest in the case at bar, was                  
+substituted as the plaintiff in April, 2022, at which time                
+Fusion and Zoll were dismissed as parties.                                
+     Now, Barracuda moves for judgment on the pleadings                   
+principally contending that Fusion’s claims should be estopped.           
+
+II.   Motion for Judgment on the Pleadings                                 
+     A. Legal Standard                                                    
+     A motion for judgment on the pleadings is governed by the            
+same legal standard as a motion to dismiss for failure to state           
+
+a claim except that the Court considers the pleadings as a                
+whole. Aponte–Torres v. University of Puerto Rico, 445 F.3d 50,           
+54-55 (1st Cir. 2006).                                                    
+     To survive such a motion, the subject pleading must contain          
+sufficient factual matter to state a claim for relief that is             
+actionable as a matter of law and “plausible on its face.”                
+Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) (quoting Bell Atl.            
+Corp. v. Twombly, 550 U.S. 544, 570 (2007)).  A claim is                  
+facially plausible if, after accepting as true all non-                   
+conclusory factual allegations, the court can draw the                    
+reasonable inference that the defendant is liable for the                 
+misconduct alleged. Ocasio-Hernandez v. Fortuno-Burset, 640 F.3d          
+1, 12 (1st Cir. 2011).                                                    
+
+    In considering the merits of such a motion, the Court must           
+accept all factual allegations in the complaint as true and draw          
+all reasonable inferences in the plaintiff's favor. R.G. Fin.             
+Corp. v. Vergara-Nunez, 446 F.3d 178, 182 (1st Cir. 2006).  The           
+Court may also consider documents if 1) the parties do not                
+dispute their authenticity, 2) they are “central to the                   
+plaintiffs' claim” or 3) they are “sufficiently referred to in            
+the complaint.” Curran v. Cousins, 509 F.3d 36, 44 (1st Cir.              
+2007) (quoting Watterson v. Page, 987 F.2d 1, 3 (1st Cir.                 
+1993)).                                                                   
+    B. Analysis                                                          
+
+    The motion is suffused with equitable concerns.  Defendants          
+move for judgment on the pleadings based on judicial estoppel.            
+They contend that the failure of plaintiff to disclose the                
+claims in the instant case in its 2019 bankruptcy proceeding              
+constitutes an assertion that those claims do not exist and               
+thus, are barred by judicial estoppel.                                    
+    Plaintiff rejoins that defendants have been unscrupulous             
+themselves in disclosing necessary information, namely, that              
+they failed to cite estoppel among the affirmative defenses in            
+their answer or raise estoppel in their motion to dismiss.  That          
+oversight, according to plaintiff, constitutes a prejudicial              
+surprise and contravenes the obligation under Fed. R. Civ. P.             
+
+8(c)(1) to state all affirmative defenses, including estoppel.            
+         1. Subject-Matter Jurisdiction                                  
+    Before addressing the competing equities, the Court is               
+obliged to respond to defendant’s assertion that judicial                 
+estoppel is not waivable when it relates to subject matter                
+jurisdiction.  Defendants are correct that “subject-matter                
+jurisdiction cannot be waived or created by acquiescence,” see            
+Sexual Minorities Uganda v. Lively, 899 F.3d 24, 34 (1st Cir.             
+2018), but that does not mean that all estoppel defenses negate           
+subject-matter jurisdiction.                                              
+    In Lively, for example, judicial estoppel was invoked to             
+
+prevent plaintiff from contradicting his assertion in prior               
+litigation that diversity jurisdiction was wanting. Id.  By               
+contrast, the purported contradictory assertion at issue                  
+concerns the existence of the claim itself, not the Court’s               
+subject matter jurisdiction.  Accordingly, the Court will                 
+consider whether defendants waived the judicial estoppel defense          
+by failing to include it in their answer.                                 
+         2. Fed. R. Civ. P. 8(c)                                         
+    Rule 8(c) is intended to provide both the Court and the              
+parties fair warning that a line of defense will be pursued. See          
+Williams v. Ashland Engineering Co., Inc., 45 F.3d 588, 593 (1st          
+Cir. 1995).  There is no dispute that the defense of judicial             
+estoppel is among the defenses that must be affirmatively pled            
+
+under Rule 8(c)(1) or that Barracuda’s answer did not                     
+specifically do so.  See Fed. R. Civ. P. 8(c)(1) (listing                 
+estoppel among affirmative defenses); see also Rivera-Puig v.             
+Garcia-Rosario, 983 F.2d 311, 319 n.12 (1st Cir. 1992).                   
+    Nonetheless, general pleadings may, under some                       
+circumstances, preserve an affirmative defense. See Williams, 45          
+F.3d at 593.  Here, defendants contend that their general                 
+pleading that plaintiff failed to state a claim, in context,              
+provided sufficient notice of their judicial estoppel defense.            
+To determine whether that pleading suffices, the Court will               
+assess whether plaintiff was unfairly surprised or prejudiced by          
+
+the defense, under the totality of the circumstances. See id.             
+    Defendants first gave notice of the judicial estoppel                
+defense via email in August, 2023, two months before it filed             
+the instant motion.  That notice came long after its motion to            
+dismiss Fusion’s Rule 20 complaint was filed in June, 2021 and            
+the complaint was answered in February, 2022.                             
+    The delay carried well into discovery, which itself was              
+delayed several times due to the protracted dispute over the              
+archived emails and the subsequent motions to compel, quash and           
+for a protective order.  Two weeks after defendant filed its              
+motion for judgment on the pleadings, the Court extended                  
+discovery for the final time to January, 2024.  Accordingly, the          
+
+18-month delay in staging the judicial estoppel defense came at           
+the end of an already-extended discovery period.                          
+    Defendants contend that their general pleading that                  
+plaintiff failed to state a claim sufficed to state the judicial          
+estoppel defense and that they “contextualized” that pleading             
+with their August, 2023 email which gave specific notice of the           
+judicial estoppel defense.  The Court disagrees.  The complaint           
+itself mentioned the bankruptcy proceedings, which form the               
+basis of the judicial estoppel defense, in only two paragraphs.           
+Those paragraphs provided mere background and did not relate to           
+the core allegations in the complaint.  There is little reason            
+
+to believe that plaintiff would have “clearly anticipate[d]”              
+that a judicial estoppel defense would be litigated. See                  
+Williams, 45 F.3d at 593.  Accordingly, the delay constituted an          
+unfair surprise.                                                          
+    The Court also finds that the delay resulted in prejudice            
+to plaintiff.  In determining the degree of prejudice for a               
+delayed defense, courts often look to the underlying fact-                
+intensiveness of the defense. See Collision Commc’n, Inc. v.              
+Nokia Solutions & Networks OY, 2024 WL 531289, at * 4 (D.N.H.             
+Feb. 9, 2024).  Where an affirmative defense is primarily fact-           
+based, a “plaintiff is more likely to be prejudiced by an                 
+untimely assertion of the defense.” Id.                                   
+    Plaintiff contends that the delay prejudiced its ability to          
+
+conduct discovery on the estoppel defense, including for                  
+example, whether defendants were aware of plaintiff’s claim               
+during the bankruptcy proceedings.  Defendants insist that the            
+delay was not prejudicial because discovery of its earlier                
+knowledge of the claims is irrelevant.  There is, according to            
+defendants, no obligation to prove harm to the party asserting            
+judicial estoppel.                                                        
+    Enforcement of judicial estoppel depends upon the facts.             
+There are two baseline facts that must be ascertained to stage a          
+judicial estoppel defense: 1) facts concerning how a pending              
+assertion “directly” contradicts a prior assertion and 2)                 
+
+whether the earlier assertion was adopted by the tribunal. See            
+Howell v. Town of Leyden, 335 F. Supp. 2d 248, 250-51 (D. Mass.           
+2004).  The contours of the judicial estoppel doctrine, however,          
+“are hazy, and there is no mechanical test for determining its            
+applicability.” Alternative Sys. Concepts, Inc. v. Synopsys,              
+Inc. 374 F.3d 23, 33 (1st Cir. 2004).  Indeed, judicial estoppel          
+is an equitable doctrine “invoked by a court at its discretion.”          
+New Hampshire v. Maine, 532 U.S. 742, 750 (2001) (citation                
+omitted).  Accordingly, principles of fairness, such as whether           
+a party received an unfair advantage as a result of the                   
+inconsistent positions, frequently factor into the analysis. See          
+Alternative Sys. Concepts, Inc., 374 F.3d at 33.                          
+    Here, the delay was prejudicial to plaintiff’s ability to            
+
+develop facts relevant to the judicial estoppel inquiry.  For             
+example, the delay impeded the development of facts concerning            
+plaintiff’s contention that its reservation of claims arising             
+from its assumed executory contracts put defendants on notice.            
+Whether defendants were aware of plaintiff’s claims during the            
+bankruptcy proceedings is relevant to the oft-considered factor           
+of whether the party asserting inconsistent positions would gain          
+an unfair advantage and whether a litigant is “playing fast and           
+loose with the courts.”  In re Buscone, 61 F.4th 10, 22 (1st              
+Cir. 2023).                                                               
+    Plaintiff has not, however, had a substantive opportunity            
+
+to develop those other facts that may counsel against estoppel            
+even if defendants are able to establish conclusively the two             
+baseline factors.  Courts are not compelled to apply judicial             
+estoppel every time a party takes seemingly contradictory                 
+positions. See, e.g., In re Buscone, 61 F.4th 10, 26 (1st Cir.            
+2023) (holding that the bankruptcy court’s denial of summary              
+judgment where defendant “demonstrated the minimum requirements           
+of judicial estoppel” was reasonable as “further factual                  
+development will better inform the ultimate decision.”).  The             
+substantial and unexplained delay in staging the judicial                 
+estoppel defense has prejudiced plaintiff’s ability to respond            
+to the defense in contravention of Rule 8(c).  The motion for             
+judgment on the pleadings will be denied.                                 
+
+
+
+
+                             ORDER                                       
+
+    For the foregoing reasons, the motion of defendants,                 
+Barracuda Networks, Inc. and Sonian Inc. (Docket No. 128), is             
+DENIED.                                                                   
+
+
+So ordered.                                                               
+
+                                  _/s/ Nathaniel M. Gorton__             
+                                  Nathaniel M. Gorton                    
+                                  United States District Judge           
+
+Dated:  July 17, 2024
+
+---
+
+UNITED STATES DISTRICT COURT                         
+                 DISTRICT OF MASSACHUSETTS                           
+
+
+AXIS INSURANCE COMPANY a/a/o ZOLL     )                                   
+MEDICAL CORPORATION and ZOLL SERVICES LLC,  )                             
+                              )                                      
+          Plaintiffs,         )                                      
+v.                            )    CIVIL ACTION                      
+                              )    NO. 20-11997-NMG                  
+BARRACUDA NETWORKS, INC. and       )                                      
+SONIAN INC.,                       )                                      
+                              )                                      
+          Defendants,         )                                      
+                              )                                      
+v.                            )                                      
+                              )                                      
+AXIS INSURANCE COMPANY a/s/o FUSION, LLC,  )                              
+                              )                                      
+          Rule 20 Plaintiff.    )                                    
+
+
+              ORDER ON DISCOVERY MOTIONS                             
+This matter is before the court on the “Plaintiff’s Motion to Compel Defendants to 
+Comply with Court Order” (Docket No. 151) and “Defendant Barracuda Networks, Inc.’s Motion 
+for Leave to File Documents Under Seal for In Camera Review” (Docket No. 157).  After 
+consideration of the parties’ written submissions and their oral arguments, it is hereby 
+ORDERED as follows:                                                       
+1.   The Plaintiff’s Motion to Compel is ALLOWED.                    
+     (a) Without making any determination as to the applicability of the common 
+       interest doctrine, the court finds that, under the terms of the Common 
+       Interest Agreement (Docket No. 168-2) and the Settlement Agreement 
+       (Docket No. 61-1) entered into by Zoll Medical Corporation, Zoll Services, LLC 
+       (together “Zoll”), and AXIS Insurance Company (“AXIS”), Zoll did not waive 
+       any attorney-client privilege with respect to the documents it provided to 
+       AXIS for review.  This is consistent with recognized principles of subrogation.  
+       See American Auto. Ins. Co. v. J.P. Noonan Transp., Inc., No. 970325, 2000 
+       WL 33171004, at *5 (Mass. Super. Ct. Nov. 16, 2000) (in dispute over 
+       privileged communications, subrogee may assert whatever privileges that 
+       subrogor could have asserted prior to subrogation).           
+
+     (b) The court further finds that the parties are bound by the language of Section 
+       14 of the “Stipulated Protective Order and Clawback Agreement” (Docket No. 
+       69) entered into by AXIS and defendant Barracuda Networks, Inc. 
+       (“Barracuda”).  The language is clear and unambiguous in that “[t]he 
+       inadvertent production of privileged documents shall not be deemed a 
+       waiver of the privilege.”  See Fed. R. Evid. 502(d) and (e).  
+
+     (c) This court finds that AXIS’s disclosure of privileged documents in its 
+       December 26, 2023 production to Barracuda was inadvertent.    
+
+     (d) In light of the circumstances surrounding this inadvertent production to 
+       Barracuda, including the number of documents inadvertently disclosed 
+       relative to the volume of documents produced, the window of time during 
+       which review and production took place, and the extensive privilege 
+       screening process applied by AXIS, AXIS’s disclosure was neither grossly 
+       negligent nor reckless so as to fall outside the ambit of the clawback 
+       agreement.  See VLT, Inc. v. Lucent Technologies, Inc., No. 00-11049-PBS, 
+       2003 WL 151399, at *4 (D. Mass. Jan. 21, 2003).               
+
+     (e) Accordingly, and as agreed in open court, Barracuda shall destroy the 
+       privileged documents inadvertently produced by AXIS.          
+
+     (f)  AXIS’s request for costs and fees is DENIED.               
+
+2.   In light of this court’s ruling on the “Plaintiff’s Motion to Compel Defendants to 
+Comply with Court Order,” the “Defendant Barracuda Networks, Inc.’s Motion for Leave to File 
+Documents Under Seal for In Camera Review” is DENIED.                     
+
+                                   / s / Judith Gail Dein            
+                                   Judith Gail Dein                  
+Dated: April 19, 2024                   United States Magistrate Judge
+
+---
+
+United States District Court                            
+                   District of Massachusetts                             
+
+                                   )                                     
+                       a/a/o ZOLL                                        
+AXIS INSURANCE COMPANY,             )                                     
+MEDICAL CORPORATION and ZOLL                                              
+                                   )                                     
+SERVICES LLC, and a/s/o FUSION LLC,                                       
+                                   )                                     
+
+                                   )                                     
+         Plaintiff,                )    Civil Action No.                 
+                                   )    20-11997-NMG                     
+         v.                        )                                     
+                                   )                                     
+BARRACUDA NETWORKS, INC., and       )                                     
+SONIAN INC.,                        )                                     
+                                   )                                     
+         Defendants.               )                                     
+                                   )                                     
+
+                      MEMORANDUM & ORDER                                 
+GORTON, J.                                                                
+    This case arises out of a data breach which compromised              
+certain confidential, protected health information (“PHI”) of             
+more than 277,000 patients of Zoll Services LLC, an indirect              
+subsidiary of Zoll Medical (together, “Zoll”).  Pending before            
+the Court is the motion of defendant Barracuda Networks, Inc.             
+("Barracuda") for leave to file a third-party complaint against           
+Fusion LLC (“Fusion”).                                                    
+I.   Background                                                           
+    The Court has recited the lengthy and complex background of          
+this action in its prior memoranda and orders and the parties             
+are undoubtedly well-aware of it. See Zoll Med. Corp. v.                  
+Barracuda Networks, Inc., 585 F. Supp. 3d 128, 133-34 (D. Mass.           
+2022); Zoll Med. Corp. v. Barracuda Networks, Inc., 2021 U.S.             
+Dist. LEXIS 180761 at *2-6 (D. Mass. Sept. 21, 2021).  The Court          
+will therefore address only the factual and procedural                    
+background of particular relevance to the pending motion.                 
+
+    A.  Factual Background                                               
+    Zoll develops and markets medical devices and software               
+solutions, including the "LifeVest wearable cardioverter                  
+defibrillator".  In the course of commercializing that product,           
+Zoll received emails from physicians containing patient                   
+information, such as patient names, addresses, demographics and           
+health information. In 2012, Zoll entered into an agreement with          
+Apptix, Inc. ("Apptix") whereby Apptix agreed to provide Zoll             
+with a product that would safely store its emails and safeguard           
+its PHI.  Apptix was later acquired by Fusion.                            
+    For its part, Apptix had entered into an original equipment          
+manufacturer agreement with Sonian Inc. (“Sonian”) according to           
+
+which Sonian provided software and related services for the               
+management of customer communications and email ("the OEM                 
+Agreement").  Sonian was later acquired by Barracuda.  As a               
+result, emails and patient PHI from Zoll were stored on                   
+Barracuda’s network.                                                      
+    The data breach at issue began in early November, 2018,              
+when a Barracuda employee allegedly left a data port open in its          
+system during a standard migration of data within its network.            
+None of Barracuda's supervisory, security or oversight                    
+mechanisms detected the error until approximately seven weeks             
+later.  In the meantime, the confidential PHI of Zoll’s patients          
+was apparently accessed by unauthorized third parties.                    
+
+    B.  Procedural Background                                            
+    In June, 2019, Fusion filed for bankruptcy protection under          
+Chapter 11 of Title 11 of the United States Bankruptcy Code in            
+the United States Bankruptcy Court for the Southern District of           
+New York.  Zoll filed a proof of claim in the bankruptcy                  
+proceeding shortly thereafter and, in January, 2020, Fusion’s             
+bankruptcy reorganization plan became effective.  The plan                
+permitted Zoll to seek damages from Fusion for harm suffered as           
+a result of the data breach “to the extent of available                   
+insurance coverage and proceeds.”                                         
+    Zoll initiated arbitration with Fusion in March, 2020,               
+asserting claims for negligence and breach of contract.  Zoll             
+
+also attempted to assert claims against Barracuda which were              
+dismissed for lack of privity.  Zoll’s insurer, Ace American              
+Insurance Co. (“Ace”) paid Zoll on its claims for damages                 
+incurred due to the data breach and was subrogated as the real            
+party in interest in the arbitration.  Fusion’s insurer, Axis             
+Insurance Co. (“Axis”), confirmed coverage of claims against              
+Fusion related to the data breach and provided a defense.                 
+    On November 6, 2020, Zoll initiated this action against              
+Barracuda in the District of Massachusetts.  Fusion moved to              
+intervene as a Rule 20 party shortly thereafter and its motion            
+was allowed in June, 2021.                                                
+     Zoll, Ace, Fusion and Axis settled the claims at issue in            
+
+their arbitration in November, 2021.  Pursuant to that                    
+settlement, any claims that Zoll/Ace had against Barracuda in             
+connection with the data breach were assigned to Axis and any             
+claims that Fusion had were subrogated to Axis.  Axis, the                
+remaining real party in interest in the case at bar, was                  
+substituted as the plaintiff in April, 2022, at which time                
+Fusion and Zoll were dismissed as parties.                                
+     Several months later, Barracuda brought the pending motion           
+for leave to file a third-party complaint against Fusion under            
+Fed. R. Civ. P. 14(a)(1).                                                 
+II.   Motion for Leave to File a Third-Party Complaint                     
+     A.  Legal Standard                                                   
+
+     Fed. R. Civ. P. 14(a)(1) provides that                               
+     [a] defending party may, as third-party plaintiff,                   
+     serve a summons and complaint on a nonparty who is or                
+     may be liable to it for all or part of the claim                     
+     against it. But the third-party plaintiff must, by                   
+     motion, obtain the court's leave if it files the                     
+     third-party complaint more than 14 days after serving                
+     its original answer.                                                 
+     The decision of whether to permit a defendant to file a              
+third-party complaint more than 14 days after the original                
+answer has been filed                                                     
+    is left to the informed discretion of the district                   
+    court, which should allow impleader on any colorable                 
+    claim of derivative liability that will not unduly                   
+    delay or otherwise prejudice the ongoing proceedings.                
+Lehman v. Revolution Portfolio L.L.C., 166 F.3d 389, 393 (1st             
+Cir. 1999).                                                               
+    B.  Application                                                      
+    Barracuda seeks leave of this Court to file a third-party            
+complaint against Fusion.  In Count I of the proposed complaint,          
+Barracuda asserts a claim for breach of contract based upon               
+Fusion’s purported failure to include certain terms in contracts          
+entered into with customers, including Zoll.  According to                
+Barracuda, such terms were required by the OEM Agreement between          
+Barracuda and Fusion.  In Count II of the proposed complaint,             
+Barracuda asserts that it is entitled to indemnification from             
+Fusion under the OEM Agreement for damages it may owe to Zoll.            
+    Although Axis contends that the Court should refuse to               
+allow Barracuda to file its proposed third-party complaint                
+because it is not derivative of the claims pending in the case            
+at bar, “a contractual right of indemnification” is a proper              
+basis upon which a third-party plaintiff may bring a claim                
+against a third-party defendant. See Zurich Am. Ins. v. Lord              
+Elec. Co., 828 F. Supp. 2d 462, 468 (D.P.R. 2011) (citation               
+
+omitted).  Barracuda alleges that such a right of                         
+indemnification exists between itself and Fusion and therefore            
+advocates that the proposed third-party complaint is                      
+appropriate.                                                              
+    Barracuda does not, however, satisfactorily address the              
+
+issue of whether the filing of a third-party complaint would              
+result in undue delay and prejudice.  The complicated                     
+relationships and legal histories between Zoll, Fusion (and its           
+predecessor), Barracuda (and its predecessor) and their various           
+insurers have already contributed to a protracted course of               
+litigation.  The underlying data breach occurred in November,             
+2018, and Barracuda was served with Zoll’s initial arbitration            
+demand in March, 2020.  The case at bar against Barracuda was             
+filed in the District of Massachusetts in November, 2020.                 
+    Barracuda’s dilatory effort to implead Fusion as a third-            
+party defendant and to assert multiple contractual claims                 
+against it would, if allowed, implicate complex, tangential               
+
+questions of bankruptcy law with respect to Fusion’s January,             
+2020, reorganization plan.  Such an allowance would also lead to          
+further discovery, dispositive motions and legal contentions              
+which would otherwise be outside the scope of this litigation.            
+The Court will, therefore, deny Barracuda’s motion to file a              
+third-party complaint against Fusion because of the undue delay           
+and significant prejudice that it would cause.                            
+                             ORDER                                       
+    For the foregoing reasons, defendant’s motion for leave to           
+file a third-party complaint (Docket No. 73) is DENIED.                   
+
+So ordered.                                                               
+
+                                  _/s/ Nathaniel M. Gorton____           
+                                  Nathaniel M. Gorton                    
+                                  United States District Judge           
+
+Dated:  April 7, 2023
+
+---
+
+United States District Court                            
+                   District of Massachusetts                             
+
+                                 )                                       
+Zoll Medical Corp., et al.,       )                                       
+                                 )                                       
+         Plaintiff,              )                                       
+                                 )                                       
+         v.                      )                                       
+                                 )    Civil Action No.                   
+Barracuda Networks, Inc., et al., )    20-11997-NMG                       
+                                 )                                       
+         Defendant.              )                                       
+                                 )                                       
+
+                      MEMORANDUM & ORDER                                 
+
+GORTON, J.                                                                
+    This action arises out of a data breach which compromised            
+certain confidential, protected health information (“PHI”) of             
+more than 277,000 patients of Zoll Services LLC, an indirect              
+subsidiary of Zoll Medical Corporation (together, “Zoll”).                
+    Pending before the Court is the motion of defendants                 
+Barracuda Networks, Inc. (“Barracuda”) and Sonian, Inc.                   
+(“Sonian” and together with Barracuda, “the defendants” or “the           
+Barracuda parties”) to dismiss an intervenor complaint filed by           
+Fusion, LLC (“Fusion” or “the intervenor”) (Docket No. 31) and            
+the motion of Zoll, Fusion, and Axis Insurance Company (“Axis”)           
+to substitute Axis for Zoll and Fusion. (Docket No. 43).                  
+    For the reasons that follow, both motions will be allowed,           
+in part, and denied, in part.                                             
+I.   Factual Background and Procedural History                            
+      A. Factual Background                                              
+    The Court has previously recited the factual and procedural          
+history of this action. See Zoll Med. Corp. v. Barracuda                  
+Networks, No. 20-11997, 2021 U.S. Dist. LEXIS 180761 at *2-6 (D.          
+Mass. Sept. 21, 2021).  In 2012, Fusion entered into a contract           
+
+with Sonian to provide its customers (which later included Zoll)          
+with software and related services for the management of                  
+customer communications and email (“the OEM Agreement”).1  Fusion         
+alleges that although Barracuda represented that its data                 
+management capabilities would enable customers to identify and            
+reduce risks it in fact lacked the “reasonable and readily                
+available security protocols and products” to provide such                
+security.                                                                 
+    The data breach began on November 8, 2018, when a Barracuda          
+employee allegedly left a data port open in its system during a           
+standard migration of data within its network.  None of                   
+
+Barracuda’s supervisory, security or oversight mechanisms                 
+detected the error until approximately seven weeks later, on              
+December 28, 2018.  In the meantime, the confidential and                 
+
+
+
+1 The Court will refer to Sonian and Barracuda as “the Barracuda          
+parties” except where Sonian’s individual corporate identity is           
+relevant.                                                                 
+protected health information of Zoll patients was apparently              
+accessed by unauthorized third parties.                                   
+    Barracuda finally contacted Fusion with respect to the data          
+breach in January, 2019, advising that it                                 
+    recently discovered that a very small number of user emails          
+    stored in an application known as Sonian EA were                     
+    compromised as a result of unauthorized access to our                
+    system by a third party.                                             
+Barracuda informed neither Fusion nor the Zoll plaintiffs that            
+the data port had remained open and undetected for several weeks          
+and, instead, allegedly misrepresented that the data breach was           
+minor.                                                                    
+    After receiving notice of the breach, Zoll began an                  
+investigation into the event to determine whether customer PHI            
+had been accessed.  As part of that investigation, it requested           
+from Barracuda additional information regarding the data breach           
+but Barracuda alleging refused to cooperate.  Thereafter, Zoll            
+hired an independent forensics firm, Kroll, Inc., to assist in            
+the investigation.                                                        
+    In June, 2019, Fusion filed for bankruptcy protection under          
+Chapter 11 of Title II of the United States Bankruptcy Code in            
+the United States Bankruptcy Court for the Southern District of           
+New York.                                                                 
+      B. Procedural History                                              
+    The data breach has engendered substantial litigation                
+between Fusion, Zoll, their respective insurers, the individuals          
+whose PHI was compromised by the breach and the Barracuda                 
+parties.  Those disputes are, in relevant part, described below.          
+    In April, 2019, a class action lawsuit was filed against             
+
+Zoll in the Circuit Court of Kanawha County, West Virginia, by            
+individuals claiming that their PHI had been the subject of the           
+data breach.  That action was settled, and Zoll has assumed               
+liability for any injury to its patients resulting from the data          
+breach.                                                                   
+         i.   The Arbitration                                            
+    In August, 2019, Zoll filed a proof of claim in Fusion’s             
+bankruptcy proceeding in the Southern District of New York                
+seeking damages allegedly arising out of the data breach.                 
+Fusion’s bankruptcy plan, which became effective in January,              
+2020, contained language which provided that nothing in the plan          
+
+would preclude Zoll from subsequently seeking damages from                
+Fusion for harm suffered as a result of the data breach,                  
+provided that such damages were “solely to the extent of                  
+available insurance coverage and proceeds.”                               
+    In March, 2020, Zoll initiated arbitration proceedings with          
+Fusion, asserting claims for negligence and breach of contract.2          
+Fusion’s insurer, Axis, confirmed coverage of claims related to           
+the data breach and assumed defense. After Zoll’s insurer, Ace            
+American Insurance Company (“Ace”) paid Zoll its claims for               
+damages incurred due to the data breach, Ace was subrogated as            
+
+the real party in interest in the arbitration.                            
+    In November, 2021, Fusion, Axis, Zoll and Ace settled the            
+arbitration claims.  Fusion and Zoll confirm that, pursuant to            
+the settlement agreement, Zoll and Ace have assigned to Axis all          
+claims that they have against Barracuda in connection with the            
+data breach.  They contend that Axis is therefore the real party          
+in interest with respect to the claims asserted by Fusion and             
+Zoll against Barracuda in this action as set forth hereafter.             
+        ii.   Claims of Zoll and Fusion against Barracuda                
+    In November, 2020, Zoll filed the instant action against             
+the Barracuda parties, alleging claims for 1) negligence (Count           
+
+I), 2) breach of the implied warranty of merchantability (Count           
+II), 3) breach of the implied warranty of fitness (Count III),            
+4) breach of contract (Count IV) and 5) equitable                         
+indemnification (Count V).  The Barracuda parties moved to                
+
+
+2 Zoll also asserted claims against Barracuda before the                  
+arbitrator dismissed it as a party in December, 2020, for lack            
+of privity.                                                               
+dismiss those claims and the Court allowed their motion except            
+as to Count V.                                                            
+     In June, 2021, Fusion intervened in the action and filed an          
+eight-count complaint against the Barracuda parties, alleging             
+claims for 1) breach of contract, 2) breach of the implied                
+covenant of good faith and fair dealing, 3) negligent                     
+
+misrepresentation, 4) tortious interference with contractual              
+relations, 5) indemnification on the basis of a special                   
+relationship, 6) indemnification on the basis of tortious                 
+conduct, 7) breach of the implied warranty of merchantability             
+and 8) breach of the implied warranty of fitness.  Shortly                
+thereafter, the Barracuda parties filed the pending motion to             
+dismiss Fusion’s intervenor complaint for failure to state a              
+claim upon which relief can be granted.                                   
+     In December, 2021, after the arbitration had concluded,              
+Fusion and Zoll filed the pending motion to substitute Axis as            
+plaintiff with respect to the original and intervenor                     
+
+complaints.                                                               
+II.   Barracuda’s Motion to Dismiss                                        
+       A. Legal Standard                                                  
+     To survive a motion under Fed. R. Civ. P. 12(b)(6), the              
+subject pleading must contain sufficient factual matter to state          
+a claim for relief that is actionable as a matter of law and              
+“plausible on its face.” Ashcroft v. Iqbal, 556 U.S. 662, 678             
+(2009) (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570             
+(2007)).  A claim is facially plausible if, after accepting as            
+true all non-conclusory factual allegations, the court can draw           
+the reasonable inference that the defendant is liable for the             
+misconduct alleged. Ocasio-Hernandez v. Fortuno-Burset, 640 F.3d          
+1, 12 (1st Cir. 2011).                                                    
+
+    When rendering that determination, a court may not look              
+beyond the facts alleged in the complaint, documents                      
+incorporated by reference therein and facts susceptible to                
+judicial notice. Haley v. City of Boston, 657 F.3d 39, 46 (1st            
+Cir. 2011).  A court also may not disregard properly pled                 
+factual allegations even if actual proof of those facts is                
+improbable. Ocasio-Hernandez, 640 F.3d at 12.  Rather, the                
+relevant inquiry focuses on the reasonableness of the inference           
+of liability that the plaintiff is asking the court to draw. Id.          
+at 13.                                                                    
+      B. Application                                                     
+
+    The Barracuda parties have moved to dismiss Fusion’s eight-          
+count intervenor complaint for failure to state a claim upon              
+which relief can be granted.  The Court considers the counts of           
+the complaint seriatim except with respect to Counts V and VI             
+and Counts VII and VIII, which it treats together.                        
+           i.  Breach of Contract (Count I)                              
+    A claim for breach of contract under Massachusetts law               
+requires the plaintiff to show that:                                      
+    [1] there was an agreement between the parties; [2] the              
+    agreement was supported by consideration; [3] the plaintiff          
+    was ready, willing, and able to perform his or her part of           
+    the contract; [4] the defendant committed a breach of the            
+    contract; and [5] the plaintiff suffered harm as a result.           
+Bulwer v. Mount Auburn Hosp., 46 N.E.3d 24, 39 (Mass. 2016).              
+    Fusion contends that Barracuda breached the parties’                 
+agreement by failing to provide the services required by the              
+contract, i.e. data hosting that adequately protected the health          
+information of Zoll’s patients.  Barracuda responds that Fusion           
+cannot maintain its breach of contract claim because Fusion’s             
+agreement with Zoll (“the Hosting Agreement”) did not comply              
+with the condition precedent imposed by paragraph 4.1(b) of the           
+agreement between Barracuda and Fusion (“the OEM Agreement”).             
+    A condition precedent defines an event that must occur               
+before a contract becomes effective or before an obligation to            
+perform arises under the contract. Petricca Development Ltd.              
+Partnership v. Pioneer Development Co., 40 F. Supp. 2d 49, 54             
+(D. Mass. 1999).  If the condition precedent is not satisfied,            
+the contract and the obligations set forth therein cannot be              
+enforced. Massachusetts Mun. Wholesale Elec. Co. v. Town of               
+Danvers, 577 N.E.2d 283, 288 (Mass. 1991).                                
+    Paragraph 4.1(b) of the OEM Agreement requires that                  
+Fusion’s contracts with its customers, such as Zoll, include              
+    terms consistent with [the OEM Agreement] and contain[]              
+    terms and conditions substantially in conformity with those          
+    set forth on Exhibit B [of that agreement].                          
+(stylization removed).                                                    
+    Barracuda contends that Fusion failed to incorporate into            
+the Hosting Agreement language 1) requiring Zoll to indemnify             
+Apptix, Inc. (“Apptix”), i.e. Fusion, and Sonian, i.e.                    
+Barracuda, for claims arising from Zoll’s use of the product,             
+and 2) limiting the liability of Barracuda to the lesser of               
+actual damages or $1,000.3  Barracuda argues that because the             
+Hosting Agreement did not contain such language (or                       
+substantially conforming language), Fusion has failed to satisfy          
+the condition precedent and cannot bring the present breach of            
+contract claim.                                                           
+    Fusion rejoins that the Hosting Agreement satisfied the              
+condition precedent imposed by paragraph 4.1(b) because, even             
+though the Hosting Agreement did not contain verbatim                     
+
+recitations of the terms and conditions at issue, it was                  
+consistent with the OEM Agreement and contained terms and                 
+conditions substantially in conformance with Exhibit B.                   
+
+
+3 Apptix was later acquired by Fusion and the Court will refer to         
+the two entities collectively as “Fusion” except insofar as the           
+individual corporate identity of Apptix is relevant.                      
+    Furthermore, Fusion submits that if the Hosting Agreement            
+failed to satisfy the condition precedent, such a failure would           
+have excused Barracuda’s performance under the OEM Agreement but          
+would not constitute a waiver of Fusion’s breach of contract              
+claims.  Rather, Fusion argues that because Barracuda continued           
+to perform under the OEM Agreement, notwithstanding its                   
+
+contractual right to obtain information about the terms and               
+conditions of the Hosting Agreement, Barracuda waived its right           
+to interpose the condition precedent to defeat Fusion’s breach            
+of contract claims or, in the alternative, is equitably estopped          
+from doing so.  Barracuda denies that either doctrine precludes           
+its condition precedent defense.                                          
+    The Hosting Agreement does not satisfy the condition                 
+precedent imposed by paragraph 4.1(b) of the OEM Agreement.               
+Exhibit B to the OEM Agreement contains a limitation of                   
+liability provision capping the damages of Apptix and Sonian at           
+“the lesser of actual damages . . . or one thousand dollars”.             
+
+(capitalization removed).  The Hosting Agreement, however,                
+limits the liability of a “party” to not more than                        
+    the amount paid to Apptix under [the Hosting Agreement]              
+    during the twelve (12) month period preceding the events             
+    giving rise to such liability.                                       
+Here, that limitation apparently amounts to slightly less than            
+One Million Dollars.  Fusion argues that the Hosting Agreement            
+is in substantial conformity with the OEM Agreement because               
+liability thereunder is capped far below actual damages but that          
+reality is insufficient where liability may nevertheless greatly          
+exceed the limits imposed by the OEM Agreement.  Moreover, the            
+limitation of liability provision in the Hosting Agreement                
+extends to each “party”, a defined term which does not include            
+Barracuda or Sonian.                                                      
+
+    Nor is the indemnification provision of the same agreement           
+in substantial conformity with Exhibit B to the OEM Agreement.            
+Exhibit B’s indemnification provision designates Sonian as an             
+intended third-party beneficiary of that provision.  By                   
+contrast, the Hosting Agreement fails to impose an obligation on          
+Zoll to indemnify Barracuda.                                              
+    Despite the failure of the condition precedent, Fusion’s             
+alternate argument of waiver is sufficient to preserve its                
+breach of contract claim.                                                 
+    Fusion contends that Barracuda’s failure to insist earlier           
+on the satisfaction of the condition precedent constitutes                
+
+waiver of the condition.  Generally, a party may waive its                
+contract rights such as a condition precedent in its favor.               
+Millen Industries, Inc. v. Flexco-Accessories Co., Inc., 5 F.             
+Supp. 2d 72, 74 (D. Mass. 1998).  Waiver under Massachusetts law          
+requires the voluntary relinquishment of a known right. Boston            
+Helicopter Charter, Inc. v. Agusta Aviation Corp., 767 F. Supp.           
+363, 372 (D. Mass. 1991).  It can be either express or inferred           
+from the party’s conduct and the surrounding circumstances. Id.           
+Where a waiver is implied, the waiving party’s conduct must be            
+indicative of an intent to relinquish voluntarily a particular            
+right such that no other reasonable explanation of the conduct            
+is possible. Bachorz v. Miller-Forslund, 703 F.3d 27, 32 (1st             
+Cir. 2012).                                                               
+
+    Whether a waiver has occurred is usually a question of               
+fact, Millen, 5 F. Supp. 2d at 74, but here Barracuda contends            
+that non-waiver language in the OEM Agreement disposes of                 
+Fusion’s waiver arguments as a matter of law.  The OEM Agreement          
+provides that                                                             
+    [n]o failure or delay of [Barracuda] in exercising any               
+    right or remedy under this Agreement shall operate as a              
+    waiver of such right or remedy.                                      
+    Massachusetts case law on the efficacy of non-waiver                 
+clauses is ambivalent.  Another session of this Court has                 
+previously held such a clause effective, see Blue Hills Office            
+Park LLC v. J.P. Morgan Chase Bank, 477 F. Supp. 2d 366, 374 (D.          
+Mass. 2007) (holding that non-waiver provision barred waiver of           
+mortgagor’s rights thereunder), while the Massachusetts Appeals           
+Court has expressed skepticism, see M.J.G. Properties, Inc. v.            
+Hurley, 537 N.E.2d 165, 167 (Mass. App. Ct. 1989) (stating that           
+“we think the proper approach, and one which is in accord with            
+our cases, is to look at the question of waiver as a question of          
+fact in light of all the circumstances, including the existence           
+of the antiwaiver clause”).  Because the Court finds the Hurley           
+approach more consistent with Massachusetts law, it declines to           
+discount Fusion’s waiver argument as a matter of law.  Fusion             
+has alleged facts sufficient to support its waiver defense,               
+specifically by contending that for nine years Barracuda did not          
+once inquire about Fusion’s compliance with the condition                 
+
+precedent.                                                                
+          ii.  Breach of Implied Covenant of Good Faith and Fair         
+              Dealing (Count II)                                         
+    Under Massachusetts law, a covenant of good faith and fair           
+dealing is implied in every contract. Shaulis v. Nordstrom,               
+Inc., 120 F. Supp. 3d 40, 54 (D. Mass. 2015) (citing Uno Rests.           
+v. Boston Kenmore Realty Corp., 805 N.E.2d 957, 964 (Mass.                
+2004)).  The scope of the covenant is, however, limited and it            
+may not be invoked to create rights or benefits not contemplated          
+by the contract. Robert & Ardis James Found. v. Meyers, 48                
+N.E.3d 450 (Mass. 2016).  Moreover, a breach of contract does             
+not necessarily constitute a corresponding breach of the                  
+covenant, Brand Group Int’l, LLC v. Established Brands Int’l,             
+No. 10-11783, 2011 U.S. Dist. LEXIS 81507 (D. Mass. July 26,              
+2011).  Rather, the covenant provides that in the course of the           
+performance of a contract neither party will do anything to               
+injure or destroy the right of the other to receive the fruits            
+thereof. Anthony’s Pier Four, Inc. v. HBC Assocs., 583 N.E.3d             
+806, 820 (Mass. 1991). A breach of the covenant thus occurs when          
+one party violates the reasonable expectations of the other,              
+Chokel v. Genzyme Corp., 867 N.E.2d 325, 329 (Mass. 2007).                
+    In determining whether the covenant has been breached, the           
+Court looks to whether there was a lack of good faith in the              
+defendant’s performance. Weiler v. PortfolioScope, 12 N.E.3d              
+
+354, 362 (Mass. 2014).  The burden of showing a lack of good              
+faith rests with the plaintiff. Id.                                       
+    Fusion argues that Barracuda breached the covenant of good           
+faith and fair dealing by a) failing to inform it of the breach           
+for more than one week after its discovery, b) initially                  
+providing Fusion with explanations that understated the scope             
+and severity of the breach and c) meaningfully failing to                 
+cooperate with Fusion and Zoll’s attempts to investigate the              
+breach.  Barracuda retorts that Fusion’s allegations sound                
+merely in “human error” and lack the requisite absence of good            
+faith to support a claim of breach of the implied covenant.               
+
+That argument is unavailing for the purpose of the present                
+motion.  While further discovery may bear out Barracuda’s                 
+assertion that nothing more nefarious than human error was at             
+play in the weeks after the discovery of the breach, Fusion has           
+pled facts sufficient to permit a reasonable inference that good          
+faith was lacking. See Iqbal, 556 U.S. at 678, A.L. Prime Energy          
+Consultant, Inc. v. Massachusetts Bay Transp. Auth., 95 N.E.3d            
+547, 560 (Mass. 2018) (holding that lack of good faith can be             
+inferred from totality of the circumstances).                             
+         iii.  Negligent Misrepresentation (Count III)                   
+    To maintain a claim of negligent misrepresentation,                  
+plaintiffs must allege facts indicating that the defendants               
+    (1) in the course of [their] business, (2) supplied false            
+    information for the guidance of others (3) in their                  
+    business transactions, (4) causing and resulting in                  
+    pecuniary loss to those others (5) by their justifiable              
+    reliance on the information, and that [defendants] (6)               
+    failed to exercise reasonable care or competence in                  
+    obtaining or communicating that information.                         
+Braunstein v. McCabe, 571 F.3d 108, 126 (1st Cir. 2009).                  
+Massachusetts courts treat negligent misrepresentation claims             
+“more like negligence actions than deceit actions” and focus on           
+the speaker’s degree of care in making the statement. Cummings            
+v. HPG Intern., Inc., 244 F.3d 16, 25 (1st Cir. 2001).  The               
+speaker need not have known that the statement was false if the           
+truth could have been ascertained through “a modicum of                   
+diligence”. Zimmerman v. Kent, 575 N.E.2d 70, 74 (Mass. App. Ct.          
+1991).                                                                    
+    Fusion has failed to state a claim for negligent                     
+misrepresentation.  While it alleges that Barracuda made false            
+statements regarding the data breach, it fails to allege that             
+the harm it suffered was due to those allegedly false statements          
+rather than the data breach itself.                                       
+          iv.  Tortious Interference with Contractual Relations          
+              (Count IV)                                                 
+    To maintain a claim for tortious interference with a                 
+contract or business relationship, the plaintiff must allege              
+that                                                                      
+    1) he had a contract with a third party, 2) the defendant            
+    knowingly induced the third party to break that contract,            
+    3) the interference, in addition to being intentional, was           
+    improper in motive or means and 4) the plaintiff was harmed          
+    by the defendant’s actions.                                          
+Psy-Ed Corp. v. Klein, 947 N.E.2d 520, 536 (Mass. 2011).                  
+    Fusion’s claim of tortious interference is incompatible              
+with the facts it has alleged.  As with its claim for negligent           
+misrepresentation, Fusion has failed to allege that it suffered           
+any harm from Barracuda’s post-breach actions distinct from the           
+harm occasioned by the data breach.  Moreover, to the extent              
+Fusion alleges that the data breach constituted tortious                  
+interference with contractual relations, it has not alleged that          
+Barracuda acted with the requisite impropriety in its motive or           
+means. See King v. Driscoll, 638 N.E.2d 488, 495 (Mass. 1994)             
+(explaining that “improper motive or means” prong requires that           
+defendant possess “actual malice, a spiteful malignant purpose,           
+unrelated to the legitimate corporate interest”).  Consequently,          
+Fusion has not stated a claim for tortious interference with              
+contractual relations.                                                    
+           v.  Indemnification (Counts V and VI)                         
+    Under Massachusetts law, a right to indemnification may              
+arise under three theories, namely 1) an express agreement, 2) a          
+contractual right implied from the nature of the relationship             
+
+between the parties and 3) a common law tort-based right. Araujo          
+v. Woods Hole, Martha’s Vineyard, Nantucket Steamship Auth., 693          
+F.2d 1, 2 (1st Cir. 1982).  Fusion alleges it is entitled to              
+indemnification by Barracuda under the second and third                   
+theories.                                                                 
+    Implied contractual indemnification exists when there are            
+“special factors” surrounding a contractual relationship which            
+indicate an intention by one party to indemnify another. Fall             
+River Housing Auth. v. H.V. Collins Co., 604 N.E.2d 1310, 1313            
+(Mass. 1992).  Fusion contends that the OEM Agreement created a           
+“special relationship” entitling it to implied contractual                
+
+indemnification.  Barracuda rejoins that the OEM Agreement                
+provided only for indemnification of Barracuda by Fusion and              
+that Fusion has no implied indemnification in its favor that the          
+parties declined to include expressly.                                    
+    The Court agrees with Barracuda.  The parties’ relationship          
+does not indicate an intention of Barracuda to indemnify Fusion.          
+Rather, the OEM Agreement exclusively provides for the                    
+indemnification of Barracuda.  Under such circumstances, there            
+is no implied right to indemnity on the part of Fusion. See id.           
+(finding no implied right to indemnification where express                
+indemnity provision existed and limited indemnification only to           
+the costs arising from its negligence).                                   
+    Common law tort-based equitable indemnification is                   
+
+available to a party who did not join in the negligent act of             
+another but, because of that act, was nevertheless exposed to             
+liability. Hernandez v. City of Boston, 277 F. Supp. 3d 176, 180          
+(D. Mass. 2017).  That standard typically requires that the               
+party seeking indemnity be, at most, passively or vicariously at          
+fault. Araujo, 693 F.2d at 3.  Where the party seeking                    
+indemnification instead was itself responsible for acts or                
+omissions proximately causing plaintiff's injury, courts have             
+found tort-based equitable indemnification to be inappropriate.           
+Id.                                                                       
+    Fusion fails to state a claim for tort-based equitable               
+
+indemnification because it does not allege that it has been held          
+liable as a tortfeasor, or will be.  Rather, its potential                
+liability appears to derive from its contractual relationship             
+with Zoll.  Under such circumstances tort-based equitable                 
+indemnity is inappropriate. See Walter v. Shuffain, P.C. v. CPA           
+Mut. Ins. Co., No. 06-10163, 2008 U.S. Dist. LEXIS 25422 (D.              
+Mass. Mar. 28, 2008) (explaining that liability “must spring              
+from the same theory, not merely the same harms”), see also               
+Stewart v. Roy Bros., 265 N.E.2d 357 (Mass. 1970).                        
+          vi.  Breach of Implied Warranties of Merchantability           
+              (Count VII) and Fitness (Count VIII)                       
+    In its prior memorandum and order (“M&O”) allowing, in               
+part, and denying, in part, Barracuda’s motion to dismiss                 
+plaintiff Zoll’s claims, the Court held that the Barracuda                
+parties validly waived the implied warranties of merchantability          
+and fitness in the OEM Agreement and that Zoll thus could not             
+maintain its claims for breach of warranty. See Zoll Med. Corp.,          
+2021 U.S. Dist. LEXIS 180761 at *10-14.  Zoll was a third party           
+to the OEM Agreement and as such its implied warranty claims              
+were derivative of those of Fusion, the principal.  See id.               
+
+(citing Theos & Sons, Inc. v. Mack Trucks, Inc., 729 N.E.2d               
+1113, 1118 (Mass. 2000) (holding that subsequent purchaser                
+cannot possess greater warranty rights than original purchaser).          
+In finding that Barracuda had waived the implied warranties as            
+to Zoll, the Court concluded that Barracuda had made the same             
+waiver as to Fusion. See id. at 14.  That holding controls here           
+and thus for the reasons stated in the Court’s prior M&O, Fusion          
+has failed to state a claim for breach of the implied warranties          
+of merchantability and fitness.                                           
+III.   The Motion to Substitute                                             
+      Zoll and Fusion have moved to substitute Axis as plaintiff.          
+ Federal Rule of Civil Procedure 25(c) provides that if an                 
+ interest in the litigation is transferred after its                       
+ commencement, the action                                                  
+      may be continued by . . . the original party unless the              
+      court, on motion, orders the transferee to be substituted            
+      in the action or joined with the original party.                     
+ Fed. R. Civ. P. 25(c).                                                    
+      The court has “considerable leeway” to allow the                     
+ substitution of parties so as to “facilitate the conduct of the           
+ litigation.” Potvin v. Speedway, LLC, 891 F.3d 410, 416 (1st              
+ Cir. 2010) (internal citations omitted), see Negron-Almeda v.             
+ Santiago, 579 F.3d 45, 53 (1st Cir. 2009) (describing Rule 25 as          
+ a “discretional procedural vehicle”).                                     
+      Where an insurer has compensated its insured for a loss in           
+ full, the insurer is the sole real party in interest and must             
+ sue in its own name. See Woods Hole Oceanographic Inst. v. ATS            
+ Specialized, No. 17-12301, 2020 U.S. Dist. LEXIS 250077 at *9-10          
+
+ (D. Mass. Dec. 22, 2020) (collecting cases).  If the insured has          
+ been compensated only in part, however, both it and the insurer           
+ are real parties in interest. See id.  Where an interest has              
+ been otherwise assigned, Rule 25(c) allows for substitution of            
+ the assignee. See Citibank v. Grupo Cupey, Inc., 382 F.3d 29,             
+ 30-31 (1st Cir. 2004).                                                    
+    Fusion and Zoll represent that, pursuant to the November,            
+2021, settlement of the arbitration proceeding, they, along with          
+Axis and Zoll’s insurer, Ace, agreed to assign to Axis “all               
+claims that Zoll and/or Ace may have against Barracuda in                 
+connection with [the breach]”.  They consequently seek                    
+substitution under Rule 25.  Barracuda opposes substitution on            
+
+the ground that the settlement agreement has not been produced            
+and its legal effect is therefore uncertain.                              
+    The Court is disinclined to declare the legal effect of              
+documents it has not seen. See Woods Hole Oceanographic Inst. v.          
+ATS Specialized, Inc., No. 17-12301, 2020 U.S. Dist. LEXIS                
+250077 at *5-10 (D. Mass. Dec. 22, 2020) (determining party-in-           
+interest status for Rule 17 purposes after examination of                 
+operative documents).  The Court will, therefore, in order to             
+“facilitate the conduct of the litigation”, allow the joinder of          
+Axis (which apparently possesses an interest of some kind in              
+this litigation) as plaintiff and intervenor but will not                 
+
+dismiss Zoll and Fusion until it is shown that they retain no             
+continuing interest in the action. Potvin, 891 F.3d at 416.               
+                             ORDER                                       
+    For the foregoing reasons, defendants’ motions to dismiss            
+(Docket No. 31) is, with respect to Counts III, IV, V, VI, VII            
+and VIII, ALLOWED, but otherwise, DENIED.                                 
+    The joint motion of Zoll Services LLC, Zoll Medical                  
+Corporation and Fusion LLC to substitute Axis Insurance Company           
+
+as plaintiff and intervenor (Docket No. 43) is, to the extent it          
+seeks to introduce Axis Insurance Company into the action as              
+plaintiff, ALLOWED, but otherwise, DENIED.                                
+So ordered.                                                               
+
+                                  __/s/ Nathaniel M. Gorton___           
+                                  Nathaniel M. Gorton                    
+                                  United States District Judge           
+
+Dated February 14, 2021
+
+---
+
+United States District Court                            
+                   District of Massachusetts                             
+
+                                 )                                       
+Zoll Medical Corp.,               )                                       
+                                 )                                       
+         Plaintiff,              )                                       
+                                 )                                       
+         v.                      )                                       
+                                 )    Civil Action No.                   
+Barracuda Networks, Inc., et al., )    20-11997-NMG                       
+                                 )                                       
+         Defendant.              )                                       
+                                 )                                       
+
+                      MEMORANDUM & ORDER                                 
+
+GORTON, J.                                                                
+    This action arises out of a data breach which compromised            
+the confidential, protected health information (“PHI”) of more            
+than 277,000 patients of Zoll Services LLC (“Zoll Services”), an          
+indirect subsidiary of Zoll Medical Corporation (“Zoll Medical”)          
+(together, “Zoll” or “plaintiffs”).  Pending before the Court is          
+the motion of defendants Barracuda Networks, Inc. (“Barracuda”)           
+and Sonian Inc. (“Sonian”) (together, “defendants”) to dismiss            
+the complaint filed by plaintiffs.  For the reasons that follow,          
+that motion will be allowed in part and denied in part.                   
+I.   Background                                                           
+    Zoll Medical is a Massachusetts-based corporation that               
+develops and markets medical devices and software solutions that          
+help advance emergency health care.  It is the indirect parent            
+corporation of Zoll Services, a Nevada-based limited liability            
+company that commercializes the “LifeVest wearable cardioverter           
+defibrillator”.                                                           
+    In the course of commercializing that product, Zoll                  
+Services often receives emails from physicians containing                 
+patient information, such as patient names, addresses,                    
+
+demographics and health information.  In order to manage and              
+secure that data, plaintiffs rely upon a limited number of                
+third-party service providers.  To that end, in 2012 Zoll                 
+Medical entered into a Hosting Services Agreement (the “Hosting           
+Agreement”) with Apptix, Inc. (“Apptix”) whereby Apptix agreed            
+to provide plaintiffs with a product that would safely store              
+their emails and other data.  Apptix has since been acquired by           
+Fusion, LLC (“Fusion”), a New Jersey limited liability company            
+with its principal place of business in Georgia.                          
+    Separately, in 2014, Zoll Lifecor Corporation, the                   
+predecessor to Zoll Services, entered into a Business Associate           
+
+Agreement (“the BAA”) with Apptix pursuant to the Health                  
+Insurance Portability and Accountability Act (“HIPAA”) wherein            
+Apptix allegedly agreed, inter alia, to use appropriate                   
+safeguards to prevent the unauthorized use or disclosure of PHI           
+and to ensure that any of its subcontractors or vendors to whom           
+it provides PHI agreed to do the same.                                    
+    In the course of performing its obligations under the                
+Hosting Agreement and the BAA, Apptix entered into a contract             
+with Sonian to provide its customers with software and related            
+services for the management of customer communications and email          
+(“the OEM Agreement”).  Sonian is a Delaware corporation that             
+has since been acquired by Barracuda, another Delaware                    
+
+corporation with its principal place of business in California.           
+Plaintiffs allege that Barracuda holds itself out to the public           
+as “an expert in data security”, namely, in archiving emails in           
+a secure environment with controls that ensure that only                  
+authorized personnel have access to the data stored within the            
+archive.  Despite that representation, plaintiffs and Fusion              
+contend that, with respect to their data, Barracuda failed to             
+implement adequate safeguards which ultimately led to the                 
+subject data breach.                                                      
+    The data breach began on November 8, 2018, when a Barracuda          
+employee allegedly left a data port open in its system during a           
+
+standard migration of data within its network.  None of                   
+Barracuda’s supervisory, security or oversight mechanisms                 
+detected the error until approximately seven weeks later, on              
+December 28, 2018.  In the meantime, the confidential and                 
+protected health information of plaintiffs’ patients was                  
+apparently accessed by unauthorized third parties.                        
+    Barracuda finally contacted Apptix with respect to the data          
+breach in January, 2019, advising that it                                 
+    recently discovered that a very small number of user emails          
+    stored in an application known as Sonian EA were                     
+    compromised as a result of unauthorized access to our                
+    system by a third party.                                             
+
+Barracuda informed neither Apptix nor the Zoll plaintiffs that            
+the data port had remained open, undetected for several weeks             
+and, instead, allegedly misrepresented that the data breach was           
+minor.                                                                    
+    Once Zoll Medical received notification of the breach, it            
+and its subsidiaries began an investigation into the event to             
+determine whether customer PHI had been accessed.  As part of             
+that investigation, plaintiffs requested from Barracuda                   
+additional information regarding the data breach but Barracuda            
+purportedly refused to cooperate, compelling plaintiffs to hire           
+an independent forensics firm, Kroll, Inc., to assist in the              
+investigation.                                                            
+    Thereafter, plaintiffs issued a press release advising the           
+public that its data had been breached, including communications          
+which contained PHI.  In April, 2019, a class action lawsuit was          
+filed against Zoll Medical and Zoll Services in the Circuit               
+Court of Kanawha County, West Virginia by individuals claiming            
+that their PHI had been the subject of the data breach.  That             
+action has since been settled, leaving Zoll Services liable to            
+its patients for any injury resulting from the “data breach               
+event”.  Plaintiffs contend that they have also suffered                  
+investigation, mitigation and remediation costs associated with           
+the incident, as well as harm to their reputation.                        
+     In November, 2020, plaintiffs filed the instant action               
+against Barracuda and Sonian, alleging (1) negligence (Count I);          
+
+(2) breach of implied warranty of merchantability (Count II);             
+(3) breach of implied warranty of fitness (Count III); (4)                
+breach of written contract—third party beneficiary (Count IV)             
+and (5) equitable indemnity (Count V).                                    
+     Defendants now move to dismiss the complaint for failure to          
+state a claim.                                                            
+II.   Motions to Dismiss                                                   
+       A. Legal Standard                                                  
+     To survive a motion under Fed. R. Civ. P. 12(b)(6), the              
+subject pleading must contain sufficient factual matter to state          
+a claim for relief that is actionable as a matter of law and              
+
+“plausible on its face.” Ashcroft v. Iqbal, 556 U.S. 662, 678             
+(2009) (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570             
+(2007)).  A claim is facially plausible if, after accepting as            
+true all non-conclusory factual allegations, the court can draw           
+the reasonable inference that the defendant is liable for the             
+misconduct alleged. Ocasio-Hernandez v. Fortuno-Burset, 640 F.3d          
+1, 12 (1st Cir. 2011).                                                    
+    When rendering that determination, a court may not look              
+beyond the facts alleged in the complaint, documents                      
+incorporated by reference therein and facts susceptible to                
+judicial notice. Haley v. City of Boston, 657 F.3d 39, 46 (1st            
+Cir. 2011).  A court also may not disregard properly pled                 
+factual allegations even if actual proof of those facts is                
+
+improbable.  Ocasio-Hernandez, 640 F.3d at 12.  Rather, the               
+relevant inquiry focuses on the reasonableness of the inference           
+of liability that the plaintiff is asking the court to draw.              
+Id. at 13.                                                                
+      B. Application                                                     
+           i.  Negligence                                                
+    A plaintiff asserting a negligence claim must establish the          
+basic elements of duty, breach, causation and damages.  See               
+Colter v. Barber-Greene Co., 525 N.E.2d 1305, 1313 (Mass. 1988).          
+To state a claim for negligence, a plaintiff typically must               
+allege damages beyond pure economic loss, as “purely economic             
+
+losses are unrecoverable . . . in the absence of personal injury          
+or property damage”.  FMR Corp. v. Boston Edison Co., 613 N.E.2d          
+902, 903 (Mass. 1993).  This limitation on the recovery of                
+purely pecuniary harm is known as the economic loss doctrine.             
+    Here, defendants contend that the economic loss doctrine             
+bars plaintiffs’ claim for negligence.  Plaintiffs, on the other          
+hand, maintain that their negligence claim falls within an                
+exception to the economic loss doctrine.  They argue that the             
+economic loss doctrine does not preclude recovery of purely               
+economic loss on a negligence claim arising out of an                     
+independent, noncontractual legal duty.  In particular,                   
+plaintiffs claim that the duty of Barracuda to keep Zoll’s                
+confidential customer information secure from unauthorized                
+
+access arises from HIPAA and common law privacy principles                
+separate from any agreement between the parties.  In the                  
+alternative, plaintiffs submit that they reasonably and                   
+foreseeably relied on defendants’ promise to Fusion that it               
+would keep the PHI of Zoll’s customers secure, and that                   
+Massachusetts law recognizes reasonable reliance on a                     
+defendant’s promise to a third party as an exception to the               
+economic loss doctrine.                                                   
+    With respect to the alleged common law duty to maintain              
+privacy, plaintiffs cite Portier v. NEO Tech. Solutions, No. 17-          
+cv-30111, 2019 WL 7946103 (D. Mass. Dec. 31, 2019).  In Portier,          
+
+the district court held that because defendant employer                   
+    undertook the affirmative acts of collecting and storing             
+    [plaintiff] employees’ personal and financial information            
+    on its internet accessible computer system, it had a common          
+    law duty to exercise reasonable care to protect the data             
+    from the foreseeable risk of a data breach.                          
+
+Id. at *20.  The district court concluded that plaintiff                  
+employees could recover purely pecuniary losses notwithstanding           
+the economic loss doctrine.  Id.                                          
+    Plaintiffs’ reliance on Portier is misplaced.  In that               
+case, the district court concluded that a “special relationship”          
+existed between plaintiff employees and defendant employer, and           
+that the special relationship gave rise to a duty on the                  
+employer’s part to safeguard personally identifiable information          
+provided to it by the employees.  Id. at *21.  Unlike the                 
+
+Portier plaintiffs, plaintiffs here cannot identify a similar             
+relationship with defendant.                                              
+    Moreover, an exception to the economic loss doctrine would           
+be inappropriate in this case.  While in Portier the transfer of          
+private information was at most incidental to the object of the           
+employment relationship, here the storage and protection of               
+sensitive data was exactly what the parties contracted among              
+themselves to do.  See Wyman v. Ayer Properties, LLC, 11 N.E.3d           
+1074, 1080 (Mass. 2014) (explaining that the economic loss rule           
+was “developed in part to prevent the progression of tort                 
+concepts from undermining contract expectations”), see also 74            
+
+Am. Jur. 2d Torts § 23 (stating that the purpose of the economic          
+loss doctrine is to “maintain the distinction or boundary                 
+between contract law and tort law”).                                      
+    Plaintiffs’ attempts to locate an independent legal duty in          
+Barracuda’s ostensible HIPAA obligations are equally unavailing.          
+Plaintiffs have neither furnished any authority in support of             
+their position that HIPAA creates a tort duty nor specified from          
+which provisions the ostensible duty arises.  Although the Court          
+is not aware of any case addressing the issue of whether HIPAA            
+creates a duty under tort law, the Court finds it instructive             
+that federal courts have declined to recognize the existence of           
+a private statutory right of action under the statute.  See               
+Miller v. Nichols, 586 F.3d 53 (1st Cir. 2009), see also Acara            
+
+v. Banks, 470 F.3d 569, 571-72 (5th Cir. 2006), Sneed v. Pan              
+American Hosp., 370 Fed. App’x 47, 50 (11th Cir. 2010).                   
+    Finally, plaintiffs have not alleged actual reliance on any          
+promise made by defendants to Fusion.  The reliance exception to          
+the economic loss doctrine “applies only where the plaintiff              
+reasonably and foreseeably relied on the defendant's promise to           
+someone other than the plaintiff.”  Cumis Ins. Soc’y, Inc. v.             
+BJ’s Wholesale Club, 2008 WL 2345865, aff’d, 918 N.E.2d 36                
+(Mass. 2009).  Here, plaintiffs have not alleged that they                
+reasonably relied upon, or even were aware of, the agreement              
+between Barracuda and Fusion.  Consequently, plaintiffs cannot            
+
+employ the reliance exception to circumvent the economic loss             
+doctrine.                                                                 
+          ii.  Breach of Implied Warranties of Merchantability           
+              and Fitness                                                
+    Massachusetts law provides that manufacturers impliedly              
+warrant to customers that their products will be merchantable             
+and “fit for the ordinary purposes for which such goods are               
+used”.  Back v. Wickes Corp., 378 N.E.2d 964, 969 (Mass. 1978)            
+(quoting M.G.L. c. 106, § 2-314(2)(C)).  To succeed on a claim            
+for breach of implied warranty of merchantability, a plaintiff            
+must show that 1) defendant manufactured or sold the subject              
+product, 2) that product contained a defect or unreasonably               
+dangerous condition rendering it unsuitable for its ordinary              
+
+use, 3) plaintiff was using the product in a manner that                  
+defendant intended or reasonably could have foreseen and 4) the           
+defect or dangerous condition was a legal cause of plaintiff’s            
+injury.  Lally v. Volkswagen Aktiengesellschaft, 698 N.E.2d 28,           
+43 (Mass. App. Ct. 1998).  Massachusetts law also provides for            
+an implied warranty of fitness with respect to goods used for a           
+particular purpose.  M.G.L. c. 106, § 2-315.  That warranty               
+    is similar to the warranty of merchantability but applies            
+    only where the seller at the time of contracting has reason          
+    to know any particular purpose for which the goods are               
+    required and that the buyer is relying on the seller's               
+    skill or judgment to select or furnish suitable goods.               
+
+Taupier v. Davol, 400 F. Supp. 3d 430 (D. Mass. 2020) (internal           
+citations omitted).                                                       
+    In contrast, the implied warranties of merchantability and           
+fitness do not apply to contracts for the rendition of services.          
+White v. Peabody Constr. Co., Inc., 434 N.E.2d 1015, 1022 (Mass.          
+1982) (holding that claim for breach of implied warranties could          
+not be brought because contract was not for sale of goods), see           
+also Mattoon v. City of Pittsfield, 775 N.E.2d 770, 783-84                
+(Mass. App. Ct. 2002) (holding that because provision of                  
+services was “predominant factor” in contract for municipal               
+water distribution the implied warranties of fitness and                  
+merchantability did not apply).                                           
+    Here, plaintiffs allege that defendants breached the                 
+implied warranties of fitness and merchantability with respect            
+
+to Sonian’s email archive and data import/export technology               
+licensed to Apptix under the OEM Agreement.  They do so                   
+notwithstanding their contention that the OEM Agreement is a              
+contract for services.  Defendants maintain that the implied              
+warranties were waived and, if the contract was for services,             
+they do not apply as a matter of law.                                     
+    The Court need not address the question of whether the OEM           
+Agreement is a contract for goods or for services because the             
+OEM Agreement waives the implied warranties of fitness and                
+merchantability.  A valid waiver of the warranty of                       
+merchantability “must mention merchantability and in the case of          
+
+a writing be conspicuous”, and a valid waiver of the warranty of          
+fitness must be written and conspicuous.  M.G.L. c. 106, § 2-             
+316(2).  A provision is conspicuous if a reasonable person                
+against whom it is to operate would have noticed it.  See M.G.L.          
+c. 106, § 1-201(10).  Whether a term is conspicuous is for the            
+Court to decide.  Id.  In making that determination, the Court            
+takes into account                                                        
+    the location of the clause, the size of the type, any                
+    special highlighting, such as boldface, capitalization or            
+    underlining, the clarity of the clause, and the                      
+    sophistication of the contracting parties.                           
+
+Logan Equipment Corp. v. Simon Aerials, Inc. 736 F.Supp. 1188,            
+1197 (D. Mass. 1990).                                                     
+    Here, the OEM Agreement expressly and conspicuously limits           
+the warranty protections available for programs and services              
+that defendants agreed to provide under the Agreement.  In                
+particular, Section 11 of the Agreement provides in relevant              
+part that                                                                 
+    11.1 Sonian agrees to provide the Services to [Apptix] in            
+    accordance with the Service Level Agreement attached hereto          
+    . . .                                                                
+    11.2 Except for the warranties provided in Section 11.1,             
+    OEM acknowledges and agrees that Sonian disclaims all other          
+    warranties whether express, implied or statutory, with               
+    respect to the Services, and specifically disclaims the              
+    implied warranties of merchantability, fitness for a                 
+    particular purpose, noninfringement or any warranties                
+    arising from that course of dealing, usage or trade                  
+    practice.  Sonian does not warrant that the services shall           
+    be uninterrupted or error free.                                      
+
+(capitalization removed and emphasis added).  The “Services”              
+include one-time imports of email.                                        
+    A reasonable person entering into the OEM Agreement would            
+have understood that special attention was to be paid to Section          
+11.2.  The text of Section 11.2 is entirely capitalized, one of           
+only two sections of the OEM Agreement to receive such emphasis.          
+Further, it is located in the body of the agreement and its               
+language and meaning are clear.  Finally, the OEM Agreement was           
+drafted by sophisticated parties.                                         
+    Thus, because the waivers of the implied warranties of               
+merchantability and fitness are conspicuous, in writing, and              
+make mention of “merchantability”, they are valid and the                 
+warranties are waived.                                                    
+
+    Finally, plaintiffs’ awareness or lack thereof of the                
+waiver provisions in the OEM Agreement is immaterial.  The                
+Massachusetts Supreme Judicial Court has held that a subsequent           
+purchaser cannot possess greater warranty rights as to the                
+seller than the original purchaser.  Theos & Sons, Inc. v. Mack           
+Trucks, Inc. 729 N.E.2d 1113, 1118 (Mass. 2000).  Theos controls          
+the present case.  Defendants’ disclaimer of the implied                  
+warranties as to Apptix renders them waived as to plaintiffs.             
+         iii.  Breach of Written Contract—Third Party                    
+              Beneficiary                                                
+    Under Massachusetts law, only intended beneficiaries may             
+
+enforce a contract.  See Miller v. Mooney, 725 N.E.2d 545, 549–           
+50 (2000).  Massachusetts courts apply the Restatement (Second)           
+of Contracts (1981) test to determine whether a third party is            
+an intended beneficiary of a promise.  Id.  That test provides            
+that                                                                      
+    (1) Unless otherwise agreed between promisor and promisee,           
+    a beneficiary of a promise is an intended beneficiary if             
+    recognition of a right to perform in the beneficiary is              
+    appropriate to effectuate the intention of the parties and           
+    either (a) the performance of the promise will satisfy an            
+    obligation of the promisee to pay money to the beneficiary;          
+    or (b) the circumstances indicate that the promisee intends          
+    to give the beneficiary the benefit of the promised                  
+    performance.                                                         
+
+Restatement (Second) of Contracts § 302 (1981).  To ascertain             
+the intention of the parties, courts “look at the language and            
+circumstances of the contract”.  Anderson v. Fox Hill Village             
+Homeowners Corp., 676 N.E.2d 821, 822 (Mass. 1997).  A contract           
+does not confer third-party beneficiary status upon a nonparty            
+unless its language and circumstances show that the parties               
+“clearly and definitely” intended it to benefit that party.               
+Cumis Ins. Soc’y, Inc. v. BJ’s Wholesale Club, Inc., 918 N.E.2d           
+36, 44 (Mass. 2009)(internal punctuation omitted) (citing                 
+Anderson, 676 N.E.2d at 822).                                             
+    Here, the terms of the OEM Agreement between defendants and          
+Apptix make clear that the Zoll plaintiffs were not intended              
+third-party beneficiaries of the agreement.  Indeed, the intent           
+of the OEM Agreement, as described in the provisions limiting             
+the rights and duties thereunder to Apptix, its successors, and           
+assigns and requiring Fusion to enter into separate, subsequent           
+agreements with downstream customers is clear.  The intent was            
+for Barracuda to provide Apptix with a product to market and              
+license as its own, thereby rendering Apptix, now Fusion,                 
+responsible for the relationship between Apptix and downstream            
+customers, i.e. the Zoll plaintiffs.  Thus, because the OEM               
+Agreement does not “clearly and definitely” demonstrate an                
+intent to benefit Zoll, Zoll is not a third-party beneficiary of          
+the contract.                                                             
+          iv.  Equitable Indemnity                                       
+    Under Massachusetts law, a right to indemnification may              
+
+arise under three circumstances, namely, 1) an express                    
+agreement, 2) a contractual right implied from the nature of the          
+relationship between the parties and 3) a common law tort-based           
+right.  See Araujo v. Woods Hole, Martha’s Vineyard, Nantucket            
+Steamship Auth., 693 F.2d 1, 2 (1st Cir. 1982).                           
+    Plaintiffs allege that the third circumstance of common law          
+tort-based equitable indemnification, applies here.  Tort-based           
+equitable indemnification is available to a party who “did not            
+join in the negligent act of another but was exposed to                   
+liability because of that negligent act.”  Hernandez v. City of           
+Boston, 277 F.Supp.3d 176, 180 (D. Mass. 2017) (quoting Rathbun           
+
+v. Western Mass. Elec. Co., 479 N.E.2d 1383, 1385 (Mass. 1985)).          
+It has usually been available only where the party seeking                
+indemnity was passively or vicariously at fault.  Araujo, 693             
+F.3d at 3.  Where the party seeking indemnification was itself            
+responsible for acts or omissions proximately causing                     
+plaintiff's injury, courts have found tort-based equitable                
+indemnification to be inappropriate.  Id.                                 
+    Here, Zoll has sufficiently pled a claim for equitable               
+indemnity from Barracuda.  Zoll has alleged that it is liable             
+for damages as a result of the West Virginia class action, that           
+the damages were the result of Barracuda’s negligence and that            
+any fault by Zoll was passive or vicarious in nature.                     
+    Barracuda’s response that Zoll is not without fault itself           
+
+misses the mark.  With respect to a motion to dismiss, the Court          
+accepts as true all well-pled facts set forth in the complaint            
+and draws all reasonable inferences therefrom in favor of the             
+pleading party.  Haley, 657 F.3d at 46.  Whether Zoll was                 
+negligent itself is not an issue suitable for resolution at this          
+juncture.                                                                 
+                             ORDER                                       
+    For the foregoing reasons, defendants’ motion to dismiss             
+(Docket No. 18) is ALLOWED, in part, DENIED, in part.  Counts I,          
+II, III and IV of the complaint are hereby DISMISSED but Count V          
+for equitable indemnity is not.                                           
+
+    Plaintiff Zoll’s request to amend its complaint is DENIED.           
+So ordered.                                                               
+
+                                  _/s/ Nathaniel M. Gorton__             
+                                  Nathaniel M. Gorton                    
+                                  United States District Judge           
+
+Dated September 21, 2021

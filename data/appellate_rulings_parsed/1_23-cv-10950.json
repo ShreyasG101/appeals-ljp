@@ -1,0 +1,27 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether ERISA preempts a state law wrongful death and punitive damages claim based on an alleged improper denial of benefits under an ERISA-governed health insurance plan.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that ERISA preempts the wrongful death claim because the claim 'relates to' the ERISA plan and is an alternative enforcement mechanism disallowed by ERISA's remedial scheme. The Supreme Court's decision in Rutledge does not alter this analysis, as it reaffirmed the 'connection with or reference to' test for preemption and did not address wrongful death claims based on denial of benefits."
+    }
+  ],
+  "key_precedents": [
+    "Rutledge v. Pharm. Care Mgmt. Ass'n, 592 U.S. 80 (2020)",
+    "Turner v. Fallon Cmty. Health Plan, Inc., 127 F.3d 196 (1st Cir. 1997)",
+    "Aetna Health Inc. v. Davila, 542 U.S. 200 (2004)",
+    "Shaw v. Delta Air Lines, Inc., 463 U.S. 85 (1983)",
+    "Pilot Life Ins. Co. v. Dedeaux, 481 U.S. 41 (1987)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "Scott Cannon, individually and as the personal representative of the estate of Blaise Cannon, appeals from the grant of summary judgment on ERISA preemption grounds to defendant Blue Cross and Blue Shield of Massachusetts (\"BCBS\") on his state law wrongful death/punitive damages claim. See Mass. Gen. Laws ch. 229 \u00a7 2. His assertion is that BCBS's denial of insurance coverage for a particular inhaler for Blaise Cannon (\"Blaise\") prematurely caused Blaise's later death from asthma-related complications. The parties agree that Blaise was a beneficiary of his partner's BCBS health insurance policy through the partner's employer, and that policy was covered by the Employee Retirement Income Security Act of 1974 (\"ERISA\"), 29 U.S.C. \u00a7\u00a7 1001 et seq. Cannon's primary contention is that Rutledge v. Pharm. Care Mgmt. Ass'n, 592 U.S. 80 (2020), overrules prior law and requires reinstatement of the wrongful death/punitive damages suit (the \"claim\"). We affirm the district court's holding that as a matter of law ERISA preempts his claim."
+}

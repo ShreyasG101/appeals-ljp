@@ -1,0 +1,25 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court erred in concluding that Snohomish Regional Fire and Rescue (SRFR) could not reasonably accommodate the firefighters\u2019 vaccine exemption requests without undue hardship under Title VII and Washington state law.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that SRFR demonstrated substantial undue hardship through unrebutted medical evidence and operational, financial, and health and safety burdens, consistent with the Supreme Court\u2019s Groff v. DeJoy standard requiring a substantial burden in the overall context of the employer\u2019s business."
+    }
+  ],
+  "key_precedents": [
+    "Groff v. DeJoy, 600 U.S. 447 (2023)",
+    "Peterson v. Hewlett-Packard Co., 358 F.3d 599 (9th Cir. 2004)",
+    "Trans World Airlines, Inc. v. Hardison, 432 U.S. 63 (1977)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "The panel affirmed the district court\u2019s summary judgment in favor of Snohomish Regional Fire and Rescue (SRFR) in an action brought by eight firefighters alleging that, in violation of Title VII and Washington state law, SRFR failed to accommodate their religious beliefs when it denied their requests for exemptions from the governor of Washington\u2019s August 2021 proclamation requiring all healthcare providers to be vaccinated against COVID-19. SRFR ultimately denied the firefighters\u2019 requests because it was unable to identify a reasonable accommodation that would allow the firefighters to remain in their roles without imposing an undue hardship on SRFR. The panel held that to establish a failure-to-accommodate claim for religious discrimination under Title VII, a plaintiff must first set forth a prima facie case that he had a bona fide religious belief, the practice of which conflicted with an employment duty; he informed his employer of the belief and conflict; and the employer discharged, threatened, or otherwise subjected him to an adverse employment action because of his inability to fulfill the job requirement. The burden then shifts to the employer to show that it initiated good faith efforts to reasonably accommodate the employee\u2019s religious practices or that it could not reasonably accommodate the employee without undue hardship. Declining to scrutinize the firefighters\u2019 religious beliefs, the panel assumed that they set forth a prima facie case. The panel held that the district court did not err in concluding that SRFR could not reasonably accommodate the firefighters\u2019 vaccine exemption requests without undue hardship. Following Groff v. DeJoy, 600 U.S. 447 (2023), the panel held that undue hardship is shown when, taking into account all relevant factors in the case at hand, a burden is substantial in the overall context of an employer\u2019s business. SRFR showed that it faced several substantial costs of accommodating the firefighters\u2019 requested vaccine exemption, including the health and safety of its own firefighters and the public, the large number of firefighters seeking accommodations, the risk to its operations and the costs of widespread absences, the potential loss of a lucrative contract, and the risk of additional liability. In addition, SRFR provided unrebutted medical evidence that showed the inadequacy of the firefighters\u2019 proposed accommodation. The panel concluded that SRFR thus showed that it could not reasonably have accommodated the firefighters without undue hardship in October 2021."
+}

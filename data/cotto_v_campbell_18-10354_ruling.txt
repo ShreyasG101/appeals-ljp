@@ -1,0 +1,641 @@
+UNITED STATES DISTRICT COURT                           
+                   DISTRICT OF MASSACHUSETTS                             
+
+Jennifer COTTO, David CUMMINGS,  *                                       
+Jamie KIMBALL, Todd MOTON, and  *                                        
+Travis MORAN on behalf of themselves and  *                              
+all others similarly situated,  *                                        
+                               *                                         
+     Plaintiffs,               *                                         
+                               *                                         
+          v.                   *                                         
+                               *                                         
+Andrea Joy CAMPBELL, Massachusetts  *                                    
+Attorney General; Timothy SHUGRUE,  *                                    
+Berkshire County District Attorney; Thomas  *                            
+M. QUINN, III, Bristol County District  *                                
+Attorney; Robert GALIBOS, Cape and  *                                    
+Islands District Attorney; Jonathan  *                                   
+BLODGETT, Essex County District  *  Civil Action No. 1:18-cv-10354-IT    
+Attorney; Anthony GULLUNI, Hampden  *                                    
+County District Attorney; Marian RYAN,  *                                
+Middlesex County District Attorney;  *                                   
+Michael W. MORRISSEY, Norfolk County  *                                  
+District Attorney; David E. SULLIVAN,  *                                 
+Northwestern District Attorney; Timothy J.  *                            
+CRUZ, Plymouth County District Attorney;  *                              
+Kevin R. HAYDEN, Suffolk County District  *                              
+Attorney; Joseph D. EARLY, JR., Worcester  *                             
+County District Attorney; John A. BELLO,  *                              
+Administrator of the Trial Court; Christopher  *                         
+MASON, Massachusetts State Police  *                                     
+Superintendent; SPRINGFIELD POLICE  *                                    
+DEPARTMENT; BOSTON POLICE      *                                         
+DEPARTMENT; BROCKTON POLICE    *                                         
+DEPARTMENT; and FALL RIVER     *                                         
+POLICE DEPARTMENT, on behalf of  *                                       
+themselves and all others similarly situated,  *                         
+                               *                                         
+     Defendants.               *                                         
+                               *                                         
+
+                     MEMORANDUM & ORDER                                  
+
+                         November 13, 2023                               
+TALWANI, D.J.                                                             
+    Plaintiffs are five individuals whose Massachusetts drug convictions have been vacated 
+and dismissed but whose forfeited property has not been returned to them. They bring this 
+putative class action on their own behalf and on behalf of all others similarly situated against 
+various Massachusetts state officials and municipal police departments. Invoking the Fourteenth 
+
+and Eighth Amendments to the U.S. Constitution and state statutory and common law, Plaintiffs 
+seek the restoration of the forfeited property. Pending before the court are Defendants’ Motions 
+to Dismiss [Doc. Nos. 109, 114, 115, 118, 120] asserting, inter alia, that Plaintiffs’ claims are 
+barred by sovereign immunity, various abstention doctrines, and the statute of limitations.  
+ I.   Background                                                         
+   A.  The Supreme Judicial Court’s Decisions Vacating Drug Convictions  
+    For a period of years beginning in the mid-2000s, two state forensic chemists, Annie 
+Dookhan and Sonja Farak, tampered with evidence, falsified drug test results, and committed 
+perjury—with repercussions for tens of thousands of defendants charged with drug-related 
+offenses. On April 19, 2017, the Single Justice of the Massachusetts Supreme Judicial Court 
+
+(“SJC”) vacated and dismissed with prejudice 21,587 drug cases that had been tainted by 
+Dookhan’s misconduct. Bridgeman v. District Attorney for Suffolk County, SJ-2014-0005 (Apr. 
+19, 2017). On June 18, 2018, the Single Justice of the SJC vacated and dismissed with prejudice 
+over 7,500 drug cases that had been tainted by Farak’s misconduct. Committee for Public 
+Counsel Services v. Attorney General of Massachusetts, SJ-2017-347 (June 18, 2018). On 
+October 11, 2018, the SJC held that the convictions of “all defendants who pleaded guilty to a 
+drug charge, admitted to sufficient facts on a drug charge, or were found guilty of a drug charge, 
+where (i) Farak signed the certificate of analysis; (ii) the conviction was based on 
+methamphetamine and the drugs were tested during Farak’s tenure at the Amherst lab; or (iii) the 
+drugs were tested at the Amherst lab on or after January 1, 2009, and through January 18, 2013, 
+regardless of who signed the certificate of analysis” were vacated and dismissed with prejudice. 
+Comm. for Pub. Counsel Servs. v. Attorney Gen., 480 Mass. 700, 734-735, 108 N.E.3d 966 
+(Mass. 2018).                                                             
+
+    On March 20, 2019, the Single Justice of the SJC vacated and dismissed with prejudice 
+an additional 7,500-plus cases tainted by Farak’s misconduct. Committee for Public Counsel 
+Services v. Attorney General of Massachusetts, SJ-2017-347 (Mar. 20, 2019). 
+   B.   Commonwealth v. Martinez                                         
+    On October 30, 2018, in a case brought by two individuals whose criminal convictions 
+had been invalidated, the SJC concluded that the due process clause of the Fourteenth 
+Amendment required the repayment of appellants’ probation fees, victim-witness assessments, 
+restitution, fines, and court costs. Commonwealth v. Martinez, 480 Mass. 777, 779, 109 N.E.2d 
+459 (Mass. 2018). One appellant also sought the return of her civilly forfeited assets, arguing that 
+the forfeiture order against her was “for all practical purposes, [] a consequence of the 
+
+invalidated drug convictions” and should therefore also be invalidated as a matter of due process. 
+Id. at 791. The SJC disagreed, citing the provision in the Massachusetts Controlled Substances 
+Act (“State Act”), Mass. Gen. Laws Ann. ch. 94C, § 47 (West 2018), for a civil in rem forfeiture 
+proceeding, which is subject to a different burden of proof than the criminal proceeding. As a 
+result of that distinction, the SJC held that the appellant was not entitled to the automatic return 
+of her forfeited assets because “[t]he finding of probable cause of nexus that sufficed to order 
+forfeiture in the civil proceeding did not depend on the finding in the criminal proceeding of 
+sufficient evidence to warrant a finding of guilt on the plea.” Martinez, 480 Mass. at 791. 
+However, the SJC also noted that “the reasons for invalidating a conviction potentially may 
+warrant relief from [a] civil judgment of forfeiture”—but that the “issue must be separately 
+litigated in the civil forfeiture proceeding through a motion for relief from judgment [under Rule 
+60(b)].” Id. at 791-792. The SJC did not address whether or to what extent the Rule 60(b) 
+procedure should be modified to provide appropriate due process protections for individuals 
+
+whose convictions had been invalidated.                                   
+   C.   The State Act                                                    
+    The State Act authorizes the forfeiture of, inter alia, money and/or property related to a 
+wide range of drug offenses. M.G.L. ch. 94C, § 47(a)(3), (5). A forfeiture proceeding can be 
+brought either (a) through a civil in rem action filed in Superior Court, M.G.L. ch. 94C, § 47(d), 
+or (b) by motion in a related criminal case in District or Superior Court, M.G.L. ch. 94C, § 47(b). 
+    Under the State Act, the prosecution must demonstrate probable cause to institute a 
+forfeiture action. M.G.L. ch. 94C, § 47(d). Once probable cause has been established, the 
+defendant has the burden to demonstrate that the property is not forfeitable, id., i.e. was not 
+“used or intended to be used” to commit or facilitate one of the enumerated drug-related crimes. 
+
+See M.G.L. ch. 94C, § 47(a)(3), (5), (7). Forfeited assets, or the proceeds of the sale of those 
+assets, are divided between the prosecuting District Attorneys (or Attorney General) and the 
+participating police departments. M.G.L. ch. 94C, § 47(d).                
+   D.  The Initial Complaint                                             
+    In 2018, Plaintiff Kimball and several others1 sued the Commonwealth of Massachusetts 
+and various state and local officials. Complaint [Doc. No. 1]; First Amended Class Action 
+Complaint [Doc. No. 27]. With the consent of all parties, the case was stayed from January 31, 
+
+
+1 Plaintiffs Stacy Foster, Jonathan Riley, and Nicole Westcott have since been terminated from 
+this action.                                                              
+2019, through October 11, 2022, to permit the resolution of certain matters in state court and by 
+settlement. Order Allowing Joint Motion to Stay Proceedings [Doc. No. 39]; Order Lifting Stay 
+[Doc. No. 77].                                                            
+    E.   The Second Amended Complaint                                    
+
+    On February 3, 2023, Plaintiffs filed the operative Second Amended Class Action 
+Complaint [Doc. No. 86] on their own behalf and on behalf of all others similarly situated. 
+      1.   Plaintiffs                                                    
+         a.   Plaintiff Jennifer Cotto                                   
+    On or about April 1, 2008, Springfield police officers arrested Cotto and seized $518 cash 
+from her possession. Am. Compl. ¶ 19 [Doc. No. 86]. On January 27, 2009, in Springfield 
+District Court, Cotto admitted [that] there were sufficient facts to find her guilty of possessing a 
+Class B substance with the intent to distribute. Id. The court entered a continuance without a 
+finding and sentenced her to one year of probation. Id. On the day of Cotto’s plea, the prosecutor 
+filed a motion in the criminal case to forfeit the $518 that had been seized upon her arrest. Id. As 
+
+part of her plea agreement, Cotto did not contest the forfeiture order. Id. The court allowed the 
+forfeiture, and the $518 was split between the Hampden County District Attorney’s Office and 
+the Springfield Police Department. Id. On December 13, 2018, due to Farak’s misconduct, the 
+SJC vacated the disposition in Cotto’s criminal case. Id. Plaintiffs contend that in light of such 
+misconduct, the Commonwealth does not have reliable evidence that Cotto possessed a Class B 
+substance. Id. Cotto’s forfeited property has not been returned to her. Id. 
+         b.   Plaintiff David Cummings                                   
+    On or about January 22, 2010, Marshfield police officers arrested Cummings and seized 
+$14,189 in cash from his residence. Id. ¶ 20. On December 2, 2010, in Plymouth District Court, 
+Cummings admitted there were sufficient facts to find him guilty of possessing a Class B 
+substance with the intent to distribute. Id. As part of Cummings’ plea agreement, both parties 
+recommended forfeiture of the $14,189. Id. The court adopted the recommendation, entered a 
+continuance without a finding, sentenced Cummings to two years of probation, and ordered that 
+
+Cummings forfeit the $14,189 as a special condition of his probation. Id. The money was divided 
+between the Plymouth County District Attorney’s Office and the Marshfield Police Department. 
+Id. On April 19, 2017, due to Dookhan's misconduct, the SJC vacated the disposition in 
+Cummings’s case. Id. Plaintiffs contend that in light of such misconduct, the Commonwealth 
+does not have reliable evidence that Cummings possessed a Class B substance. Id. Cummings’s 
+forfeited property has not been returned to him. Id.                      
+         c.   Plaintiff Jamie Kimball                                    
+    On or about December 15, 2009, Lawrence police officers arrested Kimball and seized 
+$2,182 in cash and money orders from her residence. Id. at ¶ 21. On April 27, 2011, in Lawrence 
+District Court, Kimball admitted there were sufficient facts to find her guilty of possessing a 
+
+Class A substance. Id. Kimball did not contest the civil in rem forfeiture action filed by the 
+prosecution in Essex County Superior Court. Id. On June 30, 2010, a default judgement in that 
+action was entered against her. Id. Kimball’s forfeited property was divided between the Essex 
+County District Attorney’s Office and the Lawrence Police Department. Id. On April 19, 2017, 
+due to Dookhan’s misconduct, the SJC vacated the disposition in Kimball’s case. Id. Plaintiffs 
+contend that in light of such misconduct, the Commonwealth does not have reliable evidence that 
+Kimball possessed a Class A substance. Id. Kimball’s forfeited property has not been returned to 
+her. Id.                                                                  
+         d.   Plaintiff Todd Moton                                       
+    On or about October 9, 2009, Pittsfield police officers arrested Moton and seized $878 in 
+cash from his possession. Id. at ¶ 22. Moton pleaded guilty to various drug offenses. Id. On the 
+day of his plea, the prosecution filed a motion to forfeit the $878 in cash; as part of his plea 
+
+agreement, Moton did not contest the forfeiture order. Id. Moton’s forfeited property was divided 
+between the Berkshire County District Attorney’s Office and the Pittsfield Police Department. 
+Id. On December 13, 2018, due to Farak’s misconduct, the SJC vacated Moton’s convictions. Id. 
+Plaintiffs contend that in light of such misconduct, the Commonwealth does not have reliable 
+evidence that Moton possessed any controlled substances. Id. Moton’s forfeited property has not 
+been returned to him. Id.                                                 
+         e.   Plaintiff Travis Moran                                     
+    On or about January 6, 2006, Springfield police officers arrested Moran for various drug 
+offenses and for carrying a firearm without a license. Id. at ¶ 23. At the time of his arrest, Moran 
+was operating a 1994 Honda Accord and possessed $4,528 in cash. Id. On February 3, 2006, the 
+
+Hampden County District Attorney’s Office filed a civil in rem action in Hampden County 
+Superior Court against Moran’s money and vehicle. Id. On July 31, 2006, Moran pleaded guilty 
+in Hampden County Superior Court to the various drug offenses and to carrying a firearm 
+without a license. Id. On the day of the plea hearing, the prosecution filed a motion in the 
+criminal case to forfeit the $4,528 in cash and the 1994 Honda Accord. Id. As part of his plea 
+agreement, Moran did not contest the motion, which the court allowed. Id. On September 13, 
+2006, the District Attorney dismissed the in rem action. Id. Moran’s forfeited property was 
+divided between the Hampden County District Attorney’s Office and the Springfield Police 
+Department. Id. On April 5, 2018, due to Farak’s misconduct, the SJC vacated Moran’s 
+convictions. Id. Plaintiffs contend that in light of such misconduct, the Commonwealth does not 
+have reliable evidence that Moton possessed any controlled substances. Id. Moran’s forfeited 
+property has not been returned to him. Id.                                
+      2.   Defendants                                                    
+
+         a.  Commonwealth Defendants                                     
+    Plaintiffs have named as Defendants the following state officials in their official capacity: 
+the Massachusetts Attorney General; the Administrator of the Trial Court; the Massachusetts 
+State Police Superintendent; and the District Attorneys for Berkshire, Bristol, Cape and Islands, 
+Essex, Hampden, Middlesex, Norfolk, Northwestern, Plymouth, Suffolk, and Worcester 
+Counties (collectively, the “Commonwealth Defendants”).                   
+         b.   Local Government Entities                                  
+    Plaintiffs have also named the following local government entities as Defendants: the 
+Springfield Police Department; the Boston Police Department; the Brockton Police Department; 
+and the Fall River Police Department.2                                    
+
+      3.   Plaintiffs’ Claims                                            
+    In light of the invalidation of their convictions, Plaintiffs assert that Defendants are 
+unlawfully continuing to withhold Plaintiffs’ forfeited property. Plaintiffs bring claims for 
+Declaratory Judgment (Count I), Fourteenth Amendment violations (Counts II-III), an Eighth 
+Amendment violation (Count IV), and Unjust Enrichment (Count V). Id. at ¶¶ 151-177.3 
+
+
+2 Plaintiffs also assert claims against a Defendant Class of law enforcement agencies. Id. at 
+¶¶ 141-150.                                                               
+3 Plaintiffs also allege that the Defendants did not comply with the State Act in carrying out the 
+initial forfeiture actions by, e.g., ordering forfeiture as part of criminal sentences rather than civil 
+in rem proceedings, failing to provide adequate notice, and/or moving for forfeiture in simple 
+possession cases. Id. at ¶¶ 71-72; 81-83; 85-88.                          
+Plaintiffs request injunctive relief in the form of the “return of all Forfeited Property that was 
+taken from them in connection with their vacated, wrongful convictions,” as well as notice to all 
+Class Members and accounting of all Forfeited Property. Id. at ¶ 179.     
+   F.  The Pending Motions                                               
+
+    The Commonwealth Defendants filed a Motion to Dismiss [Doc. No. 109], contending 
+that Plaintiffs’ claims are barred by sovereign immunity, Younger abstention, the Rooker-
+Feldman doctrine, Colorado River abstention, the statute of limitations, and Rule 12(b)(6) failure 
+to state a claim. Commw. Mem. MTD [Doc. No. 110]. The Boston Police Department filed a 
+Motion to Dismiss [Doc. No. 114], adopting the Commonwealth Defendants’ arguments about 
+Younger abstention, the Rooker-Feldman doctrine, Colorado River abstention, the statute of 
+limitations, and Rule 12(b)(6). It also objected to the certification of a Defendant Class 
+encompassing all police departments in the Commonwealth. Id. at 2. The Springfield Police 
+Department filed a Motion to Dismiss [Doc. No. 118] bringing the same arguments as the Boston 
+Police Department. Springfield Mem. MTD [Doc. No. 119]. The Fall River Police Department 
+
+filed a Motion to Dismiss [Doc. No. 120] based on failure to state a claim and the statute of 
+limitations. Fall River Mem. MTD [Doc. No. 121]. Finally, the City of Brockton (“Brockton”) 
+filed a Motion to Dismiss [Doc. No. 115] claims against the Brockton Police Department, 
+adopting the Commonwealth Defendants’ arguments regarding Younger abstention, the Rooker-
+Feldman doctrine, and the statute of limitations. Brockton Mem. MTD 12-13 [Doc. No. 116]. 
+Brockton also argued that Plaintiffs’ claims against the municipal police departments fail to state 
+a Monell claim as required to allege a Section 1983 violation against a local government entity. 
+Id. at 8-12.                                                              
+    Plaintiffs filed an omnibus Opposition [Doc. No. 126] to the five Motions to Dismiss. 
+The Commonwealth Defendants alone filed a Reply [Doc. No. 127].           
+ II.  Standard of Review                                                 
+    Rule 12(b)(1) is “[t]he proper vehicle for challenging a court’s subject matter 
+
+jurisdiction.” Valentin v. Hosp. Bella Vista, 254 F.3d 358, 362 (1st Cir. 2001). Federal courts are 
+courts of limited jurisdiction, so federal jurisdiction is never presumed. Viqueira v. First Bank, 
+140 F.3d 12, 16 (1st Cir. 1998). The party asserting jurisdiction has the burden of demonstrating 
+the existence of federal jurisdiction. Id. A court should treat all well-pleaded facts as true and 
+provide the plaintiff the benefit of all reasonable inferences. Fothergill v. United States, 566 F.3d 
+248, 251 (1st Cir. 2009). Dismissal is appropriate only when the facts alleged in the complaint, 
+taken as true, do not support a finding of federal subject matter jurisdiction. Id. 
+    A challenge to the court’s subject matter jurisdiction must generally be addressed before 
+addressing the merits of a case. See Acosta-Ramírez v. Banco Popular de Puerto Rico, 712 F.3d 
+14, 18 (1st Cir. 2013) (“Federal courts are obliged to resolve questions pertaining to subject-
+
+matter jurisdiction before addressing the merits of a case”). This is particularly so where a 
+defendant claims sovereign immunity, as the “value to the States of their Eleventh Amendment 
+immunity . . . is for the most part lost as litigation proceeds past motion practice.” Puerto Rico 
+Aqueduct & Sewer Auth. V. Metcalf & Eddy, Inc., 506 U.S. 139, 145 (1993). 
+ III.  Discussion                                                        
+   A.  Sovereign Immunity                                                
+    The Commonwealth Defendants contend that this action must be dismissed based on 
+sovereign immunity.4 Sovereign immunity bars suits against the State from proceeding in federal 
+
+court “unless they consent to it in unequivocal terms or unless Congress, pursuant to a valid 
+exercise of power, unequivocally expresses its intent to abrogate the immunity.” Green v. 
+Mansour, 474 U.S. 64, 68 (1985). “The landmark case of Ex parte Young, 209 U.S. 123, created 
+an exception to this general principle by asserting that a suit challenging the constitutionality of a 
+state official’s action in enforcing state law is not one against the State.” Id. Because the 
+Commonwealth Defendants are all state officials and have been accused of unconstitutional acts, 
+Ex parte Young would, at first blush, seem to apply.                      
+    However, the Supreme Court has cabined the scope of Ex parte Young in subsequent 
+cases. First, the Court “ha[s] refused to extend the reasoning of Young . . . to claims for 
+retrospective relief.” Green, 474 U.S. at 68; accord Verizon Md., Inc. v. Public Serv. Comm’n of 
+
+Md., 535 U.S. 635, 645 (2002). This distinction permits “[r]emedies designed to end a 
+continuing violation of federal law” that “are necessary to vindicate the federal interest in 
+assuring the supremacy of that law” to go forward in federal court, Green, 474 U.S. at 68, “while 
+at the same time preserving to an important degree the constitutional immunity of the States” by 
+barring suits that effectively seek damages against the State itself, Pennhurst State Sch. & Hosp. 
+v. Halderman, 465 U.S. 89, 106 (1984).                                    
+
+
+
+4 Although Plaintiffs characterize the Police Departments as “state officials,” Pl.’s Oppo 5 [Doc. 
+No. 126], the Police Departments do not assert that they are protected by sovereign immunity. 
+    The Supreme Court has cautioned further that even strict adherence to the “prospective 
+injunctive relief” distinction will not necessarily lead to an outcome that comports with the 
+purposes of sovereign immunity:                                           
+    To interpret [Ex parte] Young to permit a federal-court action to proceed in every 
+    case where prospective declaratory and injunctive relief is sought against an officer, 
+    named in his individual capacity, would be to adhere to an empty formalism and to 
+    undermine the principle . . . that Eleventh Amendment immunity represents a real 
+    limitation on a federal court’s federal-question jurisdiction.       
+
+Idaho v. Coeur d’Alene Tribe of Idaho, 521 U.S. 261, 270 (1997).          
+    Second and relatedly, the Supreme Court has declined to extend Ex parte Young to cases 
+where the relief sought, even if equitable in nature, “will to a virtual certainty be paid from state 
+funds, and not from the pockets of the individual state officials who were the defendants in the 
+action.” Edelman v. Jordan, 415 U.S. 651, 668 (1974). The Court has explained that even where 
+a “retroactive award of monetary relief” could be described as a “form of ‘equitable restitution,’ 
+it is in practical effect indistinguishable in many aspects from an award of damages against the 
+State.” Id.; see also id. at 668-69 (on a claim seeking “equitable restitution” for return of monies 
+a taxpayer had paid over to the State pursuant to an allegedly unconstitutional tax exaction, the 
+Court “had no hesitation in holding that the taxpayer’s action was a suit against the State, and 
+barred by the Eleventh Amendment”); Idaho, 521 U.S. at 277 (“‘[W]hen the action is in essence 
+one for the recovery of money from the state, the state is the real, substantial party in interest and 
+is entitled to invoke its sovereign immunity from suit even though individual officials are 
+nominal defendants.’”) (citing Ford Motor Co. v. Dep’t of Treasury of Ind., 323 U.S. 459, 464 
+(1945) (overruled on other grounds)). Thus, in conducting its analysis, the court must rely not 
+only on the distinction between prospective and retroactive relief, but also on the “practical 
+effect” of that relief against the state treasury. See Edelman, 415 U.S. at 668; accord Quern v. 
+Jordan, 440 U.S. 332, 346-47 (1979) (overruled on other grounds) (framing the inquiry as 
+whether the remedy “constitute[s] permissible prospective relief or a ‘retroactive award which 
+requires the payment of funds from the state treasury’”).                 
+    As a result of these nebulous distinctions, “the difference between the type of relief 
+
+barred by the Eleventh Amendment and that permitted under Ex parte Young will not in many 
+instances be that between day and night.” Edelman, 415 U.S. at 667.       
+    1.  The Ex parte Young exception to sovereign immunity does not apply where the effect 
+      of the court’s order would be an award of monetary relief from the state treasury. 
+    Defendants argue that this lawsuit is barred by Eleventh Amendment sovereign 
+immunity, because the Commonwealth is the “real, substantial party in interest,” Commw. Mem. 
+MTD 5 [Doc. No. 110], and because Plaintiffs seek “quintessentially retroactive relief,” id. at 6. 
+Further, Defendants argue that the Ex parte Young exception to sovereign immunity does not 
+apply because “when a plaintiff sues a state official alleging a violation of federal law, the 
+federal court may award an injunction that governs the official’s future conduct, but not one that 
+awards retroactive monetary relief.” Id. (citing Pennhurst, 465 U.S. at 102-103). Defendants rely 
+heavily on the reasoning in Edelman, see Commw. Mem. MTD 7 [Doc. No. 110], in which the 
+Supreme Court held that the Eleventh Amendment barred a claim for “equitable restitution” that 
+would have required state defendants to pay back withheld benefits. 415 U.S. at 666-669. 
+    In response, Plaintiffs do not deny that their requests for the return of their forfeited 
+property and for restitution would have to be satisfied by the payment of money, and that the 
+
+money would come from the State. Instead, they argue that Defendants’ failure to return their 
+forfeited property is a continuing violation of federal law that can be remedied by an order from 
+the court merely directing the Defendants to comply with the Constitution. Pl.’s Oppo 9-10 [Doc. 
+No. 126]. As a result, say the Plaintiffs, an order from the court that the withholding of forfeited 
+property is a constitutional violation would fall within the scope of the Ex parte Young 
+exception. Id. at 5-6. The Plaintiffs point to Milliken v. Bradley, 433 U.S. 267 (1977), as the 
+primary support for this argument.                                        
+    In Milliken, the Supreme Court considered whether a federal court could order a state to 
+
+help fund a plan designed to remediate decades of de jure segregation in the Michigan public 
+school system. 433 U.S. at 270-271. The district court’s final order directed the Detroit School 
+Board and the State to “institute comprehensive programs as to the four educational components 
+[reading, in-service training, testing, and counseling] by the start of the . . . school term.” Id. at 
+277. The cost of the remedy proposed by the district court—and informed by extensive 
+consultation with state experts—“was to be equally borne by the Detroit School Board and the 
+State.” Id. The Supreme Court held that the order did not violate the Eleventh Amendment, 
+drawing a line between the “future costs of educational components” and “award of an accrued 
+monetary liability.” Id. at 289. The Court further explained the distinction:  
+    The  educational  components,  which  the  District  Court  ordered  into  effect 
+    prospectively, are plainly designed to wipe out continuing conditions of inequality 
+    produced by the inherently unequal dual school system long maintained by Detroit. 
+    These programs were not, and as a practical matter could not be, intended to wipe 
+    the slate clean by one bold stroke, as could a retroactive award of money. 
+
+Id. at 290.                                                               
+    Milliken, however, does not help Plaintiffs here. As a threshold matter, Plaintiffs’ 
+argument that repayment would remedy a continuing wrong rather than a past one is 
+unpersuasive: This sort of “formal distinction” between Defendants’ “continuing obligation” to 
+remedy their legal violation and their “ongoing liability” for a past injury is “of the sort [the 
+Supreme Court] rejected” in articulating its retroactive relief test. See Papasan v. Allain, 478 
+U.S. 265, 280 (1986).                                                     
+    Moreover, here—unlike in Milliken—Plaintiffs ask the state for a remedy that is 
+effectively “designed to give [them] back something [they] lost”—the direct repayment of their 
+forfeited assets. See Whalen v. Mass. Trial Court, 397 F.3d 19, 30 (1st Cir. 2005). That is true 
+whether the remedy is styled as an order enjoining Defendants from violating the Constitution by 
+
+withholding assets, or whether the remedy is styled as an order directing the Defendants to return 
+those assets. Under either order, the Commonwealth could not rectify its constitutional violation, 
+or come into compliance with the law, by any means short of the “return of all Forfeited 
+Property.” Thus, to remedy Plaintiffs’ claims that the withholding itself is a violation of federal 
+law, this court would have to authorize an “award of an accrued monetary liability,” see 
+Milliken, 433 U.S. at 289, that would “to a virtual certainty be paid from state funds,” see 
+Edelman, 415 U.S. at 668. That avenue of recourse is barred by the Eleventh Amendment. 
+    Further, Plaintiffs’ reliance on First Circuit cases to circumvent sovereign immunity are 
+also inapposite: The cases in which the First Circuit has authorized relief that “required payment 
+of money directly from a state treasury to bring about compliance” involve instances of a state 
+
+failing to comply with a federal-state assistance program that required the state to make regular 
+payments to beneficiaries on a pre-set schedule. See Coal. for Basic Human Needs v. King, 654 
+F.2d 838, 842 (1st Cir. 1981) (enjoining states to continue making payments pursuant to the Aid 
+to Families with Dependent Children program established by the federal Social Security Act); 
+Roselli v. Affleck, 508 F.2d 1277 (1st Cir. 1974) (similar). Notably, the First Circuit has not 
+gone so far as to enjoin the state to make payments that were authorized or controlled by state 
+law alone. See Coal. for Basic Human Needs, 654 F.2d at 843 (injunction did not include any 
+directive as to the Massachusetts program of General Relief, which was also at issue in the case). 
+Because this case is neither about funds nor about a federal-state arrangement, the First Circuit’s 
+reasoning is inapplicable here.                                           
+      2.   The Commonwealth Defendants are Not Stripped of Sovereign Immunity  
+    Plaintiffs contend that because they have brought an as-applied challenge to the 
+
+constitutionality of the State Act, sovereign immunity is no bar to their suit in federal court. Pl.’s 
+Oppo 11 [Doc. No. 126]. More specifically, Plaintiffs argue that Defendants acted ultra vires in 
+enforcing the State Act against them, as such enforcement is an unconstitutional violation of 
+their due process rights. Id. But the cases cited by Plaintiffs to support that proposition are 
+inapposite, as they deal with the issue of sovereign immunity as it applies to federal officers—
+not state officers. See Muirhead v. Mecham, 427 F.3d 14, 18 (1st Cir. 2005); Larson v. Domestic 
+& Foreign Commerce Corp., 337 U.S. 682, 686 (1949). Effectively, a challenge to the 
+constitutionality of a state statute as applied by a state official is a contention that the state 
+official violated federal law—the law in question being the Constitution of the United States. 
+And as discussed, those claims are governed by Ex parte Young, which does not include an 
+
+“ultra vires” exception. Even if this were not the case, Defendants are not acting “without any 
+authority whatsoever” by their current failure to return forfeited assets, see Pl.’s Oppo 11 [Doc. 
+No. 126] (citing Pennhurst, 465 U.S. at 102 n.11), where those assets were seized pursuant to a 
+state statute whose facial constitutionality is not in question.5         
+
+
+5 Plaintiffs also allege that in some cases, state officials did not lawfully seize the forfeited assets, 
+because they did not adhere to the procedures outlined in the State Act. Pl.’s Oppo 11-12 [Doc. 
+No. 126]. In particular, several of the named Plaintiffs allegedly did not receive the seven days’ 
+notice of forfeiture proceedings required by due process. Am. Compl. ¶¶ 19, 22-23 [Doc. No. 
+86]. Plaintiffs appear to assert that those defects rendered the state officials’ actions ultra vires. 
+Pl.’s Oppo 11 [Doc. No. 126]. But that a state official’s “conduct is contrary to a state statute” is 
+not a basis to find that such conduct is ultra vires: That line of reasoning has been foreclosed by 
+the Supreme Court. See Pennhurst, 465 U.S. at 106-107(“[a] federal court’s grant of relief 
+against state officials on the basis of state law, whether prospective or retroactive, does not 
+      3.   Plaintiffs’ Claims for Prospective, Procedural Injunctive Relief Are Not 
+           Barred by Sovereign Immunity                                  
+    Where portions of Plaintiffs’ requested relief are classic examples of prospective 
+injunctive relief, the Ex parte Young exception to sovereign immunity does apply. Defendants do 
+not address these requests for relief head-on, but instead treat them as part of a general category 
+of “procedural obligations” that “in practice resemble a money judgment payable out of the state 
+treasury.” Commw. Mem. MTD 6 [Doc. No. 110] (quoting Edelman, 415 U.S. at 666). It is true 
+that Plaintiffs also request administrative and procedural tools to support the return of their 
+forfeited property, Am. Compl. ¶179(b) [Doc. No. 86]. But it mischaracterizes Plaintiffs’ request 
+to treat all of their requested remedies as effectively tied to the return of their forfeited assets. 
+
+Rather, Plaintiffs make a specific request for “a full accounting of all Forfeited Property obtained 
+from Class Members in connection with their criminal cases.” Id. at ¶ 179(c). Compliance with 
+that request would not entail payment from the state treasury, and it bears no resemblance to a 
+retroactive award of money damages. Additionally, Plaintiffs request that the court “notify Class 
+Members of their rights to the return of all Forfeited Property.” Id. at ¶ 179(a). As discussed, the 
+court cannot order, directly or indirectly, the return of forfeited assets. However, to the extent 
+Plaintiffs’ request can be read generally to include notification of their rights to a more robust 
+state procedure under the State Act, or their rights to pursue relief under Rule 60(b), the court is 
+permitted to grant such relief. Indeed, that was the crux of the Supreme Court’s holding in 
+Quern, 440 U.S. at 347-48 (“The notice . . . simply apprises plaintiff class members of the 
+
+
+vindicate the supreme authority of federal law. On the contrary, it is difficult to think of a greater 
+intrusion on state sovereignty than when a federal court instructs state officials on how to 
+conform their conduct to state law.”). As a result, Plaintiffs have failed to allege that procedural 
+violations related to the forfeiture proceedings (Am. Compl. ¶¶ 71-89, 117, 160 [Doc. No. 86]; 
+Pl.’s Oppo 11 [Doc. No. 126]) rise to the level of ultra vires actions, such that sovereign 
+immunity no longer applies.                                               
+existence of whatever administrative procedures may already be available under state law by 
+which they may receive a determination of eligibility for past benefits.”). 
+    Similarly, if the court were to order additional procedural due process protections within 
+a Rule 60(b) hearing, it would not change the fact that “whether or not the class member will 
+
+receive retroactive benefits rests entirely with the State, its agencies, courts, and legislature, not 
+with the federal court.” See id. at 348. As a result, the court retains authority to order such relief 
+even if these injunctive remedies might have ancillary effects on the state treasury. See Milliken, 
+433 U.S. at 289 (“the prospective-compliance exception” to Eleventh Amendment immunity 
+“permits federal courts to enjoin state officials to conform their conduct to requirements of 
+federal law, notwithstanding a direct and substantial impact on the state treasury”). 
+    Because Plaintiffs’ claims include requests for relief other than an order from this court 
+directing the payment of money from the state, the court is not barred from entertaining 
+Plaintiffs’ constitutional challenges for such other relief.              
+   B.  The Statute of Limitations Bars Plaintiffs’ Claims Related to Errors in Their Initial 
+      Forfeiture Proceedings.                                            
+    All Defendants argue that Plaintiffs’ claims that their initial forfeiture proceedings were 
+erroneous as a matter of law are time-barred. Commw. Mem. MTD 20 [Doc. No. 110]; Fall 
+River Mem. MTD 3 [Doc. No. 121]; Springfield Mem. MTD 7 [Doc. No. 119]; Boston MTD 1 
+[Doc. No. 114]; Brockton Mem. MTD 13 [Doc. No. 116]; Commw. Reply 14 [Doc. No. 127]. 
+Plaintiffs respond that their claims relate solely to the unlawful withholding of forfeited property 
+
+that has occurred and continues to occur since their convictions were vacated, and that the statute 
+of limitations on those claims did not begin to run until 2017. Pl.’s Oppo 26-29 [Doc. No. 126]. 
+The court concludes that claims that the continued withholding of property is unlawful because 
+the convictions have been vacated are not time-barred.                    
+    To the extent Plaintiffs also seek to challenge the procedures underlying their original 
+forfeiture proceedings, however, Defendants are correct that Plaintiffs could have raised those 
+challenges at any time after the alleged error occurred. And because the Defendants’ continuing 
+alleged violation of federal law (the withholding of their property) does not relate to those initial 
+
+procedural errors, it does not toll the statute of limitations as to those claims. As a result, the 
+statute of limitations as to those procedural challenges began to accrue at the time of the 
+forfeiture proceedings, not at the time of the SJC’s vacatur of the drug convictions. Those 
+challenges are therefore time-barred.                                     
+   C.  Younger Abstention Does Not Apply                                 
+    All Defendants also contend that Plaintiffs’ claims are barred by Younger abstention. 
+Commw. Mem. MTD 8 [Doc. No. 110]; Fall River Mem. MTD 1 [Doc. No. 121]; Springfield 
+Mem. MTD 3 [Doc. No. 119]; Brockton Mem. MTD 12 [Doc. No. 116]; Boston MTD 1 [Doc. 
+No. 119]. “Younger is a court-made rule of abstention built around the principle that, with 
+limited exceptions, federal courts should refrain from issuing injunctions that interfere with 
+
+ongoing state-court litigation, or, in some cases, with state administrative proceedings.” Maymó-
+Meléndez v. Álvarez-Ramírez, 364 F.3d 27, 31 (1st Cir. 2004). “[T]he underlying concern is that 
+state proceedings, once begun, should be respected by federal courts so long as the federal claims 
+or defenses can be litigated in the course of those proceedings.” Id. at 32. Importantly, “whether 
+federal courts should be able to interfere with ongoing state proceedings is quite distinct and 
+separate from the issue of whether [federal] litigants are entitled to subsequent federal review of 
+state-court dispositions of federal questions.” Huffman v. Pursue, Ltd., 420 U.S. 592, 606 (1975). 
+Defendants argue that Plaintiffs are engaged in an “ongoing” civil proceeding, because there is 
+still some existing state appellate process that could resolve Plaintiffs’ claims. See Commw. 
+Mem. MTD 8-9 [Doc. No. 110]. The court disagrees.                         
+    First, the court declines to adopt Defendants’ argument that a Rule 60(b) procedure 
+constitutes an unexhausted state appellate remedy such that Plaintiffs’ state forfeiture 
+
+proceedings should be considered “ongoing.” Defendants are incorrect that a Rule 60(b) motion 
+is a direct appellate remedy, as contemplated by Huffman, 420 U.S. at 610, rather than a 
+collateral remedy: The Rule itself expressly states that a motion pursuant to Rule 60(b) “does not 
+affect [a] judgment’s finality or suspend its operation.” Defendants’ reliance on Sirva Relocation, 
+LLC v. Richie, 794 F.3d 185 (1st Cir. 2015), see Commw. Mem. MTD 8-9 [Doc. No. 110], to 
+support their assertion is also misplaced. In that case, the state had “conducted a pre-hearing 
+conference, and scheduled an adjudicative hearing” that had not yet transpired before the 
+plaintiffs sued in federal court— actions the First Circuit held “conclusively show[ed] the 
+existence of an ongoing state proceeding that is judicial in nature.” Sirva, 794 F.3d at 196. 
+Nothing of the sort has occurred here. The state has not begun any procedures related to a Rule 
+
+60 hearing, because the Plaintiffs have not initiated that collateral action. Therefore, there are no 
+ongoing state proceedings into which this court could intervene.          
+   Second, while it is true that Younger abstention bars federal challenges to civil forfeiture 
+proceedings “before the forfeiture hearing in state court” has occurred, see Loch v. Watkins, 337 
+F.3d 574, 577 (6th Cir. 2003), or where those proceedings “were pending in state court at the 
+time” the federal action was initiated, see Postscript Enterprises, Inc. v. Peach, 878 F.2d 1114, 
+1116 (8th Cir. 1989), that is not the situation here. The civil forfeiture proceedings in which 
+these Plaintiffs had their assets seized have long since concluded in state court. See Am. Compl. 
+¶¶ 18-22 [Doc. No. 86] (describing named Plaintiffs’ forfeiture proceedings); Pl.’s Oppo 14 
+[Doc. No. 126].                                                           
+   D.  The Rooker-Feldman Doctrine Does Not Apply                        
+   Under the Rooker-Feldman doctrine, “lower federal courts are precluded from exercising 
+
+appellate jurisdiction over final state-court judgments.” Lance v. Dennis, 546 U.S. 459, 463 
+(2006). The doctrine exists to prevent “cases brought by state-court losers complaining of 
+injuries caused by state-court judgments rendered before the district court proceedings 
+commenced and inviting district court review and rejection of those judgments.” Exxon Mobil 
+Corp. v. Saudi Basic Indus. Corp., 544 U.S. 280, 284 (2005).              
+    Defendants contend that Rooker-Feldman applies here, “because [Plaintiffs] seek to have 
+this Court review and overturn thousands of state court judgments.” Commw. Mem. MTD 11 
+[Doc. No. 110]; see Brockton Mem. MTD 12 [Doc. No. 116]; Fall River Mem. MTD 1 [Doc. 
+No. 121]; Springfield Mem. MTD 4-5 [Doc. No. 119]; Boston MTD 1 [Doc. No. 114]. But, as 
+discussed above, Plaintiffs are not seeking this court’s direct review of their state court forfeiture 
+
+proceedings; even if they were, the statute of limitations would bar those claims. Rather, 
+Plaintiffs are challenging the inadequate constitutional protections afforded after those 
+proceedings have concluded, where criminal defendants like Plaintiffs have been deemed legally 
+innocent but must nevertheless shoulder a burden of proof in order to return to their pre-
+conviction status quo. That challenge does not implicate the validity of any original forfeiture 
+proceeding, nor does it require this court to undertake a substantive review of the state court’s 
+determination on the issue. See Skinner v. Switzer, 562 U.S. 521, 532 (2011) (“If a federal 
+plaintiff present[s] [an] independent claim, it is not an impediment to the exercise of federal 
+jurisdiction that the same or a related question was earlier aired between the parties in state 
+court.”) (alterations in original) (internal citations omitted).          
+    Defendants also argue that Plaintiffs are seeking this court’s review of the SJC’s decision 
+in Martinez. Commw. Mem. MTD 12 [Doc. No. 110]. Critically, and fatally to Defendants’ 
+
+position, Plaintiffs were not parties to Martinez, and so they are not “aggrieved litigant[s]” 
+seeking this court’s review of a judgment entered against them in state court. See Tyler v. Sup. 
+Jud. Ct. of Mass., 914 F.3d 47, 50 (1st Cir. 2019); accord Johnson v. DeGrandy, 512 U.S. 997, 
+1006 (1994) (plaintiff “was not a party in the state court” and therefore was “in no position to ask 
+[for] review [of] the state court’s judgment”).6 What is more, some of Plaintiffs’ constitutional 
+challenges were not before the Martinez court, and so there is no state-court judgment that could 
+possibly bar this court’s review on those claims. And even where Plaintiffs’ constitutional 
+challenges overlap with those brought in Martinez, this court is not bound by the SJC’s 
+conclusions on matters of federal law. As a result, Rooker-Feldman does not apply to Plaintiffs’ 
+constitutional challenges where they do not seek direct review of a state-court judgment. 
+
+   E.  The Colorado River Doctrine Does Not Apply                        
+    Like the Rooker-Feldman doctrine, application of the Colorado River doctrine may 
+warrant “dismissal of a federal suit due to the presence of a concurrent state proceeding.” Colo. 
+River Water Conservation Dist. v. United States, 424 U.S. 800, 818 (1976) (emphasis added). 
+But, as discussed, there is no concurrent state proceeding at issue here. As a result, the doctrine 
+does not apply, and the court need not engage in the factor-balancing test the Defendants urge. 
+See Commw. Mem. MTD 13-14 [Doc No. 110].                                  
+
+
+6 For this reason, Brockton’s argument that res judicata bars Plaintiffs’ suit also fails. Brockton 
+Mem. MTD. 16 [Doc. No. 116]. Plaintiffs have not yet had their opportunity to litigate any of 
+these issues before any court.                                            
+   F.  Liability of the Municipal Police Defendants                      
+   Police Departments, as municipal entities, “can be sued directly under § 1983 for 
+monetary, declaratory, or injunctive relief where . . . the action that is alleged to be 
+unconstitutional implements or executes a policy statement, ordinance, regulation, or decision 
+
+officially adopted and promulgated by that body’s officers.” Monell v. Dep’t of Social Servs. of 
+City of N.Y., 436 U.S. 658, 690 (1978). Additionally, municipalities may be sued for 
+“deprivations visited pursuant to governmental ‘custom’ even though such a custom has not 
+received formal approval through the body’s official decisionmaking channels.” Id. at 691. 
+   The City of Brockton argues that Plaintiffs have failed to allege a Monell violation 
+because the Police Departments are not responsible for enforcing or interpreting the State Act. 
+Brockton Mem. MTD 11 [Doc. No. 116]; see Springfield Mem. MTD 9 [Doc. No. 119] (arguing 
+the same, but in the context of whether the Police Department is a proper class representative). In 
+response, Plaintiffs do not contend that the Police Departments are responsible for interpreting, 
+enforcing, or defending the State Act: rather, they argue that whether the Police Departments 
+
+were merely “following orders” is irrelevant to whether they are ultimately liable for the return 
+of forfeited property. Pl’s Oppo 42 [Doc. No. 126].7                      
+   The circuits are split on whether a municipal entity can be liable under Section 1983 for 
+complying with the edicts of state law. Compare, e.g. Bethesda Lutheran Homes and Servs., Inc. 
+v. Leean, 154 F.3d 716, 718 (7th Cir. 1998) with Evers v. Cty. of Custer, 745 F.2d 1196, 1203 
+(9th Cir. 1984). The First Circuit has not yet spoken to the issue. Other sessions in this district 
+have adopted the test laid out by the Second Circuit, see Martin v. Evans, 241 F. Supp. 3d 276, 
+
+
+7 To the extent Plaintiffs’ claims against the Police Department Defendants begin and end with a 
+claim for the return of forfeited assets, Plaintiffs concede that claim should be treated as one and 
+the same as their claim seeking that relief against the Commonwealth.     
+284-85 (D. Mass. 2017), and this court likewise applies the Second Circuit’s test here. Under that 
+test, the liability inquiry turns on “(1) whether the City had a meaningful choice as to whether it 
+would enforce [the statute in question]; and (2) if so, whether the City adopted a discrete policy 
+to enforce [the statute in question] that represented a conscious choice by a municipal 
+
+policymaker.” Vives v. City of N.Y., 524 F.3d 346, 353 (2d Cir. 2008). Here, Plaintiffs have not 
+put forth any allegations about the Police Departments’ “meaningful choice” under M.G.L. ch. 
+94C § 47. The language of the State Act indicates that the Departments do not enjoy such 
+discretion:                                                               
+    All  such  moneys  and  proceeds  received  by  any  police  department  shall  be 
+    deposited in a special law enforcement trust fund and shall be expended without 
+    further appropriation to defray the costs of protracted investigations, to provide 
+    additional technical equipment or expertise, to provide matching funds to obtain 
+    federal grants, or to accomplish such other law enforcement purposes as the chief 
+    of police of such city or town, or the colonel of state police deems appropriate, but 
+    such funds shall not be considered a source of revenue to meet the operating needs 
+    of such department.                                                  
+M.G.L. ch. 94C § 47(d) (emphases added).                                 
+   That mandatory statutory language forecloses a Monell claim against the Police 
+Departments regarding the return of the Plaintiffs’ civilly forfeited assets. As such, the Plaintiffs 
+have failed to state a claim for relief against the Police Department Defendants. 
+ IV.  Conclusion                                                         
+    For the foregoing reasons, the Commonwealth Defendants’ Motion to Dismiss [Doc No. 
+109] is GRANTED in part and DENIED in part and the remaining Defendants’ Motions to 
+Dismiss [Doc. Nos. 114, 115, 118, 120] are GRANTED.                       
+    IT IS SO ORDERED                                                     
+November 13, 2023                       /s/  Indira Talwani               
+                                       United States District Judge

@@ -1,0 +1,27 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court abused its discretion in denying class certification because individual questions predominated over common questions under Rule 23(b)(3) in a breach of contract action challenging Progressive's use of a Projected Sold Adjustment (PSA) in calculating actual cash value (ACV) of totaled vehicles.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "AFFIRM",
+      "key_reasoning": "The panel concluded that Progressive\u2019s use of the PSA is not facially unlawful and cannot serve as common evidence of liability because each class member would need to prove individualized injury by comparing their flawed market value with a correct one. This predominance of individual issues over common ones made class certification inappropriate."
+    }
+  ],
+  "key_precedents": [
+    "Lara v. First National Insurance Company of America, 25 F.4th 1134 (9th Cir. 2022)",
+    "Jama v. State Farm Mutual Automobile Insurance Company, 113 F.4th 924 (9th Cir. 2024)",
+    "Tyson Foods, Inc. v. Bouaphakeo, 577 U.S. 442 (2016)",
+    "Pulaski & Middleman, LLC v. Google, Inc., 802 F.3d 979 (9th Cir. 2015)",
+    "Olean Wholesale Grocery Coop., Inc. v. Bumble Bee Foods LLC, 31 F.4th 651 (9th Cir. 2022)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": true,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": true,
+  "summary_text": "The panel affirmed the district court\u2019s order declining to certify a proposed class in an action brought by former customers of Progressive Preferred Insurance Company who made property-damage claims on their vehicles, which Progressive determined to be covered as total losses. Under policy terms, Progressive was required to pay a totaled vehicle\u2019s actual cash value (\u201cACV\u201d), defined as \u201cthe market value, age, and condition of the vehicle at the time the loss occurs.\u201d As part of its calculation of market value, Progressive used a \u201cprojected sold adjustment\u201d (\u201cPSA\u201d)\u2014a reduction to the list prices of comparable vehicles to \u201creflect consumer purchasing behavior (negotiating a different price than the listed price).\u201d Appellants alleged that Progressive\u2019s use of the PSA always resulted in an inherently flawed negative line-item adjustment, amounting to a breach of the express terms of Progressive\u2019s uniform automobile insurance policy because it prevents an ACV from being determined by the true \u201cmarket value\u201d of the vehicle. The district court found that Appellants satisfied their burden as to numerosity, commonality, typicality, and adequacy under Fed. R. Civ. P. 23(a), but that individual questions surrounding the calculation of each Appellant\u2019s ACV predominated for the purposes of Rule 23(b)(3). Noting that the PSA is not facially unlawful, the panel addressed whether its implementation by Progressive could serve as common evidence of liability, and concluded that it cannot. As a result, Appellants faced the same problem that the prospective class members in Lara v. First National Insurance Company of America, 25 F.4th 1134 (9th Cir. 2022), faced: figuring out whether each individual putative class member was harmed would involve an inquiry specific to that person. Each individual Appellant would need to compare their flawed \u201cmarket value\u201d with a correct one to win on the merits. Therefore, common issues do not predominate over any questions affecting only individual members under Rule 23(b)(3), and class certification is inappropriate. Federal Circuit Judge Wallach dissented. He wrote that the class should be certified because questions of law or fact common to class members predominate over questions regarding the requirement of the contract, the breach, and the resulting injury; and that the majority failed to reconcile in an articulable, principled fashion intra- and inter-circuit conflicts."
+}

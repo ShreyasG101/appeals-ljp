@@ -1,0 +1,30 @@
+{
+  "overall_outcome": "REMAND",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the National Bank Act preempts Rhode Island's statute requiring banks to pay interest on mortgage-escrow accounts, in light of the Supreme Court's decision in Cantero v. Bank of America.",
+      "standard_of_review": "de novo",
+      "holding": "REMAND",
+      "key_reasoning": "The district court applied an incorrect preemption standard by failing to conduct the nuanced, comparative analysis required by Cantero; Citizens Bank did not meet its burden to show that the Rhode Island statute is preempted as a matter of law, so the case is remanded for further proceedings."
+    }
+  ],
+  "key_precedents": [
+    "Cantero v. Bank of America, N.A., 602 U.S. 205 (2024)",
+    "Barnett Bank of Marion Cnty., N.A. v. Nelson, 517 U.S. 25 (1996)",
+    "Franklin National Bank of Franklin Square v. New York, 347 U.S. 373 (1954)",
+    "Fidelity Federal Savings & Loan Ass'n v. De la Cuesta, 458 U.S. 141 (1982)",
+    "First National Bank of San Jose v. California, 262 U.S. 366 (1923)",
+    "Anderson National Bank v. Luckett, 321 U.S. 233 (1944)",
+    "National Bank v. Commonwealth, 76 U.S. (9 Wall.) 353 (1869)",
+    "McClellan v. Chipman, 164 U.S. 347 (1896)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "Rhode Island General Laws section 19-9-2(a) requires all banks operating within the state to pay mortgage borrowers interest on the funds they deposit into mortgage-escrow accounts. In July 2021, John Conti, representing a putative class, sued Citizens Bank, N.A. (\"Citizens\"), a national banking association chartered under the National Bank Act, 12 U.S.C. \u00a7 21 et seq., alleging that Citizens failed to pay interest on mortgage-escrow accounts as required by the Rhode Island statute.\n\nCitizens moved to dismiss the case, see Fed R. Civ. P. 12(b)(6), arguing that the National Bank Act preempts the application of the Rhode Island statute to national banks. The district court agreed and dismissed Conti's complaint. Conti appealed. While the appeal was pending, the United States Supreme Court decided Cantero v. Bank of America, N.A., 602 U.S. 205 (2024), which clarified the legal standard for preemption under the National Bank Act.\n\nWe conclude that the district court, writing without the benefit of Cantero, incorrectly granted Citizens' motion to dismiss on the ground that the National Bank Act preempted the Rhode Island statute. We therefore vacate the judgment and remand for further proceedings."
+}

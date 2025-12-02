@@ -1,0 +1,1374 @@
+23-721-cv
+Suluki v. Credit One Bank, NA
+
+
+                                UNITED STATES COURT OF APPEALS
+                                    FOR THE SECOND CIRCUIT
+
+
+
+                                       August Term 2023
+
+                     (Argued: June 26, 2024 Decided: May 28, 2025)
+
+                                      Docket No. 23-721-cv
+
+
+
+                                       KHALILAH SULUKI,
+                                                    Plaintiff-Appellant,
+
+                                               v.
+
+                                     CREDIT ONE BANK, NA,
+                                                    Defendant-Appellee,
+
+                   CAPITAL ONE BANK, NA, COMENITY CAPITAL BANK,
+                                             Defendants.
+
+
+
+                  ON APPEAL FROM THE UNITED STATES DISTRICT COURT
+                      FOR THE SOUTHERN DISTRICT OF NEW YORK
+
+
+
+              Before:           CHIN, SULLIVAN, and ROBINSON, Circuit Judges.
+
+
+
+                Appeal from a judgment of the United States District Court for the
+
+Southern District of New York (Stein, J.) dismissing plaintiff-appellant's claims
+under the Fair Credit Reporting Act, which alleged that defendant-appellee bank
+
+failed to conduct a reasonable investigation into her dispute claiming identity
+
+theft committed by her mother. Plaintiff contends that a reasonable investigation
+
+would have led to a finding that the account was fraudulent. The district court
+
+granted summary judgment to the bank, concluding first that, putting aside the
+
+actual reasonableness of the bank's investigation, no reasonable investigation
+
+required by the statute would have yielded a different result; and second that
+
+plaintiff did not present any triable issues of fact as to whether the bank willfully
+
+or negligently violated the statute so as to be liable to her for damages.
+
+             AFFIRMED.
+
+
+
+
+                          ALISA TIWARI (Matthew W.H. Wessler, on the brief),
+                                Gupta Wessler LLP, Washington, DC; Leonard A.
+                                Bennett and Craig Carley Marchiando, on the brief,
+                                Consumer Litigation Associates, P.C., Newport
+                                News, VA; and Abel L. Pierre, on the brief, Law
+                                Office of Abel L. Pierre, P.C., New York, NY, for
+                                Plaintiff-Appellant.
+
+                          HEIDI E. SIEGMUND (Matthew A. Fitzgerald, Philip A.
+                                Goldstein, and Jarrod D. Shaw, on the brief),
+                                McGuireWoods LLP, New York, NY, Richmond,
+                                VA, and Pittsburgh, PA, for Defendant-Appellee.
+
+
+
+
+                                          2
+                          RYAN COOPER, Senior Counsel (Steven Y. Bressler,
+                               Deputy General Counsel, Kristin Bateman,
+                               Assistant General Counsel, and Seth Frotman,
+                               General Counsel, on the brief), Washington, DC,
+                               for Amicus Curiae Consumer Financial Protection
+                               Bureau; and Anisha S. Dasgupta, General
+                               Counsel, Mariel Goetz, Acting Director of
+                               Litigation, and Bradley Dax Grossman, Attorney,
+                               Washington, DC, on the brief, for Amicus Curiae
+                               Federal Trade Commission, in support of Plaintiff-
+                               Appellant.
+
+CHIN, Circuit Judge:
+
+             In this case, a daughter alleges that her mother stole her identity to
+
+fraudulently open and use a credit card account in her name. Plaintiff-appellant
+
+Khalilah Suluki ("Suluki") claims that her mother, Khadijah Suluki ("Khadijah"),
+
+opened several credit card accounts in her name without her permission at
+
+various banks, including defendant-appellee Credit One Bank, N.A. ("Credit
+
+One"). Upon discovering the alleged fraud, Suluki disputed the account both by
+
+calling Credit One and by notifying the three major national credit reporting
+
+agencies (the "CRAs"): Equifax, Experian, and Trans Union.
+
+             Credit One investigated her dispute multiple times. Its investigators
+
+concluded that the account was legitimate and that it belonged to Suluki. Suluki
+
+filed suit, alleging, inter alia, that Credit One violated the Fair Credit Reporting
+
+
+
+
+                                          3
+Act (the "FCRA"), 15 U.S.C. § 1681 et seq., by failing to conduct a reasonable
+
+investigation into her dispute. See 15 U.S.C. § 1681s-2(b)(1).
+
+             The parties cross-moved for summary judgment. The district court
+
+denied Suluki's motion and granted summary judgment in favor of Credit One.
+
+Suluki v. Credit One Bank, NA, 666 F. Supp. 3d 403, 409-10, 412-15 (S.D.N.Y. 2023).
+
+The court concluded that, even though there were genuine issues of material fact
+
+as to the accuracy of the information reported and the reasonableness of Credit
+
+One's investigations, summary judgment in Credit One's favor was still
+
+appropriate because no reasonable jury could find that any reasonable
+
+investigation would have led Credit One to determine that the account was
+
+fraudulent or that the information was unverifiable. See id. at 410-14. The district
+
+court also concluded that Suluki could not recover damages because she did not
+
+present evidence from which a reasonable jury could find that Credit One
+
+willfully or negligently violated the FCRA. Id. at 412-15.
+
+             On appeal, Suluki contends that the district court erred principally
+
+in two ways: first, by concluding that Credit One would not have come to a
+
+different conclusion had it conducted a reasonable investigation, and second, in
+
+holding that Credit One did not willfully violate the FCRA. Suluki accuses
+
+
+
+
+                                         4
+Credit One of taking a "cookie-cutter" approach to investigating her dispute by
+
+concluding its inquiry after it found only two "superficial links" between her and
+
+the account. Plaintiff-Appellant Br. at 27. She claims that, had Credit One
+
+conducted what she considers to be a reasonable investigation, it would have
+
+concluded that Khadijah stole Suluki's identity to create and use the account, or
+
+that the information was at least unverifiable.
+
+            We are not persuaded. The FCRA requires furnishers to conduct
+
+investigations into consumer disputes, but it does not guarantee that the results
+
+of those investigations will favor the consumer lodging the dispute. And to that
+
+end, the FCRA does not require furnishers to conduct perfect investigations -- it
+
+requires only that furnishers conduct reasonable investigations.
+
+            We agree with the district court that there is a genuine issue of
+
+material fact as to whether the information on Suluki's credit report is accurate,
+
+i.e., whether Khadijah indeed opened and used the account without Suluki's
+
+permission, as Suluki and Khadijah provided conflicting statements. Even
+
+assuming, however, that Khadijah opened the account in Suluki's name without
+
+her daughter's permission, we conclude that no reasonable investigation into
+
+Suluki's claim would have led Credit One to a different conclusion. And,
+
+
+
+
+                                         5
+because we also determine as a matter of law that even assuming the FCRA was
+
+violated, no jury could conclude that the violation was willful or negligent,
+
+Suluki is not entitled to damages.
+
+             Accordingly, we AFFIRM the judgment of the district court.
+
+                                   BACKGROUND
+
+I.    The Facts 1
+
+      A.     The Credit One Account
+
+             At some point prior to her beginning college in 2014, Suluki
+
+discussed with Khadijah opening a credit card account in Suluki's name so that
+
+she could begin building credit. Following Khadijah's advice, Suluki applied for
+
+her first credit card with Discover Bank when she began college. Khadijah
+
+helped Suluki prepare for the application process and was present when Suluki
+
+applied for the card. Khadijah also assisted Suluki when she applied for other
+
+credit cards at retail stores like Century 21 and American Eagle. Suluki made
+
+payments on her credit cards using money that Khadijah sent her while she was
+
+
+
+
+1
+     We present the facts in the light most favorable to Suluki, with all factual
+ambiguities resolved and all reasonable inferences drawn in her favor. See Martinez v.
+Agway Energy Servs., LLC, 88 F.4th 401, 406 n.2 (2d Cir. 2023).
+
+                                           6
+away at college. Khadijah also opened a Credit One account with Suluki's sister,
+
+Taheerah, so that Taheerah could build her credit as well.
+
+             On November 2, 2017, an individual filled out an online form to
+
+open a credit card with Credit One. The applicant input Suluki's name,
+
+birthdate, the address of her childhood home in Brooklyn, her Social Security
+
+number, and the email address "ksuluki@yahoo.com." J. App'x at 218. The card
+
+was first used in December 2017, in Brooklyn, and remained open for over 18
+
+months. Account statements show that the card was most often used for
+
+miscellaneous purchases at retail stores and restaurants in the Brooklyn area.
+
+Every month, someone made minimum or partial payments on the card from a
+
+Chase bank account that Suluki and Khadijah shared. In August 2020, after
+
+Suluki had alleged identity theft and disputed her account, the card's balance
+
+was paid in full.
+
+      B.     Suluki's Allegations of Identity Theft
+
+             In July 2019, Suluki applied to rent an apartment and was rejected. 2
+
+That denial prompted her to take a closer look at her credit, and she pulled credit
+
+
+
+2      In March 2019, three months before Suluki discovered the alleged fraud, she and
+her family went on vacation to Puerto Rico for her birthday. During the trip, Suluki and
+her family got into a fight. Upon their return, Khadijah kicked Suluki out of the family
+home.
+
+                                           7
+reports from Experian, Equifax, and Trans Union. Upon reviewing the reports,
+
+she was "dismayed to discover that while she was attending college, she was the
+
+victim of identity theft, as [Khadijah] opened various accounts in [Suluki's] name
+
+and maxed out some of [Suluki's] pre-existing accounts." Id. at 10. One of those
+
+accounts was a Credit One card.
+
+             On July 6, 2019, Suluki called Credit One to report that she had not
+
+opened the account. She stated that she did not know who opened the account.
+
+She initially gave the representative a different telephone number than the one
+
+associated with the account, but then was able to confirm that her mother's
+
+telephone number was the number for the account. The representative advised
+
+her that there was a balance on the account of $562.47, and he confirmed with her
+
+that she was filing a report indicating that the card was on a fraudulent account
+
+for which she had not applied. At some point thereafter, Suluki advised Credit
+
+One that her mother used her information to open the account without her
+
+permission or knowledge. 3 Credit One closed Suluki's account "in accordance
+
+
+
+
+3      Suluki's briefs on appeal do not explain what motive Khadijah could have had
+for opening cards in Suluki's name without her permission. But at her deposition,
+Suluki stated that "money has always been a problem" and speculated that Khadijah
+may have done it to fund an Airbnb she was building in her house. J. App'x at 57.
+
+                                          8
+with its normal policy." Id. at 211. It opened an investigation and requested that
+
+she obtain a police report. 4
+
+             Suluki visited the precinct on West 8th Street in Coney Island to file
+
+a police report, but officers told her she could not file a report without certain
+
+paperwork from Credit One. As a result of this "back and forth," Suluki decided
+
+not to obtain a report. Id. at 58-59. By the end of the summer, she had called
+
+Credit One "two, maybe three" times to report the fraud, and she retained a
+
+lawyer. Id. at 57.
+
+             At some point after Suluki reported the identity theft, Credit One
+
+called Khadijah and left her messages. In response, Khadijah called Credit One
+
+on July 25, 2019, and told Credit One that the account was not fraudulent.
+
+Khadijah told the Credit One representative that she and Suluki opened the
+
+account together when Suluki was in college, with the understanding that
+
+Khadijah would make payments on the card to assist Suluki with building her
+
+credit. Khadijah told the representative that there was no forgery or fraud, that
+
+
+
+4
+       The record includes a transcript of a call that Suluki made to Credit One on July
+6, 2019, as well as a recording of part of a telephone call that Suluki made to Credit One
+on July 20, 2019. In neither call, as reflected in the transcript and recording,
+respectively, does Suluki explicitly accuse her mother of fraudulently opening the
+account. As discussed below, she did identify her mother as a suspect in later
+correspondence.
+
+                                            9
+she had been paying the amount due every month, and would remain
+
+responsible for paying off the account balance. The representative advised her
+
+that the account had already been closed and that the outstanding balance was
+
+$562.47.
+
+             On August 15, 2019, in response to Suluki's allegations, Credit One
+
+requested information from her and provided a form affidavit for her to
+
+complete. The letter also asked for a copy of an "Identity Theft Report" filed
+
+"with [Suluki's] local police department (or another Federal, State, or Local law
+
+enforcement agency) or the U.S. Postal Inspector." Id. at 140. On August 29,
+
+2019, Suluki completed and submitted the affidavit but did not provide an
+
+identity theft report. She represented in the affidavit that "I did not apply for this
+
+credit card, nor . . . was I aware of these charges." Id. at 141. She identified the
+
+"suspect" as "Khadijah Suluki," but then filled in her own name and social
+
+security number in the blank below. Id.
+
+             On November 10, 2019, apparently with the assistance of her
+
+attorneys, Suluki sent letters to Experian, Equifax, and Trans Union disputing the
+
+portion of her credit report that included her Credit One account. The letters
+
+stated, in pertinent part:
+
+
+
+
+                                          10
+       My mother used my information and opened accounts in my name
+       without me ever agreeing to that. She opened a century 21 account
+       with my information. She did this when I was away at college.
+       That's why she was able to get the card and use it . . . . My mother
+       also opened a Credit One account. The C21 account was used
+       [without] my consent.
+
+Id. at 144. 5 Suluki did not attach an identity theft report to the CRA dispute
+
+letters.
+
+             On April 28, 2020, Suluki disputed her account again by sending
+
+another round of dispute letters to the CRAs. The letters stated that Khadijah
+
+"opened up a capital one and credit one account" and "never made the charges or
+
+used the century 21 account." Id. at 194. Suluki, however, did not include new
+
+information or an identity theft report. Id.
+
+             In the meantime, Credit One continued to receive regular and, for
+
+the most part, timely payments on the account until it was paid off in full in
+
+August 2020.
+
+       C.    Credit One's Investigations
+
+             Credit One's notes recording the activity in the account (the "Notes")
+
+confirm that Credit One received a call on July 6, 2019 from Suluki. The call
+
+
+5
+      The above-quoted language comes from the copy of the letter Suluki sent to
+Experian. Suluki sent the "same exact packet" to Trans Union and Equifax. J. App'x at
+62.
+
+                                          11
+triggered an investigation, which resulted in the conclusion that the cardholder,
+
+that is, Suluki, was "responsible" for the account. Id. at 273. The Notes confirm
+
+that Suluki called again on July 20, 2019, and advised that she had not opened
+
+the account. They confirm further that Khadijah called on July 25, 2019,
+
+identifying herself as the "mother" and saying she would take responsibility for
+
+the balance due on the account. Id. The Notes show further investigation by
+
+Credit One, including after receiving Suluki's affidavit of fraud. Finally, the
+
+Notes indicate that Suluki was sent a letter on or about September 17, 2019,
+
+advising her that she was deemed responsible for the account.
+
+             There were additional investigations, as Credit One received notice
+
+of Suluki's disputes from the CRAs via an automated computer dispute
+
+verification ("ACDV"). An ACDV "is an automated request to verify, update, or
+
+delete trade line information in a consumer's credit report." Id. at 213. Consumer
+
+disputes submitted through ACDVs are transmitted to CRAs, who then convey
+
+them to furnishers. It is Credit One's policy to investigate "each ACDV that
+
+claims fraud." Id. 6
+
+
+
+6
+       Some Credit One fraud investigators are Credit One employees, and others are
+third-party vendors who Credit One hires and trains in their fraud investigation
+procedures. John Perry, a Credit One fraud specialist whose investigation of Suluki's
+
+
+
+                                          12
+             Credit One received six ACDVs from the CRAs relating to Suluki's
+
+disputes -- four within nearly a week of each other in November 2019 and two a
+
+few days apart in May 2020. Where multiple identical disputes are received via
+
+an ACDV within a 30-day period, Credit One generally conducts a full
+
+investigation on the first ACDV, and relies on the results of that investigation to
+
+resolve subsequent identical disputes.
+
+             Credit One employees John Perry and Adoria Reaux conducted
+
+investigations of the disputes received from the CRAs on November 29, 2019,
+
+and May 13, 2020, respectively. All investigations into Suluki's dispute followed
+
+the same procedure, and all investigators concluded that there was no fraud.
+
+              Once a Credit One investigator receives a dispute based on identity
+
+theft, he or she conducts the investigation by reviewing (1) the ACDV itself,
+
+including the dispute code at issue; (2) all documents that accompany the ACDV;
+
+(3) information from Credit One's databases; and (4) information about the
+
+consumer available through databases like Experian and LexisNexis ("Lexis").
+
+Credit One's policy instructed investigators to use "both internal and external
+
+
+
+dispute we discuss in more detail below, testified that he and all other Credit One fraud
+investigators receive about two weeks of "classroom-style training" upon hiring,
+"training required by law of the yearly annual updates," and biweekly meetings during
+which investigators are alerted to any new policies or procedures. J. App'x at 155.
+
+                                           13
+sources" to "identify any potential links to the person(s) committing fraudulent
+
+activity." Id. at 204 (noting that "[a]t least two strong links are required when
+
+holding a consumer responsible" and "[l]inks should always be relevant to the
+
+consumer's claim"). The Notes are also available for the investigators to review.
+
+             When Perry reviewed Suluki's November 29, 2019 dispute after
+
+receiving notice from Experian, he began by reviewing the ACDV and the
+
+dispute code attached to it. The dispute code "103" indicated that Suluki was
+
+alleging that her Credit One account was fraudulently opened. Id. at 199-200.
+
+He then reviewed the documents that Experian transmitted with the ACDV. In
+
+this case, those documents included Suluki's dispute letter and "illegible" copies
+
+of her driver's license and Social Security card. Id. at 200.
+
+             Perry then reviewed information pertaining to Suluki and her
+
+account in Credit One's internal databases, confirming that the Social Security
+
+information Suluki provided in her ACDV matched the number on her account.
+
+He reviewed Credit One's application database, which has a "fraud" tab for each
+
+application received. The fraud tab reflects an Early Warning Services ("EWS")
+
+score, which is a third-party data point that predicts fraudulent activity. A
+
+higher score can indicate fraudulent activity; the EWS score on Suluki's count
+
+
+
+
+                                          14
+was zero. The fraud tab also contains "Precise ID Fraud Shield Indicators" for
+
+each account -- another metric of potential fraudulent activity. Id. If there are
+
+more than three "T" indicators present, Credit One investigators initiate "an
+
+especially careful and thorough investigation." Id. Here, there were only two "T"
+
+indicators present.
+
+             Credit One's application database included a "Red Flag" tab, which
+
+"indicates whether any phone numbers or e-mail addresses associated with a
+
+particular application . . . were also used on any other Credit One applications."
+
+Id. If the "Red Flag" tab shows other applications used the same identifiers as the
+
+disputed account or fraudulent activity associated with accounts linked to those
+
+identifiers, then investigators are alerted that the disputed account may also be
+
+fraudulent. Here, the "Red Flag" tab showed that the phone number and email
+
+address were associated with Taheerah's account but did not otherwise flag any
+
+suspicious activity or indicators of fraud, and Taheerah's account was open and
+
+current.
+
+             Finding no initial red flags or other indicators of fraud, Perry next
+
+reviewed the payment history on the account. He noted that the account had a
+
+"history of payments," and that "[i]n [his] experience, consistent on-time
+
+
+
+
+                                         15
+payments are highly unusual in identity theft cases." Id. at 201. He also observed
+
+that there were no disputed charges on the account. Searching Credit One's
+
+phone database, Perry noted that the same phone number listed on the
+
+application was used to open the account, and had been used for payments.
+
+               After conducting a review of Credit One's internal databases, Perry
+
+used Lexis to verify the information -- the Social Security number, address, and
+
+phone number -- associated with Suluki's account. The Lexis search established
+
+that Suluki's association with the address and phone number on the account
+
+predated the opening of the account. Based on the above findings, Perry
+
+"determined that the evidence supported a finding that Ms. Suluki was
+
+responsible for the Account." Id. at 202. Accordingly, he responded to the
+
+ACDV that Credit One's reporting was accurate.
+
+               Reaux's investigation into the April 2020 dispute was substantially
+
+similar to Perry's. After she independently followed Credit One's procedures,
+
+she reached the same conclusion that there was no fraud and Suluki was deemed
+
+responsible.
+
+
+
+
+                                          16
+II.   Proceedings Below
+
+             On February 9, 2021, Suluki filed a complaint (the "Complaint") in
+
+the district court below against Capital One Bank, Comenity Capital Bank, and
+
+Credit One, alleging violations of the FCRA. On April 8, 2021, Credit One
+
+answered the Complaint. Suluki voluntarily dismissed her claims against
+
+Capital One and Comenity Bank on September 22, 2021, and on October 14, 2021,
+
+respectively.
+
+             After the parties engaged in discovery, Suluki moved for summary
+
+judgment contending that: (1) Credit One's reporting to the CRAs that the
+
+account belonged to Suluki was inaccurate as a matter of law; (2) Credit One
+
+failed to properly report the results of its investigation to the CRAs; and (3)
+
+Credit One's investigation of her identity theft claim was unreasonable as a
+
+matter of law. Credit One moved for summary judgment contending that: (1) its
+
+investigation was reasonable as a matter of law; and (2) whether or not its
+
+investigation was reasonable, it did not act willfully and therefore damages were
+
+unwarranted.
+
+             The district court denied Suluki's motion and granted Credit One's.
+
+See Suluki, 666 F. Supp. 3d at 410, 412. The court held that there was a genuine
+
+
+
+
+                                         17
+issue of material fact as to whether the information was accurate, and
+
+accordingly it denied Suluki's motion for summary judgment on accuracy. Id. at
+
+409-11. The court also denied Suluki's motion for summary judgment to the
+
+extent she argued that Credit One's investigation was unreasonable as a matter
+
+of law. Id. at 412.
+
+             The district court, however, granted Credit One's motion for
+
+summary judgment on the basis of causation, concluding that no reasonable jury
+
+could find that, had Credit One conducted a reasonable investigation, its
+
+investigators could have concluded that Suluki was not responsible for the
+
+account. Id. at 412-15; see id. at 414 ("Suluki has not presented any facts showing
+
+that, had Credit One taken any of the additional steps she urges, it would have
+
+come to a different conclusion."). In so holding, the district court also rejected
+
+Suluki's claims that Credit One willfully or negligently violated the FCRA and
+
+concluded therefore that she was not entitled to damages. Id. at 414-15.
+
+             This appeal followed.
+
+
+
+
+                                         18
+                                    DISCUSSION
+
+I.    The Applicable Law
+
+      A.     Standard of Review
+
+             "We review a district court's grant of summary judgment de novo
+
+where the parties filed cross-motions for summary judgment and the district
+
+court granted one motion but denied the other." Zhang Jingrong v. Chinese Anti-
+
+Cult World Alliance Inc., 16 F.4th 47, 56 (2d Cir. 2021) (quoting Atlas Air, Inc. v.
+
+Int'l Bhd. of Teamsters, 943 F.3d 568, 576-77 (2d Cir. 2019)). "We evaluate each
+
+party's motion on its own merits, taking care in each instance to draw all
+
+reasonable inferences against the party whose motion is under consideration."
+
+Byrne v. Rutledge, 623 F.3d 46, 53 (2d Cir. 2010) (internal citation and quotation
+
+marks omitted). We may affirm the grant of summary judgment in favor of one
+
+party only if we conclude that on the record presented, considered in the light
+
+most favorable to the other party, no reasonable jury could have found in favor
+
+of the latter. Zhang Jingrong, 16 F.4th at 56-57. Summary judgment is proper, and
+
+we will affirm, where "the movant shows that there is no genuine dispute as to
+
+any material fact and the movant is entitled to judgment as a matter of law." Fed.
+
+R. Civ. P. 56(a).
+
+
+
+
+                                           19
+       B.        The FCRA
+
+                 Congress enacted the FCRA "to ensure fair and accurate credit
+
+reporting, promote efficiency in the banking system, and protect consumer
+
+privacy." Safeco Ins. Co. of Am. v. Burr, 551 U.S. 47, 52 (2007). The FCRA places
+
+obligations on three distinct entities in the consumer-lending ecosystem:
+
+furnishers of consumer credit information to CRAs, the CRAs themselves, and
+
+users of consumer credit reports. Furnishers include banks, card issuers, and
+
+other financial institutions that transmit information relating to debts owed by
+
+consumers to CRAs for reporting. See Galper v. JP Morgan Chase Bank, NA, 802
+
+F.3d 437, 445 (2d Cir. 2015). Furnishers of consumer information are subject to
+
+obligations under Sections 1681s-2(a) and (b). Section 1681s-2(b) is relevant to
+
+this appeal. 7
+
+
+
+
+7
+       Section 1681s-2(a) provides that where a consumer disputes the accuracy of
+information on her credit report, furnishers "may not furnish the information to any
+consumer reporting agency without notice that such information is disputed by the
+consumer." 15 U.S.C. § 1681s-2(a)(3). The FCRA explicitly bars private rights of action
+to enforce Section 1681s-2(a). See id. § 1681s-2(d); Longman v. Wachovia Bank, N.A., 702
+F.3d 148, 151 (2d Cir. 2012) ("[T]he statute plainly restricts enforcement of [section
+1681s-2(a)] to federal and state authorities."). Accordingly, the district court properly
+held that Suluki cannot bring a claim against Credit One for failing to report to the
+CRAs that Suluki disputed the account. Suluki, 666 F. Supp. 3d at 411-12. Suluki does
+not challenge this ruling on appeal.
+
+                                            20
+              Section 1681s-2(b) governs a furnisher's duty to investigate after
+
+receiving notice of a consumer dispute from a CRA. 15 U.S.C. § 1681s-2(b). 8
+
+When a consumer disputes the accuracy of their credit report with a CRA, the
+
+CRA must provide the furnisher with "all relevant information" regarding the
+
+dispute. 15 U.S.C. § 1681i(a)(2)(A). Once the CRA notifies the furnisher that
+
+there is a dispute, the furnisher must (1) investigate the disputed information;
+
+(2) report the results of the investigation to the CRA; and (3) take corrective steps
+
+if the information is inaccurate, incomplete, or impossible to verify. 15 U.S.C.
+
+§ 1681s-2(b)(1).
+
+              Notably, Section 1681s-2(b) does not set out guidelines for the
+
+furnisher's investigation, as it merely provides that the furnisher "shall . . .
+
+conduct an investigation with respect to the disputed information." 15 U.S.C.
+
+§ 1681s-2(b)(1)(A). Courts, including ours, however, have read into the section a
+
+reasonableness requirement. Longman, 702 F.3d at 151 (noting that furnishers
+
+have a "duty to reasonably investigate and verify that the information is
+
+
+
+
+8
+       This duty arises only when the furnisher receives notice of a dispute from a CRA.
+See Sprague v. Salisbury Bank & Tr. Co., 969 F.3d 95, 99 (2d Cir. 2020); see also SimmsParris
+v. Countrywide Fin. Corp., 652 F.3d 355, 358 (3d Cir. 2011) ("Notice under § 1681i(a)(2)
+must be given by a credit reporting agency, and cannot come directly from the
+consumer.").
+
+                                             21
+accurate"); accord Johnson v. MBNA Am. Bank, NA, 357 F.3d 426, 431 (4th Cir.
+
+2004); Gorman v. Wolpoff & Abramson, LLP, 584 F.3d 1147, 1157 (9th Cir. 2009);
+
+Felts v. Wells Fargo Bank, NA, 893 F.3d 1305, 1312 (11th Cir. 2018) ("The
+
+appropriate touchstone for evaluating a furnisher's investigation under [Section]
+
+1681s-2(b) is reasonableness." (internal citation and quotation marks omitted)).
+
+             We have not elaborated on what it means to conduct a reasonable
+
+investigation, but the question is not a complicated one. "[A] reasonable
+
+procedure is one 'that a reasonably prudent person would undertake under the
+
+circumstances.'" Seamans v. Temple Univ., 744 F.3d 853, 864 (3d Cir. 2014). This
+
+inquiry is fact-dependent and turns in part on "what [the furnisher] learned
+
+about the nature of the dispute from the description in the CRA's notice of
+
+dispute." Frederick v. Capital One Bank (USA), N.A., No. 14-CV-5460 (AJN), 2018
+
+WL 1583289, at *7 (S.D.N.Y. Mar. 27, 2018) (alteration in original) (quoting
+
+Gorman, 584 F.3d at 1157); see also, e.g., Chiang v. Verizon New England Inc., 595
+
+F.3d 26, 38 (1st Cir. 2010). The provided description, however, should not
+
+"cabin[] the scope of the investigation once undertaken." Gorman, 584 F.3d at
+
+1157 n.11. "[T]he term 'investigation' itself denotes a 'fairly searching inquiry,' or
+
+at least something more than a merely cursory review." Boggio v. USAA Fed. Sav.
+
+
+
+
+                                          22
+Bank, 696 F.3d 611, 616 (6th Cir. 2012) (citing Gorman, 584 F.3d at 1155-57);
+
+Johnson, 357 F.3d at 430-31.
+
+             Considering this context-dependent inquiry, reasonableness is
+
+"generally a question for a finder of fact," Gorman, 584 F.3d at 1161; see also Hinkle
+
+v. Midland Credit Mgmt., Inc., 827 F.3d 1295, 1303 (11th Cir. 2016) ("[T]he question
+
+of whether the furnisher behaved reasonably . . . is a factual question, and it will
+
+normally be reserved for trial."). Summary judgment in favor of the furnisher,
+
+however, is appropriate where no reasonable factfinder could conclude that the
+
+investigation was unreasonable. See Gorman, 584 F.3d at 1157.
+
+             Even assuming an investigation is not reasonable, courts have also
+
+concluded that summary judgment in favor of the furnisher is appropriate if a
+
+reasonable investigation would not have yielded a different result. See Felts, 893
+
+F.3d at 1313 ("[A] plaintiff asserting a claim against a furnisher for failure to
+
+conduct a reasonable investigation cannot prevail on the claim without
+
+demonstrating that had the furnisher conducted a reasonable investigation, the
+
+result would have been different." (emphasis in original)); Frazier v. Dovenmuehle
+
+Mortg., Inc., 72 F.4th 769, 775, 776 n.3 (7th Cir. 2023) (collecting cases).
+
+
+
+
+                                           23
+             In essence, a court granting summary judgment to a furnisher after
+
+concluding that no reasonable investigation would have yielded a different
+
+outcome does so based on causation; if there is no genuine dispute of material
+
+fact about whether a reasonable investigation would have revealed the
+
+inaccuracy of the disputed information, then there is no nexus between the
+
+furnisher's unreasonable investigation and the inaccuracy that caused the
+
+plaintiff damages. See Chiang, 595 F.3d at 41 (noting that FCRA plaintiff was
+
+"required to present evidence of actual inaccuracies in his account that an
+
+alternative investigation might have uncovered"); see also Casella v. Equifax Credit
+
+Info. Servs., 56 F.3d 469, 474–75 (2d Cir. 1995) (holding that FCRA plaintiff must
+
+show "causation between the harm alleged" and the "alleged violation[] of the
+
+FCRA").
+
+             To recover damages, a plaintiff must show that the violation of the
+
+FCRA was willful or negligent. A defendant who willfully violates the FCRA is
+
+liable for actual damages, punitive damages, and attorneys' fees. 15 U.S.C.
+
+§ 1681n(a). A defendant who negligently violates the FCRA is liable only for
+
+actual damages and attorneys’ fees. 15 U.S.C. § 1681o.
+
+
+
+
+                                         24
+II.   Application
+
+             Like the district court, we do not reach the issue of whether Credit
+
+One correctly determined that Suluki was responsible for the account because
+
+there was no fraud. On this record, we agree there is a genuine issue of material
+
+fact as to the accuracy of the determination. See Suluki, 666 F. Supp. 3d at 410.
+
+The conflicting testimony from Suluki, Khadijah, and Taheerah creates a genuine
+
+issue of fact as to whether Khadijah opened the account with Suluki's permission
+
+or whether she did so without Suluki's knowledge and consent.
+
+             Even assuming the information provided by Credit One was
+
+inaccurate, however, the inaccuracy was not, by itself, sufficient to create liability
+
+under the FCRA, for the FCRA "is not a strict liability statute." Obabueki v.
+
+Choicepoint, Inc., 236 F. Supp. 2d 278, 285 (S.D.N.Y. 2002); accord Abdallah v.
+
+LexisNexis Risk Sols. FL Inc., No. 19-CV-3609 (MKB), 2021 WL 6197060, at *6
+
+(E.D.N.Y. December 30, 2021) ("[M]erely reporting inaccurate information is
+
+insufficient to give rise to liability under the FCRA, as the Act is not a strict
+
+liability statute."). The FCRA simply requires a reasonable investigation, and a
+
+furnisher is not liable for reporting inaccurate information unless its
+
+investigation was not reasonable. Moreover, even where an investigation turns
+
+
+
+
+                                          25
+out to be unreasonable, a plaintiff asserting a claim against a furnisher must still
+
+"demonstrat[e] that had the furnisher conducted a reasonable investigation, the
+
+result would have been different, i.e., that the furnisher would have discovered
+
+that the information it reported was inaccurate or incomplete." Felts, 893 F.3d at
+
+1313. Without such a showing, "a plaintiff's claim against a furnisher necessarily
+
+fails, as the plaintiff would be unable to demonstrate any injury from the
+
+allegedly deficient investigation." Id.
+
+             Both parties moved for summary judgment as to whether Credit
+
+One's investigation was reasonable. The district court concluded that "there [is] a
+
+factual dispute about the adequacy of the steps taken by Credit One to
+
+investigate Suluki's claims." Suluki, 666 F. Supp. 3d at 413. We do not reach the
+
+question of whether Credit One's investigation was reasonable as a matter of
+
+law, because we hold, as the district court held, id. at 414, that no reasonable
+
+investigation into Suluki's claims would have led Credit One to reach a different
+
+conclusion about Suluki's account. We likewise hold that no reasonable jury
+
+could find that Credit One willfully violated the FCRA, thereby precluding an
+
+award of punitive damages for Credit One's purportedly unreasonable
+
+investigation.
+
+
+
+
+                                          26
+      A.     Causation
+
+             Even assuming there are genuine issues of fact as to the
+
+reasonableness of Credit One's investigation, Suluki has not shown the existence
+
+of a genuine issue of fact as to whether a reasonable investigation would have
+
+uncovered additional evidence that would have led Credit One to determine that
+
+Khadijah opened the account in Suluki's name without her permission. See Felts,
+
+893 F.3d at 1313.
+
+             On appeal, Suluki contends that Credit One failed to consider
+
+various pieces of information – "[her] affidavit, direct links to [Khadijah] in the
+
+account information, and evidence that [Khadijah] was actively using the credit
+
+card" – that would have resulted in a different investigative result. Plaintiff-
+
+Appellant's Br. at 33. We disagree.
+
+             For starters, the record unequivocally shows that Credit One did
+
+review this evidence. The Notes make several references in August and
+
+September of 2019 to the receipt of the "affidavit of fraud," and Credit One's
+
+policy (which Perry followed) requires its investigators to "[r]eview . . . an
+
+affidavit [that] was received in relation to the claim." J. App'x at 206.
+
+
+
+
+                                          27
+             But even assuming the Credit One investigators overlooked this
+
+evidence, a reasonable jury could not have concluded that Credit One would
+
+have reached a different result. First, the affidavit was flawed on its face due to
+
+Suluki's failure to follow the affidavit's instructions. Both Credit One's cover
+
+letter and the affidavit itself instructed Suluki to provide "an identity theft
+
+report" that had been submitted to law enforcement. J. App'x at 140 (cover letter
+
+stating "you are required to file an identity theft report with your local police
+
+department (or another Federal, State, or Local law enforcement agency) or the
+
+U.S. Postal Inspector"); id. at 141 (affidavit warning that the "Identity Theft
+
+Report filed with law enforcement . . . must be provided with this affidavit"
+
+(emphasis in original)). Yet despite such explicit instructions, Suluki did not
+
+submit the identity theft report. Suluki also failed to follow the affidavit's
+
+express directive to "initial all transaction(s) not authorized by [her]." Id. at 141
+
+(emphasis in original). Even in the section where she was supposed to include
+
+the name of the suspected fraudster, she wrote both her and Khadijah's name
+
+and then listed her own social security number instead of Khadijah's. See id. On
+
+
+
+
+                                           28
+the basis of such an error-ridden affidavit, no reasonable investigator would
+
+have concluded that Suluki was not responsible for the account. 9
+
+              Second, it cannot be said that the "direct links" between Khadijah
+
+and the account necessarily suggested fraud. It is true, as Suluki points out, that
+
+the phone number, physical address, and email address connected to the account
+
+belonged to Khadijah. But both the phone number and physical address were
+
+also associated with Suluki. Even the email address on its face
+
+(ksuluki@yahoo.com) suggests that it belonged to (Khalilah) Suluki. And while
+
+Suluki stresses that Khadijah made payments for the account from her own
+
+phone and that Credit One possessed the recordings of those calls, the fact
+
+remains that Khadijah was making payments from a joint account to which both
+
+she and Suluki had access. See id. at 53 (Suluki testifying that the payments on
+
+the card came from the joint account that she shared with Khadijah). Suluki's
+
+arguments in no way obscure the fact that payments were made regularly and on
+
+
+
+
+9      Though not binding precedent, DeSiena v. Pennsylvania Higher Educ. Assistance
+Agency, No. 22-1956, 2023 WL 4044109 (2d Cir. June 16, 2023) (summary order),
+supports our conclusion. There, a panel of this Court affirmed the district court's grant
+of summary judgment in a furnisher's favor, concluding that "an affidavit [by the
+consumer] stating that she did not sign for the Loan . . . without more, does not
+demonstrate that the [furnisher] failed to conduct a reasonable investigation." Id. at *2.
+(internal citation and quotation marks omitted).
+
+                                            29
+time by a person related to her from a joint account to which she had access.
+
+Ultimately, a reasonable investigator would not rely on these “direct links” to
+
+conclude that someone other than Suluki was responsible for the account.
+
+             Third, the purchase details and payment history do not compel a
+
+different conclusion. As Credit One notes in its brief, most of the purchases on
+
+the account were consistent with a purchaser matching Suluki's demographic: a
+
+college-aged female from Brooklyn. In fact, many of the purchases on the
+
+account were made at retail stores in Brooklyn, such as American Eagle, Adidas,
+
+and Uniqlo. See, e.g., id. at 233 (bill showing purchase at American Eagle
+
+Outfitters); id. at 243 (purchase at Uniqlo); id. at 249 (transaction at Adidas).
+
+Based on this record, no reasonable investigator would have concluded that
+
+Suluki was not responsible for the account.
+
+              In short, even with the benefit of discovery, Suluki did not present
+
+evidence to show that there were reasonable steps that Credit One could and
+
+should have taken or that there was additional evidence that it could or would
+
+have found that would have shown that Khadijah opened the account without
+
+Suluki's permission. Because no reasonable investigation would have led to a
+
+different result, summary judgment in favor of Credit One was appropriate.
+
+
+
+
+                                          30
+      B.     Damages
+
+             Suluki also challenges the district court's determination that she is
+
+not entitled to damages because no reasonable jury could find that Credit One
+
+willfully or negligently violated the FCRA. On appeal, Suluki argues that Credit
+
+One willfully violated the FCRA because it followed a rigid "blueprint" for its
+
+investigations and did not sufficiently change its investigative procedures after a
+
+federal judge found its processes to be unreasonable. Like the district court
+
+below, we disagree.
+
+             Section 1681n of the FCRA provides that "[a]ny person who willfully
+
+fails to comply with any requirement imposed under this subchapter with
+
+respect to any consumer is liable to that consumer" for "any actual damages
+
+sustained by the consumer as a result of the failure or damages of not less than
+
+$100 and not more than $1,000" and punitive damages. 15 U.S.C. § 1681n(a). In
+
+Safeco, the Supreme Court concluded that, in the context of Section 1681n,
+
+willfulness includes "not only knowing violations of [the statute], but reckless
+
+ones as well" 551 U.S. at 57. Conduct is "reckless" when it "violat[es] an objective
+
+standard," id. at 68, and entails "an unjustifiably high risk of harm that is either
+
+known or so obvious that it should be known." Farmer v. Brennan, 511 U.S. 825,
+
+
+
+
+                                          31
+836 (1994). The Court in Safeco reasoned that, given the FCRA's "less-than-
+
+pellucid" text, an entity subject to the FCRA does not act willfully unless its
+
+"reading was [] objectively unreasonable." 551 U.S. at 70.
+
+             Here, Suluki has not presented evidence from which a reasonable
+
+jury could find that Credit One acted in willful or reckless violation of the FCRA.
+
+As explained in detail above, Credit One investigated Suluki's dispute pursuant
+
+to its protocols and based on the information available to its investigators.
+
+Though Suluki attempts to characterize Credit One's investigations as recklessly
+
+cursory, we are convinced that no reasonable jury could find that, on this record,
+
+Credit One's investigations posed an "unjustifiably high risk" of an erroneous
+
+conclusion. Farmer, 511 U.S. at 836; accord Safeco Ins. Co. of Am., 551 U.S. at 68.
+
+Credit One responded to each of Suluki's allegations of fraud by reviewing
+
+information from internal and external sources before ultimately determining
+
+that she was responsible for the account. Indeed, as outlined above, Suluki fails
+
+to point to any information that Credit One overlooked that would have led it to
+
+a different conclusion. On this record, we simply cannot say that Credit One
+
+acted in willful or reckless violation of the FCRA. See Safeco Ins. Co. of Am., 551
+
+U.S. at 69; see also Grayson v. Equifax Credit Info. Servs., No. 18-CV-6977 (MKB),
+
+
+
+
+                                          32
+2021 WL 2010398, at *6 (E.D.N.Y. Jan. 29, 2021) (rejecting plaintiff's claim that a
+
+CRA willfully violated its duties under the FCRA when it "request[ed] additional
+
+information and documentation for the purpose of verifying an alleged identity
+
+theft" where consumer's original documentation "lack[ed] sufficient detail").
+
+             We also reject Suluki's argument that Wood v. Credit One Bank, 277 F.
+
+Supp. 3d 821, 849 (E.D. Va. 2017), compels a finding that Credit One willfully
+
+violated the FCRA. While it is true that the district court in Wood concluded that
+
+"[i]t was unreasonable for Credit One to simply match [the plaintiff's] personal
+
+identifiers with those associated with the [a]ccount," id. at 853, especially when
+
+"the alleged identity thief is a family member who could have knowledge of or
+
+access to an individual's personal information . . . and who might use that
+
+information to fraudulently open a credit account," id. at 853 n.53, we disagree
+
+with Suluki's argument that Wood constitutes “authoritative guidance” under
+
+Safeco. The Supreme Court in Safeco made explicitly clear that a finding of
+
+willfulness may be supported by "guidance from the courts of appeals or the
+
+Federal Trade Commission." 551 U.S. at 70. But the Wood decision relied on by
+
+Suluki comes from neither a court of appeals nor the Federal Trade Commission,
+
+and as far as we can tell, no agency or court of appeals has adopted or endorsed
+
+
+
+
+                                         33
+the district court's conclusions. Thus, "[g]iven this dearth of guidance and the
+
+less-than-pellucid statutory text," id., we reject Suluki's claim that Credit One
+
+willfully violated the FCRA.
+
+             The FCRA also allows a consumer to recover "any actual damages
+
+sustained" for "[a]ny person who is negligent in failing to comply" with the
+
+FCRA. 15 U.S.C. § 1681o(a). The consumer must show causation between the
+
+harm alleged by the plaintiff and the furnisher's violation.
+
+             The CFPB and FTC join Suluki in arguing that she could have
+
+established actual damages, pursuant to 15 U.S.C. § 1681o, by Credit One's
+
+continued inclusion of unverified information on her consumer report. They
+
+contend that the actual damages inquiry relies on a "key principle . . . [that]
+
+'[w]hen a furnisher . . . reports that the disputed information has been verified as
+
+accurate, the question of whether the furnisher behaved reasonably will turn on
+
+whether the furnisher acquired sufficient evidence to support the conclusion that
+
+the information was true.'" Br. of Amici Curiae at 28-29 (alterations accepted)
+
+(quoting Felts, 893 F.3d at 1312). We have concluded, however, that Credit One
+
+acquired sufficient evidence to support its conclusion that the account
+
+information was verified, and additional investigation would not have altered
+
+
+
+
+                                         34
+that conclusion. See Johnson, 357 F.3d at 433 ("[T]he extensive instructions by the
+
+district court made clear that [the consumer's] claim was based on [the creditor's]
+
+duty to investigate consumer disputes, not its duty to provide accurate
+
+information[,] . . . [and the court correctly] instructed the jury that the damages
+
+recoverable . . . may not include any damages that were caused by the inaccuracy
+
+of the information itself." (internal quotations omitted)).
+
+             Suluki has not produced evidence from which a reasonable jury
+
+could find that Credit One willfully or negligently violated the FCRA by
+
+verifying the account. Suluki therefore cannot demonstrate that Credit One is
+
+liable for damages.
+
+                                  CONCLUSION
+
+             For the reasons set forth above, we AFFIRM the district court's
+
+judgment.
+
+
+
+
+                                         35

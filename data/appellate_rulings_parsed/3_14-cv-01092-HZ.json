@@ -1,0 +1,100 @@
+{
+  "overall_outcome": "MIXED",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court erred in finding at summary judgment that Jack in the Box's (JITB) overdeductions from the Workers\u2019 Benefit Fund (WBF) were willful, thus justifying penalty wages",
+      "standard_of_review": "de novo",
+      "holding": "REMAND",
+      "key_reasoning": "The court held that a reasonable jury could find JITB did not have full knowledge of the overdeductions and that the error was an unintentional miscalculation, so summary judgment on willfulness was improper and a trial is required."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the district court abused its discretion in allowing Plaintiffs to present the 'Late Final Pay 1' penalty wage theory at trial despite an earlier ruling suggesting waiver",
+      "standard_of_review": "abuse of discretion",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found the later judge properly reconsidered the prior ruling, concluding Plaintiffs did not waive the theory and allowing it did not prejudice JITB."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the district court erred in its constitutional due process analysis of the penalty wage award",
+      "standard_of_review": "de novo",
+      "holding": "REMAND",
+      "key_reasoning": "The district court failed to consider that penalty wages are punitive rather than compensatory and ignored the disproportionate ratio between statutory penalty wages and actual damages; these errors require reassessment on remand."
+    },
+    {
+      "issue_id": 4,
+      "description": "Whether the district court abused its discretion by declining to exclude class members whose mailed notices were undeliverable",
+      "standard_of_review": "abuse of discretion",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found the district court provided the best practicable notice under the circumstances and that JITB failed to show alternative methods or prejudice."
+    },
+    {
+      "issue_id": 5,
+      "description": "Whether the district court erred in refusing to reduce prejudgment interest due to Plaintiffs\u2019 alleged delays in prosecuting the case",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "Oregon law mandates prejudgment interest as a matter of right once damages are ascertainable, and the district court correctly found no discretion to reduce interest for delays."
+    },
+    {
+      "issue_id": 6,
+      "description": "Whether the court has jurisdiction over Plaintiffs\u2019 cross-appeal challenging unpaid break claims",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "Because the district court granted JITB\u2019s Rule 50(b) motion and entered an amended judgment, the 30-day appeal period runs from the amended judgment, making the cross-appeal timely."
+    },
+    {
+      "issue_id": 7,
+      "description": "Whether the district court erred in refusing to certify an unpaid break class based on individualized inquiries about reasons for shortened breaks",
+      "standard_of_review": "abuse of discretion",
+      "holding": "AFFIRM",
+      "key_reasoning": "Although the Oregon Court of Appeals in Maza held reasons for shortened breaks do not matter, the district court correctly found that the relevant regulation requiring pay for shortened breaks only applied after June 2010, after all named Plaintiffs left JITB, so certification was improper."
+    },
+    {
+      "issue_id": 8,
+      "description": "Whether the district court erred in granting JITB\u2019s renewed motion for judgment as a matter of law on the named Plaintiffs\u2019 individual unpaid break claims",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "Plaintiffs waived their breach of contract theory based on On-Duty Meal Policy Agreements by not raising it below and expressly disclaiming it, so JMOL was proper."
+    },
+    {
+      "issue_id": 9,
+      "description": "Whether the district court erred in granting partial summary judgment to JITB on its affirmative defense that shoe deductions were for employees\u2019 benefit",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE AND REMAND",
+      "key_reasoning": "A reasonable jury could find that the shoe requirement primarily benefited JITB through rebates and indemnities rather than employees, so the benefit defense was improperly decided on summary judgment."
+    },
+    {
+      "issue_id": 10,
+      "description": "Whether the district court erred in decertifying the shoe class and whether written authorization is a defense to the minimum wage and overtime shoe claims",
+      "standard_of_review": "abuse of discretion",
+      "holding": "REMAND",
+      "key_reasoning": "Because the benefit issue must be retried, the district court should reconsider class certification; also, written authorization is not a defense to the minimum wage and overtime claims under Oregon law, so the district court erred in applying it."
+    },
+    {
+      "issue_id": 11,
+      "description": "Whether the district court erred in overriding the jury verdict on Plaintiffs\u2019 individual shoe claims",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "The jury found written authorization but awarded penalty wages under the minimum wage statute where written authorization is not a defense; the district court erred in reducing the award."
+    }
+  ],
+  "key_precedents": [
+    "Wilson v. Smurfit Newsprint Corp., 197 Or. App. 648 (2005)",
+    "Sabin v. Willamette-W. Corp., 276 Or. 1083 (1976)",
+    "Maza v. Waterford Operations, LLC, 300 Or. App. 471 (2019)",
+    "Taylor v. Werner Enters., Inc., 329 Or. 461 (1999)",
+    "Wakefield v. ViSalus, Inc., 51 F.4th 1109 (9th Cir. 2022)",
+    "Roes, 1-2 v. SFBSC Mgmt., LLC, 944 F.3d 1035 (9th Cir. 2019)",
+    "Lierboe v. State Farm Mut. Auto. Ins. Co., 350 F.3d 1018 (9th Cir. 2003)",
+    "Elonis v. United States, 575 U.S. 723 (2015)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "Wage and Hour Claims / Oregon Law\n\nThe panel reversed in part and affirmed in part the district court\u2019s judgment in a wage-and-hour case brought by plaintiffs against their former employer, Jack in the Box (JITB), on behalf of themselves and a class of other former employees.\nPlaintiffs challenged three JITB policies: JITB overdeducted its employees\u2019 wages for the Oregon Workers\u2019 Benefit Fund (WBF), JITB did not pay workers for interrupted meal periods more than 20 minutes long, and JITB deducted employees\u2019 pay for non-slip shoes.\nPlaintiffs prevailed on the WBF claims, and JITB defeated the unpaid break and shoe claims. JITB appealed, and plaintiffs cross-appealed. The panel reversed the district court\u2019s judgment on the WBF and shoe claims, and remanded, and affirmed the district court\u2019s judgment on the unpaid break claims.\nAddressing JITB\u2019s appeal concerning the WBF overdeductions, the panel held that the district court erred in finding, at summary judgment, that JITB\u2019s overdeductions were willful such that JITB owed penalty wages, and remanded for a trial on willfulness. To help the district court and the parties retry the case, the panel also provided guidance on a penalty wage theory the parties call \u201cLate Final Pay 1\u201d\u2014a claim for penalty wages for WBF overdeductions but not minimum wage or overtime violations\u2014and the constitutional limits on penalty wages.\nNext, the panel held that the district court did not abuse its discretion in declining to exclude the class members whose mailed notices were undeliverable, nor did the district court err in refusing to reduce the prejudgment interest for plaintiffs\u2019 alleged delays. However, on remand, the district court will have to recalculate the prejudgment interest in light of the holding on willfulness.\nAddressing plaintiffs\u2019 cross-appeal, the panel held that it had jurisdiction. Because the district court granted JITB\u2019s Fed. R. Civ. P. 50(b) motion, the 30-day deadline of Fed. R. App. P. 4(a)(1)(A) ran from the amended judgment, and the cross-appeal was timely.\nThe panel rejected plaintiffs\u2019 challenges to how the district court\u2019s rulings on their unpaid break claims. First, the district court did not abuse its discretion in refusing to certify the unpaid break class. Second, the district court did not err in granting JITB\u2019s renewed motion for judgment as a matter of law on the named plaintiffs\u2019 individual claims because plaintiffs waived the theory that they could prevail individually by proving JITB breached its On-Duty Meal Policy Agreements with plaintiffs.\nThe panel reversed the district court\u2019s judgment on the shoe claims. The panel held that the district court erred in granting partial summary judgment to JITB on its affirmative defense that the shoe deductions were for its employees\u2019 benefit, and reversed and remanded so a jury can decide whether the shoe requirement was for the employees\u2019 benefit. The panel also remanded so the district court can reconsider whether to certify the shoe class."
+}

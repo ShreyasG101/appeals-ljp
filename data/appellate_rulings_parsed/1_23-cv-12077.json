@@ -1,0 +1,35 @@
+{
+  "overall_outcome": "MIXED",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the University's disciplinary sanctions against Doe for alleged sexual misconduct violated his First Amendment rights under 42 U.S.C. \u00a7 1983.",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "The court held that Doe's conduct, while offensive and unwelcome, did not cause or reasonably forecast a substantial disruption or invade the rights of others under Tinker, and thus the University's sanctions violated his First Amendment rights."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the Individual Defendants are entitled to qualified immunity from Doe's claim for monetary damages under \u00a7 1983.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found that the law was not clearly established regarding the application of Tinker to university student speech in these circumstances, so the Individual Defendants were entitled to qualified immunity."
+    }
+  ],
+  "key_precedents": [
+    "Tinker v. Des Moines Independent Community School District, 393 U.S. 503 (1969)",
+    "Mahanoy Area School District v. B.L. ex rel. Levy, 594 U.S. 180 (2021)",
+    "Healy v. James, 408 U.S. 169 (1972)",
+    "Norris ex rel. A.M. v. Cape Elizabeth School District, 969 F.3d 12 (1st Cir. 2020)",
+    "Doe v. Valencia College, 903 F.3d 1220 (11th Cir. 2018)",
+    "L.M. v. Town of Middleborough, 103 F.4th 854 (1st Cir. 2024)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "In 2023, the University of Massachusetts (\"the University\") found John Doe\u2014a graduate student and resident advisor (\"RA\") at the University's Lowell campus\u2014responsible for sexual misconduct and sanctioned him accordingly. Doe responded by filing a complaint in federal court against the University, its trustees, and the members of the hearing panel who handled his case. Doe alleged, among other things, that the University deprived him of his First Amendment rights by punishing him for protected speech and expressive conduct. About two months after filing his complaint, Doe moved for a preliminary injunction. With the parties' consent, and pursuant to Federal Rule of Civil Procedure 65, the district court considered the matter on a \"case stated\" basis wherein the court consolidates the preliminary injunction hearing with the trial on the merits and the parties present the case to the court on the undisputed facts in the pre-trial record. Following that hearing, the district court ruled against Doe, finding that his First Amendment rights had not been violated. Doe timely appealed. For the reasons below, we reverse in part and affirm in part."
+}

@@ -1,0 +1,1181 @@
+United States Court of Appeals
+                       For the First Circuit
+
+
+No. 24-1844
+
+ BRAD O'BRIEN, Personal Representative of the Estate of Melissa
+
+                               Allen,
+
+                        Plaintiff, Appellant,
+
+                                 v.
+
+                      UNITED STATES OF AMERICA,
+
+                        Defendant, Appellee.
+
+
+            APPEAL FROM THE UNITED STATES DISTRICT COURT
+                 FOR THE DISTRICT OF MASSACHUSETTS
+
+           [Hon. Nathaniel M. Gorton, U.S. District Judge]
+
+
+                               Before
+
+                   Gelpí, Kayatta, Circuit Judges,
+                     and Smith,* District Judge.
+
+
+
+     Adam R. Satin, with whom Andrew C. Meyer, Jr. and Lubin &
+Meyer, P.C. were on brief, for appellant.
+
+     Kevin Benjamin Soter, with whom Brett A. Shumate, Acting
+Assistant Attorney General, Leah B. Foley, United States Attorney,
+and Dana Kaersvang, Attorney, Appellate Staff, Civil Division,
+were on brief, for appellees.
+
+
+
+
+     *   Of the District of Rhode Island, sitting by designation.
+September 11, 2025
+           GELPÍ, Circuit Judge.        Plaintiff-Appellant Brad O'Brien
+
+("O'Brien") filed a wrongful death medical malpractice suit as the
+
+personal representative of the estate of Melissa Allen ("Allen"),
+
+who died eleven days after receiving medical care at Lowell General
+
+Hospital ("LGH" or "the Hospital").           The suit alleged that LGH and
+
+its providers -- including Dr. Fernando Roca ("Dr. Roca") -- were
+
+negligent in    the   care of Allen,         acts   which O'Brien contends
+
+resulted in Allen's death.         The district court dismissed the suit
+
+for failure to make timely presentment under the Federal Tort
+
+Claims Act ("FTCA").       We affirm.
+
+                                 I. BACKGROUND
+
+           O'Brien    is   the    surviving    partner   of     Allen   and   the
+
+personal representative of her estate.           The tragic events leading
+
+up to Allen's death are largely undisputed.               On July 26, 2016,
+
+Allen suffered multiple seizures at her home.            She was brought to
+
+LGH's emergency room and later admitted to the Hospital.                Hospital
+
+staff determined that Allen was seven months pregnant and suffering
+
+from severe hypertension.        Dr. Roca, an obstetrician, was on call
+
+at LGH and attended to Allen.       Dr. Roca determined it was necessary
+
+to   perform   an   emergency    caesarian     section   and,    subsequently,
+
+delivered Allen's baby girl.        Following the birth, an unresponsive
+
+Allen was transferred to the intensive care unit where a brain
+
+scan revealed "devastating neurological injury."                Allen was then
+
+flown by helicopter to a tertiary care hospital in Boston, where
+
+
+                                    - 3 -
+she died eleven days later.       The cause of death was listed as
+
+"intracranial hemorrhage and eclampsia."
+
+            In March 2021, O'Brien sued Dr. Roca and LGH in state
+
+court.   At the time Dr. Roca rendered care, he worked for Lowell
+
+Community   Health   Center   ("LCHC"),   a    center   receiving   federal
+
+grants under 42 U.S.C. § 245b.      Also at the time of the relevant
+
+events, LCHC was a "deemed" Public Health Service ("PHS") program
+
+for purposes of 42 U.S.C. § 233.1              Dr. Roca needed clinical
+
+privileges at a nearby hospital as a condition of his employment;
+
+he obtained those privileges at LGH.          To maintain privileges, Dr.
+
+Roca was required to participate in the Hospital's on-call rotation
+
+system and treat incoming patients under the same.
+
+            Under the Federal Employees Liability Reform and Tort
+
+Compensation Act ("the Westfall Act"), the government substituted
+
+itself for Dr. Roca and removed the case to federal court.              The
+
+Westfall Act provides:
+
+            Upon certification by the Attorney General
+            that the defendant employee was acting within
+            the scope of his . . . employment at the time
+            of the incident out of which the claim arose,
+            any civil action . . . commenced upon such
+            claim   in    a   State   court    shall   be
+            removed . . . to the district court of the
+            United States . . . and the United States
+            shall be substituted as the party defendant.
+
+     1 "Deeming" under the Public Health Service Act ("PHSA")
+refers to the process of granting federally funded health centers
+and their employees the same legal protections as employees of the
+PHS. See O'Brien v. United States, 56 F.4th 139, 148-49 (1st Cir.
+2022).
+
+
+                                 - 4 -
+28 U.S.C. § 2679(d)(2).            The district court upheld substitution
+
+and    dismissed    the    case,    holding   that   O'Brien's      claims     were
+
+time-barred by the two-year limitations period under the FTCA.
+
+O'Brien appealed.
+
+            On appeal, the government acknowledged its argument
+
+incorrectly relied on the Westfall Act, which applies to government
+
+employees, instead of the PHSA, which applies to health centers.2
+
+The government argued that substitution was still proper, although
+
+for different reasons than would have applied under the Westfall
+
+Act.    We vacated the substitution order and remanded given the
+
+error    "brought    new    issues    into    play   and   left    gaps   in    the
+
+evidentiary record."        O'Brien, 56 F.4th at 141.             On remand, the
+
+government again moved for substitution, this time based on the
+
+PHSA.     On September 6, 2024, the district court granted the
+
+government's motion and dismissed O'Brien's complaint.                    O'Brien
+
+again appeals.
+
+                            A. STANDARD OF REVIEW
+
+            We "review the grant of a motion to dismiss de novo,
+
+accepting well-pled facts as true and drawing all inferences in
+
+favor of the non-moving party."          3137, LLC v. Town of Harwich, 126
+
+
+
+       2 "The Westfall Act amended the FTCA to make its remedy against
+
+the United States the exclusive remedy for most claims against
+Government employees arising out of their official conduct." Hui
+v. Castaneda, 559 U.S. 799, 806 (2010).
+
+
+                                      - 5 -
+F.4th 1, 8 (1st Cir. 2025) (quoting Rivera-Rosario v. LSREF2 Island
+
+Holdings, Ltd., 79 F.4th 1, 4 (1st Cir. 2023)).             "So, too, we
+
+review de novo a district court's grant of a motion to substitute
+
+the United States in lieu of a named defendant."      O'Brien, 56 F.4th
+
+at 145.
+
+          We also review scope of employment determinations under
+
+the same de novo standard.    McIntyre ex rel. Estate of McIntyre v.
+
+United States, 545 F.3d 27, 40 (1st Cir. 2008) (citing Aversa v.
+
+United States, 99 F.3d 1200, 1210 (1st Cir. 1996)).3
+
+                       B. STATUTORY BACKGROUND
+
+          The PHSA, 42 U.S.C. § 233, "protects PHS employees from
+
+personal liability for injuries resulting from the performance of
+
+medical services rendered within the scope of their employment."
+
+O'Brien   v.   Roca,   719   F.   Supp.   3d   158,   161   (D.   Mass.),
+
+reconsideration denied sub nom., O'Brien v. Lowell Gen. Hosp., 749
+
+F. Supp. 3d 209 (D. Mass. 2024) (citing 42 U.S.C. § 233(a)).
+
+Pursuant to the PHSA, suits brought against employees of public
+
+health centers receiving federal funds are governed under the FTCA,
+
+28 U.S.C. § 1346.      Thus, when an action is filed against a PHS
+
+employee in state court, the PHSA requires the government to be
+
+
+     3 We have held that "motions to dismiss based on the FTCA's
+statute of limitations should now be brought under Federal Rule of
+Civil Procedure 12(b)(6) (failure to state a claim upon which
+relief can be granted), or considered pursuant to Rule 56 (summary
+judgment)." Morales-Melecio v. United States (Dep't of Health &
+Hum. Servs.), 890 F.3d 361, 367 (1st Cir. 2018).
+
+
+                                  - 6 -
+substituted as the defendant and the case to be removed to federal
+
+court upon the Attorney General's certification that the PHS
+
+employee acted within the scope of his or her employment.                     See 42
+
+U.S.C. § 233(c).           In other words, "[w]hen federal employees are
+
+sued       for   damages    for   harms    caused    in   the   course   of   their
+
+employment, the [FTCA] generally authorizes substitution of the
+
+United States as the defendant."                  Hui, 559 U.S. at 801.       As we
+
+explained in Morales-Melecio v. United States (Dep't of Health &
+
+Hum. Servs.):
+
+                 The FTCA constitutes a limited waiver of [the
+                 United States'] sovereign immunity, allowing,
+                 in relevant part, for damages claims to be
+                 brought against the United States for any
+                 "injury or loss of property, or personal
+                 injury or death caused by the negligent or
+                 wrongful act or omission of any employee of
+                 the Government while acting within the scope
+                 of his office or employment."
+
+890 F.3d 361, 366 (1st Cir. 2018) (quoting 28 U.S.C.§ 1346(b)(1)).4
+
+       The Federally Supported Health Centers Assistance Act of 1995
+
+("FSHCAA") amended the PHSA to allow for certain health care
+
+entities to apply for federal funds and to extend, to health
+
+centers, the "same PHSA and FTCA protections as are enjoyed by PHS
+
+
+
+
+       "In lieu of personal liability, the statute makes available
+       4
+
+a tort action against the United States under the FTCA as the
+'exclusive' remedy for certain 'act[s] or omission[s]' on the part
+of PHS employees resulting in personal injury or death." O'Brien,
+56 F.4th at 147 (alterations in original) (quoting 42 U.S.C.
+§ 233(a)).
+
+
+
+                                          - 7 -
+employees."   See O'Brien, 56 F.4th at 148 (citing 42 U.S.C.
+
+§ 233(g)(1)(A)).   "[A] federally funded health center or any
+
+particular individual associated with it must be 'deemed to be an
+
+employee' of the PHS" in order for the protections to apply.     Id.
+
+These deeming determinations are made by the Secretary of the
+
+Department of Health and Human Services ("Secretary").    If deemed,
+
+a health center is generally covered under the FTCA when treating
+
+its own patients; however, deeming does not conclusively establish
+
+liability protection for services rendered to someone who was not
+
+a patient of the health center.5      Id. at 149.   Covered entities
+
+have to "comport with specific requirements laid out in 233(g) and
+
+accompanying [HHS] regulations." Bray v. Bon Secours Mercy Health,
+
+Inc., 97 F.4th 403, 407 (6th Cir. 2024)(citing 42 C.F.R. § 6.6).6
+
+          Further, an "act or omission [giving] rise to the claim"
+
+must also have occurred while the defendant was "acting within the
+
+scope of his office or employment."       42 U.S.C. § 233(a).    The
+
+
+
+     5 "[T]he Secretary's annual 'deeming' determination does not
+conclusively establish PHSA and FTCA coverage with respect to a
+particular lawsuit when -- as in this case -- an action is brought
+against a physician affiliated with a federally funded health
+center." In such a case, "coverage hinges on the circumstances in
+which care has been provided." O'Brien, 56 F.4th at 149.
+     6 "These requirements include that the entity be a covered
+entity; that the individual be a covered employee, contractor, or
+officer of that entity; and that the individual act within the
+scope of his or her employment. Additionally, coverage applies
+only to services related to grant-supported activities." Bray, 97
+F.4th at 407 (citing 42 C.F.R. § 6.6).
+
+
+                              - 8 -
+Attorney General determines whether to certify "that the defendant
+
+was acting in the scope of his employment at the time of the
+
+incident out of which the suit arose."          Id. § 233(c).   "If the
+
+Attorney General advises [a] court that the defendant has been
+
+'deemed' a PHS employee 'with respect to the actions or omissions'
+
+giving rise to the plaintiff's claims, removal is in order."
+
+O'Brien, 56 F.4th at 148 (citing § 233(l)(1)).
+
+            If   the   covered   individual   provided   services   to   a
+
+non-patient of the covered entity, however, malpractice liability
+
+protection requires either: (1) a specific determination by the
+
+Secretary as to the specific arrangement at issue pursuant to 42
+
+C.F.R. § 6.6(d)7 or (2) that the services provided "fall squarely
+
+
+     7   The regulation provides:
+            Acts and omissions related to services
+            provided to individuals who are not patients
+            of a covered entity will be covered only if
+            the Secretary determines that:
+            (1) The provision of the services to such
+            individuals benefits patients of the entity
+            and general populations that could be served
+            by   the   entity    through  community-wide
+            intervention efforts within the communities
+            served by such entity;
+            (2) The provision of the services to such
+            individuals facilitates the provision of
+            services to patients of the entity; or
+            (3) Such services are otherwise required to be
+            provided   to   such  individuals   under   an
+            employment contract or similar arrangement
+            between the entity and the covered individual.
+     42 C.F.R. § 6.6(d).
+
+
+                                   - 9 -
+within" one of the listed scenarios the Secretary has already
+
+categorically deemed covered under 42 C.F.R. § 6.6(e)(4).                    Bray,
+
+97 F.4th at 407.
+
+                                  II. DISCUSSION
+
+             O'Brien     makes    four    principal    arguments    on      appeal.
+
+First, he contends that the district court erred in holding that
+
+the regulation promulgated by the Secretary did not violate the
+
+PHSA's statutory scheme.          Second, O'Brien argues that the district
+
+court     erred   in    finding   that    deeming   extended   to     Dr.    Roca's
+
+treatment of Allen.         Third, O'Brien believes his time to file a
+
+claim did not begin accruing until he first spoke to his lawyer in
+
+September 2017.         Lastly, O'Brien contends that, even if his claim
+
+accrued before he spoke with his lawyer, the FTCA's Savings Clause
+
+saves his claim.         We analyze each argument seriatim, concluding
+
+that the district court correctly allowed the substitution of the
+
+United States as the defendant and properly dismissed the case.
+
+We, thus, affirm.
+
+                         A. The Regulation's Validity
+
+             As noted, by statute, health centers and their employees
+
+are   generally        deemed   federal    employees    only   when      providing
+
+services to individuals who are health center patients.8                        The
+
+
+      8The statute provides:     "The deeming of any entity or
+officer . . . of  the   entity   to  be   an   employee of   the
+[PHS] . . . shall    apply     with    respect     to   services
+
+
+
+                                      - 10 -
+Secretary's      regulation     includes   two    methods   for     determining
+
+whether FTCA coverage extends to non-patient services:
+
+               The first method allows a health center or
+               affiliated    individual   to    submit    an
+               "application . . . seek[ing] a particularized
+               determination" that coverage extends to the
+               care at issue. The second method involves a
+               predetermination by the Secretary that FTCA
+               coverage extends in certain circumstances
+               without any need for a "specific application"
+               on the part of the entity or affiliated
+               individual. To qualify for this predetermined
+               coverage, the care rendered or the "activity
+               or arrangement in question" must "fit[ ]
+               squarely" into one of a number of scenarios
+               described in the regulation.
+
+O'Brien, 56 F.4th at 149 (alterations in original) (citations
+
+omitted) (citing 42 C.F.R. § 6.6(e)(4)).             Where the activity or
+
+arrangement does not fit squarely into one of the scenarios, an
+
+additional "particularized determination of coverage" application
+
+is required.         42 C.F.R. § 6.6(e)(4).
+
+               When reviewing an application, the Secretary determines
+
+whether provision of services to the relevant non-patient meets at
+
+least    one    of    the   three   statutory    criteria   under    42   C.F.R.
+
+§ 6.6(d).9      Those criteria are that the treatment must, in the view
+
+of the Secretary, "benefit[] patients of the entity and general
+
+
+provided . . . (i) to all patients of the entity, and (ii) subject
+to subparagraph (C), to individuals who are not patients of the
+entity." 42 U.S.C. § 233(g)(1)(B).
+     9 The regulation goes on to list examples of specific
+scenarios that fall within the scope of paragraph (d). See 42
+C.F.R. § 6.6(e)(4)(i)-(iv).
+
+
+                                      - 11 -
+populations that could be served by the entity," "facilitate[] the
+
+provision of services to patients of the entity," or be "otherwise
+
+required under an employment contract (or similar arrangement)."
+
+42    U.S.C.    § 233(g)(1)(C).           For    coverage     of   medical        services
+
+provided to a non-patient, the federally funded health center
+
+(generally)       must   submit      an     application       to     HHS.         See   id.
+
+§ 233(g)(1)(D).
+
+               The government tells us that the care provided in the
+
+underlying       facts      of     this        case   falls    under         42     C.F.R.
+
+§ 6.6(e)(4)(ii),         "Hospital-Related            Activities."                 O'Brien
+
+challenges the legality of this provision, arguing that the issuing
+
+of automatic or "blanket" pre-deeming -- without the required
+
+documents      supporting        individualized       extension      of     coverage    or
+
+pre-requisite review -- violates the PHSA and is beyond the powers
+
+afforded to the Secretary.               In making this argument, O'Brien says
+
+deeming of non-clinic patients is inappropriate until after the
+
+Secretary has reviewed a particularized application for the care
+
+in question. Thus, on this reading of the statute, O'Brien insists
+
+the    district     court        erred    in     upholding     the     regulation       as
+
+permissible.
+
+               By contrast, the government contends that the district
+
+court correctly concluded predeterminations are consistent with
+
+the PHSA.        The government argues the statute does not require
+
+health centers to submit "additional, unnecessary applications and
+
+
+                                          - 12 -
+information" for particularized determinations of coverage for
+
+treatment    of    non-patients    during     certain    commonly     recurring
+
+situations.       It counsels that a periodic hospital call required
+
+for hospital admitting privileges, like Dr. Roca's treatment of
+
+Allen, is covered.      Anything more would be too "impractical" and
+
+"burdensome" for hospitals and health centers where they would
+
+need to try to foresee and capture all possible future incidents.
+
+The Secretary is given discretion to determine the form and manner
+
+of deeming applications and, the government reasons, the decision
+
+to pre-deem certain scenarios involving non-patients falls within
+
+that discretion.
+
+            We agree with the government that the regulation is
+
+consistent    with     the   PHSA.       Relevant       here   is    42    U.S.C.
+
+§ 233(g)(1)(C)(iii), under which the care by a health center
+
+employee (like Dr. Roca) to a non-health center patient (like
+
+Allen) meets the deeming criteria since such services "[were]
+
+otherwise    required    under    an   employment   contract        (or   similar
+
+arrangement) between the entity and an . . . employee . . . ."                 As
+
+particularly relevant here, the implementing regulation reads:
+
+"Periodic hospital call or hospital emergency room coverage is
+
+required by the hospital as a condition for obtaining hospital
+
+admitting privileges.        There must also be documentation for the
+
+particular health care provider that this coverage is a condition
+
+of employment at the health center."           42 C.F.R. § 6.6(e)(4)(ii).
+
+
+                                     - 13 -
+          The    HHS   mandates    that     any    services    described    in
+
+subsection (e)(4) are already covered -- or "pre-deemed" -- under
+
+42 C.F.R. § 6.6(d) "without the need for specific application for
+
+an additional coverage determination."              42 C.F.R. § 6.6(e)(4).
+
+The statute provides that "[t]he Secretary may not" deem an entity
+
+or its employee "and may not apply such deeming to services" to
+
+non-patients "unless the entity has submitted an application for
+
+such deeming to the Secretary in such form and such manner as the
+
+Secretary shall prescribe."         42 U.S.C. § 233(g)(1)(D).              The
+
+district court correctly observed that "[t]he statute refers to
+
+the term 'application' in the singular, indicating that at least,
+
+but not necessarily more than, one application is required."               The
+
+statute, as written, does not require or specify the information
+
+required for verification of coverage.            42 U.S.C. § 233(g)(1)(D).
+
+We, thus, hold that the Secretary acted within his discretion in
+
+implementing the regulation at issue.
+
+                  B. Dr. Roca's Treatment of Allen
+
+          As    relevant   to   O'Brien's    next    argument,    "42   C.F.R.
+
+§ 6.6(d) provides that '[a]cts and omissions related to services
+
+provided to individuals who are not patients of a covered entity
+
+will be covered only if the Secretary' makes a particularized
+
+determination that the arrangement satisfies certain enumerated
+
+objectives of the FSHCAA."      Bray, 97 F.4th at 413.        "Absent a prior
+
+particularized determination as to the coverage of the arrangement
+
+
+                                  - 14 -
+by the Secretary, treatment of non-entity patients falls outside
+
+the    scope    of    coverage   unless      it     fits    within       one    of   the
+
+circumstances enumerated by § 6.6(e)(4)."                  Id.    Section 6.6(e)(4)
+
+lists four such circumstances.           The relevant circumstance here is
+
+described in Section 6.6(e)(4)(ii), which provides that "[t]here
+
+must . . . be        documentation     for    the       particular       health      care
+
+provider that [the relevant] coverage is a condition of employment
+
+at the health center."        42 C.F.R. § 6.6(e)(4)(ii).
+
+              The district court found that Dr. Roca's treatment of
+
+Allen met those conditions.            In so holding, it stated that "Dr.
+
+Roca's employment contract with [LCHC] required that he provide
+
+on-call coverage at [the Hospital]."                    It, thus, found that Dr.
+
+Roca's treatment of Allen was covered by the regulation because it
+
+was (1) periodic and (2) "required by the hospital as a condition
+
+for obtaining hospital admitting privileges."
+
+              On appeal, O'Brien argues that Dr. Roca's treatment of
+
+Allen does not fit within the (e)(4) exception.                   He tells us that
+
+Dr. Roca's employment contract only required that Dr. Roca obtain
+
+admitting privileges at a hospital in the vicinity of LCHC and
+
+that there is no mention of emergency room coverage.                       Therefore,
+
+the argument goes, Dr. Roca was not contractually obligated to
+
+care    for    non-health     center     patients         under    his     employment
+
+agreement,      so    his   deeming    (and       its    accompanying          liability
+
+protection) did not extend to his treatment of Allen, a non-health
+
+
+                                      - 15 -
+center patient.         Without a contractual obligation to provide the
+
+care in question, O'Brien argues that the statute required a
+
+particularized         deeming      application -- in      addition      to    LCHC's
+
+initial deeming application -- to extend coverage of services
+
+provided by Dr. Roca to a non-patient such as Allen.
+
+            Furthermore,         O'Brien     contends     that     the   regulation
+
+"explicitly    requires        there    be   documentation       that    Dr.   Roca's
+
+treatment    of    Ms.    Allen . . . was        a   condition     of    Dr.   Roca's
+
+employment at the health center."10                  O'Brien contends no such
+
+documentation was ever submitted or approved.                  Given Dr. Roca was
+
+not contractually obligated to care for Allen and no particularized
+
+deeming    application        was    submitted,      O'Brien   submits     that   the
+
+district court erred in ruling that the United States was properly
+
+substituted as the defendant under the Health Centers Act.
+
+            In response, the government argues no further deeming
+
+application was needed to cover Dr. Roca's treatment of Allen.
+
+The government reasons that Dr. Roca's contract required him to
+
+participate       in    LCHC's      "departmental      call      schedule,"    which
+
+consisted of caring for LCHC patients admitted to one of the
+
+approved hospitals within the center's vicinity -- a radius which
+
+included    LGH.        For   access    to   the     hospital's    facilities     and
+
+
+     10Documentation that hospital emergency room coverage was a
+condition of Dr. Roca's employment at the health center is a
+factual pre-requisite for application of the on-call exception.
+42 C.F.R. § 6.6(e)(4)(ii).
+
+
+                                        - 16 -
+authorization to admit LCHC patients, Dr. Roca needed to "maintain
+
+[clinical]    privileges"         by   "conform[ing]     with . . . all      rules,
+
+regulations and by-laws promulgated by" the hospital.                Indeed, one
+
+of the hospital's regulations required that Dr. Roca participate
+
+in LGH's hospital call rotation, which included treating non LCHC
+
+patients.    Therefore, the government argues, Dr. Roca's employment
+
+at LCHC was contingent on his participation in LGH's hospital call
+
+rotation, which required him to treat non-health center patients
+
+such as Allen.        Accordingly, the government reasons, Dr. Roca's
+
+deeming extended to his care of Allen and was covered under 42
+
+U.S.C. § 233(g)(1)(C).
+
+             We    agree   with    the    government's      understanding.      Dr.
+
+Roca's employment contract with LCHC required he "participate in
+
+the departmental call schedule" and, as such, stated that he "may
+
+be asked to be on primary call wherein [he] will be responsible
+
+for addressing all [LCHC] patient care responsibilities when such
+
+patients seek services either by the telephone or when they present
+
+at [LGH]."        It also stated that the "[p]hysician shall maintain
+
+privileges at a hospital within a reasonable vicinity of [LCHC]
+
+throughout        duration   of        this    Agreement,    including     [LGH]."
+
+Furthermore,         Dr.      Roca            needed   to       "conform       with
+
+all . . . regulations and by-laws promulgated by [LCHC] and such
+
+other hospitals at which Physician has clinical privileges."
+
+
+
+
+                                         - 17 -
+            Thus, Dr. Roca was contractually obligated to maintain
+
+admitting privileges at LGH, and, to do that, Dr. Roca needed to
+
+treat non health center patients, like Allen, during required LGH
+
+on-call rotations.
+
+            Bray v. Bon Secours Mercy Health, Inc. reached a similar
+
+conclusion, with the Sixth Circuit holding that a physician's
+
+conduct fell under the regulation where that conduct furthered
+
+"grant objectives and the provision of care" to patients. 97 F.4th
+
+at 413.     That suit also involved a non-patient pregnant woman,
+
+treated by a physician who was required by his contract to "obtain
+
+and maintain hospital privileges as a part of [his] practice."
+
+Id. at 408 (alteration in original).      The Bray physician was also
+
+required to "provide call coverage overnight and on weekends."
+
+Id.    Like the Bray record, the record here supports the conclusion
+
+that LCHC required Dr. Roca to obtain and maintain admitting
+
+privileges for on-call shifts -- like the one in which Dr. Roca
+
+encountered Allen.    Id. at 414.
+
+            The government has provided the necessary documentation
+
+to show that LGH conditioned admitting privileges on satisfaction
+
+of on-call coverage and that Dr. Roca acted in accordance with
+
+that    condition   when   treating   Allen.   Thus,   the   necessary
+
+requirements under the § 6.6(e)(4)(ii) exception were met.
+
+
+
+
+                                 - 18 -
+                        C. Timeliness of FTCA Claim
+
+            We   have    held    that    legal   questions       regarding    the
+
+timeliness of an FTCA claim are reviewed de novo.            Skwira v. United
+
+States, 344 F.3d 64, 72 (1st Cir. 2003).             We also review de novo
+
+appeals   involving      "only   the    objective    reasonableness      of   [a]
+
+plaintiff['s] failure to discern at an earlier time both their
+
+injury and its likely cause."           Donahue v. United States, 634 F.3d
+
+615, 623 (1st Cir. 2011); see Skwira, 344 F.3d at 72.
+
+            The FTCA's statute of limitations provides that "[a]
+
+tort claim against the United States shall be forever barred unless
+
+it is presented in writing to the appropriate Federal agency within
+
+two years after such claim accrues."          28 U.S.C. § 2401(b).        A tort
+
+claim   under    the    FTCA   generally   accrues    at   the    time   of   the
+
+plaintiff's injury.       Donahue, 634 F.3d at 623; see also Gonzalez
+
+v. United States, 284 F.3d 281, 288 (1st Cir. 2002).               However, the
+
+Supreme Court has held that a "discovery rule" exception may toll
+
+the commencement of accrual in medical malpractice cases.                Skwira,
+
+344 F.3d at 73 (citing United States v. Kubrick, 444 U.S. 111, 113
+
+(1979)); see also McIntyre v. United States, 367 F.3d 38, 52 (1st
+
+Cir. 2004) (the discovery rule also applies to wrongful death
+
+actions).    The exception delays the commencement of the clock to
+
+when "plaintiff discovers, or in the exercise of due diligence
+
+should have discovered, the factual basis for the cause of action."
+
+McIntyre, 367 F.3d at 52 (citation omitted); see also Donahue, 634
+
+
+                                    - 19 -
+F.3d at 624 (finding accrual begins once the generally available
+
+information   or     the   likely   outcome   of    a    reasonably   diligent
+
+investigation is sufficient for the plaintiff to reasonably know
+
+they were injured).
+
+            This does not mean a plaintiff must know the "full extent
+
+of the injury."        Morales-Melecio, 890 F.3d           at 369     (citation
+
+omitted). In clarifying the knowledge prong of the discovery rule,
+
+this court has held that a plaintiff does not need actual or even
+
+suspected knowledge that the injury was negligently inflicted,
+
+Donahue, 634 F.3d at 623, nor that the acts might constitute
+
+medical malpractice, Kubrick, 444 U.S. at 125. Instead, plaintiffs
+
+need only be reasonably diligent when, once they know of the injury
+
+and   its   cause,    they   inquire   within      the   medical    and   legal
+
+communities as to whether the treatment was proper and conformed
+
+to the generally applicable standard of care.             Gonzalez, 284 F.3d
+
+at 289 (citations omitted).11
+
+            We have held that the FTCA's statute of limitations is
+
+triggered by "the discovery of sufficient facts about the injury
+
+and its cause to prompt a reasonable person to inquire and seek
+
+advice preliminary to deciding if there is a basis for filing an
+
+
+
+       Once a potential claimant is aware of the injury and the
+      11
+
+identity of the parties who caused it, he is no longer "at the
+mercy of" the government and can seek counsel from doctors or
+lawyers regarding the injury and the care received. See Kubrick,
+444 U.S. at 122.
+
+
+                                    - 20 -
+administrative claim against the government."                Skwira, 344 F.3d at
+
+78.12    In order for a plaintiff to take advantage of this discovery
+
+rule, he or she must demonstrate that the "factual basis for the
+
+cause of action [was] inherently unknowable at the time of the
+
+injury" for his or her claim to be found timely.                  Gonzalez, 284
+
+F.3d     at    288-89.   Anything       less     countervails   the   statute   of
+
+limitations'       purpose   in    "requir[ing]      the   reasonably   diligent
+
+presentation of tort claims against the Government."                  Id. (citing
+
+Kubrick, 444 U.S. at 123); see Skwira, 344 F.3d at 81 (finding the
+
+factual basis of a claim is "inherently unknowable" when there are
+
+no facts discoverable through the exercise of reasonable diligence
+
+for a plaintiff to reasonably believe there may be a connection).
+
+               O'Brien argues his cause of action did not begin accruing
+
+until September 6, 2017, when he                 first met with his lawyer.
+
+Importantly,       according      to   O'Brien,    Allen's   death    certificate
+
+listed "eclampsia as a consequence of pregnancy" as the cause of
+
+death.        O'Brien argues that because these were natural causes,
+
+there was no indication that any errors in care caused Allen's
+
+death.        It was not until O'Brien met with his lawyer, he claims,
+
+that he learned Dr. Roca's possible failure to properly treat the
+
+
+
+        In Skwira, where the family was told the victim died of
+        12
+
+natural causes, the question was when, as a factual matter, was
+there sufficient information available to the plaintiffs to reveal
+a causal connection between the injury and the government. Skwira,
+344 F.3d at 78.
+
+
+                                        - 21 -
+eclampsia within the required standards of care could have caused
+
+the death of Allen. O'Brien contends that the district court erred
+
+in holding that "accrual of the plaintiff's claim was not tolled
+
+by the federal discovery rule."          He also argues that absent
+
+specialized medical expertise, it was reasonable to believe Allen
+
+inevitably died naturally from the medical emergency that began
+
+before being treated by Dr. Roca, not from any negligence in
+
+treatment.   Therefore, O'Brien reasons, time began to accrue when
+
+he first learned, on September 6, 2017, that the doctor's actions
+
+could be a probable cause of Allen's death.      Since O'Brien had two
+
+years to file, he argues his filing in June of 2019 was timely.
+
+          The government argues the accrual began at the time of
+
+Allen's death on August 6, 2016, and the district court correctly
+
+ruled that the discovery rule did not pause accrual of O'Brien's
+
+claims until he spoke with an attorney.         The government argues
+
+that even if O'Brien could not have reasonably known about the
+
+negligence, he failed to show reasonable diligence in inquiring
+
+about the factual basis for a cause of action.          The government
+
+argues that O'Brien had two years to investigate the death of Allen
+
+and file a claim.   However, he waited over a year after Allen's
+
+death to first speak with a lawyer.      After meeting with his lawyer,
+
+O'Brien still had eleven months to timely file his claim and
+
+nevertheless failed to do so.     Therefore, the government argues,
+
+
+
+
+                                - 22 -
+O'Brien's claims expired in August 2018 and the filing in June
+
+2019 was untimely.
+
+             In Sanchez v. United States, we stated: "[t]he death of
+
+a generally healthy woman in childbirth is sufficiently rare in
+
+this country today so as to make most reasonable people ask why it
+
+happened."         740    F.3d    47,     53    (1st     Cir.    2014).         Furthermore,
+
+retaining counsel following such a death "is a telling sign that
+
+a     reasonable     person       would        have    concluded        that    'reasonable
+
+diligence' was called for in order to determine whether there was
+
+negligence."        Id.    So, too, in Morales-Melecio v. United States.
+
+There, we held that appellant's claim was time-barred and rejected
+
+the    argument     that    the    cause        of    death     for    the     decedent -- a
+
+thirty-six-year old man weighing over 370 pounds with a history of
+
+hypertension -- was           unclear          because     he     was     not    "generally
+
+healthy."    890 F.3d at 370.             Moreover, we also held appellants had
+
+sufficient facts about decedent's condition and care before their
+
+receipt of the death certificate to alarm a reasonable person the
+
+probable cause of death was connected to the defendant's treatment,
+
+or lack thereof.          Id.; cf. Cascone v. United States, 370 F.3d 95,
+
+97    (1st   Cir.    2004)       (finding        there     "was       nothing    inherently
+
+suspicious in [decedent's] reported death of an apparent heart
+
+attack," where the death certificate listed the cause of death as
+
+"chronic atrial fibrillation" (emphasis omitted)); K.B. v. United
+
+States, No. 23-CV-12030-ADB, 2024 WL 2701969, *4 (D. Mass. May 24,
+
+
+                                           - 23 -
+2024) (the transfer of a patient to Tufts Children's Hospital, a
+
+tertiary hospital, created a reasonable basis to know an injury
+
+related to the care had occurred, even without access to the full
+
+medical records).13
+
+           O'Brien argues this reasoning does not apply as Allen
+
+was not "generally healthy" because the medical emergency began
+
+before she was admitted and treated by Dr. Roca.           This argument
+
+misses the mark.    One medical emergency does not conclusively mean
+
+Allen was not "generally healthy."        There is no indication in the
+
+record    Allen   previously   suffered    a   difficult   or   high-risk
+
+pregnancy, nor that she had a history of illness. O'Brien provides
+
+no other basis for his argument and, so, is not entitled to tolling
+
+of the statute of limitations.
+
+                          D. Savings Clause
+
+           "The Savings Provision of the FTCA cannot resurrect the
+
+plaintiff's claim[ but may] excuse[] a plaintiff's failure to
+
+exhaust administrative remedies where" two circumstances are met.
+
+Gonzalez, 284 F.3d at 291 n.11.     Those two circumstances are that
+
+"(1) the tort claim accrued within two years of the filing of the
+
+
+     13 In Cascone, the fact that the decedent was admitted for
+treatment of a different illness, rather than a cardiac condition,
+did not undermine the inference that he died of natural causes.
+The court held, "[i]t was perfectly reasonable for [the family of
+the decedent] to believe . . . that the [new illness] exacerbated
+his preexisting heart conditions or that his heart problems simply
+happened to flare up at that point, independently of his other
+illness." Cascone, 370 F.3d at 104 n.12.
+
+
+                                 - 24 -
+state court action and (2) the plaintiff presents the claim to the
+
+appropriate federal agency within sixty days after the dismissal
+
+of the action."     Id.; see also 28 U.S.C. § 2679(d)(5).14   Here,
+
+O'Brien fails at the first step: As explained above, he did not
+
+file in state court within two years of accrual of his claims.
+
+                           III. Conclusion
+
+            For the foregoing reasons, we affirm.
+
+
+
+
+14   The clause reads:
+
+            (5) Whenever an action or proceeding in which
+            the United States is substituted as the party
+            defendant under this subsection is dismissed
+            for failure first to present a claim pursuant
+            to section 2675(a) of this title, such a claim
+            shall be deemed to be timely presented under
+            section 2401(b) of this title if—
+            (A) the claim would have been timely had it
+            been filed on the date the underlying civil
+            action was commenced, and
+            (B) the claim is presented to the appropriate
+            Federal agency within 60 days after dismissal
+            of the civil action.
+       28 U.S.C. § 2679(d)(5).
+
+
+                                 - 25 -

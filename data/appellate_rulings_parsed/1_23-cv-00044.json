@@ -1,0 +1,49 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the officers had probable cause to arrest Velez, defeating his wrongful-arrest and false-imprisonment claims",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found that Velez's physical resistance to being removed from his car provided probable cause for arrest under New Hampshire law, so his wrongful-arrest and false-imprisonment claims fail."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether Velez was subject to a retaliatory arrest in violation of the First Amendment",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "Because probable cause existed for the arrest, and the record did not support a retaliatory motive, the retaliatory arrest claim fails as a matter of law."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the officers used excessive force in violation of the Fourth Amendment and state common law",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "Although the court found that one officer used excessive force, qualified immunity applied because the law was not clearly established in this factual context, precluding liability."
+    },
+    {
+      "issue_id": 4,
+      "description": "Whether the City of Manchester was liable for failure to train its officers under federal and state law",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "Velez failed to show a pattern of similar constitutional violations or specific training deficiencies, so municipal liability was not established under either federal or state law."
+    }
+  ],
+  "key_precedents": [
+    "Graham v. Connor, 490 U.S. 386 (1989)",
+    "Nieves v. Bartlett, 587 U.S. 391 (2019)",
+    "Monell v. Dep't of Soc. Servs. of N.Y., 436 U.S. 658 (1978)",
+    "Connick v. Thompson, 563 U.S. 51 (2011)",
+    "Raiche v. Pietroski, 623 F.3d 30 (1st Cir. 2010)",
+    "Ashcroft v. al-Kidd, 563 U.S. 731 (2011)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "This case arises out of a traffic stop in Manchester, New Hampshire, which escalated into a physical struggle between several police officers and Brandon Velez. After Velez did not immediately comply with orders to step out of his vehicle, two officers physically attempted to remove him and overcome his firm resistance. In the process, one officer struck Velez four times and tased him twice. Velez later sued several of the officers and the City of Manchester (the \"City\") under federal and state common law for injuries he sustained during the incident. In response, they filed a motion for summary judgment, which the district court granted. Velez now appeals. While we conclude that one of the officers used excessive force, we affirm the district court on all counts."
+}

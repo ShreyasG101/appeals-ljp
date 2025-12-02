@@ -1,0 +1,963 @@
+United States Court of Appeals
+                      For the First Circuit
+
+
+No. 24-1905
+
+                          LORNA ORABONA,
+
+                      Plaintiff, Appellant,
+
+                                v.
+
+                      SANTANDER BANK, N.A.,
+
+                       Defendant, Appellee.
+
+
+          APPEAL FROM THE UNITED STATES DISTRICT COURT
+                FOR THE DISTRICT OF RHODE ISLAND
+
+           [Hon. Mary S. McElroy, U.S. District Judge]
+
+
+                              Before
+
+                   Gelpí, Lynch, and Thompson,
+                         Circuit Judges.
+
+
+     Jennifer L. Sylvia, with whom Moses Ryan Ltd. was on brief,
+for appellant.
+
+     Leslie D. Parker, with whom Brenna Anatone Force, Brendan F.
+Ryan, and Adler Pollock & Sheehan P.C. were on brief, for appellee.
+
+
+                          June 16, 2025
+             LYNCH, Circuit Judge.         Santander Bank, N.A. terminated
+
+Lorna Orabona's employment as a high-earning mortgage development
+
+officer     for    cause,     notifying   her   that   she   had   violated    the
+
+company's Code of Conduct client privacy policy.               In consequence,
+
+she was not eligible for severance benefits under its Employee
+
+Retirement Income Security Act (ERISA) Severance Policy.                 Orabona
+
+did   not   employ      the   administrative    procedure     under    the   ERISA
+
+Severance Policy.           Rather, she sued under state law in multiple
+
+counts sounding in both tort and contract.                   She alleged that
+
+Santander      had     terminated   her   employment    to   avoid    paying   her
+
+severance benefits under the Policy. After discovery, the district
+
+court entered summary judgment for Santander on the grounds that
+
+Orabona's claims were expressly preempted by ERISA section 514(a),
+
+29 U.S.C. § 1144(a).
+
+             We reject Orabona's arguments on appeal and hold that
+
+her claims are preempted by ERISA, because all of her claims
+
+"relate to" the Severance Policy as the court must refer to that
+
+Policy to determine both liability and damages as to each claim,
+
+see 29 U.S.C. § 1144(a), and, as to her claims seeking relief for
+
+the   denial      of   severance    benefits,   they   "conflict[]      with   the
+
+remedial scheme established by 29 U.S.C. § 1132(a)."                  See Cannon
+
+v. Blue Cross and Blue Shield of Mass., Inc., 132 F.4th 86, 88
+
+(1st Cir. 2025).
+
+
+
+
+                                       - 2 -
+                                          I.
+
+              On review of a grant of summary judgment, we recite the
+
+facts    in   the     light   most     favorable    to     the   nonmoving      party,
+
+"indulging all reasonable inferences in [Orabona's] favor, but
+
+paying no heed to conclusory allegations, improbable inferences,
+
+[or] unsupported speculation."             Quintana-Dieppa v. Dep't of Army,
+
+130 F.4th 1, 7 (1st Cir. 2025) (quoting McCarthy v. Nw. Airlines,
+
+Inc., 56 F.3d 313, 315 (1st Cir. 1995) (internal quotation marks
+
+omitted)).     We draw the facts "from the record and discovery as to
+
+[the Severance Policy]."              Cannon, 132 F.4th at 88.           The summary
+
+judgment record includes Orabona's unverified complaint; Orabona's
+
+supporting     affidavit;       the    deposition     of   Santander's        30(b)(6)
+
+witness Michael Pagano, head of Employment Relations; and an
+
+affidavit     by     Santander's      counsel,   attaching       the    Santander    US
+
+Enterprise      Severance      Policy     effective      July 21,      2021    through
+
+July 17,      2022    (the    "Severance    Policy"),       Forms      5500   for   the
+
+Severance Policy for the years 2020 through 2022,1 a December 9,
+
+2021 email from Santander HR to Orabona which included a link to
+
+a summary of the 2020 Form 5500 for the Severance Policy, and the
+
+Santander US Code of Conduct as of December 16, 2021.                    There is no
+
+
+
+
+     1    Form 5500 is an informational return used "to satisfy
+annual reporting requirements under Title I and Title IV of ERISA
+and under the Internal Revenue Code." U.S. Dep't of Lab., Form
+5500 Series, https://perma.cc/J925-V6ZD.
+
+
+                                         - 3 -
+dispute as to the authenticity of Santander's Severance Policy and
+
+Forms, Code of Conduct, and the December 9, 2021 email.2
+
+A. The Termination of Orabona's Employment
+
+                 Orabona's complaint states that the lawsuit "arises out
+
+of the wrongful, unlawful actions by [Santander] in interfering
+
+with and preventing [her] from continuing in her employment and
+
+receiving her entitlement to employee benefits."
+
+                 Orabona was hired by Sovereign Bank in 2008 as a Mortgage
+
+Development Officer (MDO), and Santander became Orabona's employer
+
+when it acquired Sovereign in 2013.               She was "one of the top five
+
+MDO performers in the country for Santander overall," and her
+
+wages, which were based only on commission, were $525,000 in 2020
+
+and $680,000 in 2021.
+
+                 On   or   about    January 18,     2022,   Orabona   told     her
+
+supervisor at Santander that she had an offer of employment from
+
+Citizens Bank, "but she was still considering staying at Santander
+
+and wanted to re-negotiate her salary."               Her supervisor responded
+
+that       "he   wanted    [her    to]   stay    and . . . would   talk   to   his
+
+supervisors and get back to her to work something out."
+
+
+
+
+       2  Though Orabona disputed the authenticity of and moved to
+strike Santander's December 9, 2021 email before the district
+court, the court denied her motion to strike, and Orabona did not
+appeal that denial, so we consider the email to be unrefuted
+evidence.
+
+
+                                         - 4 -
+          On January 21, 2022, a Santander employee from Spain who
+
+"was not [Orabona's] supervisor" and did not "even work[] in her
+
+department," joined by a Santander HR employee and a Santander IT
+
+employee, called Orabona and informed her that her employment was
+
+terminated    effective     immediately,      for   cause,   because     she    had
+
+forwarded company emails from her company email address to her
+
+private email address.3         Orabona's affidavit states that:
+
+          [The Santander employee] advised me that I was
+          terminated for cause and all of my benefits,
+          including    my   healthcare,   were   ceasing
+          immediately.    I was also advised that if I
+          took any further actions, such as appealing my
+          termination    or   applying   for   benefits,
+          Santander would report to the Nationwide
+          Multistate Licensing System ("NMLS") that I
+          had committed misconduct thereby attempting to
+          get my license revoked.
+
+Santander's     30(b)(6)    witness     testified     that    "[u]sually        the
+
+manager . . . communicat[es]          that     the     employee     is     being
+
+terminated," and a member of the Employment Relations team, which
+
+is   entirely    based     in   the   United    States,      "support[s]       that
+
+communication, answer[s] any questions the employee may have, and
+
+provide[s] an overview of what they can expect from a benefits
+
+standpoint after their departure."
+
+
+
+     3    Orabona's affidavit states that she "did not accept the
+offer and/or start employment with Citizens Bank until January 24,
+2022, after [her] termination from Santander," but Santander
+contests this, noting that "according to Orabona’s registration on
+the Nationwide Multistate Licensing System ("NMLS"), Orabona began
+employment as a Citizens employee on . . . January 18, 2022." Our
+disposition does not turn on this dispute.
+
+
+                                      - 5 -
+             Orabona        says    she    received       no   warning   or     initial
+
+reprimand prior to the termination of her employment.                          She says
+
+that she had only forwarded company emails "due to working remotely
+
+during the state of emergencies for the COVID-19 pandemic since
+
+March 2020,"       that     all company       emails      she had forwarded          were
+
+"encrypted and did not contain any personal information," and that
+
+"[o]ther Santander employees had [also] been forwarding company
+
+emails to their private email due to working remotely" but "were
+
+not reprimanded or terminated."               Orabona says that the forwarded
+
+company     emails    were    mortgage      pre-approval       letters    for    client
+
+referrals, and she does not deny that they contained confidential
+
+client and Santander business information.
+
+             "Around the latter part of the fourth quarter of 2021
+
+and prior to [her] termination," Santander decided to completely
+
+exit the U.S. residential mortgage market, which "would lead to
+
+the layoffs of all MDOs in the residential mortgages department,
+
+which was Orabona's department."                   "On or about February 1, 2022
+
+(only   a    few     days    after       Orabona    was    terminated),       Santander
+
+officially     announced           the    massive     national       layoff     in   its
+
+residential lending department," which terminated all MDOs in
+
+Orabona's department and eliminated her position.
+
+             Orabona says the reasons Santander gave for terminating
+
+her   employment      were     pretextual      and     that    the    timing    of   her
+
+January 21, 2022 termination was pretextual because that timing
+
+
+                                           - 6 -
+was meant to render her ineligible for severance benefits under
+
+the February 1, 2022 announcement.               Santander HR had emailed
+
+Orabona a summary of the Form 5500 for the 2020 Severance Policy
+
+on December 9, 2021, prior to her termination.4
+
+                Orabona concedes she "took no steps to appeal [her]
+
+termination or apply for any benefits."            Her affidavit attributes
+
+her failure to appeal to her reliance on the alleged statements
+
+made       by   the   Santander   employee    during    the   January 21,   2022
+
+termination call that Orabona was ineligible for benefits and that
+
+Santander would report her to the licensing board if she took
+
+further actions, such as appealing her termination or applying for
+
+benefits.         Santander's     30(b)(6)    witness    testified   that   "any
+
+employee" may "file a claim to HR asking for severance benefits,"
+
+including an employee who was "terminated for cause but believe[d]
+
+they[] [were] still . . . entitled to severance."
+
+                The gravamen of Orabona's lawsuit is that "a possible
+
+severance payout to [her would have been] significant" and so
+
+"Santander fraudulently advised [her] she was terminated for cause
+
+
+       4  Orabona says that she did not receive a separation guide
+upon her termination and that normally Santander would send
+terminated employees such a guide, but it is unclear from
+Santander's 30(b)(6) witness whether that practice is customary
+for employees terminated for cause. Santander's 30(b)(6) witness
+testified   that   the   separation    guide   did   not   contain
+"anything . . . referencing at all the [S]everance [P]olicy" but
+rather included information such as about COBRA benefits and how
+to convert a life insurance policy. In any event, the preemption
+issue is unaffected by this.
+
+
+                                      - 7 -
+and concealed the planned large-scal[e] layoff to deprive her of
+
+any   eligibility   of   benefits,    including     but   not    limited    to,
+
+severance."   These allegations reference the Severance Policy, to
+
+which we now turn.
+
+B. The ERISA Severance Policy
+
+           The ERISA Severance Policy states the terms of employee
+
+eligibility   and   calculation      of    severance   benefits,     reserves
+
+discretion to Santander, and sets forth appeals rights.5                     It
+
+provides, inter alia, that:
+
+1. "It is the current policy of [Santander] to provide severance
+
+benefits to full or part time Employees whose positions                     are
+
+involuntarily terminated . . . as a result of" certain events,
+
+relevantly    including "[a]      workforce      reduction      or   position
+
+elimination."
+
+2. "Employees are not entitled to any severance benefits if their
+
+employment is terminated for any of" a number of non-exhaustive
+
+reasons,   relevantly    including        "[m]isconduct   or    violation    of
+
+company policies, procedures, practices, or the Code of Conduct."
+
+The Code of Conduct contains policies regarding employee use of
+
+corporate assets and provides that employees "shall . . . [n]ot
+
+
+
+
+      5   A separate "Benefits and Payroll Guide for Employees
+Eligible for Benefits under the [Severance Policy]" "highlight[s]
+key provisions of Santander's benefit plans and programs," such as
+COBRA coverage and participation in the 401(k) plan, for eligible
+employees.
+
+
+                                  - 8 -
+send,    forward   or    transmit    Santander   US . . . information      to
+
+[their] personal email account, personal messaging application, or
+
+similar platform for any reason."        The Code states that "Employees
+
+who violate the Code will be subject to disciplinary action, up to
+
+and including termination of employment" and that "[i]n general,
+
+employment at Santander US . . . is expressly 'at-will' and may be
+
+terminated at any time by Santander US . . . with or without cause
+
+and with or without notice."
+
+3. Once an employee has been found eligible and qualified for
+
+benefits, receipt of severance benefits is contingent on, inter
+
+alia, the execution of a Separation Agreement and "the Employee
+
+remaining in his/her position through the Employee's Termination
+
+Date."     "If the Employee . . . resigns employment with Santander
+
+US prior to the Termination Date, no severance benefits will be
+
+provided."
+
+4. "For Employees earning commissions, the Severance Pay amount
+
+shall be based on the greater of: (1) Benefits Pay utilized to
+
+determine the salary-related benefits for the year in which the
+
+Employee's Termination Date occurs, or (2) the most recent 6 to 24
+
+months (based on time in commissioned role) of average, annualized
+
+earnings as of the Employee's Termination Date."               For employees
+
+whose severance pay is calculated based on (2) and who have
+
+average,    annualized    earnings    totaling   more   than    $100,000   or
+
+
+
+
+                                     - 9 -
+$300,000, severance pay is based on only 80% or 65% of those
+
+earnings, respectively.
+
+5. Santander determines "in its sole discretion . . . whether any
+
+employee or employees will be provided severance benefits; the
+
+terms and conditions for payment of such severance, and whether
+
+such terms and conditions have been satisfied; and the amount of
+
+severance pay and its application in the particular case."
+
+            The Severance Policy further provides that "[a]ll claims
+
+for benefits . . . shall be made in writing to[ ]HR within sixty
+
+(60) days of the alleged occurrence giving rise to the claim" and
+
+an employee may appeal a claim denial "by submitting a written
+
+request for review within sixty (60) days after the date on which
+
+such denial is received."        "An employee must exhaust the claims
+
+and appeal process before filing suit."
+
+C. The District Court Proceedings
+
+            On June 22, 2023, Orabona sued Santander in Rhode Island
+
+Superior Court.     Santander removed the case to federal court and
+
+filed a motion to dismiss all claims for failure to state a claim
+
+and on ERISA preemption grounds, attaching as an exhibit a version
+
+of   the   Severance   Policy.      Orabona     opposed,   disputing     the
+
+"authenticity and accuracy" of Santander's attached Severance
+
+Policy6    and   requesting   "discovery   to   inquire    more   into   the
+
+
+     6    The version of the Severance Policy Santander attached
+to its motion to dismiss had last been approved on July 18, 2022,
+
+
+                                  - 10 -
+applicable terms of the [Policy] and to properly determine whether
+
+this [Policy] is truly one that would be considered an ERISA plan."
+
+The district court denied without prejudice Santander's motion to
+
+dismiss and granted both parties "limited discovery into the
+
+applicability and/or authenticity of the potential ERISA plan
+
+presented by the defendant in support of its Motion to Dismiss."
+
+              After discovery was complete, Orabona filed an amended
+
+complaint alleging claims, all under state law, of breach of
+
+implied contract and covenant of good faith and fair dealing,
+
+wrongful termination, fraud and intentional misrepresentation, and
+
+negligent misrepresentation, seeking for each claim "damages to be
+
+proven   at    trial,   plus   reasonable    attorney's       fees   and     costs,
+
+punitive damages, and all such other relief this Court deems just
+
+and proper."         Santander filed a motion to dismiss the amended
+
+complaint for failure to state a claim and for summary judgment
+
+based    on    ERISA    preemption,      arguing     that     "ERISA       preempts
+
+Plaintiffs' claims because each of her counts 'relates to' the
+
+[ERISA] Plan as the Court would need to refer to [the] Plan to
+
+determine liability and damages."
+
+              On   September 25,   2024,    the    district    court       issued   a
+
+Memorandum     and    Order   granting   Santander's    motion       for    summary
+
+
+
+
+and Orabona contested its authenticity on the grounds that she
+"was terminated on January 21, 2022, months prior to [its]
+adoption."
+
+
+                                    - 11 -
+judgment on ERISA preemption grounds.     The court held that all of
+
+Orabona's claims were preempted under 29 U.S.C. § 1144(a).        As to
+
+the fraud and negligent misrepresentation claims, the court held
+
+they were preempted because "[t]he damages that naturally flow
+
+from these claims would be the value of [the severance] benefits,
+
+as detailed by the [Severance Policy]," citing, inter alia, Otero
+
+Carrasquillo v. Pharmacia Corp., 466 F.3d 13 (1st Cir. 2006).         As
+
+to the contract and wrongful termination claims, Orabona had
+
+conceded   that   severance   benefits   would   "be    a   portion   of
+
+consequential damages of those claims," and so the court held that
+
+"a calculation of [her] damages would require reference to the
+
+[Severance Policy]."
+
+                                 II.
+
+           We review the district court's grant of summary judgment
+
+de novo and "affirm[] the grant if the record 'presents no genuine
+
+issue as to any material fact and reflects the movant's entitlement
+
+to judgment as a matter of law.'"   Cannon, 132 F.4th at 89 (quoting
+
+Mullane v. U.S. Dep't of Just., 113 F.4th 123, 130 (1st Cir.
+
+2024)).
+
+           All of Orabona's claims are statutorily preempted under
+
+section 514(a) of ERISA, which states that ERISA "shall supersede
+
+any and all State laws insofar as they may now or hereafter relate
+
+to any" ERISA plan.    See 29 U.S.C. § 1144(a).        "The term 'State
+
+law' includes all laws, decisions, rules, regulations, or other
+
+
+                               - 12 -
+State action having the effect of law."         29 U.S.C. § 1144(c)(1).
+
+"[A] state law relates to an ERISA plan if it has a connection
+
+with or reference to such a plan."         Rutledge v. Pharm. Care Mgmt.
+
+Ass'n, 592 U.S. 80, 86 (2020) (alteration in original) (quoting
+
+Egelhoff v. Egelhoff, 532 U.S. 141, 147 (2001)).             This test is
+
+satisfied if "the court's inquiry must be directed to the [ERISA]
+
+plan."    Ingersoll-Rand Co. v. McClendon, 498 U.S. 133, 140 (1990);
+
+see also Hampers v. W.R. Grace & Co., Inc., 202 F.3d 44, 52 (1st
+
+Cir. 2000)("We have consistently held that a cause of action
+
+'relates to' an ERISA plan when a court must evaluate or interpret
+
+the terms of the ERISA-regulated plan to determine liability under
+
+the state law cause of action.").       In determining whether a state
+
+law cause of action is preempted, we look beyond "the form or label
+
+of the law" and to the "facts of the particular case."                 Bos.
+
+Child.'s Heart Found., Inc. v. Nadal-Ginard, 73 F.3d 429, 439-40
+
+(1st Cir. 1996); see also Aetna Health Inc. v. Davila, 542 U.S.
+
+200,     214    (2004)   ("[D]istinguishing    between    pre-empted   and
+
+non-pre-empted claims based on the particular label affixed to
+
+them would 'elevate form over substance and allow parties to evade'
+
+the pre-emptive scope of ERISA simply 'by relabeling their contract
+
+claims as claims for tortious breach of contract.'" (quoting
+
+Allis-Chalmers Corp. v. Lueck, 471 U.S. 202, 211 (1985))).
+
+               As Orabona concedes, each of her claims is "premised
+
+on . . . Santander's       [alleged]   pretextual,       fraudulent,   and
+
+
+                                  - 13 -
+wrongful termination of Orabona for cause in order to [deprive]
+
+her of the benefit of Santander's ERISA severance plan."7               For
+
+several reasons, "[the] court must [thus] evaluate or interpret the
+
+terms    of   the   ERISA-regulated   plan   to    determine   [Santander's]
+
+liability under [Orabona's claims]."              Hampers, 202 F.3d at 52.
+
+The court must consult the Severance Policy to determine whether
+
+Orabona was ineligible for severance benefits because of the
+
+grounds on which Santander terminated her employment.            Because the
+
+Severance Policy renders employees terminated for violating the
+
+Code of Conduct ineligible for severance benefits, the court must
+
+also consult the Code of Conduct in making such a determination.
+
+Further, the court would consult the Severance Policy to determine
+
+whether Orabona would have been eligible for severance benefits
+
+had her employment been terminated under the national layoff rather
+
+than for cause.         The court would also consult the Policy to
+
+determine whether Santander would exercise its reserved discretion
+
+when deciding whether to grant severance benefits.              The Supreme
+
+
+     7    To the extent that, in spite of this concession, Orabona
+attempts to argue that her contract and wrongful termination claims
+are premised on Santander's failure to follow proper procedures in
+terminating her employment, not on Santander's termination of her
+employment for the wrongful reason of depriving her of severance
+benefits, we reject the argument.      Looking beyond "particular
+label[s] affixed to" Orabona's claims, Davila, 542 U.S. at 214,
+Orabona's legal theory as to such claims is that Santander failed
+to follow proper procedures because it terminated her employment
+not for cause, but to deprive her of severance benefits, and the
+court must refer to the Severance Policy to determine Santander's
+liability under such a theory.
+
+
+                                  - 14 -
+Court, this court, and our sister circuit courts have held that
+
+state law claims were "related to" ERISA where the employer is
+
+alleged   to   have   taken   actions   to   prevent   the   employee   from
+
+receiving ERISA plan benefits.
+
+           The Ingersoll-Rand decision from the Supreme Court is
+
+remarkably similar to the claims here and requires a finding of
+
+preemption.    In Ingersoll-Rand, the plaintiff had "allege[d] that
+
+his pension would have vested in another four months and that a
+
+principal reason for his termination was the company's desire to
+
+avoid making contributions to his pension fund."               498 U.S. at
+
+135-36.   Confronted with the question of whether ERISA "pre-empts
+
+a state common law claim that an employee was unlawfully discharged
+
+to prevent his attainment of benefits under a plan covered by
+
+ERISA," the Supreme Court held that such a claim was preempted
+
+because, "in order to prevail, a plaintiff must plead, and the
+
+court must find, that an ERISA plan exists and the employer had a
+
+[benefits]-defeating motive in terminating the employment."              Id.
+
+at 135, 140.
+
+           First Circuit law also requires a finding that Orabona's
+
+claims are preempted.     In Otero Carrasquillo, this court held that
+
+the plaintiff's analogous state law claim of fraudulent inducement
+
+was preempted by ERISA.       See 466 F.3d at 20.
+
+           Otero   [had]    allege[d]   that    Pharmacia
+           fraudulently induced him to continue his
+           employment at the Arecibo plant by incorrectly
+
+
+                                  - 15 -
+            informing him that he could not apply for
+            severance benefits until all fermentation at
+            Arecibo was completed, changing the benefits
+            application deadline without informing him,
+            and falsely promising him a comparable
+            position at the company whenever he expressed
+            concern for his job security.
+
+Id.    We explained that, in order to determine liability, the court
+
+must consult the ERISA severance plan "to identify the application
+
+dates and the administrative process for determining and informing
+
+the employees of such dates" and to "determine whether the offered
+
+microbiologist position was 'comparable' to his prior job as a
+
+research associate."      Id.    Recently, in Cannon, we reaffirmed that
+
+"an impermissible connection with ERISA exists when 'a court must
+
+evaluate or interpret the terms of the ERISA-regulated plan to
+
+determine liability under the state law cause of action,'" and
+
+held    preempted   by   ERISA   the   plaintiff's   state   law    wrongful
+
+death/punitive damages claim, which was based on an assertion that
+
+the defendant's denial of benefits under an ERISA health insurance
+
+policy prematurely caused the decedent's death. 132 F.4th at 88-90
+
+(quoting Hampers, 202 F.3d at 52).
+
+            Our sister circuit courts have also held "state common
+
+law claims of fraudulent or negligent misrepresentation" preempted
+
+by ERISA "when the false representations concern the existence or
+
+extent of benefits under an employee benefit plan."                Griggs v.
+
+E.I. DuPont de Nemours & Co., 237 F.3d 371, 378 (4th Cir. 2001)
+
+(collecting cases from the Fifth, Sixth, Eighth, and Eleventh
+
+
+                                    - 16 -
+circuits); see also Campbell v. Aerospace Corp., 123 F.3d 1308,
+
+1313 (9th Cir. 1997) ("[W]e have held that where the plaintiff's
+
+claim or theory alleged that the employer terminated the employee
+
+to avoid paying benefits or sought to prevent the discharged
+
+employee from obtaining benefits, ERISA preempted the claim.").
+
+Orabona concedes that "reference to Santander's ERISA plan may be
+
+necessary to determine at least a portion of [her] damages."8        The
+
+combination of all of these factors requiring reference to the
+
+ERISA plan documents requires a finding of preemption under 29
+
+U.S.C. § 1144(a).9
+
+           For related reasons, we hold that at least those of
+
+Orabona's claims which seek to recover, under state law, damages
+
+and/or   other   relief   for   the   denial   of   severance   benefits,
+
+
+
+
+     8    Indeed, it is unclear what compensatory damages Orabona
+seeks for her claims beyond damages in the amount of her lost
+severance benefits. When asked at oral argument what other damages
+Orabona was seeking, Orabona's counsel initially stated that
+Orabona was seeking health benefits and participation in
+"well[ness] programs."    During rebuttal, counsel retracted her
+statement as to health benefits.
+     9    Orabona argues: "that the calculation of a portion of
+Orabona's damages (should she prevail on liability) may
+necessitate reference to Santander's severance plan, is (standing
+alone against all other material record facts presented here)
+plainly an insufficient connection between Orabona's claims and
+Santander's plan to support ERISA preemption," again relying on
+cases from our sister circuits for support. We need not reach the
+issue of whether a claim is preempted only because a court must
+reference the ERISA plan to calculate damages, because here, a
+court must also reference the Severance Policy and its inclusion
+of the Code of Conduct and termination provisions to assess
+Santander's liability under Orabona's claims.
+
+
+                                 - 17 -
+duplicate, supplement, or supplant the ERISA remedies. Such claims
+
+are separately preempted under section 502(a) of ERISA, its civil
+
+enforcement provision, which relevantly provides that:
+
+           A civil action may be brought -- (1) by a
+           participant . . . (B) to recover benefits due
+           to   h[er]   under   the   terms   of   h[er]
+           plan . . . [and] (3) . . . (A) to enjoin any
+           act or practice which violates any provision
+           of this subchapter or the terms of the plan,
+           or (B) to obtain other appropriate equitable
+           relief (i) to redress such violations or (ii)
+           to enforce any provisions of this subchapter
+           or the terms of the plan.
+
+29 U.S.C. § 1132(a).       "[T]he detailed provisions of § 502(a) set
+
+forth a comprehensive civil enforcement scheme that represents a
+
+careful balancing of the need for prompt and fair claims settlement
+
+procedures   against      the   public      interest    in   encouraging      the
+
+formation of employee benefit plans."               Pilot Life Ins. Co. v.
+
+Dedeaux, 481 U.S. 41, 54 (1987).          "[A]ny state-law cause of action
+
+that   duplicates,      supplements,      or    supplants    the   ERISA    civil
+
+enforcement remedy conflicts with the clear congressional intent
+
+to make the ERISA remedy exclusive and is therefore pre-empted."
+
+Davila, 542 U.S. at 209.
+
+           Orabona      attempts     an     end   run   around      ERISA     with
+
+allegations that she relied on Santander's allegedly misleading
+
+statements   in   not    appealing    her      termination   or    applying   for
+
+benefits, but ERISA provides an exclusive cause of action in
+
+precisely such circumstances.             Her claims seeking damages for
+
+
+
+
+                                     - 18 -
+Santander's termination of her employment to deny her severance
+
+benefits     "fall[]   squarely   within    the    ambit    of    ERISA   § 510,"
+
+Ingersoll-Rand, 498 U.S. at 142, which relevantly states that "[i]t
+
+shall   be     unlawful   for     any   person      to     discharge . . .     a
+
+participant . . . for      the    purpose     of    interfering       with   the
+
+attainment of any right to which such participant may become
+
+entitled under [an ERISA plan]," 29 U.S.C. § 1140.                As the Supreme
+
+Court said of the plaintiff's like claim in Ingersoll-Rand, "[w]e
+
+have no doubt that this claim is prototypical of the kind Congress
+
+intended to cover under § 510," and "§ 502(a) [is] the exclusive
+
+remedy for vindicating § 510–protected rights."                  Id. at 143, 45.
+
+Further, as to such claims, Orabona seeks "to recover benefits due
+
+to [her] under the terms of [her] plan," for which she had a cause
+
+of action under 29 U.S.C. § 1132(a)(1)(B).               See Cannon, 132 F.4th
+
+at 91-92.
+
+             "The mere fact that [Orabona's claims] attempt[] to
+
+[seek] remedies beyond those authorized by ERISA § 502(a)," such
+
+as punitive damages, "[does not] put the claims outside the scope
+
+of the ERISA civil enforcement mechanism."                Davila, 542 U.S. at
+
+214-15. Indeed, it further supports preemption. "Congress' intent
+
+to make the ERISA civil enforcement mechanism exclusive would be
+
+undermined if state causes of action that supplement the ERISA
+
+§ 502(a) remedies were permitted, even if the elements of the state
+
+
+
+
+                                   - 19 -
+cause of action did not precisely duplicate the elements of an
+
+ERISA claim."   Id. at 216.
+
+           In short, Orabona could have, but chose not to, file a
+
+claim for benefits under the Severance Policy, appeal any denial
+
+of benefits, and file a legal claim under ERISA.   She may not now
+
+file state law claims which "supplant[] the ERISA civil enforcement
+
+remedy."   Davila, 542 U.S. at 209.
+
+           We affirm the district court's grant of summary judgment
+
+to Santander.
+
+
+
+
+                              - 20 -

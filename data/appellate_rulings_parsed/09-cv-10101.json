@@ -1,0 +1,35 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether Plaintiffs waived their argument that Vimeo\u2019s alleged inducement of users to create infringing lip-dub videos constituted 'right and ability to control' infringement under the DMCA, thus forfeiting the safe harbor defense.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found that Plaintiffs expressly waived the Grokster-based inducement argument in their opening brief, relying solely on the Cybernet theory, and thus did not preserve the Grokster argument for appeal."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the court should remove from its prior opinion a footnote expressing doubt about Plaintiffs\u2019 ability to preserve the Grokster-based argument for Supreme Court review.",
+      "standard_of_review": "other",
+      "holding": "REMAND",
+      "key_reasoning": "The court agreed to Plaintiffs\u2019 request to amend the prior opinion by removing the footnote in question, acknowledging that the preservation issue should not be addressed."
+    }
+  ],
+  "key_precedents": [
+    "Metro-Goldwyn-Mayer Studios Inc. v. Grokster, Ltd., 545 U.S. 913 (2005)",
+    "Viacom International, Inc. v. YouTube, Inc., 676 F.3d 19 (2d Cir. 2012)",
+    "Capitol Recs., LLC v. Vimeo, Inc., 125 F.4th 409 (2d Cir. 2025)",
+    "Perfect 10, Inc. v. Cybernet Ventures, Inc., 213 F. Supp. 2d 1146 (C.D. Cal. 2002)",
+    "Capitol Recs., LLC v. Vimeo, LLC, 826 F.3d 78 (2d Cir. 2016)",
+    "Palin v. N.Y. Times Co., 113 F.4th 245 (2d Cir. 2024)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "Plaintiffs, who are rightsholders of musical recordings, all affiliates of EMI, petition for reconsideration of our decision of January 13, 2025. See Capitol Recs., LLC v. Vimeo, Inc., 125 F.4th 409 (2d Cir. 2025). In that opinion, we ruled, in part, that Plaintiffs waived the argument under Metro-Goldwyn-Mayer Studios Inc. v. Grokster, Ltd., 545 U.S. 913 (2005), that Defendants Vimeo, Inc. and Connected Ventures, LLC\u2019s (collectively, \u201cVimeo\u201d) encouragement of users to make infringing lip-dub videos may constitute a form of \u201cright and ability to control\u201d infringement, thus risking forfeiture of the safe harbor provided by the Digital Millennium Copyright Act, 17 U.S.C. \u00a7 512(c). The petition for rehearing is GRANTED in part and DENIED in part."
+}

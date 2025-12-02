@@ -1,0 +1,281 @@
+UNITED STATES DISTRICT COURT                             
+               FOR THE DISTRICT OF RHODE ISLAND                          
+
+                               )                                         
+JOHN CONTI, on behalf of himself  )                                      
+and all others similarly situated,  )                                    
+                               )                                         
+     Plaintiff,                )                                         
+                               )                                         
+     v.                        )  C.A. No. 1:21-CV-00296-MSM-PAS         
+                               )                                         
+CITIZENS BANK, N.A. and DOES 1  )                                        
+through 10, inclusive,         )                                         
+                               )                                         
+     Defendants.               )                                         
+                               )                                         
+
+                   MEMORANDUM AND ORDER                                  
+
+Mary S. McElroy, United States District Judge.                            
+    This matter raises the question of whether a national bank—here, defendant 
+Citizens Bank, N.A. (“Citizens”)—is subject to a state statute that requires a lender’s 
+payment of interest on a mortgage escrow account or whether, as to national banks, 
+the state statute is preempted by the National Bank Act (“NBA”).  The plaintiff, John 
+Conti, brings this putative class action against Citizens, his mortgage lender, for 
+failure to pay that interest on his escrow account.  Citizens moves to dismiss the 
+matter on the grounds of federal preemption.                              
+    For the following reasons, the Court GRANTS Citizens’ Motion (ECF No. 15). 
+                        I.   BACKGROUND                                  
+
+    In July 2011, the plaintiff, John Conti, purchased a residential property in 
+Cranston, Rhode Island.  (ECF No. 1 ¶ 16.)  Mr. Conti financed the purchase with a 
+loan from Citizens, which was secured by a mortgage on the property.     Mr. Conti 
+makes no allegation that this mortgage was a jumbo loan or was made, guaranteed, 
+or insured by a state or federal governmental lending or insuring agency.   
+    As a condition of the mortgage loan, Citizens required Mr. Conti to make 
+
+advance payments of municipal property taxes and homeowner’s insurance into an 
+escrow account.1  The mortgage agreement between Citizens and Mr. Conti provided 
+that, “Unless an agreement is made in writing or Applicable Law requires interest to 
+be paid on the [Escrow] Funds, Lender shall not be required to pay Borrower any 
+interest or earnings on the Funds.”    ¶ 31.  The mortgage agreement defined 
+“Applicable Law” as “all controlling federal, state and local statutes, regulations, 
+
+ordinances and administrative rules and orders (that have the effect of law) as well 
+as all applicable final, non-appealable judicial opinions.”2  (ECF No. 18-1 at 3.)  
+    Rhode Island law, subject to certain exceptions not relevant here, requires 
+banks to pay interest on amounts that customers deposit into mortgage escrow 
+accounts.  R.I.G.L. § 19-9-2(a).  Having not received interest payments from Citizens 
+on his escrow account, the plaintiff filed this action alleging breach of contract and, 
+in the alternative, unjust enrichment.                                    
+
+    Citizens, however, being a national bank chartered under the National Bank 
+
+1 An escrow account is “[a]n account of accumulated funds held by a lender for 
+payment of taxes, insurance, or other periodic debts against real property.”   , 
+Black’s Law Dictionary (11th ed. 2019).                                   
+2 Although the mortgage agreement is not a part of the pleadings, the Court may 
+consider it at this motion to dismiss stage because it is referenced in the Complaint 
+and because it is a public record.                       , 744 F.3d       
+1, 4 (1st Cir. 2014) (holding that the court may consider on a motion to dismiss 
+“information found in the mortgage itself, public records, documents incorporated 
+into the complaint by reference, and other matters susceptible to judicial notice”).  
+Act, seeks to dismiss the action, arguing that any state statute requiring it to pay 
+interest on escrow accounts is preempted by the National Bank Act.  Preemption 
+issues “are ones of law, not of fact, and are amenable to resolution by a motion to 
+
+dismiss the complaint.”           , 549 F.3d 46, 52 (1st Cir. 2008).      
+                II.  MOTION TO DISMISS STANDARD                          
+
+    Motions to dismiss on preemption grounds are considered under Fed. R. Civ. 
+P. 12(b)(6).     , 549 F.3d at 52.   To survive a motion to dismiss, the complaint 
+must state a claim plausible on its face.            , 550 U.S. 544,      
+570 (2007).  The Court assesses the sufficiency of the plaintiff’s factual allegations in 
+a two-step process.                           , 640 F.3d 1, 11-13 (1st    
+Cir. 2011).  “Step one: isolate and ignore statements in the complaint that simply 
+offer legal labels and conclusions or merely rehash cause-of-action elements.”  
+                             , 669 F.3d 50, 55 (1st Cir. 2012).  “Step two: 
+take the complaint’s well-pled (  non-conclusory, non-speculative) facts as true, 
+drawing all reasonable inferences in the pleader’s favor, and see if they plausibly 
+narrate a claim for relief.”     “The relevant question … in assessing plausibility is 
+
+not whether the complaint makes any particular factual allegations but, rather, 
+whether  ‘the  complaint  warrant[s]  dismissal  because  it  failed    to  render 
+plaintiffs’ entitlement to relief plausible.”                , 711        
+F.3d 49, 55 (1st Cir. 2013) (quoting              , 550 U.S. 544, 569     
+n.14 (2007)).                                                             
+                        III.  DISCUSSION                                 
+
+ A. The National Bank Act, 12 U.S.C. § 1                                 
+    The National Bank Act, passed in 1864, created a national banking system and 
+established the Office of the Comptroller of Currency (“OCC”) to charter, regulate, 
+and oversee national banks.                     , 550 U.S. 1, 6 (2007).   
+The NBA created a “dual banking system,” under which banks can be chartered and 
+regulated under federal or state law.      , 999 F.3d 130, 135 (2d Cir.   
+2021).  “While state banks are organized under state law, ‘[n]ational banks are 
+instrumentalities of the Federal government, created for a public purpose, and as 
+
+such necessarily subject to the paramount authority of the United States.’”  
+          , ___ F.4th ___ (2d Cir. 2022), 2022 WL 4241359, at *2 (quoting 
+              , 161 U.S. 275, 283 (1896)).                               
+    The  NBA  grants  national  banks  the  authority  “[t]o  exercise  …  all  such 
+incidental powers as shall be necessary to carry on the business of banking; by 
+discounting and negotiating promissory notes, drafts, bills of exchange, and other 
+evidences of debt; by receiving deposits; … [and] by loaning money on personal 
+
+security.”  12 U.S.C. § 24.  An “incidental power” is one that “is convenient or useful 
+in  connection  with  the  performance  of  one  of  the  bank’s  established  activities 
+pursuant to its express powers under the National Bank Act.”              
+   , 472 F.2d 427, 432 (1st Cir. 1972).  The NBA expressly authorizes national 
+banks to engage in real estate lending.  12 U.S.C. § 371(a).  As such, a national bank’s 
+“incidental powers” include the provision of mortgage escrow account services.  
+     , 2022 WL 42413549 at *9;   OCC, Interpretive Letter No. 1041, 2005 
+WL 3629258, at *2 (Sept. 28, 2005); OCC, Corporate Decision, 1999 WL 74103, at *2 
+(Jan. 29, 1999); OCC, Conditional Approval No. 276, 1998 WL 363812, at *9 (May 8, 
+
+1998).                                                                    
+    The  NBA  includes  no  requirement  that  national  banks  pay  interest  on 
+mortgage and escrow accounts.  Pursuant to OCC regulations, “[a] national bank may 
+make real estate loans … without regard to state law limitations concerning: … 
+Escrow accounts, impound accounts, and similar accounts.”  12 C.F.R. § 34.4(a)(6). 
+    B. Rhode Island General Laws § 19-9-2(a)                             
+
+    Rhode Island law does, however, in most cases, require the payment of interest 
+on mortgage escrow accounts.  R.I.G.L. § 19-9-2(a) provides in relevant part that  
+    Every  mortgagee  holding  funds  of  a  mortgagor  in  escrow  for  the 
+    payment of taxes and insurance premiums with respect to mortgaged    
+    property located in this state shall pay or credit interest on those funds 
+    at a rate equal to the rate paid to the mortgagee on its regular savings 
+    account, if offered, and otherwise at a rate not less than the prevailing 
+    market rate of interest for regular savings accounts offered by local 
+    financial institutions….                                             
+
+    C. Preemption                                                        
+    Under the Supremacy Clause of the United States Constitution “the Laws of 
+the United States … shall be the supreme Law of the Land; and the Judges in every 
+State shall be bound thereby, any Thing in the Constitution or Laws of any State to 
+the  Contrary  notwithstanding.”    U.S.  Const.  art.  VI,  cl.  2.    State  laws  can  be 
+preempted in three ways: (1) “express preemption,” when there is specific preemption 
+language in a federal statute; (2) “field preemption,” when it can be discerned from 
+the statutory scheme that Congress intended to leave no room for state law on the 
+same subject; and (3) “conflict preemption,” when compliance with state and federal 
+law is a “physical impossibility, or when compliance with the state statute would 
+
+frustrate the purposes of the federal scheme.”       , 488 F.3d 525,      
+530-31 (1st Cir. 2007) (quoting                              , 517        
+U.S. 25, 31 (1996)).  This matter concerns conflict preemption.           
+    “The  Supreme  Court  has  consistently  recognized  [the  NBA’s]  grant  of 
+incidental powers as a ‘grant[] of authority not normally limited by, but rather 
+ordinarily pre-empting, contrary state law.”    at 531.  The NBA preempts state 
+
+laws that “prevent or significantly interfere with the national bank’s exercise of its 
+powers.”          , 517 U.S. at 33;         , 488 F.3d at 531 (holding    
+that “a state law may be preempted by the National Bank Act when it frustrates or 
+limits the ability of a national bank to exercise its statutorily granted powers”) (citing 
+         , 517 U.S. at 33-34).                                           
+    Through the Dodd-Frank Act, which took effect on July 21, 2011, Congress 
+codified—but  did  not  change—the  NBA  preemption  standard  set  forth  by  the 
+
+Supreme Court in         . In relevant part, the Dodd-Frank Act provides: 
+    State law preemption standards for national banks and subsidiaries   
+    clarified:                                                           
+
+    …                                                                    
+
+    (b) Preemption standard.                                             
+
+         (1) In general.  State consumer financial laws are preempted, only 
+           if –                                                          
+         (A) Application of a State consumer financial law would have a  
+           discriminatory effect on national banks, in comparison with   
+           the effect of the law on a bank chartered by that State;      
+
+         (B) in accordance with the legal standard for preemption in the 
+           decision of the Supreme Court of the United States in         
+                           , 517 U.S. 25 (1996), the State consumer      
+           financial  law  prevents  or  significantly  interferes  with  the 
+           exercise  by  the  national  bank  of  its  powers;  and  any 
+           preemption determination under this subparagraph may be       
+           made by a court, or by regulation or order of the Comptroller 
+           of the Currency on a case-by-case basis, in accordance with   
+           applicable law ….                                             
+12 U.S.C. § 25b.                                                          
+
+    Applying  the            preemption  principles,  the  First  Circuit,  in 
+     , considered a New Hampshire law that prohibited the sale of gift cards 
+valued at $100 or less that contain expiration dates or administrative fees.  488 F.3d 
+at 528.  In that case, a national bank marketed and sold gift cards that contained 
+expiration dates and were subject to administrative fees.    at 529.  The court 
+determined that under the NBA, banks have the incidental power to sell gift cards.  
+  at 531-32.  The court then considered whether the New Hampshire statute 
+“frustrates or limits the ability of a national bank to exercise its statutorily granted 
+powers.”    at 531.  The court concluded that because the New Hampshire law placed 
+conditions  on  national  banks’  ability  to  sell  gift  cards,  the  law  “significantly 
+interferes” with the national bank’s statutory powers and therefore was preempted 
+by the NBA.3    at 533.                                                   
+
+3 Another case also is instructive.  In                                   
+               , 591 F.2d 417, 419 (1st Cir. 1979), the First Circuit concluded 
+that the federal Home Owners’ Loan Act (“HOLA”), 12 U.S.C. § 1461, et seq., which 
+    R.I.G.L. § 19-9-2(a), like the New Hampshire law in  , places “limits” on 
+an incidental power; here, the power to establish escrow accounts.  These limitations 
+therefore “significantly interfere” with a national banks’ incidental powers to utilize 
+
+mortgage escrow accounts.     , 488 F.3d at 533;         , 2022 WL        
+4241359,  at  *9  (holding  that  a  state  interest-on-escrow  statute  was  preempted 
+because “[b]y requiring a bank to pay its customers in order to exercise a banking 
+power granted by the federal government, the law would exert control over banks’ 
+exercise of that power”).                                                 
+    But there is an additional wrinkle.  The Dodd-Frank Act also included an 
+
+amendment to the Truth in Lending Act, effective January 21, 2013, that provides as 
+follows:                                                                  
+    If prescribed by applicable State or Federal law, each creditor shall pay 
+    interest to the consumer on the amount held in any impound, trust, or 
+    escrow account that is subject to this section in the manner as prescribed 
+    by that applicable State or Federal law.                             
+
+15 U.S.C. § 1639d(g)(3)                                                   
+
+    This provision, however, only governs loans where (1) state or federal law 
+requires the establishment of an escrow account; (2) the loan is “made, guaranteed, 
+or insured by a State or Federal governmental lending or insuring agency”; (3) the 
+
+governs federal savings and loan associations, preempted the Massachusetts interest-
+on-escrow statute.  Pursuant to the authority granted to it under the HOLA, the 
+Federal  Home  Loan  Bank  Board  promulgated  a  regulation  setting  forth  the 
+circumstances under which federal savings and loan associations were required to 
+pay interest on escrow accounts.    at 425.  The First Circuit held that as a result of 
+this regulation, HOLA preempted Massachusetts’ interest-on-escrow statute.   at 
+425-26.                                                                   
+loan is a “jumbo” mortgage; or (4) regulations require the establishment of an escrow 
+account.  15 U.S.C. § 1639d(b)(1) – (4).  The plaintiff’s mortgage falls into none of 
+these categories and, indeed, the plaintiff acknowledges that he makes no claim for 
+
+violation of 15 U.S.C. § 1639d.                                           
+    But the plaintiff argues that § 1639d evinces a congressional intent for an 
+abrogation  of  NBA  preemption  of  state  interest-on-escrow  laws  generally.    The 
+defendant, for its part, argues that § 1639d, which does not mention preemption, does 
+nothing to eliminate NBA preemption of state interest-on-escrow laws.     
+    The Court finds neither position well-grounded.  The plaintiff’s position is too 
+
+broad.  The plain language of § 1639d does not express congressional intent to impose 
+an  exception  to  NBA  preemption  for  all  mortgage  loans;  rather,  it  created  an 
+exception for the select group to which it applies.     , 2022 WL 4241359 at 
+*12 (“[I]t is much more harmonious to read the NBA together with Dodd-Frank as a 
+decision by Congress to carve out an exception from its general rule, rather than 
+expressly imposing a burden on some mortgage loans in order to impliedly impose a 
+burden on all of them.”) (quotation omitted).  The defendant’s position, on the other 
+
+hand, is too broad in the opposite fashion—it ignores the carved-out exceptions 
+entirely.                                                                 
+    Because the plaintiff’s mortgage loan is not of the types subject to §1639d, that 
+statute is irrelevant to this case, and it serves only as an indicator of congressional 
+intent with respect to the types of loans that it covers.  The general rule of NBA 
+preemption instead applies, and here preempts R.I.G.L. § 19-9-2(a).       
+    Finally, Citizens argues that the fact that plaintiff seeks to represent a multi-
+state class asserting claims under various state interest-on-escrow laws is another 
+ground for finding preemption.   ECF No. 17 at 10-11 (citing  , 550 U.S. at 
+
+13-14  (holding  that  national  banks  should  be  independent  of  “limitations  and 
+restrictions as various and as numerous as the States”)).   But here no class has been 
+certified and the Court considers only the Rhode Island statute upon which the sole 
+plaintiff before it claims a violation.         , 554 F. Supp. 3d 186,    
+192 (D. Mass. 2021) (“It is well within a district court judge’s discretion to dispose of 
+a motion to dismiss before acting on class certification.”)               
+
+                        IV.  CONCLUSION                                  
+    The plaintiff has not set forth plausible claims for breach of contract or unjust 
+enrichment for Citizens’ alleged violation of R.I.G.L. § 19-9-2(a) because, except for 
+
+loan types not at issue here, that statute is preempted by the National Bank Act.  
+Accordingly, Citizens’ Motion to Dismiss (ECF No. 15) is GRANTED.         
+IT IS SO ORDERED.                                                         
+
+
+_________________________________                                         
+Mary S. McElroy                                                           
+United States District Judge                                              
+
+September 28, 2022

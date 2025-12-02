@@ -1,0 +1,24 @@
+{
+  "overall_outcome": "REMAND",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the device used by La Boom Disco, Inc. qualifies as an 'automatic telephone dialing system' (ATDS) under the Telephone Consumer Protection Act (TCPA) in light of the Supreme Court's decision in Facebook, Inc. v. Duguid.",
+      "standard_of_review": "de novo",
+      "holding": "REMAND",
+      "key_reasoning": "The Second Circuit vacated its prior judgment and remanded the case to the district court for further proceedings consistent with the Supreme Court's clarification in Facebook, which narrowed the definition of an ATDS under the TCPA."
+    }
+  ],
+  "key_precedents": [
+    "Facebook, Inc. v. Duguid, 592 U.S. 395 (2021)",
+    "Duran v. La Boom Disco, Inc., 955 F.3d 279 (2d Cir. 2020), vacated, 141 S. Ct. 2509 (2021)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": true,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "UPON DUE CONSIDERATION, IT IS HEREBY ORDERED, ADJUDGED, AND DECREED that the judgment of the District Court is VACATED, and the case is REMANDED for further proceedings consistent with this order.\n\nIn Duran v. La Boom Disco, Inc., 955 F.3d 279 (2d Cir. 2020), vacated, 141 S. Ct. 2509 (2021), we held that to qualify as an \u201cautomatic telephone dialing system\u201d within the meaning of the Telephone Consumer Protection Act (TCPA), 47 U.S.C. \u00a7 227, a device must have the capacity either to store telephone numbers, regardless of how those numbers are stored, or to produce telephone numbers using a random or sequential number generator.\n\nThe Supreme Court vacated our judgment in Duran and remanded the case to this Court for further consideration in light of Facebook, Inc. v. Duguid, 592 U.S. 395 (2021). In Facebook, the Supreme Court held that to qualify as an automatic telephone dialing system under the TCPA, a device must have the capacity either to store a telephone number using a random or sequential number generator or to produce a telephone number using a random or sequential generator. Id. at 409.\n\nFor the foregoing reasons, the judgment of the District Court is VACATED, and the case is REMANDED for further proceedings consistent with Facebook."
+}

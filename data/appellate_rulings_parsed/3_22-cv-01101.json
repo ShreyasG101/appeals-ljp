@@ -1,0 +1,50 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court properly dismissed the Funds' Section 13(d) claims for failure to state a claim and lack of irreparable harm.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found the Funds failed to plausibly allege the existence of an undisclosed 13D group for most funds and, as to PRRTFF IV, failed to show irreparable harm necessary for injunctive relief."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the district court properly dismissed the Funds' Section 14(a) claims for failure to state a claim.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that the alleged misstatements or omissions in proxy materials were not materially misleading under the heightened pleading standard, and ambiguous references to a 'coalition' did not trigger liability."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the district court properly dismissed the Funds' Section 20(a) claims for lack of a primary securities violation.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "Because the underlying Section 13(d) and 14(a) claims failed, the Section 20(a) control person claim necessarily failed as well."
+    },
+    {
+      "issue_id": 4,
+      "description": "Whether the district court properly granted injunctive relief on Defendants-Appellees' counterclaims ordering the Funds to seat victorious board nominees.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court affirmed the injunction as the Funds' claims were dismissed and no basis remained to withhold relief on the counterclaims."
+    }
+  ],
+  "key_precedents": [
+    "Rondeau v. Mosinee Paper Corp., 422 U.S. 49 (1975)",
+    "Ashcroft v. Iqbal, 556 U.S. 662 (2009)",
+    "Bell Atl. Corp. v. Twombly, 550 U.S. 544 (2007)",
+    "TSC Indus., Inc. v. Northway, Inc., 426 U.S. 438 (1976)",
+    "Virginia Bankshares, Inc. v. Sandberg, 501 U.S. 1083 (1991)",
+    "Hibernia Sav. Bank v. Ballarino, 891 F.2d 370 (1st Cir. 1989)",
+    "Gen. Aircraft Corp. v. Lampert, 556 F.2d 90 (1st Cir. 1977)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "GELP\u00cd, Circuit Judge. Plaintiffs-Appellants, representing nine closed-end mutual funds (collectively, \"the Funds\"), sued Ocean Capital LLC and several individuals and firms (together, \"Defendants-Appellees\") for allegedly committing securities violations. Specifically, the Funds allege that Defendants-Appellees misled their shareholders by failing to make complete and accurate disclosures, violating Sections 13(d), 14(a), and 20(a) of the Securities and Exchange Act of 1934 (\"the Exchange Act\"), 15 U.S.C. \u00a7 78a et seq., and other applicable rules of the Securities and Exchange Commission (\"SEC\"). The district court granted Defendants-Appellees' motions for judgment on the pleadings and to dismiss. The Funds timely appealed.\n\nFor the reasons explained below, we affirm."
+}

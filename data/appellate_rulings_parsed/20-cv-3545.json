@@ -1,0 +1,29 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the discretionary function exclusion from the tortious activity exception of the Foreign Sovereign Immunities Act (FSIA) precludes federal courts from exercising jurisdiction over claims against the Holy See concerning child sexual abuse perpetrated by clerics in the United States.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that the discretionary function exclusion applies because the bishops' challenged conduct involved discretionary acts susceptible to policy analysis, and plaintiffs failed to allege that the bishops' conduct violated a mandatory policy. Therefore, the FSIA bars the exercise of jurisdiction over the claims."
+    }
+  ],
+  "key_precedents": [
+    "United States v. Gaubert, 499 U.S. 315 (1991)",
+    "Berkovitz v. United States, 486 U.S. 531 (1988)",
+    "Saudi Arabia v. Nelson, 507 U.S. 349 (1993)",
+    "Verlinden B.V. v. Cent. Bank of Nigeria, 461 U.S. 480 (1983)",
+    "USAA Cas. Ins. Co. v. Permanent Mission of Republic of Namibia, 681 F.3d 103 (2d Cir. 2012)",
+    "O\u2019Bryan v. Holy See, 556 F.3d 361 (6th Cir. 2009)",
+    "Doe v. Holy See, 557 F.3d 1066 (9th Cir. 2009)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "The question presented in this case is whether the discretionary function exclusion from the tortious activity exception of the Foreign Sovereign Immunities Act (\u201cFSIA\u201d) precludes federal courts from exercising jurisdiction over claims against the Holy See concerning child sexual abuse perpetrated by clerics in the United States. Plaintiffs-Appellants are thirty survivors of childhood sexual abuse who seek damages for negligence from Defendant-Appellee the Holy See under a vicarious liability theory. They allege that the Holy See promulgated a mandatory policy of secrecy that governed how its dioceses and bishops handled reports of sexual abuse by clerics. In adhering to this policy, Plaintiffs allege, bishops in New York\u2014the Holy See\u2019s employees\u2014failed to warn children and parents of the dangers posed by the accused clerics and failed to report suspected abuse to law enforcement, thus emboldening abusers and exposing children to a foreseeable risk of harm. The District Court (Oetken, J.) granted the Holy See\u2019s motion to dismiss for lack of subject matter jurisdiction under the FSIA, concluding that the discretionary function exclusion from the FSIA\u2019s tortious activity exception barred Plaintiffs\u2019 claims. On de novo review, we agree with the District Court. Accordingly, we AFFIRM the District Court\u2019s judgment dismissing the action for lack of jurisdiction."
+}

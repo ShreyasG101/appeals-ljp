@@ -1,0 +1,675 @@
+         Case 1:21-cv-02900-SDG Document 40 Filed 09/29/23 Page 1 of 16
+
+
+
+
+                  IN THE UNITED STATES DISTRICT COURT
+                 FOR THE NORTHERN DISTRICT OF GEORGIA
+                           ATLANTA DIVISION
+
+    CHERIESE D. JOHNSON,
+         Plaintiff,
+                                                             Civil Action No.
+                     v.
+                                                            1:21-cv-02900-SDG
+    RELIANCE STANDARD LIFE INS. CO.,
+         Defendant.
+
+                              OPINION AND ORDER
+
+        This matter is before the Court on Plaintiff Cheriese D. Johnson’s Motion for
+
+Judgment on the Administrative Record [ECF 26] and Defendant Reliance
+
+Standard Life Insurance Co.’s (Reliance Standard) Motion for Summary Judgment
+
+[ECF 27]. On consideration of the parties’ briefing, and with the benefit of oral
+
+argument, the Court DENIES Plaintiff’s motion and GRANTS Reliance
+
+Standard’s.
+
+I.      Factual Background
+
+        Unless otherwise noted, the facts are either undisputed by the parties or
+
+taken from materials contained in the administrative record.1 Johnson was
+
+employed at The William Carter Company.2 She became eligible for coverage
+
+
+
+
+1     Citations to the administrative record are to the record pagination (AR0001, et
+      seq.) rather than the CM/ECF numbering.
+2     ECF 33, ¶ 2.
+        Case 1:21-cv-02900-SDG Document 40 Filed 09/29/23 Page 2 of 16
+
+
+
+
+under its long-term disability insurance plan (the Plan) on October 12, 2016.3 The
+
+Plan was issued by Reliance Standard and is governed by ERISA.4 Johnson would
+
+eventually become totally disabled within the meaning of the Plan and seek long-
+
+term disability benefits, which were denied by Reliance Standard.5
+
+      The Plan contains a pre-existing conditions exclusion (the Exclusion):
+
+              Benefits will not be paid for a Total Disability:
+
+              (1) caused by;
+
+              (2) contributed to by; or
+
+              (3) resulting from;
+
+              a Pre-existing Condition unless the Insured has been
+              Actively at Work for one (1) full day following the end of
+              twelve (12) consecutive months from the date he/she
+              became an Insured.6
+
+“Pre-existing Condition” is defined as “any Sickness or Injury for which the
+
+Insured received medical Treatment, consultation, care or services, including
+
+diagnostic procedures, or took prescribed drugs or medicines, during the three (3)
+
+months immediately prior to the Insured’s effective date of insurance.”7
+
+
+
+
+3   Id. ¶¶ 1, 3.
+4   AR0001.
+5   ECF 27-2, ¶¶ 7, 13, 24.
+6   AR0022. Capitalized terms not defined herein have the meaning ascribed to
+    them in the Plan. See also ECF 33, ¶ 6.
+7   AR0023. See also ECF 33, ¶ 8.
+         Case 1:21-cv-02900-SDG Document 40 Filed 09/29/23 Page 3 of 16
+
+
+
+
+“Sickness,” in relevant part, “means illness or disease causing Total Disability
+
+which begins while insurance coverage is in effect for the Insured.”8 The three-
+
+month period is referred to as the “Look-Back Period.”9
+
+       On December 31, 2015, Johnson first noticed the symptoms that would
+
+ultimately lead her to stop working.10 Although Johnson was seen numerous times
+
+by multiple professionals for her symptoms, the Court summarizes only some of
+
+those visits. On August 15, 2016, Johnson was evaluated by a medical professional
+
+for fatigue, muscle weakness, nausea, and vomiting.11 She underwent an upper
+
+gastrointestinal endoscopy on August 23.12 On September 6, Johnson was
+
+evaluated by a doctor who noted her complaints of nausea/vomiting, nose bleeds,
+
+memory loss, body aches, and joint swelling.13 On September 13, Johnson was seen
+
+by a doctor for low blood sugar; the day before that she had been seen for a
+
+“syncopal episode.”14 Treatment notes from September 30 identify Johnson’s
+
+symptoms as “vomiting, skin rash, chest pain, headaches, forgetfulness and
+
+
+
+
+8    AR0010.
+9    Reliance Standard refers to this as the “treatment free period.” ECF 33, ¶ 8.
+10   ECF 33, ¶ 5.
+11   Id. ¶ 15.
+12   Id. ¶ 16.
+13   Id. ¶ 17.
+14   Id. ¶ 18.
+         Case 1:21-cv-02900-SDG Document 40 Filed 09/29/23 Page 4 of 16
+
+
+
+
+cognitive impairment, fatigue, inability to control bowels, blurred visions, fever,
+
+low blood sugar (54), nausea, loss of appetite, syncope, dizziness, generalized
+
+aching, swelling of feet and hands, loss of motor skills and nosebleeds.”15 From
+
+July 25 through October 3, 2016, Johnson was prescribed a variety of medications
+
+to treat her symptoms.16 In February 2017, Johnson had a lung resection surgery
+
+and was finally diagnosed with scleroderma.17 Scleroderma is a rare, chronic
+
+autoimmune disease “in which normal tissue is replaced with dense, thick fibrous
+
+tissue.” Symptoms include joint pain and stiffness, persistent cough, shortness of
+
+breath, digestive and gastrointestinal problems, and fatigue.18
+
+       On October 3, 2017, Johnson filed a claim for long-term disability benefits.19
+
+The parties do not dispute that Johnson has a Total Disability within the meaning
+
+of the Plan.20 Her claim form indicates that she became unable to work as of
+
+
+
+
+15   ECF 33, ¶ 21.
+16   Id. ¶ 23.
+17   ECF 33, Response to ¶ 12 & ¶ 25.
+18   Id. ¶ 26.
+19   AR0131.
+20   See generally ECF 27-2.
+         Case 1:21-cv-02900-SDG Document 40 Filed 09/29/23 Page 5 of 16
+
+
+
+
+January 26, 2017.21 One of her treating physicians identified her symptoms for
+
+purposes of her claim as joint pain, swelling, and shortness of breath.22
+
+       Because Johnson sought benefits within 12 months of first becoming insured
+
+under the Plan, her claim was subject to evaluation under the Exclusion.23 The
+
+applicable Look-Back Period under the Exclusion was from July 12, 2016 through
+
+October 12, 2016.24 Despite having been seen by and received treatment from many
+
+doctors and been prescribed numerous medications during this period, Johnson
+
+was not diagnosed with scleroderma until after her lung resection surgery in
+
+February 2017. This is the crux of the parties’ dispute.
+
+       Reliance Standard denied Johnson’s claim on January 4, 2018, and indicated
+
+that, at the time she stopped working, she was suffering from “pain and numbness
+
+involving all fo[u]r extremities, joint swelling, motor loss, cough, and cognitive
+
+impairment.”25 Johnson appealed, asserting that she was not diagnosed with
+
+scleroderma until after the Look-Back Period. As a result, she argued that the
+
+
+
+
+21   ECF 33, ¶ 4. Despite listing the January date on her claim form, Johnson asserts
+     that her actual last day worked was at the beginning of April 2017. Id. Response
+     to ¶ 7. This discrepancy is immaterial to the parties’ respective motions.
+22   Id. ¶ 10.
+23   Id. ¶ 7.
+24   Id. ¶ 9.
+25   Id. ¶ 13.
+          Case 1:21-cv-02900-SDG Document 40 Filed 09/29/23 Page 6 of 16
+
+
+
+
+Exclusion did not apply.26 In response, Reliance Standard engaged an
+
+endocrinologist, Dr. Robert Cooper, to review Johnson’s medical file.27 Dr. Cooper
+
+concluded that Johnson had received various treatment during the Look-Back
+
+Period.28 On July 18, 2018, Reliance Standard upheld the denial of Johnson’s claim
+
+for benefits, concluding that her disability was “caused by, contributed to by, or
+
+the result of a pre-existing condition.”29
+
+II.     Applicable Legal Standard
+
+        The procedural vehicle for resolving motions for judgment based on the
+
+administrative record is Federal Rule of Civil Procedure 52(a)(1), which states:
+
+“[i]n an action tried on the facts without a jury . . . the court must find the facts
+
+specially and state its conclusions of law separately. The findings and conclusions
+
+may be stated on the record after the close of the evidence or may appear in an
+
+opinion or a memorandum of decision filed by the court.” Presenting findings and
+
+conclusions in a written order “has been accepted as the preferable practice” by
+
+this Court. Garlington v. Metro. Life Ins. Co., 2012 WL 7589403, at *5 (N.D. Ga. Dec.
+
+31, 2012). In contrast, summary judgment is appropriate when “there is no genuine
+
+
+
+
+26    Id. ¶ 27.
+27    Id. ¶ 28.
+28    Id. ¶¶ 29–31.
+29    Id. ¶ 32.
+        Case 1:21-cv-02900-SDG Document 40 Filed 09/29/23 Page 7 of 16
+
+
+
+
+dispute as to any material fact and the movant is entitled to judgment as a matter
+
+of law.” Fed. R. Civ. P. 56(a). In determining whether a genuine issue of material
+
+fact exists, the evidence is viewed in the light most favorable to the party opposing
+
+summary judgment, “and all justifiable inferences are to be drawn” in favor of that
+
+party. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 255 (1986); see also Herzog v. Castle
+
+Rock Entm’t, 193 F.3d 1241, 1246 (11th Cir. 1999). Because the parties largely agree
+
+on the facts and do not contest the accuracy of the administrative record, the
+
+difference between these two standards does not substantially affect the Court’s
+
+analysis here.
+
+III.   Discussion
+
+       In short, the parties disagree about whether Johnson’s treatment for a
+
+variety of symptoms during the Look-Back Period—without a diagnosis of the
+
+cause of those symptoms—makes her claim for benefits subject to the Exclusion.
+
+The parties do not dispute that scleroderma is a Sickness (an illness or disease
+
+causing Total Disability). They do dispute whether it is a Sickness “for which”
+
+Johnson received medical Treatment, consultation, care, or services during the
+
+Look-Back Period. Johnson contends that she could not have received treatment
+
+for a disease no one knew she had. Rather, Johnson argues that she was only
+        Case 1:21-cv-02900-SDG Document 40 Filed 09/29/23 Page 8 of 16
+
+
+
+
+treated for a litany of symptoms that are associated with numerous illnesses and
+
+diseases.30
+
+       In evaluating the denial of benefits under ERISA, this Court must apply the
+
+comprehensive framework developed by the Eleventh Circuit for reviewing an
+
+administrator’s determination:
+
+              1. Apply the de novo standard to determine whether the
+                 claim administrator’s benefits-denial decision is
+                 “wrong” (i.e., the court disagrees with the
+                 administrator’s decision); if it is not, then end the
+                 inquiry and affirm the decision.
+
+              2. If the administrator’s decision in fact is “de novo
+                 wrong,” then determine whether he was vested with
+                 discretion in reviewing claims; if not, end judicial
+                 inquiry and reverse the decision.
+
+              3. If the administrator’s decision is “de novo wrong” and
+                 he was vested with discretion in reviewing claims,
+                 then determine whether “reasonable” grounds
+                 supported it (hence, review his decision under the
+                 more deferential arbitrary and capricious standard).
+
+              4. If no reasonable grounds exist, then end the inquiry
+                 and reverse the administrator’s decision; if
+                 reasonable grounds do exist, then determine if he
+                 operated under a conflict of interest.
+
+              5. If there is no conflict, then end the inquiry and affirm
+                 the decision.
+
+              6. If there is a conflict, the conflict should merely be a
+                 factor for the court to take into account when
+
+
+
+30   ECF 26-1, at 10–16.
+        Case 1:21-cv-02900-SDG Document 40 Filed 09/29/23 Page 9 of 16
+
+
+
+
+                    determining whether an administrator’s decision
+                    was arbitrary and capricious.
+
+Blankenship v. Metro. Life Ins. Co., 644 F.3d 1350, 1355 (11th Cir. 2011). Where an
+
+exclusion is at issue, the insurer bears the burden of establishing that the exclusion
+
+prevents coverage. Horton v. Reliance Standard Life Ins. Co., 141 F.3d 1038, 1040
+
+(11th Cir. 1998).
+
+       The parties have not argued steps one or two of this test. Accordingly, the
+
+Court begins with step three. Ferrizzi v. Reliance Standard Life Ins. Co., 792 F. App’x
+
+678, 684 (11th Cir. 2019) (per curiam) (“Because the parties have briefed only the
+
+arbitrary and capricious issues involving steps three through six, and because the
+
+magistrate judge and the district court addressed only those issues, we will also
+
+pretermit the de novo review of steps one and two and begin with the “arbitrary
+
+and capricious” standard of steps three through six, considering the structural
+
+conflict as a factor.”).
+
+       A.     Step Three: Was Reliance Standard’s decision reasonable?
+
+       Since the analysis begins with step three, the Court assumes without
+
+deciding that Reliance Standard’s decision to deny benefits to Johnson was de novo
+
+wrong.31 When conducting a review of an ERISA benefits denial under the
+
+
+
+
+31   The Court is not convinced that any part of the Blankenship analysis beyond
+     step one was required here. But the parties started their arguments with step
+     three, so that is where the Court begins as well.
+       Case 1:21-cv-02900-SDG Document 40 Filed 09/29/23 Page 10 of 16
+
+
+
+
+arbitrary and capricious standard, the Court’s function is to determine “whether
+
+there was a reasonable basis for the decision, based upon the facts as known to the
+
+administrator at the time the decision was made.” Graham v. Life Ins. Co. of N. Am.,
+
+222 F. Supp. 3d 1129, 1137–38 (N.D. Ga. 2016). The Court limits its review to
+
+whether the benefits determination “was made rationally and in good faith—not
+
+whether it was right.” Griffis v. Delta Family–Care Disability, 723 F.2d 822, 825 (11th
+
+Cir. 1984).
+
+      Whether Johnson was entitled to benefits depends on the meaning of the
+
+Exclusion—a legal question. Ferrizzi, 792 F. App’x at 684 (“We first look to the plain
+
+and ordinary meaning of the policy terms to interpret the contract.”) (quoting
+
+Alexandra H. v. Oxford Health Ins. Inc. Freedom Access Plan, 833 F.3d 1299, 1307
+
+(11th Cir. 2016)). Although it is an unreported decision, the Eleventh Circuit
+
+addressed the exact contract language at issue here in Ferrizzi. As Johnson now
+
+does, Ferrizzi argued that the pre-existing condition exclusion could not apply
+
+because he had not been diagnosed or treated for the disabling condition during
+
+the look-back period. The Court of Appeals squarely rejected this argument:
+
+              [T]he policy’s own definition of a “pre-existing
+              condition” does not require a specific diagnosis or a
+              specifically timed diagnosis of a condition for the
+              exclusion to apply. Under the policy, if Ferrizzi received
+              “treatment, consultation, care or services, including
+              diagnostic procedures, or took prescribed drugs or
+              medicines” for “any Sickness or Injury” that caused,
+              contributed to, or resulted in his “total disability” from
+        Case 1:21-cv-02900-SDG Document 40 Filed 09/29/23 Page 11 of 16
+
+
+
+
+              substance abuse/drug dependence, then the policy
+              excludes coverage. The Reliance policy exclusion does
+              not require a formal diagnosis during the lookback
+              period, and Ferrizzi’s arguments to the contrary are
+              unpersuasive.
+
+Id. at 685.
+
+       Applying standard contract interpretation rules, as the Court of Appeals did
+
+in Ferrizzi, leads this Court to the inescapable conclusion that Reliance Standard’s
+
+benefits determination was supported by reasonable grounds. The Exclusion does
+
+not require that a diagnosis have been made for it to apply; it only required that
+
+Johnson have been treated or received consultation during the Look-Back Period
+
+for the Sickness that caused her total disability. Johnson plainly received
+
+treatment, consulted with physicians, and was prescribed medication for her
+
+ailments during the Look-Back Period.32
+
+       Johnson attempts to distinguish Ferrizzi, claiming that it does not address
+
+cases that held a pre-existing condition exclusion cannot apply to an undiagnosed
+
+condition.33 Those cases, however, are from a smattering of other state and federal
+
+courts and are not persuasive in light of the unambiguous language of the
+
+
+
+
+32   The Court assumes without deciding that Reliance Standard bears the burden
+     to show its application of the Exclusion was reasonable. Compare ECF 26-1, at
+     8–9 and ECF 35, at 1–2 with ECF 29, at 4–7. Reliance Standard has more than
+     satisfied that standard.
+33   ECF 32, at 14.
+        Case 1:21-cv-02900-SDG Document 40 Filed 09/29/23 Page 12 of 16
+
+
+
+
+Exclusion and the Eleventh Circuit’s interpretation of the exact same exclusion
+
+language.34
+
+       The primary case from the Eleventh Circuit on which Johnson relies,
+
+Horneland v. United of Omaha Insurance Company, is not as helpful to her position as
+
+she suggests. Horneland involved a pre-existing conditions exclusion with
+
+language very similar to the one here. But it defined “[s]ickness” more narrowly—
+
+as a “disease, disorder or condition, including pregnancy, for which you are under
+
+the care of a Physician.” 717 F. App’x 846, 847 (11th Cir. 2017) (per curiam). (Here,
+
+“Sickness” is an illness or disease causing Total Disability.) Horneland’s benefits
+
+claim was denied because the insurer concluded he was not disabled; but the
+
+insurer also determined that, even if he was disabled, the pre-existing exclusion
+
+applied because Horneland had been treated for “muscle spasms” and “back
+
+pain” during the look-back period.
+
+       The Court of Appeals noted that Horneland’s symptoms were not “by
+
+themselves necessarily Pre-Existing Conditions under the Exclusion,” or a
+
+“disease, disorder, or condition.” Id. at 855. Further, the plan defined pain as a
+
+
+
+
+34   ECF 32, at 11 (relying on Ermenc v. American Family Mutual Ins. Co., 585 N.W.2d
+     679, 682 (Wis. 1998); Hall v. Continental Cas. Co., 207 F. Supp. 2d 903, 912 (W.D.
+     Wis. 2002); McLeod v. Hartford, 372 F.3d 618, 626 (3d Cir. 2004); Ceccanecchio v.
+     Continental Cas. Co., 50 F. App’x 66, 72 (3d Cir. 2002); App v. Aetna Life Ins. Co.,
+     2009 WL 2475020, at *8 (M.D. Pa. 2009)).
+       Case 1:21-cv-02900-SDG Document 40 Filed 09/29/23 Page 13 of 16
+
+
+
+
+symptom, not a condition. Id. But the court also found that the underlying cause
+
+of Horneland’s back pain and muscle spasms could trigger the pre-existing
+
+condition exclusion. Id. at 856. Factual disputes prevented resolution of that issue.
+
+The Court of Appeals therefore concluded that there were material disputes about
+
+the disability, the pre-existing condition, and whether the pre-existing condition
+
+caused the disability.
+
+      None of that is in dispute here. The parties agree that scleroderma rendered
+
+Johnson disabled. The problems for which she received medication and medical
+
+treatment during the Look-Back Period were all attributable to scleroderma—even
+
+though she had not yet been diagnosed with it. Moreover, the problems for which
+
+Johnson was treated during the Look-Back Period certainly fall within the
+
+definition of “illness,” which makes them a Sickness under the Plan. Illness was
+
+not a term used in the policy at issue in Horneland. Johnson’s characterization of
+
+that case as standing for the proposition that a person cannot receive treatment for
+
+a Sickness that has not yet been diagnosed does not accurately reflect the
+
+conclusions reached by the Court of Appeals. At a minimum, Ferrizzi and
+
+Horneland demonstrate that it was not unreasonable for Reliance Standard to
+
+conclude Johnson had been treated during the Look-Back Period for the Sickness
+
+that caused her Total Disability.
+        Case 1:21-cv-02900-SDG Document 40 Filed 09/29/23 Page 14 of 16
+
+
+
+
+       B.     Steps Four and Five: Conflict of Interest
+
+       The parties agree that Reliance Standard operated under a structural conflict
+
+of interest.35 Therefore, the Court proceeds to Step Six.
+
+       C.     Step Six: Was Reliance Standard’s decision arbitrary and
+              capricious?
+
+       Johnson bears the ultimate burden of showing that the benefits denial was
+
+arbitrary and capricious. Ferrizzi, 792 F. App’x at 684 (where “there is a conflict of
+
+interest, ‘the burden remains on the plaintiff to show the decision was arbitrary; it
+
+is not the defendant’s burden to prove its decision was not tainted by self-
+
+interest.’”) (quoting Doyle v. Liberty Life Assur. Co. of Boston, 542 F.3d 1352, 1360
+
+(11th Cir. 2008)). In this effort Johnson points towards Reliance Standard’s
+
+engagement of Dr. Cooper and argues in conclusory fashion that, since Dr. Cooper
+
+was an endocrinologist, and since scleroderma is a rare rheumatological condition
+
+that is difficult to diagnose, Dr. Cooper was not sufficiently qualified to render his
+
+opinion.36
+
+       But simply questioning Dr. Cooper’s qualifications without evidence is
+
+unavailing. Johnson is the one who needed to establish that Dr. Cooper was not
+
+
+
+
+35   ECF 27-1, at 11; ECF 38 (during oral argument, counsel for both sides agreed
+     that Reliance Standard was conflicted).
+36   ECF 26-1, at 18; ECF 35, at 14-15.
+            Case 1:21-cv-02900-SDG Document 40 Filed 09/29/23 Page 15 of 16
+
+
+
+
+qualified to render his opinion. Her contention that Dr. Cooper’s resumé does not
+
+“indicate familiarity with rare rheumatological disorders”37 is not enough.
+
+            Finally, Johnson argues that Reliance Standard’s decision was tainted by the
+
+conflict because the denial letters do not mention scleroderma.38 Given the
+
+Exclusion’s reliance on Treatment—rather than diagnosis—during the Look-Back
+
+Period, this is weak evidence at best that Reliance Standard “did not undertake a
+
+deliberate and principled reasoning process.”
+
+            Even taking all of Johnson’s arguments together, Reliance Standard’s
+
+decision was neither arbitrary nor capricious when it was entirely consistent with
+
+an Eleventh Circuit case interpreting the exact same policy language. The Court
+
+empathizes with Johnson’s situation. She suffers from a disabling and extremely
+
+painful terminal condition. But Johnson’s genuine need for coverage cannot
+
+render meaningless the legal standards the Court must apply. Johnson has not
+
+demonstrated that Reliance Standard’s decision to deny her benefits was arbitrary
+
+and capricious.
+
+
+
+IV.         Conclusion
+
+
+
+
+37    ECF 35, at 14.
+38    Id.
+      Case 1:21-cv-02900-SDG Document 40 Filed 09/29/23 Page 16 of 16
+
+
+
+
+      Johnson’s Motion for Judgment on the Administrative Record [ECF 26] is
+
+DENIED and Reliance Standard’s Motion for Summary Judgment [ECF 27] is
+
+GRANTED. The Clerk is DIRECTED to render judgment in favor of Defendant
+
+Reliance Standard and close this case.
+
+      SO ORDERED this 29th day of September, 2023.
+
+
+
+
+                                                Steven D. Grimberg
+                                          United States District Court Judge

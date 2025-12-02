@@ -1,0 +1,50 @@
+{
+  "overall_outcome": "MIXED",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether Vermont's pre-access review process for newly filed civil complaints, which delayed public access until clerk review, violated the First Amendment right of access to judicial documents.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that Vermont\u2019s pre-access review process, as implemented during the period reviewed at trial, violated the First Amendment because the delays were not narrowly tailored to serve a higher value and were not justified by the evidence."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the district court abused its discretion by issuing a permanent injunction that categorically barred any pre-access review before public release of complaints.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "REVERSE",
+      "key_reasoning": "The court found the injunction overbroad, as it precluded any pre-access review regardless of justification or efficiency, and was not supported by the trial evidence or law; thus, the injunction was vacated and the case remanded for reconsideration."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the district court should have abstained from hearing the case under principles of federalism and comity (O\u2019Shea/Younger abstention).",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held abstention was not warranted because the relief sought was a bright-line rule, not an ongoing federal audit of state proceedings, and the First Amendment issues counseled against abstention."
+    },
+    {
+      "issue_id": 4,
+      "description": "Whether the case was moot due to Vermont\u2019s subsequent improvements in its review process.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found the case was not moot because the improvements did not fully resolve the constitutional issues, and further improvements or tailoring could still be required."
+    }
+  ],
+  "key_precedents": [
+    "Press-Enterprise Co. v. Superior Court of California for Riverside County, 478 U.S. 1 (1986)",
+    "Bernstein v. Bernstein Litowitz Berger & Grossmann LLP, 814 F.3d 132 (2d Cir. 2016)",
+    "Lugosch v. Pyramid Co. of Onondaga, 435 F.3d 110 (2d Cir. 2006)",
+    "O\u2019Shea v. Littleton, 414 U.S. 488 (1974)",
+    "Younger v. Harris, 401 U.S. 37 (1971)",
+    "Courthouse News Serv. v. Planet, 947 F.3d 581 (9th Cir. 2020)",
+    "Courthouse News Serv. v. Schaefer, 2 F.4th 318 (4th Cir. 2021)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": true,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": true,
+  "summary_text": "Defendants, administrators and clerks of the Vermont Superior Court, appeal from the judgment and permanent injunction of the United States District Court for the District of Vermont (Christina Reiss, J.) in favor of Plaintiffs, news and related media organizations. Beginning in 2020, when Vermont courts transitioned to electronic filing, the Superior Court adopted a policy of denying public access to newly filed civil complaints until a court clerk had reviewed them to ensure that they were signed, they did not contain unredacted confidential information, that they complied with technical requirements under the court\u2019s rules, and that they did not show unredacted filers\u2019 notes. Plaintiffs sued, challenging this practice as a violation of their First Amendment right of access to court documents. After a bench trial, the district court issued judgment in Plaintiffs\u2019 favor, holding that Vermont\u2019s pre-access review process violated Plaintiffs\u2019 First Amendment right of access to judicial documents, and issued a permanent injunction barring Defendants from withholding complaints until completion of a pre-access review. We agree with the Plaintiffs and the district court that Vermont\u2019s practice in the period reviewed by the trial court violated Plaintiffs\u2019 First Amendment right of access, but we agree with the Defendants that the terms of the permanent injunction were not supported by the court\u2019s findings. We accordingly AFFIRM the district court\u2019s judgment to the extent it found that the practice it reviewed violated the First Amendment, but we VACATE the permanent injunction to the extent that it barred the Defendants from engaging in any review for unredacted confidential information before permitting access to the complaints. We REMAND for further proceedings."
+}

@@ -1,0 +1,1565 @@
+       Case 4:16-cv-05544-HSG Document 185 Filed 08/23/23 Page 1 of 24
+
+
+
+
+                                   1
+
+                                   2
+
+                                   3
+
+                                   4                                        UNITED STATES DISTRICT COURT
+
+                                   5                                       NORTHERN DISTRICT OF CALIFORNIA
+
+                                   6
+
+                                   7       PETER SCHUMAN, et al.,                            Case No. 16-cv-05544-HSG
+                                   8                         Plaintiffs,                     ORDER GRANTING IN PART AND
+                                                                                             DENYING IN PART MOTION FOR
+                                   9                 v.                                      SUMMARY JUDGMENT
+                                  10       MICROCHIP TECHNOLOGY                              Re: Dkt. No. 163
+                                           INCORPORATED, et al.,
+                                  11
+                                                             Defendants.
+                                  12
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13            Pending before the Court is the motion for summary judgment filed by Defendants
+
+                                  14   Microchip Technology, Inc., Atmel Corporation, and Atmel Corporation U.S. Severance
+
+                                  15   Guarantee Benefit Program. Dkt. No. 163. The motion was held in abeyance while the case was
+
+                                  16   stayed, and the parties completed the briefing and the Court heard argument once the stay was
+
+                                  17   lifted. For the reasons detailed below, the Court GRANTS IN PART and DENIES IN PART the
+
+                                  18   motion.
+
+                                  19       I.   BACKGROUND
+                                  20            A.        Factual Background
+                                  21            The parties are familiar with the facts of this case, and many remain undisputed. Plaintiffs
+
+                                  22   are a certified class of 220 former employees of Defendant Atmel Corporation.1 See Dkt. No. 122
+
+                                  23   (order granting class certification); see also Dkt. 107 at 6, n.4; Dkt. 134 at 14, n.7. In July 2015,
+
+                                  24   Atmel created the U.S. Severance Guarantee Benefit Program (“Plan” or “Atmel Plan”). See
+
+                                  25   Berman v. Microchip Technology Inc., Case No. 17-cv-01864-HSG, Dkt. No. 157 at 4115–19.
+
+                                  26   The cover letter distributed with the Plan said that Atmel recognized there “ha[d] been significant
+
+                                  27
+                                       1
+                                  28    The nine plaintiffs in the related action, Berman v. Microchip Technology Inc., Case No. 17-cv-
+                                       01864-HSG, did not sign any release agreements, and the parties settled that case in April 2023.
+                                         Case 4:16-cv-05544-HSG Document 185 Filed 08/23/23 Page 2 of 24
+
+
+
+
+                                   1   market speculation regarding possible transactions involving the company,” and that “such rumors
+
+                                   2   can be distracting and unsettling.” Id. at 4117. The letter further explained that the Plan was
+
+                                   3   “intended to ease concerns among [] employees” and allow them to “focus[] on [the company’s]
+
+                                   4   continued success.” See id.
+
+                                   5          The relevant terms of the Plan are as follows:
+
+                                   6                  Term of the Severance Guarantee Benefit Program: The U.S.
+                                                      Severance Guarantee Benefit Program is effective from July 1, 2015
+                                   7                  and will terminate on November 1, 2015 unless an Initial Triggering
+                                                      Event (as described below) has occurred prior to November 1, 2015,
+                                   8                  in which event the U.S. Severance Guarantee Benefit Program will
+                                                      remain in effect for 18 (eighteen) months following that Initial
+                                   9                  Triggering Event.
+                                  10                  Eligibility: Eligibility is limited to U.S.-based employees of Atmel
+                                                      Corporation as of the date a Change of Control is consummated.
+                                  11
+                                                      Initial Triggering Event: Benefits under the U.S. Severance
+                                  12                  Guarantee Benefit Program will become available to eligible
+Northern District of California
+ United States District Court
+
+
+
+
+                                                      employees only if the Company enters into a definitive agreement (a
+                                  13                  “Definitive Agreement”), on or before November 1, 2015, that will
+                                                      result in a Change of Control of the Company. If a Definitive
+                                  14                  Agreement is not entered into on or before that date, the U.S.
+                                                      Severance Guarantee Benefit Program described in the letter and this
+                                  15                  Addendum will automatically expire, unless expressly extended by
+                                                      the Company’s Board of Directors.
+                                  16
+                                                      Benefits Conditions: After an Initial Triggering Event occurs that
+                                  17                  makes available to eligible employees the U.S. Severance Guarantee
+                                                      Benefit Program, participants will then be entitled to receive cash
+                                  18                  payments and COBRA benefits if, but only if:
+                                  19                      (A) A Change of Control actually occurs; and
+                                  20                      (B) Their employment is terminated without “Cause” by the
+                                                              Company (or its successor) at any time within 18 months of
+                                  21                          the execution date of the Definitive Agreement.
+                                  22                      For purposes of this U.S. Severance Guarantee Benefit Program,
+                                                          the definition of “Change of Control” and “Cause” will be the
+                                  23                      same as that contained in the Company’s Senior Executive
+                                                          Change of Control and Severance Plan.
+                                  24
+
+                                  25   Id. at 4115. The Plan further states that Atmel’s successor would “assume the obligations” of the
+
+                                  26   Plan. Id. at 4116. The Plan therefore created three conditions precedent to Plaintiffs’ entitlement
+
+                                  27   to severance benefits: (1) an Initial Triggering Event occurred before November 1, 2015; (2) a
+
+                                  28   Change of Control actually occurred; and (3) Plaintiffs were terminated without cause. Id. at
+                                                                                        2
+                                         Case 4:16-cv-05544-HSG Document 185 Filed 08/23/23 Page 3 of 24
+
+
+
+
+                                   1   4115. The parties in both Berman and Schuman disputed whether the first condition was met
+
+                                   2   because the eventual “Change of Control” did not involve the same company that entered into a
+
+                                   3   “Definitive Agreement with Atmel before November 1, 2015.”
+
+                                   4          In September 2015, Atmel entered into an agreement with Dialog Semiconductor, under
+
+                                   5   which Dialog would acquire Atmel. See Dkt. No. 152 at 2202–48. However, before the merger
+
+                                   6   with Dialog closed, Atmel received a competing offer from Defendant Microchip Technology Inc.
+
+                                   7   See id. at 2250–51. During this time, Atmel’s then-Senior Vice President of Global Human
+
+                                   8   Resources, Suzy Zoumaras, sent a letter to employees—including the named Plaintiffs in this
+
+                                   9   case—stating that the Atmel Plan “continues to remain in place.” See Berman, Dkt. No. 152 at
+
+                                  10   419; see also Dkt. No. 176-1, Ex. B at 25:1–27:24. The letter further reminded employees of the
+
+                                  11   benefits they may be eligible for if terminated following “an acquisition by Dialog or Microchip.”
+
+                                  12   See id.; see also Dkt. No. 176-1, Ex. C at 24:2–16 (Atmel CEO Steve Laub explaining that he
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   communicated to employees “their severance agreements would be effective if Microchip turned
+
+                                  14   out to be the acquirer”). Ultimately, Dialog did not make a new offer, and Atmel entered into a
+
+                                  15   new agreement with Microchip in January 2016. See Dkt. No. 29 at ¶ 36. In February 2016,
+
+                                  16   Atmel’s Human Resources Department circulated a “Frequently Asked Questions” document to
+
+                                  17   employees regarding “compensation & benefits relating to the Microchip merger.” Dkt. No. 176-
+
+                                  18   2, Ex. S at 421–22. The document stated that “Microchip has agreed to honor each of your
+
+                                  19   employment and compensatory contracts agreements”—including severance agreements—“that
+
+                                  20   are in effect immediately prior to the closing of the transaction.” Id. (emphasis added).
+
+                                  21   Employees continued to raise concerns about the applicability of the Atmel Plan to the Microchip
+
+                                  22   merger. See, e.g., Dkt. No. 163-1, Ex. 2 at ¶ 13; Dkt. No. 163-1, Ex. 3 at ¶¶ 11–12; Dkt. No. 163-
+
+                                  23   1, Ex. 4 at ¶¶ 8–20. The merger between Atmel and Microchip ultimately closed in April 2016.
+
+                                  24   See Dkt. No. 29 at ¶ 36.
+
+                                  25          Following the merger, Microchip’s CEO—and the new CEO of Atmel—Steve Sanghi held
+
+                                  26   an “all-hands” meeting for Atmel employees, during which he explained that the Atmel Plan had
+
+                                  27   expired and Microchip would not honor its terms. See Dkt. No. 176-1, Ex. E at 65:24–77:20. He
+
+                                  28   also had a PowerPoint presentation explaining Microchip’s interpretation of the Plan. Id. at
+                                                                                        3
+                                           Case 4:16-cv-05544-HSG Document 185 Filed 08/23/23 Page 4 of 24
+
+
+
+
+                                   1   67:17–23. According to William Coplin, one of the named Plaintiffs, Mr. Sanghi asserted that
+
+                                   2   “Atmel employees would have to fight him in court if they wanted to challenge him on their
+
+                                   3   entitlement to benefits under the [Atmel] Plan.” See Dkt. No. 176-1, Ex. R at 256–57. Mr. Sanghi
+
+                                   4   also explained that Microchip was nevertheless willing to offer terminated Atmel employees 50
+
+                                   5   percent of the benefits provided by the Atmel Plan in exchange for signing a release of any claims
+
+                                   6   under the original Atmel Plan. See Dkt. No. 176-1, Ex. E at 65:24–77:20.
+
+                                   7           Plaintiffs in this case were terminated without cause following the merger with Microchip
+
+                                   8   and offered reduced severance benefits. See, e.g., Dkt. No. 163-1, Ex. R to Ex. 1 at 815–820. As
+
+                                   9   relevant to this case and Defendants’ motion for summary judgment, 215 of the 220 Plaintiffs
+
+                                  10   signed a release in exchange for a portion of the severance benefits provided for by the Atmel
+
+                                  11   Plan.2 See, e.g., Dkt. No. 176-2, Ex. R at 410–13. The cover letter to the offer explained that
+
+                                  12   “[t]he Company and Microchip are making this offer, in part to resolve any current disagreement
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   or misunderstanding regarding severance benefits previously offered by the Company . . . .” See
+
+                                  14   Dkt. No. 163-1, Ex. R to Ex. 1 at 815. The letter further states that the agreement “supersedes any
+
+                                  15   other actual or perceived promises, warranties, or representations . . . including, for the avoidance
+
+                                  16   of doubt, any programs, policies, or agreements with respect to severance or equity acceleration
+
+                                  17   benefits made prior to April 4, 2016.” Id. at 816.
+
+                                  18           The release itself states in relevant part:
+
+                                  19
+                                                       You agree to release the Company, its subsidiaries and affiliates, and
+                                  20                   its and their officers, agents and employees from any liability related
+                                                       to or arising out of your employment with any of them. This includes
+                                  21                   a release of any liability for claims of any kind that you ever had or
+                                                       may have at this time, whether you know about them or not. This
+                                  22                   release is as broad as the law allows and includes a release of claims
+                                                       under federal and state laws, such as anti-discrimination, harassment
+                                  23                   and retaliation laws and expressly includes any claims under the Age
+                                                       Discrimination in Employment Act. This release also includes a
+                                  24                   release of any tort and contract claims, and any other claims that could
+                                                       be asserted under federal, state or local statutes, regulations or
+                                  25                   common law.
+                                  26
+                                  27
+                                       2
+                                  28    Five class members in this case, like those in the Berman case, did not sign a release. See Dkt.
+                                       No. 176 at 1; see also Dkt. 107 at 6, n.4.
+                                                                                         4
+                                         Case 4:16-cv-05544-HSG Document 185 Filed 08/23/23 Page 5 of 24
+
+
+
+
+                                   1   See id. at 818 (emphasis added).
+
+                                   2          Despite signing these releases, named Plaintiffs Peter Schuman and William Coplin filed
+
+                                   3   this class action in September 2016. See Dkt. No. 1. The parties then agreed to give Plaintiffs an
+
+                                   4   opportunity to exhaust ERISA’s administrative claims process and to file an amended complaint.
+
+                                   5   See Dkt. No. 27. Plaintiffs accordingly submitted claims for severance benefits under the Atmel
+
+                                   6   Plan, and the plan administrator denied their claims. See Dkt. No. 176-1, Ex. R at 600–03, 1900–
+
+                                   7   03. The denial letters stated that Plaintiffs were “not eligible for benefits under the Atmel
+
+                                   8   Severance Plan” because the Plan had “automatically expired on November 1, 2015.” Id. The
+
+                                   9   letters further acknowledged Plaintiffs’ requests for recission of the releases, but the plan
+
+                                  10   administrator concluded that Plaintiffs had not supported the request, and in any event, because
+
+                                  11   Plaintiffs were “not eligible for benefits under the Atmel Severance Plan,” the releases were “not
+
+                                  12   relevant” to their claims for benefits. Id. Plaintiffs’ administrative appeals were also denied. See
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   Dkt. No. 176-2, Ex. V at 117–19, 135–37. Again, the letters explained that Plaintiffs were “not
+
+                                  14   eligible for benefits under the Atmel Severance Plan” because it had expired. Id.
+
+                                  15          Plaintiffs then filed an amended complaint in this case. See Dkt. No. 29 (“FAC”).
+
+                                  16          B.    Procedural History
+                                  17          In the FAC, Plaintiffs alleged that Defendants (1) breached their fiduciary duties by
+
+                                  18   misinterpreting the severance agreements as having expired and encouraging Plaintiffs to sign
+
+                                  19   releases in exchange for reduced severance benefits, in violation of ERISA § 404(a), 29 U.S.C.
+
+                                  20   § 1104(a); (2) improperly denied their claims for benefits, in violation of ERISA § 502(a)(1)(B),
+
+                                  21   29 U.S.C. § 1132(a)(1)(B); and (3) interfered with their right to recover benefits payments, in
+
+                                  22   violation of ERISA § 510, 29 U.S.C. § 1140. See id. at ¶¶ 82–111. In addition to benefits under
+
+                                  23   the Atmel Plan, Plaintiffs also sought several forms of equitable relief based on the alleged breach
+
+                                  24   of fiduciary duty. See id. at ¶¶ 93–97. In February 2018, the Court granted in part and denied in
+
+                                  25   part Defendants’ motion to dismiss, narrowing the scope of the case. See Dkt. No. 54. The Court
+
+                                  26   dismissed Plaintiffs’ third cause of action for interference with claim benefits, and also dismissed
+
+                                  27   several of the forms of equitable relief that Plaintiffs sought as duplicative of their claim for
+
+                                  28   benefits under the Atmel Plan. Id. at 16–25. And as relevant to Defendants’ argument regarding
+                                                                                          5
+                                         Case 4:16-cv-05544-HSG Document 185 Filed 08/23/23 Page 6 of 24
+
+
+
+
+                                   1   the enforceability of the releases that Plaintiffs signed in this case, see Section III.A below, the
+
+                                   2   Court interpreted Plaintiffs’ request to void the releases as a claim for recission. See id. at 22–24.
+
+                                   3   However, the Court dismissed the recission claim because Plaintiffs failed to allege that they
+
+                                   4   offered to tender the partial severance benefits that they received by signing the releases. Id.
+
+                                   5          The operative complaint thus contains claims for (1) breach of fiduciary duty and
+
+                                   6   (2) denial of claim benefits. Plaintiffs also seek injunctive relief preventing Microchip from
+
+                                   7   enforcing the releases it obtained and from soliciting new releases. See FAC at ¶¶ 93–97; see also
+
+                                   8   176 at 3 (“[T]he appropriate equitable remedy . . . is an order enjoining the enforcement of
+
+                                   9   Microchip’s wrongfully obtained releases . . . .”).
+
+                                  10          In response to the FAC, Defendants filed a counterclaim for equitable relief under ERISA
+
+                                  11   § 502(a)(3) to enjoin Plaintiffs from dissipating benefits received and estopping them from
+
+                                  12   pursuing their claims in this case. See Dkt. No. 59. In March 2019, the Court granted Plaintiffs’
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   motion to dismiss Defendants’ counterclaim. See Dkt. No. 103. The Court explained that
+
+                                  14   regardless of the effect that any release may eventually have on the merits of Plaintiffs’ case, “it is
+
+                                  15   not a covenant not to sue.” See id. at 6. Defendants therefore had not established that Plaintiffs
+
+                                  16   violated the terms of an ERISA plan. Id. The Court subsequently granted Plaintiffs’ motion for
+
+                                  17   class certification, Dkt. No. 122, and the parties moved for summary judgment.
+
+                                  18          At the same time, the parties continued to litigate the related Berman case, and eventually
+
+                                  19   agreed to stay this case pending resolution of the Berman trial. See Dkt. No. 169. As relevant
+
+                                  20   here, the Court granted the Berman plaintiffs’ motion for partial summary judgment and denied
+
+                                  21   Defendants’ Rule 56(d) request for discovery. See Berman, Dkt. No. 95. At the time, the Court
+
+                                  22   found that under the plain language of the Atmel Plan, it had not expired in November 2015 and
+
+                                  23   the Berman plaintiffs were entitled to severance benefits. Id. The Court further reasoned that as a
+
+                                  24   consequence of this plain meaning, the plan administrator breached its fiduciary duties by
+
+                                  25   misrepresenting the Plan terms and denying benefits. Id. On appeal, the Ninth Circuit reversed in
+
+                                  26   part, concluding that the pertinent plan language was “ambiguous” and that discovery was
+
+                                  27   therefore warranted. See Berman v. Microchip Tech. Inc., 838 F. App’x 292, 293 (9th Cir. 2021).
+
+                                  28          On remand, the Court denied the Berman parties’ cross-motions for summary judgment
+                                                                                          6
+                                            Case 4:16-cv-05544-HSG Document 185 Filed 08/23/23 Page 7 of 24
+
+
+
+
+                                   1   and the case was set for trial. However, the parties settled before the trial. The Court accordingly
+
+                                   2   lifted the stay in this case, Dkt. No. 172, and Defendants renewed their prior motion for summary
+
+                                   3   judgment, see Dkt. Nos. 163, 173.
+
+                                   4       II.   LEGAL STANDARD
+                                   5             Summary judgment is proper when a “movant shows that there is no genuine dispute as to
+
+                                   6   any material fact and the movant is entitled to judgment as a matter of law.” Fed. R. Civ. P. 56(a).
+
+                                   7   A fact is “material” if it “might affect the outcome of the suit under the governing law.” Anderson
+
+                                   8   v. Liberty Lobby, Inc., 477 U.S. 242, 248 (1986). And a dispute is “genuine” if there is evidence
+
+                                   9   in the record sufficient for a reasonable trier of fact to decide in favor of the nonmoving party. Id.
+
+                                  10   But in deciding if a dispute is genuine, the court must view the inferences reasonably drawn from
+
+                                  11   the materials in the record in the light most favorable to the nonmoving party, Matsushita Elec.
+
+                                  12   Indus. Co. v. Zenith Radio Corp., 475 U.S. 574, 587–88 (1986), and “may not weigh the evidence
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   or make credibility determinations,” Freeman v. Arpaio, 125 F.3d 732, 735 (9th Cir. 1997),
+
+                                  14   overruled on other grounds by Shakur v. Schriro, 514 F.3d 878, 884–85 (9th Cir. 2008). If a court
+
+                                  15   finds that there is no genuine dispute of material fact as to only a single claim or defense or as to
+
+                                  16   part of a claim or defense, it may enter partial summary judgment. Fed. R. Civ. P. 56(a).
+
+                                  17   III.      DISCUSSION
+                                  18             First, Defendants contend that almost all Plaintiffs in this case signed valid releases that
+
+                                  19   bar their claims for benefits under the Atmel Plan. Dkt. No. 163 at 7–14. Second, Defendants
+
+                                  20   contend that Plaintiffs’ breach of fiduciary duty claim and their related requests for equitable relief
+
+                                  21   fail. See id. at 14–25. Lastly, Defendants preserve their argument that Plaintiffs’ denial of
+
+                                  22   benefits claim also fails. Id. at 7, n.1.
+
+                                  23             A.   Releases
+                                  24             As an initial matter, Defendants argue that Plaintiffs knowingly and voluntarily waived
+
+                                  25   their right to pursue claims under the Atmel Plan.3 See Dkt. No. 163 at 7–14. Plaintiffs respond
+
+                                  26   that Defendants waived the right to rely on these releases, and in any event, they are not
+
+                                  27
+
+                                  28
+                                       3
+                                        For purposes of this section, when referring to “Plaintiffs” the Court only refers to the 215 of the
+                                       220 class members who signed releases in exchange for partial severance benefits.
+                                                                                         7
+                                         Case 4:16-cv-05544-HSG Document 185 Filed 08/23/23 Page 8 of 24
+
+
+
+
+                                   1   enforceable given the unique context of this case. See Dkt. No. 176 at 12–15.
+
+                                   2               i.   Waiver
+                                   3          Plaintiffs do not appear to dispute that if the releases were valid and enforceable they
+
+                                   4   would bar Plaintiffs’ claims in this case. See Dkt. No. 176 at 3 (“[T]he appropriate equitable
+
+                                   5   remedy . . . is an order enjoining the enforcement of Microchip’s wrongfully obtained releases,
+
+                                   6   thus entitling plaintiffs and class to their long-unpaid severance amounts under the Plan.”).
+
+                                   7   Instead, Plaintiffs first urge that Defendants waived any right to rely on the releases. See id. at 12–
+
+                                   8   14.
+
+                                   9          Plaintiffs argue that Defendants cannot rely on the releases to bar their right to pursue their
+
+                                  10   claims in this case because the plan administrator did not base the denial of claims on the
+
+                                  11   existence of these releases. Id. Rather, the denial letters simply stated that the Atmel Plan had
+
+                                  12   expired. See Dkt. No. 176-1, Ex. R at 600–03, 1900–03. To the extent the letters referenced the
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   releases at all, they said they were “not relevant.” Id. Plaintiffs point out that the Ninth Circuit
+
+                                  14   has held that “a court will not allow an ERISA plan administrator to assert a reason for denial of
+
+                                  15   benefits that it had not given during the administrative process.” Harlick v. Blue Shield of
+
+                                  16   California, 686 F.3d 699, 719–20 (9th Cir. 2012).
+
+                                  17          In Harlick, the plaintiff had sought coverage for treatment for anorexia nervosa. See id. at
+
+                                  18   703–04. The defendant denied her claim, concluding that the plaintiff’s treatment was at a
+
+                                  19   residential facility, which was not covered under the plan. Id. at 705–06. The Ninth Circuit
+
+                                  20   concluded that the California Mental Health Parity Act required coverage of all “medically
+
+                                  21   necessary treatment for severe mental illness,” and proceeded to consider whether the plaintiff’s
+
+                                  22   stay at the facility was medically necessary. Id. at 719. The claim administrator had not denied
+
+                                  23   the claim based on a failure to show that the treatment was medically necessary. Id. at 719–20.
+
+                                  24   The Ninth Circuit rejected the defendant’s attempt to raise this argument for the first time on
+
+                                  25   appeal, holding that “a court will not allow an ERISA plan administrator to assert a reason for
+
+                                  26   denial of benefits that it had not given during the administrative process.” Id.
+
+                                  27           The Court explained that ERISA and its implementing regulations require that “[a]n
+
+                                  28   ERISA plan administrator who denies a claim [ ] explain the ‘specific reasons for such denial’ and
+                                                                                          8
+                                         Case 4:16-cv-05544-HSG Document 185 Filed 08/23/23 Page 9 of 24
+
+
+
+
+                                   1   provide a ‘full and fair review’ of the denial.” Id. at 719 (quoting 29 U.S.C. § 1133). This is
+
+                                   2   designed to allow claimants the ability to prepare for administrative review and appeal to the
+
+                                   3   federal courts, and to prevent them from being “‘sandbagged’ by a rationale the plan administrator
+
+                                   4   adduces only after the suit has commenced.” Id. at 720 (quotation omitted); see also Jebian v.
+
+                                   5   Hewlett–Packard Co. Emple. Benefits Org. Income Prot. Plan, 349 F.3d 1098, 1104 (9th Cir.
+
+                                   6   2003) (explaining that this rule “parallels the general rule that an agency’s order must be upheld, if
+
+                                   7   at all, on the same basis articulated in the order by the agency itself, not a subsequent rationale
+
+                                   8   articulated by counsel.”) (quotation omitted).
+
+                                   9          Because the plan administrator here did not base the denial of Plaintiffs’ claims on the
+
+                                  10   existence of the releases, Plaintiffs contend that Defendants waived the ability to rely on them as a
+
+                                  11   defense in this case. See Dkt. No. 176 at 12–14. The Court is not persuaded. Unlike in Harlick,
+
+                                  12   the Court is not considering the releases as part of the merits of Plaintiffs’ claims, but rather as an
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   affirmative defense to determine whether they can pursue their ERISA claims at all. Several
+
+                                  14   courts in this district have addressed this same set of circumstances and concluded that “a right to
+
+                                  15   ERISA benefits and a right to bring an ERISA action in federal court are distinct.” Gonda v. The
+
+                                  16   Permanente Med. Grp., Inc., No. 11-CV-01363-SC, 2015 WL 678969, at *4 (N.D. Cal. Feb. 17,
+
+                                  17   2015), aff’d sub nom. Gonda v. Permanente Med. Grp., Inc., 691 F. App’x 397 (9th Cir. 2017)
+
+                                  18   (collecting cases); see also Upadhyay v. Aetna Life Ins. Co., No. C 13-1368 SI, 2014 WL 186709,
+
+                                  19   at *2 (N.D. Cal. Jan. 16, 2014), aff’d, 645 F. App’x 569 (9th Cir. 2016); Parisi v. Kaiser Found.
+
+                                  20   Health Plan Long Term Disability Plan, No. C 06-04359 JSW, 2008 WL 220101, at *3 (N.D. Cal.
+
+                                  21   Jan. 25, 2008).
+
+                                  22          Plaintiffs attempt to distinguish these cases by suggesting that Defendants may only raise
+
+                                  23   the releases as an affirmative defense if the claim administrator was unaware at the time it
+
+                                  24   evaluated the claims that the releases existed. See Dkt. No. 176 at 13–14. Because Plaintiffs
+
+                                  25   challenged the validity of the releases when they submitted claims for benefits under the Atmel
+
+                                  26   Plan, see Dkt. No. 176-1, Ex. R at 600–03, 1900–03, Plaintiffs point out that the claim
+
+                                  27   administrator here was aware of—and could have relied on—the releases when denying their
+
+                                  28   claims. She did not, and instead simply explained that Plaintiffs were “not eligible” because the
+                                                                                          9
+                                        Case 4:16-cv-05544-HSG Document 185 Filed 08/23/23 Page 10 of 24
+
+
+
+
+                                   1   Atmel Plan had expired. Dkt. No. 176-2, Ex. V at 117–19, 135–37. But as Defendants point out,
+
+                                   2   none of the cases identified above turned on whether the plan administrator was aware of the
+
+                                   3   releases. To the contrary, in Parisi, the court acknowledged that the administrator was “fully
+
+                                   4   aware” of the release but did not use it as a reason to deny benefits. See 2008 WL 220101, at *1,
+
+                                   5   n.1. These cases turned on the idea that there is a meaningful distinction between consideration of
+
+                                   6   the merits of a plaintiff’s claim for benefits and his or her right to bring an ERISA action in federal
+
+                                   7   court. Plaintiffs fail to grapple with this distinction at all.
+
+                                   8           The Court finds the reasoning of these cases persuasive and adopts it here. In considering
+
+                                   9   the releases in this case, the Court is neither opening up the administrative record nor reviewing
+
+                                  10   Defendants’ denial of Plaintiffs’ benefits claims. The Court is simply being asked to consider
+
+                                  11   whether the releases bar Plaintiffs’ ERISA action in the first instance. And here, the broad
+
+                                  12   language of the releases is clear, and if enforceable, would preclude an ERISA action in federal
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   court. Under the releases, Plaintiffs agree “to release the Company, its subsidiaries and affiliates,
+
+                                  14   and its and their officers, agents and employees from any liability related to or arising out of
+
+                                  15   [Plaintiffs’] employment with any of them. This includes a release of any liability for claims of
+
+                                  16   any kind that you ever had or may have at this time, whether you know about them or not.” See
+
+                                  17   Dkt. No. 163-1, Ex. R to Ex. 1 at 818 (emphasis added). The accompanying offer letter further
+
+                                  18   explained that Defendants were offering benefits in exchange for releases “to resolve any current
+
+                                  19   disagreement or misunderstanding regarding severance benefits previously offered by the
+
+                                  20   Company . . . .” See Dkt. No. 163-1, Ex. R to Ex. 1 at 815.
+
+                                  21           Plaintiffs briefly suggest that the plan administrator had authority to waive the releases,
+
+                                  22   and thus did so by failing to rely on them during the administrative process. See Dkt. No. 176 at
+
+                                  23   13–14. But the only two cases that Plaintiffs cite are inapposite. In Barron v. UNUM Life
+
+                                  24   Insurance Co. of America, the Fourth Circuit rejected a claim administrator’s attempt to deny the
+
+                                  25   plaintiff benefits based on a general release that she had signed when she worked for a different
+
+                                  26   employer and had coverage under a different employee benefits plan. 260 F.3d 310, 313–16 (4th
+
+                                  27   Cir. 2001). The defendant had attempted to argue that the release, entered into with UNUM Life
+
+                                  28   Insurance, covered not only the earlier UNUM policy, but any other future UNUM policy
+                                                                                           10
+                                        Case 4:16-cv-05544-HSG Document 185 Filed 08/23/23 Page 11 of 24
+
+
+
+
+                                   1   regardless of the policyholder. Id. at 313–14. The court rejected this interpretation, finding no
+
+                                   2   support for it in the language of the policy, and concluding that the defendant was improperly
+
+                                   3   trying to reduce its own insurance risk. Id. at 315–16. And in Jacobs v. Xerox Corp. Long Term
+
+                                   4   Disability Income Plan, the district court simply stated in a footnote that the claim administrator
+
+                                   5   had an “alternative basis” for denying the plaintiff’s claim based on a general release. 356 F.
+
+                                   6   Supp. 2d 877, 891, n.12 (N.D. Ill. 2005). Neither case addressed whether a plan administrator can
+
+                                   7   waive the company’s right to assert a release as an affirmative defense in court if the administrator
+
+                                   8   does not rely on it during the administrative process. Plaintiffs have not offered any on-point
+
+                                   9   support for their contention that Defendants waived the right to rely on the releases in this case.
+
+                                  10          The Court finds that Defendants may raise their waiver defense in this case even though
+
+                                  11   the releases were not relied upon during the administrative process. The Court therefore considers
+
+                                  12   whether the releases are enforceable.
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13              ii.   Enforceability
+                                  14          “A release is the abandonment, relinquishment or giving up of a right or claim to the
+
+                                  15   person against whom it might have been demanded or enforced . . . and its effect is to extinguish
+
+                                  16   the cause of action; hence it may be pleaded as a defense to the action.” Skilstaf, Inc. v. CVS
+
+                                  17   Caremark Corp., 669 F.3d 1005, 1017, n.10 (9th Cir. 2012) (quotation omitted). In other words, a
+
+                                  18   release is “the act of giving up a right or claim to the person against whom it could have been
+
+                                  19   enforced.” Syverson v. Int’l Bus. Machines Corp., 472 F.3d 1072, 1084 (9th Cir. 2007) (quoting
+
+                                  20   Release, Black’s Law Dictionary (abridged 7th ed. 2000)). The parties appear to agree that in the
+
+                                  21   context of ERISA, releases must be evaluated under a “heightened scrutiny” standard. See Dkt.
+
+                                  22   No. 176 at 14–15; Dkt. No. 177 at 3–4; see also Vizcaino v. Microsoft Corp., 120 F.3d 1006, 1012
+
+                                  23   (9th Cir. 1997) (noting that in the context of ERISA, releases “must withstand special scrutiny
+
+                                  24   designed to prevent potential employer or fiduciary abuse”).
+
+                                  25          Courts therefore consider whether the release was “‘knowing and voluntary’ by examining
+
+                                  26   the totality of the circumstances.” See Rombeiro v. Unum Ins. Co. of Am., 761 F. Supp. 2d 862,
+
+                                  27   868–69 (N.D. Cal. 2010) (collecting cases). Relevant factors include:
+
+                                  28
+                                                                                         11
+                                        Case 4:16-cv-05544-HSG Document 185 Filed 08/23/23 Page 12 of 24
+
+
+
+                                                      (1) plaintiff’s education and business sophistication; (2) the
+                                   1                  respective roles of employer and employee in determining the
+                                                      provisions of the waiver; (3) the clarity of the agreement; (4) the time
+                                   2                  plaintiff had to study the agreement; (5) whether plaintiff had
+                                                      independent advice, such as that of counsel; and (6) the consideration
+                                   3                  for the waiver.
+                                   4   Id. (quotation omitted); accord Gonda, 2015 WL 678969, at *3 (applying same six-factor test as
+
+                                   5   developed in Finz v. Schlesinger, 957 F.2d 78, 82 (2d Cir.1992)); Upadhyay, 2014 WL 186709, at
+
+                                   6   *4 (same); Parisi, 2008 WL 220101, at *4 (same).
+
+                                   7          Plaintiffs do not address these factors at all, urging that this analysis is somehow improper
+
+                                   8   under the specific circumstances of this case. Dkt. No. 176 at 14–15. Plaintiffs contend that
+
+                                   9   whether the releases were knowingly and voluntarily obtained is simply irrelevant where, as
+
+                                  10   alleged here, “Microchip violated its fiduciary duties by the very act of obtaining releases in
+
+                                  11   exchange for sharply reduced severance payments.” Dkt. No. 176 at 14 (emphasis omitted). In
+
+                                  12   the FAC and in their opposition brief, Plaintiffs allege that Defendants breached their fiduciary
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   duties in multiple ways, including by failing to provide complete information about the benefits to
+
+                                  14   which Plaintiffs were entitled, failing to investigate the intended meaning of the Atmel Plan, and
+
+                                  15   offering Plaintiffs reduced severance benefits in exchange for releases. See FAC at ¶¶ 87–89; see
+
+                                  16   also Dkt. No. 176 at 2–3, 18–22. In other words, Defendants misinterpreted and misled Plaintiffs
+
+                                  17   about the meaning of the Atmel Plan. During the hearing on the motion, Plaintiffs reiterated their
+
+                                  18   position that a review of the totality of the circumstances or use of the six-factor test to evaluate
+
+                                  19   the releases is inappropriate in light of these alleged breaches. In short, Plaintiffs suggest that
+
+                                  20   releases are never enforceable in cases where, as here, the plaintiffs allege that the defendant
+
+                                  21   breached its fiduciary duty by even seeking them.
+
+                                  22          Yet Plaintiffs offer no authority for this contention. Although emphasizing that waivers of
+
+                                  23   ERISA rights are subject to heightened scrutiny and citing some of the same cases referenced
+
+                                  24   above, Dkt. No. 176 at 14, Plaintiffs state that these cases are somehow meaningfully different
+
+                                  25   from this one. Plaintiffs point out that the releases in these other cases were “the product of
+
+                                  26   legitimate negotiations following a good-faith employment dispute unrelated to any dispute about
+
+                                  27   ERISA benefits.” See Dkt. No. 176 at 15 (emphasis in original). None of these cases, however,
+
+                                  28   conditioned application of the six-factor test in this way. To the contrary, in each case the court
+                                                                                         12
+                                           Case 4:16-cv-05544-HSG Document 185 Filed 08/23/23 Page 13 of 24
+
+
+
+
+                                   1   evaluated the totality of the circumstances, including the nature of the negotiations. See
+
+                                   2   Rombeiro, 761 F. Supp. 2d at 868–69 (considering “the respective roles of employer and
+
+                                   3   employee in determining the provisions of the waiver”).
+
+                                   4           Plaintiffs also briefly cite 29 U.S.C. § 1110(a), which provides that “any provision in an
+
+                                   5   agreement or instrument which purports to relieve a fiduciary from responsibility or liability for
+
+                                   6   any responsibility, obligation, or duty under this part shall be void as against public policy.” See
+
+                                   7   Dkt. No. 176 at 14; see also IT Corp. v. Gen. Am. Life Ins. Co., 107 F.3d 1415, 1418 (9th Cir.
+
+                                   8   1997). Yet courts have routinely explained that § 1110 does not preclude individuals from
+
+                                   9   entering into agreements that settle or release breach of fiduciary duty claims. See, e.g.,
+
+                                  10   Upadhyay, 2014 WL 186709, at *3 (“[C]ourts have uniformly permitted ‘knowing and voluntary’
+
+                                  11   private releases of statutory claims.”) (collecting cases).
+
+                                  12           Here, Defendants offered reduced severance benefits in exchange for releases to resolve
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   the dispute over the meaning of the Atmel Plan and Plaintiffs’ entitlement to benefits under it.
+
+                                  14   Taken to its logical extreme, Plaintiffs’ argument would preclude parties from settling cases
+
+                                  15   whenever the parties disagreed about the meaning of an ERISA plan. Plaintiffs have not offered
+
+                                  16   any authority or policy rationale for such a sweeping prohibition, and the Court finds no basis to
+
+                                  17   conclude that a knowing and voluntary release is nonetheless unenforceable in this context. The
+
+                                  18   Court therefore finds it appropriate to evaluate the totality of the circumstances to determine
+
+                                  19   whether the releases were in fact knowing and voluntary.4
+
+                                  20           To the extent Plaintiffs engage at all with the question of whether the releases were
+
+                                  21   knowing and voluntary, they simply urge that Defendants erroneously determined, and declared to
+
+                                  22   employees, that the Atmel Plan had expired. Plaintiffs suggest that Defendants were obligated to
+
+                                  23   pay benefits under the plain language of the Atmel Plan. See Dkt. No. 176 at 15, 19–20 (noting
+
+                                  24   that Defendants “refused to pay the full benefits due under ERISA”). Although the Court initially
+
+                                  25
+                                       4
+                                  26    Both in their opposition and during the hearing, Plaintiffs suggest that the Court has already
+                                       decided that it has the power to prevent Defendants from enforcing the releases. See, e.g., Dkt.
+                                  27   No. 176 at 1. But until now the Court has not had occasion to consider the merits of Defendants’
+                                       argument that the releases simply bar Plaintiffs’ claims entirely. The Court further notes that its
+                                  28   orders on the motions to dismiss and motions for class certification both predated the Ninth
+                                       Circuit’s memorandum disposition in Berman.
+                                                                                         13
+                                        Case 4:16-cv-05544-HSG Document 185 Filed 08/23/23 Page 14 of 24
+
+
+
+
+                                   1   agreed with Plaintiffs that Defendants’ interpretation of the Plan was unreasonable on its face, see
+
+                                   2   Berman, Dkt. No. 95 at 9–13, the Ninth Circuit disagreed.
+
+                                   3          The Ninth Circuit concluded that “the relevant language in the Atmel Plan is ambiguous.”
+
+                                   4   Berman, 838 F. App’x at 293. Specifically, the Court considered the requirement that benefits
+
+                                   5   “will become available to eligible employees only if the Company enters into a definitive
+
+                                   6   agreement [ ], on or before November 1, 2015, that will result in a Change of Control of the
+
+                                   7   Company.” Berman, Dkt. No. 157 at 4115 (emphasis added). The Ninth Circuit explained that
+
+                                   8   “the phrase ‘that will result’ is ambiguous because it does not ‘exclud[e] all alternative readings as
+
+                                   9   unreasonable,’ and the ambiguity is not eliminated by reading the phrase in the context of the plan
+
+                                  10   as a whole.” Berman, 838 F. App’x at, 293 (quoting McDaniel v. Chevron Corp., 203 F.3d 1099,
+
+                                  11   1110 (9th Cir. 2000)). In short, the Ninth Circuit found that the Atmel Plan was susceptible to
+
+                                  12   more than one interpretation. The actual meaning of the Atmel Plan is of course the crux of the
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   parties’ dispute in Berman and in this case. See, e.g., Section III.B.i.
+
+                                  14          But apart from of the actual meaning of the Atmel Plan, the record indicates that Plaintiffs
+
+                                  15   knew there was a dispute about the expiration of the Plan and knew that Defendants explicitly
+
+                                  16   offered the releases (and reduced severance benefits) to resolve this dispute:
+
+                                  17
+
+                                  18              •   During the all-hands meeting for Atmel employees, Microchip and the new Atmel
+
+                                  19                  CEO Mr. Sanghi explained that Microchip believed the Atmel Plan had expired,
+
+                                  20                  and it would not honor its terms. See Dkt. No. 176-1, Ex. E at 65:24–77:20. He
+
+                                  21                  also used a PowerPoint presentation during the meeting to explain Microchip’s
+
+                                  22                  interpretation of the Plan and their intention to offer reduced benefits. Id. The
+
+                                  23                  slides stated that “[e]mployees will have to sign and accept the new severance plan
+
+                                  24                  and waive any rights under the old plan.” See Dkt. No. 163-1, Ex. Q to Ex. 1 at
+
+                                  25                  3239.
+
+                                  26
+                                  27              •   The offer letters accompanying the releases stated that “Atmel and Microchip are
+
+                                  28                  making this offer, in part to resolve any current disagreement or misunderstanding
+                                                                                         14
+                                        Case 4:16-cv-05544-HSG Document 185 Filed 08/23/23 Page 15 of 24
+
+
+
+
+                                   1                  regarding severance benefits previously offered by [Atmel], and in part to provide
+
+                                   2                  you with the security of certain benefits in the event your relationship is terminated
+
+                                   3                  involuntarily without Cause . . . .” See Dkt. No. 163-1, Ex. R to Ex. 1 at 815–20.
+
+                                   4                  The letter further explained that the “receipt of the Severance Benefits [under this
+
+                                   5                  offer] will be subject to you signing and not revoking a release of any and all
+
+                                   6                  claims . . . .” Id.
+
+                                   7
+
+                                   8              •   Plaintiffs Schuman and Coplin similarly testified during their depositions that they
+
+                                   9                  understood they were waiving claims under the Atmel Plan by signing the release.
+
+                                  10                  See Dkt. No. 163-1, Ex. W to Ex. 1 at 99:19–100:7; id., Ex. S at 88:19–25. Mr.
+
+                                  11                  Schuman said that at the time he signed, he felt like he “was being taken
+
+                                  12                  advantage” of, but he “was trying to get this behind [him]” and was “walking
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13                  away.” Id., Ex. W at 100:19–23.
+
+                                  14
+
+                                  15   Plaintiffs offer no contrary evidence regarding their awareness of the dispute and the nature of the
+
+                                  16   releases. And as the Berman case illustrates, not all Atmel employees signed these releases.
+
+                                  17   Some decided not to sign and to pursue their right to benefits under the Atmel Plan instead.
+
+                                  18          Turning to the other circumstances regarding the releases, Plaintiffs do not challenge
+
+                                  19   Defendants’ proffered evidence that the releases were knowing and voluntary under the
+
+                                  20   “heightened scrutiny” six-factor test. Nor do Plaintiffs offer any evidence of their own that raises
+
+                                  21   a genuine dispute of material fact about these factors. See Dkt. No. 175 at 15 (arguing that “the
+
+                                  22   releases should not be enforceable, whether or not they were ‘knowingly’ or ‘voluntarily’
+
+                                  23   obtained—and regardless of the extent to which plaintiffs were ‘intimidated and coerced . . . .’”).
+
+                                  24   The evidence, at least as to Plaintiffs Schuman and Coplin, indicates that the releases were in fact
+
+                                  25   knowingly and voluntarily entered into:
+
+                                  26
+                                  27              •   Defendants point out that both Schuman and Coplin were sophisticated individuals,
+
+                                  28                  holding management positions at Atmel. Plaintiff Coplin was a Director of Human
+                                                                                        15
+                                       Case 4:16-cv-05544-HSG Document 185 Filed 08/23/23 Page 16 of 24
+
+
+
+
+                                   1              Resources, and was responsible for understanding benefits programs, assisting
+
+                                   2              employees as they needed help, and interfacing with in-house attorneys with any
+
+                                   3              legal issues that arose. See Dkt. No. 163-1, Ex. S. to Ex. 1 at 11:2–12:25, 23:9–25.
+
+                                   4              He also was trained regarding ERISA, attending multiple seminars on the subject.
+
+                                   5              Id. Plaintiff Schuman, in turn, was a Senior Director of Investor Relations. See
+
+                                   6              Dkt. No. 163-1, Ex. JJ to Ex. 1.
+
+                                   7
+
+                                   8          •   As already discussed above, the record indicates that Defendants were clear both in
+
+                                   9              the offer letters themselves and in the all-hands PowerPoint presentation that the
+
+                                  10              releases and payments were offered to resolve any dispute about the meaning of the
+
+                                  11              Atmel Plan and employees’ entitlement to benefits under that Plan. And both
+
+                                  12              Plaintiffs Schuman and Coplin testified during their depositions that they
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13              understood they were waiving claims under the Atmel Plan by signing the releases.
+
+                                  14
+
+                                  15          •   The record also indicates that Plaintiffs were given sufficient time to consider the
+
+                                  16              offer. Plaintiff Schuman acknowledged that he had 45 days to consider whether to
+
+                                  17              accept the offer. See Dkt. No. 108-1, Ex. 6 at 101:3–10; see also Dkt. No. 163-1,
+
+                                  18              Ex. W to Ex. 1 at 84:8–13. During that time, he consulted with a lawyer, but
+
+                                  19              ultimately decided to sign after just a couple weeks “to be done with this” and
+
+                                  20              “walk[] away.” See Dkt. No. 163-1, Ex. W to Ex. 1 at 84:12–21, 100:5–7, 100:19–
+
+                                  21              23. Plaintiff Coplin similarly acknowledged that he had “ample time” to review the
+
+                                  22              offer and release, though he ultimately took just a few days to do so. See Dkt. No.
+
+                                  23              163-1, Ex. S to Ex. 1 at 73:2–4. The offer itself advised employees to consult with
+
+                                  24              lawyers. See id. at 78:3–25. However, Plaintiff Coplin explained that he did not
+
+                                  25              consult with a lawyer or other ERISA expert before signing because he thought
+
+                                  26              things were “clear” since “Mr. Sanghi had told [them] what was going on and [the
+
+                                  27              offer] was the end result of what he had planned,” and there was no need to consult
+
+                                  28              outside help. See id. at 73:5–74:5.
+                                                                                     16
+                                        Case 4:16-cv-05544-HSG Document 185 Filed 08/23/23 Page 17 of 24
+
+
+
+
+                                   1
+
+                                   2              •   In exchange for accepting the offer and signing the release, Plaintiff Schuman
+
+                                   3                  received 25% of his annual base salary, or $53,045.00, an incentive bonus of
+
+                                   4                  $5,917.81, 100% vesting acceleration of stock, and three months of COBRA
+
+                                   5                  benefits paid by Microchip. See Dkt. No. 163-1, Ex. EE to Ex. 1. Plaintiff Coplin,
+
+                                   6                  in turn, received 25% of his annual base salary, or $48,255.99, an incentive bonus
+
+                                   7                  of $7,745.90, 100% vesting acceleration of stock, and three months of COBRA
+
+                                   8                  benefits paid by Microchip. See Dkt. No. 163-1, Ex. DD to Ex. 1. As the Court
+
+                                   9                  previously explained, they did not offer to tender as part of this lawsuit, and they
+
+                                  10                  appear to have retained this consideration. See Dkt. No. 54 at 23–24.
+
+                                  11
+
+                                  12          During the hearing on the motion for summary judgment, Plaintiffs suggested for the first
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   time that the release was not sufficiently clear because it did not explicitly reference ERISA
+
+                                  14   claims, although it mentioned statutory provisions generally. The Court does not ordinarily
+
+                                  15   consider arguments raised for the first time at the hearing. But even if the Court were to consider
+
+                                  16   this argument, as noted above, Plaintiffs Schuman and Coplin testified that they knew that the
+
+                                  17   releases were intended to resolve the outstanding dispute about their right to ERISA benefits under
+
+                                  18   the Atmel Plan. See Dkt. No. 163-1, Ex. W to Ex. 1 at 99:19–100:7; id., Ex. S at 88:19–25. Mr.
+
+                                  19   Sanghi explained during the all-hands meeting that “[e]mployees will have to sign and accept the
+
+                                  20   new severance plan and waive any rights under the old plan.” See Dkt. No. 163-1, Ex. Q to Ex. 1
+
+                                  21   at 3239. And the offer letters themselves explained that “Atmel and Microchip are making this
+
+                                  22   offer, in part to resolve any current disagreement or misunderstanding regarding severance
+
+                                  23   benefits previously offered by [Atmel] . . . .” See Dkt. No. 163-1, Ex. R to Ex. 1 at 815–20.
+
+                                  24          Having considered the totality of the circumstances based on the undisputed facts, the
+
+                                  25   Court finds that the releases signed by Plaintiffs Peter Schuman and William Coplin were obtained
+
+                                  26   knowingly and voluntarily. As a consequence, it is not clear to the Court how this class action can
+
+                                  27   proceed without the two named Plaintiffs. And it does not appear that any of the other class
+
+                                  28   members would be meaningfully different from Messrs. Schuman or Coplin for purposes of
+                                                                                        17
+                                        Case 4:16-cv-05544-HSG Document 185 Filed 08/23/23 Page 18 of 24
+
+
+
+
+                                   1   substituting in as a class representative. The five individuals who did not sign releases do not
+
+                                   2   appear to be similarly situated to the vast majority of the class, and the other class members all
+
+                                   3   signed releases.
+
+                                   4          Despite Defendants’ urging, however, there is not sufficient evidence for the Court to
+
+                                   5   evaluate the six factors as to the remaining Plaintiffs who signed the releases. As discussed during
+
+                                   6   the hearing on the motion, the Court’s order granting class certification was premised, at least in
+
+                                   7   part, on the idea that questions about the enforceability of the releases could be addressed on a
+
+                                   8   class-wide basis. The parties’ class certification briefs focused on the uniformity (or lack thereof)
+
+                                   9   of the communications that Defendants made to class members, but did not discuss the six-factor
+
+                                  10   test described above. See, e.g., Dkt. No. 108 at 8–9, 15–20. It is now apparent, however, that the
+
+                                  11   threshold question regarding enforceability of the releases implicates individualized
+
+                                  12   considerations. The Court therefore ORDERS the parties to SHOW CAUSE why the class
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   should or should not be decertified in light of the Court’s finding that individualized consideration
+
+                                  14   is required under the six-factor test to determine whether the releases were obtained knowingly
+
+                                  15   and voluntarily. The Court sets a briefing schedule for the OSC in Section IV below..
+
+                                  16                                                 *        *      *
+
+                                  17          The Court GRANTS the motion for summary judgment as to the two named Plaintiffs.
+
+                                  18          B.     Breach of Fiduciary Duties and Equitable Relief
+                                  19          As to the remaining non-named Plaintiffs, Defendants argue that their breach of fiduciary
+
+                                  20   duty claim fails. Defendants argue that (1) Plaintiffs lack factual support for their contention that
+
+                                  21   Defendants breached any fiduciary duties, and in any event (2) Plaintiffs are not entitled to any of
+
+                                  22   their requested equitable relief for such a breach. See Dkt. No. 163 at 14–25.
+
+                                  23               i.     Alleged Breach
+                                  24          “To establish an action for equitable relief under ERISA section 502(a)(3) [for breach of
+
+                                  25   fiduciary duty], the defendant must be an ERISA fiduciary acting in its fiduciary capacity, and
+
+                                  26   must ‘violate [ ] ERISA-imposed fiduciary obligations.’” See Mathews v. Chevron Corp., 362
+
+                                  27   F.3d 1172, 1178 (9th Cir. 2004) (quoting Varity Corp. v. Howe, 516 U.S. 489, 506 (1996)). Under
+
+                                  28   ERISA, fiduciaries must “discharge [their] duties with respect to a plan solely in the interest of the
+                                                                                         18
+                                        Case 4:16-cv-05544-HSG Document 185 Filed 08/23/23 Page 19 of 24
+
+
+
+
+                                   1   participants and beneficiaries” and as relevant here, “for the exclusive purpose of providing
+
+                                   2   benefits to participants and their beneficiaries . . . .” 29 U.S.C. § 1104(a)(1)(A)(i). ERISA
+
+                                   3   fiduciaries have “an obligation to convey complete and accurate information material to the
+
+                                   4   beneficiary’s circumstance, even when a beneficiary has not specifically asked for the
+
+                                   5   information.” King v. Blue Cross & Blue Shield of Ill., 871 F.3d 730, 744 (9th Cir. 2017)
+
+                                   6   (quotation omitted). And ERISA “fiduciaries breach their duties if they mislead plan participants
+
+                                   7   or misrepresent the terms of administration of a plan.” Id. (quotation omitted).
+
+                                   8          Here, Plaintiffs contend that Defendants breached their fiduciary duties by failing to
+
+                                   9   provide complete information about the benefits to which Plaintiffs were entitled, failing to
+
+                                  10   investigate the intended meaning of the Atmel Plan, and offering Plaintiffs reduced severance
+
+                                  11   benefits in exchange for releases. See FAC at ¶¶ 87–89; see also Dkt. No. 176 at 2–3, 18–22. At
+
+                                  12   bottom, these allegations collapse into the same core claim: Defendants knew or should have
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   known that the Atmel Plan had not in fact expired.
+
+                                  14          In support of this theory, Plaintiffs point out that in early April 2016, Lauren Carr,
+
+                                  15   Microchip’s Senior Vice President of Global Human Resources, saw a letter written to Plaintiff
+
+                                  16   Schuman from Atmel’s Senior Vice President of Global Human Resources, which stated in
+
+                                  17   relevant part:
+
+                                  18
+                                                        We recognize that there continues to be significant speculation
+                                  19                    regarding the acquisition of the company and understand that this can
+                                                        be distracting and unsettling. As a result we believe it is important to
+                                  20                    remind you of the benefits for which you may be eligible in the event
+                                                        that your employment is involuntarily terminated without Cause in
+                                  21                    connection with a Change of Control of the company, including an
+                                                        acquisition by Dialog or Microchip.
+                                  22
+
+                                  23   See Dkt. No. 176-1, Ex. 6 at 33:10–35:10; see also id., Ex. 2 to Ex. 6 (emphasis added). The letter
+
+                                  24   further stated that the Atmel Plan “remain[ed] in place.” Id. Critically, the letter was dated
+
+                                  25   January 14, 2016, over two months after the November 1, 2015, date on which Defendants
+
+                                  26   contend the Atmel Plan expired. Id. Despite this letter, however, Ms. Carr testified that she
+
+                                  27   thought the language of the Plan was clear that it had expired, and there was no reason to discuss
+
+                                  28   an alternate interpretation with the Plan’s drafters. See id., Ex. 6 at 28:23–33:9. Similarly, and as
+                                                                                          19
+                                        Case 4:16-cv-05544-HSG Document 185 Filed 08/23/23 Page 20 of 24
+
+
+
+
+                                   1   already discussed, Mr. Sanghi testified that he met with Atmel employees after the merger, and
+
+                                   2   understood they were upset by—and disagreed with—Microchip’s interpretation that the Plan had
+
+                                   3   expired. See Dkt. No. 176-1, Ex. E at 65:25–71:1, 73:14–77:20.
+
+                                   4          Defendants argue that irrespective of this evidence, they did not breach any fiduciary duty
+
+                                   5   when they interpreted the Plan as having expired. Dkt. No. 163 at 15–16; Dkt. No. 177 at 6–8.
+
+                                   6   They point out that the Ninth Circuit concluded that the Plan itself was ambiguous, and
+
+                                   7   characterize that court’s decision as finding that their interpretation was reasonable. Id. As
+
+                                   8   already explained, the Ninth Circuit in Berman concluded that summary judgment should not have
+
+                                   9   been entered in the Berman plaintiffs’ favor because the Atmel Plan was ambiguous on its face.
+
+                                  10   See Berman, 838 F. App’x at 293. The Ninth Circuit quoted this Court’s motion to dismiss order
+
+                                  11   in concluding that “reasonable parties could disagree as to whether the [Atmel] Plan required the
+
+                                  12   Initial Triggering Event and the Change of Control to involve the same merger partner.” Id.
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   (quoting Berman, Dkt. No. 35 at 23). The Court believes that a somewhat detailed discussion of
+
+                                  14   the circumstances that led to its motion to dismiss order and the Ninth Circuit’s memorandum
+
+                                  15   disposition in Berman is necessary to provide important clarification.
+
+                                  16          In their initial motion to dismiss in Berman, Defendants argued that Plaintiffs had not
+
+                                  17   sufficiently stated a claim for equitable estoppel. See Berman, Dkt. No. 9 at 17. Defendants
+
+                                  18   pointed out that Plaintiffs’ theory of the case “rest[ed] on the argument that the ‘plain language’ of
+
+                                  19   the Atmel Plan unambiguously entitle[d] them to benefits . . . .” Id. Defendants urged that
+
+                                  20   because a claim for equitable relief requires Plaintiffs to show that provisions of the Plan were
+
+                                  21   ambiguous, “any claim for equitable estoppel would directly refute—and destroy—their entire
+
+                                  22   case.” Id. In response to this argument, the Court simply concluded that at the motion to dismiss
+
+                                  23   stage, Plaintiffs could plead in the alternative. See Berman, Dkt. No. 35 at 23, & n.14. The Court
+
+                                  24   further explained that Plaintiffs had sufficiently pleaded this alternative claim when viewing the
+
+                                  25   fact in the light most favorable to them, as required at the motion to dismiss stage:
+
+                                  26
+                                                      Viewing the facts in Plaintiffs’ favor, the Court finds that Plaintiffs
+                                  27                  have sufficiently pled their claim for equitable estoppel. First, the
+                                                      Court is satisfied, notwithstanding Plaintiffs’ assertions that the
+                                  28                  provisions of the Atmel Plan are unambiguous, that reasonable parties
+                                                                                        20
+                                        Case 4:16-cv-05544-HSG Document 185 Filed 08/23/23 Page 21 of 24
+
+
+
+                                                      could disagree as to whether the Plan required the Initial Triggering
+                                   1                  Event and the Change of Control to involve the same merger
+                                                      partner—particularly at the motion to dismiss stage, and particularly
+                                   2                  since that interpretation is one of the primary disputes in this case.
+                                   3
+
+                                   4   Id. The Court did not make any factual findings about the interpretation of the Plan. See id. The
+
+                                   5   Court simply concluded that under the relevant legal standard for a motion to dismiss, a
+
+                                   6   reasonable factfinder could conclude that the Plan was ambiguous and required the same merger
+
+                                   7   partner for both the Initial Triggering Event and the Change of Control. Id.
+
+                                   8          In citing to this Court’s language on appeal, the Ninth Circuit did not definitively resolve
+
+                                   9   the meaning of the Plan either. It concluded that “the relevant language in the Atmel Plan [wa]s
+
+                                  10   ambiguous,” meaning that summary judgment could not be granted in Plaintiffs’ favor based
+
+                                  11   solely on the face of the Plan. See Berman, 838 F. App’x at 293. Despite Defendants’ urging, the
+
+                                  12   Ninth Circuit did not hold that any claim, including a breach of fiduciary duty claim, somehow
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   fails as a matter of law if it is premised on the misinterpretation of an ambiguous plan. Id. Nor
+
+                                  14   did it make any factual findings about the Plan itself. Rather, it found that discovery was
+
+                                  15   appropriate under the circumstances. Id. The Berman memorandum disposition, therefore, does
+
+                                  16   not definitively resolve this case or even this particular claim.
+
+                                  17          Still, Defendants repeatedly state that a “reasonable interpretation of an ambiguous plan [ ]
+
+                                  18   cannot constitute a breach of fiduciary duty.” See, e.g., Dkt. No. 163 at 15. But they offer no
+
+                                  19   legal support for this conclusion. The Ninth Circuit, on the other hand, has explained that ERISA
+
+                                  20   fiduciaries may misinform beneficiaries and violate their fiduciary duties, not only through direct
+
+                                  21   misstatements, but also “by saying that something is true when the person does not know whether
+
+                                  22   it is true or not.” Mathews, 362 F.3d at 1183 (quotation omitted) (emphasis omitted); see also 29
+
+                                  23   U.S.C. § 1104(a)(1)(A)(i) (requiring that fiduciaries “discharge [their] duties with respect to a plan
+
+                                  24   solely in the interest of the participants and beneficiaries”). Even if the Plan on its face may have
+
+                                  25   been ambiguous, Plaintiffs allege that Defendants’ interpretation was wrong, and that they should
+
+                                  26   have known it was wrong based on the information available to Defendants after the merger. The
+
+                                  27   Court need not, and cannot, decide at this stage the veracity of Defendants’ interpretation that the
+
+                                  28   Plan expired, or assess the strength of Plaintiffs’ evidence that Defendants knew or should have
+                                                                                         21
+                                           Case 4:16-cv-05544-HSG Document 185 Filed 08/23/23 Page 22 of 24
+
+
+
+
+                                   1   known the actual meaning of the Plan. But Plaintiffs have raised at least one material dispute of
+
+                                   2   fact regarding Defendants’ knowledge of the Plan and its intended interpretation that precludes
+
+                                   3   summary judgment. The Court therefore DENIES the motion on this basis.
+
+                                   4              ii.   Equitable Relief
+                                   5           “ERISA authorizes participants and beneficiaries to seek equitable relief for violations of
+
+                                   6   [fiduciary] duty.” Guenther v. Lockheed Martin Corp., 972 F.3d 1043, 1051 (9th Cir. 2020)
+
+                                   7   (citing 29 U.S.C. § 1132(a)(3)); 29 U.S.C. § 1132(a)(3)(B) (permitting beneficiary to bring civil
+
+                                   8   action “to obtain other appropriate equitable relief . . . to redress [ERISA] violations”). But
+
+                                   9   without regard to any factual disputes regarding liability for a breach of fiduciary duty, Defendants
+
+                                  10   argue that Plaintiffs are not entitled to any of the equitable relief they seek under § 502(a)(3). See
+
+                                  11   Dkt. No. 163 at 15–25. Since they initially filed this case, Plaintiffs have winnowed down their
+
+                                  12   requested equitable relief. They acknowledge that the only equitable relief they are now seeking is
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   an injunction to preclude the enforcement of the releases.5 See Dkt. No. 176 at 3, 25 (“[T]he
+
+                                  14   appropriate equitable remedy—the only remedy that would restore the plaintiffs and class
+
+                                  15   members to their pre-breach status and make them whole from the consequences of those breaches
+
+                                  16   of fiduciary duty—is an order enjoining the enforcement of Microchip’s wrongfully obtained
+
+                                  17   releases, thus entitling plaintiffs and class to their long-unpaid severance amounts under the
+
+                                  18   Plan.”).
+
+                                  19           Defendants argue that Plaintiffs’ claim for injunctive relief fails because the Ninth Circuit
+
+                                  20   previously ruled that the Berman plaintiffs’ remaining claims for injunctive relief should have
+
+                                  21   been dismissed. See Dkt. No. 163 at 23–24; see also Berman, 838 Fed. App’x at 293.
+
+                                  22   Defendants’ primary argument that Plaintiffs’ injunctive relief is precluded by res judicata is not
+
+                                  23   well taken. The Ninth Circuit’s memorandum disposition does not discuss this issue at any length,
+
+                                  24   but states in the penultimate sentence that “[t]he district court erred in denying the defendants’
+
+                                  25   motion to dismiss . . . the claim for injunctive relief because plaintiffs failed to plead ‘irreparable
+
+                                  26   injury.’” Berman, 838 Fed. App’x at 293 (citation omitted).
+
+                                  27
+                                       5
+                                  28    Plaintiffs acknowledge that they are no longer seeking equitable estoppel or equitable surcharge.
+                                       See Dkt. No. 176 at 1, 19, & n.1; see also Dkt. No. 144 at 19, n.5.
+                                                                                        22
+                                        Case 4:16-cv-05544-HSG Document 185 Filed 08/23/23 Page 23 of 24
+
+
+
+
+                                   1          Critically, Defendants made no effort in their motion to establish that privity exists
+
+                                   2   between the Berman plaintiffs and Plaintiffs in this case. See Ruiz v. Snohomish Cty. Pub. Util.
+
+                                   3   Dist. No. 1, 824 F.3d 1161, 1164 (9th Cir. 2016) (citing requirements for res judicata to apply,
+
+                                   4   including identity or privity between parties). Defendants simply asserted in a single sentence that
+
+                                   5   “privity exists between the Schuman plaintiffs and the Berman plaintiffs,” without any
+
+                                   6   explanation. See Dkt. No. 163 at 24. Only in their reply brief did Defendants attempt to explain
+
+                                   7   how they are in privity, urging in summary fashion that the Berman plaintiffs raised similar
+
+                                   8   arguments based on the same underlying factual allegations and were represented by the same
+
+                                   9   attorneys. See Dkt. No. 177 at 14. Defendants’ attempt to support their argument only in reply is
+
+                                  10   improper. But regardless, their contentions fall short of establishing that a finding of privity is
+
+                                  11   appropriate here.
+
+                                  12          “[P]rivity may exist if there is substantial identity between parties, that is, when there is
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   sufficient commonality of interest.” See Tahoe-Sierra Pres. Council, Inc. v. Tahoe Reg’l Plan.
+
+                                  14   Agency, 322 F.3d 1064, 1081 (9th Cir. 2003) (quotation omitted). Yet Defendants have not
+
+                                  15   adequately explained how the Berman plaintiffs had a sufficient commonality of interest to
+
+                                  16   Plaintiffs in this case to warrant a finding of res judicata. As discussed at length above, unlike in
+
+                                  17   Berman, the vast majority of Plaintiffs in this case signed releases and obtained reduced severance
+
+                                  18   benefits upon their termination from Microchip. Although the complaint in Berman references
+
+                                  19   such releases, see Berman, Dkt. No. 1 at ¶¶ 53–60, 79, 83–84, Prayer for Relief at ¶ 6, none of the
+
+                                  20   Berman plaintiffs signed them. Cf. Berman, Dkt. No. 9 (“[T]he Separation Agreement[s] have no
+
+                                  21   relevancy to Plaintiffs’ claims as they admit that none of them signed one.”) (emphasis in
+
+                                  22   original). It is therefore unsurprising that in their briefs to the Ninth Circuit the Berman parties
+
+                                  23   did not address whether injunctive relief to prevent the enforcement of such releases was
+
+                                  24   appropriate or properly pled. See generally Dkt. No. 179. The Court therefore finds that res
+
+                                  25   judicata does not bar Plaintiffs’ requested injunctive relief in this case.
+
+                                  26          Nevertheless, given the current posture of this case, the Court need not evaluate whether
+
+                                  27   such relief is actually available or sufficiently supported. This requested relief—preventing the
+
+                                  28   enforcement of the releases—would be irrelevant to any Plaintiffs whose claims are able to
+                                                                                          23
+                                        Case 4:16-cv-05544-HSG Document 185 Filed 08/23/23 Page 24 of 24
+
+
+
+
+                                   1   proceed in this case. As to the five Plaintiffs who never signed a release, Defendants could not—
+
+                                   2   and do not seek—to enforce the releases against them. As to the other non-named Plaintiffs who
+
+                                   3   did sign releases, they will have to establish that the releases were not obtained knowingly and
+
+                                   4   voluntarily in order to proceed with their claims. If they are able to do so, the releases would be
+
+                                   5   unenforceable anyway. Following the briefing on class decertification, if any non-named
+
+                                   6   Plaintiffs who signed releases still seek injunctive relief to prevent the enforcement of releases,
+
+                                   7   Defendants may raise this argument again. For now, the Court DENIES the motion on this basis.
+
+                                   8            C.      Denial of Claim Benefits
+                                   9            Lastly, in a footnote to their motion, Defendants preserve their argument for appeal that
+
+                                  10   summary judgment is appropriate as to Plaintiffs’ Section 502(a)(1)(B) claim for benefits. See
+
+                                  11   Dkt. No. 163 at 7, n.1. Defendants acknowledge that the Court rejected these same arguments in
+
+                                  12   the Berman action, finding that material disputes of fact precluded summary judgment. Id. The
+Northern District of California
+ United States District Court
+
+
+
+
+                                  13   Court continues to find this reasoning correct. See Berman, Dkt. No. 177. The Court therefore
+
+                                  14   DENIES the motion on this basis.
+
+                                  15   IV.      CONCLUSION
+                                  16            Accordingly, the Court GRANTS the motion for summary judgment as to the two named
+
+                                  17   Plaintiffs, but otherwise DENIES the motion. As explained in Section III.A.ii above, the Court
+
+                                  18   further ORDERS the parties to SHOW CAUSE why the class should or should not be decertified
+
+                                  19   based on the individualized inquiry necessary to assess the validity of the releases signed by the
+
+                                  20   majority of class members. The parties shall submit simultaneous briefs of no more than 15 pages
+
+                                  21   by September 15, 2023. The parties may then file simultaneous reply briefs of no more than 10
+
+                                  22   pages by September 29, 2023. The matter will be deemed submitted upon receipt of the replies
+
+                                  23   unless otherwise ordered by the Court.
+
+                                  24            IT IS SO ORDERED.
+
+                                  25   Dated:        8/23/2023
+
+                                  26                                                    ______________________________________
+                                                                                        HAYWOOD S. GILLIAM, JR.
+                                  27                                                    United States District Judge
+                                  28
+                                                                                         24

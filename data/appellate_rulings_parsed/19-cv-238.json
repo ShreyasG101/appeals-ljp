@@ -1,0 +1,41 @@
+{
+  "overall_outcome": "REVERSE",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the Social Security Administration (SSA) may charge full cost fees for non-program-related FOIA requests even when it fails to comply with FOIA's statutory response deadlines, in light of the 'notwithstanding' clause in 42 U.S.C. \u00a7 1306(c) and the later-enacted 2007 FOIA Amendment prohibiting fees for untimely responses.",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "The court held that the plain text of \u00a7 1306(c), with its 'notwithstanding' clause, unambiguously allows the SSA to charge full cost fees for non-program-related requests regardless of FOIA's fee-preclusion provision, and thus the district court erred in ordering a refund of the fee."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether Shapiro's FOIA request was 'directly related to the administration' of an SSA program, such that the SSA could not charge full cost fees under \u00a7 1306(c).",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "The court found that Shapiro's request, aimed at general public education and research rather than pursuing a specific benefit or activity under the Social Security Act, was not directly program-related, so the SSA properly imposed the fee."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether Shapiro was entitled to attorneys\u2019 fees and costs as a 'substantially prevailing' party under FOIA.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "REVERSE",
+      "key_reasoning": "Because the court reversed the fee refund and found that the only relief obtained was a procedural order for further explanation (not substantive relief), Shapiro was not a 'substantially prevailing' party and thus not entitled to attorneys\u2019 fees or costs."
+    }
+  ],
+  "key_precedents": [
+    "N.L.R.B. v. SW Gen., Inc., 580 U.S. 288 (2017)",
+    "Cisneros v. Alpine Ridge Grp., 508 U.S. 10 (1993)",
+    "Buckhannon Bd. & Care Home, Inc. v. W. Va. Dep\u2019t of Health & Hum. Res., 532 U.S. 598 (2001)",
+    "Carroll v. Trump, 49 F.4th 759 (2d Cir. 2022)",
+    "Wilson v. Fed. Bureau of Investigation, 91 F.4th 595 (2d Cir. 2024)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "Plaintiff-Appellee Robert E. Shapiro submitted a request under the Freedom of Information Act (\u201cFOIA\u201d), 5 U.S.C. \u00a7 552, for documents related to how Defendant-Appellant, the United States Social Security Administration (\u201cSSA\u201d), assesses disability claims for migraines and other headache disorders. Under 42 U.S.C. \u00a7 1306(c), the SSA can require a requesting party to repay the agency for the \u201cfull cost\u201d of responding to a FOIA submission that is \u201cnot directly related to the administration\u201d of an applicable SSA program. At the same time, FOIA prohibits agencies from charging fees if they did not timely respond to the FOIA request. See 5 U.S.C. \u00a7 552(a)(4)(A)(viii). The SSA sought reimbursement from Shapiro according to \u00a7 1306(c)\u2019s cost-reimbursement provision, but Shapiro refused because the agency had failed to respond to his request within FOIA\u2019s statutory deadline. The United States District Court for the District of Vermont ruled in favor of Shapiro (Christina Reiss, Chief Judge), holding that FOIA\u2019s fee-preclusion provision prevailed over \u00a7 1306(c)\u2019s cost-reimbursement provision and ordering a refund of the fee charged to Shapiro. Based in part on this ruling, the district court also awarded Shapiro attorneys\u2019 fees and costs.\n\nOn appeal, we hold that the text of the SSA\u2019s cost-reimbursement provision, \u00a7 1306(c), is unambiguous and takes precedence over the competing FOIA provision. The cost-reimbursement provision begins with a \u201cnotwithstanding\u201d clause that expressly exempts the agency from \u201csection[] 552,\u201d i.e., FOIA, when the FOIA request is \u201cnot directly related to the administration of\u201d an applicable SSA program. Here, the SSA determined that Shapiro\u2019s request was not program-related, and we agree. Accordingly, we REVERSE the district court\u2019s judgment and VACATE its order granting attorneys\u2019 fees and costs."
+}

@@ -1,0 +1,673 @@
+FOR PUBLICATION
+
+       UNITED STATES COURT OF APPEALS
+            FOR THE NINTH CIRCUIT
+
+
+PETER SCHUMAN; WILLIAM                     No. 24-2624,
+COPLIN,                                        24-2978
+                                             D.C. No.
+           Plaintiffs – Appellants /
+                                          4:16-cv-05544-
+           Cross-Appellees,
+                                               HSG
+
+v.
+
+MICROCHIP TECHNOLOGY                         OPINION
+INCORPORATED; ATMEL
+CORPORATION; ATMEL
+CORPORATION UNITED STATES
+SEVERANCE GUARANTEE
+BENEFIT PROGRAM,
+
+            Defendants – Appellees /
+            Cross-Appellants.
+
+
+       Appeal from the United States District Court
+         for the Northern District of California
+     Haywood S. Gilliam, Jr., District Judge, Presiding
+2                SCHUMAN V. MICROCHIP TECH. INC.
+
+
+             Argued and Submitted May 12, 2025
+                  San Francisco, California
+
+                       Filed June 5, 2025
+
+Before: Sidney R. Thomas, William A. Fletcher, and Milan
+              D. Smith, Jr., Circuit Judges.
+
+             Opinion by Judge Sidney R. Thomas
+
+
+                          SUMMARY*
+
+
+
+                  Release of Claims / ERISA
+
+    The panel reversed the district court’s summary
+judgment against Peter Schuman and William Coplin in a
+case concerning the enforceability of a release of claims
+under the Employee Retirement Income Security Act of
+1974 (“ERISA”); remanded to the district court for further
+proceedings; and dismissed for lack of appellate jurisdiction
+a cross-appeal by Microchip Technology Inc., Amtel Corp.,
+and Amtel Corp. U.S. Severance Guarantee Benefit Program
+(collectively “Defendants”).
+    In anticipation of a potential merger, Amtel Corp.
+created a benefits plan (“Plan”), governed by ERISA, for
+employees to receive severance in the event that an acquiring
+company fired Amtel staff. Soon after Microchip acquired
+
+
+*
+ This summary constitutes no part of the opinion of the court. It has
+been prepared by court staff for the convenience of the reader.
+               SCHUMAN V. MICROCHIP TECH. INC.               3
+
+
+Amtel, Microchip terminated Schuman and Coplin, without
+cause, and offered them significantly lower benefits than
+promised in the Plan in exchange for a release of all potential
+claims. Schuman and Coplin signed the releases.
+    Schuman and Coplin later filed a class-action complaint,
+on behalf of about 200 similarly situated former Amtel
+employees who had also signed releases, alleging violations
+of ERISA, including breach of fiduciary duty and denial of
+benefits, and challenging the enforceability of the releases.
+    The district court entered final judgment under Federal
+Rule of Civil Procedure 54(b) in favor of Defendants and
+against Schuman and Coplin, certifying for this court’s
+review the question of what legal test should apply in
+determining the enforceability of the releases signed by
+Schuman and Coplin and the majority of class members.
+    The panel held that the district court’s Rule 54(b)
+certification was not improper.
+    The panel held that courts must consider alleged
+improper conduct by the fiduciary in obtaining a release as
+part of the totality of the circumstances concerning the
+knowledge or voluntariness of the release or waiver. In
+evaluating the totality of the circumstances to determine
+whether the individual entered into the release or waiver
+knowingly and voluntarily, courts should consider the
+following non-exhaustive factors: (1) the employee’s
+education and business experience; (2) the employee’s input
+in negotiating the terms of the settlement; (3) the clarity of
+the release language; (4) the amount of time the employee
+had for deliberation before signing the release; (5) whether
+the employee actually read the release and considered its
+terms before signing it; (6) whether the employee knew of
+his rights under the plan and the relevant facts when he
+4              SCHUMAN V. MICROCHIP TECH. INC.
+
+
+signed the release; (7) whether the employee had an
+opportunity to consult with an attorney before signing the
+release; (8) whether the consideration given in exchange for
+the release exceeded the benefits to which the employee was
+already entitled by contract or law; and (9) whether the
+employee’s release was induced by improper conduct on the
+fiduciary’s part. Where, as here, the district court has found
+a genuine issue of fact material to the issue of a breach of
+fiduciary duty in obtaining the release of claims, the final
+factor warrants serious consideration and may weigh
+particularly heavily against finding that the release was
+“knowing” or “voluntary” or both.
+   The panel remanded to the district court for its
+application of the factors.
+    The panel dismissed for lack of jurisdiction Microchip’s
+cross-appeal challenging the district court’s denial of
+summary judgment as to the non-named plaintiffs. Pendent
+jurisdiction does not apply because the issue raised in the
+cross-appeal—whether the judgment against Schuman and
+Coplin extinguished the non-named plaintiffs’ claims—is
+not inextricably intertwined with the issue properly before
+this court on interlocutory appeal.
+              SCHUMAN V. MICROCHIP TECH. INC.            5
+
+
+                       COUNSEL
+
+Michael Rubin (argued) and Matthew J. Murray, Altshuler
+Berzon LLP, San Francisco, California; Keith Ehrman and
+Cliff M. Palefsky, McGuinn Hillsman & Palefsky, San
+Francisco, California; William B. Reilly, Law Office of
+William Reilly, Mill Valley, California; for Plaintiffs-
+Appellants.
+Mark G. Kisicki (argued), Kristina N. Holmstrom, and
+Elizabeth Soveranez, Ogletree Deakins Nash Smoak &
+Stewart PC, Phoenix, Arizona; Sean P. Nalty, Ogletree
+Deakins Nash Smoak & Stewart PC, San Francisco,
+California; Mark E. Schmidtke, Ogletree Deakins Nash
+Smoak & Stewart PC, Valparaiso, Indiana; David L.
+Schenberg, Ogletree Deakins Nash Smoak & Stewart PC, St.
+Louis, Missouri; for Defendants-Appellees.
+
+
+
+                        OPINION
+
+S.R. THOMAS, Circuit Judge:
+
+    In this appeal, we consider what legal test courts must
+apply to evaluate the enforceability of a release of claims
+under the Employee Retirement Income Security Act of
+1974 (“ERISA”). We hold that courts must decide whether
+the employee entered into the release knowingly and
+voluntarily by examining the totality of the circumstances,
+including enumerated factors. This inquiry requires an
+assessment of whether any improper fiduciary conduct, such
+as an employer’s breach of an ERISA-imposed fiduciary
+6             SCHUMAN V. MICROCHIP TECH. INC.
+
+
+duty in the course of obtaining the release, undermines the
+validity of the release.
+    We have jurisdiction over the appeal pursuant to
+28 U.S.C. § 1291 because the district court properly entered
+judgment pursuant to Federal Rule of Civil Procedure 54(b).
+As discussed infra, we lack appellate jurisdiction over the
+cross-appeal.
+    We review the district court’s grant of summary
+judgment de novo. King v. Blue Cross & Blue Shield of Ill.,
+871 F.3d 730, 739 (9th Cir. 2017). We reverse and remand
+for proceedings consistent with this opinion.
+                             I
+    In anticipation of a potential merger, the technology
+company Atmel Corporation created a benefits plan
+(“Plan”), governed by ERISA, for employees to receive
+severance in the event that an acquiring company fired
+Atmel staff. Atmel told employees that the Plan, which
+included significant cash severance, was “intended to ease
+concerns.”
+    The Plan would only pay out benefits if several
+conditions were met. First, the Plan would expire “on
+November 1, 2015 unless an Initial Triggering Event . . .
+ha[d] occurred prior” to that date. The Plan defined an
+“Initial Triggering Event” as occurring “only if the Company
+enter[ed] into a definitive agreement . . . on or before
+November 1, 2015, that [would] result in a Change of
+Control of the Company.” If such an event occurred, the
+Plan would “remain in effect for” the next eighteen months.
+   Second, if the “Initial Triggering Event” occurred by the
+deadline, Atmel employees could then receive the benefits
+only if two more conditions were met: (A) “[a] Change of
+              SCHUMAN V. MICROCHIP TECH. INC.             7
+
+
+Control actually occur[red];” and (B) “[t]heir employment
+[was] terminated without ‘Cause’ by the Company (or its
+successor) at any time within 18 months of the execution
+date of the Definitive Agreement.”
+    The meaning of the key language in these conditions—
+specifically, whether an eventual “Change of Control” had
+to involve the same company with which Atmel entered into
+a “definitive agreement” on or before the November 1,
+2015 deadline—remains in dispute.
+    In September 2015, Dialog Semiconductor agreed to
+acquire Atmel. But before the merger closed, Microchip
+Technology Inc. put in a competing offer. Microchip agreed
+in January 2016 to acquire Atmel. Between the Dialog deal
+and the announcement of the Microchip agreement, an
+Atmel human resources executive assured employees that
+the Plan would provide benefits for those “terminated
+without Cause in connection with a Change of Control of the
+company, including an acquisition by Dialog or Microchip.”
+After the Microchip agreement, Atmel’s human resources
+department circulated a “Frequently Asked Questions”
+document—which evidence suggests Microchip reviewed
+and approved—stating that Microchip would honor the
+Atmel Plan. Microchip’s merger with Atmel officially
+closed in April 2016.
+    Soon after the merger, Microchip terminated the named
+plaintiffs in this suit, Peter Schuman and William Coplin,
+without cause, and offered them significantly lower benefits
+than promised in the Plan in exchange for a release of all
+potential claims.        Letters to Schuman and Coplin
+accompanying the proposed releases stated that Atmel “and
+Microchip are making this offer, in part to resolve any
+current disagreement or misunderstanding regarding
+8                SCHUMAN V. MICROCHIP TECH. INC.
+
+
+severance benefits previously offered by [Atmel].”
+Microchip informed Atmel employees that the benefits
+promised to them under the Plan were not available because
+the Plan had expired. Microchip’s stance was that the Plan
+had expired because the deal initiated before the deadline,
+with Dialog, had not resulted in a finalized merger.
+Schuman and Coplin signed the releases.
+    Schuman and Coplin later filed a class-action complaint
+against Microchip, Atmel Corp., and Atmel Corp. U.S.
+Severance Guarantee Benefit Program (collectively,
+“Microchip”), on behalf of about 200 similarly situated
+former Atmel employees who had also signed releases.1 The
+complaint alleged violations of ERISA, including breach of
+fiduciary duty and denial of benefits, and challenged the
+enforceability of the releases. As stated by the district court,
+Schuman and Coplin alleged that Microchip breached its
+“fiduciary duties by misinterpreting the [Plan] as having
+expired and encouraging Plaintiffs to sign releases in
+exchange for reduced severance benefits” because
+Microchip allegedly knew or should have known that the
+Plan remained valid.2 The district court certified the class,
+and Microchip eventually moved for summary judgment.
+    Meanwhile, a group of nine former Atmel employees
+who had not signed releases also sued Microchip, alleging
+similar violations of ERISA. The two suits proceeded on
+parallel tracks before the same district judge. In the nine
+
+
+1
+ Discovery revealed that 5 members of the currently certified 220-
+member class did not in fact sign the release. The status of those class
+members remains unresolved and is not at issue in this appeal.
+2
+ There is no dispute about Microchip’s status as a fiduciary as relevant
+here.
+               SCHUMAN V. MICROCHIP TECH. INC.               9
+
+
+former employees’ suit, the district court initially found that
+the Plan’s key language regarding the “Change of Control”
+and “definitive agreement” unambiguously meant that the
+Plan had not expired by the time of the Microchip merger,
+and that Microchip had breached its fiduciary duties. On
+appeal, this Court concluded that the language was
+ambiguous, and remanded for further proceedings to resolve
+the Plan’s meaning. Berman v. Microchip Tech. Inc., 838 F.
+App’x 292, 293 (9th Cir. 2021). The parties in Berman then
+settled, leaving the meaning of the Plan’s key language
+unresolved.
+    After Berman settled, Microchip renewed its summary
+judgment motion in Schuman and Coplin’s class action,
+which had been stayed pending the expected trial in Berman.
+As described by the district court, Microchip “argue[d] that
+Plaintiffs knowingly and voluntarily waived their right to
+pursue claims under the Atmel Plan,” which should dispose
+of the action. Schuman and Coplin argued that even if they
+had knowingly and voluntarily signed the releases, the
+releases were unenforceable because “Microchip violated its
+fiduciary duties by the very act of obtaining releases in
+exchange for sharply reduced severance payments” when it
+knew or should have known employees were still entitled to
+benefits under the Plan, contrary to Microchip’s
+misrepresentations.
+    The district court granted summary judgment against the
+named plaintiffs but denied summary judgment for the non-
+named plaintiffs’ claims. Strictly applying a six-part test
+from the First and Second Circuits, the district court found
+Schuman’s and Coplin’s releases were enforceable and
+therefore disposed of their claims. That test asks whether a
+10             SCHUMAN V. MICROCHIP TECH. INC.
+
+
+release was “knowing and voluntary” in light of the totality
+of the circumstances, including:
+
+       (1) plaintiff’s education and business
+       sophistication; (2) the respective roles of
+       employer and employee in determining the
+       provisions of the waiver; (3) the clarity of the
+       agreement; (4) the time plaintiff had to study
+       the agreement; (5) whether plaintiff had
+       independent advice, such as that of counsel;
+       and (6) the consideration for the waiver.
+
+Morais v. Cent. Beverage Corp. Union Emps.’ Supplemental
+Ret. Plan, 167 F.3d 709, 713 n.6 (1st Cir. 1999) (citing
+Rivera-Flores v. Bristol-Myers Squibb Caribbean, 112 F.3d
+9, 12 n.4 (1st Cir. 1997)); see also Finz v. Schlesinger,
+957 F.2d 78, 82 (2d Cir. 1992).
+    The district court analyzed each factor and found that
+Schuman and Coplin understood the terms and stakes of the
+release and signed it willingly. The district court did not
+consider any evidence of Microchip’s alleged breach of
+fiduciary duties when analyzing these factors and reviewing
+the totality of the circumstances. It thus granted summary
+judgment against Schuman and Coplin.
+    As for the non-named plaintiffs, the district court found
+that the six-factor test was too individualized to support a
+class-wide conclusion that all of the releases were signed
+knowingly and voluntarily. Because the court had certified
+the class based in part on the expectation of evaluating the
+releases’ enforceability on a class-wide basis, and the parties
+had not briefed the six-factor test at certification, the court
+ordered the parties to show cause “why the class should or
+should not be decertified.”
+               SCHUMAN V. MICROCHIP TECH. INC.              11
+
+
+    The court then separately considered the non-named
+plaintiffs’ claim that Microchip breached its fiduciary duties
+under ERISA because it knew or should have known that the
+Plan had not expired. The court denied summary judgment
+as to these plaintiffs because there was “at least one material
+dispute of fact regarding Defendants’ knowledge of the Plan
+and its intended interpretation.”
+    Subsequently, the district court entered final judgment
+under Federal Rule of Civil Procedure 54(b) in favor of
+Microchip and against Schuman and Coplin, certifying for
+our review the question of “what legal test the Court should
+apply in determining the enforceability of the releases signed
+by Plaintiffs Peter Schuman and William Coplin and the
+majority of class members.” The district court wanted
+clarification as to whether it properly adopted and applied
+the First and Second Circuit’s six-part test or whether it
+should have considered Microchip’s alleged breach of
+fiduciary duties as part of its evaluation. The district court
+considered this a threshold question, to be answered before
+moving ahead with class treatment or decertification. The
+court stayed the remainder of the case pending appeal.
+    Schuman and Coplin appealed. Microchip cross-
+appealed, contending that the district court erred by denying
+summary judgment as to the non-named plaintiffs instead of
+applying the judgment against Schuman and Coplin to the
+rest of the class.
+                              II
+    The primary question in this appeal is what legal test
+determines whether an ERISA release is enforceable.
+    We first consider whether ERISA requires heightened
+scrutiny of a waiver or release of ERISA claims. In Vizcaino
+12             SCHUMAN V. MICROCHIP TECH. INC.
+
+
+v. Microsoft Corp., 120 F.3d 1006, 1012 (9th Cir. 1997) (en
+banc), we suggested that if a waiver of ERISA claims had
+been at issue, we “would have [had] to consider whether” the
+waiver “must and would withstand special scrutiny designed
+to prevent potential employer or fiduciary abuse,” and that a
+waiver would need to be “knowing and voluntary.”
+However, it was unnecessary to decide that issue in
+Vizcaino. Id. Although we have since considered the
+enforceability of ERISA releases, we have not yet
+determined what the relationship is between enforceability
+and allegations of employer and fiduciary abuse, or whether
+releases must indeed withstand “special scrutiny.” See, e.g.,
+Washington v. Bert Bell/Pete Rozelle NFL Ret. Plan, 504
+F.3d 818, 823–25 (9th Cir. 2007) (assessing an alleged
+breach of fiduciary duty, finding no breach, and then
+evaluating whether the release was knowing and voluntary).
+    In accord with ERISA’s purposes and guided by other
+circuits’ approaches, we conclude that, when a breach of
+fiduciary duties is alleged, courts must evaluate releases and
+waivers of ERISA claims with “special scrutiny designed to
+prevent potential employer or fiduciary abuse.” Vizcaino,
+120 F.3d at 1012.
+    Requiring courts to consider evidence of a breach of
+fiduciary duty related to a release of claims under ERISA
+aligns with the statute’s purpose, structure, and underlying
+trust-law principles. See Tibble v. Edison Int’l, 575 U.S.
+523, 528–31 (2015); Varity Corp. v. Howe, 516 U.S. 489,
+497 (1996).
+    Congress enacted ERISA “to protect . . . the interests of
+participants in employee benefit plans . . . by establishing
+standards of conduct, responsibility, and obligation for
+fiduciaries of employee benefit plans, and by providing for
+               SCHUMAN V. MICROCHIP TECH. INC.               13
+
+
+appropriate remedies, sanctions, and ready access to the
+Federal courts.” 29 U.S.C. § 1001(b). The statute “requires
+a fiduciary,” such as an employer, “to discharge its
+responsibilities ‘solely in the interest of the participants and
+beneficiaries’ and ‘for the exclusive purpose of
+. . . providing benefits’” to them. Guenther v. Lockheed
+Martin Corp., 972 F.3d 1043, 1051 (9th Cir. 2020) (quoting
+29 U.S.C. § 1104(a)(1)).
+    The fiduciary duties ERISA imposes are drawn to a
+significant degree “from the common law of trusts, the law
+that governed most benefit plans before ERISA’s
+enactment.” Varity Corp., 516 U.S. at 496. “The duty of
+loyalty is one of the common law trust principles that apply
+to ERISA fiduciaries,” and includes “a duty to disclose”
+accurate and material information and the duty to “deal
+fairly.” Washington, 504 F.3d at 823 (cleaned up).
+Relatedly, the Supreme Court has held that “[t]o participate
+knowingly and significantly in deceiving a plan’s
+beneficiaries in order to save the employer money at the
+beneficiaries’ expense” breaches the employer’s fiduciary
+duty, as doing so “is not to act ‘solely in the interest of the
+participants and beneficiaries.’” Varity Corp., 516 U.S. at
+506 (quoting 29 U.S.C. § 1104(a)).
+    The question, then, is how to apply the required special
+scrutiny in practice. Four other circuits have adopted
+ERISA-specific tests for the enforceability of releases. See
+Morais, 167 F.3d at 713 & n.6 (totality of the circumstances,
+including six factors); Finz, 957 F.2d at 82 (substantially the
+same test); Howell v. Motorola, Inc., 633 F.3d 552, 559 (7th
+Cir. 2011) (substantially the same, but weighing eight
+factors, including “improper conduct” by the fiduciary);
+Leavitt v. Nw. Bell Tel. Co., 921 F.2d 160, 162 (8th Cir.
+1990) (substantially the same, but weighing nine factors,
+14                SCHUMAN V. MICROCHIP TECH. INC.
+
+
+including “improper conduct” by fiduciary and employee’s
+awareness of rights). In doing so, our sister circuits have
+recognized that “[b]ecause we are guided by principles of
+trust law . . . we must examine the totality of the
+circumstances in which the release was signed to ensure the
+fiduciary did not obtain the release in violation of its duties
+to the beneficiary.” Leavitt, 921 F.2d at 162.
+    We accordingly conclude that courts must consider
+alleged improper conduct by the fiduciary in obtaining a
+release as part of the totality of the circumstances concerning
+the knowledge or voluntariness of the release or waiver.
+    In assessing the totality of the circumstances, our sister
+circuits have employed slightly different tests. In contrast to
+the First and Second Circuit’s non-exhaustive six-part test,
+the Seventh and Eighth Circuits have adopted more
+comprehensive but still non-exhaustive eight- and nine-part
+tests. The Seventh and Eighth Circuits’ tests vary slightly in
+wording and content, but both explicitly require
+consideration of any improper conduct by the fiduciary.3
+The approach of the Seventh and Eighth Circuits provides
+the right balance between a strictly traditional voluntariness
+
+3
+  The approaches differ in three respects: (1) the Eighth Circuit asks
+“whether [the employee] was given an opportunity to consult with an
+attorney before signing the release,” Leavitt, 921 F.2d at 162, while the
+Seventh Circuit asks “whether the employee was represented by counsel
+or consulted with an attorney,” Howell, 633 F.3d at 559; (2) the Eighth
+Circuit asks whether the employee “received adequate consideration,”
+Leavitt, 921 F.2d at 162, while the Seventh Circuit’s inquiry is “whether
+the consideration given in exchange for the waiver exceeded the benefits
+to which the employee was already entitled by contract or law,” Howell,
+633 F.3d at 559; and (3) the Eighth Circuit asks whether the employee
+“knew of his rights under the plan and the relevant facts when he signed
+the release,” Leavitt, 921 F.2d at 162, while the Seventh Circuit does not.
+                 SCHUMAN V. MICROCHIP TECH. INC.                  15
+
+
+examination and an ERISA-based analysis. Thus, we join
+their approach.4
+    Combining the two sets of factors, we hold that, in
+evaluating the totality of the circumstances to determine
+whether the individual entered into the release or waiver
+knowingly and voluntarily, courts should consider the
+following non-exhaustive factors: (1) the employee’s
+education and business experience; (2) the employee’s input
+in negotiating the terms of the settlement; (3) the clarity of
+the release language; (4) the amount of time the employee
+had for deliberation before signing the release; (5) whether
+the employee actually read the release and considered its
+terms before signing it; (6) whether the employee knew of
+his rights under the plan and the relevant facts when he
+signed the release; (7) whether the employee had an
+opportunity to consult with an attorney before signing the
+release; (8) whether the consideration given in exchange for
+the release exceeded the benefits to which the employee was
+already entitled by contract or law; and (9) whether the
+employee’s release was induced by improper conduct on the
+fiduciary’s part.
+    Where, as here, the district court has found a genuine
+issue of fact material to the issue of a breach of fiduciary
+duty in obtaining the release of claims, the final factor
+warrants serious consideration and may weigh particularly
+
+
+
+4
+  Schuman and Coplin urge us to adopt a test that would ask, as a
+prerequisite to any consideration of “knowing and voluntary,” whether
+the release is unenforceable at the outset because of the fiduciary’s
+improper conduct in obtaining it. We decline to adopt that approach,
+which no circuit uses.
+16             SCHUMAN V. MICROCHIP TECH. INC.
+
+
+heavily against finding that the release was “knowing” or
+“voluntary” or both.
+    Given our formulation of the applicable test, we remand
+the question to the district court for its application of the
+factors.
+                              III
+    Contrary to Microchip’s assertion, the district court’s
+Rule 54(b) certification was not improper. The order
+certified the question of “what legal test the Court should
+apply in determining the enforceability of the releases signed
+by Plaintiffs Peter Schuman and William Coplin and the
+majority of class members.”
+    Under Rule 54(b), “[w]hen an action presents more than
+one claim for relief . . . or when multiple parties are
+involved, the court may direct entry of a final judgment as to
+one or more, but fewer than all, claims or parties only if the
+court expressly determines that there is no just reason for
+delay.” Fed. R. Civ. P. 54(b). The district court here both
+expressly directed entry of final judgment against Schuman
+and Coplin and expressly determined that “there is no just
+reason for delay.” See United States v. Gila Valley Irrigation
+Dist., 859 F.3d 789, 797 (9th Cir. 2017); Noel v. Hall,
+568 F.3d 743, 747 (9th Cir. 2009).
+    “Our function on appeal is to ‘scrutinize the district
+court’s evaluation of such factors as the interrelationship of
+the claims so as to prevent piecemeal appeals in cases which
+should be reviewed only as single units.’” Noel, 568 F.3d at
+747 (quoting Curtiss-Wright Corp. v. Gen. Elec. Co.,
+446 U.S. 1, 10 (1980)). We review de novo the district
+court’s determination of the “juridical concerns” underlying
+the order, such as the “interrelationship of the claims,” while
+               SCHUMAN V. MICROCHIP TECH. INC.              17
+
+
+the “equitable analysis” regarding the need for an
+interlocutory appeal “ordinarily ‘is left to the sound judicial
+discretion of the district court.’” Jewel v. Nat’l Sec. Agency,
+810 F.3d 622, 628 (9th Cir. 2015) (quoting Wood v. GCC
+Bend, LLC, 422 F.3d 873, 878–79 (9th Cir. 2005)).
+    The order easily satisfies each requirement. The district
+court’s reasoning as to the “juridical concerns” properly
+centered on the need to answer the threshold legal question
+of the test for enforceability of all class members’ releases
+to “streamline the ensuing litigation,” including by guiding
+the determination of whether class treatment was still
+appropriate. Id. (quoting Noel, 568 F.3d at 747). The district
+court’s “assessment of equitable factors such as prejudice
+and delay” was similarly proper, Noel, 568 F.3d at 747, as
+the court found that “all parties, and the Court, will benefit
+from a prompt interlocutory review” to resolve the legal
+question, see Texaco, Inc. v. Ponsoldt, 939 F.2d 794, 797–
+98 (9th Cir. 1991). There was no error in the certification
+order.
+                              IV
+    We lack appellate jurisdiction over Microchip’s cross-
+appeal from the underlying partial summary judgment order.
+An order granting partial summary judgment is not an
+appealable final order. Dannenberg v. Software Toolworks
+Inc., 16 F.3d 1073, 1074 (9th Cir. 1994).
+    Microchip contends that pendent appellate jurisdiction
+or the collateral order doctrine nevertheless provides
+jurisdiction. This is incorrect. Pendent jurisdiction does not
+apply because the issue raised in the cross-appeal—whether
+the judgment against Schuman and Coplin extinguished the
+non-named plaintiffs’ claims—is not “inextricably
+intertwined with” the issue “properly before us on
+18              SCHUMAN V. MICROCHIP TECH. INC.
+
+
+interlocutory appeal.” Meredith v. Oregon, 321 F.3d 807,
+812–13 (9th Cir. 2003) (cleaned up), amended, 326 F.3d
+1030 (9th Cir. 2003). “[T]he legal theories on which the
+issues advance must either (a) be so intertwined that we must
+decide the pendent issue in order to review the claims
+properly raised on interlocutory appeal, or (b) resolution of
+the issue properly raised on interlocutory appeal necessarily
+resolves the pendent issue.” Cunningham v. Gates, 229 F.3d
+1271, 1285 (9th Cir. 2000) (citations omitted). But “two
+issues are not inextricably intertwined where their resolution
+requires ‘application of separate and distinct legal
+standards’”—that is, standards that “turn on wholly different
+factors.” Arc of Cal. v. Douglas, 757 F.3d 975, 993 (9th Cir.
+2014) (first quoting Meredith, 321 F.3d at 815; then quoting
+Burlington N. & Santa Fe Ry. Co. v. Vaughn, 509 F.3d 1085,
+1093 (9th Cir. 2007)).
+    Microchip’s theory of jurisdiction is that “[t]he judgment
+entered against” the named plaintiffs—which is the issue
+“properly raised on interlocutory appeal”—“necessarily
+resolves” the issue raised in the cross-appeal, “i.e., the legal
+consequence of that judgment for the unnamed class
+members.” But the issue on appeal is a narrow one: whether
+the district court applied the correct legal test for
+enforceability of the releases, and, if not, what test is proper.
+The resolution of that legal issue does not “necessarily
+resolve[]” the issue of whether the district court should have
+granted summary judgment against the non-named plaintiffs
+as well. Cunningham, 229 F.3d at 1285.
+    Further, the legal standards relevant to the appeal and
+cross-appeal are “separate and distinct,” as they “turn on
+wholly different factors.” Arc of Cal., 757 F.3d at
+993 (cleaned up). Resolution of the appeal depends on legal
+standards specific to the enforceability of releases under
+               SCHUMAN V. MICROCHIP TECH. INC.               19
+
+
+ERISA, whereas the cross-appeal requires application of
+legal standards governing the adjudication and management
+of class actions. These standards “turn on wholly different
+factors.” Id.
+      The collateral order doctrine is similarly inapposite.
+Three conditions must be met for the doctrine to apply:
+“First, [the order] must conclusively determine the disputed
+question; second, it must resolve an important issue
+completely separate from the merits of the action; third, it
+must be effectively unreviewable on appeal from a final
+judgment.” United States v. Tillman, 756 F.3d 1144, 1149
+(9th Cir. 2014) (alteration in original) (quoting Flanagan v.
+United States, 465 U.S. 259, 265 (1984)). Microchip
+contends that the collateral order at issue is the partial grant
+of summary judgment in favor of Microchip, “against
+. . . only the class representatives.”
+    “We need not address whether” the issue presented by
+the cross-appeal “meets the first and second prongs of the
+test outlined above because it is effectively reviewable on
+appeal.” Cunningham, 229 F.3d at 1284. Reversing and
+remanding the grant of summary judgment against Schuman
+and Coplin gives Microchip another chance to argue that
+summary judgment against the named plaintiffs requires
+summary judgment against the class. The outcome would
+be reviewable on a later appeal.
+    We therefore dismiss the cross-appeal for lack of
+jurisdiction.
+                               V
+    In sum, we hold that releases and waivers under ERISA
+must “withstand special scrutiny designed to prevent
+potential employer or fiduciary abuse.” Vizcaino, 120 F.3d
+20             SCHUMAN V. MICROCHIP TECH. INC.
+
+
+at 1012. This scrutiny requires courts to consider whether
+the plaintiff entered into the release knowingly and
+voluntarily, and will be of particular importance where, as
+here, there is evidence that the defendant potentially
+breached its fiduciary duty by or in the course of obtaining a
+release of ERISA claims. Summary judgment against
+Schuman and Coplin is reversed, and we remand to the
+district court for further proceedings consistent with this
+opinion.
+   REVERSED AND REMANDED; CROSS-APPEAL
+DISMISSED.

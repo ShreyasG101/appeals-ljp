@@ -1,0 +1,28 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether 8 U.S.C. \u00a7 1252(a)(4), as amended by the REAL ID Act, bars federal habeas jurisdiction over Convention Against Torture (CAT) claims raised by individuals facing extradition.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that \u00a7 1252(a)(4) contains a clear and unambiguous statement barring habeas review of CAT claims, including in extradition cases, and that this construction does not violate the Suspension Clause because the rule of non-inquiry has historically precluded such review."
+    }
+  ],
+  "key_precedents": [
+    "I.N.S v. St. Cyr, 533 U.S. 289 (2001)",
+    "Wang v. Ashcroft, 320 F.3d 130 (2d Cir. 2003)",
+    "Munaf v. Geren, 553 U.S. 674 (2008)",
+    "Omar v. McHugh, 646 F.3d 13 (D.C. Cir. 2011)",
+    "Mironescu v. Costner, 480 F.3d 664 (4th Cir. 2007)",
+    "Trinidad y Garcia v. Thomas, 683 F.3d 952 (9th Cir. 2012)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": true,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "Petitioner-Appellant Monika Kapoor is an Indian citizen facing extradition from the United States to face criminal charges in India. The United States District Court for the Eastern District of New York (Robert M. Levy, Magistrate Judge) determined that Kapoor was extraditable under the two countries\u2019 bilateral extradition treaty. The Secretary of State then issued a surrender warrant after rejecting Kapoor\u2019s claims that she will likely be tortured if returned to India, and that her extradition would therefore violate the Convention Against Torture. Kapoor filed a petition for a writ of habeas corpus in the district court, challenging the Secretary\u2019s decision. The district court (Frederic Block, District Judge) denied Kapoor\u2019s petition, finding that 8 U.S.C. \u00a7 1252(a)(4), added by the REAL ID Act of 2005, divested the court of jurisdiction to hear her claim. Kapoor appealed.\n       We agree with the district court. The Convention is not a self-executing treaty, and the courts can review claims arising under it only as authorized by Congress. Consistent with the test articulated by the Supreme Court in I.N.S v. St. Cyr, 533 U.S. 289 (2001), Section 1252(a)(4) contains a clear statement that permits claims under the Convention to be raised exclusively in petitions for review of immigration removal orders, and specifically and unambiguously bars judicial review of such claims in habeas proceedings except in limited circumstances not presented here. This construction of the statute does not violate the Suspension Clause in the extradition context because of the longstanding \u201crule of non-inquiry,\u201d which precludes American habeas courts from considering the anticipated treatment of an extraditee like Kapoor in the country to which she is being extradited. We therefore AFFIRM."
+}

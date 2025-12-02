@@ -1,0 +1,679 @@
+19-2979(L)
+Sonterra Cap. Master Fund, Ltd. v. UBS AG
+
+
+
+                       United States Court of Appeals
+                          For the Second Circuit
+
+                                        August Term 2023
+
+                                    Argued: April 30, 2024
+                                  Decided: September 15, 2025
+
+                                Nos. 19-2979(L), 19-3187(XAP)
+
+
+
+      SONTERRA CAPITAL MASTER FUND, LTD., on behalf of itself and all others
+    similarly situated, RICHARD DENNIS, on behalf of themselves and all others
+  similarly situated, FRONTPOINT EUROPEAN FUND L.P., on behalf of themselves
+                          and all others similarly situated,
+
+                              Plaintiffs-Appellants-Cross-Appellees,
+
+                                                v.
+
+                                            UBS AG,
+
+                              Defendant-Appellee-Cross-Appellant,
+
+   BARCLAYS BANK PLC, COOPERATIVE CENTRALE RAIFFEISEN-BOERENLEENBANK
+  B.A., LLOYDS BANKING GROUP PLC, THE ROYAL BANK OF SCOTLAND PLC, JOHN
+                     DOES 1-50, BARCLAYS CAPITAL INC.,
+
+                                       Defendants-Appellees,
+
+                                       DEUTSCHE BANK AG,
+
+                                            Defendant.
+Before: JACOBS, SULLIVAN, and NARDINI, Circuit Judges.
+
+       Plaintiffs – an individual, an investment fund, and a limited partnership that
+traded in derivatives based on the Sterling London Interbank Offered Rate
+(“Sterling LIBOR”) – appeal from a judgment of the United States District Court
+for the Southern District of New York (Broderick, J.) dismissing their claims under
+the Sherman Act and the Commodity Exchange Act (the “CEA”) against several
+banks that allegedly conspired together to manipulate that rate. The district court
+concluded that these claims failed for several reasons, including that (1) Sonterra
+Capital Master Fund, Ltd. and Richard Dennis lacked antitrust standing; (2)
+FrontPoint European Fund L.P. no longer had litigating capacity and had not
+assigned its claims to its would-be substitute; and (3) Dennis had failed to plead
+specific intent with respect to his CEA claims.
+       We take a more direct road to the same result: because Plaintiffs have
+failed to allege actual injury under the Sherman Act or CEA, we AFFIRM the
+judgment of the district court without reaching any other issue.
+
+      AFFIRMED.
+
+                                       ERIC F. CITRON (Margaret MacLean, Vincent
+                                       Briganti, Lowery Dannenberg, P.C., White
+                                       Plains, NY; Jody Krisiloff, Lovell Stewart
+                                       Halebian Jacobson LLP, New York, NY;
+                                       Jamison Diehl, The Law Office of Jamison A.
+                                       Diehl, New York, NY, on the brief), Gupta
+                                       Wessler LLP, Washington, D.C., for
+                                       Plaintiffs-Appellants-Cross-Appellees.
+
+                                       SETH M. ROKOSKY (Mark A. Kirsch, Eric J.
+                                       Stock, Jefferson E. Bell, on the brief), Gibson,
+                                       Dunn & Crutcher LLP, New York, NY, for
+                                       Defendant-Appellee-Cross-Appellant UBS AG.
+
+                                       MARC J. GOTTRIDGE (Lisa J. Fried, Herbert
+                                       Smith Freehills New York LLP, New York,
+                                       NY; Benjamin A. Fleming, Hogan Lovells
+                                       US LLP, New York, NY, on the brief), ,
+
+                                         2
+                                           Herbert Smith Freehills New York LLP,
+                                           New York, NY, for Defendant-Appellee Lloyds
+                                           Banking Group plc
+
+                                           Jeffrey T. Scott, Matthew J. Porpora, Sullivan
+                                           & Cromwell LLP, New York, NY, for
+                                           Defendants-Appellees Barclays Bank PLC and
+                                           Barclays Capital Inc.
+
+                                           David R. Gelfand, Tawfiq S. Rangwala,
+                                           Milbank LLP, New York, NY; Mark D.
+                                           Villaverde, Millbank LLP, Los Angeles,
+                                           California,      for     Defendant-Appellee
+                                           Coöperatieve Rabobank U.A.
+
+                                           David S. Lesser, Laura Harris, King &
+                                           Spalding LLP, New York, NY; G. Patrick
+                                           Montgomery, King & Spalding LLP,
+                                           Washington, DC, for Defendant-Appellee The
+                                           Royal Bank of Scotland plc (n/k/a NatWest
+                                           Markets plc).
+
+RICHARD J. SULLIVAN, Circuit Judge:
+
+       Plaintiffs – an individual, an investment fund, and a limited partnership 1
+
+that traded in derivatives based on the Sterling London Interbank Offered Rate
+
+(“Sterling LIBOR”) – appeal from a judgment of the United States District Court
+
+for the Southern District of New York (Broderick, J.) dismissing their claims under
+
+the Sherman Act and the Commodity Exchange Act (the “CEA”) against several
+
+
+
+
+1Plaintiffs are Richard Dennis, Sonterra Capital Master Fund, Ltd. (“Sonterra”), and FrontPoint
+European Fund, L.P. (“FrontPoint”).
+
+
+                                              3
+banks that allegedly conspired together to manipulate that rate (“the
+
+Defendants”). The district court concluded that these claims failed for several
+
+reasons, including that (1) Sonterra and Dennis lacked antitrust standing; (2)
+
+FrontPoint no longer had litigating capacity and had not assigned its claims to its
+
+would-be substitute; and (3) Dennis had failed to plead specific intent with respect
+
+to his CEA claims.
+
+      We take a more direct road to the same result: because Plaintiffs have
+
+failed to allege actual injury under the Sherman Act or CEA, we AFFIRM the
+
+judgment of the district court without reaching any other issue.
+
+                                 I.     BACKGROUND
+
+      Sterling LIBOR is a benchmark that tracks “the average competitive interest
+
+rate at which leading banks [may] borrow in pound sterling (that is, the British
+
+pound currency) in London from other banks.” J. App’x at 38. 2 This benchmark
+
+was “created by Defendants and their trade organization, the British Bankers’
+
+Association (‘BBA’).” Id.
+
+
+
+
+2The facts here are drawn from the Consolidated Amended Class Action Complaint (“CAC”).
+We accept these facts as true for the purposes of this appeal. See Vitagliano v. County of
+Westchester, 71 F.4th 130, 133 n.3 (2d Cir. 2023).
+
+                                            4
+      The BBA calculates LIBOR by compiling information regarding interest
+
+rates from a “panel” of sixteen banks.       Every day, each bank on the panel
+
+estimates the interest at which it could borrow pounds sterling in the London
+
+interbank market at fifteen different maturities (or “tenors”). The banks then
+
+send these quotes to BBA’s agent, Thomson Reuters, which identifies and averages
+
+the middle fifty percent of estimated interest rates for each tenor. That average
+
+“becomes the daily official Sterling LIBOR for that particular tenor and is
+
+distributed electronically” through various financial services platforms. Id. at 82.
+
+Banks submitting Sterling LIBOR quotes agree that they will not collude,
+
+coordinate, or give each other advance notice of their LIBOR submissions, and
+
+pledge that those submissions will “accurately reflect the average competitive
+
+market borrowing rate.” Id. at 78.
+
+      Sterling LIBOR is often used to determine the value of certain derivatives.
+
+A derivative is “a contract among two or more parties in which the price or
+
+payment term derives from another source.” Id. at 37. Several of the derivatives
+
+at issue in this appeal – including certain foreign exchange forwards, futures
+
+contracts traded on the Chicago Mercantile Exchange, and interest-rate swaps –
+
+were “priced, benchmarked, and/or settled based on Sterling LIBOR.” Id. at 83.
+
+
+
+                                         5
+      Plaintiffs allege that Defendants conspired to manipulate Sterling LIBOR to
+
+reap higher profits trading such Sterling LIBOR-based derivatives. According to
+
+the CAC, Defendants’ traders sent their LIBOR-submission teams electronic
+
+messages asking them to present false Sterling LIBOR quotes, which varied
+
+upward or downward from the real competitive market rate depending on the
+
+traders’ positions with respect to Sterling LIBOR-based derivatives.            The
+
+derivatives teams communicated both internally – with each bank’s own
+
+respective LIBOR submitters – and externally, with submitters at different banks.
+
+To “coordinate their manipulative conduct,” Defendants also used inter-dealer
+
+brokers, which serve as intermediaries between banks. Id. at 99–102. In this
+
+way, Defendants conspired to “suppress, inflate, maintain, or otherwise alter
+
+Sterling LIBOR.” Id. at 142.
+
+      Plaintiffs assert that this scheme resulted from “a conscious effort by senior
+
+management to increase profits,” id. at 112, and that Defendants facilitated this
+
+misconduct by (1) issuing policies that encouraged collusion; (2) altering
+
+organizational structures so that their derivatives traders could easily
+
+communicate with LIBOR submitters; (3) adopting lax compliance standards; and
+
+(4) (in the case of Defendant Deutsche Bank AG) misleading financial regulators
+
+
+
+                                         6
+in the United Kingdom by concealing the findings of a report criticizing LIBOR
+
+manipulation that German authorities had issued.           Plaintiffs also allege that
+
+Defendants conspired to distort the interest-rate market in other ways, such as by
+
+borrowing and lending pounds sterling at above- or below-market rates, and by
+
+making false bids and offers regarding the interest that they would be willing to
+
+pay or charge (a practice called “spoofing”).
+
+      Based on this alleged misconduct, Plaintiffs filed a putative class action in
+
+the United States District Court for the Southern District of New York.              As
+
+relevant here, Plaintiffs alleged that Defendants (1) conspired to submit false
+
+Sterling LIBOR quotes, engage in other manipulative trading strategies, and
+
+restrain trade and fix prices in violation of section 1 of the Sherman Act, 15 U.S.C.
+
+§ 1 et seq.; and (2) rigged the prices of Sterling LIBOR and Sterling LIBOR-based
+
+derivatives in violation of sections 6(c), 9, and 22, of the CEA, 7 U.S.C. §§ 9, 13, and
+
+25. Plaintiffs also asserted claims under the Racketeer Influenced and Corrupt
+
+Organizations Act (“RICO”), 18 U.S.C. § 1961 et seq., and state common-law claims
+
+for unjust enrichment and breach of the implied covenant of good faith and fair
+
+dealing.   Defendants moved to dismiss pursuant to Federal Rule of Civil
+
+Procedure 12(b)(1) for lack of subject-matter jurisdiction, pursuant to Rule 12(b)(2)
+
+
+
+                                           7
+for lack of personal jurisdiction, and pursuant to Rule 12(b)(6) for failure to state a
+
+claim.
+
+         The district court issued two orders that together dismissed all of Plaintiffs’
+
+claims. In the first, the district court concluded that Sonterra and Dennis lacked
+
+antitrust standing. The district court explained that private plaintiffs may not sue
+
+under the antitrust laws unless they qualify as “efficient enforcers” whose injuries
+
+have a close nexus to the alleged misconduct. And the district court found that,
+
+with the exception of FrontPoint, Plaintiffs were not efficient enforcers because
+
+they had not bought or sold any derivatives from the Defendants and had suffered
+
+only indirect, causally remote damages, which would be difficult to calculate.
+
+The district court then dismissed the CEA claims, which only Dennis had
+
+ultimately pursued, on the grounds that the statute of limitations barred the claims
+
+against some of the Defendants, and that Dennis had not sufficiently pleaded
+
+specific intent with respect to the others. The district court also dismissed the
+
+RICO claims and most of the state-law claims. 3
+
+
+
+
+3
+  We need not reach the state-law claims because Plaintiffs challenge only the district court’s
+dismissal of their Sherman Act and CEA claims on appeal. See Gamma Traders - I LLC v. Merrill
+Lynch Commodities, Inc., 41 F.4th 71, 77 n.4 (2d Cir. 2022).
+
+                                              8
+      While the motion to dismiss was pending, and before the court issued its
+
+first order, Plaintiffs disclosed that FrontPoint had wound down in 2012 – nearly
+
+four years before it filed its complaint. After the district court issued its first
+
+order, FrontPoint moved to substitute in its place an entity called Fund
+
+Liquidation Holdings, LLC (“FLH”), to which FrontPoint had assigned certain
+
+rights to sue. The district court then issued a second order, roughly eight months
+
+after its first. In that order, the district court concluded that FrontPoint did not
+
+assign FLH the right to bring the remaining Sherman Act and state-law claims
+
+against UBS AG (“UBS”), and that FrontPoint lacked the capacity to sue in its own
+
+name. It accordingly dismissed the last surviving claims.
+
+      Plaintiffs timely appealed, and UBS timely cross-appealed.
+
+                            II.   STANDARD OF REVIEW
+
+      We review de novo a district court’s dismissal for failure to state a claim,
+
+“accepting all factual allegations in the complaint as true and drawing all
+
+reasonable inferences in favor of the plaintiff.” In re Nine W. LBO Sec. Litig., 87
+
+F.4th 130, 142 (2d Cir. 2023). “To survive a motion to dismiss, a complaint must
+
+contain sufficient factual matter, accepted as true, to state a claim to relief that is
+
+plausible on its face.” Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) (internal quotation
+
+
+
+                                           9
+marks omitted). A claim is plausible if the plaintiff “pleads factual content that
+
+allows the court to draw the reasonable inference that the defendant is liable for
+
+the misconduct alleged” and establishes “more than a sheer possibility that a
+
+defendant has acted unlawfully.” Id. “A bare bones statement of conspiracy or
+
+of injury under the antitrust laws” will not get a plaintiff past a motion to dismiss.
+
+City of Pontiac Police & Fire Ret. Sys. v. BNP Paribas Sec. Corp., 92 F.4th 381, 398 (2d
+
+Cir. 2024) (internal quotation marks omitted).
+
+                                 III.   DISCUSSION
+
+      The district court dismissed Plaintiffs’ antitrust claims for several different
+
+reasons, including that Sonterra and Dennis are not efficient enforcers of the
+
+antitrust laws, that FrontPoint did not assign its claims to FLH, and that Dennis
+
+failed to plead specific intent with respect to his CEA claims.           But a more
+
+straightforward route leads to the same result, and “[w]e are free to affirm on any
+
+ground that finds support in the record, even if it was not the ground upon which
+
+the trial court relied.”   Beijing Neu Cloud Oriental Sys. Tech. Co. v. Int'l Bus.
+
+Machines Corp., 110 F.4th 106, 113 (2d Cir. 2024) (internal quotation marks omitted).
+
+Because we conclude that none of the Plaintiffs has alleged an antitrust or CEA
+
+injury, we affirm.
+
+
+
+                                          10
+      A.      Antitrust Claims
+
+      Section 4 of the Clayton Act entitles any person who has been “injured in
+
+[their] business or property by reason of anything forbidden in the antitrust laws,”
+
+including the Sherman Act, to seek treble damages. 15 U.S.C. § 15(a). Because
+
+“Congress did not intend the antitrust laws to provide a remedy in damages for
+
+all injuries that might conceivably be traced to an antitrust violation,” this private
+
+right of action has “developed limiting contours, which are embodied in the
+
+concept of antitrust standing.”       Schwab Short-Term Bond Mkt. Fund v. Lloyds
+
+Banking Grp. PLC, 22 F.4th 103, 115 (2d Cir. 2021) (internal quotation marks
+
+omitted). “Like constitutional standing, antitrust standing is a threshold inquiry
+
+resolved at the pleading stage.” Gelboim v. Bank of Am. Corp., 823 F.3d 759, 770 (2d
+
+Cir. 2016).   To survive that inquiry, plaintiffs must show that (1) they have
+
+suffered “a special kind of ‘antitrust injury,’” and (2) they are “‘efficient
+
+enforcer[s]’ to assert a private antitrust claim.”        Port Dock & Stone Corp. v.
+
+Oldcastle, Ne., Inc., 507 F.3d 117, 121 (2d Cir. 2007).
+
+      Courts use a “three-step process” to determine whether plaintiffs have
+
+sufficiently alleged antitrust injury. Gatt Commc'ns, Inc. v. PMC Assocs., L.L.C.,
+
+711 F.3d 68, 76 (2d Cir. 2013). “[F]irst the plaintiff must identify the practice
+
+
+
+                                           11
+complained of and the reasons such a practice is or might be anticompetitive; then
+
+the court must identify the actual injury the plaintiff alleges by looking to the ways
+
+in which the plaintiff claims it is in a worse position as a consequence of
+
+defendant's conduct; and finally, the court must compare the anticompetitive
+
+effect of the specific practice at issue to the actual injury the plaintiff alleges.”
+
+Harry v. Total Gas & Power N. Am., Inc., 889 F.3d 104, 115 (2d Cir. 2018) (alterations
+
+accepted and internal quotation marks omitted). Under this test, plaintiffs thus
+
+must identify both the type of anticompetitive conduct at issue and an “actual
+
+injury” that put them “in a worse position.” Id.
+
+      Plaintiffs have failed to make the second showing. While Plaintiffs allege
+
+that Defendants colluded to set “artificial prices,” J. App’x at 79, they do not
+
+identify any specific transactions where they suffered financial harm because
+
+Defendants’ price-fixing had distorted the market, see id. at 128–35, 141–46.
+
+Considering that the calculation of Sterling LIBOR used only the middle fifty
+
+percent of sixteen daily reports from different banks, Plaintiffs do not plausibly
+
+allege that a single manipulated report would have affected the final published
+
+rate and thereby would have had potential to cause Plaintiffs harm. And even
+
+assuming that Defendants successfully manipulated the official rate on a given
+
+
+
+                                         12
+day, Plaintiffs do not explain how that rate being lower or higher caused them to
+
+suffer financial harm under the terms of the particular derivative contracts they
+
+held.    Indeed, the facts alleged in the complaint are equally consistent with
+
+Plaintiffs benefiting from the alleged scheme, which sometimes inflated Sterling
+
+LIBOR, sometimes deflated it, and sometimes held it steady, depending on any
+
+given date or time.
+
+        Our CEA jurisprudence shows how to assess injury in cases involving such
+
+multidirectional market manipulation. 4 In Gamma Traders – I LLC v. Merrill Lynch
+
+Commodities, Inc., the plaintiff brought CEA claims against defendants who had
+
+allegedly engaged in a “spoofing” scheme to rig the price of futures contracts for
+
+precious metals by placing thousands of false offers and bids over the course of
+
+several years. 41 F.4th 71, 75–76 (2d Cir. 2022). We affirmed the district court’s
+
+dismissal of the complaint, explaining that the plaintiff’s allegations did not
+
+“support a reasonable inference that Defendants’ spoofing conduct injured it,”
+
+because “spoofing can artificially move the market in either direction” and it was
+
+“not at all clear whether – even assuming that [the plaintiff] was affected by
+
+
+
+
+4Just as the Clayton Act requires a putative plaintiff to have been “injured in his business or
+property,” 15 U.S.C. § 15(a), the CEA creates a right to sue only for plaintiffs who have alleged
+“actual damages,” 7 U.S.C. § 25(a)(1).
+
+                                               13
+Defendants’ spoofing scheme – [the plaintiff] incurred a net loss or a net benefit
+
+from it.” Id. at 78–79.
+
+      The same is true here.       Because the alleged scheme went both ways,
+
+sometimes elevating and sometimes depressing LIBOR, “it is not at all clear” that
+
+Plaintiffs suffered any injury.      Id. at 79.    In cases of such sporadic and
+
+multidirectional manipulation, a CEA or antitrust plaintiff may not “alleg[e]
+
+conclusorily that there must have been at least one trade – though it has no idea
+
+which one or when it may have occurred – in which it came out on the net losing
+
+end of Defendants’ market manipulation.” Id. at 78. Instead, a plaintiff must
+
+“plead additional facts to make it plausible that the impact on her was harmful
+
+rather than neutral or beneficial.” Total Gas, 889 F.3d at 113.
+
+      In an effort to distinguish Gamma Traders, Plaintiffs seize upon a line of that
+
+opinion in which we remarked that “antitrust law [was] inapposite” given the facts
+
+of that case. Gamma Traders, 41 F.4th at 79. But Plaintiffs take that quotation out
+
+of context. We reached that conclusion only after explaining that a run-of-the-
+
+mill “price-fixing conspiracy aims to consistently push the market price in a single
+
+direction, whereas . . . spoofing can artificially move the market in either direction,
+
+and yesterday’s market sellers can become tomorrow’s market buyers.”                Id.
+
+
+
+                                          14
+Unlike the standard price-fixing scheme alluded to in Gamma Traders, the scheme
+
+asserted here involved precisely the sort of multidirectional manipulation alleged
+
+in that case. As a result, it is “not at all clear whether . . . [Plaintiffs] incurred a
+
+net loss or a net benefit from” Defendants’ alleged market manipulation. Id.
+
+       Plaintiffs also argue that we took a more lenient approach to antitrust injury
+
+in Gelboim. There, we held that the plaintiffs successfully pleaded antitrust injury
+
+by alleging that a group of defendant banks “colluded to depress LIBOR, and
+
+thereby increased the cost to [plaintiffs], as buyers, of various LIBOR-based
+
+financial instruments, a cost increase reflected in reduced rates of return.”
+
+Gelboim, 823 F.3d at 771. On Plaintiffs’ reading, Gelboim instructs that antitrust
+
+plaintiffs need allege only that they bought assets in a market distorted by an
+
+anticompetitive scheme.      To support this interpretation, Plaintiffs rely on our
+
+statement that “when consumers, because of a conspiracy, must pay prices that no
+
+longer reflect ordinary market conditions, they suffer [antitrust injury].” Id. at
+
+772.
+
+       But Plaintiffs misconstrue Gelboim.        There, we emphasized that the
+
+plaintiffs had “sustained their burden of showing injury by alleging that they paid
+
+artificially fixed higher prices.”   Id. at 777 (emphasis added).     Those plaintiffs
+
+
+
+                                          15
+could plausibly allege this harm because the defendants had uniformly and
+
+consistently “depress[ed] LIBOR,” which necessarily “reduced [plaintiffs’] rates of
+
+return.”    Id. at 771 (emphasis added).        By contrast, this case involves
+
+opportunistic, fluctuating manipulations that may have sometimes marginally
+
+propped Sterling LIBOR up and may have sometimes marginally suppressed it.
+
+While we might reasonably infer, at the motion-to-dismiss stage, that an antitrust
+
+plaintiff has suffered some sort of pecuniary harm in a case involving
+
+unidirectional market manipulation, that inference becomes unreasonable when
+
+the alleged conduct both inflated and deflated prices. See Gamma Traders, 41 F.4th
+
+at 78–79.
+
+      B.    CEA Claims
+
+      Dennis’s CEA claims fail for the same reason. Because the CEA requires
+
+“actual damages,” 7 U.S.C. § 25(a)(1), a CEA plaintiff “must plausibly allege (1)
+
+that []he transacted in at least one commodity contract at a price that was lower or
+
+higher than it otherwise would have been absent the defendant’s manipulations,
+
+and (2) that the manipulated prices were to the plaintiff’s detriment.” Total Gas,
+
+889 F.3d at 112. Here, Dennis has failed to make this showing: instead, the
+
+complaint alleges only that Dennis did business in a market where prices were
+
+
+
+                                         16
+sometimes “artificial,” J. App’x at 148, without pointing to any transaction where
+
+he lost money because of Defendants’ scheme. Indeed, Dennis fails to establish
+
+that, on the whole, the effect of Defendants’ manipulation was not neutral or
+
+positive for him.
+
+      As discussed above, we rejected a near-identical theory of CEA liability in
+
+Gamma Traders. As we explained then, “[t]he CEA does not deputize traders to
+
+rove the commodities markets hunting for bad behavior,” and a plaintiff may not
+
+simply “theorize[] that its regular participation in the relevant commodities
+
+markets supports an inference that it was injured by Defendants’ [manipulation]
+
+at least once.” Gamma Traders, 41 F.4th at 82. Such a principle “would permit
+
+any regular market participant to proceed to discovery any time a significant
+
+market player has repeatedly committed fraud,” and would “contravene[]” both
+
+the CEA’s requirement of “actual damages,” 7 U.S.C. § 25(a)(1), and our caselaw.
+
+Gamma Traders, 41 F.4th at 82. “There are no citizens’ arrests for commodities
+
+fraud,” and the CEA tasks regulators, not investors, with protecting the public’s
+
+interests – as the Commodity Futures Trading Commission and Department of
+
+Justice did here. Total Gas, 889 F.3d at 109–10.
+
+
+
+
+                                        17
+                                IV.   CONCLUSION
+
+      For the foregoing reasons, we AFFIRM the judgment of the district court
+
+dismissing the federal claims. Having resolved the main appeal in Defendants’
+
+favor, we dismiss UBS’s cross-appeal as moot. See Weiss v. Nat'l Westminster Bank,
+
+PLC., 993 F.3d 144, 158–59 (2d Cir. 2021).
+
+
+
+
+                                         18

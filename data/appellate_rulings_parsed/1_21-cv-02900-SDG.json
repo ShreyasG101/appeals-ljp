@@ -1,0 +1,29 @@
+{
+  "overall_outcome": "REVERSE",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the insurer reasonably denied long-term disability benefits under an ERISA plan based on a preexisting condition exclusion, where the disabling condition (scleroderma) was not diagnosed or suspected during the policy's lookback period, but the insured received treatment for symptoms later attributed to that condition.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "REVERSE",
+      "key_reasoning": "The insurer's interpretation of the preexisting condition exclusion was unreasonable because the policy required treatment 'for' the specific condition, and neither the insured nor her doctors knew or suspected scleroderma during the lookback period; thus, treatment for general symptoms could not reasonably be considered treatment for scleroderma."
+    }
+  ],
+  "key_precedents": [
+    "Blankenship v. Metro. Life Ins. Co., 644 F.3d 1350 (11th Cir. 2011)",
+    "Lawson ex rel. Lawson v. Fortis Ins. Co., 301 F.3d 159 (3d Cir. 2002)",
+    "McLeod v. Hartford Life & Accident Ins. Co., 372 F.3d 618 (3d Cir. 2004)",
+    "Pitcher v. Principal Mut. Life Ins. Co., 93 F.3d 407 (7th Cir. 1996)",
+    "Bullwinkel v. New England Mut. Life Ins. Co., 18 F.3d 429 (7th Cir. 1994)",
+    "Goldfarb v. Reliance Standard Life Ins. Co., 106 F.4th 1100 (11th Cir. 2024)",
+    "Horton v. Reliance Standard Life Ins. Co., 141 F.3d 1038 (11th Cir. 1998)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": true,
+  "summary_text": "Cheriese Johnson was not feeling well. So she went to the doctor\u2014many times\u2014complaining of a wide variety of symptoms. At these appointments, doctors diagnosed her with nearly a dozen ailments: fibromyalgia, borderline lupus erythematosus, and epistaxis, just to name a few. What they did not diagnose was the disease she actually had\u2014scleroderma, a rare autoimmune condition that causes hardening and thickening of the skin and other tissues. No one had suspected this diagnosis before it happened. And no one argues that the failure of diagnosis resulted from malpractice, bad faith, or evasion.\n\nBut when Johnson filed a scleroderma-based disability claim once she could no longer work, her insurance company denied it. The problem, as the insurer saw it, was that many of Johnson\u2019s medical appointments took place during the three-month window before her policy went into effect. Under Johnson\u2019s policy, disability benefits are not owed if they stem from \u201cpreexisting conditions\u201d treated during that three-month lookback period.\n\nThis case hinges on the exact terms of that policy, which defined a preexisting condition as \u201cany Sickness or Injury for which the Insured received medical Treatment, consultation, care or services, including diagnostic procedures, or took prescribed drugs or medicines.\u201d See Reliance Standard Life Insurance Company Policy No. LTD 106119 (emphasis added). The italicized phrase is key\u2014\u201cfor which.\u201d Johnson says she could not have received medical treatment for scleroderma during the lookback period because no one even suspected she had that condition until much later. The insurance company takes a far broader view of the policy, and says no benefits are due if Johnson was treated for any symptoms during the lookback period that were not inconsistent with scleroderma\u2014even if no one thought she had that condition or intended to treat it.\n\nWe agree with Johnson\u2014the insurance company\u2019s interpretation is wrong. The closer question is whether its interpretation is also unreasonable, a heightened requirement of this Circuit\u2019s ERISA precedents. To be sure, the policy is likely susceptible to a multitude of reasonable readings. But we cannot conclude that the insurance company\u2019s, which would deny coverage for a brain tumor if the doctor encouraged a patient with headaches to drink more water, is one of them. We reverse and remand."
+}

@@ -1,0 +1,980 @@
+UNITED STATES DISTRICT COURT                                              
+SOUTHERN DISTRICT OF NEW YORK                                             
+---------------------------------------------------------------------- X   
+                                   :                                 
+JUAN B. PUJOL MOREIRA, in his personal capacity   :                       
+and as Personal Representative and Administrator of the   :               
+ESTATE OF NIEVES PUJOL a/k/a NIEVES MOREIRA  :                            
+MARTINEZ et al.,                        :                                 
+                                   :       20-CV-9380 (JMF)          
+                                           Plaintiffs,   :           
+                                   :    MEMORANDUM OPINION           
+     -v-                           :         AND ORDER               
+                                   :                                 
+SOCIÉTÉ GÉNÉRALE, S.A. et al.,          :                                 
+                                   :                                 
+                                           Defendants.   :           
+                                   :                                 
+---------------------------------------------------------------------- X  
+JESSE M. FURMAN, United States District Judge:                            
+The heirs of former owners of Banco Pujol — a Cuban bank confiscated by the Castro 
+regime in 1960 and absorbed into Banco Nacional de Cuba (“BNC”) — brought this suit against 
+two French banks, Société Générale, S.A. (“SG”) and BNP Paribas, S.A. (“Paribas”), for 
+“trafficking” their confiscated assets by doing business with BNC, in violation of Title III of the 
+Cuban Liberty and Democracy Solidarity Act of 1996, 22 U.S.C. § 6021 et seq., commonly 
+known as the Helms-Burton Act.  In a prior Opinion and Order, familiarity with which is 
+presumed, the Court dismissed Plaintiffs’ claims against SG as untimely.  See Pujol Moreira v. 
+Société Générale, S.A. (“Pujol Moreira II”), No. 20-CV-9380 (JMF), 2023 WL 359446 
+(S.D.N.Y. Jan. 23, 2023) (ECF No. 94); see also Pujol Moreira v. Société Générale, S.A. (“Pujol 
+Moreira I”), 573 F. Supp. 3d 921 (S.D.N.Y. 2021) (ECF No. 60) (granting an earlier motion to 
+dismiss, but with leave to amend).  In that same Opinion, the Court explained that the timeliness 
+of Plaintiffs’ claims against Paribas turned in the first instance on whether certain conduct 
+alleged in the Second Amended Complaint — to wit, that “Paribas routinely provides to BNC in 
+Switzerland parcels of U.S. currency,” that it did so in 2020, and that there is “no reason to 
+believe Paribas stopped,” ECF No. 67 (“SAC”), ¶ 49 — qualifies as “trafficking” within the 
+meaning of the Helms-Burton Act.  See Pujol Moreira II, 2023 WL 359446, at *3.  The Court 
+ordered additional briefing on that question (and one other).  See id. at *4.1 
+
+In assessing whether Paribas’s alleged conduct within the relevant period constitutes 
+“trafficking,” the Court must, of course, apply the well-established standards that govern motions 
+to dismiss.  These standards require a court to accept all well-pleaded allegations as true and 
+draw all reasonable inferences in the plaintiff’s favor.  See, e.g., Lynch v. City of New York, 952 
+F.3d 67, 74-75 (2d Cir. 2020).  A claim will survive a motion to dismiss, however, only if the 
+plaintiff alleges facts sufficient “to state a claim to relief that is plausible on its face.”  Bell Atl. 
+Corp. v. Twombly, 550 U.S. 544, 570 (2007).  A claim is facially plausible “when the plaintiff 
+pleads factual content that allows the court to draw the reasonable inference that the defendant is 
+liable for the misconduct alleged.”  Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) (citing Twombly, 
+550 U.S. at 556).  Significantly, “[t]he plausibility standard . . . asks for more than a sheer 
+
+possibility that a defendant has acted unlawfully.  Where a complaint pleads facts that are merely 
+consistent with a defendant’s liability, it stops short of the line between possibility and 
+plausibility of entitlement to relief.”  Iqbal, 556 U.S. at 678 (cleaned up).  At bottom, if the 
+plaintiff’s pleadings do “not nudge[ his or her] claims across the line from conceivable to 
+plausible, [the] complaint must be dismissed.”  Twombly, 550 U.S. at 570. 
+
+
+
+1    The other question was, if the alleged deliveries of cash qualified as “trafficking,” 
+whether it would be proper to exercise personal jurisdiction over Paribas.  See 2023 WL 359446, 
+at *4.  Although personal jurisdiction is usually a threshold issue, the Court addresses the 
+timeliness question first for reasons explained in Pujol Moreira II.  See id. at *2. 
+Applying these standards, the Court concludes that Plaintiffs’ allegations with respect to 
+Paribas delivering U.S. dollars to BNC in Switzerland fall short.  The Helms-Burton Act 
+provides that any person who “traffics in property which was confiscated by the Cuban 
+Government” is liable to “any United States national who owns the claim to such property.”  22 
+
+U.S.C. § 6082(a)(1)(A).  The Act then provides, in relevant part, that    
+a person “traffics” in confiscated property if that person knowingly and 
+intentionally —                                                      
+
+  (i)  sells, transfers, distributes, dispenses, brokers, manages, or otherwise 
+     disposes of confiscated property, or purchases, leases, receives, possesses, 
+     obtains control of, manages, uses, or otherwise acquires or holds an 
+     interest in confiscated property,                               
+
+  (ii)  engages in a commercial activity using or otherwise benefiting from 
+     confiscated property, or                                        
+
+  (iii) causes, directs, participates in, or profits from, trafficking (as described in 
+     clause (i) or (ii)) by another person, or otherwise engages in trafficking (as 
+     described in clause (i) or (ii)) through another person,        
+
+without the authorization of any United States national who holds a claim to the 
+property.                                                            
+
+Id. § 6023(13)(A).  As broad as this definition of “trafficking” is, the mere act of delivering cash 
+to BNC — and that is all the relevant new allegation entails2 — does not fall within it.  The 
+
+2    As the Court observed in Pujol Moreira II, the Second Amended Complaint does allege, 
+“[u]pon information and belief,” that “BNC uses the U.S. currency provided by Paribas to 
+continue to access international markets and conduct transactions, including on behalf of its 
+clients, that it would not otherwise be able to access or conduct.”  SAC ¶ 49; see also id. ¶ 53 
+(“Through at least 2020, Paribas . . . provided physical U.S. dollars to BNC that BNC need[ed] 
+to operate as a commercial bank but could not itself access or provide to its clients.”).  But the 
+Court noted that “that allegation is arguably not well pleaded.”  2023 WL 359446, at *3; see, 
+e.g., Citizens United v. Schneiderman, 882 F.3d 374, 384 (2d Cir. 2018) (“A litigant cannot 
+merely plop ‘upon information and belief’ in front of a conclusory allegation and thereby render 
+it non-conclusory.”); Boehm v. SportsMem, LLC, No. 18-CV-556 (JMF), 2019 WL 3239242, at 
+*2 n.1 (S.D.N.Y. July 18, 2019) (noting that an allegation upon information and belief “must be 
+accompanied by a statement of the facts upon which the belief is founded, and cannot rest on 
+pure conjecture and speculation” (cleaned up)).  In their supplemental submission, Plaintiffs do 
+Second Amended Complaint plainly does not allege that the cash allegedly provided by Paribas 
+was itself confiscated property.  Nor does it include any facts concerning the amount of currency 
+provided; the frequency of the deliveries; or, most significantly, what, if anything, BNC did with 
+the currency and whether BNC gave anything to Paribas in exchange for it.  In the absence of 
+
+any factual context, the Second Amended Complaint does not support a plausible inference that 
+the deliveries were “commercial activity,” let alone commercial activity that involved “using or 
+otherwise benefiting from” Plaintiffs’ confiscated property.  22 U.S.C. § 6023(13)(A)(ii).  Nor 
+does it support a plausible inference that, through the deliveries, Paribas “cause[d], direct[ed], 
+participate[d] in, or profit[ed] from” any trafficking, let alone any trafficking of Plaintiffs’ 
+confiscated property.  Id. § 6023(13)(A)(iii).  Put simply, “the well-pleaded facts do not permit 
+the court to infer more than the mere possibility of misconduct” during the relevant period.  
+Iqbal, 556 U.S. at 679; see also Twombly, 550 U.S. at 555 (“Factual allegations must be enough 
+to raise a right to relief above the speculative level . . . .”).         
+Significantly, Plaintiffs’ own submission in response to the Court’s request for additional 
+
+briefing confirms that their arguments are based not on the mere act of giving cash to BNC, but 
+rather on rank speculation about Paribas’s reasons for allegedly doing so.  That is, Plaintiffs 
+repeatedly and explicitly predicate their arguments on conditions that may or may not be met:  
+If BNC pays for the dollars Paribas delivers, Paribas necessarily “profits from” 
+BNC’s use of Banco Pujol’s assets since those assets are an integral part of 
+BNC’s capital structure.  22 U.S.C. § 6023(13)(A)(iii).  If Paribas is transferring 
+cash on behalf of clients who have business with BNC, Paribas “participates in” 
+BNC’s trafficking by facilitating transactions that exploit Banco Pujol’s assets.  
+Id.                                                                  
+
+not even attempt to assert otherwise and, thus, are deemed to have abandoned any such 
+argument.  Cf., e.g., Felix v. City of New York, 344 F. Supp. 3d 644, 654 (S.D.N.Y. 2018) 
+(“Courts may, and generally will, deem a claim abandoned when a plaintiff fails to respond to a 
+defendant's arguments that the claim should be dismissed.” (internal quotation marks omitted)). 
+Paribas is also trafficking by engaging in “commercial activity using or otherwise 
+benefiting from” Plaintiffs’ confiscated property.  22 U.S.C. §6023(13)(A)(ii). . . .  
+If Paribas is lending BNC the money, that lending benefits from confiscated 
+property because Banco Pujol’s assets “made BNC a more stable, less risky, and 
+more desirable counterparty” for Paribas.  SAC ¶ 54.  If Paribas is facilitating 
+transactions, those transactions use or benefit from Banco Pujol’s assets because 
+they made BNC a better counterparty for Paribas’s clients or because they make 
+use of BNC’s services — services BNC provides thanks to the “assets,” 
+“infrastructure,” and “equity” stolen from Plaintiffs.  Id. ¶¶ 26-29, 42, 53. 
+ECF No. 95 (“Pls.’ Supp. Mem.”), at 2-3 (emphases added and footnote omitted).  The tell, of 
+course, is Plaintiffs’ repeated use of the word “if.”  If the Second Amended Complaint included 
+any of the allegations in Plaintiffs’ memorandum, perhaps the purported deliveries would qualify 
+as “trafficking.”  (The Court need not and does not intimate a view.)  But as Plaintiffs effectively 
+concede, the Second Amended Complaint does not include any of these allegations.  See also 
+ECF No. 97, at 5 n.4.  As if to prove the point, Plaintiffs preface their discussion by observing 
+that “[o]nly merits discovery will tell whether the dollars Paribas furnishes to BNC are 
+disbursements from a credit facility or transfers on behalf of Paribas clients doing business with 
+or through BNC.”  Pls.’ Supp. Mem. 2.  That may well be true, but as the Supreme Court has 
+expressly held, Rule 8 of the Federal Rules of Civil Procedure “does not unlock the doors of 
+discovery for a plaintiff armed with nothing more than conclusions” and speculation.  Iqbal, 556 
+U.S. at 678-79.                                                           
+In short, Plaintiffs have not “nudged their claims” of trafficking within the two-year 
+period before they filed suit “across the line from conceivable to plausible.”  Twombly, 550 U.S. 
+at 570.  It follows that, for reasons the Court discussed in its prior Opinions, Plaintiffs’ claims 
+against Paribas are barred by the Helms-Burton Act, which provides that an action for trafficking 
+“may not be brought more than 2 years after the trafficking giving rise to the action has ceased to 
+occur.”  22 U.S.C. § 6084.  Accordingly, Paribas’s motion to dismiss must be and is GRANTED, 
+and the Court need not and does not address Paribas’s other arguments for dismissal.  Further, 
+because the Court previously granted Plaintiffs leave to amend and because Plaintiffs neither 
+suggest that they have additional facts that would render their claims against Paribas timely nor 
+request leave to amend again, the Court declines to grant Plaintiffs another opportunity to amend. 
+See, e.g., Fischman v. Mitsubishi Chem. Holdings Am., Inc., No. 18-CV-8188 (JMF), 2019 WL 
+3034866, at *7 (S.D.N.Y. July 11, 2019); see Pujol Moreira II, 2023 WL 359446, at *4 (denying 
+SG leave to amend on similar grounds); cf. Pujol Moreira I, 573 F. Supp. 3d at 934 (“{I]f 
+[Plaintiffs] could have [cured their pleading defects] one assumes they would have... .”). 
+ The Clerk of Court is directed to enter judgment consistent with both this Memorandum 
+Opinion and Order and Pujol Moreira II, and to close the case. 
+
+ SO ORDERED. 
+Dated: February 16, 2023 
+New York, New York                         JESS    “FURMAN 
+                                          nited States District Judge
+
+---
+
+UNITED STATES DISTRICT COURT                                              
+SOUTHERN DISTRICT OF NEW YORK                                             
+---------------------------------------------------------------------- X   
+                                       :                                 
+JUAN B. PUJOL MOREIRA, in his personal capacity   :                       
+and as Personal Representative and Administrator of the   :               
+ESTATE OF NIEVES PUJOL a/k/a NIEVES MOREIRA  :                            
+MARTINEZ et al.,                        :       20-CV-9380 (JMF)          
+                                       :                                 
+                                               Plaintiffs,   :  OPINION AND ORDER 
+                                       :                                 
+         -v-                           :                                 
+                                       :                                 
+SOCIÉTÉ GÉNÉRALE, S.A. et al.,          :                                 
+                                       :                                 
+                                               Defendants.   :           
+                                       :                                 
+---------------------------------------------------------------------- X  
+JESSE M. FURMAN, United States District Judge:                            
+    The heirs of former owners of Banco Pujol — a Cuban bank confiscated by the Castro 
+regime in 1960 and absorbed into Banco National de Cuba (“BNC”) — bring this suit against 
+two French banks, Société Générale, S.A. (“SG”) and BNP Paribas, S.A. (“Paribas”), for 
+“trafficking” their confiscated assets by doing business with BNC, in violation of Title III of the 
+Cuban Liberty and Democracy Solidarity Act of 1996, 22 U.S.C. § 6021 et seq., commonly 
+known as the Helms-Burton Act.  In an earlier Opinion and Order, the Court dismissed 
+Plaintiffs’ claims on the ground that they were barred by Section 6084 of the Helms-Burton Act, 
+which provides that an action for trafficking “may not be brought more than 2 years after the 
+trafficking giving rise to the action has ceased to occur.”  22 U.S.C. § 6084; see Moreira v. 
+Société Générale, S.A., 573 F. Supp. 3d 921 (S.D.N.Y. 2021) (ECF No. 60).  Thereafter, 
+Plaintiffs filed the operative Second Amended Complaint.  ECF No. 67 (“SAC”).  Defendants 
+now move again, pursuant to Rule 12(b) of the Federal Rules of Civil Procedure, to dismiss.  For 
+the reasons that follow, the Court concludes that Plaintiffs’ Second Amended Complaint fails to 
+remedy the timeliness problems that doomed their claims against SG.  The Court reserves 
+judgment as to the claims against Paribas pending further briefing.       
+                         BACKGROUND                                      
+    The Court described the relevant background in its prior Opinion and Order, see Moreira, 
+
+573 F. Supp. 3d at 924-25, familiarity with which is presumed.  Accordingly, the Court provides 
+here only a short overview before turning to Plaintiffs’ new allegations in the Second Amended 
+Complaint, which — to the extent they are well pleaded — are assumed to be true for purposes 
+of this motion, see, e.g., Kleinman v. Elan Corp., 706 F.3d 145, 152 (2d Cir. 2013). 
+    When Plaintiffs first brought this suit, they alleged that SG and Paribas trafficked their 
+confiscated assets by operating credit facilities that made U.S. dollar-denominated loans to BNC.  
+See Moreira, 573 F. Supp. 3d at 925.  Significantly, however, Plaintiffs explicitly alleged that 
+Paribas operated its credit facilities from 2000 to 2010 and that SG operated its facilities from 
+2004 to 2010.  See id. at 928.  As for the period after 2010, Plaintiffs alleged only that 
+Defendants “continue[d]” to operate “in substantially the same manner” as before (albeit through 
+
+Euro-denominated credit facilities).  Id. at 928-29.  In dismissing Plaintiffs’ claims, the Court 
+concluded that their allegations about Defendants’ post-2010 conduct were conclusory and thus 
+insufficiently pleaded and that Plaintiffs’ allegations about Defendants’ pre-2010 conduct, 
+although sufficiently pleaded, were not enough to avoid Title III’s two-year statute of repose.  Id. 
+at 928-30.  The Court expressed skepticism about Plaintiffs’ ability to address these problems, 
+but it nevertheless granted them leave to amend “with the benefit of” its Opinion.  Id. at 934.   
+    The Second Amended Complaint includes new allegations in an attempt to demonstrate 
+that each Defendant’s conduct continued into the two-year repose period.  As to SG, the Second 
+Amended Complaint includes only one new such allegation: that SG trafficked their assets until 
+at least mid-2019 by “providing Cuban entities access to foreign currency,” which “[u]pon 
+information and belief . . . flow[ed] through BNC, which is the primary financial institution with 
+whom foreign companies do business in or with Cuba.”  SAC ¶ 40; see also id. ¶ 42 (“[SG] 
+continued, through at least late August or early September 2019, to provide the Cuban 
+
+government — and, upon information and belief, BNC — access to U.S. dollars and other 
+foreign currency that Cuba and its primary commercial banking arm (BNC) could not themselves 
+access or provide to BNC’s clients.”).  As to Paribas, the Second Amended Complaint alleges 
+similarly that Paribas transacted with a Cuban military-linked investment firm and other foreign 
+companies that do business in Cuba and that, “[u]pon information and belief, BNC [was] 
+involved in at least some of th[ose] transactions because it is the primary financial institution 
+with whom foreign companies do business in or with Cuba.”  SAC ¶ 56.  In addition, however, 
+Plaintiffs now allege that, “[a]ccording to a former Paribas compliance officer, Paribas routinely 
+provides to BNC in Switzerland parcels of U.S. currency,” that it did so in 2020, and there is “no 
+reason to believe Paribas stopped.”  Id. ¶ 49.  “Upon information and belief,” the Second 
+
+Amended Complaint continues, “BNC uses the U.S. currency provided by Paribas to continue to 
+access international markets and conduct transactions, including on behalf of its clients, that it 
+would not otherwise be able to access or conduct.”  Id.; see also id. ¶ 53 (“Through at least 2020, 
+Paribas . . . provided physical U.S. dollars to BNC that BNC need[ed] to operate as a commercial 
+bank but could not itself access or provide to its clients.”).1           
+
+
+1    In addition to these new allegations, Plaintiffs renew their allegations regarding 
+Defendants’ pre-2010 credit-facilities, see SAC ¶¶ 37-39, 42 (SG); id. ¶¶ 45-47, 50, 53 (Paribas), 
+and their allegation that Paribas’s credit facilities were converted to Euros and continued to 
+operate post-2010, see id. ¶ 48; see also ECF No. 81 (“Pls.’ Opp’n), at 5, 11.  The Court 
+discussed the inadequacies of these allegations in its prior Opinion, see Moreira, 573 F. Supp. 3d 
+at 928-30, and thus does not address them again below.                    
+                          DISCUSSION                                     
+    Defendants advance several arguments in support of dismissal, only two of which the 
+Court discusses here.  First, they renew their argument that Plaintiffs’ claims are time barred, 
+asserting that the new allegations of trafficking within the repose period are not well pleaded.  
+
+See ECF No. 76 (“Defs.’ Mem.”), at 8-14.  Second, they contend that the Court lacks personal 
+jurisdiction over them because the only conduct that could support personal jurisdiction is time 
+barred.  See id. at 14-18.  Under other circumstances, the Court would begin with the latter 
+argument.  See, e.g., Sinochem Int’l Co. v. Malay. Int’l Shipping Corp., 549 U.S. 422, 430-31 
+(2007) (“[A] federal court generally may not rule on the merits of a case without first 
+determining that it has . . . personal jurisdiction[].”); In re Rationis Ents., Inc. of Pan., 261 F.3d 
+264, 267-68 (2d Cir. 2001).  But here, whether there is personal jurisdiction turns in part on 
+whether and to what extent Plaintiffs plausibly allege relevant conduct within the two-year 
+repose period.  Accordingly, at least with respect to SG, the Court begins with the timeliness of 
+Plaintiffs’ claims.  See, e.g., ONY, Inc. v. Cornerstone Therapeutics, Inc., 720 F.3d 490, 498 n.6 
+
+(2d Cir. 2013) (“Although we traditionally treat personal jurisdiction as a threshold question to 
+be addressed prior to consideration of the merits of a claim, that practice is prudential and does 
+not reflect a restriction on the power of the courts to address legal issues.” (citations omitted)); 
+Chevron Corp v. Naranjo, 667 F.3d 232, 246 n.17 (2d Cir. 2012) (addressing the merits before 
+personal jurisdiction, noting that the court need not begin with personal jurisdiction where “the 
+personal jurisdictional challenges are based on factual allegations that are, in this early posture, 
+still under development”).  The Court will begin Plaintiffs’ claims against SG. 
+A.  Plaintiffs’ Claims Against SG                                         
+    As noted, the Second Amended Complaint contains only one pertinent new allegation 
+against SG: that it provided foreign currency to Cuban entities and that, “[u]pon information and 
+belief” the foreign currency must have flowed through BNC because it is “the primary financial 
+institution with whom foreign companies do business in or with Cuba.”  SAC ¶ 40.2  Defendants 
+
+argue that this allegation, without more, is conclusory and therefore not well pleaded.  See Defs.’ 
+Mem. 11-12.  The Court agrees.  “A litigant cannot merely plop ‘upon information and belief’ in 
+front of a conclusory allegation and thereby render it non-conclusory.”  See Citizens United v. 
+Schneiderman, 882 F.3d 374, 384 (2d Cir. 2018).  In the Second Circuit, pleading on information 
+and belief is generally appropriate only where “the facts are peculiarly within the possession and 
+control of the defendant or where the belief is based on factual information that makes the 
+inference of culpability plausible.”  Arista Recs., LLC v. Doe 3, 604 F.3d 110, 120 (2d Cir. 2010) 
+(citations omitted); see Citizens United, 882 F.3d at 384-85.  Where neither condition is fulfilled, 
+the allegation is no more than “pure speculation.”  Singa v. Corizon Health, Inc., No. 17-CV-
+
+4482 (BMC), 2018 WL 324884, at *4 (E.D.N.Y. Jan. 8, 2018); accord Williams v. Calderoni, 
+No. 11-CV-3020 (CM), 2012 WL 691832, at *7 (S.D.N.Y. Mar. 1, 2012).       
+    Neither condition is fulfilled here.  First, Plaintiffs’ assertion that SG is in “exclusive 
+possession of information and documentation relevant to [the allegations at issue],” New York v. 
+Town of Clarkstown, 95 F. Supp. 3d 660, 681 (S.D.N.Y. 2015), is hard to square with their 
+
+
+2    In their motion papers, Plaintiffs also assert that, according to a whistleblower, SG 
+“continues to profit from . . . the very same conduct [it] was punished for in 2018” — namely, 
+the U.S.-dollar-denominated credit facilities.  Pls.’ Opp’n 8.  But that allegation appears nowhere 
+in the Second Amended Complaint and, thus, may not be considered by the Court.  See, e.g., In 
+re Bystolic Antitrust Litig., 583 F. Supp. 3d 455, 489 (S.D.N.Y. 2022) (“[I]t is axiomatic that the 
+Complaint cannot be amended by the briefs in opposition to a motion to dismiss.”). 
+reliance on a whistleblower with allegedly intimate knowledge of SG’s Cuba-related business, 
+see SAC ¶ 40.  Plaintiffs tout the whistleblower as a “Paris-based [SG] employee” with “personal 
+knowledge of the illicit transactions to which SG admitted [in the past].”  SAC ¶ 40; Pls.’ Opp’n 
+8.  Indeed, it was this very whistleblower who alerted Plaintiffs’ counsel to SG’s alleged 
+trafficking in the first place.  SAC ¶ 40.3  Plaintiffs’ access to inside information thus 
+
+distinguishes this case from those they cite in which information-and-belief pleading was found 
+to be proper.  See Benjamin v. Consol. Edison Co. of N.Y., Inc., No. 17-CV-1720 (JMF), 2018 
+WL 1406620, at *2 (S.D.N.Y. Mar. 20, 2018) (finding information-and-belief pleading adequate 
+where, as the defendant conceded, the plaintiff had “no way of knowing” the defendant’s testing 
+practices as to other employees); Altman State Lighting, Inc. v. Smith, No. 20-CV-2575 (NSR), 
+2022 WL 374590, at *6 (S.D.N.Y. Feb. 8, 2022) (finding information-and-belief pleading 
+adequate with respect to whether the defendant “ha[d] close professional and personal 
+relationships” with other people because that would “generally not be known outside of those 
+individuals”).  Put simply, Plaintiffs did have a “way of knowing” whether SG’s transactions 
+
+flowed through BNC.  See, e.g., Zeitlin v. Palumbo, 532 F. Supp. 3d 64, 69 (E.D.N.Y. 2021) 
+(“[W]hen a plaintiff can acquire at least some information that would connect a defendant to the 
+alleged wrongdoing, the ‘mere mention of the possibility’ of wrongdoing ‘cannot be enough.’” 
+(quoting Citizens United, 882 F.3d at 385)).                              
+    Nor do Plaintiffs show that their newfound allegation against SG “is based on factual 
+information that makes the inference of culpability plausible.”  Artisa Recs. LLC, 604 F.3d at 
+
+
+3    Plaintiffs provide no explanation for why, given their access to the whistleblower before 
+their initial complaint, they did not include their new allegation in that complaint.  The lack of a 
+new source to support the new allegation suggests that Plaintiffs are merely trying to repackage 
+the same information to which they were privy in their initial pleading.  
+120.  To do so, Plaintiffs would have to accompany their allegation with factual assertions that 
+“raise a right to relief above the speculative level.”  Morana v. Park Hotels & Resorts, Inc., No. 
+20-CV-2797 (RA), 2021 WL 1164010, at *3 (S.D.N.Y. Mar. 26, 2021); see also, e.g., Warren v. 
+ResMed Corp., No. 21-CV-8531 (JFK), 2022 WL 2334055, at *4 (S.D.N.Y. June 28, 2022) 
+
+(“Because the Plaintiff’s allegation [upon information and belief] . . . is not accompanied by a 
+statement of the facts upon which the belief is based, the [complaint] fails to state a claim . . . .” 
+(cleaned up)).  But Plaintiffs offer only one factual averment to support their allegation: that 
+BNC “is the primary financial institution with whom foreign companies do business in or with 
+Cuba.”  SAC ¶ 40; see also Pls.’ Opp’n 10.  This is not enough.  First, it is not clear that 
+“providing Cuban entities access to foreign currency” necessarily means that such funds flow 
+through a Cuban bank.  SAC ¶ 40.  Plaintiffs point to no laws, regulations, or information from 
+their whistleblower to support that inference.  Second, even if that inference were supportable, 
+Plaintiffs cite nothing more than BNC’s share of the banking market in Cuba to support their 
+next inference, that SG’s funds must have flowed through BNC.  Cf. Moreira, 573 F. Supp. 3d at 
+
+929 (“[T]here is no indication that either Defendant renewed facilities available to BNC as 
+opposed to other Cuban entities to which they made credit facilities available.”).  Plaintiffs’ 
+reliance on market share, without more, however, “does not show that [their] belief is based on 
+factual information that makes the inference of culpability plausible.”  Zeitlin, 532 F. Supp. 3d at 
+71 (internal quotation marks omitted)).  In short, the “inference of culpability” here rests on not 
+one, but two speculative assertions and, thus, fails to clear the plausibility threshold. 
+    In short, Plaintiffs’ new post-2010 allegations against SG are not well pleaded and add 
+nothing to what the Court considered in its prior Opinion and Order.  Thus, “[w]hen push comes 
+to shove, ‘the well-pleaded facts do not permit the court to infer more than the mere possibility 
+of misconduct’ after 2010.”  Moreira, 573 F. Supp. 3d at 929 (quoting Ashcroft v. Iqbal, 556 
+U.S. 662, 679 (2009)).  It follows that Plaintiffs’ claims against SG must be and are dismissed as 
+untimely.                                                                 
+B.  Plaintiffs’ Claims Against Paribas                                    
+
+    As noted, Plaintiffs include two pertinent new allegations (or sets of allegations) as to 
+Paribas: first, that Paribas transacted with a Cuban military-linked investment firm and other 
+foreign companies that do business in Cuba and that, “[u]pon information and belief, BNC [was] 
+involved in at least some of th[ose] transactions because it is the primary financial institution 
+with whom foreign companies do business in or with Cuba,” SAC ¶ 56; and second, that 
+“Paribas routinely provides to BNC in Switzerland parcels of U.S. currency,” that it did so in 
+2020, and that there is “no reason to believe Paribas stopped,” id. ¶ 49.  The former does not do 
+the trick for the reasons discussed above as to SG: The new allegations are conclusory and not 
+well pleaded.  Thus, the question of whether Plaintiffs’ claims against Paribas can proceed turns 
+on whether their allegation that Paribas provided cash to BNC in Switzerland cuts it. 
+
+    The Court is not prepared to answer that question now because it implicates two issues 
+that appear to be of first impression as to which the parties’ briefing is not well developed.  First, 
+it is not clear that merely giving cash to BNC, without more, qualifies as “trafficking” within the 
+meaning of the Helms-Burton Act, as broad as the definition of “trafficking” may be.  (The 
+Second Amended Complaint does allege, “[u]pon information and belief,” that “BNC uses the 
+U.S. currency provided by Paribas to continue to access international markets and conduct 
+transactions, including on behalf of its clients, that it would not otherwise be able to access or 
+conduct.”  SAC ¶ 49.  But that allegation is arguably not well pleaded either.)  Defendants do 
+argue in passing that “the alleged delivery of cash to BNC, without more, falls far outside the 
+definition of trafficking.”  Def.’s Mem. 14; see also id. at 22 (claiming, in a single sentence, that 
+“the SAC’s new allegations that [Paribas] provided BNC U.S. currency fails to allege that 
+[Paribas’s] transactions amount to trafficking”); ECF No. 84, at 6 (“There is no connection 
+between the alleged ‘parcels of cash’ and any supposed credit facility with BNC or with 
+
+Plaintiffs’ confiscated property.  In other words, this reference to BNC is far removed from any 
+definition of ‘trafficking’ . . . .”).  But they do not develop the argument or discuss any relevant 
+authority.  Plaintiffs devote even less ink to the issue, simply asserting that the deliveries 
+“constitute trafficking in Banco Pujol property” whether or not they “are disbursements from a 
+credit facility or payments on behalf of a Paribas client.”  Pls.’ Opp’n 11; see also id. at 18-21 
+(never discussing the allegation specifically in the trafficking analysis). 
+    Second, even if the delivery of cash to BNC in Switzerland constitutes trafficking within 
+the meaning of the Helms-Burton Act, it is not clear that the Court can, consistent with New 
+York law and due process, exercise personal jurisdiction over Paribas given that the only conduct 
+alleged to have occurred in New York (or the United States) occurred long before the repose 
+
+period.  See, e.g., Wilder v. News Corp., No. 11-CV-4947 (PGG), 2015 WL 5853763, at *11 n.6 
+(S.D.N.Y. Oct. 7, 2015) (“[C]laims premised on the[] [violative statements] are time-barred.  
+Accordingly, these statements provide no basis for this Court to exercise specific personal 
+jurisdiction over [the Defendant].”); Skidmore v. Led Zepplin, 106 F. Supp. 3d 581, 588 (E.D. Pa. 
+2015) (“[T]he only acts alleged to have been performed by the individual Defendants in this 
+District . . . occurred at least seventeen years ago.  Given the three-year statute of limitations . . . 
+[these] are not contacts upon which the Court may base its exercise of specific jurisdiction.”).  
+But see Power Density Sols. v. IBM Corp., No. 19-CV-3710, 2020 WL 4876895, at *4 (N.D. Cal. 
+Mar. 20, 2020) (“[The Defendant’s] theory appears to be that if claims for the allegedly wrongful 
+conduct in [the forum state] are all time-barred, then such conduct does not ‘count’ for purposes 
+of jurisdictional analysis.  While creative, this theory has no support in law or logic.”).  That is 
+true even if, as Plaintiffs contend, see Pls.’ Opp’n 12-14, Paribas’s pre-2010 conduct and its 
+alleged deliveries of cash in Switzerland are properly viewed as a single, continuing act of 
+“trafficking.”4  After all, the offending conduct in New York took place long ago, the recent 
+
+conduct itself has no apparent connection to New York (or the United States), and there is reason 
+to believe that Paribas structured its activities in the interim to avoid potential liability in New 
+York and the United States.  The parties have not cited, and the Court has not found, any case 
+addressing whether New York’s long-arm statute would apply in these unusual circumstances.  
+And even if personal jurisdiction would be proper under New York law, it is far from clear 
+whether, in these circumstances, it would be “reasonable” to exercise jurisdiction over Paribas as 
+required by the Due Process Clause — that is, whether asserting jurisdiction over a non-
+domiciliary that has, for over a decade (and for the entirety of the repose period), avoided any 
+contact with New York (and the United States) “would comport with fair play and substantial 
+
+justice.”  U.S. Bank Nat’l Ass’n v. Bank of Am. N.A., 916 F.3d 143, 150-51 (2d Cir. 2019) 
+(internal quotation marks omitted).  On that issue too, the parties’ briefing does not sufficiently 
+aid the Court.                                                            
+                          CONCLUSION                                     
+    For the forgoing reasons, Defendants’ motion to dismiss is GRANTED with respect to 
+Plaintiffs’ claims against SG.  Further, because the Court previously granted Plaintiffs leave to 
+amend and because Plaintiffs neither suggest that they have additional facts that would render 
+
+
+4    To be clear, the Court does not need or want further briefing on that issue as the parties 
+have already addressed it adequately.                                     
+their claims against SG timely nor request leave to amend again, the Court declines to grant 
+Plaintiffs another opportunity to amend.  See, e.g., Fischman v. Mitsubishi Chem. Holdings Am., 
+Inc., No. 18-CV-8188 (JMF), 2019 WL 3034866, at *7 (S.D.N.Y. July 11, 2019).  By contrast, 
+the Court reserves judgment with respect to Defendants’ motion to dismiss Plaintiffs’ claims 
+against Paribas pending further briefing on the issues discussed above, namely (1) whether 
+Plaintiffs’ allegations that Paribas gave cash to BNC in Switzerland are sufficient to establish 
+“trafficking” within the meaning of the Helms-Burton Act; and (2) if so, whether the assertion of 
+personal jurisdiction over Paribas, under the unusual circumstances of this case, would be proper 
+under New York law and consistent with due process.°  Plaintiffs and Paribas shall submit 
+supplemental briefs on these issues, not to exceed fifteen pages, by February 6, 2023. 
+      The Clerk of Court is directed to terminate ECF No. 75 and to terminate SG as a party. 
+
+      SO ORDERED. 
+Dated: January 23, 2023 
+     New York, New York                          ESSE      RMAN 
+                                               nited States District Judge 
+
+5      The Court reserves judgment as well on Paribas’s other arguments for dismissal, as they 
+pertain to the merits of Plaintiffs’ claims and it is necessary to determine first that the exercise of 
+personal jurisdiction is proper.  See Defs.” Mem. 18-36; see also, e.g., Sinochem Int’l Co., 549 
+US. at 430-31; Rationis Ents., Inc.  of Pan., 261 F.3d at 267-68. 
+
+                                      11
+
+---
+
+UNITED STATES DISTRICT COURT                                              
+SOUTHERN DISTRICT OF NEW YORK                                             
+---------------------------------------------------------------------- X   
+                                       :                                 
+JUAN B. PUJOL MOREIRA, in his personal capacity   :                       
+and as Personal Representative and Administrator of the   :               
+ESTATE OF NIEVES PUJOL a/k/a NIEVES MOREIRA  :                            
+MARTINEZ et al.,                        :       20-CV-9380 (JMF)          
+                                       :                                 
+                                               Plaintiffs,   :  OPINION AND ORDER 
+                                       :                                 
+         -v-                           :                                 
+                                       :                                 
+SOCIÉTÉ GÉNÉRALE, S.A. et al.,          :                                 
+                                       :                                 
+                                               Defendants.   :           
+                                       :                                 
+---------------------------------------------------------------------- X  
+JESSE M. FURMAN, United States District Judge:                            
+    This case is one of the first brought in this District under the Cuban Liberty and 
+Democratic Solidarity Act of 1996, 22 U.S.C. § 6021, et seq., commonly known as the Helms-
+Burton Act (the “Act” or the “Helms-Burton Act”), which creates a private cause of action 
+against those who “traffic” in assets that were confiscated by the Cuban government.  Although 
+the Act went into effect in 1996, the right to bring a cause of action under it was suspended by 
+presidential decree until May 2019, when President Trump lifted the suspension for the first 
+time.  Shortly thereafter, Plaintiffs — heirs of the former owners of Banco Pujol, a Cuban bank 
+confiscated by the Cuban government in 1960 — brought this suit, alleging that Defendants 
+Société Générale (“SG”) and BNP Paribas (“Paribas”), both multinational banks, “trafficked” in 
+their confiscated assets by arranging credit facilities for Banco National de Cuba (“BNC”), the 
+Cuban national bank that absorbed Banco Pujol’s confiscated assets.       
+    Defendants now move, pursuant to Rules 12(b)(1) and 12(b)(6) of the Federal Rules of 
+Civil Procedure, to dismiss Plaintiffs’ claims.  They raise various arguments, including that 
+Plaintiffs lack standing under Article III of the Constitution and that Plaintiffs’ claims are time 
+barred by the Act, which provides that an action “may not be brought more than 2 years after the 
+trafficking giving rise to the action has ceased to occur.”  22 U.S.C. § 6084.  For the reasons that 
+follow, the Court concludes that Plaintiffs do have constitutional standing but that their claims 
+
+are indeed time barred.  Accordingly, the Court grants Defendants’ motion to dismiss the 
+Complaint for failure to state a claim, albeit with leave to amend.       
+                         BACKGROUND                                      
+    The Court begins with the relevant background, starting with the Helms-Burton Act and 
+then turning to the facts specific to this case.  The latter are drawn from the Amended Complaint 
+(“Complaint”), ECF No. 29 (“Compl.”) and assumed to be true for purposes of this motion.  See, 
+e.g., Biro v. Conde Nast, 807 F.3d 541, 544 (2d Cir. 2015).               
+A.  The Helms-Burton Act                                                  
+    In 1996, seeking to strengthen the United States’ economic sanctions on Cuba and hasten 
+the end of the Fidel Castro regime, Congress passed the Helms-Burton Act.  Congress observed 
+
+that Cuba was “offering foreign investors the opportunity to purchase an equity interest in, 
+manage, or enter into joint ventures,” oftentimes using property confiscated from United States 
+nationals, and that these foreign investors were, in turn, providing Cuba with “badly needed 
+financial benefit, including hard currency, oil, and productive investment and expertise.”  22 
+U.S.C. § 6081(5), (6).  To deter these foreign investors and to “protect United States nationals 
+against confiscatory takings and the wrongful trafficking in property confiscated by the Castro 
+regime,” id. § 6022, Title III of the Act created a private cause of action, available to any United 
+States national who owns a claim to property confiscated by the Cuban Government, against any 
+person who intentionally “traffics” in such property, id. § 6082(a)(1)(A) (hereinafter “Title III”).   
+    Under Title III, a person “traffics” in confiscated property if that person “knowingly and 
+intentionally” “sells, transfers, distributes, dispenses, brokers, manages or otherwise disposes of 
+confiscated property, or purchases, leases, receives, possesses, obtains control of, manages, uses, 
+or otherwise acquires or holds an interest in confiscated property . . . [or] engages in a 
+
+commercial activity using or otherwise benefiting from confiscated property,” or if that person 
+“causes, directs, participates in, or profits from, trafficking . . . or otherwise engages in 
+trafficking . . . through another person.”  Id. § 6023(13)(A).  As a remedy, claimants may seek 
+the greater of the current market value of the property or the value at the time it was confiscated, 
+plus interest, and may also seek treble damages if, inter alia, the trafficker continues to traffic in 
+the confiscated property.  Id. § 6082(a)(1)(A), (a)(3)(B)-(C).            
+    The enactment of Title III was not welcomed universally.  See, e.g., Havana Club 
+Holding, S.A. v. Galleon S.A., 961 F. Supp. 498, 501 n.5 (S.D.N.Y. 1997) (explaining, shortly 
+after the Act’s passage, that Title III had been characterized as “objectionable and onerous to 
+United States allies” and that some allies had responded to its passage with “nothing less than 
+
+‘outrage’”).  Perhaps anticipating that reaction, Congress granted the President the power to 
+suspend the private right of action created by Title III if he or she “determines . . . that 
+suspension is necessary to the national interests of the United States and will expedite a 
+transition to democracy in Cuba.” Id. § 6085(b).  Until May 2019, every President had exercised 
+that power.  In May 2019, however, President Trump lifted the suspension, allowing Title III 
+claims to proceed for the first time.  On November 9, 2020, this litigation followed.  ECF No. 1. 
+B.  Factual Background                                                    
+    In 1958, before Fidel Castro came to power in Cuba, Banco Pujol was the seventh largest 
+Cuban owned bank, controlling $25.1 million in assets.  Compl. ¶ 25.  On October 14, 1960, the 
+new Castro government confiscated Banco Pujol and absorbed the bank, along with other Cuban 
+owned banks, into BNC.  Id. ¶ 26.  At the time, approximately 1.3% of BNC’s total equity came 
+from the property seized from Banco Pujol.  Id. ¶ 28.                     
+    Plaintiffs here are United States citizens (or the estates thereof) who inherited interests in 
+
+Banco Pujol.  Id. ¶¶ 6-16, 25.  They bring claims under Title III against SG and Paribas, major 
+multinational banks, for trafficking in confiscated Banco Pujol property.  Id. ¶¶ 36, 43, 61.  In 
+particular, Plaintiffs allege that sometime after December 11, 1995, SG opened at least six credit 
+facilities that made loans to BNC or to “a New-Jersey incorporated entity for subsequent transfer 
+to” BNC.  Id. ¶¶ 36, 37.  They allege that between 2000 and 2010, Paribas operated “eight credit 
+facilities” for Cuban banks and “opened U.S.-dollar accounts with Cuban banks,” including 
+BNC, “to permit them access to U.S. dollars.”  Id. ¶ 43.                  
+    Plaintiffs allege that the opening of these credit facilities, and loans made to BNC, 
+constitute trafficking within the meaning of Title III because BNC “knowingly and 
+intentionally . . . manag[ed], posess[ed], obtain[ed] control of, or otherwise acquir[ed] or [held] 
+
+an interest in” and “used or benefited from” the property confiscated from Banco Pujol, and SG 
+and Paribas “knowingly and intentionally participated in and profited from BNC’s trafficking in 
+[the] confiscated property.”  Id. ¶ 39 (internal quotation marks omitted); see also id. ¶ 47.  
+Through these facilities, Plaintiffs allege, SG and Paribas provided BNC with access to U.S. 
+dollar credit facilities that it could not otherwise access and “earned significant profits from 
+operating the . . . facilities.”  Id. ¶¶ 38, 39; see also id. ¶¶ 46, 47.    
+    Plaintiffs allege that SG and Paribas also trafficked in property confiscated from Banco 
+Pujol by “knowingly and intentionally engag[ing] in, participat[ing] in, and profit[ing] from 
+commercial activities that used or otherwise benefited from confiscated property.”  Id. ¶ 40 
+(internal quotation marks omitted); see also id. ¶ 48.  According to Plaintiffs, SG and Paribas 
+benefited from the property confiscated from Banco Pujol because that property “made BNC a 
+more stable, less risky, and more desirable counterparty than it otherwise would have been” for 
+the credit facilities.  Id. ¶¶ 40, 48.  Finally, Plaintiffs allege that SG and Paribas “continue to 
+
+traffic in” Banco Pujol’s confiscated property “in substantially the same manner” by 
+“continu[ing] to operate similar credit facilities,” although the facilities now exclude U.S. dollar 
+transactions.  Id. ¶¶ 54, 59.                                             
+                       LEGAL STANDARD                                    
+    Defendants move jointly to dismiss Plaintiffs’ Complaint pursuant to Rules 12(b)(1) and 
+12(b)(6).  ECF No. 41 (“Defs.’ Mem.”) at 39.  A Rule 12(b)(1) motion challenges the court’s 
+subject-matter jurisdiction to hear the case.  “A case is properly dismissed for lack of subject 
+matter jurisdiction under Rule 12(b)(1) when the district court lacks the statutory or 
+constitutional power to adjudicate it.”  Makarova v. United States, 201 F.3d 110, 113 (2d Cir. 
+2000).  In reviewing a motion to dismiss under Rule 12(b)(1), a court “must take all facts alleged 
+
+in the complaint as true and draw all reasonable inferences in favor of plaintiff, but jurisdiction 
+must be shown affirmatively, and that showing is not made by drawing from the pleadings 
+inferences favorable to the party asserting it.”  Morrison v. Nat’l Austl. Bank Ltd., 547 F.3d 167, 
+170 (2d Cir. 2008) (internal quotation marks and citation omitted), aff’d, 561 U.S. 247 (2010).  
+“The plaintiff bears the burden of proving subject matter jurisdiction by a preponderance of the 
+evidence.”  Aurecchione v. Schoolman Transp. Sys., Inc., 426 F.3d 635, 638 (2d Cir. 2005). 
+    By contrast, a Rule 12(b)(6) motion tests the legal sufficiency of a complaint and requires 
+a court to determine whether the facts alleged in the complaint are sufficient to show that the 
+plaintiff has a plausible claim for relief.  See Ashcroft v. Iqbal, 556 U.S. 662, 679 (2009).  When 
+ruling on a Rule 12(b)(6) motion, a court must accept the factual allegations set forth in the 
+complaint as true and draw all reasonable inferences in favor of the plaintiff.  See, e.g., Holmes v. 
+Grubman, 568 F.3d 329, 335 (2d Cir. 2009).  To survive such a motion, however, the plaintiff 
+must plead sufficient facts “to state a claim to relief that is plausible on its face.”  Bell Atl. Corp. 
+
+v. Twombly, 550 U.S. 544, 570 (2007).  A claim is facially plausible “when the plaintiff pleads 
+factual content that allows the court to draw the reasonable inference that the defendant is liable 
+for the misconduct alleged.”  Iqbal, 556 U.S. at 678.                     
+                          DISCUSSION                                     
+    Defendants advance a handful of arguments in support of dismissal.  The Court, however, 
+reaches only two: first, whether Plaintiffs have standing, as that is a “threshold jurisdictional 
+question” and cannot be assumed, Steel Co. v. Citizens for a Better Env’t, 523 U.S. 83, 102 
+(1998); and second, whether Plaintiffs’ claims are timely.  The Court will address each in turn.  
+A.  Standing                                                              
+    Article III of the Constitution restricts the “judicial Power” of the United States to 
+
+“Cases” and “Controversies.”  U.S. Const. art. III, § 2.  In light of that restriction, the Supreme 
+Court has held that a plaintiff must have “standing” to sue.  See, e.g., Clapper v. Amnesty Int’l 
+USA, 568 U.S. 398, 408 (2013).  To have standing, a “plaintiff must have (1) suffered an injury 
+in fact, (2) that is fairly traceable to the challenged conduct of the defendant, and (3) that is likely 
+to be redressed by a favorable judicial decision.”  Spokeo, Inc. v. Robins, 136 S. Ct. 1540, 1547 
+(2016).  Significantly, each element “must be supported . . . with the manner and degree of 
+evidence required at the successive stages of the litigation.”  Lujan v. Defs. of Wildlife, 504 U.S. 
+555, 561 (1992).  At the pleading stage, as here, a plaintiff need only “clearly . . . allege facts 
+demonstrating” each element.  Warth v. Seldin, 422 U.S. 490, 518 (1975).  
+    Here, Plaintiffs allege that they suffered injuries sufficient to confer standing because 
+Defendants “use[d], exploit[ed], and derive[d] benefits from their confiscated property, without 
+their permission and without compensating them for the property’s use.”  ECF No. 48 (“Pls.’ 
+Opp’n”) at 8-9.  In response, Defendants offer two arguments as to why these injuries are 
+
+insufficient.  First, they contend that Plaintiffs allege only one true concrete injury, the 
+confiscation of Banco Pujol, and it is not fairly traceable to Defendants’ conduct.  Defs.’ Mem. 
+9-10.  Second, and relatedly, Defendants argue that to the extent Plaintiffs allege any injury that 
+is fairly traceable to their trafficking in Plaintiffs’ confiscated property, that injury is a mere 
+statutory violation and not sufficiently concrete to satisfy the constitutional requirements of 
+Article III.  Id. at 11-12.  Neither argument is persuasive.              
+    With respect to the first, Plaintiffs allege an injury from Defendants’ trafficking that is 
+distinct from the confiscation of Banco Pujol by the Cuban Government.  For example, Plaintiffs 
+allege that Defendants “engag[ed] in commercial activity with BNC, which has included and 
+benefitted from the wrongfully confiscated assets of Banco Pujol since 1960,” Compl. ¶ 34; that 
+
+Defendants “earned significant profits” from this activity, id. ¶¶ 38, 46; and that “Plaintiffs 
+[n]ever consented to [Defendants’] trafficking in the confiscated property,” id. ¶¶ 41, 49.  As 
+many courts that have considered similar claims have recently held, these kinds of injuries are 
+distinct from the original confiscation and “fairly traceable” to the alleged trafficker.  See, e.g., 
+Exxon Mobil Corp. v. Corporación CIMEX S.A., No. 19-CV-01277 (APM), 2021 WL 1558340, 
+at *21 (D.D.C. Apr. 20, 2021) (“Congress has defined Exxon’s injury in terms of the effects of 
+trafficking in the confiscated property, and that injury is plainly ‘fairly traceable’ to Defendants’ 
+alleged trafficking.”); see also Glen v. Trip Advisor LLC, 529 F. Supp. 3d 316, 327-28 (D. Del. 
+2021) (“Congress . . . observed that the rightful owners’ injury stemmed from both the Cuban 
+government’s confiscation of the property and subsequent traffickers’ use of that confiscated 
+property.”).  Put simply, Plaintiffs allege injury from Defendants’ “use” and “exploit[ation]” of 
+their confiscated property.  Pls.’ Opp’n 8-9.  That harm is plainly traceable to Defendants’ setting 
+up credit facilities for, and making loans to, BNC.                       
+
+    With respect to the second argument — that Plaintiffs’ alleged injuries are insufficiently 
+concrete to satisfy Article III — Defendants are, of course, correct that “‘a plaintiff [does not] 
+automatically satisf[y] the injury-in-fact requirement whenever a statute grants a person a 
+statutory right and purports to authorize that person to sue to vindicate that right.’”  Thole v. U. S. 
+Bank N.A, 140 S. Ct. 1615, 1620 (2020) (quoting Spokeo, Inc., 136 S. Ct. at 1549).  Plaintiffs 
+must also allege a concrete injury in fact.  See id.  At the same time, the Supreme Court has 
+explained that “‘[c]oncrete’ is not . . . necessarily synonymous with ‘tangible’” and that 
+“Congress may elevate to the status of legally cognizable injuries concrete, de facto injuries that 
+were previously inadequate in law.”  Spokeo, Inc., 136 S. Ct. at 1549 (cleaned up).  In evaluating 
+whether Congress has exercised that authority, a court must “consider whether an alleged 
+
+intangible harm has a close relationship to a harm that has traditionally been regarded as 
+providing a basis for a lawsuit in English or American courts.”  Id.; see also Maddox v. Bank of 
+N.Y. Mellon Tr. Co., N.A., No. 19-1774, 2021 WL 5347004, at *4 (2d Cir. Nov. 17, 2021). 
+    Doing so here, the Court concludes that Congress did indeed “elevate to the status of 
+legally cognizable” a harm that has traditionally been regarded as providing a basis for a lawsuit 
+in American courts: the harm of unjust enrichment.  “The equitable doctrine of unjust enrichment 
+rests, generally, on the principle that a party should not be allowed to enrich himself at the 
+expense of another.”  Reprosystem, B.V. v. SCM Corp., 727 F.2d 257, 263 (2d Cir. 1984).  In this 
+case, the gravamen of Plaintiffs’ claims is that Defendants were unjustly enriched by the 
+“significant profits” they earned based, in part, on Banco Pujol’s confiscated assets.  Compl. 
+¶¶ 38, 46.  In fact, Congress itself recognized the relationship between unjust enrichment and 
+claims under the statute, finding that “[t]he international judicial system, as currently structured, 
+lacks fully effective remedies . . . for unjust enrichment from the use of wrongfully confiscated 
+
+property by governments and private entities at the expense of the rightful owners of the 
+property.”  22 U.S.C. § 6081(8) (emphasis added); see also Glen v. Am. Airlines, Inc., 7 F.4th 
+331, 334 (5th Cir. 2021) (“The harm allegedly caused by [the defendant’s] trafficking bears a 
+close relationship to unjust enrichment, which has indisputable common-law roots.”).  
+Defendants argue that Plaintiffs cannot state a claim for unjust enrichment because they no 
+longer own Banco Pujol’s property, ECF No. 51 (“Defs.’ Reply”) at 3-4, but that argument 
+misapprehends the analysis.  To establish standing, Plaintiffs need not bring an unjust 
+enrichment claim or a claim that has identical elements; it suffices for them to allege a statutory 
+violation that is closely related to “a harm that has traditionally been regarded as providing a 
+basis for a lawsuit.”  Spokeo, Inc., 136 S. Ct. at 1549.  They do so.     
+
+    In short, Plaintiffs have standing to pursue their claims under the Helms-Burton Act.  
+Notably, in reaching that conclusion, the Court joins every other court that has addressed the 
+issue in the wake of President Trump’s decision to lift the suspension.  See Glen, 7 F.4th at 336; 
+N. Am. Sugar Indus. Inc. v. Xinjiang Goldwind Sci. & Tech. Co., No. 20-CV-22471 (DPG), 2021 
+WL 3741647, at *5 (S.D. Fla. Aug. 24, 2021); Exxon Mobil Corp., 2021 WL 1558340, at *21; 
+Glen, 529 F. Supp. 3d at 328; Havana Docks Corp. v. Carnival Corp., No. 19-CV-21724 (BB), 
+2020 WL 5517590, at *8 (S.D. Fla. Sept. 14, 2020); Havana Docks Corp. v. MSC Cruises SA 
+Co., 484 F. Supp. 3d 1177, 1195 (S.D. Fla. 2020); Havana Docks Corp. v. Norwegian Cruise 
+Line Holdings, Ltd., 484 F. Supp. 3d 1215, 1231 (S.D. Fla. 2020); Iglesias v. Ricard, No. 20-CV-
+20157 (KMW), 2020 U.S. Dist. LEXIS 164117, at *29 (S.D. Fla. Aug. 17, 2020). 
+B.  Timeliness                                                            
+    With that, the Court turns to the merits of Plaintiffs’ claims.  Defendants make various 
+
+alternative arguments for why Plaintiffs fail to state a claim, but the Court reaches only one: that 
+Plaintiffs’ claims are time barred.  Defendants contend that Plaintiffs’ claims are untimely based 
+on Section 6084 of the Helms-Burton Act, which provides that “[a]n action under section 6082 
+of this title [i.e., for trafficking] may not be brought more than 2 years after the trafficking giving 
+rise to the action has ceased to occur.”  22 U.S.C. § 6084.  Defendants argue that this time limit 
+bars Plaintiffs’ claims because Plaintiffs fail to allege any trafficking that occurred in the two 
+years prior to their filing suit in November 2020 and because the time limit is a statute of repose 
+not subject to equitable exceptions.  Defs.’ Mem. 12-18.  Defendants point to allegations in the 
+Complaint that “SocGen processed at least 2,500 transactions — valued at $13 billion — through 
+New York financial institutions between 2004 and 2010,” Compl. ¶ 37, and that “from at least 
+
+2000 to 2010, Paribas offered U.S.-dollar financing to Cuban entities,” id. ¶ 43.  Defendants 
+contend that these allegations show that any trafficking ended in 2010, well outside the statutory 
+time limit.                                                               
+    Plaintiffs offer several responses.  First and most straightforward, they contend that their 
+claims are timely because, in addition to the conduct through 2010, the Complaint alleges that 
+Defendants “continue to traffic in Plaintiffs’ property in substantially the same manner” and that 
+“[b]oth Defendants continue to operate similar credit facilities.”  Id. ¶ 54; accord id. ¶ 59; see 
+Pls.’ Opp’n 26-27.  But when it comes to assessing timeliness, such conclusory assertions of 
+“continuing” or “ongoing” conduct do not cut it.  See, e.g., Chiu v. Au, No. 03-CV-1150 (RNC), 
+2005 WL 2452565, at *3 (D. Conn. Sept. 30, 2005) (holding that the plaintiff’s allegations “in 
+conclusory terms that the defamation against him is ongoing” were “too vague to state a claim 
+for relief that is not barred by the statute of limitations”); Broughton v. Livingston Indep. Sch. 
+Dist., No. 08-CV-175 (TH), 2009 WL 10707489, at *6 (E.D. Tex. June 11, 2009) (same); cf. 
+
+Shomo v. City of New York, 579 F.3d. 176, 181 (2d Cir. 2009) (“To trigger the continuing 
+violation doctrine when challenging discrimination, the plaintiff must allege both the existence 
+of an ongoing policy of discrimination and some non-time-barred acts taken in furtherance of 
+that policy.” (internal quotation marks omitted) (emphasis added)); Gaughan v. Nelson, No. 94-
+CV-3859 (JFK), 1997 WL 80549, at *5 (S.D.N.Y. Feb. 26, 1997) (holding that “a few non-
+specific and conclusory allegations of” discriminatory conduct within the time limitation were 
+not sufficient to establish timeliness under a continuing violations theory); see also generally 
+Iqbal, 556 U.S. at 678, 678 (holding that “naked assertions devoid of further factual 
+enhancement” are not sufficient to state a claim and that a court need not accept as true 
+“conclusory statements” in a complaint (cleaned up)).                     
+
+    Plaintiffs further argue that “Defendants’ own admissions support an inference of 
+continued trafficking” because (1) Defendants previously disregarded U.S. criminal law in 
+pursuit of profits related to the facilities; (2) Defendants “renewed [the] facilities in Euros” after 
+facing liability in the United States; (3) BNC maintains an office in Paris to conduct business 
+with French banks; and (4) Defendants did not affirmatively say, in response to Plaintiffs’ 
+claims, that they had stopped trafficking in confiscated property.  Id. at 27-28.  But these 
+arguments do not withstand scrutiny.  The fact that Defendants previously disregarded U.S. 
+criminal law in connection with the facilities says nothing about whether they continued to do so 
+during the limitations period.  So too, it is a non sequitur to suggest that Defendants continue to 
+offer credit facilities to BNC simply because BNC has an office in Paris and Defendants are 
+Paris-based banks.  And at this stage of the litigation, the mere fact that Defendants have not 
+affirmatively denied Plaintiffs’ allegations does not mean that the allegations are plausible.  That 
+leaves the alleged fact that Defendants “renewed,” ECF No. 29-2, at 47, or “converted,” ECF 
+
+No. 29-3, at 51, the facilities into Euros.  See Compl. ¶¶ 54, 59.  The alleged renewals and 
+conversions, however, happened in 2010.  ECF No. 29-2, at 47; ECF No. 29-3, at 51.  Moreover, 
+there is no indication that either Defendant renewed facilities available to BNC as opposed to 
+other Cuban entities to which they made credit facilities available.  See ECF No. 29-2, at 47 
+(noting, with respect to some of the facilities, that SG “did not renew them at the end of their 
+term”).1  When push comes to shove, “the well-pleaded facts do not permit the court to infer 
+more than the mere possibility of misconduct” after 2010.  Iqbal, 556 U.S. at 679; see also 
+Twombly, 550 U.S. at 570 (noting that a complaint “must be dismissed” if “the plaintiffs . . . have 
+not nudged their claims across the line from conceivable to plausible”).  
+    Perhaps recognizing that their allegations of misconduct since 2010 are inadequate, 
+
+Plaintiffs make a second argument: that, at the Rule 12(b)(6) stage, dismissal based on timeliness 
+is appropriate only if it is clear from “‘the face of the complaint’” that the claims are time-barred.  
+Pls.’ Opp’n 26 (citing Conn. Gen. Life Ins. Co. v. BioHealth Lab’ys, Inc., 988 F.3d 127, 132 (2d 
+Cir. 2021)).  Defendants argue that is not the case here because the relevant provision is a statute 
+of repose, not a statute of limitation, and thus timeliness is not an affirmative defense, but 
+“‘defines the right.’”  Defs.’ Reply 9 (citing P. Stolz Family P’ship L.P. v. Daum, 355 F.3d 92, 
+
+
+1    Defendants argue that, to the extent Plaintiffs’ allegations regarding non-U.S. dollar 
+transactions would otherwise salvage their claims, “the action would still have to be dismissed 
+under Rule 12(b)(2) for lack of personal jurisdiction.”  Defs.’ Mem. 18.  In light of the Court’s 
+conclusions above, it need not and does not consider this alternative argument. 
+102 (2d Cir. 2004)).  Relatedly, they cite cases for the proposition that “when the very statute 
+which creates the cause of action also contains a limitation period, the plaintiff must plead and 
+prove facts showing that he is within the statute.”  Mori v. Saito, 10-CV-6465 (KBF), 2013 WL 
+1736527, at *3 (S.D.N.Y. Apr. 19, 2013) (cleaned up).  But the Court need not and does not 
+
+decide who has the better of that debate because, even if Plaintiffs are right, the doctrine provides 
+them no relief.  That is because Plaintiffs — whether they were required to do so or not — 
+explicitly allege that Defendants’ trafficking conduct ended more than a decade ago.  See Compl. 
+¶ 37 (“SocGen processed at least 2,500 transactions — valued at $13 billion — through New 
+York financial institutions between 2004 and 2010.”); id. ¶ 43 (“[F]rom at least 2000 to 2010, 
+Paribas offered U.S.-dollar financing to Cuban entities.”).  Plaintiffs may be right that “‘no 
+information’ [about timeliness] precludes dismissal,” Pls.’ Opp’n. 27 (quoting Fargas v. 
+Cincinnati Mach., LLC, 986 F. Supp. 2d 420, 427 (S.D.N.Y. 2013)), but their Complaint has 
+information — namely, the specific dates of Defendants’ alleged conduct.  That is, ignoring 
+Plaintiffs’ conclusory allegations about “continuing” and “ongoing” conduct, as the Court must 
+
+for the reasons discussed above, the Court is left with a Complaint that, on its face, does reveal 
+the claims to be time barred.  See 5B Fed. Prac. & Proc. Civ. § 1357 (3d ed.) (“[T]he inclusion of 
+dates in the complaint indicating that the action is untimely renders it subject to dismissal for 
+failure to state a claim.  This particularly is true if the action sued on is statutory in origin, 
+because the bar of the statute of limitations then is said to extinguish not only the remedy but the 
+underlying substantive right as well.” (footnotes omitted)).2             
+
+
+2    Plaintiffs also cite Havana Docks Corp., 2020 WL 5517590.  See Pls.’ Opp’n 26.  But 
+there, the court concluded that the plaintiff had alleged both instances of trafficking that had 
+occurred in the prior two years and older instances.  Id. at *11.  In that context, the court noted 
+that “the Amended Complaint sets forth only one count, sues only one defendant, and alleges 
+trafficking relating to one Subject Property and linked to one Certified Claim” and “reject[ed] the 
+    That leaves only Plaintiffs’ final argument: that the time bar in Section 6084 was tolled 
+— either equitably or per the statute’s terms — during the time that Title III was suspended at 
+the direction of the President (i.e., until 2019).  Pls.’ Opp’n 28-33.  Whether equitable tolling is 
+available turns in the first instance on whether Section 6084 is a statute of limitation or a statute 
+
+of repose, as the Supreme Court has made clear that statutes of repose are “in general not subject 
+to tolling.”  Cal. Pub. Emps.’ Ret. Sys. v. ANZ Sec., Inc., 137 S. Ct. 2042, 2050 (2017).  Instead, 
+“[t]olling is permissible only where there is a particular indication that the legislature did not 
+intend the statute to provide complete repose but instead anticipated the extension of the 
+statutory period under certain circumstances.”  Id.; see also Police & Fire Ret. Sys. of City of 
+Detroit v. IndyMac MBS, Inc., 721 F.3d 95, 106 (2d Cir. 2013) (“[A] statute of repose is subject 
+only to legislatively created exceptions, and not to equitable tolling.” (cleaned up)); accord 
+United States ex rel. Wood v. Allergan, Inc., No. 19-CV-4029 (JMF), 2020 WL 3073293, at *2 
+(S.D.N.Y. June 10, 2020).  Defendants argue that Section 6084 is a statute of repose and, 
+therefore, not subject to equitable tolling.  Defs.’ Mem. 12.  Plaintiffs counter that Section 6084 
+
+is a statute of limitations and that it was equitably tolled.  Pls.’ Opp’n 31-32. 
+    Defendants have the better of the argument.  The time limitation in Section 6084 runs 
+from the date “the trafficking giving rise to the action has ceased to occur.”  22 U.S.C. § 6084.  
+In other words, it runs from “the defendant’s last culpable act[,] . . . not from the accrual of the 
+claim.”  Cal. Pub. Emps.’ Ret. Sys., 137 S. Ct. at 2049.  That alone is a “close to a dispositive 
+
+
+notion that Plaintiff’s single-count Amended Complaint is actionable only as to certain 
+allegations but not as to others.”  Id.  The situation here is different because Plaintiffs, as 
+described above, do not adequately allege any timely claims of trafficking.  The Court need not 
+and does not consider whether, had Plaintiffs alleged some timely claims, it would be 
+permissible to consider Defendants’ actions since setting up the credit facilities as a single act of 
+trafficking.                                                              
+indication that the statute is one of repose.”  Id.  Moreover, by bluntly providing that a trafficking 
+action “may not be brought” more than two years after a defendant’s last culpable act, Section 
+6084 “admits of no exception and on its face creates a fixed bar against future liability.”  Id.  
+Finally, one of Congress’s primary purposes in passing the Helms-Burton Act was to strengthen 
+
+sanctions on the Cuban government by deterring foreign investors from doing business with 
+Cuba.  See 22 U.S.C. § 6081(5), (6); see also id. § 6082(a)(1)(A) (providing that companies 
+would not be subject to liability if they ceased trafficking within three months of the Act’s 
+effective date).  That goal is better served by a statute of repose, which gives investors an 
+incentive to cease doing business with Cuba by making them “free from liability after the 
+legislatively determined period of time.”  CTS Corp. v. Waldburger, 573 U.S. 1, 9 (2014).  Thus, 
+Section 6084 is more naturally read to be a statute of repose.            
+    Plaintiffs offer no persuasive argument to the contrary.  They argue that the date on 
+which “the trafficking giving rise to that action has ceased to occur,” 22 U.S.C. § 6084, is also 
+“the date on which the plaintiff last suffered an injury,” Pls.’ Opp’n 32, but the Supreme Court 
+
+has explained that “limitations periods begin to run when the cause of action accrues,” Cal. Pub. 
+Emps.’ Ret. Sys., 137 S. Ct. at 2049 (internal quotation marks omitted) (emphasis added), not 
+“the date on which the plaintiff has suffered an injury,” Pls.’ Opp’n 32.  Here, the cause of action 
+would have accrued much earlier, when Defendants first trafficked in Plaintiffs’ property, which 
+Plaintiffs allege to be 2000 and 2004, respectively.  Compl. ¶¶ 37, 43; see also 22 U.S.C. 
+6082(a)(1)(A) (providing that a cause of action accrues as soon as the defendant “traffics in 
+property”).  Plaintiffs also argue that where a statute is one of repose, “the injury need not have 
+occurred” before repose is given.  Pls.’ Opp’n 32 (quoting CTS Corp., 573 U.S. at 8).  That is 
+true (because a statute of repose is keyed to the defendant’s conduct, not the plaintiff’s injury), 
+but it does not follow that where the injury has already occurred, the time limit must be a statute 
+of limitations and not a statute of repose.  Plaintiffs further argue that Congress’s intent was to 
+“provid[e] victims with a judicial remedy” and that that goal is best served by treating Section 
+6084 as a statute of limitations.  Pls.’ Opp’n 33 (internal quotation marks omitted).  But that goal 
+
+is also served by a statute of repose, which, in addition to providing finality to defendants, “also 
+encourage[s] plaintiffs to bring actions in a timely manner, and for many of the same reasons [as 
+a statute of limitations].”  CTS Corp., 573 U.S. at 9.  Finally, Plaintiffs argue that Section 6084 
+does not include “categorical language” such as “in no event.” Pls.’ Opp’n 33.  But, as 
+Defendants rightly point out, many statutes of repose do not.  Defs.’ Reply 7 (citing 29 U.S.C. 
+§ 1113(1) and other examples).                                            
+    In the alternative, Plaintiffs argue that, under the statute itself, any time during which the 
+right to bring suit under Section 6082 is “suspend[ed]” by the President is excluded from the 
+time in which suit must be brought under Section 6084.  Pls.’ Opp’n 29 (citing 22 U.S.C. 
+§ 6085(c)(1)-(2), (d)).  Plaintiffs contend that “suspend” in Section 6085(b) should be read to 
+
+mean “toll,” such that any cause of action that accrues during a presidential suspension is 
+delayed until the suspension is lifted.  Plaintiffs contrast Section 6085 with the language in 
+Section 6082(h), which provides that “[a]ll rights created under this section . . . shall cease” upon 
+a determination that a democratically elected government has come to power in Cuba.  Id. at 29-
+30 (quoting 22 U.S.C. § 6082(h)).  Had Congress intended a suspension to foreclose claims 
+where more than two years had lapsed, Plaintiffs assert, Congress would have made that clear as 
+it did in Section 6082(h).  Finally, Plaintiffs point to statements made by the President and 
+executive branch officials after the Act was adopted, to the effect that “liability would be 
+established irreversibly during the suspension period” and that during the suspension period, 
+“liability accrues” and “can’t be extinguished subsequently.”  Pls.’ Opp’n 30 (first quoting 
+President Statement on Helms-Burton Waiver Exercise, 1996 WL 396122, at *1-2 (July 16, 
+1996), then quoting Briefing on Helms-Burton Act Title III Suspension, 1996 WL 396125, at *5 
+(July 16, 1996) (hereinafter “Briefing”)).                                
+
+    The Court is not persuaded.  “When interpreting a statute,” a court must “begin with the 
+text.  [It] must give effect to the text’s plain meaning, . . . [which] draws on the specific context 
+in which that language is used, and the broader context of the statute as a whole.  Where the 
+plain meaning of the text is clear, [the] inquiry generally ends there.”  Jingrong v. Chinese Anti-
+Cult World All. Inc., 16 F.4th 47, 57 (2d Cir. 2021) (cleaned up).  Here, the meaning of the 
+relevant text, Section 6085(c)(1)(B), is plain.  It provides only that “the President may suspend 
+the right to bring an action” under the Act (if the President makes certain findings and reports to 
+Congress) and makes no reference to Section 6084 or the time within which a plaintiff must 
+bring an action in the first instance.  22 U.S.C. § 6085(c)(1)(B).  By contrast, Congress did 
+explicitly provide elsewhere in the statute that a suspension of actions “shall not affect suits 
+
+commenced before the date of such suspension.”  Id. § 6085(c)(3).  That provision shows that 
+Congress “knew how to” make clear when suspension pursuant to Section 6085(c)(1)(B) would 
+not affect a cause of action under Title III and that Congress “chose not to do so” with respect to 
+causes of action that would be barred by Section 6084.  Dep’t of Homeland Sec. v. MacLean, 574 
+U.S. 383, 394 (2015); see, e.g., Russello v. United States, 464 U.S. 16, 23 (1983) (“[W]here 
+Congress includes particular language in one section of a statute but omits it in another section of 
+the same Act, it is generally presumed that Congress acts intentionally and purposely in the 
+disparate inclusion or exclusion.” (internal quotation marks omitted)).   
+    This reading is reinforced by the fact, noted above, that one of Congress’s principal 
+purpose in enacting Title III — as evidenced by the three-month safe harbor in Section 
+6082(a)(1)(A) — was not to maximize victim compensation, but rather to compel companies to 
+cease doing business with Cuba on the theory that doing so would hasten the fall of the Castro 
+
+regime.  See 22 U.S.C. § 6081(6) (“‘[T]rafficking’ in confiscated property provides badly needed 
+financial benefit . . . to the current Cuban Government and thus undermines the foreign policy of 
+the United States . . . to bring democratic institutions to Cuba through the pressure of a general 
+economic embargo at a time when the Castro regime has proven to be vulnerable to international 
+economic pressure.”); see also Havana Club Holding, S.A., 961 F. Supp. at 501 (“The [Helms-
+Burton] Act has further tightened the embargo in . . . [an] attempt to topple the Castro regime.”).  
+Barring liability more than two years after the last date of trafficking advances that purpose 
+because it provides putative defendants an unequivocal incentive to cease the conduct that 
+Congress aimed to deter.  By contrast, Plaintiffs’ reading of the statute would undermine that 
+goal.  Knowing that they would continue to face liability for an additional two years after a 
+
+suspension was lifted, without regard for when they ceased trafficking, traffickers would have 
+little incentive to cease trafficking any time during a suspension.  In other words, traffickers 
+would be incentivized to continue trafficking until the day the suspension was lifted.  That is not 
+the result that Congress intended.                                        
+    Plaintiffs’ counterarguments fall short.  First, it is immaterial that “the terms ‘toll’ and 
+‘suspend’” are “interchangeabl[e].”  Artis v. D.C., 138 S. Ct. 594, 601-02 (2018), quoted at Pls.’ 
+Opp’n 29.  The question here is what a presidential suspension tolls.  By the statute’s terms, the 
+answer is “the right to bring an action,” 22 U.S.C. § 6085(c)(1)(B), not the time bar in Section 
+6084.  Second, Section 6082(h) — which provides that “[a]ll rights created under this section . . . 
+shall cease” upon a determination that a democratically elected government has come to power 
+in Cuba — actually cuts against Plaintiffs’ reading of the statute because it makes plain that 
+Congress’s principal purpose was to bring about regime change in Cuba (by forcing companies 
+to cease doing business there), not to maximize victim compensation.  Finally, statements by the 
+
+President and other executive branch officials cannot, of course, alter the plain meaning of a 
+statute.  Cf. Chevron, U.S.A., Inc. v. Nat. Res. Def. Council, Inc., 467 U.S. 837, 842-43 (1984) 
+(providing that no deference should be given to an executive branch agency’s interpretation of a 
+statute where “the intent of Congress is clear” because “the court, as well as the agency, must 
+give effect to the unambiguously expressed intent of Congress”).  In any event, the statements at 
+issue, considered in context, refer only to the fact that the executive branch’s initial strategy was 
+“to allow Title III to come into effect” while “suspend[ing] for a six-month period the right to 
+file individual suits,” giving the executive branch time to “work vigorously with allies and with 
+foreign companies to build support for a series of steps to promote democracy in Cuba.”  
+Briefing, 1996 WL 396125 at *2.  There is no indication that the speakers envisioned the 
+
+suspension lasting for twenty-three more years.  And regardless, nothing in the statements speaks 
+to the implications of the suspension with respect to Section 6084.       
+    In short, the Court concludes that Section 6084 was not tolled by the suspensions of Title 
+III.  Accordingly, and for the reasons discussed above, Plaintiffs’ claims are untimely. 
+                          CONCLUSION                                     
+    For the foregoing reasons, Defendants’ motion to dismiss is GRANTED on the ground 
+that Plaintiffs’ claims are time barred under Section 6084.  Nevertheless, mindful that leave to 
+amend a complaint should be freely given “when justice so requires,” Fed. R. Civ. P. 15(a)(2), 
+and that it is “within the sound discretion of the district court to grant or deny leave to amend,” 
+Ahmed v. GEO USA LLC, No. 14-CV-7486 (JMF), 2015 WL 1408895, at *5 (S.D.N.Y. Mar. 27, 
+2015) (internal quotation marks omitted), the Court exercises its discretion and grants Plaintiffs’ 
+request for leave to amend.  Pls.’ Opp’n 8 n.1.  Plaintiffs may not be able to cure the defects in 
+their claims — after all, if they could have alleged in non-conclusory fashion that Defendants’ 
+alleged trafficking continued beyond 2010, one assumes they would have — but the Court 
+concludes they should be given a chance to do so with the benefit of this Opinion and Order. 
+See, e.g., Loreley Fin. (Jersey) No. 3 Ltd. v. Wells Fargo Sec., LLC, 797 F.3d 160, 191 (2d Cir. 
+2015).  Plaintiffs shall file any Second Amended Complaint within thirty days of the date of 
+this Opinion and Order.  If Plaintiffs do so, the Court will convene a conference to discuss next 
+steps, mindful that the parties have already briefed Defendants’ other arguments for dismissal (as 
+to which the Court intimates no view here).  If Plaintiffs fail to file  a Second Amended 
+Complaint by the deadline, the Court will dismiss the case without further notice.  The Clerk of 
+Court is directed to terminate ECF No. 40. 
+
+      SO ORDERED. 
+Dated: November 24, 2021 
+     New York, New York                          ESSE      RMAN 
+                                               nited States District Judge 
+
+                                      20

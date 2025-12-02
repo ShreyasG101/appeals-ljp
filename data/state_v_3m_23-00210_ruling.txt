@@ -1,0 +1,671 @@
+UNITED STATES DISTRICT COURT                             
+                  DISTRICT OF MAINE                                  
+
+STATE OF MAINE,          )                                                
+                    )                                                
+     Plaintiff,     )                                                
+                    )                                                
+v.                  )         No. 2:23-cv-00210-JAW                  
+                    )                                                
+3M COMPANY, et al.       )                                                
+                    )                                                
+     Defendants.    )                                                
+
+       ORDER ON MOTIONS TO REMAND AND STAY                           
+
+Based on a state plaintiff’s express and enforceable disclaimer against seeking 
+recovery in this lawsuit from the defendants for claims relating to aqueous film-
+forming foam, the sole basis for federal jurisdiction, this Court concludes that it does 
+not have jurisdiction over a parens patriae lawsuit against manufacturers of per- and 
+polyfluoroalkyl substances and grants the state’s motion to remand the case to state 
+court.  The Court declines to stay ruling on the motion to remand while the United 
+States Judicial Panel on Multidistrict Litigation rules on a motion to transfer the case 
+to a multidistrict litigation proceeding because the Court has determined that in any 
+event, it does not have jurisdiction over the lawsuit.                    
+I.   BACKGROUND                                                           
+
+A.   Two Lawsuits                                                    
+On March 29, 2023, the state of Maine (Maine or State) in its parens patriae1 
+capacity filed two separate civil actions against 3M Company and other defendants 
+
+1     A parens patriae lawsuit “involves a matter of sovereign or quasi-sovereign interest and is 
+brought by a state on behalf of all its citizens.”  New Hampshire v. 3M Corporation, No. 22-cv-145-LM, 
+(collectively 3M) in state of Maine Superior Court for Cumberland County.  Notice of 
+Removal, State of Me. v. 3M Co., No. 2:23-cv-00197-JAW, Attach. 3, Compl., (ECF No. 
+1) (AFFF Compl.), id., State Ct. R., Attach. 1, State Ct. Docket (filed under state docket 
+
+number PORSC-CV-2023-00122) (ECF No. 9); Notice of Removal, State of Me. v. 3M 
+Co., No. 2:23-cv-00210-JAW, Attach. 3, Compl., (ECF No. 1) (Non-AFFF Compl.), id., 
+State Ct. R., Attach. 1, State Ct. Docket (filed under state docket number PORSC-CV-
+2023-00121) (ECF No. 15).  Both lawsuits involve per- and polyfluoroalkyl substances 
+(PFAS).  But the first lawsuit — docket number 2:23-cv-00197-JAW — is directed to 
+the use of aqueous film-forming foam, and the second lawsuit — docket number 2:23-
+
+cv-00210-JAW — is not.  The parties refer to the two complaints as either the AFFF 
+Complaint (2:23-cv-00197-JAW) or the Non-AFFF Complaint (2:23-cv-00210-JAW).      
+B.   The AFFF Complaint                                              
+Turning first to the AFFF Complaint, 3M removed the case from state to 
+federal court on May 8, 2023.  Notice of Removal (ECF No. 1).  On May 24, 2023, the 
+United States Judicial Panel on Multidistrict Litigation (JPML) issued a conditional 
+transfer order, accepting the case as a tag-along action for transfer to the United 
+
+States District Court for the District of South Carolina in In re: Aqueous Film-
+Forming Foam Products Liability Litigation, MDL Conditional Transfer Order (ECF 
+No. 14) (MDL Litigation).  On June 9, 2023, that order was certified, id., MDL 
+Conditional  Transfer  Order  (ECF  No.  15),  and  the  Clerk’s  Office  electronically 
+transferred the case to the MDL in United States District Court for the District of 
+
+
+2023 U.S. Dist. LEXIS 53461, at*3 n.1 (D.N.H. March 29, 2023) (citation and internal quotations 
+omitted).                                                                 
+South Carolina. (ECF No. 16).  The transfer of the AFFF Complaint to the District of 
+South Carolina appears noncontroversial.                                  
+C.   The Non-AFFF Complaint                                          
+
+The same cannot be said for the Non-AFFF Complaint.  On May 17, 2023, 3M 
+removed the case to this Court.  Case No. 2:23-cv-00210-JAW, Notice of Removal (ECF 
+No. 1).  On May 25, 2023, the State moved to remand the case to state of Maine 
+Superior Court and for expedited briefing.  State of Me.’s Mot. to Remand (ECF No. 
+10) (Mot. to Remand); State of Me.’s Mot. for Expedited Briefing and Consideration of 
+Mot. to Remand (ECF No. 11).  On June 1, 2023, the JPML declined to accept the 
+
+Non-AFFF Complaint as part of the MDL Litigation.  Notice of Counsel (ECF No. 18).  
+On June 8, 2023, 3M filed a motion to stay the Non-AFFF litigation until the JPML 
+resolves 3M’s motion to transfer the Non-AFFF Litigation to the District of South 
+Carolina for disposition with the MDL Litigation there.  Def. 3M Company’s Mot. to 
+Stay (ECF No. 31) (Mot. to Stay).  On June 15, 2023, 3M responded to the State’s 
+motion to remand and the State responded to 3M’s motion to stay.  Def. 3M Company’s 
+Obj. to State of Me.’s Mot. to Remand (ECF No. 34) (3M Remand Opp’n); Pl.’s Opp’n 
+
+to Def. 3M Company’s Mot. to Stay (ECF No. 35) (State’s Stay Opp’n).  On June 22, 
+2023, 3M filed a reply in support of its motion to stay and the State filed a reply in 
+support of its motion to remand.  Def. 3M Company’s Reply in Support of Mot. to Stay 
+(ECF No. 37) (3M Stay Reply); State of Me.’s Reply in Support of Mot. to Remand (ECF 
+No. 38) (State Remand Reply).                                             
+D.   The Motions to Strike, File a Surreply, and Expedite Briefing   
+On June 27, 2023, 3M filed a motion to strike or, in the alternative, a motion 
+for leave to file a surreply.  Def. 3M Company’s Mot. to Strike Decl. and Portions of 
+Pl.’s Reply in Support of Mot. to Remand or, in the Alternative, for Leave to File 
+
+Surreply (ECF No. 39) (3M’s Mot. to Strike).  On July 1, 2023, the State filed an 
+opposition to the motion to strike or file surreply.  Pl. State of Me.’s Opp’n to Def. 3M 
+Company’s Mot. to Strike Decl. and Portions of Pl.’s Reply in Support of Mot. to 
+Remand or, in the Alternative, for Leave to File Surreply (ECF No. 41) (State’s Strike 
+Opp’n).  On July 1, 2023, the State also filed a motion for expedited briefing and 
+consideration of 3M’s motion to strike or file surreply.  Pl. State of Me.’s Mot. for 
+
+Expedited Briefing and Consideration of 3M’s Mot. to Strike Decl. and Portions of Pl.’s 
+Reply in Support of Mot. to Remand or, in the Alternative, for Leave to File Surreply 
+(ECF No. 42) (State’s Expedited Mot.).                                    
+On July 5, 2023, the Court addressed and resolved a controversy between the 
+parties concerning the motion to strike, the motion to stay, and the motion for 
+expedited briefing.  Order on Mot. to Strike, Mot. to Stay, and Mot. for Expedited 
+Briefing (ECF No. 44).  On July 12, 2023, 3M filed a surreply, 3M Co.’s Surreply in 
+
+Opp’n to Mot. to Remand (ECF No. 45) (3M’s Surreply), and on July 17, 2023, the 
+State filed a surrebuttal.  State of Maine’s Rebuttal to Def. 3M Co.’s Surreply to State 
+of Maine’s Mot. to Remand (ECF No. 46) (State Surrebuttal).               
+II.   THE CONTROVERSY                                                     
+In filing two lawsuits in state court, the State has attempted to make a “sharp 
+distinction” between PFAS and AFFF contamination with one lawsuit devoted to 
+PFAS contamination and the other to AFFF contamination.  Mot. to Remand at 5.  By 
+its drafting of the two complaints, the State has chosen a state court forum for its 
+Non-AFFF complaint, while conceding the federal forum for its AFFF claims.  Id.   
+
+In its opposition to the State’s motion to remand, 3M contends that the “State’s 
+attempt to split its claims and plead around federal jurisdiction fails.”  3M’s Remand 
+Opp’n at 1.  3M explains that the AFFF claims fall within federal jurisdiction because 
+AFFF was manufactured in compliance with specifications from the United States 
+Military (MilSpec AFFF) and therefore are subject to federal officer jurisdiction.  Id.  
+3M maintains that AFFF and Non-AFFF sources of contamination are commingled 
+
+and at the very least, 3M has the right to also assert federal government contractor 
+defenses to the Non-AFFF claims.  Id. at 6.  This dispute also provides the context for 
+3M’s motion to stay in which 3M is asking the Court to delay disposition of the motion 
+to remand until the JPML issues a ruling on whether the Non-AFFF lawsuit may be 
+accepted into the MDL Litigation.  Mot. to Stay at 1-14.                  
+In its opposition to the motion to stay, the State attached a sworn declaration 
+of Victoria Eleftheriou.  State’s Stay Opp’n, Attach. 1, Decl. of Victoria Eleftheriou in 
+
+Support  of  Pl.’s  Opp’n  to  3M  Company’s  Mot.  to  Stay  (Eleftheriou  Decl.).    Ms. 
+Eleftheriou,  the  Deputy  Director  of  the  Maine  Department  of  Environmental 
+Protection’s Bureau of Remediation and Waste Management, essentially reviews the 
+specific sites that are the subject of the Non-AFFF contamination litigation and 
+represents that there is no evidence of AFFF contamination in those PFAS sites.  Id. 
+at 1-7.                                                                   
+This description sets the stage for the State’s motion to remand and 3M’s 
+motion to stay, except to note that from the perspective of the State, there is some 
+urgency.  After June 1, 2023, when the JPML declined to accept transfer of the Non-
+
+AFFF lawsuit into the MDL Litigation, 3M moved for the JPML to accept the Non-
+AFFF lawsuit.  3M’s Mot. to Stay at 3-4.  The parties later received notice that the 
+JPML would hear 3M’s transfer motion at its meeting on July 27, 2023.  3M Stay 
+Reply, Attach. 1, JPML Notice of Hr’g Session at 4.  The State is very concerned that 
+once 3M’s motion to transfer is considered by the JPML, it will substantially delay 
+the disposition of its motion to remand.  State Stay Opp’n at 13.  The State therefore 
+
+has urged the Court to issue a ruling on the motion to remand before the JPML acts 
+on 3M’s motion to transfer and 3M has urged the Court to delay ruling on the motion 
+to remand until the JPML has issued its ruling.                           
+III.  THE POSITIONS OF THE PARTIES                                        
+A.   The Motion to Remand                                            
+     1.   The State’s Motion to Remand                               
+On May 25, 2023, the State moved to remand this case to state of Maine 
+
+Superior Court.  Mot. to Remand at 5-15.  First, the State stresses that it deliberately 
+divided its civil actions between the AFFF and the Non-AFFF lawsuits.  Id. at 5.  The 
+AFFF lawsuit is now subject to the MDL Litigation in South Carolina and the State 
+nowhere argues that this transfer was improper.  Id. at 5-15.  By contrast, in its Non-
+AFFF  lawsuit,  the  State  expressly  disclaimed  “seeking  relief  for  AFFF-related 
+contamination: ‘The State is not seeking to recover through this Complaint any relief 
+for contamination or injury related to Aqueous Film Forming Foam.’”  Id. at 9 
+(quoting Compl. ¶ 15).                                                    
+For the AFFF complaint, the State acknowledges that this Court may have 
+
+jurisdiction under so-called “federal officer jurisdiction”.  Id. at 6.  Federal officer 
+jurisdiction can be a “colorable federal defense to [a] lawsuit,” where there is a “nexus 
+between the allegations in the complaint and conduct undertaken at the behest of a 
+federal officer.”  Id. at 6-7 (quoting Rhode Island v. Shell Oil Prod. Co., 979 F.3d 50, 
+59 (1st Cir. 2020), vacated on other grounds 141 S. Ct. 2666 (2021) (Rhode Island I)).   
+However, the State contends that federal officer jurisdiction is not available for the 
+
+Non-AFFF complaint.  Id. at 6-7.                                          
+The State observes that to establish federal officer jurisdiction, 3M points to 
+four sites — the Army National Guard facility in Bangor, the former Loring Air Force 
+Base  in  Aroostook  County,  the  former  Brunswick  Naval  Air  Station,  and  the 
+Portsmouth  Naval  Shipyard  —  where  3M  asserts  that  PFAS  and  AFFF  were 
+commingled.  Id. at 7-8.  But the State says that there is no evidence of commingling 
+on any of these four sites.  Id.  Moreover, the State goes on to state that none of these 
+
+four sites was identified in its Non-AFFF complaint.  Id. at 8-9.  In addition, the State 
+reiterates that even if 3M could demonstrate commingling, the State disclaimed in 
+this lawsuit any relief from the Non-AFFF complaint.  Id. at 9.  For support, the State 
+points to two court decisions in the First Circuit: New Hampshire v. 3M Corporation, 
+No. 22-cv-145-LM, 2023 U.S. Dist. LEXIS 53461 (D.N.H. Mar. 29, 2023) and Rhode 
+Island I, 979 F.3d 50.   The State then distinguishes the cases it anticipated 3M would 
+cite for support.  Id. at 9-13.                                           
+There is a second possible source of federal jurisdiction — federal enclave 
+
+jurisdiction.  Id. at 14.  The State anticipates that 3M will maintain that Portsmouth 
+Naval Shipyard and the Brunswick Naval Air Station were federal enclaves, thereby 
+affording federal jurisdiction.  Id.  But the State relies on a First Circuit case, Rhode 
+Island v. Shell Oil Products, Company, 35 F.4th 44 (1st Cir. 2022) (Rhode Island II), 
+to argue that federal enclave jurisdiction is not available to 3M.  Id.   
+     2.   3M’s Opposition to Remand                                  
+
+3M begins its opposition by disputing the premise of the State’s argument: 
+namely, that PFS and AFFF sources of contamination can be neatly separated.  3M 
+Remand  Opp’n  at  5-6.    Instead,  3M  says  that  “PFAS  can  move  through  the 
+environment  —  both  from  natural  processes  like  transport  in  groundwater  and 
+because people collect, move and spread PFAS-containing waste — so PFAS from 
+AFFF and non-AFFF sources plausibly have commingled at various locations.”  Id. at 
+6 (emphasis in original).  3M maintains that “MilSpec AFFF thus is at issue even in 
+
+this putative ‘non-AFFF’ case for statewide damages.”  Id.   3M contends that AFFF 
+was used in military sites throughout Maine and that the State alleged in its AFFF 
+lawsuit that PFAS and AFFF contaminated sites throughout the state of Maine.  Id. 
+at 8-9.  3M relies particularly on Nessel v. Chemguard, Inc., No. 1:20-cv-1080, 2021 
+U.S. Dist. LEXIS 39175 (W.D. Mich. Jan. 6. 2021) and In Re AFFF Products Liability 
+Litigation, No. 18-nm-2873, ECF No. 325 (D.S.C. Oct. 1. 2019).  Id. at 10-11.  3M says 
+that the New Hampshire case was “wrongly decided” and notes that it is currently on 
+appeal before the First Circuit.  Id. at 6, n.3.                          
+3M posits that the State’s disclaimer of AFFF liability does not preclude federal 
+
+jurisdiction.  Id. at 13.  This is because, 3M observes, the well-pleaded complaint rule 
+does  not  apply  to  federal  officer  removal.    Id.    3M  then  disputes  the  State’s 
+interpretation of relevant caselaw.  Id. at 13-16.                        
+Regarding federal enclave jurisdiction, 3M says that the State does not dispute 
+that Brunswick Naval Air Station and Portsmouth Naval Shipyard were federal 
+enclaves and used AFFF.  Id. at 16.  3M argues that this Court therefore has 
+
+supplemental jurisdiction over the state claims.  Id. at 16-17.           
+     3.   The State’s Reply                                          
+In reply, the State contends that 3M’s arguments in favor of federal jurisdiction 
+are “conclusory, speculative and controverted by actual evidence.”  State Remand 
+Reply at 5.  The State analyzes each case 3M cited and maintains that they do not 
+support 3M’s contentions.  Id. at 7-9.  Discussing Rhode Island II, the State writes 
+that this case does not support federal jurisdiction because all pertinent events did 
+
+not take place on the federal enclaves.  Id. at 10-11.                    
+     4.   3M’s Surreply                                              
+In its surreply, 3M focuses on the sworn declaration of Victoria Eleftheriou 
+(attached to the State’s reply to the motion to stay), and argues that the Court should 
+not consider her statements for three reasons: (1) because they are “legally irrelevant 
+to whether 3M adequately alleged a plausible basis for federal officer jurisdiction in 
+its Notice of Removal,” (2) even if the Court considered the Eleftheriou statements, 
+they “do not address – much less controvert – most of the facts 3M averred in support 
+of federal officer jurisdiction,” and (3) it would be “error to order remand based on the 
+
+Declaration without giving 3M a fair opportunity to contest it.”  3M Surreply at 1.   
+     5.   The State’s Surrebuttal                                    
+In its surrebuttal, the State argues that 3M has conceded that the lawsuits 
+involving two water districts, which were the subject of Deputy Director Eleftheriou’s 
+declaration, are irrelevant to the Court’s remand determination.  State’s Surrebuttal 
+at 8.  But the State’s overall response is that the Court does not need to consider the 
+
+Eleftheriou declaration to rule on the motion to remand.  Id. at 4.  Finally, the State 
+rejects  3M’s  discovery  demand,  pointing  out  that  the  Eleftheriou  declaration’s 
+reference to the water districts is not mentioned in the 3M Notice of Removal and 
+that 3M has not created a reasonable expectation that discovery would reveal facts 
+relevant to the Court’s remand decision.  Id. at 10.  The State ends by arguing that 
+“3M does not want discovery, it wants delay.”  Id. at 11.                 
+B.   The Motion to Stay                                              
+
+     1.   3M’s Motion to Stay                                        
+On June 8, 2023, 3M moved this Court to defer action on the State’s motion to 
+remand until the JPML has ruled on its motion for transfer.  3M’s Stay Mot. at 1-10.  
+Quoting Good v. Altria Group, Inc., 624 F. Supp. 2d 132 (D. Me. 2009), 3M points out 
+that “[c]ourts frequently grant stays pending a decision by the [JPML] regarding 
+whether to transfer a case.”  Id. at 5 (quoting Good, 624 F. Supp. 2d at 134).  3M notes 
+that if the JPML accepts the case for transfer, the MDL would have the authority to 
+rule on the motion to remand, and a MDL ruling on the motion to remand would have 
+the benefit of consistency and judicial economy.  Id. at 6.               
+
+3M then argues that this case would be a “good candidate for transfer” to the 
+MDL.  Id.  3M observes that the State’s other AFFF case has already been transferred 
+to the MDL.  Id.  3M contends that the JPML has accepted transfer in other cases 
+similar to Maine’s Non-AFFF case on the ground that the same water sources were 
+involved.  Id. at 6-7.                                                    
+3M discounts any prejudice to the state of Maine by a stay.  Id. at 7-8.  3M 
+
+notes that the JPML is scheduled to hear the motion for transfer on July 27, 2023,2 
+and it asserts that the JPML typically issues a decision on a motion for transfer 
+within a week or two of the hearing session.  Id.  By contrast, if this Court issues an 
+order  on  the  motion  to  remand,  3M  raises  the  specter  of  inconsistent  remand 
+decisions, which it argues would greatly prejudice 3M.  Id.               
+     2.   The State’s Opposition to the Motion to Stay               
+The State strenuously objects to 3M’s motion to stay.  State Stay Opp’n at 1-
+
+14.  The State’s main point is that the JPML will not address the issue the State has 
+raised: namely, whether federal jurisdiction is proper for this Court.  Id. at 5.  The 
+State maintains that the JPML “reviews only whether, on the face of the various 
+complaints, there is apparent overlap between a given complaint and an MDL.”  Id.  
+
+
+2    At the filing of 3M’s motion, it was unclear whether the JPML would hear the 3M motion for 
+transfer on July 27, 2023 or September 28, 2023.  3M Stay Mot. at 8.  Since then, the JPML scheduled 
+the motion for transfer without oral argument for the hearing session of July 27, 2023.  3M Stay Reply, 
+Attach. 1, JPML Notice of Hr’g Session at 4.                              
+The State contends that to allow the JPML to consider whether to accept this case 
+would “needless delay the case even as the State urgently seeks to move it forward to 
+obtain the funds needed to clean up Maine’s environment.”  Id.  The State says that 
+
+“[i]n  view  of  established  principles  of  comity  and  federalism,  subject  mater 
+jurisdiction can and should be decided at the very outset of the litigation, particularly 
+in a case brought by the sovereign in its own state’s court.”  Id.        
+     3.   3M’s Reply to the State’s Stay Opposition                  
+In its reply, 3M cites Good and other cases, in which courts have granted a stay 
+to allow the JPML to rule on whether it would accept transfer into the MDL.  3M’s 
+
+Stay Reply at 4-8.  Alternatively, 3M argues that the analysis in Meyers v. Bayer AG, 
+143 F. Supp. 2d 1044 (E.D. Wisc. 2001) counsels against deciding the jurisdictional 
+issue here because 3M views the jurisdictional issue as factually and legally complex.  
+Id. at 8-9.  3M deflects any prejudice on the part of the State from a stay and requests 
+that the Court defer decision until the JPML has decided the pending motion to 
+transfer.  Id. at 10.                                                     
+IV.  DISCUSSION                                                           
+
+Preliminarily, this Court retains jurisdiction to consider the motion to remand:  
+“The  pendency  of  a  motion,  order  to  show  cause,  conditional  transfer  order  or 
+conditional remand order before the Panel pursuant to 28 U.S.C. § 1407 does not 
+affect or suspend orders and pretrial proceedings in any pending federal district court 
+action and does not limit the pretrial jurisdiction of that court.”  Nessel, 2021 U.S. 
+Dist. LEXIS 39175, at *5-6 (quoting JPML R. 2.1(d)).                      
+In analyzing the dueling motions to stay and remand, the Court is fortunate 
+that it does not operate from a blank slate.  First, the Court finds persuasive the 
+“three-step  methodology”  for  “balance[ing]  the  imperative  of  ensuring  federal 
+
+jurisdiction and the benefits of multidistrict litigation” announced in Meyers, 143 F. 
+Supp. 2d at 1049 and recently applied in the District of Maine in Eastern Maine 
+Medical Center v. Teva Pharmaceuticals USA Inc., 581 F. Supp. 3d 281, 285-86 (D. 
+Me. 2022). The Court adopts Chief Judge Levy’s observation that “[t]his three-step 
+approach  appropriately  accommodates  the  fundamentality  of  subject-matter 
+jurisdiction within the federal system and the virtues of judicial economy, efficiency, 
+
+and consistency promoted by multidistrict litigation.”  Id.  In Eastern Maine, quoting 
+Meyers, Chief Judge Levy described the three-step methodology:            
+First, if a “preliminary assessment suggests that removal was improper, 
+the court should promptly . . . remand the case to state court.” Meyers, 
+143 F. Supp. 2d at 1049.  But if the preliminary assessment instead  
+reveals that the jurisdictional issue is “factually or legally difficult, the 
+court's second step should be to determine whether identical or similar 
+jurisdictional issues have been raised in other cases that have been or 
+may be transferred to the” multidistrict litigation.  Id.  If so, “the court 
+proceed[s] to the third step and consider[s] the motion to stay,” although 
+this third step “does not mandate that a stay should be granted.” Id. 
+
+E. Maine, 581 F. Supp. 3d at 285.  In accordance with the first step of the three-step 
+methodology, the Court turns first to the motion to remand and next addresses the 
+motion for stay.  Next, in addressing the first step of the Meyers analysis, the Court 
+has the benefit of a recent decision on a similar question authored by Chief Judge 
+Landya McCafferty of the District of New Hampshire in New Hampshire, 2023 U.S. 
+Dist. LEXIS 53461, at *1-28, a case currently on appeal to the Court of Appeals for 
+the First Circuit.                                                        
+A.   Motion to Remand                                                
+
+In the two state of Maine complaints, the State has sought to proceed on two 
+distinct factual and legal theories: an AFFF lawsuit, which it concedes has been 
+properly transferred to the MDL, and a Non-AFFF lawsuit, which it contends is not 
+subject to federal jurisdiction.  In a typical case, the State as plaintiff is the “master” 
+of its complaint.  The Fair v. Kohler Die and Specialty Co., 228 U.S. 22, 25 (1913) 
+(Holmes, J.).  This precept known as the “well-pleaded complaint rule” concentrates 
+
+a court’s attention “on the complaint’s terms” and its analysis is “unaided by anything 
+alleged in anticipation or avoidance of defenses which it is thought the defendant may 
+interpose.” Rhode Island II, 35 F.4th at 51 (citing Taylor v. Anderson, 234 U.S. 74, 
+75-76 (1914)).  Based on this precept alone, the State’s position on remand would be 
+unassailable because the State-drafted complaints carefully differentiate between the 
+AFFF and Non-AFFF lawsuits, and the Non-AFFF complaint, especially given its 
+disavowal of any AFFF claim, would be appropriate for remand.  See New Hampshire, 
+
+2023 U.S. Dist. LEXIS 53461, at *28 (“[I]n most circumstances, the non-federal cast 
+of a complaint would prevent a defendant from removing it”); Rhode Island II, 35 
+F.4th at 51.  Thus, to the extent 3M purports to remove this case to federal court 
+pursuant to 28 U.S.C. § 1441, see Notice of Removal at 1 (“Defendant 3M Company 
+[3M] by undersigned counsel hereby gives notice of removal of this action, pursuant 
+to 28 U.S.C. §§ 1331, 1441, 1442(a)(1), and 1446”), a straightforward review of the 
+Non-AFFF complaint would dictate remand.                                  
+But federal jurisdictional law is seldom so simple.  As a basis for removal, 3M 
+
+also invokes § 1442(a)(1), the federal officer removal statute.  In 1999, the United 
+States Supreme Court wrote:                                               
+To remove a case as one falling within federal-question jurisdiction, the 
+federal question ordinarily must appear on the face of a properly pleaded 
+complaint; an anticipated or actual federal defense generally does not 
+qualify a case for removal. See Louisville & Nashville R.R. Co. v. Mottley, 
+211 U.S. 149 (1908).  Suits against federal officers are exceptional in this 
+regard. Under the federal officer removal statute, suits against federal 
+officers may be removed despite the nonfederal cast of the complaint; 
+the federal question element is met if the defense depends on federal 
+law.                                                                 
+
+Jefferson Cnty., Ala. v. Acker, 527 U.S. 423, 430-31 (1999).  Since Jefferson County, 
+Congress broadened the application of the federal officer removal statute to include 
+cases where there is only a connection or association between the act in question and 
+the federal office.  See Sawyer v. Forster Wheeler, 860 F.3d 249, 258 (4th Cir. 2017).3   
+Judge McCafferty explained the nexus requirement:                    
+The requirement that a claim be "for" or "relate to" the alleged federal 
+authority is a "nexus" requirement, but not a causation requirement.  
+Moore [v. Elec. Boat Corp.,] 25 F.4th [30,] 34 & n.2 [1st Cir. 2022].  That 
+is, only a "nexus" between the claims and the alleged official authority 
+
+3    In Sawyer v. Foster Wheeler, LLC, 860 F.3d 249 (4th Cir. 2017), the Fourth Circuit observed 
+that before 2011, the statutory test in § 1442 was whether “there was a causal connection between the 
+charged conduct and the asserted official authority.”  Id. at 258 (quoting Jefferson Cnty., 527 U.S. at 
+431).  However, in 2011, Congress broadened § 1442(a)(1) to cover actions “for or relating to any act 
+under color of [federal] office," adding the words "or relating to” Removal Clarification Act of 2011, 
+Publ. L. No. 112-51, 125 Stat. 545.  Id. (emphasis in Sawyer).  This new language “broaden[ed] the 
+universe of acts” that enable federal removal, H.R. Rep. 112-17, 6, 2011 U.S.C.C.A.N. 420, 425, such 
+that there need be only “‘a connection or association between the act in question and the federal office.’”  
+Papp v. Fore-Kast Sales Co., 842 F.3d 805, 813 (3d Cir. 2016) (emphasis added) (quoting In re 
+Commonwealth’s Mot. to Appoint Counsel Against or Directed to Defender Assoc., 790 F.3d 457, 471 
+(3d Cir. 2015)).                                                          
+need exist; it is sufficient that at least one of the plaintiff's claims is 
+“connected” or “associated” with the defendant's acts under color of 
+federal office.  Baker v. Atlantic Richfield Co., 962 F.3d 937, 943-44 (7th 
+Cir. 2020) (explaining that 2011 amendments to § 1442(a)(1) removed  
+requirement of causal connection and collecting appellate cases holding 
+likewise).                                                           
+
+New Hampshire, 2023 U.S. Dist. LEXIS 53461, at *21-22.                    
+
+Applying this precedent, the Court turns to whether there is a connection or 
+association between the allegations in the Non-AFFF lawsuit and a federal office.  
+The Court briefly returns to the legal standards.  In Rhode Island I, the First Circuit 
+described the standard:                                                   
+Private actors sued in state court can remove the case to federal court 
+where the private actor is “acting under [any federal officer], for any act 
+under color of such office.”  28 U.S.C. § 1442(a)(1); accord Camacho v. 
+Autoridad de Telefonos de Puerto Rico, 868 F.2d 482, 486-87 (1st Cir. 
+1989).  “Acting under” connotes “subjection, guidance, or control” and 
+involves “an effort to assist, or to help carry out, the duties or tasks of 
+the federal superior.”  Watson v. Phillip Morris Companies, Inc., 551 
+U.S. 142, 152 (2007) (citations omitted).                            
+
+979 F.3d at 59.  The Rhode Island I Court went on to state:               
+
+To succeed in their argument that federal-officer removal is proper in 
+this case, the oil companies must show that they were acting under a 
+federal  officer's  authority,  that  they  will  assert  a  colorable  federal 
+defense  to  the  suit,  and  that  there  exists  "a  nexus"  between  the 
+allegations in the complaint and conduct undertaken at the behest of a 
+federal officer.  Jefferson Cty., 527 U.S. at 431 (internal quotation marks 
+and citations omitted).  If the oil companies cannot demonstrate all three 
+of these elements, they cannot remove the case to federal court under 
+§ 1442.                                                              
+
+Id.  As Chief Judge McCaffrey noted, unlike a § 1441 removal, a removal under § 
+1442(a)(1) “is broadly construed ’in favor of removal.’”  New Hampshire, 2023 U.S. 
+Dist. LEXIS 53461, at *21 (citing Watson, 551 U.S. at  147-48  (emphasis in New 
+Hampshire).  This is because “[o]ne of the primary purposes of the removal statute—
+as its history clearly demonstrates—was to have such defenses litigated in federal 
+court.”  Id. (quoting Willingham v. Morgan, 395 U.S. 402, 406 (1969)).  At the same 
+
+time, 3M “bears the burden under § 1442(a)(1).”  Moore, 25 F.4th at 34.   
+In its Non-AFFF complaint against 3M, the State has made it plain that it is 
+“not seeking to recover through this Complaint any relief for contamination or injury 
+related to Aqueous Film Forming Foam, a firefighting material that contains PFAS.”  
+Non-AFFF Compl. ¶ 15.  In addition to this allegation in the Non-AFFF Complaint, 
+the State has represented in its filings that “[i]f it does turn out that contamination 
+
+in any particular site or location is related to AFFF, then the State has disclaimed 
+seeking a recovery in this action for that site or location.”  State’s Remand Mot. at 9 
+(emphasis in original).                                                   
+Despite  the  State’s  disclaimer  and  the  State’s  second  AFFF  lawsuit,  3M 
+maintains that this Court should retain this case under its federal officer jurisdiction.  
+3M’s Remand Opp’n at 1-17.  3M first observes that PFAS can “move through the 
+environment—both  from  natural  processes  like  transport  in  groundwater  and 
+
+because people collect, move, and spread PFAS-containing waste—so PFAS from 
+AFFF and non-AFFF sources plausibly have commingled at various locations.”  Id. at 
+6 (emphasis in original).  If so, 3M says that it “has the right to defend itself by raising 
+the issue of whether alleged ‘non-AFFF’ PFAS contamination may actually derive 
+from MilSpec AFFF, and by asserting its federal government contractor defense as to 
+any claimed damaged from MilSpec AFFF.”  Id.  Next, 3M argues that it properly 
+removed the case based on “federal enclave jurisdiction” because “PFAS from AFFF 
+and non-AFFF products plausibly were released from military bases in Maine that 
+are federal enclaves.”  Id.                                               
+
+In support of its position, 3M points to four and sometimes five military 
+facilities throughout the state of Maine, Brunswick Naval Air Station, Portsmouth 
+Naval Shipyard, Loring Air Force Base, Bangor Air National Guard Base, and the 
+Cutler Naval Air Station, that the State claims in its AFFF Complaint caused PFAS 
+contamination in groundwater “throughout the State.”  Id. at 4 (quoting AFFF Compl. 
+¶ 224) (emphasis in 3M Remand Opp’n); see Notice of Removal at 10.        
+
+Although the parties fence about seepage of AFFF contamination in specific 
+instances,  such  as  military  installations  and  water  districts,  the  determinative 
+question rests on the interplay between the asserted federal affirmative defense and 
+a motion to remand.  In Jefferson County, the Supreme Court addressed how a district 
+court is to approach the assertion of an affirmative defense as the basis for federal 
+jurisdiction.    527  U.S.  at  431.    The  Jefferson  County  Court  required  that  the 
+affirmative defense be “colorable,” id., and noted that courts should not construe the 
+
+federal defense requirement with a “narrow, grudging interpretation” because “one 
+of the most important reasons for removal is to have the validity of the defense of 
+official immunity tried in a federal court.”  Id. (quoting Willingham, 395 U.S. at 407).  
+Thus, as the Supreme Court observed in Kircher v. Putnam Funds Trust, 547 U.S. 
+633 (2006), “[t]he federal officer removal statue allows ‘suits against federal officer 
+[to] be removed despite the nonfederal cast of the complaint,’ id. at 645 n.9, (quoting 
+Jefferson Cnty., 527 U.S. at 431), and reflects a congressional policy that ‘federal 
+officers, and indeed the Federal Government itself, require the protection of a federal 
+forum.’”  Id. (quoting Willingham, 395 U.S. at 407).                      
+
+Although the First Circuit has not used this term, courts sometimes describe 
+the burden on the removing party as making a “plausible” claim of federal officer 
+defense.  See Graves v. 3MCo., 17 F.4th 764, 771 (8th Cir. 2021) (“For a defense to be 
+considered colorable, it need only be plausible”) (citation omitted); Bennett v. MIS 
+Corp., 607 F.3d 1076, 1089 (6th Cir. 2010); Magnin v. Teledyne Cont’l Motors, 91 F.3d 
+1424, 1427 (11th Cir. 1996).                                              
+
+Applying these principles to AFFF and Non-AFFF litigation, the district courts 
+in New Hampshire and Nessel reached different conclusions.  As here, in Nessel, the 
+state of Michigan attempted to strictly divide two lawsuits—one AFFF and the other 
+Non-AFFF—but the district court rejected the distinction, noting that “Plaintiffs 
+cannot decide what defense Defendants might present.”  Nessel, 2021 U.S. Dist. 
+LEXIS 39175, at *10.  The Nessel Court wrote that “while Plaintiffs attempt to 
+surgically divide their complaints between Commercial and MilSpec AFFF, they 
+
+cannot prevent Defendants from raising the production of MilSPec AFFF as a defense 
+or  an  alternative  theory,  particularly  when  Plaintiffs  admit  that  Defendants 
+produced MilSpec AFF and that PFAS from AFFF spread contamination throughout 
+the state.”  Id.  The district court concluded that “Plaintiffs’ artful pleading does not 
+obviate the facts on the ground.”  Id. at *10-11.                         
+Against Nessel is New Hampshire.  In New Hampshire, the district court 
+focused  on  the  “specific  limitations  on  the  scope  of  [the]  plaintiff’s  claims”  and 
+concluded that these limitations “eliminate a potential relationship between the 
+
+plaintiff’s claims and a defendant’s federal acts.”  2023 U.S. Dist. LEXIS 53461, at 
+*22.  The district judge noted two other cases, where district courts honored similar 
+disclaimers.  Id. at *22-24 (citing Hayden v. 3M, No. 15-2275, 2015 U.S. Dist. LEXIS 
+104534, at *3-4 (E.D. La. Aug. 10, 2015); Batchelor v. Am. Optical Corp., 185 F. Supp. 
+3d 1358, 1363-64 (S.D. Fla. 2016) (stating that federal courts have “consistently” 
+granted motions to remand in cases where the plaintiff expressly disclaims recovery 
+
+for  claims  on  which  federal  removal  is  based)).    The  New  Hampshire  Court 
+distinguished Nessel on the ground that Nessel involved “two different kinds of 
+AFFF”,  whereas  New  Hampshire  addressed,  as  here,  AFFF  and  Non-AFFF 
+contamination.  Id. at *26-27 (“Here, unlike Nessel, whether an alternative source of 
+contamination was MilSpec AFFF is irrelevant because this suit does not involve 
+AFFF, regardless of whether it is MilSpec of another version of AFFF”).   
+Finally, the district judge in New Hampshire did not find “the reasoning of 
+
+Nessel persuasive.”  Id.  The judge explained:                            
+If the sources of contamination cannot be distinguished, 3M cannot be 
+held liable.  That is, the State will fail to establish its own case, which 
+is premised on the existence of contamination from some non-AFFF     
+source.  And, if a factfinder can distinguish the sources of contamination, 
+3M will prevail to the extent the factfinder determines contamination 
+came from AFFF.  This is true regardless of whether 3M supplied the  
+AFFF  under  federal  authority  or  warned  the  government  about  its 
+dangers.                                                             
+
+Id. (emphasis in original).                                               
+On balance, the Court concludes that New Hampshire is more persuasive.  In 
+Batchelor, the district court observed that “Federal courts addressing disclaimer 
+provisions in similar actions have ‘recognize[d] a distinction between artful pleading 
+for purposes of circumventing federal officer jurisdiction, and express disclaimers of 
+the claims that serve as the ground for removal under Section 1442(a)(1).’”  Batchelor, 
+185 F. Supp. 3d at 1363 (quoting Siders v. 20th Century Glove Corp. of Texas, No. 
+
+2:15-cv-13278, 2016 U.S. Dist. LEXIS 57210, at *25 (S.D.W.V. Apr. 29, 2016) (quoting 
+Dougherty v. A O Smith Corp., Civil Action No. 13-1972-SLR-SRF, 2014 U.S. Dist. 
+LEXIS 96290, at *36 (D. Del. July 16, 2014)); Kelleher v. A.W. Chesterton Co., No. 15-
+cv-893, SMY-SCW, 2015 U.S. Dist. LEXIS 159783, at *13 (S.D. Ill. Nov. 23, 2015); 
+Madden v. A.H. Voss Co., No. C 09-03786 JSW, 2009 U.S. Dist. LEXIS 24792, at *2-
+3 (N.D. Cal. Oct. 21, 2009).  Here, the State’s disclaimer is express, unambiguous, 
+
+and plain, and in the Court’s view, fits within the category of express disclaimers 
+courts have found effective to justify a remand order.  Dougherty, 2014 U.S. Dist. 
+LEXIS 96290, at *36 (Where express disclaimers are made, “federal courts have 
+consistently granted motions to remand where the plaintiff expressly disclaimed the 
+claims upon which federal officer removal was based”).                    
+Furthermore, as Chief Judge McCafferty pointed out, by its disclaimer, the 
+State has taken upon itself the burden as part of its case to demonstrate that the 
+
+source of contamination in its Non-AFFF lawsuit is not a AFFF source.  If the 
+factfinder concludes that the State has failed to meet its burden concerning the 
+source, 3M will prevail.  This effectively means that the federal officer defense will 
+not be applicable in the State’s Non-AFFF lawsuit because the State by its express 
+disclaimer has imposed upon itself a burden to demonstrate that its claim involves 
+Non-AFFF sources.  Kelleher, 2015 U.S. Dist. LEXIS 159783, at *11 (“Here, however, 
+
+Plaintiff’s waiver has rendered any federal defenses moot”).              
+In sum, because of the State’s express disclaimer, the Court concludes that this 
+case must be remanded to the state of Maine Superior Court since the federal officer 
+defense is not applicable.                                                
+Finally, the Court concludes that federal enclave jurisdiction does not plausibly 
+exist because “the doctrine of federal enclave jurisdiction generally requires that all 
+
+pertinent events take place on a federal enclave.”  Rhode Island II, 35 F.4th at 58 
+(emphasis in original).  3M suggests that the Court could assume jurisdiction under 
+federal enclave jurisdiction over one site and then “exercise supplemental jurisdiction 
+. . . arising from other sites.”  3M’s Remand Opp’n at 17.  But even if Brunswick Naval 
+Air  Station  and  Portsmouth  Naval  Shipyard  could  fit  within  federal  enclave 
+jurisdiction, the State has disclaimed any AFFF claims, including those arising from 
+a federal enclave, so the argument circles back to the State’s disclaimer.   
+
+In sum, because of the State’s express disclaimer, the Court concludes that this 
+case must be remanded to the state of Maine Superior Court since the federal officer 
+defense is not applicable.                                                
+B.   Motion to Stay                                                  
+
+Despite this conclusion, the Court addresses why it resolved this issue before 
+the JPML acted on the motion for transfer and not stay resolution to give the JPML 
+an opportunity to decide for itself whether to accept this case as part of the MDL.  
+Federal courts “possess the inherent power to stay [a case] for prudential reasons.”  
+Microfinancial, Inc. v. Premier Holidays Int’l, Inc., 385 F.3d 72, 77 (1st Cir. 2004).  In 
+
+evaluating whether to issue a stay, a court will generally consider three factors: “(1) 
+potential prejudice to the non-moving party, (2) hardship and inequity to the moving 
+party without a stay, and (3) judicial economy.”  Good, 624 F. Supp. 2d at 134.  “The 
+party seeking the stay bears the burden of demonstrating that a stay is appropriate.”  
+Maine v. Wheeler, No. 1:14-cv-00264-JDL, 2020 U.S. Dist. LEXIS 12334, at *8-9 (D. 
+Me. Jan. 6, 2020).  Whether to stay a proceeding in anticipation of a transfer ruling 
+
+from the JPML rests within a court’s discretion.  City of Portland v. Pardue Pharma, 
+LP, No. 2:18-cv-282-NT, 1:18-cv-298-NT, 2:18-cv-310-NT; 2018 U.S. Dist. LEXIS 
+201070, at *16 (D. Me. Nov.18, 2018); Good, 624 F. Supp. 2d at 134.       
+Here, applying Eastern Maine, the Court’s “preliminary assessment suggests 
+that removal was improper,” and therefore, “the court should promptly . . . remand 
+the case to state court.” E. Maine, 581 F. Supp. 3d at 285 (quoting Meyers, 143 F. 
+Supp. 2d at 1049).  “Generally, motions to remand should be resolved before the panel 
+
+acts on the motion to transfer so the federal court can assure itself of jurisdiction 
+before the case transfers to the MDL.”  Nessel, 2021 U.S. Dist. LEXIS 39175, at *6.   
+In addition, although the JPML analysis of whether to accept a case for MDL 
+transfer is similar to this Court’s jurisdictional inquiry, they are not the same.  The 
+JPML’s MDL Transfer Order filed on December 7, 2018, stated that “[a]l of the 
+actions on Schedule A involve allegations that aqueous film-forming foams (AFFFs, 
+which are used to extinguish liquid fuel fires) contaminated the groundwater near 
+certain airports and other industrial locations with perfluorooctane sulfonate (PFOS) 
+and/or perfluorooctanoic acid (PFOA), which allegedly were contained in the AFFFs 
+
+and are toxic.”  In re Aqueous Film-Forming Foams Products Liability Litig., No. 2:18-
+mn-02873-RMG, Transfer Order at 1 (ECF No. 1).  The JPML concluded that “the 
+AFFF  actions listed  on  Schedule  A  involve  common  questions  of  fact,  and  that 
+centralization will serve the convenience of the parties and witnesses and promote 
+the just and efficient conduct of this litigation.”  Id. at 3.            
+When considering whether to grant a motion to transfer a case to an MDL, the 
+
+standard is found in 28 U.S.C. § 1407, the statute authorizing multi-district litigation.  
+Section 1407 provides that the JPML shall transfer a case to an MDL “upon its 
+determination that transfers for such proceedings will be for the convenience of 
+parties and witnesses and will promote the just and efficient conduct of such actions.”  
+Id., see e.g., In re Sonic Corp. Customer Data Sec. Breach Litig., 276 F. Supp. 3d 1382, 
+1383 (JPML Dec. 6. 2017) (“On the basis of the papers filed and the hearing session 
+held, we find that centralization under Section 1407 in the Norther District of Ohio 
+
+will serve the convenience of the parties and witnesses and promote the just and 
+efficient conduct of this litigation”).                                   
+As described here, the jurisdictional issue before this Court does not address 
+the § 1407 standards, but whether the Court should assume jurisdiction over the case 
+in the first place.  Thus, even if the Court were to stay this matter to allow the JPML 
+to determine whether it is an appropriate MDL case, the jurisdiction question in this 
+case would not be answered by the JPML.                                   
+“The district courts of the United States . . . are ‘courts of limited jurisdiction.  
+
+They possess only that power authorized by Constitution and statute.”  Exxon Mobil 
+Corp.  v.  Allapattah  Servs.  Inc.,  545  U.S.  546,  552  (2005)  (quoting  Kokkonen  v. 
+Guardian Life Ins. Co. of Am., 511 U.S. 375, 377 (1994)).  “The federal courts are 
+under an independent obligation to examine their own jurisdiction . . ..”  FW/PBS, 
+Inc. v. Dallas, 493 U.S. 215, 231 (1990).  In reaching and resolving the jurisdictional 
+question, this Court is acting in accordance with its independent obligation to assure 
+
+that its jurisdiction over this lawsuit is proper.                        
+Finally, as a practical matter, the Court of Appeals for the First Circuit will 
+resolve 3M’s appeal in New Hampshire and its resolution may well inform the proper 
+disposition of this case, thus any potential prejudice to 3M is mitigated by the fact 
+that it is currently before the First Circuit on a virtually identical issue and ruling.   
+V.   CONCLUSION                                                           
+The Court GRANTS the Plaintiff State of Maine’s Motion to Remand (ECF No. 
+
+10) and DENIES Defendant 3M Company’s Motion to Stay (ECF No. 31).  The Court 
+REMANDS this case to the State of Maine Superior Court for Cumberland County. 
+SO ORDERED.                                                          
+
+                               /s/ John A. Woodcock, Jr.             
+                              JOHN A. WOODCOCK, JR.                  
+                              UNITED STATES DISTRICT JUDGE           
+
+Dated this 26th day of July, 2023

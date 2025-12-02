@@ -1,0 +1,27 @@
+{
+  "overall_outcome": "REVERSE",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether a Rhode Island statute granting exclusive jurisdiction over landlord-tenant disputes to state district courts precludes removal to federal court under diversity jurisdiction.",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "The court held that the Rhode Island statute only allocates jurisdiction among state courts and does not divest federal courts of diversity jurisdiction; only Congress can limit federal jurisdiction, and state statutes cannot override federal removal statutes."
+    }
+  ],
+  "key_precedents": [
+    "Romulus v. CVS Pharmacy, Inc., 770 F.3d 67 (1st Cir. 2014)",
+    "Quackenbush v. Allstate Ins. Co., 517 U.S. 706 (1996)",
+    "Emigrant Mortgage Co. v. Bourke, 127 F.4th 385 (1st Cir. 2025)",
+    "Kontrick v. Ryan, 540 U.S. 443 (2004)",
+    "Marshall v. Marshall, 547 U.S. 293 (2006)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "May a Rhode Island statute, R.I. Gen. Laws \u00a7 8-8-3(a)(2) (2025), allocating jurisdiction over landlord-tenant disputes to its district courts, preclude removal to federal court? Appellant SBC Tower Holdings LLC, (\"SBC Tower\") and Appellee 289 Kilvert, LLC (\"Kilvert\") have a commercial lease agreement in which Rhode Island law governs disputes that arise under the same. Kilvert, the lessor, sued SBC Tower, the lessee, in Rhode Island district court, claiming that SBC Tower breached the agreement. Invoking diversity jurisdiction, SBC Tower removed the case to the United States District Court for the District of Rhode Island (\"the federal court\"), but Kilvert, in turn, moved to remand. Kilvert did not dispute the presence of diversity jurisdiction, but it contended that the federal court could not entertain the matter given that the Rhode Island district court has exclusive jurisdiction. The federal court agreed. SBC Tower appealed. We reverse, and in doing so answer the question before us in the negative."
+}

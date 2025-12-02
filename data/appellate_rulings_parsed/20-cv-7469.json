@@ -1,0 +1,35 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether 18 U.S.C. \u00a7 922(g)(1), the federal felon-in-possession law, violates the Second Amendment as applied to a person convicted only of a nonviolent financial felony.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that the Second Amendment does not prohibit Congress from disarming convicted felons, including those convicted of nonviolent offenses, because there is a historical tradition of categorical, status-based legislative disarmament without individualized dangerousness findings."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the Due Process Clause of the Fifth Amendment requires an individualized assessment of dangerousness before applying the felon-in-possession prohibition.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that there is no due process right to individualized process before the application of a categorical criminal prohibition, as the statute applies based on the fact of conviction, not current dangerousness."
+    }
+  ],
+  "key_precedents": [
+    "District of Columbia v. Heller, 554 U.S. 570 (2008)",
+    "New York State Rifle & Pistol Association, Inc. v. Bruen, 597 U.S. 1 (2022)",
+    "United States v. Rahimi, 602 U.S. 680 (2024)",
+    "United States v. Bogle, 717 F.3d 281 (2d Cir. 2013)",
+    "Connecticut Department of Public Safety v. Doe, 538 U.S. 1 (2003)",
+    "Antonyuk v. James, 120 F.4th 941 (2d Cir. 2024)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": true,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "Appellant, who was convicted of a nonviolent financial felony, brings a Second Amendment and Fifth Amendment challenge to the felon-in-possession law, 18 U.S.C. \u00a7 922(g)(1), which prohibits convicted felons from possessing firearms. He argues that because he was convicted only of a nonviolent financial felony, Congress cannot deprive him of his right to bear arms. He further asserts that because he has a constitutional right to bear arms, he also has a due process right to an individual assessment of dangerousness before the government can deprive him of his Second Amendment rights. Appellant now appeals the Southern District of New York\u2019s (Halpern, J.) dismissal of his claims. His appeal fails because (1) the Second Amendment does not prohibit Congress from disarming convicted felons; and (2) he has no right to individualized process prior to the application of a categorical criminal prohibition.\n\nAFFIRMED."
+}

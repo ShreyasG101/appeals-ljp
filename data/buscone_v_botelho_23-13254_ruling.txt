@@ -1,0 +1,311 @@
+UNITED STATES DISTRICT COURT                            
+                 DISTRICT OF MASSACHUSETTS                              
+
+                            )                                           
+IN RE: MARY E. BUSCONE,       )                                           
+   Debtor,                  )                                           
+                            )                                           
+MARY E. BUSCONE,              )                                           
+   Appellant,               )    No. 1:23-cv-13254-JEK                  
+                            )                                           
+v.                            )                                           
+                            )                                           
+ANN TRACY BOTELHO,            )                                           
+   Appellee.                )                                           
+                            )                                           
+
+                  MEMORANDUM AND ORDER                                  
+
+KOBICK, J.                                                                
+   This  appeal  of  an  order  of  the  United  States  Bankruptcy  Court  for  the  District  of 
+Massachusetts arises out of a long-running dispute between the debtor, appellant Mary E. Buscone, 
+and the creditor, appellee Ann Tracy Botelho. In connection with Buscone’s Chapter 7 bankruptcy, 
+Botelho brought an adversary proceeding in 2019 claiming that a separate state court judgment she 
+had obtained against Buscone in 2018 should be excepted from Buscone’s Chapter 7 discharge. 
+Buscone disagreed, contending that Botelho was judicially estopped from making that argument, 
+because Botelho had not listed her state court claims against Buscone on her own earlier Chapter 
+7 bankruptcy schedules. After Buscone’s motion for summary judgment was denied, but before 
+the matter went to trial, the Bankruptcy Court entered default judgment against Buscone as a 
+sanction for repeated noncompliance with discovery orders. In February 2023, the First Circuit 
+affirmed and, as a consequence, upheld the determination that Botelho’s state court judgment, in 
+the amount of $91,673.45, plus interest and costs, was excepted from Buscone’s Chapter 7 
+discharge. In re Buscone, 61 F.4th 10 (1st Cir. 2023).                    
+   Four months later, Buscone brought the underlying Chapter 13 bankruptcy. Botelho filed 
+a proof of claim for the state court judgment, with interest and costs. Objecting to that claim, 
+Buscone raised the same judicial estoppel argument and separately contended that the claim should 
+be reduced because the federal post-judgment interest rate, not the state interest rate, applies to the 
+
+excepted debt. The Bankruptcy Court overruled her objection, concluding that principles of issue 
+preclusion barred Buscone’s attempt to relitigate the judicial estoppel defense and that the state 
+post-judgment interest rate applies.                                      
+   Buscone’s appeal of that order presents two questions: (1) whether she is precluded from 
+relitigating her judicial estoppel argument, such that Botelho’s claim should be allowed in the 
+Chapter 13 bankruptcy; and (2) whether the amount of the claim should be calculated by using the 
+state or federal post-judgment interest rate. Concluding that the Bankruptcy Court correctly 
+resolved both issues in favor of Botelho, this Court will affirm its order overruling Buscone’s 
+objection to Botelho’s claim.                                             
+                        BACKGROUND                                      
+
+   The background of the litigation between Buscone and Botelho is thoroughly recounted in 
+the First Circuit’s decision in In re Buscone, 61 F.4th 10 (1st Cir. 2023). The Court here provides 
+the factual context necessary for this appeal.                            
+I.   The Parties’ Chapter 7 Bankruptcy Proceedings.                       
+   Botelho and Buscone operated a frozen yogurt business together from 2012 until 2014. 
+ECF 9, at 15-16. In late 2014, after the business failed, Botelho filed for bankruptcy protection and 
+received a Chapter 7 discharge soon after. ECF 9, at 16-17; In re Buscone, 61 F.4th at 16-17. She 
+did not list any claim against Buscone in her bankruptcy schedules. In re Buscone, 61 F.4th at 16-
+17.                                                                       
+   In 2018, Botelho sued Buscone in Middlesex Superior Court, alleging breach of contract, 
+breach of fiduciary duty, unjust enrichment, breach of the implied covenant of good faith and fair 
+dealing, and fraud. ECF 9, at 24; In re Buscone, 61 F.4th at 17 n.6. Buscone did not appear to 
+defend herself in that action and, in August 2018, the state court entered a default judgment of 
+
+$91,673.45 against her and in favor of Botelho. ECF 11, at 11; In re Buscone, 61 F.4th at 17. 
+   Following this default judgment, Buscone filed her own Chapter 7 bankruptcy petition. 
+ECF 9, at 24. In April 2019, Botelho initiated an adversary proceeding in Buscone’s bankruptcy, 
+seeking a determination that her state court judgment was excepted from discharge under 11 U.S.C. 
+§§ 523(a)(2)(A) and (a)(4). ECF 9, at 14-22. Under those statutes, debt is not dischargeable “to the 
+extent obtained by . . . false pretenses, a false representation, or actual fraud,” or for “fraud or 
+defalcation  while  acting  in  a  fiduciary  capacity,  embezzlement,  or  larceny.”  11  U.S.C. 
+§§ 523(a)(2)(A) and (a)(4); see generally In re Stewart, 948 F.3d 509 (1st Cir. 2020).  
+   Invoking judicial estoppel, Buscone moved to the dismiss Botelho’s complaint in the 
+adversary proceeding. ECF 4-1, at 81; In re Buscone, 61 F.4th at 17. She contended that because 
+
+Botelho did not list possible claims against Buscone in Botelho’s Chapter 7 bankruptcy schedules, 
+Botelho should be barred from seeking to exempt her state court judgment arising out of those 
+claims from discharge. ECF 4-1, at 81; In re Buscone, 61 F.4th at 17; see InterGen N.V. v. Grina, 
+344 F.3d 134, 144 (1st Cir. 2003) (“As a general matter, the doctrine of judicial estoppel prevents 
+a litigant from pressing a claim that is inconsistent with a position taken by that litigant either in a 
+prior legal proceeding or in an earlier phase of the same legal proceeding.”). The Bankruptcy Court 
+converted the motion to a motion for summary judgment and denied it, leaving the matter for 
+resolution at trial on a full record. ECF 4-1, at 81.                     
+   Discovery disputes emerged in the ensuing months. First, Buscone did not appear for her 
+scheduled deposition. In re Buscone, 61 F.4th at 18. After Buscone later failed to respond to 
+multiple interrogatories and requests for production of documents, the Bankruptcy Court granted 
+Botelho’s first motion to compel and, as a sanction, deemed objections to those discovery requests 
+
+waived and ordered the payment of certain fees. Id. When Buscone still failed to respond to the 
+interrogatories and requests for production in the time frame set by the Court, Botelho filed a 
+second motion to compel that sought entry of default judgment as a sanction for Buscone’s 
+discovery conduct. Id. at 18-19. After a hearing, the Bankruptcy Court issued an order finding the 
+entry of default judgment warranted “given [Buscone’s] complete flouting of the court’s discovery 
+orders, along with the fact that lesser sanctions had already failed to motivate compliance.” Id. at 
+19; see ECF 9, at 49. The Court’s order provided:                         
+   The court hereby ORDERS, ADJUDGES, and DECLARES that the judgment debt 
+   of the defendant and debtor, [Buscone], to the plaintiff, [Botelho], in the principal 
+   amount of $91,673.45, plus all interest and costs due thereunder, is excepted from 
+   discharge.                                                           
+
+ECF 9, at 49. As a consequence of this order, Botelho could continue to collect on the debt even 
+after the conclusion of Buscone’s Chapter 7 case. See 11 U.S.C. § 727(b). The Bankruptcy Court 
+later denied Buscone’s motion to reconsider. In re Buscone, 61 F.4th at 19-20. 
+   The First Circuit affirmed the orders denying Buscone’s motion for summary judgment; 
+granting Botelho’s second motion to compel, which resulted in the entry of default judgment 
+against Buscone; and denying Buscone’s motion for reconsideration of that order. Id. at 36. With 
+respect to the summary judgment motion, the First Circuit saw no abuse of discretion in the 
+Bankruptcy Court’s decision to deny the motion and reserve the judicial estoppel issue for trial. 
+Id. at 28. At that point in the proceedings, Buscone had not presented substantial evidence that 
+Botelho’s omission of the state law claims from her Chapter 7 bankruptcy schedules was an effort 
+to “manipulat[e] the machinery of the judicial system” or “play fast and loose with the courts.” Id. 
+at 27 (quotation marks omitted). Particularly in light of the “fact intensive nature of the estoppel 
+inquiry,” the Bankruptcy Court was not “obligated to apply the discretionary doctrine at summary 
+judgment.” Id. at 27-28. With respect to the subsequent entry of default judgment against Buscone 
+
+as a discovery sanction, the First Circuit again saw no abuse of discretion. Id. at 28-31. It noted 
+the “pattern of discovery abuses” that, coupled with the failure of lesser sanctions to motivate 
+compliance with court orders, justified the severity of the sanction. Id. at 29-31. 
+II.  Buscone’s Chapter 13 Bankruptcy Proceedings.                         
+   On June 26, 2023, Buscone filed a voluntary petition for Chapter 13 bankruptcy.1 ECF 9, 
+at 3. Botelho then filed a timely proof of claim and amended proof of claim for the state court 
+judgment debt deemed excepted from Buscone’s Chapter 7 discharge. Id. at 26. Buscone objected 
+to Botelho’s amended proof of claim, arguing that the claim should be disallowed on judicial 
+estoppel grounds. Id. at 26-28. Alternatively, she argued that the claim should be considerably 
+reduced,2  as  the  post-judgment  interest  from  the  previous  bankruptcy  court  order  of  non-
+
+dischargeability in the amount of $91,673.45 should be calculated at the federal rate from the date 
+of the previous Bankruptcy Court order rather than the state rate from the date of the state court 
+judgment. Id. at 28-29. At the hearing on Buscone’s objection to Botelho’s amended proof of 
+
+1 Unlike a Chapter 7 bankruptcy, in which the Trustee obtains control of, and potentially 
+liquidates, all the filers’ non-exempt assets, in a Chapter 13 bankruptcy, a “Chapter 13 debtor 
+retains control of his property and works out a plan with the court to use the money from the estate 
+to pay back his debt over three to five years.” In re Rockwell, 968 F.3d 12, 18 (1st Cir. 2020). 
+Filing a Chapter 13 bankruptcy case can help a debtor pay off nondischargeable Chapter 7 debt, 
+while avoiding foreclosure of their home. See, e.g., In re Keach, 243 B.R. 851, 865-67 (B.A.P. 1st 
+Cir. 2000); Massachusetts Hous. Fin. Agency v. Evora, 255 B.R. 336, 338 (D. Mass. 2000).  
+2 Botelho’s amended proof of claim sought a total of $145,140.42, a sum that includes the 
+$91,673.45 state court judgment and $53,466.97 in interest. ECF 4-1, at 75. Buscone’s proposed 
+post-judgment interest calculations would result in a total claim of $91,930.89, with only $257.44 
+in interest. ECF 8, at 10.                                                
+claim, counsel for Botelho contended that the judicial estoppel argument was itself “estopped—
+collaterally estopped, res judicata, what have you.” Id. at 37.           
+   The Bankruptcy Court overruled Buscone’s objection, noting that the judicial estoppel 
+argument “ha[s] been advanced on behalf of [Buscone] by [her counsel] in a number of different 
+
+pleadings in different forms.” Id. At present, the court explained, “we have a judgment . . . that the 
+amount of the state court judgment, plus interest and whatever else, . . . was determined to be non-
+dischargeable.” Id. at 38. Relying on the First Circuit’s In re Buscone decision, the court also found 
+that the state interest rate should apply and accrue from the underlying state court judgment. Id. 
+On  December  13,  2023,  the  Bankruptcy  Court  issued  a  memorandum  and  order  formally 
+overruling the objection for the reasons it had stated on the record at the hearing. ECF 4-1, at 85. 
+Buscone filed a timely appeal of that order. Id. at 87-88.                
+            JURISDICTION AND STANDARD OF REVIEW                         
+   This  Court  has  jurisdiction  under  28  U.S.C.  §  158(a)  to  consider  an  appeal  of  the 
+Bankruptcy Court’s order overruling Buscone’s objection to Botelho’s proof of claim. See 28 
+
+U.S.C. § 158(a)(1) (giving district courts jurisdiction to hear appeals from “final judgments, orders, 
+and decrees” of bankruptcy courts). “A bankruptcy court order overruling an objection to a proof 
+of claim is a final order.” Nelson, 621 B.R. 542, 553 (B.A.P. 1st Cir. 2020). 
+   On appeal to a district court, “a final order of the bankruptcy court is subject to the same 
+familiar standards of review normally employed in direct appeals to the courts of appeals in civil 
+cases generally.” In re LaRoche, 969 F.2d 1299, 1301 (1st Cir. 1992). Thus, the Bankruptcy 
+Court’s findings of fact are reviewed for clear error, while questions of law are reviewed de novo. 
+Id. “[C]onsiderable deference is given to the factual determinations and discretionary judgments 
+made by a bankruptcy judge.” In re Wolverine, Proctor & Schwartz, LLC, 527 B.R. 809, 819 
+(D. Mass. 2015) (quotation marks omitted).                                
+   Here, whether the Bankruptcy Court correctly applied the doctrine of issue preclusion to 
+overrule Buscone’s objection to Botelho’s claim is a question of law subject to de novo review. 
+
+See Keystone Shipping Co. v. New England Power Co., 109 F.3d 46, 50 (1st Cir. 1997). Its 
+determination of the interest rate applicable to the excepted debt is also a question of law subject 
+to de novo review. See In re Hamilton, 584 B.R. 310, 318 (B.A.P. 9th Cir. 2018), aff’d, 785 F. 
+App’x 438 (9th Cir. 2019).                                                
+                         DISCUSSION                                     
+I.   Application of Issue Preclusion.                                     
+   Buscone challenges the Bankruptcy Court’s determination that she is precluded from 
+raising judicial estoppel as a basis for objecting to Botelho’s proof of claim in the Chapter 13 
+bankruptcy proceeding. In Buscone’s view, because a default judgment led to the order that her 
+debt to Botelho was excepted from discharge in the Chapter 7 proceeding, her judicial estoppel 
+
+argument was not decided on the merits by the Bankruptcy Court or the First Circuit. Issue 
+preclusion cannot bar her from raising an issue, she contends, that was not actually litigated in the 
+prior Chapter 7 proceeding.                                               
+   There are two types of preclusion: claim preclusion (also known as res judicata) and issue 
+preclusion (also known as collateral estoppel). Coors Brewing Co. v. Mendez-Torres, 562 F.3d 3, 
+8-9 (1st Cir. 2009), abrogated on other grounds, Levin v. Commerce Energy, Inc., 560 U.S. 413 
+(2010). Under claim preclusion principles, “a final judgment on the merits of an action precludes 
+the parties or their privies from relitigating issues that were or could have been raised in that 
+action.” Allen v. McCurry, 449 U.S. 90, 94 (1980). Issue preclusion “bars relitigation of any factual 
+or legal issue that was actually decided in previous litigation between the parties, whether on the 
+same or a different claim.” Grella v. Salem Five Cent Sav. Bank, 42 F.3d 26, 30 (1st Cir. 1994) 
+(emphasis in original) (quotation marks omitted).                         
+   Issue preclusion applies to dischargeability proceedings in bankruptcy. See Grogan v. 
+
+Garner, 498 U.S. 279, 284-85 n.11 (1991) (“We now clarify that collateral estoppel principles do 
+indeed apply in discharge exception proceedings pursuant to § 523(a).”). Federal principles of 
+issue preclusion apply here because the prior judgment at issue—the order excepting Buscone’s 
+state court debt to Botelho from discharge—was issued by a federal bankruptcy court. See Pérez 
+v. Volvo Car Corp., 247 F.3d 303, 311 (1st Cir. 2001) (“Federal law determines the preclusive 
+effect of a judgment previously entered by a federal court.”); see also Grogan, 498 U.S. at 284 
+(citing Restatement (Second) of Judgments § 27 (1982) as establishing elements of federal issue 
+preclusion).                                                              
+   Under federal law, for a party to be collaterally estopped from relitigating an issue, four 
+elements must be present: (1) both proceedings involved the same issue of fact or law, (2) the 
+
+parties actually litigated the issue in the prior proceeding, (3) the prior court actually resolved the 
+issue in a final and binding judgment, and (4) resolution of the issue was essential to its judgment. 
+Monarch Life Ins. Co. v. Ropes & Gray, 65 F.3d 973, 978 (1st Cir. 1995) (citing Restatement 
+(Second) of Judgments § 27). The doctrine of issue preclusion applies “only if the loser had a ‘full 
+and  fair  opportunity  to  litigate’  the  issue  in  the  earlier  proceeding.”  Santiago-Martínez  v. 
+Fundación Damas, Inc., 93 F.4th 47, 51 (1st Cir. 2024) (quoting Montana v. United States, 440 
+U.S. 147, 153-54 (1979)). Buscone’s appeal focuses on the second factor—that is, whether the 
+parties “actually litigated” the judicial estoppel issue in the prior Chapter 7 adversary proceeding. 
+She maintains that because the dischargeability of the state court judgment was determined via a 
+default judgment, the question whether Botelho is judicially estopped from asserting exception 
+from discharge under 11 U.S.C. §§ 523(a)(2)(A) and (a)(4) was never actually litigated.  
+   In general, “[t]he requirement that the underlying issue be ‘actually litigated’ . . . bars a 
+court from giving a default judgment preclusive effect.” In re Snyder, 939 F.3d 92, 100 (2d Cir. 
+
+2019); see also Restatement (Second) of Judgments § 27 cmt. e (“In the case of a judgment entered 
+by confession, consent, or default, none of the issues is actually litigated. Therefore, the rule of 
+this Section does not apply with respect to any issue in a subsequent action.”). But this rule has 
+exceptions. Many courts, applying federal common law, have recognized that “where the default 
+judgment is entered as a sanction for bad conduct, and the party being estopped had the opportunity 
+to  participate  in  the  underlying  litigation,  the  default  judgment  has  preclusive  effect  when 
+determining the nondischargeability of a debt in a bankruptcy proceeding.” In re Snyder, 939 F.3d 
+at 100; accord In re Corey, 583 F.3d 1249, 1252-53 (10th Cir. 2009); In re Docteroff, 133 F.3d 
+210, 215 (3d Cir. 1997); In re Bush, 62 F.3d 1319, 1322-25 (11th Cir. 1995); In re Daily, 47 F.3d 
+365, 368-69 (9th Cir. 1995); In re Cornwell, 109 F. App’x 682, 683-84 (5th Cir. 2004) (per 
+
+curiam). The First Circuit Bankruptcy Appellate Panel has recognized the same exception under 
+Massachusetts law. See In re Stanley-Snow, 405 B.R. 11, 19-20 (B.A.P. 1st Cir. 2009). 
+   Both elements of the exception are met in this case. In the Chapter 7 adversary proceeding, 
+Buscone was “afforded a reasonable opportunity to defend [her]self on the merits but [chose] not 
+to do so.” In re Daily, 47 F.3d at 368. Represented by counsel, she participated in the proceeding 
+by filing a motion to dismiss that was converted to a summary judgment motion, filing an answer, 
+and engaging extensively in discovery disputes. It was Buscone’s persistent failure to comply with 
+her discovery obligations—not her failure to appear in the case—that prompted the Bankruptcy 
+Court to enter default judgment. The default judgment was entered as a sanction for bad conduct 
+after less severe sanctions had failed to bring her into compliance with court orders. In re Buscone, 
+61 F.4th at 29-31; see In re Bush, 62 F.3d at 1325 (“[The debtor] had ample warning from the prior 
+court and could reasonably have foreseen the conclusive effect of his actions.”). The First Circuit 
+described a “pattern of discovery abuses—including multiple failures to produce or respond to 
+
+discovery requests, arguably sarcastic and evasive responses to interrogatories, and an overall 
+unwillingness to appropriately engage with opposing counsel and follow the rules of discovery.” 
+In re Buscone, 61 F.4th at 29. Where Buscone’s “failure to provide discovery was the result of a 
+deliberate, dilatory course of conduct” that “significantly interfered with the judicial process,” the 
+Bankruptcy Court committed no error in concluding that she was collaterally estopped from 
+seeking to relitigate her judicial estoppel defense. In re Corey, 583 F.3d at 1253.  
+   Applying issue preclusion in these circumstances is consistent with the interests of the 
+doctrine—among them, discouraging obstructive behavior or delay tactics in litigation, conserving 
+judicial  and  party  resources,  and  maintaining  consistency  in  decisions.  See  id.  at  1251-52; 
+Restatement (Second) of Judgments § 27 cmt. e. Buscone had a full and fair opportunity to litigate 
+
+whether judicial estoppel foreclosed Botelho’s claim that the state court judgment was excepted 
+from discharge under 11 U.S.C. §§ 523(a)(2)(A) and (a)(4). See Santiago-Martínez, 93 F.4th at 
+51. Allowing her to reassert that defense in her Chapter 13 proceeding would give her an 
+“undeserved second bite at the apple.” In re Docteroff, 133 F.3d at 215. The Bankruptcy Court 
+correctly held that the prior non-dischargeability order had preclusive effect with respect to 
+Buscone’s assertion of judicial estoppel.                                 
+II.  Interest Rate Applicable to Botelho’s Claim.                         
+   Buscone separately challenges Botelho’s calculation of the amount of her claim in the 
+Chapter 13 proceeding and, in particular, whether the claim is subject to the Massachusetts post-
+judgment interest rate from the date of the state court judgment or the federal post-judgment 
+interest rate from the date of the prior Bankruptcy Court order. The Bankruptcy Court concluded 
+that because Botelho’s claim is based on the August 2018 state court default judgment, interest 
+accrued under the state interest rate from the date of the state court judgment to the date of 
+
+Buscone’s Chapter 13 bankruptcy petition. Buscone sees it differently: she contends that the 
+amount of the claim was determined by the December 2020 exception from discharge order in the 
+Chapter 7 adversary proceeding and began accruing as of that judgment under the federal rate. 
+   Buscone’s argument is foreclosed by the First Circuit’s decision in In re Buscone. In 
+affirming  the  Bankruptcy  Court’s  judgment  excepting  Botelho’s  $91,673.45  claim  against 
+Buscone from discharge, the First Circuit noted that “this amount may no longer reflect the debt 
+owed to [Botelho].” In re Buscone, 61 F.4th at 34. That was so for two reasons: Buscone had 
+already made some payments to Botelho, and “as the bankruptcy court suggested by holding the 
+‘interests and costs due thereunder’ non-dischargeable,” post-judgment interest was accruing. Id. 
+The First Circuit then explained that “state law provides for interest to accrue post-judgment,” and 
+
+cited M.G.L. c. 231, §§ 6B, 6C, and 6H, which, together with M.G.L. c. 235, § 8, set the interest 
+rates on damage judgments entered in Massachusetts courts. In re Buscone, 61 F.4th at 34. The 
+First Circuit also explained that “[b]ecause the Commonwealth court is best suited to make a 
+precise calculation as to what is owed and how the state judgment can be executed,” it would 
+“leave it to the parties to sort out the contours of the debt in state court.” Id. at 34-35. 
+   Buscone  asserts  that  this  analysis  was  dicta  that  should  be  disregarded.  This  Court 
+disagrees.  The  First  Circuit’s  conclusion  that  the  post-judgment  interest  rate  is  set  by 
+Massachusetts law, rather than federal law, is precisely on point and consistent with logic. 
+Buscone’s debt to Botelho arose from the judgment Botelho obtained against her in state court. 
+The Bankruptcy Court’s December 2020 order determined that this debt was excepted from 
+discharge, but it did not give rise to the debt or constitute a new money judgment. Indeed, referring 
+to the state court judgment, the exception from discharge order accounts for “all interest and costs 
+due thereunder”—not “hereunder,” as one might expect if the federal judgment gave rise to the 
+
+interest and costs. ECF 9, at 49 (emphasis added). Because Buscone’s debt to Botelho arises from 
+the state court judgment, interest is accruing on that judgment at the rate set by Massachusetts law. 
+See In re Hamilton, 584 B.R. at 323 (“[I]nterest on a nondischargeable judgment debt should 
+continue  to  accrue  at  the  state  rate,  even  after  the  bankruptcy  court  determines  the 
+nondischargeability of the debt.”)                                        
+   Accordingly, the Bankruptcy Court correctly overruled Buscone’s objection to Botelho’s 
+calculation of her claim.                                                 
+                         CONCLUSION                                     
+   For the foregoing reasons, the Bankruptcy Court’s order overruling Buscone’s objection to 
+Botelho’s amended proof of claim is AFFIRMED. Botelho’s request for attorney’s fees and costs 
+
+is DENIED.                                                                
+   SO ORDERED.                                                          
+                                 /s/ Julia E. Kobick                    
+                                 JULIA E. KOBICK                        
+                                 UNITED STATES DISTRICT JUDGE           
+
+Dated: August 9, 2024

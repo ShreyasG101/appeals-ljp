@@ -1,0 +1,842 @@
+22-2813-cv
+Baltas v. Chapdelaine
+
+
+                 United States Court of Appeals
+                    For the Second Circuit
+
+                            August Term 2024
+                         Argued: January 31, 2025
+                        Decided: September 3, 2025
+
+                              No. 22-2813-cv
+
+
+
+ JOE BALTAS, JASON GOODE, KENYON L. JOSEPH PELLOT-CASTELLANO,
+  RICHARD RICE, YARDLEY DAVIS, PHILIP RIVERA, NOAH GLADDING,
+                   PETER TARASCO, JOSE ORTIZ,
+
+                            Plaintiffs-Appellants,
+
+                                      v.
+  CAROL CHAPDELAINE, GIULIANNA MUDANO, AND ANGEL QUIROS,
+
+                           Defendants-Appellees.*
+
+
+
+              On Appeal from the United States District Court
+                     for the District of Connecticut
+                              No. 17-cv-242
+                        Robert N. Chatigny, Judge.
+                      Michael P. Shea, Chief Judge.
+
+
+
+        The Clerk of Court is respectfully directed to amend the caption
+        *
+
+accordingly.
+Before:       CARNEY, PARK, and NARDINI, Circuit Judges.
+      Nine Connecticut inmates claim that their confinement in a
+special housing unit called Q-Pod violated their constitutional rights.
+They sued prison officials under 42 U.S.C. § 1983, alleging violations
+of their First, Eighth, and Fourteenth Amendment rights. The district
+court (Chatigny, J.) granted Defendants’ motion for summary
+judgment on qualified-immunity grounds.
+
+      We affirm as to Plaintiffs’ Eighth Amendment and procedural
+due process claims, as well as the free exercise claims of seven of the
+nine Plaintiffs. But we reverse as to two Plaintiffs’ free exercise claims
+alleging that Defendants denied their requests to participate in Native
+American sweat lodge and smudging practices, which are congregate
+religious services. Defendants offered no penological justification for
+the denials—not to Plaintiffs, the district court, or this Court—so their
+refusal to permit participation in religious congregation violated
+clearly established law. The judgment and order of the district court
+are AFFIRMED in part and REVERSED in part and the case is
+REMANDED with instructions to deny Defendants’ motion as to Joe
+Baltas’s and Joseph Tarasco’s denial-of-congregation claims. We also
+VACATE the dismissal of Baltas’s and Tarasco’s state-law claims.
+
+
+
+             JAMES DURLING, Paul, Weiss, Rifkind, Wharton &
+             Garrison LLP, Washington, DC; William B. Michael,
+             Andrew Fishman, Paul, Weiss, Rifkind, Wharton &
+             Garrison LLP, New York, NY, for Plaintiffs-Appellants.
+
+
+
+
+                                    2
+             ZENOBIA GRAHAM-DAYS, Assistant Attorney General, for
+             William Tong, Attorney General of Connecticut,
+             Hartford, CT, for Defendants-Appellees.
+
+
+
+PARK, Circuit Judge:
+      Nine Connecticut inmates claim that their confinement in a
+special housing unit called Q-Pod violated their constitutional rights.
+They sued prison officials under 42 U.S.C. § 1983, alleging violations
+of their First, Eighth, and Fourteenth Amendment rights. The district
+court (Chatigny, J.) granted Defendants’ motion for summary
+judgment on qualified-immunity grounds.
+
+      We affirm as to Plaintiffs’ Eighth Amendment and procedural
+due process claims, as well as the free exercise claims of seven of the
+nine Plaintiffs. But we reverse as to two Plaintiffs’ free exercise claims
+alleging that Defendants denied their requests to participate in Native
+American sweat lodge and smudging practices, which are congregate
+religious services. Defendants offered no penological justification for
+the denials—not to Plaintiffs, the district court, or this Court—so their
+refusal to permit participation in religious congregation violated
+clearly established law. The judgment and order of the district court
+are affirmed in part and reversed in part and the case is remanded
+with instructions to deny Defendants’ motion as to Joe Baltas’s and
+Joseph Tarasco’s denial-of-congregation claims. We also vacate the
+dismissal of Baltas’s and Tarasco’s state-law claims.
+
+
+
+
+                                    3
+                         I. BACKGROUND
+
+A.    Factual Background 1
+
+      Plaintiffs-Appellants are nine current or former inmates in
+Connecticut’s MacDougall-Walker Correctional Institution who were
+detained in the prison’s “Q-Pod” housing unit between 2009 and
+2016. Q-Pod, which is separate from the prison’s main building, has
+60 cells with two bunks each. It is “used to house inmates who are
+transitioning from more restrictive conditions of confinement, such as
+punitive segregation, back to general population.” Special App’x at
+4.   Although Department of Corrections (“DOC”) regulations
+consider Q-Pod a “reclassification unit,” Plaintiffs claim that it is a
+“punitive unit” with more severe conditions than the prison’s
+general-population wings. Joint App’x at 300.
+
+      Defendants-Appellees are Carol Chapdelaine, the prison
+warden, Giulianna Mudano, the deputy warden, and Angel Quiros,
+the district administrator at the time of the alleged confinement.
+
+      When a MacDougall-Walker inmate violates the Code of Penal
+Discipline, he receives a “ticket” and time in the prison’s Restrictive
+Housing Unit (“RHU”). The prison’s Inmate Handbook provides that
+“[u]pon release from RHU and upon having been found guilty or
+having pled guilty to a charge(s) under the Code of Penal Discipline,
+inmates . . . will complete the remainder of their time on Unassigned
+Status in” Q-Pod. Joint App’x at 95-96. The Handbook specifies that
+inmates will stay in Q-Pod for 90 days for more severe infractions
+
+      1 The facts as set forth here are drawn from the record at summary
+
+judgment and are not disputed except as noted.
+
+
+
+
+                                   4
+(Class A tickets) or 60 days for others (Class B tickets). Despite these
+guidelines, Plaintiffs assert that they were often kept in Q-Pod for five
+months or longer, with the longest specific allegation being nine
+consecutive months in Q-Pod.
+
+      Plaintiffs also complain about five conditions of confinement in
+Q-Pod. First, they claim to have faced significant isolation in Q-Pod.
+Plaintiffs spent 22 out of 24 hours per day in their cells. During the
+other two hours, Q-Pod inmates had access to an outdoor yard with
+a basketball court. They were also permitted daily visitation. By
+comparison, general-population inmates had three hours of
+recreation.   Although Q-Pod inmates generally had cellmates,
+Plaintiffs allege that some were alone in their cells.
+
+      Second, Plaintiffs allege that their Q-Pod cells were unsanitary.
+In particular, Q-Pod “had restrictions on flushing the toilet a certain
+number of times in a given period, causing the toilets to be turned off
+for two to three hours at a time.” Appellants’ Br. at 6. The parties
+dispute the intervals on these timers, but Q-Pod inmates are advised
+that they can flush the toilet two times in five minutes and then must
+wait five minutes before flushing again; otherwise, attempting a third
+flush within 10 minutes will lock the toilet for 30 minutes. Defendants
+claim that other MacDougall-Walker units have these timers as part
+of a municipal water-use agreement, but Plaintiffs deny this and also
+claim that Q-Pod officers shut off Q-Pod inmates’ water for hours at
+a time.
+
+      Third, Plaintiffs claim that Q-Pod officers deprived them of
+medical care and drug and alcohol counseling. Although there is a
+medical room in Q-Pod, Plaintiffs contend that they “would be denied
+
+
+
+
+                                    5
+medical treatment,” Joint App’x at 303, but none alleges a specific
+instance of being denied care. Plaintiffs further claim that there was
+no drug and alcohol counseling in Q-Pod.
+
+      Fourth, Plaintiffs claim that Q-Pod lacked vocational training,
+job assignments, and education.          The parties agree that these
+opportunities are privileges that may be restricted as part of the
+disciplinary process. And Plaintiffs do not challenge the disciplinary
+process that resulted in their confinement in the RHU, but contend
+that their privileges should not be restricted in Q-Pod because it is an
+“arbitrary and capricious” sanction.
+
+      Fifth, Plaintiffs say that Q-Pod offered limited religious
+services. Seven Plaintiffs claim at most that Q-Pod had “[s]egregated
+& restricted religious services (if any at all).” See, e.g., Joint App’x at
+122. But they fail to allege that they have sincerely held religious
+beliefs, that they sought out religious services to exercise those beliefs,
+or that Defendants denied any requests for such services.
+
+      Two Plaintiffs, however, claim that Q-Pod officials denied their
+requests for Native American services. Baltas and Tarasco say they
+requested but were denied access to “smudging,” a Native American
+ceremony involving burning grasses and tobacco led by an elder or
+spiritual leader.   Prison officials denied Baltas’s grievance about
+smudging, noting that “inmates in Q-unit do not smudge with [the
+general] population. They are allowed to dry smudge in their cells
+until they move to another unit. The Native American Chapl[a]in
+does a service with the inmates in Q unit.” Joint App’x at 78. Tarasco
+says he too was barred from smudging, as well as sweat-lodge
+services, which involve group prayer in a special sauna at
+
+
+
+
+                                    6
+MacDougall-Walker. His former cellmate attests that Tarasco asked
+a Native American Services Alder and a Q-Pod counselor about
+access to those services. The counselor told Tarasco that the wardens
+were aware of his request but might not be able to provide the services
+due to staffing issues.
+
+B.    Procedural History
+
+      Plaintiffs sued on February 15, 2017, seeking damages and
+injunctive relief under 42 U.S.C. § 1983 and Connecticut state law. As
+relevant here, Plaintiffs claimed that Defendants violated (1) the
+Eighth Amendment right to be free from cruel and unusual
+punishment; (2) the Fourteenth Amendment right to due process of
+law; (3) the First Amendment right to free exercise of religion; and
+(4) the Connecticut Constitution.      Defendants denied Plaintiffs’
+allegations and asserted qualified immunity.
+
+      The district court granted Defendants’ motion for summary
+judgment on qualified-immunity grounds on all federal claims,
+declined to exercise supplemental jurisdiction over the state-law
+claims, and denied Plaintiffs’ requests for injunctive relief as moot.
+As to Plaintiffs’ Eighth Amendment claims, the district court
+concluded that Q-Pod “did not impose a level of isolation sufficient
+to support a constitutional claim.” Special App’x at 12. It also held
+that Plaintiffs’ claims regarding toilet-flush restrictions fail because
+“[t]emporary deprivations of toilet use that do not result in serious
+physical harm or contamination do not rise to the level of a
+constitutional violation.” Id. at 14. The district court concluded that,
+in any event, Defendants are entitled to qualified immunity because
+“Plaintiffs have not identified relevant case authority showing that
+
+
+
+
+                                   7
+the restrictive conditions they experienced in Q-Pod violated the
+Eighth Amendment.” Id. at 16.
+
+      The district court also rejected Plaintiffs’ procedural due
+process claims.    First, the record was “insufficient to permit a
+reasoned determination of whether plaintiffs can prove a state-
+created liberty interest.” Special App’x at 18. Even assuming such an
+interest, the district court concluded that “the conditions in Q-Pod
+were not dramatically different from the conditions in general
+population.” Id. at 19. Although Baltas and Tarasco had raised a
+triable issue as to the deprivation of their religious services, the
+district court concluded that Defendants were entitled to qualified
+immunity because “Plaintiffs cite no relevant case authority clearly
+establishing that confining them in Q-Pod without procedural
+safeguards for the periods at issue violated the Fourteenth
+Amendment.” Id. at 25.
+
+      Finally, the district court concluded that Defendants were
+entitled to qualified immunity from Plaintiffs’ free exercise claims.
+The court found that Baltas and Tarasco—but not the other
+Plaintiffs—might “be able to prove that they were deprived of a
+constitutional right to participate in congregate religious services.”
+Special App’x at 30 (cleaned up). But Defendants were immune
+because “[n]o relevant case authority has been cited or found that
+addresses the First Amendment free exercise rights of inmates to
+participate in sweat lodge or smudging services.” Id. at 32.
+
+      Plaintiffs   moved   for reconsideration.       The   case was
+subsequently reassigned and the district court (Shea, C.J.) denied that
+motion on June 5, 2023.     Plaintiffs timely appealed the grant of
+
+
+
+
+                                  8
+summary judgment. We granted leave to proceed in forma pauperis
+and appointed counsel from our pro bono panel. 2
+
+                             II. DISCUSSION
+
+      Plaintiffs argue that Defendants are not entitled to qualified
+immunity because they violated clearly established law. We disagree
+as to the Eighth Amendment and due process claims and affirm
+Defendants’ qualified immunity on those claims. As for the First
+Amendment claims, we also affirm the district court’s judgment for
+Defendants on qualified immunity grounds, except we reverse and
+remand as to two Plaintiffs’ denial-of-congregation claims.
+
+A.    Legal Standards
+
+      “We review a district court’s denial of a motion for summary
+judgment sounding in qualified immunity de novo” and “draw all
+factual inferences in favor of, and take all factual assertions in the light
+most favorable to, the party opposing summary judgment.” Coollick
+v. Hughes, 699 F.3d 211, 219 (2d Cir. 2012) (quotation marks omitted).
+
+      “Qualified immunity shields federal and state officials from
+money damages unless a plaintiff pleads facts showing (1) that the
+official violated a statutory or constitutional right, and (2) that the
+right was ‘clearly established’ at the time of the challenged conduct.”
+Ashcroft v. al-Kidd, 563 U.S. 731, 735 (2011). Even if an officer violated
+a plaintiff’s clearly established rights, he “will still be entitled to
+qualified immunity if it was objectively reasonable for him to believe
+that his acts did not violate those rights.” Outlaw v. City of Hartford,
+
+
+      2
+          The Court thanks Plaintiffs’ pro bono counsel for their service.
+
+
+
+
+                                       9
+884 F.3d 351, 367 (2d Cir. 2018). These protections “balance[] two
+important interests—the need to hold public officials accountable
+when they exercise power irresponsibly and the need to shield
+officials from harassment, distraction, and liability when they
+perform their duties reasonably.” Pearson v. Callahan, 555 U.S. 223,
+231 (2009).
+
+      “The Supreme Court has repeatedly told courts not to define
+clearly established law at a high level of generality, instead
+emphasizing that clearly established law must be particularized to the
+facts of the case.” Francis v. Fiacco, 942 F.3d 126, 146 (2d Cir. 2019)
+(cleaned up). “We do not require a case directly on point, but existing
+precedent must have placed the statutory or constitutional question
+beyond debate.” Taylor v. Barkes, 575 U.S. 822, 825 (2015) (quotation
+marks omitted).
+
+B.    Eighth Amendment Claims
+
+      The Eighth Amendment prohibits the infliction of “cruel and
+unusual punishment.” U.S. Const., amend. VIII. To make out an
+Eighth Amendment claim, Plaintiffs must prove (1) an “objectively,
+sufficiently serious . . . denial of the minimal civilized measure of
+life’s necessities” and (2) that prison officials had a “sufficiently
+culpable state of mind.” Farmer v. Brennan, 511 U.S. 825, 834 (1994)
+(cleaned up).     Plaintiffs claim that the isolation and hygienic
+conditions in Q-Pod violated their Eighth Amendment rights. But
+Plaintiffs fail to identify cases clearly establishing that the alleged
+isolation and toilet restrictions amounted to a sufficiently serious
+deprivation.
+
+
+
+
+                                  10
+      1.     Isolation
+
+      Plaintiffs argue that their isolation in Q-Pod was cruel and
+unusual punishment. They say the district court erred in granting
+qualified immunity because “courts around the country have
+increasingly held that conditions of confinement that result in
+significant isolation—as plaintiffs experienced here—can satisfy the
+objective element of the Eighth Amendment.” Appellants’ Br. at 51.
+We disagree.
+
+      Q-Pod is not solitary confinement. Inmates are permitted two
+hours of recreation in groups of up to thirty inmates, as well as daily
+visitation. Q-Pod cells also house two inmates per cell, so Q-Pod is
+not designed for complete social isolation. Still, granting Plaintiffs’
+contention that some Q-Pod inmates had no cellmate, they faced up
+to 22 hours per day of social isolation. The physical and psychological
+consequences of long periods of social isolation may be severe, but
+the 22 hours per day of isolation alleged by Plaintiffs is only one hour
+more than the periods of isolation faced by inmates in the general
+prison population, and the Supreme Court has never held that 22
+hours per day of isolation constitutes cruel and unusual punishment.
+
+      In Hutto v. Finney, the Court recognized that “[c]onfinement in
+a prison or in an isolation cell is a form of punishment subject to
+scrutiny under Eighth Amendment standards.” 437 U.S. 678, 685
+(1978). But that decision did not establish a bright-line rule. It instead
+upheld a district court’s 30-day limit on punitive isolation in a “filthy,
+overcrowded cell” with “a diet of ‘grue.’”        Id. at 686-87.   Those
+“isolation” cells were not solitary in the social sense; the issue was
+
+
+
+
+                                    11
+overcrowding of the isolation cells. So Hutto does not clearly establish
+law that supports Plaintiffs’ social-isolation claims.
+
+       This Court also has never held that such isolation is cruel and
+unusual. In Reynolds v. Quiros—on which Plaintiffs rely—we noted
+only that an inmate facing life in a solo cell for 21-22 hours a day
+“could arguably prevail on his claims alleging violations of the Eighth
+Amendment.” 990 F.3d 286, 294 (2d Cir. 2021). But even there, we
+vacated the district court’s grant of summary judgment for the inmate
+in light of disputed facts. Id. at 295. Dicta about disputed claims that
+“could arguably prevail” does not clearly establish that the isolation
+in Q-Pod violated the Eighth Amendment.              And even if it did,
+Reynolds post-dates the challenged conduct and thus cannot
+undermine qualified immunity here. See al-Kidd, 563 U.S. at 741 (“A
+Government official’s conduct violates clearly established law when,
+at the time of the challenged conduct, the contours of a right are
+sufficiently clear that every reasonable official would have
+understood that what he is doing violates that right.” (emphasis
+added) (cleaned up)).
+
+       Nor do other circuits’ decisions “clearly foreshadow[] a
+particular ruling on the issue” of social isolation. Burns v. Martuscello,
+890 F.3d 77, 94 (2d Cir. 2018). Plaintiffs point to Clark v. Coupe, 55 F.4th
+167 (3d Cir. 2022), in which the Third Circuit held that an inmate’s
+“almost complete isolation for seven months by officials who knew
+him to be seriously mentally ill” was a serious deprivation. Id. at 180.
+But Clark involved the solitary confinement of a seriously mentally ill
+inmate for all but three one-hour intervals per week. Id. at 173, 180.
+Plaintiffs’ reliance on Porter v. Clarke, 923 F.3d 348 (4th Cir. 2019), fares
+
+
+
+
+                                     12
+no better. The Fourth Circuit held that “conditions of confinement on
+Virginia’s death row—under which Plaintiffs spent, for years,
+between 23 and 24 hours a day alone, in a small . . . cell” posed a
+substantial risk of serious harm. Id. at 357 (quotation marks omitted).
+Q-Pod, by contrast, is not designed for solitary confinement and
+provides more recreation time, as well as daily visitation. 3
+
+      It is not clearly established that the level of social isolation in Q-
+Pod violated the Eighth Amendment, so we affirm the district court’s
+grant of qualified immunity as to these claims.
+
+       2.    Toilet Restrictions
+
+       Plaintiffs argue that they endured unsanitary conditions
+because Q-Pod “had restrictions on flushing the toilet a certain
+number of times in a given period, causing the toilets to be turned off
+for two to three hours at a time.” Appellants’ Br. at 6. They argue
+that we have clearly established that such restrictions on toilet use
+violate the Eighth Amendment. That is incorrect.
+
+       Neither the Supreme Court nor this Court has held that
+shutting off toilet flushes “for two to three hours at a time” violates
+the Eighth Amendment. In LaReau v. MacDougall, 473 F.2d 974 (2d
+Cir. 1972), we recognized that “[c]ausing a man to live, eat and
+perhaps sleep in close confines with his own human waste is too
+debasing and degrading to be permitted.” Id. at 978. But that case
+
+
+      3
+         Even if these out-of-circuit cases were on point and clearly
+foreshadowed a ruling in favor of Plaintiffs on the isolation issue, they too
+would not undermine qualified immunity because they post-date Plaintiffs’
+alleged Q-Pod detentions.
+
+
+
+
+                                     13
+involved a “Chinese toilet”—i.e., a grate in the ground that collected
+waste in the open air until flushed by external control—which is far
+more “degrading” than a toilet with a flush timer. Id. at 977. Plaintiffs
+also point to Willey v. Kirkpatrick, 801 F.3d 51 (2d Cir. 2015), but that
+case involved a deprivation of running toilet water for a week or
+more. Id. at 66-67. Our caselaw does not clearly establish that a few
+hours without a flushing toilet violates the Eighth Amendment, so we
+affirm the grant of qualified immunity as to these claims.
+
+C.    Due Process Claims
+
+      Plaintiffs argue that Defendants violated their due process right
+to be free from Q-Pod confinement. To make out a procedural due
+process claim under the Fourteenth Amendment, a prisoner must
+establish that (1) the state has created a liberty interest protected by
+the Due Process Clause and (2) limits on that liberty interest
+“impose[] atypical and significant hardship on the inmate in relation
+to the ordinary incidents of prison life.” Sandin v. Conner, 515 U.S.
+472, 484 (1995). Even if Plaintiffs had a cognizable liberty interest in
+freedom from Q-Pod, the alleged durations and conditions of
+confinement would not violate their due process rights.
+
+      1.     Liberty Interest
+
+      Plaintiffs argue that they had a liberty interest in freedom from
+Q-Pod confinement. Plaintiffs “must establish . . . that the state has
+granted its inmates, by regulation or by statute, a protected liberty
+interest in remaining free from that confinement or restraint.” Frazier
+v. Coughlin, 81 F.3d 313, 317 (2d Cir. 1996). They point to the DOC’s
+Administrative Directives (“A.D.”) as creating a liberty interest in
+freedom from unauthorized punishments. Under A.D. 9.5, an inmate
+
+
+
+                                   14
+receives a “ticket” for certain infractions, which they can contest at a
+hearing. If guilt is established, the inmate serves time in the RHU.
+Plaintiffs do not challenge the disciplinary proceedings that initially
+landed them in the RHU. They instead challenge their post-RHU
+transfer to Q-Pod. So any liberty interest must arise from Plaintiffs’
+allegation that prison officials flouted regulations governing post-
+RHU confinement to use Q-Pod as an “illegal and off-the-books form
+of administrative segregation.” Joint App’x at 38.
+
+      The relevant regulations appear in MacDougall-Walker’s
+Inmate Handbook and the DOC’s A.D. The Handbook provides that
+“[u]pon release from RHU and upon having been found guilty or
+having pled guilty to a charge(s) under the Code of Penal Discipline,
+inmates . . . will complete the remainder of their time on Unassigned
+Status in” Q-Pod. Joint App’x at 95-96. The Handbook states that
+inmates will stay in Q-Pod for 90 days for a Class A ticket or 60 days
+for a Class B ticket. A.D. 9.5 specifies the penalties that may be
+imposed for a disciplinary infraction.      Defendants say that any
+confinement beyond these periods resulted from new violations, but
+they do not identify a regulation that provides for extending Q-Pod
+detention rather than reverting the inmate to the same disciplinary
+process that led to their placement in the RHU. Defendants also deny
+that conditions in Q-Pod amount to an unauthorized penalty.
+Because this issue is contested, we assume without deciding that the
+relevant regulations create a liberty interest in freedom from Q-Pod
+confinement.
+
+
+
+
+                                   15
+      Plaintiffs allege that they were confined in Q-Pod longer than
+the Handbook permits 4 and subject to penalties not set out in A.D. 9.5.
+Again assuming that the relevant regulations create a liberty interest,
+Plaintiffs may have alleged a deprivation of their right to be free from
+Q-Pod confinement.
+
+      2.     Atypical and Significant Hardships
+
+      Plaintiffs argue that they were “confined in Q-Pod for lengthy
+periods of time and under particularly harsh and restrictive prison
+conditions.” Appellants’ Br. at 42. For a deprivation of liberty to
+amount to “atypical and significant hardship,” conditions must
+“work a major disruption” in their environment. Sandin, 515 U.S. at
+486. Relevant factors “include the extent to which the conditions of
+the disciplinary segregation differ from other routine prison
+conditions and the duration of the disciplinary segregation imposed
+compared to discretionary confinement.” Palmer v. Richards, 364 F.3d
+60, 64 (2d Cir. 2004) (cleaned up). “[E]specially harsh conditions
+endured for a brief interval and somewhat harsh conditions endured
+for a prolonged interval might both be atypical.” Sealey v. Giltner, 197
+F.3d 578, 586 (2d Cir. 1999).
+
+      Most of the challenged Q-Pod conditions do not significantly
+“differ from other routine prison conditions.” Palmer, 364 F.3d at 64
+
+
+      4
+        Rivera says he spent nine consecutive months in Q-Pod. Gladding
+says he was there for more than seven months consecutively and more than
+a year in total. Baltas alleges almost five consecutive months of
+confinement and over a year in total. Tarasco says that he was confined for
+“about three months and a few days on a Class A Ticket.” Joint App’x at
+118. And Rice says that he was confined for over three months.
+
+
+
+
+                                    16
+(quotation marks omitted). First, Q-Pod inmates have only one less
+hour of recreation per day than other inmates in the general
+population. We have never held that such a deprivation of recreation
+and socialization constitutes an atypical and significant hardship, 5
+even for the intermediate durations of Q-Pod detention alleged by
+Rivera and Gladding. 6 To the contrary, the Supreme Court in Sandin
+held that an inmate’s segregation—with an average of 50 minutes
+each day out of the cell for 30 days—“did not present the type of
+atypical, significant deprivation in which a State might conceivably
+create a liberty interest” because it “did not work a major disruption”
+compared to general-population inmates’ eight to twelve out-of-cell
+hours. Sandin, 515 U.S. at 486 & n.8.
+
+      Second, Baltas and Tarasco claim that Q-Pod confinement
+deprived them of access to requested religious services, but their
+
+
+
+
+      5
+         In Palmer, we affirmed a district court’s denial of qualified
+immunity from an inmate’s procedural due process claim for 77 days in a
+special housing unit without exercise, hygiene products, or visitation. 364
+F.3d at 67. We explained that “it is possible that Palmer endured unusually
+harsh SHU conditions that constituted an ‘atypical and significant
+deprivation’ under Sandin.” Id. But the mere possibility of success on a
+claim involving different conditions does not “place[] the statutory or
+constitutional question beyond debate” as needed to defeat qualified
+immunity under current doctrine. al-Kidd, 563 U.S. at 741.
+      6
+         Between 101 and 305 days is an “intermediate duration” of
+confinement for which a district court must develop a “detailed record of
+conditions of confinement relative to ordinary prison conditions.” Palmer,
+364 F.3d at 65 (quotation marks omitted).
+
+
+
+
+                                    17
+allegations do not rise to a cognizable hardship under Sandin. 7
+Baltas’s longest alleged stay in Q-Pod was almost five months. But
+there is no caselaw establishing that denial of religious services for
+five months imposes an atypical and significant hardship. In Arce v.
+Walker, 139 F.3d 329 (2d Cir. 1998), we rejected an inmate’s procedural
+due process claim for eighteen days of segregation during which he
+was “entitled to only one hour of exercise per day and could not
+attend communal religious services.”           Id. at 336.    Although we
+recognized that these conditions were more severe than those in the
+general prison population, we held that the deprivations “were not
+more onerous tha[n] those considered, and constitutionally
+sanctioned in Sandin.” Id. To be sure, Baltas alleges a longer duration
+of religious deprivation in Q-Pod. But our decisions do not clearly
+establish a bright-line rule about when such deprivations are
+actionable under Sandin.
+
+       Plaintiffs’ other alleged conditions also fail under Sandin.
+Plaintiffs complain that Q-Pod officials prevented toilet flushes “for
+two to three hours at a time.” Appellants’ Br. at 6. They further allege
+that they were deprived of job and training opportunities, even
+though they admit that the loss of those opportunities is based on an
+inmate’s disciplinary record.         And Plaintiffs allege inadequate
+medical care, but fail to identify any injuries or specific deprivations
+
+
+
+       7
+         Seven other Plaintiffs allege that Q-Pod had “[s]egregated &
+restricted religious services (if any at all).” But they do not allege an
+atypical or significant hardship—or any hardship at all—because they do
+not claim to hold religious beliefs or to have been denied access to requested
+services for those beliefs. See infra Section II.D.
+
+
+
+
+                                      18
+of care. We have never held any of these conditions, whether alone
+or together, to be an atypical or significant hardship.
+
+       We cannot say that every reasonable officer would know that
+Q-Pod confinement, even for the longest periods alleged, violated
+Plaintiffs’ procedural due process rights.          Plaintiffs identify no
+precedent clearly establishing that any of the alleged conditions
+constitutes atypical and significant hardship for the alleged
+durations.    We thus affirm the district court’s grant of qualified
+immunity as to Plaintiffs’ procedural due process claims.
+
+D.     First Amendment Claims
+
+       Plaintiffs   claim    that   Defendants      violated    their   First
+Amendment right to free exercise of religion. To make out a free
+exercise claim, a “prisoner must show at the threshold that the
+disputed conduct . . . burdens his sincerely held religious beliefs.”
+Holland v. Goord, 758 F.3d 215, 220 (2d Cir. 2014). 8 But “[u]nder the
+First Amendment, the law is less generous to plaintiff prisoners; a
+generally applicable policy will not be held to violate a plaintiff’s right
+to free exercise of religion if that policy is reasonably related to
+legitimate penological interests.” Redd v. Wright, 597 F.3d 532, 536 (2d
+Cir. 2010) (quotation marks omitted). Absent such a penological
+
+
+       8 We recently “join[ed] those circuits that have held that an inmate
+does not need to establish a substantial burden in order to prevail on a free
+exercise claim under § 1983.” Kravitz v. Purcell, 87 F.4th 111, 125 (2d Cir.
+2023). But that was not clearly established at the time of Plaintiffs’ alleged
+Q-Pod confinements in 2015 and 2016. See Wiggins v. Griffin, 86 F.4th 987,
+993 (2d Cir. 2023) (“We have not decided whether the substantial burden
+test survives Employment Division v. Smith.”).
+
+
+
+
+                                      19
+interest, “[i]t is well established that prisoners have a constitutional
+right to participate in congregate religious services.” Salahuddin v.
+Coughlin, 993 F.2d 306, 308 (2d Cir. 1993).
+
+       Seven of the nine Plaintiffs—Goode, Pellot-Castellano, Rice,
+Davis, Rivera, Gladding, and Ortiz—fail to allege any burden on their
+sincerely held religious beliefs. They allege only that Q-Pod had
+“[s]egregated & restricted religious services (if any at all).” They do
+not even claim that they hold religious beliefs, much less that
+Defendants burdened their exercise of any such beliefs. 9 So we affirm
+the grant of qualified immunity on these Plaintiffs’ claims.
+
+       The remaining two Plaintiffs—Baltas and Tarasco—claim that
+Defendants denied their requests to access congregate services for
+their Native American religion. Defendants declined to offer any
+penological justification for refusing Baltas and Tarasco access to
+these services. 10
+
+
+       9
+        Even if these Plaintiffs had alleged a burden on their sincerely held
+religious beliefs, their claims fail because they do not allege that Defendants
+knew or should have known that they had denied them access to their
+desired religious services. See Wiggins, 86 F.4th at 997 (“[M]ere negligence
+cannot support a First Amendment free exercise claim, . . . [but] deliberate
+indifference clearly suffices.” (quotation marks omitted)).
+       10These practices involve open flames and require close supervision.
+See Baltas v. Jones, No. 3:21-CV-469, 2023 WL 8827880, at *20 (D. Conn. Dec.
+21, 2023); Hamilton v. Schriro, 74 F.3d 1545, 1548 (8th Cir. 1996). But
+Defendants have disclaimed on appeal any penological justification based
+on those considerations. See Joint App’x at 146 (“Here, there has been no
+limitation or denial of the plaintiffs’ rights to attend religious services, thus
+no explanation of a pen[o]logical rationale is necessary.”).
+
+
+
+
+                                       20
+      Tarasco claims he was “continually being denied [his]
+Constitutional right to attend . . . Purification (sweat lodge)” and that
+he “was not allowed to attend [his] religious practices or purifications
+at all.” 11 Joint App’x at 118. Tarasco’s former cellmate attests that
+Tarasco spoke with a Q-Pod official and prison chaplain about his
+desire to access sweat-lodge services, so the deprivation is not the
+result of “[m]ere negligence.” Wiggins, 86 F.4th at 997. Plaintiffs
+describe the sweat lodge as “a congregate Native American Religious
+Practice that occurs at MacDougall on a monthly basis, where the gen.
+pop inmates are permitted to attend.” Joint App’x at 330. Sweat-
+lodge ceremonies may involve healers and participants sitting around
+a steam-producing fire in a domed lodge. MacDougall-Walker is one
+of the few state prisons to have a sweat lodge.
+
+      “It is well established that prisoners have a constitutional right
+to participate in congregate religious services.” Salahuddin, 993 F.2d
+at 308.    In the context of MacDougall-Walker, where general-
+population Native American inmates hold congregate services in the
+prison’s sweat lodge, no reasonable officer would think it lawful to
+deny Tarasco this form of congregation absent a legitimate
+penological purpose. Accordingly, we reverse the grant of qualified
+immunity as to Tarasco’s sweat-lodge claim.
+
+      The district court granted qualified immunity because Plaintiffs
+identified no caselaw that addresses the “free exercise rights of
+inmates to participate in sweat lodge.” Special App’x at 32. Although
+we agree with the district court that there is no clearly established
+
+      11
+        Baltas never alleged that he requested and was denied access to
+sweat-lodge services.
+
+
+
+
+                                   21
+right to demand construction of a sweat lodge, see Baltas v. Erfe, No.
+3:19-cv-1820, 2022 WL 4260672, at *12 (D. Conn. Sept. 15, 2022), there
+is a clearly established right to access congregate religious services
+where they already exist and are available. MacDougall-Walker had
+a sweat lodge for Native American services and Defendants advanced
+no penological justification for denying Tarasco access to religious
+congregation there, so Defendants are not entitled to qualified
+immunity.
+
+      Similarly, Baltas and Tarasco allege that prison officials denied
+their requests for “smudging.”       Smudging is a ritual involving
+burning organic matter such as tobacco. The record indicates that
+smudging is a congregate activity among MacDougall-Walker’s
+general-population inmates. In response to Baltas’s grievance about
+smudging, a prison official wrote that inmates in “Q-unit do not
+smudge with [the general] population. They are allowed to dry
+smudge in their cells until they move to another unit. The Native
+American Chapl[a]in does a service with the inmates in Q unit.” Joint
+App’x at 78.
+
+      At MacDougall-Walker, where the general population is
+permitted to engage in congregate Native American smudging, no
+reasonable officer would think it lawful to deny this form of religious
+congregation absent penological justification.
+
+      The district court granted qualified immunity because Plaintiffs
+presented no authority on the First Amendment right to smudging.
+It is correct that there is no clearly established right to smudging or
+tobacco use for religious services in prison. But see Williams v. Hansen,
+5 F.4th 1129, 1135 (10th Cir. 2021) (recognizing a right to tobacco for
+
+
+
+
+                                   22
+religious services).    But as with the sweat lodge, this analysis
+overlooks the congregate nature of Baltas’s and Tarasco’s desired
+smudging services and their availability to other Native American
+inmates at MacDougall-Walker. And because Defendants failed to
+offer any penological justification for denying Baltas and Tarasco
+congregate smudging with the general population, we reverse the
+grant of qualified immunity as to these denial-of-congregation
+claims. 12
+
+E.     State-Law Claims
+
+       Finally, the district court declined to exercise supplemental
+jurisdiction over Plaintiffs’ state-law claims under 28 U.S.C.
+§ 1367(c)(3). But when federal claims are reinstated, “§ 1367(c)(3) no
+longer provides a basis for declining to exercise jurisdiction over”
+related state-law claims. Zheng v. Liberty Apparel Co., 355 F.3d 61, 79
+(2d Cir. 2003). In light of our decision to reinstate some of Baltas’s
+and Tarasco’s federal claims, we vacate the district court’s dismissal
+of their state-law claims, but offer no view as to other reasons the
+district court might decide on remand to decline to exercise
+supplemental jurisdiction.
+
+
+       12 Baltas’s and Tarasco’s general allegations about access to other
+“Native American Services” do not defeat Defendants’ qualified immunity.
+Although there is a clearly established right to congregate services, we
+cannot say that every reasonable officer would know which Native
+American services implicate that right. At any rate, absent an allegation
+that Baltas or Tarasco requested access to particular services, they have no
+viable First Amendment claim against the Q-Pod officers based on the
+officers’ mere ignorance of their desired course of religious practice. See
+Wiggins, 86 F.4th at 997-98.
+
+
+
+
+                                     23
+                         III. CONCLUSION
+
+      We affirm the district court’s judgment and order granting
+Defendants qualified immunity from Plaintiffs’ Eighth Amendment
+and procedural due process claims, as well as the Free Exercise claims
+of seven of the nine Plaintiffs. But we reverse as to Baltas’s and
+Tarasco’s free exercise claims because they allege denial of their
+clearly established right to participate in congregate religious services
+absent a legitimate penological justification.        Accordingly, the
+judgment and order of the district court are affirmed in part and
+reversed in part, and the case is remanded with instructions to deny
+Defendants’ motion for summary judgment on qualified-immunity
+grounds as to Baltas’s and Tarasco’s denial-of-congregation claims
+and to reinstate their state-law claims.
+
+
+
+
+                                   24

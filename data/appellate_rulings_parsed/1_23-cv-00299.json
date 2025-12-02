@@ -1,0 +1,28 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the plaintiff's state law claims (breach of implied contract, wrongful termination, fraud, and negligent misrepresentation) are preempted by ERISA because they 'relate to' Santander's ERISA-governed severance policy.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that all of Orabona's claims are preempted by ERISA because adjudicating them would require reference to the ERISA plan to determine both liability and damages, and because the claims seek relief that duplicates or supplants ERISA's exclusive remedies."
+    }
+  ],
+  "key_precedents": [
+    "Ingersoll-Rand Co. v. McClendon, 498 U.S. 133 (1990)",
+    "Aetna Health Inc. v. Davila, 542 U.S. 200 (2004)",
+    "Otero Carrasquillo v. Pharmacia Corp., 466 F.3d 13 (1st Cir. 2006)",
+    "Cannon v. Blue Cross and Blue Shield of Mass., Inc., 132 F.4th 86 (1st Cir. 2025)",
+    "Hampers v. W.R. Grace & Co., Inc., 202 F.3d 44 (1st Cir. 2000)",
+    "Pilot Life Ins. Co. v. Dedeaux, 481 U.S. 41 (1987)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "Santander Bank, N.A. terminated Lorna Orabona's employment as a high-earning mortgage development officer for cause, notifying her that she had violated the company's Code of Conduct client privacy policy. In consequence, she was not eligible for severance benefits under its Employee Retirement Income Security Act (ERISA) Severance Policy. Orabona did not employ the administrative procedure under the ERISA Severance Policy. Rather, she sued under state law in multiple counts sounding in both tort and contract. She alleged that Santander had terminated her employment to avoid paying her severance benefits under the Policy. After discovery, the district court entered summary judgment for Santander on the grounds that Orabona's claims were expressly preempted by ERISA section 514(a), 29 U.S.C. \u00a7 1144(a).\n\nWe reject Orabona's arguments on appeal and hold that her claims are preempted by ERISA, because all of her claims \"relate to\" the Severance Policy as the court must refer to that Policy to determine both liability and damages as to each claim, see 29 U.S.C. \u00a7 1144(a), and, as to her claims seeking relief for the denial of severance benefits, they \"conflict[] with the remedial scheme established by 29 U.S.C. \u00a7 1132(a).\" See Cannon v. Blue Cross and Blue Shield of Mass., Inc., 132 F.4th 86, 88 (1st Cir. 2025)."
+}

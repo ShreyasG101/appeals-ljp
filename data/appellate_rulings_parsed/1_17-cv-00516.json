@@ -1,0 +1,37 @@
+{
+  "overall_outcome": "MIXED",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court erred in granting summary judgment to DEA agents on plaintiff's Fourth Amendment excessive force claims, on the ground that the Inspector General Act's administrative remedy rendered Bivens unavailable.",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "The First Circuit held that the Inspector General Act's administrative remedy does not, by itself, create a 'new context' under Bivens for excessive force claims against federal law enforcement officers, and thus the Bivens remedy remains available for such claims. The court found no meaningful differences between this case and Bivens, rejecting arguments based on the presence of a warrant, the public location, and the IGA scheme."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the district court erred in granting summary judgment to DEA agents on plaintiff's Fourth Amendment failure-to-intervene claims.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court affirmed summary judgment on the failure-to-intervene claims because the plaintiff did not argue on appeal that these claims arise in the same context as Bivens or that Bivens should be extended to this new context, and the district court's reasoning on this point was unchallenged."
+    }
+  ],
+  "key_precedents": [
+    "Bivens v. Six Unknown Named Agents of Federal Bureau of Narcotics, 403 U.S. 388 (1971)",
+    "Egbert v. Boule, 596 U.S. 482 (2022)",
+    "Ziglar v. Abbasi, 582 U.S. 120 (2017)",
+    "Carlson v. Green, 446 U.S. 14 (1980)",
+    "Davis v. Passman, 442 U.S. 228 (1979)",
+    "Snowden v. Henning, 72 F.4th 237 (7th Cir. 2023)",
+    "Hernandez v. Mesa, 589 U.S. 93 (2020)",
+    "Quinones-Pimentel v. Cannon, 85 F.4th 63 (1st Cir. 2023)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": true,
+    "close_case": true,
+    "fact_intensive": false
+  },
+  "has_dissent": true,
+  "summary_text": "More than a half a century ago, in Bivens v. Six Unknown Named Agents of Federal Bureau of Narcotics, 403 U.S. 388 (1971), the Supreme Court of the United States recognized an implied cause of action for damages against a federal law enforcement officer for violating an individual's Fourth Amendment rights. Is that remedy still available? The U.S. District Court for the District of New Hampshire held that it is not. This appeal requires us to decide whether that is right.\n\nThe District Court based its ruling on a 1988 amendment to the Inspector General Act (IGA) that established an administrative mechanism for lodging misconduct complaints against federal law enforcement officers with the U.S. Department of Justice's Office of the Inspector General. The District Court concluded that, because of that legislative development, the Fourth Amendment claims in this case arise in a new context compared to Bivens. The District Court went on to conclude that the IGA's \"alternative remedial scheme\" counseled against extending the Bivens remedy to that new context. And, on that basis, it held that the defendants -- U.S. Drug Enforcement Agency (DEA) agents -- were entitled to summary judgment on the Fourth Amendment claims that the plaintiff -- Robert Arias -- brought against them for excessive force and a failure to intervene to prevent the use of that force.\n\nWe do not agree that Congress's more than three-decades-old amendment to the IGA in and of itself makes the context in which Arias's claims arise new compared to Bivens. Thus, because we conclude that, the IGA aside, Arias's excessive force claims arise in the same context as Bivens, the Bivens remedy is available here just as it was there. Indeed, were we to conclude otherwise, we would have to conclude, incongruously, that the Bivens remedy has been a dead letter since the IGA's amendment, even though the Supreme Court has reaffirmed the existence of that remedy in the years after that now decades-old legislative development.\n\nAccordingly, we reverse the District Court's grant of summary judgment to the defendants on Arias's excessive force claims. However, we affirm the grant of summary judgment to the defendants on his failure-to-intervene claims. We do so because Arias fails to explain why, notwithstanding the distinct nature of the misconduct that those claims allege, they arise in the same context as Bivens. Nor does he explain why, insofar as those claims do arise in a new context, the Bivens remedy should be extended to it."
+}

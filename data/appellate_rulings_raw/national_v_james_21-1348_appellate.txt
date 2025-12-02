@@ -1,0 +1,2248 @@
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+
+                                   In the
+                       United States Court of Appeals
+                          For the Second Circuit
+
+                                     August Term, 2023
+                                  Argued: November 3, 2023
+                                    Decided: July 10, 2025
+
+                                     Docket No. 22-1374-cv
+
+
+
+     NATIONAL SHOOTING SPORTS FOUNDATION, INC., BERETTA U.S.A. CORP.,
+      DAVIDSON’S, INC., GLOCK INC., CENTRAL TEXAS GUN WORKS, HORNADY
+    MANUFACTURING COMPANY, LIPSEY’S LLC, OSAGE COUNTY GUNS LLC, RSR
+   GROUP, INC., SHEDHORN SPORTS, INC., SIG SAUER, INC., SMITH & WESSON INC.,
+   SPORTS SOUTH LLC, SPRAGUE’S SPORTS INC., STURM, RUGER & COMPANY, INC.,
+
+                                                         Plaintiﬀs-Appellants,
+
+                                               —v.—
+
+   LETITIA JAMES, IN HER OFFICIAL CAPACITY AS NEW YORK ATTORNEY GENERAL,
+
+                                                         Defendant-Appellee.
+
+
+
+                     Before:        JACOBS, LOHIER, LEE, Circuit Judges.
+
+      National Shooting Sports Foundation, a trade association of manufacturers
+and wholesalers of ﬁrearms, and fourteen of its members, appeal from an order
+and judgment entered in the United States District Court for the Northern District
+of New York (D’Agostino, J.) dismissing their complaint challenging New York’s
+gun-related public nuisance statute, N.Y. General Business Law § 898-a–e, which
+imposes liability for gun industry members who knowingly or recklessly
+
+                                                     1
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+endanger the safety or health of the public through their sale or marketing of
+ﬁrearms. The complaint alleges that Section 898 is unconstitutional because it is
+preempted by the federal Protection of Lawful Commerce in Arms Act
+(“PLCAA”), 15 U.S.C. §§ 7901–7903, violates the dormant Commerce Clause, and
+is so vague as to violate the Due Process Clause of the Fourteenth Amendment.
+The district court granted judgment in favor of New York’s Attorney General,
+Letitia James, in her oﬃcial capacity, because it determined that Section 898 was
+neither preempted by PLCAA nor constitutionally inﬁrm. On appeal, we ﬁnd that
+Plaintiﬀs-Appellants have not met their burden in this facial, preenforcement
+challenge to demonstrate that Section 898 is unenforceable in all its applications.
+We further conclude that, on its face, Section 898: (1) falls within PLCAA’s
+predicate exception clause and thus is not preempted, (2) does not violate the
+principles of interstate commerce, and (3) is not void for vagueness. Therefore, we
+AFFIRM the judgment of the district court.
+
+       Judge Jacobs concurs in a separate opinion.
+
+
+
+                               MATTHEW D. ROWEN (Paul D. Clement, Erin E. Murphy,
+                               Trevor W. Ezell, Nicholas M. Gallagher, on the brief),
+                               Clement & Murphy, PLLC, Alexandria, VA, for Plaintiﬀs-
+                               Appellants.
+
+                               DENNIS FAN, Senior Assistant Solicitor General (Barbara
+                               D. Underwood, Solicitor General; Ester Murdukhayeva,
+                               Deputy Solicitor General, on the brief), for Letitia James,
+                               Attorney General, State of New York, New York, NY, for
+                               Defendant-Appellee.
+
+                               Lawson E. Fite, Marten Law LLP, Portland, OR, for
+                               Professor Albert Lin, amicus curiae in support of Defendant-
+                               Appellee.
+
+                               Elizabeth B. Wydra, Brianne J. Gorod, Brian R. Frazelle,
+                               Miriam Becker-Cohen, Constitutional Accountability
+                               Center, Washington, DC, for the Constitutional
+
+
+
+                                                     2
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+                               Accountability Center, amicus curiae in support of Defendant-
+                               Appellee.
+
+                               Patrick Derocher, Cate Baskin, Steven Wickman, Arnold
+                               & Porter Kaye Scholer LLP, Chicago, IL; Michael D.
+                               Schissel, Lisa Cordara, W. Stewart Wallace, Arnold &
+                               Porter Kaye Scholer LLP, New York, NY; Arthur Luk,
+                               Arnold & Porter Kaye Scholer LLP, Washington, DC, for
+                               Brooklyn and Buﬀalo Community Activists and Gun Violence
+                               Victim Families, amici curiae in support of Defendant-
+                               Appellee.
+
+                               Steven C. Wu, Chief, Appeals Division, John T. Hughes,
+                               Assistant District Attorney, for Alvin L. Bragg, Jr., District
+                               Attorney, New York County, amicus curiae in support of
+                               Defendant-Appellee.
+
+                               Caitlin Halligan, Adam K. Hersh, Ekaterina Stynes,
+                               Zachary Smith, Selendy Gay Elsberg PLLC, New York,
+                               NY, for Everytown for Gun Safety Support Fund, Giﬀords
+                               Law Center to Prevent Gun Violence, Brady, and New Yorkers
+                               Against Gun Violence, amici curiae in support of Defendant-
+                               Appellee.
+
+                               Jennifer E. McDonald, Downs Rachlin Martin PLLC,
+                               Burlington, VT, for Ryan Busse, amicus curiae in support of
+                               Defendant-Appellee.
+
+                               Sarah A. Hunger, Deputy Solicitor General, for Jane
+                               Elinor Notz, Solicitor General of the State of Illinois,
+                               Chicago, IL; Anna W. Gottlieb, Assistant Attorney
+                               General, for Kwame Raoul, Attorney General of the State
+                               of Illinois, Chicago, IL, et al., for Illinois, California,
+                               Connecticut, Delaware, District Of Columbia, Hawai’i,
+                               Maryland, Massachusetts, Michigan, Minnesota, New Jersey,
+                               New Mexico, Oregon, Pennsylvania, Rhode Island, Vermont,
+
+
+
+                                                     3
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+                               Washington, and Wisconsin, amici curiae in support of
+                               Defendant-Appellee.
+
+                               Ryan K. Quillian, Covington & Burling LLP, Washington,
+                               DC, for Doctor Daniel W. Webster, amicus curiae in support
+                               of Defendant-Appellee.
+
+                               Richard Dearing, Claude S. Platton, Jonathan Schoepp-
+                               Wong, of Counsel, for Hon. Sylvia O. Hinds-Radix,
+                               Corporation Counsel of the City of New York, New York,
+                               NY, for the City of New York and the Cities of Buﬀalo,
+                               Rochester, and Syracuse, amici curiae in support of Defendant-
+                               Appellee.
+
+                               James R. Saywell, Jones Day, Cleveland, OH; Noel J.
+                               Francisco, C. Kevin Marshall, Brett J. Wierenga, Jones
+                               Day, Washington, DC, for the National Riﬂe Association of
+                               America, Inc., amicus curiae in support of Plaintiﬀs-
+                               Appellants.
+
+                               Austin Knudsen, Attorney General, David M.S.
+                               Dewhirst, Solicitor General, Kathleen L. Smithgall,
+                               Assistant Solicitor General, Montana Department of
+                               Justice, Helena, MT, for Montana and 19 Other States, amici
+                               curiae in support of Plaintiﬀs-Appellants.
+
+
+
+EUNICE C. LEE, Circuit Judge:
+
+       National Shooting Sports Foundation (“NSSF”), a trade association of
+
+manufacturers and wholesalers of ﬁrearms, and fourteen of its members
+
+(collectively, “Appellants”), appeal from an order and judgment entered in the
+
+United States District Court for the Northern District of New York (D’Agostino, J.)
+
+
+
+                                                     4
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+dismissing their complaint challenging New York’s gun-related public nuisance
+
+statute, N.Y. General Business Law § 898-a–e, which imposes liability for gun
+
+industry members who knowingly or recklessly endanger the safety or health of
+
+the public through their sale or marketing of ﬁrearms. The complaint alleges that
+
+Section 898 is unconstitutional because it is preempted by the federal Protection of
+
+Lawful Commerce in Arms Act (“PLCAA”), 15 U.S.C. §§ 7901–7903, violates the
+
+dormant Commerce Clause, and is so vague as to violate the Due Process Clause
+
+of the Fourteenth Amendment. The district court granted judgment in favor of
+
+New York’s Attorney General, Letitia James, in her oﬃcial capacity (the “State”),
+
+because it determined that Section 898 is neither preempted by PLCCA nor
+
+constitutionally inﬁrm. On appeal, we ﬁnd that Appellants have not met their
+
+burden in this facial, preenforcement challenge to demonstrate that Section 898 is
+
+unenforceable in all its applications. We further conclude that, on its face, Section
+
+898: (1) falls within PLCAA’s predicate exception clause and thus is not
+
+preempted, (2) does not violate the principles of interstate commerce, and (3) is
+
+not void for vagueness. Therefore, we AFFIRM the judgment of the district court.
+
+                                        BACKGROUND
+
+I.     Statutory and Legal Landscape
+
+
+
+
+                                                     5
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+       We begin with a brief overview of the relevant statutes and legal precedents
+
+governing civil liability for gun manufacturers and distributors in New York.
+
+       PLCAA is a federal statute enacted in 2005 “to prohibit causes of action”
+
+against gun industry members 1 “for the harm solely caused by the criminal or
+
+unlawful misuse of ﬁrearm products or ammunition products by others when the
+
+product functioned as designed and intended.” 15 U.S.C. § 7901(b)(1). More
+
+speciﬁcally, it bars any “qualiﬁed civil liability action,” deﬁned as:
+
+               a civil action . . . brought by any person against a
+               manufacturer or seller of a qualiﬁed product, or a trade
+               association, for damages, punitive damages, injunctive
+               or declaratory relief, abatement, restitution, ﬁnes, or
+               penalties, or other relief, resulting from the criminal or
+               unlawful misuse of a qualiﬁed product by the person or
+               a third party.
+
+Id. §§ 7902(a), 7903(5)(A). In other words, PLCAA generally establishes that gun
+
+manufacturers and distributors cannot be held civilly liable for harm caused by
+
+their products when that harm stems from the criminal or unlawful actions of
+
+others.
+
+
+
+
+1While PLCAA does not use the term “gun industry member,” Section 898 does. For
+purposes of this opinion, “gun industry member” refers to entities “engaged in the sale,
+manufacturing, distribution, importing or marketing of ﬁrearms, ammunition,
+ammunition magazines, and ﬁrearms accessories,” N.Y. Gen. Bus. Law § 898-a(4), to
+which both PLCAA and Section 898 apply. See also 15 U.S.C. § 7901(b)(1).
+
+                                                     6
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+       However, as relevant here, PLCAA provides that qualiﬁed civil liability
+
+actions do not include actions in which a gun industry member “knowingly
+
+violated a State or Federal statute applicable to the sale or marketing of” ﬁrearms,
+
+and where “the violation was a proximate cause of the harm” alleged.                 Id.
+
+§ 7903(5)(A)(iii). This provision is referred to as PLCAA’s “predicate exception”
+
+because it applies only where the manufacturer or seller has committed “an
+
+underlying (or predicate) statutory violation.” Dist. of Columbia v. Beretta U.S.A.
+
+Corp., 940 A.2d 163, 168 (D.C. 2008); see also City of New York v. Beretta U.S.A. Corp.,
+
+524 F.3d 384, 390 (2d Cir. 2008) (adopting the appellation).
+
+       The parties here disagree as to the purposes of PLCAA and its predicate
+
+exception. Appellants, relying on the statement of purposes provided in the
+
+statute itself, argue that the statute was intended to end attenuated theories of
+
+liability for gun manufacturers and distributors. See Appellants’ Br. at 6–7 (citing
+
+15 U.S.C. § 7901(b)(1)). The State, pointing to the congressional ﬁndings recited in
+
+the statute, suggests that the legislation was intended to prevent “a maverick
+
+judicial oﬃcer or petit jury” from using courts to circumvent legislation by
+
+imposing expansive common-law liability on gun manufacturers and distributors
+
+through theories that have not been approved by Congress or state legislatures.
+
+
+
+
+                                                     7
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+See Appellee’s Br. at 6 (citing 15 U.S.C. § 7901(a)(7)–(8)); see also 15 U.S.C.
+
+§ 7901(b)(6) (identifying as a purpose of PLCAA “[t]o preserve and protect the
+
+Separation of Powers doctrine and important principles of federalism, State
+
+sovereignty and comity between sister States”). Thus, while Appellants view
+
+PLCAA’s purpose as primarily substantive—to insulate gun manufacturers and
+
+distributors from excess liability—the State views it as structural and procedural—
+
+to preserve the balance of power between legislatures and the judiciary and to
+
+ensure that gun industry members are not exposed to liability without proper
+
+notice via a legislative enactment. As demonstrated above, there is some support
+
+for both views among PLCAA’s enumerated ﬁndings and purposes. See 15 U.S.C.
+
+§ 7901(a)–(b).
+
+       We previously addressed the purpose and scope of PLCAA’s predicate
+
+exception in the context of a nuisance action brought by New York City (“the
+
+City”) against ﬁrearms manufacturers and sellers. See Beretta, 524 F.3d at 398–404.
+
+In 2000, before PLCAA was enacted, the City sued manufacturers and wholesale
+
+sellers of ﬁrearms under New York Penal Law § 240.45 (criminal nuisance in the
+
+second degree), alleging that these ﬁrearms suppliers caused, contributed to, and
+
+maintained a public nuisance by knowingly supplying the illegal ﬁrearms market.
+
+
+
+
+                                                     8
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+Id. at 389. On the day that PLCAA was enacted in 2005, the defendants in Beretta
+
+moved to dismiss the case as barred by the statute. Id. In response, the City
+
+claimed that the suit fell within PLCAA’s predicate exception since New York
+
+Penal Law § 240.45 qualiﬁed as a predicate statute “applicable to the sale or
+
+marketing of [ﬁrearms],” id. at 389–90 (quoting 15 U.S.C. § 7903(5)(A)(iii)), and the
+
+defendants’ knowing violation of the statute was the proximate cause of the harm
+
+alleged. The district court found that the suit fell within PLCAA’s predicate
+
+exception, and we reversed. Id. at 390, 404.
+
+       Because both parties in Beretta agreed that New York’s general nuisance
+
+statute was a statute of general applicability which had never been applied to
+
+ﬁrearms suppliers for conduct akin to that complained of by the City, we found
+
+that it was not a statute “applicable to the sale or marketing of [ﬁrearms].” 15
+
+U.S.C. § 7903(5)(A)(iii). We further explained that the predicate exception was
+
+intended “to apply only to statutes that actually regulate the ﬁrearms industry,”
+
+namely those that: (a) “expressly regulate ﬁrearms,” (b) have been applied by
+
+courts “to the sale and marketing of ﬁrearms,” or (c) “do not expressly regulate
+
+ﬁrearms but . . . clearly can be said to implicate the purchase and sale of ﬁrearms.”
+
+Beretta, 524 F.3d at 404. In other words, civil liability actions brought against
+
+
+
+
+                                                     9
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+ﬁrearms manufacturers under statutes of general applicability which do not fall
+
+within any of the three enumerated categories are preempted by the claim-
+
+restricting provisions of PLCAA. See 15 U.S.C. §§ 7902(a), 7903(3), 7903(5)(A).
+
+       In July 2021, New York enacted General Business Law Section 898—a gun-
+
+speciﬁc public nuisance statute—that imposes liability for gun industry members
+
+who knowingly or recklessly endanger the safety or health of the public through
+
+their sale or marketing of ﬁrearms. Section 898-b states:
+
+       (1)     No gun industry member, by conduct either unlawful in itself
+               or unreasonable under all the circumstances shall knowingly or
+               recklessly create, maintain or contribute to a condition in New
+               York state that endangers the safety or health of the public
+               through the sale, manufacturing, importing or marketing of a
+               qualiﬁed product.
+
+       (2)     All gun industry members who manufacture, market, import
+               or oﬀer for wholesale or retail sale any qualiﬁed product in
+               New York state shall establish and utilize reasonable controls
+               and procedures to prevent its qualiﬁed products from being
+               possessed, used, marketed or sold unlawfully in New York
+               state.
+
+N.Y. Gen. Bus. Law § 898-b(1)–(2).
+
+       Section 898-b was designed to fall within PLCAA’s predicate exception by
+
+serving as “a predicate statute that is applicable to the sale or marketing of
+
+ﬁrearms.” Sponsor Mem., 2021 S.B. 7196, 244th Leg., 2021 Reg. Sess. (N.Y. 2021)
+
+
+
+
+                                                 10
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+(internal quotation marks omitted). Through Section 898, the State sought to create
+
+a pathway to hold gun industry members civilly liable for their own illegal or
+
+unreasonable conduct where that conduct contributed to a public health crisis of
+
+gun violence.
+
+       In practical eﬀect, Section 898: (1) requires gun industry members to
+
+establish and utilize reasonable controls and procedures to prevent unlawful
+
+misuse of relevant ﬁrearm products within New York, and (2) permits civil actions
+
+against industry members if they knowingly or recklessly endanger New York’s
+
+population through the sale or manufacture of ﬁrearms and ﬁrearms accessories.
+
+N.Y. Gen. Bus. Law §§ 898-b, 898-e.
+
+II.    Procedural History
+
+       In December 2021, Appellants brought a preenforcement challenge to
+
+Section 898 against the State. Each appellant is a gun industry member that ships
+
+or transports ﬁrearms and ammunition directly into New York.
+
+       Appellants sought a preliminary injunction as well as declaratory and
+
+injunctive relief barring enforcement of the statute. They asserted that Section 898
+
+is preempted by PLCAA because it is an “undisguised state eﬀort to reinstate what
+
+federal law expressly forbids.” Appellants’ Br. at 2 (internal quotation marks
+
+omitted). Speciﬁcally, Appellants contended that Section 898 is no diﬀerent from
+
+
+                                                 11
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+the City’s prior attempt, rejected in Beretta, to hold gun industry members liable
+
+under a generally applicable nuisance law. Moreover, Appellants contended that
+
+Section 898 is unconstitutional because it regulates solely interstate commerce, in
+
+violation of the dormant Commerce Clause, and is unconstitutionally vague, in
+
+violation of the Due Process Clause. The State moved to dismiss.
+
+       In May 2022, the district court granted the State’s motion to dismiss and
+
+denied Appellants’ motion for preliminary injunction, determining that Section
+
+898 is not preempted by PLCAA, does not violate the dormant Commerce Clause,
+
+and is not void for vagueness. See Nat'l Shooting Sports Found., Inc. v. James, 604 F.
+
+Supp. 3d 48 (N.D.N.Y. 2022).
+
+       The district court explained that there was no express preemption because
+
+Section 898 directly regulates ﬁrearms and therefore falls within the predicate
+
+exception, unlike the general nuisance law at issue in Beretta. Id. at 57–60. The
+
+district court additionally concluded that there was no implied conﬂict
+
+preemption because Section 898 does not conﬂict with the overall purpose and
+
+objective of PLCAA, which, it found, is to ensure that generally applicable laws
+
+are not used to create novel and attenuated theories of liability for the gun industry
+
+without notice. Id. at 60–61.
+
+
+
+
+                                                 12
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+       As for the dormant Commerce Clause challenge, the district court
+
+concluded that there was no discrimination against out-of-state commerce because
+
+Section 898 treats interstate and intrastate commerce the same and because
+
+plaintiﬀs did not allege the existence of any wholly in-state commerce that could
+
+hypothetically receive an unfair advantage. Id. at 62–63. The district court also
+
+determined that there was no undue burden on interstate commerce under the Pike
+
+balancing test, which requires an element of favoritism towards intrastate
+
+commerce. Id. at 63–64 (citing Pike v. Bruce Church, Inc., 397 U.S. 137, 142 (1970)).
+
+Finally, the district court found no impermissible regulation of wholly out-of-state
+
+commercial activity or violation of extraterritoriality principles because it
+
+concluded that Section 898 does not materially diﬀer from most other state
+
+statutes, which in some way have repercussions beyond state lines. Id. at 64–65.
+
+       Lastly, the district court found that Section 898 is not void for vagueness
+
+because it gives suﬃcient notice to a reasonable person of what is prohibited. Id.
+
+at 65–69. The district court noted that even if a vagueness issue existed, it was not
+
+clear that Section 898 would be unconstitutional in all its applications, and a facial
+
+challenge therefore could not succeed. Id. at 69.
+
+       This appeal followed.
+
+
+
+
+                                                 13
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+                                         DISCUSSION
+
+I.     Standard of Review
+
+       We review de novo a district court’s grant of a Rule 12(b)(6) motion to dismiss
+
+for failure to state a claim, “accepting all factual allegations in the complaint as
+
+true, and drawing all reasonable inferences in the plaintiﬀ’s favor.” Shomo v. City
+
+of New York, 579 F.3d 176, 183 (2d Cir. 2009) (quoting Chambers v. Time Warner, Inc.,
+
+282 F.3d 147, 152 (2d Cir. 2002)).
+
+II.    Classifying Plaintiﬀs’ Challenge
+
+       As a preliminary matter, the parties disagree as to whether Appellants have
+
+brought a facial or as-applied challenge to Section 898.          In the complaint,
+
+Appellants sought “declaratory and injunctive relief to have [Section 898] declared
+
+unconstitutional and to prevent the State . . . from enforcing it.” App’x 15, ¶ 8.
+
+Indeed, Appellants’ pleadings repeatedly characterized their challenge as “facial.”
+
+See id. at 31 ¶ 84, 33 ¶ 98, 34 ¶ 106. On appeal, however, Appellants argue both
+
+that Section 898 is entirely unconstitutional, see Appellants’ Br. at 20 (“§ 898 is a
+
+compendium of constitutional problems that should not be permitted to stand”),
+
+and that it should be invalidated “to the extent it is preempted by the PLCAA;
+
+directly regulates out-of-state commerce; discriminates against and unduly
+
+burdens interstate commerce; and is void for vagueness,” Appellants’ Reply Br. at
+
+
+                                                 14
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+4. Appellants suggest that their claims “have characteristics of both facial and as-
+
+applied challenges” because they challenge “discrete and well-deﬁned” potential
+
+applications of Section 898 that are “likely to occur.” Id. at 4–5 (internal quotation
+
+marks omitted and alterations adopted). Indeed, at oral argument, Appellants at
+
+times conceded that they had brought a facial challenge, while also characterizing
+
+it as a “hybrid” as-applied facial claim. See Oral Arg. Tr. 6, 21, 22.
+
+       “The line between facial and as-applied challenges can sometimes prove
+
+amorphous[.]” Bucklew v. Precythe, 587 U.S. 119, 139 (2019) (internal quotation
+
+marks omitted).          Generally, however, a challenge to a statute before its
+
+enforcement will presumptively constitute a facial challenge. See N.Y. State Riﬂe &
+
+Pistol Ass’n, Inc. v. Cuomo, 804 F.3d 242, 265 (2d Cir. 2015) (“Because plaintiﬀs
+
+pursue this ‘pre-enforcement’ appeal before they have been charged with any
+
+violation of law, it constitutes a ‘facial,’ rather than ‘as-applied,’ challenge.”).
+
+       Prospective       as-applied       challenges   are   considered   “comparatively
+
+infrequently” and “seek[] to prove that a statute cannot constitutionally be applied
+
+to a speciﬁc course of conduct that the challenger intends to follow.” Copeland v.
+
+Vance, 893 F.3d 101, 112 (2d Cir. 2018). Such challenges generally must focus on
+
+speciﬁc conduct that the plaintiﬀ “would pursue but for fear of future
+
+
+
+
+                                                 15
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+enforcement.” Id. at 112–13 (concluding that a challenge to New York’s gravity
+
+knife law more closely resembled a facial challenge than an as-applied challenge
+
+because the plaintiﬀs sought a declaration that the statute could not be
+
+constitutionally applied to anyone carrying a certain category of knife, rather than
+
+a tailored declaration that the statute could not be applied to speciﬁc knives that
+
+plaintiﬀs wished to carry).           Challengers bringing preenforcement as-applied
+
+challenges cannot rely on hypothetical situations. VIP of Berlin, LLC v. Town of
+
+Berlin, 593 F.3d 179, 189 (2d Cir. 2010) (holding that in the context of an as-applied
+
+challenge, “a court should not analyze whether a reasonable person would
+
+understand that certain hypothetical conduct or situations violate the statute”).
+
+Here, because Appellants have not identiﬁed a speciﬁc course of action they would
+
+follow but for fear of Section 898’s enforcement, they have not brought an as-
+
+applied challenge. 2 Accordingly, Appellants’ challenge is properly characterized
+
+as facial, notwithstanding their new appellate suggestions to the contrary.
+
+
+
+
+2In their complaint, Appellants alleged only the following: (1) “Defendant James has not
+disavowed future enforcement [of] the Act. To the contrary, Defendant James has stated
+that she ‘look[s] forward to enforcing the Public Nuisance law’”; and (2) “Given
+Defendant James’s stated intention to enforce the Act, each of the fourteen Firearm
+Industry Members named as Plaintiﬀs presently and reasonably fears imminent
+prosecution under the Act.” App’x 20 ¶¶ 31, 33.
+
+                                                 16
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+       “[C]lassifying a lawsuit as facial or as-applied aﬀects the extent to which the
+
+invalidity of the challenged law must be demonstrated and the corresponding
+
+‘breadth of the remedy,’ but it does not speak at all to the substantive rule of law
+
+necessary to establish a constitutional violation.” Bucklew, 587 U.S. at 138 (quoting
+
+Citizens United v. Fed. Election Comm’n, 558 U.S. 310, 331 (2010)). Facial challenges
+
+are disfavored. See Wash. State Grange v. Wash. State Republican Party, 552 U.S. 442,
+
+450 (2008) (recognizing that courts should “[e]xercis[e] judicial restraint in a facial
+
+challenge”).      Such challenges “run contrary to the fundamental principle of
+
+judicial restraint that courts should neither anticipate a question of constitutional
+
+law in advance of the necessity of deciding it nor formulate a rule of constitutional
+
+law broader than is required by the precise facts to which it is to be applied.”
+
+Dickerson v. Napolitano, 604 F.3d 732, 741 (2d Cir. 2010) (quoting Wash. State Grange,
+
+552 U.S. at 450).
+
+       Since Appellants have brought a facial constitutional challenge seeking a
+
+declaration that Section 898 is unenforceable in all its applications, they must
+
+establish that the law cannot be constitutionally applied against anyone in any
+
+situation. “A facial challenge is ‘the most diﬃcult challenge to mount successfully’
+
+because, as a general matter, ‘the challenger must establish that no set of
+
+
+
+
+                                                 17
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+circumstances exists under which the Act would be valid.’” Copeland, 893 F.3d at
+
+110 (quoting United States v. Salerno, 481 U.S. 739, 745 (1987)); accord United States
+
+v. Rahimi, 602 U.S. 680, 693 (2024) (conﬁrming the diﬃculty of sustaining a facial
+
+challenge).
+
+III.   The Preemption Challenge
+
+       Appellants argue that Section 898 is preempted by PLCAA, and thus
+
+violates the Supremacy Clause, because it aims to frustrate PLCAA’s purpose or
+
+might otherwise permit civil actions barred by PLCAA.
+
+       The Supremacy Clause of the United States Constitution provides that
+
+federal law “shall be the supreme Law of the Land.” U.S. Const. art. VI, cl. 2.
+
+“Consistent with that command, . . . state laws that conﬂict with federal law are
+
+without eﬀect.” Altria Grp., Inc. v. Good, 555 U.S. 70, 76 (2008) (internal quotation
+
+marks omitted). “[T]he purpose of Congress is the ultimate touchstone in every
+
+pre-emption case.” Id. (internal quotation marks omitted) (quoting Medtronic, Inc.
+
+v. Lohr, 518 U.S. 470, 485 (1996)).
+
+       There are three types of preemption:
+
+               (1) express preemption, where Congress has expressly
+               preempted local law; (2) ﬁeld preemption, “where
+               Congress has legislated so comprehensively that federal
+               law occupies an entire ﬁeld of regulation and leaves no
+               room for state law”; and (3) conﬂict preemption, where
+
+
+                                                 18
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+               local law conﬂicts with federal law such that it is
+               impossible for a party to comply with both or the local
+               law is an obstacle to the achievement of federal
+               objectives.
+
+N.Y. SMSA Ltd. P’ship v. Town of Clarkstown, 612 F.3d 97, 104 (2d Cir. 2010) (quoting
+
+Wachovia Bank, N.A. v. Burke, 414 F.3d 305, 313 (2d Cir. 2005)). Here, Appellants
+
+allege that there is express preemption and implied conﬂict preemption.
+
+       Speciﬁcally, Appellants argue that Section 898 is expressly preempted by
+
+PLCAA because it allows precisely the type of civil liability action proscribed by
+
+PLCAA and does not fall within the scope of PLCAA’s predicate exception.
+
+Alternatively, Appellants argue that even if Section 898 does fall within the scope
+
+of the predicate exception, it is impliedly preempted because it may authorize
+
+lawsuits that do not comply with the “knowing violation” and “proximate cause”
+
+requirements of that exception, and thus irreconcilably conﬂicts with PLCAA. We
+
+address each argument in turn.
+
+       A.      Express Preemption
+
+       In Appellants’ view, Section 898 is expressly preempted by PLCAA because
+
+its aim is to subvert Congress’s core mission in enacting the statute: ending liability
+
+for gun manufacturers “under vague standards with no historical pedigree.”
+
+Appellants’ Br. at 29.          As noted above, a stated purpose of PLCAA is to
+
+
+                                                 19
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+signiﬁcantly limit the liability of gun manufacturers and sellers by eliminating
+
+suits stemming from the unlawful misuse of ﬁrearms by third parties. See 15
+
+U.S.C. § 7901(b)(1). Appellants contend that state statutes enshrining such theories
+
+of liability are “blatant end-run[s] around federal law” that cannot stand.
+
+Appellants’ Br. at 19 (“The point of the PLCAA was most certainly not to prompt
+
+states to codify the nuisance theories the PLCAA aimed to eradicate.”). 3
+
+       The State emphasizes that preemption “fundamentally is a question of
+
+congressional intent,” Appellee’s Br. at 20 (quoting Geier v. Am. Honda Motor Co.,
+
+529 U.S. 861, 884 (2000)), and asserts that PLCAA was not intended to oﬀer the gun
+
+industry blanket immunity for the misuse of ﬁrearms.               Rather, in its view,
+
+Congress intended to “vest the primary authority to regulate the gun industry in
+
+federal and state legislatures acting in their representative capacities, rather than
+
+federal or state judiciaries acting in their common law capacities.” Id. at 2; see also
+
+
+
+3Appellants make much of the fact that various State oﬃcials have expressly stated that,
+in their view, the purpose of Section 898 is to override PLCAA. See, e.g., App’x 14–15 ¶ 6
+(citing comments by Defendant James describing PLCAA as an example of “federal
+overreach” and characterizing Section 898 as an “important step to right [the] wrong”
+done by enacting PLCAA); Appellants’ Br. at 23 (citing comments by then-Governor
+Andrew Cuomo stating that Section 898 would reinstate civil liability for gun
+manufacturers and distributors, thus “right[ing] the wrong done” by PLCAA). But
+whatever the views of various State oﬃcials regarding the purpose of Section 898, the
+question before this Court is whether the statute as written and enforced is preempted by
+PLCAA. The State’s intent, ultimately, is irrelevant.
+
+                                                 20
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+id. at 31 (observing that PLCAA was enacted in part to preclude the creation of
+
+new forms of civil liability by the judiciary, without the approval of Congress or
+
+state legislatures, through unauthorized “expansion of the common law” (quoting
+
+18 U.S.C. § 7901(a)(7)). The State maintains that it is perfectly proper for a state
+
+legislature, as opposed to “a maverick judicial oﬃcer or petit jury,” to “expand
+
+civil liability” for gun manufacturers, in accordance with important principles of
+
+federalism and state sovereignty.               Appellee’s Br. at 6 (quoting 15 U.S.C.
+
+§ 7901(a)(6), (7)).
+
+       Neither the parties nor this Court can divine Congress’s purpose in passing
+
+PLCAA beyond those aims expressly stated. See Va. Uranium, Inc. v. Warren, 587
+
+U.S. 761, 778–79 (2019) (explaining that “[e]ﬀorts to ascribe unenacted purposes
+
+and objectives” to a statute “invites speculation” and “risk[s] displacing the
+
+legislative compromises actually reﬂected in the statutory text,” and emphasizing
+
+that “[t]he only thing a court can be sure of is what can be found in the law itself”).
+
+Here, PLCAA’s text identiﬁes as a legislative aim ending the use of “theories
+
+without foundation [that] do not represent a bona ﬁde expansion of the common
+
+law” to “impos[e] liability on an entire industry for harm that is solely caused by
+
+others,” as well as “attempt[s] to use the judicial branch to circumvent the
+
+
+
+
+                                                 21
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+Legislative branch of government.” 15 U.S.C. § 7901(a)(6)–(8). And, as we have
+
+noted before, the statute’s legislative history reinforces our understanding of this
+
+aim by indicating that Congress intended PLCAA to end the use of generally
+
+applicable laws to create new and attenuated theories of civil liability for the gun
+
+industry, but not to protect those manufacturers who violate state or federal laws.
+
+See Beretta, 524 F.3d at 402–04 (explaining that “Congress clearly intended to
+
+protect from vicarious liability members of the ﬁrearms industry who engage in
+
+the lawful design, manufacture, marketing, distribution, importation, or sale of
+
+ﬁrearms,” in compliance with existing federal, state, and local laws (emphasis
+
+added) (internal quotation marks omitted)). Taken together, PLCAA’s text and
+
+history therefore do not clearly establish that the statute’s aim was to prevent state
+
+legislatures from creating avenues to hold gun manufacturers liable for
+
+downstream harms caused by their products.
+
+       In fact, as noted by the State, the existence of the predicate exception
+
+evidences Congress’s intent to preserve at least some causes of action ﬂowing from
+
+knowing violations of state and federal laws applicable to the sale or marketing of
+
+ﬁrearms. See Smith & Wesson Brands, Inc. v. Estados Unidos Mexicanos, 145 S. Ct.
+
+1556, 1562 (2025) (noting that “the predicate violation opens a path to making a
+
+
+
+
+                                                 22
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+gun manufacturer civilly liable for the way a third party has used the weapon it
+
+made,” where that manufacturer has knowingly committed a predicate oﬀense).
+
+In Beretta, we concluded that PLCAA’s predicate exception encompassed statutes
+
+that expressly regulated ﬁrearms, statutes that courts have applied to the sale and
+
+marketing of ﬁrearms, and statutes that do not expressly regulate ﬁrearms but that
+
+clearly can be said to implicate the sale and purchase of ﬁrearms. 524 F.3d at 404. 4
+
+Because Section 898 expressly regulates ﬁrearms, it falls within those bounds.
+
+       Appellants, however, suggest that in order to qualify as a predicate statute,
+
+a given law must expressly regulate ﬁrearms with the same speciﬁcity as the two
+
+examples of qualifying statutes provided in PLCAA’s text.                 Those examples
+
+include statutes authorizing: (1) suits against manufacturers who knowingly
+
+falsify or fail to keep records related to the sale of ﬁrearms, and (2) suits against
+
+manufacturers who aid, abet, or conspire to sell ﬁrearms to individuals prohibited
+
+from receiving them under 18 U.S.C. § 922(g) or (n). 5 Appellants argue that neither
+
+
+
+4 A year after Beretta, the Ninth Circuit also considered the scope of the predicate
+exception. See Ileto v. Glock, Inc., 565 F.3d 1126 (9th Cir. 2009). Citing Beretta, the court
+held that predicate statutes generally must pertain speciﬁcally to sales and
+manufacturing activities and often will target the ﬁrearm industry speciﬁcally, although
+they need not pertain exclusively to the ﬁrearms industry. Id. at 1134–35.
+
+5The speciﬁc examples given are: (1) “any case in which the manufacturer or seller
+knowingly made any false entry in, or failed to make appropriate entry in, any record
+
+                                                 23
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+of these provisions is similar in kind to Section 898’s general requirement that
+
+ﬁrearm manufacturers and sellers maintain reasonable operations. See N.Y. Gen.
+
+Bus. Law § 898-b(2) (requiring gun industry members to “establish and utilize
+
+reasonable controls and procedures to prevent its qualiﬁed products from being
+
+possessed, used, marketed or sold unlawfully in New York state”). They further
+
+suggest that the predicate exception should apply only to statutes that impose
+
+concrete obligations or prohibitions on gun industry members’ conduct, rather
+
+than general duties of care. Any alternative interpretation, they argue, would
+
+“eﬀectively gut the PLCAA” by allowing the exception to swallow the rule.
+
+Appellants’ Br. at 24, 28.
+
+       But in Beretta, we repeatedly refuted this reasoning and rejected the idea that
+
+the predicate exception’s enumerated examples are exhaustive. In determining
+
+how to construe the phrase “statute applicable to the sale or marketing of
+
+
+
+
+required to be kept under Federal or State law with respect to the qualiﬁed product, or
+aided, abetted, or conspired with any person in making any false or ﬁctitious oral or
+written statement with respect to any fact material to the lawfulness of the sale or other
+disposition of a qualiﬁed product”; and (2) “any case in which the manufacturer or seller
+aided, abetted, or conspired with any other person to sell or otherwise dispose of a
+qualiﬁed product, knowing, or having reasonable cause to believe, that the actual buyer
+of the qualiﬁed product was prohibited from possessing or receiving a ﬁrearm or
+ammunition under subsection (g) or (n) of section 922 of Title 18.” See 15 U.S.C.
+§ 7903(5)(A)(iii)(I)–(II).
+
+                                                 24
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+[ﬁrearms],” this Court noted that “the examples of state and federal statutory
+
+violations in the predicate exception itself refer to state and federal laws that
+
+speciﬁcally and expressly govern ﬁrearms” but then rejected the argument that
+
+“the predicate exception is [therefore] necessarily limited to statutes that expressly
+
+regulate the ﬁrearms industry.” Beretta, 524 F.3d at 400; see also id. at 401, 404.
+
+Thus, we have already determined that the predicate exception’s scope is not
+
+limited to causes of action brought under statutes similar to the enumerated
+
+examples in 15 U.S.C. § 7903(5)(A)(iii)(I)–(II). Rather, we have found that limiting
+
+the predicate exception to statutes (1) that expressly regulate ﬁrearms, (2) that
+
+courts have applied to the sale and marketing of ﬁrearms, and (3) that clearly can
+
+be said to implicate the sale and purchase of ﬁrearms, is suﬃcient to avoid
+
+“allow[ing] the predicate exception to swallow the statute.” Id. at 403.
+
+       And, even if Beretta had not already adopted a construction of the statute
+
+that implicitly rejects Appellants’ position, PLCAA’s text does not support
+
+Appellants’ argument. See Buono v. Tyco Fire Prods., LP, 78 F.4th 490, 495 (2d Cir.
+
+2023) (explaining that, in the context of express preemption, “the plain wording of
+
+the [statute] . . . necessarily contains the best evidence of Congress’ preemptive
+
+intent”); see also United States v. Kozeny, 541 F.3d 166, 171 (2d Cir. 2008) (explaining
+
+
+
+
+                                                 25
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+that statutory construction “must begin with the language employed by Congress
+
+and the assumption that the ordinary meaning of that language accurately
+
+expresses the legislative purpose” (quoting United States v. Albertini, 472 U.S. 675,
+
+680 (1985)).
+
+       PLCAA excepts from the deﬁnition of a qualiﬁed civil liability action any
+
+“action in which a manufacturer or seller of a qualiﬁed product knowingly
+
+violated a State or Federal statute applicable to the sale or marketing of the
+
+product, and the violation was a proximate cause of the harm for which relief is
+
+sought, including” the enumerated exceptions.           15 U.S.C. § 7903(5)(A)(iii)
+
+(emphasis added). The term “includes” is typically interpreted as “a term of
+
+enlargement, and not of limitation.” Burgess v. United States, 553 U.S. 124, 131 n.3
+
+(2008) (internal quotation marks omitted). Where “including” is used to introduce
+
+a list of examples, such examples are to be viewed as “illustrative, not exhaustive.”
+
+Christopher v. SmithKline Beecham Corp., 567 U.S. 142, 162 (2012); see also Pﬁzer, Inc.
+
+v. U.S. Dep’t of Health & Human Servs., 42 F.4th 67, 76 (2d Cir. 2022) (concluding
+
+that, because the listed examples were preceded by the term “including,” they
+
+were “merely non-exhaustive examples” that did not limit the scope of the
+
+statutory provision).
+
+
+
+
+                                                 26
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+       Therefore, because Section 898 falls within the bounds of PLCAA’s
+
+predicate exception as written, it is not expressly preempted.
+
+       B.      Implied Conﬂict Preemption
+
+       Appellants also contend that, even if Section 898 falls within the predicate
+
+exception, it is nevertheless impliedly preempted because it imposes liability
+
+without the exception’s explicit “knowing violation” or “proximate cause”
+
+requirements, thereby potentially permitting PLCAA-barred civil liability
+
+actions. 6     Compare 15 U.S.C. § 7903(5)(A)(iii) (allowing suits in which
+
+“a manufacturer or seller of a qualiﬁed product knowingly violated a State or
+
+Federal statute applicable to the sale or marketing of the product, and the violation
+
+was a proximate cause of the harm for which relief is sought”) with N.Y. Gen. Bus.
+
+Law § 898-b(1)–(2) ((1) prohibiting gun industry members from knowingly or
+
+recklessly creating, maintaining, or contributing to a public nuisance through the
+
+sale or marketing of ﬁrearms, and (2) requiring gun industry members to establish
+
+
+
+
+6 The State argues that this argument has been forfeited because Appellants did not raise
+it below, while Appellants contend that the argument “is subsumed within the broader
+preemption claim” they raised before the district court, Reply Brief at 12 n.3. Because the
+argument is arguably part of the general preemption claim consistently raised by
+Appellants throughout the course of this litigation, we address its merits here.
+
+                                                 27
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+and utilize reasonable controls and procedures to prevent unlawful possession,
+
+use, marketing, or sale of their products).
+
+       We understand this to be a conﬂict preemption argument.                Conﬂict
+
+preemption arises in two scenarios: (1) “where it is impossible for a private party
+
+to comply with both state and federal requirements”; or (2) “where state law
+
+stands as an obstacle to the accomplishment and execution of the full purposes
+
+and objectives of Congress.” Freightliner Corp. v. Myrick, 514 U.S. 280, 287 (1995)
+
+(internal quotation marks omitted). Conﬂict preemption is a “form[] of implied
+
+preemption.” Figueroa v. Foster, 864 F.3d 222, 228 (2d Cir. 2017).
+
+       We ﬁnd that the alleged incongruence between Section 898 and PLCAA’s
+
+predicate exception—speciﬁcally, the lack of an express knowing or proximate
+
+cause requirement in Section 898—is insuﬃcient to sustain Appellants’ claim of
+
+conﬂict preemption in this facial challenge. “[W]hen plaintiﬀs bring a facial
+
+preemption challenge to a state law, they must demonstrate that there is no
+
+possible set of conditions under which the challenged state regime could be
+
+constitutional.” Rest. L. Ctr. v. City of New York, 90 F.4th 101, 117–18 (2d Cir. 2024)
+
+(alterations adopted and internal quotation marks omitted) (declining to ﬁnd facial
+
+preemption based on a speculative application of the challenged law and noting
+
+
+
+
+                                                 28
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+that “nothing would prohibit a successor from raising the preemption issue in a
+
+future as-applied challenge”). In other words, a facial challenge to a state statute
+
+involves a claim that the law “is invalid in toto—and therefore incapable of any
+
+valid application.” Steﬀel v. Thompson, 415 U.S. 452, 474 (1974) (internal quotation
+
+marks omitted). Such a challenge fails where, as here, a statute has “a plainly
+
+legitimate sweep.” Wash. State Grange, 552 U.S. at 449 (internal quotation marks
+
+omitted). 7
+
+       The Supreme Court has cautioned against speculating about hypothetical or
+
+imaginary cases in which a law might be invalid, especially when state courts
+
+“have had no occasion to construe the law” or “to accord the law a limiting
+
+construction to avoid constitutional questions.” Wash. State Grange, 552 U.S. at
+
+450.    So, while Appellants are correct that Section 898 does not expressly
+
+incorporate the predicate exception’s mens rea and causation requirements, the
+
+pertinent consideration, for present purposes, is that it does not contravene them.
+
+
+
+7 It is plainly possible to bring an action under Section 898 that would fulﬁll the
+“knowing” and “proximate cause” requirements of the predicate exception. For example,
+both Section 898 and the predicate exception would allow a civil suit brought by a victim
+of a shooting against a gun manufacturer, if that shooting were proximately caused by a
+gun manufacturer’s knowing failure to conduct background checks on potential
+customers and its unlawful sale of a ﬁrearm to the perpetrator of the shooting, who could
+not lawfully procure a ﬁrearm. See 15 U.S.C. § 7903(5)(A)(iii)(II); N.Y. Gen. Bus. Law
+§ 898-b(2).
+
+                                                 29
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+        Without the beneﬁt of particular instances of enforcement, we decline to
+
+make any pronouncement about future cases in which litigants might invoke
+
+Section 898 without proving knowledge or proximate cause. At this stage, we ﬁnd
+
+only that Section 898 is not impliedly preempted by PLCAA simply because it
+
+lacks express knowledge and proximate cause requirements.
+
+IV.     The Dormant Commerce Clause Challenge
+
+        Next, Appellants claim that Section 898 violates the dormant Commerce
+
+Clause because it impermissibly regulates interstate commerce in a variety of
+
+ways.
+
+        The Commerce Clause grants Congress the power “[t]o regulate Commerce
+
+. . . among the several States.” U.S. Const., art. I, § 8, cl. 3. The dormant Commerce
+
+Clause is “a doctrine inferred from the Commerce Clause” and serves as “a
+
+‘restriction on permissible state regulation,’” Entergy Nuclear Vt. Yankee, LLC v.
+
+Shumlin, 733 F.3d 393, 429 (2d Cir. 2013) (quoting Hughes v. Oklahoma, 441 U.S. 322,
+
+326 (1979)), which has been understood to “limit[] the power of local governments
+
+to enact laws aﬀecting interstate commerce,“ Town of Southold v. Town of E.
+
+Hampton, 477 F.3d 38, 47 (2d Cir. 2007). “The negative or dormant implication of
+
+the Commerce Clause prohibits state . . . regulation . . . that discriminates against
+
+or unduly burdens interstate commerce and thereby impedes free private trade in
+
+
+                                                 30
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+the national marketplace.” Gen. Motors Corp. v. Tracy, 519 U.S. 278, 287 (1997)
+
+(internal quotation marks and citations omitted). It also “precludes the application
+
+of a state statute to commerce that takes place wholly outside of the State’s borders,
+
+whether or not the commerce has eﬀects within the State.” Healy v. Beer Inst., Inc.,
+
+491 U.S. 324, 336 (1989) (quoting Edgar v. MITE Corp., 457 U.S. 624, 642–43 (1982)).
+
+       Importantly,        the     dormant       Commerce   Clause’s   scope   is   not
+
+“absolute.” Maine v. Taylor, 477 U.S. 131, 138 (1986). Rather, states retain “broad
+
+power” to legislate and regulate, even in ways that may “bear adversely upon
+
+interstate commerce.” H.P. Hood & Sons, Inc. v. Du Mond, 336 U.S. 525, 531–32
+
+(1949). “And courts are not to wield the dormant Commerce Clause as ‘a roving
+
+license . . . to decide what activities are appropriate for state and local government
+
+to undertake.’” Rest. L. Ctr., 90 F.4th at 118 (quoting Nat'l Pork Producers Council v.
+
+Ross, 598 U.S. 356, 380 (2023) (Gorsuch, J., plurality opinion)).
+
+       A state statute violates the dormant Commerce Clause if it: (1) “clearly
+
+discriminates against interstate commerce in favor of intrastate commerce”; (2)
+
+“imposes a burden on interstate commerce incommensurate with the local beneﬁts
+
+secured”; or (3) “has the practical eﬀect of extraterritorial control of commerce
+
+occurring entirely outside the boundaries of the state in question.” Grand River
+
+
+
+
+                                                 31
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+Enters. Six Nations, Ltd. v. Boughton, 988 F.3d 114, 123 (2d Cir. 2021) (internal
+
+quotation marks omitted); see also Healy, 491 U.S. at 336; Pike, 397 U.S. at 142.
+
+       In a facial challenge, a plaintiﬀ must show that there is no set of
+
+circumstances under which the challenged statute would be valid under the
+
+dormant Commerce Clause. See United States v. Decastro, 682 F.3d 160, 168 (2d Cir.
+
+2012). Appellants allege that Section 898 violates the dormant Commerce Clause
+
+in each of the three ways outlined above. We address each argument in turn.
+
+       A.      Facial Discrimination
+
+       If a state law “clearly discriminates against interstate commerce in favor of
+
+intrastate commerce,” it “is virtually invalid per se and will survive only if it is
+
+‘demonstrably justiﬁed by a valid factor unrelated to economic protectionism.’”
+
+Town of Southold, 477 F.3d at 47 (quoting Wyoming v. Oklahoma, 502 U.S. 437, 454
+
+(1992)).
+
+       Appellants argue that Section 898 facially discriminates against interstate
+
+commerce because it applies only to products that pass through interstate
+
+commerce, and therefore impermissibly privileges intrastate commerce. They
+
+initially noted that Section 898 deﬁned “qualiﬁed product” using PLCAA’s
+
+deﬁnition: “a ﬁrearm, . . . ammunition . . . , or a component part [thereof] that has
+
+
+
+
+                                                 32
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+been shipped or transported in interstate or foreign commerce.”            15 U.S.C.
+
+§ 7903(4); see also A.B. 7555-A, 2024 Sess. Law News of N.Y. Ch. 123 (N.Y. 2024)
+
+(noting that prior to June 28, 2024, the term “[q]ualiﬁed product” had “the same
+
+meaning as deﬁned in 15 U.S.C. section 7903(4)”).
+
+       This issue need not detain us for long. The State submitted a letter after oral
+
+argument informing us that the New York State Legislature had amended the
+
+deﬁnition of “qualiﬁed product” to omit any cross-reference to the deﬁnition of
+
+“qualiﬁed product” in PLCAA. See Appellee’s 28(j) Letter ¶¶ 1–2, July 8, 2024, ECF
+
+No. 220. The technical amendment therefore removed any reference to interstate
+
+commerce and eliminates the basis of Appellants’ facial dormant Commerce
+
+Clause challenge. Appellants have not responded to the State’s letter claiming
+
+otherwise. Accordingly, the facial discrimination issue is moot.
+
+       B.      Undue Burden
+
+       Even laws that do not explicitly discriminate against interstate commerce
+
+may incidentally, and impermissibly, burden interstate commerce. See Nat’l Pork
+
+Producers Council, 598 U.S. at 377 (explaining that “a law’s practical eﬀects may
+
+also disclose the presence of a discriminatory purpose”). To determine whether a
+
+given statute imposes such a burden, we apply “the more permissive [Pike]
+
+
+
+
+                                                 33
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+balancing test.” Town of Southold, 477 F.3d at 47. “[U]nder the Pike balancing test,
+
+appellants must show that a statute enacted for a legitimate public purpose,
+
+although apparently evenhanded, actually imposes [1] ‘burdens on interstate
+
+commerce that exceed the burdens on intrastate commerce,’ . . . and that [2] those
+
+excess burdens on interstate commerce are ‘clearly excessive in relation to the
+
+putative local beneﬁts.’” Freedom Holdings, Inc. v. Spitzer, 357 F.3d 205, 217 (2d Cir.
+
+2004) (ﬁrst quoting Automated Salvage Transp., Inc. v. Wheelabrator Env’t Sys., Inc.,
+
+155 F.3d 59, 75 (2d Cir. 1998), and then quoting Pike, 397 U.S. at 142).
+
+       Appellants contend that “the burdens § 898 imposes fall disproportionately
+
+. . . on interstate (and mostly out-of-state) commerce” because, as described above,
+
+the statute initially applied only to “qualiﬁed products,” which had been shipped
+
+or transported in interstate or foreign commerce. Appellants’ Br. at 49–50. In their
+
+view, the “real-world impact” of the statute is to “incentivize[] wholly in-state
+
+commerce and disincentivize[] out-of-state commerce, which is classic
+
+discrimination regardless of how much wholly intrastate commerce presently
+
+exists.” Appellants’ Reply Br. at 18–19. Appellants further contend that any
+
+putative beneﬁts to New York do not outweigh the costs of qualiﬁed civil liability
+
+actions prohibited by PLCAA. Finally, they argue that because a Pike inquiry is
+
+
+
+
+                                                 34
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+necessarily fact-intensive, the district court’s dismissal of this claim at the motion-
+
+to-dismiss stage was premature.
+
+         The State argues that Appellants’ undue burden claim was rightly dismissed
+
+because they “identiﬁed no in-state business that [was] favored” by Section 898
+
+and have not demonstrated that any burden imposed on interstate commerce is
+
+clearly excessive in relation to the putative local beneﬁts. Appellee’s Br. at 44. We
+
+agree.
+
+         As a preliminary matter, Appellants’ argument regarding the deﬁnition of
+
+“qualiﬁed product” has been rendered moot by the above-noted amendment to
+
+Section 898.       Moreover, Appellants’ argument that the law’s regulation of
+
+interstate commerce, in the absence of a wholly intrastate market, is suﬃcient to
+
+show discrimination against interstate commerce, see Appellants’ Br. at 41–42, is
+
+barred by precedent. It is well established that “[t]he fact that the burden of a state
+
+regulation falls on some interstate companies does not, by itself, establish a claim
+
+of discrimination against interstate commerce.” Rest. L. Ctr., 90 F.4th at 120
+
+(quoting Exxon Corp. v. Governor of Md., 437 U.S. 117, 126 (1978)); see also N.Y. Pet
+
+Welfare Ass'n, Inc. v. City of New York, 850 F.3d 79, 91 (2d Cir. 2017) (“The Supreme
+
+Court has considered and rejected the argument that a statute is discriminatory
+
+
+
+
+                                                 35
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+because it will apply most often to out-of-state entities in a market that has more
+
+out-of-state than in-state participants.” (internal quotation marks omitted)
+
+(citing CTS Corp. v. Dynamics Corp. Of Am., 481 U.S. 69, 88 (1987))). As we have
+
+previously explained, the dormant Commerce Clause “doctrine is animated by
+
+‘concern about economic protectionism’ or those measures ‘designed to beneﬁt in-
+
+state economic interests by burdening out-of-state competitors’—not laws that
+
+primarily regulate ﬁrms operating across state lines.” Rest. L. Ctr., 90 F.4th at 120
+
+(quoting Dep't of Revenue of Ky. v. Davis, 553 U.S. 328, 337–38 (2008)). Here, the
+
+mere fact that Section 898 may, in practice, apply only to gun industry members
+
+engaged in interstate commerce because there exist no wholly intrastate gun
+
+industry members is not suﬃcient to establish discrimination.
+
+       Because Section 898 does not discriminate against interstate commerce, it
+
+will be upheld under the Pike balancing test unless the burdens it imposes on
+
+interstate commerce are “clearly excessive in relation to the putative local
+
+beneﬁts.” Freedom Holdings, Inc., 357 F.3d at 217 (quoting Pike, 397 U.S. at 142).
+
+Here, Appellants suggest that Section 898 would cause a number of generalized
+
+harms, such as eroding public conﬁdence in our nation’s laws, threatening
+
+diminution of a basic constitutional right and civil liberty, inviting the disassembly
+
+
+
+
+                                                 36
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+and destabilization of industries and economic sectors lawfully competing in the
+
+economy, and burdening interstate and foreign commerce. Appellants’ Br. at 49–
+
+50 (citing 15 U.S.C. § 7901(a)(6)). They further argue that these harms are clearly
+
+excessive when weighed against the public health and safety aims underlying
+
+Section 898. See Reply Br. at 19. These arguments fall well short of what is required
+
+to demonstrate an undue burden under Pike. Courts are generally “ill qualiﬁed to
+
+develop Commerce Clause doctrine dependent on . . . predictive judgments” and
+
+should not “project[] the eﬀect of applying the Commerce Clause” where the
+
+economic beneﬁts and burdens of a regulation are not clear. Gen. Motors Corp., 519
+
+U.S. at 309. Here, in the absence of any evidence or speciﬁc ﬁndings regarding the
+
+economic beneﬁts and burdens of Section 898, we ﬁnd no undue burden under
+
+Pike.
+
+        C.     Extraterritoriality
+
+        Finding no express discrimination against, and no undue burden on,
+
+interstate commerce, we now consider whether Section 898 regulates “commerce
+
+that takes place wholly outside of the State’s borders,” Healy, 491 U.S. at 336—in
+
+other words, if it operates extraterritorially.           Pivotal to Appellants’
+
+extraterritoriality argument is the fact that exposure to Section 898 liability does
+
+
+
+
+                                                 37
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+not require that an entity does business in New York. Accordingly, Appellants
+
+contend that Section 898 impermissibly allows for the imposition of state-law
+
+liability on out-of-state actors for actions taken entirely out of state. This, they
+
+argue, is “the deﬁnition of unconstitutional extraterritorial state regulation,”
+
+which, if allowed, will give states “carte blanche to impose their regulatory
+
+preferences on other states.” Appellants’ Br. at 44, 50.
+
+       However, each of Section 898(b)’s subsections has a New York state nexus
+
+requirement, notwithstanding the absence of a requirement that the subject gun
+
+industry member does business in New York. The ﬁrst subsection requires that
+
+the business “maintain or contribute to a condition in New York state,” and the
+
+second subsection applies to “[a]ll gun industry members who manufacture,
+
+market, import or oﬀer for wholesale or retail sale any qualiﬁed product in New
+
+York state.” N.Y. Gen. Bus. Law § 898(b)(1)–(2) (emphases added). Section 898 is
+
+therefore plainly focused on regulating conduct that occurs in or has a connection
+
+to New York.
+
+       Appellants posit a number of hypothetical scenarios in which Section 898
+
+could be used to regulate conduct occurring entirely in another state, or to impose
+
+liability on manufacturers and sellers that conduct no commerce in New York. But
+
+
+
+
+                                                 38
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+“[w]hen assessing a plaintiﬀ’s extraterritoriality theory, we focus squarely on
+
+whether the state law has ‘the practical eﬀect of requiring [wholly] out-of-state
+
+commerce to be conducted at the regulating state’s direction.’” VIZIO, Inc. v. Klee,
+
+886 F.3d 249, 255 (2d Cir. 2018) (quoting SPGGC, LLC v. Blumenthal, 505 F.3d 183,
+
+193 (2d Cir. 2007)); see also Healy, 491 U.S. at 336 (“The critical inquiry is whether
+
+the practical eﬀect of the regulation is to control conduct beyond the boundaries
+
+of the State.” (citing Brown-Forman Distillers Corp. v. N.Y. State Liquor Auth., 476 U.S.
+
+573, 579 (1986)).
+
+       Because a facial constitutional challenge seeks to strike down a statute in its
+
+entirety, Appellants must show that Section 898 regulates wholly extraterritorial
+
+conduct in every application of the statute in order to succeed on their
+
+extraterritoriality claim. See Wash. State Grange, 552 U.S. at 449–50 (“In determining
+
+whether a law is facially invalid, [courts] must be careful not to go beyond the
+
+statute’s facial requirements and speculate about ‘hypothetical’ or ‘imaginary’
+
+cases.”). Appellants have not made—and cannot make—such a showing. Each
+
+Appellant, as the State notes, ships or transports ﬁrearms and ammunition directly
+
+into New York. Application of Section 898 to their own conduct would therefore
+
+not raise extraterritoriality concerns, and they have not alleged any facts that
+
+
+
+
+                                                 39
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+would support any other inference of extraterritoriality. If Section 898, in practice,
+
+has an impermissible extraterritorial eﬀect, gun industry members may raise such
+
+claims as part of an as-applied challenge. Cf. Arizona v. United States, 567 U.S. 387,
+
+415 (2012) (explaining that when a party brings suit to challenge a law before it has
+
+gone into eﬀect, “[t]here is a basic uncertainty about what the law means and how
+
+it will be enforced,” and “without the beneﬁt of a deﬁnitive interpretation from
+
+the state courts, it would be inappropriate to assume [the law] will be construed”
+
+unconstitutionally).
+
+       For the foregoing reasons, we conclude that Section 898 does not violate the
+
+dormant Commerce Clause.
+
+V.     The Vagueness Challenge
+
+       Last, Appellants argue that Section 898 is void for vagueness because it
+
+provides insuﬃcient notice as to what conduct is forbidden or required, eﬀectively
+
+requiring gun industry members to leave the industry in order to avoid liability.
+
+       The Fourteenth Amendment guarantees that no state shall “deprive any
+
+person of life, liberty, or property, without due process of law,” U.S. Const. amend.
+
+XIV, § 1, and entitles a person to “be informed as to what [a law] commands or
+
+forbids.” Thibodeau v. Portuondo, 486 F.3d 61, 65 (2d Cir. 2007) (quoting Lanzetta v.
+
+New Jersey, 306 U.S. 451, 453 (1939)). We “generally disfavor[]” facial vagueness
+
+
+                                                 40
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+challenges, Dickerson, 604 F.3d at 741, because “the challenger must establish that
+
+no set of circumstances exists under which the Act would be valid,” N.Y. State Riﬂe
+
+& Pistol Ass'n., 804 F.3d at 265. “The claim in a facial challenge is that a statute is
+
+so fatally indeﬁnite that it cannot constitutionally be applied to anyone.” Copeland,
+
+893 F.3d at 110.
+
+       Section 898 requires gun industry members to establish and utilize
+
+reasonable controls to prevent unlawful possession, use, marketing, or sale of their
+
+products in New York. It further subjects them to liability for any unreasonable or
+
+unlawful conduct related to the sale or marketing of ﬁrearms that creates,
+
+maintains, or contributes to a condition that endangers public health or safety.
+
+N.Y. Gen. Bus. Law § 898-b(1)–(2).                    Appellants argue that Section 898’s
+
+“reasonableness” standard is unconstitutionally vague because it does not clearly
+
+delineate what speciﬁc reasonable controls a gun industry seller or manufacturer
+
+must deploy in order to avoid liability. They emphasize that New York courts
+
+have recognized that gun manufacturers “do not owe a duty to control the conduct
+
+of third persons so as to prevent them from harming others,” People v. Sturm, Ruger
+
+& Co., Inc., 761 N.Y.S.2d 192, 196 (N.Y. App. Div. 2003) (emphasis added) (internal
+
+quotation marks omitted), and that Section 898 is therefore not rooted in a codiﬁed
+
+
+
+
+                                                 41
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+or knowable body of law. Appellants also contend that Section 898 is broader and
+
+less clear than preexisting public nuisance law because it imposes liability for
+
+“contribut[ing] to a condition in New York state that endangers the safety or health
+
+of the public,” Appellants’ Br. at 53 (quoting N.Y. Gen. Bus. Law § 898-b(1)), and
+
+that such “freewheeling liability” “violate[s] basic notions of fairness,” id. at 53–
+
+54.
+
+       The State argues that Section 898 resembles many other New York public
+
+nuisance laws and therefore accords with common understanding and practices.
+
+It notes that the statute speciﬁcally proscribes certain categories of conduct and
+
+further provides illustrative examples of “reasonable controls and procedures.”
+
+Appellee’s Br. at 53. Finally, the State notes that “reasonable” is a term used in
+
+“countless statutes and standards,” id. at 54, and that there exist judicial
+
+precedents regarding the meaning of the terms “reasonable” and “contribute” in
+
+the context of public nuisance statutes, id. at 54–55.
+
+       We conclude that Appellants have not met their burden of demonstrating
+
+that Section 898 is so “fatally indeﬁnite” that it cannot be constitutionally applied
+
+under any circumstances. See Copeland, 893 F.3d at 110. We agree with the State
+
+that reasonableness is a well-established legal standard that is employed in a wide
+
+
+
+
+                                                 42
+22-1374-cv
+National Shooting Sports Foundation, Inc. v. James
+
+range of statutes consistent with the requirements of the Due Process Clause.
+
+Moreover, Section 898 provides examples of the types of “reasonable controls and
+
+procedures” that gun industry members are instructed to employ:
+
+       “Reasonable controls and procedures” shall mean policies that
+       include, but are not limited to: (a) instituting screening, security,
+       inventory and other business practices to prevent thefts of qualiﬁed
+       products as well as sales of qualiﬁed products to straw purchasers,
+       traﬃckers, persons prohibited from possessing ﬁrearms under state
+       or federal law, or persons at risk of injuring themselves or others;
+       [and] (b) preventing deceptive acts and practices and false advertising
+       and otherwise ensuring compliance with all provisions of article
+       twenty-two-A of this chapter . . . .
+
+N.Y. Gen. Bus. Law § 898-a(2). Though Appellants characterize these examples as
+
+“singularly unhelpful guidance,” Appellants’ Br. at 13, we will not “strain[] to
+
+inject doubt as to the meaning of words where no doubt would be felt by the
+
+normal reader,” United States v. Powell, 423 U.S. 87, 93 (1975). Where the language
+
+of a given statute is “suﬃciently clear,” “the speculative danger of arbitrary
+
+enforcement does not render the ordinance void for vagueness.” Vill. of Hoﬀman
+
+Estates v. Flipside, Hoﬀman Estates, Inc., 455 U.S. 489, 503 (1982).
+
+       Accordingly, Section 898 is not facially void for vagueness.
+
+                                        CONCLUSION
+
+       For the foregoing reasons, we AFFIRM the district court’s judgment.
+
+
+
+
+                                                 43
+DENNIS JACOBS, Circuit Judge, concurring:
+
+      With the Protection of Lawful Commerce in Arms Act (“PLCAA”), Pub. L.
+
+No. 109-92, 119 Stat. 2095 (2005) (codified at 15 U.S.C. §§ 7901–03), Congress shut
+
+the door on litigation that would destroy the nation’s firearms industry. New
+
+York has now contrived a broad public nuisance statute that applies solely to
+
+“gun industry members” and is enforceable by a mob of public and private
+
+actors. The intent of Congress when it closes a door is not for States to thus
+
+jimmy a window. However, I am constrained to agree with my colleagues that,
+
+depending on the pleading, this statute could be applied consistent with PLCAA
+
+and the Constitution; and under Circuit precedent, that suffices to defeat
+
+Appellants’ facial challenge. I write separately to emphasize the vulnerability of
+
+New York’s statute to as-applied preemption challenges and the narrow aperture
+
+of the law’s legitimate reach.
+
+      As the Court recounts, “a stated purpose of PLCAA is to significantly limit
+
+the liability of gun manufacturers and sellers by eliminating suits stemming from
+
+the unlawful misuse of firearms by third parties.” Ante at 19-20; see also Smith &
+
+Wesson Brands, Inc. v. Estados Unidos Mexicanos, 145 S. Ct. 1556, 1569 (2025)
+
+(“Congress enacted the statute to halt a flurry of lawsuits attempting to make
+gun manufacturers pay for the downstream harms resulting from misuse of their
+
+products.”); § 7901(b)(1). This purpose aligns with Congress’s finding that
+
+“[b]usinesses in the United States that are engaged in interstate and foreign
+
+commerce through the lawful design, manufacture, marketing, distribution,
+
+importation, or sale to the public of firearms or ammunition products . . . are not,
+
+and should not, be liable for the harm caused by those who criminally or
+
+unlawfully misuse firearm products or ammunition products that function as
+
+designed and intended.” § 7901(a)(5). Congress expressly found that the
+
+“possibility of imposing liability on an entire industry for harm that is solely
+
+caused by others is an abuse of the legal system.” § 7901(a)(6). Congress
+
+worried that the possibility that a “maverick judicial officer or petit jury” might
+
+sustain liability actions “based on theories without foundation in hundreds of
+
+years of the common law . . . in a manner never contemplated by the framers of
+
+the Constitution, by Congress, or by the legislatures of the several States,” and
+
+warned that such an abuse “would constitute a deprivation of the rights”
+
+guaranteed by the Fourteenth Amendment. § 7901(a)(7).
+
+      PLCAA achieves its liability-limiting purpose by barring any “qualified
+
+civil liability action” from proceeding in federal or state court. § 7902(a).
+
+                                          2
+“Qualified civil liability action” is broadly defined to encompass any “civil action
+
+or proceeding or an administrative proceeding” against industry members or
+
+their trade groups for harm “resulting from the criminal or unlawful misuse” of
+
+firearms or ammunition by third parties. § 7903(5)(A).
+
+      Several exceptions qualify this definition, including one “usually called the
+
+predicate exception” that is relevant here. See Smith & Wesson, 145 S. Ct. at 1562.
+
+As the Supreme Court recently explained, the predicate exception “applies to
+
+suits in which the defendant manufacturer or seller ‘knowingly violated a State
+
+or Federal statute applicable to the sale or marketing’ of firearms, and that
+
+‘violation was a proximate cause of the harm for which relief is sought.’” Id.
+
+(quoting § 7903(5)(A)(iii)). Congress provided two example predicate
+
+violations:
+
+      (I) any case in which the manufacturer or seller knowingly made any false
+      entry in, or failed to make appropriate entry in, any record required to be
+      kept under Federal or State law with respect to the qualified product, or
+      aided, abetted, or conspired with any person in making any false or
+      fictitious oral or written statement with respect to any fact material to the
+      lawfulness of the sale or other disposition of a qualified product; or
+
+      (II) any case in which the manufacturer or seller aided, abetted, or
+      conspired with any other person to sell or otherwise dispose of a qualified
+      product, knowing, or having reasonable cause to believe, that the actual
+      buyer of the qualified product was prohibited from possessing or receiving
+
+                                         3
+      a firearm or ammunition under subsection (g) or (n) of section 922 of title
+      18[.]
+§ 7903(5)(A)(iii). “If a plaintiff can show that [the predicate exception] is
+
+satisfied . . . then a suit can proceed, even though it arises from a third party’s later
+
+misuse of a gun.” Smith & Wesson, 145 S. Ct. at 1562 (emphasis added).
+
+Importantly, the predicate exception is just that: an exception. The rule remains
+
+that suits against firearms manufacturers and sellers over third-party misuse of
+
+firearms are otherwise barred.
+
+      In City of New York v. Beretta U.S.A. Corp., we considered which laws are
+
+deemed by Congress to be “applicable to the sale or marketing” of firearms for
+
+purposes of the predicate exception. See 524 F.3d 384 (2d Cir. 2008). We
+
+observed that “the examples of state and federal statutory violations in the
+
+predicate exception itself refer to state and federal laws that specifically and
+
+expressly govern firearms.” Id. at 400. Reasoning by analogy to these
+
+examples, we held that the predicate exception “encompass[es] statutes (a) that
+
+expressly regulate firearms, or (b) that courts have applied to the sale and
+
+marketing of firearms[, or (c)] that do not expressly regulate firearms but that
+
+clearly can be said to implicate the purchase and sale of firearms.” Id. at 404.
+
+
+
+
+                                            4
+At issue in Beretta was New York’s criminal nuisance law, N.Y. Penal
+
+Law § 240.45. We concluded that this law of general applicability was
+
+insufficiently specific to firearms. Beretta, 524 F.3d at 404.
+
+       New York State later enacted the modified nuisance law at issue in this
+
+case, which adds the words “gun industry member” to the not-a-predicate
+
+statute at issue in Beretta. This new law, Section 898, provides that “[n]o gun
+
+industry member . . . shall knowingly or recklessly create, maintain or contribute
+
+to a condition in New York state that endangers the safety or health of the public
+
+through the sale, manufacturing, importing or marketing of a qualified product”
+
+and that any gun industry member that operates in New York “shall establish
+
+and utilize reasonable controls and procedures to prevent its qualified products
+
+from being possessed, used, marketed or sold unlawfully in New York state.”
+
+N.Y. Gen. Bus. Law § 898-b. Violation of these prohibitions is declared a public
+
+nuisance, enforceable by various public officials as well as private parties. See
+
+id. § 898-c-e.
+
+       This law is nothing short of an attempt to end-run PLCAA. I know that
+
+because then-Governor Cuomo used his signing statement to tell the public that
+
+Section 898 would “right the wrong” done by PLCAA. See Governor Andrew
+
+                                          5
+M. Cuomo, Governor Cuomo Signs First-in-the-Nation Gun Violence Disaster
+
+Emergency to Build a Safer New York at 35:11-36:50. 1
+
+        I cannot very well deny that what New York has done, perfunctory as it is,
+
+and deadly in its aim at the firearms industry, comports with Beretta. See ante at
+
+23-25. Were I deciding Beretta afresh, I would have concluded that the predicate
+
+exception is strictly defined by the examples that Congress provided, and that
+
+the exception permits only those measures that are particular to firearms as a
+
+product and an industry--not general-purpose nuisance statutes onto which
+
+reference to the firearms industry is grafted. Cf. Beretta, 524 F.3d at 402 (“the
+
+general term--‘applicable to’--is to be construed to embrace only objects similar to
+
+those enumerated by” § 7903(5)(A)(iii)(I)-(II) (internal quotation omitted)). A
+
+predicate statute, in my view, must bear upon firearms more specifically than by
+
+mere reference, must give notice of its requirements sufficient to allow
+
+compliance with confidence, and must require proximate cause. See
+
+§ 7903(5)(A)(iii) (requiring knowledge and proximate cause). Otherwise, the
+
+firearms industry is in jeopardy of enforcement so abusive and arbitrary that it
+
+
+
+
+1   YouTube (July 6, 2021), https://www.youtube.com/watch?v=-tKj0FZueFM.
+
+                                          6
+can be destroyed by litigation expense, damages, and impediments to insurance
+
+and the raising of capital.
+
+      New York’s repurposed nuisance law is infirm for many of the same
+
+reasons as New York’s original nuisance law, on which it was modeled.
+
+PLCAA apprises the members of the firearms industry about specific obligations
+
+(record-keeping requirements) and proscriptions (straw purchases, specified
+
+false statements). Unlike PLCAA, Section 898 imposes liability for diffuse and
+
+generalized conduct: “creat[ing], maintain[ing] or contribut[ing] to a condition in
+
+New York state that endangers the safety or health of the public.” § 898-b(1).
+
+Such a “condition” could be “created, maintained, or contributed to” in myriad
+
+ways. Yet, since Section 898 undoubtedly “expressly regulate[s] firearms,” it
+
+satisfies Beretta. A violation of Section 898 might--on the right set of facts--
+
+qualify as a predicate violation.
+
+      I therefore agree with my colleagues that Appellants’ facial PLCAA
+
+challenge fails. 2 But even so, PLCAA invites as-applied challenges to Section 898.
+
+
+
+
+2 I also agree that Appellants’ facial dormant Commerce Clause and vagueness
+challenges fail, for the reasons provided by the Court. Because Section 898 is
+likely to have a limited reach in practice, its benefits and interstate burdens are
+
+                                          7
+PLCAA’s operative language bars specific “qualified civil liability actions,” a
+
+term defined by reference to specific facts characterizing specific cases. Though
+
+Congress articulated a purpose concerning “causes of action,” Congress drafted
+
+PLCAA to bar only individual “qualified civil liability actions.” Compare
+
+§ 7901(b)(1), with § 7902(a). We must assume this difference in terms is material.
+
+See Yale New Haven Hospital v. Becerra, 56 F.4th 9, 21 (2d Cir. 2022) (quoting Sw.
+
+Airlines Co. v. Saxon, 596 U.S. 450, 458 (2022)). Therefore, unless a cause of action
+
+cannot be pleaded consistently with PLCAA, preemption is best considered as
+
+applied to individual cases.
+
+      Indicative is the Supreme Court’s Smith & Wesson opinion, which held that
+
+the Government of Mexico had failed to “plausibly plead[]” conduct consistent
+
+with the predicate exception. 145 S. Ct. at 1562; see also id. at 1570 (Thomas, J.,
+
+concurring) (the Court’s opinion “concludes only that Mexico has not adequately
+
+pleaded its theory of the case--that, as a factual matter, the defendant gun
+
+manufacturers committed criminal aiding and abetting” (emphasis added)).
+
+Thus, the Supreme Court made clear that, despite PLCAA’s announced purpose
+
+
+
+as-yet unclear. See ante at 37. Moreover, at least some applications of Section
+898 would accord with due process. See ante at 42-43.
+
+                                          8
+to the contrary, “the predicate violation opens a path to making a gun
+
+manufacturer civilly liable for the way a third party has used the weapon it
+
+made.” Smith & Wesson, 145 S. Ct. at 1562. But as the Supreme Court did in
+
+Smith & Wesson, we must consider whether the predicate exception bars a
+
+particular lawsuit with reference to particular facts, not in the abstract on a facial
+
+challenge.
+
+      It is possible to plead a Section 898 action that threads the eyelet of the
+
+predicate exception. The Court concludes that Section 898’s lack of express
+
+knowledge and causation requirements “does not contravene” the predicate
+
+exception’s requirement of them. Ante at 29. Though I cannot see how a
+
+Section 898 action could proceed without pleading these federally mandated
+
+elements, this is a question that can be easily saved for (inevitable) as-applied
+
+preemption challenges to Section 898, and easily answered then. 3 The Court
+
+rightly declines Appellants’ invitation to declare that Section 898 is preempted
+
+
+
+
+3 Because federal law appears to supply essential (albeit implied) elements of a
+Section 898 cause of action, Section 898 cases filed in state court may also be
+removable. See NASDAQ OMX Grp. v. UBS Secs., LLC, 770 F.3d 1010, 1019-20
+(2d Cir. 2014). Removal to federal court should allay concern over a “maverick
+judicial officer or petit jury” reading Section 898 inconsistently with federal law.
+
+                                          9
+“to the extent” that its application will exceed the predicate exception’s scope. 4
+
+And “to the extent” that Appellants wish us to declare federal law’s supremacy
+
+over state law, the Constitution already offers this rule of decision without any
+
+underlining by us. See U.S. CONST. art. VI, cl. 2.
+
+      PLCAA constrains application and interpretation of Section 898. For
+
+example, Section 898 authorizes actions based on a showing of (criminal)
+
+recklessness, whereas only knowing violations of federal or state law fall within
+
+the predicate exception. Compare § 898-b(1) (prohibiting certain acts done
+
+“knowingly or recklessly”), with § 7903(5)(A)(iii) (requiring violations occur
+
+“knowingly” to fit into predicate exception); see also N.Y. Penal Law § 15.05
+
+(knowledge is more rigorous than recklessness under New York law). An as-
+
+applied challenge may decide whether recklessness under New York criminal
+
+law is tantamount to knowledge under federal law; if not, suits based on reckless
+
+conduct will be dismissible. Section 898 also lacks an express proximate cause
+
+
+
+
+4Appellants appear to have raised whether Section 898 is preempted to some
+extent for the first time on appeal; below, they argued it was preempted entirely.
+Failure of preservation is further reason to defer answering the question of to
+what extent Section 898 is preempted. See United States v. Mendonca, 88 F.4th 144,
+165 (2d Cir. 2023); see also ante at 30 (reserving question).
+
+                                         10
+requirement. But PLCAA is sufficiently emphatic that we can rely on trial
+
+courts to dismiss Section 898 actions expeditiously where federally sufficient
+
+knowledge or proximate cause are missing--lest application of Section 898 prove
+
+an obstacle to Congress’s intention. Cf. § 7902(b) (requiring that any “qualified
+
+civil liability action that is pending on October 26, 2005 shall be immediately
+
+dismissed” (emphasis added)).
+
+      Speedy dismissal of attenuated Section 898 claims accords with PLCAA’s
+
+goal of preventing litigation from eating up the firearms industry whole. There
+
+is every indication that New York intends Section 898 to contravene federal law;
+
+but there is some legitimate reach to the law, which suffices for us to affirm the
+
+dismissal of this facial challenge. Just how limited that reach is must await
+
+future cases.
+
+
+
+
+                                         11

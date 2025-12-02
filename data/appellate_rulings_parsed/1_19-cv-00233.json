@@ -1,0 +1,28 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the plaintiff's Eighth Amendment Bivens claim for damages against federal prison officials for allegedly inadequate medical care presents a 'new context' under Supreme Court precedent, such that the claim must be dismissed.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that the plaintiff's claim is meaningfully different from Carlson v. Green because he received substantial medical treatment consistent with medical recommendations, and the facts do not involve grossly inadequate care or deliberate indifference as in Carlson. Under Egbert and Ziglar, these differences require dismissal of the Bivens claim in this new context."
+    }
+  ],
+  "key_precedents": [
+    "Carlson v. Green, 446 U.S. 14 (1980)",
+    "Egbert v. Boule, 596 U.S. 482 (2022)",
+    "Ziglar v. Abbasi, 582 U.S. 120 (2017)",
+    "Hern\u00e1ndez v. Mesa, 589 U.S. 93 (2020)",
+    "Correctional Services Corp. v. Malesko, 534 U.S. 61 (2001)",
+    "Minneci v. Pollard, 565 U.S. 118 (2012)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": false
+  },
+  "has_dissent": true,
+  "summary_text": "LYNCH, Circuit Judge. The dispositive question in this appeal is whether this Eighth Amendment claim for damages against a federal Bureau of Prisons (\"BOP\") doctor and warden asserted by Broc Waltermeyer, an incarcerated federal inmate, alleging inadequate medical treatment presents a new context and so is meaningfully different from the claim asserted in Carlson v. Green, 446 U.S. 14 (1980). Applying Egbert v. Boule, 596 U.S. 482 (2022), and Ziglar v. Abbasi, 582 U.S. 120 (2017), we affirm dismissal of this case, albeit on different reasoning than used by the district court. See Waltermeyer v. Warden, 720 F. Supp. 3d 97 (D.N.H. 2024)."
+}

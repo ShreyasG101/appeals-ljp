@@ -1,0 +1,1117 @@
+
+                            UNITED STATES DISTRICT COURT
+
+                                   DISTRICT OF OREGON
+
+                                    PORTLAND DIVISION
+
+
+
+ ZOE HOLLIS, individually and on behalf of
+ all others similarly situated,
+
+                   Plaintiff,                                  Case No. 3:21-cv-00965-YY
+
+        v.                                                     FINDINGS AND
+                                                               RECOMMENDATIONS
+ R & R RESTAURANTS, INC dba SASSY’S,
+ an Oregon corporation; STACY MAYHOOD,
+ an individual; IAN HANNIGAN, an individual;
+ FRANK FAILLACE, an individual; and DOES 2
+ through 10, inclusive,
+
+                   Defendants.
+
+
+YOU, Magistrate Judge.
+
+                                           FINDINGS
+
+       Plaintiff has brought suit against R & R Restaurants, Inc., the business entity that
+
+operates Sassy’s, an adult entertainment club in Portland, Oregon, and individuals involved in
+
+managing Sassy’s, including Stacy Mayhood, Ian Hannigan, and Frank Faillace. Plaintiff alleges
+
+defendants misclassified performers who worked at the club as “independent contractors,”
+
+instead of employees, to avoid paying minimum wage. First Am. Compl. ¶ 1, ECF 16. Plaintiff
+
+asserts a number of wage-related claims under the Fair Labor Standards Act (“FLSA”) against all
+
+defendants. Id. ¶¶ 99–131. Plaintiff also asserts retaliation claims under the FLSA and Oregon
+
+
+1 – FINDINGS AND RECOMMENDATIONS
+        Case 3:21-cv-00965-YY           Document 118        Filed 11/02/23      Page 2 of 21
+
+
+
+
+state law against defendant Faillace in connection with work that plaintiff did at a different adult
+
+entertainment venue in Portland that Faillace partly owns and operates. Id. ¶¶ 132–50.
+
+        Defendants have filed a motion for summary judgment, ECF 42, and a renewed motion
+
+for summary judgment, ECF 98. As explained below, plaintiff’s FLSA wage-related claims are
+
+untimely because this suit was not commenced within the two-year statute of limitations for
+
+FLSA claims and plaintiff has not produced evidence that defendants’ alleged FLSA violations
+
+were “willful,” which would expand the limitations period to three years. Plaintiff’s FLSA
+
+retaliation claim against individual defendant Faillace was timely brought, but fails as a matter of
+
+law because the undisputed evidence shows that plaintiff was not an “employee” at the time of
+
+the alleged retaliation. The failure of plaintiff’s federal claims leaves plaintiff’s retaliation claims
+
+under Oregon law. Neither party has offered fully developed arguments about the propriety of
+
+these claims. Thus, there is no reason to exercise supplemental jurisdiction over plaintiff’s
+
+remaining state law claims and those claims should be dismissed without prejudice.
+
+I.      Summary Judgment Standard
+
+        Under Federal Rule of Civil Procedure 56(a), “[t]he court shall grant summary judgment
+
+if the movant shows that there is no genuine dispute as to any material fact and the movant is
+
+entitled to judgment as a matter of law.” The party moving for summary judgment bears the
+
+initial responsibility of informing the court of the basis for the motion and identifying portions of
+
+the pleadings, depositions, answers to interrogatories, admissions, or affidavits that demonstrate
+
+the absence of a triable issue of material fact. Celotex Corp. v. Catrett, 477 U.S. 317, 323 (1986).
+
+Once the moving party does so, the nonmoving party must “go beyond the pleadings” and
+
+“designate ‘specific facts showing that there is a genuine issue for trial.’ ” Id. at 324 (citing Fed.
+
+R. Civ. P. 56(e)). The court “does not weigh the evidence or determine the truth of the matter,
+
+
+
+
+2 – FINDINGS AND RECOMMENDATIONS
+        Case 3:21-cv-00965-YY          Document 118         Filed 11/02/23     Page 3 of 21
+
+
+
+
+but only determines whether there is a genuine issue for trial.” Balint v. Carson City, Nev., 180
+
+F.3d 1047, 1054 (9th Cir. 1999). “Reasonable doubts as to the existence of material factual issue
+
+are resolved against the moving parties and inferences are drawn in the light most favorable to
+
+the non-moving party.” Addisu v. Fred Meyer, Inc., 198 F.3d 1130, 1134 (9th Cir. 2000).
+
+II.     Procedural Background—Plaintiff’s Failure to Complete Discovery
+
+        When defendants initially filed their motion for summary judgment in June of 2022,
+
+plaintiff’s primary argument was that the motion should be denied as premature or, at the very
+
+least, a decision on the motion should be deferred so that plaintiff could continue to conduct
+
+discovery. Opp. Mot. Summ. J. 1, ECF 45 (“Defendants stonewall plaintiff’s ability to depose
+
+them and [sic] evidence, yet argue plaintiff cannot meet their 1 burden of demonstrating the
+
+existence of disputed material facts. Plaintiff and their counsel have diligently pursued discovery
+
+in this matter, and plaintiff’s inability to proffer evidence to support their opposition to
+
+defendants’ motion is not because it does not exist, it is because defendants refuse to sit for
+
+examination under oath.”). 2 Specifically, plaintiff stated that depositions of defendants and other
+
+witnesses were necessary to, among other things, “demonstrate that defendants’ conduct in
+
+misclassifying [plaintiff]” and other entertainers who worked at the club “was willful and not in
+
+good faith.” Id. at 8.
+
+        The undersigned judge agreed that plaintiff should be given the opportunity to conduct
+
+depositions. As observed in the order holding defendants’ motion for summary judgment in
+
+abeyance, the court had “previously stayed the deadline to complete fact discovery while
+
+
+
+
+1
+ Plaintiff uses they/them pronouns. Opp. Mot. Summ. J 1 n.1, ECF 103.
+2
+ To improve readability, the capitalization of party names, the “Court,” and “Motion” in quoted
+portions of the parties’ briefing has been eliminated. Other changes to quoted portions of the
+parties’ briefing are indicated by brackets and ellipses as appropriate.
+
+3 – FINDINGS AND RECOMMENDATIONS
+        Case 3:21-cv-00965-YY          Document 118        Filed 11/02/23      Page 4 of 21
+
+
+
+
+resolving plaintiff[’]s motion for conditional certification of the FLSA collective action.” Order
+
+(Nov. 21, 2022), ECF 81 (internal citations omitted). “The stay was lifted after the motion for
+
+conditional certification was granted in part on May 2, 2022.” Id. Just one month after the stay
+
+was lifted, defendants filed their motion for summary judgment. Id. The order holding the
+
+motion for summary judgment in abeyance was driven by the fact that discovery had been stayed
+
+while the court resolved the motion for conditional certification, and also by the attorneys’
+
+failure to communicate clearly with each other during conferrals regarding discovery issues and
+
+in the run-up to defendants’ motion for summary judgment. Compare Opp. Mot. Summ. J. 6–8,
+
+ECF 45 with Reply 24–28, ECF 51. It appeared that the break-down in communication
+
+contributed to plaintiff’s inability or failure to depose several individuals, and plaintiff’s counsel
+
+represented that they could not effectively respond to defendants’ motion for summary judgment
+
+without the opportunity to conduct those depositions. Opp. Mot. Summ. J. 1, ECF 45. Under all
+
+of these circumstances, some flexibility in finishing the depositions was warranted. 3
+
+       Defendants objected to the November 21, 2022 order holding the motion for summary
+
+judgment in abeyance, but Judge Simon overruled those objections and ordered that plaintiff’s
+
+requested depositions “shall take place by March 6, 2023.” Order (Jan. 3, 2023), ECF 89. Judge
+
+Simon also set a March 20, 2023 deadline for plaintiff to submit a supplemental brief regarding
+
+defendants’ motion for summary judgment. Id.
+
+       Inexplicably, however, the depositions did not occur by March 6, 2023. Nor did plaintiff
+
+submit any supplemental briefing on the motion for summary judgment by March 20, 2023, or
+
+
+
+
+3
+  In the time since granting the motion for conditional certification, two plaintiffs filed consents
+to join the suit. See ECF 50, 53. The court subsequently granted defendants’ motion to dismiss
+those plaintiffs for lack of standing because they failed to adequately allege that they ever
+worked at defendants’ clubs. Order (Mar. 27, 2023), ECF 99.
+
+
+4 – FINDINGS AND RECOMMENDATIONS
+          Case 3:21-cv-00965-YY          Document 118        Filed 11/02/23        Page 5 of 21
+
+
+
+
+file any motion for extension of time of those deadlines. Instead, after both deadlines passed,
+
+defendants filed a Renewed Motion for Summary Judgment on March 24, 2023. ECF 98. In it,
+
+defendants argued that plaintiff had missed both deadlines, that “[n]early two years has lapsed
+
+since Plaintiff commenced this action, and nearly one year since Defendants filed their motion
+
+for summary judgment,” and that plaintiff “has had a full and fair opportunity to develop their
+
+case and to take depositions.” Renewed Mot. Summ. J. 4, ECF 98. Defendants thus requested a
+
+decision on the merits of their motion for summary judgment. Id.
+
+          The court promptly set a status conference to discuss plaintiff’s failure to meet the court-
+
+ordered deadlines for conducting the depositions and for filing a supplemental brief in opposition
+
+to defendants’ motion for summary judgment. See ECF 100. As part of the scheduling order, the
+
+court ordered that plaintiff’s local counsel was required to appear. Id. At the April 13, 2013
+
+status conference, local counsel did not appear despite being ordered to do so. 4 And plaintiff’s
+
+pro hac vice counsel, who was new to the case, failed to provide any compelling explanation for
+
+the failure to meet the court’s deadlines. Later that same day, plaintiff filed an Opposition to
+
+Defendants’ Renewed Motion for Summary Judgment in which plaintiff again asked the court to
+
+defer any ruling on defendants’ motion so that plaintiff can “make every effort possible to take
+
+the depositions of Defendants and essential individuals.” Opp. Renewed Mot. Summ. J. 6, ECF
+
+103.
+
+          But the time to “make every effort possible” to take the requested depositions has passed
+
+and no further deferral is warranted. Plaintiff’s counsel had ample opportunity to conduct the
+
+depositions and failed to do so; even with the benefit of a court-ordered deadline by which the
+
+depositions were to be completed, plaintiff’s counsel apparently did not make any serious effort
+
+
+
+4
+    Plaintiff’s local counsel later explained it was due to a calendaring error.
+
+
+5 – FINDINGS AND RECOMMENDATIONS
+        Case 3:21-cv-00965-YY           Document 118        Filed 11/02/23      Page 6 of 21
+
+
+
+
+to obtain the testimony that they have repeatedly represented is so critical to their case. Further
+
+delaying the case would be prejudicial to defendants, who have been waiting now more than a
+
+year for their motion to be decided. At some point, the case simply must move on,
+
+notwithstanding plaintiff’s counsel’s failure to diligently conduct discovery. See Moersch v.
+
+Zahedi, 228 F. Supp. 3d 1079, 1084 (C.D. Cal. 2017) (denying request for additional time to
+
+conduct discovery to respond to motion for summary judgment where the party did “not provide
+
+a single specific reason as to why [it] has not had time to procure any evidence despite his having
+
+ample time to do so—this case base been pending for almost a year”); Harris v. City of Seattle,
+
+315 F. Supp. 2d 1112, 1116 (W.D. Wash. 2004), aff’d, 152 F. App’x 565 (9th Cir. 2005)
+
+(denying request for continuance of motion for summary judgment where party did not show
+
+“good cause why [it] has not pursued [the requested] discovery within the discovery period,
+
+which was over one year long”).
+
+        The analysis proceeds, then, on the current record.
+
+III.    Standing
+
+        Defendants first assert that plaintiff lacks standing to bring this suit because plaintiff
+
+cannot establish a concrete, personalized injury. Mot. Summ. J. 9, ECF 42. The argument
+
+appears to be based on the theory that plaintiff has not produced evidence sufficient for
+
+defendants to determine whether plaintiff appropriately filed a personal income tax return or paid
+
+taxes on the tips and dance fees they received during the relevant time. Id. at 10–13. That is a
+
+bridge too far. All that standing requires is for plaintiff to show that “(1) [plaintiff] has suffered
+
+an ‘injury in fact’ that is (a) concrete and particularized and (b) actual or imminent, not
+
+conjectural or hypothetical; (2) the injury is fairly traceable to the challenged action of the
+
+defendant; and (3) it is likely, as opposed to merely speculative, that the injury will be redressed
+
+
+
+
+6 – FINDINGS AND RECOMMENDATIONS
+        Case 3:21-cv-00965-YY          Document 118        Filed 11/02/23      Page 7 of 21
+
+
+
+
+by a favorable decision.” Friends of the Earth, Inc. v. Laidlaw Env’t Servs. (TOC), Inc., 528 U.S.
+
+167, 180–81 (2000). It is undisputed that plaintiff did in fact perform at defendants’ club. See
+
+Mot. Summ. J. 4–6, ECF 42. It is undisputed that defendants did not pay plaintiff minimum wage
+
+for the hours plaintiff performed there. Id. at 5. If plaintiff was an “employee” under the FLSA,
+
+then defendants are required to pay a minimum wage. See 29 U.S.C. § 216(b) (“Any employer
+
+who violates the provisions of section 206 or section 207 of this title shall be liable to the
+
+employee or employees affected in the amount of their unpaid minimum wages[.]”). Thus,
+
+plaintiff has done enough here to establish constitutional standing.
+
+       Defendants cite no case holding that potential tax implications have any relevance to the
+
+issue of a plaintiff’s standing to bring an FLSA wage claim against a purported employer. See
+
+Mot. Summ. J. 10–13, ECF 42. Defendants’ position would require a plaintiff in an FLSA suit to
+
+prove that the plaintiff was current on federal tax obligations in order to sue for failing to pay a
+
+minimum wage. Taken to its furthest extremes, defendants’ view of standing would potentially
+
+exclude a plaintiff with any debt larger than the prayer for damages from suing in federal court.
+
+Defendants cite no case to support such a strained reading of standing jurisprudence. Whatever
+
+issues plaintiff may have with the Internal Revenue Service or other tax collecting agency—
+
+which are, of course, not parties to this suit—as a result of plaintiff’s past earnings and tax
+
+filings, or that may result from any recovery from defendants in this case, defendants have not
+
+adequately shown the relevance of those issues for determining constitutional standing to sue in
+
+this context. See Beltran v. Maxfield’s, LLC, No. 2:13-cv-01043-LA, 2014 WL 7139808, at *2
+
+(E.D. Wis. Dec. 12, 2014) (rejecting argument that FLSA plaintiffs lacked standing because they
+
+“would have taken home less . . . had [the defendant] paid minimum wage and withheld the
+
+appropriate taxes”).
+
+
+
+
+7 – FINDINGS AND RECOMMENDATIONS
+        Case 3:21-cv-00965-YY          Document 118        Filed 11/02/23     Page 8 of 21
+
+
+
+
+       It may be true that tax implications would at some point in this litigation become
+
+relevant. The court is fully aware that, in the event plaintiff is deemed to be an employee of
+
+defendants, the parties will likely vigorously dispute the extent to which any recovery by
+
+plaintiff should be limited to avoid any windfall. See Mot. Summ. J. 10, ECF 42 (“Plaintiff’s
+
+FLSA Wage and Hour Claims attempt to enlist the Court to support their unambiguous fraud
+
+against both Sassy’s and the government.”). But none of the authorities cited by defendants
+
+establish that plaintiff lacks the constitutional right to bring an FLSA claim in federal court
+
+because defendants are not satisfied with the evidence produced in discovery regarding
+
+plaintiff’s federal tax reporting or payment history.
+
+IV.    FLSA Statute of Limitations
+
+       Defendants next assert that plaintiff’s FLSA wage-related claims are time-barred because
+
+plaintiff filed this action on June 28, 2021, “more than two years after last performing at Sassy’s
+
+on March 3, 2019.” Mot. Summ. J. 24, ECF 42. Plaintiff does not dispute the March 3, 2019 cut-
+
+off date, but instead relies on the theory that the defendants’ FLSA violations were “willful,”
+
+which would extend the statute of limitations period to three years. Opp. Mot. Summ. J. 1, ECF
+
+45.
+
+       Under the FLSA, claims must be commenced within “two years after the cause of action
+
+accrued . . . except that a cause of action arising out of a willful violation may be commenced
+
+within three years[.]” 29 U.S.C. § 255(a); Alvarez v. IBP, Inc., 339 F.3d 894, 908–09 (9th Cir.
+
+2003), aff’d, 546 U.S. 21 (2005) (internal quotation marks and citation omitted). “A violation is
+
+willful if the employer knew or showed reckless disregard for the matter of whether its conduct
+
+was prohibited by the FLSA.” Flores v. City of San Gabriel, 824 F.3d 890, 906 (9th Cir. 2016)
+
+(simplified) (citing Chao v. A–One Med. Servs., Inc., 346 F.3d 908, 920 (9th Cir. 2003)). “An
+
+
+
+
+8 – FINDINGS AND RECOMMENDATIONS
+        Case 3:21-cv-00965-YY          Document 118       Filed 11/02/23      Page 9 of 21
+
+
+
+
+employer need not violate the statute knowingly for its violation to be considered willful under §
+
+255(a), although ‘merely negligent’ conduct will not suffice[.]” Id. (simplified) (citing Alvarez,
+
+339 F.3d at 908; McLaughlin v. Richland Shoe Co., 486 U.S. 128, 133 (1988)). “The three-year
+
+statute of limitations may be applied where an employer disregarded the very possibility that it
+
+was violating the statute, although a court will not presume that conduct was willful in the
+
+absence of evidence.” Id. (simplified) (citing Alvarez, 339 F.3d at 908–09). The plaintiff bears
+
+the burden of establishing willfulness for statute of limitations purposes. Taylor v. AutoZone,
+
+Inc., No. 3:10-cv-08125-PCT-FJM, 2011 WL 13120815, at *1 (D. Ariz. Oct. 26, 2011) (citing
+
+McLaughlin, 486 U.S. at 135); Acosta v. Hoa Salon Roosevelt, Inc., No. 2:17-cv-00961-JLR,
+
+2019 WL 330197, at *6 (W.D. Wash. Jan. 25, 2019).
+
+       Plaintiff first asserts that defendants failed to adequately respond to “written discovery
+
+targeting the steps defendants took to (1) ascertain the dictates of the FLSA and (2) take active
+
+steps to comply with the FLSA[.]” Opp. Mot. Summ. J. 28, ECF 45. Defendants responded to
+
+those discovery requests by stating as follows: “Like most small businesses, [the club] does not
+
+have a dedicated staff member in charge of FLSA compliance. Nonetheless, the FLSA was
+
+complied with and all factors of the economic realities test were met with respect to plaintiff’s
+
+work as a performer at this venue.” Id.; see also Martinez Decl., Ex. 3 at 6, ECF 47-3. Plaintiff’s
+
+counsel characterizes this response as “word salad,” and describes some initial efforts to meet
+
+and confer with opposing counsel regarding the sufficiency of the response. Opp. Mot. Summ. J.
+
+28, ECF 45. On the current record, defendants’ response does not provide any evidentiary
+
+support for the proposition that defendants “showed reckless disregard for,” or failed to take
+
+“affirmative action to assure compliance with,” its FLSA obligations. Flores, 824 F.3d at 906.
+
+Plaintiff argues that further clarity on defendants’ discovery response is “one of the issues for
+
+
+
+
+9 – FINDINGS AND RECOMMENDATIONS
+       Case 3:21-cv-00965-YY          Document 118        Filed 11/02/23     Page 10 of 21
+
+
+
+
+which defendants’ depositions are necessary.” Opp. Mot. Summ. J. 28, ECF 45. However, as
+
+explained above, plaintiff failed to conduct the requested depositions before the deadline to do so
+
+expired.
+
+       Plaintiff next asserts that defendants’ willfulness can be shown by their lack of a good
+
+faith belief that plaintiff was an independent contractor and not an employee. Id. The issue of
+
+“good faith” under the FLSA arises in the context of determining what damages to award for an
+
+employer’s violation of the statute: “An employer who violates the FLSA ‘shall be liable to the
+
+employee or employees affected in the amount of their unpaid minimum wages, or their unpaid
+
+overtime compensation, as the case may be, and in an additional equal amount as liquidated
+
+damages.’ ” Flores, 824 F.3d at 904–05 (quoting 29 U.S.C. § 216(b)). “However, if the employer
+
+shows that it acted in ‘good faith’ and that it had ‘reasonable grounds’ to believe that its actions
+
+did not violate the Act, ‘the court may, in its sound discretion, award no liquidated damages[.]’ ”
+
+Id. (quoting 29 U.S.C. § 260). The employer bears the burden to establish good faith by showing
+
+it “had an honest intention to ascertain and follow the dictates of the Act and that it had
+
+reasonable grounds for believing that its conduct complied with the Act.” Id. at 905 (simplified).
+
+       It is true that the issues of “good faith” and “willfulness” are necessarily intertwined. See
+
+Chao, 346 F.3d at 920 (“Of course, a finding of good faith is plainly inconsistent with a finding
+
+of willfulness.”) (citing Bothell v. Phase Metrics, Inc., 299 F.3d 1120, 1130 (9th Cir. 2002)
+
+(noting the contrapositive, that a finding of good faith precludes a finding of willfulness)). But
+
+that does not mean the two concepts are interchangeable. See Alvarez, 339 F.3d at 9110 (“Even a
+
+finding that the employer did not act willfully does not preclude an award of liquidated
+
+damages.”) (simplified) (quoting Cox v. Brookshire Grocery Co., 919 F.2d 354, 357 (5th Cir.
+
+1990)). For one, the plaintiff bears the burden to establish willfulness, while the employer bears
+
+
+
+
+10 – FINDINGS AND RECOMMENDATIONS
+       Case 3:21-cv-00965-YY          Document 118        Filed 11/02/23      Page 11 of 21
+
+
+
+
+the burden to establish good cause—thus the “double damages” based on an employer’s lack of
+
+good faith is “the norm,” while the three-year statute of limitations for a willful violation is “not
+
+the norm.” Tumulty v. FedEx Ground Package Sys., Inc., No. 2:04-cv-01425-MJP, 2005 WL
+
+1979104, at *7 (W.D. Wash. Aug. 16, 2005) (explaining “[t]here is a distinct difference between
+
+the double damages determination and the willfulness determination”).
+
+       Here, plaintiff has failed to produce evidence sufficient to raise a question of fact as to
+
+defendants’ willfulness. At the hearing on the current motion, plaintiff’s counsel argued that
+
+willfulness can be shown by (1) defendants’ use of an “Independent Contractor Agreement” that
+
+designated plaintiff as an independent contractor and not an employee of the club, and (2) the
+
+existence of many federal court decisions from around the country that, according to plaintiff,
+
+have “summarily rejected” arguments from “exotic dance clubs” that the entertainers who
+
+worked in the clubs should be classified as independent contractors instead of employees. See
+
+also Opp. Mot. Summ. J. 29–30, ECF 45; Mot. Summ. J. 4–5, ECF 42 (citing Answer, Ex. A at
+
+1, ECF 20-1 (Independent Contractor Agreement)).
+
+       But plaintiff has not explained or otherwise cited to any authority to support the
+
+proposition that defendants’ use of a written independent contractor agreement, standing alone, is
+
+indicative of their “reckless disregard” for the requirements under the FLSA. Plaintiff cites to
+
+some two dozen cases, and states that defendants could not have in good faith believed that they
+
+were complying with the FLSA in the face of this “overwhelming federal authority that dancers
+
+are employees[.]” Opp. Mot. Summ. J. 29–31, ECF 45. But only one of the cited cases is from a
+
+court in the Ninth Circuit, and in that case the question whether the entertainers were
+
+independent contractors or employees for FLSA purposes was not at issue. See Thornton v.
+
+Crazy Horse, Inc., No. 3:06-cv-00251-TMB, 2012 WL 2175753, at *1 (D. Alaska June 14, 2012)
+
+
+
+
+11 – FINDINGS AND RECOMMENDATIONS
+       Case 3:21-cv-00965-YY          Document 118       Filed 11/02/23      Page 12 of 21
+
+
+
+
+(analyzing FLSA claims on behalf of plaintiffs who were “formerly employed” by defendants).
+
+Plaintiff has not cited any case from the Ninth Circuit establishing that entertainers such as
+
+plaintiff are properly classified as “employees,” and has offered no authority or analysis
+
+explaining why defendants should have relied on these out-of-circuit cases to make changes to
+
+their business practices. See Carlino v. CHG Med. Staffing, Inc., 460 F. Supp. 3d 959, 971 (E.D.
+
+Cal. 2020) (denying plaintiff’s motion for summary judgment on the issue of willfulness in part
+
+because “there is no Ninth Circuit authority addressing the specific issue of whether per diems
+
+that vary with the amount of hours worked in a week are part of an employee’s regular rate”).
+
+       Moreover, there are other cases not cited by plaintiff where the entertainers were properly
+
+classified as independent contractors based on their individualized facts. Hilborn v. Prime Time
+
+Club, Inc., No. 4:11-cv-00197-BSM, 2012 WL 9187581, at *1 (E.D. Ark. July 12, 2012) (ruling
+
+on summary judgment that entertainers were not employees of defendant-club under FLSA);
+
+Nelson v. Texas Sugars, Inc., 838 F. App’x 39, 43 (5th Cir. 2020) (affirming jury verdict that
+
+entertainers were not employees under FLSA); State ex rel. Roberts v. Acropolis McLoughlin,
+
+Inc., 150 Or. App. 180, 192–93 (1997) (affirming ruling that entertainers were not employees of
+
+the club under Oregon law after a certain date). Thus, even assuming a majority of cases have
+
+found that entertainers were employees under the FLSA, there is some conflict in the case law
+
+that supports defendants’ position. See Carlino, 460 F. Supp. 3d at 971 (ruling that the two-year
+
+statute of limitation applied to an FLSA action in part because the defendant “adopted a position
+
+that was supported by [a] district court’s decision” and thus was not a willful FLSA violation,
+
+even though the position was “inconsistent with that taken by other circuits and has since been
+
+rejected by other district courts in California who have been called upon to consider it”). This
+
+split in authority is understandable given the “fact-intensive” analysis required to determine
+
+
+
+
+12 – FINDINGS AND RECOMMENDATIONS
+       Case 3:21-cv-00965-YY          Document 118       Filed 11/02/23      Page 13 of 21
+
+
+
+
+whether an individual is properly classified as an independent contractor or employee. See Perez
+
+v. Oak Grove Cinemas, Inc., 68 F. Supp. 3d 1234, 1242 (D. Or. 2014) (explaining that “[c]ourts
+
+consider the facts as a whole and rely on six factors to analyze the economic realities of the
+
+relationship” in determining whether individual is an employee under the FLSA).
+
+       Finally, plaintiff offers no evidence showing that defendants failed to take any
+
+affirmative action in light of what the cases cited by plaintiff purportedly required them to do.
+
+See In re City of Redondo Beach FLSA Litig., No. 2:17-cv-09097-ODW-SKX, 2019 WL
+
+6310264, at *10 (C.D. Cal. Nov. 25, 2019) (finding plaintiffs failed to establish willfulness
+
+because they “cite[d] to absolutely no factual or evidentiary support” showing that the defendant
+
+“took no affirmative action in light of” new case law); cf. Acosta v. Senvoy, LLC, No. 3:16-cv-
+
+2293-PK, 2018 WL 3722210, at *10 (D. Or. July 31, 2018) (finding willful violation where
+
+undisputed evidence showed that defendant was aware of new decisions from the Ninth Circuit
+
+and the Oregon Employment Department, “but did not seek legal advice on how these rulings
+
+might affect Defendants’ compliance with the FLSA”).
+
+       In sum, there are simply no facts in the record to support a finding that defendants’
+
+conduct was willful here, and thus the two-year statute of limitations applies. See Hoa Salon,
+
+2019 WL 330197 at *7 (“[M]erely negligent conduct will not suffice [to establish willfulness],
+
+and a court will not presume that conduct is willful in the absence of evidence[.]”) (internal
+
+quotation marks omitted) (citing McLaughlin, 486 U.S. at 133; Alvarez, 339 F.3d at 909)
+
+(internal citation omitted); Flores v. City of San Gabriel, 824 F.3d 890, 906 (9th Cir. 2016) (“An
+
+employer need not violate the statute knowingly for its violation to be considered ‘willful’ under
+
+[the FLSA], although ‘merely negligent’ conduct will not suffice.”) (internal citations omitted).
+
+Plaintiff last performed at defendants’ club in March of 2019, and plaintiff commenced this
+
+
+
+
+13 – FINDINGS AND RECOMMENDATIONS
+       Case 3:21-cv-00965-YY         Document 118        Filed 11/02/23     Page 14 of 21
+
+
+
+
+action on June 28, 2021. Plaintiff’s FLSA claims, which include plaintiff’s first through fifth
+
+claims for relief, are therefore barred as untimely. See First Am. Compl. ¶¶ 99–136, ECF 16.
+
+V.     Retaliation Claims
+
+       Defendants also seek summary judgment on plaintiff’s retaliation claims under the FLSA,
+
+Oregon state law, and Oregon public policy. Mot. Summ. J. 25, ECF 42. Plaintiff asserts these
+
+retaliation claims solely against individual defendant Faillace, who is a joint owner of Sassy’s
+
+(the primary club at which plaintiff performed between 2018 and 2019) and Dante’s (another
+
+club in Portland where plaintiff performed twice in the summer of 2021). See First Am. Compl.
+
+¶¶ 132–136, ECF 16; Faillace Decl. ¶¶ 2–3, ECF 44; Ridgeway Decl., Ex. D (Hollis Dep.)
+
+75:20–25, ECF 43-4; Hollis Decl. ¶¶ 3, 52, ECF 46. Sometime around June of 2021, plaintiff
+
+was “invited” to perform at Dante’s Sinferno Cabaret show, a weekly event that has been
+
+running for over twenty years, and which features a variety of acts including “fire shows,
+
+burlesque performances, contortion, juggling,” pole dancing, and more. Faillace Decl. ¶ 3, ECF
+
+44; Hollis Dep. 76:4-14, ECF 43-4; Martinez Decl., Ex. 22 at 2–3, ECF 47-22.
+
+       On June 28, 2021, plaintiff filed the initial complaint in this lawsuit, which named only
+
+Sassy’s and two of the managers of that club—Mayhood and Hannigan. See Compl. ¶¶ 10–14,
+
+ECF 1. On July 19, 2021, Faillace emailed plaintiff to say that plaintiff could no longer perform
+
+at Dante’s because of the lawsuit against Sassy’s:
+
+       I have been dreading writing this to you, and our attorney has cautioned against it,
+       but you and I have had a good working relationship over the last year, and out of
+       respect for that I thought it best that I write you directly.
+
+       As you may or may not remember, I am one of the partners in Sassy’s. A few
+       days ago we were served papers there for a class action lawsuit, of which you are
+       the primary plaintiff.
+
+       That makes things complicated. Especially since it is regarding the claim of being
+       an employee versus an independent contractor as stated in the contract with
+
+
+
+14 – FINDINGS AND RECOMMENDATIONS
+       Case 3:21-cv-00965-YY          Document 118        Filed 11/02/23     Page 15 of 21
+
+
+
+
+       Sassy’s. Since you would be performing at Dante’s as an independent contractor,
+       that puts another business that I’m a partner in at risk for a lawsuit. Therefore, we
+       have been strongly advised to not have you perform at Dante’s.
+
+Martinez Decl., Ex. 21 at 1, ECF 47-21 (excerpted). On August 24, 2021, plaintiff filed a First
+
+Amended Complaint that added Faillace as a defendant and asserted the FLSA and state law
+
+retaliation claims, as well as other FLSA wage claims, against him. First Am. Compl. ¶¶ 132–
+
+150, ECF 16.
+
+       Because of the close temporal proximity between Faillace’s email and plaintiff’s filing of
+
+the First Amended Complaint, the FLSA retaliation claim is not subject to the same analysis
+
+regarding timeliness as plaintiff’s FLSA wage-related claims. But even assuming, without
+
+deciding, that plaintiff’s FLSA retaliation claim against Faillace is independently viable after
+
+plaintiff’s other FLSA wage-related claims are dismissed as untimely, see Pl. Supp. Br. 2, ECF
+
+116, defendants are entitled to summary judgment on plaintiff’s FLSA retaliation claim because
+
+plaintiff was not an employee of Dante’s or Faillace’s at the time of the alleged retaliation.
+
+       The FLSA’s anti-retaliation provision provides that it “shall be unlawful for any person . .
+
+. to discharge or in any other manner discriminate against any employee because such employee
+
+has filed any complaint . . . under or related to this chapter.” 29 U.S.C. § 215(a)(3) (emphasis
+
+added); see also Arias v. Raimondo, 860 F.3d 1185, 1189 (9th Cir. 2017). Plaintiff seems to
+
+argue that, despite the plain language of the statute prohibiting retaliation “against any
+
+employee,” it is not necessary to analyze whether plaintiff was an employee of Faillace or
+
+Dante’s in 2021 at the time of the alleged retaliatory conduct. Opp. Mot. Summ. J. 32, ECF 45.
+
+Plaintiff relies on Arias, in which the Ninth Circuit held that the term “any person” in the FLSA
+
+anti-retaliation provision “reach[es] beyond actual employers” to cover individuals like the
+
+defendant in that case, who was an attorney working on behalf of the client-employer. Arias, 860
+
+
+
+
+15 – FINDINGS AND RECOMMENDATIONS
+       Case 3:21-cv-00965-YY          Document 118       Filed 11/02/23       Page 16 of 21
+
+
+
+
+F.3d at 1191–92. But in Arias, there was no dispute that an employment relationship existed
+
+between the plaintiff and the dairy company where plaintiff worked. Id. at 1186–87. Thus, the
+
+case simply has no relevance here because the key question posed by the pending motion is
+
+whether plaintiff was an “employee” at the time of the alleged retaliation.
+
+       The undisputed evidence in the record shows that plaintiff was not an employee of
+
+Faillace or Dante’s at the time of Faillace’s email in July of 2021. The Ninth Circuit uses the
+
+“economic realities test” to determine employment status under the FLSA. Perez, 68 F. Supp. 3d
+
+at 1242 (citing Boucher v. Shaw, 572 F.3d 1087, 1091 (9th Cir. 2009)) (additional citations
+
+omitted). There are six factors to consider:
+
+       1) The degree of the alleged employer’s right to control the manner in which the
+          work is to be performed;
+       2) The alleged employee’s opportunity for profit or loss depending upon his
+          managerial skill;
+       3) The alleged employee’s investment in equipment or materials required for his
+          task, or his employment of helpers;
+       4) Whether the service rendered requires a special skill;
+       5) The degree of permanence of the working relationship; and
+       6) Whether the service rendered is an integral part of the alleged employer’s
+          business.
+
+Id. (citing Donovan v. Sureway Cleaners, 656 F.2d 1368, 1370 (9th Cir. 1981)). “The presence
+
+of any individual factor is not dispositive of whether an employee/employer relationship exists.”
+
+Real v. Driscoll Strawberry Assocs., Inc., 603 F.2d 748, 754 (9th Cir. 1979). Instead, the
+
+determination depends “upon the circumstances of the whole activity.” Id. (citation omitted); see
+
+also Olson v. United States by & through Dep’t of Energy & Bonneville Power Admin., No.
+
+3:15-cv-02216-HZ, 2018 WL 2090604, at *6 (D. Or. Apr. 30, 2018).
+
+       It is undisputed that Dante’s is a “a live performance venue hosting a broad range of
+
+shows, including live music, karaoke with a live band, and cabaret shows, which include many
+
+unique acts such as fire performances, pole dances, DJs, circus acts, and burlesque.” Faillace
+
+
+
+16 – FINDINGS AND RECOMMENDATIONS
+       Case 3:21-cv-00965-YY           Document 118        Filed 11/02/23      Page 17 of 21
+
+
+
+
+Decl. ¶ 2, ECF 44. It is also undisputed that sometime in 2021, plaintiff was invited to perform at
+
+Dante’s weekly cabaret show based in part on their skills as a pole dancer. Hollis Dep. 86:22–
+
+87:7, ECF 43-4. According to Faillace, “Dante’s invites only the most skilled and talented
+
+performers to perform at Sinfemo Cabaret and allows the performers to perform how they wish,
+
+as it is their art on display, after all.” Faillace Decl. ¶ 3, ECF 44. Plaintiff’s two performances at
+
+the cabaret were “one-off events,” for which plaintiff spent “a bunch of time . . . planning what
+
+the routine would be” because it was “choreographed.” Hollis Dep. 78:13–16, 103:4–7. ECF 43-
+
+4. Plaintiff thought the work at Dante’s was different than the work at Sassy’s because of the
+
+preparation and choreography that was involved. Id. at 102:25–103:7. 5
+
+       The working relationship between plaintiff and Dante’s was temporary, and plaintiff’s
+
+performances were not “integral” to Dante’s business. The Sinferno Cabaret is a weekly event
+
+that has been running for over twenty years; plaintiff performed there just two times, and the
+
+performance was for one song, a small part of an overall show that lasted more than two hours
+
+and featured at least nine other performances. Id. at 75:23–78:2; see also Faillace Decl. ¶ 3, ECF
+
+44; Martinez Decl., Ex. 22 at 3, ECF 47-22. Plaintiff asserts that Dante’s had “rules, policies, and
+
+requirements” to follow, and that Dante’s determined how much to charge customers. Opp. Mot.
+
+Summ. J. 33, ECF 45. But it is undisputed that plaintiff had full artistic control over their
+
+performances at Dante’s. Faillace Decl. ¶ 3, ECF 44. And the fact that the Sinferno Cabaret was
+
+a ticketed event whereby Dante’s controlled customer access or made money from ticket sales
+
+
+
+5
+  The court affords little weight to plaintiff’s assertions in their post-deposition declaration that
+the “only difference” between their work at Sassy’s and Dante’s was that their performance “was
+for a specific time and not recurring throughout the night as in Sassy’s.” Hollis Decl. ¶ 55, ECF
+46; see Brewer v. Gen. Nutrition Corp., No. 4:11-cv-3587-YGR, 2014 WL 5877695, at *12
+(N.D. Cal. Nov. 12, 2014) (explaining that declarations “carr[y] less weight than spontaneous
+statements made [in] depositions, particularly where the deposition testimony is at odds with the
+declaration”).
+
+
+17 – FINDINGS AND RECOMMENDATIONS
+       Case 3:21-cv-00965-YY           Document 118        Filed 11/02/23      Page 18 of 21
+
+
+
+
+simply reflects the club’s business model as a live performance venue, and does not transform
+
+plaintiff’s two-time, five-minute performances into an employment relationship with Dante’s.
+
+See Boucher, 572 F.3d at 1091 (“The determination of whether an employer-employee
+
+relationship exists does not depend on isolated factors but rather upon the circumstances of the
+
+whole activity.”) (citation and quotation marks omitted). Thus, while Faillace’s email may have
+
+been misguided, unwise, or even malicious, it does not run afoul of the FLSA’s prohibition on
+
+retaliating against “an employee.” 29 U.S.C. § 215(a)(3).
+
+       Having determined that plaintiff’s FLSA wage-related claims are barred as untimely and
+
+plaintiff’s FLSA retaliation claim against Faillace fails as a matter of law, the last task is to
+
+evaluate plaintiff’s remaining claims against Faillace for state law retaliation under O.R.S.
+
+659A.230 and common law wrongful termination in violation of public policy. See First Am.
+
+Compl. ¶¶ 137–50, ECF 16. Faillace asserts that these state law claims are subject to the same
+
+analysis as plaintiff’s FLSA retaliation claims—in other words, that these claims also fail as a
+
+matter of law because there is no employment relationship between plaintiff and Faillace or
+
+Dante’s. Mot. Summ. J. 25–28, ECF 42. Neither party has fully explored the contours of these
+
+state law claims or whether the same FLSA factors are used in determining whether an
+
+employment relationship exists in the context of these state law claims. See id.; Opp. Mot.
+
+Summ. J. 32–34, ECF 45; Reply 31–32. ECF 51. And while defendants’ position has some facial
+
+appeal, defendants’ briefing is short on citations to applicable authority and the court’s own
+
+research has not revealed a clear answer for exactly how to proceed. See, e.g., Dinicola v. State,
+
+280 Or. App. 488, 506 (2016) (examining meaning of “employee” in various Oregon statutes and
+
+distinguishing from FLSA definition of “employee” in certain circumstances).
+
+
+
+
+18 – FINDINGS AND RECOMMENDATIONS
+       Case 3:21-cv-00965-YY          Document 118         Filed 11/02/23     Page 19 of 21
+
+
+
+
+       The court, recognizing the potential that its subject matter jurisdiction may be implicated
+
+if plaintiff’s federal claims fell away, asked the parties to submit additional briefing on the
+
+question of “whether the court should exercise supplemental jurisdiction over plaintiff’s state law
+
+claims if summary judgment is granted in defendant’s favor on plaintiff’s FLSA claims.” Order
+
+(Sept. 21, 2023), ECF 115; see also Cal. Diversified Promotions, Inc. v. Musick, 505 F.2d 278,
+
+280 (9th Cir. 1974) (“It has long been held that a judge can dismiss sua sponte for lack of
+
+jurisdiction.”); FED. R. CIV. P. 12(h)(3) (“If the court determines at any time that it lacks subject-
+
+matter jurisdiction, the court must dismiss the action.”). Both sides filed supplemental briefing.
+
+In plaintiff’s supplemental briefing, plaintiff reasserted the merits of their willfulness argument
+
+and argued that the retaliation claim remained viable even if the court found that the FLSA
+
+wage-related claims were untimely. Pl. Supp. Br., ECF 116. The defense provided some
+
+additional argument for why the state law claims require an employee relationship, and argued,
+
+alternatively, that the court should decline to exercise supplemental jurisdiction if the federal
+
+claims are dismissed.
+
+       Again, as detailed above, all of plaintiff’s federal law claims are barred as untimely or
+
+otherwise fail as a matter of law, and given there is a lack of clarity on how to evaluate plaintiff’s
+
+state law claims at this juncture, it is appropriate to decline to exercise supplemental jurisdiction
+
+over plaintiff’s state law claims. 28 U.S.C. § 1367(c)(3); Acri v. Varian Assocs., Inc., 114 F.3d
+
+999, 1001 (9th Cir. 1997) (“The Supreme Court has stated, and we have often repeated, that ‘in
+
+the usual case in which all federal-law claims are eliminated before trial, the balance of factors . .
+
+. will point toward declining to exercise jurisdiction over the remaining state-law claims.’ ”)
+
+(quoting Carnegie–Mellon Univ. v. Cohill, 484 U.S. 343, 350 n.7 (1988)); Fichman v. Media
+
+Ctr., 512 F.3d 1157, 1162–63 (9th Cir. 2008) (“Having granted judgment on the federal claims,
+
+
+
+
+19 – FINDINGS AND RECOMMENDATIONS
+       Case 3:21-cv-00965-YY          Document 118        Filed 11/02/23     Page 20 of 21
+
+
+
+
+the district court did not abuse its discretion in declining to exercise supplemental jurisdiction
+
+over the state claims.”).
+
+                                    RECOMMENDATIONS
+
+       Defendants’ motion for summary judgment, ECF 42, and renewed motion for summary
+
+judgment, ECF 98, should be granted in part and denied in part. Summary judgment should be
+
+granted as to plaintiff’s FLSA wage-related claims because those claims were not filed within the
+
+two-year statute of limitations and there is no evidence that defendants acted willfully for
+
+purposes of extending the limitations period to three years. Summary judgment should be
+
+granted as to plaintiff’s FLSA retaliation claim against defendant Faillace because the undisputed
+
+evidence shows that plaintiff was not an employee of Faillace or Dante’s at the time of the
+
+alleged retaliation. Where all of plaintiff’s federal claims are dismissed, supplemental
+
+jurisdiction should be declined as to plaintiff’s remaining state law claims, which should be
+
+dismissed without prejudice.
+
+                                     SCHEDULING ORDER
+
+       These Findings and Recommendations will be referred to a district judge. Objections, if
+
+any, are due Thursday, November 16, 2023. If no objections are filed, then the Findings and
+
+Recommendations will go under advisement on that date.
+
+       If objections are filed, then a response is due within 14 days after being served with a
+
+copy of the objections. When the response is due or filed, whichever date is earlier, the Findings
+
+and Recommendations will go under advisement.
+
+//
+
+//
+
+//
+
+
+
+
+20 – FINDINGS AND RECOMMENDATIONS
+       Case 3:21-cv-00965-YY         Document 118       Filed 11/02/23    Page 21 of 21
+
+
+
+
+                                            NOTICE
+
+       These Findings and Recommendations are not an order that is immediately appealable to
+
+the Ninth Circuit Court of Appeals. Any Notice of Appeal pursuant to Rule 4(a)(1), Federal
+
+Rules of Appellate Procedure, should not be filed until entry of a judgment.
+
+       DATED November 2, 2023.
+
+
+
+                                                                   /s/ Youlee Yim You
+                                                              Youlee Yim You
+                                                              United States Magistrate Judge
+
+
+
+
+21 – FINDINGS AND RECOMMENDATIONS

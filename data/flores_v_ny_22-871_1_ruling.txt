@@ -1,0 +1,2092 @@
+UNITED STATES DISTRICT COURT                        DATE FILED:  01/04/ 2024  
+SOUTHERN DISTRICT OF NEW YORK                                             
+-------------------------------------------------------------- X         
+BRIAN FLORES, STEVE WILKS, and RAY  :                                    
+HORTON, as Class Representatives, on  :                                  
+behalf of themselves and all others similarly  :                         
+situated,                         :                                      
+                                  :                                      
+                         Plaintiffs,  :                                  
+               -against-          :                                      
+                                  :                                      
+THE NATIONAL FOOTBALL LEAGUE; NEW  :                                     
+YORK FOOTBALL GIANTS, INC. d/b/a NEW  :                                  
+YORK GIANTS; MIAMI DOLPHINS, LTD. d/b/a :  22-CV-0871 (VEC)              
+MIAMI DOLPHINS; DENVER BRONCOS    :                                      
+FOOTBALL CLUB d/b/a DENVER BRONCOS;  :  OPINION AND ORDER                
+HOUSTON NFL HOLDINGS, L.P. d/b/a  :                                      
+HOUSTON TEXANS; ARIZONA CARDINALS  :                                     
+FOOTBALL CLUB LLC d/b/a ARIZONA   :                                      
+CARDINALS; TENNESSEE TITANS       :                                      
+ENTERTAINMENT, INC. d/b/a TENNESSEE,  :                                  
+TITANS and JOHN DOE TEAMS 1 through 26,   :                              
+                                  :                                      
+                         Defendants.  :                                  
+-------------------------------------------------------------- X         
+VALERIE CAPRONI, United States District Judge:                            
+    Plaintiffs, who are current and former coaches for teams in the National Football League 
+(the “NFL”), have sued the NFL and various member teams for racial discrimination and 
+retaliation in violation of 42 U.S.C. § 1981 and several state laws.  See Am. Compl., Dkt. 22.  On 
+March 1, 2023, the Court granted in part and denied in part Defendants’ motion to compel 
+arbitration.  See Op. & Order, Dkt. 76 (the “Arbitration Opinion”).  The Court compelled 
+arbitration of the claims brought by Ray Horton against the Tennessee Titans, Steve Wilks 
+against the Arizona Cardinals, and Brian Flores against the Miami Dolphins, as well as all 
+related claims against the NFL.1  Id.  The Court denied the parties’ motions for reconsideration 
+1    The Court denied the motion to compel arbitration of Mr. Flores’s claims against the New York Giants, the 
+Denver Broncos, and the Houston Texans, as well as his related claims against the NFL.  See Arbitration Opinion, 
+Dkt. 76.                                                                  
+on July 25, 2023.  See Op. & Order, Dkt. 102 (the “Reconsideration Opinion”).  Defendants 
+appealed to the Second Circuit those portions of the Arbitration Opinion and the Reconsideration 
+Opinion (together, the “Opinions”) that denied their motion to compel arbitration.  See Not. of 
+Appeal, Dkt. 113.  Plaintiffs both cross-appealed those portions of the Opinions that compelled 
+arbitration, see Not. of Cross-Appeal, Dkt. 122, and filed the instant motion, pursuant to 28 
+
+U.S.C. § 1292(b), to certify for appeal certain legal issues that led the Court to compel 
+arbitration, see Not. of Mot., Dkt. 119.  For the following reasons, Plaintiffs’ motion is DENIED. 
+                          DISCUSSION2                                    
+    I.   Legal Standard                                                  
+    Under 28 U.S.C. § 1292(b), a district court may certify for appellate review any 
+interlocutory order that (1) “involves a controlling question of law,” (2) “as to which there is 
+substantial ground for difference of opinion,” and (3) where “an immediate appeal from the order 
+may materially advance the ultimate termination of the litigation.”  That statute creates a narrow 
+exception to the “basic tenet of federal law” that appellate review should follow final judgment. 
+
+Koehler v. Bank of Bermuda Ltd., 101 F.3d 863, 865 (2d Cir. 1996) (citation omitted).  The 
+Second Circuit has held that interlocutory appeals “must be strictly limited to the precise 
+conditions stated in the law.”  Klinghoffer v. S.N.C. Achille Lauro, 921 F.2d 21, 25 (2d Cir. 
+1990) (internal quotation marks and citation omitted).                    
+    As to the first criterion, a controlling question of law “must [be] a ‘pure’ question of law 
+that the reviewing court could decide quickly and cleanly without having to study the record.”  In 
+re Adelphia Commc’ns Corp., 333 B.R. 649, 658 (S.D.N.Y. 2005) (quoting In re Worldcom, Inc., 
+No. M–47 HB, 2003 WL 21498904, at *10 (S.D.N.Y. June 30, 2003)).  The question must also 
+
+2    The Court assumes familiarity with the factual background set forth in the Arbitration Opinion.  See 
+Arbitration Opinion at 2–5.                                               
+be “controlling,” meaning that reversal of the order would “‘result in dismissal of the action’”; 
+reversal of the order could “‘significantly affect the conduct of the action’”; or the issue on 
+appeal “‘has precedential value for a large number of cases.’”  In re Facebook, Inc., IPO Secs. & 
+Derivative Litig., 986 F. Supp. 2d 524, 535–36 (S.D.N.Y. 2014) (quoting Glatt v. Fox 
+Searchlight Pictures Inc., No. 11-CV-6784 (WHP), 2013 WL 5405696, at *2 (S.D.N.Y. Sept. 17, 
+
+2013)).                                                                   
+    As to the second criterion, a “substantial ground for difference of opinion” exists where 
+“‘there is conflicting authority on the issue’” or where “‘the issue is particularly difficult and of 
+first impression in the Second Circuit.’”  Hometrust Mortg. Co. v. Lehman Bros. Holdings, Inc., 
+No. 15-CV-4060 (WHP), 2015 WL 5674899, at *2 (S.D.N.Y. Sept. 25, 2015) (quoting Capitol 
+Records, LLC v. Vimeo, LLC, 972 F. Supp. 2d 537, 551 (S.D.N.Y. 2013)).    
+    As to the third criterion, an appeal “advance[s] the ultimate termination of the litigation” 
+if the appeal promises to “‘advance the time for trial or shorten the time required for trial.’” 
+Primavera Familienstifung v. Askin, 139 F. Supp. 2d 567, 570 (S.D.N.Y. 2001) (quoting In re 
+
+Oxford Health Plans, Inc., 182 F.R.D. 51, 53 (S.D.N.Y. 1998)).            
+    Even when all three criteria are met, a district court retains “unfettered discretion” to 
+deny leave to appeal for “any reason,” including judicial economy.  In re Facebook, 986 F. Supp. 
+2d at 530 (quoting Klinghoffer, 921 F.2d at 24).  As a general rule, interlocutory appeals are 
+“strongly disfavored” in the federal system.  Id. (internal quotation marks and citation omitted).  
+They should be “strictly reserved for exceptional cases,” and they are “especially rare in early 
+stages of litigation.”  Id. at 533; see also In re Flor, 79 F.3d 281, 284 (2d Cir. 1996) (discussing 
+the “exceptional” circumstances justifying interlocutory appeal).         
+    II.  Plaintiffs Fail to Establish Exceptional Circumstances Warranting
+         Certification for Appellate Review                              
+    Plaintiffs request that the Court certify for appeal (1) whether an arbitration agreement 
+that is not the result of collective bargaining is unconscionable and therefore unenforceable if it 
+designates a biased party representative as arbitrator to resolve statutory discrimination claims 
+(the “Unconscionability Issue”); and (2) whether the effective vindication doctrine renders an 
+arbitration agreement unenforceable if it designates a biased party representative as arbitrator to 
+resolve statutory discrimination claims (the “Effective Vindication Issue”) (together, the “Issues 
+for Appeal”).  See Pls. Mem., Dkt. 120, at 3.  These issues do not qualify for interlocutory appeal 
+because they do not present controlling questions of law, do not raise a substantial ground for 
+difference of opinion, and would not materially advance this litigation if resolved by the Second 
+
+Circuit, which Plaintiffs assert has pendant appellate jurisdiction over their cross-appeal.3     
+         A. Pure and Controlling Questions of Law                        
+    Plaintiffs assert that the Issues for Appeal involve pure questions of law that can be 
+decided without studying “any substantial record” because this Court decided them without the 
+benefit of discovery.  See Pls. Mem. at 5.  Plaintiffs are misguided.     
+
+
+3    Although the filing of a notice of appeal ordinarily “divests a district court of jurisdiction over the issues 
+presented in the appeal,” Ret. Bd. of the Policemen’s Annuity & Benefit Fund of Chi. v. Bank of N.Y. Mellon, 775 
+F.3d 154, 159 n.4 (2d Cir. 2014) (citing Griggs v. Provident Consumer Disc. Co., 459 U.S. 56, 58 (1982)), a district
+court may still take action “in aid of the appeal,” New York v. DHS, 974 F.3d 210, 215 (2d Cir. 2020) (quoting Int’l
+Ass’n of Machinists & Aerospace Workers, AFL-CIO v. E. Air Lines, Inc., 847 F. 2d 1014, 1017 (2d Cir. 1988)); see
+also Hoffenberg v. United States, No. 00-CV-1686 (RWS), 2004 WL 2338144, at *4 (S.D.N.Y. Oct. 18, 2004)
+(deciding a plaintiff’s motion for interlocutory appeal on the merits even though the plaintiff had already filed a
+notice of appeal “in aid of the appellate jurisdiction of the Court of Appeals and in the interest of judicial
+economy”).  Moreover, even if the Court lacks jurisdiction to grant Plaintiffs’ motion, it may still deny it pursuant to
+Federal Rule of Civil Procedure 62.1 (“Rule 62.1”).  Because the Court denies Plaintiffs’ motion for the reasons
+discussed infra, it need not decide whether it would have jurisdiction to grant it.  See Paguirigan v. Prompt Nursing
+Empl. Agency LLC, No. 17-CV-1302 (NG) (JO), 2020 WL 239456, at *1 n.1 (E.D.N.Y. Jan. 9, 2020) (denying a
+motion for interlocutory appeal certification of certain legal issues where the movant had already filed a notice of
+appeal of the Court’s decision including those issues and noting that the Court “need not assess, issue by issue, [its]
+jurisdiction over [the present] motion” because Rule 62.1 provided “express authority to deny it”) (citing Fed. R.
+Civ. P. 62.1)).                                                           
+    As a preliminary matter, Plaintiffs ignore that although discovery was unnecessary for the 
+Court to issue the Opinions, the Court considered allegations in the Amended Complaint, the 
+NFL rules and policies, and Plaintiffs’ employment contracts — a substantial factual record — 
+when resolving the parties’ motions.  Cf. Dill v. JPMorgan Chase Bank, N.A., No. 19-CV-10947 
+(KPF), 2021 WL 3406192, at *6 (S.D.N.Y. Aug. 4, 2021) (denying plaintiffs’ motion for 
+
+interlocutory appeal of a decision compelling arbitration in part because requiring the Second 
+Circuit to address “the interpretation and enforceability” of an arbitration provision would 
+“‘mandate an examination of the entire arbitration agreement’” (quoting In re Anderson, 550 
+B.R. 228, 237 (S.D.N.Y. 2016)).                                           
+    Plaintiffs’ argument also misinterprets the standard for certification.  A “pure” question 
+of law is “not synonymous with ‘an issue that might be free from a factual contest.’”  In re 
+Belton, No. 15-CV-1934 (VB), 2016 WL 164620, at *1 n.1 (S.D.N.Y. Jan. 12, 2016) (citation 
+omitted) (denying plaintiffs’ motion for interlocutory appeal of a decision compelling arbitration 
+in part because the Court’s determination “require[d] a particularized inquiry into the nature of 
+
+the claim” (internal quotation marks and citation omitted)).  Rather, a question of law is only 
+suitable for certification if it raises “an abstract legal issue.”  In re Worldcom, Inc., 2003 WL 
+21498904, at *10 (internal quotation marks and citation omitted).  Simply “refram[ing] the 
+factual issues in [the] case as questions of law” by “turning them into hypotheticals” is 
+insufficient.  Bishop v. Best Buy, Co. Inc., No. 08-CV-8427 (LBS), 2011 WL 4011449, at *13 
+(S.D.N.Y. Sept. 8, 2011); see also Goldfarb v. Channel One Russia, No. 18-CV-8128 (JPC), 
+2021 WL 1392850, at *10 (S.D.N.Y. Apr. 13, 2021) (“[D]isputes concerning the application of 
+the law to the specific facts of a case typically are not appropriate for an interlocutory appeal.” 
+(citations omitted)).4                                                    
+    The Unconscionability Issue does not raise a pure question of law because its resolution 
+would require the Second Circuit to assess whether Plaintiffs’ arbitration agreements are 
+unconscionable based on the unique facts of this case, including the NFL Commissioner’s role, 
+
+the NFL Commissioner’s statements, the language in Plaintiffs’ contracts, and the purported 
+absence of collective bargaining.  Far from raising a pure question of law, the Unconscionability 
+Issue would require the Second Circuit to pore over the factual circumstances surrounding 
+distinct arbitration agreements.  Such mixed factual and legal analysis is not suitable for 
+interlocutory appeal.  See, e.g., Cuadras v. MetroPCS Wireless, Inc., No. 09-CV-7897 (CAS), 
+2011 WL 11084069, at *4 (C.D. Cal. Oct. 11, 2011) (denying plaintiffs’ motion for interlocutory 
+appeal of a decision compelling arbitration despite plaintiffs’ argument that the agreement was 
+unconscionable because plaintiffs did not advance a pure question of law); Adler v. Dell, Inc., 
+No. 08-CV-13170 (GCS), 2009 WL 646885, at *2 (E.D. Mich. Mar. 10, 2009) (same because 
+
+“fact[-]specific inquiries” regarding the relevant agreement’s unconscionability were not pure 
+questions of law).                                                        
+    The Effective Vindication Issue5 is unsuitable for appeal on similar grounds.  Plaintiffs’ 
+framing of the issue assumes that the NFL Commissioner is “biased.”  Reaching that conclusion, 
+
+4    Courts, therefore, routinely conclude that pre-discovery opinions raise mixed questions of law and fact 
+rather than pure questions of law suitable for appeal.  See, e.g., SEC v. Bernard L. Madoff Inv. Secs. LLC, No. 23-
+CV-992 (AT), 2023 WL 5671544, at *2–3 (S.D.N.Y. Sept. 1, 2023) (denying defendants’ motion for interlocutory
+appeal of a decision denying a pre-discovery motion to dismiss because the court’s “routine application of law to the
+factual allegations in the complaint d[id] not present an issue of pure law” (citations omitted)); Altimeo Asset Mgmt.
+v.Qihoo 360 Tech. Co. Ltd., No. 19-CV-10067 (PAE), 2023 WL 4249356, at *18 (S.D.N.Y. June 29, 2023) (same
+because the case presented “an application of law to the unique set of facts pled in [the complaint]”).
+5    Plaintiffs argue that the NFL Commissioner’s alleged bias will prevent them from vindicating their claims 
+in arbitration.  The effective vindication doctrine is “a judge-made exception to the [Federal Arbitration Act]” that 
+“finds its origins in the desire to prevent prospective waiver of a party’s right to pursue statutory remedies.”  Am. 
+however, and determining the extent of any bias, would require a fact-specific analysis of the 
+NFL Commissioner’s role, the NFL Commissioner’s conduct, and the parties’ agreements.  
+Plaintiffs cannot obtain certification by embedding fact-specific assumptions in purported 
+questions of pure law.  See Bishop, 2011 WL 4011449, at *13 (concluding that the plaintiff did 
+not identify questions of pure law for certification because his proposed questions “depend[ed] 
+
+on” factual conclusions that had not been reached by the district court). 
+    For all of those reasons, the Issues for Appeal do not raise pure questions of law for 
+interlocutory review.6                                                    
+
+
+
+
+
+
+Express Co. v. Italian Colors Rest., 570 U.S. 228, 235–236 (2013) (internal quotation marks and citation omitted).  
+The Supreme Court has recognized two types of arbitration agreements to which this doctrine may apply: an 
+agreement “forbidding the assertion of certain statutory rights” and an agreement imposing arbitration fees “so high 
+as to make access to the forum impracticable.”  Id. at 236 (citation omitted). 
+
+6    Because the Issues for Appeal are not pure questions of law, the Court need not decide whether any pure 
+questions of law would be sufficiently “controlling” to warrant appeal.  Plaintiffs acknowledge, however, that the 
+“mere potential reversal of an order compelling arbitration” does not typically satisfy the “controlling” question of 
+law requirement.  Pls. Mem., Dkt. 120, at 6.                              
+
+    Plaintiffs also assert that the Court should grant their motion because Defendants are already appealing 
+those portions of the Opinions denying arbitration.  Plaintiffs argue that, under those circumstances, it would be 
+unfair to prevent Plaintiffs from appealing those portions of the Opinions compelling arbitration.  See Pls. Mem. at 
+7–8.  The Federal Arbitration Act (the “FAA”) expressly allows for this asymmetry, however, by only authorizing 
+interlocutory appeals of orders denying arbitration.  See 9 U.S.C. § 16.  The FAA thereby “endeavor[s] to promote 
+appeals from orders barring arbitration and limit appeals from orders directing arbitration.”  Augustea Impb Et 
+Salvataggi v. Mitsubishi Corp., 126 F.3d 95, 98 (2d Cir. 1997) (internal quotation marks and citation omitted); see 
+also Coinbase, Inc. v. Bielski, 599 U.S. 736, 740 (2023) (“Notably, Congress provided for immediate interlocutory 
+appeals of orders denying—but not of orders granting—motions to compel arbitration.”).  In any event, Plaintiffs 
+still have the opportunity to argue in favor of pendant appellate jurisdiction before the Second Circuit.  See The 
+Boeing Co. v. Egyptair, No. 05-5986 (CV), 2007 WL 1315716, at *2–3 (2d Cir. May 7, 2007) (noting that the 
+Second Circuit may exercise pendant appellate jurisdiction “(a) where an issue is inextricably intertwined with a 
+question that is the proper subject of an immediate appeal, or (b) where review of a jurisdictionally insufficient issue 
+is necessary to ensure meaningful review of a jurisdictionally sufficient one” (quoting U.S. Fidelity & Gar. Co. v. 
+Braspetro Oil Servs., Co., 199 F.3d 94, 97 (2d Cir. 1999)) (summary order).   
+         B. Substantial Ground for Difference of Opinion                 
+    Plaintiffs assert that there is substantial ground for difference of opinion regarding the 
+Issues for Appeal because “no definitive case law” by the Supreme Court or the Second Circuit 
+applies, amici objected to the Court’s reasoning, and courts in other jurisdictions adopted 
+Plaintiffs’ reasoning.  See Pls. Mem. at 12–16.  The Court disagrees.     
+
+    It is well established that “[s]imply because” a question of law has “not yet been directly 
+addressed by the Supreme Court or the Second Circuit” does not mean that it raises a reasonable 
+ground for difference of opinion.  Williston v. Eggleston, 410 F. Supp. 2d 274, 277 (S.D.N.Y. 
+2006) (collecting cases and concluding that interlocutory appeal was inappropriate).  In this case, 
+however, the Supreme Court and the Second Circuit have issued key decisions on the Issues for 
+Appeal; those decision simply do not align with Plaintiffs’ position.     
+    Regarding the Unconscionability Issue, the Second Circuit already rejected the argument 
+that, as a matter of law, the NFL Commissioner cannot fairly arbitrate claims regarding the 
+NFL’s conduct.  See Arbitration Opinion at 22–23 (discussing Nat’l Football League Mgmt. 
+
+Council v. Nat’l Football League Players Ass’n, 820 F.3d 527, 548 (2d Cir. 2016)); 
+Reconsideration Opinion at 13–14 (same).  Plaintiffs have not cited any applicable state law that 
+would require a contrary result.  See Arbitration Opinion at 16–17, 25–26 (analyzing Arizona, 
+Florida, and Tennessee contract law); Reconsideration Opinion at 15–16. 7   
+    As for the Effective Vindication Issue, the Supreme Court has not recognized alleged 
+structural bias in arbitration agreements as grounds for applying the effective vindication 
+
+7    Plaintiffs accuse the Court of “relying on out-of-jurisdiction case law” to support its reasoning, and of 
+selectively disregarding out-of-jurisdiction caselaw that favors Plaintiffs.  Pls. Mem. at 27.  The federal caselaw that 
+the Court cited in support of its decision applied the state laws at issue in this case.  See Arbitration Opinion at 24–
+25 (discussing Eleventh and Sixth Circuit cases applying Florida and Tennessee law).  The out-of-jurisdiction 
+decisions that the Court summarily disregarded, see id. at 25 n.25, are state law decisions that have no bearing on 
+this federal action involving Florida, Tennessee, and Arizona contract law.   
+doctrine.  To the contrary, Justice Kagan warned that the Supreme Court’s jurisprudence would 
+enable companies to appoint “obviously biased” arbitrators.  See Arbitration Opinion at 24 
+(discussing Am. Express Co. v. Italian Colors Rest., 570 U.S. 228 (2013)); Reconsideration 
+Opinion at 15 (same).8  Moreover, contrary to Plaintiffs’ position, federal law does provide 
+protection against biased arbitrators.  It does so, however, by allowing arbitration awards to be 
+
+overturned upon a showing of “evident partiality or corruption,” not by preventing arbitration 
+from the get-go.  See Arbitration Opinion at 23 (discussing Gilmer v. Interstate/Johnson Lane 
+Corp., 500 U.S. 20 (1991) and 9 U.S.C. § 10(a)(2)); Reconsideration Opinion at 13–14 (same). 
+    For all of those reasons, Plaintiffs have not established substantial ground for difference 
+of opinion regarding the Issues for Appeal.                               
+         C. Advancing the Ultimate Resolution of the Litigation          
+    Plaintiffs maintain that certifying the Issues for Appeal may materially advance the 
+ultimate termination of this case because, if the Court grants certification and the Second Circuit 
+rules in Plaintiffs’ favor, the parties will avoid wasting time in arbitration.  See Pls. Mem. at 23–
+
+24. For the reasons discussed supra, however, it is more likely that the Second Circuit would
+affirm the Court’s decision or decline to hear the appeal, resulting in “unnecessar[y]” delay.  
+Murray v. UBS Secs., LLC, No. 13-CV-5914 (KPF), 2014 WL 1316472, at *7 (S.D.N.Y. Apr. 1, 
+
+8    As Plaintiffs acknowledge, see Pls. Mem. at 22–23, the Court already distinguished federal caselaw from 
+other jurisdictions.  See Arbitration Opinion at 24 n.22.  The Court also found amici’s objections unpersuasive.  See 
+Reconsideration Opinion at 14 n.14.                                       
+    The law journal excerpt Plaintiffs cite in their favor, see Michael Conklin et al., Brian Flores’s Employment 
+Discrimination Lawsuit Against the NFL: A Game Changer or Business As Usual? [hereinafter “Conklin Article”], 
+29 Jeffrey S. Moorad Sports L. J. 299, 306 (2022) (“Unfortunately for the NFL, case law is clear regarding the 
+essential nature of arbitrator neutrality.”), is purportedly justified by a Supreme Court case that even Plaintiffs do not 
+reference because it is so far afield.  See Commonwealth Coatings Corp. v. Continental Cas. Co., 393 U.S. 145, 
+146–48 (1968) (wherein the parties’ arbitration agreement required them to select a “neutral” third member of an 
+arbitration panel and one of the parties failed to disclose its “close financial relations” with the purportedly neutral 
+arbitrator; the Supreme Court therefore set aside the arbitration award).  Plaintiffs’ decision to cite a law journal 
+article that “call[s] into question” their litigation strategy is also curious.  Conklin Article at 324.     
+2014); see also Dill, 2021 WL 3406192, at *9 (denying plaintiffs’ motion for interlocutory 
+appeal of a decision compelling arbitration in part because certification “would be inconsistent 
+with the national policy favoring arbitration, and the Second Circuit’s distaste for delaying the 
+arbitral process through appellate review” (internal quotation marks and citations omitted)); /n re 
+Belton, 2016 WL 164620, at *2 (“Proceeding to arbitration, rather than certifying an 
+interlocutory appeal, is the fastest way for these cases to be decided on the merits.”).?  Certifying 
+the Issues for Appeal is, therefore, unlikely to materially advance the ultimate resolution of the 
+litigation. 
+                                CONCLUSION 
+      For the foregoing reasons, Plaintiffs’ motion to certify the Issues for Appeal to the 
+Second Circuit is DENIED.  The Clerk of Court is respectfully directed to close the open motion 
+at Docket Entry 119. 
+
+SO ORDERED.                                \ Ore             - 
+
+Date:  January 4, 2024                               VALERIE         
+      New York, NY                              United States District  Judge 
+
+9      The cases Plaintiffs cite to the contrary are readily distinguishable.  See S.A. Mineracao Da Trindade- 
+Samitri, 579 F. Supp. 1049, 1050-51 (S.D.N.Y. 1984) (wherein the plaintiff raised controlling questions of law 
+about which there was substantial ground for difference of opinion); In re A2P SMS Antitrust Litig., No. 12-CV- 
+2656 (AJN), 2015 WL 876456, at *5 (S.D.N.Y. Mar. 2, 2015) (same and wherein, absent appeal, the arbitration 
+could “only proceed in fits and starts, with successive rounds of motions to vacate or confirm interim arbitration 
+awards”); Islam v. Lyft, No. 20-CV-3004 (RA), 2021 WL 2651653, at *5—6 (S.D.N.Y. June 28, 2021) (same and 
+wherein a parallel interlocutory appeal regarding the identical issue was already pending before the Second Circuit). 
+                                       10
+
+---
+
+UNITED STATES DISTRICT COURT                 ELECTRONICALLY FILED         
+SOUTHERN DISTRICT OF NEW YORK                DOC #:                       
+                                            DATE FILED: 07/25/ 2023      
+-------------------------------------------------------------- X         
+BRIAN FLORES, STEVE WILKS, and RAY  :                                    
+HORTON, as Class Representatives, on  :                                  
+behalf of themselves and all others similarly  :                         
+situated,                         :                                      
+                                  :                                      
+                         Plaintiffs,  :                                  
+               -against-          :                                      
+                                  :                                      
+THE NATIONAL FOOTBALL LEAGUE; NEW  :                                     
+YORK FOOTBALL GIANTS, INC. d/b/a NEW  :                                  
+YORK GIANTS; MIAMI DOLPHINS, LTD. d/b/a :  22-CV-0871 (VEC)              
+MIAMI DOLPHINS; DENVER BRONCOS    :                                      
+FOOTBALL CLUB d/b/a DENVER BRONCOS;  :  OPINION AND ORDER                
+HOUSTON NFL HOLDINGS, L.P. d/b/a  :                                      
+HOUSTON TEXANS; ARIZONA CARDINALS  :                                     
+FOOTBALL CLUB LLC d/b/a ARIZONA   :                                      
+CARDINALS; TENNESSEE TITANS       :                                      
+ENTERTAINMENT, INC. d/b/a TENNESSEE,  :                                  
+TITANS and JOHN DOE TEAMS 1 through 26,   :                              
+                                  :                                      
+                         Defendants.  :                                  
+-------------------------------------------------------------- X         
+VALERIE CAPRONI, United States District Judge:                            
+    Plaintiffs, who are current and former coaches for NFL teams, have sued the NFL and 
+various member teams for racial discrimination and retaliation in violation of 42 U.S.C. § 1981 
+and several state laws.1  See Am. Compl., Dkt. 22.  The Court granted in part and denied in part 
+Defendants’ motion to compel arbitration in an opinion dated March 1, 2023.  Op. (“Arbitration 
+Opinion”), Dkt. 76.  The Court compelled arbitration of the claims brought by Ray Horton 
+against the Tennessee Titans, Steve Wilks against the Arizona Cardinals, and Brian Flores 
+against the Miami Dolphins, as well as all related claims against the NFL; the Court denied the 
+1    These include the New York State Human Rights Law, the New York City Human Rights Law, the New 
+Jersey Law Against Discrimination, and the Florida Private Whistleblower Statute.  Am. Compl., Dkt. 22. 
+motion to compel arbitration of Mr. Flores’s claims against the New York Giants, the Denver 
+Broncos, and the Houston Texans, as well as his related claims against the NFL.  Id.   
+    Plaintiffs moved for reconsideration of the portions of the Arbitration Opinion granting 
+the motion to compel arbitration, and Defendants cross-moved for reconsideration, seeking to 
+compel arbitration of the remaining claims.2  Pls. Mot., Dkt. 79; Defs. Mot., Dkt. 81.  Each party 
+
+opposed their adversary’s motion.  See Defs. Opp., Dkt. 89; Pls. Opp., Dkt. 93.  For the reasons 
+discussed below, the motions for reconsideration are DENIED.              
+                          DISCUSSION                                     
+    I.   Legal Standard                                                  
+    The standard under which courts evaluate a motion for reconsideration “is strict, and 
+reconsideration will generally be denied unless the moving party can point to controlling 
+decisions or data that the court overlooked . . . .”  Shrader v. CSX Transp., Inc., 70 F.3d 255, 257 
+(2d Cir. 1995).  A motion for reconsideration may be granted if the movant demonstrates “an 
+intervening change of controlling law, the availability of new evidence, or the need to correct a 
+
+clear error or prevent manifest injustice.”  Virgin Atl. Airways, Ltd. v. Nat’l Mediation Bd., 956 
+F.2d 1245, 1255 (2d Cir. 1992) (quotation omitted); see also Sigmon v. Goldman Sachs Mortg. 
+Co., 229 F. Supp. 3d 254, 257 (S.D.N.Y. 2017) (“[A] party moving for reconsideration must set 
+forth ‘the matters or controlling decisions which counsel believes the Court has overlooked.’” 
+(quoting Local Civil Rule 6.3)).  Whether to grant a motion for reconsideration is a decision 
+within “the sound discretion of the district court . . . .”  Aczel v. Labonia, 584 F.3d 52, 61 (2d Cir. 
+2009).                                                                    
+
+
+2    Defendants previously argued that Mr. Flores’s arbitration agreement with the Miami Dolphins applied 
+retroactively to his claims against the Denver Broncos.  See Op., Dkt. 76 at 10.  The Court held that the arbitration 
+agreement could not be applied retroactively under Florida law, see id., and Defendants do not seek reconsideration 
+of that portion of the Arbitration Opinion.                               
+     A motion for reconsideration is not a party’s “opportunity to put forward evidence that 
+he could have, but failed, to provide the Court when the Court initially considered the motion.”  
+United States v. Posada, 206 F. Supp. 3d 866, 868 (S.D.N.Y. 2016) (internal quotation omitted) 
+(collecting cases).  Additionally, “a motion to reconsider should not be granted where the 
+
+moving party seeks solely to relitigate an issue already decided.”  Schrader, 70 F.3d at 257.  
+“[N]ewly discovered evidence” can be a basis for reconsideration, but only if the evidence was 
+not available prior to entry of the order at issue.  Marhone v. Cassel, No. 16-CV-4733, 2021 WL 
+142278, at *2 (S.D.N.Y. Jan. 14, 2021).  “These criteria are strictly construed against the moving 
+party so as to avoid repetitive arguments on issues that have been considered fully by the 
+court.”  Griffin Indus., Inc. v. Petrojam, Ltd., 72 F. Supp. 2d 365, 368 (S.D.N.Y. 1999) (citation 
+omitted).                                                                 
+    II.  Defendants’ Motion for Reconsideration Is Denied                
+    Defendants sought to compel arbitration of Mr. Flores’s claims against the Denver 
+Broncos, New York Giants, and Houston Texans arguing, inter alia, that the arbitration 
+provisions in his recent contract with the Pittsburgh Steelers (“Flores-Steelers Agreement”), and 
+
+the NFL Constitution incorporated therein, applied retroactively to claims against any NFL team.  
+See Op. at 9.  Defendants alternatively sought to compel arbitration of Mr. Flores’s claims 
+against the Denver Broncos because those claims arose when Mr. Flores was coaching for the 
+New England Patriots.  See id.  His contract with the Patriots (“Flores-Patriots Agreement”) had 
+an arbitration agreement that applied to claims against any NFL team.  See id.  
+    The Court held that Mr. Flores did not have a valid arbitration agreement with the 
+Steelers because Defendants had not proven that the arbitration agreement was part of a valid 
+contract.  See id. at 13.  Section 12 of the Flores-Steelers Agreement states that the contract 
+would “become valid and binding upon each party only when and if it shall be approved by the 
+Commissioner of the NFL;” in the version of the contract filed by Defendants in support of their 
+motion to compel arbitration, the Commissioner’s signature line was blank.  See Second DiBella 
+Decl. Ex. 4 (“Flores-Steelers Agreement”), Dkt. 73.  Accordingly, the Flores-Steelers Agreement 
+submitted by Defendants, by its own terms, was not “valid and binding.”  Id.; see also Op. at 13.  
+
+The Court also held that the arbitration agreement contained in the NFL Constitution and 
+incorporated into the Flores-Patriots Agreement was unenforceable because the NFL retained the 
+unilateral right to modify the NFL Constitution and the arbitration agreement, rendering the 
+arbitration agreement illusory according to Massachusetts state law.  Op. at 21–22. 
+         A.  The Flores-Steelers Agreement Is Not Binding                
+    In their motion for reconsideration, Defendants ask the Court to reconsider its prior 
+decision with respect to the Flores-Steelers Agreement based on a newly-filed version of the 
+Flores-Steelers Agreement that contains the NFL Commissioner’s signature.  Defs. Mem., Dkt. 
+82 at 13.  The signed contract, which is new evidence, cannot be considered on a motion for 
+reconsideration because it was available to Defendants before the Court issued the Arbitration 
+
+Opinion.  See Marhone, 2021 WL 142278, at *2.  Defendants acknowledge that they possessed a 
+fully-signed version of the Flores-Steelers Agreement when the motion to compel arbitration was 
+being briefed.  See Defs. Mem. at 13 n.7; see also Smith Decl., Dkt. 98 ¶ 2 (stating that 
+Commissioner Goodell approved the Flores-Steelers Agreement on June 17, 2022).  The Court 
+credits Defendants’ statement of regret for “not having supplemented the record with a 
+Commissioner-signed version of the agreement” during the eight months that the motion to 
+compel arbitration was pending.  Defs. Mem. at 13 n.7.  But a motion for reconsideration is not a 
+means to mend holes in the record with neglected evidence.  See Horsehead Res. Dev. Co., Inc. 
+v. B.U.S. Envt’l Serv. Inc., 928 F. Supp. 287, 289 (S.D.N.Y. 1996) (“[A] motion for 
+reconsideration may not be used to plug gaps in an original argument or to argue in the 
+alternative once a decision has been made.”  Id. (cleaned up).)           
+    Defendants alternatively argue that the Flores-Steelers Agreement was valid and binding 
+even without Commissioner Goodell’s signature.  Defs. Mem. at 14.  The contract plainly states, 
+
+however, that it is “valid and binding upon each party only when and if it shall be approved by 
+the Commissioner of the NFL.”  Flores-Steelers Agreement § 12.  “Courts do not assume a 
+contract’s language was chosen carelessly,” and must give effect to the “clear and unequivocal” 
+language of a contract.  Crawford Cent. Sch. Dist. v. Commonwealth, 888 A.2d 616, 623 (Pa. 
+2005).  The Flores-Steelers Agreement clearly establishes that it would not be binding on the 
+parties until it was signed by Commissioner Goodell.                      
+    In sum, as the parties moving to compel arbitration, Defendants carried the burden of 
+proving the existence of a written agreement binding the parties to arbitrate the present matter.  
+See Op. at 14 (citing Hines v. Overstock.com, Inc., 380 F. App’x 22, 24 (2d Cir. 2010) 
+(collecting cases); Dreyfuss v. Etelecare Glob. Sols.-U.S. Inc., 349 F. App’x 551, 552–53 (2d 
+
+Cir. 2009)).  When Defendants moved to compel arbitration, they failed to do so. 
+    Defendants argue that because Mr. Flores actually served as the Steelers’ coach, there is 
+an enforceable contract between the Steelers and Mr. Flores.  See Defs. Mem. at 14.  They posit 
+that the Commissioner’s signature was “[a]t most . . . a condition precedent to the parties’ 
+obligations to perform under the agreement, which was waived and excused when Mr. Flores 
+performed, and accepted performance from the Steelers, under that very same agreement.”3  Id.  
+Defendants failed to raise this argument as part of the underlying motion to compel arbitration, 
+
+
+3    Pennsylvania law, which governs the Flores-Steelers Agreement, see Flores-Steelers Agreement § 20, 
+provides that “if a condition precedent is not satisfied, the obligations of the non-performing party are discharged.”  
+McDermott v. Party City Corp., 11 F. Supp. 2d 612, 620 (E.D. Pa. 1998).   
+and the Court will not consider it now.  Defendants’ suggestion that the Court should now revise 
+its prior decision based on this new legal theory because neither party previously briefed the 
+issue flips the standard for motions for reconsideration on its head.  It is black letter law that, 
+“[e]xcept where a movant is relying on new facts that could not have been previously discovered 
+
+or newly promulgated law, additional facts or new legal theories cannot be asserted by way of a 
+motion for reconsideration.”  Bloomfield Inv. Res. Corp. v. Daniloff, No. 17-CV-4181, 2021 WL 
+2310446, at *2 (S.D.N.Y. June 7, 2021) (internal quotation omitted).4     
+         B.  Flores-Patriots Contract                                    
+    Defendants further dispute the Court’s conclusion that the Flores-Patriots Agreement is 
+illusory under Massachusetts law because Defendants retained the right unilaterally to modify 
+the terms of the NFL Constitution, which contained the arbitration agreement applicable to Mr. 
+Flores’s disputes with other teams, without notice.  See Defs. Mem. at 1; Op. at 21.  Defendants 
+alternatively argue that even if the agreement is unenforceable, the unilateral modification 
+provision should be severed from the arbitration agreement.  See Defs. Mem. at 1–2.  For the 
+
+reasons discussed in the Arbitration Opinion and further detailed below, Massachusetts law 
+precludes enforcement of the arbitration agreement incorporated into the Flores-Patriots 
+Agreement because the contract is illusory; because an illusory contract is no contract at all, 
+severance is not possible.                                                
+
+
+
+4    Even if the Court were to consider Defendants’ new argument, Defendants’ motion would likely still fail.  
+While some courts applying Pennsylvania law have excused compliance with conditions precedent when the parties 
+accepted partial performance of the contract, see McDermott, 11 F. Supp. 2d at 622, Defendants did not previously, 
+nor have they now, introduced evidence that might allow the Court to conclude, as a matter of law, that there was 
+partial performance.  See MBR Constr. Servs., Inc. v. IBEW Local, No. 14-CV-1694, 2016 WL 815566, at *7 (M.D. 
+Pa. Mar. 2, 2016) (noting that Pennsylvania law requires the party seeking to compel performance of a contract to 
+prove that any conditions precedent are satisfied).                       
+              1.  Unilateral Modification Provision                      
+    In holding the Flores-Patriots Agreement illusory, the Court relied on Jackson v. Action 
+for Boston Community Development, Inc., 525 N.E.2d 411 (Mass. 1988), which held that a 
+former employee could not contractually enforce the terms of her employment manual.  The 
+
+Jackson court considered several factors in finding that the employee manual did not constitute 
+an enforceable contract, including the fact that the manual could be unilaterally modified by the 
+employer.  See id. at 414–15.  Although the manual provided that employees would be notified 
+of any changes, the Jackson court found it significant that the employer did not call “special 
+attention” to the manual, such as reviewing the manual during orientation, and the plaintiff did 
+not sign the manual or otherwise manifest assent to the terms of the manual.  See id. at 416 
+(internal citations omitted).  Jackson observed that the fact “that the defendant retained the right 
+to modify unilaterally the personnel manual’s term . . . tends to show that any ‘offer’ made by 
+the defendant in distributing the manual was illusory.”  Id. at 415.  The court also noted that it 
+was significant that the record did not “reveal[] any negotiation over the terms of the personnel 
+
+manual.”  Id.                                                             
+    O’Brien v. New England Telephone & Telegraph Co., 664 N.E.2d 843, 847 (Mass. 1996), 
+clarified the fact-intensive inquiry that courts must undertake in evaluating whether a document 
+subject to unilateral modification is an enforceable contract while emphasizing that the 
+“[p]rinciples stated in the Jackson opinion remain sound.”  Id. at 847.  The O’Brien court 
+refrained from “defin[ing] the extent to which management may effectively reserve its right to 
+change or withdraw a manual” because the employer in that case had not expressly reserved the 
+right to make unilateral changes, although it did distribute new policy manuals annually.  See id. 
+at 849; see also id. at 848 n.3.  The court held that “the context of the manual’s preparation and 
+distribution is, to us, the most persuasive proof that it would be almost inevitable for an 
+employee to regard it as a binding commitment . . . .”  Id. at 849 (internal quotation omitted). 
+    Buttrick v. Intercity Alarms, LLC, 929 N.E.2d 357 (Mass. App. Ct. July 1, 2010),5 applied 
+Jackson and its progeny to find that the employee manual in that case was a binding contract.  In 
+
+Buttrick, the employer had required the employee to sign the manual, had distributed numerous 
+copies of the manual, and had personally reviewed the manual’s terms with the employees.  See 
+id. at *1–2.  Given the “special attention” paid to the manual, Buttrick held that there was an 
+enforceable contract, notwithstanding the employer’s reservation of rights to make unilateral 
+modifications.  Id. at *1.  The court reiterated, however, that “[w]hether an implied contract 
+based upon the terms of the manual [existed] . . . was a fact-bound inquiry,” while observing that 
+“a number of factors weighed against the finding of a binding contract.”  Id.   
+    Numerous courts have applied Jackson and its progeny to decline to enforce contracts 
+that permit one party unilaterally to modify the terms without notifying the counterparty of any 
+changes.6  See, e.g., Douglas v. Johnson Real Est. Invs., LLC, 470 F. App’x 823, 826 (11th Cir. 
+
+2012); Fawcett v. Citizens Bank, N.A., 297 F. Supp. 3d 213, 221 (D. Mass. 2018) (collecting 
+cases); McNamara v. S.I. Logistics, Inc., No. 17-CV-12523, 2018 WL 6573125, at *3–4 (D. 
+Mass. 2018) (collecting cases); Wainblat v. Comcast Cable Comm’ns, LLC, No. 19-10976, 2019 
+WL 5698446, at *4 (D. Mass. 2019); Murray v. Grocery Delivery E-Servs. USA Inc., 460 F. 
+Supp. 3d 93, 97–98 (D. Mass. 2020); see also Kauders v. Uber Techs., Inc., 159 N.E.3d 1033, 
+
+5    Buttrick v. Intercity Alarms, LLC, 929 N.E.2d 357 (Mass. App. Ct. 2010), is a nonprecedential opinion that 
+was issued with a caveat that it “may not fully address the facts of the case or the panel’s decisional rationale,” id. at 
+*1.                                                                       
+
+6    Ferguson v. Host International, Inc., 757 N.E.2d 267 (Mass. App. Ct. 2001), is not to the contrary.  
+Although the employer retained the right to amend the manual without notice, the employer had in fact distributed 
+the amended manual to employees, id. at 269.  The Ferguson court noted that the employer’s distribution of the 
+manual conveyed to employees its importance as a binding document.  Id. at 272.   
+1041 n.10 (Mass. 2021) (criticizing a terms of usage agreement permitting unilateral 
+modification without notice and noting that courts have held that such contracts are 
+unenforceable).7                                                          
+    Defendants have not demonstrated that they paid the type of “special attention” to the 
+
+NFL Constitution that is necessary to make its terms part of an implied contract under 
+Massachusetts state law.  Although Mr. Flores signed a contract that incorporated by reference 
+the NFL Constitution,8 that does not automatically mean that the NFL Constitution is 
+enforceable.  The Supreme Judicial Court of Massachusetts has held that an employee’s 
+signature on the manual itself would suggest, at most, that finding an implied contract exists 
+“may be justified.”  Weber v. Comm. Teamwork, Inc., 752 N.E.2d 700, 714 (Mass. 2001).   
+    In the context of employee manuals, Massachusetts courts have made clear that “the 
+context of the preparation and distribution of the employment policies is the most persuasive 
+proof” in determining whether employment policies are implied contracts.  LeMaitre v. Mass. 
+
+
+7    While Defendants assert that these cases improperly single out arbitration agreements for application of the 
+unilateral modification rule, see Defs. Mem., Dkt. 82 at 11–12, Massachusetts courts find that contracts containing a 
+unilateral modification provision are illusory in a wide variety of contexts, including employee manuals, which, like 
+the NFL Constitution, set forth general policies governing the conduct of both employer and employee.  See infra 
+pp. 7–8; see also Durbeck v. Suffolk Univ., 547 F. Supp. 3d 133, 147–48 (D. Mass. 2021) (applying Jackson to 
+academic catalogs).                                                       
+
+    Defendants also attempt to analogize the instant case to Gilbert v. Dell Technologies, Inc., 415 F. Supp. 3d 
+389 (S.D.N.Y. 2019), which applied Jackson to enforce an arbitration agreement provided to an employee in 
+conjunction with her employment agreement.  Defs. Mem. at 7–8.  In that case, the employer retained authority 
+unilaterally to modify the arbitration policies but not the arbitration agreement itself.  See id. at 393–94, 398.  Those 
+policies were, as here, incorporated into the employment agreement.  See id. at 393.  The employer in Gilbert, 
+however, had drawn special attention to the arbitration policies by placing the contractual clause that incorporated 
+the arbitration policies “prominently above the signature line.”  Id. at 396; see also id. at 393. 
+
+8    One provision of the Flores-Patriots Agreement stated that Mr. Flores received a copy of the 124 NFL 
+Constitution and understood his obligations therein.  Flores-Patriots Agreement § 15; see also Second DiBella Decl. 
+Ex. 1 (“NFL Constitution”), Dkt. 73.  Mr. Flores disputes that he received a copy of the NFL Constitution at the 
+time of signing.  He has submitted no evidence to support that assertion, Pls. Opp. to Arb. Mem., Dkt. 62 at 9, and 
+Defendants submitted no evidence to show that he was given a copy of the constitution at that time.  Because the 
+Court finds that whether Mr. Flores received a copy of the NFL Constitution is not dispositive in light of the totality 
+of circumstances, the Court need not resolve this dispute.                
+Turnpike Auth., 897 N.E.2d 1218, 1220 (Mass. 2008) (employment manual that was regularly 
+distributed created contractual rights and obligations); see also LeMaitre v. Mass. Turnpike 
+Auth., 876 N.E.2d 888, 893 (Mass. Ct. App. 2007) (noting that the manual was “regularly 
+distributed”).  Mr. Flores argues, and Defendants do not dispute, that neither the NFL nor the 
+
+Patriots reviewed with him the obligations of the NFL Constitution, required him to sign the 
+NFL Constitution itself, or distributed to him subsequently-amended versions of the NFL 
+Constitution.  See Pls. Opp. to Arb. Mem., Dkt. 62 at 9; Pls. Opp. at 8; Defs. Reply, Dkt. 99 at 4.  
+See, e.g., Buttrick, 2010 WL 2609364, at *1–2.  Nor could Mr. Flores have reasonably negotiated 
+the terms of the NFL Constitution, which, by its terms, may only be amended by a vote of all 
+NFL member clubs.  See Jackson, 525 N.E.2d at 414–15 (considering lack of negotiation the 
+terms of an employment manual as one factor in determining that a unilateral modification 
+provision rendered the agreement illusory).                               
+    Finally, Defendants belatedly argue that the Court need not address the fact that the NFL 
+has the unilateral power to modify the NFL Constitution because it may simply enforce the 
+
+version of the NFL Constitution that was in force when the Flores-Patriots Agreement was 
+signed.9  See Defs. Mem. at 4 n.1; Defs. Reply at 3 n.1.  Defendants forfeited this argument by 
+failing to raise it in their briefs filed in conjunction with their motion to compel arbitration and 
+by failing to submit the version of the NFL Constitution that was in effect when the Flores-
+Patriots Agreement was signed with their motion to compel arbitration.  They offer no 
+explanation for their oversight, and the Court will not consider this argument now.10  See 
+
+9    Defendants point to a court filing in a class-action litigation in an out-of-district case regarding NFL 
+players’ concussion injuries that attached as an exhibit a prior version of the NFL Constitution as proof that the NFL 
+did not amend the arbitration provision after the Flores-Patriots Agreement was executed.  Defs. Mem. at 4 n.1.   
+
+10   Even if the Court were to consider this argument, however, serious questions would remain regarding the 
+enforceability of the arbitration agreement in light of the NFL’s ability unilaterally to modify the NFL Dispute 
+Resolution Procedural Guidelines, which govern any arbitral proceeding between a coach and the NFL.  See Flores-
+AlexSam, Inc. v. Aetna, Inc., No. 13-CV-1025, 2021 WL 3268853, at *9 n.8 (D. Conn. July 30, 
+2021) (noting that judicial notice of additional facts was inappropriate on a motion for 
+reconsideration where the petitioner “has not explained any reason for failing to include [the 
+additional facts] in its earlier filings”).                               
+
+              2.  Severability                                           
+    Defendants finally argue that, even if the unilateral modification provision renders the 
+arbitration agreement unenforceable, the Court should sever the unilateral modification provision 
+and enforce the remainder of the parties’ contract.  See Defs. Mem. at 9–10.  The Federal 
+Arbitration Act (“FAA”) requires courts to treat arbitration clauses “as severable from the 
+contract in which it appears . . . unless the validity challenge is to the arbitration itself . . . .”  
+Granite Rock Co. v. Int’l Bhd. of Teamsters, 561 U.S. 287, 298–99 (2010).  The fact that 
+agreements to arbitrate are “severable does not mean that they are unassailable;” if the party 
+seeking to avoid arbitration challenges the arbitration provision specifically, as Plaintiffs have, 
+courts may appropriately consider whether the arbitration agreement is so defective that 
+
+severance cannot save it.  Rent-A-Center, West, Inc. v. Jackson, 561 U.S. 63, 71 (2010); see also 
+Pls. Opp. to Arb. Mot. at 9.                                              
+    The focus of Jackson and its progeny is whether, in the broader context of the contractual 
+relationship, one party’s ability unilaterally to change the terms of a contract renders that 
+contract illusory.11  See Jackson, 525 N.E.2d at 415; see also O’Brien, 664 N.E.2d at 848; 
+
+Patriots Agreement § 17; Second DiBella Decl. Ex. 2 at 13–17 (“NFL Dispute Resolution Procedural Guidelines”), 
+Dkt. 73.                                                                  
+
+11   Emmanuel v. Handy Technologies, Inc., 992 F.3d 1 (1st Cir. 2021), is not to the contrary; it did not address 
+the plaintiff’s argument that the unilateral modification provision rendered the contract illusory because, inter alia, 
+plaintiff did not direct that argument to the arbitration agreement specifically, see id. at 10–11.   
+
+    Similarly, Joule, Inc. v. Simmons, No. SUCV200904929A, 2011 WL 7090714 (Mass. Super. Ct. Dec. 5, 
+2011), did not opine on the issue of whether the employer’s ability unilaterally to modify the arbitration procedures, 
+Gilbert v. Dell Techs., Inc., 415 F. Supp. 3d 389, 398 (S.D.N.Y. 2019) (“Under Massachusetts 
+law, an agreement to arbitrate can be illusory if the agreement can be modified unilaterally by 
+one party.”).  Massachusetts courts view unilateral modification provisions as posing a challenge 
+to contract formation because the fact that the offeror retains the right unilaterally and 
+
+retroactively to alter the terms of the offer “tends to show that any ‘offer’ made . . . was 
+illusory,” such that there was no offer at all.  Jackson, 525 N.E.2d at 415; see also O’Brien, 664 
+N.E.2d at 848.  Thus, severance cannot be an appropriate remedy because there is no otherwise 
+valid agreement from which the Court might sever invalid terms.           
+    Defendants’ “argument that any illusory provision of the contract could simply be 
+severed and the remainder of the contract stand would require [the Court] to engage in an absurd 
+process,” essentially “reviving a contract [it] found was never formed for its lack of 
+consideration, omitting the change-in-term provision clause that was fatal to the contract’s 
+proper formation, to therefore conclude a contract was formed.”  Nat’l Fed. of the Blind v. The 
+Container Store, 904 F.3d 70, 87 (1st Cir. 2018); see also McNamara, 2018 WL 6573125, at *3 
+(collecting cases).12                                                     
+
+
+but not the arbitration agreement, rendered the contract illusory because, after remand from the Supreme Judicial 
+Court, the only issue remaining for consideration was whether the contract was unconscionable.  See id. at *2.  In 
+Joule, the employer had drawn special attention to the document containing arbitration procedures by appending it 
+to the agreement “at the time that [the employee] signed it.”  Id. at *4.  The Flores-Patriots Agreement states only 
+that Mr. Flores had reviewed the document at an unspecified time, and the version of the Flores-Patriots Agreement 
+in the record did not append the NFL’s Constitution or Dispute Resolution Procedural Guidelines, which were both 
+subject to the NFL’s unilateral modification.  See supra, page 10, note 10. 
+
+12   Even if the Court were to find that there was a valid agreement from which it could sever the unilateral 
+modification provision in order to create a valid arbitration agreement, severance would still be inappropriate.  The 
+existence of a severance clause in a contract containing unenforceable terms “is not dispositive of the question 
+whether those terms may in fact be severed” under Massachusetts law.  Machado v. System4 LLC, 989 N.E.2d 464, 
+472 n.15 (Mass. 2013).  Rather, courts must examine whether severance would alter the basic agreement to arbitrate, 
+or the defect is so pervasive that severance would be inappropriate.  See Am. Fam. Life Assurance Co. of N.Y. v. 
+Baker, 848 F. App’x 11, 13 (2d Cir. 2021); Feeney v. Dell Inc., 908 N.E.2d 753, 769 (Mass. 2009). 
+
+    Defendants argue that severance would be “especially straightforward” and merely require revising section 
+15 of the Flores-Patriots Agreement to delete the requirement that Mr. Flores adhere to the NFL Constitution “as 
+amended from time to time hereafter.”  Defs. Reply, Dkt. 99 at 5 (internal quotation omitted).  This assertion ignores 
+    III.  Plaintiffs’ Motion for Reconsideration Is Denied               
+    Plaintiffs’ motion for reconsideration extensively relitigates their arguments that the 
+arbitration agreements are unconscionable and prevent effective vindication of Plaintiffs’ 
+statutory claims, which the Court previously considered at length and rejected.  Without 
+
+rehashing the entirety of the Arbitration Opinion, the Court briefly explains why the arbitration 
+agreements contained in Mr. Flores’s contract with the Miami Dolphins (“Flores-Dolphins 
+Agreement”), Mr. Wilks’ contract with the Arizona Cardinals (“Wilks-Cardinals Agreement”), 
+and Mr. Horton’s contract with the Tennessee Titans (“Horton-Titans Agreement”) are 
+enforceable.                                                              
+    As in their opposition to the motion to compel arbitration, Plaintiffs primarily base their 
+arguments on their speculation that the NFL Commissioner will necessarily be biased as an 
+arbitrator.  See, e.g., Pls. Mem., Dkt. 80 at 3–5.  The Second Circuit has already rejected the 
+argument that the NFL Commissioner cannot fairly “adjudicate the propriety of his own 
+conduct,” even when he acts as the sole arbitrator.13  Nat’l Football League Mgmt. Council v. 
+
+Nat’l Football League Players Ass’n, 820 F.3d 527, 548 (2d Cir. 2016); see also Op. at 22–23.   
+    While Plaintiffs attempt to distinguish that case on the grounds that it involved a contract 
+that was the process of collective, rather than individual, bargaining and concerned a dispute 
+
+
+the fact that sections 16 and 17 of the Flores-Patriots Agreement also require Mr. Flores to adhere to subsequent 
+amendments of NFL rules, including the NFL’s Dispute Resolution Procedural Guidelines, which govern 
+arbitration.  Furthermore, the NFL Constitution generally grants the NFL Commissioner the unilateral power to set 
+and amend all NFL rules and regulations, including the NFL Dispute Resolution Procedural Guidelines, and to 
+promulgate other arbitration-related rules in the future that would bind Mr. Flores.  See NFL Constitution § 8.5.   In 
+sum, multiple portions of the parties’ agreement grant the NFL unilateral authority to modify the contract; those 
+provisions infect “fundamental elements of the arbitration regime” that cannot be severed from the whole.  Feeney, 
+908 N.E.2d at 769.                                                        
+
+13   That case concerned “quarterback Tom Brady’s involvement in a scheme to deflate footballs used during 
+the 2015 American Football Conference Championship Game to a pressure below the permissible range.”  Nat’l 
+Football League Mgmt. Council v. Nat’l Football League Players Ass’n, 820 F.3d 527, 531 (2d Cir. 2016). 
+over player discipline instead of federal statutory rights, the Second Circuit relied on neither fact 
+in reaching its decision.  See Pls. Mem. at 5–6; Nat’l Football League Mgmt. Council, 820 F.3d 
+527 at 548.  Furthermore, it is well-established that “[m]ere inequality in bargaining power . . . is 
+not a sufficient reason” to invalidate arbitration agreements; “the FAA’s purpose was to place 
+arbitration agreements on the same footing as other contracts.”14  Gilmer v. Interstate/Johnson 
+
+Lane Corp., 500 U.S. 20, 24, 33 (1991).  As the Second Circuit emphasized in National Football 
+League Management Council, “arbitration is a matter of contract, and consequently, the parties 
+to an arbitration can ask for no more impartiality than inheres in the method they have chosen.”15  
+820 F.3d at 548; see also Garcia v. Church of Scientology Flag Serv. Org,, Inc., No. 18-13452, 
+2021 WL 5074465, at *12 (11th Cir. 2021) (holding that because the plaintiff “agreed to a 
+method of arbitration with inherent partiality” it was bound to the results of the arbitration).  
+    The FAA contemplates that federal courts should address issues of bias in the 
+administration of arbitration by examining whether the arbitrator demonstrated “evident 
+partiality” in presiding over the arbitration; if he did, the arbitration award may be overturned.  
+
+Gilmer, 500 U.S. at 30; see also 9 U.S.C. § 10(a)(2).  Plaintiffs argue that Gilmer limits this rule 
+to cases in which neutral procedures govern arbitration.  See Pls. Mem. at 7–8.  While Gilmer 
+noted that the existence of unbiased procedures favored enforcing the arbitration agreement at 
+issue, that was not central to its holding.  See Gilmer, 500 U.S. at 30.  Rather, Gilmer held that 
+the FAA already contemplates protection against bias by permitting courts to overturn arbitration 
+
+
+14   Amici law professors take issue with the trajectory of the Supreme Court’s jurisprudence regarding the 
+Federal Arbitration Act generally and suggest that Gilmer was wrongly decided.  Amici Mem., Dkt. 88 at 6–7, 6 
+n.11.  Whatever the merits of the learned professors’ argument, this Court is, of course, bound by Gilmer and its 
+progeny.                                                                  
+
+15   There are numerous reasons why Plaintiffs rationally could have consented to select the NFL 
+Commissioner as arbitrator, including the fact that the Commissioner possesses unique subject-matter expertise on 
+matters related to the NFL.                                               
+awards that are marred by evident partiality of the arbitrator.  The Court noted only in passing 
+that “[i]n any event,” the arbitration rules applicable to that dispute protected “against biased 
+panels.”  Id.  In short, “it is well established that a district court cannot entertain an attack upon 
+the . . . partiality of arbitrators until after the conclusion of the arbitration and the rendition of the 
+
+award.”  Aviall, Inc. v. Ryder Sys., Inc., 110 F.3d 892, 895 (2d Cir. 1997) (internal quotation 
+omitted).                                                                 
+    Plaintiffs alternatively ask the Court to find that the arbitration agreement is 
+unenforceable because the alleged structural bias prevents Plaintiffs from effectively vindicating 
+their statutory claims.  Pls. Mem. at 14–15.  As the Court previously explained in its Arbitration 
+Opinion, the effective vindication doctrine is a highly circumscribed judge-made exception to the 
+FAA.  See Am. Express v. Italian Colors Rest., 570 U.S. 228, 235–36 (2013); Op. at 24.  The 
+Supreme Court has never expanded it to encompass structural bias, and the nonbinding caselaw 
+cited by Plaintiffs is unpersuasive for the reasons already discussed in the Arbitration Opinion.  
+See Op. at 24.  While Plaintiffs accuse the Court of breaking new ground in compelling 
+
+arbitration of their claims and causing manifest injustice, this result was anticipated by Justice 
+Kagan, who expressed concern that the Supreme Court’s limitations on the effective vindication 
+doctrine would permit companies to “appoint as an arbitrator an obviously biased person — say, 
+the CEO . . . .”  Am. Express, 570 U.S. at 242 (Kagan, J. dissenting); Op. at 24 n.23.16 
+    Finally, Plaintiffs once again argue that the arbitration agreements are unconscionable 
+under the applicable state contract laws.  Pls. Mem. at 11–13.  Plaintiffs did not initially, nor do 
+
+
+16   Nothing in this Opinion should be read to suggest that the Undersigned harbors no concern about whether 
+the process the NFL has apparently chosen to implement in this sort of dispute with coaches will be, and will be 
+publicly perceived to be, fair.  The Court is ruling only that, given the current legal structure, it must await the 
+outcome of the arbitration to decide whether Plaintiffs’ fears of unfairness were warranted or whether the NFL 
+Commissioner gave them a fair shake to prove their claims.                
+they now, cite any binding caselaw holding that arbitration agreements in which one party 
+consents to the appointment of the counterparty’s representative as arbitrator are unconscionable.  
+While some courts have declined to enforce arbitration agreements in which the arbitrator 
+selection procedures were so one-sided as to render the agreement unconscionable under 
+
+applicable state law, those cases are inapplicable when the party seeking to avoid arbitration has 
+consented to resolving his dispute before a specific arbitrator.  See Op. at 24–25; see also 
+Gainseville Health Care Ctr., Inc. v. Weston, 857 So.2d 278, 286 (Fla. Dist. Ct. App. 2003) 
+(noting that Florida state courts “decline to indulge the presumption that the . . . arbitral body 
+conducting a proceeding will be unable or unwilling to retain competent, conscientious and 
+impartial arbitrators” in determining whether an arbitration agreement is unconscionable 
+(quoting Gilmer, 500 U.S. at 30)).                                        
+    Plaintiffs, in essence, ask the Court to fashion a specific rule out of whole cloth to protect 
+them from potential arbitrator bias that may never manifest itself.  To do so would be in direct 
+violation of the FAA’s admonition against carving out rules disfavoring the enforcement of 
+
+arbitration agreements from generally applicable contract law.  See Gilmer, 500 U.S. at 24.   
+                          CONCLUSION                                     
+    For the foregoing reasons, both Plaintiffs’ and Defendants’ motions for reconsideration 
+are DENIED.  The Clerk of Court is respectfully directed to terminate the open motions at 
+docket entries 79 and 81.                                                 
+    The parties are ordered to appear for a pretrial conference on Friday, August 4, 2023, at 
+10:00 A.M. in Courtroom 443 of the Thurgood Marshall Courthouse, 40 Foley Square, New 
+York, New York, 10007.  By July 27, 2023, the parties must submit a joint letter, the contents of 
+which are described on pages 29 and 30 of the Arbitration Opinion. 
+
+SO ORDERED.                                           «               - 
+
+Date:  July 25, 2023                               VALERIE CAPRONI 
+     New York, NY                              United States District  Judge 
+
+                                      17
+
+---
+
+UNITED STATES DISTRICT COURT                 D ELO EC CU TM RE ON NT IC  ALLY FILED 
+SOUTHERN DISTRICT OF NEW YORK                DOC #:                       
+-------------------------------------------------------------- X  DATE FILED:  03/01 /2023  
+BRIAN FLORES, STEVE WILKS, and RAY  :                                    
+HORTON, as Class Representatives, on  :                                  
+behalf of themselves and all others similarly  :                         
+situated,                         :                                      
+                                  :                                      
+                         Plaintiffs,  :                                  
+               -against-          :                                      
+                                  :                                      
+THE NATIONAL FOOTBALL LEAGUE; NEW  :                                     
+YORK FOOTBALL GIANTS, INC. d/b/a NEW  :                                  
+YORK GIANTS; MIAMI DOLPHINS, LTD. d/b/a :  22-CV-0871 (VEC)              
+MIAMI DOLPHINS; DENVER BRONCOS    :                                      
+FOOTBALL CLUB d/b/a DENVER BRONCOS;  :  OPINION AND ORDER                
+HOUSTON NFL HOLDINGS, L.P. d/b/a  :                                      
+HOUSTON TEXANS; ARIZONA CARDINALS  :                                     
+FOOTBALL CLUB LLC d/b/a ARIZONA   :                                      
+CARDINALS; TENNESSEE TITANS       :                                      
+ENTERTAINMENT, INC. d/b/a TENNESSEE,  :                                  
+TITANS and JOHN DOE TEAMS 1 through 26,   :                              
+                                  :                                      
+                         Defendants.  :                                  
+-------------------------------------------------------------- X         
+VALERIE CAPRONI, United States District Judge:                            
+    This case shines an unflattering spotlight on the employment practices of National 
+Football League (“NFL”) teams.  Although the clear majority of professional football players are 
+Black, only a tiny percentage of coaches are Black.  In 2002, to much hoopla, the NFL 
+announced that it was going to do something about the paucity of Black coaches.1  Its solution 
+was to adopt the so-called “Rooney Rule.”  The Rooney Rule as originally adopted required any 
+NFL team looking to hire a head coach to interview at least one minority candidate.  The 
+1    See Gus Garcia-Roberts, The Failed NFL Diversity ‘Rule’ Corporate America Loves, Wash. Post (Oct. 4, 
+2022), https://www.washingtonpost.com/sports/interactive/2022/rooney-rule-nfl-black-coaches/; Dave Anderson, 
+Sports of The Times; Minority Candidates Should Get Fairer Shake, N.Y. Times (Dec. 16, 2003), 
+https://www.nytimes.com/2003/12/16/sports/sports-of-the-times-minority-candidates-should-get-fairer-
+shake.html?searchResultPosition=7.                                        
+Amended Complaint in this case alleges that, however laudable the intent, the Rooney Rule has 
+devolved into a cruel sham, with Black candidates being interviewed for positions that the team 
+has already decided will be filled by a white candidate and with Black coaches being treated 
+more harshly vis-à-vis employment decisions than similarly-situated white coaches.  See Am. 
+
+Compl., Dkt. 22.                                                          
+    Three Black men who are current or former NFL coaches have sued the NFL and several 
+member teams for racial discrimination in violation of 42 U.S.C. § 1981, the New York State 
+Human Rights Law, the New York City Human Rights Law, and the New Jersey Law Against 
+Discrimination.  See Am. Compl.  Defendants moved to compel arbitration and to stay the 
+current proceedings, Mot. to Compel Arbitration, Dkt. 47, and Plaintiffs opposed the motion, Pls. 
+Opp., Dkt. 62.  For the reasons discussed below, the motion to compel arbitration is GRANTED 
+except as to the Brian Flores’s claims against the New York Giants, the Houston Texans, the 
+Denver Broncos, and his related claims against the NFL, as to which the motion is DENIED.  
+                         BACKGROUND2                                     
+
+    The NFL is an unincorporated association of thirty-two professional football clubs.  Defs. 
+Mem., Dkt. 48 at 4.  Although each club is a separate legal entity, the clubs are governed by a 
+shared set of NFL rules and policies, including the NFL Constitution.  See generally Second 
+DiBella Decl. Ex. 1 (“NFL Const. & Bylaws”), Dkt. 73.  The NFL is overseen by a 
+Commissioner, currently Roger Goodell, who is appointed by member teams.  See NFL Const. & 
+Bylaws Art. VIII; Pls. Opp. at 3.                                         
+
+2    Although not raised by the parties, recent case law seems to suggest that there is some disagreement among 
+courts in this circuit concerning the appropriate standard to apply on a pre-discovery motion to compel arbitration.  
+Compare Bensadoun v. Jobe-Riat, 316 F.3d 171, 175 (2d Cir. 2003) (applying a summary judgment standard) with 
+Aleksanian v. Uber Techs. Inc., 524 F. Supp. 3d 251, 258 (S.D.N.Y. 2021) (applying a motion to dismiss standard).  
+Because the parties do not dispute the material facts relevant to the motion to compel arbitration, the Court need not 
+resolve this apparent conflict for the purposes of this motion.           
+         A. Plaintiffs’ Allegations of Discrimination in the NFL         
+    Brian Flores, Steve Wilks, and Ray Horton are Black men who allege that they have each 
+been discriminated against when employed or when seeking to be employed as coaches for NFL 
+teams.  Am. Compl. ¶ 1.  Messrs. Flores and Horton allege that several NFL teams interviewed 
+
+them for head coaching positions solely to fulfill the so-called “Rooney Rule” without any intent 
+of hiring them.3  See id. at ¶¶ 185, 200–05, 271–73.                      
+              1. Brian Flores                                            
+    Mr. Flores alleges that he was a victim of racial discrimination on four distinct occasions. 
+    Mr. Flores first alleges that the Denver Broncos interviewed him in 2019 solely to satisfy 
+the Rooney Rule without actually considering him for its head coach position.  Id. ¶¶ 200–05.   
+    Mr. Flores next alleges that when he was head coach of the Miami Dolphins, Dolphins 
+owner Stephen Ross attempted to bribe him (i) to lose games so the Dolphins would get the first 
+pick in the next year’s draft and (ii) to recruit “a prominent quarterback in violation of League 
+tampering rules.”  Id. ¶ 168; see also id. ¶¶ 161–63.  When Mr. Flores refused both requests, he 
+
+was stigmatized as an “angry black man” and ultimately fired.  Id. ¶¶ 175, 177.  Mr. Flores 
+further alleges that the Dolphins provided him with an improper separation agreement, failed to 
+pay him contractually-required severance pay in violation of his employment contract, and 
+instituted arbitration proceedings against him to claw back his wages as retaliation for filing this 
+lawsuit.  Id. ¶¶ 220–26.                                                  
+
+
+
+3    Of course, non-compliance with the Rooney Rule is not, itself, actionable.  Nevertheless, Plaintiffs’ 
+allegations that teams conducted sham interviews, if proven, could undercut any defense predicated on the teams 
+showing that Black candidates were “considered” for all open positions.   
+    Mr. Flores further alleges that, in January 2022, the New York Giants invited him to 
+interview for the position of head coach, but the Giants had already selected Brian Daboll.4  Id. 
+¶¶ 182–88.                                                                
+    Finally, Mr. Flores claims that the Houston Texans removed him from consideration for 
+
+their head coach position solely as retaliation for filing the instant lawsuit.  Id. ¶¶ 207–13.   
+              2. Steve Wilks                                             
+    Steve Wilks alleges that the Arizona Cardinals hired him as a “bridge coach,” meaning a 
+coach “who is not given a meaningful opportunity to succeed and is simply ‘keeping the seat 
+warm’ until . . . a new coach is brought in.”  Id. ¶ 233; see also id. ¶ 232.  Mr. Wilks alleges that, 
+despite a strong coaching performance “under extremely difficult circumstances” — including 
+the arrest of Cardinals’ General Manager Steve Keim, a weak roster featuring a rookie 
+quarterback who had been drafted over Mr. Wilks’s objection, and pressure to lose games to 
+improve the Cardinals’ position in the NFL draft — he was wrongfully terminated.  Id. ¶ 247; 
+see also id. ¶¶ 19, 240, 250.  Mr. Wilks alleges that the Cardinals fired him as the “fall guy” for 
+
+failures that were attributable in significant part to Mr. Keim, before hiring Kliff Kingsbury, a 
+white man, as head coach.  See id. ¶¶ 258–60.                             
+              3. Ray Horton                                              
+    In January 2016, while he was the Tennessee Titans’ defensive coordinator, Mr. Horton 
+interviewed to be the Titans’ head coach.  Id. ¶¶ 266, 271–73.  Mr. Horton alleges that the Titans 
+only offered him the interview to comply with the Rooney Rule, as the Titans had already 
+decided to hire Mike Mularkey, a white man, when they interviewed Mr. Horton.  Id. ¶¶ 273–78.  
+
+
+4    Before Mr. Flores interviewed for the position he received a text from Bill Belichik, the New England 
+Patriots’ head coach, congratulating him for getting the job.  Am. Compl., Dkt. 22 ¶¶ 186–87.  Mr. Belichik appears 
+to have confused Brian Daboll, who was hired as the Giants’ head coach, with Brian Flores, who was not.  Id. 
+In a 2020 interview, Mr. Mularkey stated that Amy Adams Strunk, the Titans’ controlling owner, 
+told him that he was going to be the head coach before they “went through the Rooney rule.”  Id. 
+¶ 280; see also id. ¶ 272.  Mr. Horton further alleges that his unsuccessful interview with the 
+Titans branded him as a “stale” candidate and interfered with him receiving additional interviews 
+
+for head coach positions.  Id. ¶ 284.                                     
+         B. Plaintiffs’ Employment Contracts                             
+    Messrs. Flores, Wilks, and Horton each had an employment contract with each team he 
+coached.  See Pls. Opp. at 3; Defs. Mem. at 6.  The NFL was not a party to those contracts.  The 
+NFL Commissioner was, however, required to approve each contract.  See Defs. Mem. at 3, 21; 
+see also, e.g., Second DiBella Decl. Ex. 4 (“Flores-Steelers Agreement”), Dkt. 73 § 12.  In each 
+contract, each Plaintiff acknowledged that he had read the NFL Constitution and Bylaws and 
+agreed to be bound by them.  See Pls. Opp. at 9; see also, e.g., Second DiBella Decl. Ex. 2 
+(“Flores-Dolphins Agreement”), Dkt. 73 § 7.1; Second DiBella Decl. Ex. 7 (“Horton-Titans 
+Agreement”), Dkt. 73 § 6(a)–(c); Second DiBella Decl. Ex. 5 (“Wilks-Cardinals Agreement”), 
+
+Dkt. 73 § 9(a).                                                           
+    While the exact text of those contracts varies, in relevant part each agreement provides 
+that the NFL Commissioner will oversee an alternative dispute resolution process for all disputes 
+arising between the parties.  See, e.g., Flores-Dolphins Agreement § 12.2; Horton-Titans 
+Agreement § 6(a); Wilks-Cardinals Agreement § 10(a).  Mr. Wilks’s contract with the Cardinals 
+also included a clause delegating any disputes regarding whether the contracts were “void or 
+voidable” to the arbitrator.  See Wilks-Cardinals Agreement § 10(e).      
+                       LEGAL STANDARD                                    
+    Pursuant to Section 2 of the Federal Arbitration Act (“FAA”), “agreements to arbitrate 
+[are] ‘valid, irrevocable, and enforceable, save upon such grounds as exist at law or in equity for 
+the revocation of any contract.’”5  AT&T Mobility LLC v. Concepcion, 563 U.S. 333, 336 (2011) 
+
+(quoting 9 U.S.C. § 2).  “[B]efore an agreement to arbitrate can be enforced, the district court 
+must first determine whether such agreement exists between the parties.  This question is 
+determined by state contract law.”  Meyer v. Uber Techs., Inc., 868 F.3d 66, 73 (2d Cir. 2017) 
+(citing Nicosia v. Amazon.com, Inc., 834 F.3d 220, 229 (2d Cir. 2016)) (internal citation 
+omitted).                                                                 
+    If an arbitration agreement exists, the Court must also determine “whether the dispute 
+falls within the scope of the arbitration agreement.”  Meyer, 868 F.3d at 74 (internal quotation 
+omitted).  Because of the “emphatic federal policy in favor of arbitral dispute resolution,” 
+Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, Inc., 473 U.S. 614, 631 (1985), “any 
+doubts concerning the scope of arbitrable issues should be resolved in favor of arbitration,” 
+
+Moses H. Cone Mem’l Hosp. v. Mercury Constr. Corp., 460 U.S. 1, 24–25 (1983).  See also 
+Specht v. Netscape Commc’ns Corp., 306 F.3d 17, 35 (2d Cir. 2002) (Sotomayor, J.) 
+(“[A]rbitration is indicated unless it can be said with positive assurance that an arbitration clause 
+is not susceptible to an interpretation that covers the asserted dispute.”  Id. (internal quotation 
+omitted).).  In light of the “liberal federal policy favoring arbitration agreements . . . arbitration 
+agreements should be enforced according to their terms unless the FAA’s mandate has been 
+
+
+
+5    Plaintiffs do not dispute that the Federal Arbitration Act (“FAA”) applies to the parties’ agreement to 
+arbitrate.  Pls. Opp., Dkt. 62 at 5 (citing the FAA).                     
+overridden by a contrary congressional command.”  Sutherland v. Ernst & Young LLP, 726 F.3d 
+290, 295 (2d Cir. 2013) (cleaned up).6                                    
+    An agreement to arbitrate arbitrability is “an additional, antecedent agreement” that is 
+also covered by the FAA.  Henry Schein, Inc. v. Archer and White Sales, Inc., 139 S. Ct. 524, 
+
+529 (2019) (quoting Rent-A-Center, West, Inc. v. Jackson, 561 U.S. 63, 70 (2010)).  Unlike other 
+agreements to arbitrate, for which there is a presumption in favor of finding the parties agreed to 
+arbitration, “the law reverses the presumption” for agreements to arbitrate arbitrability.  First 
+Options of Chicago, Inc. v. Kaplan, 514 U.S. 938, 945 (1955).  Accordingly, “the issue of 
+arbitrability may only be referred to the arbitrator if there is clear and unmistakable evidence 
+from the arbitration agreement, as construed by the relevant state law, that the parties intended 
+that the question of arbitrability shall be decided by the arbitrator.”  Contec Corp. v. Remote Sol., 
+Co., Ltd., 398 F.3d 205, 208 (2d Cir. 2005) (quoting Bell v. Cendant Corp., 293 F.3d 563, 566 
+(2d Cir. 2002)).                                                          
+                          DISCUSSION                                     
+
+    Plaintiffs acknowledge that they entered into employment agreements with several of the 
+Defendant teams and that those agreements provide an alternative dispute resolution process.  
+Plaintiffs argue, however, that the alternative dispute resolution agreements are invalid or do not 
+encompass their claims, or, if they are valid and do encompass their claims, they are 
+unenforceable.  See, e.g., Pls. Opp. at 4 n.2, 8–9, 15–16, 24.  For the reasons discussed below, 
+the Court finds that Mr. Flores’s claims against the Dolphins, Mr. Wilks’s claims against the 
+
+
+
+6    Section 1981 of the Civil Rights Act of 1866 does not indicate a Congressional intent to override the 
+FAA’s policy toward the enforcement of arbitration agreements.  See Rent-A-Center, West, Inc. v. Jackson, 561 U.S. 
+63, 65, 67–68 (2010) (applying the FAA to plaintiff’s section 1981 claim). 
+Cardinals, and Mr. Horton’s claims against the Titans must be submitted to arbitration; Mr. 
+Flores may, however, litigate his claims against the Broncos, Giants, and Texans in federal court. 
+    I.   Plaintiffs’ Claims, Except Those Against the Giants and Texans, Are
+         Covered by the Parties’ Arbitration Agreements                  
+    Each employment agreement selected the law of the state in which the team was based as 
+the governing law.7  See Defs. Mem. at 3 n.2.  Pursuant to the applicable state laws, the Court 
+finds that Plaintiffs’ claims, except for Mr. Flores’s claims against the Giants and Texans, fall 
+within the scope of the parties’ arbitration agreements.8                 
+         A. Brian Flores                                                 
+    Mr. Flores has sued four different football teams: the Denver Broncos, Miami Dolphins, 
+
+New York Giants, and Houston Texans.  From 2008 until February 3, 2019, Mr. Flores was a 
+coach for the New England Patriots.  Am. Compl. ¶ 157; Defs. Mem. at 5.  While under contract 
+to the Patriots, he interviewed for the Broncos’ head coach position, but he was not hired.  Am. 
+Compl. ¶¶ 200–04.  From 2019 until January 10, 2022, Mr. Flores was the Dolphins’ head coach.  
+Id. ¶¶ 158, 177.  After being fired by the Dolphins, Mr. Flores interviewed for the Giants’ and 
+Texans’ head coach position but was not hired by either team.  Id. ¶¶ 179, 184, 191, 207, 216.  
+This lawsuit was filed on February 1, 2022, Compl., Dkt. 1, and on February 18, 2022, the 
+
+
+
+7    The Court applies the law of the state selected by the applicable choice of law provisions in each contract. 
+The choice of law clauses are enforceable because each employment contract selects the law of the state in which 
+the Defendant team is based and in which each coach was employed; consequently, “the chosen law bears a 
+reasonable relationship to the parties or the transaction.”  Fireman’s Fund Ins. Co. v. Great Am. Ins. Co. of New 
+York, 822 F.3d 620, 641 (2d Cir. 2016) (quoting Welsbach Elec. Corp v. MasTec N. Am., Inc., 859 N.E.2d 498, 500 
+(2006)).                                                                  
+8    Mr. Flores’s claims against the Broncos fall within the scope of the applicable arbitration agreement, but 
+the agreement is not enforceable for reasons discussed infra, section III(A). 
+Pittsburgh Steelers hired Mr. Flores as “the senior defensive assistant and linebackers coach,” 
+Defs. Mem. at 18; see also Flores-Steelers Agreement at 1.9               
+    Defendants argue that, even though Mr. Flores never contracted with the Giants, Broncos, 
+or Texans, his claims against those teams are nevertheless subject to arbitration pursuant to the 
+
+NFL Constitution as incorporated into his contracts with the Patriots, Dolphins, and Steelers.  
+See Defs. Mem. 18, 20 n.3.  For the reasons explained below, the Court finds that only Mr. 
+Flores’s contract with the Dolphins and Patriots contain valid arbitration agreements relevant to 
+his claims, and there is no binding arbitration agreement in Mr. Flores’s contract with the 
+Steelers.                                                                 
+              1. Mr. Flores’s Claims Against the Broncos                 
+    Mr. Flores alleges that the Denver Broncos discriminated against him because of his race 
+when they failed to hire him.  Mr. Flores argues that he is not required to arbitrate his claims 
+against the Broncos because he never specifically agreed to arbitrate claims against the Broncos.  
+See Pls. Opp. at 24.  At the time Mr. Flores interviewed with the Broncos, he was under contract 
+
+with the New England Patriots; in his contract with the Patriots, he expressly agreed to abide by 
+the NFL Constitution, which was “made a part of th[e] Agreement.”  Second DiBella Decl. Ex. 3 
+(“Flores-Patriots Agreement”), Dkt. 73 § 15; see also NSTAR Elec. Co. v. Dep’t of Pub. Utilities, 
+968 N.E.2d 895, 905–06 (Mass. 2012) (holding that a contract incorporates a document by 
+reference where it “clearly communicate[s] that the purpose of the reference is to incorporate the 
+referenced material into the contract,” id. at 905 (internal quotation omitted)). 
+
+
+
+9    Mr. Flores now appears to be the Minnesota Vikings’ defensive coordinator.  See Craig Peters, Vikings 
+Hire Brian Flores as Defensive Coordinator, Vikings.com (Feb. 6, 2023, 5:25 P.M.), 
+https://www.vikings.com/news/brian-flores-defensive-coordinator-hired-2023. 
+    Section 8.3 of the NFL Constitution contains an arbitration provision that is broader than 
+the one contained in the employment contracts; it grants the NFL Commissioner “full, complete 
+and final jurisdiction and authority to arbitrate” several types of disputes.  As is relevant here, the 
+NFL Commissioner has jurisdiction to arbitrate “[a]ny dispute between any . . . coach . . . and 
+
+any member club or clubs.”  NFL Const. & Bylaws § 8.3(B).                 
+    Mr. Flores’s claims against the Broncos plainly constitute a “dispute between any . . . 
+coach . . . and any member club.”  Id.  Mr. Flores’s contract with the Patriots bound him to 
+follow the NFL Constitution while he was employed by the Patriots, including its provision 
+giving the Commissioner sole authority to arbitrate any dispute with an NFL team.  See Flores-
+Patriots Agreement § 15; Pls. Opp. at 24 (acknowledging that Mr. Flores was under contract with 
+the Patriots when he interviewed with the Broncos).                       
+    Defendants also argue that the arbitration agreement in the NFL Constitution, as 
+incorporated into Mr. Flores’s 2019 contract with the Miami Dolphins, retroactively applies to 
+Mr. Flores’s claims against the Broncos, which arose before he became the Dolphins’ head 
+
+coach.  See Defs. Mem. at 18.  Courts, however, have “refused to compel arbitration of claims 
+arising from disputes which arose outside of the effective dates of arbitration agreements,” unless 
+the agreement expressly includes claims preceding the contract.  Klay v. All Defendants, 389 
+F.3d 1191, 1203 (11th Cir. 2004); see also Jones v. Waffle House, Inc., 866 F.3d 1257, 1271 n.1
+(11th Cir. 2017) (arbitration agreement that explicitly encompassed past claims could be 
+interpreted to include disputes over plaintiff’s “previous attempts at employment.”); Baptist 
+Hosp. of Miami, Inc. v. Media Healthcare Plans, Inc., 376 F. Supp. 3d 1298, 1308–10 (S.D. Fla. 
+2019) (applying Florida law and collecting cases).10                      
+
+10   Even if the NFL Constitution, as incorporated into Flores-Dolphins contract, could be interpreted to 
+retroactively apply to claims against teams that arose before the contract’s effective date, the arbitration agreement 
+    Defendants finally argue that Mr. Flores must arbitrate his claims against the Broncos 
+because the NFL’s alleged systemic racism was already in full force while Mr. Flores was under 
+contract to the Patriots.11  Defs. Mem. at 18–20.  The Court disagrees.   
+    Despite the long historic narrative in the Amended Complaint reciting historical racism in 
+
+the NFL, the gravamen of Mr. Flores’s claim is not that the NFL is generally racist.  Rather, Mr. 
+Flores claims that specific adverse employment decisions were driven by discriminatory animus 
+harbored by the NFL and member teams.  Defendants’ argument, taken to its logical extreme, 
+would bind a coach forever to arbitration, even if he were never again employed by a team in the 
+NFL, so long as the NFL had a practice of inflicting similar harm on other coaches while that 
+coach was under contract.  Defendants cite no cases, and research has revealed none, that 
+endorse the idea of an endless agreement to arbitrate future disputes with legally distinct entities. 
+              2. Mr. Flores’s Claims Against the Miami Dolphins          
+    Mr. Flores alleges that the Dolphins discriminated against him while he was employed by 
+the Dolphins and shortly thereafter.  The employment contract between Mr. Flores and the 
+
+Dolphins provides that “all matters in dispute” between Mr. Flores and the Dolphins “including, 
+without limitation, any dispute arising from the terms of this Agreement, Employee’s 
+employment with the Club, or otherwise, shall be referred to the Commissioner of the NFL for 
+
+would be unenforceable for unconscionability under Florida law.  See Second DiBella Decl. Ex. 2 (“Flores-Dolphins 
+Agreement”), Dkt. 73 § 19 (selecting Florida law).  Mr. Flores had no power to modify the NFL Constitution, and 
+Defendants did not commit to providing Mr. Flores notice of any changes to the NFL Constitution.  See Flores-
+Dolphins Agreement § 7.1 (“Employee . . . agrees . . . to be bound by[] the Constitution, Bylaws, and the Rules and 
+Regulations of the NFL (as they now exist or as they may be amended) . . . .”); Second DiBella Decl. Ex. 1 (“NFL 
+Const. & Bylaws”), Dkt. 73 Art. 25 (setting forth the procedures for amendment of the NFL Constitution).  Courts 
+applying Florida law have held that a contract is illusory, and thus, unenforceable, where one party can modify the 
+terms of that contract without notifying the other party.  See Diverse Elements, Inc. v. Ecommerce, Inc., 5 F. Supp. 
+3d 1378, 1382 (S.D. Fla. 2014) (collecting cases); Centennial Bank v. ServisFirst Bank, Inc., 2022 WL 10219893, at 
+*31 (M.D. Fla., Oct. 10, 2022) (“[A] contract once entered into may not thereafter be unilaterally modified as
+subsequent modifications require consent . . . .”  Id. at *31 (citations omitted)).
+11   Defendants make a similar argument with respect to Mr. Flores’s claims against the Giants and the Texans, 
+see Defs. Mem., Dkt. 48 at 18–20, which the Court rejects for the same reasons. 
+binding arbitration . . . .”  Flores-Dolphins Agreement § 12.2.  Mr. Flores does not dispute that 
+this agreement was binding or that his claims alleging discrimination while he was a coach and 
+when he was fired fall within the scope of his arbitration agreement with the Dolphins.  He 
+argues, however, that his claims regarding the Dolphins’ retaliatory conduct after he was fired do 
+
+not fall within the scope of the contract’s arbitration agreement.  Pls. Opp. at 25.   
+    There is a “presumption in favor of postexpiration arbitration of matters . . . arising out of 
+the relation governed by the contract.”  Litton Fin. Printing Div., a Div. of Litton Bus. Sys., Inc. 
+v.N.L.R.B., 501 U.S. 190, 204 (1991) (internal citation omitted); see also Doctors Assocs., Inc. v.
+Thomas, 898 So.2d 159, 162 (Fla. Dist. Ct. App. 2005) (arbitration agreements govern disputes 
+arising after the termination of a contract that does not explicitly exclude post-termination 
+disputes).                                                                
+    Mr. Flores’s retaliation claim against the Dolphins is subject to arbitration because it 
+clearly arises from his employment with the club.  Florida courts have interpreted the “arising 
+from” requirement to require arbitration of an employee’s claims where the “breach in question 
+
+was an immediate, foreseeable result of the performance of contractual duties.”  Doe v. Princess 
+Cruise Lines, Ltd., 657 F.3d 1204, 1218 (11th Cir. 2011) (internal quotation omitted); see also 
+Maglana v. Celebrity Cruises, Inc., No. 20-14206, 2022 WL 3134373, at *4–5 (11th Cir. Aug. 5, 
+2022); Phillips v. NCL Corp. Ltd., 824 F. App’x 675, 679 (11th Cir. 2020). 
+    Disputes regarding the payment of wages or the terms of separation are “a fairly direct 
+result of the performance of contractual duties” in an employment relationship.  Telecom Italia, 
+SpA v. Wholesale Telecom Corp., 248 F.3d 1109, 1116 (11th Cir. 2001) (noting that an 
+“intentional failure to perform the contract” is subject to arbitration).  Upon embarking on an 
+employment relationship, both employee and employer can anticipate that the employee may be 
+fired and that disputes may arise regarding an employee’s wages or the employer’s retaliatory 
+conduct.                                                                  
+    In Milestone v. Citrus Specialty Grp., Inc., No. 19-CV-2341, 2019 WL 5887179, at *2 
+(M.D. Fla. Nov. 12, 2019), the court found that an employee’s claims of discrimination and 
+
+retaliation were arbitrable under Florida law because “the claims were dependent upon the 
+plaintiffs’ employment’s status and could not be brought in the absence of the employment 
+relationship governed by the agreements.”  Id. (quoting McAdoo v. New Line Transp., LLC, No. 
+16-CV-1917, 2017 WL 942114, at *4 (M.D. Fla. Mar. 9, 2017) (cleaned up); see also Ravelo v.
+Shutts & Bowen, LLP, No. 09-CV-865, 2009 WL 1587272, at *1–2 (M.D. Fla. July 11, 2009) 
+(holding that plaintiffs’ racial discrimination and retaliation claims were subject to arbitration).  
+              3. Mr. Flores’s Claims Against the Giants and Texans       
+    Defendants argue that the arbitration clause in Mr. Flores’s contract with the Steelers 
+applies retroactively to any claims accrued against the NFL or member teams before he was 
+hired by the Steelers.  Defs. Mem. at 20 n.3.  Even if the Defendants are correct on that point, 
+
+Defendants have failed to establish that Mr. Flores entered into a valid arbitration agreement 
+when he was hired by the Steelers.                                        
+    The Flores-Steelers Agreement required the approval of the NFL Commissioner before it 
+became effective.  See Flores-Steelers Agreement § 12 (“This Agreement shall become valid and 
+binding upon each party only when and if it shall be approved by the Commissioner of the 
+NFL.”).  The version of the Flores-Steelers Agreement submitted to the Court never became 
+binding upon Mr. Flores or the Steelers because the Commissioner never signed it.  See Flores-
+Steelers Agreement at 7.                                                  
+    In their June 21, 2022, brief, Defendants noted that the contract was still awaiting the 
+Commissioner’s approval; more than a year after the contract’s purported effective date, 
+Defendants have failed to provide the Court with any evidence that the contract has been 
+approved by Commissioner Goodell.  See Defs. Mem. at 9.  On February 1, 2023, the Court 
+
+ordered Defendants to re-submit Plaintiffs’ contracts due to omissions in the original 
+submissions, see Order, Dkt. 70; Defendants once again submitted a version of the Flores-
+Steelers Agreement that lacked Commissioner Goodell’s signature and attested that it was “a true 
+and correct copy” of the Agreement, see Second DiBella Decl., Dkt. 73 ¶ 5; Flores-Steelers 
+Agreement at 7.                                                           
+    “The party seeking to stay the case in favor of arbitration bears an initial burden of 
+demonstrating that an agreement to arbitrate was made.”  Hines v. Overstock.com, Inc., 380 F. 
+App’x 22, 24 (2d Cir. 2010) (collecting cases).  Even where the party opposing arbitration admits 
+that he is subject to an arbitration agreement, the moving party bears the burden of demonstrating 
+that a valid arbitration agreement exists.  See Dreyfuss v. Etelecare Glob. Sols.-U.S. Inc., 349 F. 
+
+App’x 551, 552–53 (2d Cir. 2009).  Defendants have failed to carry that burden with respect to 
+Mr. Flores’s claims against the Giants and Texans because they have failed to prove that an 
+arbitration agreement was in effect when or after Mr. Flores was being considered for hire by 
+those teams.  See id.  Accordingly, Mr. Flores may litigate his claims against the Giants and 
+Texans, and his related claims against the NFL, in federal court.12       
+
+
+
+
+12   Because the Court finds that at least some claims may proceed in federal court, it need not address whether 
+the arbitration agreement requires arbitration on an individual basis, as Mr. Flores retains the ability to pursue a class 
+action in federal court.                                                  
+         B. Steve Wilks                                                  
+    Mr. Wilks signed an employment agreement with the Cardinals in which both the 
+Cardinals and Mr. Wilks agreed to arbitrate “all disputes, claims or controversies that exist or 
+that may arise between them.”  Wilks-Cardinals Agreement § 10(a).  Mr. Wilks also agreed to 
+
+arbitrate “any claim that all or any part of this Agreement is void or voidable.”  Id. § 10(e).   
+    Where, as here, the parties have agreed that the arbitrator will decide issues regarding 
+whether the arbitration agreement is “void or voidable,” they have “clearly and unmistakably” 
+delegated to the arbitrator the power to determine whether their dispute is subject to arbitration.  
+See Rent-A-Center, West, Inc., 561 U.S. at 66, 69–70 (delegating arbitrability dispute where the 
+delegation clause encompassed claims regarding whether the arbitration agreement was “void or 
+voidable”); see also Ward v. Ernst & Young U.S. LLP, 468 F. Supp. 3d 596, 603 (S.D.N.Y. 
+2020) (same).  This includes the power to decide whether the arbitration agreement as a whole is 
+unenforceable for unconscionability or any other applicable contract defense.  See Rent-A-
+Center, West, Inc., 561 U.S. at 73–75.                                    
+
+    Because neither party discussed the delegation clause in their original submissions, on 
+February 1, 2023, the Court ordered supplemental briefing regarding the enforceability of the 
+delegation provision.  See Order, Dkt. 70 at 2.  In response, Mr. Wilks argued that Defendants 
+had waived their right to seek arbitration of the threshold question of arbitrability by failing to 
+raise the issue in their moving papers or reply and that allowing the Commissioner to decide the 
+threshold issue of arbitrability would be operationally problematic and unconscionable.  Pls. 
+Supp. Br., Dkt. 75 at 1.  Defendants’ failure to raise the issue does not constitute a waiver of their 
+right to enforce the delegation clause, and neither of Plaintiffs’ other arguments is persuasive. 
+    The Supreme Court has recently made clear that federal courts should not condition 
+waiver of the right to compel arbitration on a showing of prejudice; instead, the Court held that 
+the focus must be on the defendants’ conduct.  See Morgan v. Sundance, 142 S. Ct. 1708, 1712–
+13 (2022).  Following Morgan, the Second Circuit has held that delay alone — even a delay of 
+
+nearly three years — is insufficient to constitute waiver when the parties had not engaged in 
+substantive litigation before the defendant belatedly sought arbitration.  Nicosia v. Amazon.com, 
+Inc., No. 21-2624, 2023 WL 309545, at *4 n.2 (2d Cir. Jan. 19, 2023).13   
+    Consequently, the fact that Defendants failed to raise the issue of the delegation clause 
+for nearly eight months after their opening brief was filed (and then only when prompted by the 
+Court) does not waive their right to enforce the delegation clause when no other substantive 
+litigation has occurred.  “Mere silence, oversight or thoughtlessness . . . is insufficient to support 
+an inference of waiver.”  Herrera v. Manna 2nd Ave. LLC, No. 20-CV-11026, 2022 WL 
+2819072, at *8 (S.D.N.Y. July 18, 2022); see also Powell v. Vroom, Inc., No. 22-CV-302, 2022 
+WL 4096872, at *7 (N.D. Ala. Sept. 7, 2022) (holding that defendant did not waive its right to 
+
+enforce the delegation clause in the parties’ contract by initially submitting the threshold 
+question of delegation to the court).  Furthermore, “any doubt concerning the scope of arbitrable 
+issues should be resolved in favor of arbitration,” including “allegation of waiver . . . .”  Moses 
+H.Cone Mem. Hosp., 460 U.S. at 24–25.                                     
+    Plaintiffs finally argue that allowing Commissioner Goodell to arbitrate any threshold 
+questions of arbitrability would be unconscionable because he will inevitably be biased.  Pls. 
+
+13   Plaintiffs contend that because the Wilks-Cardinals agreement selects Arizona law, Arizona law governs 
+the question of waiver.  See Second DiBella Decl. Ex. 5 (“Wilks-Cardinals Agreement”), Dkt. 73 § 23; Pls. Supp. 
+Br., Dkt 75 at 1, 1 n.1.  Plaintiffs are incorrect.  Whether Defendants waived their right to compel arbitration is 
+governed by federal waiver law, and, thus, the issue is controlled by the law of this circuit.  See Morgan v. 
+Sundance, 142 S. Ct. 1708, 1712–13 (2022).                                
+Supp. Br. at 4.  Plaintiffs have not pointed to a single case, and research has revealed none, that 
+applied Arizona law to find that an arbitration agreement was unenforceable because there was a 
+risk that the arbitrator the parties jointly selected may be biased.14  Rather, Arizona courts have 
+focused on whether the arbitration provision is “fundamentally unfair” because it “grants one 
+
+party to the arbitration unilateral control over the pool of arbitrators.”  Arnold v. Standard Pac. of 
+Ariz. Inc., No. 16-CV-452, 2016 WL 4259762, at *3 (D. Ariz. Aug. 12, 2016) (citing McMullen 
+v.Meijer, Inc., 355 F.3d 485, 494 (6th Cir. 2004)) (cleaned up); see also Gullet on behalf of
+Estate of Gullet v. Kindred Nursing Ctrs. W., L.L.C., 390 P.3d 378, 359 (Ariz. Ct. App. 2017) 
+(holding that arbitration was not substantively unconscionable for lack of neutrality where, inter 
+alia, the employer did not have unilateral control over the arbitration selection process).  
+    Because arbitration is a matter of contract, Plaintiffs cannot ask the Court to provide them 
+with an arbitrator who is more neutral than the one to whom they agreed.  See Nat’l Football 
+League Mgmt. Council v. Nat’l Football League Players Ass’n, 820 F.3d 527, 548 (2d Cir. 
+2016).  Indeed, the Arizona legislature has only precluded individuals with “a known, direct and 
+
+material interest in the outcome of the arbitration proceeding” from serving as an arbitrator 
+where the agreement itself requires the arbitrator to be neutral.  Ariz. Rev. Stat. § 12-3011(B). 
+         C. Ray Horton                                                   
+    Mr. Horton’s employment contract with the Tennessee Titans, which was in effect when 
+he interviewed for the Titans’ head coach position, states: “all matters in dispute between [Mr. 
+
+
+
+
+14   Because the Court finds that it would not be unconscionable for Commissioner Goodell to serve as the 
+arbitrator, it follows that it is not “operationally problematic” to allow Commissioner Goodell to make the threshold 
+determination of whether arbitration of the dispute should be delegated to JAMS.  Pls. Supp. Br., Dkt. 75 at 4–5.   
+Horton] and Titans shall be referred to the Commissioner . . . . ”  Horton-Titans Agreement 
+§6(a).15                                                                  
+    Mr. Horton argues that clause is insufficient to constitute an arbitration agreement.  Pls. 
+Opp. at 4 n.2.  It is, of course, black letter law that a contract does not have to use the word 
+
+“arbitration” in order to be an arbitration agreement.  See McDonnell Douglas Fin. Corp v. Penn. 
+Power & Light Co., 858 F.2d 825, 830 (2d Cir. 1988).  The Second Circuit has held that an 
+agreement that “manifests an intention by the parties to submit certain disputes to a specified 
+third party for binding resolution” is an arbitration agreement.”16  Id.; see also Bakoss v. Certain 
+Underwriters at Lloyds of London Issuing Certificate No. 0510135, 707 F.3d 140, 143 (2d Cir. 
+2013).  Mr. Horton’s contract with the Titans, bare bones though it may be, satisfies those 
+requirements: the parties agreed to submit any disputes to the NFL Commissioner and that his 
+decision would be binding.  See Horton-Titans Agreement § 6(a).           
+    Mr. Horton’s claims against the Titans clearly fall within the scope of the arbitration 
+agreement, which broadly encompasses “all matters in dispute” between Mr. Horton and the 
+
+Titans.  Horton-Titans Agreement § 6(a).  Plaintiffs do not argue otherwise.  Accordingly, there 
+is a valid arbitration agreement applicable to Mr. Horton’s claims against the Titans.  
+
+
+15   While Defendants assert that Mr. Horton is also subject to arbitration pursuant to the NFL Constitution as 
+incorporated into the Horton-Titans Agreement, the only version of the NFL Constitution that is in the record did not 
+go into effect until September 2016, after Mr. Horton was no longer employed by the Titans.  See Second DiBella 
+Decl., Dkt. 73 ¶ 2; Am. Compl. ¶ 266.  Thus, there is no record evidence of an arbitration provision in the NFL 
+Constitution would encompass Mr. Horton’s claim against the Titans.       
+16   Although the applicable state law governs questions of contract formation, the Second Circuit has held that 
+courts should apply federal common law in determining whether the form of alternative dispute resolution to which 
+the parties have agreed is arbitration as contemplated by the FAA.  See Bakoss v. Certain Underwriters at Lloyds of 
+London Issuing Certificate No. 0510135, 707 F.3d 140, 143 (2d Cir. 2013) (“[F]ederal common law provides the 
+definition of ‘arbitration’ under the FAA.”); but see Portland Gen. Elec. Co. v. U.S. Bank Trust Nat. Ass’n as Tr. for 
+Trust No. 1, 218 F.3d 1085, 1086 (9th Cir. 2000) (courts should look to state law in defining arbitration). 
+    II.  The Arbitration Agreements Apply to Plaintiffs’ Claims Against the NFL
+    Plaintiffs argue that their arbitration agreements with the hiring teams do not apply to 
+their disputes with the NFL because the arbitration agreements in the parties’ contracts and the 
+NFL Constitution do not explicitly include claims against the NFL.  Pls. Opp. at 19.  The 
+
+applicable state laws, however, estop Plaintiffs from avoiding arbitration of their claims against 
+the NFL in light of their allegations that the NFL and the Defendant teams were jointly engaged 
+in the alleged discrimination and retaliation.  See Doe v. Trump Corp., 6 F.4th 400, 412 n.8 (2d 
+Cir. 2021) (“[S]tate law governs whether a non-signatory may enforce an arbitration clause.”  Id. 
+(citation omitted)).17                                                    
+    The Amended Complaint not only alleges that the NFL is a joint employer with the 
+Defendant teams but that the discrimination experienced by Black players and coaches was a 
+product of collusion among NFL teams and the NFL.  See Am. Compl. ¶¶ 337–53; cf. State ex 
+rel. Hewitt v. Kerr, 461 S.W.3d 798, 814 (Mo. 2015) (en banc) (enforcing plaintiff’s arbitration 
+agreement with the St. Louis Rams Partnership against non-signatories, including the St. Louis 
+
+Rams, L.L.C., when plaintiffs brought allegations against defendants collectively).  Throughout 
+the Amended Complaint, Plaintiffs treat the NFL and its member teams “as a single unit;” they 
+cannot now claim that the two entities are distinct in order to avoid arbitration.  Smith/Enron 
+Cogeneration Ltd. P’ship, Inc. v. Smith Cogeneration Int’l, Inc., 198 F.3d 88, 98 (2d Cir. 1999) 
+
+17   Plaintiffs’ reliance on Doe v. Trump Corp., 6 F.4th 400 (2d Cir. 2021), is misplaced.  As an initial matter, 
+in refusing to grant the defendants’ motion to compel arbitration, the Doe court relied heavily on the fact that the 
+third-party Trump defendants had not signed the relevant contracts; here, the NFL Commissioner signed the 
+contracts that will be enforced.  See id. at 412–13; see also, e.g., Flores-Dolphins Agreement at 11.  Furthermore, the 
+Second Circuit explained that arbitration was generally appropriate against third parties that “had some sort of 
+corporate relationship to a signatory party,” contrasting that situation to cases in which one signatory is unaware of 
+the relationship between the other signatory and the third party that is seeking to enforce the arbitration agreement.  
+Doe, 6 F.4th at 413; see also id. at 414.  The coaches were undoubtedly aware of the relationship between the NFL 
+and the teams.                                                            
+(plaintiffs could not avoid arbitration with non-signatories where the complaint treated 
+signatories and non-signatories alike).                                   
+    “[C]ourts around the country have almost uniformly concluded” that a party to the 
+contract is estopped from avoiding arbitration where a plaintiff brings claims against the other 
+
+party and a nonparty who jointly controlled his employment and engaged in the alleged 
+misconduct.18  Green v. Mission Health Cmtys., LLC, 20-CV-439, 2020 WL 6702866, at *8 
+(M.D. Tenn. Nov. 13, 2020) (internal quotation omitted) (applying Tennessee law to find that an 
+employee was equitably estopped from avoiding arbitration when she alleged that her joint 
+employers engaged in misconduct); see also Gunson v. BMO Harris Bank, N.A., 43 F. Supp. 3d 
+1396, 1401, 1403 (S.D. Fla. 2014) (applying Florida law to compel arbitration of claims against 
+non-signatories where plaintiff’s claims arose from the joint misconduct of contractual party and 
+non-signatory);  Kolsky v. Jackson Square, LLC, 28 So.3d 965, 969 (Fla. Dist. Ct. App. 2010) 
+(same); Machado v. System4 LLC, 28 N.E.3d 401, 409 (Mass. 2013) (plaintiffs were equitably 
+estopped from avoiding arbitration when plaintiffs “lumped the two defendants together, 
+
+asserting each claim in their complaint against [them] collectively,” id. at 412). 
+    III. The Arbitration Agreements Are Enforceable Except as to Mr. Flores’s
+         Claims Against the Broncos                                      
+    Plaintiffs argue that, even if they agreed to arbitrate their claims against the Defendant 
+teams and the NFL, the agreements are unconscionable, particularly because Commissioner 
+
+
+18   Section 11(d) of the Horton-Titans Agreement selects Tennessee law.  Although Tennessee state courts 
+have yet to apply the doctrine of equitable estoppel to cases in which the plaintiff alleges that a non-party engaged in 
+misconduct with a party to the contract, at least one Tennessee appeals court has recognized the prevalence of this 
+doctrine in other courts.  See Blue Water Bay at Ctr. Hill, LLC v. Hasty, 2017 WL 5665410, at *14 n.12 (Tenn. App. 
+Ct. Nov. 27, 2017) (noting that “many courts” apply the doctrine of estoppel when the plaintiff alleges “concerted 
+misconduct by a nonsignatory and one or more signatories to the contract”).   
+Goodell would serve as the arbitrator and has the discretion to alter the arbitration rules.19  See 
+Pls. Opp. at 5.  For the reasons discussed below, the Court finds that all the applicable arbitration 
+agreements are enforceable except the arbitration agreement in the NFL Constitution as 
+incorporated in Mr. Flores’s contract with the New England Patriots to the extent that it applies 
+
+to his claim that the Broncos’ failure to hire him was discriminatory.    
+         A. Defendants Cannot Compel Mr. Flores to Arbitrate His Claims Against
+           the Broncos                                                   
+    Mr. Flores’s contract with the Patriots required him to comply with the NFL Constitution, 
+including its arbitration provision, in its “present form and as amended from time to time 
+hereafter.”  See Flores-Patriot Agreement § 15.  Plaintiffs argue that the arbitration agreement in 
+the NFL Constitution is unenforceable because the NFL is not required to provide Plaintiffs 
+notice of any changes that it may make to the NFL Constitution.20  See Pls. Opp. at 9.  The Court 
+agrees.                                                                   
+    The NFL and its member clubs have the unilateral ability to modify the terms of the NFL 
+Constitution.  See NFL Const. & Bylaws Art. 25 (setting forth the procedures for amendment of 
+the NFL Constitution).  Under Massachusetts law, which applies to Mr. Flores’s contract with 
+the Patriots, see Flores-Patriots Agreement § 21, if “the party seeking to enforce the arbitration 
+provision retain[s] the unilateral discretion to alter its terms, without notice, the agreement to 
+
+
+19   Defendants suggest that, pursuant to the NFL’s arbitration rules, at least some of Plaintiffs’ claims may be 
+arbitrated by JAMS.  Defs. Mem. at 8.  Plaintiffs argue that the instant disputes are not eligible to be referred to 
+JAMS under JAMS’s rules.  Pls. Opp. at 17.  The Court need not address this argument because delegation to JAMS 
+appears to be discretionary, and thus, whether it is available is of no moment.  See Flores-Dolphins Agreement Ex. 
+A (“NFL Dispute Resolution Procedural Guidelines”), Dkt. 73 ¶ 1.7.        
+20   The Court does not address this argument for Plaintiffs’ other claims.  Defendants need to rely on the NFL 
+Constitution only for Mr. Flores’s claims against the Broncos, as all other claims for which there is a valid 
+arbitration agreement are also subject to arbitration pursuant to the arbitration agreements contained in the Plaintiffs’ 
+contracts with the Defendant teams.  See supra, section I–II.             
+arbitrate is illusory and unenforceable,” Fawcett v. Citizens Bank, N.A., 297 F. Supp. 3d 213, 221 
+(D. Mass. 2018) (internal quotation omitted) (collecting cases).  See also Jackson v. Action for 
+Boston Cmty. Dev., Inc., 525 N.E.2d 411, 415 (Mass. 1988) (the unilateral right to amend 
+arbitration rules without notice renders any “‘offer’ made by the defendant . . . illusory”); Bekele 
+
+v.Lyft, Inc., 918 F.3d 181, 189–90 (1st Cir. 2019) (enforcing contract modifiable by Lyft
+because Lyft was required to provide users notice and an opportunity to reject the contract).   
+    Because there is no enforceable arbitration agreement governing Mr. Flores’s claims 
+against the Denver Broncos and his related claims against the NFL, Mr. Flores may litigate those 
+claims in federal court.                                                  
+         B. Possible Arbitrator Bias Does Not Invalidate the Arbitration Agreements
+    Plaintiffs argue that Mr. Goodell could not possibly serve as a neutral arbitrator because 
+“Mr. Goodell, as the Commissioner, is the NFL in all regards.”  Pls. Opp. at 6.  As evidence of 
+Mr. Goodell’s bias, Plaintiffs rely heavily on a statement released by the NFL on the day that Mr. 
+Flores filed his complaint, in which the NFL stated that Mr. Flores’s claims were “without 
+merit.”  See Am. Compl. ¶ 3; Wigdor Decl. Ex. 2, Dkt. 63.                 
+
+    “[A]rbitration is a matter of contract, and consequently, the parties to an arbitration can 
+ask for no more impartiality than inheres in the method they have chosen.”  Nat’l Football 
+League Mgmt. Council, 820 F.3d at 548.  In the context of litigation arising out of allegations 
+that the Patriots underinflated the balls used they used in the American Football Conference 
+Championship Game against the Indianapolis Colts in 2015, the Second Circuit rejected the 
+argument that, as a matter of law, the NFL Commissioner cannot fairly arbitrate claims regarding 
+the NFL’s conduct.  See id. at 532–33, 548.  As the Court noted, the parties contracted to 
+arbitrate claims before the NFL Commissioner “knowing full well . . . that the Commissioner 
+would have a stake both in the underlying discipline and in every arbitration brought.”  Id. at 
+548. Accordingly, the Second Circuit declined to indulge allegations that the NFL
+Commissioner could not “adjudicate the propriety of his own conduct.”  Id. 
+    The Court acknowledges that this structure creates a risk of biased adjudication and that 
+the NFL statement on the day the case was filed is worrisome.  Plaintiffs’ descriptions of their 
+
+experiences of racial discrimination — which allegedly are only the most recent chapter in the 
+NFL’s long history of systematic discrimination toward Black players, coaches, and managers — 
+are incredibly troubling.  Am. Compl. ¶ 4.  Given the number of Black men who play and coach 
+football, it is difficult to understand how it could be that, at the time Plaintiffs initiated this 
+lawsuit, “the NFL had only one Black Head Coach.” 21  Id. ¶ 6.            
+    Nevertheless, the FAA cautions against judicial intervention at this early stage when 
+Plaintiffs have, as here, agreed to a particular arbitration structure, including a specific arbitrator.  
+Courts must avoid presupposing that the selected arbitrator will not serve as a conscientious and 
+impartial arbitrator.  See Gilmer v. Interstate/Johnson Lane Corp., 500 U.S. 20, 30 (1991) (“We 
+decline to indulge the presumption that the parties and arbitrable body conducting a proceeding 
+
+will be unable or unwilling to retain . . . impartial arbitrators.”  Id. (cleaned up));  Nat’l Football 
+League Mgmt. Council, 820 F.3d at 548.  If the NFL Commissioner is, indeed, improperly 
+biased, and that bias prevents him from fairly adjudicating Plaintiffs’ claims, Plaintiffs have a 
+recourse: this Court retains the authority to review the Commissioner’s decision and to vacate the 
+Commissioner’s award.  See 9 U.S.C. § 10(a)(2) (permitting courts to overturn arbitration 
+decisions where there is “evident partiality or corruption”).             
+
+21   In both the NFL and the National Basketball Association (“NBA”), “about 70% of the players are Black.”  
+Scott Neuman, Why a 20-Year Effort by the NFL Hasn’t Led to More Minorities in Top Coaching Jobs, NPR (Feb. 
+3, 2022), https://www.npr.org/2022/02/03/1075520411/rooney-rule-nfl.  When Mr. Flores filed the Complaint, 
+thirteen of the thirty head coaches in the NBA were Black; at that same time, only one of the thirty-two head 
+coaches in the NFL was Black.  See id.  Thus, at the time this lawsuit was filed, the percentage of NBA Black head 
+coaches (43%) was more than thirteen times than the percentage of NFL Black head coaches (3.1%).    
+    Plaintiffs also argue that Commissioner Goodell’s alleged bias would prevent them from 
+effectively vindicating their claim in a forum in which he is the arbitrator.  See Pls. Opp. at 15–
+17. The effective vindication doctrine is “a judge-made exception to the FAA” that “finds its
+origins in the desire to prevent prospective waiver of a party’s right to pursue statutory 
+
+remedies.”  Am. Express Co. v. Italian Colors Rest., 570 U.S. 228, 235–236 (2013) (internal 
+quotation omitted).                                                       
+    The Supreme Court has recognized two types of arbitration agreements to which this 
+doctrine may apply: an agreement “forbidding the assertion of certain statutory rights” and an 
+agreement imposing arbitration fees “so high as to make access to the forum impracticable.”  Id. 
+at 236; see also Reyes v. Gracefully, Inc., 2018 WL 2209486, at *7 (S.D.N.Y. May 11, 2018) 
+(holding that an arbitration agreement could not shorten the statute of limitations for FLSA 
+claims).  Alleged structural bias falls into neither category.22  Moreover, the Supreme Court has 
+noted that while several Supreme Court “cases have . . . asserted the existence of an ‘effective 
+vindication’ exception,” these cases have simultaneously “declined to apply it to invalidate the 
+arbitration agreement at issue.”  Am. Express Co., 570 U.S. at 235.23     
+
+    Plaintiffs also argue that the risk that Commissioner Goodell will be biased renders the 
+arbitration agreements unconscionable as a matter of state contract law.  To support this 
+
+22   Cole v. Burns International Security Services, et al., 105 F.3d 1465 (D.C. Cir. 1997), is not to the contrary.  
+Although the court noted that access to neutral arbitrators was one of several factors relevant to assessing whether 
+plaintiffs could effectively vindicate their claims, see id. at 1482, the parties had agreed to use a neutral arbitrator, 
+see id. at 1480.  The Cole court gave no indication that lack of access to a neutral arbitrator was dispositive when the 
+parties had agreed to a specific arbitrator.  And although the Sixth Circuit in Floss v. Ryan’s Family Steak Houses, 
+Inc., 211 F.3d 306 (6th Cir. 2000), expressed concern that bias in the makeup of the arbitral panel would preclude 
+the effective vindication of plaintiffs’ claims, it expressly did not resolve that question because it found that the 
+arbitration agreement was illusory.  See id. at 314–15.                   
+23   See Am. Exp. Co. v. Italian Colors Rest., 570 U.S. 228, 242 (2013) (Kagan, J. dissenting) (warning that the 
+Supreme Court’s limited application of the effective vindication doctrine to arbitration agreements that “operate to” 
+bar federal claims enables companies to “appoint as an arbitrator an obviously biased person — say, the CEO. . . .”). 
+argument, Plaintiffs rely heavily on Hooters of America v. Phillips, 173 F.3d 933 (4th Cir. 1999), 
+and related cases in the Sixth Circuit.  Pls. Opp. at 11–14.  Those cases are, however, inapposite 
+as they all concerned arbitration agreements with unfair selection procedures that, inter alia, 
+granted the employer improper control over the pool of arbitrators.       
+
+    The Hooters court refused to enforce an arbitration agreement that required all arbitrators 
+to be selected from a list prepared by Hooters and thereby granted it “unrestricted control” over 
+the selection of arbitrators.  See id. at 939.  And in McMullen v. Meijier, Inc., 355 F.3d 485 (6th 
+Cir. 2004), the court refused to enforce the parties’ arbitration agreement based on “procedural 
+unfairness inherent in an arbitration agreement,” while noting that the “preferred method of 
+challenging allegations of bias is to pursue the underlying claims through the arbitration process 
+and then seek review . . . .”  Id. at 494 n.7; see also id. at 488 (noting that the employer had “the 
+right to unilaterally select a pool of . . . potential arbitrators”).  By contrast, Plaintiffs’ arbitration 
+agreements grant Defendants no discretion over the choice of the arbitrator: it must be the NFL 
+Commissioner.24                                                           
+
+    The applicable state contract laws of Florida and Tennessee do not compel a different 
+conclusion.25  In Garcia v. Church of Scientology Flag Service Organization, Inc., No. 18-
+13452, 2021 WL 5074465, at *12 (11th Cir. Nov. 2, 2021), the Eleventh Circuit held that an 
+
+24   Similarly, in Pokorny v. Quixtar, Inc., 601 F.3d 987 (9th Cir. 2010), the Ninth Circuit found that an 
+arbitration agreement requiring plaintiffs to pay a fee if they selected an arbitrator who had not gone through 
+defendants’ “training,” which was “designed to produce a very favorable view of [defendants],” unconscionably 
+used the threat of financial hardship to give defendants control over the arbitrator selection process.  Id. at 1003 
+(internal quotation omitted).                                             
+25   Several cases, on state law grounds, have declined to enforce an arbitration agreement appointing the 
+commissioner of a sports league as the arbitrator due to concerns of impropriety or bias.  See Order, Nostalgic 
+Partners LLC v. New York Yankees P’ship, No. 656724/2020, at 2 (N.Y. Sup. Ct. Dec. 17, 2021); State ex rel. 
+Hewitt v. Kerr, 461 S.W.3d 798, 813–14 (Mo. 2015) (en banc); Gruden v. The Nat’l Football League, et al., No. A-
+21-844043-B, at 13–14 (Nev. Dist. Ct. Clark Cty. Oct. 12, 2022).  Because none of the applicable contracts selects
+Missouri, New York, or Nevada law, those cases are interesting but not controlling.
+arbitration clause that required plaintiffs to arbitrate their claims against the Church of 
+Scientology before individuals “in good standing” with the church was not unconscionable under 
+Florida law — even in the face of the lead arbitrator making “various comments . . . reflecting 
+bias in favor of the church.”  Id. at *12 (citing Nat’l Football League Mgmt. Council, 820 F.3d at 
+
+548); see also id. at *8–9 (applying Florida law).                        
+    In Walker v. Ryan’s Family Steak Houses, Inc., 400 F.3d 370 (6th Cir. 2005), the Sixth 
+Circuit, applying Tennessee law, declined to enforce the arbitration agreement because the 
+“arbitrator-selection process itself [was] fundamentally unfair,” while making clear the general 
+rule that pre-arbitration challenges to an allegedly biased arbitration panel will not stand.  Id. at 
+385 (“[A] party cannot avoid the arbitration process simply by alleging that the arbitration panel 
+will be biased.”); see also Iysheh v. Cellular Sales of Tenn., LLC, No. 17-CV-542, 2018 WL 
+2207122, at *8 (E.D. Tenn. May 14, 2018) (arbitration agreement was not unconscionable 
+where, inter alia, both parties had an opportunity to participate in arbitrator selection). 
+    In short, Plaintiffs’ concern about the Commissioner’s ability to decide fairly their claims 
+
+is insufficient reason not to enforce the arbitration agreements.         
+         C. Possible Discovery Limitations Do Not Render the Agreements  
+           Unconscionable                                                
+    Plaintiffs also complain that they will not be able to take robust discovery if they are 
+compelled to arbitrate their disputes.  The fact that the NFL Commissioner may limit the amount 
+of discovery Plaintiffs can take, however, is also not grounds for refusing to enforce the various 
+arbitration agreements.  See Gilmer, 500 U.S. at 31 (limited discovery did not bar arbitration of 
+plaintiff’s age discrimination claims).  While the Second Circuit has “recognized that a provision 
+that deprived a claimant of a meaningful opportunity to present her claim might well be 
+unenforceable,” plaintiffs bear the burden of demonstrating that the arbitration rules will in fact 
+deprive them of a chance to prove their claims.  Lohnn v. Int’l Bus. Machs. Corp., No. 21-CV-
+6379, 2022 WL 36420, at *11 (S.D.N.Y. Jan. 4, 2022) (cleaned up) (quoting Guyden v. Aetna, 
+Inc., 544 F.3d 376, 386–87 (2d Cir. 2008)).                               
+    Plaintiffs have not carried that burden because they rely solely on speculation that 
+
+Commissioner Goodell may interpret the arbitration rules in a manner that will improperly and 
+unfairly limit the scope of discovery.  See Pls. Opp. at 6–7; see also PacifiCare Health Sys., Inc. 
+v.Book, 538 U.S. 401, 406–07 (2003) (holding that courts should not decline to enforce
+arbitration agreements “on the basis of mere speculation” that the arbitrator may interpret the 
+arbitration agreement in a manner that will render it unenforceable, id. (internal quotation 
+omitted)); AT&T Mobility LLC, 563 U.S. at 342 (cautioning that limitations on discovery should 
+not be considered substantively unconscionable because that “rule would have a disproportionate 
+impact on arbitration agreements”).26  If Plaintiffs are “unable to vindicate [their] rights in the 
+arbitral forum, [they] will have recourse to the Court.”  Howard v. Anderson, 36 F. Supp. 2d 183, 
+187 (S.D.N.Y. 1999) (collecting cases); see also 9 U.S.C. § 10(a)(3) (permitting courts to vacate 
+
+arbitration awards where the arbitrator “refus[es] to hear evidence pertinent and material to the 
+controversy”).                                                            
+         D. The Horton-Titans Agreement Is Sufficiently Definite To Enforce
+    Plaintiffs argue that the arbitration agreement between Mr. Horton and the Titans is 
+unenforceable because it fails to set forth the essential terms of the arbitration process.  Pls. Opp. 
+at 4 n.2.  Mr. Horton’s arbitration agreement with the Titans provides, in its entirety: “You and 
+the Titans agree that all matters in dispute between You and Titans shall be referred to the 
+
+26   Discovery in arbitration is not typically as extensive as federal court discovery; that reality is, of course, 
+one reason many prefer arbitration over litigation.  Nevertheless, the Court takes the NFL at its word that it is 
+committed to combating racism, Defs. Reply, Dkt. 64 at 5, and is confident that the Defendants recognize that the 
+Plaintiffs have raised serious claims that may require more than minimal discovery to adjudicate fairly. 
+Commissioner and his decision shall be accepted as final, complete, conclusive, binding and 
+unappealable by You and Titans.”  Horton-Titans Agreement § 6(a).         
+    Tennessee courts have held that “for a contract to be enforceable, it must be of sufficient 
+explicitness so that a court can perceive what are the respective obligations of the parties,” and 
+
+“any agreement which leaves unanswered . . . critical questions” is not enforceable.  Higgins v. 
+Oil, Chemical and Atomic Workers Int’l Union, Local No. 3-677, 811 S.W.2d 875, 880 (Tenn. 
+1991) (quoting Soar v. Nat’l Football League Players’ Ass’n, 550 F.2d 1287, 1290 (1st Cir. 
+1977) (holding that the NFL Commissioner’s oral promise retroactively to provide pension 
+benefits to retired NFL players was insufficiently definite)) (alterations omitted).   
+    Although Mr. Horton’s arbitration agreement with the Titans is admittedly quite succinct, 
+it is sufficiently definite to enforce.  Courts applying Tennessee law have found that a reference 
+to “binding arbitration to resolve all disputes that may arise out of the employment context” is 
+adequate to state the essential terms of the agreement.  Hayward v. Trinity Christian Ctr. of 
+Santa Ana, No. 14-CV-2282, 2015 WL 1924552, at *3 (M.D. Tenn. Apr. 28, 2015).27  Although 
+
+the NFL Commissioner retains substantial discretion to set the arbitration procedures, the 
+doctrines of good faith and fair dealing preclude the NFL from unilaterally adopting arbitration 
+procedures that are “improper or oppressive.”  Howell v. Rivergate Toyota, Inc., 144 F. App’x 
+475, 479 (6th Cir. 2005) (applying Tennessee law); see also Brubaker v. Barrett, 801 F. Supp. 2d 
+
+27   Although Tennessee courts have been skeptical of contracts that provide “little notice as to the procedure” 
+for arbitration, those contracts appear to have either been even more succinct than the one at issue here or contracts 
+of adhesion.  For example, in Wofford v. M.J. Edwards & Sons Funeral Home Inc., 490 S.W.3d 800 (Tenn. Ct. App. 
+Nov. 23, 2015), the contract did not indicate who the arbitrator would be or the “effect” of the arbitrator’s decision, 
+i.e., that it would be binding and final, see id. at 822–23.  And while the court in Howell v. NHC Healthcare-Fort
+Sanders, Inc., 109 S.W.3d 731, 734 (Tenn. Ct. App. 2003), invalidated the parties’ arbitration agreement in part
+because it did “not adequately explain how the arbitration procedure would work, except as who would administer
+it,” id. at 734, Tennessee courts have subsequently limited Howell’s holding to contracts of adhesion, see Wolfford,
+490 S.W.3d at 817 n.13.                                                   
+743, 753–55 (E.D. Tenn. 2011) (same).28  To the extent Commissioner Goodell adopts 
+procedures that are improper or oppressive, Plaintiffs will have recourse to this Court.  
+                          CONCLUSION                                     
+    For the foregoing reasons, Defendants’ motion to compel arbitration is GRANTED 
+
+except that it is DENIED as to Brian Flores’s claims against the Denver Broncos, New York 
+Giants, and the Houston Texans, and his related claims against the NFL.  Defendants’ request to 
+stay the case is DENIED as to Flores’s claims that may proceed to litigation and is GRANTED 
+as to all of the claims that must be arbitrated.  The Clerk of Court is respectfully directed to 
+terminate the open motion at docket entry 47.                             
+    The parties are ordered to appear for a pretrial conference on Friday, March 24, 2023, at 
+10:00 A.M. in Courtroom 443 of the Thurgood Marshall Courthouse, 40 Foley Square, New 
+York, New York, 10007.  By March 16, 2023, the parties must submit a joint letter regarding the 
+status of the case, including:                                            
+    a. a statement of all existing deadlines, due dates, and/or cut-off dates;
+
+    b. a statement describing the status of any settlement discussions and whether the parties
+      would like a settlement conference;                                
+    c. a statement of the anticipated length of trial and whether the case is to be tried to a
+      jury;                                                              
+    d. a statement regarding the anticipated schedule of arbitration;    
+    e. any contemplated motions;                                         
+
+28   Floss v. Ryan’s Family Steakhouse, 211 F.3d 306 (6th Cir. 2000), is not to the contrary.  “In Floss, the 
+arbitration agreement was between employees and a third-party arbitration service, not the employer . . . . In other 
+words, the promise of the third party was too indefinite for legal enforcement.”  Vision Healthcare Sys. (Int’l) Pty, 
+Ltd. v. Vision Software Techs. Inc., No. 15-CV-175, 2015 WL 2404089, at *3 (M.D. Tenn. May 20, 2015) (citing 
+Floss, 211 F.3d at 315–16) (upholding arbitration agreement that stated, in relevant part, “arbitration shall take place 
+in Nashville . . . before one arbitrator” without detailing further procedures, id. at *1).   
+     f.   a proposed schedule for discovery, which must comply with the guidance set forth in 
+        the Court’s model Civil Case Management Plan and Scheduling Order, available on 
+        the Court’s website; 
+     g.  any other issue that the parties would like to address at the pretrial conference; and 
+     h.  any other information that the parties believe may assist the Court in advancing the 
+        case to settlement or trial. 
+
+SO ORDERED.                                                              □ 
+
+Date:  March 1, 2023                                     VALERIE CAPRQNI 
+New York, New York                                  United States District  Judge 
+
+                                      30
+
+---
+
+UNITED STATES DISTRICT COURT                   DOC #:                     
+SOUTHERN DISTRICT OF NEW YORK                  DATE FILED:  08/0 4/2022   
+-------------------------------------------------------------- X         
+BRIAN FLORES, STEVE WILKS, and RAY  :                                    
+HORTON, as Class Representatives, on  :                                  
+behalf of themselves and all others similarly  :                         
+situated,                         :                                      
+                                  :                                      
+                         Plaintiff,  :                                   
+               -against-          :                                      
+                                  :                                      
+THE NATIONAL FOOTBALL LEAGUE; NEW  :                                     
+YORK FOOTBALL GIANTS, INC. d/b/a NEW  :                                  
+YORK GIANTS; MIAMI DOLPHINS, LTD. d/b/a :  22-CV-0871 (VEC)              
+MIAMI DOLPHINS; DENVER BRONCOS    :                                      
+FOOTBALL CLUB d/b/a DENVER BRONCOS;  :  OPINION AND ORDER                
+HOUSTON NFL HOLDINGS, L.P. d/b/a  :                                      
+HOUSTON TEXANS; ARIZONA CARDINALS  :                                     
+FOOTBALL CLUB LLC d/b/a ARIZONA   :                                      
+CARDINALS; TENNESSEE TITANS       :                                      
+ENTERTAINMENT, INC. d/b/a TENNESSEE,  :                                  
+TITANS and JOHN DOE TEAMS 1 through 26,   :                              
+                                  :                                      
+                         Defendants.  :                                  
+-------------------------------------------------------------- X         
+VALERIE CAPRONI, United States District Judge:                            
+    Three individuals who have been coaches in the National Football League (“NFL”) have 
+sued the NFL and several of its teams for discrimination in violation of 42 U.S.C. § 1981, the 
+New York State Human Rights Law, the New York City Human Rights Law, and the New 
+Jersey Law Against Discrimination.  Am. Compl., Dkt. 22.  Defendants moved to compel 
+arbitration and to stay the current proceedings.  Mot. to Compel Arbitration, Dkt. 47.  Plaintiffs 
+moved for discovery in advance of their anticipated response to the motion to compel arbitration, 
+Mot. for Discovery, Dkt. 54, and Defendants opposed the motion, Defs. Resp., Dkt 55.  For the 
+reasons stated below, Plaintiffs’ motion for discovery is DENIED.         
+                         BACKGROUND                                      
+    Plaintiffs Brian Flores, Steve Wilks, and Ray Horton are coaches in the NFL.  Each of 
+them have allegedly experienced “systemic racial discrimination” in the course of their 
+employment relationship with the NFL.  Am. Compl., Dkt. 22 ¶ 1.  On February 1, 2022, Mr. 
+
+Flores filed this putative class action alleging that the NFL discriminates against minority 
+coaches, including by interviewing them for head coaching positions solely to fulfill the “Rooney 
+Rule,” an internal requirement to interview minority candidates for select leadership positions, 
+without intending to hire them.  Id. at ¶¶ 44–112, 118–19, 178–206.  Mr. Flores further alleges 
+that the NFL retaliated against him for bringing this lawsuit.  Id. at ¶¶ 207–26.  In an amended 
+complaint filed on April 7, 2022, Plaintiffs Steve Wilks and Ray Horton brought additional 
+claims of discrimination.  Mr. Wilks alleges that he “was not given any meaningful chance to 
+succeed” as a coach for the Arizona Cardinals and was “discriminatorily fired.”  Id. at ¶ 19.  Mr. 
+Horton alleges that, like Mr. Flores, he was only offered head coach interviews to comply with 
+the Rooney Rule and was never actually considered as a candidate for head coach.  Id. at ¶¶ 22–
+
+25, 267.                                                                  
+    On June 21, 2022, Defendants moved to compel arbitration and to stay the current 
+proceedings based on arbitration agreements contained in Plaintiffs’ employment contracts and 
+in the NFL’s constitution, which was referenced in those contracts.  Mot. to Compel Arb., Dkt. 
+47; Defs. Mem. of Law, Dkt. 48 at 6–9.  On July 1, 2022, Plaintiffs moved for discovery on the 
+motion to compel arbitration, seeking documents concerning the parties’ agreement to arbitrate 
+and applicable arbitration policies, the arbitrator’s relationship with the NFL and his history of 
+arbitration rulings, as well as the NFL’s relationship with NFL teams.  Mot. for Discovery, Dkt. 
+54.  On July 8, 2022, Defendants opposed Plaintiffs’ motion for discovery.  Defs. Resp., Dkt. 55. 
+                       LEGAL STANDARD                                    
+    Although the Court evaluates a motion to compel arbitration under a “standard similar to 
+that of a summary judgment action,” Aleksanian v. Uber Techs. Inc., 524 F. Supp. 3d 251, 258 
+(S.D.N.Y. 2021), the standards for evaluating discovery requests in the context of a motion for 
+
+summary judgment and a motion to compel arbitration are not similar.  While the Court 
+evaluates the motion to compel arbitration in the context of any “discovery materials before the 
+Court,” Ryan v. JPMorgan Chase & Co., 924 F. Supp. 2d 559, 562 (S.D.N.Y. Feb. 21, 2013), the 
+Court does not compel the production of discovery materials as freely as it may when deciding a 
+motion for summary judgment.  In the face of a motion for summary judgment, the plaintiff is 
+almost always entitled to discovery before summary judgment can be granted against it.  See 
+Hellstrom v. U.S. Dep’t of Veterans Affs., 201 F.3d 94, 97 (2d Cir. 2000) (“Only in the rarest of 
+cases may summary judgment be granted against a plaintiff who has not been afforded the 
+opportunity to conduct discovery.”).  In contrast, given the “strong federal policy favoring 
+arbitration as an alternative means of dispute resolution,” Ross v. Am. Express Co., 547 F.3d 137, 
+
+142 (2d Cir. 2008) (internal quotation omitted), courts do not grant discovery requests related to 
+a motion to compel arbitration as a matter of course.                     
+    An agreement to arbitrate is binding on the parties unless the agreement is invalid under 
+state contract law.  See Ciago v. Ameriquest Mortg. Co., 295 F. Supp. 2d 324, 328 (S.D.N.Y. 
+2003).  Thus, on a motion to compel arbitration, the Court’s analysis is generally limited to 
+determining whether there is a valid agreement to arbitrate, whether one party has failed to 
+perform its duties under that agreement, and whether the agreement, properly interpreted, 
+encompasses the dispute at hand.  See AT&T Mobility LLC v. Concepcion, 563 U.S. 333, 344 
+(2011) (citing 9 U.S.C. §§ 2–4).  This inquiry is not, however, as crabbed as Defendants suggest.  
+
+See Def. Opp., Dkt. 55 at 1.  Once the parties establish that they agreed to arbitrate, courts must 
+also determine whether there are any valid “grounds as exist at law or in equity for the 
+revocation of any contract,” including unconscionability, that affect the arbitration agreement.  9 
+U.S.C. § 2 (2020); see also Ciago, 295 F. Supp. 2d at 328 (noting the availability of 
+unconscionability as a defense against a motion to compel arbitration).   
+
+    Accordingly, in the Second Circuit, discovery on a motion to compel arbitration is 
+appropriate “when the party opposing arbitration ‘comes forth with reliable evidence that is more 
+than a naked assertion . . . that it did not intend to be bound’ by the arbitration agreement, even 
+though on the face of the pleadings it appears that it did.”  Morton v. Maplebear, 2016 WL 
+616343, at *4 (S.D.N.Y. Feb. 9, 2016) (quoting Guidotti v. Legal Helpers Debt Resol., LLC, 716 
+F.3d 764, 774 (3d Cir. 2013)) (cleaned up); see also AMC Ent. v. Entretenimineto GM de Mex. 
+S.A. de C.V., 555 F. App’x 12, 14 (2d Cir. 2014).                         
+                          DISCUSSION                                     
+    Plaintiffs have failed to carry their burden of offering “facts or evidence to place the 
+validity of the [a]greement to arbitrate in issue” in their motion for discovery.  Morton, 2016 WL 
+
+616343, at *5.  Plaintiffs do not dispute that they agreed to be bound by the arbitration agreement 
+contained in their employment agreements.  Nor do Plaintiffs allege any grounds on which this 
+Court may find their agreement to be invalid.  Instead, Plaintiffs seek “agreements between 
+Plaintiffs and Defendants that might bear on the issue or arbitration” in part to determine whether 
+any subsequent contract invalidated their agreement to arbitrate.  Mot. for Discovery, Dkt. 54 at 
+2.  Because Plaintiffs should know whether they entered into any other contracts or agreements 
+that would affect their agreement to arbitrate,1 the Court can only assume that they are 
+attempting to embark on an impermissible fishing expedition.  See Olsen v. Charter Comms., 
+
+
+1    In their Opposition, Defendants note that they provided copies of several of these agreements to Plaintiffs 
+in April 2022.  Opp., Dkt. 55 at 2.                                       
+Inc., 2019 WL 3779190, at *6–7 (S.D.N.Y. Aug. 9, 2019) (courts cannot delay ruling on a 
+motion to arbitrate based on conclusory statements that one party’s consent was deficient). 
+    In support of their argument that discovery is necessary for the Court to evaluate 
+Defendants’ motion to compel arbitration, Plaintiffs cite a string of non-binding caselaw from 
+
+beyond the Second Circuit.  In those cases, the rules of arbitration were so obviously lopsided 
+that discovery would not have been required to demonstrate that the arbitration agreement was 
+unconscionable.  See Ciago, 295 F. Supp. 2d at 329–30.  The first in this line of cases is Hooters 
+of Am., Inc. v. Phillips, 173 F.3d 933 (4th Cir. 1999), in which Hooters “promulgat[ed] so many 
+biased rules” — including rules enabling it to dictate the membership of the arbitral panel — that 
+arbitration became “a sham system unworthy even of the name of arbitration.”  Id. at 940; see 
+also Beletsis v. Credit Suisse First Bos., Corp., 2002 WL 2031610, at *6 (S.D.N.Y. Sept. 4, 
+2002) (“an overabundance of invalid provisions can void an entire agreement” (citing Hooters, 
+173 F.3d at 940)).  The Fourth Circuit itself, however, limited Hooters to the facts of that case, 
+where one party bore the sole responsibility of setting the arbitration rules and so baldly 
+
+manipulated the rules in its favor that it “completely failed in performing its contractual duty” to 
+provide a fair arbitration forum.  Hooters, 173 F.3d at 940.              
+    The Sixth Circuit decisions that Plaintiffs cite similarly declined to grant an employer’s 
+motion to compel arbitration because the arbitration rules were so skewed that they were void.  
+In both cases, which involved employee arbitration agreements with Ryan’s Family Steak 
+Houses, Inc., the Sixth Circuit invalidated an arbitration agreement in which the employer had 
+complete control over the arbitration rules, to the point that it could unilaterally alter the 
+arbitration rules and appoint its own employees to arbitrate the claim.  See Floss v. Ryan’s Fam. 
+Steak Houses, 211 F.3d 306, 313 n.7, 315–16 (6th Cir. 2000); Walker v. Ryan’s Fam. Steak 
+
+Houses, 400 F.3d 370, 378, 386 (6th Cir. 2005) (citing Floss, 211 F.3d at 314).  In McMullen v. 
+Meijer, 355 F.3d 485 (6th Cir. 2004), the Sixth Circuit similarly found that the parties’ 
+arbitration agreement did not allow an employee to effectively vindicate her claims.  In that case, 
+the arbitration agreement gave the employer “unilateral control over the pool of potential 
+arbitrators;” the Court voided that portion of the agreement.  Id. at 492 (citing Floss, 211 F.3d at 
+
+310; Hooters, 173 F.3d at 938); see also id. at 491 (holding that failure to provide an arbitral 
+forum in which a claim may be effectively vindicated voids the agreement as a matter of contract 
+law).                                                                     
+    Without the type of clear substantive or procedural bias baked into the arbitration 
+agreement that was present in the Hooters line of cases, courts “decline to indulge the 
+presumption that the parties and arbitral body conducting a proceeding will be unable or 
+unwilling to retain competent, conscientious, and impartial arbitrators.”  Gilmer v. 
+Interstate/Johnson Lane Corp., 500 U.S. 20, 30 (1991) (quoting Mitsubishi Motors Corp. v. 
+Soler Chrysler-Plymouth, Inc., 473 U.S. 614, 634 (1985)).  Moreover, the Federal Arbitration 
+Act (FAA) already contemplates a route through which parties can seek judicial protection 
+
+against arbitrator bias; courts can “overturn arbitration decisions ‘where there was evident 
+partiality or corruption in the arbitrators.’”  Id. at 31 (quoting 9 U.S.C. § 10(b)); see also id. at 21 
+(noting that fair arbitration rules “protect against biased panels”); Cole v. Burns Int’l Sec. Servs., 
+105 F.3d 1465, 1482 (D.C. Cir. 1997) (same).  Plaintiffs may well be able to argue that the 
+proposed arbitrator is so biased against them that the motion to compel arbitration should not be 
+granted, but they do not need discovery to do so.                         
+    Plaintiffs also seek to compel the NFL to produce any “contract[s] . . . containing … 
+dispute resolution terms,” Mot. for Discovery, Dkt. 54 at 2, presumably so that they can 
+determine whether the arbitration rules demonstrate the type of bias present in the Hooters line 
+
+of cases; Plaintiffs should know whether they entered into any such agreements.  Plaintiffs’ 
+remaining discovery requests relating to arbitrator bias, including their request for documents 
+regarding Mr. Goodell’s history of arbitration decisions and his relationship with the NFL, do not 
+bear on the issue of whether the arbitration agreement is contractually valid.   
+    Plaintiffs do not cite a single case in which the court ordered discovery focused on the 
+dealings and rulings of an individual arbitrator in the context of a motion to compel arbitration.2  
+
+Instead, the cases upon which Plaintiffs rely concern challenges to arbitration decisions.  See, 
+e.g., Nat’l Hockey League Players’ Assoc. v. Bettman, 1994 WL 38130, at *3 (S.D.N.Y. Feb. 4, 
+1994) (affording plaintiffs the opportunity for discovery regarding arbitral bias on a motion for 
+summary judgment after arbitration had concluded); Applied Indus. Materials Corp. v. Ovalar 
+Makine Ticaret Ve Sanayi, A.S., 492 F.3d 132, 138 (2d Cir. 2007) (discussing impact of 
+arbitrators’ failure to disclose conflicts of interest on a motion to set aside an arbitration award); 
+Metro. Delivery Corp. v. Teamsters Loc. Union 769, 2019 WL 3752245, at *1 (S.D. Fla. Aug. 8, 
+2019) (permitting discovery regarding bias in a motion to set aside an arbitration award).  The 
+parties in those cases all sought relief under the FAA’s failsafe provision that allows courts to set 
+
+aside arbitration awards rendered by biased arbitrators; they do not support Plaintiffs’ claim that 
+they are entitled to discovery in order to establish that they can avoid arbitration altogether 
+because they fear the arbitrator is biased.                               
+    Plaintiff’s final ground for seeking discovery — the fact that the NFL was not a direct 
+party to the arbitration agreement — does not go to whether Plaintiffs’ “intend[ed] to be bound 
+by the arbitration agreement.”  Morton, 2016 WL 616343, at *4.  While Plaintiffs correctly note 
+that they must have actually consented to release their right to adjudicate claims against the NFL 
+
+
+2    The parties appeared to have exchanged discovery regarding the arbitrator’s prior rulings at the trial court 
+level in McMullen v. Meijer, Inc., No. 2:99-cv-71206 (E.D. Mich. Oct. 26, 2004).  See id. Dkt. 12 at 12-13.  
+Notably, the Sixth Circuit did not rely on that evidence in either of its opinions in the case.  See McMullen v. Meijer, 
+Inc., 355 F.3d 485 (6th Cir. 2004); McMullen v. Meijer, Inc., 166 F. App’x 164 (6th Cir. 2006). 
+in court, Mot. for Discovery, Dkt. 54 at 5, they do not dispute that their agreement to arbitrate 
+covered all disputes falling within the scope of their arbitration agreement, whether that may also 
+include claims against the NFL.  Plaintiffs argue that discovery is necessary because the Court 
+must consider the “relationship among the parties” as one factor in determining whether the 
+
+NFL, a non-signatory to the arbitration agreements, can enforce those agreements.  Mot. for 
+Discovery, Dkt. 54 at 5 (quoting Ragone v. Atl. Video at Manhattan Ctr., 595 F.3d 115, 126–27 
+(2d Cir. 2010)).  In evaluating whether the NFL may compel arbitration pursuant to arbitration 
+agreements to which it is not itself a party, the Court must determine whether the NFL teams 
+were, “or would predictably become, with [Plaintiffs’] knowledge and consent, affiliated or 
+associated with [the NFL] in such a manner as to make it unfair to allow [Plaintiffs] to avoid 
+[their] commitment to arbitrate on the ground that [the NFL] was not the very entity with which 
+[Plaintiffs] had a contract.”  Sokol Holdings, Inc. v. BMB Munai, Inc., 542 F.3d 354, 361 (2d Cir. 
+2008) (collecting cases).  Given the high-level nature of this inquiry, courts generally decide this 
+question based on the pleadings alone.  See, e.g., Ragone v. Atl. Video at Manhattan Ctr., 2008 
+
+WL 4058480, at *9 (S.D.N.Y. Aug. 29, 2008), aff’d, 595 F.3d 115 (2d Cir. 2010).  Plaintiffs’ 
+requested discovery of “[a]ll documents regarding, supporting or undermining Defendants’ 
+contention that Plaintiffs agreed to arbitrate their claims with the NFL” is not required, nor 
+would it be useful, for the Court to evaluate whether the NFL may appropriately compel 
+Plaintiffs to arbitrate the present dispute.  Mot. for Discovery Ex. A., Dkt. 54-1 ¶3. 
+                               CONCLUSION 
+     For the foregoing reasons, Plaintiffs’ motion for discovery is DENIED.  Plaintiffs’ 
+response to the motion to compel arbitration must be filed no later than Friday, August 19, 
+2022.  Defendants’ reply brief must be filed no later than Friday, August 26, 2022. 
+SO ORDERED.                                                         
+                                           Neen     Cop 
+Date:  August 4, 2022                         ‘VALERIE CAPRONI 
+New York, New York                            United States District  Judge
+
+---
+
+1285 AVENUE OF THE AMERICAS         NEW YORK. NEW YORK 10019-6064                 ieee Ce  ne  □     □□□□ 
+
+                                   USDC SDNY                    oe 
+WRITER’S DIRECT DIAL NUMBER                     DOCUMENT                    1  ooeeirs ROAD, CENTRAL 
+(212) 373-3 1] 18                         ELECTRONICALLY FILED        TELEPHONE (852) 2846-0300 
+WRITER'S DIRECT FACSIMILE                       DOC #:                          ALDER CASTLE 
+(212) 492-01 18                         DATE FILED:   06/29/22           SAAS SE, UNITED KINGDOM 
+WRITER’S DIRECT E-MAIL ADDRESS                                                      terete cine □□□ 
+lelynch@paulweiss.com               ar   0  END ORSED      a □ 
+
+     June 21, 2022                                                  TELEPHONE (81-3) 3597-8101 
+
+     BY ELECTRONIC FILING                                       2001 K STREET, NW 
+     The Honorable Valerie E. Caproni                                           
+     United States District Judge                                       POST OFFICE BOX32 
+     Southern District of New York                                    TELEPHONE (902) □□□□□□□□ 
+     40 Foley Square 
+     New York, NY 10007 
+           Flores, et al. v.  The National Football League, et al., No. 22-cv-871-VEC 
+     Dear Judge Caproni: 
+           Pursuant to Rule 5.B(i1) of Your Honor’s Individual Practices in Civil Cases, I write 
+     on behalf of Defendants in the above-captioned matter to request leave to file in redacted 
+     form  Exhibits  2  through  7 to  the  Declaration  of Dolores  F.  DiBella  in  Support  of 
+     Defendants’ Motion to Compel Arbitration and Stay Further Proceedings (the “DiBella 
+     Declaration”).  These exhibits consist of the relevant excerpts from Plaintiffs’ employment 
+     agreements, which include the specific provisions—including the arbitration provisions— 
+     that Defendants rely upon in their motion.  Defendants seek leave to redact the surrounding 
+     provisions included in these excerpts.  We understand that Plaintiffs oppose the proposed 
+     redactions, except with respect to personal contact information and information related to 
+     Plaintiffs’ compensation. 
+           Defendants seek to redact the provisions at issue on the ground that they are not 
+     relevant to the  issues raised in their motion.  Under Second Circuit  law,  courts  have 
+     “considerable  discretion  in  determining  whether  good  cause  exists  to  overcome  the 
+     presumption   of   open   access”   to   documents   filed   in   the   matters   before 
+     them.  Geller v. Branic Int’l Realty Corp., 212 F.3d 734, 738 (2d Cir. 2000).  Here, the 
+     public interest in “monitoring the federal courts” is already satisfied because the publicly 
+     filed excerpts will include all contract provisions that are relevant to the adjudication of 
+     Defendants’ motion.  Lugosch v. Pyramid Co. of Onondaga, 435 F.3d 110,  119 (2d Cir. 
+     2006).  Under such circumstances, it is fully within the Court’s discretion to permit the 
+     other, non-relevant provisions to remain redacted.  See Torain v. Clear Channel Broad., 
+
+FAUL,  WEILoo,  RIFARINIY,  WMAKRIUOUN  @& GOAKNRISOWN  LLI
+
+    Inc., 651 F. Supp. 2d 125, 131 n.2 (S.D.N.Y. 2009) (permitting employment agreement to 
+    be filed under seal where “[a]ll of the contractual provisions relied upon by the parties. . . 
+    [were] quoted in the parties’  submissions and [were] therefore incorporated in the.  .  . 
+    record”). 
+          As a separate and additional basis for redaction, the redacted provisions contain 
+    confidential and proprietary business and employment information, which federal courts 
+    have repeatedly recognized  as  a  legitimate basis  for redaction  or  sealing.   See,  e.g., 
+    Hanks v. Voya  Ret.  Ins.  &  Annuity  Co.,  No.  16-cv-6399,  2020  WL 5813448,  at  *3 
+    (S.D.N.Y. Sept. 30, 2020);  Oliver Wyman, Inc. v. Eielson, 282 F. Supp. 3d 684, 706-07 
+    (S.D.N.Y. 2017); Avocent Redmond Corp. v. Raritan Ams., Inc., No.  10-cv-6100, 2012 
+    WL 3114855, at *16 (S.D.N.Y. July 31, 2012).  Indeed, courts in this Circuit routinely 
+    permit  parties  to  file  employment  agreements  in  redacted  form  or  under  seal.  See, 
+    e.g., SEC v. Ahmed,  No.  15-cv-675,  2018  WL 4266079,  at  *3  (D.  Conn.  Sept.  6, 
+    2018); Kelly v. Evolution Mkts., Inc., 626 F. Supp. 2d 364, 377 (S.D.N.Y. 2009); Torain, 
+    651 F. Supp. 2d at 131 n.2. 
+          The same result should follow here.  The excerpted agreements are confidential 
+    employment agreements that contain proprietary and sensitive information relating to the 
+    terms  of employment between certain of the NFL’s member clubs  and their coaches, 
+    including terms relating to compensation and coaching responsibilities.  Those agreements 
+    are not generally available to the public or other NFL member clubs or coaches, and they 
+    all  contain  broad  confidentiality  provisions  prohibiting  the  disclosure  of  their 
+    terms.  See Flores-Dolphins Agreement 4 14 (Ex. 2); Flores-Patriots Agreement   12(A)— 
+    (B) (Ex. 3); Flores-Steelers Agreement  7 (Ex. 4); Wilks-Cardinals Agreement   6(a) (Ex. 
+    5); Wilks-Panthers Agreement J 14 (Ex. 6); Horton-Titans Agreement   3(a), (d) (Ex. 7); 
+    Kelly, 626 F. Supp. 2d at 377 (permitting employment agreement that was confidential “by 
+    its express terms” to be filed under seal); see also DiRussa v. Dean Witter Reynolds, Inc., 
+    121 F.3d 818, 826-28 (2d Cir. 1997); Torain, 651 F. Supp. 2d at 131 n.2.  Disclosure of 
+    the non-relevant terms  of these  agreements  would thus place the  member  clubs  at  a 
+    competitive  disadvantage  to  rival  clubs  who  compete  for  the  same  coaching 
+    candidates.  Disclosure would equally disadvantage Plaintiffs, as coaches and coaching 
+    candidates, in their potential negotiations and dealings with other clubs. 
+          In  addition,  some  of these  agreements—in  particular,  Plaintiff Brian  Flores’s 
+    agreements with the New England Patriots and the Pittsburgh Steelers and Plaintiff Steve 
+    Wilks’s agreement with the Carolina Panthers—involve clubs who are not named parties 
+    to  this  litigation  and  whose  privacy  interests  should  “weigh  heavily”  against 
+    disclosure.  United  States  v.  Amodeo,  71  F.3d  1044,  1050  (2d  Cir.  1995)  (citation 
+    omitted); see Statoil (Nigeria) Ltd. v. Nigerian Nat’l Petroleum Corp., No.  18-cv-2392, 
+    2020 WL 3170566, at *1 (S.D.N.Y. June 15, 2020) (granting request to redact third-party 
+    information); Dodona I, LLC v. Goldman,  Sachs &  Co.,  119 F.  Supp.  3d  152,  156-57 
+    (S.D.N.Y. 2015) (same). 
+
+FAUL,  WEILOS,  RIFRINIY,  WHIAKRION  &@ OAKNRISWN
+
+            For these reasons, Defendants respectfully request that the Court enter an order (1) 
+      granting leave for Defendants to file in redacted form Exhibits 2 through 7 to the DiBella 
+      Declaration, and (ii) prohibiting Plaintiffs from publicly filing any other versions of the 
+      employment agreements excerpted in those exhibits. 
+
+                                        Respectfully submitted, 
+
+                                        /s/ Loretta E. Lynch 
+                                        Loretta E. Lynch 
+      ce:    Counsel of Record (via electronic filing) 
+
+Application GRANTED. 
+The Court finds that employment and financial information unrelated to Defendants’ arbitration agreement with 
+Plaintiffs have a limited bearing on whether the Motion to Compel Arbitration and Stay Further Proceedings 
+should be granted. Accordingly, the presumption of access established by Lugosch v. Pyramid Co. of 
+Onondaga, 435 F.3d 110 (2d Cir. 2006)  is accorded less weight, as access to the redacted information is not 
+necessary to preserve the interested public's ability to monitor judicial decisionmaking. See id. at 119 ("[T]he 
+weight to be given the presumption of access must be governed by the role of the material at issue in the 
+exercise of Article III judicial power and the resultant value of such information to those monitoring the federal 
+courts.” /d. (alteration in original)). 
+In addition, the Court finds that the privacy interests of unnamed parties included in the documents are 
+substantial and weigh against the presumption of access. See id. at 120 (listing factors to be weighed against the 
+presumption of access, including "the privacy interests of those resisting disclosure" (citing United States v. 
+Amodeo, 71 F.3d 1044, 1049 (2d. Cir. 1995)). 
+
+SO ORDERED. 
+               (p¢— 
+VoL             oa9a2 
+HON. VALERIE CAPRONI 
+UNITED STATES DISTRICT JUDGE
+
+---
+
+1285 AVENUE OF THE AMERICAS         NEW YORK, NEW YORK 10019-6064                ee □□□□□□□ 
+
+WRITER’S DIRECT DIAL NUMBER    MENO  ENDORSED                  TRON    CENTRAL 
+(212) 373-3 1] 18                                                        TELEPHONE (852) 2646-0300 
+WRITER’S DIRECT FACSIMILE                                                      ALDER CASTLE 
+(212) 492-0118                             USDC SDNY                 So 
+WRITER’S DIRECT E-MAIL ADDRESS                       DOCUMENT                 sos wieeion ermeer garu □□□□□ 
+lelynch@paulweiss.com                      ELECTRONICALLY FILED |) Sisnenc omnes 
+                                       DOC #: 
+                                       DATE FILED:    6/22/22       2-2 UCHISAIWAICHO 2-CHOME 
+     June 21, 2022                                                  TELEPHONE (81-3) 3597-8101 
+
+     BY ELECTRONIC FILING                                       anor     nw 
+     The Honorable Valerie E. Caproni 
+     United States District Judge                                       POST OFFICE BOX32 
+     Southern District of New York                                    TELEEHOnE(ese □□□□□□□ 
+     40 Foley Square 
+     New York, NY 10007 
+           Flores, et al. v.  The National Football League, et al., No. 22-cv-871-VEC 
+     Dear Judge Caproni: 
+           Pursuant to Rule 5.B(11) of Your Honor’s Individual Practices in Civil Cases, I write 
+     on behalf of Defendants in the above-captioned matter to request leave to file in redacted 
+     form  Exhibits  2  through  7 to  the  Declaration  of Dolores  F.  DiBella  in  Support  of 
+     Defendants’ Motion to Compel Arbitration and Stay Further Proceedings (the “DiBella 
+     Declaration”).  These exhibits consist of the relevant excerpts from Plaintiffs’ employment 
+     agreements, which include the specific provisions—including the arbitration provisions— 
+     that Defendants rely upon in their motion.  Defendants seek leave to redact the surrounding 
+     provisions included in these excerpts.  We understand that Plaintiffs oppose the proposed 
+     redactions, except with respect to personal contact information and information related to 
+     Plaintiffs’ compensation. 
+           Defendants seek to redact the provisions at issue on the ground that they are not 
+     relevant to  the  issues raised in their motion.  Under  Second Circuit law,  courts  have 
+     “considerable  discretion  in  determining  whether  good  cause  exists  to  overcome  the 
+     presumption   of   open   access”   to   documents   filed   in   the   matters   before 
+     them.  Geller v. Branic Int’l Realty Corp., 212 F.3d 734, 738 (2d Cir. 2000).  Here, the 
+     public interest in “monitoring the federal courts” is already satisfied because the publicly 
+     filed excerpts will include all contract provisions that are relevant to the adjudication of 
+     Defendants’ motion.  Lugosch v. Pyramid Co. of Onondaga, 435 F.3d 110,  119 (2d Cir. 
+     2006).  Under such circumstances, it is fully within the Court’s discretion to permit the 
+     other, non-relevant provisions to remain redacted.  See Torain v. Clear Channel Broad., 
+
+PAUL,  WEIOS,  RIFRINI,  WrIAKILUIN  & UAKRISOVWN  □□
+
+     Inc., 651 F. Supp. 2d 125, 131 n.2 (S.D.N.Y. 2009) (permitting employment agreement to 
+     be filed under seal where “[a]ll of the contractual provisions relied upon by the parties . . . 
+     [were]  quoted in the parties’  submissions and [were] therefore incorporated in the... 
+     record”). 
+           As a separate and additional basis for redaction, the redacted provisions contain 
+     confidential and proprietary business and employment information, which federal courts 
+     have repeatedly recognized  as  a  legitimate basis  for redaction  or  sealing.   See,  e.g., 
+     Hanks v. Voya  Ret.  Ins.  &  Annuity  Co.,  No.  16-cv-6399,  2020  WL 5813448,  at  *3 
+     (S.D.N.Y. Sept. 30, 2020);  Oliver Wyman, Inc. v. Eielson, 282 F. Supp. 3d 684, 706-07 
+     (S.D.N.Y. 2017); Avocent Redmond Corp. v. Raritan Ams., Inc., No.  10-cv-6100, 2012 
+     WL 3114855, at *16 (S.D.N.Y. July 31, 2012).  Indeed, courts in this Circuit routinely 
+     permit  parties  to  file  employment  agreements  in  redacted  form  or  under  seal.  See, 
+     e.g., SEC v. Ahmed,  No.  15-cv-675,  2018  WL 4266079,  at  *3  (D.  Conn.  Sept.  6, 
+     2018); Kelly v. Evolution Mkts., Inc., 626 F. Supp. 2d 364, 377 (S.D.N.Y. 2009); Torain, 
+     651 F. Supp. 2d at 131 n.2. 
+           The same result should follow here.  The excerpted agreements are confidential 
+     employment agreements that contain proprietary and sensitive information relating to the 
+     terms of employment between certain of the NFL’s member clubs and their coaches, 
+     including terms relating to compensation and coaching responsibilities.  Those agreements 
+     are not generally available to the public or other NFL member clubs or coaches, and they 
+     all  contain  broad  confidentiality  provisions  prohibiting  the  disclosure  of  their 
+     terms.  See Flores-Dolphins Agreement 4 14 (Ex. 2); Flores-Patriots Agreement § 12(A)— 
+     (B) (Ex. 3); Flores-Steelers Agreement §] 7 (Ex. 4); Wilks-Cardinals Agreement 4 6(a) (Ex. 
+     5); Wilks-Panthers Agreement § 14 (Ex. 6); Horton-Titans Agreement § 3(a), (d) (Ex. 7); 
+     Kelly, 626 F. Supp. 2d at 377 (permitting employment agreement that was confidential “by 
+     its express terms” to be filed under seal); see also DiRussa v. Dean Witter Reynolds, Inc., 
+     121 F.3d 818, 826-28 (2d Cir. 1997); Torain, 651 F. Supp. 2d at 131 n.2.  Disclosure of 
+     the non-relevant terms  of these  agreements would thus place the  member  clubs  at  a 
+     competitive  disadvantage  to  rival  clubs  who  compete  for  the  same  coaching 
+     candidates.  Disclosure would equally disadvantage Plaintiffs, as coaches and coaching 
+     candidates, in their potential negotiations and dealings with other clubs. 
+           In  addition,  some  of these  agreements—in particular,  Plaintiff Brian  Flores’s 
+     agreements with the New England Patriots and the Pittsburgh Steelers and Plaintiff Steve 
+     Wilks’s agreement with the Carolina Panthers—involve clubs who are not named parties 
+     to  this  litigation  and  whose  privacy  interests  should  “weigh  heavily”  against 
+     disclosure.  United  States  v.  Amodeo,  71  F.3d  1044,  1050  (2d  Cir.  1995)  (citation 
+     omitted); see Statoil (Nigeria) Ltd. v. Nigerian Nat’l Petroleum Corp., No.  18-cv-2392, 
+     2020 WL 3170566, at *1 (S.D.N.Y. June 15, 2020) (granting request to redact third-party 
+     information); Dodona I,  LLC v. Goldman,  Sachs &  Co.,  119 F.  Supp.  3d  152,  156-57 
+     (S.D.N.Y. 2015) (same). 
+
+PAUL,  WEIOS,  RIFRINI,  WrIAKILUIN  & UAKRISOVWN  □□
+
+           For these reasons, Defendants respectfully request that the Court enter an order (1) 
+     granting leave for Defendants to file in redacted form Exhibits 2 through 7 to the DiBella 
+     Declaration, and (i1) prohibiting Plaintiffs from publicly filing any other versions of the 
+     employment agreements excerpted in those exhibits. 
+
+                                       Respectfully submitted, 
+
+                                       /s/ Loretta E. Lynch 
+                                       Loretta E. Lynch 
+     ce:    Counsel of Record (via electronic filing) 
+
+Plaintiffs must respond not later than Monday, 
+June 27, 2022 why Defendants should not be 
+permitted to file Exhibits 2 through 7 under seal. 
+ SO ORDERED. 
+                 (¢ 
+
+ HON. VALERIE CAPRONI 
+ UNITED STATES DISTRICT JUDGE

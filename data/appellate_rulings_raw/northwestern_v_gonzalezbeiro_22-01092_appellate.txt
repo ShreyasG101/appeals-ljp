@@ -1,0 +1,1084 @@
+United States Court of Appeals
+                     For the First Circuit
+
+
+No. 23-1657
+
+                   NORTHWESTERN SELECTA, INC.,
+
+                      Plaintiff, Appellee,
+
+                               v.
+
+RAMÓN GONZÁLEZ-BEIRÓ, Secretary of the Puerto Rico Department of
+Agriculture; ALEX MUÑIZ-LASALLE, Deputy Secretary of the Puerto
+                 Rico Department of Agriculture
+
+                     Defendants, Appellants.
+
+
+          APPEAL FROM THE UNITED STATES DISTRICT COURT
+                FOR THE DISTRICT OF PUERTO RICO
+
+       [Hon. Raúl M. Arias-Marxuach, U.S. District Judge]
+
+
+                             Before
+
+                   Gelpí, Lipez, and Rikelman,
+                         Circuit Judges.
+
+
+    Edward W. Hill Tollinche for appellants.
+
+     María D. Bertólez Elvira, with whom Néstor M. Méndez Gómez,
+María Elena Martínez Casado, and Pietrantoni Méndez & Álvarez LLC
+were on brief, for appellee.
+
+
+                         July 17, 2025
+          LIPEZ, Circuit Judge.           The Poultry Products Inspection
+
+Act ("PPIA"), 21 U.S.C. §§ 451-473, provides for the inspection of
+
+poultry and poultry products that move through or substantially
+
+affect   interstate   or   foreign        commerce   and   regulates   their
+
+processing and distribution.    Plaintiff Northwestern Selecta, Inc.
+
+("NWS"), a Puerto Rico importer of poultry products, argues that
+
+the PPIA expressly preempts a regulatory provision promulgated by
+
+the Puerto Rico Department of Agriculture ("PRDA") -- Article
+
+XII(B) of Market Regulation No. 8 -- that requires a PRDA inspector
+
+to be present when a shipping container transporting poultry meat
+
+is opened and unloaded.       The district court agreed with NWS,
+
+determining that Article XII(B)'s            inspector requirement falls
+
+within the scope of the PPIA's preemption clause and is not
+
+exempted by its savings clause.           The court therefore granted NWS
+
+declaratory relief and permanently enjoined the enforcement of
+
+Article XII(B) against it. After careful consideration, we affirm.
+
+                                     I.
+
+A. The PPIA
+
+          Enacted in 1957, the PPIA is a federal law that protects
+
+consumers by ensuring that the "poultry products distributed to
+
+them are wholesome, not adulterated, and properly marked, labeled,
+
+and packaged."   21 U.S.C. § 451. To that end, the PPIA "provide[s]
+
+for the inspection of poultry and poultry products and otherwise
+
+regulate[s] the[ir] processing and distribution."               Id. § 452.
+                                - 2 -
+Specifically, among other things, the PPIA authorizes the ante and
+
+postmortem       inspection     of    poultry        in   designated        "official
+
+establishments," id. § 455; mandates that "sanitary practices"
+
+shall apply to such establishments, see id. § 456; specifies
+
+labeling    requirements       for    poultry     products,        see    id.    § 457;
+
+prohibits the sale, transportation, or receipt of adulterated,
+
+misbranded,      or   uninspected     poultry     products,        id.    § 458;      and
+
+outlines the notification obligations of an official establishment
+
+"that believes, or has reason to believe, that an adulterated or
+
+misbranded poultry or poultry product received by or originating
+
+from the establishment has entered into commerce," id. § 459.                          In
+
+addition, the Food Safety Inspection Service ("FSIS") has been
+
+delegated     the     authority      to     promulgate       further      rules       and
+
+regulations      as   necessary      to    implement      the    PPIA.          See   id.
+
+§ 463(a)-(b); 9 C.F.R. § 300.2(a), (b)(2).                       Pursuant to that
+
+authority,    the     FSIS   has   promulgated       hundreds      of    implementing
+
+regulations.      See 9 C.F.R. §§ 381.1-381.524.
+
+            Of    primary     relevance      here,     the      PPIA    contains      the
+
+following preemption provision, consisting of a preemption clause
+
+and a savings clause:
+
+                 Requirements within the scope of this
+            chapter with respect to premises, facilities
+            and operations of any official establishment
+            which are in addition to, or different than
+            those made under this chapter may not be
+            imposed by any State or Territory or the
+            District of Columbia . . . but any State or
+                                          - 3 -
+                  Territory or the District of Columbia may,
+                  consistent with the requirements under this
+                  chapter[,] exercise concurrent jurisdiction
+                  with the Secretary over articles required to
+                  be inspected under this chapter for the
+                  purpose of preventing the distribution for
+                  human food purposes of any such articles which
+                  are adulterated or misbranded and are outside
+                  of such an establishment . . . .
+
+21 U.S.C. § 467e.
+
+B. Background1
+
+                  NWS is a San Juan-based company that brings fresh and
+
+frozen poultry products into Puerto Rico from the continental
+
+United States as well as from abroad. The domestically transported
+
+poultry products, which are the focus of this appeal, are shipped
+
+by sea in large cargo containers and enter Puerto Rico via the
+
+Port of San Juan.          All poultry products that NWS brings to Puerto
+
+Rico       from    the   mainland   are    inspected     by    the   United   States
+
+Department of Agriculture ("USDA") prior to transport and are given
+
+an "official mark" to that effect.
+
+                  Upon arrival in Puerto Rico, the shipping containers are
+
+offloaded         onto   the   Port's   docks     to   await    clearance     by   the
+
+appropriate authorities, including the PRDA.                   NWS provides copies
+
+
+
+       We draw the background facts from the parties' joint
+       1
+
+stipulations submitted to the district court. Accordingly, these
+facts are "binding and conclusive," and "the parties will not be
+permitted . . . to suggest, on appeal, that the facts were other
+than as stipulated." Christian Legal Soc'y Chapter of the Univ.
+of Cal., Hastings Coll. of the L. v. Martinez, 561 U.S. 661, 677
+(2010) (quoting 83 C.J.S. Stipulations § 93 (2000)).
+                                          - 4 -
+of the shipments' bills of lading to inform the PRDA of the content
+
+of the containers that have arrived in the Port, although the bills
+
+of lading do not apprise the PRDA of the content's condition upon
+
+arrival.     Once the containers are cleared, a contractor hired by
+
+NWS   transports      them      from    the    Port    directly     to   NWS's   nearby
+
+facility.      The containers are then opened and unloaded at the
+
+facility.
+
+             In June 2016, the PRDA promulgated Market Regulation
+
+No. 8, titled, "To Govern the Quality and the Marketing of Poultry
+
+Meat in the Commonwealth of Puerto Rico."2                    The stated purpose of
+
+Regulation No. 8 is to prevent "illegal practices" and "protect
+
+the integrity in the quality and health of the local and imported
+
+products     that   are     marketed      in    Puerto    Rico."         To   that   end,
+
+Regulation    No.     8   outlines      various       requirements       regarding    the
+
+transportation, storage, inspection, packaging, and labeling of
+
+poultry products brought into Puerto Rico.                     The regulation also
+
+empowers the PRDA to detain any lot of poultry meat that does not
+
+meet the requirements set forth in the regulation, impose a fine
+
+on    the   importer      for    each    violation       of   the   regulation,       and
+
+eventually,     for       repeated      violations,       revoke     the      importer's
+
+license. As pertinent to this appeal, Article XII(B) of Regulation
+
+
+
+
+       Market Regulation No. 8 is registered with the Puerto Rico
+       2
+
+Department of State as Regulation No. 8764.
+                                         - 5 -
+No. 8 provides that "[a]n official of the [PRDA] must be present
+
+at the time of opening and unloading the container" used to bring
+
+poultry products into Puerto Rico.
+
+           For   about    five    years   after   Regulation    No.   8   was
+
+promulgated, the PRDA did not enforce or seek to enforce Article
+
+XII(B) against NWS.      Then, in June 2021, the PRDA issued several
+
+detention orders against NWS, impounding over 200,000 pounds of
+
+fresh poultry products transported by NWS from the continental
+
+United States.   The corresponding violation notices explained that
+
+the orders were issued because a PRDA inspector was not physically
+
+present   when   the   shipping    containers     used   to   transport   the
+
+impounded products were "opened and unloaded at the NWS facilities"
+
+in violation of Article XII(B).           Over the following months, the
+
+PRDA issued violation notices to NWS with respect to thirty-five
+
+shipping containers that were opened and unloaded outside the
+
+presence of a PRDA inspector and asserted the right to impose on
+
+NWS approximately $263,000 in fines.
+
+C. District Court Proceedings
+
+           Following     an   unsuccessful    attempt    to   challenge   the
+
+violation notices      administratively      pursuant to the     procedures
+
+outlined in Regulation No. 8, NWS filed a verified complaint in
+
+federal court, asserting, among other things, that Article XII(B),
+
+as well as another provision of Regulation No. 8 pertaining to
+
+labeling -- Article XIV(A)(6) -- were expressly preempted by the
+                                    - 6 -
+PPIA and the regulations promulgated thereunder, and requesting
+
+declaratory and injunctive relief.                After the PRDA submitted its
+
+answer to the complaint, NWS filed a memorandum in support of its
+
+request for injunctive relief and, a few months later, followed up
+
+with an emergency motion for a preliminary injunction barring the
+
+enforcement of Article XIV(A)(6) (the labeling provision) against
+
+it.    The district court granted that emergency motion.
+
+               Shortly thereafter, NWS filed another emergency motion
+
+to    extend    the     preliminary      injunction      to    Article    XII(B)    (the
+
+inspection          provision),    asserting      that    the     PRDA's      continued
+
+enforcement of that provision was disrupting NWS's orderly and
+
+timely operations.           The district court granted NWS's motion,
+
+declaring that the PPIA expressly preempts Article XII(B) and
+
+permanently enjoining its enforcement against NWS.3
+
+               In     concluding       that   Article         XII(B)    is    expressly
+
+preempted, the district court held that the Commonwealth provision
+
+"necessarily relates to NWS'[s] operations, of which inspection is
+
+an integral part."         Nw. Selecta, Inc. v. Sec'y of Dep't of Agric.
+
+of P.R., Civ. No. 22-01092, 2023 WL 4230446, at *8 (D.P.R. June
+
+28,    2023).         Relying     on   the    ordinary        meaning    of   the   term
+
+"operations," the district court credited NWS's assertion "that
+
+
+
+       The district court also granted declaratory and permanent
+       3
+
+injunctive relief on NWS's challenge to Article XIV(A)(6). The
+PRDA did not appeal that ruling.
+                                          - 7 -
+compliance with [Article XII(B)] affects distribution operations
+
+by   causing   delays    and   decreasing      the   shelf-life    of   imports,
+
+particularly when the PRDA inspector is untimely or fails to arrive
+
+completely" -- a likelihood that "is not speculative," given that
+
+the PRDA has explicitly "recogniz[ed] the lack of sufficient
+
+inspectors, and thus order[ed] aleatory inspections of imported
+
+products."     Id. at *8 & n.3.          The court also noted that other
+
+district courts have interpreted the PPIA's preemption clause
+
+expansively, finding that even "more remote regulations affect
+
+operations."    Id. (citing Johnson v. Tyson Foods, Inc., No. 21-
+
+cv-01161,    2021   WL   5107723,   at    *6    (W.D.   Tenn.    Nov.   3,   2021)
+
+(holding, in denying the plaintiff's motion to remand, that the
+
+defendant raised a colorable federal defense because its COVID-19
+
+"vaccination    policy    relates   to    its    premises,      facilities,    and
+
+operations by ensuring that its employees are protected from
+
+COVID-19 infection")).         Finally, the district court determined
+
+that the PPIA's savings clause does not exempt Article XII(B) from
+
+preemption because the Commonwealth provision does not apply to
+
+items located "outside of" NWS's facility.              Id.
+
+            The sole issue on appeal is whether the PPIA expressly
+
+preempts Article XII(B).       The PRDA maintains that the Commonwealth
+
+provision is not preempted, arguing that, in holding otherwise,
+
+the district court embraced too broad an understanding of the term
+
+"operations" in the PPIA's preemption clause and misapplied the
+                                    - 8 -
+PPIA's savings clause.        We review the district court's preemption
+
+determination -- a question of law -- de novo.                   See Medicaid &
+
+Medicare    Advantage    Prods.    Ass'n     of   P.R.,   Inc.    v.    Emanuelli
+
+Hernández, 58 F.4th 5, 11 (1st Cir. 2023).
+
+                                       II.
+
+            The Supremacy Clause of the United States Constitution
+
+makes federal law "the supreme Law of the Land," U.S. Const. art.
+
+VI, cl. 2, meaning "that Congress 'has the power to [preempt] state
+
+law,'" Medicaid & Medicare Advantage, 58 F.4th at 10 (quoting Me.
+
+Forest Prods. Council v. Cormier, 51 F.4th 1, 6 (1st Cir. 2022)).
+
+"The test for federal preemption of a Puerto Rico law is the same
+
+as the test under the Supremacy Clause for preemption of the law
+
+of   a   state."   Id.   at    10-11    (citing    P.R.   Dep't    of    Consumer
+
+Affs. v. Isla Petroleum Corp., 485 U.S. 495, 499 (1988)).
+
+            Federal preemption of a state or commonwealth law "may
+
+be either express or implied."           Bower v. Egyptair Airlines Co.,
+
+731 F.3d 85, 92 (1st Cir. 2013).             When a federal statute has an
+
+express preemption clause, "we do not invoke any presumption
+
+against [preemption]."        Puerto Rico v. Franklin Cal. Tax-Free Tr.,
+
+579 U.S. 115, 125 (2016); see Medicaid & Medicare Advantage, 58
+
+F.4th at 11-12 ("[T]he Supreme Court's broad language in Franklin
+
+forecloses us from applying the presumption against preemption in
+
+interpreting the [federal statute's] express preemption clause.").
+
+Instead, we use the usual tools of statutory interpretation,
+                                    - 9 -
+"focus[ing] on the plain wording of the clause, which necessarily
+
+contains the best evidence of Congress'[s] preemptive intent."
+
+Chamber of Com. of U.S. v. Whiting, 563 U.S. 582, 594 (2011)
+
+(quoting   CSX   Transp.,    Inc.    v.   Easterwood, 507   U.S.   658,   664
+
+(1993)); see also Franklin, 579 U.S. at 125 (explaining that
+
+resolving the scope of a preemption "provision begins 'with the
+
+language of the statute itself'" (quoting United States v. Ron
+
+Pair Enters., Inc., 489 U.S. 235, 241 (1989))).                After all,
+
+Congress's "intent 'is the ultimate touchstone' of an express
+
+preemption analysis."       Medicaid & Medicare Advantage, 58 F.4th at
+
+11 (quoting First Med. Health Plan, Inc. v. Vega-Ramos, 479 F.3d
+
+46, 51 (1st Cir. 2007)).            We also consider, secondarily, the
+
+preemption clause's statutory context and the statute's overall
+
+purpose.   See Coventry Health Care of Mo., Inc. v. Nevils, 581
+
+U.S. 87, 96 (2017) (noting, after considering the preemption
+
+clause's plain language, that "[t]he statutory context and purpose
+
+reinforce [the Court's] conclusion").
+
+A. The Preemption Clause
+
+           The first question before us is whether the PPIA's
+
+preemption clause -- i.e., the portion of the preemption provision
+
+that precedes the savings clause -- applies to Article XII(B).
+
+That clause consists of three distinct components.             It provides
+
+for preemption when a state or commonwealth law or regulation
+
+imposes requirements (1) "with respect to premises, facilities and
+                                    - 10 -
+operations"; (2) "of any official establishment"; that (3) "are in
+
+addition to, or different than those" established by the PPIA or
+
+its enabling regulations. 21 U.S.C. § 467e. The parties stipulate
+
+that the second element is satisfied here: NWS's facility has been
+
+deemed an "official establishment" by the Secretary of the USDA.
+
+They also stipulate that the PPIA does not require an inspector to
+
+be present when shipping containers are opened and unloaded.
+
+Because the PRDA does not explain, nor do we otherwise see, how a
+
+requirement that is absent from the PPIA is not "in addition to,
+
+or different than" the PPIA's requirements, we construe this
+
+stipulation    as    an     acknowledgment     that    the   third    element   is
+
+satisfied    as     well.       Accordingly,      to   determine     whether    the
+
+preemption     clause       applies    to      Article     XII(B)'s    inspector
+
+requirement, we need to consider only whether that requirement is
+
+"with respect to premises, facilities and operations."                  Id.
+
+            NWS argues, as the district court found, that Article
+
+XII(B)   functions      "with    respect    to"    NWS's     "operations."       We
+
+therefore begin by discerning the meaning of those terms.                 Because
+
+the PPIA does not define them, we look to the terms' ordinary
+
+meanings.     See Sandifer v. U.S. Steel Corp., 571 U.S. 220, 227
+
+(2014) ("It is a 'fundamental canon of statutory construction'
+
+that, 'unless otherwise defined, words will be interpreted as
+
+taking their ordinary, contemporary, common meaning.'" (quoting
+
+Perrin v. United States, 444 U.S. 37, 42 (1979))).
+                                      - 11 -
+              When the PPIA was enacted in 1957, "operations" was
+
+commonly understood to mean "the whole process of planning for and
+
+operating a business or other organized unit" or, relatedly, "a
+
+phase of a business or of business activity."                   Webster's New
+
+International Dictionary of the English Language 1581 (3d ed.
+
+1961); see also Operation, Webster's New International Dictionary
+
+of the English Language 1707 (2d ed. 1950) ("Act of operating, or
+
+putting into or maintaining in, action; as, the operation of a
+
+machine, railroad, etc.").        A modern dictionary similarly defines
+
+"operations" as "the activities involved in a company producing
+
+goods or delivering services."             Cambridge English Dictionary,
+
+https://dictionary.cambridge.org/us/dictionary/english/operation
+
+[https://perma.cc/L3M9-B5RJ].            The term   "with respect to"       (or
+
+"respecting") is now, and was at the time of the PPIA's enactment,
+
+understood to mean "regarding" or "concerning."            See Lamar, Archer
+
+&   Cofrin,    LLP v. Appling,     584    U.S.   709,   716    (2018)   (citing
+
+Respecting, Random House Dictionary of the English Language 1221
+
+(1st ed. 1966));                  Respecting,                  Dictionary.com,
+
+https://www.dictionary.com/browse/respecting
+
+[https://perma.cc/Q8Y6-CU66] ("regarding; concerning"); see also In
+
+Respect       of     Something,     Cambridge        English       Dictionary,
+
+https://dictionary.cambridge.org/us/dictionary/english/in-
+
+respect-of      [https://perma.cc/H63W-5HMQ]        ("in      connection   with
+
+something").       The definitions of these terms, separately and when
+                                   - 12 -
+considered together, connote breadth.        See, e.g., Lamar, Archer &
+
+Cofrin, LLP, 584 U.S. at 717 ("Use of the word 'respecting' in a
+
+legal context generally has a broadening effect, ensuring that the
+
+scope of a provision covers not only its subject but also matters
+
+relating to that subject."); Nat'l Meat Ass'n v. Harris, 565 U.S.
+
+452, 458-59 (2012) (observing that a preemption clause virtually
+
+identical to the PPIA's "sweeps widely").
+
+              The broad sweep of the language as understood in its
+
+ordinary sense suggests that any requirement that impacts NWS's
+
+operations would be within the scope of the preemption clause, and
+
+it appears beyond debate that Article XII(B)'s requirement would
+
+have such impact.      The PRDA contends, however, that we should not
+
+base our preemption determination on the ordinary meaning of the
+
+term       "operations."     Specifically,    the   PRDA   says   that,
+
+notwithstanding the term's plain, common meaning, the statutory
+
+context as well as the PPIA's broader regulatory scheme make clear
+
+that Congress intended for "operations" as used in the PPIA's
+
+preemption clause to encompass only slaughtering and processing
+
+activities.4     As support, the PRDA points to the PPIA's definition
+
+
+
+       The PRDA interchangeably frames this argument as regarding
+       4
+
+the meaning of "operations" and as regarding the scope of the PPIA.
+However, "[w]e see no real difference between saying that [Article
+XII(B)] does not implicate 'operations'" within the meaning of the
+PPIA "and saying that it does not fall within the scope of the
+[PPIA]. Accordingly, our answer to both forms of the argument is
+the same." Nat'l Meat Ass'n, 565 U.S. at 465 n.8.
+                                 - 13 -
+of an "official establishment," which is an establishment "at which
+
+inspection of the slaughter of poultry, or the processing of
+
+poultry products, is maintained" under the authority of the PPIA.
+
+21 U.S.C. § 453(p); see also 9 C.F.R. § 381.1 (providing same
+
+definition).    That definition, plus the references to slaughtering
+
+and processing in 21 U.S.C. § 456 and select regulatory provisions,
+
+the PRDA asserts, show that the PPIA "does not regulate matters
+
+. . . that do not implicate the slaughter or processing [of]
+
+poultry or poultry products."      Unavoidably then, says the PRDA, a
+
+Commonwealth regulation that does not pertain to slaughtering or
+
+processing is not preempted.5
+
+          The    PRDA's    contention   that   the   PPIA   governs   only
+
+"operations" relating to poultry slaughtering and processing is
+
+plainly unavailing.       Most obviously, the statute's stated purpose
+
+encompasses matters beyond slaughtering and processing, such as
+
+regulating the "distribution of" poultry and poultry products, 21
+
+U.S.C. § 452, and "assuring that poultry products distributed to
+
+[consumers] are wholesome, not adulterated, and properly marked,
+
+labeled, and packaged," id. § 451.         Moreover, as described above,
+
+
+
+     5  The PPIA defines "[p]rocessed" as "slaughtered, canned,
+salted,   stuffed,  rendered,   boned,  cut  up,   or   otherwise
+manufactured or processed." 21 U.S.C. § 453(w); see also 9 C.F.R.
+§ 381.1 (similar). "Slaughter" is defined as "the act of killing
+poultry for human food."   9 C.F.R. § 381.1.   The parties agree
+that NWS does not engage in the slaughtering or processing of
+poultry meat within the meaning of the PPIA.
+                                  - 14 -
+and as NWS emphasizes, the statute's provisions and implementing
+
+regulations     cover   an    array   of    activities     not   pertaining    to
+
+slaughtering and processing, from labeling and recordkeeping to
+
+sanitation and quality control.            See, e.g., id. §§ 456, 457, 460;
+
+9 C.F.R. §§ 381.127, 381.145, 381.175.                 While the PPIA and its
+
+implementing regulations focus heavily on the slaughtering and
+
+processing of poultry, those matters are simply not the statute's
+
+exclusive focus.        Thus, there is no basis for concluding that
+
+Congress    intended     to   circumscribe       the    ordinary    meaning    of
+
+"operations" in the PPIA's preemption clause in the way that the
+
+PRDA suggests.6
+
+            The PRDA also argues that Article XII(B) "has no direct
+
+effect on the operations of" NWS, even if the term "operations" is
+
+construed according to its plain meaning.              In so arguing, the PRDA
+
+relies     on   the   Supreme    Court's       decision    in    National     Meat
+
+Association, where the Court was tasked with deciding whether the
+
+Federal Meat Inspection Act ("FMIA") -- which contains an express
+
+preemption clause that is "substantially identical" to the PPIA's,
+
+Grocery Mfrs. of Am., Inc. v. Gerace, 755 F.2d 993, 997 (2d Cir.
+
+
+
+     6 To the extent that the PRDA argues that the PPIA does not
+apply to NWS because NWS does not meet the statutory definition of
+an "official establishment," that argument is a non-starter. As
+noted above, the PRDA stipulated that NWS has been designated as
+an "official establishment" for purposes of the PPIA. It cannot
+undo that factual stipulation via its arguments on appeal. See
+Christian Legal Soc'y, 561 U.S. at 677.
+                                      - 15 -
+1985) -- preempted a California statute that criminalized the
+
+buying,    selling,     receiving,         butchering,    and   even   holding      of
+
+nonambulatory pigs (i.e., pigs that cannot walk).                 See Nat'l Meat
+
+Ass'n, 565 U.S. at 455, 458-59.               In holding that the California
+
+statute was, indeed, preempted, the Court explained that the state
+
+law     impermissibly     "compels         [slaughterhouses]      to    deal       with
+
+nonambulatory pigs on their premises in ways that the [FMIA] and
+
+regulations do not."          Id. at 460.     "And in so doing, the California
+
+law runs smack into the FMIA's regulations."                 Id. at 467.
+
+               The PRDA asserts that, unlike the state law at issue in
+
+National Meat Association, Article XII(B) does not "reach[] into"
+
+NWS's facilities or "affect[] its daily activities."                    Id.    While
+
+the California statute "told the slaughterhouse what it could and
+
+could    not    do   inside    of   its    premises,     facilities    and    in   its
+
+operation," says the PRDA, Article XII(B) "does nothing to affect
+
+the inner workings of" NWS.               Specifically, the PRDA asserts that
+
+Article XII(B) "does not regulate the conditions under which [NWS]
+
+can process, receive, handle, package or market meat."                  Any effect
+
+Article XII(B) may have on NWS's operations is merely "incidental,"
+
+the PRDA avers, in contrast to the California law's direct effect
+
+on slaughterhouses.
+
+               This argument, too, falls flat.              For one, the PRDA's
+
+insistence that Congress did not intend for the PPIA to preempt
+
+state or commonwealth laws or regulations that have an "incidental"
+                                          - 16 -
+effect on the operations of an official establishment is undermined
+
+by the statute's text.          As we have explained, Congress's use of
+
+the expansive phrase "with respect to" in the PPIA's preemption
+
+clause signals congressional intent for the clause to cover all
+
+"matters relating to" an official establishment's operations.                   See
+
+Lamar, Archer & Cofrin, LLP, 584 U.S. at 717.               Given the preemption
+
+clause's wide sweep, see Nat'l Meat Ass'n, 565 U.S. at 459, we see
+
+no   basis   for    concluding    that       the   PPIA   could    not   preempt   a
+
+Commonwealth        regulation        that     incidentally       affects     NWS's
+
+operations.
+
+             Moreover, even if we were to so conclude, Article XII(B)
+
+does precisely what the PRDA says it does not.                 By forbidding NWS
+
+from opening shipping containers outside the presence of a PRDA
+
+inspector -- i.e., telling NWS what it can and cannot do -- Article
+
+XII(B) expressly "regulate[s] the conditions under which" NWS can
+
+"receive" and "handle" the poultry products it brings into Puerto
+
+Rico.   Further, as described above, the district court credited
+
+NWS's   assertion     that   compliance       with   Article      XII(B)    "affects
+
+distribution       operations    by    causing     delays   and    decreasing   the
+
+shelf-life of imports," thereby unavoidably impacting NWS's daily
+
+activities.    Nw. Selecta, 2023 WL 4230446, at *8.               The PRDA points
+
+to no facts suggesting that this finding was erroneous.                    Thus, far
+
+from "incidental," Article XII(B), like the California law in
+
+
+                                       - 17 -
+National   Meat   Association,   directly   impacts   NWS's   ability   to
+
+operate its business.
+
+           Finally, the PRDA argues that the term "operations" in
+
+the PPIA's preemption clause is limited by the accompanying terms
+
+"premises" and "facilities" such that a state or commonwealth
+
+regulation can be     preempted only      if it concerns an official
+
+establishment's onsite operations -- i.e., those occurring at its
+
+premises or facilities -- citing the Seventh Circuit's decision in
+
+Chicago-Midwest Meat Association v. City of Evanston, 589 F.2d 278
+
+(7th Cir. 1978).7   Article XII(B), the PRDA contends, does not have
+
+the requisite onsite impact.      NWS responds that the PRDA did not
+
+argue before the district court that the PPIA preempts only state
+
+or commonwealth regulations that concern onsite operations and
+
+thus has waived this argument.
+
+
+
+
+     7 In Chicago-Midwest Meat Association, the plaintiffs argued
+that a municipal ordinance permitting the inspection of meat
+delivery vehicles was preempted by the Wholesome Meat Act, a 1967
+amendment to the FMIA. Chi.-Midwest Meat Ass'n, 589 F.2d at 280.
+Based on the preemption clause's language and the statute's
+legislative history, the Seventh Circuit interpreted the phrase
+"premises, facilities and operations" to mean that only
+requirements concerning operations "on the premises of the
+regulated establishments" could be preempted.     Id. at 283-84.
+Because the ordinance at issue authorized the inspection of
+delivery vehicles "while on their delivery routes" and thus "away
+from" the regulated establishments, the court held that the
+ordinance was not "with respect to premises, facilities and
+operations" and therefore was not preempted. Id.
+                                 - 18 -
+               However, we need not delve into the waiver issue because
+
+the PRDA's argument clearly fails as a factual matter.           Although
+
+it now purports to argue otherwise, the PRDA stipulated in the
+
+district court that NWS's shipping containers are "opened and
+
+unloaded at the NWS facilities." (Emphasis added).           The PRDA may
+
+not contradict its stipulations in the district court and contend
+
+on appeal that Article XII(B)'s inspector requirement somehow
+
+functions "away from" NWS's facility.         See Christian Legal Soc'y
+
+Chapter of the Univ. of Cal., Hastings Coll. of the L. v. Martinez,
+
+561 U.S. 661, 677 (2010).           Also, the various violation notices
+
+that the PRDA issued explain that NWS violated Article XII(B)
+
+because NWS's shipping containers were "opened and unloaded at the
+
+facilities" without a PRDA inspector present. (Emphasis added.)
+
+The     PRDA    likewise   cannot    disassociate   itself   from     these
+
+representations on appeal.
+
+               In sum, the PPIA's preemption clause broadly covers
+
+state    and     commonwealth   regulations   "with   respect   to"    the
+
+procedures and activities involved in the operation of an official
+
+establishment.       Article XII(B)'s application to NWS falls within
+
+that scope.      Accordingly, we hold that Article XII(B) is expressly
+
+preempted by the PPIA's preemption clause.
+
+B. The Savings Clause
+
+               The second question before us is whether Article XII(B)
+
+is exempted from preemption by the preemption provision's savings
+                                    - 19 -
+clause, which provides that any state or territory "may, consistent
+
+with   the     requirements        under    [the   PPIA,]     exercise    concurrent
+
+jurisdiction . . . over articles required to be inspected under"
+
+the PPIA to "prevent[] the distribution for human food purposes of
+
+any such articles which are adulterated or misbranded and are
+
+outside of . . . an [official] establishment."                  21 U.S.C. § 467e.
+
+Once again, our interpretation of this clause is grounded in its
+
+plain language.          See Franklin, 579 U.S. at 125.
+
+               The district court read the plain language of the savings
+
+clause    as    limiting     the    Commonwealth's      exercise    of    concurrent
+
+jurisdiction to the regulation of poultry "products [that] are
+
+outside of official establishments." Nw. Selecta, 2023 WL 4230446,
+
+at *8.    Because it determined that the poultry products that NWS
+
+brings    into    Puerto     Rico    "are    necessarily      inside     an   official
+
+establishment" -- NWS's facility -- when the products' containers
+
+are    opened      and     unloaded,       the     district    court      held    that
+
+Article XII(B), as applied to NWS, is not a proper exercise of
+
+concurrent jurisdiction.            Id.
+
+               We agree with the district court's interpretation of the
+
+savings clause to the extent that the court read the clause as
+
+permitting the Commonwealth to impose some requirements on poultry
+
+products that are outside of an official establishment.                       21 U.S.C.
+
+§ 467e.    Indeed, the PRDA does not challenge this reading, arguing
+
+instead that the district court erred in concluding that Article
+                                          - 20 -
+XII(B), as applied to NWS, does not function outside of NWS's
+
+facility -- that is, in concluding that the "container is inside
+
+or part of [NWS's] official establishment" when it is opened and
+
+unloaded.      The    PRDA    again     relies    on     Chicago-Midwest      Meat
+
+Association,    asserting      that     the    delivery     truck    inspection
+
+ordinance at issue there, which the Seventh Circuit determined was
+
+not   preempted,     is    analogous     to    Article    XII(B)'s    inspector
+
+requirement.    See 589 F.2d at 283.             Again, though, the PRDA's
+
+argument    misses   the     mark   because,     as    explained     above,    the
+
+stipulated facts distinguish this case from Chicago-Midwest Meat
+
+Association.
+
+            However, to the extent that the district court read the
+
+savings clause as prohibiting the Commonwealth from exercising
+
+concurrent jurisdiction inside of an official establishment under
+
+any circumstances, we disagree. The savings clause simply provides
+
+that "outside of . . . an [official] establishment" a state or
+
+commonwealth may exercise concurrent jurisdiction to "prevent[]
+
+the distribution for human food purposes of any" articles subject
+
+to the PPIA's inspection requirements "which are adulterated or
+
+misbranded." 21 U.S.C. § 467e. In other words, the savings clause
+
+clarifies that a state or commonwealth retains its traditional
+
+police powers over articles subject to federal inspection once
+
+those articles have left an official establishment.                 Inside of an
+
+official establishment, a state or commonwealth may exercise its
+                                      - 21 -
+authority so long as that exercise complies with the preemption
+
+clause -- that is, so long as the state or commonwealth is not
+
+imposing additional or different requirements than those contained
+
+in the PPIA.     See Bates v. Dow Agrosciences LLC, 544 U.S. 431, 447
+
+(2005) (concluding that a preemption provision barring state-law
+
+requirements         "in    addition     to     or   different     from"      federal
+
+requirements does not interfere with an "equivalent" and "fully
+
+consistent"      state       requirement).           Because   Article       XII(B)'s
+
+inspector      requirement        is     not     equivalent       to   the     PPIA's
+
+requirements, as we have explained, Article XII(B) is not a
+
+permissible exercise of the Commonwealth's authority.
+
+              But,    consistent       with    the   preemption    provision,     the
+
+Commonwealth would be free to "exact civil or criminal penalties
+
+for . . . conduct that also violates the [PPIA]."                       Nat'l Meat
+
+Ass'n, 565 U.S. at 467 n.10; see also Kuenzig v. Kraft Foods, Inc.,
+
+No. 8:11-cv-838-T-24, 2011 WL 4031141, at *4 (M.D. Fla. Sept. 12,
+
+2011) ("The states' concurrent jurisdiction has been interpreted
+
+to mean that states can impose sanctions for violations of state
+
+requirements that are equivalent to the FMIA and the PPIA's
+
+requirements.").           So, for example, we see no reason why the PRDA
+
+could   not    permissibly      promulgate       a   regulation    permitting     its
+
+inspectors, inside of the official establishment, to take samples
+
+of poultry products that NWS brings into Puerto Rico after the
+
+containers transporting those products are opened because such an
+                                        - 22 -
+exercise of authority would be consistent with the PPIA.           See 9
+
+C.F.R.   § 381.146   (permitting   inspectors   to   "take . . .    such
+
+samples as are necessary of any poultry product . . . at any
+
+official establishment to determine whether it complies with the
+
+requirements of the regulations").8 Thus, while the PPIA "preempts
+
+much state law," it certainly "leaves some room for the [s]tates
+
+to regulate."   Nat'l Meat Ass'n, 565 U.S. at 467 n.10.
+
+           Accordingly, we hold that the savings clause does not
+
+exempt Article XII(B) from preemption.      We therefore affirm the
+
+judgment of the district court.
+
+           So ordered.
+
+
+
+
+     8 At oral argument, counsel for NWS explained that the PRDA
+does, in fact, regularly exercise its concurrent jurisdiction
+inside of NWS's establishment by taking samples of the poultry
+products that NWS brings into Puerto Rico and that NWS has no
+objection to that conduct.
+                               - 23 -

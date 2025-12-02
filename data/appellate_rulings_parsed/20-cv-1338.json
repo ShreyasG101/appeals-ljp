@@ -1,0 +1,31 @@
+{
+  "overall_outcome": "REMAND",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether an employee's ability to perform the essential functions of her job without a reasonable accommodation is fatal to her failure-to-accommodate claim under the ADA.",
+      "standard_of_review": "de novo",
+      "holding": "REMAND",
+      "key_reasoning": "The court held that the ADA does not require an employee to prove that an accommodation is strictly necessary to perform essential job functions; an employee may be entitled to a reasonable accommodation even if she can perform the essential functions of her job without it. The district court erred in granting summary judgment on this basis, so the case is remanded for further proceedings."
+    }
+  ],
+  "key_precedents": [
+    "Woolf v. Strada, 949 F.3d 89 (2d Cir. 2020)",
+    "Natofsky v. City of New York, 921 F.3d 337 (2d Cir. 2019)",
+    "Borkowski v. Valley Cent. School Dist., 63 F.3d 131 (2d Cir. 1995)",
+    "Bell v. O\u2019Reilly Auto Enters., LLC, 972 F.3d 21 (1st Cir. 2020)",
+    "Hill v. Assocs. for Renewal in Educ., Inc., 897 F.3d 232 (D.C. Cir. 2018)",
+    "Feist v. Louisiana, 730 F.3d 450 (5th Cir. 2013)",
+    "Sanchez v. Vilsack, 695 F.3d 1174 (10th Cir. 2012)",
+    "Buckingham v. United States, 998 F.2d 735 (9th Cir. 1993)",
+    "Hopman v. Union Pac. R.R., 68 F.4th 394 (8th Cir. 2023)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "Angel Tudor, a teacher, appeals from a judgment of the United States District Court for the Northern District of New York (Sharpe, J.), entered on March 21, 2023, granting summary judgment in favor of Whitehall Central School District on Tudor\u2019s failure-to-accommodate claim brought pursuant to the Americans with Disabilities Act. We conclude that the district court erred by holding that an employee\u2019s ability to perform the essential functions of her job without a reasonable accommodation is fatal to her failure-to-accommodate claim. Accordingly, we vacate the judgment of the district court and remand for further proceedings consistent with this opinion.\n\nVacated and remanded."
+}

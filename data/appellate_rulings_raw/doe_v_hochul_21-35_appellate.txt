@@ -1,0 +1,1670 @@
+23-686
+Doe v. Hochul
+
+
+
+                      United States Court of Appeals
+                         For the Second Circuit
+
+                                   August Term 2023
+
+                                 Argued: March 1, 2024
+                                  Decided: June 3, 2025
+
+                                       No. 23-686
+
+
+
+                                       MARY DOE,
+
+                                   Plaintiff-Appellant,
+
+                   JANE SMITH, JILL PARK, ANN JONES, DR. AMY MOE,
+
+                                        Plaintiffs,
+
+                                            v.
+
+                 KATHY HOCHUL, as Governor of the State of New York
+                   in her official capacity, LETITIA JAMES, as Attorney
+                General of the State of New York in her official capacity,
+                  STEPHANIE SCHULMAN, Deputy Director, Division of
+                Hospitals and Diagnostic and Treatment Centers, New
+                York State Department of Health in her official capacity,
+                   ARTHUR S. HENGERER, M.D., Chair, New York State
+                  Department of Health Office of Professional Medical
+                  Conduct in his official capacity, HOWARD A. ZUCKER,
+                M.D., J.D., SARAH BENSON, Deputy Commissioner, New
+                    York State Education Department’s Office of the
+                Professions in her official capacity, DONNA FRESCATORE,
+                  New York Medicaid Director in her official capacity,
+                 SHEILA J. POOLE, Commissioner of the New York State
+                   Office of Children and Family Services (OCFS) in her
+                                      official capacity,
+
+                                      Defendants-Appellees. *
+
+
+
+                        Appeal from the United States District Court
+                          for the Northern District of New York
+                          No. 21-cv-35, Lawrence E. Kahn, Judge.
+
+
+
+      Before:            LIVINGSTON, Chief Judge, SULLIVAN, and MENASHI, Circuit
+Judges.
+
+       Mary Doe, a social worker proceeding by pseudonym, appeals from a
+judgment dismissing her constitutional challenges to New York’s Reproductive
+Health Act (“RHA”) for lack of standing; she also appeals the district court’s denial
+of her post-judgment motions to amend the complaint. Doe raises two challenges
+on appeal. First, she argues that the district court erred in denying her motion to
+be appointed “next friend” to a class of viable fetuses in order to bring a
+constitutional challenge to the RHA on their behalf. According to Doe, the district
+court committed legal error in requiring her to demonstrate a “significant
+relationship” to the viable fetuses in the class, which Doe maintains is not a
+prerequisite to next friend representation under Federal Rule of Civil Procedure
+17(c). Second, Doe argues that the district court erred in denying her post-
+judgment motion to file an amended complaint, which the district court found
+would be futile for lack of standing. Doe disputes the district court’s ruling on
+standing, arguing that the proposed amended complaint asserted claims on behalf
+of a viable fetus, “Baby Nicholas,” who had been cognizably harmed by the RHA.
+       With respect to Doe’s motion to be appointed next friend, we agree with
+Doe that the district court erred in requiring a “significant relationship” for next
+friend appointments. Nevertheless, we affirm the dismissal of Doe’s claims on
+another ground – namely, that she failed to identify or otherwise describe any class
+member in the viable fetus class that she sought to represent. Without describing
+
+*   The Clerk of Court is respectfully directed to amend the case caption.
+
+                                                  2
+at least one class member and the injury he faces, Doe necessarily cannot meet her
+burden of plausibly establishing a live case or controversy under Article III. We
+likewise affirm the district court’s denial of Doe’s motion to amend, which turned
+on the conclusion that Baby Nicholas lacks standing to challenge the RHA. Even
+if the RHA exposed Baby Nicholas to a generalized risk of abortion or third-party
+violence, he will have standing only if he plausibly faces an injury that is imminent
+and traceable to the RHA. Here, the only potential near-term risk alleged in the
+proposed amended complaint – that Baby Nicholas’s mother’s former partner will
+attack her and harm him – is not traceable to the RHA, since nothing plausibly
+indicates that the RHA will cause the former partner to engage in such behavior.
+Accordingly, we AFFIRM the judgment of the district court.
+
+      AFFIRMED.
+
+                                   TERESA S. COLLETT, Eagan, MN (Christen E.
+                                   Civiletto, East Amherst, NY, on the brief), for
+                                   Plaintiff-Appellant.
+
+                                   LAURA ETLINGER, Assistant Solicitor General
+                                   (Barbara D. Underwood, Solicitor General,
+                                   Galen Leigh Sherwin, Special Counsel for
+                                   Reproductive Justice, Jeffrey W. Lang, Deputy
+                                   Solicitor General, on the brief), for Letitia James,
+                                   Attorney General of the State of New York,
+                                   Albany, NY, for Defendants-Appellees.
+
+                                   Sarah Wheeler, Adjunct Professor of Clinical
+                                   Law, New York University School of Law, New
+                                   York, NY, for Amicus Curiae New York University
+                                   School of Law Reproductive Justice Clinic in
+                                   support of Defendants-Appellees.
+
+                                   Dana Sussman, Deputy Executive Director,
+                                   Pregnancy Justice, New York, NY, for Amicus
+                                   Curiae Pregnancy Justice in support of Defendants-
+                                   Appellees.
+
+                                         3
+RICHARD J. SULLIVAN, Circuit Judge:
+
+      Six years ago, New York enacted the Reproductive Health Act (“RHA”),
+
+which decriminalized all abortions and eliminated the criminal offense of fetal
+
+homicide. In response to that legislation, a group of plaintiffs brought this lawsuit,
+
+alleging that the RHA violated the constitutional rights of various expectant
+
+mothers, doctors, social workers, and fetuses. After the district court dismissed
+
+those claims for either lack of standing or failure to state a claim, the plaintiffs
+
+sought to vacate that judgment so they could file an amended complaint. While
+
+that post-judgment motion was pending, the Supreme Court decided Dobbs v.
+
+Jackson Women’s Health Organization, 597 U.S. 215 (2022), which declared that the
+
+federal constitution does not protect the right to abortion. The plaintiffs then filed
+
+another round of post-judgment motions, seeking vacatur in light of Dobbs and
+
+repeating their request for leave to amend. The district court denied those motions
+
+as well, concluding that neither Dobbs nor their proposed amended complaint
+
+would remedy the defects in the original complaint.
+
+      One of the plaintiffs, a social worker using the pseudonym Mary Doe, filed
+
+this appeal challenging two of the district court’s rulings. First, she argues that the
+
+district court erred in denying her motion to be appointed “next friend” to a class
+
+
+
+                                          4
+of viable fetuses in order to bring a constitutional challenge to the RHA on their
+
+behalf. According to Doe, the district court committed legal error in requiring her
+
+to demonstrate a “significant relationship” to the viable fetuses in the class, which
+
+Doe maintains is not a prerequisite to next friend representation under Federal
+
+Rule of Civil Procedure 17(c). Second, Doe argues that the district court erred in
+
+denying her post-judgment motions on the grounds that her proposed amended
+
+complaint would fail for lack of standing. That was error, Doe asserts, because her
+
+proposed amended complaint identified a viable fetus, “Baby Nicholas,” who has
+
+standing to challenge the RHA.
+
+       Although we agree with Doe that the district court erred in requiring a
+
+“significant relationship” for next friend appointments, we affirm the dismissal of
+
+Doe’s claims on another ground: that she failed to identify or otherwise describe
+
+any class member in the viable fetus class that she sought to represent. Without
+
+describing at least one class member and the injury he faces, Doe necessarily
+
+cannot meet her burden of plausibly establishing a live case or controversy under
+
+Article III.
+
+       With respect to Doe’s motion to amend, we likewise affirm the district
+
+court’s conclusion that Baby Nicholas lacks standing to challenge the RHA. Even
+
+
+
+                                         5
+if the RHA exposed Baby Nicholas to a generalized risk of abortion or third-party
+
+violence, he will have standing only if he plausibly faces an injury that is imminent
+
+and traceable to the RHA. But the only near-term risk alleged in the proposed
+
+amended complaint – that Baby Nicholas’s mother’s former partner will attack her
+
+and harm him – is not traceable to the RHA, since nothing plausibly indicates that
+
+the RHA will cause the former partner to engage in such behavior. Accordingly,
+
+we AFFIRM the judgment of the district court.
+
+                                  BACKGROUND
+
+I.    Facts
+
+      In 2019, the New York legislature overhauled the state’s abortion laws by
+
+enacting the Reproductive Health Act (“RHA”), 2019 N.Y. Sess. Laws Ch. 1, §§ 1–
+
+14 (S. 240) (McKinney). This legislation made two relevant changes. First, the
+
+RHA fully decriminalized abortion. Prior to the RHA’s passage, it was a crime to
+
+perform an abortion – on another or to oneself – after twenty-four weeks of
+
+gestation unless doing so was necessary to save the life of the mother. The RHA
+
+removed those offenses from New York’s penal laws. See RHA §§ 5, 7-a to 10. In
+
+their place, the RHA added Article 25-A of the Public Health Law, which permits
+
+licensed health care practitioners to perform abortions within twenty-four weeks
+
+
+
+                                         6
+of gestation or after twenty-four weeks if the fetus is not viable or the mother’s life
+
+or health is at risk. See id. § 2 (codified at N.Y. Pub. Health Law § 2599-bb (2024)).
+
+      Second, the RHA eliminated the crime of fetal homicide from the state’s
+
+criminal laws. See id. § 6 (amending N.Y. Penal Law § 125.00 to remove the
+
+provisions covering fetal homicide). Under the pre-RHA regime, the offense of
+
+homicide included causing the death of a fetus after twenty-four weeks of
+
+gestation. See N.Y. Penal Law § 125.00 (2018). The RHA removed that provision
+
+from the homicide statute, which means it is no longer homicide to cause the death
+
+of a fetus of any gestational age.
+
+II.   Procedural History
+
+      A.     The Original Complaint
+
+      In 2021, a group of plaintiffs filed suit challenging the RHA, alleging that it
+
+violated the constitutional rights of various expectant mothers, doctors, social
+
+workers, and fetuses. Most relevant to this appeal, a social worker using the
+
+pseudonym Mary Doe sought to challenge the RHA’s decriminalization of
+
+abortion and repeal of fetal homicide on behalf of a class of viable fetuses in New
+
+York (the “Viable Fetus Class”). According to Doe, these provisions of the RHA
+
+violated the fetuses’ rights to life and equal protection under the Fourteenth
+
+Amendment, as well as their rights to legal redress under the First Amendment.
+
+                                          7
+Doe sought both damages and equitable relief on her claims, including a
+
+declaration that the RHA is unconstitutional and an injunction barring Defendants
+
+– various state officials in New York – from enforcing its provisions.
+
+      Because Doe was not herself among the class of fetuses, she also moved to
+
+be appointed as “next friend” to the class under Federal Rule of Civil Procedure
+
+17(c)(2). Although Doe alleged that she was a social worker who had worked with
+
+pregnant mothers for over two decades, she did not identify or describe any
+
+specific fetus in the putative class, and did not name or otherwise identify a class
+
+representative to serve as the named plaintiff for the class under Federal Rule of
+
+Civil Procedure 23.
+
+      Defendants opposed Doe’s appointment as next friend and moved to
+
+dismiss the complaint. With respect to the former, Defendants argued that Doe
+
+was ineligible to serve as next friend because she lacked a significant relationship
+
+with the fetus class and because Rule 17 does not allow next friends to represent
+
+fetuses. Several months later, in August 2021, the district court denied Doe’s next
+
+friend motion. Although it did not take a position on whether Rule 17 permitted
+
+representation of a fetus, the district court agreed with Defendants that a next
+
+friend must demonstrate a “significant relationship” with the minor or
+
+
+
+                                         8
+incompetent party she seeks to represent. App’x at 92. Because Doe had not
+
+shown such a relationship with the fetuses in the class, the district court declined
+
+to appoint her as a next friend. Shortly thereafter, the district court also granted
+
+Defendants’ motion to dismiss Doe’s claims for lack of standing, concluding that
+
+she could not have standing because her next friend appointment had been
+
+denied. 1 The district court entered judgment for Defendants on October 26, 2021.
+
+       B.      The Post-Dobbs Complaint
+
+       Less than a month later, the plaintiffs filed a post-judgment motion seeking
+
+to reopen the judgment and file an amended complaint. This time, the proposed
+
+amended complaint identified a specific fetus – Baby Nicholas – as the class
+
+representative for the Viable Fetus Class and proposed his natural mother and
+
+grandmother, Rachel Brown-Lee and Miriam Brown (both pseudonyms), as next
+
+friends.
+
+       While that motion was pending, the Supreme Court decided Dobbs, which
+
+held that there is no federal constitutional right to abortion. The plaintiffs then
+
+requested permission to revise their post-judgment motion and to update their
+
+
+
+
+1Although not relevant here, the district court also dismissed the claims brought by the other
+plaintiffs against the RHA, either for lack of standing or for failure to state a claim. These other
+plaintiffs do not appeal the dismissal of those claims.
+
+                                                 9
+proposed amended complaint in light of Dobbs. After that leave was granted, the
+
+plaintiffs filed a second round of post-judgment motions under Federal Rules of
+
+Civil Procedure 59(e), 60(b)(1), and 60(b)(6), accompanied by a post-Dobbs
+
+proposed amended complaint (the “post-Dobbs complaint”). As relevant here,
+
+these motions argued that the judgment should be set aside because (1) Dobbs was
+
+an intervening change in controlling law or otherwise extraordinary circumstance
+
+justifying post-judgment relief, and (2) the plaintiffs had not received an
+
+opportunity to amend their original complaint under Federal Rule of Civil
+
+Procedure 15. Like the previously proposed amended complaint, the post-Dobbs
+
+complaint identified Baby Nicholas as class representative for the Viable Fetus
+
+Class and proposed Brown-Lee and Brown as his next friends. It also alleged that
+
+Brown-Lee’s former partner had violently assaulted her when she was pregnant
+
+in 2017 and 2018 and had verbally and physically abused her as recently as 2019.
+
+According to Brown-Lee, she obtained an order of protection against her former
+
+partner that runs through 2027, but he violated that order and continued “to act in
+
+a threatening and emotionally abusive way towards [her].” App’x at 118.
+
+      The district court denied the post-judgment motions in March 2023. The
+
+district court explained that Dobbs did not warrant post-judgment relief, since the
+
+
+
+                                        10
+Viable Fetus Class’s claims were dismissed for lack of standing, which was not
+
+impacted by Dobbs. The district court also concluded that amendment would be
+
+futile, since the post-Dobbs complaint did not plausibly establish that Baby
+
+Nicholas had standing.
+
+      Doe then filed this appeal, challenging two of the district court’s decisions:
+
+(1) the denial of Doe’s motion to be appointed next friend, and (2) the denial of her
+
+post-judgment motions to vacate the judgment and allow filing of the post-Dobbs
+
+complaint.
+
+                                    DISCUSSION
+
+      We review a district court’s denial of a motion to serve as next friend under
+
+Rule 17(c) for abuse of discretion. See Ferrelli v. River Manor Health Ctr., 323 F.3d
+
+196, 200 (2d Cir. 2003). “The existence of standing is a question of law that we
+
+review de novo.” Shain v. Ellison, 356 F.3d 211, 214 (2d Cir. 2004). Because we “have
+
+an independent obligation” to confirm our jurisdiction, “we must always address
+
+questions of standing, even when neither the parties nor the court below have
+
+considered the issue.” Hu v. City of New York, 927 F.3d 81, 89 (2d Cir. 2019) (internal
+
+quotation marks omitted). We also review de novo the denial of a post-judgment
+
+
+
+
+                                          11
+motion for leave to replead on the ground that amendment would be futile. See
+
+Metzler Inv. GmbH v. Chipotle Mexican Grill, Inc., 970 F.3d 133, 145 (2d Cir. 2020).
+
+I.    Dismissal of Doe’s Claims for Lack of Standing
+
+      We first take up the district court’s dismissal of Doe’s claims challenging the
+
+constitutionality of the RHA, which she sought to bring as next friend to the Viable
+
+Fetus Class. According to the district court, Doe was categorically ineligible to
+
+serve as next friend under Rule 17(c) because she lacked a “significant
+
+relationship” to the Viable Fetus Class. App’x at 92. We disagree with that
+
+conclusion, but nevertheless affirm the dismissal of Doe’s claims because she failed
+
+to provide an adequate description of any fetus in the class and therefore lacks
+
+Article III standing to bring their claims in a representative capacity.
+
+      A.     Next Friend Appointment
+
+      Article III imposes several limits on our jurisdiction. Chief among them is
+
+the requirement that the plaintiff “have standing to sue.” Raines v. Byrd, 521 U.S.
+
+811, 818 (1997). Typically, a plaintiff will have standing only to “assert his or her
+
+own legal rights and interests” and may not “rest a claim to relief on the legal
+
+rights or interests” of others. Powers v. Ohio, 499 U.S. 400, 410 (1991). This
+
+limitation ensures that there is a live case or controversy between two parties that
+
+each have a personal stake in the dispute. In this way, Article III prevents
+
+                                         12
+“concerned bystanders” from abusing the federal courts as a forum to air their
+
+“generalized grievances” against state actions. Hollingsworth v. Perry, 570 U.S. 693,
+
+707, 715 (2013) (internal quotation marks omitted).
+
+      Even so, we have long acknowledged several narrow exceptions under
+
+which a plaintiff may invoke the injuries of a third party to establish standing.
+
+Most relevant here, courts have exercised the authority to appoint a “next friend”
+
+who may bring claims on behalf of a minor or other incompetent person. See
+
+Whitmore v. Arkansas, 495 U.S. 149, 161–62 (1990). Because these parties lack the
+
+legal capacity to sue, the only way to vindicate their rights is to permit another to
+
+prosecute their claims in a representative capacity. Normally, that duty would fall
+
+on the minor or incompetent party’s legal guardian. See, e.g., McCormick ex rel.
+
+McCormick v. Sch. Dist. of Mamaroneck, 370 F.3d 275, 279 (2d Cir. 2004) (parents
+
+bringing Title IX challenge to school district’s athletic policy on behalf of minor
+
+daughters). But there may be instances where the legal guardian “is unable,
+
+unwilling . . . [,] or has interests which conflict with those of the [minor] or
+
+incompetent.” Ad Hoc Comm. of Concerned Tchrs. v. Greenburgh # 11 Union Free Sch.
+
+Dist., 873 F.2d 25, 29 (2d Cir. 1989) (“Ad Hoc Comm.”). In those scenarios, Rule 17(c)
+
+
+
+
+                                         13
+authorizes district courts to appoint a “next friend” to bring the minor or
+
+incompetent party’s claims in court:
+
+              The following representatives may sue or defend on
+              behalf of a minor or an incompetent person: (A) a general
+              guardian; (B) a committee; (C) a conservator; or (D) a like
+              fiduciary. . . . A minor or an incompetent person who
+              does not have a duly appointed representative may sue
+              by a next friend or by a guardian ad litem.
+
+Fed. R. Civ. P. 17(c).
+
+       This does not mean, of course, that just anyone may assume the mantle of
+
+next friend. As the Supreme Court has explained, there are “at least two firmly
+
+rooted prerequisites for ‘next friend’ standing.” Whitmore, 495 U.S. at 163. “First,
+
+a ‘next friend’ must provide an adequate explanation – such as inaccessibility,
+
+mental incompetence, or other disability – why the real party in interest cannot
+
+appear on his own behalf to prosecute the action.” Id. “Second, the ‘next friend’
+
+must be truly dedicated to the best interests of the person on whose behalf he seeks
+
+to litigate.” Id.
+
+       Here, the district court denied Doe’s next friend application based on a third
+
+requirement: that a next friend must have a “significant relationship” to the real
+
+party in interest. App’x at 92. The district court observed that although Doe
+
+alleged that she was otherwise qualified to serve as next friend to the Viable Fetus
+
+                                          14
+Class, she did not assert that she had a relationship with any of the class members.
+
+Id. at 30–32 (alleging that the class members are “adverse” to their legal guardians
+
+who might wish to obtain abortions and that Doe is qualified and able to represent
+
+their best interests). 2 On appeal, Doe challenges the denial of her next friend
+
+motion, arguing that the district court made a legal error in requiring a significant
+
+relationship before a next friend may be appointed under Rule 17(c).
+
+       We agree with Doe. Although a significant relationship with the real party
+
+in interest is relevant to the appointment of a next friend, it is neither required nor
+
+dispositive. For starters, the text of Rule 17(c) does not demand any sort of
+
+“relationship,” let alone a significant one. It provides simply that “[a] minor or an
+
+incompetent person who does not have a duly appointed representative may sue
+
+by a next friend or by a guardian ad litem.” Fed. R. Civ. P. 17(c)(2). And as we
+
+have observed, “[t]he term ‘next friend’ is broad enough to include any[]one who
+
+has an interest in the welfare of an infant who may have a grievance or a cause of
+
+action.” Ad Hoc Comm., 873 F.2d at 31 (alterations accepted and internal quotation
+
+
+
+
+2 The district court did not scrutinize whether these allegations met the other requirements of next
+friend standing under Rule 17(c) – including that the legal guardian be conflicted and that the
+next friend be “truly dedicated” to the incompetent person’s interests – and we take no position
+on those issues here. See Ad Hoc Comm., 873 F.2d at 29; Whitmore, 495 U.S. at 163.
+
+                                                15
+marks omitted).     Put simply, there is no textual hook for the “significant
+
+relationship” requirement that the district court imposed here.
+
+       Our own precedent, moreover, establishes that we do not always require a
+
+particularly close relationship between the next friend and the real party in
+
+interest.   In one of our (admittedly few) cases on the issue, we held that a
+
+committee of teachers could sue as next friend to a group of students who wished
+
+to challenge a school’s hiring practices – even though the teachers lacked any
+
+familial or longstanding relationship to the students.        See id. at 29.   As we
+
+explained, the committee was eligible to serve as next friend because some
+
+teachers were “intimately involved with the [c]hildren’s education,” the
+
+committee “instituted th[e] suit in good faith,” and no other adults were better
+
+“position[ed]” to bring the students’ claims. Id. at 30; see also id. at 27 (explaining
+
+that the students were minors who were under New York City’s custody and/or
+
+guardianship, and that it was unlikely that the City would bring a claim
+
+challenging its own school policies on their behalf). Although we did not say so
+
+explicitly, our reasoning clearly embodied a case-by-case rule in which a
+
+significant relationship is not categorically required. See id. at 31 (describing how
+
+“the facts and circumstances of each case will vary”).
+
+
+
+                                          16
+      Other circuits have settled on a similarly flexible standard. The D.C. Circuit
+
+has explained that while there “ordinarily [must] be a significant relationship
+
+between the proposed next friend and minor, . . . that requirement may not rigidly
+
+apply when a minor has no significant relationships.” Muthana v. Pompeo, 985 F.3d
+
+893, 902 (D.C. Cir. 2021). The Ninth Circuit has likewise adopted an “elastic” rule
+
+in which a significant relationship is not required when the real parties lack any
+
+“relative” or “friend” that can “act on their behalf.” Coal. of Clergy, Laws., &
+
+Professors v. Bush, 310 F.3d 1153, 1162 (9th Cir. 2002) (stating that another person
+
+with “some relationship” could serve as next friend in such a case, since this
+
+relationship would at least be “‘significant’ in comparison to the [real party’s]
+
+other relationships”). The Fourth Circuit, in ostensibly adopting a significant-
+
+relationship requirement, explicitly declined to address the situation “of someone
+
+who possesses no significant relationships at all.” Hamdi v. Rumsfeld, 294 F.3d 598,
+
+604 n.3 (4th Cir. 2002). And in a notable First Circuit case involving a challenge to
+
+a state foster care system, that court held that a doctor could serve as next friend
+
+to a group of foster children whom he had never met and whose “family court and
+
+medical files” he had never reviewed. Sam M. ex rel. Elliot v. Carcieri, 608 F.3d 77,
+
+93 (1st Cir. 2010).     Stressing that this deficiency did not “automatically
+
+
+
+                                         17
+disqualif[y]” the doctor from serving as next friend, the court concluded that his
+
+appointment was appropriate because there was no evidence that he was
+
+“pursuing the present suit for reasons other than a genuine concern for the
+
+children’s well-being.” Id.
+
+      We see no reason to depart from the flexible rule – that a significant
+
+relationship is not always required – announced in these well-reasoned decisions.
+
+Indeed, the Supreme Court stopped short of adopting a “significant relationship”
+
+requirement in Whitmore. See Whitmore, 495 U.S. at 163–64 (noting it has been
+
+“suggested” by lower courts “that a ‘next friend’ must have some significant
+
+relationship with the real party in interest,” but declining to identify this as a
+
+“firmly rooted prerequisite[]”). A contrary rule could preclude some real parties
+
+in interest from bringing suit altogether, simply because they lack a relationship
+
+significant enough to justify appointment of a representative.
+
+      We therefore hold that, in certain cases, a next friend who lacks a significant
+
+relationship to the real party in interest may be appointed under Rule 17(c). Rather
+
+than apply a rigid rule, district courts should examine the purported relationship
+
+between the next friend and the real party in interest to determine whether the
+
+next friend appears “truly dedicated to the best interests of the person on whose
+
+
+
+                                         18
+behalf he seeks to litigate.” Id. at 163. While there “ordinarily” should be a
+
+significant relationship, that requirement is relaxed when the real party lacks any
+
+“close relative” or friend that can act on his or her behalf. Muthana, 985 F.3d at
+
+902. In those cases, another person can assume the mantle of next friend, provided
+
+the person can “show some relationship or other evidence that would suggest the
+
+next friend is truly dedicated to the interests of the real party.” Lonchar v. Zant,
+
+978 F.2d 637, 641 (11th Cir. 1992). At the same time, if the proposed next friend
+
+has little or no relationship with the real party in interest, her appointment as next
+
+friend should be viewed skeptically – as the lack of any relationship may belie the
+
+next friend’s claim that she is advancing the real party’s best interests. See Coal. of
+
+Clergy, Laws. & Professors, 310 F.3d at 1162. Although this is a flexible standard, it
+
+is consistent with the discretionary nature of Rule 17(c), which leaves the “ultimate
+
+decision as to whether or not to appoint [a next friend] . . . with the sound
+
+discretion of the district court.” Sam M. ex rel. Elliott, 608 F.3d at 85 (internal
+
+quotation marks omitted).
+
+      Applying this standard here, we are persuaded that the district court abused
+
+its discretion by declining to appoint Doe as next friend on the legal ground that
+
+Rule 17(c) requires a “significant relationship.” App’x at 92. Although the district
+
+
+
+                                          19
+court had discretion to decline Doe’s appointment, it was an error of law – and
+
+thus an abuse of discretion – to treat a “significant relationship” as a mandatory
+
+requirement of Rule 17(c). See Ratliff v. Davis Polk & Wardwell, 354 F.3d 165, 168
+
+(2d Cir. 2003) (“Where a district court exercises its discretion premised on the
+
+misapplication of a legal principle, the court by definition abuses its discretion and
+
+makes an error of law.”). 3
+
+       Our normal practice would be to remand for the district court to revisit
+
+whether to appoint Doe as next friend under Rule 17(c) for those fetuses who face
+
+abortion. We do not do so here, however, because we conclude that Doe’s claims
+
+fail for a different reason: she lacks Article III standing because she fails to identify
+
+or otherwise describe any class member in the Viable Fetus Class who has a live
+
+case or controversy.
+
+       B.      Article III Standing
+
+       Even if Doe were appointed next friend under Rule 17(c), it would not
+
+automatically entitle her to Article III standing. Neither Congress statutorily nor
+
+
+
+
+3The district court did not reach Defendants’ alternative argument that Rule 17(c) does not permit
+a next friend to be appointed on behalf of a fetus. See App’x at 92. We therefore decline to
+consider that issue here. See Booking v. Gen. Star Mgmt. Co., 254 F.3d 414, 418 (2d Cir. 2001) (“In
+general, a federal appellate court does not consider an issue not passed upon below.” (internal
+quotation marks omitted)).
+
+                                                20
+the courts through the rulemaking process may “grant[] the right to sue to a
+
+plaintiff who would not otherwise have standing.” Raines v. Byrd, 521 U.S. 811,
+
+820 n.3 (1997); see also Lunney v. United States, 319 F.3d 550, 556 (2d Cir. 2003) (“Rule
+
+17[] cannot be construed to extend subject matter jurisdiction.”). And because we
+
+have an “independent obligation” to confirm our jurisdiction, we must consider
+
+the next inevitable question: whether Doe would have Article III standing even if
+
+she were appointed next friend under Rule 17(c). Summers v. Earth Island Inst., 555
+
+U.S. 488, 499 (2009).
+
+      When a plaintiff brings her own claims, she must establish three elements
+
+to demonstrate Article III standing: “(i) that she has suffered or likely will suffer
+
+an injury in fact, (ii) that the injury likely was caused or will be caused by the
+
+defendant, and (iii) that the injury likely would be redressed by the requested
+
+judicial relief.” Food & Drug Admin. v. All. for Hippocratic Med., 602 U.S. 367, 380
+
+(2024). As alluded to above, these requirements shift in cases where the plaintiff
+
+invokes a theory of “representative standing” to bring claims on behalf of another
+
+person. See Bria Health Servs., LLC v. Eagleson, 950 F.3d 378, 384–85 (7th Cir. 2020)
+
+(explaining that “next friend” and organizational standing are forms of
+
+representative standing).     In these cases, the representative plaintiff satisfies
+
+
+
+                                           21
+Article III by demonstrating that the other person – the real party in interest –
+
+would “have standing to sue in [his] own right.” Hunt v. Wash. State Apple Advert.
+
+Comm’n, 432 U.S. 333, 343 (1977). Thus, an organization suing on behalf of its
+
+members must “make specific allegations establishing that at least one identified
+
+member had suffered or would suffer [a] harm” that meets all three elements of
+
+Article III standing. Summers, 555 U.S. at 498. So too must a party seeking to sue
+
+as next friend of a minor demonstrate that the minor meets the three “irreducible”
+
+requirements of Article III. McCormick ex rel. McCormick, 370 F.3d at 284 (quoting
+
+Lujan v. Defs. of Wildlife, 504 U.S. 555, 560 (1992)).
+
+      Doe has not met these requirements. She does not identify or describe – by
+
+name, basic details, or otherwise – any member of the Viable Fetus Class who
+
+allegedly meets the injury-in-fact, traceability, and redressability requirements of
+
+Article III. Instead, she generally asserts claims on behalf of all viable fetuses in
+
+the state of New York who may be at risk of harm due to the RHA’s elimination of
+
+criminal penalties for abortion and fetal homicide. These sweeping allegations
+
+cannot satisfy Doe’s burden of establishing standing. See Spokeo, Inc. v. Robins, 578
+
+U.S. 330, 338 (2016). In every case – representative standing or otherwise – the
+
+complaint must “clearly allege facts demonstrating” that there is a real party in
+
+
+
+                                           22
+interest who has suffered (or will suffer) an injury that is actual or imminent,
+
+traceable to the defendant, and redressable by the court. Id. (alteration accepted
+
+and internal quotation marks omitted). This means that representative plaintiffs
+
+must “identify,” with “specific allegations,” who the real parties are and how they
+
+are at risk of the “requisite harm.” Summers, 555 U.S. at 498–99. If they do not,
+
+then the representative plaintiff “necessarily cannot allege the sort of . . . actual or
+
+imminent,” traceable, and redressable injury required by Article III. Fac., Alumni,
+
+& Students Opposed to Racial Preferences v. N.Y. Univ., 11 F.4th 68, 79 (2d Cir. 2021)
+
+(Menashi, J., concurring) (“FASORP”).
+
+      We held as much in one of our recent representative standing cases in which
+
+an organization tried to invoke the standing of its members without describing
+
+those members and how they were harmed. In FASORP, a legal organization
+
+asserted that several policies at the New York University School of Law (“NYU
+
+Law”) were unlawful racial and sex-based preferences. See id. at 71–72 (majority
+
+opinion).   Among other theories, FASORP alleged that NYU Law’s faculty
+
+discriminated against white males in hiring, and that its flagship law journal – the
+
+NYU Law Review – discriminated against the same group in deciding which
+
+articles to publish. See id. at 73. Yet in its pleadings, FASORP failed to identify or
+
+
+
+                                          23
+describe a single professor among its ranks, let alone any details about whether
+
+that member was prepared to apply to the school’s faculty or submit an article to
+
+its journal. See id. at 76.
+
+       We found that omission to be fatal. Even if FASORP was not required to
+
+“name names,” Article III required it to allege some details about who the allegedly
+
+injured scholars were and how they were at risk of harm, such as by offering a
+
+“description of concrete plans to apply for employment[] [or] submit an article,”
+
+id. at 76–77 (internal quotation marks omitted), or by showing that there were
+
+“members who are ‘able and ready’ to submit articles or to seek faculty positions,”
+
+id. at 79 (Menashi, J., concurring). Because FASORP did not identify or describe
+
+its members and the injuries they allegedly faced, “it necessarily [could not] allege
+
+the sort of ‘concrete plans’ necessary to ‘support a finding of . . . actual or imminent
+
+injury.’” Id. (quoting Summers, 555 U.S. at 496).
+
+       We do not see how the outcome would be any different here. Like FASORP,
+
+Doe seeks to invoke a third-party injury – here, an injury to a fetus – to establish
+
+Article III standing at the pleading stage. Like FASORP, she alleges in broad
+
+strokes that such a third party exists and is at risk of harm. And like FASORP, she
+
+fails to provide any description of who that third party is and the harm he faces,
+
+
+
+                                          24
+such as the fetus’s gestational age, who the pregnant mother is, the reasons why
+
+she is contemplating an abortion, whether she has visited or made an appointment
+
+with an abortion provider, how soon that appointment is, and so on. Indeed, the
+
+only potential difference is that FASORP was relying on one type of representative
+
+standing – organizational standing – while Doe is relying on another. But that is
+
+a distinction without a difference, since the same “irreducible” requirements of
+
+Article III apply to next friends and organizational plaintiffs alike. McCormick ex
+
+rel. McCormick, 370 F.3d at 284 (quoting Lujan, 504 U.S. at 560). Thus, like FASORP,
+
+Doe’s failure to identify or describe any class member is fatal, as she “necessarily
+
+cannot” meet her burden of plausibly establishing that there is a real party in
+
+interest with an Article III injury. FASORP, 11 F.4th at 79 (Menashi, J., concurring).
+
+      To be sure, there is no doubt a possibility – indeed a near certainty – that
+
+there are viable fetuses in New York who may soon be threatened by abortion or
+
+other fetal harm. But the Supreme Court has emphatically barred organizations
+
+from relying on statistics or probabilities to demonstrate the standing of their
+
+members, explaining that such theories “would make a mockery of our prior
+
+cases” that have required representative plaintiffs “to make specific allegations
+
+establishing that at least one identified member had suffered or would suffer
+
+
+
+                                         25
+harm.” Summers, 555 U.S. at 498. As Justice Scalia emphasized, standing “is not
+
+an ingenious academic exercise in the conceivable but requires a factual showing
+
+of perceptible harm.” Id. at 499 (alterations accepted and internal quotation marks
+
+omitted). Thus, it is not enough for Doe to speculate that, at some point in the
+
+future, an unidentified woman may seek to obtain an abortion of an unidentified
+
+fetus from an unidentified abortion provider. She must at a minimum provide
+
+basic identifying information about that fetus and provide “an adequate
+
+description of his circumstances to ensure he has a concrete interest in a live
+
+dispute.” In re: 2016 Primary Election, 836 F.3d 584, 587–88 (6th Cir. 2016).
+
+      Permitting plaintiff-less complaints like Doe’s would invite the very sort of
+
+“advisory opinions” that Article III seeks to safeguard against. Id. at 588. Any
+
+number of “concerned bystanders” could exploit next friend standing to challenge
+
+state or national laws they disagree with, even though they lack a personal stake
+
+in the dispute. Hollingsworth, 570 U.S. at 707 (internal quotation marks omitted).
+
+Article III does not permit such circumvention. In order to bring a claim on behalf
+
+of another, a representative plaintiff must provide an “adequate description” of
+
+the real party’s circumstances so that we can ensure he has suffered or faces an
+
+injury that is actual or imminent, traceable to a specific defendant, and redressable
+
+
+
+                                         26
+by the court. In re: 2016 Primary Election, 836 F.3d at 588; see also FASORP, 11 F.4th
+
+at 76. Were the rule anything else, we would all but place standing “in the hands
+
+of concerned bystanders, who will use it simply as a vehicle for the vindication of
+
+value interests.” Hollingsworth, 570 U.S. at 707 (internal quotation marks omitted).
+
+      To be clear, requiring litigants to identify the real party in interest will not
+
+always be an insurmountable hurdle to standing. If there is a viable fetus who
+
+faces an Article III injury from the RHA, then someone – an expectant father, other
+
+relative, or perhaps even a non-relative like Doe – may theoretically file a
+
+complaint as next friend that describes the viable fetus with sufficient specificity.
+
+Of course, there may be other jurisdictional barriers to bringing that claim, such as
+
+imminence, traceability, and redressability, and there remains the question of
+
+whether, as Defendants argue, fetuses “lack constitutional personhood”
+
+altogether. See Defs. Br. at 25. But we do not and need not pass on those issues
+
+today. See Sinochem Int'l Co. Ltd. v. Malaysia Int'l Shipping Corp., 549 U.S. 422, 431
+
+(2007) (explaining that courts have “leeway to choose among threshold grounds”
+
+for declining to exercise jurisdiction (internal quotation marks omitted)). We
+
+merely hold that – as with organizational plaintiffs – a next friend must “make
+
+specific allegations establishing that at least one identified member had suffered
+
+
+
+                                         27
+or would suffer [a] harm” that meets all three elements of Article III standing.
+
+Summers, 555 U.S. at 498. Because Doe failed to do so here, her claims on behalf of
+
+the Viable Fetus Class fail for lack of standing.
+
+II.    Denial of Post-Judgment Motions
+
+       Doe also appeals the district court’s denial of her motions under Rules 59(e)
+
+and 60(b), which sought to vacate the judgment so that she could file an amended
+
+complaint in light of Dobbs. 4 The district court denied those motions as futile
+
+because, like the original complaint, the post-Dobbs complaint that Doe attached
+
+to her motions failed for lack of standing. Because this decision rested on a
+
+question of law – namely, futility – we review de novo the district court’s ruling on
+
+standing. See Metzler Inv. GmbH, 970 F.3d at 145.
+
+       As relevant here, the post-Dobbs complaint brings similar claims to the
+
+original complaint, alleging that the RHA – by expanding abortion access and
+
+decriminalizing fetal homicide – violates fetal rights to life, equal protection, and
+
+legal redress. Notably, the post-Dobbs complaint has a key addition: it identifies
+
+
+
+4 Doe also argues that the district court should have set aside the judgment under Rules 59(e) and
+60(b) because Dobbs constituted a change in controlling law. But as explained in this section, her
+claims – including in the post-Dobbs complaint – fail for lack of standing, a legal determination
+that was unaffected by Dobbs. Because Dobbs does not alter the outcome, it is not “controlling
+law,” and Doe is not entitled to vacatur of the judgment on that ground. Metzler Inv. GmbH, 970
+F.3d at 142 (internal quotation marks omitted).
+
+                                               28
+a fetus – Baby Nicholas – as named plaintiff of the Viable Fetus Class. App’x at
+
+139. It also offers a basic description of Baby Nicholas, alleging that his gestational
+
+age is at least twenty-four weeks and detailing how he might be at risk of harm
+
+from domestic violence. And it proposes his mother and grandmother, Brown-
+
+Lee and Brown, as next friends to bring his claims on his behalf.
+
+      Unlike Doe’s claims in the original complaint, Baby Nicholas’s claims do not
+
+fail at the threshold for failing to identify the real party in interest. Although Baby
+
+Nicholas is a pseudonym, Article III does not require Brown-Lee to “name names”
+
+in order to bring claims on his behalf. FASORP, 11 F.4th at 75 (internal quotation
+
+marks omitted); see also Do No Harm v. Pfizer, Inc., 126 F.4th 109, 122 n.7 (2d Cir.
+
+2025) (“[A]n organizational plaintiff need not identify specific injured members by
+
+name at the pleading stage.”). And in sharp contrast to the original complaint, the
+
+post-Dobbs complaint attempts to provide a description of the harm Baby Nicholas
+
+faces, alleging that Brown-Lee’s former partner has threatened to physically attack
+
+her, which could in turn harm Baby Nicholas. Accordingly, we must assess
+
+whether that description establishes that Baby Nicholas “has a concrete interest in
+
+a live dispute.” In re: 2016 Primary Election, 836 F.3d at 588.
+
+
+
+
+                                          29
+       A.     Mootness
+
+       At the outset, Defendants argue that Baby Nicholas’s claims do not present
+
+a live dispute because those claims are moot. At the time the plaintiffs submitted
+
+the post-Dobbs complaint in November 2021, Brown-Lee was over twenty-four
+
+weeks pregnant with Baby Nicholas. Because Baby Nicholas is no longer in utero,
+
+Defendants argue that his challenges to the RHA are moot.
+
+       In general, “a case is moot when the issues presented are no longer live or
+
+the parties lack a legally cognizable interest in the outcome.” Comer v. Cisneros, 37
+
+F.3d 775, 798 (2d Cir. 1994) (internal quotation marks omitted). For class actions,
+
+this typically means that the named plaintiff must obtain class certification before
+
+his claims become moot. See U.S. Parole Comm’n v. Geraghty, 445 U.S. 388, 397–98
+
+(1980). But there is an important exception when the named plaintiff brings a
+
+claim that is “so inherently transitory that the trial court will not have even enough
+
+time to rule on a motion for class certification before the proposed representative’s
+
+individual interest expires.” Comer, 37 F.3d at 799 (internal quotation marks
+
+omitted). Because there would otherwise be no way to bring those claims, we treat
+
+them as live even if the named plaintiffs’ personal stake becomes moot before the
+
+class is certified.
+
+
+
+                                         30
+         That exception to mootness applies here. Doe alleges in the post-Dobbs
+
+complaint that Baby Nicholas faces an inherently transitory harm in that he is
+
+subject to physical harm (through abortion or third-party violence) while he
+
+remains in utero. And because that harm will dissipate within a matter of months,
+
+the trial court may not have enough time to rule on a class certification motion.
+
+Indeed, we have already held that a harm that will dissipate in six months qualifies
+
+as inherently transitory. See Salazar v. King, 822 F.3d 61, 74 (2d Cir. 2016) (applying
+
+this exception to claims that challenged federal student loans as unlawful, even
+
+though all of the named plaintiffs’ loans had already been fully discharged in six
+
+months or fewer). And even more on point, the D.C. Circuit has held that harms
+
+which exist only during pregnancy fall within this exception, since pregnancies
+
+last only nine months. See J.D. v. Azar, 925 F.3d 1291, 1311 (D.C. Cir. 2019) (“Just
+
+as [a] one-year immigration detention . . . would end too soon [to obtain class
+
+certification], so too would a full term of pregnancy.”). Because the same is true
+
+of the harms that Baby Nicholas alleges in the post-Dobbs complaint, his claims are
+
+“inherently transitory” and were not mooted by the fact that he is no longer in
+
+utero.
+
+
+
+
+                                          31
+      B.     Standing
+
+      Because Baby Nicholas’s claims are not moot, we turn to the allegations in
+
+the post-Dobbs complaint to assess whether Baby Nicholas (through his proposed
+
+representatives Brown-Lee and Brown) would be able to meet his “burden” of
+
+establishing Article III standing. Lujan, 504 U.S. at 561. As noted above, Article III
+
+requires a plaintiff to demonstrate (1) an actual or imminent injury, (2) that is fairly
+
+traceable to the defendant’s conduct, and (3) that is likely to be redressed by a
+
+favorable ruling. See id. at 560–61. At the pleading stage, the plaintiff “must allege
+
+facts that affirmatively and plausibly suggest” that he has met all three
+
+requirements. FASORP, 11 F.4th at 76 (internal quotation marks omitted).
+
+      The analysis here is complicated by the facts that Baby Nicholas’s claims in
+
+the proposed amended complaint (i) challenge two parts of the RHA – abortion
+
+decriminalization and fetal homicide repeal – and (ii) seek both damages and
+
+equitable relief on those claims. Because “standing is not dispensed in gross,” a
+
+plaintiff “must demonstrate standing for each claim that [he] press[es] and for each
+
+form of relief that [he] seek[s] (for example, injunctive relief and damages).”
+
+TransUnion LLC v. Ramirez, 594 U.S. 413, 431 (2021) (emphasis added). This means
+
+that a plaintiff who has standing to challenge one law does not automatically have
+
+standing to challenge a different law, even when both challenges are brought in
+
+                                          32
+the same suit. See Town of Milton v. Fed. Aviation Admin., 87 F.4th 91, 97 n.3 (1st Cir.
+
+2023). And “a plaintiff’s standing to seek injunctive relief does not necessarily
+
+mean that the plaintiff has standing to seek retrospective damages.” TransUnion,
+
+594 U.S. at 436.
+
+      Here, this means that Baby Nicholas must separately demonstrate standing
+
+to challenge the RHA’s decriminalization of abortion and its repeal of fetal
+
+homicide. Moreover, he must separately establish standing to seek damages
+
+(compensatory and nominal) and equitable relief (an injunction and a declaratory
+
+judgment). We thus begin by addressing whether Baby Nicholas has standing to
+
+seek damages, and then assess whether Baby Nicholas has standing to obtain
+
+equitable relief with respect to either part of the RHA.
+
+          1. Damages
+
+      At the start, we conclude that Baby Nicholas lacks standing to seek
+
+compensatory or nominal damages on either of his challenges to the RHA. As the
+
+Supreme Court has made clear, a plaintiff does not have standing to seek damages
+
+when he was exposed to a “mere risk of future harm” that never “materialize[d].”
+
+Id. (emphasis added). For instance, a woman driving home from work might be
+
+exposed to a “risk of future harm” if she comes across a reckless driver swerving
+
+
+
+                                          33
+between lanes. Id. But so long as the reckless driver does not hit her (or cause
+
+actionable emotional distress), she may not sue him for damages, since her risk of
+
+harm never materialized into a concrete injury under Article III. See id. at 436–37.
+
+      For the same reason, Baby Nicholas may not seek damages here. Although
+
+he seeks to challenge two parts of the RHA – the provisions decriminalizing
+
+abortion and those repealing fetal homicide – the post-Dobbs complaint does not
+
+allege that Baby Nicolas has suffered a concrete harm from either. With respect to
+
+abortion decriminalization, the post-Dobbs complaint asserts only that Brown-Lee
+
+has “considered terminating [her] pregnancies as a way to escape the abuse” she
+
+faced at the hands of her former partner. App’x at 117–18 (alleging that Brown-
+
+Lee’s former partner consistently became violent and abusive during her past
+
+pregnancies, which caused Brown-Lee to contemplate abortion). But even if the
+
+RHA’s abortion decriminalization did make Brown-Lee more likely to terminate
+
+her pregnancy with Baby Nicholas, he has suffered at most an abstract risk of
+
+future harm, not a concrete form of past injury. He may not seek retrospective
+
+damages – compensatory or nominal – for his challenge to this portion of the RHA.
+
+      Damages are likewise unavailable for Baby Nicholas’s challenge to the
+
+RHA’s fetal homicide repeal. Brown-Lee asserts that her former partner has
+
+
+
+                                        34
+physically harmed her in the past – before she was pregnant with Baby Nicholas
+
+– and has threatened to do so several times since. Once again, however, Baby
+
+Nicholas did not suffer any concrete harm and at most has been exposed to a
+
+possible risk of harm in the future. He therefore does not have standing to seek
+
+damages as part of this challenge to the RHA either.
+
+          2. Equitable Relief
+
+      Even though Baby Nicholas has suffered only a future risk of harm, he may
+
+still (in theory) seek prospective relief against the RHA in the form of an injunction
+
+or declaratory judgment. See TransUnion, 594 U.S. at 435. “To obtain forward-
+
+looking relief, [a] plaintiff[] must establish a substantial risk of future injury that is
+
+traceable to the [g]overnment defendants and likely to be redressed by an
+
+injunction against them.” Murthy v. Missouri, 603 U.S. 43, 69 (2024). In “most
+
+standing disputes” involving a risk of future injury, the “two key questions” relate
+
+to imminence and traceability. All. for Hippocratic Med., 602 U.S. at 381. An
+
+“imminent” injury is one that “is certainly impending,” which means “that
+
+allegations of possible future injury are not sufficient.” Clapper v. Amnesty Int’l USA,
+
+568 U.S. 398, 409 (2013) (alteration accepted and internal quotation marks omitted);
+
+see also id. at 414 n.5 (noting that the harm need not be “literally certain” and an
+
+
+
+                                           35
+injury may be imminent “based on a ‘substantial risk’ that the harm will occur”).
+
+Traceability, meanwhile, is a causation requirement that obligates the plaintiff to
+
+show that his injury “likely will be caused by the defendant’s conduct.” All. for
+
+Hippocratic Med., 602 U.S. at 382.
+
+      Applying these requirements here, we conclude that Baby Nicholas lacks
+
+standing to bring either of his challenges to the RHA.
+
+             a. Abortion Decriminalization
+
+      We first conclude that Baby Nicholas lacks standing to challenge the portion
+
+of the RHA that decriminalized abortion. As explained above, these sections of
+
+the RHA eliminated all criminal liability for performing an abortion. See RHA
+
+§§ 5, 7-a to 10. The post-Dobbs complaint, however, fails to allege that Baby
+
+Nicholas faces an imminent injury as a result of the RHA having decriminalized
+
+abortion. To do so, it would have to plead that Brown-Lee has “concrete plans” to
+
+terminate her pregnancy with Baby Nicholas. Lujan, 504 U.S. at 564. But Brown-
+
+Lee does not assert that she is currently contemplating obtaining an abortion, or
+
+even that she has done so recently. Because the post-Dobbs complaint does not
+
+allege that Baby Nicholas faces an “imminent” harm now that abortion has been
+
+decriminalized, he lacks standing to challenge those sections of the RHA. Id.
+
+
+
+                                        36
+            b. Fetal Homicide Repeal
+
+      We likewise conclude that Baby Nicholas lacks standing to challenge the
+
+portion of the RHA that eliminated fetal homicide from New York’s criminal code.
+
+Doe broadly argues that Baby Nicholas has standing to seek injunctive and
+
+declaratory relief against this RHA provision because the elimination of criminal
+
+penalties for fetal homicide creates an “enhanced risk” of harm to Baby Nicholas.
+
+Doe Br. at 38 (internal quotation marks omitted).         According to Doe, the
+
+elimination of those penalties makes it more likely that a third party will attack a
+
+pregnant woman and “kill a viable child in the womb.” Id. at 36 (quoting App’x
+
+at 240). Doe also offers a narrower argument that this risk is especially grave for
+
+Baby Nicholas in particular, since Brown-Lee’s former partner has a history of
+
+physically assaulting her when she is pregnant.
+
+      But the post-Dobbs complaint does not allege that Defendants themselves –
+
+all New York state officials – are threatening to harm Baby Nicholas directly.
+
+Instead, it alleges that, because Defendants are no longer enforcing the pre-RHA
+
+fetal homicide laws, an independent third party will attack Brown-Lee and thus
+
+harm Baby Nicholas sometime in the future. As the Supreme Court has explained,
+
+there are “two particular challenges” with relying on this sort of “one-step-
+
+
+
+                                        37
+removed, anticipatory” theory. Murthy, 603 U.S. at 57. First, there are often
+
+traceability problems. In general, it is easier for a plaintiff to establish standing to
+
+challenge a law that regulates his own conduct directly. See Lujan, 504 U.S. at 561–
+
+62. But standing is “ordinarily substantially more difficult to establish” when, as
+
+here, the plaintiff challenges a law that regulates “someone else.” All. for Hippocratic
+
+Med., 602 U.S. at 382 (quoting Lujan, 504 U.S. at 562). In these cases, a plaintiff’s
+
+injury will be traceable to the government’s action only if the regulated third party
+
+“will likely react in predictable ways that in turn will likely injure the plaintiffs.”
+
+Id. at 383 (internal quotation marks omitted). Second, allegations of potential injury
+
+from third parties raise imminence problems as well.           It is not sufficient to
+
+speculate that a traceable injury might happen some day; the plaintiff must
+
+plausibly allege “a substantial risk” that such an injury will happen “in the near
+
+future.” Murthy, 603 U.S. at 58.
+
+      Putting these two requirements together, the post-Dobbs complaint must
+
+plausibly allege “a substantial risk that, in the near future,” someone will harm
+
+Baby Nicholas “in response to the” RHA’s passage. Id. That is a “tall order,” and
+
+one that Doe fails to meet here. Id.
+
+
+
+
+                                          38
+      As a threshold matter, Doe’s broadest argument – that the RHA exposes
+
+Baby Nicholas to a generalized “enhanced risk” of harm from the public at large –
+
+fails on imminence grounds. Doe Br. at 37 (internal quotation marks omitted). As
+
+we have explained, this sort of standing theory, premised on “enhanced risk,”
+
+requires the plaintiff to “allege[] actual future exposure to that increased risk.”
+
+Nicosia v. Amazon.com, Inc., 834 F.3d 220, 239 (2d Cir. 2016) (internal quotation
+
+marks omitted). Baby Nicholas must do more than speculate about the existence
+
+of unknown persons who might do him harm at some point. Because he must
+
+allege that such harm is in fact imminent, he cannot establish standing based on a
+
+broad theory of generalized risk. See Clapper, 568 U.S. at 410–11 (explaining that
+
+even an “objectively reasonable likelihood” of injury would still fall short of an
+
+“imminent[]” harm).
+
+      To be sure, the post-Dobbs complaint does point to one person who might
+
+pose a threat to Baby Nicholas: Brown-Lee’s former partner, who has physically
+
+harmed her in the past and has threatened to do so again. But even assuming that
+
+amounts to an imminent threat, the chain of causation between the former
+
+partner’s conduct and the RHA’s passage is far too attenuated to be traceable to it.
+
+First of all, Doe suggests that the former partner is more likely to attack Brown-
+
+
+
+                                        39
+Lee again – and harm Baby Nicholas – because “[u]nder current law there is no
+
+deterrence for men who would kill a viable child in the womb.” Doe Br. at 36
+
+(emphasis added) (quoting App’x at 240). But that obviously overstates the case.
+
+Even though the former partner could not be punished for fetal homicide, he
+
+would still face up to twenty-five years in prison for assaulting Brown-Lee, which
+
+would surely provide some deterrence to such an act of violence. See N.Y. Penal
+
+Law § 70.00(2)(b), (3)(b) (class B felonies are punishable by a sentence of one to
+
+twenty-five years); N.Y. Penal Law § 120.10 (first-degree assault is a class B felony).
+
+And as the Supreme Court has made clear, when another statute would impede
+
+the alleged harm from occurring, the “chain of causation” is broken and
+
+traceability is lacking. All. for Hippocratic Med., 602 U.S. at 390 (rejecting standing
+
+theory that doctors would suffer injuries to their conscience if they had to perform
+
+an abortion, because federal and state “conscience laws” statutes would shield
+
+those doctors from repercussions if they declined to perform the abortion).
+
+      Moreover, Brown-Lee’s own affidavit belies any causal link between the
+
+RHA and her former partner’s violent conduct. If such a link existed, then the
+
+former partner presumably would have increased or enhanced his physical threats
+
+and violent behavior once the RHA was passed in 2019. See Murthy, 603 U.S. at 62
+
+
+
+                                          40
+(“[A] causal link is possible only if the [injury] occurred after [the government
+
+action].”). But Brown-Lee alleges the opposite: that the former partner physically
+
+harmed her between 2017 and 2019 but has not done so since. In other words, the
+
+former partner’s violent conduct began when fetal homicide was still a crime and
+
+appears to have diminished since passage of the RHA. Based on the allegations
+
+contained in the post-Dobbs complaint, we do not see a plausible inference that the
+
+RHA has caused Brown-Lee’s former partner to become more violent.
+
+      Such an inference is particularly weak here, since the relevant harmful
+
+conduct not only began before the RHA was passed but stopped soon thereafter.
+
+Even with the benefit of all plausible inferences in Baby Nicholas’s favor, the post-
+
+Dobbs complaint alleges nothing that indicates that the RHA has caused or will
+
+cause Brown-Lee’s former partner to physically harm her and Baby Nicholas. To
+
+the contrary, the only plausible inference is that the former partner’s violent
+
+behavior is the result of his own “independent decision[s],” unrelated to the RHA.
+
+Id. at 57 (internal quotation marks omitted). This breaks the chain of causation
+
+between the RHA and Baby Nicholas, and the district court was therefore correct
+
+in denying Doe leave to amend the complaint to introduce Baby Nicholas’s claims
+
+through Brown-Lee and Brown.
+
+
+
+                                         41
+      Baby Nicholas might have argued that the RHA’s passage exposed him to a
+
+substantial risk of harm that required Brown and Brown-Lee to take steps to
+
+mitigate the risk. The Supreme Court has explained that “[i]n some instances, we
+
+have found standing based on a ‘substantial risk’ that the harm will occur, which
+
+may prompt plaintiffs to reasonably incur costs to mitigate or avoid that harm.”
+
+Clapper, 568 U.S. at 414 n.4. While Brown-Lee incurred costs to mitigate the risk
+
+from her former partner before the RHA was passed, she does not allege that the
+
+passage required her to incur new costs to mitigate an additional risk.
+
+      Again, we take no position today with respect to whether a fetus may
+
+otherwise meet the requirements for Article III standing. We merely note that
+
+“those seeking to challenge the constitutionality of state laws are not always able
+
+to pick and choose the timing and preferred forum for their arguments.” Whole
+
+Woman’s Health v. Jackson, 595 U.S. 30, 49 (2021). Because Baby Nicholas does not
+
+plausibly face an Article III injury that is imminent or traceable, he may not sue
+
+Defendants over the RHA through this action.
+
+
+
+
+                                        42
+                            CONCLUSION
+
+Accordingly, we conclude that:
+
+      1.    A next friend need not demonstrate a “significant relationship”
+
+      with the real party she seeks to represent under Federal Rule of Civil
+
+      Procedure 17(c)(2). The district court therefore abused its discretion
+
+      in denying Doe’s next friend motion on this ground.
+
+      2.    To establish standing, a next friend must identify or otherwise
+
+      describe the real party in interest she seeks to represent. Because Doe
+
+      fails to do so here, she lacks standing to bring claims on behalf of the
+
+      Viable Fetus Class, and the district court was ultimately correct in
+
+      dismissing her claims for lack of standing.
+
+      3.    The post-Dobbs complaint fails to plausibly allege that Baby
+
+      Nicholas’s feared harm is imminent and fairly traceable to the RHA’s
+
+      passage. The district court was thus correct in denying Doe’s motion
+
+      to amend the complaint to add Baby Nicholas’s claims for lack of
+
+      standing.
+
+For these reasons, we AFFIRM the judgment of the district court.
+
+
+
+
+                                  43

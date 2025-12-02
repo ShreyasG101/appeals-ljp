@@ -1,0 +1,41 @@
+{
+  "overall_outcome": "MIXED",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the Vermont Human Rights Commission (VHRC) and its officials in their official capacities are entitled to state sovereign immunity from suit.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found that the VHRC is an arm of the State of Vermont based on funding, state control, statutory structure, and statewide function, and thus is entitled to sovereign immunity."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether Christie and Yang are entitled to federal qualified immunity on Leise\u2019s substantive due process claim regarding the release of the Investigative Report.",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "The court held that Vermont law is ambiguous as to whether the release of the Investigative Report was unlawful, so Christie and Yang did not violate a clearly established federal right and are entitled to qualified immunity."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the district court erred in denying qualified immunity under Vermont law to Christie and Yang on Leise\u2019s state law claims for defamation and invasion of privacy.",
+      "standard_of_review": "de novo",
+      "holding": "DISMISS",
+      "key_reasoning": "The court declined to reach the state qualified immunity issue, remanding for the district court to determine whether to exercise supplemental jurisdiction over the remaining state law claims."
+    }
+  ],
+  "key_precedents": [
+    "Mitchell v. Forsyth, 472 U.S. 511 (1985)",
+    "Harlow v. Fitzgerald, 457 U.S. 800 (1982)",
+    "Leitner v. Westchester Cmty. Coll., 779 F.3d 130 (2d Cir. 2015)",
+    "Ehrlich v. Town of Glastonbury, 348 F.3d 48 (2d Cir. 2003)",
+    "Velez v. Levy, 401 F.3d 75 (2d Cir. 2005)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "UPON DUE CONSIDERATION, IT IS HEREBY ORDERED, ADJUDGED, AND DECREED that the orders of the district court, entered on March 24, 2023 and June 29, 2023, and the judgment of the district court, entered on August 10, 2023, are AFFIRMED as to the dismissal of the claims against the Vermont Human Rights Commission, as well as Kevin Christie and Bor Yang in their official capacities, and REVERSED as to the denial of qualified immunity with respect to the federal substantive due process claim against Christie and Yang in their individual capacities. The appeal is DISMISSED as to the challenge to the district court\u2019s denial of the motion to dismiss with respect to Leise\u2019s state law claims for defamation and invasion of privacy against Christie and Yang. The case is REMANDED for further proceedings consistent with this summary order."
+}

@@ -1,0 +1,39 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court properly applied the extraterritoriality framework from Abitron Austria GmbH v. Hetronic International, Inc. to determine which of Doctor\u2019s Best\u2019s activities were actionable under the Lanham Act.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that the district court correctly isolated the domestic 'use in commerce'\u2014specifically the transport of products bearing the mark within the U.S.\u2014as actionable under the Lanham Act, consistent with Abitron\u2019s two-step framework limiting the Act\u2019s extraterritorial reach."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the district court erred in finding no genuine issue of material fact as to the likelihood of consumer confusion from Doctor\u2019s Best\u2019s domestic conduct.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "Applying the Sleekcraft factors, the court found no evidence of overlapping marketing channels or a strong possibility of expansion into the U.S. market, and thus no likelihood of consumer confusion from the domestic transport of Nature\u2019s Day products."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the district court abused its discretion in denying Nature\u2019s Way\u2019s Rule 56(d) motion to defer summary judgment to permit additional discovery.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found Nature\u2019s Way failed to diligently pursue discovery despite having ample time before the discovery deadline and prior notice of the summary judgment motion, justifying denial of the Rule 56(d) motion."
+    }
+  ],
+  "key_precedents": [
+    "Abitron Austria GmbH v. Hetronic International, Inc., 600 U.S. 412 (2023)",
+    "AMF Inc. v. Sleekcraft Boats, 599 F.2d 341 (9th Cir. 1979)",
+    "Rearden LLC v. Rearden Com., Inc., 683 F.3d 1190 (9th Cir. 2012)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": true,
+    "close_case": false,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "Lanham Act\n\nThe panel affirmed the district court\u2019s summary judgment in favor of Doctor\u2019s Best, Inc., on its claim for a declaratory judgment of non-infringement and on Nature\u2019s Way Products, LLC\u2019s counterclaim for trademark infringement under the Lanham Act.\nNature\u2019s Way owned the U.S. trademark \u201cNature\u2019s Way\u201d for use on its nutritional supplements. Doctor\u2019s Best, a competitor, developed a new line of branded supplements, \u201cNature\u2019s Day,\u201d and sought a U.S. trademark. The \u201cNature\u2019s Day\u201d mark appeared on goods that were manufactured and transported in the United States but were exclusively sold and marketed to consumers abroad.\nAbitron Austria GmbH v. Hetronic International, Inc., 600 U.S. 412 (2023), holds that the trademark infringement provisions of the Lanham Act are not extraterritorial and extend only to claims where the claimed infringing use in commerce is domestic. The panel held that the district court properly applied Abitron\u2019s extraterritoriality framework to determine which of Doctor\u2019s Best\u2019s activities were actionable under the Lanham Act. The only actionable (i.e., domestic) conduct was the U.S. transport of Doctor\u2019s Best\u2019s Nature\u2019s Day products. The panel held that the district court properly applied the Sleekcraft factors in concluding that Nature\u2019s Way could not show a likelihood of consumer confusion as to this conduct. The panel thus agreed with the district court that no rational jury could find that Doctor\u2019s Best\u2019s domestic conduct infringed Nature\u2019s Way\u2019s protected trademarks.\nSpecially concurring, Judge Ikuta wrote that she concurred in the result. She wrote that Doctor\u2019s Best\u2019s transport of Nature\u2019s Day supplements in the United States constituted a domestic use in commerce, and the evidence in the record did not create a genuine issue of material fact as to whether this transport caused a likelihood of domestic confusion. Judge Ikuta wrote that, under Abitron, the court does not consider extraterritorial consumer confusion."
+}

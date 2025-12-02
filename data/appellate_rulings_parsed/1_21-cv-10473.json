@@ -1,0 +1,42 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court properly dismissed all federal constitutional claims (First Amendment, Fourteenth Amendment, \u00a7 1983) for failure to state a claim under Rule 12(b)(6) and (c).",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found that the complaint failed to plausibly allege violations of the First or Fourteenth Amendments, and that the plaintiffs either waived or inadequately briefed their arguments; the district court's dismissal was therefore proper."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the district court properly dismissed state law claims (MCRA, civil conspiracy, defamation) for failure to state a claim.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that the plaintiffs failed to allege facts sufficient to support MCRA, conspiracy, or defamation claims, and that the district court did not err in exercising supplemental jurisdiction to dismiss these claims with prejudice."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the district court abused its discretion in denying leave to amend the complaint as futile.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found no abuse of discretion because plaintiffs failed to specify additional facts that would cure the deficiencies, and had already amended once; further amendment would have been futile."
+    }
+  ],
+  "key_precedents": [
+    "Ocasio-Hern\u00e1ndez v. Fortu\u00f1o-Burset, 640 F.3d 1 (1st Cir. 2011)",
+    "Collins v. Nuzzo, 244 F.3d 246 (1st Cir. 2001)",
+    "DePoutot v. Raffaelly, 424 F.3d 112 (1st Cir. 2005)",
+    "Chongris v. Bd. of Appeals of Andover, 811 F.2d 36 (1st Cir. 1987)",
+    "Aponte-Torres v. Univ. of P.R., 445 F.3d 50 (1st Cir. 2006)",
+    "Snyder v. Collura, 812 F.3d 46 (1st Cir. 2016)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "GELP\u00cd, Circuit Judge. Justin and Jared Brackett own and operate two restaurants in the Town of Harwich, Massachusetts (\"Harwich\"): Ember Pizza, Inc. (\"Ember\") and The Port Restaurant and Bar, Inc. (\"The Port\") (collectively, \"Plaintiffs-Appellants\" or \"Ember and The Port\"). Ember and The Port held liquor and entertainment licenses issued by Harwich. But they allegedly committed a series of violations of Harwich's noise ordinance and Massachusetts COVID-19 restrictions, resulting in suspensions of and restrictions on their permits. In response to these suspensions, Ember and The Port sued Harwich, multiple Harwich officials, and other individuals in federal district court. In their amended complaint (hereinafter, the \"complaint\"), Ember and The Port asserted various federal and state claims. The defendants filed several dispositive motions, which the district court largely granted. When all was said and done, Ember and The Port's claims had all been rejected, and having found that an amendment would be futile, the district court denied Ember and The Port's request for leave to amend their complaint. This appeal followed. We affirm."
+}

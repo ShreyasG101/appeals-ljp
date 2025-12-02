@@ -1,0 +1,28 @@
+{
+  "overall_outcome": "REMAND",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether Connecticut\u2019s wage laws and regulations require employees to be compensated for time spent undergoing mandatory security screenings at their place of employment, and if so, whether a de minimis exception applies.",
+      "standard_of_review": "de novo",
+      "holding": "REMAND",
+      "key_reasoning": "The Second Circuit determined that the question of whether Connecticut law requires compensation for time spent in mandatory security screenings is unsettled and merits certification to the Connecticut Supreme Court. The court reserved decision and certified the question, as well as the applicability of a de minimis exception, to the state high court."
+    }
+  ],
+  "key_precedents": [
+    "Integrity Staffing Solutions, Inc. v. Busk, 574 U.S. 27 (2014)",
+    "Fabrikant v. French, 691 F.3d 193 (2d Cir. 2012)",
+    "Glover v. Bausch & Lomb Inc., 6 F.4th 229 (2d Cir. 2021)",
+    "Williams v. Gen. Nutrition Ctrs., Inc., 166 A.3d 625 (Conn. 2017)",
+    "Sarrazin v. Coastal, Inc., 89 A.3d 841 (Conn. 2014)",
+    "Belgada v. Hy\u2019s Livery Service, Inc., 297 A.3d 199 (Conn. App. Ct. 2023)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "Employees filed a complaint seeking payment of straight-time and overtime wages under Connecticut\u2019s wage laws and regulations for time spent undergoing mandatory security screenings at their place of employment after clocking out. The United States District Court for the District of Connecticut granted summary judgment for the employers and dismissed the employees\u2019 complaint. The employees appealed and subsequently moved to certify a question to the Connecticut Supreme Court.\n\nWe determine nostra sponte that certification to the Connecticut Supreme Court is warranted on the question of whether Connecticut\u2019s wage laws and regulations require employees to be compensated for the time spent going through mandatory security screenings at their place of employment. Additionally, if time spent going through mandatory security screenings is compensable, then we ask the Connecticut Supreme Court to address whether a de minimis exception applies.\n\nQuestions certified. Appellants\u2019 motion to certify is dismissed as moot."
+}

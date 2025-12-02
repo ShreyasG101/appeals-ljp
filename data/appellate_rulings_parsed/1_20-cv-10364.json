@@ -1,0 +1,28 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the plaintiff is a 'prevailing party' entitled to attorney's fees under the Equal Access to Justice Act (EAJA) after a settlement and remand to the agency.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that the plaintiff was not a 'prevailing party' under EAJA because the change in legal relationship was not 'court-ordered,' there was no judicial approval of the merits, and the court did not retain enforcement jurisdiction; thus, attorney's fees were properly denied."
+    }
+  ],
+  "key_precedents": [
+    "Buckhannon Bd. & Care Home, Inc. v. W.V. Dep't of Health & Hum. Res., 532 U.S. 598 (2001)",
+    "Aronov v. Napolitano, 562 F.3d 84 (1st Cir. 2009)",
+    "Hutchinson ex rel. Julien v. Patrick, 636 F.3d 1 (1st Cir. 2011)",
+    "Smith v. Fitchburg Pub. Schs., 401 F.3d 16 (1st Cir. 2005)",
+    "Ge v. USCIS, 20 F.4th 147 (4th Cir. 2021)",
+    "Kokkonen v. Guardian Life Ins. Co. of Am., 511 U.S. 375 (1994)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "Diana Avdeeva appeals from the district court's denial of her motion for attorney's fees. Pursuant to the Equal Access to Justice Act (\"EAJA\"), 28 U.S.C. \u00a7 2412, Avdeeva sought to recover the fees that she incurred in bringing a lawsuit -- which was ultimately settled -- against the United States Citizenship and Immigration Services (\"USCIS\") for its failure to timely adjudicate her application for naturalization within the statutorily mandated period. Concluding that Avdeeva is not a \"prevailing party\" and is thus not entitled to fees under EAJA, we affirm."
+}

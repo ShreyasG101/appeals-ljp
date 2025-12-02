@@ -1,0 +1,1205 @@
+United States Court of Appeals
+                     For the First Circuit
+
+
+No. 24-1705
+
+  STATE TEACHERS RETIREMENT SYSTEM OF OHIO, individually and on
+            behalf of all others similarly situated,
+
+                      Plaintiff, Appellant,
+
+    SHARAN COLEMAN, individually and on behalf of all others
+                       similarly situated,
+
+                           Plaintiff,
+
+                               v.
+
+CHARLES RIVER LABORATORIES INTERNATIONAL, INC.; JAMES C. FOSTER;
+                         DAVID R. SMITH,
+
+                     Defendants, Appellees,
+
+                          FLAVIA PEASE,
+
+                           Defendant.
+
+
+          APPEAL FROM THE UNITED STATES DISTRICT COURT
+               FOR THE DISTRICT OF MASSACHUSETTS
+
+          [Hon. Denise J. Casper, U.S. District Judge]
+
+
+                             Before
+
+                 Montecalvo, Lynch, and Kayatta,
+                         Circuit Judges.
+
+
+     Matthew W.H. Wessler, with whom Thomas Scott-Railton, Gabriel
+E. Chess, Alisa C. Philo, Gupta Wessler LLP, Frederic S. Fox,
+Donald R. Hall, Jeffrey P. Campisi, Pamela A. Mayer, Brandon Fox,
+Carihanna Morrison, Kaplan Fox & Kilsheimer LLP, Edward F. Haber,
+Patrick J. Vallely, and Shapiro Haber & Urmy LLP were on brief,
+for appellant.
+     Charles S. Duggan, with whom David B. Toscano, Luca Marzorati,
+Oliver Kaufman, Davis Polk & Wardwell LLP, Mara Theophila, and
+McDermott Will & Emery LLP were on brief, for appellees.
+
+
+                         August 15, 2025
+            KAYATTA, Circuit Judge.            Lead plaintiff State Teachers
+
+Retirement System of Ohio ("State Teachers") and other investors
+
+of   defendant     Charles    River     Laboratories        International,      Inc.
+
+("Charles    River")     brought    this      securities-fraud       class    action
+
+alleging    that    Charles    River    and     two    of   its   officers    misled
+
+investors    as    to   the   integrity    of    the    overseas     supply    chain
+
+undergirding its supply of long-tailed macaques -- a central part
+
+of the company's business.             Charles River moved to dismiss the
+
+complaint for failure to state a claim.               The district court agreed
+
+that State Teachers had failed to allege false or misleading
+
+statements as well as scienter; thus, without reaching any further
+
+issues, the district court dismissed the action.                    State Teachers
+
+timely appealed.
+
+            For the following reasons, we agree with State Teachers
+
+that   it   plausibly     alleged      that     Charles     River    knowingly    or
+
+recklessly misled investors as to problems lurking in its supply
+
+chain.   We therefore reverse the district court's dismissal of the
+
+complaint as to one set of misleading statements.                   And we remand
+
+for the district court to consider in the first instance whether
+
+State Teachers plausibly alleged that any of its losses were caused
+
+by Charles River's misdirection.
+
+
+
+
+                                       - 3 -
+                                             I.
+
+                                             A.
+
+             "As this case comes to us on a motion to dismiss, we
+
+accept the factual allegations set forth in the amended complaint,"
+
+Constr. Indus. & Laborers Joint Pension Tr. v. Carbonite, Inc., 22
+
+F.4th   1,    4   (1st    Cir.    2021),       and    "disregard    any   conclusory
+
+allegations," Ponsa-Rabell v. Santander Sec. LLC, 35 F.4th 26, 30
+
+n.2 (1st Cir. 2022).             We also consider "documents incorporated
+
+into the complaint by reference."                   Tellabs, Inc. v. Makor Issues
+
+& Rts., Ltd., 551 U.S. 308, 322 (2007).
+
+             Charles River is a global drug-development company that
+
+is   "the    largest     provider      of    outsourced    drug    discovery,   non-
+
+clinical     development,        and    regulated       safety    testing   services
+
+worldwide."       The company derives over 80% of its revenue from two
+
+business segments: providing animals for drug-development research
+
+and safety testing, and conducting that research itself.                    Per U.S.
+
+Food and Drug Administration (FDA) regulations, biologic drug
+
+development typically requires safety testing on live monkeys
+
+("non-human primates," as they are known in the industry). Charles
+
+River is "the largest commercial user of [non-human primates] in
+
+the [United States]."
+
+             One of the most commonly used monkeys for these purposes
+
+is the long-tailed macaque, the international trade of which was
+
+valued at nearly $1.26 billion between 2010 and 2019.                         Before
+
+
+                                            - 4 -
+spring 2020, Charles River relied on Chinese exports for over 60%
+
+of its long-tailed macaque supply.              But when the COVID-19 pandemic
+
+hit, China halted exports of many species of wildlife, and its
+
+"exports of long-tailed macaques to the U.S. declined to zero."
+
+At the same time, also as a result of the pandemic, demand for
+
+Charles River's safety-testing services increased.                    To maintain
+
+its profitability, therefore, Charles River needed to overhaul its
+
+supply chain.
+
+           Toward that end, Charles River rapidly increased exports
+
+from Cambodia.     Charles River obtained at least 2,262 long-tailed
+
+macaques from Envigo Global Services, Inc. ("Envigo") and Orient
+
+BioResource     Center,     Inc.   ("Orient       BioResource"),      which    were
+
+acquired   by    Inotiv,    Inc.   ("Inotiv"),       a   publicly   traded     U.S.
+
+company, on November 5, 2021, and January 27, 2022, respectively.
+
+Envigo   and    Orient    BioResource     "obtained      approximately    60%    of
+
+[their] Cambodia[n] long-tailed macaques from the Vanny Group," a
+
+Hong Kong-based network led by CEO James Lau which bred macaques
+
+in Cambodia and Vietnam for export.             Inotiv's "principal supplier"
+
+of long-tailed macaques was the Vanny Group.
+
+           Charles       River   also    directly     obtained   at    least    512
+
+macaques from a Vietnam-based company that was also part of the
+
+Vanny Group, Nafovanny, a joint venture between another Vanny Group
+
+
+
+
+                                        - 5 -
+subsidiary and the government of Vietnam;1 over 1,000 live macaques
+
+or macaque-based extracts from another Vanny Group subsidiary, KHI
+
+Bioservices Ltd. ("KHI"); at least 956 long-tailed macaques in
+
+2022       from    Florida-based     broker   WorldWide      Primates,    Inc.    ("WW
+
+Primates"); and over 10,000 macaques between 2020 and 2022 from
+
+K.F. (Cambodia) Ltd. ("KF Cambodia"), a Cambodian company that
+
+managed a macaque breeding farm.
+
+                  Between May 7, 2020 and November 2, 2022, Charles River
+
+repeatedly disclosed in filings with the U.S. Securities and
+
+Exchange Commission (SEC) that "limited global supply or regional
+
+restrictions on transportation for certain products may require us
+
+to source products from non-preferred vendors."                       Nevertheless,
+
+Charles       River's      safety-testing     business      "boomed,"    with    stock
+
+prices increasing from $156.56 per share in May 2020 to a high of
+
+$460.21 per share in September 2021.
+
+                  Meanwhile, Cambodia's macaque export boom -- up to an
+
+86%    increase       in   exports    to   the     United   States    from   2019   to
+
+2020 -- was beginning to ring alarm bells at the U.S. Department
+
+of Justice (DOJ) and the U.S. Fish and Wildlife Service (the
+
+"Service").          This is because, put simply, breeding long-tailed
+
+macaques in captivity takes time, thus raising doubts that any
+
+short-term         increase    in    supply   was     entirely   of     captive-bred
+
+
+
+       1    Lau, the Vanny Group CEO, founded Nafovanny.
+
+
+                                           - 6 -
+macaques.   Their gestation period is a full six months; successful
+
+pregnancies typically produce only one baby.             And infant macaques
+
+must stay with their mothers until they are at least two years old
+
+before they are deemed sufficiently mature by medical researchers.
+
+            Supplementing the captive-bred population with wild-
+
+caught   macaques,       however,   is    ill-advised:     Wild    populations
+
+frequently have pathogens that make them unsuitable for medical
+
+research.        And,    most   importantly    for   federal    investigators,
+
+Cambodia outlaws the capture and export of wild macaques due to
+
+the species' vulnerability to extinction.                Accordingly, it is
+
+illegal under international and U.S. law to attempt to import
+
+Cambodian long-tailed macaques caught in the wild.              See Convention
+
+on International Trade in Endangered Species of Wild Fauna and
+
+Flora (CITES) art. IV(2)(b), opened for signature Mar. 3, 1973, 87
+
+Stat.    893,    993     U.N.T.S.   244    (requiring    that     an    exported
+
+"specimen . . . not [be] obtained in contravention of the laws of
+
+th[e] [country of export] for the protection of fauna and flora");
+
+16 U.S.C. § 1538(c) (making it "unlawful for any person . . . to
+
+engage in any trade in any specimens [of wildlife] contrary to the
+
+provisions of the [CITES], or to possess any specimens traded
+
+contrary    to     the    provisions      of   the   [CITES]");    16    U.S.C.
+
+§ 3372(a), (a)(1) (making it "unlawful for any person . . . to
+
+import, export, transport, sell, receive, acquire, or purchase any
+
+fish or wildlife or plant taken, possessed, transported, or sold
+
+
+                                     - 7 -
+in violation of any law, treaty, or regulation of the United
+
+States").
+
+            In 2021 and early 2022, signs of an ongoing federal
+
+investigation became public.       On August 4, 2021, the DOJ issued a
+
+press release disclosing that an Orient BioResource executive had
+
+pled guilty for lying to the Service about "whether he . . .
+
+prepared    or   submitted . . .   any    audits      or    reports   concerning
+
+visits to supplier sites in Cambodia," during what the press
+
+release     called    an    ongoing      "criminal         investigation      into
+
+international trafficking of primates into the United States."
+
+Next, in early 2022, Inotiv disclosed in separate filings with the
+
+SEC that its subsidiaries, Envigo and Orient BioResource, had both
+
+received    grand    jury   subpoenas    from   the    DOJ     related   to   the
+
+importation of non-human primates.          At the time, "investors were
+
+unaware that Inotiv was a material supplier . . . to Charles
+
+River."
+
+            By the fall of 2022, unbeknownst to investors, Charles
+
+River began experiencing supply interruptions.                On September 21,
+
+2022, the Service seized a KF Cambodia shipment of 360 long-tailed
+
+macaques headed to Charles River. See 50 C.F.R. § 14.53(b), (b)(1)
+
+(2025) (authorizing any Service officer to "refuse clearance of
+
+imported or exported wildlife . . . when there are responsible
+
+grounds to believe that," among other things, "[a] [f]ederal law
+
+or regulation has been violated").          The shipment had a reported
+
+
+                                   - 8 -
+value of $3.24 million.          It was the first such seizure of a KF
+
+Cambodia shipment of macaques by the Service.2                    Unaware of the
+
+seizure, analysts still understood Charles River to be in a strong
+
+position;    the      prevailing      understanding        was     that,     as     a
+
+September 29,      2022    report     from    investment    services       company
+
+Jefferies put it, increased demand for macaques had put Charles
+
+River in a "positive" scenario.
+
+            On November 16, 2022, the DOJ unsealed an indictment
+
+alleging the existence of a conspiracy to smuggle long-tailed
+
+macaques into the United States for financial gain, including by
+
+capturing wild macaques, falsifying their export permits, and
+
+exporting them to the United States.            The indictment named Lau as
+
+a defendant, identifying him as the CEO and owner of Vanny HK.                    It
+
+also named five other executives and employees of Vanny HK and
+
+what the indictment identified as Vanny HK's subsidiary, Vanny
+
+Cambodia.       The      indictment    also    charged     several     Cambodian
+
+government officials and two unnamed U.S.-based companies as co-
+
+conspirators, which State Teachers alleges to be Inotiv (or its
+
+subsidiaries)      and    WW   Primates.      The   unsealed     indictment       was
+
+accompanied by a DOJ press release stating that "[m]embers of an
+
+international      primate     smuggling     ring   have   been    charged    with
+
+multiple felonies for their role in bringing wild long-tailed
+
+
+     2  The shipment has since cleared customs, and the related
+investigations have been closed.
+
+
+                                      - 9 -
+macaques      into    the   United       States."     The   press   release     also
+
+identified at least two of the defendants as employees of the Vanny
+
+Group, rather than by the specific subsidiaries that were their
+
+employers.          Several   analyst      reports    discussing    the    indicted
+
+suppliers also referred broadly to "Vanny" rather than specific
+
+subsidiaries.
+
+              The    day    after   the    indictment    was    unsealed,   Inotiv
+
+disclosed in an SEC filing that its "principal supplier" of
+
+macaques was a target of the indictment.                       But at the time,
+
+"investors     were     [still]     unaware    that    Inotiv    was   a   material
+
+supplier . . . of Charles River."                 Nor were investors otherwise
+
+aware that Charles River was possibly buying macaques that came
+
+from the suppliers targeted by the DOJ indictment.
+
+              On November 30, 2022, Charles River filed a disclosure
+
+with the SEC, stating that
+
+              Charles River was not named or referenced in
+              the DOJ proceedings, and the Company does not
+              have any direct supply contracts with the
+              indicted Cambodian supplier. . . . However,
+              in light of the indictment, and subsequent
+              statements made by the Cambodia[n] government,
+              Charles   River   is   operating   under   the
+              expectation that for some time period supply
+              of   Cambodia-sourced   [macaques]   will   be
+              difficult to obtain in the United States.
+
+              On the same day, an analyst interviewed Charles River
+
+CEO   James    C.    Foster    at   an    investor    conference.      During   the
+
+interview, Foster emphasized that Charles River procured most of
+
+
+
+                                         - 10 -
+its   macaques   from   Cambodia   and   noted   the   potential   for   the
+
+indictment to impact supply:
+
+           [W]e have a little bit of a dialogue from
+           government officials who were displeased with
+           the action taken by the DOJ with regard to one
+           of the Cambodian suppliers.      They were, I
+           think,    defensive . . .   about   the   U.S.
+           government saying that things aren't being
+           done well [so] we're concerned about some
+           pushback by the government. . . . [I]n light
+           of this indictment and subsequent statements
+           made   by    the  Cambodian   government,   we
+           anticipate that for some period of time,
+           there's going to be some disruption and
+           difficulty in getting [macaques] into the
+           [United States].
+
+           However, Foster went on to assure investors that the
+
+supply challenges Charles River faced did not include one of its
+
+suppliers being indicted, repeating the assurance from Charles
+
+River's SEC disclosure that "we don't have any direct contacts
+
+with th[e] [indicted] supplier."         He also elaborated:
+
+           [W]e work really hard with our supplier due
+           diligence in terms of their management
+           practices, veterinary practices, shipping
+           practices, husbandry practices to ensure the
+           quality of the supplier relationships and to
+           ensure that what we do is fully compliant with
+           U.S. and international regulations. . . .
+           [The f]acility that we work with in Cambodia
+           is [an] extremely high quality one, all the
+           ones that we work with are high quality
+           ones. . . .    So if we don't have undue
+           government -- Cambodian government intrusion
+           and preventing that from happening, it's
+           possible we'll be fine. . . . [The indicted
+           supplier is] not a supplier of ours. It's not
+           directed to us. . . .    So [it] has no real
+           short-term impact.
+
+
+
+                                   - 11 -
+Foster emphasized that although "some folks" would be "hurt" by
+
+"the fact that one of the big suppliers from Cambodia . . . is
+
+unable to ship," that supplier was "not a supplier of [Charles
+
+River's]."
+
+          Despite these assurances, the problems with Charles
+
+River's supply chain continued to accelerate.    In December 2022
+
+and January 2023, four additional KF Cambodia shipments headed to
+
+Charles River were seized at the border; in total, and together
+
+with the September 2022 shipment, the Service refused entry to the
+
+United States of over $17.4 million of macaques headed to Charles
+
+River -- nearly 8% of Charles River's total 2022 supply of non-
+
+human primates.
+
+          On January 12, 2023, Jefferies published a research
+
+report that drew on a combination of "public data sources,"
+
+"channel checks," "industry conversations," and a tweet from a
+
+Cambodian official.   The report stated, in relevant part,
+
+          Our previous [macaque] supply chain work
+          concluded    [Charles    River]'s    [macaque]
+          business was in a privileged position and
+          controlled its own destiny. The indictment of
+          Vanny and other Cambodian officials alters
+          that viewpoint as we estimate ~24% of [Charles
+          River's macaque] usage relies on Vanny supply
+          (likely through an indirect relationship), a
+          perspective        underappreciated         by
+          investors. . . . After further investigation
+          we believe [Charles River] received 20%+ of
+          its [macaque] supply from Vanny in '21 and
+          '22, through an indirect relationship.
+
+
+
+
+                              - 12 -
+At the close of trading that day, after unusually heavy trading
+
+volume, Charles River's stock declined from $246.94 to $232.25 per
+
+share, a decline of approximately 6%.
+
+            On   February 22,    2023,    Charles    River    issued   a   press
+
+release disclosing that it had received a grand jury subpoena in
+
+an "investigation relat[ing] specifically to several shipments of
+
+[macaques] received by Charles River from its Cambodia supplier"
+
+and that it was "voluntarily suspend[ing] [macaque] shipments from
+
+Cambodia at this time."         On the same day, Charles River filed a
+
+disclosure form with the SEC, stating that it had been "informed
+
+by the [DOJ] that . . . it had commenced an investigation into
+
+[Charles     River's]   conduct     regarding       several     shipments     of
+
+[macaques] from Cambodia." At the close of trading that day, after
+
+unusually    heavy   trading    volume,    Charles    River's    stock     price
+
+declined from $243.60 to $219.09 per share: a decline of over 10%.
+
+            On March 15, 2023, Foster told investors on a conference
+
+call that Charles River had "historically" used suppliers "that
+
+get animals from wherever," though they "prefer[red] not to use
+
+them."     At the close of trading that day, after unusually heavy
+
+trading volume, Charles River's stock price declined from $205.02
+
+per share to $194.90 per share: a decline of approximately 5%.
+
+                                     B.
+
+            On May 19, 2023, an individual investor filed a class
+
+action against Charles River, Foster, and David. R. Smith, CFO of
+
+
+                                   - 13 -
+Charles River from August 2015 to May 2022.             On November 14 of
+
+that year, State Teachers, as lead plaintiff, filed an amended
+
+complaint, seeking relief on behalf of a class of all "persons and
+
+entities    that   purchased   or   otherwise     acquired    Charles    River
+
+securities during the period May 7, 2020 and March 15, 2023,
+
+inclusive" (the "class period").3            The complaint seeks recovery
+
+under the Securities Exchange Act of 1934 (the "Act"), codified at
+
+15 U.S.C. § 78j(b), as implemented by SEC Rule 10b-5, codified at
+
+17 C.F.R. § 10b-5 (2025) (together, the "§ 10b claim"). Plaintiffs
+
+also sought to hold Foster and Smith derivatively liable under
+
+§ 20(a) of the Act, codified at 15 U.S.C. § 78t(a) (the "§ 20(a)
+
+claim").
+
+            Defendants moved to dismiss the action under Federal
+
+Rule of Civil Procedure 12(b)(6).            On July 1, 2024, the district
+
+court granted their motion.     It first found that, in context, none
+
+of   Charles   River's   statements    or     disclosures    alleged    in   the
+
+complaint were false or misleading.              It next found that the
+
+complaint did not adequately allege scienter on the part of Charles
+
+River.     The district court did not reach the question of loss
+
+causation.     And because it found that the complaint did not
+
+
+      3 On May 7, 2020, Charles River disclosed its financial
+results for the quarter ending March 28, 2020, and issued a press
+release stating that it "implemented measures that are focused on
+maintaining . . . the continuity of our operations [and]
+sustaining our solid financial position" in the face of the COVID-
+19 pandemic.
+
+
+                                    - 14 -
+adequately plead a § 10(b) violation, it therefore found that the
+
+complaint also did not adequately state a claim for derivative
+
+liability under § 20(a).        State Teachers timely appealed.
+
+                                      II.
+
+           Section 10(b) of the Act makes it "unlawful for any
+
+person . . .    [t]o    use     or   employ . . .    any   manipulative     or
+
+deceptive device" in, among other things, the sale of registered
+
+securities.      15    U.S.C.    § 78j(b).      Accompanying       regulations
+
+"implement[] that prohibition," Carbonite, 22 F.4th at 7, making
+
+it unlawful to "make any untrue statement of a material fact or to
+
+omit to state a material fact necessary in order to make the
+
+statements made, in the light of the circumstances under which
+
+they were made, not misleading," 17 C.F.R. § 240.10b-5(b) (2025).
+
+A § 10(b) claim must allege "(1) a material misrepresentation or
+
+omission   by   the    defendant[s];    (2) scienter;      (3) a    connection
+
+between the misrepresentation or omission and the purchase or sale
+
+of   a   security;     (4) reliance     upon   the   misrepresentation     or
+
+omission; (5) economic loss; and (6) loss causation."                Karth v.
+
+Keryx Biopharmaceuticals, Inc., 6 F.4th 123, 135 (1st Cir. 2021)
+
+(alteration in original) (quoting Amgen Inc. v. Conn. Ret. Plans
+
+& Tr. Funds, 568 U.S. 455, 460–61 (2013)).
+
+           To survive a Rule 12(b)(6) motion to dismiss, a § 10(b)
+
+complaint must not only "state a claim to relief that is plausible
+
+on its face," Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570 (2007),
+
+
+                                     - 15 -
+but also "state with particularity the circumstances constituting
+
+fraud," Fed. R. Civ. P. 9(b).     In addition, the Private Securities
+
+Litigation Reform Act (PSLRA) mandates that the complaint must
+
+"specify each statement alleged to have been misleading, [and] the
+
+reason or reasons why the statement is misleading."            15 U.S.C.
+
+§ 78u-4(b)(1).    The PSLRA further requires that a securities-fraud
+
+complaint "state with particularity facts giving rise to a strong
+
+inference that the defendant acted with the required state of
+
+mind."   Id. § 78u-4(b)(2)(A).
+
+          "We review de novo the district court's dismissal of a
+
+securities fraud complaint for failure to state a claim under
+
+Rule 12(b)(6)."      Mehta v. Ocular Therapeutix, Inc., 955 F.3d 194,
+
+205 (1st Cir. 2020).     "In so doing, we accept well-pleaded factual
+
+allegations in the complaint as true and, while cognizant of the
+
+requirements   for    pleading   scienter,   we   view   all   reasonable
+
+inferences in the plaintiff's favor."        Carbonite, 22 F.4th at 6.
+
+                                  III.
+
+          On appeal, State Teachers contends that its complaint
+
+adequately alleges that Charles River's statements to investors
+
+were false and misleading and that those statements were made
+
+knowingly or recklessly as to their misleading nature.         We address
+
+each of these arguments in turn.
+
+
+
+
+                                 - 16 -
+                                          A.
+
+              To successfully plead that defendants made false or
+
+misleading statements, plaintiffs must allege statements that
+
+"were false or misleading at the time they were made."                     City of
+
+Mia. Fire Fighters' and Police Officers' Ret. Tr. v. CVS Health
+
+Corp.,   46    F.4th    22,   35   (1st    Cir.   2022)    (citation      omitted).
+
+"[W]hether a statement is misleading depends on the perspective of
+
+a reasonable investor."            Karth, 6 F.4th at 135 (alteration in
+
+original)     (quoting    Omnicare,       Inc.    v.    Laborers   Dist.    Council
+
+Constr. Indus. Pension Fund, 575 U.S. 175, 186 (2015)).                   And "[w]e
+
+consider the entirety of the relevant facts available at the time
+
+of the allegedly misleading statement," focusing on the "total mix
+
+of information" available to investors at the time.                  Id. at 135–
+
+36.
+
+              State    Teachers    first       argues    that   Charles     River's
+
+disclosures and Foster's statements to investors on November 30,
+
+2022, were false and misleading because they conveyed that Charles
+
+River was in a privileged position, with its supply chain not
+
+impacted by the federal indictment of a raft of Vanny Group
+
+officials -- when in fact key sources of Charles River's macaques
+
+were targeted by the indictment.               Second, State Teachers argues
+
+that Charles River's repeated statements in SEC disclosures over
+
+the class period that it "may" be required to source macaques from
+
+"non-preferred vendors" were false and misleading because Charles
+
+
+                                     - 17 -
+River was already relying on suppliers subject to law-enforcement
+
+scrutiny. As explained further below, we agree with State Teachers
+
+on the first theory but not the second.
+
+                                 1.
+
+           To start, we think Foster's November 2022 comments to
+
+investors clearly conveyed to any reasonable investor that Charles
+
+River's supply chain was untouched by the federal investigation
+
+and indictment.   Foster point-blank told investors the indictment
+
+would "ha[ve] no real short-term impact."    He repeatedly assured
+
+them that the "[indicted] supplier" was "not a supplier of" Charles
+
+River's.   True, Foster averred, the fact that employees of a major
+
+supplier were indicted was "going to hurt some folks."        But,
+
+according to Foster, "all" the "facilit[ies]" Charles River worked
+
+with in Cambodia were "extremely high quality one[s],"4 clearly
+
+messaging that Charles River was not "some folks."
+
+           These statements, taken together and in context as part
+
+of an interview with an analyst, would leave a reasonable investor
+
+with the impression that Charles River's supply chain did not
+
+include suppliers mentioned in or implicated by the DOJ indictment.
+
+
+     4  Contrary to Charles River's suggestion, we view this
+statement, in context, as clearly comparative and therefore
+specific enough to be actionable. See Clorox Co. P.R. v. Proctor
+& Gamble Com. Co., 228 F.3d 24, 39 (1st Cir. 2009) (holding that
+a company's statement that "Whiter is not possible" was specific
+enough to be actionable, because, in context, it "invite[d]
+consumers to compare" the company's product with products
+containing bleach).
+
+
+                              - 18 -
+See Zhou v. Desktop Metal, Inc., 120 F.4th 278, 293 (1st Cir. 2024)
+
+("We evaluate the immediate context of each statement -- namely,
+
+the balance of what was said on the particular occasion, and the
+
+immediate circumstances in which the particular statement was
+
+made." (cleaned up)).
+
+           Contrary to what Foster conveyed to investors, though,
+
+one of Charles River's suppliers Inotiv had already publicly
+
+declared that its own "principal supplier" was a target of the
+
+indictment, meaning Charles River was almost certainly importing
+
+macaques   from   that    supplier,    albeit   through    an   intermediary,
+
+despite assuring investors it was not.              This single, well-pled
+
+allegation   directly     undermines     Foster's   representations     about
+
+Charles River's supply chain.         Adding fuel to the fire, a shipment
+
+of macaques headed to Charles River from a different supplier had
+
+been seized two months prior.5           And finally, Charles River had
+
+direct     supply        relationships      with     two        Vanny   Group
+
+
+
+
+     5  In its briefing, Charles River argues that the complaint
+lacks allegations linking this seizure to the indictment that
+became public in November 2022.      And in a Rule 28(j) letter,
+Charles River brings to our attention that, as it later turned
+out, its seized shipments were ultimately cleared, and any related
+investigations were closed. But Foster's comments were misleading
+regardless: Reasonable investors would understand Charles River's
+supply to be much more at risk than Foster's comments indicated if
+they knew that, in the context of a federal indictment of companies
+from which Charles River was likely obtaining macaques, a shipment
+from another one of Charles River's suppliers had been seized at
+the border.
+
+
+                                  - 19 -
+subsidiaries -- companies in the same network of suppliers as those
+
+named in the indictment.
+
+          As    Charles   River    notes,   "the   mere   possession   of
+
+material, nonpublic information does not create a duty to disclose
+
+it."   Hill v. Gozani, 638 F.3d 40, 57 (1st Cir. 2011) (cleaned
+
+up).   But we have held that a defendant will be liable for "half-
+
+truths [that] paint[] a materially false picture in what they say
+
+because of what they omit."       SEC v. Johnston, 986 F.3d 63, 72 (1st
+
+Cir. 2021).    Thus, where Foster chose to address the impact of the
+
+indictment head-on, he could not do so in a manner that omitted
+
+key information about Charles River's supply chain that would have
+
+cast its risk of disruption from the federal investigation in an
+
+entirely different light.     See Meyer v. Jinkosolar Holdings Co.,
+
+761 F.3d 245, 250 (2d Cir. 2014) ("Even when there is no existing
+
+independent duty to disclose information, once a company speaks on
+
+an issue or topic, there is a duty to tell the whole truth.").
+
+          Charles River suggests that its assurances concerning
+
+its "supplier" should be read as referring only to its "direct"
+
+suppliers because of its reference elsewhere to its "direct" supply
+
+contracts.     For several reasons, we doubt that a reasonable
+
+investor would infer such a qualification of Charles River's
+
+assurances.     First,    referring   specifically   to   direct   supply
+
+contracts in one part of a statement, while referring to suppliers
+
+without limitation in another, implies that the latter use of the
+
+
+                                  - 20 -
+term "supplier" is unlimited.    Additionally, context and relevance
+
+are important here.     The issue that Foster's comments addressed
+
+and that was relevant to investors was Charles River's supply
+
+chain, including both direct and indirect suppliers.         And as to
+
+that obvious subject of the day, Foster's remarks read less like
+
+a truthful disclosure and much more like a way to convey a false
+
+message with partial disclosures and too-clever wordsmithing.6
+
+           Charles River's final rejoinder is that any misleading
+
+omissions were cured by Foster's statement that he "anticipate[d]
+
+that for some period of time, there[ was] going to be some
+
+disruption and difficulty in getting [macaques] into the [United
+
+States]," and a similar warning in Charles River's disclosures
+
+that same day, that "for some time period supply . . . [would] be
+
+difficult to obtain in the United States."       But these statements
+
+simply   acknowledged   that   the   industry   --   including   Charles
+
+River -- faced challenges such as "pushback" by the Cambodian
+
+government as well as general supply disruption.         Excluded from
+
+these disclosures was any suggestion that Charles River faced an
+
+
+
+
+     6  We are not, however, convinced by plaintiffs' argument that
+the indictment of employees of two Vanny Group subsidiaries with
+which Charles River did not have direct supply contracts would be
+understood by any reasonable investor to also indict Vanny Group
+subsidiaries with which Charles River did have direct contracts.
+As a result, we leave intact the district court's finding that
+Foster and Charles River's statements about its "direct" suppliers
+were, by themselves, literally true, as far as they went.
+
+
+                                - 21 -
+additional      and      more    direct   challenge:       the    federal      government
+
+indicting a source of its macaques.
+
+              In     sum,   we   conclude       that    State    Teachers      adequately
+
+alleged that Charles River's and Foster's November 2022 statements
+
+misled investors into thinking Charles River's supply chain was
+
+not implicated in the federal scrutiny of the Vanny Group.                             State
+
+Teachers      has    therefore      plausibly      alleged       specific     misleading
+
+statements on the part of defendants and "the reason or reasons
+
+why the[y] [were] misleading," as required to sustain its § 10(b)
+
+claim.       15 U.S.C. § 78u-4(b)(1)(B).
+
+                                            2.
+
+              State Teachers also argues that Charles River's repeated
+
+disclosures from 2020 to 2022 that it "may" have to rely on "non-
+
+preferred vendors" were misleading because, when Charles River
+
+made those statements, it was already reliant on vendors that faced
+
+"law       enforcement      scrutiny."          However,    we        find   insufficient
+
+allegations in the complaint to establish that the term "non-
+
+preferred vendors" meant, and would have been understood to mean,
+
+vendors that faced "law enforcement scrutiny," as State Teachers
+
+claims.        As    a   result,    we    leave    intact       the    district   court's
+
+rejection of this theory as an independent and sufficient basis
+
+for    a    claim.       Whether    and    to    what    extent       evidence    of   such
+
+statements may be independently relevant to the adjudication of
+
+the remaining claim, we leave to the district court.
+
+
+                                          - 22 -
+                                            B.
+
+           State Teachers also challenges the district court's
+
+determination that Charles River lacked scienter, "a mental state
+
+embracing intent to deceive, manipulate, or defraud."                           Tellabs,
+
+551 U.S. at 319 (citation omitted).                       To establish scienter,
+
+plaintiffs    must    "show       either    that    the    defendants      consciously
+
+intended to defraud, or that they acted with a high degree of
+
+recklessness."       Mehta, 955 F.3d at 206 (citation omitted).                   And to
+
+meet the requirements of the PSLRA, the pleaded facts must give
+
+rise to a "strong" inference of scienter. 15 U.S.C. § 78u-4(b)(2).
+
+"Strong"   need      not     be   "irrefutable,"          the    Supreme      Court   has
+
+emphasized, but must be "cogent and at least as compelling as any
+
+opposing   inference        one     could   draw    from        the   facts    alleged."
+
+Tellabs, 551 U.S. at 324.             "The inquiry . . . is whether all of
+
+the facts alleged, taken collectively, give rise to a strong
+
+inference of scienter, not whether any individual allegation,
+
+scrutinized in isolation, meets that standard."                       Id. at 322–23.
+
+           As this case now stands, and assuming the allegations of
+
+the   complaint      are    true,    scienter      flows        inexorably     from   our
+
+conclusions    that        Charles    River      told   its     investors      that   its
+
+suppliers were not implicated in the federal proceeding when it
+
+
+
+
+                                       - 23 -
+knew that its supply was coming from the entities subject to
+
+investigation, seizure, and indictment.7
+
+           None of Charles River's arguments to the contrary are
+
+convincing. First, Charles River argues that it reasonably thought
+
+that the September 2022 seizure of one of its macaque shipments
+
+did not mean that future shipments were at risk of seizure.           But
+
+such a view -- even apart from its implausibility -- does not
+
+excuse sending the message to investors that the suppliers affected
+
+by   the   indictment    were    "not . . .   supplier[s]   of   [Charles
+
+River's]."     Second, Charles River prefers to focus on its and
+
+Foster's statements that "we don't have any direct contacts with
+
+that supplier."      But we think the addition of the word "direct" in
+
+some statements only strengthens the inference of scienter:           Such
+
+careful phrasing smacks of a "cleverly crafted" way of leading
+
+investors astray.       Johnston, 986 F.3d at 74.        Finally, as for
+
+Foster's and Charles River's statements warning investors that
+
+Charles      River    expected     supply     to   "be    difficult    to
+
+obtain" -- referring in context to possible pushback from the
+
+Cambodian government -- we do not think telling investors of a
+
+possible risk faced by the industry gave Charles River a free pass
+
+
+
+     7  We need not address State Teachers' scienter arguments as
+to Charles River's disclosures about potential use of "non-
+preferred vendors," since we do not find merit in State Teacher's
+arguments that those statements were themselves false or
+misleading.
+
+
+                                  - 24 -
+to deceive investors about a specific risk faced by Charles River
+
+itself.
+
+            For the foregoing reasons, we agree with State Teachers
+
+that its complaint "state[s] with particularity facts giving rise
+
+to a strong inference that [Charles River] acted with the required
+
+state of mind."    15 U.S.C. § 78u-4(b)(2)(A).8
+
+                                  C.
+
+            On appeal, Charles River asks us to reach the issue of
+
+loss causation and affirm the district court on that ground, which
+
+the district court did not reach despite briefing on the issue
+
+below.    However, the issue of whether plaintiffs in this case have
+
+adequately alleged "a corrective disclosure . . . associated with
+
+a drop in share price" is complex.     Mass. Ret. Sys. v. CVS Caremark
+
+Corp., 716 F.3d 229, 238 (1st Cir. 2013).     We therefore decline to
+
+exercise our discretion to reach this issue, see Downing v. Globe
+
+Direct LLC, 682 F.3d 18, 22 (1st Cir. 2012) (noting that "because
+
+the parties fully briefed the issue before the district court, we
+
+have discretion to" decide it), and instead leave it to the
+
+district court to consider in the first instance.
+
+
+
+
+     8  We leave it to the district court to consider in the first
+instance whether -- given this opinion -- it should revive
+plaintiffs' derivative § 20(a) claim.
+
+
+                                - 25 -
+                                 IV.
+
+           We conclude that State Teachers plausibly alleged that
+
+Charles River knowingly misled investors based on its November
+
+2022   statements.   We   therefore    reverse   the   district   court's
+
+decision in that regard.    And we otherwise vacate and remand for
+
+further proceedings consistent with this opinion. Each party shall
+
+bear its own costs on appeal.
+
+
+
+
+                                - 26 -

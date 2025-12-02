@@ -1,0 +1,72 @@
+{
+  "overall_outcome": "MIXED",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether \u00a7 10(b) of the Securities Exchange Act applies to claims involving American Depository Shares (ADS) of a foreign company listed exclusively on a U.S. exchange.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that \u00a7 10(b) applies because the ADS were listed and traded exclusively on a domestic exchange, falling squarely within Morrison\u2019s first prong."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the plaintiff adequately pleaded actionable material misstatements or omissions in the proxy materials related to the freeze-out merger.",
+      "standard_of_review": "de novo",
+      "holding": "MIXED",
+      "key_reasoning": "The court held that some statements (about projections, fairness, and summary of data) were actionable, while others (about game revenue grouping and MIIM revenue omission) were not."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the plaintiff adequately pleaded scienter for the alleged securities fraud.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found scienter adequately pleaded based on the motive and opportunity of conflicted directors to deflate the merger price for personal gain, and that their scienter could be imputed to the company."
+    },
+    {
+      "issue_id": 4,
+      "description": "Whether the plaintiff adequately pleaded reliance, including the applicability of the fraud-on-the-market presumption.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that the fraud-on-the-market presumption was available because the plaintiff relied on the market price in deciding not to exercise appraisal rights."
+    },
+    {
+      "issue_id": 5,
+      "description": "Whether the plaintiff adequately pleaded loss causation for the alleged securities fraud.",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "The court disagreed with the district court and held that the plaintiff sufficiently pleaded loss causation by alleging he was induced to forfeit appraisal rights by the misstatements."
+    },
+    {
+      "issue_id": 6,
+      "description": "Whether the district court erred in dismissing the control person claims under \u00a7 20(a).",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "Because the court found a primary violation adequately pleaded, the control person claims should be reinstated."
+    },
+    {
+      "issue_id": 7,
+      "description": "Whether the district court abused its discretion by denying leave to amend to add Altimeo Asset Management as a named plaintiff.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "REMAND",
+      "key_reasoning": "The court vacated and remanded because the district court denied leave to amend without explanation, which is disfavored."
+    }
+  ],
+  "key_precedents": [
+    "Morrison v. National Australia Bank Ltd., 561 U.S. 247 (2010)",
+    "City of Pontiac Policemen\u2019s & Firemen\u2019s Retirement System v. UBS AG, 752 F.3d 173 (2d Cir. 2014)",
+    "Basic Inc. v. Levinson, 485 U.S. 224 (1988)",
+    "Virginia Bankshares, Inc. v. Sandberg, 501 U.S. 1083 (1991)",
+    "Wilson v. Great American Indus., Inc., 979 F.2d 924 (2d Cir. 1992)",
+    "Grace v. Rosenstock, 228 F.3d 40 (2d Cir. 2000)",
+    "Ashcroft v. Iqbal, 556 U.S. 662 (2009)",
+    "Tellabs, Inc. v. Makor Issues & Rights, Ltd., 551 U.S. 308 (2007)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": true,
+  "summary_text": "Plaintiff-Appellant David Monk challenges the district court\u2019s dismissal of his \u00a7 10(b) securities fraud case for failure to state a claim. Monk alleges that materially misleading proxy materials issued by Shanda Games Limited (\u201cShanda\u201d) as part of a freeze-out merger caused him to accept the merger price instead of exercising his appraisal rights. The United States District Court for the Southern District of New York (Carter, J.) dismissed Monk\u2019s claims on the ground that he failed properly to allege loss causation. We hold that the district court erred in dismissing Monk\u2019s claims. We agree with the district court that City of Pontiac Policemen\u2019s and Firemen\u2019s Retirement System v. UBS AG, 752 F.3d 173 (2d Cir. 2014), created a limited exception (for foreign securities purchased on foreign exchanges) to the general rule, set forth in Morrison v. National Australia Bank Ltd., 561 U.S. 247 (2010), that \u201ctransactions in securities listed on a domestic exchange\u201d fall within the scope of \u00a7 10(b), as this case does. City of Pontiac, 752 F.3d at 179-181 (quoting Morrison, 561 U.S. at 267). We further conclude that Monk has adequately alleged material misstatements; that federal law governs the adverse interest exception to imputation for scienter in \u00a7 10(b) cases; and that the scienter of the conflicted directors\u2014who had the motive and opportunity to deflate the merger price for their own financial gain\u2014can be imputed to the company. We also agree with the district court that Monk may invoke the rebuttable presumption of fraud-on-the-market to satisfy transaction causation because he relied on the market price to decide not to exercise his appraisal rights. We disagree with the district court\u2019s conclusion with respect to certain misrepresentations and on loss causation and hold that Monk adequately pleaded loss causation. We therefore AFFIRM in part and VACATE in part the judgment of the district court."
+}

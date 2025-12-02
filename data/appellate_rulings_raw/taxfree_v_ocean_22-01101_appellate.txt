@@ -1,0 +1,1669 @@
+United States Court of Appeals
+                     For the First Circuit
+
+
+No. 24-1654
+
+  TAX-FREE FIXED INCOME FUND FOR PUERTO RICO RESIDENTS, INC.;
+ TAX-FREE FIXED INCOME FUND II FOR PUERTO RICO RESIDENTS, INC.;
+TAX-FREE FIXED INCOME FUND III FOR PUERTO RICO RESIDENTS, INC.;
+ TAX-FREE FIXED INCOME FUND IV FOR PUERTO RICO RESIDENTS, INC.;
+ TAX-FREE FIXED INCOME FUND V FOR PUERTO RICO RESIDENTS, INC.;
+PUERTO RICO RESIDENTS TAX-FREE FUND, INC.; PUERTO RICO RESIDENTS
+TAX-FREE FUND IV, INC.; PUERTO RICO RESIDENTS TAX-FREE FUND VI,
+      INC.; TAX-FREE FUND FOR PUERTO RICO RESIDENTS, INC.,
+
+                     Plaintiffs, Appellants,
+
+                               v.
+
+  OCEAN CAPITAL LLC; WILLIAM HEATH HAWK; JOSÉ R. IZQUIERDO II;
+ BRENT D. ROSENTHAL; ROXANA CRUZ-RIVERA; ETHAN DANIAL; MOJDEH L.
+  KHAGHAN; PRCE MANAGEMENT LLC, BENJAMIN T. EILER; VASILEIOS A.
+  SFYRIS; FRANCISCO GONZALEZ; GUSTAVO NEVAREZ TORRES; ALEJANDRO
+  ACOSTA RIVERA; HONNE II, LP; MEIR HURWITZ; MARIO J. MONTALVO;
+      JOSE M. PEREZ-GUTIERREZ; RAD INVESTMENTS, LLC; SANZAM
+  INVESTMENTS LLC; JUAN E. SOTO ALVARADO; SANDRA CALDERON; THE
+             ESTATE OF JOSE HIDALGO; AVRAHAM ZEINES,
+
+                     Defendants, Appellees.
+
+
+          APPEAL FROM THE UNITED STATES DISTRICT COURT
+                FOR THE DISTRICT OF PUERTO RICO
+
+        [Hon. Gina R. Méndez-Miró, U.S. District Judge]
+       [Hon. Giselle López-Soler, U.S. Magistrate Judge]
+
+
+                             Before
+
+        Gelpí, Montecalvo, and Rikelman, Circuit Judges.
+
+
+    Eamon P. Joyce, with whom Gustavo J. Viviani Meléndez, Alicia
+I. Lavergne Ramírez, Sanchez/LRV LLC, Arturo Díaz Angueira,
+Maraliz Vázquez Marrero, Díaz & Vázquez PSC, Andrew W. Stern, Alex
+J. Kaplan, Charlotte K. Newell, Robert M. Garson, Tyler J. Domino,
+Sidley Austin LLP were on brief, for appellants.
+
+     Michael Lloyd Charlson, with whom Harold D. Vicente Colón,
+Vicente & Cuebas, Meghan Natenson, Matthew X. Etchemendy, Marisa
+Antonelli, Vinson & Elkins LLP were on brief, for appellees Ocean
+Capital LLC, PRCE Management LLC, William Heath Hawk, Benjamin T.
+Eiler, Vasileios A. Syfris, José R. Izquierdo II, Brent D.
+Rosenthal, Roxana Cruz-Rivera, Ethan Danial, and Mojdeh L.
+Khaghan.
+
+     Heriberto López-Guzmán for appellees Francisco González,
+Alejandro Acosta-Rivera, Honne II, LLP, Meir Hurwitz, Mario J.
+Montalvo, Sanzam Investments LLC, Sandra Calderon, The Estate of
+José Hidalgo, Avraham Zeines, and RAD Investments, LLC.
+
+
+                          May 12, 2025
+           GELPÍ,    Circuit      Judge.          Plaintiffs-Appellants,
+
+representing nine closed-end mutual funds              (collectively, "the
+
+Funds"),1 sued Ocean Capital LLC and several individuals and firms
+
+(together,   "Defendants-Appellees")2      for     allegedly     committing
+
+securities   violations.       Specifically,     the   Funds   allege   that
+
+Defendants-Appellees misled their shareholders by failing to make
+
+complete   and   accurate   disclosures,   violating      Sections   13(d),
+
+14(a), and 20(a) of the Securities and Exchange Act of 1934 ("the
+
+Exchange Act"), 15 U.S.C. § 78a et seq., and other applicable rules
+
+of the Securities and Exchange Commission ("SEC").3            The district
+
+
+     1 Plaintiffs-Appellants represent the following mutual funds:
+Tax-Free Fixed Income Fund for Puerto Rico Residents, Inc. ("Fund
+I"); Tax-Free Fixed Income Fund II for Puerto Rico Residents, Inc.
+("Fund II"); Tax-Free Fixed Income Fund III for Puerto Rico
+Residents, Inc. ("Fund III"); Tax-Free Fixed Income Fund IV for
+Puerto Rico Residents, Inc. ("Fund IV"); Tax-Free Fixed Income
+Fund V for Puerto Rico Residents, Inc. ("Fund V"); Puerto Rico
+Residents Tax-Free Fund, Inc. ("PRRTFF I"); Puerto Rico Residents
+Tax-Free Fund IV, Inc. ("PRRTFF IV"); Puerto Rico Residents
+Tax-Free Fund VI, Inc. ("PRRTFF VI"); and Tax-Free Fund for Puerto
+Rico Residents ("TFF I").
+     2  The following individuals and firms are henceforth
+collectively referred to as Defendants-Appellees: Ocean Capital
+LLC; William H. Hawk; José R. Izquierdo II; Brent D. Rosenthal;
+Roxana Cruz-Rivera; Ethan Danial; Mojdeh L. Khaghan; PRCE
+Management LLC; Benjamin T. Eiler; Vasileios A. Sfyris; Francisco
+Gonzalez; Gustavo Nevarez Torres; Alejandro Acosta Rivera; Honne
+II, LP; Meir Hurwitz; Mario J. Montalvo; Jose M. Perez-Gutierrez;
+RAD Investments, LLC; Sanzam Investments LLC; Juan E. Soto
+Alvarado; Sandra Calderon; The Estate of Jose Hidalgo; and Avraham
+Zeines.
+     3 The Funds specifically allege that Defendants-Appellees
+violated Sections 78m(d), 78n(a), and 78t(a) of the Exchange Act
+and SEC Rules 13d-1, 13d-101, and 14a-9.
+
+
+                                  - 3 -
+court granted Defendants-Appellees' motions for judgment on the
+
+pleadings and to dismiss.         The Funds timely appealed.
+
+            For the reasons explained below, we affirm.
+
+                                 I. BACKGROUND
+
+            At its heart, this case is about a dispute over the
+
+sufficiency and accuracy of Defendants-Appellees' disclosures and
+
+proxy materials.        We begin by recounting the facts of the case, as
+
+pled in the amended complaint, followed by the procedural history.
+
+In reciting the facts of the case, we "construe the [amended]
+
+complaint liberally, treating all well-pleaded facts as true and
+
+drawing    all    reasonable    inferences     in   favor   of   the   [Funds]."
+
+Viqueira v. First Bank, 140 F.3d 12, 16 (1st Cir. 1998) (applying
+
+the same standard when evaluating motions to dismiss under Rules
+
+12(b)(1) and 12(b)(6)).         However, "[w]e shall summarize only those
+
+facts and prior proceedings believed necessary to an understanding
+
+of the issues raised on appeal."               New England Anti-Vivisection
+
+Soc., Inc. v. U.S. Surgical Corp., 889 F.2d 1198, 1199 (1st Cir.
+
+1989).
+
+                                 A. The Funds
+
+            The Funds primarily invest in securities of Puerto Rico
+
+issuers.         From   the   return   on   their   investments,       the   Funds
+
+distribute dividends to their shareholders on a monthly basis.
+
+The Funds' investors are mostly, but not exclusively, residents of
+
+Puerto Rico.       They do not pay U.S. federal income tax on Puerto
+
+
+                                       - 4 -
+Rico source income, paying Puerto Rico income tax instead.                    Each
+
+fund holds an annual meeting at which its shareholders vote to
+
+elect directors to their board, among other matters.                  The elected
+
+board    of   directors     is    then    responsible     for   governing     that
+
+particular fund.
+
+                B. Stockholder Group Letter to PRRTFF IV
+
+              In May 2021, a group of PRRTFF IV shareholders sent
+
+identical letters to that fund.             These letters proposed adding an
+
+objective "to return to shareholders the net assets of [PRRTFF IV]
+
+by or before January 31, 2022."              Each letter stated that it was
+
+from "the Stockholder Group," but each had its own signatory.
+
+Among these was defendant-appellant William Hawk ("Hawk"), an
+
+executive officer of defendant-appellant Ocean Capital LLC ("Ocean
+
+Capital")     and   a    principal    owner      of   defendant-appellant     PRCE
+
+Management,     LLC     ("PRCE"),    an   investment     management    firm   that
+
+focuses on closed-end mutual funds based in Puerto Rico and that
+
+manages Ocean Capital.4          The Funds allege that many signatories to
+
+the Stockholder Group letters used non-party First Southern, a
+
+financial services company affiliated with PRCE, as a stockbroker.
+
+
+
+     4 The following individuals signed the Stockholder Group
+letters sent to the PRRTFF IV directors: Hawk on behalf of Ocean
+Capital; Danial on behalf of RAD Investments; Jaime Santiago on
+behalf of Sanzam Investments; Avraham Zeines; Soto Alvarado; and
+Gabriel de Jesus on behalf of Honne II; Gonzalez; Montalvo;
+Calderon; Acosta Rivera; Hurwitz; Nevarez Torres; Perez-Gutierrez;
+and José L. Hidalgo on behalf of The Estate of Jose Hidalgo.
+
+
+                                         - 5 -
+The Funds note that the Stockholder Group letters were delivered
+
+to PRRTFF IV "via Hawk and First Southern."                    First Southern is (or
+
+was    at        the     time)    managed     by     Hawk     and   his   associates,
+
+defendants-appellants Vasileios A. Sfyris and Benjamin T. Eiler.
+
+The Stockholder Group did not send letters to any other fund.
+
+                                   C. Proxy Contests
+
+                 In summer 2021, after Funds IV and V scheduled their
+
+annual meetings, Ocean Capital and Hawk put forth nominees for the
+
+boards of those funds (collectively, "the Nominating Parties").5
+
+Ocean Capital then launched proxy campaigns at both funds, starting
+
+with       the   issuance    of    a   letter   to       shareholders.    The   letter
+
+announced the formation of a "Coalition of Concerned UBS Closed-End
+
+Bond Fund Investors" (henceforth, "CCI") that sought to elect
+
+"highly qualified and independent individuals" who would evaluate
+
+all paths to maximizing value, including the liquidation of Fund
+
+IV and Fund V.            The letter disclosed no other CCI members beyond
+
+Ocean Capital and Hawk.
+
+                 In addition to issuing a letter to shareholders, the
+
+Nominating Parties also launched a public website where investors
+
+could learn more about CCI and its director nominees.                      Under the
+
+"Our Coalition" tab of the website, the Nominating Parties stated
+
+that       Ocean       Capital    formed    CCI,     a    coalition   "comprised   of
+
+
+       The complaint defines "the Nominating Parties" as Ocean
+       5
+
+Capital, Hawk, Izquierdo, Rosenthal, and Cruz-Rivera.
+
+
+                                            - 6 -
+shareholders," to "advocate for improved leadership" at Funds IV
+
+and V by nominating "aligned and experienced director candidates
+
+to serve" on the board of those funds.                The Nominating Parties
+
+attached copies of the materials posted to the CCI website to its
+
+Schedule 14A filing.
+
+            In a proxy statement filed in July 2021, the Nominating
+
+Parties declared that "there are no arrangements or understandings
+
+between     Ocean        Capital    or        its     affiliates       and     the
+
+Nominees . . . other than the consent by each Nominee to be named
+
+in this Proxy Statement and to serve as a director of the Fund, if
+
+elected . . . ."6
+
+            In August 2021, the Nominating Parties sent a second
+
+letter to the shareholders of Funds IV and Fund V.                  These letters
+
+stated that Ocean Capital's "interests are squarely aligned with
+
+shareholders," emphasizing that Ocean Capital is "not looking to
+
+'extract    short-term     profits'      at   the    expense   of    our     fellow
+
+investors."      The letter also declared that "Ocean Capital is not
+
+a 20/22 Act Company and therefore does not enjoy tax benefits under
+
+those statutes."
+
+            Between September 2021 and April 2022, the Nominating
+
+Parties    and   Ethan    Danial   ("Danial")       launched   proxy    campaigns
+
+
+     6 In the ensuing months, the Nominating Parties launched proxy
+campaigns at Fund I, Fund II, Fund III, PRRTFF I, PRRTFF IV, PRRTFF
+VI, and TFF I. Other proxy materials filed with the SEC pertaining
+to these funds contained the same disclaimer.
+
+
+                                      - 7 -
+seeking to elect new directors to the remaining seven funds, filing
+
+proxy statements along the way containing similar or identical
+
+information about CCI.7
+
+                      D. Schedule 13D Filings
+
+          The SEC requires a person or group who owns or acquires
+
+more than five percent of a voting class of securities in a public
+
+company to file a Schedule 13D.   See 15 U.S.C. § 78m(d); 17 C.F.R.
+
+§ 240.13d-101.   In a Schedule 13D filing, the person or group must
+
+disclose, among other things, the identity and holdings of all
+
+group members; any "contracts, arrangements, understandings or
+
+relationships"; and any intent to "acquire control" or make any
+
+other major changes to the company.      See 17 C.F.R. § 240.13d-101.
+
+          Between         October 2021         and       April 2022,
+
+Defendants-Appellees filed Schedule 13Ds for seven of the nine
+
+funds.8 More specifically, Ocean Capital, Hawk, Brent D. Rosenthal
+
+
+     7 The Nominating Parties launched proxy contests at Fund I,
+Fund III, and PRRTFF VI in September 2021, subsequently filing
+proxy materials for those funds in October 2021. Ocean Capital,
+Hawk, Izquierdo, and Rosenthal filed proxy statements for PRRTFF
+I and PRRTFF IV in December 2021.    After Fund II scheduled its
+annual meeting, the Nominating Parties and Danial filed a proxy
+statement for that fund in January 2022. A few months later, in
+April 2022, Ocean Capital, Hawk, Danial, Izquierdo, and Rosenthal
+filed proxy statements for TFF I.
+     8 Only beneficial owners of an issuer can be part of a 13D
+"group" and, thus, be required to file a Schedule 13D with the
+SEC. See Calvary Holdings, Inc. v. Chandler, 948 F.2d 59, 63 (1st
+Cir. 1991). Defendants-Appellees filed a Schedule 13D pertaining
+to Fund I, Fund II, Fund III, PRRTFF I, PRRTFF IV, PRRTFF VI, and
+TFF I.   It is unclear if the five percent ownership threshold
+triggering Section 13(d) filing requirements has been met for Funds
+
+
+                               - 8 -
+("Rosenthal") and José R. Izquierdo II ("Izquierdo") filed a
+
+Schedule 13D for Fund I, PRRTFF I, PRRTFF IV, and PRRTFF VI; Ocean
+
+Capital, Hawk, Rosenthal, Roxana Cruz-Rivera ("Cruz-Rivera"), and
+
+Izquierdo filed a Schedule 13D for Fund II and Fund III; and Ocean
+
+Capital, Hawk, Danial, Rosenthal, and Izquierdo filed a Schedule
+
+13D for TFF I.   Each Schedule 13D filed listed the number of shares
+
+owned by Ocean Capital, Hawk, and the director nominees for that
+
+particular fund.   Defendants-Appellees included a Joint Filing and
+
+Solicitation Agreement with each of their initial Schedule 13D
+
+filings, stating that "the undersigned agree[] to form the Group
+
+for the purpose of soliciting proxies or written consents for
+
+proposals submitted to stockholders for approval and the election
+
+of the persons nominated by the Group to the Board . . . ."     The
+
+Schedule 13Ds did not disclose any information relating to the
+
+Stockholder Group.
+
+                     E. The Funds' Allegations
+
+          The Funds filed their complaint on February 28, 2022,
+
+subsequently filing an amended complaint on January 5, 2023.     In
+
+
+
+
+IV and V. Defendants-Appellees amended their Schedule 13D filings
+for PRRTFF I, PRRTFF VI, and TFF I.        Ocean Capital, Hawk,
+Izquierdo, Rosenthal, Cruz-Rivera, Danial, and Khaghan filed
+amended Schedule 13Ds for PRRTFF I and VI. Ocean Capital, Hawk,
+Danial, Rosenthal, Izquierdo, Cruz-Rivera, and Khaghan filed an
+amended Schedule 13D for TFF I.
+
+
+                                - 9 -
+the amended complaint, the Funds allege three counts of violations
+
+of federal securities laws and appliable SEC rules.9
+
+          In Count I, the Funds maintain that Defendants-Appellees
+
+filed incomplete Schedule 13Ds for its disclosed members and failed
+
+to file them for its undisclosed members.       Particularly, the Funds
+
+contend that the Schedule 13Ds filed did not identify shareholding
+
+members of CCI beyond Ocean Capital and Hawk.            The Funds also
+
+allege that Defendants-Appellees failed to file Schedule 13Ds for
+
+shareholding members of the Stockholder Group who "should have
+
+been disclosed as acting with" Hawk and Ocean Capital "regarding
+
+the Funds."    These supposed disclosure deficiencies, the Funds
+
+allege, violate Section 13(a) of the Exchange Act, 15 U.S.C.
+
+§ 78m(d), and SEC Rule 13d-1, 17 C.F.R. § 240.13d-1, which govern
+
+the filing requirements and the information that must be disclosed
+
+in a Schedule 13D.
+
+          In   Count   II,   the     Funds   assert   deficiencies   with
+
+Defendants-Appellees' proxy materials that violate Section 14(a)
+
+
+     9 The counts are brought against different combinations of
+defendants-appellees. Count I is against "the Nominating Parties,
+Danial, and the Stockholder Group." As mentioned, the complaint
+defines "the Nominating Parties" as Ocean Capital, Hawk,
+Izquierdo, Rosenthal, and Cruz-Rivera. The complaint identifies
+Ocean Capital, RAD Investments, Sanzam Investments, Zeines, Soto
+Alvarado, Honne II, Gonzalez, Montalvo, Calderon, Acosta Rivera,
+Hurwitz, Nevarez Torres, Perez-Gutierrez, and The Estate of Jose
+Hidalgo as the "Stockholder Group."     Count II is against "the
+Nominating Parties and Danial."      Count III is against "the
+Controlling Persons," which the complaint defines as Hawk, Sfyris,
+Eiler, and PRCE.
+
+
+                                   - 10 -
+of the Exchange Act, 15 U.S.C. § 78n(a), and SEC Rule 14a-9, 17
+
+C.F.R. § 240.14a-9(a).      This section and its corresponding SEC
+
+rule prohibit soliciting proxies through communications that are
+
+false or misleading as to any material fact.             The Funds first
+
+contend that Defendants-Appellees' proxy filings misstate or omit
+
+information about the members of the Stockholder Group and CCI.
+
+In their complaint, the Funds allege that the use of the term
+
+"coalition" to describe only two shareholders created a misleading
+
+impression of broad shareholder support for their nominees.            The
+
+Funds further    insist   that Defendants-Appellees' proxy filings
+
+contained materially false and misleading information about their
+
+intent   to   liquidate   the   funds,   their   status     as   Act   22
+
+beneficiaries,   the   experience   of   their   board    nominees,    the
+
+performance of the funds, the compensation of certain incumbent
+
+directors, the outcome of an SEC proceeding against UBS Financial
+
+Services Inc. of Puerto Rico ("UBS Puerto Rico"), and the result
+
+of the shareholder vote at PRRTFF I.
+
+          Lastly, in Count III, the Funds claim a violation of
+
+Section 20(a) of the Exchange Act, 15 U.S.C. § 78t(a), which
+
+extends joint liability to every person who controls another found
+
+liable for securities violations.        The Funds allege that "the
+
+controlling persons of Ocean Capital" had "intimate knowledge of
+
+the incomplete and misleading statements described in Counts I-II"
+
+
+
+
+                                - 11 -
+but did not prevent or correct these filings in violation of
+
+Section 20(a).
+
+               As relief, the Funds sought, among other things, an order
+
+directing Defendants-Appellees to "publicly correct their material
+
+misstatements or omissions relating to the Funds, including by
+
+filing with the SEC complete and accurate disclosures required by
+
+Sections 13(d) and 14(a) of the Exchange Act."             In addition, the
+
+Funds      requested         a     permanent       injunction          barring
+
+Defendants-Appellees "from soliciting proxies regarding the Funds
+
+until the above-described disclosures are issued."
+
+                        F. Supplemental Disclosures
+
+               In March 2022, before any of the Funds held elections,
+
+the Nominating Parties voluntarily filed Schedule 14A definitive
+
+additional materials with the SEC (together, "the Supplemental
+
+Disclosures").10           The    Supplemental     Disclosures        informed
+
+shareholders about the alleged securities violations described in
+
+the amended complaint and clarified various statements at the
+
+center    of    the   dispute,   noting   that   the    information    in   the
+
+Supplemental       Disclosures   "supersede[s]     or    supplement[s]      the
+
+information" in previous filings.           The Nominating Parties also
+
+attached copies of the complaint and amended complaint to the
+
+
+
+
+     10The filings pertained to Fund I, Fund II, Fund III, Fund
+IV, Fund V, PRRTFF I, PRRTFF IV, and PRRTFF VI.
+
+
+                                   - 12 -
+Supplemental     Disclosures,    emphasizing     their     view   that    the
+
+complaint was "completely without merit."
+
+           The Supplemental Disclosures also denied the existence
+
+of an undisclosed 13D group.          It stated that "[n]one of Ocean
+
+Capital, its nominees, or Mr. Hawk has agreed to act as a 'Group'
+
+with any of [the Funds'] shareholders."              The filings clarified
+
+that CCI "is not intended to describe a discernible group of
+
+investors, but instead is used to describe a like-mindedness of
+
+various shareholders who might understand and think similarly
+
+about the Fund and its affiliated funds with respect to which Ocean
+
+Capital   has    made   nominations   for    director    elections."      The
+
+Supplemental     Disclosures    emphasized    that   "Ocean    Capital,   its
+
+managing member, Mr. Hawk, and its nominees have never entered,
+
+and have no intention to enter, into any agreement . . . to act
+
+together with any other person or persons who could be described
+
+as a 'Concerned UBS Closed-End Bond Fund Investor' for the purpose
+
+of acquiring, holding, voting or disposing of securities of any of
+
+the Funds."
+
+           The    Supplemental    Disclosures    further      clarified   the
+
+objectives of CCI's nominees.         Those disclosures stated that, if
+
+elected, their nominees would consider "all avenues to maximize
+
+value," including liquidation.           As to 20/22 Act status, the
+
+Supplemental Disclosures noted that while "Ocean Capital is not a
+
+20/22 Act Company," certain principals of Ocean Capital, including
+
+
+                                  - 13 -
+Hawk, were entitled to tax benefits under that Act.       In addition,
+
+the Nominating Parties elucidated previous statements regarding:
+
+(1) the compensation of certain incumbent directors; (2) the
+
+experience and qualifications of Izquierdo, one of its nominees;
+
+the performance of certain funds; (3) public statements made by a
+
+former UBS Group officer; and (4) the outcome of an SEC enforcement
+
+action against UBS Puerto Rico and two of its executives.
+
+          CCI's nominees ultimately won election by wide margins
+
+at PRRTFF I, PRRTFF VI, and TFF I.11
+
+                   G. District Court Proceedings
+
+          On   August 10,   2023,   U.S.   Magistrate   Judge   Giselle
+
+López-Soler issued a report and recommendation pursuant to Rule
+
+72(b) of the Federal Rules of Civil Procedure and 28 U.S.C.
+
+§ 636(b)(1) proposing dismissal of the Funds' complaint on two
+
+independent grounds: failure to state a claim and mootness.          At
+
+the outset, she recommended that the Section 13(d) claims be
+
+dismissed for failure to state a claim as to Fund I, Fund II, Fund
+
+III, PRRTFF VI, PRRTFF I, and TFF I, finding that "there is
+
+absolutely no factual allegation to affirmatively link the letter
+
+of the Stockholder Group to" these funds.          Judge López-Soler
+
+
+     11 Izquierdo and Rosenthal won election to PRRTFF I's Board
+of Directors at its 2021 Annual Meeting held on March 17, 2022;
+Izquierdo and Rosenthal won election to PRRTFF IV's Board of
+Directors at its 2021 Annual Meeting on December 15, 2022; and
+Danial, Izquierdo, and Rosenthal won election to TFF I's Board of
+Directors at its Annual Meeting held on March 9, 2023.
+
+
+                               - 14 -
+assumed, for discussion purposes, the existence of a 13D group as
+
+to PRRTFF IV and concluded that dismissal would be independently
+
+appropriate as to all funds because the Defendants-Appellees'
+
+Supplemental    Disclosures   cured   any    defect    in    their   previous
+
+disclosures, mooting their Section 13(d) claims.             That is because
+
+attaching copies of the complaint and amended complaint to their
+
+filings "ma[de] clear . . . [the Funds'] position that a group
+
+exists as to each fund . . . , that such a group and its suspected
+
+members . . . should          have          been        disclosed          by
+
+[Defendants-Appellees], and that the goal of that group is the
+
+liquidation of the [F]unds' shares."
+
+           Similarly, Judge López-Soler recommended dismissal as to
+
+the Funds' Section 14(a) claims.       Regarding the Funds' assertion
+
+that   Defendants-Appellees'     proxies      failed    to    disclose    the
+
+identities of members of an undisclosed group, she noted that this
+
+was a disputed issue, and, in any event, the proxy statements were
+
+"cured by advising shareholders of [the] lawsuit and attaching
+
+[the] complaint."    Judge López-Soler also concluded that the "use
+
+of the term 'coalition' in and of itself cannot be said to
+
+necessarily imply broad shareholder support for the nominations
+
+proposed   by    Ocean   Capital,"     in     particular       because    the
+
+Defendants-Appellees' description of CCI on its website and in its
+
+proxy statements was "vague and noncommittal."              Furthermore, she
+
+found "no factual support for the proposition that liquidation is
+
+
+                                 - 15 -
+in fact the only alternative to be considered by the new directors
+
+if elected."     Judge López-Soler dismissed the Funds' remaining
+
+Section 14(a) challenges, concluding that the statements at issue
+
+were not false or misleading.
+
+          Finally, Judge López-Soler recommended dismissal of the
+
+claims under Section 20(a), noting that Section 20(a) claims are
+
+not actionable without accompanying securities violations.      Since
+
+the Funds failed to plead actionable Section 13(d) and 14(a)
+
+claims, she reasoned, their Section 20(a) claim must also fail.
+
+          The Funds duly objected to the report and recommendation
+
+and Defendants-Appellees responded.      After independently reviewing
+
+the record, U.S. District Judge Gina R. Méndez-Miró adopted the
+
+entire report and recommendation.     In doing so, she dismissed the
+
+Funds' claims but retained jurisdiction over Defendants-Appellees'
+
+counterclaims.   The Funds then moved for a stay of the proceedings
+
+on the counterclaims under Rule 54(b).       Judge Méndez-Miró denied
+
+the Funds' motion to stay and granted the Defendants-Appellees'
+
+requested relief on their counterclaims by issuing an injunction
+
+ordering the Funds to seat CCI's victorious nominees for the board
+
+of directors of PRRTFF I, PRRTFF VI, and TFF I.      The Funds timely
+
+appealed those decisions and orders.      This Court has jurisdiction
+
+over this appeal pursuant to 28 U.S.C. § 1291.
+
+
+
+
+                                - 16 -
+                                II. DISCUSSION
+
+             The Funds advance several arguments on appeal. The Funds
+
+first      argue   that   the   district       court    (collectively,     Judges
+
+López-Soler and Méndez-Miró) erred in dismissing their Section
+
+13(d) claims as moot, contending that the Supplemental Disclosures
+
+did     "nothing     to    cure     the    alleged        violations"     because
+
+Defendants-Appellees       continue       to   deny     the   existence   of   an
+
+undisclosed 13D group.12          According to the Funds, moreover, their
+
+amended      complaint    plausibly       pleaded      the    existence   of   an
+
+undisclosed 13D group had the district court considered their
+
+allegations cumulatively.
+
+             Second, the Funds maintain that the district court erred
+
+in dismissing their Section 14(a) claims because, to cure their
+
+filings, Defendants-Appellees would have had to disclose "the
+
+truth" to shareholders, not just the existence of the lawsuit.
+
+The Funds also contend that they pleaded multiple examples of
+
+materially false and misleading omissions and representations in
+
+Defendants-Appellees' proxy statements.                Those examples pertained
+
+to the level of shareholder support for their nominees, their
+
+
+      12When, as here, the district judge adopts the magistrate
+judge's report and recommendation in its entirety, this court may
+choose to adopt an "institutional view" and refer to the magistrate
+and district judges' reasoning collectively as "the district
+court." C.G. ex rel. A.S. v. Five Town Cmty. Sch. Dist., 513 F.3d
+279, 282 (1st Cir. 2008); see also Santiago v. Mun. of Utuado, 114
+F.4th 25, 34 (1st Cir. 2024) (reviewing the magistrate judge's
+fully adopted reasoning as one with the district judge).
+
+
+                                     - 17 -
+intent to liquidate the funds, and their "aligned" interests with
+
+shareholders.   We address each argument in turn.
+
+                      A. Section 13(d) Claims
+
+           The district court dismissed the Funds' Section 13(d)
+
+claims for failure to state a claim.13   In   reviewing the dismissal
+
+of a complaint under Rule 12(b)(6) of the Federal Rules of Civil
+
+Procedure, "we are free to affirm on any ground apparent from the
+
+record."   Vargas-Colón v. Fundación Damas, Inc., 864 F.3d 14, 22
+
+(1st Cir. 2017).   Our review here is de novo.      E.g., Douglas v.
+
+Hirshon, 63 F.4th 49, 54-55 (1st Cir. 2023).      As explained below,
+
+we conclude that the Funds failed to state a Section 13(d) claim
+
+as to the non-PRRTFF IV funds.    Regarding PRRTFF IV, we dismiss
+
+the Section 13(d) claim on the ground that the Funds did not
+
+adequately demonstrate a showing of irreparable harm to justify
+
+granting the injunctive relief they seek. Thus, we need not assess
+
+the adequacy of the Funds' pleadings as to PRRTFF IV.
+
+                    i. Failure to State a Claim
+
+           To survive dismissal for failure to state a claim under
+
+Rule 12(b)(6), a complaint must allege a "plausible entitlement to
+
+relief."   Decotiis v. Whittemore, 635 F.3d 22, 29 (1st Cir. 2011)
+
+(quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 559 (2007)).
+
+
+     13The district court also concluded that it could dismiss the
+Funds' Section 13(d) claims independently on mootness grounds. We
+need not address mootness since we resolve the Section 13(d) claims
+based on the insufficiency of the pleadings.
+
+
+                              - 18 -
+"A claim has facial plausibility when the plaintiff pleads factual
+
+content that allows the court to draw the reasonable inference
+
+that the defendant is liable for the misconduct alleged." Ashcroft
+
+v. Iqbal, 556 U.S. 662, 678 (2009) (citing Twombly, 550 U.S. at
+
+556).   For purposes of our review, we must accept the well-pleaded
+
+factual allegations in the amended complaint as true and resolve
+
+all inferences in favor of the Funds.             See McKee v. Cosby, 874
+
+F.3d 54, 58 (1st Cir. 2017); see also 3137, LLC v. Town of Harwich,
+
+126 F.4th 1, 8 (1st Cir. 2025) ("The standard of review of a motion
+
+for judgment on the pleadings . . . is the same as that for a
+
+motion to dismiss under Rule 12(b)(6).") (citation omitted).
+
+            Further, as a claim sounding in fraud, Section 13(d)
+
+claims are subject to the heightened pleading standards of Rule 9
+
+of the Federal Rules of Civil Procedure ("Rule 9") and the Private
+
+Securities Litigation Reform Act ("PSLRA"), 15 U.S.C. § 78u-4.
+
+See Ponsa-Rabell v. Santander Sec. LLC, 35 F.4th 26, 33 (1st Cir.
+
+2022) ("[t]he PSLRA imposes a heightened pleading standard on
+
+complaints alleging securities fraud"); see also Mgmt. Assistance
+
+Inc. v. Edelman, 584 F. Supp. 1016, 1018 (S.D.N.Y. 1984) (applying
+
+the heightened pleading standard under the PSLRA to Section 13(d)
+
+claims).    Rule 9(b) instructs a party to "state with particularity
+
+the circumstances constituting fraud or mistake."           Fed. R. Civ. P.
+
+9(b).      In   other   words,   the   pleading    party   must   aver   with
+
+particularity the time, place, and content of the challenged
+
+
+                                   - 19 -
+misrepresentations, omissions, or fraud.                     Ponsa-Rabell, 35 F.4th
+
+at 33-34.        The PSLRA requires that plaintiffs specify "each
+
+statement alleged to have been misleading, the reason or reasons
+
+why the statement is misleading, and, if an allegation regarding
+
+the statement or omission is made on information and belief, the
+
+complaint shall state with particularity all facts on which that
+
+belief is formed."        15 U.S.C. § 78u-4(b)(1); Miss. Pub. Employees'
+
+Ret. Sys. v. Bos. Sci. Corp., 523 F.3d 75, 85 (1st Cir. 2008).
+
+"This circuit has been notably strict and rigorous in applying the
+
+Rule 9(b) standard in securities fraud actions."                          Greebel v. FTP
+
+Software, Inc., 194 F.3d 185, 193 (1st Cir. 1999).
+
+            Section       13(d)   of     the    Securities          and    Exchange   Act
+
+requires    that    any    person      who    owns     or    acquires      a   beneficial
+
+ownership   of     more    than   five       percent    of    any    class     of   equity
+
+securities registered under the Exchange Act to file ownership
+
+reports with the SEC on a Schedule 13D.                     See 15 U.S.C. § 78m.
+
+     Essentially, Section 13(d) requires any person, or group
+     of persons, after acquiring more than five percent of a
+     class of registered equity securities, to send to the
+     issuer . . . and file with the [SEC] the statement
+     required by the Act, disclosing, among other things, the
+     identity of the persons filing, the number of shares
+     owned by them, the source of the funds used to purchase
+     the shares, and the purpose of the purchase.
+
+Gen. Aircraft Corp. v. Lampert, 556 F.2d 90, 94 (1st Cir. 1977).
+
+A "group" under Section 13(d) is defined as "two or more persons
+
+
+
+
+                                        - 20 -
+act[ing] . . . for the purpose of acquiring, holding, or disposing
+
+of securities of an issuer."       15 U.S.C. § 78m(d)(3).
+
+           The   Funds    insist   that   they   have    sufficiently    pled
+
+Section 13(d) violations, pointing to the Stockholder Group letter
+
+as conclusive evidence of an undisclosed 13D group as to PRRTFF IV
+
+and as "powerful circumstantial evidence" as to the other funds.
+
+In addition, the Funds stress that each proxy campaign was launched
+
+by   a   self-described    "coalition,"     that   a    signatory   of   the
+
+Stockholder Group letter -- Danial, who signed on behalf of RAD
+
+Investments, LLC ("RAD") -- was also a director nominee, that
+
+members of the Stockholder Group and CCI used First Southern as a
+
+stockbroker, and that the Stockholder Group letters were delivered
+
+via First Southern.      We begin by assessing the sufficiency of the
+
+Funds' pleadings as to the non-PRRTFF IV funds.
+
+           The Funds have failed to allege sufficient facts to allow
+
+this court to infer the existence of an undisclosed 13D group as
+
+to the non-PRRTFF IV funds.        To start, we note that no letter or
+
+other communication was ever sent on behalf of a purported group
+
+to any fund other than PRRTFF IV, as the Stockholder Group letter
+
+was only sent to shareholders of PRRTFF IV.             And while the Funds
+
+maintain that there is "powerful circumstantial evidence" linking
+
+the Stockholder Group letter to CCI, we fail to see a connection.
+
+The fact is that Ocean Capital is the only signatory to the
+
+Stockholder Group letter that owns shares in every fund (although
+
+
+                                   - 21 -
+Hawk, too, personally owns shares in all but TFF I).        Thus, based
+
+on the Funds' pleadings, we cannot reasonably infer an undisclosed
+
+overlap in the membership of the Stockholder Group and CCI.
+
+           Still, the Funds point to the fact that Danial is a
+
+director nominee and a signatory to the Stockholder Group letter
+
+as evidence of a hidden connection between the two groups.         This
+
+tenuous link, however, is insufficient to support a Section 13(d)
+
+claim. First, we note that Defendants-Appellees disclosed in their
+
+Schedule 13D filings any shares owned by RAD in any of the funds,
+
+which Danial beneficially owned as a RAD manager.       As to Danial,
+
+he does not personally own shares in any of the funds, including
+
+the fund for which he was nominated to serve as a director.         For
+
+these reasons, the fact that Danial signed the Stockholder Group
+
+letter is insufficient to establish an undisclosed overlap in
+
+membership between the Stockholder Group and CCI, or any other
+
+Section 13(d) violation as to the non-PRRTFF IV funds.
+
+           The   Funds   further   emphasize   the   fact   that   some
+
+signatories of the Stockholder Group letter used First Southern as
+
+their stockbroker as circumstantial proof of the existence of an
+
+undisclosed 13D group.    This fact, too, is insufficient to support
+
+a Section 13(d) claim.    This is so because "an investor [does not]
+
+become a member of a group solely because his or her advisor caused
+
+other (or all) of its clients to invest in securities of the same
+
+issuer."   Rubenstein v. Int'l Value Advisers, LLC, 959 F.3d 541,
+
+
+                               - 22 -
+547 (2d Cir. 2020).   The Funds needed to have plausibly alleged an
+
+agreement to act together with respect to the shares of the
+
+particular fund, not merely overlapping advisors or interests.
+
+See Augenbaum v. Anson Invs. Master Fund LP, No. 22 CIV. 249 (VM),
+
+2023 WL 2711087, at *11 (S.D.N.Y. Mar. 30, 2023) (finding the
+
+signing of parallel agreements with "no facts supporting that the
+
+alleged group members interacted in any way" insufficient to
+
+support the inference of an undisclosed 13D group).      Here, the
+
+Funds have failed to plea facts that the alleged undisclosed group
+
+members interacted in any way with "the purpose of acquiring,
+
+holding, or disposing of securities of an issuer."       15 U.S.C.
+
+§ 78m(d)(3).    And so, their Section 13(d) claim must fail.
+
+            Lastly, the fact that the proxy campaigns were launched
+
+by a self-described "coalition" of investors is also insufficient
+
+for this court to reasonably infer the existence of an undisclosed
+
+13D group as to the non-PRRTFF IV funds.     The Funds stress that
+
+"the term 'Coalition' ordinarily indicates a group with many
+
+members."      But the fact that individuals have agreed to act
+
+together, without more, is insufficient to state a Section 13(d)
+
+claim.   To do so, the Funds needed to have pled that CCI members
+
+acted in furtherance of at least one of the statutorily defined
+
+purposes.    See 15 U.S.C. § 78m(d)(3) (defining a "group" under
+
+Section 13(d) as "two or more persons act[ing] . . . for the
+
+purpose of acquiring, holding, or disposing of securities of an
+
+
+                               - 23 -
+issuer.").    But, looking at the amended complaint in the light
+
+most favorable to the Funds, all we can conclude is that CCI is
+
+comprised of shareholders who are acting collectively with the
+
+sole stated purpose of electing a slate of director nominees to
+
+the boards of some of the funds.       Those facts alone cannot sustain
+
+a Section 13(d) claim, particularly under Rule 9's heightened
+
+standard.
+
+                        ii. Lack of Irreparable Harm
+
+            As to PRRTFF IV, the Funds insist that the Stockholder
+
+Group letter supports the existence of an undisclosed Section 13(d)
+
+group. We need not analyze the sufficiency of the Funds' pleadings
+
+as to PRRTFF IV, as they failed to demonstrate a showing of
+
+irreparable harm to warrant granting the injunctive relief they
+
+seek.   For that reason, the Funds' remaining Section 13(d) claim
+
+must also fail.
+
+            Section      13(d)   disclosure      requirements    have     an
+
+informative purpose: namely, "to provide investors and the market
+
+in general with accurate information about potential changes in
+
+corporate control."        Hibernia Sav. Bank v. Ballarino, 891 F.2d
+
+370, 372 (1st Cir. 1989) (quoting Ludlow Corp. v. Tyco Lab'ys Inc.,
+
+529 F. Supp. 62, 65 (D. Mass. 1981)).         In enacting Section 13(d),
+
+"Congress expressly disclaimed an intention to provide a weapon
+
+for   management   to    discourage   takeover   bids   or   prevent   large
+
+accumulations of stock" to maintain its control.                Rondeau v.
+
+
+                                  - 24 -
+Mosinee Paper Corp., 422 U.S. 49, 58-59 (1975).                          As we have
+
+admonished in the past, federal courts should be careful not to
+
+get drawn "into factional intracorporate disputes" by management
+
+over the adequacy of disclosure requirements, "so long as the
+
+interests of all investors are adequately protected."                         Lampert,
+
+556 F.2d at 95.
+
+           Consistent       with     the    informative    purpose       of   Section
+
+13(d), injunctive relief is the only available remedy for private
+
+claims.   See Hallwood Realty Partners, L.P. v. Gotham Partners,
+
+L.P., 286 F.3d 613, 620 (2d Cir. 2002).                However, "the bare fact
+
+that [a party] violated the Williams Act,"                     without more,        is
+
+insufficient to warrant a grant of injunctive relief.                         Rondeau,
+
+422 U.S. at 60; see id. at 62 (emphasizing that injunctive relief
+
+is "designed to deter, not to punish") (quoting Hecht Co. v.
+
+Bowles,   321    U.S.    321,    329    (1944))).      Rather,      "a   showing    of
+
+irreparable harm, in accordance with traditional principles of
+
+equity, [is] necessary before a private litigant" is entitled to
+
+relief under Section 13(d).              Hibernia, 891 F.2d at 372 (citing
+
+Rondeau, 422 U.S. at 58).                  Delay or failure to move for a
+
+preliminary injunction undermines a showing of irreparable harm at
+
+a later juncture.         See, e.g., Voice of the Arab World, Inc. v.
+
+MDTV Med. News Now, Inc., 645 F.3d 26, 35 (1st Cir. 2011) ("[T]he
+
+failure   to    act     sooner   undercuts       the   sense   of    urgency      that
+
+ordinarily      accompanies      a     motion    for   preliminary       relief    and
+
+
+                                        - 25 -
+suggests that there is, in fact, no irreparable injury.") (cleaned
+
+up) (citation omitted).
+
+          The Funds here have not adequately shown the irreparable
+
+harm necessary to warrant granting injunctive relief and, thus,
+
+their Section 13(d) claim also fails as to PRRTFF IV.                For
+
+starters, we note that the Funds did not move for a preliminary
+
+injunction, which undermines their claim of irreparable harm.        Nor
+
+have the Funds explained how the information included in the
+
+Stockholder Group letter (including the voting power of the "group"
+
+and its objectives) is so inadequate that "the evils to which the
+
+Williams Act was directed" are implicated by Defendants-Appellees'
+
+alleged technical violation.    Rondeau, 422 U.S. at 59; see id. at
+
+58 ("The purpose of the Williams Act is to insure that public
+
+shareholders who are confronted by a cash tender offer for their
+
+stock will not be required to respond without adequate information
+
+regarding the qualifications and intentions of the offering party.
+
+By   requiring   the   disclosure   of   information   to   the   target
+
+corporation as well as the [SEC], Congress intended to do no more
+
+than give incumbent management an opportunity to express and
+
+explain its position." (footnote omitted)); see also Hibernia, 891
+
+F.2d at 372 ("The underlying purpose of Section 13(d) is to provide
+
+investors and the market in general with accurate information about
+
+potential changes in corporate control" without "tip[ping] the
+
+balance in favor of either management, or those attempting a change
+
+
+                                - 26 -
+in corporate control." (quoting Ludlow Corp., 529 F. Supp. at 65)).
+
+For these reasons, the Funds' complaint does not satisfy the
+
+irreparable harm showing that would justify granting relief here.
+
+            Having determined that an independent ground supports
+
+dismissal of the Section 13(d) claims, we need not address the
+
+sufficiency of the Funds' pleadings as to PRRTFF IV.               See Ungar v.
+
+Arafat, 634 F.3d 46, n.4 (1st Cir. 2011) (noting that an appellate
+
+court "may affirm a judgment on any independently sufficient ground
+
+made manifest in the record" (citing Banco Popular de P.R. v.
+
+Greenblatt, 964 F.2d 1227, 1230 (1st Cir.1992))); see also Lessler
+
+v. Little, 857 F.2d 866, 874 (1st Cir. 1988) (affirming the
+
+district   court's     dismissal      on     one   ground   and,   accordingly,
+
+declining to address the other).
+
+                          B. Section 14(a) Claims
+
+            Next, we address the Funds' Section 14(a) claims.                As
+
+with the Section 13(d) claims, the district court dismissed the
+
+Funds' Section 14(a) claims on two independent grounds: failure to
+
+state a claim and mootness.            Having affirmed dismissal of the
+
+Section 13(d) claims for failure to state a claim, we will only
+
+address    the   Funds'    surviving       allegations      regarding   material
+
+misstatements     or      omissions     in     Defendants-Appellees'       proxy
+
+statements.
+
+            Section 14(a) makes it unlawful to solicit proxies in
+
+contravention of "such rules and regulations as the [SEC] may
+
+
+                                      - 27 -
+prescribe as necessary or appropriate in the public interest or
+
+for the protection of investors."                 15 U.S.C. § 78n.       SEC Rule
+
+14a-9, 17 C.F.R. § 240.14a-9(a), provides, in relevant part, that
+
+"[n]o solicitation subject to this regulation shall be made by
+
+means of any proxy statement . . . which, at the time . . . it is
+
+made, is false or misleading with respect to any material fact, or
+
+which omits to state any material fact necessary in order to make
+
+the statements therein not false or misleading."                Congress enacted
+
+Section 14(a) "to promote the free exercise of the voting rights
+
+of stockholders by ensuring that proxies would be solicited with
+
+an explanation to the stockholder of the real nature of the
+
+questions for which authority to cast his vote is sought."                  Royal
+
+Bus. Grp., Inc. v. Realist, Inc., 933 F.2d 1056, 1060 (1st Cir.
+
+1991) (quoting Mills v. Elec. Auto-Lite Co., 396 U.S. 375, 381
+
+(1970)).    That purpose is achieved if "the proxy materials fully
+
+and fairly set forth the relevant and material facts from which a
+
+reasonable shareholder may draw [their] own conclusions as to how
+
+to vote."    New England Anti-Vivisection Soc., Inc., 889 F.2d at
+
+1202 (1st Cir. 1989).
+
+            To succeed on a Section 14(a) claim, the Funds must
+
+satisfy a three-part test.              That test requires (1) the Funds to
+
+contend     that       a     proxy      statement     contained    a     material
+
+misrepresentation or omission, (2) which caused the plaintiff
+
+injury,    and   (3)       that   the   proxy    solicitation   itself   was   "an
+
+
+                                        - 28 -
+essential link in the accomplishment of the transaction."              Gen.
+
+Elec. Co. by Levit v. Cathcart, 980 F.2d 927, 932 (3d Cir. 1992)
+
+(quoting Mills, 396 U.S. at 385).
+
+            A misrepresentation or omission is material "if there is
+
+a   substantial   likelihood    that   a   reasonable   shareholder   would
+
+consider it important in deciding how to vote."          TSC Indus., Inc.
+
+v. Northway, Inc., 426 U.S. 438, 449 (1976).             The standard for
+
+materiality is not a low one, requiring fair accuracy, not perfect
+
+expression.    New England Anti-Vivisection Soc., Inc., 889 F.2d at
+
+1202.    As with the Section 13(d) claims discussed, the Funds'
+
+Section 14(a) claims are also subject to a heightened pleading
+
+standard under the PSLRA.       See Savoy v. Bos. Priv. Fin. Holdings,
+
+Inc., 626 F. Supp. 3d 242, 249 (D. Mass. 2022) (applying the PSLRA
+
+heightened pleading standard to Section 14(a) claims).
+
+            With this standard in mind, we consider the Funds'
+
+surviving     Section   14(a)    claims.       The   Funds   allege   that
+
+Defendants-Appellees made false and misleading statements by: (1)
+
+referring to a "coalition" of shareholders because such a claim
+
+either created the impression of a broad group of shareholders or
+
+triggered a "bandwagon effect"; (2) failing to disclose that
+
+liquidation was its sole goal; and (3) representing that it was
+
+
+
+
+                                  - 29 -
+"aligned" with shareholders.        We evaluate the sufficiency of each
+
+allegation in turn.
+
+             i. Term "Coalition" and "Bandwagon Effect"
+
+          The Funds argue that Defendants-Appellees' use of the
+
+term "coalition" on their CCI website and proxy filings was doubly
+
+misleading: Either it referred to a broad group of shareholders,
+
+in which case those shareholders needed to be disclosed, or it
+
+referred only to Hawk and Ocean Capital, in which case the term
+
+implied "broad stockholder support" when there was none.                 We
+
+addressed the former argument in our consideration of the Section
+
+13(d) claims, and so we turn to the Funds' latter argument that
+
+the term "coalition" was misleading.
+
+          We    disagree    with    the   Funds'   proposition   that    the
+
+ambiguous description of CCI as a "coalition" produced a "bandwagon
+
+effect," as that term is described in Lone Star Steakhouse &
+
+Saloon, Inc. v. Adams, 148 F. Supp. 2d 1141, 1152 (D. Kan. 2001)
+
+("If shareholders believe that a significant number of other
+
+investors support defendant [because of inaccurate statements of
+
+support], that belief will likely impact the decisions of those
+
+investors with less time to research the claims of either existing
+
+management     or   the   proxy    contender.");    see   also   Gould   v.
+
+Am.-Hawaiian S. S. Co., 535 F.2d 761, 772 (3d Cir. 1976) (holding
+
+that statements that communicated significant shareholder support
+
+for the approval of a merger was material because it discouraged
+
+
+                                   - 30 -
+"careful consideration of the merits of the plan of merger and
+
+even voting on it at all").
+
+          To trigger a "bandwagon effect," statements of support
+
+must be concrete and sufficiently significant to the decision
+
+confronting   shareholders.       For     example,      in     Lone   Star,    the
+
+defendant's proxy statements assured shareholders that "a number
+
+of institutional and individual stockholders . . . would vote" to
+
+elect him to the board of directors.         148 F. Supp. 2d at 1144. He
+
+also provided a list of his purported institutional stockholders
+
+and the amount of assets each held.          Id.    Likewise, the defendant
+
+in Gould informed shareholders that the proposed merger already
+
+enjoyed the support of sufficient shareholders to constitute the
+
+necessary two-thirds majority for approval.                  535 F.2d at 772.
+
+Unlike Defendants-Appellees here, the defendants in Lone Star and
+
+Gould made specific claims about the size and voting power of the
+
+shareholder    cohort.        The        Funds     do    not     allege       that
+
+Defendants-Appellees are making such concrete and overwhelming
+
+declarations of shareholder support for its nominees.                  Instead,
+
+Defendants-Appellees clarified in their Supplemental Disclosures
+
+that CCI is meant to "describe a like-mindedness of various
+
+shareholders who might understand and think similarly about the
+
+Fund and its affiliated funds with respect to which Ocean Capital
+
+has made nominations for director elections."                Such an ambiguous
+
+description   is   insufficient     to   make    the    statement     materially
+
+
+                                  - 31 -
+misleading for the purposes of Section 14(d) liability. Cf. Mills,
+
+396 U.S. at 384-85 ("There is no need to supplement [Section
+
+14(a)] . . . with a requirement of proof as to whether a defect
+
+actually had a decisive effect on the voting.").
+
+                   ii. Liquidation as the Sole Objective
+
+            The Funds argue that Defendants-Appellees' statements
+
+concerning their intent for the funds were materially misleading.
+
+The Funds point to the filings in which Defendants-Appellees
+
+declared that, if elected, their nominees would consider "all
+
+avenues to maximizing value," including liquidation.             The Funds
+
+argue that this statement is misleading because liquidation is in
+
+fact Defendants-Appellees' only objective.           In other words, the
+
+Funds   here   insist     that   the   intent   behind   the   filings    was
+
+misleading.    But "proof of mere disbelief or belief undisclosed
+
+should not suffice for liability under [Section] 14(a)."           Virginia
+
+Bankshares, Inc. v. Sandberg, 501 U.S. 1083, 1096 (1991).             Nothing
+
+in the filings here supports a plausible inference that liquidation
+
+was   the   only    objective    Defendants-Appellees'     nominees      would
+
+consider if elected.        For that reason, the Funds' claim fails.
+
+For similar reasons, the statement in the Stockholder Group letter
+
+that they sought to add liquidation as an "additional investment
+
+objective" is not sufficient to show that liquidation was the sole
+
+objective as to PRRTFF IV.         And since Defendants-Appellees have
+
+been clear in their initial and Supplemental Disclosures that its
+
+
+                                   - 32 -
+director nominees for PRRTFF IV would consider liquidation as one
+
+of many options to maximize value, the Funds' Section 14(a) claim
+
+must fail as to PRRTFF IV.
+
+                 iii. Aligned Interests Statement
+
+          The   Funds     also   contend    that    Defendants-Appellees'
+
+affirmation   that    their   interests    are   "squarely    aligned    with
+
+shareholders" is materially misleading because it did not disclose
+
+that Ocean Capital's principals were beneficiaries of Act 22,
+
+unlike most other Fund shareholders.         That statement is neither
+
+false nor misleading.     Defendants-Appellees consistently disclosed
+
+that "Ocean Capital is not a 20/22 Act Company" and subsequently,
+
+that some of its principles were entitled to tax benefits under
+
+Act 20/22 in the event of a liquidation.
+
+                     iv. Waiver of Additional Claims
+
+          The   Funds     asserted   various       other     Section    14(a)
+
+violations to the district court.         On appeal, however, they only
+
+list these claims in a single footnote of their brief.14           "We have
+
+repeatedly held that arguments raised only in a footnote or in a
+
+perfunctory manner are waived."      P.R. Tel. Co., Inc. v. San Juan
+
+
+
+     14  The Funds allege that Defendants-Appellees' proxy
+statements contained other material misstatements regarding the
+performance of the funds, the outcome of an SEC enforcement action
+against UBS Puerto Rico and two of its executives, the salaries of
+certain incumbent directors, the professional experience of one of
+its nominees, and the outcome of the shareholder vote for PRRTFF
+I.
+
+
+                                 - 33 -
+Cable LLC, 874 F.3d 767, 770 (1st Cir. 2017) (quoting Nat'l Foreign
+
+Trade Council v. Natsios, 181 F.3d 38, 61 n.17 (1st Cir. 1999));
+
+see also Grella v. Salem Five Cent Sav. Bank, 42 F.3d 26, 36 (1st
+
+Cir. 1994) (argument raised by way of "cursory footnote" deemed
+
+waived).   Because the Funds waived those claims, we decline to
+
+consider the sufficiency of the pleadings as to those claims.
+
+                C. Defendants-Appellees' Counterclaims
+
+           In   accordance   with    its     order   dismissing       the   Funds'
+
+claims, the district court granted relief on Defendants-Appellees'
+
+counterclaims regarding PRRTFF I, PRRTFF VI, and TFF I.                        The
+
+district   court's   injunction      ordered     the    Funds    to    seat    the
+
+Defendants-Appellees'    nominees      as     members    of     the    board   of
+
+directors of those funds.      Since we affirm the district court's
+
+decision as to the Funds' securities claims, we reject the Funds'
+
+
+
+
+                                    - 34 -
+request     that   we    vacate   the    judgment   on   Defendants-Appellees'
+
+counterclaims.15
+
+                                  III. CONCLUSION
+
+             For   the    foregoing      reasons,   we   affirm   the   district
+
+court's dismissal of the Funds' Sections 13(d), 14(a), and 20(a)
+
+claims.16
+
+
+
+
+     15 However, we recognize that the terms of office of those
+directors may have been impacted by the duration of this
+litigation.   Izquierdo and Rosenthal were elected to serve as
+directors of PRRTFF I and PRRTFF VI "for a term expiring on the
+date of which the annual of meeting of shareholders is held in
+2024 or until their successors are elected and qualified." Danial,
+Izquierdo, and Rosenthal were elected to serve as directors of TFF
+I "for a term expiring on the date of which the annual meeting of
+stockholders is held in 2025, 2024, and 2025, respectively, or
+until their successors are elected and qualified."
+     16Because we affirm the dismissal of the Section 13(d) and
+14(a) claims, we also affirm the dismissal of the Section 20(a)
+claim, which the district court dismissed upon determining that
+each of the Funds' claimed securities violations failed.
+
+
+                                        - 35 -

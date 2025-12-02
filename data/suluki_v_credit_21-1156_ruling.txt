@@ -1,0 +1,548 @@
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+KHALILAH SULUKI,
+                        Plaintiff,       |       21-cv-1156 (SHS) 
+            v.
+                                      |       OPINION &  ORDER 
+ CREDIT ONE BANK, NA,
+                        Defendant.
+SIDNEY H. STEIN, U.S. District Judge. 
+   Plaintiff Khalilah Suluki’s (“plaintiff” or “Suluki”) claims arise from alleged identity 
+theft perpetrated by her own mother, Khadijah Suluki (“Suluki’s mother” or 
+“Khadijah”), whom she claims opened and used various bank accounts in plaintiff's 
+name without her knowledge or permission. (Compl. {| 15, ECF No. 1.) Plaintiff alleges 
+that Credit One Bank, NA (“Credit One”) either willfully or negligently failed to 
+conduct a reasonable investigation into her claims of identity theft in violation of 15 
+U.S.C. § 1681s-2(b) of the Fair Credit Reporting Act (“FCRA”), and failed to properly 
+report the results of its investigation to the credit reporting agencies (“CRAs”).! 
+   Suluki and Credit One have now cross-moved for summary judgment, (See ECF No. 
+58, “Credit One MSj”; ECF No. 65, “Suluki MSJ.”) Suluki seeks partial summary 
+judgment that a) Credit One’s reporting to the CRAs that Suluki opened or authorized 
+the account was inaccurate; b) Credit One failed to properly report the results of its 
+investigation to the credit reporting agencies; and c) Credit One’s investigation into her 
+claim of identity theft was unreasonable as a matter of law, leaving questions of 
+whether the alleged violations of the FCRA were willful or negligent to a jury. (Suluki 
+MSJ at 2.) Credit One does not seek summary judgment as to the accuracy of its 
+reporting, but does seek summary judgment that its investigation was reasonable as a 
+matter of law. (Credit One MSJ at 12.) Credit One also seeks summary judgment that 
+
+1 Plaintiff alleged previously that Credit One “failed to accurately correct and update or delete Plaintiff's 
+information for a period of time subsequent to receiving Plaintiffs dispute from [the CRAs] prior to the 
+commencement of this action as required by 15 U.S.C. § 1681s-2(b)(1)(E),” Compl. {[ 87, but has not 
+pursued that claim here.
+
+whatever the reasonableness of its investigation, its actions were not willful as a matter 
+of law and therefore do not warrant punitive damages. (Credit One MSJ at 17.) 
+  1.     History 
+  Plaintiff Khalilah Suluki is a Brooklyn resident and recent college graduate. (Compl. 
+{ 13.) In the summer of 2019, Suluki alleges that while attempting to sign a lease after 
+her graduation, she was denied an apartment, leading her to pull her credit reports 
+from the three major credit reporting agencies - Experian, Equifax, and Trans Union. 
+(Id. [ 13-14.) She was “dismayed to discover that while she was attending college, she 
+was the victim of identity theft, as plaintiff's own mother opened various accounts in 
+plaintiffs name and maxed out some of plaintiff's pre-existing accounts.” (Id. { 15.) 
+According to plaintiff, while she attended college, her mother “would seize the mail 
+containing the Accounts’ billing statements and make a few payments to maintain the 
+appearance that the Accounts were valid when in actuality they were not.” (Id.  1 18.) 
+These allegedly fraudulent accounts were held at three separate banks: Credit One 
+Bank, Capital One Bank, and Comenity Capital Bank. (id. {[ 16.) Plaintiff claims that, 
+because her “identity was stolen to open [these] account[s],” the information furnished 
+by the banks to the reporting agencies “was at all times inaccurate.” (Id. {| 20.) 
+  Plaintiff claims that upon discovering these “fraudulent debts,” she “immediately 
+disputed the debts with either the actual account holders or the credit reporting 
+bureaus.” (Id. { 17.) She represents that, in late 2019, she sent correspondences to 
+Experian, Equifax, and Trans Union, requesting that the credit reporting agencies 
+“verify and correct the inaccurate, erroneous and unverified representations made by” 
+the banks. (Id. [] 21, 24, 27, 42, 45, 48, 63, 66, 69.) She claims that the agencies furnished 
+her disputes to the banks, which then “failed to reasonably reinvestigate Plaintiff's 
+disputes.” (Id. □□ 22-23, 43-44, 64-65.) She alleges that she contacted the credit reporting 
+agencies again in April 2020, and once again requested that they verify and correct the 
+inaccurate information. Ud. {{f 30, 33, 36, 51, 54, 57, 72, 75, 78.) Again, she claims that 
+after the agencies furnished her disputes to the banks, the banks “failed to reasonably 
+reinvestigate Plaintiff's disputes.” (Id. TJ 32, 35, 38, 53, 56, 59, 74, 77, 80.) 
+   On February 9, 2021, plaintiff filed this complaint alleging violations of the Fair 
+Credit Reporting Act, 15 U.S.C. § 1681 et seq. Plaintiff initially brought one claim against 
+each of the three banks — Credit One, Capital One, and Comenity Capital — under 15 
+U.S.C. §§ 1681s-2(b)(1)(A) and (E), which govern the duties of furnishers of information,
+
+including banks, to CRAs upon notice of a dispute. (Id. TJ 88, 100, 111.) Section 1681s- 
+2(b)(1)(A) requires that “[a]fter receiving notice ... of a dispute with regard to the 
+completeness or accuracy of any information provided by a  [furnisher] to a consumer 
+reporting agency, the [furnisher] shall conduct an investigation with respect to the 
+disputed information.” Plaintiff claims that “it is evident that” the banks “failed to 
+conduct a reasonable investigation.” (Compl. {1 84, 96, 107.) 
+  As a  result of these violations, Suluki claims she “has sustained damages including 
+denial of credit, emotional distress, and mental and physical pain.” (Id. {| 88, 100, 111.) 
+Suluki also claims that the violations were willful, rendering the banks liable for 
+punitive damages pursuant to 15 U.S.C. § 1681n, or at least negligent, entitling plaintiff 
+to recovery of actual damages under 15 U.S.C. § 1681o. (id. {J 91, 103, 114.) She thus 
+requests actual, statutory, and punitive damages, declaratory relief, and costs and fees. 
+(id. TJ 92, 104, 115.) 
+  Il.     Legal Standard 
+  To prevail on summary judgment,  a movant must show that “there is no genuine 
+dispute as to any material fact” such that it is entitled to judgment as a matter of law. 
+Fed. R. Civ. P. 56(a). A fact is “material” if it “might affect the outcome of the suit under 
+the governing law,” and a dispute is “genuine” if “the evidence is such that a 
+reasonable jury could return a verdict for the nonmoving party.” Gayle v. Gonyea, 313 
+F.3d 677, 682 (2d Cir. 2002) (quoting Anderson v. Liberty Lobby, Inc., 477 U.S, 242, 248 
+(1986)). 
+  When both sides move for summary judgment, courts “are required to assess each 
+motion on its own merits and to view the evidence in the light most favorable to the 
+party opposing the motion, drawing all reasonable inferences in favor of that 
+party.” Wachovia Bank, Nat'l Ass’n v. VCG Special Opportunities Master Fund, Ltd., 661 
+F.3d 164, 171 (2d Cir. 2011). “[I]f the moving party is still entitled to judgment as a 
+matter of law after all the facts alleged by the nonmoving party are resolved in his favor 
+as true, then any remaining factual disputes are neither genuine nor material and will 
+not prevent the court from granting the motion.” Frutico S.A. de C.V. 0. Bankers Tr. Co., 
+833 F, Supp. 288, 297 (S.D.N.Y. 1993) (internal citation omitted). 
+
+2 Stipulations of voluntary dismissal were entered in late 2021 against defendants Comenity Capital Bank 
+and Capital One Bank. (ECF Nos. 44, 46.) Accordingly, the only defendant remaining in this action is 
+Credit One Bank.
+
+  Ill.    Relevant Facts 
+  On November 2, 2017, an individual applied for and was issued a Credit One credit 
+card in the name of plaintiff Khalilah Suluki. (Credit One 56.1 J 1, ECF No, 59.) 
+According to Credit One, the account was in use and in good standing for nearly two 
+years, receiving regular, on-time payments, and according to Suluki herself, the account 
+payments were made from a bank account Suluki shared with her mother. (Credit One 
+Opp’n, ECF No. 70 at 4.) On July 20, 2019,3 plaintiff called Credit One to allege that her 
+mother had opened the account in her name without her permission. (Credit One 56.1    
+8.) Credit One claims that it closed the account, but the outstanding balance remained 
+pending. (Id.   7.) On that call, Suluki asked that she be provided with the completed 
+account application and account statements in order to obtain a police report for 
+identity theft. (Id. {| 8.) Credit One requested an address and was provided with an 
+address with no apartment number. (Id.) Credit One alleges that it mailed the material 
+Suluki requested to the address she provided, but that it was returned as undeliverable. 
+(Id.  J 9.) Five days later, plaintiff's mother Khadijah called Credit One, alleging that 
+Suluki’s claims were untrue. (Id. J 10.) Khadijah stated that she and Suluki opened the 
+account together while Suluki was in college; and that Khadijah had agreed to be 
+responsible for the payments to the card to help Suluki build credit. (Id.) 
+   On August 15, 2019, Credit One sent Suluki a letter requesting that she complete the 
+Affidavit of Fraud and Forgery it had enclosed and that she provide, in addition, an 
+identity theft report filed with a law enforcement agency within 45 days. (id. {J 12-13.) 
+Plaintiff signed and returned the affidavit affirming that she had “never applied for the 
+credit card” and identified her mother as the person who did so without her consent or 
+knowledge. (Id.  { 14, ECF No. 60-7.) She did not provide the identity theft report 
+requested by Credit One.5 (Id.) Suluki alleges she could not obtain an identity theft 
+
+3 Suluki alleges she called two or three times in July, (Suluki Tr. 57:11-14, ECF No. 60-1), but the parties at 
+least agree on this phone call. 
+4 Suluki claims that she did not provide this address as Credit One alleges. (Suluki Counter 56.1 
+Statement, ECF No. 74 at 9.) She points to a transcript of a July 6, 2019 conversation with Credit One, 
+which apparently was the first time she raised the issue with the bank, but which Credit One has not 
+acknowledged, in which she asked if Credit One needed her address to investigate, and Credit One said 
+it did not. (ECF No, 74-7 at 12:15-23.) But in the recording of the July 20, 2019 conversation provided by 
+Credit One in its submission, Suluki does indeed provide an address (without an apartment number) to 
+the Credit One representative. (Decl. of Kim Maragos, ECF No, 62-8.) 
+5 Suluki insists that because Credit One stated at its deposition that the affidavit Suluki completed is also 
+“essentially [an] identity theft report,” defendant cannot point to the lack of the requested identity theft 
+report as a reason not to have investigated Suluki’s claims further. (Suluki Counter 56.1 Statement at 14.) 
+However, the affidavit form Suluki completed states: “in addition to the affidavit, the following
+
+report filed with law enforcement without the additional information — the account 
+application and monthly statements ~- that Credit One allegedly refused to provide to 
+her. (Suluki Counter 56.1 at 12.) During this period, someone continued to make 
+minimum payments on the card. (Maragos Decl. Ex. D, ECF No. 62-4 at 23-35.) 
+  On November 10, 2019, Suluki sent typed letters to the three credit reporting 
+agencies stating that her mother had opened accounts with Century 21 and Capital One 
+without her consent, and handwrote into the letters that her mother had also opened a 
+Credit One account without her consent. (Suluki 56.1 Statement, ECF No. 66-4.) She 
+disputed the unauthorized accounts twice each with Trans Union, Equifax, and 
+Experian, who in turn filed Automated Credit Dispute Verifications (“ACDVs") with 
+the banks, four of which contained claims of identity theft. (Id., ECF No. 66-5.) 
+  Credit One received these disputes in late November and early December 2019. 
+(Credit One 56.1 { 26.) Three of the disputes were investigated by contractors, and 
+another was investigated by Credit One Fraud Specialist John Perry (id.), who was 
+deposed in this matter and submitted an affidavit attesting to the steps he took. (Decl. of 
+John Perry, ECF No. 61.) Each time, Credit One concluded that the account belonged to 
+Suluki. (Id. { 19.) In April 2020, Suluki submitted another letter to the CRAs, and 
+Equifax and Experian submitted additional corresponding ACDYVs to Credit One. 
+(Credit One 56.1 {| 41.) Credit One received those letters in mid-May. (Id. 11 43, 46.) 
+Defendant repeated its process and, given it had received no new information, came to 
+the same conclusion. (Id. { 45.) 
+  Credit One and Suluki largely dispute what Credit One did in its investigation. 
+(Suluki Counter 56.1 at 18-36.) Ata minimum, plaintiff concedes that Credit One’s 
+dispute agents wrote in Credit One’s account notes the ACDV code provided by the 
+CRA, and the current address provided by the consumer in the ACDV. (id. at 20-21.) 
+The dispute agent then checked for any name discrepancy, filled in the address to 
+which the credit card was shipped, and verified that the address and telephone number 
+used to open the account were linked to the card member in LexisNexis for a significant 
+amount of time, as well as during the timeframe the application for the card was 
+received. (Id.) Defendant's remaining contentions relating to its investigative process are 
+outlined in its 56.1 Statement. (Credit One 56.1 {{[f 20-38.) 
+
+information is requested: a copy of an identity theft report filed with your local police department (or other 
+inw enforcement agency).” (Id, at 12.) It is undisputed that no identity theft report fitting that description 
+has ever been provided by Suluki.
+
+  The account balance was paid in full on or about August 5, 2020. (Id. { 47.) Credit 
+One did not hear further from Suluki until this lawsuit was filed six months later. (Id.) 
+  IV.     Plaintiff’s Motion for Summary Judgment Is Denied 
+  Suluki seeks summary judgment that a) Credit One’s reporting was not accurate; b) 
+Credit One failed to properly report the results of its investigation to the credit 
+reporting agencies*; and c) Credit One’s investigation into Suluki’s disputes was 
+unreasonable, The Court denies Suluki’s motion for summary judgment in its entirety. 
+     a.  Credit One’s reporting was not inaccurate as a matter of law. 
+     “A prerequisite for any FCRA claim is that the challenged credit information is 
+incomplete or inaccurate.” Ostreicher v. Chase Bank USA, N.A., No. 19-CV-8175 (CS), 
+2020 WL 6809059, at *3 (S.D.N.Y. Nov. 19, 2020). “This order of proof makes sense: if 
+there is no inaccuracy, then the reasonableness of the investigation is not in play. On the 
+flip side, if there is an inaccuracy, to succeed, the plaintiff must establish that the 
+investigation was unreasonable.” Gross v. CitiMortgage, Inc., 33 F.4th 1246, 1251 (9th Cir. 
+2022), 
+     Suluki asserts that there is no genuine dispute that Credit One’s reporting to the 
+CRAs that the disputed account belongs to her was inaccurate. Credit One counters in 
+its motion that “[b]ecause of the conflicting testimony and documentary evidence 
+concerning accuracy, Credit One is not moving for summary judgment on that issue,” 
+(Credit One MSJ at 11 n.4), and states in opposition to plaintiff's motion that this issue is 
+not one of law, but is one of fact that must be determined by a jury. (Credit One Opp’n 
+at 3.) 
+     The Court finds that whether Credit One’s reporting was “inaccurate” — that is, 
+whether Suluki’s mother opened the account without Suluki’s blessing — is a question of 
+fact in genuine dispute that cannot be resolved at this stage. Almost all of the facts 
+alleged by both parties are consistent with Suluki’s mother opening the account in 
+
+6 Oddly, plaintiff seeks summary judgment on this claim pursuant to 15 U.S.C. § 1681s-2(b}(1)(C), which 
+does not appear in her complaint. Section 1681s-2(b)(1)(E) does appear in the complaint, but neither party 
+addresses that section in its briefing papers. Plaintiff cannot prevail on summary judgment on her section 
+1681s-2(b)(1)(C) claim for this reason alone, but the Court also details below why she cannot prevail on 
+the merits of this claim.
+
+plaintiffs name.’ (See Suluki MSJ 2-3.) The dispute is whether plaintiff gave her mother 
+permission to do so on her behalf. The only direct evidence to that effect are the directly 
+conflicting statements from Suluki and her mother. 
+     Contrary to Suluki’s assertion that “Credit One has no evidence to rebut [her] 
+testimony,” (Suluki MSJ at 10-11), Credit One has produced a  call recording (ECF No. 
+60-5) and deposition testimony (ECF No. 72-1) from Sultuki’s mother stating that Suluki 
+authorized her to open the account on Suluki’s behalf. There is no reason for this Court 
+to credit Suluki’s sworn statements over her mother’s, particularly when taking the 
+facts in the light most favorable to the nonmovant. Moreover, Khadijah’s other 
+daughter Taheerah testified that Khadijah helped her get a credit card with Credit One, 
+and that her mother often supported Khalilah and Taheerah this way. (ECF No. 72-5, 
+26:8-28:11.) “Because ‘the credibility of witnesses is exclusively for the determination by 
+the jury,’ the Court is not able to resolve the witnesses’ conflicting accounts.” Garcia v. 
+Dutchess Cnty., 43 F. Supp. 3d 281 (SHS), 292 (S.D.N.Y. 2014), aff'd in part, dismissed in 
+part sub nom. Garcia v. Sistarenik, 603 F. App'x 61 (2d Cir. 2015) (citation omitted). 
+     Plaintiff relies on Alabran v. Capital One Bank, No. CIV.A. 3:04CV935, 2005 WL 
+3338663 (E.D. Va. Dec. 8, 2005) and Wood v. Credit One Bank, 277 F. Supp. 3d 821 (E.D. 
+Va. 2017), in which the courts held as a matter of law that the furnishers’ reporting was 
+inaccurate, but the facts in those cases differ from those here in critical ways. In Wood, 
+the “identity thief” confessed that the card belonged to her, not the plaintiff. Wood 
+“submitted an affidavit from his mother, Dyan Lollis, ‘certifying that the Credit One 
+credit card was opened against the will of David Wood, but instead by Dyan Lollis,’ 
+and stating that she ‘wish[ed] to have [it] transferred back to the rightful owner Dyan 
+Lollis.’ (Lollis Aff. 1.)”. 277 F. Supp. 3d at 849. Even in the face of this, Credit One only 
+offered testimony from its own employees saying, “there was nothing to indicate that it 
+was not Mr. Wood who, in fact, opened the account”; that it was their “belief” that 
+Wood applied for the card; and a police officer’s personal “belief” that Wood was trying 
+to get out of his debt. fd. at 850. The court found these were “conclusory statements 
+
+7 Credit One admitted at deposition that it is “more likely than not” that Suluki’s mother opened the 
+account. (Suluki 56.1, ECF No. 66-2 at 70:10-15.) Credit One attempts to explain this by stating that at the 
+time it made this admission at deposition, it had not received testimony from Suluki’s mother swearing 
+to authorization by her daughter, (Credit One Opp’n at 3 n.2), but its statement at deposition is not 
+inconsistent ~ it merely reflects the likelihood that Suluki’s mother opened the account, and that the only 
+remaining question is whether she did so with Suluki’s permission.
+
+including no facts on which a reasonable jury could return a verdict in Credit One's 
+favor.” Id. In contrast, a jury in this case could rely on Suluki’s mother’s sworn firsthand 
+testimony to return a verdict in Credit One’s favor. And in Alabran, the undisputed 
+evidence showed that the plaintiff was “at most, only an authorized user of the credit 
+card or cards involved and not liable for the subject  indebtedness.” Alabran, No. CIV.A. 
+3:04CV935, 2005 WL 3338663, at *4. 
+     “TW]hen the party against whom summary judgment is sought comes forth with 
+affidavits or other material obtained through discovery that generates uncertainty as to 
+the true state of any material fact, the procedural weapon of summary judgment is 
+inappropriate. Indeed, it is the very purpose of the trial to establish which party's 
+version of the contested circumstances best comports with reality.” Quinn v. Syracuse 
+Model Neighborhood Corp., 613 F.2d 438, 445 (2d Cir. 1980). Credit One produced 
+deposition testimony and call recordings creating a genuine dispute of material fact as 
+to the accuracy of its reporting. Viewing the evidence in the light most favorable to 
+Credit One, a reasonable jury could conclude Suluki gave her mother permission to 
+open the account in Suluki’s name. This Court cannot find that Credit One’s reporting 
+was inaccurate as a matter of law. 
+     b.  There is no private right of action for a furnisher’s failure to report an account 
+        as disputed to the credit reporting agencies. 
+     15 U.S.C. § 1681s-2(b)(1)(C) requires a furnisher — here, Credit One — to “report 
+the results of the investigation to the consumer reporting agency.” Suluki asserts that 
+Credit One was obligated to report to the CRAs that, although it had done what it 
+considered to be verification of the account, Suluki still disputed the account. 
+     But in this circuit, the failure to note an account as disputed is a claim under 
+section 1681s-2(a) rather than under section 1681s-2(b), and there is no private right of 
+action to enforce violations of section 1681s-2(a). Specifically, under 15 U.S.C. § 1681s- 
+2(a)(3), where a consumer disputes the completeness or accuracy of information, the 
+furnisher “may not furnish the information to any consumer reporting agency without 
+notice that such information is disputed by the consumer.” However, the FCRA 
+provides that section 1681s-2(a) “shall be enforced exclusively . . . by the Federal 
+agencies and officials and the State officials identified in section 1681s of this title.” 15 
+US.C. § 1681s-2(d). The Second Circuit has repeatedly affirmed that this precludes 
+consumers from privately enforcing provisions of section 1681s-2(a). See Sprague v.
+
+Salisbury Bank & Tr. Co., 969 F.3d 95, 98-99 (2d Cir. 2020) (“As the district court correctly 
+concluded, the FCRA does not provide a private cause of action for violations of Section 
+1681s-2(a).”); Longman v. Wachovia Bank, 702 F.3d 148, 151 (2d Cir. 2012) (per curiam). 
+     Specifically addressing a claim essentially identical to Suluki’s, another court in 
+the Southern District recently noted, “Were the Court to allow such a violation to 
+proceed under the guise of a § 1681s-2(b) violation, it would create an end-run around 
+the clear language of the statute and permit a private cause of action for conduct 
+specifically enumerated under § 1681s-2(a).” Tescher v. Experian Info. Sols., Inc., 2022 WL. 
+564048, at *6 (S.D.N.Y. Feb. 23, 2022). Thus, despite the plaintiff's assertions in Tescher 
+that the furnisher’s failure to mark the account as disputed was both “misleading and 
+materially incomplete,” “to the extent that Plaintiff intend[ed] to proceed against 
+Defendant on the theory that failing to mark his account as disputed and continuing to 
+report it without that notation [we]re actionable . . . those theories [we]re dismissed as 
+non-actionable duties imposed on furnishers by § 1681s-2(a).” Id. Although Suluki cites 
+to out-of-circuit cases that appear to have ruled differently on this issue, the law in this 
+Circuit is straightforward: there is no private right of action to enforce 15 U.S.C. § 1681s- 
+2(a), and that is exactly what Suluki seeks to do here. 
+     Suluki’s request for judgment that Credit One violated the FCRA by falsely 
+reporting its investigation results to the CRAs is therefore denied, and since binding 
+circuit precedent dictates that she cannot prevail against Credit One on this claim, this 
+claim is dismissed. 
+     c.  Suluki has not shown, as she must, that any alternative investigation would 
+        have led Credit One to a different conclusion. 
+     Finally, Suluki seeks a determination that Credit One’s investigation into her 
+disputes was unreasonable as a matter of law. Credit One opposes this, and instead 
+seeks a finding that no reasonable jury could conclude Credit One’s investigation was 
+unreasonable. 
+     Because this Court has held that Suluki cannot show that Credit One’s reporting 
+was inaccurate as a matter of law, a reasonable jury could find that the information 
+reported by Credit  One was accurate. In that case, Suluki would not be able to 
+demonstrate that Credit One caused her harm, and the reasonableness of Credit One’s 
+investigation would be moot. See Gross, 33 F.4th at 1251.
+
+     But even assuming the information reported by Credit One was inaccurate, 
+plaintiff cannot prevail as a matter of law because, even taking the facts in the light 
+most favorable to her on the defendant’s motion for summary judgment, she has not 
+shown that an alternative investigation would have led Credit One to a different 
+conclusion. See supra Section V(a). 
+     Plaintiff’s motion for summary judgment is thus denied in full. 
+  V.     Defendant's Motion for Summary Judgment Is Granted 
+     Credit One contends that whatever factual dispute remains as to the accuracy of 
+its reporting, that fact is not material because its investigation was reasonable as a 
+matter of law, and plaintiff has not shown that any reasonable investigation would have 
+changed Credit One’s conclusion. (Credit One MSJ at 11-16.) The Court finds that 
+whatever the reasonableness of Credit One’s investigation, no reasonable factfinder 
+could find that plaintiff is entitled to damages under the FCRA, and grants Credit One's 
+motion for summary judgment. 
+     “Under § 1681n, a Defendant who willfully violates the FCRA is liable for ‘any 
+actual damages sustained by the consumer as a  result of the failure or damages of not 
+less than $100 and not more than $1,000, punitive damages, and attorneys’ fees.” 
+Frederick v. Cap. One Bank (USA), N.A., No. 14-CV-5460 (AJN), 2018 WL 1583289, at “10 
+(S.D.N.Y. Mar. 27, 2018) (quoting 15 U.S.C. § 168in{a)). “By contrast, pursuant to § 
+16810, negligent violations of the FCRA entitle a plaintiff to collect actual damages, but 
+not punitive damages.” Id. Plaintiff “bear[s] the burden of demonstrating the existence 
+of a material factual dispute as to the existence of damages.” Id. (citation omitted). 
+“Under a willful noncompliance theory, the plaintiff need not show actual damages and 
+is entitled to statutory and punitive damages.” Severini v. Pennsylvania Higher Educ. 
+Assistance Agency, No. 18-cv-2775, 2020 WL 1467396, at *6 (S.D.N.Y. Mar. 25, 2020). 
+        a)  Actual Damages 
+     There remains a factual dispute about the adequacy of the steps taken by Credit 
+One to investigate Suluki’s claims. But Credit One still prevails as a matter of law, 
+because even where a defendant has violated 15 U.S.C. § 1681s—2(b) by failing to 
+conduct a reasonable investigation of the disputed information, summary judgment in 
+favor of the defendant is “still appropriate if no reasonable factfinder could find that 
+Plaintiff is entitled to damages under the FCRA.” Ramirez v. Verizon Comme’ns, Inc., No. 
+
+                                     10 
+
+13-cv-6000, 2015 WL 917531, at *3 (S.D.N.Y. Feb. 27, 2015); Frederick, No. 14-CV-5460, 
+2018 WL 1583289, at *7. “In order to recover under a negligence theory, plaintiff must 
+establish actual damages attributable to defendants’ unreasonable investigation.” Okocha 
+v. HSBC Bank USA, N.A., No. 08-cv-8650, 2010 WL 5122614, at *5 (5.D.N.Y. Dec. 14, 
+2010) (emphasis added). In other words, even if the inaccuracy of the reporting led to 
+damages to the plaintiff, if there is “no genuine issue of material fact as to whether a 
+reasonable investigation would have revealed that [defendant] reported inaccurate 
+information,” then there is no causal connection between the unreasonableness of the 
+defendant's investigation and the inaccuracy that caused the plaintiff damages, and the 
+plaintiff cannot prevail against that defendant. Jackling v. HSBC Bank USA, N.A,, No. 15- 
+cv-6148, 2019 WL 162743, at *5 (W.D.N.Y. Jan. 10, 2019). 
+     Although the Second Circuit has not explicitly agreed with this approach, other 
+circuit courts have. See Chiang v. Verizon New Eng. Inc., 595 F.3d 26, 41 (1st Cir. 2010) 
+(affirming the district court's finding that plaintiff was “required to present evidence of 
+actual inaccuracies in his account that an alternative investigation might have 
+uncovered”); Gross, 33 F.4th at 1252 (“Establishing an inaccuracy is not enough, 
+however; [plaintiff] must also show that the inaccuracy was the product of an 
+unreasonable investigation by [defendant].”); Felts v. Wells Fargo Bank, N.A., 893 F.3d 
+1305, 1313 (11th Cir. 2018) (“Regardless of the nature of the investigation a furnisher 
+conducted, a plaintiff asserting a claim against a furnisher for failure to conduct a 
+reasonable investigation cannot prevail on the claim without demonstrating that had the 
+furnisher conducted a reasonable investigation, the result would have been 
+different; i.e., that the furnisher would have discovered that the information it reported 
+was inaccurate or incomplete, triggering the furnisher's obligation to correct the 
+information. Absent that showing, a  plaintiffs claim against a farnisher necessarily 
+fails, as the plaintiff would be unable to demonstrate any injury from the allegedly 
+deficient investigation.”). Other circuits have also upheld a requirement in section 1681i 
+cases against CRAs that plaintiffs identify information that a more extensive 
+investigation would have revealed. See, e.g., Cushman v. Trans Union, 115 F.3d 220, 226 
+(3d Cir. 1997) (“the decisive inquiry is whether [the CRA] could have determined that 
+the accounts were opened fraudulently if it had reasonably investigated the 
+matter’”); Cahlin v. General Motors Acceptance Corp., 936 F.2d 1151, 1160 (11th Cir. 
+1991) (“[A § 1681i(a)] claim is properly raised when a  particular credit report contains 
+
+                                     11 
+
+a factual deficiency or error that could have been remedied by uncovering additional 
+facts that provide a more accurate representation about a particular entry.”). 
+     Even taking the facts in the light most favorable to plaintiff, Suluki has not 
+presented any facts showing that, had Credit One taken any of the additional steps she 
+urges, it would have come to a different conciusion. The evidence shows at most that 
+Suluki’s mother opened the account in Suluki’s name. There is no alternative 
+investigation that would have allowed Credit One to determine that Suluki did not give 
+her mother permission to open the account, short of relying on a police or FIC report to 
+that effect which Suluki never provided.’ For example, Suluki insists that if Credit One 
+had checked the IP address from which the application was submitted, it would have 
+learned that it was not Suluki who submitted it. (Suluki MSJ at 2.) But the IP address 
+would have told Credit One nothing about whether Suluki gave her mother permission 
+to do so. (Credit One Opp’n at 12-14,) In fact, Suluki worked with Khadijah at the school 
+from which the application was submitted. (Id.) 
+     No reasonable jury could find on these facts that Credit One had information 
+available to it that, had Credit One taken additional steps to obtain that information, 
+would have led it to conclude that Suluki did not authorize her mother to open the 
+account on her behalf. This is the distinguishing factor between this case and others 
+cited by plaintiff. In Wood, Credit One had evidence before it that ought to have led it to 
+the correct conclusion: the identity thief submitted a written confession that Credit One 
+needed only to accept. 277 F. Supp. 3d at 849. In Johnson v. MBNA Am. Bank, NA, 357 
+F.3d 426, 432 (4th Cir, 2004), which plaintiff asserts is the “seminal decision” on 
+reasonable investigations (Suluki MSJ at 15), the court noted that the original account 
+application (which the bank no longer possessed) would have shown that the plaintiff 
+was only an authorized user, and not a co-obligor, on the account. Thus, the court 
+determined that the defendant could have verified that the plaintiff was not a co-obligor, 
+had the defendant retained that document. Johnson, 357 F.3d at 432. 
+     This case is distinguishable. Suluki has pointed to no one who can corroborate 
+her testimony that her mother did not have her permission to open the account, nor has 
+
+8 Credit One’s representative at deposition stated that he could not recall anything “other than a police 
+report which would be investigated or an identity theft affidavit in the format that the FTC could make 
+available .  .. that would cause Credit One to delete” an account in its report to a CRA, (Suluki Counter 
+56.1, ECF No. 74-8 at 80:10-17.) 
+                                     12 
+
+she proffered any piece of evidence that would show she did not give that permission, 
+if Credit One had only retained it or sought it out. Rather, this case is analogous to 
+Chiang, in which the only evidence the plaintiff could identify that he alleged should 
+have changed the furnisher’s conclusion was the plaintiff's “own telephone calls and 
+letters complaining of the charges.” Chiang v. Verizon New England Inc., No. CIV.A.06- 
+CV-12144 (DPW), 2009 WL 102707, at *11 (D. Mass. Jan. 13, 2009), aff'd, 595 F.3d 26 (1st 
+Cir. 2010). This Court concludes, as the district court concluded in Chiang, that as “a 
+furnisher is not required under the FCRA to rely solely on a consumer's allegations in 
+the absence of other information that would cause a reasonable person to have 
+substantial doubts about the accuracy of the consumer's credit report .. . [and] [a]s 
+[plaintiff] cannot demonstrate that a reasonable investigation could have uncovered any 
+such evidence,” plaintiff has failed to raise a genuine issue of material fact as to whether 
+the investigation satisfied section 1681s-2(b). 
+     Because Suluki has not alleged any facts suggesting that any additional steps 
+taken by Credit One would have yielded a  different result and prevented any damage 
+she suffered, Suluki cannot prevail, and Credit One’s motion for summary judgment is 
+granted. 
+        b)  Willfulness 
+     “Even if Plaintiff is not entitled to actual damages, he may still be entitled to 
+punitive damages based on sufficient proof that [the defendant] willfully violated [] the 
+FCRA.” Gorman v. Experian Info. Sols., Inc., No. 07 CV 1846 (RPP), 2008 WL 4934047, at *7 
+(S.D.N.Y. Nov. 19, 2008) (internal citation omitted). “[T]he mere failure to correct a 
+plaintiff's inaccurate credit information, even after notification of the inaccuracy 
+does not constitute a willful failure to comply with the FCRA.” Jenkins v. AmeriCredit 
+Fin. Servs., Inc., No. 14-cv-5687, 2017 WL 1325369, at *7 (E.D.N.Y. Feb, 14, 2017) (citation 
+omitted). Willfulness can be found on either a knowing or reckless basis. ““[C]onscious 
+disregard or deliberate and purposeful actions [are] necessary to make out a claim for 
+willful noncompliance under the FCRA.”” Burns v. Bank of Am., 655 F. Supp. 2d 240, 252 
+(S.D.N.Y. 2008), aff'd, 360 F. App’x 255 (2d Cir, 2010) (citing Casella v. Equifax Credit Info. 
+Servs., 56 F.3d 469, 476 (2d Cir. 1995)). 
+     Suluki has not sufficiently shown that Credit One was willful; she has set forth 
+no evidence of “willful misrepresentations or concealments” that would satisfy this 
+high burden. Burns, 655 F. Supp. 2d at 252 (quoting Pinner v. Schntidt, 805 F.2d 1258, 
+                                     13 
+
+1263 (5th Cir. 1987)). “[Bleyond Plaintiff's conclusory statements, [s]he furnishes no 
+evidence that [] the Defendant] either intentionally misled [her] or acted in reckless 
+disregard.” Frederick, No. 14-CV-5460 (AJN), 2018 WL 1583289, at *10. 
+     Credit One’s motion for summary judgment is therefore granted in full. 
+  VI.    Conclusion 
+     The Court grants defendant’s motion for summary judgment and denies 
+plaintiff's motion. Because plaintiff has not demonstrated a genuine dispute of material 
+fact as to her entitlement to any remedy under the FCRA, this action is dismissed in its 
+entirety. 
+
+Dated:  New York, New York 
+     March 30, 2023 
+                                   SO ORDERED: 
+
+                                        (by           ft   She: 
+                                   Sidney H. Sfein, U.S.D,]. 
+
+                                     14
+
+---
+
+UNITED STATES DISTRICT COURT 
+                    SOUTHERN DISTRICT OF NEW YORK 
+Khalilah Suluki,                       ) 
+            Plaintiff,
+Credit One Bank, NA; et al.,             )              prem   nree  De awe 
+            Defendants. 
+eg _     ere) 
+         PLAINTIFF’S REQUEST FOR LEAVE TO FILE SUPPLEMENTAL 
+    AUTHORITY IN SUPPORT OF HER MOTION FOR SUMMARY JUDGMENT 
+      Plaintiff Kahlilah Suluki, by Counsel, requests the Court’s leave to file as supplemental 
+authority to her Motion for Summary judgment the attached publication of the Consumer Financial 
+Protection Bureau, its Consumer Financial Protection Circular 2022-07 (Nov. 10, 2022). (Ex. 1.) 
+For the reasons below, the Court should permit Plaintiff's filing. 
+       I.     CFPB INTERPRETATIONS OF THE FCRA ARE PERSUASIVE AUTHORITY. 
+      Since 2010, the CFPB has possessed the authority “to prescribe rules’ or ‘issue guidelines’ 
+regarding the  FCRA.” Kidd v.  Thomson Reuters Corp.,  925 F.3d 99, 106 n.8 (2d Cir. 2019). Courts 
+grant such guidance persuasive authority, id. at 106, and consider the CFPB and FTC “authoritative 
+sources” in interpreting the FCRA. Henderson v. Trans Union, LLC, Civ. No. JAG-14-0679, 2017 
+WL.1734036, at *2 (E.D. Va. May 2, 2017); Fernandez v. RentGrow, Inc.,  34) F.R.D.174, 193 
+(D. Md. 2022) (citing Henderson with approval for this point). The Court should therefore have 
+little  difficulty  concluding  that  the  CFPB  guidance  attached  is  appropriately  considered  as 
+persuasive guidance in its analysis of Plaintiff's Motion for Summary Judgment. 
+
+                   Il.    THE ATTACHED, RECENT PUBLICATION 
+          WAS NOT AVAILABLE AT THE TIME THE PARTIES BRIEFED SUMMARY 
+              JUDGMENT, BUT THE COURT SHOULD CONSIDER IT ANYWAY. 
+     The CFPB issued the publication Plaintiff seeks to include in the record on November 10. 
+2022, more than five months after summary-judgment briefing closed. (See ECF 82, filed May 25, 
+2022.) It therefore was not available at the time the Parties were briefing both sides’ summary- 
+judgment motions. Since the Court has not yet issued its ruling on either motion, it should consider 
+this recent interpretation by the CFPB. 
+     The CFPB opinion is relevant because it discusses the reasonableness of investigations of 
+disputes. (See Ex. 1.) The reasonableness of Credit One’s investigations into Plaintiffs disputes 
+of its reporting of an account as belonging to her is the centerpiece of both motions for summary 
+judgment,  so this recent opinion by the CFPB  is  unquestionably relevant.  The Court should 
+therefore permit Plaintiff to file it and should make it part of the Court’s analysis of the pending 
+motions. 
+                              III.  | CONCLUSION. 
+     For the foregoing reasons, the Court should permit Plaintiff to file the attached Exhibit 1 
+as persuasive authority for her Motion for Summary Judgment. The opinion is relevant to the 
+Court’s analysis, was unavailable at the time the Parties briefed summary judgment, and should 
+therefore be part of the record here. 
+November 11, 2022                          Respectfully submitted, 
+                                        Khalilah Suluki 
+
+                                             /s/ Craig C. Marchiando 
+                                        Craig C. Marchiando 
+                                        Leonard A. Bennett (pro hac vice) 
+                                        CONSUMER LITIGATION ASSOCIATES, P.C, 
+                                        763 J. Clyde Morris Boulevard, Suite 1-A
+
+                                 Newport News, VA 23601 
+                                 (757) 930-3660 — Telephone 
+                                 (757) 930-3662 — Fax 
+                                 Email: craig@clalegal.com 
+                                 Email: lenbennett@clalegal.com 
+                                 Abel L. Pierre, Esq. 
+                                 149 Broadway, 46th Floor 
+                                 New York, NY 
+                                 (212) 766-3323 — Telephone 
+                                 (212) 766-3332 — Facsimile 
+                                 Email: abel@apierrelaw.com 
+                                Attorneys for Plaintiff 
+
+Plaintiff's request to file supplemental authority is granted. 
+Dated: New York, New York 
+    November ##, 2022 
+             7                  SO ORDERED:                
+                                           th         ‘Le 
+                                          “A          ee 
+                                       Sidney H.  Stein, U.S.D.J.

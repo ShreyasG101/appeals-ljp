@@ -1,0 +1,27 @@
+{
+  "overall_outcome": "REVERSE",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court erred in granting a permanent injunction requiring the Rhode Island Interscholastic League to waive its eight-semester eligibility rule as a reasonable accommodation under the ADA.",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "The First Circuit held that the plaintiff failed to establish that his disability was the but-for cause of his ineligibility under the League's rule, and that granting the requested waiver would fundamentally alter the nature of the League's interscholastic athletics program."
+    }
+  ],
+  "key_precedents": [
+    "PGA Tour, Inc. v. Martin, 532 U.S. 661 (2001)",
+    "McPherson v. Michigan High School Athletic Ass'n, 119 F.3d 453 (6th Cir. 1997)",
+    "Sandison v. Michigan High School Athletic Ass'n, 64 F.3d 1026 (6th Cir. 1995)",
+    "Bostock v. Clayton County, 590 U.S. 644 (2020)",
+    "Contour Design, Inc. v. Chance Mold Steel Co., 693 F.3d 102 (1st Cir. 2012)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "After repeating his freshman year of high school, plaintiffs-appellees' son John Doe asked the Rhode Island Interscholastic League (\"the League\") to waive its eight-semester limit on participation in interscholastic athletics so that he could continue to play competitive sports in his senior year. Doe asserted that such a waiver was a necessary and reasonable accommodation under Titles II and III of the Americans with Disabilities Act (\"ADA\") for his several psychological disabilities. After the League refused, Doe obtained a permanent injunction allowing him to play through the end of the 2024-2025 academic year. Because Doe's ineligibility under the League's rules is unrelated to his disability, and allowing him to play in violation thereof would fundamentally alter the League's interscholastic athletics program, we vacate the district court's injunction."
+}

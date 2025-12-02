@@ -1,0 +1,1763 @@
+UNITED STATES DISTRICT COURT                            
+              DISTRICT OF MASSACHUSETTS                              
+
+__________________________________________                                
+                              )                                      
+ROBERT CONLON AND BETSY CONLON,    )                                      
+as personal representatives of the Estate of  )                           
+Michael Conlon,                    )                                      
+                              )                                      
+     Plaintiffs,              )                                      
+                              )    Civil Action No.                  
+v.                            )    23-10026-FDS                      
+                              )                                      
+CITY OF NEWTON, et al.,            )                                      
+                              )                                      
+     Defendants.              )                                      
+__________________________________________)                               
+
+
+              MEMORANDUM AND ORDER ON                                
+            DEFENDANTS’ MOTIONS TO DISMISS                           
+SAYLOR, C.J.                                                              
+This is a civil rights action alleging the use of excessive force by police officers arising 
+out of a tragic encounter with a mentally-ill man that resulted in his death. 
+In January 2021, a Newton police officer responded to the scene of a suspected armed 
+robbery.  He encountered Michael Conlon holding a kitchen knife, who fled into a nearby 
+apartment building.  After Conlon was cornered on a stairway landing, he threatened to harm 
+himself if the officer came any closer.  More officers responded to the scene. 
+Conlon suffered from significant mental-health issues, including schizoaffective disorder.  
+Although it is unclear whether the officers at the scene knew the details of his disorders, they 
+certainly knew he had a serious mental-health problem, and that he was in a delusional state. 
+After a brief standoff, officers convinced Conlon to drop the knife.  One officer then 
+attempted to use a “less-than-lethal” shotgun—a shotgun that fires a beanbag—to disable Conlon 
+and effect his arrest.  But the shotgun misfired, producing only a clicking noise.  At that point, 
+Conlon retrieved the knife and advanced on the officers.  Officers then fatally shot him. 
+Conlon’s parents, plaintiffs Robert and Betsy Conlon, sued the City of Newton and five 
+individual police officers.  The complaint alleges federal claims under 42 U.S.C. § 1983 and the 
+Americans with Disabilities Act (“ADA”), along with several related state-law claims.  
+
+Defendants have moved to dismiss the complaint for failing to state a claim upon which relief 
+can be granted.                                                           
+The critical issue in this case is not whether, with the benefit of hindsight, the police 
+response was appropriate in all respects.  Police officers can, and often do, make serious 
+mistakes, particularly when making split-second decisions in emergency situations.  Rather, the 
+issues here are whether the use of force was so unreasonable as to violate the Fourth 
+Amendment, and, if so, whether a reasonable police officer would have understood that use of 
+force to amount to a constitutional violation.  If the answer to either of those questions is no, the 
+officers are entitled to qualified immunity.                              
+That inquiry is somewhat complicated by the fact that Conlon was suffering from mental-
+
+health issues and appeared to be delusional at the time of the incident.  Such a person, under 
+most circumstances, deserves special solicitude and care.  At the same time, a person with severe 
+mental-health disorders—particularly one who is in a delusional state and brandishing a 
+weapon—can be substantially more dangerous to others than an ordinary person.  Those 
+complicating factors must be considered when assessing the objective reasonableness of the 
+police response.                                                          
+In any event, under the circumstances presented here, neither the City of Newton nor its 
+officers violated the law during the incident with Conlon.  Accordingly, and for the reasons set 
+forth below, the motions to dismiss will be granted.                      
+I.   Background                                                           
+Except as otherwise noted, the following facts are set forth as alleged in the first amended 
+complaint.                                                                
+A.   Factual Background                                              
+     1.   The Parties                                                
+Michael Conlon was a 28-year-old man who resided in Newton, Massachusetts.  (Compl. 
+
+¶¶ 28, 35).  He suffered from mental illness from an early age, and was eventually diagnosed 
+with major depression, bipolar disorder, and schizoaffective disorder.  (Id. ¶¶ 29-39).  Symptoms 
+of his illness included delusions, suicidal ideation, suicide attempts, and irrational fears.  (Id. 
+¶ 33).  Some of those symptoms led him to fear police.  (Id. ¶ 34).       
+Robert and Betsy Conlon were Michael’s parents and are the appointed representatives of 
+his estate.  (Id. ¶ 21).  They reside in Medfield, Massachusetts.  (Id. ¶ 36). 
+The City of Newton (the “City”) is a Massachusetts municipality.  (Id. ¶ 2).  The Newton 
+Police Department (“NPD”) is an agency of the City.                       
+Dennis Dowling, Christopher Marzilli, Glenn Chisholm, Richard Benes, and Francis 
+Scaltreto are NPD employees.  (Id. ¶¶ 23-27).  Dowling and Marzilli are both captains; Chisholm 
+
+is a sergeant; and Benes and Scaltreto are patrol officers.  (Id.).       
+     2.   The Incident                                               
+On January 5, 2021, NPD officer Zachary Raymond was dispatched to an armed robbery 
+at a candy store at 16 Lincoln Street in Newton.  (Id. ¶ 50).  When he arrived, Raymond saw 
+Michael Conlon standing outside the store holding a “small kitchen knife.”  (Id. ¶ 52).1  
+Raymond drew his weapon and ordered Conlon to drop the knife.  (Id.).  Instead, Conlon turned 
+
+
+1 The precise size and shape of the knife is not identified in the complaint. 
+and entered an apartment building at 18 Lincoln Street.2  Raymond followed.  (Id. ¶¶ 53-54).3 
+Conlon climbed several flights of stairs to the third floor of the apartment building.  
+(Id. ¶ 54).  Raymond continued to pursue him and again ordered him to drop the knife.  
+(Id. ¶ 55).  On the third floor, Conlon stopped and held the knife to his own throat, threatening to 
+
+harm himself if Raymond approached.  (Id.).  Raymond then retreated to the second-floor 
+landing.  (Id. ¶ 56).                                                     
+As Raymond waited, several other NPD officers arrived, including Captains Dowling and 
+Marzilli.  Dowling and Marzilli determined that Conlon was experiencing a mental-health crisis.  
+(Id. ¶ 59).  Those officers were allegedly “aware” of Conlon’s “mental health challenges,” but 
+are not alleged to have any particularized knowledge about his condition at the time of the 
+incident.  (Id. ¶ 38).  The NPD officers, along with several members of the Massachusetts State 
+Police, positioned themselves to surround Conlon, some below him on the second-floor landing, 
+and others at the other end of the hallway on the third floor.  (Id. ¶ 62). 
+Conlon continued to speak to the officers, saying that he believed that he was in a 
+
+“simulation” and questioning whether the officers were real, while visibly spitting and drooling.  
+(Id. ¶¶ 63-65).  Several officers feigned belief in his statements but continued to ask him to drop 
+the knife.  (Id. ¶ 64).                                                   
+Outside, Sarah Eknaian, an NPD social worker, had arrived.  Eknaian’s general role with 
+the NPD was to respond alongside police officers to calls involving apparent mental-health 
+disorders or substance abuse.  (Id. ¶ 68).  The NPD requested assistance from the Northeastern 
+Massachusetts Law Enforcement Council (“NEMLEC”) tactical team.  (Id. ¶ 74). 
+
+
+2 According to the complaint, Conlon lived in the building.  (Compl. ¶ 35). 
+3 Although Raymond presumably called for backup at some point, that fact is not alleged in the complaint. 
+As the scene grew increasingly crowded, either Dowling or Marzilli ordered Sergeant 
+Chisholm to retrieve a beanbag-projectile shotgun.  (Id. ¶ 77).  A beanbag is a “less-than-lethal” 
+projectile “intended to incapacitate the subject and prevent further aggressive actions” when “a 
+violent or potentially violent subject cannot be subdued in any other less-than-lethal manner 
+
+without the threat of death or serious bodily injury to the officer or other persons.”  (Id. ¶ 48).  
+Dowling and Marzilli formulated a plan to use the beanbag shotgun in the event that there was a 
+chance to end the standoff before the NEMLEC team arrived.  (Id. ¶ 80).  If the opportunity 
+arose, they intended to use the beanbag shotgun to effect Conlon’s arrest.  (Id.).  If necessary, 
+two state troopers were instructed to use Tasers to incapacitate Conlon.  (Id.).  Dowling further 
+told Officer Benes that he was the “lethal option” in case the Tasers were ineffective.  (Id. ¶ 81). 
+Back inside, Officer Scaltreto was talking with Conlon, who was still holding the knife 
+and had picked up a fire extinguisher.  (Id. ¶ 90).  After continuing to engage, Scaltreto 
+eventually persuaded him to drop both items.  (Id. ¶¶ 93-94).  Once Conlon put down the knife, 
+Scaltreto told the officers behind him that there was “an opening.”  (Id. ¶ 95).  Hearing that 
+
+information, Dowling gave the order to use the beanbag shotgun.  (Id. ¶ 100).  Chisholm raised 
+the shotgun, aimed it at Conlon’s collarbone, and pulled the trigger.  (Id. ¶ 103).  The shotgun 
+misfired, producing only a loud clicking noise.  (Id. ¶ 107).             
+The complaint alleges that the clicking sound “startled [Conlon] and caused him to pick 
+up the kitchen knife” and begin to approach Chisholm.  (Id. ¶¶ 107, 109).4  A state trooper tried 
+
+
+4 Plaintiffs suggest that “[w]hether [Conlon] picked up the knife and/or advanced at officers is a disputed 
+fact.”  (Pl. Opp’n, ECF No. 50 at 8 n.15).  To support that position, they exclusively rely on the use of “allegedly” 
+used in two paragraphs.  (Compl. ¶¶ 14, 108).  Plaintiffs assert that the purported “allegations” were raised by police 
+officers during an inquest investigating Conlon’s death.  (Pl. Opp’n, ECF No. 50 at 1 n.1).   
+The complaint itself, however, plainly states (without qualification) that Conlon “pick[ed] up the kitchen 
+knife” and “approached” Chisholm.  (Compl. ¶¶ 107, 109).  It does not mention the inquest proceeding, any 
+“allegations” raised by the officers there, or even explicitly identify a disputed issue of fact.   
+to use a Taser to subdue Conlon, but “almost simultaneously” Benes and Scaltreto fired their 
+own sidearms, killing him.  (Id. ¶¶ 109, 111).                            
+B.   Procedural Background                                           
+Plaintiffs originally filed this suit on January 5, 2023, and subsequently amended the 
+complaint on November 15, 2023.                                           
+
+The amended complaint asserts five claims against NPD officers Francis Scaltreto, 
+Richard Benes, Glenn Chisholm, Dennis Dowling, and Christopher Marzilli:  excessive force in 
+violation of the Fourth Amendment under 42 U.S.C. § 1983 (Count 1); violations of the 
+Massachusetts Civil Rights Act (“MCRA”), Mass. Gen. Laws ch. 12, §§ 11H-11I (Counts 7 and 
+8); and wrongful death under Mass. Gen. Laws ch. 229, § 2 (Count 9).      
+It asserts four claims against the City:  failure to train its officers in violation of the 
+Fourteenth Amendment under 42 U.S.C. § 1983 (Count 2); and failure to accommodate a 
+disability and to train its officers in violation of the ADA, 42 U.S.C. § 12132, and the 
+Rehabilitation Act, 29 U.S.C. § 794(a) (Counts 4-6).                      
+The complaint also asserts a claim against all defendants for a failure to provide mental-
+
+health treatment in violation of the Fourteenth Amendment under 42 U.S.C. § 1983 (Count 3). 
+Finally, it asserts a claim for common-law assault against Chisholm (Count 10). 
+Defendants have moved to dismiss all claims under Fed. R. Civ. P. 12(b)(6) for failure to 
+state to claim upon which relief can be granted.                          
+II.  Standard of Review                                                   
+On a motion to dismiss made pursuant to Rule 12(b)(6), the court “must assume the truth 
+
+The Court cannot disregard the plain language of the complaint (which, of course, was drafted by counsel 
+for plaintiffs), nor rely on later representations of counsel to incorporate additional facts.  While the Court will 
+disregard the factual allegations qualified by the complaint itself, it will not ignore the unequivocally pleaded factual 
+allegations.                                                              
+of all well-plead[ed] facts and give the plaintiff the benefit of all reasonable inferences 
+therefrom.”  Ruiz v. Bally Total Fitness Holding Corp., 496 F.3d 1, 5 (1st Cir. 2007) (citing 
+Rogan v. Menino, 175 F.3d 75, 77 (1st Cir. 1999)).  To survive a motion to dismiss, the 
+complaint must state a claim that is plausible on its face.  Bell Atl. Corp. v. Twombly, 550 U.S. 
+
+544, 570 (2007).  In other words, the “[f]actual allegations must be enough to raise a right to 
+relief above the speculative level, . . . on the assumption that all the allegations in the complaint 
+are true (even if doubtful in fact).”  Id. at 555 (citations omitted).  “The plausibility standard is 
+not akin to a ‘probability requirement,’ but it asks for more than a sheer possibility that a 
+defendant has acted unlawfully.”  Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) (quoting Twombly, 
+550 U.S. at 556).  Dismissal is appropriate if the complaint fails to set forth “factual allegations, 
+either direct or inferential, respecting each material element necessary to sustain recovery under 
+some actionable legal theory.”  Gagliardi v. Sullivan, 513 F.3d 301, 305 (1st Cir. 2008) (quoting 
+Centro Medico del Turabo Inc. v. Feliciano de Melecio, 406 F.3d 1, 6 (1st Cir. 2005)). 
+III.  Analysis                                                            
+
+A.   Individual Officers                                             
+     1.   Qualified Immunity Generally                               
+The doctrine of qualified immunity protects public employees “from liability for civil 
+damages insofar as their conduct does not violate clearly established statutory or constitutional 
+rights of which a reasonable person would have known.”  Harlow v. Fitzgerald, 457 U.S. 800, 
+818 (1982).  Qualified immunity is determined according to a two-part test.  See Pearson v. 
+Callahan, 555 U.S. 223, 232-33 (2009); Maldonado v. Fontanes, 568 F.3d 263, 268-69 (1st Cir. 
+2009).  The relevant inquiries are (1) whether the facts alleged or shown by the plaintiff make 
+out a violation of a constitutional right, and (2) whether the right at issue was clearly established 
+at the time of the defendant’s alleged misconduct.  Maldonado, 568 F.3d at 268-69. 
+The question is not whether some right has been clearly established at a highly abstract 
+level, but “whether, under the circumstances that confronted the official, ‘a reasonable official 
+would understand that what he is doing violated that right.’”  Berthiaume v. Caron, 142 F.3d 12, 
+15 (1st Cir. 1998) (quoting Anderson v. Creighton, 483 U.S. 635, 640 (1987)).  In other words, 
+
+the question is “whether a reasonable officer, situated similarly to the defendant, would have 
+understood the challenged act or omission to contravene the discerned constitutional right.”  
+Burke v. Town of Walpole, 405 F.3d 66, 77 (1st Cir. 2005) (quoting Limone v. Condon, 372 F.3d 
+39, 44 (1st Cir. 2004)).  The qualified-immunity doctrine “leaves ‘ample room for mistaken 
+judgments.’”  Berthiaume, 142 F.3d at 15 (quoting Malley v. Briggs, 475 U.S. 335, 343 (1986)). 
+To show that an official’s conduct violated a clearly established right, the plaintiff bears 
+the burden “to identify controlling authority or a consensus of persuasive authority sufficient to 
+put the officers on notice that their conduct violated the law.”  Estate of Rahim v. Doe, 51 F.4th 
+402, 412 (1st Cir. 2022); see also Rivera-Corraliza v. Morales, 794 F.3d 208, 214-15 (1st Cir. 
+2015) (noting that a plaintiff’s failure to identify such authority dooms their claims).  While a 
+
+prior case need not be identical to clearly establish a right, “[p]recedent involving similar facts 
+can help move a case beyond the otherwise ‘hazy border between excessive and acceptable 
+force’ and thereby provide an officer notice that a specific use of force is unlawful.”  Kisela v. 
+Hughes, 584 U.S. 100, 105 (2018) (quoting Mullenix v. Luna, 577 U.S. 7, 18 (2015)).  Still, 
+qualified immunity is an affirmative defense, and the burden is on defendants to show they are 
+entitled to its protection.  DiMarco-Zappa v. Cabanillas, 238 F.3d 25, 35 (1st Cir. 2001). 
+     2.   Excessive Force                                            
+Count 1 asserts a claim under 42 U.S.C. § 1983 against the individual defendants for 
+“excessive use of force” in violation of the Fourth Amendment right “to be free from 
+unreasonable seizures.”  (Compl. at 21).  The complaint alleges four purportedly unreasonable 
+actions:  (1)  Conlon was surrounded in “tight quarters”; (2) Chisholm pointed the beanbag 
+shotgun at Conlon; (3) Chisholm “attempt[ed]” to fire the beanbag shotgun; and (4) Benes and 
+Scaltreto used deadly force.  (Id. ¶ 134).5  The complaint extends those claims to the other 
+officers based on a breach of their “duty to intervene” to prevent a constitutional deprivation.  
+
+(Id. ¶ 149).  The individual defendants contend that they are protected by qualified immunity. 
+Claims under § 1983 have two essential elements:  “[1] the defendant must have acted 
+under color of state law, and [2] his or her conduct must have deprived the plaintiff of rights 
+secured by the Constitution or by federal law.”  Gagliardi v. Sullivan, 513 F.3d 301, 306 (1st Cir. 
+2008).  It is undisputed here that the individual defendants were acting under the color of state 
+law during their encounter with Conlon; the issue is whether their actions deprived Conlon of his 
+constitutional rights.  See West v. Atkins, 487 U.S. 42, 50 (1988).       
+“To establish a Fourth Amendment violation based on excessive force, a plaintiff must 
+show that the defendant officer employed force that was unreasonable under the circumstances.”  
+Jennings v. Jones, 499 F.3d 2, 11 (1st Cir. 2007) (citing Graham v. Connor, 490 U.S. 386, 397 
+
+(1989)).  In other words, a plaintiff must show (1) that there was a “seizure” within the meaning 
+of the Fourth Amendment, and that (2) the use of force during the seizure was unreasonable.  
+Graham, 490 U.S. at 395.  Here, there is no dispute that Conlon was “seized,” at least by the 
+time that officers had isolated him on the third-floor landing of his apartment building.  (Compl. 
+¶ 62).  The critical question, therefore, is whether the officers’ subsequent use of deadly force 
+was unreasonable.                                                         
+
+
+5 The First Circuit has suggested that courts should analyze each use of force in an excessive force 
+separately using a “segmented approach,” particularly when “circumstances relevant to the reasonableness inquiry 
+changed between one use of force and another.”  Lachance v. Town of Charlton, 990 F.3d 14, 25 (1st Cir. 2021); see 
+also County of Los Angeles v. Mendez, 581 U.S. 420, 428 (2017) (“[T]he objective reasonableness analysis must be 
+conducted separately for each . . . seizure that is alleged to be unconstitutional.”). 
+“The ‘reasonableness’ of a particular use of force must be judged from the perspective of 
+a reasonable officer on the scene, rather than with the 20/20 vision of hindsight.”  Graham, 490 
+U.S. at 396.  The objective reasonableness of the force used is determined with a balancing test 
+that considers, among other things, the “severity of the crime at issue, whether the suspect poses 
+
+an immediate threat to the safety of the officers or others, and whether he is actively resisting 
+arrest or attempting to evade arrest by flight.”  Id.  The right to make an arrest carries with it the 
+right to use some physical force.  Id.  Only excessive force is actionable; “not every push or 
+shove rises to the level of a constitutional violation.”  Gaudreault v. Municipality of Salem, 923 
+F.2d 203, 205 (1st Cir. 1990).                                            
+The officer’s subjective intent or motivation is not relevant to the reasonableness inquiry.  
+Bastien v. Goddard, 279 F.3d 10, 14 (1st Cir. 2002) (citing Alexis v. McDonald’s Rests. of 
+Massachusetts, 67 F.3d 341, 352 (1st Cir. 1995)).  “An officer’s evil intentions will not make a 
+Fourth Amendment violation out of an objectively reasonable use of force; nor will an officer’s 
+good intentions make an objectively unreasonable use of force constitutional.”  Graham, 490 
+
+U.S. at 397.  “The calculus of reasonableness must embody allowance for the fact that police 
+officers are often forced to make split-second judgments—in circumstances that are tense, 
+uncertain, and rapidly evolving—about the amount of force that is necessary in a particular 
+situation.”  Id. at 396-97.                                               
+          a.   Surrounding Conlon                                    
+The complaint first asserts that the officers acted unreasonably by surrounding Conlon in 
+“close quarters” while attempting to effect his arrest.6                  
+That conduct alone cannot establish an excessive-force claim.  The First Circuit recently 
+
+
+6 Neither party has addressed that allegation as a basis for the excessive-force claim. 
+rejected a similar claim that officers “created” a more dangerous situation by “closing in” on 
+arrestee’s position.  Bannon v. Godin, 99 F.4th 63, 80 (1st Cir. 2024).  Here, the complaint is 
+clear that officers were called to the scene of an armed robbery and that an officer saw Conlon 
+armed with a knife.  (Compl. ¶¶ 50-52).  When Conlon saw the officer, he fled.  (Id. ¶ 53).  At 
+
+that point, at a minimum, there was probable cause for Conlon’s arrest.  Once more officers 
+arrived, Conlon continued to hold the knife and picked up a fire extinguisher, and did not 
+immediately submit to the officers’ commands.  (Id. ¶¶ 63, 64, 82, 93).  Although the complaint 
+appears to characterize some of its pleaded facts as disputed, it suggests that Conlon may have 
+also been threatening to harm himself if officers approached.  (Id. ¶ 55).  The officers did not 
+rush at him—or indeed touch him at all—and continued to delay and negotiate.  (Id. ¶¶ 90-94).  
+While the officers’ positioning may not have been a model of tactical proficiency, any such 
+shortcoming was not objectively unreasonable under the circumstances presented, and the 
+complaint does not allege a plausible constitutional violation on that basis. 
+          b.   Pointing the Shotgun                                  
+The complaint next asserts that the use of the beanbag shotgun—in particular, the 
+
+pointing of the shotgun at Conlon—was unreasonable under the circumstances, and thus 
+constituted excessive force.                                              
+It is true that in certain circumstances the pointing of a weapon can amount to 
+unreasonably excessive force.  See Penate v. Sullivan, 73 F.4th 10, 21 (1st Cir. 2023) (“Pointing 
+a weapon at a nonthreatening, compliant individual . . . can constitute excessive force.”); Stamps 
+v. Town of Framingham, 813 F.3d 27, 39-40 (1st Cir. 2016) (“pointing [a] loaded assault rifle at 
+the head of a prone, non-resistant, innocent person who present[ed] no danger, with the safety off 
+and a finger on the trigger, constituted excessive force in violation of that person’s Fourth 
+Amendment rights”); Mlodzinski v. Lewis, 648 F.3d 24, 38-39 (1st Cir. 2011) (finding police 
+used excessive force after holding a compliant, handcuffed teenager and a “nearly naked” non-
+resisting woman at gunpoint for several minutes).                         
+However, “if the pointing of weapons is both reasonably necessary to secure the officers’ 
+safety and sufficiently short in duration, there will likely be no Fourth Amendment problem.”  
+
+Penate, 73 F.4th at 21; see also Los Angeles Cnty. v. Rettele, 550 U.S. 609, 614 (2007) (no 
+constitutional violation when officers entered a bedroom with guns drawn, ordered the residents 
+out of bed, and then held them naked at gunpoint for several minutes before realizing they were 
+in the wrong house).  In assessing whether pointing a weapon constituted unreasonable force, a 
+court may consider how long the subject is held at gunpoint, the extent to which he complied 
+with police officers’ commands, and whether he might have had access to weapons. 
+Here, the complaint alleges that the beanbag shotgun, if fired at short range, could be 
+considered a lethal weapon.  (Compl. ¶ 104).  At the same time, it also is clear that it was only 
+briefly pointed at Conlon shortly before he was fatally shot, and that he was within reach of both 
+a knife and a fire extinguisher.  (Id. ¶¶ 91, 107).  Although it suggests that Conlon was at least 
+
+partly compliant with officers’ commands because he dropped his weapons, the continuing 
+standoff indicates that his compliance was limited at best.  Those circumstances are not the kind 
+of unreasonable or excessive conditions that could support a plausible constitutional violation. 
+In any event, even if the pointing of the less-than-lethal shotgun could have amounted to 
+a constitutional violation, Chisholm is protected by qualified immunity.  Plaintiffs have 
+presented no controlling authority or “consensus of persuasive authority” clearly establishing 
+that briefly pointing a less-than-lethal weapon at any arrestee, let alone one with access to 
+weapons and in the midst of a mental-health emergency, would violate the Constitution.  Rahim, 
+51 F.4th at 412; Gray v. Cummings, 917 F.3d 1, 10 (1st Cir. 2019).  At least as of 2008, the First 
+Circuit was also unable to identify any such authority.  See Estate of Bennett v. Wainwright, 548 
+F.3d 155, 174 (1st Cir. 2008) (“A reasonable officer could have believed that pointing a firearm 
+at a mentally unstable individual with access to weapons did not amount to excessive force under 
+the circumstances.”).                                                     
+
+Because the complaint fails to allege a plausible constitutional violation, and because 
+plaintiffs cannot meet their burden to show the purported right at issue was clearly established at 
+the time of the incident, Chisholm is entitled to qualified immunity on that basis. 
+          c.   Attempted Use of the Shotgun                          
+The complaint also asserts that Chisholm’s “attempted use” of the less-than-lethal 
+beanbag shotgun was unreasonable.  It states that the shotgun “did not fire correctly” and instead 
+made “a loud clicking sound,” and it does not allege that any beanbag projectiles were ever 
+actually fired at Conlon.  (Compl. ¶ 107).  Plaintiffs urge the Court to assess the attempted use of 
+the shotgun according to what force might have been used had it functioned correctly. 
+Whether Chisholm’s conduct could be considered an unreasonable use of force invites a 
+number of difficult questions.  To begin, it is not at all clear that Chisholm’s attempt to use the 
+
+beanbag shotgun—plainly intentional though it was—should be assessed as if he had 
+successfully employed the weapon.  It is axiomatic in cases alleging excessive force that an 
+officer’s subjective intent is irrelevant to a court’s objective analysis of whether any such force 
+was reasonable.  Bastien, 279 F.3d at 14; Graham, 490 U.S. at 397.  In other words, just as it 
+would be impermissible to immunize an officer based on his subjective understanding that his 
+use of force was reasonable, it would be equally wrong to punish an officer for an objectively 
+reasonable use of force, even if his subjective intent was to cause impermissible harm. 
+Moreover, focusing on the objective use of force avoids the impossible task of weighing 
+the reasonableness of a hypothetical—rather than actual—use of force.  Were a court to 
+undertake that task, there would be no means to weigh the “nature and quality” of a use of force 
+that never actually occurred against any relevant government interest.  See Graham, 490 U.S. 
+at 397.  Instead, courts would be forced to imagine the most extreme possible outcomes from a 
+given scenario, and then weigh whether that hypothetical use of force was reasonable under the 
+
+circumstances—as plaintiffs urge here.  Adopting such a view would expand the scope of 
+officers’ liability beyond what actually happened to what might have happened.  There is no 
+basis in law for the Court to entertain that expansion, and thus the complaint does not plausibly 
+state a constitutional violation based on the attempted use of the less-than-lethal shotgun. 
+Even assuming that the complaint alleges an underlying constitutional violation, 
+however, plaintiffs have not met their burden to show that Chisholm’s use of a less-than-lethal 
+beanbag shotgun violated any clearly established right.  Plaintiffs point to three cases from other 
+circuits to support their position, but none are analogous to the circumstances presented here.7 
+In Deorle v. Rutherford, an officer used a less-than-lethal shotgun to shoot an 
+“emotionally disturbed” arrestee in the face, without warning, even though he was unarmed, 
+
+“had not attacked or even touched anyone,” had obeyed instructions by various officers over a 
+period of almost 40 minutes, and was not suspected of having committed any crime.  272 F.3d 
+1272, 1275 (9th Cir. 2001).  The shot destroyed the arrestee’s left eye and lodged pieces of lead 
+in his skull.  Id. at 1279.  The Ninth Circuit determined that although using the beanbag shotgun 
+did not amount to “deadly force,” it was “serious” and only justifiable in light of a strong 
+governmental interest.  Id. at 1280.                                      
+The circumstances here are materially different to those in Deorle.  Unlike the arrestee 
+
+7 Plaintiffs also point to a case from the District of Maine, in which the court held that the use of a less-
+than-lethal beanbag shotgun could constitute lethal force under Maine law.  Norton v. City of S. Portland, 831 
+F. Supp. 2d 340, 347 (D. Me. 2011).  The circumstances of that case are clearly inapplicable here, and, in any event, 
+that holding does not clearly establish any constitutional right.  See Ashcroft v. al-Kidd, 563 U.S. 731, 741 (2011). 
+there, officers had probable cause to believe that Conlon had just attempted to commit an armed 
+robbery with a knife.  (Compl. ¶ 50).  He was holding a knife (and possibly a fire extinguisher) 
+for most of the confrontation.  (Id. ¶¶ 93-94).  Indeed, only his relinquishing of the knife 
+provided the “opening” for Chisholm to attempt to employ the less-than-lethal shotgun.  (Id. 
+
+¶¶ 94-95).  Moreover, the fact that he had resisted putting the knife or fire extinguisher down for 
+approximately 20 minutes signaled some unwillingness to comply with officers’ commands.  (Id. 
+¶ 93).  The circumstances in Deorle, involving a substantially more compliant and unarmed 
+arrestee, would not have put Chisholm on notice that using a beanbag shotgun would have 
+violated any constitutional right.8                                       
+In Glenn v. Washington Cnty., the circumstances were closer to those presented here.  
+673 F.3d 864, 867 (9th Cir. 2011).  There, police officers responded to a home where an 
+intoxicated teenager armed with a pocketknife had threatened to kill himself.  Id.  When officers 
+arrived, the teenager was standing with his parents and two friends but had not threatened them 
+or anyone else.  Id. at 868.  After a brief standoff, police officers used a beanbag shotgun to 
+
+attempt to subdue the teenager, striking him six times.  Id. at 873-74.  The teenager began to run 
+toward his home, and the police officers fatally shot him.  Id. at 874.  The Ninth Circuit 
+expressly did not determine that the officers’ actions were objectively unreasonable, deciding 
+instead that there remained a question of fact as to whether the teenager posed a threat to anyone 
+at the time the beanbag rounds were deployed.  Id. at 870.  The court acknowledged that a “jury 
+could . . . reach the conclusion that the officers’ use of force was reasonable.”  Id. at 878.9 
+
+8 In any event, the First Circuit has also previously considered the weight of Deorle in clearly establishing a 
+constitutional right and noted that the case “it is neither controlling authority nor a ‘consensus’ of persuasive 
+authority,” and that “it has been superseded by the many later Supreme Court and circuit precedents . . . .”  Rahim, 
+51 F.4th at 413 (citation omitted).                                       
+9 The Ninth Circuit proceeded to reverse the district court’s grant of summary judgment based on its now-
+abrogated “provocation rule,” in which an officer could be held liable for an otherwise reasonable use of force if the 
+Even assuming that some of the factual circumstances in Glenn were similar to those 
+presented here, that case (at most) establishes that those circumstances might lead to a 
+constitutional violation—a conclusion that would not have provided notice to Chisholm that his 
+attempted use of the shotgun violated the Constitution.                   
+
+The Ninth Circuit also decided another case involving the use of a beanbag shotgun fewer 
+than three months before the incident here.  In Cortesluna v. Leon, police responded to an 
+emergency call reporting a serious incident of domestic violence.  979 F.3d 645, 649 (9th Cir. 
+2020), rev’d in part on other grounds, 595 U.S. 1 (2021).  After observing the suspect for some 
+time, he was ordered out of the house, and he generally complied with officers’ commands.  Id. 
+at 650.  When he was eleven feet away from one officer, he moved his hands toward a knife he 
+was carrying in his front pocket, at which point an officer shot him twice with beanbag rounds.  
+Id.  The Ninth Circuit decided that the officer’s use of the less-than-lethal shotgun was 
+objectively reasonable under the circumstances, noting the seriousness of the crime, the threat 
+posed by the suspect given his easy access to a knife, and his unwillingness to fully comply with 
+
+officers’ commands.  Id. at 653.  In light of the Ninth Circuit’s decisions in Glenn and 
+Cortesluna, it is doubtful that Chisholm’s actions here would have violated a clearly established 
+right in the Ninth Circuit, let alone in the First Circuit.               
+Finally, plaintiffs point to Mercado v. City of Orlando, 407 F.3d 1152 (11th Cir. 2005).  
+In that case, police were called to the home of an emotionally disturbed man who was 
+threatening to harm himself.  Id. at 1154.  When they arrived, the man was sitting on his kitchen 
+floor with a telephone cord wrapped around his neck and holding a knife to his chest.  Id.  The 
+
+
+need for that force was “provoked” by an independent Fourth Amendment violation.  See Glenn, 673 F.3d at 879-80.  
+The Supreme Court has squarely rejected that rule.  See Mendez, 581 U.S. at 423. 
+man refused to comply with their commands.  Id.  Shortly thereafter, an officer shot the man in 
+the head with a “Sage Launcher,” firing a baton at 240 feet per second from six feet away.  Id. 
+The impact of the baton fractured the man’s skull, causing permanent brain injuries.  Id.  The 
+Eleventh Circuit concluded that the officer violated the man’s rights “[b]ecause he was not 
+
+committing a crime, resisting arrest, or posing an immediate threat to the officers at the time he 
+was shot in the head,” assuming the officer intended to aim there.  Id. at 1157-58. 
+The facts here are clearly distinguishable from Mercado in multiple respects, including 
+the nature of the confrontation with the police officers, the specific types of weapons in question, 
+and the circumstances of their use.  No reasonable officer in Chisholm’s position would have 
+concluded that Mercado put him on notice that attempting to use a beanbag shotgun in the 
+circumstances here would violate any clearly established right.           
+Accordingly, because the facts alleged in the complaint do not support a claim that 
+Chisholm committed any constitutional violation, and because plaintiffs have not met their 
+burden to show that any such right was clearly established as of January 5, 2021, Chisholm is 
+entitled to qualified immunity for his attempted use of the beanbag shotgun.10 
+
+          d.   Deadly Force                                          
+Finally, the complaint asserts that the firing of the fatal shots by Officers Benes and 
+Scaltreto was objectively unreasonable, and thus constituted excessive force.  As discussed, it 
+alleges that after the shotgun misfired, the noise “startled [Conlon] and caused him to pick up the 
+kitchen knife he had just dropped . . . .”  (Compl. ¶ 107).  Conlon then “approached” Chisholm.  
+
+
+
+10 Moreover, because the attempted use of the beanbag shotgun did not constitute a violation of the Fourth 
+Amendment, it cannot serve as a predicate constitutional violation for which plaintiffs could recover based on a 
+theory that it proximately caused the later use of deadly force.  See Mendez, 581 U.S. at 431. 
+(Id. ¶¶ 109, 111).  As he “approached” with the knife, a State Trooper fired his Taser, but 
+“almost simultaneously,” Benes and Scaltreto shot and killed him.  (Id. ¶¶ 109, 111). 
+There are myriad factual questions surrounding the critical moments before the shooting, 
+many of which are not alleged in the complaint.  It does not, for example, explain how rapidly 
+
+Conlon approached, or whether he held the knife as if to strike Chisholm, or whether the officers 
+took any other intervening actions.  That lack of specificity poses a challenge for both parties in 
+the context of qualified immunity.  On the one hand, without clearly articulated facts it is 
+difficult to evaluate the objective circumstances that faced officers at the scene.  On the other, a 
+lack of specificity can thwart plaintiffs’ efforts to show that a specific right was clearly 
+established at the time of the incident.  Even so, the Supreme Court has directed courts to resolve 
+immunity questions at the earliest possible stage of litigation.  See Pearson, 555 U.S. at 232; 
+Rahim, 51 F.4th at 411.  Accordingly, the Court will proceed to consider whether, as pleaded, the 
+factual circumstances presented in the complaint support a viable claim.  
+The intentional use of deadly force during a seizure is unconstitutional unless the officer 
+
+has probable cause to believe that the suspect poses a significant threat of death or serious 
+physical injury.  Tennessee v. Garner, 471 U.S. 1, 3 (1985); Young v. City of Providence ex rel. 
+Napolitano, 404 F.3d 4, 23 (1st Cir. 2005).  To guide that analysis, the First Circuit has identified 
+eight relevant factors for evaluating the reasonableness of an officer’s use of force: 
+     (1)  “whether a reasonable officer on the scene could believe that the 
+suspect posed an immediate threat to police officers or civilians;”  
+     (2)  “whether a warning was given before the use of force and whether the 
+suspect complied with this command;”                                 
+     (3)  “whether the suspect was armed—with a gun, knife, or otherwise—at 
+the time of the encounter;”                                          
+     (4)  “the speed with which officers had to respond to unfolding events, 
+both in terms of the overall confrontation and the decision to employ force;” 
+     (5)  “whether the suspect was advancing on the officers or otherwise 
+escalating the situation;”                                           
+     (6)  “the suspect’s physical proximity to the officers at the time of the use 
+of force;”                                                           
+     (7)  “whether multiple officers simultaneously reached the conclusion that 
+a use of force was required;” and                                    
+     (8)  “the nature of the underlying crime.”                      
+Rahim, 51 F.4th at 414-15; see also Conlogue v. Hamilton, 906 F.3d 150, 156 (1st Cir. 2018); 
+Kisela, 584 U.S. at 103; City of San Francisco v. Sheehan, 575 U.S. 600, 612 (2015). 
+Here, whether the officers’ use of deadly force was objectively reasonable is a close 
+question.  At the moment of the shooting, an officer at the scene could reasonably believe that 
+Conlon posed a threat to Chisholm—he had escalated the situation by rearming himself with a 
+knife in response to an attempt to subdue him and was approaching Chisholm from twelve feet 
+away.  (Compl. ¶ 106).  Both Scaltreto and Benes concluded that deadly force was required 
+“almost simultaneously.”  (Id. ¶ 109).  While the specific circumstances of the suspected armed 
+robbery are unclear, an officer at the scene would at least have had reasonable cause to believe 
+that Conlon had threatened someone with the knife.  (Id. ¶ 50).  The complaint does not indicate 
+whether a warning was given before the fatal shots were fired, or how much time elapsed 
+between the attempted use of the less-than-lethal shotgun and the shooting itself. 
+Overall, the factual circumstances would suggest that the officers’ use of deadly force 
+was likely objectively reasonable.  However, considering the limited record, the Court will not 
+make a conclusive determination as to that issue.  Instead, it will proceed to consider whether, at 
+the time of the incident, the state of the law was sufficiently established to put a reasonable 
+
+officer on notice that using deadly force under those circumstances would amount to a 
+constitutional violation.                                                 
+It was not.  Plaintiffs have failed to meet their burden to show any authority—controlling 
+or otherwise—that would support finding a constitutional violation when officers use deadly 
+force in response to an advancing suspect in a mental-health emergency who is armed with a 
+knife.  Indeed, several controlling authorities appear to establish the reverse. 
+
+In Kisela, for example, officers responded to a 911 report of a woman with a knife acting 
+erratically.  584 U.S. at 101.  When officers arrived, they observed the woman armed with a 
+large knife approaching another person.  Id.  After the woman disregarded the officers’ 
+commands to drop the knife, but continued to approach the person, officers shot her.  Id. at 102.  
+Although the Supreme Court did not conclusively determine whether the officers had committed 
+a constitutional violation, it held that the officer who used lethal force was entitled to qualified 
+immunity because he had not violated any clearly established law.  Id. at 106. 
+The First Circuit also recently faced an analogous situation in Estate of Rahim, 51 F.4th 
+at 404.  In that case, police sought to apprehend a terrorism suspect in a parking lot.  Id. at 405.  
+After a confrontation, the suspect began to advance on the officers with a knife, despite their 
+
+commands to stop.  Id. at 406.  Once the officers could retreat no further, they shot the suspect 
+when he came within 25 feet of them.  Id.  The First Circuit determined both that the officers had 
+committed no constitutional violation and, in any event, that the state of the law did not clearly 
+establish that they had committed any violation.  Id. at 412-17.          
+Although the factual allegations contained in the complaint here are obviously not 
+identical to either of those cases, their holdings at least illustrate that the existing precedent at the 
+time of the shooting in January 2021 did not put the constitutional question facing Benes and 
+Scaltreto “beyond debate.”  Id. at 413 (quoting Kisela, 584 U.S. at 104).  Accordingly, they are 
+entitled to qualified immunity for their use of force.                    
+          e.   Totality of the Force                                 
+Finally, the First Circuit has recently noted that “after segmenting the uses of force and 
+assessing each as reasonable, a court [can] thereafter look at the totality of the uses of force and 
+determine [whether] there was a constitutional violation.”  Lachance, 990 F.3d at 25 n.10; see 
+also Penate, 73 F.4th at 22 n.9.                                          
+
+Even considering the officers’ entire course of conduct, they are still entitled to qualified 
+immunity, both because the totality of the circumstances do not establish that they committed a 
+constitutional violation, and because the law has not clearly established that similar 
+circumstances would amount to such a violation.                           
+In sum, because the allegations in the complaint fail to state a viable claim of excessive 
+force under the Fourth Amendment, Count 1 will be dismissed.11            
+     3.   Substantive Due Process                                    
+Count 3 of the complaint alleges that defendants violated Conlon’s due-process rights 
+under the Fourteenth Amendment by failing to provide him with mental-health treatment during 
+the confrontation with police.                                            
+
+The First Circuit has recognized that “the due process clause of the Fourteenth 
+Amendment . . . require[s] the responsible governmental authorities to provide medical care to 
+persons who have been injured while being apprehended by the police.”  Gaudreault, 923 F.2d 
+at 208 (citing City of Revere v. Massachusetts Gen. Hosp., 463 U.S. 239, 244 (1983)).  Arrestees 
+generally have the same due-process right to medical care as that provided to convicted prisoners 
+by the Eighth Amendment.  Id.; see also Ruiz–Rosa v. Rullan, 485 F.3d 150, 155 (1st Cir. 2007).  
+The Eighth Amendment standard involves “(1) an objective prong that requires proof of a serious 
+
+11 Because there is no viable constitutional claim, there is also no secondary liability for the other officers 
+for failing to intervene or to adequately supervise.  See Wilson v. Town of Mendon, 294 F.3d 1, 6-7 (1st Cir. 2002). 
+medical need, and (2) a subjective prong that mandates a showing of [officials’] deliberate 
+indifference to that need.”  Kosilek v. Spencer, 774 F.3d 63, 82 (1st Cir. 2014) (en banc). 
+Even assuming the Eighth Amendment standard applies in these circumstances, the 
+complaint fails to allege any “deliberate indifference” by the arresting officers.  While the 
+
+complaint asserts that the officers exhibited such indifference by failing to use an available social 
+worker or wait for the NEMLEC team to arrive, those decisions do not rise to the level of 
+“wanton disregard” to Conlon’s needs “akin to criminal recklessness.”  Kosilek, 774 F.3d at 83.  
+Instead, the complaint asserts that multiple officers recognized that he was suffering from a 
+mental-health episode, attempted to speak and negotiate with him, and feigned agreement with 
+his delusions.  (Compl. ¶¶ 62-67).  They did not ignore his obvious distress.  While they may 
+have failed to use every available resource to assist him—and while it is also true that their 
+decisions to use force ultimately led to his tragic death—that is not the same as “deliberate 
+indifference” amounting to a constitutional violation.                    
+In any event, plaintiffs have provided no authority (and the Court has found none) that 
+
+would support finding a constitutional violation for failing to provide mental-health treatment to 
+an arrestee before he is in custody, never mind an arrestee who poses a danger to others as well 
+as himself.  In the absence of any such clearly established right, the officers are entitled to 
+qualified immunity.  Accordingly, Count 3 as to the individual defendants will be dismissed. 
+     4.   The MCRA                                                   
+Counts 7 and 8 allege that the individual defendants, using “threats, intimidation, and 
+coercion,” intentionally and unlawfully used excessive deadly force against Conlon, and 
+“thereby interfered with [his] right to life secured by Article XII of the Massachusetts Civil 
+Rights [A]ct . . . .”  (Compl. ¶ 215).                                    
+The MCRA provides a right of action to any person whose exercise or enjoyment of 
+rights secured by the federal or state constitution or laws has been interfered with by “threats, 
+intimidation or coercion.”  Mass. Gen. Laws ch. 12, § 11I.  “[T]he MCRA contemplates a two-
+part sequence: [liability attaches when] (1) the defendant threatens, intimidates, or coerces the 
+plaintiff, in order to (2) cause the plaintiff to give up something that he has the constitutional 
+
+right to do.”  Goddard v. Kelley, 629 F. Supp. 2d 115, 128 (D. Mass. 2009). 
+The Supreme Judicial Court has held that “[a] direct violation of a person’s rights does 
+not by itself involve threats, intimidation, or coercion and thus does not implicate the [MCRA].”  
+Longval v. Comm’r of Corr., 404 Mass. 325, 333 (1989).  In other words, “threats, intimidation, 
+or coercion” must be separately present in addition to the violation of rights.  See Sarvis v. 
+Boston Safe Deposit & Tr. Co., 47 Mass. App. Ct. 86, 93 (1999) (stating that Longval “affirmed 
+the requirement under the MCRA that proof of ‘threats, intimidation, or coercion’ be in addition 
+to the interference with the exercise or enjoyment of secured rights”).  Allegations of excessive 
+force, without more, have consistently been held not to constitute violations of the MCRA.  See, 
+e.g., Farrah ex rel. Est. of Santana v. Gondella, 725 F. Supp. 2d 238, 248 (D. Mass. 2010); 
+
+Gallagher v. Commonwealth, 2002 WL 924243, at *3 (D. Mass. March 11, 2002). 
+Plaintiffs here conflate the two requirements of the MCRA.  Even if the individual 
+officers’ use of force amounted to a constitutional violation, that force was not used to cause 
+Conlon to give up some other right; the force itself was the alleged constitutional violation.  
+Without any facts suggesting the individual officers used threats, intimidation, or coercion 
+distinct from the alleged use of excessive force, the complaint cannot support a viable claim 
+under the MCRA.  Accordingly, Counts 7 and 8 will be dismissed.           
+     5.   Wrongful Death Act                                         
+Count 9 alleges wrongful death under Mass. Gen. Laws ch. 229, § 2.  The complaint 
+asserts that the officers “decisions leading to [Conlon’s shooting] were intentional, willful, 
+wanton and/or reckless.”  (Compl. ¶ 223).                                 
+Mass. Gen. Laws ch. 229, § 2 provides that a “person who (1) by his negligence causes 
+the death of a person, or (2) by willful, wanton or reckless act causes the death of a person under 
+such circumstances that the deceased could have recovered damages for personal injuries if his 
+
+death had not resulted, . . . shall be liable in damages.”  “To prevail on a wrongful death claim, 
+pursuant to Mass. Gen. Laws ch. 229, § 2, a plaintiff must prove negligence, or willful or 
+reckless conduct, on the part of the defendant, that caused the death of a person.”  Gianocostas v. 
+Interface Grp.-Mass., Inc., 450 Mass. 715, 727 n.13 (2008).  The Massachusetts Tort Claims Act 
+“will bar a wrongful death claim against an individual defendant that proceeds on a negligence or 
+recklessness theory, but not one that is based on willful or intentional conduct.”  Geigel v. Boston 
+Police Dep’t, 2024 WL 68387, at *5 (D. Mass. Jan. 5, 2024); Mass. Gen. Laws ch. 258, § 2.  For 
+an officer to be individually liable under the statute, therefore, he must have willfully and 
+intentionally caused the death of another.  But “as a matter of Massachusetts law, if the officers’ 
+use of force was reasonable for Fourth Amendment purposes, [his] . . . wrongful death claims 
+
+also fail.”  Bannon, 99 F.4th at 77.                                      
+Here, because the complaint fails to plausibly allege that any of the individual defendants 
+used excessive force violating the Fourth Amendment, it likewise fails to state a viable claim for 
+wrongful death.  Accordingly, Count 9 will be dismissed.                  
+     6.   Common-Law Assault                                         
+The complaint asserts a claim against Sergeant Glenn Chisholm for common-law assault 
+based on his “attempted use” of the less-than-lethal shotgun.             
+Massachusetts law allows for assault claims against police officers for their conduct 
+during an arrest.  Raiche v. Pietroski, 623 F.3d 30, 40 (1st Cir. 2010).  “However, Massachusetts 
+law also allows an officer to use reasonable force in conducting a lawful arrest,” and therefore 
+“reasonable force is a valid defense to assault and battery.”  Id.  Where, as here, the complaint 
+alleges both a § 1983 excessive-force claim and a state-law claim for assault, the reasonableness 
+of the force used with respect to the § 1983 claim controls the assault analysis.  Id.  Qualified 
+immunity for a § 1983 claim, however, will not necessarily foreclose liability for common-law 
+
+tort claims.  Lachance, 990 F.3d at 31.                                   
+Here, because the Court has determined that the complaint’s allegations do not support a 
+viable excessive force claim against Chisholm for his attempted use of the less-than-lethal 
+shotgun, the same conduct also cannot sustain a viable state-law assault claim.  Accordingly, 
+Count 10 will be dismissed.                                               
+B.   City of Newton                                                  
+Again, the amended complaint asserts four claims against the City:  constitutional claims 
+under 42 U.S.C. § 1983 (Counts 2 and 3); and statutory claims under the ADA, 42 U.S.C. 
+§ 12132, and the Rehabilitation Act, 29 U.S.C. § 794(a) (Counts 4 through 6). 
+     1.   Constitutional Claims                                      
+          a.   Failure to Train and Supervise                        
+The complaint asserts that the City violated Conlon’s Fourteenth Amendment right to due 
+
+process through § 1983 by failing to train and supervise its officers in the use of force, 
+particularly in relation to people suffering from a mental illness.       
+A municipality may not be held vicariously liable under § 1983 for the acts of its 
+employees.  See Monell v. Dep’t of Soc. Servs., 436 U.S. 658, 692 (1978).  But a municipality 
+may be directly liable for its failure to train or supervise its employees when that failure “causes 
+a constitutional violation or injury” and “amounts to deliberate indifference to the rights of 
+persons with whom the [employees] come into contact.”  DiRico v. City of Quincy, 404 F.3d 464, 
+468 (1st Cir. 2005) (quoting City of Canton v. Harris, 489 U.S. 378, 388 (1989)). 
+To assert a failure-to-train claim, the complaint must plausibly allege, among other 
+things, that “municipal decisionmakers either knew or should have known that training was 
+inadequate but nonetheless exhibited deliberate indifference to the unconstitutional effects of 
+those inadequacies.”  Gray, 917 F.3d at 14 (quoting Haley v. City of Boston, 657 F.3d 39, 52 (1st 
+
+Cir. 2011)).  Typically, demonstrating such deliberate indifference requires alleging a “pattern of 
+similar constitutional violations by untrained employees.”  Id. (quoting Connick v. Thompson, 
+563 U.S. 51, 62 (2011)).  The bar for such claims is a high one.  See Hayden v. Grayson, 134 
+F.3d 449, 456 (1st Cir. 1998) (“The liability criteria for ‘failure to train’ claims are exceptionally 
+stringent . . . .”).                                                      
+Here, even assuming the existence of a constitutional violation, the complaint does not 
+contain any factual allegations concerning either the substance of the City’s training program or 
+any purported deficiencies in that program.  It also fails to allege a “pattern of similar 
+constitutional violations by untrained employees” that could have put the City on notice of any 
+deficiency of its training program.  Gray, 917 F.3d at 14; see also Canton, 489 U.S. at 390-91 
+
+(explaining that shortcomings in a single officer’s training may result from negligent 
+administration of “an otherwise sound program”).                          
+Under the circumstances, it cannot be reasonably inferred that the City was “deliberately 
+indifferent” to the training of its police officers.  See Geigel, 2024 WL 68387, at *2 (dismissing a 
+§ 1983 failure-to-train claim because the complaint neither identified a deficiency in the police 
+training program at issue, nor a pattern of constitutional violations from which to plausibly infer 
+deliberate indifference); Barker v. City of Boston, 795 F. Supp. 2d 117, 122-24 (D. Mass. 2011) 
+(finding no deliberate indifference by a city after police shot a person with a mental illness when 
+the plaintiff identified only two prior similar incidents over 19 years); Osman v. Dwan, 2021 
+WL 11505292, at *10-11 (D. Mass. July 30, 2021) (concluding that an allegation of a single 
+incident of racial profiling by police was insufficient to state a § 1983 failure-to-train claim). 
+Accordingly, because the complaint does not plausibly allege that the City was 
+deliberately indifferent to the training or supervision of its police officers, Count 2 will be 
+
+dismissed.                                                                
+          b.   Substantive Due Process                               
+Because the complaint fails to plausibly allege a constitutional violation under the 
+Fourteenth Amendment against the individual officers, and because those officers are protected 
+by qualified immunity, Count 3 as to the City will also be dismissed.  See Wilson, 294 F.3d at 6; 
+Joyce v. Town of Tewksbury, 112 F.3d 19, 23 (1st Cir. 1997).              
+     2.   ADA Claims                                                 
+The complaint further asserts claims against the City under Title II of the ADA and the 
+Rehabilitation Act.  It states that the City violated those statutes by failing to accommodate 
+Conlon’s disability during the conduct of the arrest, and by “failing to train its employees to 
+make reasonable accommodations to serve persons with mental health disabilities.”  (Compl. 
+
+¶¶ 193-213).  Defendants respond that neither statute should apply in these circumstances, that 
+vicarious liability should not be available, and that the complaint’s factual allegations cannot 
+support a claim because Conlon did not suffer greater injuries due to his disability. 
+          a.   Threshold Issues                                      
+In general, to state a plausible ADA claim, the complaint must allege that Conlon (1) was 
+a “qualified individual with a disability; (2) that he was either excluded from participation in or 
+denied the benefits of some public entity’s services, programs, or activities or was otherwise 
+discriminated against; and (3) that such exclusion, denial of benefits, or discrimination was by 
+reason of [his] disability.”  Parker v. Universidad de Puerto Rico, 225 F.3d 1, 5 (1st Cir. 2000).  
+For present purposes, there is no dispute that Conlon was a “qualified individual” and that the 
+City is a “public entity” under the ADA.  The question thus is whether the City discriminated 
+against Conlon during his arrest by reason of his disability.             
+The complaint’s allegations raise at least three unsettled questions over the application of 
+
+Title II of the ADA to police arrests, all of which are subject to competing answers from various 
+courts.  Gray, 917 F.3d at 16-18.  Those questions are (1) whether Title II can apply in “ad hoc” 
+police encounters such as the one presented here; (2) whether a public entity may be held liable 
+under it on a theory of respondeat superior; and (3) whether a showing of “deliberate 
+indifference” is the functional equivalent of “intentional discrimination” sufficient to establish 
+liability under the ADA.  Id. at 16-17.  The First Circuit has previously identified all three of 
+those questions and explicitly left them unresolved.  Id.  The City urges the Court to answer all 
+three of those questions in the negative.                                 
+At this stage of the proceedings, and given the limited record, the Court will follow the 
+First Circuit’s lead and assume, without deciding, that the answer to those questions is in the 
+
+affirmative.  Id. at 17.  Nonetheless, the ADA claim fails for other reasons. 
+          b.   Failure to Accommodate                                
+Count 4 asserts that the City is liable under Title II of the ADA for its officers’ failures to 
+accommodate Conlon’s disability during his arrest.                        
+The First Circuit has identified two contexts in which a police officer may violate the 
+ADA in effecting an arrest:  either by (1) wrongly arresting a person because they misperceived 
+the effects of their disability as criminal activity, or (2) by failing to reasonably accommodate a 
+person’s disability during an arrest, thereby causing the person to suffer more harm in the 
+process than other arrestees.  Id. at 15.  Only the latter theory is relevant here.  To state a viable 
+claim under that theory, the complaint must allege, at a minimum, that (1) the officers knew that 
+Conlon had a disability that required them to act differently, and (2) they failed to change their 
+conduct in light of that knowledge.  Id. at 18.12                         
+The complaint here fails at the first step.  The knowledge element requires that a plaintiff 
+show that defendants “knew that there was a reasonable accommodation [that they] were 
+
+required to provide.”  Id.  Such a showing requires at least some “particularized knowledge about 
+the nature or degree of [the] disability,” with which an officer might be able to “gaug[e] what 
+specific accommodation, if any, might have been reasonable under the circumstances.”  Id. 
+In Gray, for example, although the arresting officer was generally aware that an arrestee 
+had been involuntarily committed, he did not know the “nature or degree” of her mental 
+condition—bipolar disorder—and thus could not know what accommodation might have been 
+reasonable to provide.  Id. at 6, 18; see also Lambert v. Town of Merrimack, 2019 WL 4805992, 
+at *2-3 (D.N.H. Sept. 30, 2019) (finding that officers who shot a person suffering from a bipolar 
+episode who threatened them with a knife lacked sufficient particularized knowledge about the 
+decedent’s disability to know what accommodation might have been reasonable and necessary). 
+
+Here, the complaint alleges in general terms that several NPD officers, including the 
+individual defendants, and Sarah Eknaian (the NPD social worker) “were aware of [Conlon’s] 
+mental health challenges,” and “had previous contact with [him].”  (Compl. ¶¶ 38-39).  It also 
+suggests that the officers learned more about Conlon’s condition by interacting with him during 
+this encounter.                                                           
+
+
+
+12 The City also alludes to a separate line of cases discussing the requirements for stating a plausible ADA 
+claim based on inadequate medical care.  See Geigel, 2024 WL 68387, at *3 (citing Messere v. Clark, 2015 
+WL 5609959, at *12 (D. Mass. Sept. 22, 2015)).  The allegations here are distinguishable in that the complaint 
+asserts that the purported ADA violation at issue was a failure to accommodate Conlon’s disability during his arrest, 
+rather than a failure to provide specific medical treatment.              
+Those broad allegations are not enough.  As in Gray, even if the officers were on general 
+notice that Conlon had a mental-health condition and observed him in a state of crisis, the 
+complaint fails to allege that they had “particularized knowledge” as to the “nature or degree” of 
+Conlon’s condition that would have allowed them to gauge what accommodations might have 
+
+been necessary and reasonable under the circumstances.  Without any such showing, the 
+complaint fails to state a viable claim for failing to accommodate Conlon’s disability under the 
+ADA.  Accordingly, Count 4 will be dismissed.                             
+          c.   Failure to Train                                      
+Count 5 next asserts that the City is directly liable under Title II of the ADA for failing to 
+train its officers “to make reasonable accommodations in responding to a mental health 
+emergency.”  (Compl. ¶ 206).                                              
+The First Circuit has declined to definitively determine whether Title II of the ADA 
+imposes a duty on a municipality to “draft policies and train officers on the needs of the mentally 
+ill public.”  Buchanan v. Maine, 469 F.3d 158, 177 (1st Cir. 2006).  It has been clear, however, 
+that if training was provided, an allegation that such training was insufficient “does not present a 
+
+viable claim that [an individual] was ‘denied the benefits of the services . . . of a public entity’ by 
+reason of his mental illness, as required under [the ADA].”  Id.; see also Adle v. Maine Police 
+Dep’t, 279 F. Supp. 3d 337, 366 (D. Me. 2017).                            
+Here, the complaint appears to allege, in conclusory terms, that the City’s training 
+program was “deficient,” or “inadequate,” or otherwise not “effective.”  (Compl. ¶¶ 119-23).  
+Even crediting those allegations—as the Court must at this stage—they do not establish a 
+complete lack of training that could support a claim in this context.  Accordingly, Count 5 will 
+be dismissed.                                                             
+          d.   The Rehabilitation Act                                
+Finally, Count 6 asserts a claim under the Rehabilitation Act, 29 U.S.C. § 794(a), which 
+prohibits disability discrimination by entities receiving federal funds.  The applicable tests and 
+available remedies under that statute are coextensive with those under Title II of the ADA.  
+Calero–Cerezo v. U.S. Dep’t of Justice, 355 F.3d 6, 11 n.1 (1st Cir. 2004) (“The same 
+
+standards . . . apply to claims under the ADA and under the Rehabilitation Act.”); see also Gray, 
+917 F.3d at 17 n.11.  Because both ADA claims fail here, so too does the claim under the 
+Rehabilitation Act.  Accordingly, Count 6 will be dismissed.              
+IV.  Conclusion                                                           
+For the foregoing reasons, defendants’ motions to dismiss are GRANTED.  The Clerk is 
+directed to enter a separate order of dismissal.                          
+So Ordered.                                                               
+
+                           /s/ F. Dennis Saylor IV                   
+                           F. Dennis Saylor IV                       
+Dated:  June 21, 2024           Chief Judge, United States District Court
+
+---
+
+UNITED STATES DISTRICT COURT                            
+              DISTRICT OF MASSACHUSETTS                              
+
+__________________________________________                                
+                              )                                      
+ROBERT CONLON AND BETSY CONLON,    )                                      
+as personal representatives of the Estate of  )                           
+Michael Conlon,                    )                                      
+                              )                                      
+     Plaintiffs,              )                                      
+                              )    Civil Action No.                  
+v.                            )    23-10026-FDS                      
+                              )                                      
+CITY OF NEWTON, et al.,            )                                      
+                              )                                      
+     Defendants.              )                                      
+__________________________________________)                               
+
+
+              MEMORANDUM AND ORDER ON                                
+            DEFENDANTS’ MOTIONS TO DISMISS                           
+SAYLOR, C.J.                                                              
+This is a civil rights action alleging the use of excessive force by police officers arising 
+out of a tragic encounter with a mentally-ill man that resulted in his death. 
+In January 2021, a Newton police officer responded to the scene of a suspected armed 
+robbery.  He encountered Michael Conlon holding a kitchen knife, who fled into a nearby 
+apartment building.  After Conlon was cornered on a stairway landing, he threatened to harm 
+himself if the officer came any closer.  More officers responded to the scene. 
+Conlon suffered from significant mental-health issues, including schizoaffective disorder.  
+Although it is unclear whether the officers at the scene knew the details of his disorders, they 
+certainly knew he had a serious mental-health problem, and that he was in a delusional state. 
+After a brief standoff, officers convinced Conlon to drop the knife.  One officer then 
+attempted to use a “less-than-lethal” shotgun—a shotgun that fires a beanbag—to disable Conlon 
+and effect his arrest.  But the shotgun misfired, producing only a clicking noise.  At that point, 
+Conlon retrieved the knife and advanced on the officers.  Officers then fatally shot him. 
+Conlon’s parents, plaintiffs Robert and Betsy Conlon, sued the City of Newton and five 
+individual police officers.  The complaint alleges federal claims under 42 U.S.C. § 1983 and the 
+Americans with Disabilities Act (“ADA”), along with several related state-law claims.  
+
+Defendants have moved to dismiss the complaint for failing to state a claim upon which relief 
+can be granted.                                                           
+The critical issue in this case is not whether, with the benefit of hindsight, the police 
+response was appropriate in all respects.  Police officers can, and often do, make serious 
+mistakes, particularly when making split-second decisions in emergency situations.  Rather, the 
+issues here are whether the use of force was so unreasonable as to violate the Fourth 
+Amendment, and, if so, whether a reasonable police officer would have understood that use of 
+force to amount to a constitutional violation.  If the answer to either of those questions is no, the 
+officers are entitled to qualified immunity.                              
+That inquiry is somewhat complicated by the fact that Conlon was suffering from mental-
+
+health issues and appeared to be delusional at the time of the incident.  Such a person, under 
+most circumstances, deserves special solicitude and care.  At the same time, a person with severe 
+mental-health disorders—particularly one who is in a delusional state and brandishing a 
+weapon—can be substantially more dangerous to others than an ordinary person.  Those 
+complicating factors must be considered when assessing the objective reasonableness of the 
+police response.                                                          
+In any event, under the circumstances presented here, neither the City of Newton nor its 
+officers violated the law during the incident with Conlon.  Accordingly, and for the reasons set 
+forth below, the motions to dismiss will be granted.                      
+I.   Background                                                           
+Except as otherwise noted, the following facts are set forth as alleged in the first amended 
+complaint.                                                                
+A.   Factual Background                                              
+     1.   The Parties                                                
+Michael Conlon was a 28-year-old man who resided in Newton, Massachusetts.  (Compl. 
+
+¶¶ 28, 35).  He suffered from mental illness from an early age, and was eventually diagnosed 
+with major depression, bipolar disorder, and schizoaffective disorder.  (Id. ¶¶ 29-39).  Symptoms 
+of his illness included delusions, suicidal ideation, suicide attempts, and irrational fears.  (Id. 
+¶ 33).  Some of those symptoms led him to fear police.  (Id. ¶ 34).       
+Robert and Betsy Conlon were Michael’s parents and are the appointed representatives of 
+his estate.  (Id. ¶ 21).  They reside in Medfield, Massachusetts.  (Id. ¶ 36). 
+The City of Newton (the “City”) is a Massachusetts municipality.  (Id. ¶ 2).  The Newton 
+Police Department (“NPD”) is an agency of the City.                       
+Dennis Dowling, Christopher Marzilli, Glenn Chisholm, Richard Benes, and Francis 
+Scaltreto are NPD employees.  (Id. ¶¶ 23-27).  Dowling and Marzilli are both captains; Chisholm 
+
+is a sergeant; and Benes and Scaltreto are patrol officers.  (Id.).       
+     2.   The Incident                                               
+On January 5, 2021, NPD officer Zachary Raymond was dispatched to an armed robbery 
+at a candy store at 16 Lincoln Street in Newton.  (Id. ¶ 50).  When he arrived, Raymond saw 
+Michael Conlon standing outside the store holding a “small kitchen knife.”  (Id. ¶ 52).1  
+Raymond drew his weapon and ordered Conlon to drop the knife.  (Id.).  Instead, Conlon turned 
+
+
+1 The precise size and shape of the knife is not identified in the complaint. 
+and entered an apartment building at 18 Lincoln Street.2  Raymond followed.  (Id. ¶¶ 53-54).3 
+Conlon climbed several flights of stairs to the third floor of the apartment building.  
+(Id. ¶ 54).  Raymond continued to pursue him and again ordered him to drop the knife.  
+(Id. ¶ 55).  On the third floor, Conlon stopped and held the knife to his own throat, threatening to 
+
+harm himself if Raymond approached.  (Id.).  Raymond then retreated to the second-floor 
+landing.  (Id. ¶ 56).                                                     
+As Raymond waited, several other NPD officers arrived, including Captains Dowling and 
+Marzilli.  Dowling and Marzilli determined that Conlon was experiencing a mental-health crisis.  
+(Id. ¶ 59).  Those officers were allegedly “aware” of Conlon’s “mental health challenges,” but 
+are not alleged to have any particularized knowledge about his condition at the time of the 
+incident.  (Id. ¶ 38).  The NPD officers, along with several members of the Massachusetts State 
+Police, positioned themselves to surround Conlon, some below him on the second-floor landing, 
+and others at the other end of the hallway on the third floor.  (Id. ¶ 62). 
+Conlon continued to speak to the officers, saying that he believed that he was in a 
+
+“simulation” and questioning whether the officers were real, while visibly spitting and drooling.  
+(Id. ¶¶ 63-65).  Several officers feigned belief in his statements but continued to ask him to drop 
+the knife.  (Id. ¶ 64).                                                   
+Outside, Sarah Eknaian, an NPD social worker, had arrived.  Eknaian’s general role with 
+the NPD was to respond alongside police officers to calls involving apparent mental-health 
+disorders or substance abuse.  (Id. ¶ 68).  The NPD requested assistance from the Northeastern 
+Massachusetts Law Enforcement Council (“NEMLEC”) tactical team.  (Id. ¶ 74). 
+
+
+2 According to the complaint, Conlon lived in the building.  (Compl. ¶ 35). 
+3 Although Raymond presumably called for backup at some point, that fact is not alleged in the complaint. 
+As the scene grew increasingly crowded, either Dowling or Marzilli ordered Sergeant 
+Chisholm to retrieve a beanbag-projectile shotgun.  (Id. ¶ 77).  A beanbag is a “less-than-lethal” 
+projectile “intended to incapacitate the subject and prevent further aggressive actions” when “a 
+violent or potentially violent subject cannot be subdued in any other less-than-lethal manner 
+
+without the threat of death or serious bodily injury to the officer or other persons.”  (Id. ¶ 48).  
+Dowling and Marzilli formulated a plan to use the beanbag shotgun in the event that there was a 
+chance to end the standoff before the NEMLEC team arrived.  (Id. ¶ 80).  If the opportunity 
+arose, they intended to use the beanbag shotgun to effect Conlon’s arrest.  (Id.).  If necessary, 
+two state troopers were instructed to use Tasers to incapacitate Conlon.  (Id.).  Dowling further 
+told Officer Benes that he was the “lethal option” in case the Tasers were ineffective.  (Id. ¶ 81). 
+Back inside, Officer Scaltreto was talking with Conlon, who was still holding the knife 
+and had picked up a fire extinguisher.  (Id. ¶ 90).  After continuing to engage, Scaltreto 
+eventually persuaded him to drop both items.  (Id. ¶¶ 93-94).  Once Conlon put down the knife, 
+Scaltreto told the officers behind him that there was “an opening.”  (Id. ¶ 95).  Hearing that 
+
+information, Dowling gave the order to use the beanbag shotgun.  (Id. ¶ 100).  Chisholm raised 
+the shotgun, aimed it at Conlon’s collarbone, and pulled the trigger.  (Id. ¶ 103).  The shotgun 
+misfired, producing only a loud clicking noise.  (Id. ¶ 107).             
+The complaint alleges that the clicking sound “startled [Conlon] and caused him to pick 
+up the kitchen knife” and begin to approach Chisholm.  (Id. ¶¶ 107, 109).4  A state trooper tried 
+
+
+4 Plaintiffs suggest that “[w]hether [Conlon] picked up the knife and/or advanced at officers is a disputed 
+fact.”  (Pl. Opp’n, ECF No. 50 at 8 n.15).  To support that position, they exclusively rely on the use of “allegedly” 
+used in two paragraphs.  (Compl. ¶¶ 14, 108).  Plaintiffs assert that the purported “allegations” were raised by police 
+officers during an inquest investigating Conlon’s death.  (Pl. Opp’n, ECF No. 50 at 1 n.1).   
+The complaint itself, however, plainly states (without qualification) that Conlon “pick[ed] up the kitchen 
+knife” and “approached” Chisholm.  (Compl. ¶¶ 107, 109).  It does not mention the inquest proceeding, any 
+“allegations” raised by the officers there, or even explicitly identify a disputed issue of fact.   
+to use a Taser to subdue Conlon, but “almost simultaneously” Benes and Scaltreto fired their 
+own sidearms, killing him.  (Id. ¶¶ 109, 111).                            
+B.   Procedural Background                                           
+Plaintiffs originally filed this suit on January 5, 2023, and subsequently amended the 
+complaint on November 15, 2023.                                           
+
+The amended complaint asserts five claims against NPD officers Francis Scaltreto, 
+Richard Benes, Glenn Chisholm, Dennis Dowling, and Christopher Marzilli:  excessive force in 
+violation of the Fourth Amendment under 42 U.S.C. § 1983 (Count 1); violations of the 
+Massachusetts Civil Rights Act (“MCRA”), Mass. Gen. Laws ch. 12, §§ 11H-11I (Counts 7 and 
+8); and wrongful death under Mass. Gen. Laws ch. 229, § 2 (Count 9).      
+It asserts four claims against the City:  failure to train its officers in violation of the 
+Fourteenth Amendment under 42 U.S.C. § 1983 (Count 2); and failure to accommodate a 
+disability and to train its officers in violation of the ADA, 42 U.S.C. § 12132, and the 
+Rehabilitation Act, 29 U.S.C. § 794(a) (Counts 4-6).                      
+The complaint also asserts a claim against all defendants for a failure to provide mental-
+
+health treatment in violation of the Fourteenth Amendment under 42 U.S.C. § 1983 (Count 3). 
+Finally, it asserts a claim for common-law assault against Chisholm (Count 10). 
+Defendants have moved to dismiss all claims under Fed. R. Civ. P. 12(b)(6) for failure to 
+state to claim upon which relief can be granted.                          
+II.  Standard of Review                                                   
+On a motion to dismiss made pursuant to Rule 12(b)(6), the court “must assume the truth 
+
+The Court cannot disregard the plain language of the complaint (which, of course, was drafted by counsel 
+for plaintiffs), nor rely on later representations of counsel to incorporate additional facts.  While the Court will 
+disregard the factual allegations qualified by the complaint itself, it will not ignore the unequivocally pleaded factual 
+allegations.                                                              
+of all well-plead[ed] facts and give the plaintiff the benefit of all reasonable inferences 
+therefrom.”  Ruiz v. Bally Total Fitness Holding Corp., 496 F.3d 1, 5 (1st Cir. 2007) (citing 
+Rogan v. Menino, 175 F.3d 75, 77 (1st Cir. 1999)).  To survive a motion to dismiss, the 
+complaint must state a claim that is plausible on its face.  Bell Atl. Corp. v. Twombly, 550 U.S. 
+
+544, 570 (2007).  In other words, the “[f]actual allegations must be enough to raise a right to 
+relief above the speculative level, . . . on the assumption that all the allegations in the complaint 
+are true (even if doubtful in fact).”  Id. at 555 (citations omitted).  “The plausibility standard is 
+not akin to a ‘probability requirement,’ but it asks for more than a sheer possibility that a 
+defendant has acted unlawfully.”  Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) (quoting Twombly, 
+550 U.S. at 556).  Dismissal is appropriate if the complaint fails to set forth “factual allegations, 
+either direct or inferential, respecting each material element necessary to sustain recovery under 
+some actionable legal theory.”  Gagliardi v. Sullivan, 513 F.3d 301, 305 (1st Cir. 2008) (quoting 
+Centro Medico del Turabo Inc. v. Feliciano de Melecio, 406 F.3d 1, 6 (1st Cir. 2005)). 
+III.  Analysis                                                            
+
+A.   Individual Officers                                             
+     1.   Qualified Immunity Generally                               
+The doctrine of qualified immunity protects public employees “from liability for civil 
+damages insofar as their conduct does not violate clearly established statutory or constitutional 
+rights of which a reasonable person would have known.”  Harlow v. Fitzgerald, 457 U.S. 800, 
+818 (1982).  Qualified immunity is determined according to a two-part test.  See Pearson v. 
+Callahan, 555 U.S. 223, 232-33 (2009); Maldonado v. Fontanes, 568 F.3d 263, 268-69 (1st Cir. 
+2009).  The relevant inquiries are (1) whether the facts alleged or shown by the plaintiff make 
+out a violation of a constitutional right, and (2) whether the right at issue was clearly established 
+at the time of the defendant’s alleged misconduct.  Maldonado, 568 F.3d at 268-69. 
+The question is not whether some right has been clearly established at a highly abstract 
+level, but “whether, under the circumstances that confronted the official, ‘a reasonable official 
+would understand that what he is doing violated that right.’”  Berthiaume v. Caron, 142 F.3d 12, 
+15 (1st Cir. 1998) (quoting Anderson v. Creighton, 483 U.S. 635, 640 (1987)).  In other words, 
+
+the question is “whether a reasonable officer, situated similarly to the defendant, would have 
+understood the challenged act or omission to contravene the discerned constitutional right.”  
+Burke v. Town of Walpole, 405 F.3d 66, 77 (1st Cir. 2005) (quoting Limone v. Condon, 372 F.3d 
+39, 44 (1st Cir. 2004)).  The qualified-immunity doctrine “leaves ‘ample room for mistaken 
+judgments.’”  Berthiaume, 142 F.3d at 15 (quoting Malley v. Briggs, 475 U.S. 335, 343 (1986)). 
+To show that an official’s conduct violated a clearly established right, the plaintiff bears 
+the burden “to identify controlling authority or a consensus of persuasive authority sufficient to 
+put the officers on notice that their conduct violated the law.”  Estate of Rahim v. Doe, 51 F.4th 
+402, 412 (1st Cir. 2022); see also Rivera-Corraliza v. Morales, 794 F.3d 208, 214-15 (1st Cir. 
+2015) (noting that a plaintiff’s failure to identify such authority dooms their claims).  While a 
+
+prior case need not be identical to clearly establish a right, “[p]recedent involving similar facts 
+can help move a case beyond the otherwise ‘hazy border between excessive and acceptable 
+force’ and thereby provide an officer notice that a specific use of force is unlawful.”  Kisela v. 
+Hughes, 584 U.S. 100, 105 (2018) (quoting Mullenix v. Luna, 577 U.S. 7, 18 (2015)).  Still, 
+qualified immunity is an affirmative defense, and the burden is on defendants to show they are 
+entitled to its protection.  DiMarco-Zappa v. Cabanillas, 238 F.3d 25, 35 (1st Cir. 2001). 
+     2.   Excessive Force                                            
+Count 1 asserts a claim under 42 U.S.C. § 1983 against the individual defendants for 
+“excessive use of force” in violation of the Fourth Amendment right “to be free from 
+unreasonable seizures.”  (Compl. at 21).  The complaint alleges four purportedly unreasonable 
+actions:  (1)  Conlon was surrounded in “tight quarters”; (2) Chisholm pointed the beanbag 
+shotgun at Conlon; (3) Chisholm “attempt[ed]” to fire the beanbag shotgun; and (4) Benes and 
+Scaltreto used deadly force.  (Id. ¶ 134).5  The complaint extends those claims to the other 
+officers based on a breach of their “duty to intervene” to prevent a constitutional deprivation.  
+
+(Id. ¶ 149).  The individual defendants contend that they are protected by qualified immunity. 
+Claims under § 1983 have two essential elements:  “[1] the defendant must have acted 
+under color of state law, and [2] his or her conduct must have deprived the plaintiff of rights 
+secured by the Constitution or by federal law.”  Gagliardi v. Sullivan, 513 F.3d 301, 306 (1st Cir. 
+2008).  It is undisputed here that the individual defendants were acting under the color of state 
+law during their encounter with Conlon; the issue is whether their actions deprived Conlon of his 
+constitutional rights.  See West v. Atkins, 487 U.S. 42, 50 (1988).       
+“To establish a Fourth Amendment violation based on excessive force, a plaintiff must 
+show that the defendant officer employed force that was unreasonable under the circumstances.”  
+Jennings v. Jones, 499 F.3d 2, 11 (1st Cir. 2007) (citing Graham v. Connor, 490 U.S. 386, 397 
+
+(1989)).  In other words, a plaintiff must show (1) that there was a “seizure” within the meaning 
+of the Fourth Amendment, and that (2) the use of force during the seizure was unreasonable.  
+Graham, 490 U.S. at 395.  Here, there is no dispute that Conlon was “seized,” at least by the 
+time that officers had isolated him on the third-floor landing of his apartment building.  (Compl. 
+¶ 62).  The critical question, therefore, is whether the officers’ subsequent use of deadly force 
+was unreasonable.                                                         
+
+
+5 The First Circuit has suggested that courts should analyze each use of force in an excessive force 
+separately using a “segmented approach,” particularly when “circumstances relevant to the reasonableness inquiry 
+changed between one use of force and another.”  Lachance v. Town of Charlton, 990 F.3d 14, 25 (1st Cir. 2021); see 
+also County of Los Angeles v. Mendez, 581 U.S. 420, 428 (2017) (“[T]he objective reasonableness analysis must be 
+conducted separately for each . . . seizure that is alleged to be unconstitutional.”). 
+“The ‘reasonableness’ of a particular use of force must be judged from the perspective of 
+a reasonable officer on the scene, rather than with the 20/20 vision of hindsight.”  Graham, 490 
+U.S. at 396.  The objective reasonableness of the force used is determined with a balancing test 
+that considers, among other things, the “severity of the crime at issue, whether the suspect poses 
+
+an immediate threat to the safety of the officers or others, and whether he is actively resisting 
+arrest or attempting to evade arrest by flight.”  Id.  The right to make an arrest carries with it the 
+right to use some physical force.  Id.  Only excessive force is actionable; “not every push or 
+shove rises to the level of a constitutional violation.”  Gaudreault v. Municipality of Salem, 923 
+F.2d 203, 205 (1st Cir. 1990).                                            
+The officer’s subjective intent or motivation is not relevant to the reasonableness inquiry.  
+Bastien v. Goddard, 279 F.3d 10, 14 (1st Cir. 2002) (citing Alexis v. McDonald’s Rests. of 
+Massachusetts, 67 F.3d 341, 352 (1st Cir. 1995)).  “An officer’s evil intentions will not make a 
+Fourth Amendment violation out of an objectively reasonable use of force; nor will an officer’s 
+good intentions make an objectively unreasonable use of force constitutional.”  Graham, 490 
+
+U.S. at 397.  “The calculus of reasonableness must embody allowance for the fact that police 
+officers are often forced to make split-second judgments—in circumstances that are tense, 
+uncertain, and rapidly evolving—about the amount of force that is necessary in a particular 
+situation.”  Id. at 396-97.                                               
+          a.   Surrounding Conlon                                    
+The complaint first asserts that the officers acted unreasonably by surrounding Conlon in 
+“close quarters” while attempting to effect his arrest.6                  
+That conduct alone cannot establish an excessive-force claim.  The First Circuit recently 
+
+
+6 Neither party has addressed that allegation as a basis for the excessive-force claim. 
+rejected a similar claim that officers “created” a more dangerous situation by “closing in” on 
+arrestee’s position.  Bannon v. Godin, 99 F.4th 63, 80 (1st Cir. 2024).  Here, the complaint is 
+clear that officers were called to the scene of an armed robbery and that an officer saw Conlon 
+armed with a knife.  (Compl. ¶¶ 50-52).  When Conlon saw the officer, he fled.  (Id. ¶ 53).  At 
+
+that point, at a minimum, there was probable cause for Conlon’s arrest.  Once more officers 
+arrived, Conlon continued to hold the knife and picked up a fire extinguisher, and did not 
+immediately submit to the officers’ commands.  (Id. ¶¶ 63, 64, 82, 93).  Although the complaint 
+appears to characterize some of its pleaded facts as disputed, it suggests that Conlon may have 
+also been threatening to harm himself if officers approached.  (Id. ¶ 55).  The officers did not 
+rush at him—or indeed touch him at all—and continued to delay and negotiate.  (Id. ¶¶ 90-94).  
+While the officers’ positioning may not have been a model of tactical proficiency, any such 
+shortcoming was not objectively unreasonable under the circumstances presented, and the 
+complaint does not allege a plausible constitutional violation on that basis. 
+          b.   Pointing the Shotgun                                  
+The complaint next asserts that the use of the beanbag shotgun—in particular, the 
+
+pointing of the shotgun at Conlon—was unreasonable under the circumstances, and thus 
+constituted excessive force.                                              
+It is true that in certain circumstances the pointing of a weapon can amount to 
+unreasonably excessive force.  See Penate v. Sullivan, 73 F.4th 10, 21 (1st Cir. 2023) (“Pointing 
+a weapon at a nonthreatening, compliant individual . . . can constitute excessive force.”); Stamps 
+v. Town of Framingham, 813 F.3d 27, 39-40 (1st Cir. 2016) (“pointing [a] loaded assault rifle at 
+the head of a prone, non-resistant, innocent person who present[ed] no danger, with the safety off 
+and a finger on the trigger, constituted excessive force in violation of that person’s Fourth 
+Amendment rights”); Mlodzinski v. Lewis, 648 F.3d 24, 38-39 (1st Cir. 2011) (finding police 
+used excessive force after holding a compliant, handcuffed teenager and a “nearly naked” non-
+resisting woman at gunpoint for several minutes).                         
+However, “if the pointing of weapons is both reasonably necessary to secure the officers’ 
+safety and sufficiently short in duration, there will likely be no Fourth Amendment problem.”  
+
+Penate, 73 F.4th at 21; see also Los Angeles Cnty. v. Rettele, 550 U.S. 609, 614 (2007) (no 
+constitutional violation when officers entered a bedroom with guns drawn, ordered the residents 
+out of bed, and then held them naked at gunpoint for several minutes before realizing they were 
+in the wrong house).  In assessing whether pointing a weapon constituted unreasonable force, a 
+court may consider how long the subject is held at gunpoint, the extent to which he complied 
+with police officers’ commands, and whether he might have had access to weapons. 
+Here, the complaint alleges that the beanbag shotgun, if fired at short range, could be 
+considered a lethal weapon.  (Compl. ¶ 104).  At the same time, it also is clear that it was only 
+briefly pointed at Conlon shortly before he was fatally shot, and that he was within reach of both 
+a knife and a fire extinguisher.  (Id. ¶¶ 91, 107).  Although it suggests that Conlon was at least 
+
+partly compliant with officers’ commands because he dropped his weapons, the continuing 
+standoff indicates that his compliance was limited at best.  Those circumstances are not the kind 
+of unreasonable or excessive conditions that could support a plausible constitutional violation. 
+In any event, even if the pointing of the less-than-lethal shotgun could have amounted to 
+a constitutional violation, Chisholm is protected by qualified immunity.  Plaintiffs have 
+presented no controlling authority or “consensus of persuasive authority” clearly establishing 
+that briefly pointing a less-than-lethal weapon at any arrestee, let alone one with access to 
+weapons and in the midst of a mental-health emergency, would violate the Constitution.  Rahim, 
+51 F.4th at 412; Gray v. Cummings, 917 F.3d 1, 10 (1st Cir. 2019).  At least as of 2008, the First 
+Circuit was also unable to identify any such authority.  See Estate of Bennett v. Wainwright, 548 
+F.3d 155, 174 (1st Cir. 2008) (“A reasonable officer could have believed that pointing a firearm 
+at a mentally unstable individual with access to weapons did not amount to excessive force under 
+the circumstances.”).                                                     
+
+Because the complaint fails to allege a plausible constitutional violation, and because 
+plaintiffs cannot meet their burden to show the purported right at issue was clearly established at 
+the time of the incident, Chisholm is entitled to qualified immunity on that basis. 
+          c.   Attempted Use of the Shotgun                          
+The complaint also asserts that Chisholm’s “attempted use” of the less-than-lethal 
+beanbag shotgun was unreasonable.  It states that the shotgun “did not fire correctly” and instead 
+made “a loud clicking sound,” and it does not allege that any beanbag projectiles were ever 
+actually fired at Conlon.  (Compl. ¶ 107).  Plaintiffs urge the Court to assess the attempted use of 
+the shotgun according to what force might have been used had it functioned correctly. 
+Whether Chisholm’s conduct could be considered an unreasonable use of force invites a 
+number of difficult questions.  To begin, it is not at all clear that Chisholm’s attempt to use the 
+
+beanbag shotgun—plainly intentional though it was—should be assessed as if he had 
+successfully employed the weapon.  It is axiomatic in cases alleging excessive force that an 
+officer’s subjective intent is irrelevant to a court’s objective analysis of whether any such force 
+was reasonable.  Bastien, 279 F.3d at 14; Graham, 490 U.S. at 397.  In other words, just as it 
+would be impermissible to immunize an officer based on his subjective understanding that his 
+use of force was reasonable, it would be equally wrong to punish an officer for an objectively 
+reasonable use of force, even if his subjective intent was to cause impermissible harm. 
+Moreover, focusing on the objective use of force avoids the impossible task of weighing 
+the reasonableness of a hypothetical—rather than actual—use of force.  Were a court to 
+undertake that task, there would be no means to weigh the “nature and quality” of a use of force 
+that never actually occurred against any relevant government interest.  See Graham, 490 U.S. 
+at 397.  Instead, courts would be forced to imagine the most extreme possible outcomes from a 
+given scenario, and then weigh whether that hypothetical use of force was reasonable under the 
+
+circumstances—as plaintiffs urge here.  Adopting such a view would expand the scope of 
+officers’ liability beyond what actually happened to what might have happened.  There is no 
+basis in law for the Court to entertain that expansion, and thus the complaint does not plausibly 
+state a constitutional violation based on the attempted use of the less-than-lethal shotgun. 
+Even assuming that the complaint alleges an underlying constitutional violation, 
+however, plaintiffs have not met their burden to show that Chisholm’s use of a less-than-lethal 
+beanbag shotgun violated any clearly established right.  Plaintiffs point to three cases from other 
+circuits to support their position, but none are analogous to the circumstances presented here.7 
+In Deorle v. Rutherford, an officer used a less-than-lethal shotgun to shoot an 
+“emotionally disturbed” arrestee in the face, without warning, even though he was unarmed, 
+
+“had not attacked or even touched anyone,” had obeyed instructions by various officers over a 
+period of almost 40 minutes, and was not suspected of having committed any crime.  272 F.3d 
+1272, 1275 (9th Cir. 2001).  The shot destroyed the arrestee’s left eye and lodged pieces of lead 
+in his skull.  Id. at 1279.  The Ninth Circuit determined that although using the beanbag shotgun 
+did not amount to “deadly force,” it was “serious” and only justifiable in light of a strong 
+governmental interest.  Id. at 1280.                                      
+The circumstances here are materially different to those in Deorle.  Unlike the arrestee 
+
+7 Plaintiffs also point to a case from the District of Maine, in which the court held that the use of a less-
+than-lethal beanbag shotgun could constitute lethal force under Maine law.  Norton v. City of S. Portland, 831 
+F. Supp. 2d 340, 347 (D. Me. 2011).  The circumstances of that case are clearly inapplicable here, and, in any event, 
+that holding does not clearly establish any constitutional right.  See Ashcroft v. al-Kidd, 563 U.S. 731, 741 (2011). 
+there, officers had probable cause to believe that Conlon had just attempted to commit an armed 
+robbery with a knife.  (Compl. ¶ 50).  He was holding a knife (and possibly a fire extinguisher) 
+for most of the confrontation.  (Id. ¶¶ 93-94).  Indeed, only his relinquishing of the knife 
+provided the “opening” for Chisholm to attempt to employ the less-than-lethal shotgun.  (Id. 
+
+¶¶ 94-95).  Moreover, the fact that he had resisted putting the knife or fire extinguisher down for 
+approximately 20 minutes signaled some unwillingness to comply with officers’ commands.  (Id. 
+¶ 93).  The circumstances in Deorle, involving a substantially more compliant and unarmed 
+arrestee, would not have put Chisholm on notice that using a beanbag shotgun would have 
+violated any constitutional right.8                                       
+In Glenn v. Washington Cnty., the circumstances were closer to those presented here.  
+673 F.3d 864, 867 (9th Cir. 2011).  There, police officers responded to a home where an 
+intoxicated teenager armed with a pocketknife had threatened to kill himself.  Id.  When officers 
+arrived, the teenager was standing with his parents and two friends but had not threatened them 
+or anyone else.  Id. at 868.  After a brief standoff, police officers used a beanbag shotgun to 
+
+attempt to subdue the teenager, striking him six times.  Id. at 873-74.  The teenager began to run 
+toward his home, and the police officers fatally shot him.  Id. at 874.  The Ninth Circuit 
+expressly did not determine that the officers’ actions were objectively unreasonable, deciding 
+instead that there remained a question of fact as to whether the teenager posed a threat to anyone 
+at the time the beanbag rounds were deployed.  Id. at 870.  The court acknowledged that a “jury 
+could . . . reach the conclusion that the officers’ use of force was reasonable.”  Id. at 878.9 
+
+8 In any event, the First Circuit has also previously considered the weight of Deorle in clearly establishing a 
+constitutional right and noted that the case “it is neither controlling authority nor a ‘consensus’ of persuasive 
+authority,” and that “it has been superseded by the many later Supreme Court and circuit precedents . . . .”  Rahim, 
+51 F.4th at 413 (citation omitted).                                       
+9 The Ninth Circuit proceeded to reverse the district court’s grant of summary judgment based on its now-
+abrogated “provocation rule,” in which an officer could be held liable for an otherwise reasonable use of force if the 
+Even assuming that some of the factual circumstances in Glenn were similar to those 
+presented here, that case (at most) establishes that those circumstances might lead to a 
+constitutional violation—a conclusion that would not have provided notice to Chisholm that his 
+attempted use of the shotgun violated the Constitution.                   
+
+The Ninth Circuit also decided another case involving the use of a beanbag shotgun fewer 
+than three months before the incident here.  In Cortesluna v. Leon, police responded to an 
+emergency call reporting a serious incident of domestic violence.  979 F.3d 645, 649 (9th Cir. 
+2020), rev’d in part on other grounds, 595 U.S. 1 (2021).  After observing the suspect for some 
+time, he was ordered out of the house, and he generally complied with officers’ commands.  Id. 
+at 650.  When he was eleven feet away from one officer, he moved his hands toward a knife he 
+was carrying in his front pocket, at which point an officer shot him twice with beanbag rounds.  
+Id.  The Ninth Circuit decided that the officer’s use of the less-than-lethal shotgun was 
+objectively reasonable under the circumstances, noting the seriousness of the crime, the threat 
+posed by the suspect given his easy access to a knife, and his unwillingness to fully comply with 
+
+officers’ commands.  Id. at 653.  In light of the Ninth Circuit’s decisions in Glenn and 
+Cortesluna, it is doubtful that Chisholm’s actions here would have violated a clearly established 
+right in the Ninth Circuit, let alone in the First Circuit.               
+Finally, plaintiffs point to Mercado v. City of Orlando, 407 F.3d 1152 (11th Cir. 2005).  
+In that case, police were called to the home of an emotionally disturbed man who was 
+threatening to harm himself.  Id. at 1154.  When they arrived, the man was sitting on his kitchen 
+floor with a telephone cord wrapped around his neck and holding a knife to his chest.  Id.  The 
+
+
+need for that force was “provoked” by an independent Fourth Amendment violation.  See Glenn, 673 F.3d at 879-80.  
+The Supreme Court has squarely rejected that rule.  See Mendez, 581 U.S. at 423. 
+man refused to comply with their commands.  Id.  Shortly thereafter, an officer shot the man in 
+the head with a “Sage Launcher,” firing a baton at 240 feet per second from six feet away.  Id. 
+The impact of the baton fractured the man’s skull, causing permanent brain injuries.  Id.  The 
+Eleventh Circuit concluded that the officer violated the man’s rights “[b]ecause he was not 
+
+committing a crime, resisting arrest, or posing an immediate threat to the officers at the time he 
+was shot in the head,” assuming the officer intended to aim there.  Id. at 1157-58. 
+The facts here are clearly distinguishable from Mercado in multiple respects, including 
+the nature of the confrontation with the police officers, the specific types of weapons in question, 
+and the circumstances of their use.  No reasonable officer in Chisholm’s position would have 
+concluded that Mercado put him on notice that attempting to use a beanbag shotgun in the 
+circumstances here would violate any clearly established right.           
+Accordingly, because the facts alleged in the complaint do not support a claim that 
+Chisholm committed any constitutional violation, and because plaintiffs have not met their 
+burden to show that any such right was clearly established as of January 5, 2021, Chisholm is 
+entitled to qualified immunity for his attempted use of the beanbag shotgun.10 
+
+          d.   Deadly Force                                          
+Finally, the complaint asserts that the firing of the fatal shots by Officers Benes and 
+Scaltreto was objectively unreasonable, and thus constituted excessive force.  As discussed, it 
+alleges that after the shotgun misfired, the noise “startled [Conlon] and caused him to pick up the 
+kitchen knife he had just dropped . . . .”  (Compl. ¶ 107).  Conlon then “approached” Chisholm.  
+
+
+
+10 Moreover, because the attempted use of the beanbag shotgun did not constitute a violation of the Fourth 
+Amendment, it cannot serve as a predicate constitutional violation for which plaintiffs could recover based on a 
+theory that it proximately caused the later use of deadly force.  See Mendez, 581 U.S. at 431. 
+(Id. ¶¶ 109, 111).  As he “approached” with the knife, a State Trooper fired his Taser, but 
+“almost simultaneously,” Benes and Scaltreto shot and killed him.  (Id. ¶¶ 109, 111). 
+There are myriad factual questions surrounding the critical moments before the shooting, 
+many of which are not alleged in the complaint.  It does not, for example, explain how rapidly 
+
+Conlon approached, or whether he held the knife as if to strike Chisholm, or whether the officers 
+took any other intervening actions.  That lack of specificity poses a challenge for both parties in 
+the context of qualified immunity.  On the one hand, without clearly articulated facts it is 
+difficult to evaluate the objective circumstances that faced officers at the scene.  On the other, a 
+lack of specificity can thwart plaintiffs’ efforts to show that a specific right was clearly 
+established at the time of the incident.  Even so, the Supreme Court has directed courts to resolve 
+immunity questions at the earliest possible stage of litigation.  See Pearson, 555 U.S. at 232; 
+Rahim, 51 F.4th at 411.  Accordingly, the Court will proceed to consider whether, as pleaded, the 
+factual circumstances presented in the complaint support a viable claim.  
+The intentional use of deadly force during a seizure is unconstitutional unless the officer 
+
+has probable cause to believe that the suspect poses a significant threat of death or serious 
+physical injury.  Tennessee v. Garner, 471 U.S. 1, 3 (1985); Young v. City of Providence ex rel. 
+Napolitano, 404 F.3d 4, 23 (1st Cir. 2005).  To guide that analysis, the First Circuit has identified 
+eight relevant factors for evaluating the reasonableness of an officer’s use of force: 
+     (1)  “whether a reasonable officer on the scene could believe that the 
+suspect posed an immediate threat to police officers or civilians;”  
+     (2)  “whether a warning was given before the use of force and whether the 
+suspect complied with this command;”                                 
+     (3)  “whether the suspect was armed—with a gun, knife, or otherwise—at 
+the time of the encounter;”                                          
+     (4)  “the speed with which officers had to respond to unfolding events, 
+both in terms of the overall confrontation and the decision to employ force;” 
+     (5)  “whether the suspect was advancing on the officers or otherwise 
+escalating the situation;”                                           
+     (6)  “the suspect’s physical proximity to the officers at the time of the use 
+of force;”                                                           
+     (7)  “whether multiple officers simultaneously reached the conclusion that 
+a use of force was required;” and                                    
+     (8)  “the nature of the underlying crime.”                      
+Rahim, 51 F.4th at 414-15; see also Conlogue v. Hamilton, 906 F.3d 150, 156 (1st Cir. 2018); 
+Kisela, 584 U.S. at 103; City of San Francisco v. Sheehan, 575 U.S. 600, 612 (2015). 
+Here, whether the officers’ use of deadly force was objectively reasonable is a close 
+question.  At the moment of the shooting, an officer at the scene could reasonably believe that 
+Conlon posed a threat to Chisholm—he had escalated the situation by rearming himself with a 
+knife in response to an attempt to subdue him and was approaching Chisholm from twelve feet 
+away.  (Compl. ¶ 106).  Both Scaltreto and Benes concluded that deadly force was required 
+“almost simultaneously.”  (Id. ¶ 109).  While the specific circumstances of the suspected armed 
+robbery are unclear, an officer at the scene would at least have had reasonable cause to believe 
+that Conlon had threatened someone with the knife.  (Id. ¶ 50).  The complaint does not indicate 
+whether a warning was given before the fatal shots were fired, or how much time elapsed 
+between the attempted use of the less-than-lethal shotgun and the shooting itself. 
+Overall, the factual circumstances would suggest that the officers’ use of deadly force 
+was likely objectively reasonable.  However, considering the limited record, the Court will not 
+make a conclusive determination as to that issue.  Instead, it will proceed to consider whether, at 
+the time of the incident, the state of the law was sufficiently established to put a reasonable 
+
+officer on notice that using deadly force under those circumstances would amount to a 
+constitutional violation.                                                 
+It was not.  Plaintiffs have failed to meet their burden to show any authority—controlling 
+or otherwise—that would support finding a constitutional violation when officers use deadly 
+force in response to an advancing suspect in a mental-health emergency who is armed with a 
+knife.  Indeed, several controlling authorities appear to establish the reverse. 
+
+In Kisela, for example, officers responded to a 911 report of a woman with a knife acting 
+erratically.  584 U.S. at 101.  When officers arrived, they observed the woman armed with a 
+large knife approaching another person.  Id.  After the woman disregarded the officers’ 
+commands to drop the knife, but continued to approach the person, officers shot her.  Id. at 102.  
+Although the Supreme Court did not conclusively determine whether the officers had committed 
+a constitutional violation, it held that the officer who used lethal force was entitled to qualified 
+immunity because he had not violated any clearly established law.  Id. at 106. 
+The First Circuit also recently faced an analogous situation in Estate of Rahim, 51 F.4th 
+at 404.  In that case, police sought to apprehend a terrorism suspect in a parking lot.  Id. at 405.  
+After a confrontation, the suspect began to advance on the officers with a knife, despite their 
+
+commands to stop.  Id. at 406.  Once the officers could retreat no further, they shot the suspect 
+when he came within 25 feet of them.  Id.  The First Circuit determined both that the officers had 
+committed no constitutional violation and, in any event, that the state of the law did not clearly 
+establish that they had committed any violation.  Id. at 412-17.          
+Although the factual allegations contained in the complaint here are obviously not 
+identical to either of those cases, their holdings at least illustrate that the existing precedent at the 
+time of the shooting in January 2021 did not put the constitutional question facing Benes and 
+Scaltreto “beyond debate.”  Id. at 413 (quoting Kisela, 584 U.S. at 104).  Accordingly, they are 
+entitled to qualified immunity for their use of force.                    
+          e.   Totality of the Force                                 
+Finally, the First Circuit has recently noted that “after segmenting the uses of force and 
+assessing each as reasonable, a court [can] thereafter look at the totality of the uses of force and 
+determine [whether] there was a constitutional violation.”  Lachance, 990 F.3d at 25 n.10; see 
+also Penate, 73 F.4th at 22 n.9.                                          
+
+Even considering the officers’ entire course of conduct, they are still entitled to qualified 
+immunity, both because the totality of the circumstances do not establish that they committed a 
+constitutional violation, and because the law has not clearly established that similar 
+circumstances would amount to such a violation.                           
+In sum, because the allegations in the complaint fail to state a viable claim of excessive 
+force under the Fourth Amendment, Count 1 will be dismissed.11            
+     3.   Substantive Due Process                                    
+Count 3 of the complaint alleges that defendants violated Conlon’s due-process rights 
+under the Fourteenth Amendment by failing to provide him with mental-health treatment during 
+the confrontation with police.                                            
+
+The First Circuit has recognized that “the due process clause of the Fourteenth 
+Amendment . . . require[s] the responsible governmental authorities to provide medical care to 
+persons who have been injured while being apprehended by the police.”  Gaudreault, 923 F.2d 
+at 208 (citing City of Revere v. Massachusetts Gen. Hosp., 463 U.S. 239, 244 (1983)).  Arrestees 
+generally have the same due-process right to medical care as that provided to convicted prisoners 
+by the Eighth Amendment.  Id.; see also Ruiz–Rosa v. Rullan, 485 F.3d 150, 155 (1st Cir. 2007).  
+The Eighth Amendment standard involves “(1) an objective prong that requires proof of a serious 
+
+11 Because there is no viable constitutional claim, there is also no secondary liability for the other officers 
+for failing to intervene or to adequately supervise.  See Wilson v. Town of Mendon, 294 F.3d 1, 6-7 (1st Cir. 2002). 
+medical need, and (2) a subjective prong that mandates a showing of [officials’] deliberate 
+indifference to that need.”  Kosilek v. Spencer, 774 F.3d 63, 82 (1st Cir. 2014) (en banc). 
+Even assuming the Eighth Amendment standard applies in these circumstances, the 
+complaint fails to allege any “deliberate indifference” by the arresting officers.  While the 
+
+complaint asserts that the officers exhibited such indifference by failing to use an available social 
+worker or wait for the NEMLEC team to arrive, those decisions do not rise to the level of 
+“wanton disregard” to Conlon’s needs “akin to criminal recklessness.”  Kosilek, 774 F.3d at 83.  
+Instead, the complaint asserts that multiple officers recognized that he was suffering from a 
+mental-health episode, attempted to speak and negotiate with him, and feigned agreement with 
+his delusions.  (Compl. ¶¶ 62-67).  They did not ignore his obvious distress.  While they may 
+have failed to use every available resource to assist him—and while it is also true that their 
+decisions to use force ultimately led to his tragic death—that is not the same as “deliberate 
+indifference” amounting to a constitutional violation.                    
+In any event, plaintiffs have provided no authority (and the Court has found none) that 
+
+would support finding a constitutional violation for failing to provide mental-health treatment to 
+an arrestee before he is in custody, never mind an arrestee who poses a danger to others as well 
+as himself.  In the absence of any such clearly established right, the officers are entitled to 
+qualified immunity.  Accordingly, Count 3 as to the individual defendants will be dismissed. 
+     4.   The MCRA                                                   
+Counts 7 and 8 allege that the individual defendants, using “threats, intimidation, and 
+coercion,” intentionally and unlawfully used excessive deadly force against Conlon, and 
+“thereby interfered with [his] right to life secured by Article XII of the Massachusetts Civil 
+Rights [A]ct . . . .”  (Compl. ¶ 215).                                    
+The MCRA provides a right of action to any person whose exercise or enjoyment of 
+rights secured by the federal or state constitution or laws has been interfered with by “threats, 
+intimidation or coercion.”  Mass. Gen. Laws ch. 12, § 11I.  “[T]he MCRA contemplates a two-
+part sequence: [liability attaches when] (1) the defendant threatens, intimidates, or coerces the 
+plaintiff, in order to (2) cause the plaintiff to give up something that he has the constitutional 
+
+right to do.”  Goddard v. Kelley, 629 F. Supp. 2d 115, 128 (D. Mass. 2009). 
+The Supreme Judicial Court has held that “[a] direct violation of a person’s rights does 
+not by itself involve threats, intimidation, or coercion and thus does not implicate the [MCRA].”  
+Longval v. Comm’r of Corr., 404 Mass. 325, 333 (1989).  In other words, “threats, intimidation, 
+or coercion” must be separately present in addition to the violation of rights.  See Sarvis v. 
+Boston Safe Deposit & Tr. Co., 47 Mass. App. Ct. 86, 93 (1999) (stating that Longval “affirmed 
+the requirement under the MCRA that proof of ‘threats, intimidation, or coercion’ be in addition 
+to the interference with the exercise or enjoyment of secured rights”).  Allegations of excessive 
+force, without more, have consistently been held not to constitute violations of the MCRA.  See, 
+e.g., Farrah ex rel. Est. of Santana v. Gondella, 725 F. Supp. 2d 238, 248 (D. Mass. 2010); 
+
+Gallagher v. Commonwealth, 2002 WL 924243, at *3 (D. Mass. March 11, 2002). 
+Plaintiffs here conflate the two requirements of the MCRA.  Even if the individual 
+officers’ use of force amounted to a constitutional violation, that force was not used to cause 
+Conlon to give up some other right; the force itself was the alleged constitutional violation.  
+Without any facts suggesting the individual officers used threats, intimidation, or coercion 
+distinct from the alleged use of excessive force, the complaint cannot support a viable claim 
+under the MCRA.  Accordingly, Counts 7 and 8 will be dismissed.           
+     5.   Wrongful Death Act                                         
+Count 9 alleges wrongful death under Mass. Gen. Laws ch. 229, § 2.  The complaint 
+asserts that the officers “decisions leading to [Conlon’s shooting] were intentional, willful, 
+wanton and/or reckless.”  (Compl. ¶ 223).                                 
+Mass. Gen. Laws ch. 229, § 2 provides that a “person who (1) by his negligence causes 
+the death of a person, or (2) by willful, wanton or reckless act causes the death of a person under 
+such circumstances that the deceased could have recovered damages for personal injuries if his 
+
+death had not resulted, . . . shall be liable in damages.”  “To prevail on a wrongful death claim, 
+pursuant to Mass. Gen. Laws ch. 229, § 2, a plaintiff must prove negligence, or willful or 
+reckless conduct, on the part of the defendant, that caused the death of a person.”  Gianocostas v. 
+Interface Grp.-Mass., Inc., 450 Mass. 715, 727 n.13 (2008).  The Massachusetts Tort Claims Act 
+“will bar a wrongful death claim against an individual defendant that proceeds on a negligence or 
+recklessness theory, but not one that is based on willful or intentional conduct.”  Geigel v. Boston 
+Police Dep’t, 2024 WL 68387, at *5 (D. Mass. Jan. 5, 2024); Mass. Gen. Laws ch. 258, § 2.  For 
+an officer to be individually liable under the statute, therefore, he must have willfully and 
+intentionally caused the death of another.  But “as a matter of Massachusetts law, if the officers’ 
+use of force was reasonable for Fourth Amendment purposes, [his] . . . wrongful death claims 
+
+also fail.”  Bannon, 99 F.4th at 77.                                      
+Here, because the complaint fails to plausibly allege that any of the individual defendants 
+used excessive force violating the Fourth Amendment, it likewise fails to state a viable claim for 
+wrongful death.  Accordingly, Count 9 will be dismissed.                  
+     6.   Common-Law Assault                                         
+The complaint asserts a claim against Sergeant Glenn Chisholm for common-law assault 
+based on his “attempted use” of the less-than-lethal shotgun.             
+Massachusetts law allows for assault claims against police officers for their conduct 
+during an arrest.  Raiche v. Pietroski, 623 F.3d 30, 40 (1st Cir. 2010).  “However, Massachusetts 
+law also allows an officer to use reasonable force in conducting a lawful arrest,” and therefore 
+“reasonable force is a valid defense to assault and battery.”  Id.  Where, as here, the complaint 
+alleges both a § 1983 excessive-force claim and a state-law claim for assault, the reasonableness 
+of the force used with respect to the § 1983 claim controls the assault analysis.  Id.  Qualified 
+immunity for a § 1983 claim, however, will not necessarily foreclose liability for common-law 
+
+tort claims.  Lachance, 990 F.3d at 31.                                   
+Here, because the Court has determined that the complaint’s allegations do not support a 
+viable excessive force claim against Chisholm for his attempted use of the less-than-lethal 
+shotgun, the same conduct also cannot sustain a viable state-law assault claim.  Accordingly, 
+Count 10 will be dismissed.                                               
+B.   City of Newton                                                  
+Again, the amended complaint asserts four claims against the City:  constitutional claims 
+under 42 U.S.C. § 1983 (Counts 2 and 3); and statutory claims under the ADA, 42 U.S.C. 
+§ 12132, and the Rehabilitation Act, 29 U.S.C. § 794(a) (Counts 4 through 6). 
+     1.   Constitutional Claims                                      
+          a.   Failure to Train and Supervise                        
+The complaint asserts that the City violated Conlon’s Fourteenth Amendment right to due 
+
+process through § 1983 by failing to train and supervise its officers in the use of force, 
+particularly in relation to people suffering from a mental illness.       
+A municipality may not be held vicariously liable under § 1983 for the acts of its 
+employees.  See Monell v. Dep’t of Soc. Servs., 436 U.S. 658, 692 (1978).  But a municipality 
+may be directly liable for its failure to train or supervise its employees when that failure “causes 
+a constitutional violation or injury” and “amounts to deliberate indifference to the rights of 
+persons with whom the [employees] come into contact.”  DiRico v. City of Quincy, 404 F.3d 464, 
+468 (1st Cir. 2005) (quoting City of Canton v. Harris, 489 U.S. 378, 388 (1989)). 
+To assert a failure-to-train claim, the complaint must plausibly allege, among other 
+things, that “municipal decisionmakers either knew or should have known that training was 
+inadequate but nonetheless exhibited deliberate indifference to the unconstitutional effects of 
+those inadequacies.”  Gray, 917 F.3d at 14 (quoting Haley v. City of Boston, 657 F.3d 39, 52 (1st 
+
+Cir. 2011)).  Typically, demonstrating such deliberate indifference requires alleging a “pattern of 
+similar constitutional violations by untrained employees.”  Id. (quoting Connick v. Thompson, 
+563 U.S. 51, 62 (2011)).  The bar for such claims is a high one.  See Hayden v. Grayson, 134 
+F.3d 449, 456 (1st Cir. 1998) (“The liability criteria for ‘failure to train’ claims are exceptionally 
+stringent . . . .”).                                                      
+Here, even assuming the existence of a constitutional violation, the complaint does not 
+contain any factual allegations concerning either the substance of the City’s training program or 
+any purported deficiencies in that program.  It also fails to allege a “pattern of similar 
+constitutional violations by untrained employees” that could have put the City on notice of any 
+deficiency of its training program.  Gray, 917 F.3d at 14; see also Canton, 489 U.S. at 390-91 
+
+(explaining that shortcomings in a single officer’s training may result from negligent 
+administration of “an otherwise sound program”).                          
+Under the circumstances, it cannot be reasonably inferred that the City was “deliberately 
+indifferent” to the training of its police officers.  See Geigel, 2024 WL 68387, at *2 (dismissing a 
+§ 1983 failure-to-train claim because the complaint neither identified a deficiency in the police 
+training program at issue, nor a pattern of constitutional violations from which to plausibly infer 
+deliberate indifference); Barker v. City of Boston, 795 F. Supp. 2d 117, 122-24 (D. Mass. 2011) 
+(finding no deliberate indifference by a city after police shot a person with a mental illness when 
+the plaintiff identified only two prior similar incidents over 19 years); Osman v. Dwan, 2021 
+WL 11505292, at *10-11 (D. Mass. July 30, 2021) (concluding that an allegation of a single 
+incident of racial profiling by police was insufficient to state a § 1983 failure-to-train claim). 
+Accordingly, because the complaint does not plausibly allege that the City was 
+deliberately indifferent to the training or supervision of its police officers, Count 2 will be 
+
+dismissed.                                                                
+          b.   Substantive Due Process                               
+Because the complaint fails to plausibly allege a constitutional violation under the 
+Fourteenth Amendment against the individual officers, and because those officers are protected 
+by qualified immunity, Count 3 as to the City will also be dismissed.  See Wilson, 294 F.3d at 6; 
+Joyce v. Town of Tewksbury, 112 F.3d 19, 23 (1st Cir. 1997).              
+     2.   ADA Claims                                                 
+The complaint further asserts claims against the City under Title II of the ADA and the 
+Rehabilitation Act.  It states that the City violated those statutes by failing to accommodate 
+Conlon’s disability during the conduct of the arrest, and by “failing to train its employees to 
+make reasonable accommodations to serve persons with mental health disabilities.”  (Compl. 
+
+¶¶ 193-213).  Defendants respond that neither statute should apply in these circumstances, that 
+vicarious liability should not be available, and that the complaint’s factual allegations cannot 
+support a claim because Conlon did not suffer greater injuries due to his disability. 
+          a.   Threshold Issues                                      
+In general, to state a plausible ADA claim, the complaint must allege that Conlon (1) was 
+a “qualified individual with a disability; (2) that he was either excluded from participation in or 
+denied the benefits of some public entity’s services, programs, or activities or was otherwise 
+discriminated against; and (3) that such exclusion, denial of benefits, or discrimination was by 
+reason of [his] disability.”  Parker v. Universidad de Puerto Rico, 225 F.3d 1, 5 (1st Cir. 2000).  
+For present purposes, there is no dispute that Conlon was a “qualified individual” and that the 
+City is a “public entity” under the ADA.  The question thus is whether the City discriminated 
+against Conlon during his arrest by reason of his disability.             
+The complaint’s allegations raise at least three unsettled questions over the application of 
+
+Title II of the ADA to police arrests, all of which are subject to competing answers from various 
+courts.  Gray, 917 F.3d at 16-18.  Those questions are (1) whether Title II can apply in “ad hoc” 
+police encounters such as the one presented here; (2) whether a public entity may be held liable 
+under it on a theory of respondeat superior; and (3) whether a showing of “deliberate 
+indifference” is the functional equivalent of “intentional discrimination” sufficient to establish 
+liability under the ADA.  Id. at 16-17.  The First Circuit has previously identified all three of 
+those questions and explicitly left them unresolved.  Id.  The City urges the Court to answer all 
+three of those questions in the negative.                                 
+At this stage of the proceedings, and given the limited record, the Court will follow the 
+First Circuit’s lead and assume, without deciding, that the answer to those questions is in the 
+
+affirmative.  Id. at 17.  Nonetheless, the ADA claim fails for other reasons. 
+          b.   Failure to Accommodate                                
+Count 4 asserts that the City is liable under Title II of the ADA for its officers’ failures to 
+accommodate Conlon’s disability during his arrest.                        
+The First Circuit has identified two contexts in which a police officer may violate the 
+ADA in effecting an arrest:  either by (1) wrongly arresting a person because they misperceived 
+the effects of their disability as criminal activity, or (2) by failing to reasonably accommodate a 
+person’s disability during an arrest, thereby causing the person to suffer more harm in the 
+process than other arrestees.  Id. at 15.  Only the latter theory is relevant here.  To state a viable 
+claim under that theory, the complaint must allege, at a minimum, that (1) the officers knew that 
+Conlon had a disability that required them to act differently, and (2) they failed to change their 
+conduct in light of that knowledge.  Id. at 18.12                         
+The complaint here fails at the first step.  The knowledge element requires that a plaintiff 
+show that defendants “knew that there was a reasonable accommodation [that they] were 
+
+required to provide.”  Id.  Such a showing requires at least some “particularized knowledge about 
+the nature or degree of [the] disability,” with which an officer might be able to “gaug[e] what 
+specific accommodation, if any, might have been reasonable under the circumstances.”  Id. 
+In Gray, for example, although the arresting officer was generally aware that an arrestee 
+had been involuntarily committed, he did not know the “nature or degree” of her mental 
+condition—bipolar disorder—and thus could not know what accommodation might have been 
+reasonable to provide.  Id. at 6, 18; see also Lambert v. Town of Merrimack, 2019 WL 4805992, 
+at *2-3 (D.N.H. Sept. 30, 2019) (finding that officers who shot a person suffering from a bipolar 
+episode who threatened them with a knife lacked sufficient particularized knowledge about the 
+decedent’s disability to know what accommodation might have been reasonable and necessary). 
+
+Here, the complaint alleges in general terms that several NPD officers, including the 
+individual defendants, and Sarah Eknaian (the NPD social worker) “were aware of [Conlon’s] 
+mental health challenges,” and “had previous contact with [him].”  (Compl. ¶¶ 38-39).  It also 
+suggests that the officers learned more about Conlon’s condition by interacting with him during 
+this encounter.                                                           
+
+
+
+12 The City also alludes to a separate line of cases discussing the requirements for stating a plausible ADA 
+claim based on inadequate medical care.  See Geigel, 2024 WL 68387, at *3 (citing Messere v. Clark, 2015 
+WL 5609959, at *12 (D. Mass. Sept. 22, 2015)).  The allegations here are distinguishable in that the complaint 
+asserts that the purported ADA violation at issue was a failure to accommodate Conlon’s disability during his arrest, 
+rather than a failure to provide specific medical treatment.              
+Those broad allegations are not enough.  As in Gray, even if the officers were on general 
+notice that Conlon had a mental-health condition and observed him in a state of crisis, the 
+complaint fails to allege that they had “particularized knowledge” as to the “nature or degree” of 
+Conlon’s condition that would have allowed them to gauge what accommodations might have 
+
+been necessary and reasonable under the circumstances.  Without any such showing, the 
+complaint fails to state a viable claim for failing to accommodate Conlon’s disability under the 
+ADA.  Accordingly, Count 4 will be dismissed.                             
+          c.   Failure to Train                                      
+Count 5 next asserts that the City is directly liable under Title II of the ADA for failing to 
+train its officers “to make reasonable accommodations in responding to a mental health 
+emergency.”  (Compl. ¶ 206).                                              
+The First Circuit has declined to definitively determine whether Title II of the ADA 
+imposes a duty on a municipality to “draft policies and train officers on the needs of the mentally 
+ill public.”  Buchanan v. Maine, 469 F.3d 158, 177 (1st Cir. 2006).  It has been clear, however, 
+that if training was provided, an allegation that such training was insufficient “does not present a 
+
+viable claim that [an individual] was ‘denied the benefits of the services . . . of a public entity’ by 
+reason of his mental illness, as required under [the ADA].”  Id.; see also Adle v. Maine Police 
+Dep’t, 279 F. Supp. 3d 337, 366 (D. Me. 2017).                            
+Here, the complaint appears to allege, in conclusory terms, that the City’s training 
+program was “deficient,” or “inadequate,” or otherwise not “effective.”  (Compl. ¶¶ 119-23).  
+Even crediting those allegations—as the Court must at this stage—they do not establish a 
+complete lack of training that could support a claim in this context.  Accordingly, Count 5 will 
+be dismissed.                                                             
+          d.   The Rehabilitation Act                                
+Finally, Count 6 asserts a claim under the Rehabilitation Act, 29 U.S.C. § 794(a), which 
+prohibits disability discrimination by entities receiving federal funds.  The applicable tests and 
+available remedies under that statute are coextensive with those under Title II of the ADA.  
+Calero–Cerezo v. U.S. Dep’t of Justice, 355 F.3d 6, 11 n.1 (1st Cir. 2004) (“The same 
+
+standards . . . apply to claims under the ADA and under the Rehabilitation Act.”); see also Gray, 
+917 F.3d at 17 n.11.  Because both ADA claims fail here, so too does the claim under the 
+Rehabilitation Act.  Accordingly, Count 6 will be dismissed.              
+IV.  Conclusion                                                           
+For the foregoing reasons, defendants’ motions to dismiss are GRANTED.  The Clerk is 
+directed to enter a separate order of dismissal.                          
+So Ordered.                                                               
+
+                           /s/ F. Dennis Saylor IV                   
+                           F. Dennis Saylor IV                       
+Dated:  June 21, 2024           Chief Judge, United States District Court
+
+---
+
+UNITED STATES DISTRICT COURT                            
+              DISTRICT OF MASSACHUSETTS                              
+
+__________________________________________                                
+                              )                                      
+ROBERT CONLON AND BETSY CONLON,    )                                      
+as personal representatives of the Estate of  )                           
+Michael Conlon,                    )                                      
+                              )                                      
+     Plaintiffs,              )                                      
+                              )    Civil Action No.                  
+v.                            )    23-10026-FDS                      
+                              )                                      
+Newton Police Officer FRANCIS      )                                      
+SCALTRETO, Newton Police Officer    )                                     
+RICHARD BENES, Newton Police       )                                      
+Sergeant GLENN CHISHOLM,           )                                      
+Newton Police Captain DENNIS       )                                      
+DOWLING, Newton Police Captain     )                                      
+CHRISTOPHER MARZILLI, and          )                                      
+The CITY OF NEWTON,                )                                      
+                              )                                      
+     Defendants.              )                                      
+__________________________________________)                               
+
+
+  ORDER ON PLAINTIFF’S MOTION TO AMEND THE COMPLAINT                 
+SAYLOR, C.J.                                                              
+This case involves a claim of excessive use of force.  According to the complaint, on 
+January 5, 2021, members of the Newton Police Department shot and killed Michael Conlon, a 
+28-year-old man with schizophrenia.                                       
+The complaint names as defendants Francis Scaltreto (a Newton police officer), Richard 
+Benes (a Newton police officer), Glenn Chisholm (a Newton Police Sergeant), Dennis Dowling 
+(a Newton Police Captain), Christopher Marzilli (a Newton Police Captain), and the City of 
+Newton.                                                                   
+The complaint asserts twelve counts against defendants:  (1) violation of 42 U.S.C. 
+§ 1983 against the individual defendants for excessive use of force; (2) violation of 42 U.S.C. 
+§ 1983 against the individual defendants for deprivation of due process; (3) violation of 42 
+U.S.C. § 1983 against Dowling and Marzilli for deprivation of due process; (4) violation of 42 
+U.S.C. § 1983 against the City of Newton for negligent training and supervision; (5) violation of 
+
+42 U.S.C. § 1983 against all defendants for failure to provide mental-health treatment; (6) 
+violation of the Americans with Disabilities Act against the City of Newton for failure to 
+accommodate Conlon’s disability; (7) violation of the Americans with Disabilities Act against 
+the City of Newton for failure to train; (8) violation of the Rehabilitation Act against the City of 
+Newton; (9) violation of Mass Gen. L. ch. 12 §§ 11H, 11I against the individual defendants for 
+interfering with Conlon’s right to life; (10) violation of Mass Gen. L. ch. 12 §§ 11H, 11I against 
+the individual defendants for excessive force; (11) violation of Mass Gen. L. ch. 229 § 2 against 
+the individual defendants for wrongful death; and (12) assault against Chisholm. 
+Plaintiffs now seek to amend the complaint.  For the following reasons, that motion will 
+be granted.                                                               
+
+I.   Background                                                           
+The original complaint was filed on January 5, 2023.  On May 5, 2023, defendants 
+moved to dismiss for failure to state a claim.  In response, plaintiffs moved for leave to file an 
+amended complaint.                                                        
+On August 17, 2023, the parties submitted a joint motion to extend time for defendants to 
+respond to plaintiffs’ motion to amend and to stay defendants’ motions to dismiss.  The Court 
+granted the parties’ motion and set a deadline for responses by September 12, 2023.  The 
+defendants.  More than two months past that deadline, the defendants have yet to respond. 
+The proposed amended complaint makes several changes, including withdrawing Counts 
+2 and 3 of the original complaint and adding factual details and refinement to Counts 1, 4, and 5.  
+According to plaintiffs, the factual details are the result of their review of more than 10,000 
+pages of additional materials received by counsel, including the inquest into the death of Conlon. 
+II.  Analysis                                                             
+
+Under Rule 15(a), a party may amend a pleading without leave of court in certain 
+relatively narrow circumstances.  Fed. R. Civ. P. 15(a)(2).  “In all other cases, a party may 
+amend its pleading only with the opposing party’s written consent or the court’s leave.  The court 
+should freely give leave when justice so requires.”  Fed. R. Civ. P. 15(a)(2).  In determining 
+whether to grant a motion to amend, courts must examine the totality of the circumstances and 
+exercise their “informed discretion in constructing a balance of pertinent considerations.”  
+Palmer v. Champion Mortg., 465 F.3d 24, 30-31 (1st Cir. 2006) (citing Quaker State Oil Ref. 
+Corp. v. Garrity Oil Co., 884 F.2d 1510, 1517 (1st Cir. 1989)).  District courts enjoy “significant 
+latitude in deciding whether to grant leave to amend.”  ACA Fin. Guar. Corp. v. Advest, Inc., 512 
+F.3d 46, 55 (1st Cir. 2008).                                              
+
+“[T]he liberal amendment policy prescribed by Rule 15(a) does not mean that leave will 
+be granted in all cases.”  Acosta-Mestre v. Hilton Int’l of P.R., Inc., 156 F.3d 49, 51 (1st Cir. 
+1998) (quoting 6 CHARLES ALAN WRIGHT ET AL., FEDERAL PRACTICE & PROCEDURE § 1487, at 
+611 (2d ed. 1990)).  Leave to amend may be denied because of “undue delay, bad faith or 
+dilatory motive on the part of the movant, repeated failure to cure deficiencies by amendments 
+previously allowed, undue prejudice to the opposing party by virtue of allowance of the 
+amendment, [and] futility of amendment.”  Foman v. Davis, 371 U.S. 178, 182 (1962).   
+The motion here, in large part, seeks to refine certain details and to dismiss certain 
+claims, and is brought relatively early in the case.  Under the circumstances, the motion will be 
+granted.  The defendants will, of course, have an opportunity to renew their motion to dismiss 
+after the filing of a first amended complaint.                            
+III.  Conclusion                                                          
+For the foregoing reasons,                                           
+
+1.  Plaintiffs’ Motion for Leave to File an Amended Complaint (ECF No. 29) is 
+  GRANTED.                                                           
+2.  Plaintiff is directed to file an amended complaint consistent with the terms of this 
+  memorandum and order within 14 days (that is, by November 29, 2023). 
+3.  Defendant City of Newton’s Motion to Dismiss for Failure to State a Claim (ECF No. 
+  15) and the Individual Defendants’ Motion to Dismiss for Failure to State a Claim 
+  (ECF No. 17) are DENIED without prejudice as moot.  Defendants shall answer or 
+  otherwise respond within 21 days after the filing of the amended complaint. 
+
+So Ordered.                                                               
+
+                           /s/ F. Dennis Saylor IV                   
+                           F. Dennis Saylor IV                       
+Dated:  November 15, 2023       Chief Judge, United States District Court

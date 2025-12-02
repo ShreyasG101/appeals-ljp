@@ -1,0 +1,26 @@
+{
+  "overall_outcome": "REVERSE",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the employer's liability exclusion in a general liability insurance policy bars coverage for injuries suffered by an employee who was shot while leaving work.",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "The court held that the employer's liability exclusion applies because the injury arose out of and in the course of employment, as interpreted in light of Alabama workers' compensation law, and thus the policy does not cover the employee's injuries."
+    }
+  ],
+  "key_precedents": [
+    "U.S. Fid. & Guar. Co. v. Byrd, 137 So. 2d 743 (Ala. 1962)",
+    "Ex parte Shelby Cnty. Health Care Auth., 850 So. 2d 332 (Ala. 2002)",
+    "Hughes v. Decatur Gen. Hosp., 514 So. 2d 935 (Ala. 1987)",
+    "Brunson v. Lucas, 5 So. 3d 1274 (Ala. Civ. App. 2008)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "This appeal requires us to decide whether a convenience store\u2019s general liability insurance policy covers injuries suffered by an employee who was shot while leaving work. Amanali Babwari worked as a clerk at a convenience store in Birmingham, Alabama. While Babwari was leaving work one night, an assailant robbed and shot him. After Babwari obtained a consent judgment against his employer, he brought this action to compel his employer\u2019s insurer, State Farm Fire and Casualty Company, to pay the consent judgment. The district court entered summary judgment for Babwari. Because the policy\u2019s employer liability exclusion bars coverage, we reverse and remand with instructions to enter summary judgment for State Farm."
+}

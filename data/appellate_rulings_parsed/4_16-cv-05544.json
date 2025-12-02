@@ -1,0 +1,43 @@
+{
+  "overall_outcome": "REVERSE_AND_REMAND",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "What legal test should courts apply to determine the enforceability of releases of claims under ERISA?",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE_AND_REMAND",
+      "key_reasoning": "The court held that courts must apply a totality of the circumstances test considering nine non-exhaustive factors, including whether the release was induced by improper fiduciary conduct, to determine if the release was knowing and voluntary. The district court erred by not considering fiduciary breach allegations in its enforceability analysis."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the district court\u2019s Rule 54(b) certification of final judgment on the enforceability question was proper.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found the certification proper because the district court expressly directed final judgment and determined no just reason for delay, and the certification would streamline litigation by resolving a threshold legal question."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the court has appellate jurisdiction over Microchip\u2019s cross-appeal challenging denial of summary judgment as to non-named plaintiffs.",
+      "standard_of_review": "de novo",
+      "holding": "DISMISS",
+      "key_reasoning": "The court lacks jurisdiction because the cross-appeal involves a non-final order and the issue is not inextricably intertwined with the interlocutory appeal. Neither pendent jurisdiction nor the collateral order doctrine applies."
+    }
+  ],
+  "key_precedents": [
+    "Vizcaino v. Microsoft Corp., 120 F.3d 1006 (9th Cir. 1997)",
+    "Morais v. Cent. Beverage Corp. Union Emps.\u2019 Supplemental Ret. Plan, 167 F.3d 709 (1st Cir. 1999)",
+    "Finz v. Schlesinger, 957 F.2d 78 (2d Cir. 1992)",
+    "Howell v. Motorola, Inc., 633 F.3d 552 (7th Cir. 2011)",
+    "Leavitt v. Nw. Bell Tel. Co., 921 F.2d 160 (8th Cir. 1990)",
+    "Varity Corp. v. Howe, 516 U.S. 489 (1996)",
+    "Washington v. Bert Bell/Pete Rozelle NFL Ret. Plan, 504 F.3d 818 (9th Cir. 2007)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": true,
+    "close_case": false,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "The panel reversed the district court\u2019s summary judgment against Peter Schuman and William Coplin in a case concerning the enforceability of a release of claims under the Employee Retirement Income Security Act of 1974 (\u201cERISA\u201d); remanded to the district court for further proceedings; and dismissed for lack of appellate jurisdiction a cross-appeal by Microchip Technology Inc., Amtel Corp., and Amtel Corp. U.S. Severance Guarantee Benefit Program (collectively \u201cDefendants\u201d).\nIn anticipation of a potential merger, Amtel Corp. created a benefits plan (\u201cPlan\u201d), governed by ERISA, for employees to receive severance in the event that an acquiring company fired Amtel staff. Soon after Microchip acquired Amtel, Microchip terminated Schuman and Coplin, without cause, and offered them significantly lower benefits than promised in the Plan in exchange for a release of all potential claims. Schuman and Coplin signed the releases.\nSchuman and Coplin later filed a class-action complaint, on behalf of about 200 similarly situated former Amtel employees who had also signed releases, alleging violations of ERISA, including breach of fiduciary duty and denial of benefits, and challenging the enforceability of the releases.\nThe district court entered final judgment under Federal Rule of Civil Procedure 54(b) in favor of Defendants and against Schuman and Coplin, certifying for this court\u2019s review the question of what legal test should apply in determining the enforceability of the releases signed by Schuman and Coplin and the majority of class members.\nThe panel held that the district court\u2019s Rule 54(b) certification was not improper.\nThe panel held that courts must consider alleged improper conduct by the fiduciary in obtaining a release as part of the totality of the circumstances concerning the knowledge or voluntariness of the release or waiver. In evaluating the totality of the circumstances to determine whether the individual entered into the release or waiver knowingly and voluntarily, courts should consider the following non-exhaustive factors: (1) the employee\u2019s education and business experience; (2) the employee\u2019s input in negotiating the terms of the settlement; (3) the clarity of the release language; (4) the amount of time the employee had for deliberation before signing the release; (5) whether the employee actually read the release and considered its terms before signing it; (6) whether the employee knew of his rights under the plan and the relevant facts when he signed the release; (7) whether the employee had an opportunity to consult with an attorney before signing the release; (8) whether the consideration given in exchange for the release exceeded the benefits to which the employee was already entitled by contract or law; and (9) whether the employee\u2019s release was induced by improper conduct on the fiduciary\u2019s part. Where, as here, the district court has found a genuine issue of fact material to the issue of a breach of fiduciary duty in obtaining the release of claims, the final factor warrants serious consideration and may weigh particularly heavily against finding that the release was \u201cknowing\u201d or \u201cvoluntary\u201d or both.\nThe panel remanded to the district court for its application of the factors.\nThe panel dismissed for lack of jurisdiction Microchip\u2019s cross-appeal challenging the district court\u2019s denial of summary judgment as to the non-named plaintiffs. Pendent jurisdiction does not apply because the issue raised in the cross-appeal\u2014whether the judgment against Schuman and Coplin extinguished the non-named plaintiffs\u2019 claims\u2014is not inextricably intertwined with the issue properly before this court on interlocutory appeal."
+}

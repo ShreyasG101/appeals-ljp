@@ -1,0 +1,1443 @@
+United States Court of Appeals
+                       For the First Circuit
+
+
+No. 24-1351
+
+
+   IAN MILLER, personal representative of the Estate of Robert
+                          Joseph Miller,
+
+                        Plaintiff, Appellee,
+
+                                 v.
+
+ SPENCER JACKSON, in his individual capacity; SEAN ROYCROFT, in
+                    his individual capacity,
+
+                      Defendants, Appellants.
+
+
+          APPEAL FROM THE UNITED STATES DISTRICT COURT
+               FOR THE DISTRICT OF MASSACHUSETTS
+
+              [Hon. Angel Kelley, U.S. District Judge]
+
+
+                               Before
+
+                       Barron, Chief Judge,
+              Thompson and Rikelman, Circuit Judges.
+
+
+
+     Alexandra M. Gill, with whom Douglas I. Louison and Louison,
+Costello, Condon & Pfaff, LLP, were on brief, for appellants.
+     Matthew W.H. Wessler, with whom Robert Friedman, Gupta
+Wessler LLP, Howard Friedman, Law Offices of Howard Friedman, PC,
+Jeffrey Wiesner, Jennifer McKinnon, and Wiesner McKinnon LLP, were
+on brief, for appellee.
+September 10, 2025
+            THOMPSON, Circuit Judge.
+
+                                  OVERVIEW
+
+            Robert   Miller    died    during   a    run-in   with   Barnstable
+
+police officers Sean Roycroft and Spencer Jackson at his Cape Cod
+
+home in 2019.    He was 63.      A big question is how this happened.
+
+The parties (whose names appear in our caption) give differing
+
+accounts.    But at this stage, we (as will be seen) must credit
+
+Miller's representative's version if there's evidence to support
+
+it.   And that's the version we set out here and throughout.
+
+            The tragedy impelling this litigation unfolded in just
+
+minutes.    Responding to a 911 call from Miller's girlfriend that
+
+he "need[ed] a psych evaluation," Roycroft got to Miller's place
+
+at 7:09 p.m. (she made the call around 7:03 p.m. and reported no
+
+crime (to be clear)).         Jackson got there about a minute later.
+
+And by 7:12 p.m. — after struggling to handcuff him while on the
+
+floor of the home's office area — the officers needed an ambulance
+
+for the now-lifeless Miller, who was pronounced dead at 8:00 p.m.
+
+            Miller's son (whom we'll just call "plaintiff") sued the
+
+officers on behalf of the estate, alleging a federal excessive-
+
+force claim.     See 42 U.S.C. § 1983.              Following discovery, the
+
+officers moved for summary judgment on qualified-immunity grounds.
+
+Qualified immunity (broadly speaking) protects them from this suit
+
+unless they violated clearly established constitutional norms.
+
+See, e.g., Plumhoff v. Rickard, 572 U.S. 765, 778 (2014).               But the
+
+
+                                      - 3 -
+district judge (roughly speaking) thought that plaintiff raised
+
+triable issues because of questions concerning what reasonable
+
+jurors could infer about the officers' conduct (described more
+
+fully below) after "Roycroft and Miller tripped and fell to the
+
+floor in the office space area."          See Est. of Miller v. Roycroft,
+
+No. 21-CV-10738-AK, 2024 WL 1416066, at *12 (D. Mass. Mar. 31,
+
+2024).    So the judge denied summary judgment on that aspect of the
+
+case.    See id. at *15.      The officers appealed.
+
+            After careful consideration of this interlocutory matter
+
+("interlocutory," because the suit remains live in the district
+
+court), we reverse in part, affirm in part, and dismiss in part —
+
+sharing only those details needed to justify our decision (anyone
+
+interested in the full background can consult the district judge's
+
+opinion   (cited   in   the   preceding     paragraph)).   See   generally
+
+McKenney v. Mangino, 873 F.3d 75, 85 (1st Cir. 2017) (signaling
+
+that a "pretrial denial of qualified immunity is but a way station
+
+in the travel of a case," and adding that "[d]epending on the facts
+
+proven at trial and the inferences drawn by the jury, the defendant
+
+may or may not ultimately prevail on his qualified immunity
+
+defense" (quotation marks omitted)).
+
+
+
+
+                                    - 4 -
+                               GUIDING PRINCIPLES
+
+            A little bit about the legal backdrop is helpful, as a
+
+sort of primer for what's to come.
+
+            Qualified immunity shields police officers from § 1983
+
+suits unless the officers violated clearly established federal law
+
+apparent to a rational officer standing in their shoes when they
+
+acted.     See, e.g., Pearson v. Callahan, 555 U.S. 223, 232, 234
+
+(2009)    (holding     that    the   qualified-immunity      defense    turns   on
+
+whether    (1)   the    officers       violated   constitutional       guarantees
+
+(2) that governing caselaw clearly established the violation when
+
+it occurred — adding also that courts can resolve the defense under
+
+the first or second prong, as there's no "rigid order of battle").
+
+See generally Dist. of Columbia v. Wesby, 583 U.S. 48, 63-64 (2018)
+
+(remarking that while in the "rare" case a clearly established
+
+right may be "obvious," clearly establishing a right typically
+
+requires     "'controlling'"         caselaw      or     a   "'consensus'"      of
+
+"'persuasive'"       caselaw    that    puts    the    constitutional    question
+
+"'beyond debate"" (quoting Ashcroft v. al-Kidd, 563 U.S. 731, 741-
+
+42 (2011))); McKenney, 873 F.3d at 81 (discussing the qualified-
+
+immunity standard in exquisite detail).               Summary judgment in these
+
+kinds of cases turns on whether the record — read most favorably
+
+to plaintiff, with every reasonable inference it permits — reveals
+
+a material-fact dispute barring the officers' qualified-immunity
+
+claim or shows their right to judgment as a matter of law.                   See,
+
+
+                                        - 5 -
+e.g., Rivera-Corraliza v. Puig-Morales, 794 F.3d 208, 214 (1st
+
+Cir.   2015)    (stressing     that    "[c]ourts       penalize    officers       for
+
+violating      'bright     lines,'     not     for     making      'bad     guesses
+
+in gray areas'" (quoting Maciariello v. Sumner, 973 F.2d 295, 298
+
+(4th Cir. 1992))).
+
+            Orders       denying     summary     judgment        usually     aren't
+
+immediately appealable.            See, e.g., Johnson v. Jones, 515 U.S.
+
+304, 309 (1995) (discussing 28 U.S.C. § 1291).                 And that's because
+
+they're not final orders in the traditional sense. See id. (noting
+
+that § 1291 "grants appellate courts jurisdiction to hear appeals
+
+only from 'final decisions' of the district courts"). An exception
+
+exists for a summary-judgment order denying a qualified-immunity
+
+request if the appeal is about legal issues. Id. at 317. Qualified
+
+immunity, you see, is a defense from suit — not just liability.
+
+Id. at 312.     And forcing officers who lost on summary judgment to
+
+wait for a jury verdict before appealing would kibosh an essential
+
+piece of the defense.       Id.     But — an important but — while we have
+
+jurisdiction     to   resolve       purely     legal    issues,     we     have    no
+
+jurisdiction to resolve fact disputes.               See id.    Put most simply,
+
+"the interlocutory appeal to vindicate the right not to be tried
+
+is unavailable when there is no legal uncertainty; there is no
+
+separate 'right not to be tried' on the question whether the
+
+defendants did the deeds alleged; that is precisely the question
+
+for trial."      Elliott v. Thompson, 937 F.2d 338, 341 (7th Cir.
+
+
+                                      - 6 -
+1991).   See generally Brown v. Dickey, 117 F.4th 1, 6 (1st Cir.
+
+2024) (stressing that we lack jurisdiction if the officers' appeal
+
+turns on their "claim that 'the facts asserted by the plaintiff[]
+
+are untrue, unproven, warrant a different spin, tell only a small
+
+part of the story, [or] are presented out of context'" (quoting
+
+McKenney, 873 F.3d at 80-81)).1
+
+                           WHAT HAPPENED
+
+                            Key Facts2
+
+          We now return to the scene of Roycroft and Miller lying
+
+on the office floor (which led to the conduct that the judge ruled
+
+not covered by qualified immunity) — viewing (as required) the
+
+evidence and all inferences from it in the light most sympathetic
+
+to plaintiff.   See, e.g., Rivera-Corraliza, 794 F.3d at 214.3
+
+          The men's face-down tumble — occurring as Roycroft had
+
+his arms wrapped around Miller's chest from behind — resulted in
+
+both of Miller's arms and Roycroft's left arm getting pinned under
+
+
+
+     1 We confess that separating law-based appeals from fact-
+based appeals isn't always easy. See Morse v. Cloutier, 869 F.3d
+16, 22 (1st Cir. 2017).
+     2 Although this should be obvious, we point out that the
+"facts" in this opinion may not be the "actual facts" decided at
+trial — they're just the facts for summary-judgment purposes. See
+Eldridge v. Gordon Bros. Grp., L.L.C., 863 F.3d 66, 71 (1st Cir.
+2017).
+     3 The officers specifically state that "the sole use of force
+on which this appeal is focused" concerns the "segment of force"
+for "the events that occurred after Miller and Roycroft fell down
+to the floor in the office area."
+
+
+                               - 7 -
+Miller's body. The 6'0" Roycroft — with his (estimated) 220 pounds
+
+of body weight and gear — had basically dropped on top of Miller,
+
+who (in turn) had landed on a golf club.      Finding himself sort of
+
+"on [Miller's] left side," Roycroft had his right leg over Miller's
+
+left leg and his right arm between Miller's shoulder blades.
+
+Miller tried to "lift his chest" up.        But Roycroft pushed down
+
+with his right arm to stop Miller "from creating that space"
+
+between Miller's chest and the floor.      Delivering a half-strength
+
+body punch to Miller's right side, Jackson hoped to "distract[]"
+
+him so he could pull Miller's "hands from underneath [Miller's]
+
+body" and cuff him.   But no such luck.    So Jackson — after radioing
+
+for backup at 7:11:52 p.m. — punched Miller again.
+
+          And that second hit changed everything, as shown by what
+
+happened over the next minute or so.      Roycroft freed his left arm.
+
+Jackson yanked Miller's right hand behind Miller's back and cuffed
+
+Miller's right wrist.    Roycroft grabbed Miller's left hand "[a]t
+
+the same time."   Miller's girlfriend — Amy Anderson — saw one of
+
+the officers drive a knee into Miller's back to gain leverage.
+
+She also heard Miller say, "I can't breathe" and "Amy, help me"
+
+(she said Miller said these things when the officers "were trying
+
+to put handcuffs on him," a point the officers don't dispute).
+
+Jackson ultimately got the cuffs on Miller's left wrist as well
+
+and "double-locked" them behind Miller's back.           And Roycroft
+
+"immediately reached down" to get Miller to his feet but could
+
+
+                               - 8 -
+not.    Roycroft then rolled Miller (whose pupils were fixed) onto
+
+his side (so Miller "wouldn't be face down"), saw he wasn't
+
+breathing and had no pulse, called for medical help at 7:12:58
+
+p.m.,    and     started        CPR   (an     initialism       for   cardiopulmonary
+
+resuscitation,      an   emergency          procedure   used    during   cardiac   or
+
+respiratory arrest).
+
+           An ambulance took Miller to a local hospital, where the
+
+staff declared him dead.              The medical examiner listed Miller's
+
+cause of death as "cardiac dysrhythmia in the setting of excited
+
+delirium [due to] unknown psychiatric illness at the time of the
+
+restraint."      But plaintiff's medical expert concluded that Miller
+
+died of a "prone restraint cardiac arrest" caused by the pressure
+
+Roycroft       applied     to     Miller's     back     that     impaired   Miller's
+
+breathing.
+
+           For perspective's sake, we think it makes sense to divide
+
+the crucial facts into two phases (the phases' significance will
+
+become clear shortly):
+
+
+
+
+                                        - 9 -
+                               Timeline
+~7:10 p.m.                 7:11:52 p.m.                 7:12:58 p.m.
+                                                     (Roycroft calls
+(Men fall to floor)      (Jackson's second                ambulance)
+                              punch)
+           Phase One:                           Phase Two:
+    Roycroft's arm is pinned              Roycroft's arm is free;
+                                           officers cuff Miller
+   Nature of Excessive Force:         Nature of Excessive Force:
+  • Half of Roycroft's weight        • Knee on Miller's back
+     on Miller
+  • Forearm pressing down as
+     Miller presses up
+
+
+                         Key Rulings Below
+
+          This brings us to the judge's summary-judgment order
+
+denying qualified immunity to Roycroft and Jackson.
+
+                      Constitutional Violation
+
+          The judge first looked to see if plaintiff had shown
+
+that the officers' used constitutionally excessive force.     Est. of
+
+Miller, 2024 WL 1416066, at *8.4     And applying factors that help
+
+determine whether an officer acted reasonably — the severity of
+
+the victim's crime (if any); the type of threat (if any) he posed
+
+to the officers or others; and his active resistance (or not) —
+
+the judge concluded (after reading the record in the right light)
+
+
+
+
+     4 To clarify a possible point of confusion, plaintiff claims
+that Roycroft and Jackson applied excessive force themselves and
+that Jackson also failed to stop Roycroft's excessive force.
+
+
+                               - 10 -
+that plaintiff had shown exactly that.     Id. at *9-12 (discussing
+
+Graham v. Connor, 490 U.S. 386, 396-97 (1989)).
+
+          Miller had committed no crime, the judge noted.     Id. at
+
+*9.   And "[a]lthough Roycroft's left arm being trapped underneath
+
+Miller may have been cause for concern," the judge saw no facts
+
+suggesting that "Roycroft was in danger."      Id. at *11.   Miller
+
+never had "a weapon," the judge added, and "[h]e never threatened
+
+[the officers] or Anderson, and he never struck anyone."         Id.
+
+What's more, the judge found insufficient "facts" to "infer [that]
+
+Miller . . . deliberately trapp[ed] Roycroft's arm underneath his
+
+body." Id. Pointing to plaintiff's expert's deposition, the judge
+
+then found that the record raised "the inference that Miller
+
+struggled to cast Roycroft's weight from his back so he could
+
+breathe" — meaning "a genuine issue of material fact" existed "as
+
+to whether Miller actively resisted at all."    Id.   Based on their
+
+training and experience, the judge continued, Roycroft and Jackson
+
+knew about the "risk of restraint-related asphyxiation in this
+
+circumstance."   Id.5   So, the judge wrote, "a jury could find that
+
+
+      5Among the significant evidence the judge cited was a
+"guidance" document "circulated" by the federal government that
+"warn[ed] of the risk of positional asphyxia resulting from the
+use of a prone restraint." Id. The record also shows — as the
+judge inferred — that Roycroft and Jackson knew that police
+officers should help persons having trouble breathing; that
+Roycroft knew that he could "reduce or eliminate" breathing
+problems for in-custody persons lying on their stomachs by getting
+them off their stomachs; that Jackson knew that factors like age,
+obesity, and physical condition could make it harder for persons
+
+
+                                - 11 -
+an objectively reasonable officer" in their position "would have
+
+concluded that Miller was struggling to breathe, not resisting
+
+arrest."   Id.
+
+           And having explained how the Graham factors shook out,
+
+the judge ruled that "a jury could reasonably conclude that there
+
+was little or no need for the application of force against Miller,
+
+and that in light of his death, the force was excessive."                Id. at
+
+*12.
+
+                           Clearly Established
+
+           The judge then shifted to whether plaintiff had shown
+
+that the law was so clearly established that sensible officers
+
+would've known that they were breaking it.              Id. at *12-14.      And
+
+the judge concluded (after still approaching the record from the
+
+requisite plaintiff-friendly vantage) that plaintiff had done
+
+precisely that.    Id.
+
+                                  Roycroft
+
+           Starting off, the judge found that a "reasonable jury
+
+could   infer"   that    once   the   men   fell   to   the   floor,   Roycroft
+
+"appl[ied] pressure on Miller's back" — first with "his right arm"
+
+and then with "his knee," while Miller "was restrained."                Id. at
+
+
+to breathe if they were left lying on their stomachs (the then-
+63-year-old Miller was 5'9", 214 pounds when this went down); that
+Jackson also knew that a person having difficulty breathing might
+"struggle," so as to get air into the lungs; and that Jackson knew
+too that officers should ease the pressure on a face-down person's
+back during a handcuffing.
+
+
+                                      - 12 -
+*12 (emphasis added).         And as Miller struggled to push up for
+
+deeper breathes, the judge mentioned, Roycroft pushed down to stop
+
+him.   Id.    Quoting McCue v. City of Bangor, 838 F.3d 55 (1st Cir.
+
+2016), the judge next found it clearly established by "2012" —
+
+years before this incident — "that exerting significant, continued
+
+force on a person's back while that person is in a face-down prone
+
+position after being subdued and/or incapacitated constitutes
+
+excessive force."       See Est. of Miller, 2024 WL 1416066, at *13
+
+(quoting McCue, 838 F.3d at 64).       From there, the judge noted that
+
+Abdullahi v. City of Madison, 423 F.3d 763 (7th Cir. 2005) — a
+
+case that helped form McCue's rule — held that an officer couldn't
+
+get
+
+             qualified immunity at summary judgment where
+             [he] "placed his right knee and shin on the
+             back of [plaintiff's] shoulder area and
+             applied his weight to keep [the detainee] from
+             squirming or flailing" for 30 to 45 seconds,
+             despite the fact that the detainee had
+             "arch[ed] his back upwards as if he were
+             trying to escape" in "a futile attempt to
+             breathe."
+
+Est.   of    Miller,   2024   WL   1416066,   at   *13   (first   and   third
+
+alterations added by us) (quoting Abdullahi, 423 F.3d at 771).
+
+Which led the judge to "find[]" it clearly established when Miller
+
+died that he "had a constitutional right to be free from an officer
+
+kneeling on his back after he had been restrained."           Id.
+
+             Continuing, the judge also found a fact dispute on
+
+"whether either [officer] placed [a] knee on Miller's back,"
+
+
+                                    - 13 -
+"whether they exerted any weight on Miller's back," and "whether
+
+Miller said he could not breathe or made a plea for Anderson's
+
+help."    Id.   But the judge emphasized that she had to resolve all
+
+disputed facts and draw all inferences in plaintiff's favor.     Id.
+
+Having done all that, the judge ruled that Roycroft had fair notice
+
+"that subduing an unarmed and mentally unstable individual with
+
+compressive body weight who stated he could not breathe would
+
+violate that person's clearly established right to be free from
+
+excessive force" — and that a reasonable officer in his position
+
+would've known that.     See id. (emphasis added).
+
+            So the judge held that Roycroft wasn't "entitled to"
+
+qualified immunity on summary judgment.     See id.
+
+            Now might be a good time to make explicit what a reader
+
+may've already noticed — namely, that the judge's reasoning for
+
+denying Roycroft qualified immunity focused on Phase Two of the
+
+struggle, where Roycroft freed his arm and the officers cuffed
+
+Miller (we introduced the phases in the chart above6).     Remember,
+
+
+
+
+     6   For convenience, we reproduce the chart here:
+
+
+
+
+                                - 14 -
+after surveying McCue and Abdullahi, the judge ruled that Miller
+
+had a clearly established right not to have an officer "kneeling
+
+on his back" once "he had been restrained."         See Est. of Miller,
+
+2024 WL 1416066, at *13 (emphasis added). And because the kneeling
+
+occurred only after Roycroft freed his arm, the judge's ruling
+
+must relate to Phase Two.
+
+                                 Jackson
+
+           Citing Davis v. Rennie, 264 F.3d 86 (1st Cir. 2001), the
+
+judge also considered it clearly established that officers like
+
+Jackson must intervene in another's excessive force when they see
+
+it and can reasonably stop it.       Est. of Miller, 2024 WL 1416066,
+
+at *13 (discussing Davis, 264 F.3d at 102).        Given the scanty info
+
+
+
+
+                                 Timeline
+
+~7:10 p.m.                  7:11:52 p.m.                   7:12:58 p.m.
+(Men fall to floor)      (Jackson's second              (Roycroft calls
+                              punch)                         ambulance)
+
+             Phase One:                           Phase Two:
+      Roycroft's arm is pinned              Roycroft's arm is free;
+                                             officers cuff Miller
+
+Nature Excessive of Force:           Nature of Excessive Force:
+
+  •   Half of Roycroft's weight        •    Knee on Miller's back
+      on Miller
+  •   Forearm pressing down as
+      Miller presses up
+
+
+
+
+                                 - 15 -
+Jackson had when he first saw Roycroft and Miller, the judge ruled
+
+that "an objectively reasonable police officer" in his position
+
+would've    thought      "Miller    might   be   dangerous      and   [would've]
+
+prioritized helping Roycroft" — thus making it "reasonable for
+
+Jackson    to   then    punch    Miller's   torso   in   an    attempt   to   free
+
+Roycroft's left arm."        Id. at *14.      But the judge found many fact
+
+disputes    about      "events   immediately     after   that   the    jury   must
+
+decide," including "how long Miller was on the floor" — plaintiff's
+
+expert estimated that "Roycroft applied pressure on Miller's back
+
+while attempting to handcuff him for approximately two minutes and
+
+fifteen or thirty seconds" (which meant Jackson had about "the
+
+same amount of time to determine whether his and Roycroft's use of
+
+force was excessive and that they needed to stop"); whether the
+
+officers "put his knee on [Miller's] back and if so, for how long"
+
+(Anderson saw one of the officers do it, but Roycroft doesn't
+
+remember doing it or seeing Jackson do it — though he concedes
+
+that either he or Jackson may have done it for a "few seconds");
+
+and whether Jackson knew Miller was "struggling to breathe."                   Id.
+
+at *14 & n.2.     "Jackson would be entitled to qualified immunity if
+
+his version of events is substantiated," the judge wrote, but not
+
+"if the fact finder believes [plaintiff's] version."                  Id. at *15.
+
+            So the judge held that she'd "wait until after the facts
+
+have been settled to determine whether" Jackson acted objectively
+
+reasonably for qualified-immunity purposes.              Id.
+
+
+                                     - 16 -
+          Roycroft   and    Jackson   then   filed   this   interlocutory
+
+appeal.
+
+                           OUR CONSIDERED TAKE
+
+                               Reminders
+
+          Time to roll up our sleeves and decide how the case
+
+should come out.     Keep a couple things in mind as we do (they
+
+should sound familiar).       For one, to defeat qualified immunity
+
+plaintiff must not only prove a violation of a federal right, but
+
+of a   clearly established     federal right.        See, e.g.,   Rivera-
+
+Corraliza, 794 F.3d at 214.     For another, we can only resolve the
+
+officers' legal challenges — not challenges that "turn[] on either
+
+an issue of fact or an issue perceived by the [district judge] to
+
+be an issue of fact."      See Morse, 869 F.3d at 22 (emphases added)
+
+(quoting Stella v. Kelley, 63 F.3d 71, 74 (1st Cir. 2017)); see
+
+also Cady v. Walsh, 753 F.3d 348, 361 (1st Cir. 2014) (holding
+
+that if "the defendants fail to pose . . . the qualified immunity
+
+question in a manner that would permit us to conclude that 'the
+
+answer to it does not depend upon whose account of the facts is
+
+correct,'" then "we lack the authority to provide an answer"
+
+(quoting Stella, 63 F.3d at 75)).
+
+                        Arguments and Analysis
+
+                                 Setup
+
+          Insisting that Roycroft's arm was stuck under Miller
+
+"until just before Miller was handcuffed," the officers' big-
+
+
+                                 - 17 -
+picture argument — spanning Phases One and Two — is that no clearly
+
+established rule forbade the use of force that "occurred" before
+
+Miller     was    "restrained"    through      "handcuff[s]"     (because     the
+
+officers contest only the clearly established component of the
+
+qualified-immunity        analysis,    that's    all    we    address   (fyi)).
+
+Roycroft and Jackson cuffed Miller close to the end of Phase Two.
+
+Which is why we read their argument as straddling both phases (and
+
+which is why we split the discussion that follows into "Phase One
+
+Conduct" and "Phase Two Conduct").             Anyway, as framed this claim
+
+(centered on their doubts about legal doctrine) is a "purely legal"
+
+one over which "[w]e have jurisdiction" (despite what plaintiff
+
+believes) — though to the extent they also contest plaintiff's
+
+account of the facts along the way, we won't resolve them because
+
+we're powerless to do so.          See, e.g., McKenney, 873 F.3d at 82.
+
+See generally In re Lac-Mégantic Train Derailment Litig., 999 F.3d
+
+72,   77   (1st    Cir.   2021)   (remarking     that   "in   the   absence    of
+
+jurisdiction, a federal court is 'powerless to act'" (quoting Am.
+
+Fiber & Finishing, Inc. v. Tyco Healthcare Grp., 362 F.3d 136, 138
+
+(1st Cir. 2004))).
+
+                             Phase One Conduct
+
+            First up, the Phase One conduct — involving (as our chart
+
+in footnote 6 notes) Roycroft pressing Miller's chest to the ground
+
+with his right arm as Miller "push[ed] up," while his "left arm
+
+
+
+
+                                      - 18 -
+[was] trapped underneath Miller."              See Est. of Miller, 2024 WL
+
+1416066, at *12.
+
+                                    Roycroft
+
+            The   rule    "don't    use   excessive    force!"   is    clearly
+
+established.      See McKenney, 873 F.3d at 83 (citing Graham, for
+
+example).   But that doesn't clue officers in on what kinds of force
+
+are excessive and in which situations.             See id.    Only when pre-
+
+existing precedent — "controlling" authority or a "consensus of
+
+persuasive"    authority     —     involving    "similar"    facts    puts   the
+
+illegality of a specific action "beyond debate" may damages be
+
+awarded (points mentioned above).              See Berge v. Sch. Comm. of
+
+Gloucester, 107 F.4th 33, 39 (1st Cir. 2024) (quoting Wesby, 583
+
+U.S. at 63).7     The legal rules that plaintiff relies on must've
+
+been so clearly established that reasonable officers would've
+
+known that they were doing wrong.             See, e.g., Wesby, 583 U.S. at
+
+63.
+
+            Plaintiff notes (as the judge did) that the officers
+
+acted after McCue held "that exerting significant, continued force
+
+on a person's back while that [person] is in a face-down prone
+
+position after being subdued and/or incapacitated constitutes
+
+excessive force."        See 838 F.3d at 64 (quotation marks omitted).
+
+
+      7No one argues that this is the rare obvious case where the
+violation is so clear that no similar case is needed. See id.;
+see also Wesby, 583 U.S. at 64.    So we say no more about that
+subject.
+
+
+                                     - 19 -
+And plaintiff adds (as the judge also did) that McCue's embrace of
+
+Abdullahi confirms that this rule applies where the plaintiff-
+
+pleasing version of the facts showed a person's "attempts to
+
+'squirm' or arch his back upward while he was being restrained"
+
+wasn't "resistance" but instead was "a futile attempt to breathe."
+
+See Abdullahi, 423 F.3d at 769.
+
+            But unfortunately for plaintiff, we can distinguish both
+
+cases   when   it   comes   to   the    Phase   One   conduct   (even   without
+
+considering the officers' handcuffed-based argument here (we'll
+
+deal with that in the "Phase Two Conduct" section below)).              Simply
+
+put, no officer in either case was trapped (or "immobilized," to
+
+use the officers' word) in the way Roycroft was.                  And while a
+
+plaintiff needn't cite a case "directly on point" to put the
+
+"constitutional question beyond debate," see Ashcroft, 563 U.S. at
+
+741, McCue and Abdullahi are too far from "on point" to tip "every
+
+reasonable" officer off that the Phase One conduct would cross
+
+legal lines, see Wesby, 583 U.S. at 63; see also Brosseau v.
+
+Haugen, 543 U.S. 194, 198 (2004) (emphasizing that a right is
+
+"clearly established" when it's not among the "'hazy'" area of
+
+constitutional rules that officers at the scene might "reasonably
+
+misapprehend[e]d" (quoting Saucier v. Katz, 533 U.S. 194, 206
+
+(2001))).
+
+
+
+
+                                       - 20 -
+                              Jackson
+
+           Not much needs to be said about Jackson here.    Because
+
+Roycroft's Phase One conduct didn't violate clearly established
+
+law, Jackson had no duty to intervene there.      See, e.g., Davis,
+
+264 F.3d at 114 (discussing when the duty to intervene arises).8
+
+                            Conclusion
+
+           We must reverse that part of the judge's order denying
+
+summary judgment on qualified-immunity grounds for the Phase One
+
+conduct.
+
+                         Phase Two Conduct
+
+           Next up, the Phase Two conduct — involving (as our chart
+
+in footnote 6 also notes) an officer "kneeling on" Miller's "back"
+
+after Roycroft had freed his arm.       See Est. of Miller, 2024 WL
+
+1416066, at *13.
+
+                             Roycroft
+
+           The officers argue that the judge stumbled in locating
+
+clearly established law in McCue.       But their contentions don't
+
+work.
+
+
+
+
+     8 Plaintiff insists that "Jackson never addressed the duty to
+intervene below" and so waived any objection he might've had to
+qualified immunity on that claim. But we fall back on the baseline
+rule that "[a]ppellate courts may . . . address an issue not
+presented to the lower court if the lower court nevertheless
+addressed the issue."    Holsum de P.R., Inc. v. ITW Food Equip.
+Grp. LLC, 116 F.4th 59, 66 (1st Cir. 2024).
+
+
+                              - 21 -
+           A few words about McCue.        Trying to take Phillip McCue
+
+into protective custody (he might've been high on bath salts), the
+
+McCue officers tased him, handcuffed him behind his back, laid him
+
+face down, and applied significant weight on his shoulders and
+
+neck for up to five minutes when he wasn't resisting.           838 F.3d at
+
+56, 58, 62-64.      Which led to McCue's holding (after perusing
+
+relevant precedent) that pre-existing law clearly established
+
+"that exerting significant, continued force on a person's back
+
+while that [person] is in a face-down prone position after being
+
+subdued and/or incapacitated constitutes excessive force," see id.
+
+at 64 (quotation marks omitted and emphases added) — the italicized
+
+lingo play a starring role in the arguments that follow.
+
+           Anyhow, and importantly here,         McCue found      Abdullahi
+
+especially    helpful   in   defining   the   contours   of   that   clearly
+
+established law.        See McCue, 838 F.3d at 64.            The Abdullahi
+
+officers wrestled Jamal Mohamed (a PTSD sufferer) to the ground
+
+(after he had behaved menacingly).       423 F.3d at 764-65 (indicating
+
+that PTSD is short for "Post Traumatic Stress Disorder").            Mohamed
+
+then started "kicking his legs, moving his arms so they could not
+
+be handcuffed and arching his back upwards as if he were trying to
+
+escape."     Id. at 765.     And "for 30 to 45 seconds," one of the
+
+officers — as McCue noted, recapping Abdullahi — put "'his right
+
+knee and shin on the back of Mohamed's shoulder area and applied
+
+his weight to keep Mohamed from squirming or flailing.'"              McCue,
+
+
+                                  - 22 -
+838 F.3d at 64 (quoting Abdullahi, 423 F.3d at 765).   But despite
+
+Mohamed's thrashing around, Abdullahi — as McCue also documented
+
+— decided "that this movement may not have constituted resistance
+
+but rather 'a futile attempt to breathe' with the officer's weight
+
+on his upper body."    Id. (quoting Abdullahi, 423 F.3d at 771).
+
+Which explains Abdullahi's ultimate holding that the summary-
+
+judgment record showed a violation of Mohamed's constitutional
+
+rights (even though a trial might present a different record).
+
+Abdullahi, 423 F.3d at 769-70.
+
+          As previewed above, plaintiff's judge relied on McCue
+
+and McCue's embrace of Abdullahi in ruling that clearly established
+
+law recognized plaintiff's "constitutional right to be free from
+
+an officer kneeling on his back after he had been restrained" —
+
+something "a reasonable officer would have been aware" of.     See
+
+Est. of Miller, 2024 WL 1416066, at *13.    See generally Hope v.
+
+Pelzer, 536 U.S. 730, 738-44 (2002) (indicating that an action's
+
+unlawfulness can be apparent not only from direct holdings but
+
+also from specific examples deemed unlawful).   The officers argue
+
+against that ruling.    But their theories — one law-based, the
+
+others fact-based — provide no foothold for a reversal.
+
+                                 (i)
+
+          The officers' legal argument is that McCue's lesson —
+
+"that exerting significant, continued force on a person's back
+
+while that [person] is in a face-down prone position after being
+
+
+                              - 23 -
+subdued   and/or      incapacitated        constitutes      excessive      force"
+
+(emphases added) — applies only to force used on an already-
+
+handcuffed person.      And they think this because McCue was already
+
+cuffed when the officer used his knee as he did.                   So to them,
+
+"subdued" or "restrained" means — as a legal matter — "handcuffed."
+
+Accordingly, they go on, because "no knee or pressure of any kind
+
+was placed on Miller's back at any point after the handcuffs were
+
+applied," plaintiff's case falls outside McCue's ambit — meaning
+
+McCue can't provide the clearly established law needed to overcome
+
+qualified immunity for the Phase Two conduct.
+
+           That's legally wrong.          Abdullahi — flagged by McCue as
+
+a textbook example of unconstitutional conduct — shows as much
+
+because an officer there (like one here) inflicted the illegal
+
+force before the person was cuffed.               See Abdullahi, 423 F.3d at
+
+765 (recounting that the officer "took his weight off Mohamed after
+
+the handcuffing was complete" (emphasis added)).               And — to spell
+
+out the obvious — McCue's reliance on Abdullahi in pinpointing the
+
+clearly established rule makes plain that the directive extends to
+
+persons not already cuffed, despite what the officers claim.                  See
+
+generally Taylor v. City of Milford, 10 F.4th 800, 804, 808 (7th
+
+Cir. 2021) (disclosing that the summary-judgment record supported
+
+a violation of clearly established law where an officer used "his
+
+weight"   to   keep   an     uncuffed    person    "experiencing    a   diabetic
+
+emergency"     face   down    on   a    bed     (citing   McCue,   among    other
+
+
+                                       - 24 -
+authority)).    So the argument as framed by them has no oomph.              See
+
+generally United States v. Sineneng-Smith, 590 U.S. 371, 375 (2020)
+
+(commenting that the party-presentation principle compels courts
+
+to "rely on the parties to frame the issues for decision" (quoting
+
+Greenlaw v. United States, 554 U.S. 237, 243 (2008))). Critically,
+
+too, if the officers think they've made any other "Miller wasn't
+
+subdued"-type legal arguments (the quoted phrase is our shorthand
+
+descriptor),    we'd    find   them    "too     'skeletal'    or    'confusingly
+
+constructed'" to be preserved.            See Págan-Lisboa v. Soc. Sec.
+
+Admin., 996 F.3d 1, 7 (1st Cir. 2021) (quoting Rodríguez v. Mun.
+
+of San Juan, 659 F.3d 168, 175-76 (1st Cir. 2011)).
+
+                                       (ii)
+
+          The       officers   next     make     a   series    of     fact-based
+
+contentions     —   pitting    their    story    against     plaintiff's    (the
+
+evidence doesn't undeniably establish a single account).                     But
+
+unfortunately for them, we have no jurisdiction to decide whether
+
+they get qualified immunity under a different version of the facts
+
+(as this part of our opinion drives home).              See, e.g., Johnson,
+
+515 U.S. at 317.
+
+          Zeroing in on McCue's "continued force" requirement, the
+
+officers argue that the judge "incorrectly held that placing a
+
+knee on the back of an individual 'for a few seconds' (at most) in
+
+order to facilitate handcuffing is, per se, an excessive use of
+
+force — and that an objectively reasonable officer in Roycroft's
+
+
+                                   - 25 -
+and Jackson's position would have known doing so violated Miller's
+
+constitutional rights" (emphases added).     The officers create that
+
+"h[o]ld[ing]" out of thin air.        True, the judge did say that
+
+Roycroft claimed that the kneeling force (if used) could've lasted
+
+for only a "few seconds."     Est. of Miller, 2024 WL 1416066, at *14
+
+n.2.       But the judge explicitly found a fact "dispute" over "how
+
+long" Roycroft (or Jackson) applied pressure.       Id. at *14.   So
+
+their claim as presented can't move the needle in their favor.
+
+See, e.g., Sineneng-Smith, 590 U.S. at 375-80 (discussing the
+
+party-presentation rule so basic to "our adversarial system").
+
+And if the officers believe they've raised any other "no continuous
+
+force"-type claims (our shorthand descriptor for this facet of
+
+their argument), they waived them through inadequate briefing.
+
+See, e.g., Págan-Lisboa, 996 F.3d at 7.
+
+               Now looking to distance themselves from Abdullahi, the
+
+officers say that an officer there "continued to apply force after
+
+the [person] stopped resisting" (emphases added).     But they can't
+
+duck the judge's express rulings that "a jury could find that an
+
+objectively reasonable officer with [their] training would have
+
+concluded that Miller was struggling to breathe, not resisting" as
+
+Roycroft (or Jackson) applied pressure.      See Est. of Miller, 2024
+
+WL 1416066, at *11-12 (emphases added).9     The officers mention in
+
+
+
+       Faced with Anderson's account that Miller said "I can't
+       9
+
+breathe" and "Amy, help me," the officers basically challenge her
+
+
+                                 - 26 -
+passing that they "could have reasonably (even [if] mistakenly)"
+
+thought Miller "[w]as offering resistance."    But by making the
+
+suggestion without any developed rationale, they waived it.   See,
+
+e.g., United States v. Zannino, 895 F.2d 1, 17 (1st Cir. 1990).10
+
+          The officers then write that they didn't defy clearly
+
+established law because they "knew Anderson was in a dangerous
+
+situation due to Miller's behavior prior to the 911 call."    The
+
+judge did say that a sound jury could infer that Miller posed a
+
+danger to Anderson.   See Est. of Miller, 2024 WL 1416066, at *10.
+
+But the judge also said that an astute jury could alternatively
+
+
+
+
+credibility — contending that her memory was "unclear" at times.
+But at summary judgment, credibility calls go to the plaintiff
+(and credibility is a matter for the jury, not us). See, e.g.,
+Rodríguez, 659 F.3d at 180. Relying on Hunt v. Massi, the officers
+also note that "a police officer need not credit everything" a
+resisting criminal suspect "tells him."    773 F.3d 361, 369 n.6
+(1st Cir. 2014) (emphasis added) (quoting Rodriguez v. Ferrell,
+294 F.3d 1276, 1278 (11th Cir. 2002)). But see Jennings v. Jones,
+499 F.3d 2, 16 (1st Cir. 2007) (holding that clearly established
+law banned officers from "increas[ing] their use of physical force
+after an arrestee who has been resisting arrest stops resisting
+for several seconds and warns them that they are" exacerbating his
+injuries). But the officers are stuck with the judge's finding
+(so important we've quoted it more than once) that "a jury could
+find that an objectively reasonable officer with [their] training
+would have concluded that Miller was struggling to breathe, not
+resisting." See Est. of Miller, 2024 WL 1416066, at *11 (emphases
+added).   We say "stuck" because their attempt to upset how the
+judge understood this part of the record is verboten. See, e.g.,
+Brown, 117 F.4th at 6.
+     10 The "not resisting" piece of the judge's ruling also
+distinguishes this case from others they cite — like Gray v.
+Cummings — where the person "resist[ed] arrest." 917 F.3d 1, 12
+(1st Cir. 2019).
+
+
+                              - 27 -
+draw the reasonable inference that Miller "did not appear to be
+
+posing a danger to anyone."     See id. (emphases added).    And then
+
+the judge did what she's supposed to do by adopting the competing
+
+inferences in plaintiff's favor.      See id.; see also Anderson v.
+
+Liberty Lobby, Inc., 477 U.S. 242, 255 (1986).           So this fact
+
+quarrel (like the others) "exceeds the jurisdictional limit."      See
+
+Brown, 117 F.3d at 6.
+
+          Somewhat relatedly, the officers protest that Roycroft's
+
+"low-level, empty-hand force" on Miller didn't offend clearly
+
+established law because Miller could've used a golf club or some
+
+object in his hand as a weapon.      But the judge didn't call the
+
+force "low-level" — probably because the evidence indicates that
+
+once Roycroft freed his arm, he (assuming it was he, not Jackson)
+
+applied his full weight through his knee with enough force to cut-
+
+off Miller's air.   The judge also said that a right-thinking jury
+
+could find it "improbabl[e] or impossible" that Miller could wield
+
+a golf club from his stomach.   See Est. of Miller, 2024 WL 1416066,
+
+at *11.   Plus the judge saw "no objective evidence" that Miller
+
+had any other "object in his hand."      See id.   And the judge found
+
+as well that a clear-eyed jury could conclude that Miller wasn't
+
+trying to hurt "anyone."      See id. at *5, 11 (underscoring that
+
+Miller "never threatened" the officers (or Anderson) and didn't
+
+"punch, kick, or otherwise strike" them, and adding that while
+
+Miller did "flail[] his legs" "[d]uring the altercation," the
+
+
+                                - 28 -
+evidence "supports the inference" that he was simply trying to
+
+breathe).11     Because the officers' argument simply boils down to
+
+a beef about plaintiff's side of the facts, we can't consider it.
+
+See Brown, 117 F.4th at 6.12
+
+                                Jackson
+
+          The officers finally argue that Jackson had no clearly
+
+established   duty   to   intervene,   arguing   (for   instance)   that
+
+"[w]hile [plaintiff's use-of-force expert] might criticize Jackson
+
+for not having been able to handcuff Miller faster, there is no
+
+indication Jackson delayed his efforts or somehow delayed Miller's
+
+handcuffing."    But they face an insuperable hurdle.     After listing
+
+the components of a failure-to-intervene claim spotlighted in
+
+Davis — i.e., a plaintiff must show that the officer (i) "'was
+
+
+     11 The judge's Miller-wasn't-a-threat finding — made after
+looking at the record in a plaintiff-friendly way (as her other
+findings were) — differentiates this case from Justiniano v.
+Walker, a case the officers' cite that involved a person who did
+"pose[] a threat" from the viewpoint of a reasonable officer. 986
+F.3d 11, 28 (1st Cir. 2021).
+     12Don't misunderstand us. We know that officers on the scene
+must often make "split-second" decisions to act (or not) in
+situations where their choices (sometimes made with insufficient
+info) could prove fatal to them and others (that's worlds apart
+from what we judges do, reviewing excessive-force claims from the
+confines of our chambers — protected by federal marshals and
+blessed with time to reflect). See Graham, 490 U.S. at 396-97.
+But they must accept plaintiff's report of what happened (the trial
+may cast the facts in a different light, of course). See Brown,
+117 F.4th at 6. And they can't — as they try to do at different
+junctures — question the judge's decision that "the pretrial record
+sets forth a 'genuine' issue of fact for trial." See Johnson, 515
+U.S. at 320.
+
+
+                                - 29 -
+present when excessive force was used'"; (ii) "'observed the use
+
+of excessive force'"; (iii) "'was in a position where he . . .
+
+could   realistically   prevent      that     force'";     and   (iv) "'had
+
+sufficient time to do so'" — the judge found "factual disputes
+
+regarding events immediately after" Jackson's punches "that the
+
+jury must decide," see Est. of Miller, 2024 WL 1416066, at *13-14
+
+(quoting Davis, 264 F.3d at 102), including:           "whether one of the
+
+officers put his knee on [Miller's] back and if so, for how long
+
+and how much pressure was exerted," id. at *14.              The officers'
+
+opening brief does use Davis-like buzzwords in laying out the legal
+
+requisites of that kind of claim.           But they don't engage there
+
+with the facts and analysis that the judge relied on, resulting in
+
+waiver — a problem their reply brief can't cure, either.               See,
+
+e.g.,   Vizcarrondo-González    v.   Vilsack,    No.     20-2157,   2024   WL
+
+3221162, at *7 (1st Cir. June 28, 2024) (citing caselaw holding
+
+that a party commits waiver by "fail[ing] to address in its opening
+
+brief a basis on which the district court ruled against that
+
+party"); United States v. López, 957 F.3d 302, 309 (1st Cir. 2020)
+
+(declaring it "settled beyond hope of contradiction that arguments
+
+not made in an appellant[s'] opening brief are deemed abandoned").
+
+                               Conclusion
+
+           We must affirm that part of the judge's order denying
+
+summary judgment on qualified-immunity grounds for the Phase Two
+
+conduct.
+
+
+                                - 30 -
+                             FINAL WORDS
+
+           Having intently studied the officers' arguments against
+
+the   judge's   summary-judgment    order   denying   their   request   for
+
+qualified immunity, we reverse the denial in part (regarding the
+
+Phase One conduct), affirm the denial in part (regarding the Phase
+
+Two conduct), dismiss the appeal in part (regarding the fact-based
+
+arguments inappropriate for interlocutory appeal),             remand   for
+
+further proceedings consistent with this opinion, and award no
+
+appellate costs.13
+
+
+
+
+      13This seems like a perfect spot to note that — in addition
+to alleging a federal excessive-force claim — plaintiff also
+alleged a state wrongful-death claim. Apparently proceeding on
+the idea that the wrongful-death claim depended on the success of
+the excessive-force claim, the judge wrote that because "there are
+disputed material factual issues whether Roycroft and Jackson used
+excessive force," she was denying the officers' motion for summary
+judgment on the wrongful-death claim as well.     Est. of Miller,
+2024 WL 1416066, at *15. No one has briefed what effect a reversal
+on the excessive-force claim (even in part) would have on the
+wrongful-death claim. The parties and the judge can sort that out
+on remand.
+
+
+                                   - 31 -

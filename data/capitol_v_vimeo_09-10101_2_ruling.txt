@@ -1,0 +1,730 @@
+UNITED STATES DISTRICT COURT                                              
+SOUTHERN DISTRICT OF NEW YORK                                             
+
+
+
+CAPITOL RECORDS, LLC, et al.,                                             
+
+
+
+                Plaintiffs,                                             
+
+
+                                      No. 09-CV-10101 (RA)              
+             v.                                                         
+
+
+
+VIMEO, LLC d/b/a VIMEO.COM, et al.,                                       
+
+
+
+                Defendants.                                             
+                                       OPINION & ORDER                  
+
+
+EMI BLACKWOOD MUSIC, INC, et al.,                                         
+
+                Plaintiff,                                              
+
+
+             v.                                                         
+                                      No. 09-CV-10105 (RA)              
+
+VIMEO, LLC d/b/a VIMEO.COM, et al.,                                       
+
+                Defendants.                                             
+
+
+RONNIE ABRAMS, United States District Judge:                              
+   Plaintiffs Capitol Records, LLC, Caroline Records, Inc., Virgin Records America, Inc., 
+EMI Blackwood Music, Inc., EMI April Music, Inc., EMI Virgin Music, Inc., Colgems-EMI 
+Music, Inc., EMI Virgin Songs, Inc., EMI Gold Horizon Music Corp., EMI Unart Catalog Inc., 
+Jobete  Music  Co.,  Inc.,  Stone  Diamond  Music  Corporation,  and  EMI  U  Catalog,  Inc. 
+(collectively, “Plaintiffs”) bring these copyright infringement actions against Defendants Vimeo, 
+LLC and Connected Ventures, LLC (collectively, “Vimeo”).  This Court previously granted in 
+part and denied in part the parties’ cross-motions for summary judgment and certified several 
+questions  to  the  Second  Circuit  Court  of  Appeals  for  an  interlocutory  appeal  pursuant  to 
+28 U.S.C. § 1292(b).  The Court of Appeals accepted that appeal and affirmed in part and 
+vacated in part this Court’s decision.  See Capitol Records, LLC v. Vimeo, LLC, 826 F.3d 78, 81 
+(2d Cir. 2016), cert. denied, 137 S. Ct. 1374 (2017).  Now before the Court are the parties’ post-
+remand  cross-motions  for  summary  judgment  on  the  question  of  whether  the  safe-harbor 
+provision of the Digital Millennium Copyright Act of 1998 (“DMCA”) protects Vimeo from 
+
+copyright liability.  For the reasons that follow, Plaintiffs’ motion is denied and Vimeo’s motion 
+is granted in part and denied in part.                                    
+                        BACKGROUND                                      
+   The Court assumes familiarity with the factual background of this case, which has been 
+recounted in the previous opinions of both this Court and the Second Circuit.  See Capitol 
+Records, LLC v. Vimeo, LLC, 972 F. Supp. 2d 500, 504–07 (S.D.N.Y. 2013) (“Vimeo I”); 
+Capitol Records, LLC v. Vimeo, LLC, 972 F. Supp. 2d 537, 542–43 (S.D.N.Y. 2013) (“Vimeo 
+II”); Capitol Records, LLC v. Vimeo, LLC, 826 F.3d 78, 82–86 (2d Cir. 2016) (“Vimeo III”).  The 
+Court here provides a brief overview of the procedural history that is relevant to the instant 
+motions.                                                                  
+
+   Defendants operate the website Vimeo.com, an internet platform that permits users to 
+upload and share original videos.  Vimeo.com requires users to have participated in the creation 
+of the videos that they upload.  Plaintiffs, record and music-publishing companies, initially 
+brought this action against Defendants in 2009, alleging copyright infringement of musical 
+recordings used in 199 videos that appeared on Vimeo’s website.  In 2013, Vimeo moved for 
+summary judgment, asserting entitlement to safe-harbor protection under the DMCA.  Plaintiffs 
+cross-moved for partial summary judgment, seeking a ruling that Vimeo was ineligible for the 
+safe harbor.                                                              
+   In September 2013, this Court granted in part and denied in part each party’s motion.  
+Vimeo I, 972 F. Supp. 2d 500.  As relevant here, the Court granted summary judgment in favor 
+of Vimeo on 144 of the videos, on the basis that the lack of record evidence that Vimeo 
+employees had viewed them precluded a finding that they had acquired any knowledge of their 
+
+infringing content.  Id. at 523.  As to the remaining 55 videos, the Court held that triable issues 
+of fact existed concerning whether Vimeo had acquired either actual or “red flag” knowledge of 
+copyright infringement, thereby disqualifying Vimeo from the safe harbor.  Id.  The Court 
+further held, with respect to 10 of the remaining 55 videos that had been uploaded by Vimeo 
+employees, that there were triable issues of fact regarding whether the videos had been uploaded 
+by employees acting as agents of Vimeo (which would disqualify Vimeo from the safe harbor) or 
+in their personal capacities (which would not).  Id. at 519.              
+   On Vimeo’s motion for reconsideration, the Court granted summary judgment in favor of 
+Vimeo on 17 additional videos.  Vimeo II, 972 F. Supp. 2d 537.  The Court concluded that there 
+was insufficient evidence that Vimeo employees had watched 15 of the videos and that, with 
+
+respect to two of the videos, the infringing activity—which consisted of playing a copyrighted 
+song briefly in the background—was not “objectively obvious,” so as to disqualify Vimeo from 
+protection under the safe harbor.  Id. at 545–46 (quoting Viacom Int’l, Inc. v. YouTube, Inc., 676 
+F.3d  19,  31  (2d  Cir.  2012)).    As  to  the  remaining  videos  on  which  Vimeo  sought 
+reconsideration—which  prominently  featured  recognizable  songs  by  well-known  artists  in 
+essentially unaltered form—the Court held that genuine issues of fact existed concerning whether 
+Vimeo had red flag knowledge of the videos’ infringing content.  Id. at 546–49.  The Court 
+granted  Plaintiffs  leave  to  file  an  amended  complaint  alleging  1,476  new  instances  of 
+infringement and granted Vimeo’s motion to certify two questions for interlocutory appeal.  As 
+relevant  here,  one  of  those  certified  questions  was  “[w]hether,  under  Viacom  Int’l,  Inc.  v. 
+YouTube, Inc., a service provider’s viewing of a user-generated video containing all or virtually 
+all of a recognizable, copyrighted song may establish ‘facts or circumstances’ giving rise to ‘red 
+flag’ knowledge of infringement.”  Id. at 556.                            
+
+   On appeal, the Second Circuit answered that question in the negative.  Specifically, it 
+held that “[a] copyright owner’s mere showing that a video posted by a user on the service 
+provider’s site includes substantially all of a recording of recognizable copyrighted music, and 
+that an employee of the service provider saw  at least some part of the user’s material, is 
+insufficient to sustain the copyright owner’s burden of proving that the service provider had 
+either actual or red flag knowledge of the infringement.”  Vimeo III, 826 F.3d at 86.  For videos 
+where  employee  interaction  with  a  well-known  song  was  the  sole  indicator  of  red  flag 
+knowledge, the Court of Appeals held that “Vimeo is entitled to summary judgment . . . as to the 
+red flag knowledge issue, unless plaintiffs can point to evidence sufficient to carry their burden 
+of proving that Vimeo personnel either knew the video was infringing or knew facts making that 
+
+conclusion obvious to an ordinary person who had no specialized knowledge of music or the 
+laws of copyright.”  Id. at 98.  The Second Circuit vacated this Court’s partial denial of Vimeo’s 
+summary judgment motion and remanded for further consideration in light of its holding.   
+   On  remand,  the  parties  renewed  their  cross-motions  for  summary  judgment  on  the 
+applicability of the DMCA safe harbor and submitted supplemental briefing on the effect of the 
+Circuit’s decision on the 307 videos that are now in dispute (the “Videos-in-Suit”).1 
+
+
+
+
+1 Following remand, Plaintiffs identified 307 videos in which there was some evidence of Vimeo employee 
+interaction, such as comments or likes.  See Dkt. 186 at 7.               
+                      LEGAL STANDARD                                    
+   “The court shall grant summary judgment if the movant shows that there is no genuine 
+dispute as to any material fact and the movant is entitled to judgment as a matter of law.”  Fed. 
+R. Civ. P. 56(a).  The moving party bears the burden of demonstrating “the absence of a genuine 
+
+issue of material fact.”  Celotex Corp. v. Catrett, 477 U.S. 317, 323 (1986).  On summary 
+judgment, the Court must “construe all evidence in the light most favorable to the nonmoving 
+party,  drawing  all  inferences  and  resolving  all  ambiguities  in  its  favor.”    Dickerson  v. 
+Napolitano, 604 F.3d 732, 740 (2d Cir. 2010).  Where both parties move for summary judgment, 
+as Plaintiffs and Vimeo have done here, “each party’s motion must be examined on its own 
+merits, and . . . all reasonable inferences must be drawn against the party whose motion is under 
+consideration.”  Morales v. Quintel Entm’t, Inc., 249 F.3d 115, 121 (2d Cir. 2001). 
+                         DISCUSSION                                     
+   Before the Court are the parties’ cross-motions for summary judgment as to the issue of 
+whether Vimeo employees had “red flag” knowledge that the Videos-in-Suit were infringing. 
+
+I.   The Applicable Legal Standard on Remand                              
+A.      Defining Red Flag Knowledge                                     
+   The DMCA creates a “compromise, which on the one hand, augments the protections 
+available to copyright owners, and, on the other, insulates service providers from liability for 
+infringements of which they are unaware . . . so as to make it commercially feasible to provide 
+valuable Internet services to the public.”  Vimeo III, 826 F.3d at 82.  On the one hand, the 
+DMCA  enhances  copyright  protection  by  establishing  a  “notice-and-takedown  regime”  that 
+requires service providers to “‘expeditiously . . . remove . . . material that is claimed to be 
+infringing.’”  Id. at 83 (quoting 17 U.S.C. § 512(c)(1)(C)).  On the other hand, it “expressly 
+relieve[s] [internet service providers] of any obligation to monitor the postings of users to detect 
+infringements as a  condition of qualifying for the safe harbor,” and immunizes them from 
+copyright liability “if the service providers are unaware of the infringements.”  Id. at 83. 
+   At issue in this case is the scope of the safe harbor established by § 512(c), which shields 
+
+qualifying internet service providers from liability for copyright infringement “by reason of the 
+storage at the direction of a user of material that resides on a system or network controlled or 
+operated by or for the service provider,” if the service provider, among other things: 
+   (A)(i) does not have actual knowledge that the material or an activity using the material 
+   on the system or network is infringing;                              
+
+   (ii) in the absence of such knowledge, is not aware of facts or circumstances from which 
+   infringing activity is apparent; or                                  
+
+   (iii) upon obtaining such knowledge or awareness, acts expeditiously to remove, or 
+   disable access to, the material.                                     
+
+17 U.S.C. § 512(C)(1)(A)(i)–(iii) (emphases added).                       
+
+   In the event that infringing material has not been expeditiously removed from a site, the 
+§ 512(c) safe harbor applies only if the service provider has neither “actual knowledge” of the 
+infringing material nor “aware[ness] of facts or circumstances from which infringing activity is 
+apparent”—otherwise known as “red flag” knowledge.  Id.  “[T]he red flag provision turns on 
+whether  the  provider  was  subjectively  aware  of  facts  that  would  have  made  the  specific 
+infringement ‘objectively’ obvious to a reasonable person.”  Viacom, 676 F.3d at 31.  The Vimeo 
+III court further held that “[t]he hypothetical ‘reasonable person’ to whom infringement must be 
+obvious is an ordinary person—not endowed with specialized knowledge or expertise concerning 
+music or the laws of copyright.”  826 F.3d at 93–94.                      
+   Pursuant to Vimeo III, the burden of proving such knowledge or expertise falls on the 
+plaintiff.  As entitlement to the safe harbor “is properly seen as an affirmative defense,” the 
+defendant bears the burden of demonstrating that it meets the statutory definition of an eligible 
+service provider.  Id. at 94-95.  Nevertheless, the Circuit has made clear that “the burden of proof 
+more appropriately shifts to the plaintiff” on the question of whether the service provider should 
+be “disqualified” from the safe harbor based on accusations of misconduct—for example, by 
+
+reason of failing to act after acquiring actual or red flag knowledge.  Id. at 94.  In articulating this 
+standard, the Circuit cited with approval “the proposed allocation of shifting burdens of proof” in 
+the Nimmer copyright treatise.  Id. at 94-95 (citing MELVILLE B. NIMMER & DAVID NIMMER, 
+NIMMER ON COPYRIGHT § 12B.04[A][1][d] (2015)).                            
+   Applying the above standard to the facts of this case, the Vimeo III court held that 
+Plaintiffs could not meet their burden of proving that Vimeo had either actual or red flag 
+knowledge of a particular instance of infringement merely by showing that “some employee of 
+Vimeo had some contact with a user-posted video that played all, or nearly all, of a recognizable 
+song.”  Id. at 97.  This was so, the Court of Appeals held, for numerous reasons, including that 
+the  employee’s  viewing  may  have  been  brief  or  for  a  purpose  unrelated  to  detecting 
+
+infringement, and that even “famous” music may not be recognizable to a hypothetical ordinary 
+individual with no specialized knowledge of the field.  Id. at 96.  The Vimeo III court further 
+stated that employees of service providers “cannot be expected to know how to distinguish, for 
+example, between infringements and parodies that may qualify as fair use” or “how likely or 
+unlikely it may be that the user who posted the material had authorization to use the copyrighted 
+music.”  Id. at 97.  Consequently, viewing a video that incorporates a song known by the viewer 
+to be copyrighted would not in itself result in red flag knowledge.  In the Circuit’s view, “[e]ven 
+an employee who was  a copyright expert cannot be expected to know when the use of a 
+copyrighted  song  has  been  licensed.”    Id.    Although  knowledge  of  fair-use  and  licensing 
+principles cannot automatically be imputed to a service-provider employee, the Court of Appeals 
+noted that “[i]t is of course entirely possible” that a Vimeo employee viewing a video “did have 
+expertise or knowledge with respect to the market for music and the laws of copyright,” and that 
+“[t]he employee may well have known that the work was infringing, or known facts that made 
+
+this obvious.”  Id.                                                       
+   The Court of Appeals acknowledged that, in light of its narrow reading of red flag 
+knowledge, “the difference between actual knowledge of infringement under § 512(c)(1)(A)(i) 
+and red flag knowledge under § 512(c)(1)(A)(ii) may not be vast.”  Id.  “Assuming this is so,” 
+that court concluded, “it is of no significance.  The fact that Congress was unwilling to extend 
+the safe harbor to circumstances where the service provider did not subjectively know that the 
+posted material infringed, but did know facts that made infringement objectively obvious, does 
+not compel the conclusion that Congress expected this extension to cover a large number of 
+instances.”  Id.  The Nimmer copyright treatise thus characterizes the Vimeo III decision as 
+having  “reduc[ed]  red  flags  almost  to  the  vanishing  point.”  NIMMER  ON  COPYRIGHT 
+
+§ 12B.04[A][1][b][v][I] (2018).                                           
+   B.   The Burden of Proof on Facts Giving Rise to Red Flag Knowledge  
+   The parties agree that “[t]he burden of proof with respect to actual or red flag knowledge 
+[is] on the plaintiff.”  Vimeo III, 826 F.3d at 95.  Plaintiffs also acknowledge that they bear the 
+burden of raising a triable issue of fact as to whether Vimeo employees possessed facts that 
+would  make  it  objectively  obvious  that  the  videos  incorporated  copyrighted  music.    They 
+nonetheless dispute whether Plaintiffs must demonstrate that Vimeo employees were aware of 
+facts that would demonstrate that the copyrighted music on user-generated videos was both 
+unlicensed and did not constitute “fair use” of such content.  See Pls. Memo at 18-19 (referring 
+to licensing and fair use as “hypothetical affirmative defenses”).        
+   On  this  point,  Vimeo  III  was  clear.    Because  the  hypothetical  person  to  whom 
+infringement must be objectively obvious is someone “not endowed with specialized knowledge 
+
+or expertise concerning music or the laws of copyright,” Vimeo III, 826 F.3d at 93–94, a plaintiff 
+seeking to surmount the safe harbor must adduce facts to demonstrate that the service-provider 
+employee had a sufficient knowledge base to determine that a particular video obviously violated 
+copyright law.  Among other things, therefore, Plaintiffs must adduce facts that the hypothetical 
+ordinary individual “in fact recognized” the music contained in the video.  Id. at 96.   
+   Mere  “awareness  that  a  user  posting  contains  copyrighted  music”  is,  however, 
+insufficient for red flag knowledge, given the possibility that the user had authorization to use the 
+copyrighted material or that it qualified as fair use.  Id. at 97.  Although the factual existence of a 
+license or the applicability of fair use are generally treated as affirmative defenses, see Bourne v. 
+Walt Disney Co., 68 F.3d 621, 630–31 (2d Cir. 1995) (licensing); Infinity Broad. Corp. v. 
+
+Kirkwood, 150 F.3d 104, 107 (2d Cir. 1998) (fair use), the Second Circuit held that the burden of 
+proof is re-allocated in the context of the DMCA safe harbor.  Because “the service provider is 
+under no legal obligation to have its employees investigate to determine the answers to these 
+questions,”  Vimeo  III,  826  F.3d  at  98,  the  burden  rests  with  Plaintiffs  to  show,  through 
+affirmative evidence, that the Vimeo employee who interacted with a specific video knew of 
+facts sufficient to determine that the use of copyrighted music was neither authorized nor fair. 
+   Decisions issued subsequent to Vimeo III have thus required the plaintiff to bear the 
+burden  of  demonstrating  that  service-provider  employees  are  able  to  distinguish  infringing 
+content from authorized uses.  In EMI Christian Music Grp., Inc. v. MP3tunes, LLC, the Second 
+Circuit held that a jury could reasonably conclude that the defendants had red flag knowledge 
+about two categories of songs, “pre-2007 MP3s” and “Beatles songs.”  844 F.3d 79, 93 (2d Cir. 
+2016).  The Circuit based its decision in large part on evidence that defendants knew that no 
+licenses existed for these categories of songs.2  Evidence of defendants’ actual knowledge that 
+
+the Beatles had “never authorized their songs to be available digitally” and that “there had been 
+no legal online distribution of Beatles tracks before 2010, other than one track within a video 
+game” provided sufficient support for the conclusion that the defendants’ mere awareness of a 
+Beatles file on their site constituted red flag knowledge of infringement.  Id. at 93 (emphasis in 
+original).  Judge Rakoff interpreted Vimeo III in a similar fashion in a copyright suit against the 
+owners of the Huffington Post for hosting a self-published blog post that included a copyrighted 
+photo bearing a New York Daily News credit.  See Downs v. Oath Inc., 385 F. Supp. 3d 298, 306 
+(S.D.N.Y. 2019).  Because plaintiff had not demonstrated that the Huffington Post employee 
+who “screened the article” would be able to “distinguish between infringements and fair and 
+authorized uses,” even proof that she  was aware of the photo credit would be insufficient 
+
+evidence of red flag knowledge, according to the standard articulated in Vimeo III.  Id. at 301, 
+306-07.                                                                   
+   In sum, to surmount the safe harbor on summary judgment, Plaintiffs must demonstrate 
+that  Vimeo  employees  possessed  facts  that  would  enable  them  to  identify  the  presence  of 
+copyrighted material in each of the Videos-in-Suit.  They also bear the burden of demonstrating 
+that Vimeo employees knew how to distinguish infringement from fair or authorized use, and 
+that they were able to do so for each Video-in-Suit.                      
+
+
+2 The Court of Appeals did not address fair use in MP3tunes, LLC.  The infringing service in that case, however, 
+simply hosted MP3 versions of copyrighted audio tracks.  As a result, the doctrine of fair use was plainly 
+inapplicable.  See Capitol Records, LLC v. ReDigi Inc., 910 F.3d 649, 663 (2d Cir. 2018) (no fair use where 
+defendant made identical copies of plaintiff’s copyrighted sound recordings). 
+II.  Plaintiffs’ Evidence of Red Flag Knowledge                           
+   On remand, Plaintiffs have largely failed to satisfy this burden.  As an initial matter, 
+Plaintiffs have failed to produce evidence to suggest that the Vimeo employees who viewed the 
+Videos-in-Suit possessed “expertise with respect to … the laws of copyright,” or with respect to 
+
+the licensing practices of the artists whose music appears in the videos, that would allow them to 
+detect copyright infringement.  Vimeo III, 826 F.3d at 97.  With respect to Videos-in-Suit 
+uploaded by users that are unaffiliated with Vimeo, Plaintiffs have not demonstrated that any 
+employee  who  viewed  a  Video-in-Suit  possessed  facts  sufficient  to  determine  whether  the 
+copyrighted material incorporated therein was either authorized or qualified as fair use.  As to 
+Videos-in-Suit that were uploaded or partially created by Vimeo employees, however, the Court 
+finds that the question whether those  employees stored their content  as “users”  within the 
+statutory definition or as employees acting within the scope of their employment precludes 
+summary judgment in favor of Vimeo.                                       
+   A.   Plaintiffs’ Evidence of Vimeo Employees’ General Knowledge of Copyright  
+        Law and Licensing                                               
+
+   Plaintiffs have not demonstrated that the Vimeo employees who interacted with the 
+specific videos at issue possessed the knowledge, experience, and background to distinguish 
+infringement from authorized or fair use.  The evidence, construed in the light most favorable to 
+Plaintiffs, demonstrates only that some employees at the company were broadly familiar with the 
+concept  of  copyright  and  that  there  was  some  general  awareness  within  the  company  that 
+copyright infringement was occurring on Vimeo.com.   Neither showing is sufficient to raise a 
+triable issue of fact as to red flag knowledge, considering Plaintiffs’ failure to impute this 
+knowledge to the employees that screened the Videos-in-Suit.              
+   Plaintiffs’  evidence  arguably  suffices  to  establish  that  Vimeo  executives  possessed 
+particularized knowledge of copyright law.  In their depositions, present and former Vimeo 
+executives Moshe Koyfman, Dae Mellencamp, and Jonathan Marcus discuss copyright concepts 
+such  as  licensing  and  music  rights.    See  Dkt.  187,  Plaintiffs’  Post-Remand  Supplemental 
+
+Statement of Undisputed Facts (“SSUF”) ¶ 145.  For example, Vimeo co-founder Jacob Lodwick 
+commented that “big media companies might dispute our use of copyrighted music in our videos 
+even if we (i.e., sane people) consider it fair use.”  Dkt. 88-1, Frackman Decl., Ex. 1 (Lodwick 
+Dep.) at 52:22–53:2.  Former executive Marcus testified that he had conducted research on music 
+licensing rates while at Vimeo.  SSUF ¶ 145.  Such testimony establishes that some Vimeo 
+executives  were  familiar  with  the  ways  in  which  record  companies  collect  royalties  for 
+commercial  utilization  of  music.    That  evidence  sheds  no  light,  however,  on  whether  the 
+employees who screened the Videos-in-Suit had similar knowledge.          
+   Nor is there evidence that Vimeo employees were aware of the likelihood that Vimeo 
+users lacked the requisite authorization to use the content.  Plaintiffs have adduced evidence that 
+
+Vimeo employees and executives acknowledged that the company had not licensed rights to 
+either sound recordings or musical compositions.  See SSUF ¶ 1.  But there is no evidence in the 
+record that Vimeo employees knew whether users were authorized to incorporate the content 
+they uploaded.  There is similarly no evidence that Vimeo employees were aware of the licensing 
+practices of the artists themselves.  In this respect, Plaintiffs highlight the following blog post by 
+Vimeo employee Blake Whitman:                                             
+   As many of you know, finding music for your videos can be somewhat . . . well, painful.  
+   Licensing music on your own can be confusing and finding good free music can take 
+   forever.  Many of us here at Vimeo are video creators or filmmakers as well and we 
+   experience these frustrations on a regular basis.                    
+SSUF ¶ 152.  The mere mention of licensing as a concept does not demonstrate any knowledge 
+on Whitman’s part of the likelihood that specific users did or did not have authorization for the 
+music in their videos.  Although Plaintiffs maintain that Vimeo employees had no reason to 
+believe “that random users, who never claimed to have a license, would have one,” Pls. Memo at 
+
+18, the Circuit has made clear that Plaintiffs bear the burden of proving knowledge of licensing 
+practices.  Their failure to adduce any evidence establishing that Vimeo “knew that major music 
+labels generally had not [] authorized their music to be distributed in the format … available on 
+[Vimeo],” MP3tunes, LLC, 844 F.3d at 92, indicates that they have not satisfied this burden.  
+   Other pieces of evidence proffered by Plaintiffs demonstrate that some employees knew 
+that some videos contained copyrighted material.  Vimeo employee Julia Quinn posted on her 
+Vimeo account profile: “I had to take down all my videos that had copyrighted music on them 
+2/6/09.  Sorry.  :(  .”   SSUF  ¶  40.    Whitman  told  a  Vimeo  user  that  the  company’s  policy 
+concerning the use of copyrighted music was “Don’t ask, don’t tell.”  Dkt. 88-7, Frackman Decl., 
+Ex. 4. (Whitman Dep.) at 233:10-234:18.  Community Team member Dalas Verdugo similarly 
+
+told a user that the company “allow[ed]” the use of copyrighted music but would take a video 
+down if it received a “legal takedown notice.”  Dkt. 89-1, Frackman Decl., Ex. 4. (Vergudo 
+Dep.) at 118:11-120:24.  None of these statements are probative of red flag knowledge under the 
+standard articulated in Vimeo III.  As the Second Circuit reiterated in MP3tunes, LLC, “the 
+DMCA does not impose ‘an amorphous obligation to take commercially reasonable steps in 
+response to a generalized awareness of infringement.’”  844 F.3d at 92 (quoting Viacom, 676 
+F.3d at 31).  Even if Vimeo did adopt a cavalier approach towards copyright infringement, that 
+would not disqualify Vimeo from the safe harbor, because it does not demonstrate that it failed to 
+act in the face of specific, “objectively obvious” instances of infringement.  
+   None of this evidence, moreover, indicates whether employees were able to determine 
+whether the incorporation of copyrighted music on a user-generated video could be considered 
+fair use.   On that subject, Plaintiffs focus primarily on a company statement that  “Vimeo 
+moderators remove videos that constitute clear violations [of copyright] when they are brought to 
+
+our attention. . . .  Examples include rips of movies, television shows, and music videos – or the 
+unauthorized use of a  popular song in the background of your video.”  See SSUF ¶ 168.  
+Construed in the light most favorable to Plaintiffs, this statement indicates that Vimeo employees 
+may have been able to determine that the fair-use doctrine did not apply in the obvious case, i.e., 
+where  the  content  purportedly  generated  by  the  user  was  a  mere  facsimile  of  copyrighted 
+material.  The evidence does not demonstrate, however, whether a Vimeo employee could 
+distinguish “between infringements and parodies that may qualify as fair use” in the broader 
+context of user-generated videos in which copyrighted music is somehow incorporated.  Vimeo 
+III, 826 F.3d at 97.  The same is true of the allegation that “[Vimeo employees] knew and were 
+educated on possible means of detecting copyrighted music in videos (although Vimeo refused to 
+
+implement those means),” Pls. Memo. at 17, which refers to copyright-detecting technology 
+whose implementation was contemplated by the company.  Because of the fair-use doctrine, the 
+mere use of unlicensed, copyrighted music in a video segment is insufficient on its own to 
+establish a violation of law.  See, e.g., Brown v. Netflix, Inc., No. 20-2007, 2021 WL 1976614 
+(2d Cir. May 18, 2021) (segment of music featured in documentary film was fair use).  
+   At most, Plaintiffs’ evidence permits an inference that some Vimeo employees may have 
+been broadly familiar with concepts such as fair use.  Such evidence does not, on its own, permit 
+the  Court  to  infer  that  this  knowledge  armed  employees  with  the  ability  to  distinguish 
+infringements from authorized or fair use with respect to any of the Videos-in-Suit. 
+   B.   Plaintiffs’ Evidence of Vimeo Employee Interactions with Videos Uploaded  
+        by Unaffiliated Users                                           
+
+   Plaintiffs’ failure to establish that Vimeo employees possessed, as a general matter, the 
+“relevant knowledge and experience that informed the issue of red flag knowledge,” Pls. Memo 
+at 14, does not necessarily entitle Vimeo to summary judgment.   Plaintiffs argue that the nature 
+of the interactions between Vimeo employees and the Videos-in-Suit raises a triable issue of fact 
+as to whether those employees became aware of facts that made infringement “objectively 
+obvious.”  The Court is not persuaded that these interactions suffice to meet the stringent burden 
+of proof required by Vimeo III.                                           
+   Responding to the Second Circuit’s ruling that the mere viewing of video that contains a 
+well-known  song  does  not  suffice  to  establish  red  flag  knowledge,  Plaintiffs  proffer  the 
+following categories of employee interaction with the Videos-in-Suit:  tagging the video with 
+music credits, liking and commenting on videos, “whitelisting” or “burying” videos, placing 
+videos on a Vimeo-moderated channel, and inducing the creation of certain types of videos.  
+Relatedly, Plaintiffs emphasize that Vimeo employees watched certain infringing videos with the 
+express purpose of determining their compliance or noncompliance with the website’s terms of 
+service.                                                                  
+   These categories of evidence may well demonstrate that a Vimeo employee was aware of 
+the content of a Video-in-Suit and that it was objectively obvious that such a video contained 
+
+copyrighted music.   As explained  above, however, proof that the employees identified the 
+presence of copyrighted material is a necessary but insufficient condition of red flag knowledge.  
+See Vimeo III, 826 F.3d at 96-97.  These modes of interaction with infringing videos say nothing 
+about the employee’s knowledge as to whether the use of such music was authorized or fair.  
+They therefore do not suffice to show that Vimeo employees were aware of facts that would 
+make infringement “objectively obvious” under the standard set forth in Vimeo III—whether  
+considered separately or in tandem.  The same deficiency applies to the other type of evidence 
+proffered by Plaintiffs, that certain Videos-in-Suit were uploaded after Plaintiffs sent a cease-
+and-desist letter and filed the instant complaints.  The Court addresses each type of evidence in 
+
+turn.                                                                     
+        1.   Music Credits                                              
+   Plaintiffs argue that the application of music credits and tags to the Videos-in-Suit is an 
+indicator of red flag knowledge.  The Court agrees that such identification of the underlying 
+music by a Vimeo employee permits the inference that that employee knew that the video 
+contained copyrighted material.  In the case of the 300 Videos-in-Suit in which the names of 
+artists and/or song titles are referenced in the title, description, tags or comments on the videos, 
+see SSUF ¶ 61, the Court could reasonably infer that a Vimeo employee “recogni[zed] . . . 
+infringing music in the soundtrack.”  Vimeo III, 826 F.3d at 96.  But even assuming that Court 
+would infer recognition in this context, such a showing would not meet the standard articulated 
+
+in Vimeo III because “[a]wareness that a user posting contains copyrighted music” is insufficient 
+proof of red flag knowledge.  Id. at 97.  Vimeo employees cannot be “automatically expected to 
+know how likely or unlikely it may be that the user who posted the material had authorization to 
+use the copyrighted music.”  Id.  Accordingly, this evidence, which Plaintiffs regard as “perhaps 
+the most probative” in the record, Pls. Memo. at 6 n.4, does not suffice to create a triable issue of 
+fact  on  red  flag  knowledge  without  an  additional  showing  that  Vimeo  employees  could 
+distinguish authorized from unauthorized uses of copyrighted music.       
+        2.   Likes, Duration, and Start Time                            
+   For similar reasons, evidence that employees “liked” videos or added them to Vimeo’s 
+promotional channels does not raise a triable issue of fact on red flag knowledge in this instance.  
+Nor does evidence that a copyrighted song played at the beginning of a Video-in-Suit and/or 
+
+through the entirety of the video.  As explained above, proof that the screening employee 
+possessed facts that would make it objectively obvious that a video  contained copyrighted 
+material does not, on its own, suffice to meet Plaintiff’s burden of proof on summary judgment.  
+   The evidence of employee interaction with Video 29 exemplifies this principle.  Even if 
+there was proof that a Vimeo employee watched the entirety of that video—which depicts 
+Christina Aguilera performing “Genie in a Bottle” live at a concert in Kiev and was tagged as 
+such—that showing does not on its own demonstrate knowledge of facts making infringement 
+objectively obvious under Vimeo III’s strict standard.  See Berkley Decl., Ex. C at 9, Video 29.  
+This is so because knowledge of the likelihood that Christina Aguilera would authorize, for 
+distribution on the internet, footage of a live performance from Ukraine cannot automatically be 
+
+imputed to Vimeo employees.  See Vimeo III, 826 F.3d at 97.  Absent some evidence of Vimeo-
+employee knowledge on this subject—for example, that Christina Aguilera has not issued any 
+licenses  of  her  concert  footage,  or  even  that  performing  artists  generally  do  not  authorize 
+distribution of their concerts—the Court cannot presume that this particular case of infringement 
+would be objectively obvious to the Vimeo employee that watched this video.  Cf. MP3tunes, 
+LLC, 844 F.3d at 93 (citing evidence that employees knew that no Beatles songs had been 
+licensed  for  distribution  on  the  internet).    As  nothing  in  the  record  indicates  that  Vimeo 
+employees possessed such knowledge about videos that they did not themselves create or upload, 
+no  amount  of  employee  interaction  with  this  video  can  create  a  triable  issue  on  red  flag 
+knowledge.                                                                
+        3.   Comments                                                   
+   Plaintiffs next set forth evidence of dozens of comments that were placed by Vimeo 
+
+employees below videos with infringing content.  But again, none of these comments indicate 
+employee  awareness  that  a  video  contained  unlicensed  or  otherwise  infringing  music.  The 
+majority  of  Vimeo-employee  comments  are  basic  compliments,  for  example,  “great  job!!,” 
+Berkley Decl., Ex. B, Video Ex. 3; “So much fun and very cool song selection . . . . ,” id. Video 
+Ex. 6-A; “Nice stuff, Ben!” id., Video Ex. 48; “I’m REALLY impressed with this, it covers a 
+whole new territory for lip dubbing; closer to an actual music video,” id. Video Ex. 51; “mad 
+skillz, yo!” id., Video Ex. 236; and many others.                         
+   Other comments merely reflect the employee-viewer’s identification of the song and 
+artist.    For  example,  under  a  user’s  video  which  incorporates  “Like  Spinning  Plates”  by 
+Radiohead  as  background  music  for  a  photo  compilation,  Vimeo  employee  Daniel  Hayek 
+
+commented, “That track works so well with this.” Berkley Decl., Ex. C at 66, Video 189.  To 
+reiterate, such a remark says nothing about Hayek’s awareness whether the use of the song was 
+authorized in this particular case, or how likely it was that a Radiohead song would be licensed 
+for such use.                                                             
+   Nor do employee comments regarding users’ desires to purchase the songs featured in 
+videos.  For example, in response to a user’s comment suggesting that, for lip dub videos,3 
+Vimeo should post links for users “to buy the songs at itunes or the cd at amazon,” Vimeo 
+employee Jonathan Marcus wrote, “Good idea. I agree. Something were [sic] definitely thinking 
+
+3 As this Court explained in Vimeo I, lip dub videos or “lip dubbing” were described on Vimeo’s website as follows: 
+“Lip Dubbing . . . Like a music video. Shoot yourself mouthing along to a song. Then sync it with a high quality 
+copy of the song in an editing program.” Dkt. 88-3, Frackman Decl., Ex. 2 (Klein Dep.) at 167:20–168:2; id., Ex. 17. 
+about.”  Frackman  Decl.,  Ex.  C,  Video  249A  at  2.  Yet  no  further  evidence  is  adduced  to 
+demonstrate that Marcus knew that the use of “Overnight Celebrity” by Twista for a lip dub—the 
+video  below  which  he  made  this  comment—was  not  authorized,  or  even  unlikely  to  be 
+authorized.  Berkley Decl., Ex. C at 85, Video 249.  In sum, the record is devoid of a single 
+
+comment  in  which  a  Vimeo  employee  demonstrated  awareness  of  facts  that  the  music 
+incorporated in the video was obviously infringing, as that standard was articulated in Vimeo III. 
+        4.   Whitelisting                                               
+   Whitelisting—an action preventing users from flagging a video for review—indicates 
+that a Vimeo employee screened a video for the specific purpose of determining whether it 
+complied with Vimeo’s Terms of Service.  SSUF ¶¶ 89, 90; Def. SSUF ¶ 57; Def. Memo. at 18 
+n.13  (not  disputing  the  purpose  of  whitelisting).    Unlike  the  other  video-viewing  purposes 
+mentioned by the Court of Appeals in Vimeo III—such as “classification by subject matter” or 
+“sampling to detect inappropriate obscenity or bigotry”—whitelisting could, in theory, relate to 
+“recognition of infringing music in the soundtrack.”  Vimeo III, 826 F.3d at 96.  Vimeo’s Terms 
+
+of Service forbid users from uploading videos that infringe another’s rights.  See Dkt. 85, 
+Supplemental Declaration of Michael A. Cheah, Nov. 16, 2012 (“Supp. Cheah Decl.”) ¶ 11 & 
+Exs. 6–10.  Accordingly, a Vimeo employee tasked with assessing the compliance of a Video-in-
+Suit  with  those  terms  of  service  may  well  have  considered  the  possibility  of  copyright 
+infringement.                                                             
+   The  parties  dispute  whether  Vimeo  staff  made  “determinations  about  potential 
+infringement with respect to the music in any of the whitelisted Videos-in-suit.”  Dkt. 192, Pls. 
+Counter. 56.1 ¶ 65.  Yet even if whitelisting did involve such determinations, there is no 
+evidence in the record that for any particular whitelisted video, a Vimeo employee “kn[ew] that 
+the work was infringing, or kn[ew] facts that made this obvious.”  Vimeo III, 826 F.3d at 97.  
+There is no evidence that the whitelisting-review process involved any analysis of licensing or 
+fair use.  Nor have Plaintiffs adduced any evidence that a Vimeo employee whitelisted any 
+specific Video-in-Suit with knowledge that the use of the incorporated music was unauthorized. 
+
+   The only example Plaintiffs cite of a Vimeo employee whitelisting a video while aware 
+that the uploader did not have rights to the underlying copyrighted music relates to a video not 
+involved in this lawsuit.  See Dkt. 203-2, Pls. Reply to Def. Counter. 56.1 ¶ 93 (not disputing that 
+the referenced video is not a Video-in-Suit); Frackman Supp. Decl., Ex. R.  For all other 
+evidence of whitelisting, Plaintiffs do not indicate which employees whitelisted which videos, 
+nor  why  a  video  was  whitelisted  or  whether  the  employee  knew  facts  that  would  make 
+infringement objectively obvious.  As an example, Plaintiffs have adduced evidence that the 
+aforementioned Christina Aguilera concert video was whitelisted.  See Dkt. 219-1, Post-Remand 
+Third Supplemental Declaration of James D. Berkley, Ex. B at 15, Video 29.  Although a finder 
+of fact may infer that a Vimeo moderator watched the video for the purposes of determining 
+
+compliance with Vimeo’s Terms of Service, there is no evidence in the record that the review 
+process revealed any facts to the moderator that would suggest that this specific video was 
+unlicensed, or otherwise made it “objectively obvious” that it infringed a copyright.  Absent such 
+evidence, whitelisting does not suffice to create an issue of fact as to red flag knowledge.   
+        5.   Burying                                                    
+   “Burying”  is  broadly  defined  as  de-emphasizing  a  video  that  is  “not  exemplary  of 
+‘Vimeoesque’ content.” Dkt. 88-4, Frackman Decl., Ex. 3 (Allen Dep.) at 183:16–184:6.  The 
+Court finds this practice less probative of red flag knowledge than whitelisting, as it does not 
+even theoretically involve a review of whether the video complies with the Terms of Service.  
+And even if it did—as Plaintiffs note, one Vimeo employee acknowledged that burying occurs 
+“when a video is okay by the guidelines” but should be de-publicized for other reasons, Pls. 
+SSUF ¶ 101—there is no evidence in the record that this form of interaction with an infringing 
+video led any employee to possess facts making infringement objectively obvious, in the manner 
+
+required by Vimeo III.                                                    
+        6.   Channels & Employee Inducement                             
+   Similarly,  none  of  the  evidence  that  Vimeo  promoted  certain  user-generated  videos 
+through the use of channels is relevant to red flag knowledge.  Plaintiffs’ allegations demonstrate 
+only that Vimeo employees were more familiar with the subject matter of certain videos, without 
+indicating that they were able to identify that these videos were unlicensed or did not constitute 
+fair use.  That a Vimeo employee selected the user-generated video “Artspin” for placement on 
+Vimeo’s “We Found These!” channel, for instance, does not signify that a Vimeo employee 
+knew the video’s audio track (“Plastic Beach” by Gorillaz) was not licensed to the user or that 
+the video’s incorporation of that track was not fair use.  See Berkley Decl., Ex. C at 69–70, 
+
+Video 122.                                                                
+   Nor did Vimeo employees’ exhortations of users to create lip dub videos—music videos 
+in which users lip synch to well-known songs, SSUF ¶ 111—show that they knew that such 
+videos were inherently infringing.  Videos on the “Lip Dub Stars” channel are videos generated 
+by users that incorporate a variety of background audio tracks.  Unlike a rip of a music video or 
+television show, it is not objectively obvious to an individual with no specialized knowledge of 
+copyright that a lip dub video constitutes a “clear violation[]” of copyright, SSUF ¶ 168.  With 
+this type of video, fair use is an open relevant question.  See Downs, 385 F. Supp. 3d at 306 
+(acknowledging “the fair use and licensing issues raised by the inclusion of a sound recording in 
+a video”).  Even assuming Vimeo employees knew that some copyright infringement occurred 
+on this channel, there is no evidence that the types of videos on these channels were by their very 
+nature unauthorized or ineligible for fair use, let alone that Vimeo employees were aware of such 
+facts.                                                                    
+
+        7.   Timing of Interaction Vis-à-Vis the Lawsuit.               
+   Next, Plaintiffs appear to argue that their cease-and-desist letters and complaints imparted 
+red flag knowledge to Vimeo employees with respect to a subset of the Videos-in-Suit.  See Pls. 
+SSUF ¶ 130 (identifying Vimeo employee’s February 2010 “like” of a video that had been listed 
+on the schedules of Plaintiff Capitol Records’ complaint).  Plaintiffs have alleged only that these 
+Videos-in-Suit, uploaded after Plaintiffs sent cease-and-desist letters and filed the complaint, 
+“contained music by artists identified in the schedules.”  Pls. SSUF ¶¶ 36, 38.  Under this view 
+of DMCA liability, once Plaintiffs had identified Coldplay in their complaint as an artist whose 
+music appeared unlawfully on Vimeo’s website, red flag knowledge would be imputed to Vimeo 
+with respect to all subsequently uploaded, user-generated videos containing music by Coldplay.  
+
+That contention misconstrues the concept of red flag knowledge.  As one court in this district has 
+put it, “past notices do not identify and locate other, and future, infringing activity.”  Wolk v. 
+Kodak Imaging Network, Inc., No. 10 Civ. 4135 (RWS), 2011 WL 940056, at *5 (S.D.N.Y. Mar. 
+17, 2011); see also Ventura Content, Ltd. v. Motherless, Inc., 885 F.3d 597, 611 (9th Cir.) 
+(“[E]ven if it were obvious to a reasonable person that some of the material on the site must be 
+infringing, that is not enough to lose the safe harbor.  It must be obvious that the particular 
+material that is the subject of the claim is infringing.”), cert. denied, 139 S. Ct. 419 (2018).    
+   The Court finds the reasoning in those cases to be persuasive and applicable to the instant 
+situation.  The fact that an artist’s copyright was previously infringed on Vimeo does not suffice 
+to indicate to an employee whether use of that artist’s work in a subsequent video is authorized.   
+The situation might differ if Plaintiffs had adduced evidence that Vimeo employees possessed 
+so-called categorical knowledge about the licensing practices of particular artists.  Had Plaintiffs’ 
+initial complaints indicated that Coldplay had not authorized any of its music for use on Vimeo 
+
+or similar platforms, for example, then proof that a Vimeo employee recognized a Coldplay song 
+on its platform may suffice to establish red flag knowledge.  See MP3tunes, LLC, 844 F.3d at 93.  
+Absent proof that Vimeo employees had such categorical knowledge, however, the timing of 
+employee interactions with the Videos-in-Suit does not create a triable issue of fact on red flag 
+knowledge.                                                                
+        8.   Employee Involvement in the Creation of Videos (Short of Uploading) 
+   Finally, Plaintiffs set forth evidence of three instances where Vimeo employees were 
+involved in contributing to videos.  The Court views employee involvement in the creation of the 
+video  as  suggestive  of  knowledge  that  the  users  lacked  authorization  to  incorporate  the 
+copyrighted music.  This form of interaction with Videos-in-Suit is nevertheless distinct from an 
+
+employee upload or employee maintenance of videos on Vimeo.com.  Employee uploading of a 
+video may disqualify Vimeo from the § 512(c)(1) safe harbor with respect to that video, which 
+protects only against infringement of copyright by reason of the storage at the direction of a user.  
+See infra Part III.C.                                                     
+   First, Plaintiffs note that Andrea Allen “contributed” to a Beatles “group project.” Pls. 
+SSUF ¶ 59.  This allegation refers to Video-in-Suit No. 214, a lip dub video that incorporates, or 
+parodies, the audio track “All Together Now” by the Beatles, uploaded by user PEIKA.  Berkley 
+Decl., Ex. C at 101–02.  Allen commented numerous times under the video, including the 
+following comment: “Great work! Thanks for letting me be a part of it. Group hug.”  Frackman 
+Supp. Decl., Ex. C, Video 214 at 6.  Unlike other comments by Vimeo employees that identified 
+artists or complimented video quality, see supra Part III.B.3, this comment may be probative of 
+red flag knowledge.  That Allen was “part of” the video’s creation suggests that she was aware 
+that neither the video creators nor the user-uploader were authorized by the Beatles to use their 
+
+song.   Nonetheless, it is not clear from the nature of the video—a lip dub that seems to parody a 
+Beatles music video—whether it would qualify as fair use.  See supra Part III.B.6.  As explained 
+above, because Plaintiffs have adduced no evidence that Allen—or any other Vimeo employee, 
+for that matter—could distinguish fair use from infringement in such a case, they have failed to 
+raise a triable issue of fact as to Video 214.  See supra Part III.A.     
+   Second, Plaintiffs allege that Vimeo employee Dalas Verdugo “signed up” to participate 
+in a project where Vimeo users would create a series of videos containing the entirety of the 
+Beatles’ “Sgt. Pepper” album, and that he “commented” on at least one of the resulting videos.  
+Pls. SSUF ¶ 58.  This allegation does not raise a triable issue of fact as to red flag knowledge.  
+Verdugo merely commented on the “group project” page that he planned to contribute a lip dub 
+
+video of “With A Little Help From My Friends,” but later wrote, “I’ve been really busy/lazy and 
+haven’t gotten around to this yet, but I’m still planning on doing it.”  Frackman Decl., Ex. 15 at 
+11, 31.  None of the Videos-in-Suit were created or uploaded by Verdugo as part of this project, 
+and Verdugo’s comments do not demonstrate that he knew other videos in this “group project” 
+were unlicensed, or the likelihood that they were.                        
+   Third, Plaintiffs allege that Vimeo employee Blake Whitman, via his online alias “Bad 
+Malone,” was listed as one of the “referrers” for the infringing video “The Dark Side of Oz.” Pls. 
+SSUF ¶ 132; Berkley Decl., Ex. C at 85.  Not only do Plaintiffs fail to explain what “referring” 
+means in this context, they also do not indicate how “referring” led this Vimeo employee to 
+know facts making infringement obvious.  Absent such information, the Court cannot infer that 
+“referring” the video gave Whitman any additional insight into whether the video’s creators or 
+users were authorized to use the copyrighted music.  Plaintiffs list non-employee user Bryan 
+Pugh as the video’s sole uploader. See Berkley Decl., Ex. C at 85 (video uploaded by Bryan 
+
+Pugh not marked as “employee upload”).  This evidence does not therefore disqualify Vimeo 
+from the DMCA safe harbor with respect to Video 176.                      
+                             ***                                        
+   In sum, none of the evidence adduced by Plaintiffs on remand carries the high burden of 
+raising a triable issue of fact as to whether Vimeo employees “either knew the video was 
+infringing or knew facts making that conclusion obvious to an ordinary person who had no 
+specialized knowledge of music or the laws of copyright.”  Vimeo III, 826 F.3d at 98.  Plaintiffs 
+take issue with the steep threshold they must cross to demonstrate red flag knowledge, by 
+arguing inter alia:  “Why . . . would [Vimeo] think that random users, who never claimed to have 
+a license, would have one, let alone a license that would permit a user to sublicense music for 
+
+dissemination on the internet?”  Pls. Memo. at 18.  With respect to fair use, Plaintiffs point out 
+that “[n]o Vimeo Staff came forward to claim that he or she considered fair use . . . when 
+viewing a video at issue, let alone that any facts led to the belief that a particular video was 
+licensed or the use of music was fair use.”  Pls. Reply at 9.             
+   Although this Court found these arguments persuasive in the first instance, they are 
+precluded by Vimeo III and by the Second Circuit’s interpretation of the compromise embodied 
+in the DMCA.  As explained above, Plaintiffs bear the burden of demonstrating that Vimeo 
+employees were aware of the licensing practices that affect the music uploaded onto their site, 
+and, where relevant, were able to distinguish between fair and infringing use.  The fact that the 
+record contains no evidence that Vimeo employees considered these issues when screening the 
+Videos-in-Suit does not absolve Plaintiffs of this burden.  The Court of Appeals expressly stated 
+that  service-provider  employees  cannot  “be  automatically  expected  to  know  how  likely  or 
+unlikely it may be that the user who posted the material had authorization to use the copyrighted 
+
+music.”  Vimeo III, 826 F.3d at 97.  Plaintiffs have adduced no evidence, either in general or 
+specific to the Videos-in-Suit, to suggest that Vimeo employees had such knowledge in this case.  
+The same is true of fair use, a doctrine that is implicated by the nature of the infringing material 
+here, i.e., music incorporated into videos generated by the users themselves.  
+   Because, pursuant to Vimeo III, a service provider cannot be presumed to know that 
+content on its site is licensed or does not qualify as fair use, Plaintiff’s lack of evidence in that 
+respect is dispositive.  Vimeo is therefore entitled to summary judgment under the DMCA safe 
+harbor as to all user-uploaded videos.                                    
+   C.   Employee-Uploaded Videos                                        
+   The Court separately considers whether Vimeo is entitled to summary judgment on the 
+
+set of videos Plaintiffs have identified as uploaded by Vimeo or Connected Ventures employees. 
+In Vimeo I, this Court found that a triable issue of fact had been raised with respect to whether 
+Vimeo  employees  who  uploaded  allegedly  infringing  videos  were  “storing  their  content  as 
+‘users’  within  the  meaning  of  §  512(c)  or  as  employees  acting  within  the  scope  of  their 
+employment.”  972 F. Supp. 2d at 519.  If the employees stored their videos as independent 
+users, not on behalf of the company, then Vimeo would remain entitled to safe-harbor protection 
+as the videos would have been stored “at the direction of a user” rather than the service provider. 
+17 U.S.C. § 512(c)(1); see Gershwin Publ’g Corp. v. Columbia Artists Mgmt., Inc., 443 F.2d 
+1159, 1161–62 (2d Cir. 1971) (affirming that one who promotes or induces “infringing acts” 
+infringement  may  be  liable  under  the  Copyright  Act  even  without  actual  knowledge  of 
+infringement).  The Second Circuit did not address this issue on appeal.  Vimeo III, 826 F.3d at 
+86 n.6.                                                                   
+   After  this  Court  allowed  Plaintiffs  to  amend  their  complaint  to  include  additional 
+
+instances of infringement, Vimeo II, 972 F. Supp. 2d at 549–50, Plaintiffs identified 26 videos 
+that were uploaded to the Vimeo website by its employees.  See Pls. SSUF ¶ 29(a)–(z). The 
+Court has already denied summary judgment to both parties on ten of these videos, Vimeo I, 972 
+F. Supp. 2d at 519, which correspond to the original set that Plaintiffs identified as uploaded by 
+Vimeo employees.  Compare Plaintiffs’ Original Statement of Undisputed Facts ¶ 63(a)–(j), with 
+Pls. SSUF ¶ 29(a)–(z).  There are thus 16 additional allegations of employee-uploaded videos for 
+the Court to consider.                                                    
+   As this Court held with respect to the first ten employee-uploaded videos, “[r]easonable 
+minds could differ . . . as to the extent to which the videos at issue here were uploaded by Vimeo 
+employees in their personal capacities as opposed to as agents of Vimeo.” Vimeo I, 972 F. Supp. 
+
+2d at 519.  Each of these additional 16 videos were uploaded by individuals identified in the 
+declaration of Katie McGregor—the head of Human Resources for Connected Ventures and  
+prior  head  of  Human  Resources  for  Vimeo—as  employees  of  either  Vimeo  or  Connected 
+Ventures.  Dkt. 84, McGregor Decl. ¶ 2(a)–(m).  The fact that in some cases the uploader may 
+have only uploaded but not “maintained” the video does not resolve the dispute over whether the 
+individual “stored” the video at the direction of Vimeo.  Nor does the fact that certain uploaders 
+were Connected Venture employees, rather than Vimeo employees, resolve the issue of whether 
+they had the authority to bind Vimeo, even after Vimeo’s assets separated from Connected 
+Ventures in July 2008.  See Dkt. 189, Def. Counter. 56.1 ¶ 29.  Neither party has sufficiently 
+briefed  the  question  of whether  this  separation  of  assets  in  July  2008  affects  whether  a 
+Connected Ventures employee could still have uploaded an infringing video to Vimeo’s website 
+“at the direction” of Vimeo, rather than as an independent user.  As there is a genuine dispute of 
+material fact over whether they were uploaded by employees acting as Vimeo’s agents, the Court 
+denies Vimeo’s summary judgment motion as to these videos. 
+                              CONCLUSION 
+    Applying the standard set forth in Vimeo IT, and for the reasons stated above, Plaintiffs’ 
+motion must be denied in its entirety.  Vimeo’s motion is denied as to the 26 videos which were 
+uploaded  or maintained by Vimeo  or Connected Ventures  employees,  and granted  as  to  the 
+remaining 281 videos.  See generally Berkley Decl., Ex. C. 
+    The parties shall submit a letter providing the Court with an update as to the status of this 
+case and proposed next steps no later than June 18, 2021. 
+SO ORDERED. 
+Dated:       May 28, 2021                            
+          New York, New York              KA 
+                                                   ES     agg 
+                                       Ronnie Abrams     
+                                        United States District Judge 
+
+                                    28

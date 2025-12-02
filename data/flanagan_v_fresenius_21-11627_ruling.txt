@@ -1,0 +1,989 @@
+UNITED STATES DISTRICT COURT                            
+              DISTRICT OF MASSACHUSETTS                              
+
+_______________________________________                                   
+                           )                                         
+UNITED STATES ex rel.           )                                         
+MARTIN FLANAGAN,                )                                         
+                           )                                         
+     Plaintiff-Relator,    )                                         
+                           )       Civil Action No.                  
+v.                         )       21-11627-FDS                      
+                           )                                         
+FRESENIUS MEDICAL CARE          )                                         
+HOLDINGS, INC., d/b/a           )                                         
+FRESENIUS MEDICAL CARE          )                                         
+NORTH AMERICA,                  )                                         
+                           )                                         
+     Defendant.            )                                         
+_______________________________________)                                  
+
+
+              MEMORANDUM AND ORDER ON                                
+             DEFENDANT’S MOTION TO DISMISS                           
+SAYLOR, C.J.                                                              
+This is a qui tam action alleging violations of the Anti-Kickback Statute, 42 U.S.C. § 
+1320a-7b, and False Claims Act, 31 U.S.C. §§ 3729 et seq., by a company that provides dialysis 
+services to patients with kidney failure.  Relator Martin Flanagan has brought suit against 
+defendant Fresenius Medical Care Holdings, Inc., d/b/a Fresenius Medical Care North America 
+(“FMCNA”), alleging that FMCNA improperly provided free or below-cost services to hospitals 
+and physicians, and made various types of improper payments to physicians, in exchange for 
+referrals to its dialysis clinics.  The complaint alleges that FMCNA violated the Anti-Kickback 
+Statute (“AKS”) and caused the submission of false claims for payment to Medicare, Medicaid, 
+and other government health-care payors.                                  
+FMCNA has moved to dismiss the complaint for failure to state a claim upon which relief 
+can be granted pursuant to Fed. R. Civ. P. 12(b)(6) and for failure to allege fraud with 
+particularity as required by Fed. R. Civ. P. 9(b).                        
+The False Claims Act permits relators to reap substantial awards for reporting false 
+claims to the government—in this case, the relator could conceivably recover billions of dollars 
+if his allegations are proved.  The statute has a variety of strict requirements, however, that serve 
+both to ensure that the government has a fair opportunity to control the litigation and to screen 
+
+out claims that are incomplete, redundant, or parasitic.  Here, the motion to dismiss presents 
+three sets of issues, all arising from the strict requirements for pleading such claims. 
+The first issue is whether relator complied with the requirements of the False Claims Act 
+to notify the government of his claims prior to filing suit.  See 31 U.S.C. § 3730(b)(2).  Relator 
+did comply with that requirement before filing his original complaint, which was 22 pages long 
+and described an illegal scheme with two essential components.  He did not do so, however, 
+before filing his amended complaint, which is 147 pages long and contains a number of 
+substantially new allegations of different components of the scheme.  Because he did not present 
+those new claims to the government, that portion of the amended complaint alleging false claims 
+
+based on that conduct will be dismissed.                                  
+The second issue is whether the public-disclosure bar of the statute precludes all or any of 
+the claims—that is, whether relator is filing suit concerning matters that had been previously 
+disclosed to the public.  See 31 U.S.C. § 3730(e)(4)(A).  Under the circumstances, the Court 
+concludes that the bar does not apply.                                    
+The third, and perhaps most difficult, issue is whether the amended complaint pleads 
+fraud with sufficient particularity to meet the requirements of Fed. R. Civ. P. 9(b).  As is often 
+the case with qui tam actions, the issue is not whether the complaint alleges an unlawful 
+scheme—it does, in considerable detail—but whether it actually pleads a violation of the False 
+Claims Act.  To do so, the complaint must both allege the existence of a scheme to defraud and 
+identify particularized false claims.  It is insufficient to allege a scheme and then to make 
+generalized allegations that the scheme must have, as a matter of logic, resulted in false claims. 
+Here, despite its length, the amended complaint does not describe a single particular false 
+claim.  Instead, it alleges that FMCNA paid kickbacks for referrals on a widespread basis, and 
+
+that therefore “all” claims for payment that it submitted to the government were false.  It also 
+provides a very limited amount of statistical evidence to attempt to bolster those allegations.  The 
+central issue is whether relator can sidestep the requirement to plead false claims with 
+particularity by alleging that every single claim is necessarily false.  Under the circumstances 
+presented here, the Court concludes that he cannot.                       
+Accordingly, and for the following reasons, the motion to dismiss will be granted. 
+I.   Background                                                           
+Unless otherwise noted, the following facts are alleged in the amended complaint. 
+A.   The Parties                                                     
+
+FMCNA is a wholly-owned subsidiary of Fresenius Medical Care AG & Co. KGaA, 
+which is located in Bad Homburg, Germany.  (Am. Compl. ¶ 13).  FMCNA is headquartered in 
+Waltham, Massachusetts.  (Id.).  It employs more than 40,000 employees and treats nearly 
+190,000 patients at approximately 2,400 outpatient clinics in the United States, including 39 in 
+Massachusetts.  (Id.).  It also contracts with hospitals to provide dialysis services on an outpatient 
+basis.  (Id.).                                                            
+Martin Flanagan is a resident of Texas.  (Id. ¶ 11).  He was employed by Fresenius for 29 
+years.  (Id.).  His last title was Director of Acute Market Development for the Fresenius Western 
+Business Unit.  (Id.).  In that role, he was responsible for, among other duties, negotiating 
+contracts under which FMCNA provided dialysis treatment to hospital inpatients.  (Id.).  
+B.   Factual Background                                              
+Chronic kidney disease refers to the progressive loss of a person’s kidney function, which 
+is normally irreversible.  (Id. ¶ 14).  End-Stage Renal Disease (“ESRD”) is the stage of advanced 
+kidney impairment that requires either continued dialysis treatments or a kidney transplant to 
+
+sustain life.  (Id. ¶ 15).  Dialysis refers to a treatment regimen aimed at artificially replacing 
+some of the functions performed by a healthy kidney.  (Id. ¶ 17).  According to the United States 
+Renal Data System, there were approximately 746,557 ESRD patients in the United States at the 
+end of 2017.  (Id. ¶ 15).  Roughly 90% of all dialysis patients undergo hemodialysis at a dialysis 
+clinic three times per week.  (Id. ¶ 18).  FMCNA is America’s largest dialysis-services provider.  
+(Id. ¶ 13).                                                               
+Medicare is a federally-funded health-insurance program that primarily provides benefits 
+to the elderly, but also provides coverage to patients with ESRD, regardless of age.  (Id. ¶ 19).  
+The Medicare ESRD program is administered through the Centers for Medicare & Medicaid 
+
+Services (“CMS”), an agency within the Department of Health and Human Services (“HHS”).  
+(Id. ¶ 25).  Since 1972, Medicare has been the primary payor for more than 80% of the cost of 
+dialysis treatment for nearly 800,000 ESRD patients in the United States.  (Id. ¶ 22).  ESRD 
+expenditures by Medicare exceed $40 billion annually.  (Id. ¶ 23).        
+According to the complaint, FMCNA clinics and other providers treating ESRD submit 
+to the government one reimbursement claim bill per month for each patient, including the 
+charges for several dialysis treatments, any separately billable laboratory services, and separately 
+billable drugs.  (Id. ¶ 28).                                              
+Medicaid is a state-administered program where each state sets its own guidelines 
+concerning eligibility and services, with funding coming jointly from the states and the federal 
+government.  (Id. ¶ 38).  In many states, Medicaid pays for treatment costs for ESRD patients 
+who do not qualify for Medicare and/or pays for the 20% of treatment costs not covered by 
+Medicare.  (Id. ¶ 45).  Submission of claims to Medicaid that were ineligible for payment 
+because of violation of the AKS are actionable under the FCA because the payments of those 
+
+claims were made with federal funds.  (Id. ¶ 44).                         
+In addition to Medicare and Medicaid, CHAMPUS/TRICARE, which is administered by 
+the United States Department of Defense, provides ESRD benefits to health-care programs for 
+individuals and dependents affiliated with the armed forces and to covered beneficiaries.  (Id. 
+¶ 35).  CHAMPVA, which is administered by the United States Department of Veterans Affairs, 
+is a health-care program for families of veterans with 100% service-connected disabilities and 
+provides ESRD benefits to covered beneficiaries.  (Id.).                  
+C.   FMCNA’s Allegedly Improper Conduct                              
+The complaint alleges various methods by which FMCNA improperly induced the 
+
+referral of patients to its dialysis clinics.  First, it alleges that FMCNA offered remuneration to 
+hospitals in two ways:  by entering into contracts that provided no-cost and/or below-cost 
+inpatient dialysis services, and by providing “significant” free services, including free discharge-
+planning services, free in-service training to staff, free training to patients, and free quality 
+assessment and improvement data analysis to hospitals.  (Id. ¶¶ 81-166).  Second, it alleges that 
+FMCNA engaged in improper remuneration relationships with physicians who served as medical 
+directors in its outpatient clinics in five ways:  by selecting medical directors based on their 
+expected and historical referrals; by paying them above-market compensation to reward 
+referrals; by making no effort to report or verify their hours; by tracking their referrals to make 
+sure they were not making referrals to competitors; and by requiring them to sign onerous non-
+compete agreements to lock them into their arrangements with FMCNA.  (Id. ¶¶ 167-307).  
+Third, it alleges that FMCNA provided physicians free or below-cost practice-management 
+services.  (Id. ¶¶ 308-20).  Fourth, it alleges that FMCNA entered into favorable leases with 
+medical directors that paid them above-market rates.  (Id. ¶¶ 321-31).  Fifth, it alleges that 
+
+FMCNA entered into favorable joint-venture agreements (“JVAs”) with physician groups to 
+induce them to make referrals.  (Id. ¶¶ 332-75).                          
+     1.   Hospital Services                                          
+According to the complaint, over the past two decades, the dialysis industry has become 
+increasingly concentrated in the hands of two companies:  DaVita and FMCNA.  (Id. ¶ 84).  
+Beginning in approximately 2007, FMCNA allegedly realized that the company’s “organic 
+growth” (that is, growth from adding new patients and not through acquisitions) was almost non-
+existent.  (Id. ¶ 85).  FMCNA decided that one of the keys to capturing new patients for its 
+
+dialysis clinics was through its relationships with hospitals providing inpatient acute care.   
+          a.   Below-Cost Dialysis Services                          
+The complaint alleges that FMCNA made a calculated business decision to offer inpatient 
+dialysis services to hospitals at prices well below cost in order to capture referrals of discharged 
+patients to its dialysis clinics.  (Id. ¶ 83).  Flanagan and his colleagues were allegedly instructed 
+by their superiors to obtain hospital contracts “at any cost” to secure the referrals of discharged 
+patients.  (Id. ¶ 88).  Bonuses and performance evaluations for mid-level managers were tied, in 
+part, to patient growth and the increase in number of treatments at individual clinics.  (Id. ¶ 89).   
+According to the complaint, FMCNA budgeted for the anticipated losses in the acute 
+programs at many of the larger hospitals.  (Id. ¶ 90).  Internal spreadsheets from the Western 
+Business Unit show that FMCNA recorded losses on its contracts with hospitals, often in excess 
+of the budgeted losses.  (Id. ¶¶ 91, 93).  Although the budgetary spreadsheets were reviewed and 
+approved by mid-level and upper management, the complaint alleges that the decision to run 
+hospital programs at a loss was made by corporate management.  (Id. ¶ 93).  It alleges that 
+Flanagan and colleagues were directed by their superiors to pursue contracts even when they 
+
+resulted in losses.  (Id. ¶¶ 97-106).  And it further alleges that Flanagan was instructed not to 
+enforce “escalator” clauses, which called for annual fee increases of up to 4.0%.  (Id. ¶¶ 110-11).  
+          b.   Free Services to Hospitals and Patients               
+The complaint alleges that FMCNA provided free discharge-planning services to 
+hospitals, free in-service training to staff, free training to patients, and free quality assessment 
+and improvement program data analysis.  (Id. ¶ 128).  FMCNA also established the Bridge 
+Program, allegedly to “help hospitals save money by streamlining the process for patient 
+discharge from the hospital and admission to a chronic facility for dialysis.”  (Id. ¶ 131).  The 
+complaint alleges that the Bridge Program was actually designed to capture all of a hospital’s 
+
+referrals, as “about half of the company’s patients came into [FMCNA] clinics via [the discharge 
+planning process].”  (Id. ¶¶ 132, 140).  FMCNA tracked the referrals recorded as part of the 
+Bridge Program.  (Id. ¶ 162).  It alleges that although FMCNA directed that “all services 
+provided under the Bridge Program must be provided at FMV,” Flanagan was never required to 
+obtain an FMV analysis for any hospital contract or for Bridge Program services during his 
+tenure with the company.  (Id. ¶¶ 142-43).  Instead, those services were provided free of charge.  
+(Id.).                                                                    
+     2.   Medical Director Compensation                              
+By law, all outpatient dialysis clinics must have a qualified medical director “to be 
+responsible for the delivery of patient care and outcomes in the facility.”  42 C.F.R. § 494.150; 
+Am. Compl. ¶ 170.  Medical directors are not FMCNA employees, but physicians in private 
+practice.                                                                 
+The complaint alleges that FMCNA engaged in improper remunerative relationships with 
+medical directors in its outpatient clinics to capture their referrals.  (Am. Compl. ¶¶ 167-69).  It 
+
+alleges that FMCNA courted nephrologists in multi-physician private practices with high 
+numbers of patients to be medical directors, often offering to pay them more than $100,000 
+annually in exchange for patient referrals.  (Id. ¶ 176).                 
+According to the complaint, FMCNA pitched medical-director positions to nephrologists 
+as a way “to earn a considerable income for little or no investment of time.”  (Id. ¶ 181).  A 
+medical director’s “productivity” was tracked, and contracts with medical directors who 
+generated a large number of patients were renewed.  (Id. ¶¶ 184-97).  Patients who were referred 
+to non-FMCNA clinics were categorized as “leakage.”  (Id. ¶ 217).  FMCNA generated reports 
+to track which medical directors and their practice groups referred patients to outside clinics and 
+
+the reasons why.  (Id.).                                                  
+The complaint further alleges that FMCNA paid its medical directors far above fair 
+market value.  (Id. ¶¶ 198-205).  For example, medical directors at 160 FMCNA clinics made 
+more than $300,000 in 2019, well above the average compensation of medical directors at 
+similarly located clinics.  (Id.).  And even though the regulatory guidance defines the medical-
+director position as occupying 0.25 FTE, the complaint alleges that FMCNA neither tracked nor 
+enforced medical directors’ hours spent on duties to their clinics.  (Id. ¶¶ 172, 206-13).  
+Finally, the complaint alleges that medical directors were required to sign agreements 
+containing non-competition provisions in order to preclude any medical director and those in the 
+same practice group from engaging in any remunerative relationship with another dialysis 
+company.  (Id. ¶ 223).  Physicians who wanted to terminate the non-competition agreements 
+were forced to negotiate onerous buyouts.  (Id. ¶ 228).                   
+     3.   Free or Below-Cost Management Services                     
+
+The complaint further alleges that FMCNA provided free or below-cost services to 
+physicians to secure referrals.  (Id. ¶¶ 308, 321).  According to the complaint, FMCNA offered 
+physicians the opportunity to enter into free practice-management agreements, in return for 
+which it obtained the practice’s data from the prior three to five years.  It then used that data to 
+identify physicians and practice groups to target for medical director positions and joint-venture 
+agreements.  (Id. ¶¶ 308-14).                                             
+     4.   Favorable Leases                                           
+According to the complaint, FMCNA also paid physician groups rent above fair market 
+value and provided leases below fair market value in order to secure referrals.  (Id. ¶ 331).   
+
+     5.   Joint-Venture Agreements                                   
+Finally, the complaint alleges that FMCNA entered into joint-venture agreements with 
+physicians in order to induce referrals to the joint-venture clinic.  (Id. ¶ 332).  According to the 
+complaint, FMCNA paid inflated amounts for controlling interests in the joint venture while 
+selling shares below fair market value to physicians who were in a position to make referrals.  
+(Id. ¶¶ 334-35).  Moreover, referral sources were routinely permitted to own more than 40% of 
+the joint venture investment, contrary to HHS OIG guidance.  (Id. ¶¶ 332-36).  The complaint 
+further alleges that FMCNA would typically pay high-performing physicians 10 to 12% of the 
+clinic’s topline revenue, whereas it would pay lower-performing physicians up to 6% of topline 
+
+revenue.  (Id. ¶ 343).  FMCNA also inserted non-competition clauses into their JVAs in order to 
+lock partners into referring patients to its facility.  (Id. ¶¶ 368-74).  
+D.   Procedural Background                                           
+Flanagan filed the original complaint on March 6, 2014, alleging presentation of false 
+claims in violation of the False Claims Act, 31 U.S.C. § 3729(a)(1)(A) (Count 1); making or 
+using false records material to a false or fraudulent claim in violation of the False Claims Act, 31 
+
+U.S.C. § 3729(a)(1)(B) (Count 2); and conspiring to present false claims and making or using 
+false records material to a false or fraudulent claim in violation of the False Claims Act, 31 
+U.S.C. § 3729(a)(1)(C) (Count 3).  Essentially, that version of the complaint alleged that 
+FMCNA’s efforts to incentivize referrals to its clinics violated the Anti-Kickback Statute, 42 
+U.S.C. § 1320a-7b(b), and the resulting claims to Medicare were tainted by illegal kickbacks in 
+violation of the False Claims Act.                                        
+After a review of the claims, the government declined to intervene.  FMCNA then moved 
+to dismiss the complaint.  In response, relator filed an amended complaint.   
+FMCNA has moved to dismiss the amended complaint on the grounds that (1) the 
+
+amended complaint is essentially a new complaint and should therefore have been filed under 
+seal as required by 31 U.S.C. § 3730(b)(2); (2) the claims are barred by the FCA public-
+disclosure bar, 31 U.S.C. § 3730(e)(4); (3) the claims concerning joint-venture agreements are 
+barred by the FCA’s first-to-file bar, 31 U.S.C. § 3730(b)(5); (4) the complaint has not pleaded 
+fraud with particularity as required by Rule 9(b); and (5) the complaint fails to state a claim for 
+FCA conspiracy.                                                           
+II.  Standard of Review                                                   
+On a motion to dismiss, the court “must assume the truth of all well-plead[ed] facts and 
+give . . . plaintiff the benefit of all reasonable inferences therefrom.”  Ruiz v. Bally Total Fitness 
+Holding Corp., 496 F.3d 1, 5 (1st Cir. 2007) (citing Rogan v. Menino, 175 F.3d 75, 77 (1st Cir. 
+1999)).  To survive a motion to dismiss, the complaint must state a claim that is plausible on its 
+face.  Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570 (2007).  That is, “[f]actual allegations must 
+be enough to raise a right to relief above the speculative level . . . on the assumption that all the 
+allegations in the complaint are true (even if doubtful in fact).”  Id. at 555 (citations omitted).  
+
+“The plausibility standard is not akin to a ‘probability requirement,’ but it asks for more than a 
+sheer possibility that a defendant has acted unlawfully.”  Ashcroft v. Iqbal, 556 U.S. 662, 678 
+(2009) (quoting Twombly, 550 U.S. at 556).  Dismissal is appropriate if the complaint fails to set 
+forth “factual allegations, either direct or inferential, respecting each material element necessary 
+to sustain recovery under some actionable legal theory.”  Gagliardi v. Sullivan, 513 F.3d 301, 
+305 (1st Cir. 2008) (quoting Centro Medico del Turabo, Inc. v. Feliciano de Melecio, 406 F.3d 1, 
+6 (1st Cir. 2005)).                                                       
+Under Rule 9(b), the standard for allegations of fraud is higher than the normal pleading 
+standard.  To survive a motion to dismiss, a complaint alleging fraud must “state with 
+
+particularity the circumstances constituting fraud.”  Fed. R. Civ. P. 9(b). 
+III.  The Regulatory Framework                                            
+The False Claims Act, 31 U.S.C. §§ 3729-33, provides for civil liability for anyone who 
+“knowingly presents, or causes to be presented, a false or fraudulent claim for payment or 
+approval” or “knowingly makes, uses, or causes to be made or used, a false record or statement 
+material to a false or fraudulent claim.”  31 U.S.C. § 3729(a)(1)(A), (a)(1)(B).  A “claim” is “any 
+request or demand . . . for money or property” presented to an officer, employee, or agent of the 
+United States.  31 U.S.C. § 3729(b)(2).  Private persons, known as relators, can file civil qui tam 
+actions on behalf of the United States against persons or entities who violate the act.  Id. 
+§ 3730(b).  The government can intervene in a qui tam action and assume primary responsibility 
+over it.  Id. § 3730(b)(2), (b)(4), (c)(1).  The relator is eligible to collect a portion of any damages 
+awarded in a qui tam action, whether or not the government intervenes.  Id. § 3730(d). 
+The Anti-Kickback Statute, 42 U.S.C. § 1320a-7b, states that “whoever knowingly and 
+willfully offers or pays any remuneration (including any kickback, bribe, or rebate) directly or 
+
+indirectly, overtly or covertly, in cash or in kind to any person to induce such person . . . to 
+purchase . . . or recommend purchasing . . . any good, facility, service, or item for which 
+payment may be made in whole or in part under a Federal health care program” shall be guilty of 
+a felony.  42 U.S.C. § 1320a-7b(b)(2).  In 2010, Congress amended the AKS to clarify that any 
+Medicare claim “that includes items or services resulting from a violation of [the AKS] 
+constitutes a false or fraudulent claim for the purposes of [the FCA].”  42 U.S.C. § 1320a-7b(g); 
+Patient Protection and Affordable Care Act, Pub. L. No. 111-148, 124 Stat. 119 (2010).  In other 
+words, “an AKS violation that results in a federal health care payment is a per se false claim 
+under the FCA.”  Guilfoile v. Shields, 913 F.3d 178, 190 (1st Cir. 2019) (quoting U.S. ex rel. 
+
+Lutz v. United States, 853 F.3d 131, 135 (4th Cir. 2017)).                
+IV.  Analysis                                                             
+A.   Mandatory Pre-Suit Requirements                                 
+Defendant contends that the amended complaint should be dismissed for failure to 
+comply with the pre-suit requirements of the FCA, 31 U.S.C. § 3730(b)(2).  
+Under the FCA, a relator must comply with the following requirements:   
+ A copy of the complaint and written disclosure of substantially all material 
+ evidence and information the person possesses shall be served on the 
+ Government . . . . The complaint shall be filed in camera, shall remain under seal 
+ for at least 60 days, and shall not be served on the defendant until the court so 
+ orders.  The Government may elect to intervene and proceed with the action 
+ within 60 days after it receives both the complaint and the material evidence and 
+ information.                                                        
+
+31 U.S.C. § 3730(b)(2).                                                   
+Those notification requirements were enacted “to allow the Government an adequate 
+opportunity to fully evaluate the private enforcement suit and determine both if that suit involves 
+matters the Government is already investigating and whether it is in the Government's interest to 
+intervene and take over the civil action.”  United States ex rel. Pilon v. Martin Marietta Corp., 
+60 F.3d 995, 998-99 (2d Cir. 1995) (quoting S. Rep. No. 99-345, 1986 U.S.C.C.A.N. 5266, 
+5289).  “A secondary objective was to prevent defendants from having to answer complaints 
+without knowing whether the government or relators would pursue the litigation.”  Id. at 999.  
+Accordingly, “[f]ailure to comply with these mandatory threshold requirements warrants 
+dismissal of the qui tam complaint with prejudice.”  United States ex rel. Stevens v. Vermont 
+Agency of Nat. Res., 162 F.3d 195, 200 (2d Cir. 1998) (rev’d on other grounds, 529 U.S. 765 
+(2000)).                                                                  
+If the government declines to intervene and the qui tam case is unsealed, further 
+
+proceedings are governed by 31 U.S.C. § 3730(c)(3).  That statute provides: 
+If the Government elects not to proceed with the action, the person who initiated 
+the action shall have the right to conduct the action.  If the Government so 
+requests, it shall be served with copies of all pleadings filed in the action and shall 
+be supplied with copies of all deposition transcripts (at the Government's 
+expense).  When a person proceeds with the action, the court, without limiting the 
+status and rights of the person initiating the action, may nevertheless permit the 
+Government to intervene at a later date upon a showing of good cause.  
+
+31 U.S.C. § 3730(c)(3).                                                   
+The policy behind that requirement—allowing the government to investigate the claims 
+and decide whether to intervene—is implicated when a relator amends a complaint to add 
+completely new FCA claims.  See East Bay Mun. Util. Dist. v. Balfour Beatty Infrastructure, 
+Inc., 2014 WL 2611312, at *2 (N.D. Cal. June 11, 2014).  Courts have therefore required relators 
+to abide by those requirements when filing an amended complaint that is not “substantially 
+similar” to the original complaint.  Id. at *3 (collecting cases).  For example, in United States ex 
+rel. Wilson v. Bristol-Myers Squibb, Inc., 750 F.3d 111 (1st Cir. 2014), the First Circuit affirmed 
+the denial of a motion to amend the complaint a third time.  750 F.3d at 120.  The proposed 
+
+amendments in that case were completely new allegations from a new qui tam plaintiff.  United 
+States ex rel. Wilson v. Bristol-Myers Squibb, Inc., 2011 WL 2462469, at *6-7 (D. Mass. June 
+16, 2011).  The district court had found that the relators had violated the filing and service 
+requirements of the FCA because the new allegations were not substantially similar to those in 
+the original complaint.  Id.  In affirming that decision, the First Circuit stated that “the new 
+paragraphs in the [p]roposed [complaint] were attributable to the new relator and . . . they 
+[therefore] violated the FCA's filing and service requirements.”  Wilson, 750 F.3d at 120. 
+Here, the original complaint was 22 pages long and contained 54 numbered paragraphs.  
+The description of the alleged scheme consisted of 25 paragraphs.  Of those, thirteen described a 
+
+scheme “to offer dialysis services to hospitals well below cost in order to capture referrals.”  
+(Compl. ¶ 26).  Another six described a scheme involving “improper remuneration relationships 
+with physicians who serve as medical directors at Fresenius clinics.”  (Id. ¶ 39).  It alleged that 
+“[t]hese problematic physician relationships generally break down into two areas.”  (Id.).  The 
+first was that “these physicians were generally paid in excess of fair market value for the services 
+they actually rendered.”  (Id.).  The second was that “these same doctors are often provided with 
+opportunities to rent office space that they own to Fresenius at above or at the very top of fair 
+market value,” with guaranteed long-term leases that are “not commercially reasonable.”  (Id. 
+¶ 40).1                                                                   
+The original complaint referred to joint-venture agreements between FMCNA and 
+physicians, but only in order to contrast such agreements (which it referred to as a product of 
+“arms-length negotiations”) with the higher compensation paid to medical directors in the 
+absence of such agreements.  (Id. ¶ 41 (“The fact that medical director compensation is lower 
+
+where the physician actually shares the cost of his or her compensation through his or her joint 
+venture (ownership) agreement shows that where there are arms-length negotiations between two 
+more or less equal parties, a lower compensation rate results.”)).  It did not allege that FMCNA 
+improperly provided free services to hospitals and patients in the form of free discharge-planning 
+services, free in-service training to staff, free training to patients, and free quality assessment and 
+improvement program data analysis, nor did it mention the Bridge Program.  And it did not 
+allege that FMCNA provided free or below-cost practice-management services to physicians. 
+The initial complaint has since been amended to add 125 pages of allegations, including 
+multiple new claims.  Defendant correctly contends that the initial complaint did not contain any 
+
+allegations concerning unlawful joint-venture agreements, or the provision of free services to 
+hospitals, physicians, and patients.  The portions of the claims based on those allegations will 
+therefore be dismissed for failing to comply with the FCA’s pre-suit requirements.   
+Defendant further contends that the original complaint did not contain any allegations 
+concerning medical-director agreements, and that all claims based on such agreements should 
+likewise be dismissed.  While it is true that it did not use the term “medical director agreements,” 
+its allegations concerning improper remuneration to physicians in the form of compensation 
+
+
+1 The remaining six paragraphs describing the alleged scheme consisted of an introductory paragraph 
+(Compl. ¶ 25) and five paragraphs addressing how the scheme resulted in false claims (Id. ¶¶ 45-49).     
+above fair-market value and favorable leases are nonetheless “substantially similar” to those in 
+the amended complaint.  To the extent that the amended complaint addresses those remuneration 
+relationships, therefore, the claims will not be dismissed.               
+In summary, because the new allegations concerning (1) joint-venture agreements, (2) 
+free services to hospitals and patients, and (3) free practice-management services to physicians 
+
+are not substantially similar to the allegations in the initial complaint, that portion of the 
+complaint will be dismissed for failure to comply with the filing and service requirements of the 
+FCA.  See Wilson, 2011 WL 2462469, at *7.                                 
+B.   The Public-Disclosure Bar                                       
+Defendant next contends that the remaining FCA claims in the amended complaint are 
+barred by the public-disclosure bar of the statute, 31 U.S.C. § 3730(e)(4)(A). 
+The qui tam provisions of the FCA permit relators, in some instances, to reap huge 
+financial windfalls.  “Although this financial incentive encourages would-be relators to expose 
+fraud, it also attracts parasitic relators who bring FCA damages claims based on information 
+
+within the public domain or that the relator did not otherwise discover.”  United States ex rel. 
+Duxbury v. Ortho Biotech Prods., L.P., 719 F.3d 31, 33 (1st Cir. 2013) (“Duxbury II”) (internal 
+quotation marks and citations omitted).                                   
+To strike a balance between encouraging whistle-blowing and discouraging opportunistic 
+behavior, the FCA contains a “public-disclosure bar.”  Id.  The public-disclosure bar seeks to 
+“prevent parasitic qui tam actions in which relators, rather than bringing to light independently 
+discovered information of fraud, simply feed off of previous disclosures of public fraud.”  United 
+States ex rel. Duxbury v. Ortho Biotech Prods., L.P., 579 F.3d 13, 26 (1st Cir. 2009) (“Duxbury 
+I”).                                                                      
+The public-disclosure bar provides as follows:                       
+The Court shall dismiss an action or claim under this section, unless opposed by 
+the Government, if substantially the same allegations or transactions as alleged in 
+the action or claim were publicly disclosed—                         
+
+  i.  in a Federal criminal, civil, or administrative hearing in which the 
+    Government or its agent is a party;                              
+
+ ii.  in a congressional, Government Accountability Office, or other Federal 
+    report, hearing, audit, or investigation; or                     
+
+ iii.  from the news media,                                          
+
+unless the action is brought by the Attorney General or the person bringing the 
+action is an original source of the information.                     
+
+31 U.S.C. § 3730(e)(4)(A).                                                
+The public-disclosure bar of § 3730(e)(4)(A) applies when “(1) a public disclosure of the 
+allegations or transactions in a relator's complaint . . . occurred; (2) said disclosure . . . occurred 
+in the manner which is specified in the FCA; and (3) the relator’s suit [is] ‘based upon’ those 
+publicly disclosed allegations or transactions.”  U.S. ex rel. Est. of Cunningham v. Millennium 
+Lab’ys of Cal., Inc., 713 F.3d 662, 669-70 (1st Cir. 2013) (quoting Duxbury I, 579 F.3d at 21). 
+A prior, public disclosure of fraud occurs when the essential elements exposing 
+the particular transaction as fraudulent find their way into the public domain.  To 
+be a disclosure of fraud the disclosure must contain either (1) a direct allegation of 
+fraud, or (2) both a misrepresented state of facts and a true state of facts so that 
+the listener or reader may infer fraud.                              
+
+U.S. ex rel. Poteet v. Bahler Med., Inc., 619 F.3d 104, 110 (1st Cir. 2010) (internal quotation 
+marks and citations omitted).                                             
+The statute defines “original source” as an individual who, “[1] prior to a public 
+disclosure . . . has voluntarily disclosed to the Government the information on which allegations 
+or transactions in a claim are based, or (2) who has knowledge that is independent of and 
+materially adds to the publicly disclosed allegations or transactions . . . .”  31 U.S.C. § 
+3730(e)(4)(B).                                                            
+Here, defendant contends that the allegations were previously disclosed in multiple ways, 
+including a 2005 government investigation and a 2005 Corporate Integrity Agreement (“CIA”) 
+between FMCNA and the Office of Inspector General of the Department of Health and Human 
+Services (“OIG”).                                                         
+
+     1.   Compensation of Medical Directors                          
+Defendant contends that the allegations concerning the compensation of medical directors 
+were publicly disclosed prior to the filing of the complaint.             
+First, defendant contends that the salaries paid to all of its medical directors is a matter of 
+public record and is available on the website of the Center for Medicare and Medicaid Services 
+(“CMS”).  While it is true that CMS data are “reports” for the purposes of the public disclosure 
+bar, see U.S. ex rel. Conrad v. Abbott Lab’ys, Inc., No. 02-11738, 2013 WL 682740, at *5 (D. 
+Mass. Feb. 25, 2013), the mere publication of compensation information, without an allegation 
+
+of fraud or misrepresentation, is not sufficient to trigger the bar.      
+Second, defendant contends that a complaint alleging medical-director fraud filed in 
+Missouri in 2005 against two different companies—both of which were later acquired by 
+FMCNA—qualified as a public disclosure barring the current allegations.2  Defendant further 
+contends that the CIA it had entered into with the OIG relating to conduct of a company 
+FMCNA later acquired (National Medical Care) qualified as a public disclosure. 
+Those arguments, however, are unavailing.  The 2005 complaint alleged improper 
+conduct dating from a decade before the conduct alleged here.  Furthermore, the defendants in 
+
+
+2 The qui tam action at issue was United States ex rel. Williams v. Renal Care Grp., et al., No. 4:05-cv-985 
+(E.D. Mo. June 21, 2005).                                                 
+that case were entities that at the time were not affiliated with FMCNA.  Allegations concerning 
+pre-merger conduct cannot be said to have disclosed post-merger conduct.  See U.S. ex rel. 
+Saldivar v. Fresenius Med. Care Holdings, Inc., 906 F. Supp. 2d 1264, 1274 (N.D. Ga. 2012).    
+Third, defendant contends that relevant public disclosures occurred in multiple SEC 
+filings by FMCNA.  The SEC filings at issue state that (1) “at most of our clinics, a relatively 
+
+small number of physicians account for the referral of all or a significant portion of the patient 
+base,” (Def. Mem. Ex. 29 at 10); (2) “compensation is negotiated individually [based on] local 
+factors . . . . We believe that the compensation of our medical directors is in line with the 
+market” (Id. Ex. 13 at 23); and that (3) “If physicians and other referral sources cease referring 
+patients to our dialysis clinics . . . our revenues would decrease.” (Id. Ex. 29 at 10).3   
+In United States ex rel. CKD Project, LLC v. Fresenius Med. Care Holdings, Inc., 551 F. 
+Supp. 3d 27, 43 (E.D.N.Y. 2021), the court found that SEC filings disclosing the nature of the 
+joint-venture relationships and the regulatory risks associated with them were sufficient to 
+qualify as public disclosures.  The following is a relevant excerpt from an SEC filing cited by the 
+
+court in CKD:                                                             
+A number of the dialysis centers . . . we operate are owned, or managed, by joint ventures 
+in which we hold a controlling interest and one or more hospitals, physicians or physician 
+practice groups hold a minority interest.  Physician owners, who are usually 
+nephrologists, may also provide medical director services and physician owners may 
+refer patients to those centers or other centers we own and operate or to other physicians 
+who refer patients to those centers or other centers we own and operate.  While we have 
+structured our joint ventures to comply with many of the criteria for safe harbor 
+protection under the U.S. Federal Anti-Kickback Statute, our investments in these joint 
+venture arrangements do not satisfy all elements of such safe harbor.  While we have 
+established comprehensive compliance policies, procedures and programs to ensure 
+ethical and compliant joint venture business operations, if one or more of our joint 
+ventures were found to be in violation of the Anti-Kickback Statute or the Stark Law, we 
+
+3 The Court takes judicial notice of the proffered SEC filings as undisputed documents provided by the 
+parties in connection with a Rule 12(b)(6) motion based on the public-disclosure bar.  United States ex rel. 
+Winkelman v. CVS Caremark Corp., 827 F.3d 201, 208 (1st Cir. 2016).       
+could be required to restructure or terminate them.  We also could be required to repay to 
+Medicare amounts received by the joint ventures pursuant to any prohibited referrals, and 
+we could be subject to criminal and monetary penalties and exclusion from Medicare, 
+Medicaid and other U.S. federal and state healthcare programs.       
+
+(Def. Mem. Ex. 15 at 6).                                                  
+That excerpt discloses that the joint ventures do not qualify for safe-harbor protection and 
+identifies the penalties that might be imposed should the company be found to be in violation of 
+the relevant statutes.  By contrast, here the statements in defendant’s securities filings concerning 
+medical-director agreements do not even convey the possibility that those agreements might 
+violate the law.  Furthermore, they do not directly disclose the existence of any of the alleged 
+schemes, or any other form of fraud, nor do they describe facts from which the existence of a 
+fraudulent scheme might be inferred.  At most, the filings describe a set of circumstances that 
+might be vulnerable to manipulation.                                      
+Accordingly, the public-disclosure bar does not preclude the claims concerning unlawful 
+medical-director agreements.                                              
+     2.   Joint-Venture Agreements                                   
+The Court has previously determined that the portion of the amended complaint that 
+alleges claims arising out of the joint-venture agreements and the provision of free services to 
+physicians will be dismissed for failure to comply with the pre-suit requirements of the False 
+Claims Act.  However, even assuming compliance with those requirements, the claims 
+concerning joint-venture agreements would be barred in any event.  Relator first alleged fraud 
+concerning joint ventures in the amended complaint, which was filed in 2021.  Therefore, the 
+court may consider any public disclosures made prior to 2021 for purposes of determining 
+whether the claims are prohibited by the public-disclosure bar.           
+In 2014, a qui tam action was filed in the Eastern District of New York alleging that 
+FMCNA “acquired controlling interests in dialysis clinics” and paid physician owners “above-
+market value for their clinics and that this excess constituted payment to induce the doctors to 
+refer patients back to these clinics.”  U.S. ex rel. CKD Project v. FMCNA, No. 14-cv-6646 
+(E.D.N.Y. Nov. 12, 2014) (ECF No. 1).  In substance, the complaint alleged that FMCNA 
+engaged in a scheme to pay kickbacks to physicians with whom it had entered into joint-venture 
+
+agreements.  The matter was unsealed, and therefore publicly disclosed, in 2018.  The amended 
+complaint in this case, which was the first time relator raised any allegations concerning joint 
+ventures, was filed three years later, in 2021.                           
+“In assessing whether a given later-filed suit is ‘based upon’ publicly disclosed 
+allegations, [courts] look to whether those allegations are ‘substantially similar’ to said 
+allegations.”  Cunningham, 713 F.3d at 670.  Here, the allegations are “substantially similar” to 
+those in CKD and are thus “based upon” the public disclosures.            
+However, even if allegations are based upon public disclosures, claims may nonetheless 
+be asserted if the relator is an “original source.”  Before 2010, the statute defined an “original 
+
+source” as “an individual who has direct and independent knowledge of the information on 
+which the allegations are based and has voluntarily provided the information to the Government 
+before filing an action under this section which is based on the information.”  31 U.S.C. § 
+3730(e)(4)(B) (2006).  The 2010 Patient Protection and Affordable Care Act amendment to the 
+public-disclosure bar made two notable changes to that definition.  See Pub. L. No. 111-148, § 
+10104(j)(2), 124 Stat. 119 (2010).  First, it added a second definition for “original source.”  Id.  
+Now, a relator may also qualify as an “original source” if “prior to a public disclosure under 
+subsection (e)(4)(a), [he] voluntarily disclosed to the Government the information on which 
+allegations or transactions in a claim are based.”  Id.  Second, the requirement for “direct” 
+knowledge was replaced with the requirement that a relator's knowledge must “materially add[ ] 
+to the publicly disclosed allegations or transactions.”  Id.  Thus, the statute now defines “original 
+source” as an individual who                                              
+(1) prior to a public disclosure . . . has voluntarily disclosed to the Government 
+the information on which allegations or transactions in a claim are based, or (2) 
+who has knowledge that is independent of and materially adds to the publicly 
+disclosed allegations or transactions, and who has voluntarily provided the 
+information to the government before filing an action under this section. 
+
+31 U.S.C. § 3730(e)(4)(B).                                                
+The allegations in CKD described a scheme whereby FMCNA allegedly paid kickbacks 
+to doctors with whom it had entered into joint-venture agreements.  Relator’s allegations here 
+describe the same essential scheme and do not “materially add” to those allegations.  At most, 
+relator “merely adds detail or color to previously disclosed elements of an alleged scheme 
+[which] is not materially adding to the public disclosures.”  United States ex rel. Winkelman v. 
+CVS Caremark Corp., 827 F.3d 201, 213 (1st Cir. 2016).                    
+Accordingly, even if relator had complied with the pre-suit requirements of the False 
+Claims Act, the public-disclosure bar would preclude the claims concerning joint-venture 
+agreements.                                                               
+C.   The First-to-File Bar                                           
+Defendant also contends that the claims concerning joint-venture agreements are barred 
+by the first-to-file rule.  Again, those claims will be dismissed on other grounds; however, even 
+if those claims survived those challenges, they are duplicative of the allegations in CKD and 
+therefore would be barred by the first-to-file rule.                      
+The first-to-file bar provides that “[w]hen a person brings an action . . . no person other 
+than the Government may intervene or bring a related action based on the facts underlying the 
+pending action.”  31 U.S.C. § 3730(b)(5).  Defendant contends that the 2014 CKD complaint 
+alleged the same fraudulent scheme concerning joint-venture agreements as the amended 
+complaint here, which was filed seven years later.  Relator responds that (1) the complaints do 
+not allege the same essential facts and (2) the CKD complaint was later dismissed on 
+jurisdictional grounds, which makes the first-to-file bar inapplicable.   
+
+The first question, for the purpose of applying the first-to-file bar, is whether the first-
+filed complaint “contained all the essential facts of the fraud later alleged.”  United States v. 
+Millenium Lab’ys, Inc., 923 F.3d 240, 252 (1st Cir. 2019) (cleaned up).  The objective of the 
+essential facts test is to determine whether “the statutorily required threshold for notifying the 
+government of the fraud alleged in the later-filed suit” has been met.  Id. at 253.  
+The CKD complaint alleged that FMCNA used joint-venture agreements as a way to 
+provide remuneration to physicians in exchange for referrals.  This is the same scheme with the 
+same methodology as alleged here.  See United States ex rel. Wilson v. Bristol-Myers Squibb, 
+Inc., 750 F.3d 111, 118 (1st Cir. 2014); cf. Duxbury I, 579 F.3d at 33; United States ex rel. 
+
+Westmoreland v. Amgen, 707 F. Supp. 2d 123, 130 (D. Mass. 2010).  Moreover, the CKD 
+complaint alleged that the scheme was nationwide.  (CKD Compl. ¶¶ 28, 38-40, 60-65).  The 
+CKD complaint therefore contained the essential facts alleged here, thus barring the allegations 
+contained in the amended complaint.                                       
+The second question is whether there is an exception to the first-to-file bar that would 
+allow relator’s pre-2010 claims to survive.  Relator relies on the Sixth Circuit’s holding in United 
+States ex rel. Poteet v. Medtronic, Inc., 552 F.3d 503, 516-17 (6th Cir. 2009) to support the 
+contention that when a first-filed complaint is dismissed on jurisdictional grounds, it cannot bar a 
+later-filed complaint.  However, the First Circuit has rejected the holding in Poteet, explaining 
+that “earlier-filed complaints must provide only the essential facts to give the government 
+sufficient notice to initiate an investigation into allegedly fraudulent practices” and emphasizing 
+that “Section 3730(b)(5) contains no exceptions.”  United States ex rel. Heineman-Guta v. 
+Guidant Corp., 718 F.3d 28, 35-37 (1st Cir. 2013).  The fact that the CKD complaint was 
+dismissed on jurisdictional grounds is therefore irrelevant.              
+
+Accordingly, the claims concerning joint-venture agreements are barred by the first-to-
+file rule.                                                                
+D.   Pleading Fraud with Particularity under Rule 9(b)               
+     1.   Generally                                                  
+Because the False Claims Act is a statute directed at fraudulent conduct, Rule 9(b) 
+“requires both that the circumstances of the alleged fraud and the claims themselves be alleged 
+with particularity.”  Lawton ex rel. United States v. Takeda Pharm. Co., Ltd., 842 F.3d 125, 130 
+(1st Cir. 2016); Fed. R. Civ. P. 9(b).  The complaint must “set forth with particularity the who, 
+what, when, where, and how of the alleged fraud.”  U.S. ex rel. Ge v. Takeda Pharm. Co. Ltd., 
+
+737 F.3d 116, 123 (1st Cir. 2013) (internal quotation marks and citations omitted).  Where the 
+defendant allegedly caused a third party to submit a false claim to the government, rather than 
+submitting the false claim itself, a “more flexible” standard applies, under which Rule 9(b) is 
+satisfied by providing “factual or statistical evidence to strengthen the inference of fraud beyond 
+possibility without necessarily providing details as to each false claim submitted.”  U.S. ex rel. 
+Kelly v. Novartis Pharm. Co., 827 F.3d 5, 13 (1st Cir. 2016) (citing Duxbury I, 579 F.3d at 29).  
+Rule 9(b) may be satisfied “where, although some questions remain unanswered, the complaint 
+as a whole is sufficiently particular to pass muster under the FCA.”  U.S. ex rel. Gagne v. City of 
+Worcester, 565 F.3d 40, 45 (1st Cir. 2009).                               
+There is no “checklist of mandatory requirements that each allegation in a complaint 
+must meet to satisfy Rule 9(b).”  Hagerty ex rel. United States v. Cyberonics, Inc., 844 F.3d 26, 
+31 (1st Cir. 2016).  Nonetheless, the First Circuit has identified some examples of specific 
+allegations that may suffice to state a claim with the requisite particularity.  In an FCA case, 
+these may include “details concerning the dates of the claims, the content of the forms or bills 
+
+submitted, their identification numbers, the amount of money charged to the government, the 
+particular goods or services for which the government was billed, the individuals involved in the 
+billing, and the length of time between the alleged fraudulent practices and the submission of 
+claims based on those practices.”  U.S. ex rel. Karvelas v. Melrose-Wakefield Hosp., 360 F.3d 
+220, 233 (1st Cir. 2004), abrogated on other grounds by Allison Engine Co. v. United States ex 
+rel. Sanders, 553 U.S. 662 (2008).                                        
+     2.   The Allegations of the Complaint                           
+The amended complaint describes—in considerable detail—a multi-part scheme to 
+compensate caregivers in return for referrals.  It identifies specific hospitals, doctors, and 
+
+medical practices that have allegedly benefited financially from the scheme.   
+However, general allegations of illegal or fraudulent practices, without more, are not 
+sufficient to state a claim under the False Claims Act.  See Ge, 737 F.3d at 124 (stating that the 
+court “reject[s][the] approach” sought by the relator, which was “a per se rule that if sufficient 
+allegations of misconduct are made, it necessarily follows that false claims and/or material false 
+information were filed”).  Rather, the complaint must allege both the existence of a scheme and 
+the making of particular false claims resulting from the scheme.          
+Here, the complaint describes in general terms how claims are submitted to Medicare and 
+Medicaid; it describes the various ways in which FMCNA allegedly paid kickbacks for referrals; 
+and as to each such aspect of the scheme, it alleges that “every” claim or “all” claims were 
+fraudulent.                                                               
+          a.   General Description of Medicare and Medicaid Claim Systems 
+First, the complaint alleges in general terms that all claims for reimbursement made to 
+Medicare require the submission of a Form UB-40 (or a substantially similar form) that contains 
+
+“various data, including the patient’s identifying information and line items for each claim 
+sought to be reimbursed.”  (Am. Compl. ¶ 29).  It includes a blank example of such a form as 
+Exhibit A.  (Id. Ex. A).  It further alleges that defendant is required to submit on an annual basis 
+a Form 265 cost report to Medicare that certifies, among other things, that the services identified 
+in the report (that is, the dialysis services) were provided in compliance with federal law, 
+including the Anti-Kickback Statute.  (Id. ¶¶ 30-31).                     
+As to Medicaid, the complaint alleges in general terms that state administrators of the 
+program obtain reimbursement from the federal government by submitting a quarterly Form 64 
+to the Centers for Medicare and Medicaid Services at Department of Health and Human 
+
+Services.  (Id. ¶ 40).  According to the complaint, “[f]or this reason, claims submitted to the state 
+Medicaid agencies are presented to the federal government within the meaning of the [False 
+Claims Act].”  (Id.).                                                     
+The complaint does not allege, even in general terms, how claims are submitted under the 
+CHAMPUS/TRICARE or CHAMPVA programs.                                      
+          b.   Description of False Claims                           
+               (1)  Hospital Services                                
+As set forth above, the complaint alleges that FMCNA provided dialysis services to 
+hospitals at prices well below cost in order to capture referrals of discharged patients to its 
+dialysis clinics.  (Id. ¶ 83).  After describing that scheme in some detail, the complaint alleges the 
+following as to the submission of actual false claims:                    
+Fresenius’[s] below-cost acute dialysis services constitute illegal remuneration to 
+hospitals, as those services relieved the hospitals of financial obligations they 
+otherwise would have incurred in providing inpatient treatment to ESRD patients 
+and were provided as an illegal inducement for referrals to its outpatient clinics, in 
+violation of the AKS.  Any claims submitted for services Fresenius rendered to the 
+patients who were referred to Fresenius clinics through the operation of this 
+scheme are false claims within the meaning of the FCA.               
+
+(Id. ¶ 127) (emphasis added).                                             
+The complaint also provides a somewhat more complete description of the false claims 
+for services allegedly provided to Scripps Health, “a large health care system with five hospitals 
+in San Diego, California.”  (Id. ¶ 154).  As to Scripps, it alleges the following: 
+At an average of three treatments per week per patient, those 172 additional 
+patients (whose treatments were paid for by Federal health care programs) 
+received some 26,832 treatments each year.  Because the average dialysis patient 
+stays in treatment for at least five years, the total value of these additional 
+referrals to Fresenius during a five-year period from this single hospital system 
+exceeded an estimated $30 million.  Every claim for reimbursement associated 
+with treating these patients that was submitted to Federal health care programs 
+was tainted by kickbacks and constituted a false claim.              
+
+(Id. ¶ 165) (emphasis added).                                             
+               (2)  Medical Director Compensation                    
+The complaint further alleges, at considerable length, a scheme to pay medical directors 
+compensation above fair market value in order to induce referrals.  As to the submission of false 
+claims, it makes the following general allegations:                       
+. . . Fresenius’[s] compensation of its medical directors cannot be explained by 
+competition or market forces.  The difference is also not explained by differing 
+duties and responsibilities, because the duties of dialysis clinic medical directors 
+are defined by uniform federal regulations.  Instead, at least one (if not the only) 
+reason Fresenius pays its medical directors so far above FMV is in order to secure 
+referrals.  At least in part because of receiving this above-FMV compensation 
+from Fresenius, the medical directors for the foregoing facilities and in the 
+foregoing cities have referred patients to Fresenius facilities, the majority of 
+whose care was paid for by Federal health care programs.  Every claim submitted 
+to these programs for reimbursement was tainted by kickbacks and thus 
+constitutes a false claim under the FCA.                             
+
+(Id. ¶ 204) (emphasis added).                                             
+
+The physicians who had entered into MDAs referred patients to Fresenius 
+facilities based at least in part on remuneration from Fresenius, and these 
+facilities submitted claims to Federal health care programs for      
+reimbursement associated with the treatment of these patients.  All such 
+claims, which were tainted by kickbacks, were false.                 
+
+(Id. ¶ 229) (emphasis added).                                             
+The complaint also describes the compensation paid to a number of specific medical 
+directors around the United States.  (Id. ¶¶ 232-35 (Diablo Nephrology in California); id. ¶¶ 236-
+41 (Balboa Nephrology Medical Group in California); id. ¶¶ 242-55 (NANI in Illinois); id. ¶¶ 
+256-69 (IMN and other practices in Indiana); id. ¶¶ 270-84 (ENA and other practices in North 
+Carolina); id. ¶¶ 285-91 (practices in Texas); id. ¶¶ 292-307 (practices in Washington state)).  As 
+to each, it provides some specifics as to the scheme (such as referral trends and medical-director 
+compensation levels).  It then alleges, in general terms, that “all” claims from those facilities 
+were “tainted by kickbacks” and therefore constitute false claims within the meaning of the False 
+Claims Act.  (Id. ¶ 233 (Diablo Nephrology) (“Every claim for reimbursement [FMCNA] 
+submitted to [f]ederal health care programs associated with the treatment of these patients was 
+tainted by kickbacks and therefore false within the meaning of the FCA.”); id. ¶ 238 (Balboa 
+Nephrology Medical Group) (“Every claim . . . constitutes a false claim.”); id. ¶ 249 (NANI) 
+(“All . . . claims . . . constituted false claims . . . .”); id. ¶ 257 (Indiana) (“All such claims . . . were 
+false . . . .”); id. ¶ 274 (North Carolina) (“[E]ach of these claims was false . . . .”); id. ¶ 284 
+(North Carolina) (“All such claims . . . were false.”); id. ¶ 286 (Texas) (“All such claims . . . were 
+false . . . .”); id. ¶ 293 (Washington state) (“All such claims . . . were false . . . .”); id. ¶ 299 
+(Washington state) (“All such claims . . . were false.”); id. ¶ 304 (Washington state) (“All such 
+claims . . . were false.”) (emphasis added)).                             
+As to some of those medical practices, the complaint provides some amount of additional 
+detail, although again it does not describe any specific false claims.    
+As to Diablo Nephrology, the complaint alleges the following:        
+
+In return for these lucrative remuneration relationships, Diablo Nephrology 
+referred patients to Fresenius clinics, much of whose treatment was paid for by 
+Federal health care programs.  As of August 31, 2012, for example, Diablo 
+Nephrology had 585 patients in dialysis at various Fresenius facilities (including 
+home dialysis patients), out of which only 6.9% were commercial pay patients.  
+The Diablo patients accounted for a total of 104,731 treatments, over 95,000 of 
+which were billed to Federal payers at an average rate of approximately $230 per 
+treatment, or more than $21,000,000 in Medicare reimbursement per year to 
+Fresenius.  Every claim for reimbursement for the treatment of these patients 
+constitutes a false claim.  Diablo Nephrology contributed $4,395,000 to 
+Fresenius’ EBIT in 2012.  Every claim for reimbursement Fresenius submitted to 
+Federal health care programs associated with the treatment of these patients was 
+tainted by kickbacks and therefore false within the meaning of the FCA. 
+
+(Id. ¶ 233) (emphasis added).                                             
+As to Balboa Nephrology Medical Group, it alleges the following:     
+As of 2013, Balboa physicians had referred 2,175 patients for dialysis at Fresenius 
+facilities, an increase of 274 dialysis patients over the previous year.  Fresenius’ 
+internal tracking documents show that Balboa’s commercial mix was 10.5%, 
+which means that over 1,900 of the patients that Balboa referred to Fresenius 
+clinics were beneficiaries of Federal health benefit programs such as Medicare 
+and Medicaid, whose care was paid for by these programs.  Every claim for 
+reimbursement for the treatment of these patients constitutes a false claim. 
+
+(Id. ¶ 238) (emphasis added).                                             
+As to NANI, the complaint provides a table of Medicare and Medicaid revenue for a 
+period of five years at seventeen dialysis centers in the Chicago area.  (Id. ¶¶ 247-48).  It then 
+alleges:                                                                  
+All of the Medicare and Medicaid claims submitted to these Federal health plans 
+were tainted by the kickbacks Fresenius paid to NANI, which were illegal 
+remuneration to secure referrals, and violated the AKS.  As such, they constituted 
+false claims under the FCA.                                          
+
+(Id. ¶ 249) (emphasis added).                                             
+Similarly, for North Carolina, the complaint provides a table of Medicaid (but not 
+Medicare) revenue for a period of six years at fourteen dialysis centers.  (Id. ¶ 272).  It then 
+provides a table of patients and patient treatments for the same facilities over the same time 
+period.  (Id. ¶ 273).  It then alleges:                                   
+Fresenius submitted each of the foregoing hundreds of thousands of claims for 
+reimbursement to Medicaid on approximately 45,756 occasions (3,813 patients x 
+12 submissions annually).  When Fresenius submitted each claim, it impliedly 
+certified that the corresponding treatments complied with the AKS.  However, all 
+of these treatments were tainted by kickbacks in the form of above-FMV medical 
+director compensation, at least one purpose of which was to induce referrals to 
+Fresenius clinics.  Accordingly, each of these claims was false within the meaning 
+of the FCA.                                                          
+
+(Id. ¶ 274) (emphasis added).                                             
+The complaint does not, however, identify a single specific false claim submitted in 
+connection with any of those dialysis centers.                            
+               (3)  Favorable Leases                                 
+The complaint further alleges a scheme to provide favorable leases to physician groups in 
+order to induce referrals.  As to the claims arising from that scheme, the complaint alleges the 
+following:                                                                
+Through the actions alleged above, including the payment of above-FMV rents 
+and provision of below-FMV leases to physicians in order to induce and secure 
+referrals, Fresenius violated the AKS.  Through these practices, Fresenius 
+essentially paid physicians for referrals, payments that violate the AKS.  All 
+claims submitted for services Fresenius rendered to the patients who were referred 
+to Fresenius clinics through the operation of this scheme are false claims within 
+the meaning of the FCA.                                              
+
+(Id. ¶ 331) (emphasis added).                                             
+               (4)  Other Aspects of the Scheme                      
+As set forth above, the allegations of the complaint concerning joint-venture agreements, 
+free services to hospitals and patients, and free practice-management services to physicians will 
+be dismissed for failure to comply with the notification and other requirements of the False 
+Claims Act.  In any event, as to those aspects of the alleged scheme, the allegations of the 
+
+submission of false claims are similarly general.                         
+As to joint-venture agreements, the complaint again alleges in general terms that “all” 
+claims submitted by facilities with joint-venture partners are false claims. 
+Not only did Fresenius intentionally enter into JVAs in which its nephrologist 
+partners had greater than forty percent ownership interests, but Fresenius knows, 
+and expects, that the vast majority of revenue for its JV facilities will come from 
+patients referred by these partners.  A significant number of the ESRD patients 
+treated at these facilities were beneficiaries of Federal health care programs, for 
+whose treatment the facilities submitted claims for reimbursement.  Because 
+Fresenius entered into these JVAs based at least in part to induce nephrologists to 
+refer patients to its own clinics, and intentionally violated the strictures set forth in 
+42 C.F.R. §§ 1001.952(a)(2)(i) & 1001.952(a)(2)(vi), all of these claims violated 
+the AKS and constitute false claims within the meaning of the FCA.   
+
+(Id. ¶ 350) (emphasis added).4                                            
+As to the alleged scheme to provide other services to hospitals, the complaint alleges the 
+following:                                                                
+Through the circumstances alleged above, including the provision of services at 
+below cost and at no cost to hospitals in order to induce referrals to its outpatient 
+clinics, Fresenius violated the AKS, which prohibits the payment of remuneration 
+to secure referrals.  Through these practices, Fresenius essentially paid hospitals 
+to secure referrals, in violation of the AKS.  Any claims submitted for services 
+Fresenius rendered to the patients who were referred to Fresenius clinics through 
+the operation of this scheme are false claims within the meaning of the FCA. 
+
+
+4 The complaint goes on to identify four specific sets of joint-venture arrangements (Balboa, NANI, ENA, 
+and Dallas Nephrology Associates) and again alleges that “all claims” submitted in connection with patients treated 
+by those physicians or facilities were “tainted by kickbacks” and therefore false.  (Am. Compl. ¶¶ 353, 357 
+(Balboa); id. ¶ 359 (NANI); id. ¶ 360 (ENA); id. ¶ 361 (Dallas Nephrology Associates)). 
+(Id. ¶ 166) (emphasis added).                                             
+As to the scheme to provide free or below-cost practice-management services, the 
+complaint alleges the following:                                          
+Through the valuable free practice management services provided to physicians 
+they would otherwise have to pay themselves, Fresenius violated the AKS, which 
+prohibits the payment of remuneration to secure referrals.  All claims Fresenius 
+submitted for services Fresenius rendered to the patients who were referred to 
+Fresenius clinics through the operation of this practice management scheme are 
+false claims within the meaning of the FCA.                          
+
+(Id. ¶ 320) (emphasis added).                                             
+     3.   Analysis                                                   
+As noted, despite its length and detail, the description of the fraudulent scheme set out in 
+the complaint, without more, is insufficient to state a claim under the False Claims Act.  There 
+must be particularized allegations of claims for payment arising from that scheme.  “Evidence of 
+an actual false claim is the sine qua non of a False Claims Act violation.”  Karvelas, 360 F.3d at 
+225.  And under Rule 9(b), those claims must be described with some level of specificity.  See id. 
+at 233.   The question here is whether the complaint has met that standard. 
+To begin, it appears—although the complaint is ambiguous at times—that the Medicare 
+claims at issue were submitted to the federal government by FMCNA itself, and that the 
+Medicaid claims were submitted by various state government agencies based on claims that 
+FMCNA submitted to those agencies.5  As to the Medicare claims, therefore, the complaint must 
+be evaluated according to the ordinary standard applicable in False Claims Act cases, not the 
+“more flexible” standard applicable where the defendant allegedly caused a third party to submit 
+false claims.  See Kelly, 827 F.3d at 13.  For the sake of simplicity, the Court will focus first on 
+
+5 Among other things, the complaint uses the passive voice throughout:  claims “were submitted,” rather 
+than “FMCNA submitted claims.”                                            
+the Medicare claims.6                                                     
+In substance, the complaint alleges the FMCNA created a nationwide scheme to pay 
+unlawful kickbacks for referrals at all of its outpatient dialysis facilities; that all claims submitted 
+for all dialysis services are therefore tainted by kickbacks; and that therefore every claim 
+submitted by FMCNA during the relevant period was false.  If relator is correct, that means that 
+
+the entire government-payor business of FMCNA—which appears to amount to more than $10 
+billion in revenue per year—is based on fraud.  And it means that relator stands to reap a reward 
+of 15%-30% of any recovery—an amount that might well be measured in tens of billions of 
+dollars.                                                                  
+There is, of course, considerable logic to relator’s arguments:  if 100% of the business of 
+FMCNA is tainted by kickbacks, and if 80% or more of the business of FMCNA involves 
+government payors, it follows that FMCNA must have submitted many false claims.  But 
+whatever the merits of that argument may be, the law requires more.  See Kelly, 827 F.3d at 15 
+(“It may not be irrational to infer that, given [the allegations of the fraudulent scheme], some 
+
+false claims . . . for reimbursement were submitted to the government.  But this is not enough to 
+satisfy Rule 9(b).”).                                                     
+Again, the complaint does not identify a single specific false claim—by Form UB-40, by 
+patient name, by date, by location, by dollar amount, by billing code, by type of service, or 
+otherwise.  Nor does it provide any representative or sample claims.7     
+Complicating matters further is the nature of the alleged false claims.  There is no 
+
+
+6 As noted, there are no allegations at all concerning the payments of claims under the 
+CHAMPUS/TRICARE or CHAMPVA programs.                                      
+7 That may, in part, be a result of the fact that relator did not work in any financial or billing capacity, but 
+rather worked as the Director of Acute Market Development for the Fresenius Western Business Unit, and 
+negotiated contracts between FMCNA and hospitals for in-patient dialysis treatment.  (Am. Compl. ¶ 11). 
+contention that any dialysis services performed were medically unnecessary or excessive, or that 
+those services were performed in a substandard manner.  Nor is there any contention that any 
+dialysis services that were paid by Medicare in fact should have been paid by a private payor.  
+Based on the allegations of the complaint, it appears that all of the patients in question would 
+have received treatment at a facility operated by FMCNA or a competitor, and all of those 
+
+treatments would have been paid by Medicare regardless.  It appears, therefore, that the 
+government may have suffered little or no actual financial loss.  The entire basis of the complaint 
+is a theory of tainted referrals; kickbacks paid by FMCNA tainted the physician-referral process, 
+which enabled the company to obtain, unlawfully, a larger share of referrals than it would have 
+otherwise in a properly functioning market.                               
+It is true that a violation of the Anti-Kickback Statute “that results in a federal health care 
+payment is a per se false claim.”  Guilfoile, 913 F.3d at 190.  It does not follow, however, that 
+where there is an AKS violation, the requirement of establishing a false claim evaporates.  One 
+problem lies in the phrase “results in”—that is, the requirement of causation.  Suppose, for 
+
+example, that in a world free from kickbacks, 25% of the dialysis services business of FMCNA 
+would have been captured by competitors.  Rule 9(b) requires that a relator plausibly allege that 
+specific payments concerning specific patients were caused by the AKS violation—that is, that 
+they were part of the 25% of the claims that resulted from a violation, not the 75% that were not.  
+Relator here has not attempted to do so.                                  
+Certainly it would not be irrational to conclude that the presence of kickbacks taints the 
+entire payment process, so that 100% of the claims may be deemed to have been caused by the 
+violation.  No published case in the First Circuit, however, has ever gone so far.  It might also be 
+entirely rational to shift the burden to the defendant:  that is, once a relator has established the 
+existence of a kickback scheme, arguably the burden should be shifted to the defendant to prove 
+that certain referrals were not caused by payment of kickbacks.  Again, however, no case, to the 
+Court’s knowledge, has ever established such a procedure.                 
+In any event, as noted, the complaint does not include a single allegation concerning a 
+single specific false claim.  To avoid dismissal, the complaint must therefore establish the 
+
+necessary degree of particularity, if at all, through allegations of “factual or statistical evidence 
+that strengthen[ ] the inference of fraud on the government beyond a mere possibility.”  Duxbury 
+I, 579 F.3d at 29.                                                        
+To the extent the complaint here provides any factual or statistical evidence as to the 
+actual false claims, it does so by alleging in a handful of instances that certain types of claims 
+associated with patients at certain facilities were false.  The complaint alleges that certain 
+medical practices, such as Diablo and Balboa, benefited financially from medical-director 
+agreements and joint-venture agreements with FMCNA, that in return they referred patients to 
+FMCNA facilities, and as a result all of their claims for government reimbursement were false.  
+
+Each step in that argument relies on an inference:  first, the inference that the relevant financial 
+arrangements were intended as kickbacks; second, the inference that every referral to an 
+FMCNA clinic was made as a result of the kickbacks; and third, the inference that every claim 
+for government reimbursement was tainted by the kickbacks.  But nowhere does the complaint 
+identify a specific physician who made a specific referral as a result of a specific unlawful 
+practice that resulted in a specific false claim.  In substance, it is a dressed-up version of a 
+generalized allegation:  it essentially alleges that if a practice benefited financially from a 
+relationship with FMCNA, and if it administered 104,000 treatments, and 93% of those were to 
+patients who were beneficiaries of government-sponsored healthcare programs, then it submitted 
+96,720 false claims.  That is not sufficient, under the case law, to state a false claim with 
+particularity within the meaning of Rule 9(b).                            
+To be clear, the dispositive question is not whether FMCNA engaged in an illegal and 
+pervasive scheme to pay kickbacks for referrals.  For present purposes, the Court must assume 
+that it did.  Nor is the issue whether the scheme should, in some fashion, be redressed.  The 
+
+government had an opportunity to intervene if it chose, and elected not to do so.  And, 
+presumably, it has other weapons in its arsenal for dealing with fraudulent conduct.  The critical 
+question is whether the complaint meets the exacting standard for FCA claims required by law.  
+Under the circumstances, the Court concludes that it does not.            
+In summary, the amended complaint fails to state allegations of fraud under the FCA with 
+the particularity required by Rule 9(b).  Accordingly, the motion to dismiss will be granted. 
+E.   Conspiracy                                                      
+Because the complaint does not state allegations of fraud under the FCA with the 
+particularity required by Rule 9(b), the conspiracy claim under the FCA must fail as well. 
+
+V.   Conclusion                                                           
+For the foregoing reasons, defendant’s motion to dismiss is GRANTED. 
+So Ordered.                                                               
+                           /s/ F. Dennis Saylor IV                   
+                           F. Dennis Saylor IV                       
+Dated:  December 2, 2022        Chief Judge, United States District Court

@@ -1,0 +1,42 @@
+{
+  "overall_outcome": "REVERSE",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court erred in granting summary judgment to defendants on the FLSA retaliation claim by requiring the plaintiff to have been employed by the retaliator (Dante\u2019s) at the time of the alleged retaliation.",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "The FLSA\u2019s anti-retaliation provision does not require the plaintiff to be a current employee of the retaliator; it is sufficient that the retaliator acted 'indirectly in the interest of' the plaintiff\u2019s employer in relation to the plaintiff. The district court misapplied the law by requiring an employment relationship with Dante\u2019s."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the plaintiff\u2019s inability to bring a timely misclassification claim against Sassy\u2019s precludes establishing an employment relationship for purposes of the FLSA retaliation claim.",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "The statute of limitations on the underlying wage claims does not bar the plaintiff from establishing employee status for a retaliation claim; the economic realities test governs employee status regardless of whether the misclassification claim is time-barred."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the alleged conduct (cancelling a scheduled performance and barring future work) could constitute actionable retaliation under the FLSA as a matter of law.",
+      "standard_of_review": "de novo",
+      "holding": "REMAND",
+      "key_reasoning": "A trier of fact could reasonably find that cancelling scheduled work and barring future opportunities is sufficiently harmful to constitute retaliation; the issue should be resolved by the district court or factfinder on remand."
+    }
+  ],
+  "key_precedents": [
+    "Arias v. Raimondo, 860 F.3d 1185 (9th Cir. 2017)",
+    "Burlington N. & Santa Fe Ry. Co. v. White, 548 U.S. 53 (2006)",
+    "Torres-Lopez v. May, 111 F.3d 633 (9th Cir. 1997)",
+    "Real v. Driscoll Strawberry Assocs., Inc., 603 F.2d 748 (9th Cir. 1979)",
+    "Bonnette v. California Health and Welfare Agency, 704 F.2d 1465 (9th Cir. 1983)",
+    "Kasten v. Saint-Gobain Performance Plastics Corp., 563 U.S. 1 (2011)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "The panel reversed the district court\u2019s summary judgment in favor of defendants on a retaliation claim under the Fair Labor Standards Act and remanded for further proceedings.\n    Zoe Hollis, a dancer at a Portland strip club called Sassy\u2019s, sued the club\u2019s owners and managers under the FLSA for misclassifying its dancers as independent contractors and violating corresponding wage and hours provisions. After Hollis filed the complaint, Frank Faillace, a partner and manager of both Sassy\u2019s and another club called Dante\u2019s, canceled an agreement for Hollis to perform at a weekly variety show at Dante\u2019s. Hollis then amended the complaint to allege that Faillace\u2019s decision to cancel the performance at Dante\u2019s constituted retaliation in violation of the FLSA. The district court granted summary judgment on the ground that to have a private right of action for retaliation, Hollis must have been employed at Dante\u2019s when Faillace canceled the scheduled performance.\n    The panel held that, while the FLSA requires an underlying employment relationship, it covers retaliation committed by the employer or \u201cany person acting directly or indirectly in the interest of an employer in relation to an employee.\u201d Thus, the alleged retaliator need not be the actual employer, and the plaintiff need not have been employed by the actual employer when the retaliation occurred. The panel held that, in the context of retaliation, the phrase \u201cindirectly in the interest of an employer\u201d does not require an agency relationship with the actual employer or the conferral of any direct benefit to the employer.\n    The employee-employer relationship at issue was the one between Hollis and Sassy\u2019s. The panel left it to the district court to determine on remand whether Hollis\u2019s work at Sassy\u2019s satisfied the \u201ceconomic realities\u201d test for establishing employee status. The panel held that in ascertaining whether Hollis was an employee of Sassy\u2019s, it was not relevant that any FLSA wage and hour claims based on the alleged misclassification were time-barred. The panel also left it to the district court or trier of fact to determine on remand whether Faillace\u2019s acts in canceling the scheduled performance and barring Hollis from future work at Dante\u2019s constituted retaliation."
+}

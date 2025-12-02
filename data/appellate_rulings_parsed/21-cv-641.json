@@ -1,0 +1,27 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district courts abused their discretion in calculating and awarding attorneys\u2019 fees to prevailing parents under the IDEA\u2019s fee-shifting provision.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "AFFIRM",
+      "key_reasoning": "The Second Circuit found no error of law or clearly erroneous factual finding in the district courts\u2019 lodestar calculations, noting that the courts properly weighed the evidence, considered the Johnson factors, and applied appropriate discounts. The awards were within the range of permissible decisions."
+    }
+  ],
+  "key_precedents": [
+    "H.C. v. N.Y.C. Dep\u2019t of Educ., 71 F.4th 120 (2d Cir. 2023)",
+    "McDaniel v. Cnty. of Schenectady, 595 F.3d 411 (2d Cir. 2010)",
+    "Arbor Hill Concerned Citizens Neighborhood Ass\u2019n v. Cnty. of Albany, 522 F.3d 182 (2d Cir. 2008)",
+    "Lilly v. City of New York, 934 F.3d 222 (2d Cir. 2019)",
+    "Johnson v. Ga. Highway Exp., Inc., 488 F.2d 714 (5th Cir. 1974)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "Plaintiffs, the parents of students with disabilities, appeal from nineteen separate judgments of the United States District Court for the Southern District of New York awarding attorneys\u2019 fees under the fee-shifting provision of the Individuals with Disabilities Education Act (IDEA), 20 U.S.C. \u00a7 1415(i)(3)(B)(i)(I), (i)(3)(C). Plaintiffs, represented by the Cuddy Law Firm (\u201cCLF\u201d), prevailed in their administrative actions to enforce their children\u2019s rights under the IDEA. CLF then sought to recover fees and costs from the New York City Department of Education (\u201cNYCDOE\u201d) under 20 U.S.C. \u00a7 1415. After failing to reach agreement with the NYCDOE, Plaintiffs sued in federal court to recover the fees. The District Court calculated a reasonable fee award in each of the actions, but Plaintiffs challenge each award on appeal. A separate opinion filed simultaneously with this summary order resolves the NYCDOE\u2019s cross appeal in N.G.B. v. New York City Department of Education, 23-764-cv. 1 As to the Plaintiffs\u2019 challenges, we assume the parties\u2019 familiarity with the underlying facts and the record of prior proceedings, to which we refer only as necessary to explain our decision to affirm."
+}

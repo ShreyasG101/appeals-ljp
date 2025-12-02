@@ -1,0 +1,2051 @@
+      Appellate Case: 24-3149     Document: 49-1    Date Filed: 10/30/2025    Page: 1
+                                                                                    FILED
+                                                                        United States Court of Appeals
+                                        PUBLISH                                 Tenth Circuit
+
+                        UNITED STATES COURT OF APPEALS                       October 30, 2025
+                                                                           Christopher M. Wolpert
+                               FOR THE TENTH CIRCUIT                           Clerk of Court
+                           _________________________________
+
+ MATTHEW BYRNES,
+
+         Plaintiff - Appellant,
+
+ v.                                                            No. 24-3149
+
+ ST. CATHERINE HOSPITAL;
+ CENTURA HEALTH CORPORATION,
+
+         Defendants - Appellees.
+                        _________________________________
+
+             APPEAL FROM THE UNITED STATES DISTRICT COURT
+                      FOR THE DISTRICT OF KANSAS
+                        (D.C. No. 2:21-CV-02086-DDC)
+                     _________________________________
+
+Boyd A. Byers (Eric Turner, with him on the briefs), Foulston Siefkin LLP, Wichita,
+Kansas, appearing for Appellant.
+
+Richard A. Olmstead, Kutak Rock LLP, Wichita, Kansas, appearing for Appellees.
+                      _________________________________
+
+Before MATHESON, KELLY, and BACHARACH, Circuit Judges.
+                  _________________________________
+
+MATHESON, Circuit Judge.
+                   _________________________________
+
+        Dr. Matthew Byrnes brought retaliation claims under Title VII of the Civil Rights
+
+Act of 1964 against his former joint employers—St. Catherine Hospital (“SCH”) and
+
+Centura Health Corporation (“Centura”) (collectively, “Defendants”)—for firing him and
+   Appellate Case: 24-3149       Document: 49-1       Date Filed: 10/30/2025    Page: 2
+
+
+
+later reporting him to the Kansas medical licensing board. He alleged Defendants
+
+retaliated because he reported that another doctor working at SCH was sexually harassing
+
+nurses.
+
+       The district court granted summary judgment to Defendants on Dr. Byrnes’s
+
+federal claims and declined to exercise supplemental jurisdiction over his related state
+
+law claims. Exercising jurisdiction under 28 U.S.C. § 1291, we reverse and remand.
+
+                                   I. BACKGROUND
+
+       We provide a brief factual summary and procedural history here and later discuss
+
+additional details as relevant to the issues on appeal.
+
+                       A. Key Participants and Factual Summary 1
+
+       Centura is a not-for-profit corporation headquartered in Colorado. It operates a
+
+regional healthcare network. SCH, located in Garden City, Kansas, is a Centura
+
+member hospital. Centura manages the clinical practices of SCH, including personnel
+
+matters.
+
+       Dr. Byrnes is a medical doctor licensed to practice medicine in Kansas by the
+
+Kansas Board of Healing Arts (“KBHA”). He worked as a general surgeon and
+
+intensivist at SCH from 2012 until February 12, 2020. He also served as SCH’s Chief
+
+
+
+
+       1
+        “Because this case arises from an appeal of summary judgment, we present the
+following factual background in the light most favorable to [Dr. Byrnes] as the
+non-moving party, unless contradicted by the record.” Litzsinger v. Adams Cnty.
+Coroner’s Off., 25 F.4th 1280, 1284 (10th Cir. 2022).
+
+                                              2
+   Appellate Case: 24-3149       Document: 49-1     Date Filed: 10/30/2025    Page: 3
+
+
+
+Medical Officer (“CMO”) from 2013 to June 2019. Centura and SCH jointly employed
+
+Dr. Byrnes.
+
+         Many individuals were involved in this case. The following played significant
+
+roles:
+
+         • Dr. William Freund, President of SCH’s Medical Executive Committee
+
+            (“MEC”)
+
+         • Dr. Bryan Stucky, MEC Vice President and later President
+
+         • Dr. Toni Green-Cheatwood, Centura Colorado Kansas Group (“CKG”)
+           Vice President and Physician Executive
+
+         • Peter Sabey, Centura General Counsel
+
+         • Dr. Scott Lichtenberger, Centura President
+
+         • Tom Gessel, CKG Group President
+
+         • Scott Taylor, SCH Chief Executive Officer (“CEO”)
+
+         • Nancy Killion, Centura Director of Quality
+
+         On August 31, 2019, Dr. Byrnes reported Dr. Kurt Kessler, a doctor working at
+
+SCH, for sexual harassment. Dr. Freund investigated. Dr. Freund, Dr. Stucky, and
+
+Dr. Green-Cheatwood informed Dr. Byrnes that his allegations lacked merit.
+
+         After receiving a subpoena from the KBHA about a complaint filed against
+
+Dr. Byrnes, Dr. Green-Cheatwood and Mr. Sabey conducted an internal investigation.
+
+They interviewed various doctors, but not Dr. Byrnes or any nurses. They reported their
+
+investigation results and Dr. Green-Cheatwood recommended firing Dr. Byrnes to
+
+Dr. Lichtenberger and Mr. Gessel, who jointly decided to fire Dr. Byrnes.
+
+                                             3
+   Appellate Case: 24-3149        Document: 49-1      Date Filed: 10/30/2025      Page: 4
+
+
+
+       After firing Dr. Byrnes, SCH referred some of Dr. Byrnes’s cases to an outside
+
+peer review committee at Centura’s St. Anthony’s Hospital in Colorado, which
+
+reviewed and scored Dr. Byrnes’s cases. Defendants reviewed St. Anthony’s findings
+
+and reported four of Dr. Byrnes’s cases to the KBHA for possible disciplinary action.
+
+                                   B. Procedural History
+
+       Dr. Byrnes’s Title VII claims alleged that Defendants (1) fired and (2) unfairly
+
+reviewed and reported four of his cases to the KBHA in retaliation for the sexual
+
+harassment complaint. 2 He also brought state law claims.
+
+       Defendants moved for summary judgment. The district court found Dr. Byrnes
+
+could not meet his burden on either Title VII retaliation claim and granted summary
+
+judgment to Defendants. It also declined to exercise supplemental jurisdiction over his
+
+state law claims.
+
+       Dr. Byrnes timely appealed.
+
+                       C. Legal Background—Title VII Retaliation
+
+       We provide the following legal overview to aid in understanding the relevant
+
+facts, the district court’s decision, the parties’ arguments, and our analysis.
+
+       Title VII’s anti-retaliation provision prohibits an employer from “discriminat[ing]
+
+against any individual . . . because he has opposed any practice made an unlawful
+
+employment practice by this subchapter.” 42 U.S.C. § 2000e-3(a).
+
+
+
+       2
+         Dr. Byrnes also brought federal Americans with Disabilities Act claims, which
+are not on appeal. See Aplt. Br. at 3 n.1.
+
+                                              4
+   Appellate Case: 24-3149       Document: 49-1      Date Filed: 10/30/2025     Page: 5
+
+
+
+       To survive summary judgment on a Title VII retaliation claim, a plaintiff must
+
+directly “show that retaliatory animus played a motivating part in the employment
+
+decision,” or “rely on the [McDonnell Douglas] burden-shifting framework . . . to prove
+
+retaliation indirectly.” Parker Excavating, Inc. v. Lafarge W., Inc., 863 F.3d 1213, 1220
+
+(10th Cir. 2017) (quotations omitted); see McDonnell Douglas Corp. v. Green, 411 U.S.
+
+792, 802 (1973); Fye v. Okla. Corp. Comm’n, 516 F.3d 1217, 1225 (10th Cir. 2008)
+
+(McDonnell Douglas applies to Title VII retaliation claims).
+
+       The McDonnell Douglas framework has three steps. First, “the plaintiff must
+
+make out a prima facie case of retaliation.” Parker Excavating, 863 F.3d at 1220.
+
+Second, the burden then shifts to the employer to “offer a legitimate, nonretaliatory
+
+reason for its decision.” Twigg v. Hawker Beechcraft Corp., 659 F.3d 987, 998 (10th Cir.
+
+2011). Third, the burden then reverts to the plaintiff to show that there is a genuine
+
+dispute of material fact as to whether the employer’s proffered reason is pretextual—
+
+i.e., unworthy of belief. Id. at 998-99.
+
+       To establish a prima facie case of Title VII retaliation at McDonnell Douglas step
+
+one, “a plaintiff must show (1) that [he] engaged in protected opposition to
+
+discrimination, (2) that a reasonable employee would have found the challenged action
+
+materially adverse, and (3) that a causal connection existed between the protected activity
+
+and the materially adverse action.” Bekkem v. Wilkie, 915 F.3d 1258, 1267 (10th Cir.
+
+2019) (quoting Khalik v. United Air Lines, 671 F.3d 1188, 1193 (10th Cir. 2012)).
+
+       To establish a causal connection, a plaintiff must “show that the individual who
+
+took adverse action against [him] knew of the employee’s protected activity,” Montes v.
+
+                                             5
+   Appellate Case: 24-3149       Document: 49-1      Date Filed: 10/30/2025      Page: 6
+
+
+
+Vail Clinic, Inc., 497 F.3d 1160, 1176 (10th Cir. 2007) (quotations omitted), and “present
+
+evidence of circumstances that justify an inference of retaliatory motive,” Ward v. Jewell,
+
+772 F.3d 1199, 1203 (10th Cir. 2014) (quotations omitted). In some cases, the plaintiff
+
+may need to rely on the cat’s paw causation theory. Under this theory, the biased motive
+
+of a subordinate can be imputed to the unbiased, final decisionmaker. EEOC v. BCI
+
+Coca-Cola Bottling Co. of L.A., 450 F.3d 476, 484-86 (10th Cir. 2006). Thus, an
+
+employer can be liable under Title VII for retaliation when (1) a biased subordinate
+
+performs a deliberate act of retaliatory animus (2) that is intended to cause a materially
+
+adverse action, and (3) that act is a but-for cause of the adverse action, even though an
+
+impartial decisionmaker makes the ultimate choice to carry out that action. See Sellman
+
+v. Aviation Training Consulting, No. 23-6138, --- F.4th ---, 2025 WL 2957951, at *6
+
+(10th Cir. Oct. 21, 2025); Thomas v. Berry Plastics Corp., 803 F.3d 510, 516 n.8
+
+(10th Cir. 2015).
+
+                                    II. DISCUSSION
+
+       Dr. Byrnes challenges the grant of summary judgment on his Title VII retaliation
+
+claims and the declination of supplemental jurisdiction over his state law claims.
+
+                            A. Termination Retaliation Claim
+
+       We provide additional facts and procedural history relevant to Dr. Byrnes’s
+
+termination retaliation claim before turning to the merits.
+
+
+
+
+                                             6
+   Appellate Case: 24-3149       Document: 49-1      Date Filed: 10/30/2025    Page: 7
+
+
+
+   Additional Factual History
+
+           a. April 2019 meeting
+
+       In April 2019, Dr. Freund, Dr. Kessler, Dr. Julie Freeman, Dr. Gretchen Dunford,
+
+and Dr. Zeferino Arroyo met with SCH CEO Taylor and asked him to fire Dr. Byrnes
+
+based on “their personal interactions with Dr. Byrnes” and “his interactions within the
+
+community.” App., Vol. 6 at 1491-92. None of the doctors’ concerns about “patient
+
+care” “were substantiated by any evidence.” Id. at 1492.
+
+           b. CEO Taylor removed Dr. Byrnes as CMO
+
+       In June 2019, CEO Taylor removed Dr. Byrnes as CMO because his total salary
+
+from his three SCH roles might exceed regulatory compensation caps, but not because of
+
+patient care issues.
+
+           c. Dr. Byrnes’s complaint against Dr. Kessler
+
+       On August 31, 2019, Dr. Byrnes filed a complaint about Dr. Kessler to Dr. Freund
+
+and Ms. Killion. He raised concerns about Dr. Kessler’s handling of one type of
+
+operation, failure to wear gloves during sensitive exams, and sexually explicit comments
+
+to and touching of nurses. Dr. Byrnes based the sexual harassment allegations on reports
+
+from at least two SCH nurses, who allegedly told him about Dr. Kessler’s behavior but
+
+refrained from filing complaints themselves out of fear of retaliation.
+
+       Dr. Freund showed Dr. Kessler the complaint and told him Dr. Byrnes filed it.
+
+Dr. Kessler later “rant[ed]” to Ms. Killion, id. at 1472, and tried to speak with the Human
+
+Resources (“HR”) director about the complaint in a manner the director described as
+
+“completely inappropriate,” App., Vol. 5 at 1289-90.
+
+                                             7
+   Appellate Case: 24-3149       Document: 49-1      Date Filed: 10/30/2025      Page: 8
+
+
+
+       Dr. Freund and the HR director separately talked to one nurse about Dr. Kessler.
+
+The nurse told Dr. Freund that Dr. Kessler touched her in a way that was “weird and
+
+inappropriate.” App., Vol. 6 at 1616-17. She did not remember the details of the
+
+conversation with HR, but the HR director stated the nurse reported nothing
+
+“inappropriate” happened and she was “not uncomfortable.” App., Vol. 3 at 804.
+
+Dr. Freund substantiated the allegations about Dr. Kessler’s lack of hand hygiene and
+
+found one nurse’s note disagreeing with Dr. Kessler’s patient care.
+
+       Dr. Freund then met with SCH’s MEC and shared Dr. Byrnes’s complaint. He
+
+told the MEC that he investigated the allegations. The parties dispute what information
+
+he shared about his investigation and whether he told the MEC that one or all of
+
+Dr. Byrnes’s allegations were false. One attendee, Dr. Dunford, Chief of Surgery,
+
+emailed Dr. Green-Cheatwood that “[a]ll of the[] allegations [in Dr. Byrnes’s complaint]
+
+were found to be false.” Id. at 809; App., Vol. 4 at 1069-71. Dr. Freund later forwarded
+
+Dr. Byrnes’s complaint to Dr. Green-Cheatwood.
+
+       In October 2019, Dr. Freund, Dr. Green-Cheatwood, and Dr. Stucky told
+
+Dr. Byrnes that “there was no merit found to any of the components” of his complaint,
+
+which was “dismissed in its entirety.” App., Vol. 4 at 1042-44. Dr. Byrnes challenged
+
+the adequacy of Dr. Freund’s investigation and reiterated his complaints against
+
+Dr. Kessler.
+
+       In November 2019, the MEC again discussed concerns about Dr. Byrnes’s
+
+allegations and his “insistence that [he] believe[d] these allegations to be true.” App.,
+
+Vol. 3 at 811; see also App., Vol. 2 at 406 (Dr. Dunford telling Ms. Killion that she
+
+                                              8
+   Appellate Case: 24-3149       Document: 49-1      Date Filed: 10/30/2025     Page: 9
+
+
+
+thought Dr. Byrnes “seemed to be very disturbed, writing a letter like that about a
+
+colleague”).
+
+          d. Dr. Byrnes’s reappointment to the SCH medical staff
+
+       Also in November 2019, SCH reappointed Dr. Byrnes to the medical staff. For
+
+reappointment, a physician’s department chair, the MEC, and the SCH Board must
+
+consider certain factors, including “current competence”; “ability to safely and
+
+competently perform the clinical privileges requested”; “commitment to quality care”; the
+
+results of “ongoing professional practice evaluations, and other peer review activities,
+
+taking into consideration practitioner-specific information”; and “verified complaints
+
+from patients and/or staff.” App., Vol. 3 at 576-77, 602-03.
+
+       Dr. Dunford, as Chief of Surgery, determined, “[b]ased upon [her] review of the
+
+applicant’s education, training, experience, and evidence of current clinical competence,”
+
+that Dr. Byrnes was “qualified for Medical Staff/Allied Health Staff Membership and
+
+Clinical Privileges.” App., Vol. 6 at 1642. Both the MEC and SCH Board reviewed his
+
+application and approved it. CEO Taylor testified that SCH would not have entered into
+
+a new employment contract with Dr. Byrnes if it had concerns about the quality of his
+
+medical care.
+
+          e. The MEC’s request for a psychological evaluation
+
+       In December 2019, Dr. Freund told Mr. Sabey, Centura General Counsel, that
+
+Dr. Byrnes made “false allegations against a member of the [SCH] medical staff.” App.,
+
+Vol. 5 at 1188; App., Vol. 6 at 1668-70. Dr. Freund also signed a letter to Dr. Byrnes
+
+requesting that he undergo a psychological evaluation, stating the MEC “unanimously
+
+                                             9
+   Appellate Case: 24-3149       Document: 49-1       Date Filed: 10/30/2025      Page: 10
+
+
+
+agreed that it was in the best interest of the hospital and the medical staff to ask
+
+[Dr. Byrnes] to seek an evaluation including a psychologic [sic] assessment.” App.,
+
+Vol. 3 at 811.
+
+       On January 19, 2020, Dr. Byrnes responded by email to Dr. Stucky—who had
+
+since replaced Dr. Freund as MEC President—stating “Dr. Freund’s letter is tantamount
+
+to retaliation against a whistleblower.” Id. at 812-17. He restated his complaints about
+
+Dr. Kessler and demanded that the MEC retract Dr. Freund’s letter. See id. at 815-16.
+
+Dr. Stucky forwarded Dr. Byrnes’s letter to Mr. Sabey.
+
+       Two days later, Dr. Stucky emailed Dr. Byrnes stating that the MEC would retract
+
+the letter requesting his psychological evaluation.
+
+          f. KBHA subpoena
+
+       On January 27, 2020, SCH received a subpoena from the KBHA demanding
+
+information about Dr. Byrnes based on an anonymous complaint filed with the KBHA
+
+against him. The complaint alleged against Dr. Byrnes:
+
+       • “multiple alarming adverse outcomes, including multiple patient deaths”;
+
+       • “pressuring hospital CEO Scott Taylor to disband the hospital peer review
+         committee”;
+
+       • “an unusually high number of nicked bowels during surgeries”;
+
+       • “abandon[ing] 8 [Intensive Care Unit] cases”;
+
+       • “transferring out patients that he has dangerously mismanaged”; and
+
+       • “well known incidents of sexual relations in hospital treatment rooms with
+         nurses.”
+
+
+
+                                              10
+   Appellate Case: 24-3149       Document: 49-1       Date Filed: 10/30/2025      Page: 11
+
+
+
+Id. at 831. It also stated, “The medical staff has advised the CEO that [Dr. Byrnes] is
+
+unsafe and needs an assessment due to his erratic and [sic] behaviors and dangerous
+
+violations of the standard of care.” Id.
+
+           g. The January 30 Dr. Byrnes/Dr. Green-Cheatwood phone call
+
+       On January 30, 2020, Dr. Byrnes called Dr. Green-Cheatwood to report the
+
+complaint filed against him with the KBHA. See id. at 824. He claimed that Dr. Kessler
+
+filed it in retaliation for Dr. Byrnes’s complaint at SCH against Dr. Kessler. 3 He denied
+
+the allegations, citing his mortality rate data, surgical experience, and litigation record
+
+(two unsuccessful lawsuits against him in nearly 13 years in practice). He also told
+
+Dr. Green-Cheatwood that much of the medical staff would support him and refute the
+
+allegations.
+
+           h. Defendants’ internal investigation of the KBHA complaint
+
+       That same day, Dr. Green-Cheatwood emailed Mr. Sabey, summarizing her
+
+eight-minute call with Dr. Byrnes. Mr. Sabey initiated an internal investigation. On
+
+February 6, 2020, Dr. Green-Cheatwood and Mr. Sabey traveled to SCH to spend one
+
+day interviewing employees. They interviewed CEO Taylor, Chief Financial Officer
+
+Amanda Vaughan, Ms. Killion, Dr. Michael Babigumira, Dr. Arroyo, Dr. Freeman,
+
+Dr. Dunford, Dr. Stucky, Dr. Freund, Dr. Kessler, and Dr. James Zauche.
+
+
+       3
+         The “general perception” at SCH was that Dr. Kessler filed the anonymous
+complaint in retaliation for Dr. Byrnes’s complaint against him. App., Vol. 6 at 1477-78;
+see also App., Vol. 3 at 820-21 (CEO Taylor forwarded the KBHA subpoena to
+Mr. Sabey and Ms. Killion, stating, “My understanding is this was precipitated by
+Dr[.] Kessler (retaliation about Byrnes’ letter)”).
+
+                                              11
+   Appellate Case: 24-3149      Document: 49-1      Date Filed: 10/30/2025     Page: 12
+
+
+
+       Dr. Freeman stated in her interview that she saw Dr. Byrnes purchasing two to-go
+
+growlers of beer from a pub when she thought he was scheduled to be on call. She did
+
+not know whether he arranged for coverage.
+
+       Dr. Dunford told the interviewers that her communication with Dr. Byrnes about
+
+coverage was not perfect, but their surgical patients were always covered, and no patient
+
+care issues resulted from imperfect communication.
+
+       Dr. Kessler and Dr. Freund told the interviewers that Dr. Byrnes, as CMO,
+
+disbanded SCH’s peer review committee.
+
+       Although HR best practices and SCH procedures call for interviewing the subject
+
+of an investigation, Dr. Green-Cheatwood and Mr. Sabey did not notify Dr. Byrnes about
+
+their investigation or otherwise communicate with him. Dr. Green-Cheatwood explained
+
+that Dr. Byrnes (1) was out of town and (2) was represented by counsel.
+
+Dr. Green-Cheatwood and Mr. Sabey coordinated schedules with other interviewed
+
+doctors and interviewed Dr. Kessler with his lawyer present. They did not interview any
+
+nurses.
+
+          i. Dr. Byrnes’s termination
+
+       On February 10, 2020, Dr. Green-Cheatwood and Mr. Sabey called
+
+Dr. Lichtenberger and Mr. Gessel to report their investigation results and to recommend
+
+firing Dr. Byrnes. After the call, Dr. Lichtenberger and Mr. Gessel jointly decided to fire
+
+Dr. Byrnes. Dr. Lichtenberger said this decision was based on the information provided
+
+by Dr. Green-Cheatwood and Mr. Sabey. Mr. Gessel did not recall why Dr. Byrnes was
+
+fired, who made the firing decision, or whether he was involved in discussions about it,
+
+                                            12
+   Appellate Case: 24-3149       Document: 49-1      Date Filed: 10/30/2025     Page: 13
+
+
+
+but “surmise[d] that Dr. Green-Cheatwood and Mr. Sabey were in support of the
+
+[termination] decision” if they were involved. App., Vol. 5 at 1204-07.
+
+       On February 12, 2020, Dr. Green-Cheatwood and Dr. Zauche told Dr. Byrnes he
+
+was fired and gave him a termination letter signed by Dr. Lichtenberger. The letter said
+
+Dr. Byrnes was fired “without cause.” App., Vol. 3 at 864. Dr. Byrnes’s employment
+
+agreement allowed either party to “terminate [the] Agreement for any reason or no
+
+reason” on 90 days written notice. Id. at 648.
+
+           j. Dr. Byrnes’s Equal Employment Opportunity Commission complaint
+
+       On May 1, 2020, Dr. Byrnes filed a complaint about his termination with the
+
+Equal Employment Opportunity Commission (“EEOC”). In response, Defendants said
+
+they fired him for (1) “his patient care,” and (2) “his halting of the peer review process.”
+
+App., Vol. 6 at 1619-20. They said, “In his role as CMO, he inappropriately shut down
+
+the normal and required processes of professional peer review within the Hospital that
+
+would have identified the deficiencies in his medical care and should have resulted in his
+
+loss of clinical privileges at the Hospital.” Id.
+
+           k. KBHA complaint closure
+
+       On September 21, 2021, the KBHA closed the investigation into the anonymous
+
+complaint against Dr. Byrnes. The KBHA had allowed Dr. Byrnes to respond to the
+
+complaint’s allegations, determined no action was needed, and closed the case.
+
+
+
+
+                                              13
+   Appellate Case: 24-3149      Document: 49-1       Date Filed: 10/30/2025     Page: 14
+
+
+
+   Additional Procedural History
+
+       The district court granted summary judgment to Defendants on Dr. Byrnes’s
+
+Title VII termination retaliation claim, concluding he could not show his firing was
+
+pretextual.
+
+          a. Prima facie case
+
+       For his retaliation prima facie case, the district court said Dr. Byrnes needed to
+
+show “(1) that [he] engaged in protected opposition to discrimination, (2) that a
+
+reasonable employee would have found the challenged action materially adverse, and
+
+(3) that a causal connection existed between the protected activity and the materially
+
+adverse action.” App., Vol. 7 at 1799 (alteration in original) (quoting Bekkem, 915 F.3d
+
+at 1267). The parties agreed that Dr. Byrnes could show the first two elements but
+
+contested whether he could show the third element—causation.
+
+       On causation, the district court said that a plaintiff normally “must first come
+
+forward with evidence from which a reasonable factfinder could conclude that those who
+
+decided to fire him had knowledge of his protected activity.” Id. at 1800 (quoting Hinds
+
+v. Sprint/United Mgmt. Co., 523 F.3d 1187, 1203 (10th Cir. 2008)). But the court found
+
+that Dr. Lichtenberger and Mr. Gessel—who fired Dr. Byrnes—were unaware of
+
+Dr. Byrnes’s protected activity. It then analyzed whether Dr. Byrnes could satisfy the
+
+causal connection on a cat’s paw theory, under which the actual decisionmakers
+
+terminated him based on information provided by biased subordinates—
+
+Dr. Green-Cheatwood and Mr. Sabey. Id. at 1801-05.
+
+
+
+                                             14
+   Appellate Case: 24-3149       Document: 49-1      Date Filed: 10/30/2025       Page: 15
+
+
+
+       The district court said, “[T]o survive summary judgment when asserting the
+
+cat’s-paw theory of liability, a plaintiff must show that there is a genuine issue of material
+
+fact that (1) the subordinate took action motivated by discriminatory animus; (2) the
+
+subordinate intended the action to cause an adverse employment action, and (3) the
+
+subordinate’s actions proximately caused the intended adverse employment action.” Id.
+
+at 1802 (alteration in original) (quoting Singh v. Cordle, 936 F.3d 1022, 1038 (10th Cir.
+
+2019)). 4 The court assumed without deciding that Dr. Byrnes could show the first cat’s
+
+paw element and found he could establish a genuine issue of material fact on the second
+
+and third. Id. at 1803-05. It then proceeded to step two of McDonnell Douglas.
+
+           b. Nonretaliatory reasons
+
+       The district court concluded that Defendants offered four legitimate, nonretaliatory
+
+reasons for firing Dr. Byrnes: “(i) abandoning patients in the ICU; (ii) poorly
+
+documenting patients’ status; (iii) potentially exercising poor clinical judgment; and
+
+(iv) stopping some of the peer review components in his role as CMO.” Id. at 1806.
+
+
+       4
+         The district court stated the adverse action and causation standards for Title VII
+discrimination claims, not Title VII retaliation claims. Compare Singh, 936 F.3d at 1038
+(using adverse “employment” action and “proximate cause” standards for Title VII
+discrimination claim), with Burlington N. & Santa Fe Ry. Co. v. White, 548 U.S. 53, 64
+(2006) (holding Title VII retaliation claims are “not limited to discriminatory actions that
+affect the terms and conditions of employment” but must be “materially adverse”), and
+Univ. of Tex. Sw. Med. Ctr. v. Nassar, 570 U.S. 338, 358-63 (2013) (holding “but-for”
+causation applies for Title VII retaliation claims). We have said, “To establish causation
+where . . . a Title VII retaliation claim is based on the cat’s-paw theory, a plaintiff must
+demonstrate that the biased subordinate was a ‘but-for’ cause of the adverse action.”
+Thomas, 803 F.3d at 516 n.8. We therefore apply the materially-adverse-action and
+but-for causation standards but note that we would reach the same outcome under the
+adverse-employment-action and proximate-cause standards.
+
+                                             15
+   Appellate Case: 24-3149      Document: 49-1      Date Filed: 10/30/2025        Page: 16
+
+
+
+          c. Pretext
+
+       The district court found that Dr. Byrnes failed to show Defendants’ nonretaliatory
+
+reasons were pretextual. It rejected his pretext arguments that (1) Defendants offered
+
+inconsistent and uncorroborated reasons for firing him; (2) the temporal proximity of his
+
+renewed sexual harassment complaints to his termination created a triable issue of
+
+pretext; (3) Defendants conducted a biased, one-sided investigation; and (4) Defendants
+
+deviated from their normal policies and procedures.
+
+       First, the district court determined that, although Defendants’ “various
+
+spokespersons emphasized one reason over another,” “those varying emphases don’t
+
+equal inconsistent reasons,” and Defendants “never abandoned or affirmatively
+
+disclaimed any of their reasons.” Id. at 1809-10 (“A given spokesperson prioritizing one
+
+reason—while still citing other reasons consistent with other spokespersons—doesn’t
+
+suggest dishonesty or bad faith.”). It also said Defendants’ rationales were corroborated
+
+because five doctors brought concerns about Dr. Byrnes’s patient care to CEO Taylor in
+
+April 2019 before Dr. Byrnes engaged in protected activity, and the decisionmakers who
+
+fired Dr. Byrnes believed he “bore responsibility for the hospital’s inadequate peer
+
+review system.” Id. at 1811-12.
+
+       Second, the district court said that the five doctors’ concerns about Dr. Byrnes’s
+
+patient care “emerged before [Dr. Byrnes]’s protected activity in August 2019,” thus
+
+“mitigating against a plausible finding of pretext on temporal proximity grounds.” Id.
+
+at 1813. “What’s more,” the court said, “close temporal proximity can support a finding
+
+of pretext only in combination with other evidence of pretext.” Id. (quoting Lobato v.
+
+                                            16
+   Appellate Case: 24-3149      Document: 49-1      Date Filed: 10/30/2025      Page: 17
+
+
+
+N.M. Env’t Dep’t, 733 F.3d 1283, 1293 (10th Cir. 2013)). But “no other evidence of
+
+pretext” contributed “to the requisite combination.” Id.
+
+       Third, the district court found that the investigation into Dr. Byrnes was not
+
+unreasonable because (1) best practices, like “considering provider data” or formally
+
+interviewing Dr. Byrnes, were not required because an investigation need not be
+
+“optimal” but merely “fair,” id. at 1814-15 (quotations omitted); (2) Defendants’
+
+interviewing only doctors rather than nurses made “sense given that the doctors . . . likely
+
+were better placed to identify issues” with Dr. Byrnes’s performance, id. at 1815; and
+
+(3) Dr. Byrnes was given an opportunity to provide “his version of events” during the
+
+January 30, 2020 phone call with Dr. Green-Cheatwood before the investigation began,
+
+id. at 1815-17 (quotations omitted). The court said the eight-minute phone call was “the
+
+most important event” to evaluate pretext, explaining that Dr. Byrnes had the opportunity
+
+to deny the complaint’s allegations, “cited specific data showing his mortality rate,
+
+recited his work experience as a surgeon, and even reviewed his litigation record.” Id.
+
+at 1815-16. Dr. Byrnes thus provided “his version of events,” id. at 1816 (quoting Dewitt
+
+v. Sw. Bell Tel. Co., 845 F.3d 1299, 1314 (10th Cir. 2017)), weakening an inference of
+
+pretext.
+
+       Fourth, the district court said that Defendants did not deviate from their normal
+
+policies and procedures. It found there were no written policies requiring CEO Taylor to
+
+participate in Dr. Byrnes’s firing decision or requiring SCH to resolve patient care issues
+
+by speaking with Dr. Byrnes before firing him. Further, CEO Taylor’s subjective beliefs
+
+
+
+                                            17
+   Appellate Case: 24-3149      Document: 49-1      Date Filed: 10/30/2025      Page: 18
+
+
+
+about (1) policies and (2) differential treatment of Dr. Byrnes were insufficient to
+
+establish pretext by deviation from unwritten policies.
+
+   Summary Judgment and the Standard of Review
+
+       “We review the district court’s summary judgment decision de novo, applying the
+
+same standards as the district court.” Iweha v. Kansas, 121 F.4th 1208, 1220 (10th Cir.
+
+2024) (quoting Klein v. Roe, 76 F.4th 1020, 1028 (10th Cir. 2023)). Under Federal Rule
+
+of Civil Procedure 56(a), a “court shall grant summary judgment if the movant shows that
+
+there is no genuine dispute as to any material fact and the movant is entitled to judgment
+
+as a matter of law.” We review the “evidence and draw reasonable inferences therefrom
+
+in the light most favorable to the nonmoving party.” Iweha, 121 F.4th at 1220 (quoting
+
+Forth v. Laramie Cnty. Sch. Dist. No. 1, 85 F.4th 1044, 1052 (10th Cir. 2023)).
+
+   Analysis
+
+       Dr. Byrnes attempted to prove his Title VII retaliation claim through
+
+circumstantial evidence under the McDonnell Douglas burden-shifting framework. The
+
+district court analyzed each step and granted summary judgment, concluding that
+
+Dr. Byrnes could not show pretext at the third and final step.
+
+       On appeal, Defendants agree with the district court on pretext, but they also
+
+contend that Dr. Byrnes cannot show causation for his prima facie case and that we could
+
+affirm the grant of summary judgment on that alternative ground. See Aplee. Br.
+
+at 27-43. As a result, we review each of the McDonnell Douglas steps, with emphasis on
+
+
+
+
+                                             18
+   Appellate Case: 24-3149       Document: 49-1      Date Filed: 10/30/2025     Page: 19
+
+
+
+the causation element of the prima facie case and on pretext. 5 We conclude that a
+
+reasonable jury could find that Dr. Byrnes could satisfy each step of McDonnell Douglas
+
+on which he bears the burden. We therefore reverse the district court’s grant of summary
+
+judgment on his termination retaliation claim.
+
+           a. Prima facie case
+
+       The parties agreed that Dr. Byrnes could meet the protected activity and adverse
+
+action elements of a prima facie case. On the causation element, he showed, under a
+
+cat’s paw theory, that a reasonable jury could find that Dr. Green-Cheatwood and
+
+Mr. Sabey (1) acted with retaliatory animus when they conducted a one-sided and unfair
+
+investigation and reported their results to Dr. Lichtenberger and Mr. Gessel and
+
+(2) intended their report to lead to Dr. Byrnes’s termination, and (3) their report was a
+
+but-for cause of Dr. Byrnes’s termination. See Sellman, 2025 WL 2957951, at *6;
+
+Thomas, 803 F.3d at 516 n.8.
+
+              i. Protected activity
+
+       Dr. Byrnes’s August 31, 2019 complaint to Dr. Freund and Ms. Killion reporting
+
+Dr. Kessler’s alleged sexual harassment was protected activity under Title VII. Fye,
+
+516 F.3d at 1228. Dr. Byrnes reiterated his complaint on October 16, 2019, in a meeting
+
+with Dr. Freund, Dr. Stucky, and Dr. Green-Cheatwood. And in his January 19, 2020
+
+letter to Dr. Stucky, he “st[ood] by [his] initial whistleblower complaint,” providing
+
+
+
+       5
+        In addition, because Dr. Byrnes proceeds on a cat’s paw theory, analysis of the
+prima facie causation and pretext issues substantially overlaps.
+
+                                             19
+   Appellate Case: 24-3149      Document: 49-1       Date Filed: 10/30/2025     Page: 20
+
+
+
+additional information regarding the allegations. App., Vol. 3 at 813, 815. 6 By
+
+reiterating his earlier allegations of sexual harassment against Dr. Kessler, Dr. Byrnes
+
+“communicate[d] to [his] employer that the employer ha[d] engaged in . . . a form of
+
+employment discrimination.” Crawford v. Metro. Gov’t of Nashville, 555 U.S. 271, 276
+
+(2009); see also Walkingstick Dixon v. Oklahoma ex rel. Reg’l Univ. Sys. of Okla. Bd. of
+
+Regents, 125 F.4th 1321, 1340 (10th Cir. 2025).
+
+              ii. Materially adverse action
+
+       Dr. Byrnes’s termination on February 12, 2020, was a materially adverse action.
+
+See, e.g., Metzler v. Fed. Home Loan Bank of Topeka, 464 F.3d 1164, 1171 (10th Cir.
+
+2006) (“[A]ny reasonable employee would have found termination materially adverse.”).
+
+              iii. Causal connection
+
+       As noted above, to survive summary judgment on a cat’s paw theory, Dr. Byrnes
+
+must show a reasonable jury could find that (1) Dr. Green-Cheatwood and Mr. Sabey
+
+took action motivated by retaliatory animus, (2) they intended the action to cause a
+
+
+
+       6
+          Dr. Byrnes stated that the purpose of his January 19 letter was “not to re-register
+[his] original complaint about Dr. Kessler,” but he “reiterated why [his] original
+complaint was valid” and “obtained three letters from medical and nursing personnel that
+can attest to Dr. Kessler’s behavioral issues” with two additional letters “still pending.”
+App., Vol. 3 at 816. Construed in the light most favorable to Dr. Byrnes, this
+supplementation to his sexual harassment allegations was protected activity. See Fye,
+516 F.3d at 1228 (“[P]rotected opposition can range from filing formal charges to voicing
+informal complaints to superiors.” (quotations omitted)); Walkingstick Dixon v.
+Oklahoma ex rel. Reg’l Univ. Sys. of Okla. Bd. of Regents, 125 F.4th 1321, 1340
+(10th Cir. 2025) (“An employee who repeats a complaint of unlawful discrimination
+‘resist[s]’ the discrimination just as much as an employee who makes a novel complaint.
+Also, Ms. Walkingstick added ‘detail[s]’ to her initial complaint.” (citations omitted)).
+
+                                              20
+   Appellate Case: 24-3149      Document: 49-1       Date Filed: 10/30/2025     Page: 21
+
+
+
+materially adverse action, and (3) their action was a but-for cause of the intended adverse
+
+action. See Sellman, 2025 WL 2957951, at *6; Thomas, 803 F.3d at 515, 516 n.8.
+
+                     1) Retaliatory animus
+
+       Retaliatory animus may be shown by evidence of pretext, Wells v. Colo. Dep’t of
+
+Transp., 325 F.3d 1205, 1218 (10th Cir. 2003), and “[a] failure to conduct what appeared
+
+to be a fair investigation of the violation that purportedly prompted adverse action may
+
+support an inference of pretext,” Smothers v. Solvay Chems., Inc., 740 F.3d 530, 542
+
+(10th Cir. 2014) (quotations omitted). Dr. Byrnes has made a sufficient showing to
+
+support an inference of pretext, satisfying the cat’s paw first element.
+
+       First, the most glaring deficiency in Defendants’ investigation was their failure to
+
+interview Dr. Byrnes. Interviewing him would have followed HR best practices and
+
+SCH’s standard procedures. Dr. Green-Cheatwood’s justifications for not interviewing
+
+him—difficulty coordinating schedules and Dr. Byrnes’s representation by counsel—ring
+
+hollow. They did not prevent her from coordinating schedules with other SCH doctors or
+
+interviewing Dr. Kessler with his lawyer present.
+
+       Second, Defendants’ argument that interviewing Dr. Byrnes would not have
+
+changed the results of the investigation is unpersuasive. They argue that, even if they had
+
+interviewed him, “[t]here is nothing Dr. Byrnes could possibly have said to discredit
+
+Dr. [Freeman]’s eyewitness testimony observing Dr. Byrnes 140 miles away from SCH
+
+while he was on call in the ICU” or “to refute Dr. [Freeman]’s first-hand account of
+
+Dr. Byrnes’s patients who were left unattended by a physician for two days because
+
+Dr. Byrnes left town without signing over their care.” Aplee. Br. at 34-35.
+
+                                             21
+   Appellate Case: 24-3149      Document: 49-1       Date Filed: 10/30/2025     Page: 22
+
+
+
+       But the evidence was mixed. As Dr. Freeman acknowledged, signing out is not a
+
+formal process and often is orally communicated. She was unaware if Dr. Byrnes
+
+arranged coverage for these days or if he had approval to be out of town. Dr. Dunford
+
+admitted that her communication with Dr. Byrnes was not perfect, but as the only two
+
+surgeons, they always ensured patients were covered. She also stated no patient care
+
+issues resulted from imperfect communication. 7
+
+       Defendants could have clarified whether Dr. Byrnes arranged for coverage on
+
+these dates by asking him directly, but they chose not to. 8 See Ibrahim v. All. for
+
+Sustainable Energy, LLC, 994 F.3d 1193, 1200 (10th Cir. 2021) (inferring pretext when
+
+
+
+
+       7
+         Defendants cite Dr. Green-Cheatwood’s and Mr. Sabey’s notes from interviews
+of three other doctors to argue patient abandonment. See Aplee. Br. at 15. But the record
+shows a genuine issue of material fact. First, Dr. Dunford’s testimony that she and
+Dr. Byrnes always ensured patients were covered and no patient care issues resulted from
+imperfect communication contradicts the notes. Second, Dr. Babigumira stated he could
+not reach the intensivist but did not say he was trying to reach Dr. Byrnes. Third,
+Dr. Arroyo’s statement about Dr. Byrnes—“ICU Intensivist care is ok. There to provide
+extraordinary services, but he’s not there. I tell myself ‘this is fraud,’” App., Vol. 3
+at 845-46—can be read as patient abandonment only if we construe his ambiguous
+statement to mean Dr. Byrnes was not physically in the ICU. On summary judgment, we
+must view the evidence in the light most favorable to Dr. Byrnes, not Defendants.
+       8
+         The record indicates other interviewed doctors also could have talked about
+Dr. Byrnes’s arranging coverage but were not asked. For example, Dr. Babigumira, a
+nephrologist who “work[ed] closely with intensivists” like Dr. Byrnes, said his interview
+was “brief,” in part because he told them “he’s a good guy, he’s a good doctor,” which he
+did not feel were the answers they were looking for. App., Vol. 4 at 978-81. He
+provided more information in his deposition, including that he would sometimes cover
+the ICU for Dr. Byrnes and was unaware of any “situations where [Dr.] Byrnes left and
+didn’t have any coverage lined up.” Id. at 983.
+
+                                             22
+   Appellate Case: 24-3149      Document: 49-1      Date Filed: 10/30/2025      Page: 23
+
+
+
+employer asked employee a direct question but did not give him an “opportunity to
+
+explain” and rather made a negative inference about him). 9
+
+       Third, Dr. Byrnes was “never given the benefit of the doubt during the
+
+investigation. Rather, [Defendants] seemingly relied only on evidence to the detriment of
+
+[Dr. Byrnes] and failed to interview key witnesses.” Trujillo v. PacifiCorp, 524 F.3d
+
+1149, 1160 (10th Cir. 2008). For example, Dr. Lichtenberger said, based on witness
+
+interviews, “[I]t sound[ed] like there w[ere] a lot of periods where nurses in ICU tried to
+
+contact Doctor Byrnes [but] were not able to get ahold of him. That to me alone is a
+
+terminable offense. You can’t abandon your patients.” App., Vol. 1 at 285. But no
+
+nurses were interviewed. 10
+
+
+
+       9
+          During their investigation, Dr. Green-Cheatwood and Mr. Sabey also could have
+asked Dr. Byrnes whether he dropped any components of SCH’s peer review program
+when he was CMO, one of the reasons Defendants later gave for firing him. See App.,
+Vol. 1 at 285. Instead, they relied on the recollection of others, such as Dr. Kessler and
+Dr. Freund, and on Dr. Green-Cheatwood’s “assum[ption]” that Dr. Byrnes “was
+responsible for ensuring properly functioning peer review.” Aplee. Br. at 14. The
+investigation’s inadequacy became even more apparent when Ms. Killion later testified
+that Dr. Byrnes never interfered with SCH’s peer review process and CEO Taylor
+testified that no one person could shut down peer review and that either he or Ms. Killion
+recommended having the MEC take peer review responsibility.
+       10
+          Defendants argue Dr. Byrnes never “identified any specific person for
+Dr. Green-Cheatwood or Mr. Sabey to interview as part of their investigation,” Aplee. Br.
+at 36-37, but (1) Dr. Byrnes did not know Defendants were investigating him, and
+(2) Defendants never interviewed him or asked him for specific names.
+       The district court said that Defendants’ “decision to interview doctors, instead of
+nurses, makes sense given that the doctors—in light of their expertise and experience—
+likely were better placed to identify issues with [Dr. Byrnes]’s performance as a doctor.”
+App., Vol. 7 at 1815. But Dr. Lichtenberger said one reason for firing Dr. Byrnes was
+that nurses could not get a hold of Dr. Byrnes while he was on call.
+
+                                             23
+   Appellate Case: 24-3149      Document: 49-1     Date Filed: 10/30/2025     Page: 24
+
+
+
+      In sum, a reasonable jury could find that Dr. Green-Cheatwood and Mr. Sabey’s
+
+investigation into Dr. Byrnes was unfair and biased. See Smothers, 740 F.3d at 543.
+
+Dr. Byrnes therefore presented sufficient evidence to create a genuine dispute of material
+
+fact on pretext, which supports an inference of Dr. Green-Cheatwood and Mr. Sabey’s
+
+retaliatory animus under a cat’s paw theory.
+
+                    2) Intent
+
+      Dr. Byrnes has shown that Dr. Green-Cheatwood and Mr. Sabey intended their
+
+report to Dr. Lichtenberger and Mr. Gessel to cause Dr. Byrnes’s termination. See
+
+Sellman, 2025 WL 2957951, at *6. Dr. Green-Cheatwood said she based the
+
+recommendation to fire Dr. Byrnes on the interviews, and Mr. Sabey testified that the
+
+“whole point of conducting an investigation” was to provide information for the actual
+
+decisionmakers to rely on. App., Vol. 2 at 327. The district court correctly concluded
+
+that both “drew a straight-line between the action of engaging in the interview process
+
+and firing” Dr. Byrnes, thus satisfying the cat’s paw second element. App., Vol. 7
+
+at 1804.
+
+                    3) But-for cause
+
+      Dr. Byrnes has shown that Dr. Green-Cheatwood and Mr. Sabey’s report was a
+
+but-for cause of his termination. “The key element of a successful cat’s paw theory of
+
+pretext is an unbroken causal chain connecting the biased employee’s action to the
+
+unbiased decisionmaker’s adverse decision.” Sellman, 2025 WL 2957951, at *6 (quoting
+
+Iweha, 121 F.4th at 1228); see also Lobato, 733 F.3d at 1294 (“[A] necessary element to
+
+
+
+                                            24
+   Appellate Case: 24-3149      Document: 49-1      Date Filed: 10/30/2025     Page: 25
+
+
+
+a subordinate bias claim is the decisionmaker’s uncritical reliance on facts provided by a
+
+biased supervisor.” (alterations adopted and quotations omitted)).
+
+       “A cat’s paw theory can be defeated by showing a break in the causal chain, or a
+
+lack of uncritical reliance by the unbiased decisionmaker,” Iweha, 121 F.4th at 1228,
+
+such as an unbiased decisionmaker “conducting an independent investigation of the
+
+allegations,” BCI Coca-Cola, 450 F.3d at 488. The unbiased decisionmaker “affording
+
+the employee-plaintiff an opportunity to explain h[is] side of the dispute” may “bolster its
+
+argument that it conducted an independent investigation.” Iweha, 121 F.4th at 1229; see
+
+also Thomas, 803 F.3d at 516.
+
+       Dr. Green-Cheatwood and Mr. Sabey’s investigation and report were an unbroken
+
+causal chain to Dr. Lichtenberger and Mr. Gessel’s decision to fire Dr. Byrnes.
+
+       First, Dr. Lichtenberger said he relied on Dr. Green-Cheatwood and Mr. Sabey’s
+
+report in making his firing decision. And Mr. Gessel, who could not recall who decided
+
+to fire Dr. Byrnes or why, “surmise[d]” that Dr. Green-Cheatwood and Mr. Sabey
+
+supported firing Dr. Byrnes. App., Vol. 5 at 1204-06.
+
+       Second, neither Dr. Lichtenberger nor Mr. Gessel independently investigated the
+
+allegations against Dr. Byrnes. Nor did they afford Dr. Byrnes the opportunity to explain
+
+his side of the story. 11 See Iweha, 121 F.4th at 1229. Indeed, Dr. Lichtenberger did not
+
+
+       11
+           The district court said Dr. Byrnes gave his version of events when he called
+Dr. Green-Cheatwood on January 30, 2019, to tell her that he believed Dr. Kessler filed
+the anonymous KBHA complaint in retaliation for his sexual harassment complaint and
+that all of the KBHA complaint’s allegations were false. See App., Vol. 7 at 1815-16
+(noting this “single phone call” was “the most important event for the court to evaluate
+pretext”). This finding was incorrect.
+                                            25
+   Appellate Case: 24-3149      Document: 49-1       Date Filed: 10/30/2025      Page: 26
+
+
+
+even know whether Dr. Green-Cheatwood and Mr. Sabey interviewed Dr. Byrnes but
+
+“assumed” they did. App., Vol. 1 at 287; see Smothers, 740 F.3d at 542-43 (holding a
+
+reasonable jury could find an unfair investigation when the decisionmakers “personally
+
+spoke with [the biased subordinate]” but “[n]one heard [the plaintiff]’s version of the
+
+encounter” and thus “ultimately relied on one-sided information and accepted [the bias
+
+subordinate]’s allegations and negative characterizations”). 12
+
+       The record thus supports that Dr. Lichtenberger and Mr. Gessel uncritically relied
+
+on Dr. Green-Cheatwood and Mr. Sabey’s investigative report and “reached their
+
+conclusions about what transpired based on one-sided information—then fired
+
+
+
+        First, Dr. Byrnes initiated the eight-minute phone call before Defendants began
+their internal investigation against him. See App., Vol. 3 at 824.
+        Second, Defendants stipulated that they never interviewed Dr. Byrnes as part of
+their investigation. App., Vol. 1 at 194.
+        Third, Dr. Byrnes did not speak with the final, unbiased decisionmakers.
+Dr. Byrnes’s telling his side of the story to Dr. Green-Cheatwood—one of the alleged
+biased subordinates—who then provided the results of a one-sided and unfair
+investigation to the final decisionmakers, does not negate an inference of pretext. See
+Iweha, 121 F.4th at 1228-29 (noting that “whether the plaintiff was afforded an
+opportunity to explain her side of the story to the unbiased decisionmaker” can support
+that the employer conducted an independent investigation and “did not uncritically rely
+on another’s discriminatorily biased allegations”); Lobato, 733 F.3d at 1294 (“[I]f the
+employer independently verifies the facts and does not rely on the biased source—then
+there is no [cat’s paw] liability.”).
+       12
+           Defendants’ reliance on Riggs v. AirTran Airways, Inc., 497 F.3d 1108
+(10th Cir. 2007), at oral argument (they did not cite Riggs in their brief) is unavailing. In
+Riggs, although the employer did not ask the plaintiff to “complete her side of the story”
+after it “learned the full extent” of a customer’s complaint, we held this was not a
+“disturbing procedural irregularity” tending to show pretext because the plaintiff had
+already explained what happened shortly after the incident occurred. Id. at 1119
+(quotations omitted). By contrast, Defendants did not interview Dr. Byrnes at all, and
+their investigation concerned much more than a single incident.
+
+                                             26
+   Appellate Case: 24-3149       Document: 49-1          Date Filed: 10/30/2025    Page: 27
+
+
+
+[Dr. Byrnes] based largely on those tenuous conclusions.” Smothers, 740 F.3d at 543.
+
+A reasonable jury therefore could find Dr. Green-Cheatwood and Mr. Sabey’s bias was a
+
+but-for cause of the intended adverse action, satisfying the cat’s paw third element. See
+
+Sellman, 2025 WL 2957951, at *6.
+
+                                        *   *        *   *
+
+       Dr. Byrnes established a prima facie case on his termination retaliation claim
+
+under a cat’s paw theory.
+
+          b. Nonretaliatory reasons
+
+       Defendants posited “legitimate, nonretaliatory reason[s]” for the adverse action.
+
+Twigg, 659 F.3d at 998. Dr. Lichtenberger said he fired Dr. Byrnes because he had
+
+(1) abandoned patients in the ICU; (2) provided poor documentation and potentially poor
+
+clinical judgment; and (3) stopped some of the peer review components. Defendants met
+
+their “exceedingly light” burden. Montes, 497 F.3d at 1173 (quotations omitted).
+
+          c. Pretext
+
+       At this point, the burden shifts back to the plaintiff to show there is at least a
+
+genuine dispute of material fact as to whether “the employer’s reason was merely a
+
+pretext for retaliation.” Parker Excavating, 863 F.3d at 1220. Dr. Byrnes did so.
+
+       We typically “assess pretext by looking at the final result of the disciplinary
+
+process, not the acts or motives of those who may be in the decision-making chain.
+
+However, if the final decisionmaker merely relies on possibly biased reports or
+
+conclusions of others, rather than conducting an independent investigation, our focus
+
+shifts back to the [biased subordinate].” Macon v. UPS, Inc., 743 F.3d 708, 715
+
+                                                27
+   Appellate Case: 24-3149        Document: 49-1        Date Filed: 10/30/2025   Page: 28
+
+
+
+(10th Cir. 2014). Because Dr. Byrnes may proceed on a cat’s paw theory, our focus
+
+moves from the actual decisionmakers—Dr. Lichtenberger and Mr. Gessel—back to the
+
+biased subordinates—Dr. Green-Cheatwood and Mr. Sabey.
+
+       As discussed above, Dr. Green-Cheatwood and Mr. Sabey’s unfair investigation
+
+shows pretext. Smothers, 740 F.3d at 542 (“A failure to conduct what appeared to be a
+
+fair investigation of the violation that purportedly prompted adverse action may support
+
+an inference of pretext.” (quotations omitted)).
+
+       Dr. Byrnes also presented evidence of temporal proximity to show pretext.
+
+Aplt. Br. at 48-50; see Lobato, 733 F.3d at 1293 (“[C]lose temporal proximity can
+
+support a finding of pretext only in combination with other evidence of pretext.”). Only
+
+three weeks passed between Dr. Byrnes’s January 19, 2020 informal complaint letter—
+
+his “last instance of protected activity,” EEOC v. PVNF, LLC, 487 F.3d 790, 804
+
+(10th Cir. 2007)—and his February 12, 2020 termination. Dr. Byrnes’s termination thus
+
+“closely follow[ed]” his protected opposition, creating an inference of pretext. Anderson
+
+v. Coors Brewing Co., 181 F.3d 1171, 1179 (10th Cir. 1999).
+
+       In combination, Defendants’ unfair investigation and the temporal proximity of
+
+Dr. Byrnes’s last instance of protected activity to his termination would allow a
+
+reasonable jury to conclude that Dr. Lichtenberger and Mr. Gessel’s purported reasons
+
+for firing him were pretextual.
+
+                                       *   *        *   *
+
+       We reverse the district court’s grant of summary judgment on Dr. Byrnes’s
+
+termination retaliation claim.
+
+                                               28
+   Appellate Case: 24-3149           Document: 49-1   Date Filed: 10/30/2025     Page: 29
+
+
+
+                         B. Report-to-the-KBHA Retaliation Claim
+
+       We again provide additional facts and procedural history as relevant to
+
+Dr. Byrnes’s retaliation claim based on SCH’s reporting his cases to the KBHA.
+
+   Additional Factual History
+
+           a. Peer review process
+
+       On January 29, 2020, Dr. Green-Cheatwood proposed a case review process that
+
+would send SCH cases to other Centura facilities with high-functioning peer review
+
+committees. Under this proposal, all SCH charts from the past two years that met certain
+
+criteria would be reviewed. But after her call with Dr. Byrnes on January 30,
+
+Dr. Green-Cheatwood proposed reviewing Dr. Byrnes’s cases from the past five years
+
+using slightly different criteria.
+
+       O’re Berry, the Quality Improvement Coordinator at St. Anthony’s Hospital in
+
+Colorado, another Centura facility, reviewed the SCH cases and identified the ones
+
+meeting certain criteria, such as complications, returns to surgery, and mortalities. She
+
+then sent those cases to Dr. Stucky, who selected which cases to refer for outside peer
+
+review. He relied on Dr. Green-Cheatwood’s recommendations on surgical cases.
+
+       Once SCH referred a case, outside peer review committees at two Centura
+
+hospitals, including the St. Anthony’s committee led by Dr. Rebecca Vogel, reviewed it.
+
+Based on that review, the case would be assigned one of the four standard-of-care
+
+(“SOC”) ratings under Kansas medical regulations. See Kan. Admin. Regs. § 28-52-4(a);
+
+App., Vol. 2 at 479-80. Two of those levels require mandatory reporting to the KBHA.
+
+
+
+                                               29
+  Appellate Case: 24-3149       Document: 49-1       Date Filed: 10/30/2025   Page: 30
+
+
+
+Kan. Admin. Regs. § 28-52-4(b). 13 The following chart summarizes these standards and
+
+reporting requirements:
+
+           Kansas Standards of Care                Mandatory Reporting to the KBHA?
+ SOC 1: Standards of care met                                      NO
+ SOC 2: Standards of care not met, but with
+                                                                   NO
+ no reasonable probability of causing injury
+ SOC 3: Standards of care not met, with
+                                                                  YES
+ injury occurring or reasonably probable
+ SOC 4: Possible grounds for disciplinary
+                                                                  YES
+ action by the appropriate licensing agency
+
+      After a peer review committee evaluated a case, it would report any adverse
+
+findings to SCH. SCH would review the cases that received adverse findings and send
+
+mandatory reporting cases to the KBHA or, “[i]f there was an opportunity for a
+
+remediation or a further collegial intervention, then that was communicated with the
+
+physician in question.” App., Vol. 5 at 1409-10. The following flow chart sets forth the
+
+peer review process steps:
+
+
+
+
+      13
+         Under Kansas regulations, “[s]eparate standard-of-care-determinations shall be
+made for each involved provider” and “[a]ny incident determined by the designated risk
+management committee to meet category [SOC 3] or [SOC 4] shall be . . . reported to the
+appropriate licensing agency.” Kan. Admin. Regs. § 28-52-4(b).
+
+                                              30
+   Appellate Case: 24-3149      Document: 49-1     Date Filed: 10/30/2025     Page: 31
+
+
+
+
+       Although St. Anthony’s peer review process was intended to be anonymous,
+
+Dr. Green-Cheatwood asked Dr. Vogel to conduct a “personal” review—outside of the
+
+peer review committee—of at least one of Dr. Byrnes’s cases, specifically identifying
+
+him as the doctor. App., Vol. 6 at 1542-44.
+
+          b. Results of the peer review process and report to the KBHA
+
+              i. Dr. Byrnes’s cases
+
+       Although Defendants fired Dr. Byrnes on February 12, 2020, SCH reported four
+
+of his cases to the KBHA—one on September 28, 2020, and three more on January 12,
+
+2021. On the first submitted case, a 2015 thyroidectomy, the peer review committee
+
+identified “[m]inor improvement opportunit[ies]” for Dr. Byrnes. App., Vol. 8
+
+at 1949-50, 1953-55 (quoted in the parties’ briefs). Construing the evidence in the light
+
+
+
+                                              31
+  Appellate Case: 24-3149      Document: 49-1     Date Filed: 10/30/2025     Page: 32
+
+
+
+most favorable to Dr. Byrnes, we view this case as a non-mandatory reporting case. 14 On
+
+that same case, Dr. Byrnes’s co-surgeon, Dr. Joanne Rink, was not reported to the
+
+KBHA. SCH did not ask Dr. Byrnes to respond to the four adverse findings.
+
+             ii. Dr. Gottschalk’s cases
+
+      When Dr. Stucky referred Dr. Byrnes’s cases for peer review, he also referred
+
+multiple cases of another surgeon, Dr. Lionel Gottschalk. The outside peer review
+
+committee at St. Anthony’s identified “significant” improvement opportunities on three
+
+
+
+      14
+          Under Kansas regulations, only SOC 3 and 4 cases must be reported to the
+KBHA. See Kan. Admin. Regs. § 28-52-4(b). “Minor” improvement opportunity cases,
+such as the 2015 thyroidectomy, must be reported as SOC 3 only if (1) the standard of
+care was not met and (2) injury occurred or was reasonably probable. See id.
+§ 28-52-4(a)(3); see also App., Vol. 2 at 481.
+       As Dr. Byrnes notes, no evidence showed that any SOC rating was assigned to the
+2015 thyroidectomy. Aplt. Reply Br. at 29. He also argues the peer reviewers found a
+“minor” improvement opportunity because “they could not tell from the records they
+reviewed whether the standard [of care] was met.” Id. at 30.
+       Although Defendants argue this was a must-report SOC 3 case, Aplee. Br.
+at 61-62 (citing App., Vol. 8 at 1954-55), the heavily redacted peer review document they
+cite does not resolve (1) whether Dr. Byrnes’s care was below standard or (2) whether
+injury occurred during the surgery.
+       First, the document does not reveal a standard-of-care determination. Dr. Joanne
+Rink, co-surgeon on the case, said that Dr. Byrnes met the standard and that she would
+have reported him if he had not.
+       Second, the document does not reveal an injury. Dr. Rink said that the 2015
+thyroidectomy “patient experienced nerve damage” which is a “known risk or
+complication” of this surgery, App., Vol. 6 at 1614, and which she did not describe as an
+injury. At their depositions, Dr. Arroyo and Dr. Green-Cheatwood mentioned an injury
+occurring in a Dr. Byrnes thyroid surgery, but neither specifically identified the 2015
+surgery.
+       Although the deponents may have had the 2015 thyroidectomy in mind, and
+although an unredacted peer review document may have told us more about the standard
+of care and injury, on this record, a reasonable jury could find the 2015 thyroidectomy
+was not a mandatory reporting case and that SCH reported it to the KBHA.
+
+                                           32
+   Appellate Case: 24-3149      Document: 49-1     Date Filed: 10/30/2025     Page: 33
+
+
+
+of Dr. Gottschalk’s cases, which Dr. Vogel said “could be classified as a [SOC] 3 or 4,
+
+. . . [and therefore] reportable under the Kansas Board of Healing Arts.” App., Vol. 2
+
+at 480. Rather than reporting these SOC 3 or SOC 4 cases to the KBHA, SCH allowed
+
+Dr. Gottschalk to respond to the adverse findings. After his response and further review,
+
+SCH concluded these cases were SOC 2: “Moderate improvement opportunities.
+
+Standards of care not met, but with no reasonable probability of causing injury.” App.,
+
+Vol. 6 at 1728-30.
+
+       The record shows a genuine dispute of material fact as to whether Defendants
+
+reported any of Dr. Gottschalk’s SOC 2 cases to the KBHA. 15 Construing the evidence
+
+in the light most favorable to Dr. Byrnes, we must accept that Defendants rated all three
+
+of Dr. Gottschalk’s cases as SOC 2 and did not submit any of these cases to the KBHA
+
+because they were not mandatory reporting cases.
+
+              iii. Dr. Rink’s cases
+
+       Although Ms. Berry initially screened some cases of Dr. Rink, a former SCH
+
+surgeon, the record is unclear whether Dr. Stucky referred any of these cases for outside
+
+
+
+
+       15
+          In January 2021, Defendants reported four doctors to the KBHA: Dr. Byrnes
+(three cases), Dr. Kessler (one case), Dr. Robert Morren (one case), and Dr. Nathan
+Strandmark (one case). SCH’s Director of Quality and Patient Safety testified that the
+case “initially reported for Dr. Strandmark . . . was a mistake and that that report should
+have been submitted with regard to a different doctor, Dr. Lionel Gottschalk.” App., Vol.
+2 at 487. Defendants then corrected their mistake and resubmitted Dr. Gottschalk’s case
+to the KBHA. The record does not indicate the SOC rating of Dr. Gottschalk’s reported
+case.
+
+                                            33
+   Appellate Case: 24-3149       Document: 49-1      Date Filed: 10/30/2025      Page: 34
+
+
+
+peer review. It is undisputed, however, that none of Dr. Rink’s cases were reported to the
+
+KBHA, including the 2015 thyroidectomy.
+
+             c. KBHA closure
+
+       On August 3, 2022, the KBHA closed the investigations into all four of
+
+Dr. Byrnes’s reported cases. For three of them, the KBHA “recommended that the
+
+treatment [he] provided adhered to the applicable standard of care.” App., Vol. 6
+
+at 1660-62. The KBHA chose not to take action on the fourth case and closed it.
+
+   Additional Procedural History
+
+       The district court granted summary judgment to Defendants on Dr. Byrnes’s
+
+Title VII report-to-the-KBHA retaliation claim. At step one of McDonnell Douglas, it
+
+found the first two elements of a prima facie case—Dr. Byrnes’s protected activity
+
+(sexual harassment complaint and EEOC complaint) 16 and materially adverse action
+
+(report to a state licensing board)—were undisputed. On the third element—causal
+
+connection—the court said Dr. Byrnes “must adduce evidence capable of supporting a
+
+reasonable finding that a desire to retaliate against him for his complaints about
+
+Dr. Kessler” motivated Defendants “to adopt retaliatory processes when they decided to
+
+report his cases to [the] KBHA.” App., Vol. 7 at 1824. It found he failed to do so.
+
+       The district court found that the peer review committee had no knowledge of
+
+Dr. Byrnes’s protected activity. It rejected his argument that Drs. Stucky and
+
+Green-Cheatwood, rather than the peer review committee, were the actual
+
+
+       16
+            Dr. Byrnes does not rely on his EEOC complaint as protected activity on appeal.
+
+                                             34
+   Appellate Case: 24-3149     Document: 49-1      Date Filed: 10/30/2025     Page: 35
+
+
+
+decisionmakers because “choosing which cases to place before a committee at an outside
+
+facility” is not the same as “deciding how appropriate or egregious those cases were.” Id.
+
+at 1825.
+
+       The district court then analyzed whether Dr. Byrnes could proceed under a
+
+cat’s paw theory, viewing the peer review committee as the actual decisionmaker and
+
+Drs. Stucky and Green-Cheatwood as the biased subordinates. It found that Dr. Byrnes
+
+did not present “any evidence to show the doctors exercised anything beyond influence or
+
+input in the decisionmaking process.” Id. “To be sure, deciding which cases a committee
+
+reviews constitutes influence. But it doesn’t cause the committee to find those cases
+
+were handled so poorly or inappropriately that they must report them to [the] KBHA.”
+
+Id. In addition, the court said that because the peer review committee members
+
+functioned outside the SCH hospital, this “casts doubt” on Drs. Stucky and
+
+Green-Cheatwood’s “ability to manipulate the committee.” Id. at 1825-26.
+
+       Finally, the district court rejected that Dr. Green-Cheatwood’s revealing
+
+Dr. Byrnes’s identity to Dr. Vogel—the St. Anthony’s peer review committee chair—
+
+showed causal connection because “one person’s sole knowledge—when a group is
+
+deciding something—isn’t sufficient to establish the requisite causation.” Id. at 1826.
+
+       The court thus concluded Dr. Byrnes failed to establish a prima facie case of
+
+retaliation based on Defendants’ reporting four of his cases to the KBHA. It did not
+
+analyze steps two and three of McDonnell Douglas.
+
+
+
+
+                                            35
+   Appellate Case: 24-3149        Document: 49-1    Date Filed: 10/30/2025      Page: 36
+
+
+
+   Analysis
+
+       The district court analyzed only the first McDonnell Douglas step—prima facie
+
+case—and determined Dr. Byrnes could not establish a causal connection between his
+
+protected activity and the materially adverse action.
+
+       On appeal, Defendants agree with the district court on causation, but they also
+
+contend that Dr. Byrnes cannot establish pretext under McDonnell Douglas step three and
+
+that we could affirm the grant of summary judgment on that alternative ground. See
+
+Aplee. Br. at 59-62. We thus examine the McDonnell Douglas factors, with particular
+
+emphasis on causation and pretext, to determine if summary judgment was appropriate.
+
+See Piercy v. Maketa, 480 F.3d 1192, 1199-1200 (10th Cir. 2007). 17 After addressing
+
+each McDonnell Douglas step below, we reverse the district court’s grant of summary
+
+judgment on this claim.
+
+            a. Prima facie case
+
+               i. Protected activity
+
+       As noted above, Dr. Byrnes’s reporting Dr. Kessler’s alleged sexual harassment
+
+was protected activity under Title VII. Fye, 516 F.3d at 1228.
+
+               ii. Materially adverse action
+
+       We agree with the district court that reporting four of Dr. Byrnes’s cases to the
+
+KBHA was a materially adverse action. “An employer action is materially adverse if ‘it
+
+
+
+       17
+          As with the termination retaliation claim, the analysis of causation and pretext
+on this claim overlaps.
+
+                                               36
+   Appellate Case: 24-3149         Document: 49-1      Date Filed: 10/30/2025      Page: 37
+
+
+
+well might have dissuaded a reasonable worker from making or supporting a charge of
+
+discrimination.’” Culp v. Remington of Montrose Golf Club, LLC, 133 F.4th 968, 977
+
+(10th Cir. 2025) (quoting Burlington N. & Santa Fe Ry. Co. v. White, 548 U.S. 53, 68
+
+(2006)).
+
+          The KBHA “regulates and licenses medical doctors in Kansas.” Corder v.
+
+Kan. Bd. of Healing Arts, 889 P.2d 1127, 1130 (Kan. 1994) (citing Kan. Stat. Ann.
+
+§ 65-2801 et seq.); see also Hodes & Nauser, MDs, P.A. v. Stanek, 551 P.3d 62, 67
+
+(Kan. 2024) (en banc) (“The Kansas Board of Healing Arts has long regulated licensed
+
+clinicians . . . and the care they provide at medical offices . . . .”). It may revoke,
+
+suspend, or limit a doctor’s medical license. See Hodes & Nauser, 551 P.3d at 70
+
+(“A licensee’s medical license may be revoked, suspended, or limited upon a finding that
+
+the licensee has committed an act of unprofessional conduct.” (citing Kan. Stat. Ann.
+
+§ 65-2836(b))).
+
+          As one court has recognized, “It is difficult to see how threatening to report
+
+Plaintiff to the state licensing board, who presumably has the ability to revoke Plaintiff’s
+
+license and thus impede his ability to work in his profession, could not be an adverse
+
+employment action.” Bogden-Cozmuta v. Granby Urgent Care, LLC, No. 20-CV-879,
+
+2022 WL 4585442, at *7 (D. Conn. Sept. 29, 2022).
+
+          Here, Defendants did more than threaten to report Dr. Byrnes—they reported four
+
+of his cases, which “well might” dissuade “a reasonable worker from making or
+
+supporting a charge of discrimination.” Culp, 133 F.4th at 977 (quoting BNSF, 548 U.S.
+
+at 59).
+
+                                                37
+   Appellate Case: 24-3149      Document: 49-1       Date Filed: 10/30/2025     Page: 38
+
+
+
+              iii. Causal connection
+
+       As noted above, Dr. Byrnes must “show that [1] the individual who took adverse
+
+action against [him] [2] knew of the employee’s protected activity,” Montes, 497 F.3d
+
+at 1176 (quotations omitted), and [3] present “evidence of circumstances that justify an
+
+inference of retaliatory motive,” Ward, 772 F.3d at 1203 (quotations omitted).
+
+Dr. Byrnes presented sufficient evidence to make both showings. 18
+
+                     1) Who took adverse action
+
+       Critical to the causal connection inquiry is who reported Dr. Byrnes’s four cases to
+
+the KBHA. The district court found it was the outside peer review committee. We
+
+disagree. A reasonable jury could find that SCH, acting largely through Dr. Stucky and
+
+Dr. Green-Cheatwood, took the adverse action.
+
+       First, Dr. Stucky’s description of the peer review process at his deposition
+
+supports this conclusion:
+
+   • Ms. Berry identified all cases between 2018 and 2020 for every SCH doctor—and,
+     at Dr. Green-Cheatwood’s direction, all cases between 2015 and 2020 for
+     Dr. Byrnes—that met certain criteria, such as a return to the operating room,
+     mortality, or a significant unexpected outcome;
+
+   • Dr. Stucky, with input from Dr. Green-Cheatwood on surgical cases, selected the
+     cases to send to peer review;
+
+   • The peer review committee reviewed the selected cases, evaluated and scored
+     them, identified areas for improvement (e.g., “significant” or “minor”
+     improvements), and informed SCH of adverse findings; and
+
+
+
+       18
+          Unlike the district court, we do not see the causation issue on this claim as
+calling for a cat’s paw analysis.
+
+                                             38
+   Appellate Case: 24-3149      Document: 49-1      Date Filed: 10/30/2025      Page: 39
+
+
+
+   • SCH reviewed the adverse finding cases and sent mandatory reporting cases to the
+     KBHA or, “[i]f there was an opportunity for a remediation or further collegial
+     intervention, then that was communicated with the physician in question.”
+
+App., Vol. 5 at 1407-10. Dr. Green-Cheatwood confirmed with Dr. Vogel, chair of
+
+St. Anthony’s peer review committee, that SCH will manage the reporting requirements.
+
+       Second, the record shows Dr. Stucky’s continual involvement in the peer review
+
+process and in deciding which SCH cases to report to the KBHA. For example, an
+
+internal Centura report detailing a retrospective review of the quality of care at SCH
+
+stated that, since February 2020, Dr. Stucky served as the conduit between SCH medical
+
+staff and the outside peer reviewers and that he was given the authority to sit on the peer
+
+review committees.
+
+       Dr. Stucky chaired or co-chaired the SCH committees that reviewed the peer
+
+review committees’ adverse case findings and determined what action to take. In his
+
+co-chair role, he approved lowering three of Dr. Gottschalk’s cases flagged by the peer
+
+review committee as “significant improvement opportunities” (SOC 3 or SOC 4) to
+
+“moderate improvement opportunities” with “no reasonable probability of causing
+
+injury” (SOC 2) and did not report these SOC 2 cases to the KBHA.
+
+                     2) Knowledge
+
+       Dr. Stucky and Dr. Green-Cheatwood were aware of Dr. Byrnes’s protected
+
+activity—they informed Dr. Byrnes in October 2019 that his allegations against
+
+Dr. Kessler lacked merit. Dr. Byrnes’s January 19, 2020 letter to Dr. Stucky reiterated
+
+and supplemented his sexual harassment allegations against Dr. Kessler. And Dr. Stucky
+
+
+
+                                             39
+   Appellate Case: 24-3149      Document: 49-1      Date Filed: 10/30/2025     Page: 40
+
+
+
+testified that in January 2020, he and the MEC “still had concerns about the fact that
+
+Dr. Byrnes had levied . . . this complaint against Dr. Kessler.” App., Vol. 5 at 1438-39.
+
+                     3) Retaliatory motive
+
+       Although “protected conduct closely followed by adverse action may justify an
+
+inference of retaliatory motive,” Marx v. Schnuck Mkts., Inc., 76 F.3d 324, 329 (10th Cir.
+
+1996), Dr. Byrnes does not rely on temporal proximity. Instead, he presented sufficient
+
+“additional evidence,” in the form of pretext evidence, justifying “an inference of
+
+retaliatory motive.” Proctor v. UPS, 502 F.3d 1200, 1209 (10th Cir. 2007); see also
+
+Wells, 325 F.3d at 1218 (considering evidence of pretext in analyzing the causation
+
+element of a prima facie case of retaliation under Title VII). Pretext may be shown by
+
+evidence that Dr. Byrnes “was treated differently from other similarly-situated employees
+
+who violated work rules of comparable seriousness.” Smothers, 740 F.3d at 539
+
+(quotations omitted).
+
+       As discussed above, Dr. Stucky allowed Dr. Gottschalk to respond to cases
+
+flagged by the peer review committee for mandatory reporting. But Defendants did not
+
+afford Dr. Byrnes the same opportunity. In addition, Defendants reported to the KBHA
+
+at least one of Dr. Byrnes’s cases—the 2015 thyroidectomy—that they were not required
+
+by law to report, despite not reporting any of Dr. Gottschalk’s SOC 2 cases. The only
+
+distinctions between the two surgeons evident from the record were that Dr. Gottschalk
+
+
+
+
+                                             40
+   Appellate Case: 24-3149      Document: 49-1      Date Filed: 10/30/2025     Page: 41
+
+
+
+was currently employed at SCH and Dr. Byrnes was not, 19 and Dr. Byrnes had engaged
+
+in protected activity and Dr. Gottschalk had not.
+
+       Defendants also treated Dr. Byrnes differently from Dr. Rink, who was the
+
+co-surgeon with him on the 2015 thyroidectomy case. Like Dr. Byrnes, Dr. Rink no
+
+longer worked at SCH during the peer review process. But Defendants reported the 2015
+
+thyroidectomy to the KBHA as to Dr. Byrnes but not Dr. Rink. The record does not
+
+show that only Dr. Byrnes’s care “deviated below standard” for this procedure, despite
+
+Kansas regulations stating that “[s]eparate standard-of-care-determinations shall be made
+
+for each involved provider.” Kan. Admin. Regs. § 28-52-4(b). 20
+
+       Based on the foregoing, a reasonable jury could conclude that Defendants’
+
+purported reasons for reporting Dr. Byrnes’s cases to the KBHA were pretextual.
+
+Dr. Byrnes “has therefore satisfied the causation element of a prima facie case for
+
+purposes of summary judgment,” and we may “examine the remaining McDonnell
+
+Douglas factors to determine if summary judgment was appropriate.” Piercy, 480 F.3d at
+
+1199-1200.
+
+
+       19
+         Defendants argue that any peer review policies would not apply to Dr. Byrnes
+because he was not, at the time of review, “Medical Staff granted privileges to practice at
+St. Catherine Hospital,” App., Vol. 6 at 1636, or a physician “granted clinical privileges
+at Centura hospitals,” id. at 1687. But the policies do not limit a case review to doctors
+currently working for Defendants.
+       20
+          Dr. Green-Cheatwood also may have treated Dr. Byrnes differently in the peer
+review process by (1) reviewing his cases for the past five years but all other doctors’
+cases for the past two years; (2) applying slightly different selection criteria to
+Dr. Byrnes’s cases; and (3) revealing his identity to Dr. Vogel, chair of St. Anthony’s
+peer review committee, for at least one case.
+
+                                            41
+   Appellate Case: 24-3149      Document: 49-1          Date Filed: 10/30/2025   Page: 42
+
+
+
+          b. Nonretaliatory reason
+
+       Defendants argued below that they had a legitimate, nonretaliatory reason for
+
+reporting Dr. Byrnes’s cases because each case “scored as SOC 3 or SOC 4, thus
+
+mandating the reports to be filed with the KBHA.” App., Vol. 2 at 250. Defendants met
+
+their “exceedingly light” burden. Montes, 497 F.3d at 1173 (quotations omitted).
+
+          c. Pretext
+
+       On its face, Defendants’ proffered reason is unworthy of belief because at least
+
+one of Dr. Byrnes’s cases did not require mandatory reporting but was reported anyway.
+
+In combination with Defendants’ treating Dr. Byrnes and similarly-situated surgeons
+
+differently, Dr. Byrnes presented sufficient evidence of pretext to withstand summary
+
+judgment. See Smothers, 740 F.3d at 539.
+
+                                      *    *        *   *
+
+       We reverse the district court’s grant of summary judgment on Dr. Byrnes’s
+
+report-to-the-KBHA retaliation claim.
+
+                                   C. State Law Claims
+
+       We review “a denial of supplemental jurisdiction for abuse of discretion.” Brown
+
+v. City of Tulsa, 124 F.4th 1251, 1272 (10th Cir. 2025) (quoting Nielander v. Bd. of Cnty.
+
+Comm’rs, 582 F.3d 1155, 1172 (10th Cir. 2009)). When a federal district court has
+
+jurisdiction, the court “shall have supplemental jurisdiction” over related claims that
+
+“form part of the same case or controversy” under Article III of the United States
+
+Constitution. 28 U.S.C. § 1367(a). But a district court may decline to exercise
+
+
+
+                                               42
+   Appellate Case: 24-3149        Document: 49-1     Date Filed: 10/30/2025     Page: 43
+
+
+
+supplemental jurisdiction if it has dismissed all claims over which it had original
+
+jurisdiction. Id. § 1367(c)(3).
+
+       The district court had jurisdiction over Dr. Byrnes’s Title VII claims under
+
+42 U.S.C. § 2000e-5(f)(3) and 28 U.S.C. § 1331. It declined to exercise supplemental
+
+jurisdiction over his state law claims after dismissing his Title VII and other federal
+
+claims. Because we conclude that the district court erred in dismissing Dr. Byrnes’s
+
+Title VII claims, we reverse and remand for the court to reconsider whether to exercise
+
+supplemental jurisdiction. See, e.g., Brown, 124 F.4th at 1273 (remanding for district
+
+court to reconsider exercising supplemental jurisdiction over state law claim after
+
+reversing dismissal of federal claim); Greer v. Dowling, 947 F.3d 1297, 1304 n.5
+
+(10th Cir. 2020) (same); Baca v. Sklar, 398 F.3d 1210, 1222 n.4 (10th Cir. 2005) (same).
+
+                                    III. CONCLUSION
+
+       We reverse and remand for further proceedings. 21
+
+
+
+
+       21
+         We grant Dr. Byrnes’s unopposed motion to file Volume 8 of the appendix
+under seal.
+
+                                             43
+

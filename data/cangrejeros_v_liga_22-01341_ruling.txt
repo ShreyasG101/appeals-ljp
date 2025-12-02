@@ -1,0 +1,854 @@
+UNITED STATES DISTRICT COURT                            
+                    DISTRICT OF PUERTO RICO                              
+___________________________________                                       
+                                  )                                      
+CANGREJEROS DE SANTURCE BASEBALL   )                                      
+CLUB, LLC, SANTURCE MERCHANDISING  )                                      
+LLC, and THOMAS J. AXON,           )                                      
+                                  )                                        
+                                  )                                      
+                                  )                                      
+                   Plaintiffs,    )                                      
+                                  )         CIVIL ACTION                 
+              v.                  )         NO. 3:22-01341-WGY           
+                                  )                                      
+LIGA DE BÉISBOL PROFESIONAL DE     )                                      
+PUERTO RICO, INC., CRIOLLOS        )                                      
+MANAGEMENT, INC., RA12, INC.,      )                                      
+INDIOS DE MAYAGÜEZ BASEBALL CLUB   )                                      
+INC., GIGANTES DE CAROLINA         )                                      
+BASEBALL CLUB INC., LEONES DE      )                                      
+PONCE CF INC., IMPULSE SPORTS      )                                      
+ENTERTAINMENT CORPORATION, JUAN A. )                                      
+FLORES GALARZA, IN HIS CAPACITY    )                                      
+AS PRESIDENT OF THE LIGA DE        )                                      
+BÉISBOL PROFESIONAL DE PUERTO RICO,)                                      
+INC., IN HIS PERSONAL              )                                      
+CAPACITY, AND AS A MEMBER OF THE   )                                      
+CONJUGAL PARTNERSHIP               )                                      
+CONSTITUTED BETWEEN HIM AND HIS    )                                      
+SPOUSE, AND THE CONJUGAL           )                                      
+PARTNERSHIP SO CONSTITUTED,        )                                      
+                                  )                                      
+                   Defendants.    )                                      
+___________________________________)                                      
+                                                                          
+YOUNG, D.J.1                                      June 27, 2023           
+
+                         MEMORANDUM & ORDER                              
+
+    1 Of the District of Massachusetts, sitting by designation.          
+                                                                         
+ I.   INTRODUCTION                                                       
+    The Court here boldly goes where no lower court has gone             
+before.  Why?  The Supreme Court has said so.2  This Court                
+applies the Supreme Court’s much criticized3 judicial exemption           
+
+
+    2  In Agostini v. Felton, the Supreme Court held the trial           
+court “acted within its discretion in entertaining the motion             
+with supporting allegations, but it was also correct to                   
+recognize that the motion had to be denied unless and until this          
+Court reinterpreted the binding precedent.” Agostini v. Felton,           
+521 U.S. 203, 237–38, 117 S. Ct. 1997, 2017, 138 L. Ed. 2d 391            
+(1997). The Agostini Court also reaffirmed “[i]f a precedent of           
+this Court has direct application in a case, yet appears to rest          
+on reasons rejected in some other line of decisions, the Court            
+of Appeals should follow the case which directly controls,                
+leaving to this Court the prerogative of overruling its own               
+decisions.” Id. (citing Rodriguez de Quijas v.                            
+Shearson/Am. Express, Inc., 490 U.S. 477, 484 (1989) (Kennedy             
+J.)).                                                                     
+                                                                         
+    3 The baseball exemption is heavily criticized by courts,            
+legal scholars, and commentators. See Nathaniel Grow, Defining            
+the "Business of Baseball": A Proposed Framework for Determining          
+the Scope of Professional Baseball's Antitrust Exemption, 44              
+U.C. DAVIS L. REV. 557 (2010) (“This lack of consensus regarding          
+the scope of the exemption is particularly problematic because            
+MLB regularly finds itself embroiled in antitrust disputes. For           
+example, in August 2009, trading card manufacturer Upper Deck             
+threatened to file an antitrust suit against MLB following MLB's          
+decision to grant rival card manufacturer Topps an exclusive              
+trademark license . . . in 2007, Pennsylvania Senator Arlen               
+Specter alleged that a proposed deal between MLB and DirecTV,             
+under which the satellite television company would have received          
+the exclusive rights to air MLB's “Extra Innings” broadcasting            
+package, violated antitrust law. Meanwhile, MLB's restrictive             
+territory allocation policies--a regular source of antitrust              
+complaints against the league--were again at issue in December            
+2009 when the city attorney for San Francisco threatened to sue           
+MLB after the league considered permitting the Oakland Athletics          
+franchise to relocate to San Jose, territory assigned to the San          
+Francisco Giants organization. Had any of these disputes resulted         
+in litigation, the applicability of the baseball antitrust                
+exemption would have been unclear under both the existing                 
+                                                                         
+to the Nation’s antitrust laws to a Puerto Rican professional             
+baseball venture NOT associated with Major League Baseball                
+(“MLB”).                                                                  
+    The Plaintiffs, Cangrejeros de Santurce Baseball Club, LLC           
+(“Cangrejeros LLC”), Santurce Merchandising LLC (“Santurce                
+
+Merchandising”), and Thomas J.  Axon (“Axon”), collectively “The          
+Plaintiffs,” bring a seven count complaint against the                    
+Defendants, Liga de Béisbol Profesional de Puerto Rico, Inc.              
+(the “League”), Criollos Management, Inc. (the “Criollos”),               
+RA12, Inc. (“RA12”), Indios de Mayagüez Baseball Club Inc. (the           
+“Indios”), Gigantes de Carolina Baseball Club Inc. (the                   
+“Gigantes”), Leones de Ponce CF Inc. (the “Leones”), Impulse              
+Sports Entertainment Corporation (“Impulse Sports”), Juan A.              
+Flores Galarza, in his capacity as president of the Liga de               
+
+
+judicial precedent and scholarly analysis.”); Nostalgic                   
+Partners, LLC v. Off. of Comm'r of Baseball, No. 21-CV-10876              
+(ALC), 2022 WL 14963876, at *1 (S.D.N.Y. Oct. 26, 2022)                   
+(“Plaintiffs believe that the Supreme Court is poised to knock            
+out the exemption, like a boxer waiting to launch a left hook             
+after her opponent tosses out a torpid jab. It's possible. But            
+until the Supreme Court or Congress takes action, the exemption           
+survives; it shields MLB from Plaintiffs’ lawsuit.”); J. Gordon           
+Hylton, Why Baseball's Antitrust Exemption Still Survives, 9              
+MARQ. SPORTS L.J. 391 (1999) (“Neither Congressional inertia nor          
+the power of Organized Baseball can explain the persistence of            
+this exemption.”). The list goes on.                                      
+
+
+
+
+
+                                                                         
+Béisbol Profesional de Puerto Rico, Inc., in his personal                 
+capacity (“Flores”), and as a member of the conjugal partnership          
+constituted between him and his spouse, and the conjugal                  
+partnership so constituted (“Flores Conjugal Partnership”) and            
+collectively, “The Defendants.”  All counts are listed and                
+
+described below:                                                          
+(1) Count One alleges Violations of Section 1 of the Sherman              
+Act: Agreement Among the Defendants in Unreasonable Restraint of          
+Competition;                                                              
+(2) Count Two alleges Violations of Section 2 of the Sherman              
+Act: Conspiracy or Combination to Monopolize, Monopolization,             
+and Attempted Monopolization;                                             
+(3) Count Three alleges Violations of the Antitrust Law of                
+Puerto Rico (P.R. Laws Ann. tit. 10, § 258): Agreement Among the          
+Defendants in Unreasonable Restraint of Competition;                      
+(4) Count Four alleges Violations of the Antitrust Law of Puerto          
+Rico (P.R. Laws Ann. tit. 10, § 260): Conspiracy or Combination           
+
+to Monopolize, Monopolization, and Attempted Monopolization;              
+(5) Count Five alleges Violations of Fair Competition, P.R. Laws          
+Ann. tit. 10, § 259, and Article 1536 of the Puerto Rico Civil            
+Code, P.R. Laws Ann. tit. 31, §§ 10801 and 10803;                         
+(6) Count Six alleges Contracts in Prejudice of a Third Person;           
+(7) Count Seven alleges Violations of Civil Rights Act of 1871,           
+42 U.S.C. § 1983.                                                         
+                                                                         
+    The Defendants first moved to dismiss the complaint for              
+failure to state a claim, arguing that (1) the Plaintiffs are             
+contractually bound to litigate their claims in the local courts          
+of Puerto Rico, Def.’s Mot. Dismiss FSC (“Def’s. Mot. FSC”), ECF          
+No. 28 at 5, and (2) the Plaintiffs’ action is barred by res              
+
+judicata after the Plaintiffs lost their prior case filed in the          
+local court of Puerto Rico.  Id. at 10.                                   
+    The Defendants then moved to dismiss the complaint for lack          
+of subject matter jurisdiction on the basis that the Plaintiffs’          
+antitrust claims must be dismissed because the “business of               
+baseball” is exempt from antitrust regulation, which would make           
+the federal antitrust claims fail, thus giving this Court no              
+subject matter jurisdiction to hear the case.  Def.’s Mot.                
+Dismiss SMJ (“Def’s. Mot. SMJ”), ECF No. 43 at 6-13.                      
+    Following the direction of the Supreme Court’s baseball              
+exemption, this Court allows the Defendants’ motions to dismiss.          
+    A.   Procedural History                                              
+
+    The Plaintiffs, Axon and Cangrejeros LLC, previously filed           
+a suit against the League and its President, Mr. Juan A. Flores           
+Galarza, seeking a preliminary and permanent injunction, and              
+seeking declaratory relief in Puerto Rico with regards to his             
+dismissal.  Axon v. Liga De Beisbol Professional de Puerto Rico,          
+Inc., No. SJ-2022-CV-02802 (Super. Ct. P.R. May 5, 2022).  The            
+
+                                                                         
+court dismissed the complaint, reasoning that “[we] must                  
+conclude that the process followed by the President of the                
+League complied with the contractual due process of law                   
+established by the parties in the Constitution of the [LBPPR].”           
+Id. at 12.                                                                
+
+    The Plaintiffs filed a complaint on July 18, 2022, Pl.’s             
+Compl. & Demand Jury Trial (“Compl.”) ECF No. 1 and bring the             
+seven counts listed in the introduction.                                  
+    The Defendants moved to dismiss this complaint for failure           
+to state a claim on September 12, 2022, Def’s. Mot. FSC, and              
+then again on October 27, 2022 for lack of subject matter                 
+jurisdiction.  Def’s. Mot. SMJ.                                           
+    Def’s. Mot. FSC was met with an opposition by the                    
+Plaintiffs filed on October 12, 2022, Pls.’ Opp’n FSC, ECF No.            
+40.   Def’s. Mot. SMJ was met with an opposition by the                   
+Plaintiffs filed on November 10, 2022, Pls.’ Opp’n SMJ, ECF No.           
+49.  The Defendants filed a reply on December 2, 2022, Def.’s             
+
+Reply SMJ, ECF No. 53.  On March 29, 2023, the Court heard                
+argument on the motion to dismiss and took the matter under               
+advisement.  See Electronic Clerk’s Notes, ECF No. 79                     
+    B.   Factual Background                                              
+         1.   Facts Alleged Relating to the Antirust Claims              
+
+
+                                                                         
+    The Defendant, League, is “the only top-tier professional            
+baseball league in Puerto Rico, currently consisting of six               
+different franchise teams operated by separately owned investors          
+who do not share profits and losses with each other.” Compl. ¶            
+1.  As well as competing on the field, the teams compete “for             
+
+fans, in-person attendance, player talent, sponsorships,                  
+merchandise sales, radio, and streaming broadcast rights                  
+agreements.” Id.                                                          
+    The Complaint challenges, under both federal and Puerto              
+Rico antitrust laws, “concerted behavior in unreasonable                  
+restraint of trade through which the Defendants entered into an           
+unlawful conspiracy to boycott and exclude the Plaintiffs from            
+competing as participants in the relevant markets for investing           
+in and operating top-tier professional baseball teams in Puerto           
+Rico.”  Id. ¶ 2                                                           
+    The prologue to this alleged behavior is the purchase of             
+operating control of Cangrejeros de Santurce professional                 
+
+baseball team (the “Cangrejeros Franchise”) by Axon in October            
+2019.  Axon became the sole owner and member on February 4,               
+2022.  Id. ¶ 3.  Axon went on to improve the “competitive                 
+success of the Cangrejeros Franchise through increased levels of          
+investment and dynamic new ways to operate and promote the team           
+in economic competition.”  Id.  Axon’s “procompetitive efforts            
+to improve the quality of the Cangrejeros Franchise were met              
+                                                                         
+with stiff resistance by the other teams in the League, who did           
+not want to have to face such enhanced economic competition.”             
+Id. ¶ 5.  This resistance was allegedly characterized by a                
+“group boycott” and the “unlawful seizure of [the] Plaintiffs’            
+investor-operator interest in the Cangrejeros Franchise, which            
+
+was then resold to a different investor-operator, [the]                   
+Defendant Impulse Sports Entertainment Corporation (‘Impulse              
+Sports’).”  Id.                                                           
+    This alleged collective boycott took the form of “unlawful           
+contracts, combinations, and/or conspiracies” that had the                
+effect of “unreasonably restraining competition and creating and          
+maintaining a monopoly for [the] Defendants in the relevant               
+markets for investing in and operating top-tier professional              
+baseball teams in Puerto Rico.”  Id. ¶ 6.  This conduct led to            
+“significant antitrust injuries to [the] Plaintiffs in their              
+business and property.”  Id.  These injuries are represented by           
+“the loss of [the] Plaintiffs’ ability to derive competitive              
+
+value from the ticket sales, sponsorship, concessions,                    
+merchandise, and radio and streaming broadcast rights of the              
+Cangrejeros Franchise, and the loss of the ability to compete in          
+the relevant markets through the operation of a professional              
+baseball team in Puerto Rico.”  Id. ¶ 94.                                 
+         2.   Facts Relating to Alleged Violations of the Civil          
+              Rights Act of 1871, 42 U.S.C. § 1983.                      
+                                                                         
+    The Plaintiffs allege the Defendants “conspired with one             
+another and co-conspirator Romero Lugo, [the Mayor of San Juan]           
+acting on behalf of the municipality of San Juan, to deprive              
+Plaintiffs, without due process of law, of their property                 
+interests and rights, privileges, and immunities secured by the           
+
+United States Constitution and laws of the United States under            
+the color of government action by a municipality of Puerto                
+Rico.” Compl. ¶ 159.  Essentially, the conspiracy allegedly               
+“deprived Axon and Cangrejeros LLC, without any due process or            
+compensation, of their established property interest in being             
+the investor-operator of the Cangrejeros Franchise and having             
+control over the commercial exploitation of the team’s various            
+rights without affording them compensation or due process of              
+law.”  Id.  They did so to “accomplish the objective of San Juan          
+to suppress requests by the Franchise for various improvements            
+in its stadium, to suppress the proposal for a private                    
+investment in the stadium, and to eliminate the possibility that          
+
+the team would move to another municipality in Puerto Rico.”              
+Id. ¶ 160.                                                                
+ II.  ANALYSIS                                                           
+    The Defendants move to dismiss the complaint for lack of             
+subject matter jurisdiction on three grounds.  First, the                
+Plaintiffs’ antitrust claims must be dismissed because the               
+
+                                                                         
+“business of baseball” is exempt from antitrust regulation and           
+the Puerto Rico Professional Baseball League falls squarely              
+within the core of baseball’s antitrust exemption.  Def’s. Mot.          
+SMJ 6-10.  Second, the Defendants argue the Plaintiffs’ state            
+claims are barred by the Supremacy Clause and the Commerce               
+
+Clause.  Id. at 13.  Finally, the Defendants argue that the              
+Plaintiffs’ unfair competition law and tort claims fail as               
+matter of law. Id. at 15-17.                                             
+    A.   Standard of Review                                              
+    As courts of limited jurisdiction, federal courts must               
+resolve questions related to their subject-matter jurisdiction            
+before addressing the merits of a case.  Destek Grp. v. State of          
+N.H. Pub. Utils. Comm'n, 318 F.3d 32, 38 (1st Cir. 2003).  The            
+
+party asserting jurisdiction has “the burden of demonstrating             
+the existence of federal jurisdiction.”  Viqueira v. First Bank,          
+140 F.3d 12, 16 (1st Cir. 1998).  If it appears to the Court at           
+any time that it lacks the statutory or constitutional power to           
+adjudicate the case, it must dismiss the action, even in the              
+absence of a challenge from any party.  Arbaugh v. Y&H Corp.,             
+546 U.S. 500, 514, (2006); Nowak v. Ironworkers Local 6 Pension           
+Fund, 81 F.3d 1182, 1187 (2d Cir. 1996).                                  
+    Federal Rule of Civil Procedure 12(b)(1) limns the                   
+appropriate mechanism for challenging a court’s subject-matter            
+
+                                                                         
+jurisdiction.  Valentín v. Hosp. Bella Vista, 254 F.3d 358, 362           
+(1st Cir. 2001).  The rule serves as a “large umbrella,                   
+overspreading a variety of different types of challenges to               
+subject-matter jurisdiction.”  Id. at 362–63.  A motion to                
+dismiss brought under Rule 12(b)(1) is subject to a similar               
+
+standard of review as a motion brought pursuant to Rule                   
+12(b)(6).  Boada v. Autoridad de Carreteras y Transportación,             
+680 F. Supp. 2d 382, 384 (D.P.R. 2010) (citing Negrón–Gaztambide          
+v. Hernández–Torres, 35 F.3d 25, 27 (1st Cir. 1994)).  The                
+district court “must credit the plaintiff’s well-pled factual             
+allegations and draw all reasonable inferences in the                     
+plaintiff’s favor.”  Merlonghi v. United States, 620 F.3d 50, 54          
+(1st Cir. 2010) (citing Hosp. Bella Vista, 254 F.3d at 363).              
+“[T]he Court’s inquiry, however, is not necessarily limited to            
+the parties' pleadings, and may include whatever evidence has             
+been presented in the case.”  Fed. Deposit Ins. Corp. v. Caban-           
+Muñiz, 216 F. Supp. 3d 255, 257 (D.P.R. 2016) (citing Aversa v.           
+
+United States, 99 F.3d 1200, 1210 (1st Cir. 1996)).                       
+    B. The Plaintiffs’ Antitrust Claims Must Be Dismissed                
+      Because the “Business of Baseball” is Exempt From                  
+      Antitrust Regulation.                                              
+
+    The Defendants argue the Plaintiffs’ antitrust claims must           
+be dismissed because the “business of baseball” is exempt from            
+antitrust regulation.  Def’s. Mot. SMJ at 6-10.                           
+                                                                         
+    The Plaintiffs oppose this motion on the basis that what             
+they call “the MLB exemption” does not apply to this case.  They          
+argue first that the anomalous MLB exemption must be narrowly             
+construed and can only be applied to MLB and its affiliated               
+minor leagues.  Pls.’ Opp’n SMJ at 5-6.  Second, that the                 
+
+Defendants cannot invoke the MLB exemption as the league                  
+operates as an independent baseball league that is not a minor            
+league affiliate of MLB.  Id. at 8-10.  Third, that the conduct           
+alleged does not fall within the narrow confines of the                   
+“business of baseball,” and finally, that the Defendants also             
+cannot qualify for the MLB exemption because there is no showing          
+that they have relied on the existence of the exemption.  Id. at          
+10-13.                                                                    
+              1. The Puerto Rico Professional Baseball League            
+              Falls Squarely Within the Core of Baseball’s               
+              Antitrust Exemption.                                       
+    The Defendants start their argument by setting forth the             
+1922 Supreme Court decision that held that “the Clayton and               
+Sherman Acts do not govern the business of baseball. Fed.                 
+Baseball Club, Inc. v. Nat’l League of Prof’l Baseball Clubs,             
+259 U.S. 200 (1922).”  Def.’s Mot. SMJ at 7.  The Defendants              
+emphasize that the plaintiff in that case was “Federal Baseball,          
+the last remaining club in the Federal League (and not Major              
+League Baseball).”  Id.  They further continue to list the                
+sustained holding in Supreme Court decisions, emphasizing “the            
+                                                                         
+U.S. Supreme Court has repeatedly held that the antitrust                 
+exemption applies to the ‘business of baseball.’”  Id. at 10.             
+    The Plaintiffs disagree on this crucial aspect and instead           
+consider that “the exemption covers only MLB and its minor                
+league affiliates and thus does not extend to the League or the           
+
+Franchise Defendants.”  Pls.’ Opp’n SMJ 5.                                
+    The Plaintiffs’ and the Defendants’ acknowledgement of the           
+exemption differs first in their appellation of it.  The                  
+Defendants name it throughout their motion and opposition as the          
+“baseball antitrust exemption” while the Plaintiffs call it the           
+“MLB exemption”. Def’s. Mot. FSC; Def.’s Mot. SMJ; Pls.’ Opp’n            
+FSC; Pls.’ Opp’n SMJ.  Words matter.  As Holmes said, “[a] word           
+is not a crystal, transparent and unchanged, it is the skin of a          
+living thought and may vary greatly in color and content                  
+according to the circumstances and the time in which it is                
+used.” Towne v. Eisner, 245 U.S. 418, 425(1918).  The                     
+Plaintiffs’ naming is telling: their main argument is that the            
+
+exemption applies to MLB and its minor leagues only, and                  
+“[b]ecause it is established that the MLB exemption can only be           
+applied to MLB and its official minor league affiliates—and no            
+other sports business—Defendants may not invoke it to protect             
+their anticompetitive conduct here.”  Pls.’ Opp’n SMJ 8.  The             
+Plaintiffs do not advance any cases to sustain their claim that           
+the applicability of the clause only to MLB and its official              
+                                                                         
+minor leagues is “established.”  In fact, an exhaustive search            
+throughout all federal courts in this country does not provide            
+for a single case using the denomination “MLB exemption”.                 
+
+    No federal courts have ever (before this case) expressly             
+had to draw a distinction as to the applicability of this clause          
+to professional leagues that are non-MLB or Minor League                  
+affiliates.  Thus, this analysis focuses on interpreting the              
+language and semantics of the major Supreme Court cases that              
+define this exemption.                                                    
+    In the famous 1972 case brought by baseball player Curt              
+Flood, the Supreme Court named the exemption as follows: “The             
+longstanding exemption of professional baseball from the                  
+antitrust laws, Federal Baseball Club v. National League, 259             
+
+U.S. 200 (1922); Toolson v. New York Yankees, Inc., 346 U.S. 356          
+(1953) . . . .”  Flood v. Kuhn, 407 U.S. 258 (1972) (emphasis             
+added).                                                                   
+    Its predecessor, the 1953 Toolson case heard by the same             
+Court, affirmed its earlier ruling in Federal Baseball Club of            
+Baltimore v. National League of Professional Baseball Clubs, 259          
+U.S. 200, holding: “[T]his Court held that the business of                
+providing public baseball games for profit between clubs of               
+professional baseball players was not within the scope of the             
+federal antitrust laws.”  346 U.S. 356, at 357 (emphasis added).          
+
+                                                                         
+    The wording is clear: the antitrust exemption applies to             
+professional baseball.  Had the Cangrejeros team, a professional          
+baseball team, and the Winter League been an amateur team, the            
+non-applicability of the exemption could have been better                 
+supported.  Even with amateur baseball, however, the District             
+
+Court of Puerto Rico has been hesitant on the non-applicability           
+of the clause when amateur players were paid a salary:                    
+    The only hesitation this Court has in a blanket                      
+    application of the exemption is that the Supreme Court               
+    has expressly limited it to professional baseball,                   
+    holding “we now specifically limit the rule there                    
+    established [in Federal Baseball] to the facts there                 
+    involved, i.e. the business of organized professional                
+    baseball.” Radovich v. National Football League, 352                 
+    U.S. 445, 451-452 (1957). In addition, the First                     
+    Circuit has construed Flood, the Supreme Court’s most                
+    recent pronouncement on the exemption, as “holding                   
+    that the longstanding judicially created exemption of                
+    professional baseball from the Sherman Act is an                     
+    established ‘aberration’ in which Congress has                       
+    acquiesced.” Data General Corp. v. Grumman Systems                   
+    Support Corp., 36 F.3d 1147, 1185 n.4 (1st Cir. 1994)                
+    (emphasis added).                                                    
+
+    Although the Federation is allegedly an amateur                      
+    organization, because its players are paid a salary as               
+    per the complaint, and because it is not clear that AA               
+    baseball is purely an amateur gig, the exemption for                 
+    pro-ball may well be applicable. Having already                      
+    determined that there is no subject matter                           
+    jurisdiction under the Sherman Act, however, the Court               
+    declines to decide whether the exemption applies.                    
+
+Melendez v. Federacion de Beisbol Aficionado de Puerto Rico,              
+Civil No. 05-1040 (PG), 2005 WL 8213102, at *3 (D. P.R. Feb. 11,          
+2005) (Pèrez-Gimènez, J.).                                                
+                                                                         
+    In their complaint, the Plaintiffs leave no doubt as to the          
+professional nature of the Cangrejeros team: “Defendant Liga de           
+Béisbol Profesional de Puerto Rico, Inc., (the “League”) is the           
+only top-tier professional baseball league in Puerto Rico,                
+currently consisting of six different franchise teams operated            
+
+by separately owned investors who do not share profits and                
+losses with each other.”  Compl. ¶ 1.  “In October 2019, Axon,            
+through Cangrejeros LLC, purchased operating control of the               
+Cangrejeros de Santurce professional baseball team (the                   
+“Cangrejeros Franchise”).”  Id. ¶ 3.  Thus, the baseball                  
+exemption is applicable to Cangrejeros de Santurce, a                     
+professional baseball team.                                               
+    The Plaintiffs further argue that “[e]ven if the Court               
+finds that the MLB exemption can be extended to the League and            
+its members . . ., the conduct averred in the Complaint still             
+falls outside of the ‘business of baseball’ to which the Supreme          
+Court has limited the exemption,” Pls.’ Opp’n SMJ 10, and                 
+
+contend that “[h]ere, the anticompetitive conspiracy alleged              
+does not involve conduct that is ‘central’ to operating a                 
+baseball league.  To the contrary, [the] Plaintiffs have alleged          
+a conspiracy between the League, the Mayor of San Juan, and the           
+Franchise Defendants for the anticompetitive purpose of                   
+suppressing competition by ‘[removing] Plaintiffs from operating          
+the Cangrejeros Franchise.’”  Id. at 11 (citing Compl. ¶ 50).             
+                                                                         
+    The Defendants argue in turn that the alleged conspiracy             
+falls within the “business of baseball” and sets forth several            
+cases to support their argument.  They start by laying out that           
+“the Supreme Court intended to exempt the business of baseball,           
+not any particular facet of that business, from the federal               
+
+antitrust laws.”  Charles O. Finley & Co., Inc. v. Kuhn, 569              
+F.2d 527, 541 (7th Cir. 1978).  They then turn to two cases               
+alleging collusion, where the Supreme Court declined to hear              
+challenges to the antitrust exemption.                                    
+    In the first case, owners of buildings with rooftop views            
+of a professional baseball team's field brought action against            
+the team, alleging the team was engaging in anti-competitive              
+behavior and had breached a contract with the building owners             
+when they began construction that would block views of the                
+baseball field from the buildings' rooftops.  Right Field                 
+Rooftops, LLC v. Chicago Baseball Holdings, LLC, 87 F. Supp. 3d           
+874 (N.D. Ill. 2015).  The Rooftops argued that the baseball              
+
+exemption did not apply to individual team franchises, and that           
+if it did, the exemption did not apply here because the                   
+Rooftops’ business was “not necessary to produce the game on the          
+field.”  Id. at 884.  The Court laid out that “[t]he Rooftops'            
+first contention that the baseball exemption is inapplicable to           
+individual team franchises is unsupported by the relevant case            
+law.  The Toolson defendants themselves included the New York             
+                                                                         
+Yankees, the Cincinnati Baseball Club, and both the owner and             
+general manager of the Cincinnati club.”  Id.  Further, the               
+Court laid out that “[m]ore fundamentally, . . . the Rooftops'            
+reading of the baseball exemption is overly narrow.  The                  
+exemption applies to the ‘business of baseball’ in general, not           
+
+solely those aspects related to baseball's unique                         
+characteristics and needs.” Id.                                           
+    The second case was brought by scouts that argued that MLB           
+was colluding to keep the scouts’ salaries low because teams              
+were agreeing to not hire scouts already employed by other                
+teams.  Wyckoff v. Office of the Comm'r of Baseball, 211 F.               
+Supp. 3d 615 (S.D.N.Y. 2016).  Citing a previous case involving           
+the Chicago Cubs the Wyckoff Court observed:                              
+    In that case, the court denied plaintiffs' application               
+    for a preliminary injunction on the grounds that the                 
+    baseball exemption barred a challenge to the Chicago                 
+    Cubs' alleged agreement with others to sell tickets to               
+    watch Cubs games from rooftops overlooking Wrigley                   
+    Field. Id. at 884–85. In denying plaintiff's                         
+    application, the court concluded that the leading                    
+    Supreme Court cases broadly exempt the “business of                  
+    baseball”—not discrete aspects of that business—from                 
+    antitrust regulation. Id.                                            
+
+Id. at 625 (citing Right Field Rooftops, 87 F. Supp. 3d at 884-           
+85).  Here, the Plaintiffs claims involve an alleged conspiracy           
+involving an owner of a professional franchise that was                   
+dismissed under the League’s regulations.  This involves the              
+business of baseball.                                                     
+                                                                         
+    The Plaintiffs argument that “[t]he alleged conspiracy has           
+nothing to do with player rules, rules of the game, or any other          
+League rule or bylaw that could even arguably fall within the             
+‘business of baseball’ as that term has been narrowly defined by          
+the court to limit the scope of the MLB exemption,” Pls.’ Opp’n           
+
+SMJ 12, is overly narrow, as was the Rooftop’s reading of the             
+exemption in the Right Field Rooftops case.                               
+    The Sherman Act baseball exemption applies to the LBPPR and          
+the Cangrejeros team since they are a professional baseball               
+team, and the antitrust claims arise in the context of the                
+business of baseball.                                                     
+    The baseball exemption bars any federal antitrust claims             
+issued from the complaint, leading to dismissal of count one and          
+count two.  Count three, count four and count five, alleging              
+state antitrust claims, are consequently dismissed based on the           
+Supremacy Clause as the Supreme Court held in Flood “state                
+antitrust regulation would conflict with federal policy and . .           
+
+. national ‘uniformity (is required) in any regulation of                 
+baseball.’” 407 U.S. at 284 (quoting Flood v. Kuhn, 316 F. Supp.          
+217, 280 (S.D.N.Y. 1970)).                                                
+    This Court’s subject matter jurisdiction over this case              
+could thus only be exercised through count seven, which claims            
+Violations of Civil Rights Act of 1871, 42 U.S.C. § 1983, and             
+
+                                                                         
+could confer supplemental jurisdiction on count six, claiming             
+Contracts in Prejudice of a Third Person.                                 
+
+    C. “Judge shopping ain’t a thing here or anywhere else.”4            
+      The Plaintiffs’ Claim of Violations of Civil Rights  Act           
+      of 1871, 42 U.S.C. § 1983 Must be Dismissed Under the              
+      Doctrine of Res Judicata.                                          
+
+    While the central element of this Complaint revolves around          
+the antitrust injuries that the Plaintiffs allegedly suffered,            
+this Court may also exercise its subject matter jurisdiction              
+through count seven alleging violations of Civil Rights Act of            
+1871, 42 U.S.C. § 1983.  The Plaintiffs’ claim that the                   
+Defendants “conspired with one another and co-conspirator Romero          
+Lugo, [the Mayor of San Juan] acting on behalf of the                     
+municipality of San Juan, to deprive Plaintiffs, without due              
+process of law, of their property interests and rights,                   
+privileges, and immunities secured by the United States                   
+Constitution and laws of the United States under the color of             
+government action by a municipality of Puerto Rico,” Compl. ¶             
+159, and “deprived Axon and Cangrejeros LLC, without any due              
+process or compensation, of their established property interest           
+in being the investor-operator of the Cangrejeros Franchise and           
+having control over the commercial exploitation of the team’s             
+
+    4 Blue Sphere, Inc. v. Individuals, Corporations, etc. Civil         
+Action No. 22-cv-5599, Jan. 18, 2023, transcript at 7 (N.D.Ill.           
+2023)(Seager, J.).                                                        
+                                                                         
+various rights without affording them compensation or due                 
+process of law.” Id.  They did so to “accomplish the objective            
+of San Juan to suppress requests by the Franchise for various             
+improvements in its stadium, to suppress the proposal for a               
+private investment in the stadium, and to eliminate the                   
+
+possibility that the team would move to another municipality in           
+Puerto Rico.” Id. ¶ 160.                                                  
+    In their motion to dismiss for failure to state a claim,             
+the Defendants argued that “Plaintiffs’ action is barred by Res           
+Judicata after [P]laintiffs lost their prior case filed in the            
+local court of Puerto Rico.”  Def’s. Mot. FSC 10.  This Court is          
+therefore “called upon to determine the preclusive effect of a            
+judgment entered by the Puerto Rico Court of First Instance[,             
+and] Puerto Rico law supplies the rule of decision.”  R.G. Fin.           
+Corp. v. Vergara-Nuñez, 446 F.3d 178, 182–83 (1st Cir. 2006)              
+(citing Pérez-Guzmán v. Gracia, 346 F.3d 229, 233-234 (1st Cir.           
+2003)).                                                                   
+
+    The doctrine of res judicata in Puerto Rico is inscribed in          
+the Civil Code:                                                           
+    In order that the presumption of res adjudicata may be               
+    valid in another suit, it is necessary that, between                 
+    the case decided by the sentence and that in which the               
+    same is invoked, there be the most perfect identity                  
+    between the things, causes, and persons of the                       
+    litigants, and their capacity as such.                               
+
+                                                                         
+P.R. Laws Ann. tit. 31, § 3343.  Thus, “a party asserting a res           
+judicata defense under Puerto Rico law must establish three               
+elements: (i) the existence of a prior judgment on the merits             
+that is ‘final and unappealable’; (ii) a perfect identity of              
+thing or cause between both actions; and (iii) a perfect                  
+
+identity of the parties and the capacities in which they acted.”          
+R.G. Fin. Corp., 446 F.3d at 183 (citing Boateng v. InterAm.              
+Univ., Inc., 210 F.3d 56, 61–62 (1st Cir. 2000)).                         
+         1.   The Prior Judgment                                         
+    The Defendants point out that “[o]n May 5, 2022, the San             
+Juan Superior Court issued its Final Judgment,”  Def’s. Mot. FSC          
+4, and that this is a final judgement because “[s]ince May 23,            
+2022, to today, [P]laintiffs never sought review or other relief          
+
+from the San Juan Superior Court’s judgment, which is now firm            
+and final.”  Id. at 5.                                                    
+     The Supreme Court has held that “issues actually litigated          
+in a state-court proceeding are entitled to the same preclusive           
+effect in a subsequent federal § 1983 suit as they enjoy in the           
+courts of the State where the judgment was rendered.”  Migra v.           
+Warren City Sch. Dist. Bd. of Educ., 465 U.S. 75, 83 (1984)               
+(citing Allen v. McCurry, 449 U.S. 90, 96 (1980)).                        
+Consequently, if perfect identity of the thing or cause between           
+
+
+                                                                         
+both actions is established, the State Court Judgement will               
+preclude this claim.                                                      
+         2. The Perfect Identity of Thing or Cause Between Both          
+           Actions                                                       
+
+     “A prior and current action will share a perfect identity           
+of thing if they involve the same object or matter and will               
+share a perfect identity of cause if they flow from the same              
+principal ground or origin or, put another way, if they derive            
+from a common nucleus of operative facts.”  Universal Ins. Co.            
+v. Office of the Ins. Comm'r, 755 F.3d 34, 38 (1st Cir. 2014)             
+(citing García–Monagas v. De Arellano, 674 F.3d 45, 51 (1st Cir.          
+2012)).  The Defendants argue that “[b]oth the prior local court          
+case as well as this case arise because of Axon’s suspension              
+from the LBPPR”.  Def.’s Mot. FSC 11.  They conclude their                
+argument by stating that “[w]hile it could be argued that both            
+cases are based on the same set of facts, at the very least both          
+cases derive from a common nucleus of operative facts.” Id.               
+    The Plaintiffs argue that “[e]ven a cursory comparison of            
+the claims in the narrow Superior Court Action to the very                
+different claims in the instant action makes it evident that              
+‘broader and more far-reaching’ conduct has been alleged here.”           
+Pls.’ Opp’n FSC 13 (citing Walsh v. Int’l Longshoremen’s Ass’n.,          
+630 F.2d 864, 873 (1st Cir. 1980)).  They consider the Superior           
+
+Court Action to be “a simple breach of contract action                    
+                                                                         
+challenging, as a violation of the League’s Constitution, the             
+League’s imposition of a two-year suspension and a $5,000 fine            
+on Axon,” id., while describing the current action as “a wide-            
+ranging case bringing federal antitrust and civil rights                  
+conspiracy claims, as well as Puerto Rico unfair competition and          
+
+antitrust claims, that were not in any way presented in the               
+Superior Court Action.”  Id. at 13-14.                                    
+    The Plaintiffs conflate similarity of cases and similarity           
+of claims.  This Court does not have to consider the preclusive           
+effect of the Superior Court Judgement on the entire case                 
+brought before it, but the preclusive effect on the cause of              
+action that bears “perfect identity” of thing or cause between            
+actions.  See P.R. Laws Ann. tit. 31, § 3343.                             
+    Turning to the complaint, and focusing solely on the claim           
+of Violations of Civil Rights Act of 1871, 42 U.S.C. § 1983, the          
+Plaintiffs allege that the “Defendants’ conspiracy, with the              
+participation of the mayor of San Juan acting on behalf of the            
+
+municipality, deprived Axon and Cangrejeros LLC, without any due          
+process or compensation, of their established property interest           
+in being the investor-operator of the Cangrejeros Franchise and           
+having control over the commercial exploitation of the team’s             
+various rights without affording them compensation or due                 
+process of law.” Compl. ¶ 159.  Essentially, this deprivation of          
+the “property interest in being the investor-operator of the              
+                                                                         
+Cangrejeros Franchise” takes the form of Axon’s suspension from           
+his role, the same grievance at the center of the action brought          
+to the Superior Court, and for which the court concluded that             
+such suspension was in compliance with “the contractual due               
+process of the law established by the parties in the                      
+
+Constitution of the Professional Baseball League.”  Axon v. Liga          
+De Beisbol Professional de Puerto Rico, Inc., NO. SJ-2022-CV-             
+02802 at 12.                                                              
+    In the Superior Court Judgment, the Court itself compared,           
+in Nostradamus fashion, the contractual due process case brought          
+before it with a potential constitutional due process claim had           
+there been a state actor involved:                                        
+    The Court must express, first, that the Professional                 
+    Baseball League is a private entity. As it is well                   
+    known, unless a private entity is an actor of the                    
+    state, rights such as the constitutional due process                 
+    of the law cannot be claimed against it. In such                     
+    cases, the Supreme Court has reiterated that                         
+    contractual due process of the law is what applies.                  
+    This essentially means that if the parties established               
+    by contract a specific procedure to sanction one of                  
+    the parties, the procedure established by contract                   
+    must be followed. This makes sense because the                       
+    doctrine of pacta sunt servanda applies. However, in                 
+    this case, the Court must analyze whether the                        
+    procedure to impose sanctions that the President of                  
+    the Professional Baseball League carried out against                 
+    Mr. Axon is the correct one, pursuant to the contract                
+    between the parties.                                                 
+
+Id. at 10                                                                 
+
+    At the heart of both claims lies Axon’s suspension and then          
+termination by the Professional Baseball League.  After failing           
+                                                                         
+in State Court, under the theory of contractual due process, the          
+Plaintiffs attempt to bring the same claim again under a                  
+different theory by adding the Mayor, a state actor, to their             
+complaint.                                                                
+    This Court agrees that at the very least, both claims                
+
+derive from a common nucleus of operative facts.  It is                   
+satisfied that the perfect identity of thing or cause between             
+both actions is present here.                                             
+         3. Identity of the Parties                                      
+    The Plaintiffs argue first “it cannot be disputed that the           
+parties involved in this action are not identical to the parties          
+in the Superior Court Action. In total, there are six new                 
+Defendants in this action (Criollos Management, Inc., RA12,               
+Inc., Indios de Mayaguez Baseball Club Inc., Gigantes de                  
+Carolina Baseball Club Inc., Leones De Ponce CF Inc. and Impulse          
+Sports) as well as a new Plaintiff (Santurce Merchandising LLC)           
+who were not parties to the Superior Court Action.”  Pls.’ Opp’n          
+
+FSC 15.  Second, they argue that “Defendants have made no                 
+attempt to show that any of the new Defendants in this action             
+were in privity with any of the parties in the prior action.”             
+Id.                                                                       
+    The Plaintiffs, however, fail to recognize that “under               
+Puerto Rico law, the addition of new defendants to the federal            
+claim does not destroy the defendants' ability to raise the res           
+                                                                         
+judicata defense.”  Rivera-Feliciano v. State Ins. Fund Corp.,            
+652 F. Supp. 2d 170, 181 (D.P.R. 2009) (Pérez-Giménez, J.)                
+(citing Baez-Cruz v. Municipality of Comerio, 140 F.3d 24, 29             
+(1st Cir. 1998)).  In another case, the same argument made by             
+plaintiffs was met with the same response: “Plaintiffs point out          
+
+that the present action contains new parties that were not                
+parties in the Commonwealth Court action.  Nevertheless, the              
+defense of res judicata is applied even when the named parties            
+are different, as long as the real parties in interest are                
+identical.”  Lugo Rodriguez v. Puerto Rico Inst. of Culture, 221          
+F. Supp. 2d 229, 238 (D.P.R. 2002) (Garcia-Gregory, J.), aff'd,           
+98 F. App'x 15 (1st Cir. 2004) (citing Arecibo Radio Corp. v.             
+Commonwealth, 825 F.2d 589, 591 (1st Cir. 1987)).                         
+    Here, the real parties of interest in the Civil Rights Act           
+Claim, triggered by Axon’s suspension, are Axon and CSBC, who             
+filed the action in the Commonwealth Court and in this Court              
+against the unlawful conduct of LBPPR and Flores in his official          
+
+capacity as President of the League and his personal capacity.            
+    Plaintiffs fail to demonstrate that res judicata cannot              
+apply.  The Civil Rights Act claim stands alone and is not                
+intertwined with the antitrust claims.  This Court is satisfied           
+that the Commonwealth Judgment precludes the federal claim                
+through the doctrine of res judicata.                                     
+
+                                                                         
+ III.  CONCLUSION                                                        
+    Over 100 years ago, and again 50 years ago, the Supreme              
+
+Court declined to intervene in what it considered to be a                 
+congressional responsibility.  “[T]he Court said in Federal               
+Baseball in 1922 and what it said in Toolson in 1953, we say              
+again here in 1972: the remedy, if any is indicated, is for               
+congressional, and not judicial, action.”  Flood, 407 U.S. at             
+285.  The Supreme Court also said that “[Congress] by its                 
+positive inaction, has allowed those decisions to stand for so            
+long and, far beyond mere inference and implication, has clearly          
+evinced a desire not to disapprove them legislatively.”  Id.              
+    Decades after acknowledging that these decisions have stood          
+for “so long,” it is now apparent that a congressional                    
+
+intervention is unlikely.  The Supreme Court may well need to             
+take responsibility itself, or risk issuing the same decision in          
+a century.  Until then, district courts have no other choice but          
+to apply the antitrust exemption to Professional Baseball.                
+    This Court does not have jurisdiction over the subject               
+matter of this action pursuant to 28 U.S.C. §§ 1331 and 1337              
+because the claims are exempt from Sections 4 and 16 of the               
+Clayton Act (15 U.S.C. §§ 15 & 26), Sections 1 and 2 of the               
+Sherman Act (15 U.S.C. §§ 1 & 2), and 42 U.S.C. §§ 1983 & 1988            
+because of the professional baseball antitrust exemption.                 
+
+                                                                         
+    Therefore, this Court does not have supplemental                     
+jurisdiction over the claims arising under the Puerto Rico                
+antitrust law, P.R. Laws Ann. tit. 10, § 257, et seq., for                
+violations of the Puerto Rico Fair Competition Law, P.R. Laws             
+Ann. tit. 10, § 259, based on the Supremacy Clause.                       
+
+    The Civil Rights Act Claim is precluded by a prior                   
+judgement through the doctrine of res judicata and the Court              
+declines to exercise supplemental authority on the state claim            
+of Contracts in Prejudice of a Third Party under the Puerto Rico          
+General Tort Statute, P.R. Laws Ann. tit. 31, § 10801.                    
+    This Court GRANTS the Defendants’ motion to dismiss for              
+lack of subject matter jurisdiction, ECF No. 43, with regard to           
+the federal antitrust claims.  This Court GRANTS the Defendants’          
+motion to dismiss for failure to state a claim, ECF No. 28,               
+regarding the Civil Rights Act Claim through the doctrine of res          
+judicata.                                                                 
+                                       /s/ William G. Young              
+                                          WILLIAM G. YOUNG               
+                                              JUDGE                      
+                                              of the                     
+                                           UNITED STATES5                
+
+
+    5 This is how my predecessor, Peleg Sprague (D. Mass. 1841-          
+1865), would sign official documents.  Now that I’m a Senior              
+District Judge I adopt this format in honor of all the judicial           
+colleagues, state and federal, with whom I have had the                   
+privilege to serve over the past 45 years.

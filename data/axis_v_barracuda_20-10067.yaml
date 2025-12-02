@@ -1,0 +1,22 @@
+appellate_circuit: 1st
+appellate_date: '2025-11-20'
+appellate_ruling_link: https://www.courtlistener.com/opinion/10739968/axis-insurance-company-v-barracuda-networks-inc/
+docket_number: 1:20-cv-10067-NMG
+judge_name: Per Curiam (Gelpi, Thompson, Montecalvo)
+lower_court_ruling_file: axis_v_barracuda_20-10067_ruling.txt
+outcome: AFFIRM
+reason_for_appeal: '=== Axis Insurance Company''s Grounds for Appeal ===
+
+  1. Axis argued that the district court erred in denying equitable indemnification by improperly focusing on the legal characterization of the relationship between Zoll and Barracuda, rather than on the factual circumstances showing that Zoll could be held derivatively or vicariously liable for Barracuda’s acts.
+
+  2. Axis contended that, under Massachusetts law and the cited case law, equitable indemnification does not depend solely on the formal legal relationship between the parties, but can be supported where the facts demonstrate that the indemnitee’s liability is derivative of the indemnitor’s conduct.
+
+  3. Axis argued that the district court erred in granting summary judgment on Fusion’s breach of contract claim because whether Barracuda waived the OEM’s condition precedent (requiring inclusion of certain limitation-of-liability/indemnification language in Fusion’s customer contracts) is an issue for the factfinder, and that its waiver theory was not ''devoid of any reasonable factual support.''
+
+  4. Axis contended that Barracuda impliedly waived the OEM’s condition precedent by failing, over a period of years, to exercise its contractual right to audit Fusion’s books and records (including customer contracts), and that this inaction should be treated as a relinquishment of the right to rely on that condition.
+
+  5. Axis alternatively argued that Barracuda was equitably estopped from invoking the OEM’s condition precedent because Barracuda’s longstanding failure to exercise its audit rights constituted a ''representation'' that led Fusion reasonably to believe it was in compliance with the contractual condition and to act in reliance on that belief to its detriment.
+
+  6. Axis argued that the district court erred in granting summary judgment on Fusion’s claim for breach of the covenant of good faith and fair dealing, asserting that substantial evidence showed Barracuda deprived Fusion of the benefit of its contractual bargain under the OEM.
+
+  7. In support of the good-faith-and-fair-dealing claim, Axis contended that Barracuda acted in bad faith in connection with the data breach by being slow to provide information about the breach, by providing information in a virtually unusable format, by interfering with Zoll’s investigators’ efforts to determine the cause of the breach, and by misrepresenting details of the breach, thereby frustrating Fusion’s contractual rights and expectations.'

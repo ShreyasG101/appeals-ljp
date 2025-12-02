@@ -1,0 +1,28 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the plaintiff plausibly alleged municipal liability under 42 U.S.C. \u00a7 1983 by showing the existence of a school board policy or custom of withholding information from parents regarding a student's gender identity and related matters.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that the plaintiff failed to plausibly allege the existence of a municipal policy or custom of withholding information from parents, as required for Monell liability, because the complaint relied on conclusory assertions unsupported by factual allegations and the Board's statements did not amount to active ratification or approval of the alleged conduct."
+    }
+  ],
+  "key_precedents": [
+    "Monell v. Dep't of Soc. Servs. of N.Y., 436 U.S. 658 (1978)",
+    "Connick v. Thompson, 563 U.S. 51 (2011)",
+    "City of St. Louis v. Praprotnik, 485 U.S. 112 (1988)",
+    "Young v. City of Providence ex rel. Napolitano, 404 F.3d 4 (1st Cir. 2005)",
+    "Abdisamad v. City of Lewiston, 960 F.3d 56 (1st Cir. 2020)",
+    "Welch v. Ciampa, 542 F.3d 927 (1st Cir. 2008)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "Plaintiff Amber Lavigne initiated this lawsuit against the Great Salt Bay Community School Board (the \"Board\") and various individual members of the school staff1 (together, \"defendants\"), alleging that defendants infringed on her constitutional right to parent. Lavigne claims that defendants acted unconstitutionally by providing her child, A.B., a chest binder -- \"a device used to flatten a female's chest so as to appear male\" -- and referring to A.B. by a name and set of pronouns different from those given to A.B. at birth without telling Lavigne, adhering to what Lavigne alleges is a school-wide policy of withholding such information. We now consider whether the district court correctly determined that the Board could not be held liable for the alleged constitutional violations. For the reasons explained below, we agree with the district court that Lavigne has not plausibly alleged that the Board had a custom or policy in place of withholding this type of information and, accordingly, affirm the district court's decision granting the Board's motion to dismiss."
+}

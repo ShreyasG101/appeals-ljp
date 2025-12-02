@@ -1,0 +1,25 @@
+{
+  "overall_outcome": "REVERSE",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court erred in denying actual damages in a default judgment under Federal Rule of Civil Procedure 54(c) when the complaint sought actual damages in an amount to be determined at trial but did not specify a numerical amount.",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "The court held that Rule 54(c) does not prohibit awarding actual damages in a default judgment where the complaint sought actual damages in an amount to be determined at trial, relying on Henry v. Sneiders and agreeing with the Seventh Circuit that absence of a specific damages amount in the pleadings does not bar an award of actual damages."
+    }
+  ],
+  "key_precedents": [
+    "Henry v. Sneiders, 490 F.2d 315 (9th Cir. 1974)",
+    "Appleton Elec. Co. v. Graves Truck Line, Inc., 635 F.2d 603 (7th Cir. 1980)",
+    "Fong v. United States, 300 F.2d 400 (9th Cir. 1962)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": true,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "Default Judgment\n\nReversing and remanding for further proceedings in an action under the Lanham Act, the panel held that the district court erred in entering default judgment under Fed. R. Civ. P. 54(c) but denying the plaintiff\u2019s request for damages.\nRule 54(c) provides that a default judgment \u201cmust not differ in kind from, or exceed in amount, what is demanded in the pleadings.\u201d The district court denied the plaintiff\u2019s request for damages because the complaint did not identify an amount of damages sought.\nGuided by Henry v. Sneiders, 490 F.2d 315 (9th Cir. 1974) (holding that a default judgment of $235,338.89 was permissible under Rule 54(c) where the complaint had alleged that the plaintiff had suffered $71,243.68 in direct losses, \u201ctogether with additional amounts not yet fully determined\u201d), and agreeing with the Seventh Circuit, the panel held that Rule 54(c) does not prohibit awarding actual damages in a default judgment to a party that sought in its pleadings actual damages in an amount to be determined at trial.\nConcurring, Judge Berzon, joined by Judge Kennelly, wrote that Henry was not only dispositive but also correctly decided because neither the language of Rule 54(c) nor practical considerations regarding the ability of defaulting defendants to oppose a default judgment for damages support preclusion of a default damages award where the complaint did not plead a numerical damages amount."
+}

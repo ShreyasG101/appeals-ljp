@@ -1,0 +1,41 @@
+{
+  "overall_outcome": "MIXED",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether summary judgment was properly granted against Warner's age discrimination claims under the ADEA for failure to promote.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found that, even under the McDonnell Douglas framework, Warner failed to present sufficient evidence that the employer's stated reasons for not promoting her were pretext for age discrimination."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether summary judgment was properly granted against Warner's sex discrimination claim under Title VII for the Durham promotion.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that Warner's evidence did not create a triable issue of fact as to whether the stated reasons for not promoting her to the Durham position were pretext for sex discrimination."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether summary judgment was properly granted against Warner's sex discrimination claim under Title VII for the Somersworth promotion.",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "The court found that Hayes's comments during the Somersworth interview, when combined with other circumstantial evidence, could support a jury finding of pretext and discriminatory motive, making summary judgment inappropriate."
+    }
+  ],
+  "key_precedents": [
+    "McDonnell Douglas Corp. v. Green, 411 U.S. 792 (1973)",
+    "Babb v. Wilkie, 589 U.S. 399 (2020)",
+    "Joseph v. Lincare, Inc., 989 F.3d 147 (1st Cir. 2021)",
+    "Torrech-Hern\u00e1ndez v. Gen. Elec. Co., 519 F.3d 41 (1st Cir. 2008)",
+    "Ahmed v. Johnson, 752 F.3d 490 (1st Cir. 2014)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "Elizabeth Warner is a federal postal employee who was passed over for two promotions. Believing that she was denied those positions because of her age and sex, she sued her employer, the United States Postal Service (USPS). Warner alleged that USPS discriminated against her in violation of the Age Discrimination in Employment Act (ADEA) and Title VII of the Civil Rights Act. The district court granted summary judgment against her. It held that no reasonable jury could conclude that USPS's stated reasons for denying Warner the promotions were, in fact, pretexts for discrimination.\n\nWe agree that Warner's claims of age discrimination fail as a matter of law. However, we find that the evidence presents a genuine dispute of material fact as to one of her sex-discrimination claims. We therefore affirm in part, and reverse in part, the district court's summary judgment order. Our reasoning follows."
+}

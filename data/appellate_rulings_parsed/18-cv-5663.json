@@ -1,0 +1,28 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court erred in granting summary judgment to defendant by concluding that the allegedly defamatory statements in Grand\u2019s letter were non-actionable statements of opinion rather than fact under New York law.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that Grand\u2019s statements were non-actionable opinions based on disclosed facts, not provably false factual assertions, and that a reasonable reader would understand them as her subjective characterization of the relationship, not as distinct factual claims."
+    }
+  ],
+  "key_precedents": [
+    "Gross v. N.Y. Times Co., 82 N.Y.2d 146 (1993)",
+    "Davis v. Boeheim, 24 N.Y.3d 262 (2014)",
+    "Celle v. Filipino Rep. Enters. Inc., 209 F.3d 163 (2d Cir. 2000)",
+    "Chau v. Lewis, 771 F.3d 118 (2d Cir. 2014)",
+    "Steinhilber v. Alphonse, 68 N.Y.2d 283 (1986)",
+    "Thomas H. v. Paul B., 18 N.Y.3d 580 (2012)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": true,
+  "summary_text": "Plaintiff-Appellant Steven Douglas Coleman, a prominent jazz saxophonist, appeals from the district court\u2019s grant of summary judgment in favor of his former pupil, Defendant-Appellee Maria Kim Grand, on Coleman\u2019s claim that Grand defamed him under New York law when she accused him of sexual harassment. Coleman\u2019s claim centers on a seven-page, single-spaced letter that Grand circulated to a select group of friends and colleagues in the wake of the #MeToo movement, which described the complicated sexual relationship she had with Coleman from 2011 to 2016. After the parties cross-moved for summary judgment, the district court (Vitaliano, J.) dismissed Coleman\u2019s defamation claim, concluding that he failed to offer facts from which a reasonable jury could conclude that Grand acted with actual malice in making certain statements in her letter and that her letter did not contain actionable, demonstrably false statements.\n       On appeal, Coleman argues that the district court (1) erred in its application of New York law, (2) erroneously determined that there was no genuine issue of material fact as to whether Grand acted with actual malice, and (3) incorrectly concluded that the allegedly defamatory statements in Grand\u2019s letter were non-actionable statements of opinion rather than fact. Because we agree with the district court that Coleman challenges only non-actionable statements of opinion, and not the disclosed facts on which those opinions were based, we AFFIRM the judgment of the district court.\n\n      Judge Menashi dissents in a separate opinion.\n\n      AFFIRMED."
+}

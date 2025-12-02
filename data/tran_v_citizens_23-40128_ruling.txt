@@ -1,0 +1,836 @@
+UNITED STATES DISTRICT COURT                            
+               DISTRICT OF MASSACHUSETTS                             
+
+                              )                                      
+ANDY LUU TRAN,                     )                                      
+                              )                                      
+     Plaintiff-Appellant,     )                                      
+                              )                                      
+v.                                 )         CIVIL ACTION                 
+                              )         NO. 23-40128-WGY             
+CITIZENS BANK N.A. F/K/A           )                                      
+RBS CITIZENS, N.A., and            )                                      
+HERBERT JACOBS,                    )                                      
+                              )                                      
+     Defendant-Appellees.     )                                      
+                              )                                      
+                              )                                      
+
+YOUNG, D.J.                                   January 23, 2024            
+                  MEMORANDUM & ORDER                                 
+I.   INTRODUCTION                                                         
+This case comes before this Court as an appeal from a                
+bankruptcy court order and judgment.  The appellant, Andy Luu             
+Tran (“Tran”), asks this Court to reverse the Bankruptcy Court’s          
+decision, while the appellee, Herbert Jacobs (“Jacobs”),                  
+requests the Court affirm the same.                                       
+Tran granted Citizens Bank N.A. f/k/a RBS Citizens, N.A.             
+(“Citizens Bank”) a mortgage on his property.  Citizens Bank              
+foreclosed on the property and sold it to Jacobs who was the              
+highest bidder at the foreclosure auction sale.  Citizens Bank            
+and Jacobs executed a memorandum of sale.  Subsequently, and              
+prepetition, an Affidavit of Sale and a foreclosure deed, the             
+latter of which Tran alleges is defective, were recorded.  When           
+asked to vacate the property, Tran filed for bankruptcy and               
+initiated an adversary bankruptcy proceeding, contending that he          
+still retained the equity of redemption over the mortgaged                
+
+property, and could avoid the transfer of his equity of                   
+redemption because the foreclosure deed’s defects rendered the            
+transfer void as incompliant with the Commonwealth’s applicable           
+notice requirements.                                                      
+Having reviewed the entire record, including the bankruptcy          
+court docket, see Bankruptcy Docket, ECF No. 2 (“Bankruptcy               
+Docket”), this Court holds that Tran’s equity of redemption               
+extinguished at the conclusion of the foreclosure auction sale            
+upon the execution of a memorandum of sale between Citizens Bank          
+and Jacobs.  This Court also holds that the Affidavit of Sale             
+relating to the auction sale that was properly recorded provided          
+constructive notice to third parties such that Tran is unable to          
+
+avoid the transfer and the extinguishment of his equity of                
+redemption.  Accordingly, and for the reasons stated below, this          
+Court affirms the Bankruptcy Court’s decision.                            
+II.  PROCEDURAL HISTORY                                                   
+On September 13, 2022, Tran filed for Chapter 13                     
+bankruptcy.  Statement of Material Facts ¶ 6, Bankruptcy Docket           
+No. 33 (“Material Facts”).1  On September 14, 2022, Tran filed a          
+complaint in the Bankruptcy Court, seeking to recover his real            
+property located at 47 Clinton Street, Framingham, Massachusetts          
+(the “Property”), which was subject to a mortgage encumbering             
+title to the Property, with Tran as the mortgagor and Citizens            
+
+Bank as the mortgagee.  See Compl. to Avoid Unperfected Pre-              
+Petition Transfer, Bankruptcy Docket No. 1 (“Compl.”).                    
+After both Citizens Bank and Jacobs responded to the                 
+Complaint, Tran moved for judgment on the pleadings, which the            
+Bankruptcy Court, following a hearing and with the assent of all          
+parties, converted into a motion for summary judgment.  See               
+Order 1, Bankruptcy Docket No. 38 (“Bankruptcy Court Decision”).          
+The parties were given an opportunity to provide supplemental             
+pleadings, which they did, and Citizens Bank and Jacobs moved             
+for summary judgment in their favor.  Id. at 1-2.                         
+On August 7, 2023, the Bankruptcy Court granted summary              
+judgment in favor of Citizens Bank and Jacobs and against Tran.           
+
+Id. at 2.  In reaching that conclusion, the Bankruptcy Court              
+held that Tran was unable to avoid the prepetition transfer of            
+the Property because his equity of redemption over the Property           
+had extinguished when the foreclosure auction concluded with the          
+
+1 As noted in the Bankruptcy Court Decision, the Statement           
+of Material Facts state “uncontested facts” on which the                  
+Bankruptcy Judge, among other submissions, relied in his                  
+decision.  See Bankruptcy Court Decision 2.                               
+execution of a memorandum of sale.  Id. at 4.  The Bankruptcy             
+Court held further that the delivery of a deed was not required           
+to “complete[]” the foreclosure sale and that the execution of a          
+memorandum of sale was sufficient to complete foreclosure and             
+thus extinguish Tran’s equity of redemption as mortgagor.  Id.            
+
+Finally, while acknowledging that the foreclosure deed was                
+incomplete, as it lacked proper notarization, id. at 5                    
+(referring to “the incomplete foreclosure deed”), the Bankruptcy          
+Court nonetheless held that it did not need to reach the issue            
+of whether an incomplete deed gave rise to the necessary                  
+constructive notice to third parties to effectuate the transfer           
+of the equity of redemption, id. at 5-6.  The Bankruptcy Court            
+also held that the recordation of the Affidavit of Sale provided          
+constructive notice to a hypothetical bona fide purchaser.  Id.           
+at 5-6.  For these reasons, the Bankruptcy Court concluded that           
+the equity of redemption on the Property, once belonging to Tran          
+as the mortgagor, had been lawfully extinguished.  Id. at 6.              
+
+Subsequently, on August 29, 2023, the Bankruptcy Court denied             
+Tran’s motion for relief from judgment.  See Order on Mot. for            
+Relief from J., Bankruptcy Docket No. 44.                                 
+Tran then filed this appeal, contending that his equity of           
+redemption extinguished, not upon the execution of a memorandum           
+of sale at the close of the foreclosure auction, but at the time          
+of the transfer of the deed, which in this case was defective             
+and therefore incapable of extinguishing said equity of                   
+redemption.  See Opening Br. of Appellant (“Appellant’s Br.”),            
+ECF No. 7.  The parties properly briefed the issue.  See Opening          
+Br. of Appellee (“Appellee’s Br.”), ECF. No. 8; Reply Br. for             
+Appellant (“Appellant’s Reply”), ECF No. 9; Surreply of Appellee          
+
+(“Appellee’s Surreply”), ECF No. 13; Reply to Mot. Leave to File          
+Surreply (“Appellant’s Surreply”), ECF. No. 11; Herbert Jacobs’           
+Resp. to Debtors’ Citation of Suppl. Authority (“Appellee’s               
+Resp. Suppl. Authority”), ECF No. 14.                                     
+The Court has carefully reviewed the entire record                   
+pertaining to this case as well as the orders and judgments               
+entered by the Bankruptcy Court before preparing this opinion.            
+III.  FACTS ALLEGED                                                       
+The material facts in this case are uncontested.                     
+Bankruptcy Court Decision 2.  On May 27, 2008, Tran granted a             
+mortgage on the Property to Citizens Bank.  Material Facts ¶ 1.           
+Citizens Bank foreclosed on the mortgage and on August 16, 2022,          
+
+Jacobs purchased the property at a foreclosure auction.  Id. ¶            
+2.  On the same day, Citizens Bank and Jacobs signed a                    
+memorandum of sale in connection with the purchase.  Id. ¶ 3.             
+On August 22, 2022, a foreclosure deed regarding the purchase             
+was signed.  Id. ¶ 4.  The deed and an Affidavit of Sale                  
+relating to the sale and purchase was recorded on September 8,            
+2022.  Appellant’s Br. 2; Appellee’s Br. 5.  Days later, on               
+September 12, 2022, Jacobs served Tran a notice to vacate the             
+Property.  Appellee’s Br. 5.  Tran then filed for Chapter 13              
+bankruptcy on September 13, 2022, and a day later, on September           
+14, 2022, an adversary proceeding was initiated in the                    
+Bankruptcy Court, which has given rise to the present appeal.             
+
+Id.; see also Compl.; Appellant’s Br. 2.                                  
+Crucially, Tran takes issue with the foreclosure deed                
+relating to the sale and purchase of the Property by Citizens             
+Bank and Jacobs, signed on August 22, 2022, and recorded on               
+September 8, 2022.  To be sure, Tran agrees that the deed was             
+recorded prior to Tran’s Chapter 13 petition, and therefore               
+prepetition.  Appellant’s Br. 2 (“Pre-petition, a foreclosure             
+deed was recorded . . . .”).  He argues, however, that the deed           
+was defective and therefore unable to put third parties on                
+constructive notice of the Property’s conveyance to Jacobs.  To           
+that end, Tran makes three specific arguments.                            
+First, Tran contends that the deed was deficient because it          
+
+was not notarized, rendering it incompliant with applicable laws          
+of the Commonwealth.  Id. at 2 (mentioning the lack of a                  
+“notarized deed” (emphasis in original) and that “[t]he deed              
+that was recorded was missing a notarization altogether”); id.            
+at 4 (arguing that the deed has a “latent defect”); see also              
+Appellant’s Reply 2 (arguing that the “deed is void and was               
+‘improvidently recorded’”); Compl. ¶ 10 (arguing that the deed            
+“as recorded lacks an acknowledgment as required” by the laws of          
+Commonwealth and therefore “was ‘improvidently’ recorded, and is          
+no effect as a transfer of title”).                                       
+Second, Tran argues that the deed, because it was                    
+“improvidently recorded,” does not provide constructive notice            
+
+to third parties of the extinguishment of his equity of                   
+redemption, and therefore, that he retains the equity of                  
+redemption over the Property.  See, e.g., Appellant’s Br. 4               
+(arguing that the lack of notarization “prevents the deed from            
+giving constructive notice to anyone”); id. at 5 (contending              
+that “the deed was improvidently recorded and does not give               
+constructive notice”); Appellant’s Reply 2 (contending that “the          
+equity of redemption was not extinguished” (emphasis in                   
+original)); Appellant’s Surreply 2 (asking this Court to remand           
+the Bankruptcy Court Decision “for entry of judgment in Tran’s            
+favor, avoiding the transfer of Mr. Tran’s equity of                      
+redemption”).                                                             
+
+Third, Tran argues that the Affidavit of Sale, attesting to          
+the sale and purchase of the Property by Citizens Bank and                
+Jacobs, signed on August 22, 2022, and recorded on September 8,           
+2022, cannot be substituted for a properly executed and recorded          
+deed, and therefore cannot be regarded as having given                    
+constructive notice to third parties of the sale that would               
+extinguish his equity of redemption on the Property.                      
+Appellant’s Br. 2 (“There was only an Affidavit of Sale, which            
+is not the same thing [as a notarized deed.]”); id. at 5                  
+(arguing that the “Affidavit of Sale does not cure the latent             
+defect” and that “the deed was improvidently recorded and does            
+not give constructive notice”); Appellant’s Reply 2 (arguing              
+
+that “an ‘affidavit’ is not a ‘deed’”); id. (“Whether the                 
+affidavit was ‘properly recorded’ is irrelevant.”); id. (“All             
+that the affidavit gives notice of is that the equity of                  
+redemption was sold, not that the property was conveyed.”).               
+In response, Jacobs contends that “there is no need to               
+reach [the] issue” of whether the deed was defective and void.            
+Appellee’s Surreply 3 n.1.  This, Jacobs argues, is because the           
+execution and recording of a deed is not necessary to extinguish          
+Tran’s equity of redemption; said equity extinguishes, Jacobs             
+contends, as of the moment of the foreclosure auction sale’s              
+conclusion, of which third parties were put on constructive               
+notice via the proper execution and recording of the Affidavit            
+
+of Sale relating to the foreclosure sale.  Appellee’s Br. 8               
+(arguing that “[t]he [e]quity [o]f [r]edemption [w]as                     
+[e]xtinguished [a]t [t]he [f]oreclosure [a]uction”); id. at 10            
+(arguing that “[t]he [a]ffidavit [o]f [s]ale [p]rovides                   
+[c]onstructive [n]otice [o]f [t]he [f]oreclosure [s]ale”); see            
+also Appellee’s Surreply 3 n.1 (approvingly citing the                    
+Bankruptcy Court Decision’s holding that “the Affidavit of Sale           
+that was recorded did provide constructive notice” (quoting               
+Bankruptcy Court Decision 5-6)).                                          
+IV.  ANALYSIS                                                             
+Tran asks this Court to review and reverse the Bankruptcy            
+Court Decision as “a manifest error of law.”  Appellant Br. 7.            
+
+In essence, the parties’ contentions require this Court to                
+determine the precise moment at which a mortgagor’s -- here,              
+Tran’s -- equity of redemption over a mortgaged property legally          
+extinguishes.                                                             
+First, Tran asks the Court to reverse the Bankruptcy                 
+Court’s holding that his equity of redemption extinguished at             
+the conclusion of the foreclosure auction and not when the deed           
+was recorded.  See Bankruptcy Court Decision 4 (“It is settled            
+law that, when a foreclosure auction concludes with an accepted           
+bid and the execution of a memorandum of sale, a mortgagor’s              
+equity of redemption is extinguished.”); id. (“A foreclosure              
+sale is not ‘completed’ by delivery of the deed . . . .”).                
+
+Jacobs contends that Tran’s equity of redemption extinguished             
+when the foreclosure auction was concluded.  See Appellee’s Br.           
+2.                                                                        
+Second, Tran asks the Court to reverse the Bankruptcy                
+Court’s holding that the execution and recording of the                   
+Affidavit of Sale put third parties on constructive notice of             
+the conclusion of the foreclosure auction, thus extinguishing             
+Tran’s equity of redemption.  See Bankruptcy Court Decision 5-6           
+(holding that “the Affidavit of Sale that was recorded did                
+provide constructive notice . . . and as such, a trustee could            
+not avoid the transfer (extinguishment) of [Tran’s] equity of             
+redemption over the Property” (footnote omitted)).                        
+
+All parties agree that the central issues here are properly          
+categorized as issues of law.  Appellant’s Br. 1; Appellee’s Br.          
+4.                                                                        
+As articulated in greater detail below, this Court agrees            
+with the Bankruptcy Court, and, therefore, rejects this appeal.           
+A.   Standard of Review                                              
+This Court reviews a bankruptcy court’s conclusions of law           
+de novo, and its findings of fact subject to a “clearly                   
+erroneous” standard.  See Sharfarz v. Goguen, 691 F.3d 62, 68             
+(1st Cir. 2012); Stoehr v. Mohamed, 244 F.3d 206, 207-08 (1st             
+Cir. 2001).  A bankruptcy court’s entry of summary judgment, as           
+is the case here, warrants de novo review.  See Sharfarz, 691             
+
+F.3d at 68; Autism Intervention Specialists, LLC v. Aoude, 654            
+B.R. 41, 46 (D. Mass. 2023).                                              
+Since the issues presented on appeal in this case are                
+matters of law, this Court will exercise de novo review.  Cf.             
+DeNadai v. Preferred Cap. Mkts., 272 B.R. 21, 27 (D. Mass. 2001)          
+(“The parties agree that there is no dispute as to a material             
+fact and that the present appeal presents only legal issues               
+subject to de novo review.”).                                             
+B.   The Bankruptcy Court Correctly Held that the Equity of          
+     Redemption Extinguishes Upon Execution of a Memorandum          
+     of Sale.                                                        
+  1.   Generally                                                     
+The crux of the legal issue presented in this appeal is              
+when in time a mortgagor’s equity of redemption extinguishes.             
+Tran argues that said equity does not extinguish at the                   
+conclusion of a foreclosure auction, but rather when the highest          
+bidder at the auction pays the consideration “and the deed is             
+delivered, and not before.”  Appellant’s Reply 2 (emphasis in             
+original).  Jacobs contends that the equity of redemption                 
+extinguishes at the conclusion of the foreclosure auction, of             
+which third parties were put on constructive notice via a signed          
+and recorded Affidavit of Sale, and not when the deed is                  
+delivered.  See Appellee’s Br. 8-9.  The Bankruptcy Court                 
+Decision sides with Jacobs, holding that “[i]t is settled law             
+that, when a foreclosure auction concludes with an accepted bid           
+
+and the execution of a memorandum of sale, a mortgagor’s equity           
+of redemption is extinguished.”  Bankruptcy Court Decision 4.             
+For the reasons explained below, this Court agrees with the               
+Bankruptcy Court.                                                         
+The Commonwealth subscribes to the so-called “title theory”          
+of mortgage law.  See, e.g., United States Bank Nat'l Ass'n v.            
+Ibanez, 458 Mass. 637, 649 (2011) (“In a ‘title theory state’             
+like Massachusetts, a mortgage is a transfer of legal title in a          
+property to secure a debt.”); Lemelson v. United States Bank              
+Nat'l Ass'n, 721 F.3d 18, 23 (1st Cir. 2013) (“It is beyond               
+dispute that Massachusetts subscribes to the ‘title theory’ of            
+
+mortgage law.”); Culhane v. Aurora Loan Servs. of Nebraska, 708           
+F.3d 282, 292 (1st Cir. 2013) (describing the Commonwealth as “a          
+title theory state”).  In the Commonwealth, therefore, the grant          
+of a mortgage transfers legal title to the mortgaged property             
+from the mortgagor to the mortgagee, but the equity of                    
+redemption, that is, the mortgagor’s right to recover property            
+prior to a foreclosure, is not subject to transfer by the mere            
+grant of a mortgage.  Bevilacqua v. Rodriguez, 460 Mass. 762,             
+774 (2011) (“In Massachusetts, a ‘mortgage splits the title in            
+two parts: the legal title, which becomes the mortgagee’s, and            
+the equitable title, which the mortgagor retains.’” (quoting              
+Maglione v. BancBoston Mtge. Corp., 29 Mass. App. Ct. 88, 90              
+
+(1990)); see also Lemelson, 721 F.3d at 27.  Rather, the                  
+mortgagor retains the equity of redemption until and unless the           
+mortgagee forecloses on the mortgaged property.  At issue here            
+is the precise timing of such foreclosure that extinguishes a             
+mortgagor’s equity of redemption.                                         
+The relevant provision before the Court is the concluding            
+clause of Massachusetts General Laws, chapter 244, section 18,            
+which provides that the equity of redemption continues “unless            
+the land has been sold pursuant to a power of sale contained in           
+the mortgage deed.”  Mass. Gen. Laws ch. 244, § 18 (emphasis              
+added).  The parties disagree as to the exact moment at which             
+the foreclosure sale mentioned in the provision occurs.                   
+  2.   Beal is Not Applicable to the Present Appeal                  
+
+Both parties cite to caselaw to support their respective             
+contentions as to timing.  Tran essentially cites to Beal v.              
+Attleborough Savings Bank, 248 Mass. 342 (1924), a decision by            
+the Commonwealth’s Supreme Judicial Court, to assert that a               
+foreclosure auction’s conclusion and the execution of a sale and          
+purchase agreement do not suffice to extinguish the equity of             
+redemption, and that the proper transfer of a deed is required.           
+See Appellant’s Reply 2.  In Beal, the Supreme Judicial Court             
+held that the mortgagor retained the equity of redemption after           
+the auction sale and until the delivery of the deed to the                
+purchaser.  248 Mass. at 343 (“The auction sale was in effect a           
+mere contract of sale. The sale was not executed until the deed           
+
+was delivered, when the title passed to the purchaser.”); id. at          
+345 (“Up to that time [i.e., delivery of the deed], the                   
+plaintiff had an equity of redemption . . . .”).                          
+Jacobs, on the other hand, mainly cites to Outpost Cafe,             
+Inc. v. Fairhaven Savings Bank, 3 Mass. App. Ct. 1 (1975), which          
+is a decision by the Massachusetts Appeals Court.  See                    
+Appellee’s Br. 8-10.  Outpost Cafe held that “‘foreclosure is             
+complete’ at the time of the auction sale[,]” 3 Mass. App. Ct.            
+at 5 (quoting Way v. Mullett, 143 Mass. 49, 53 (1886)), and that          
+the right of redemption is therefore barred from the moment of            
+the conclusion of the auction sale, id. at 7 (“[P]laintiff’s              
+
+equity of redemption was barred . . . at least as early as the            
+point in time when the memorandum of sale was executed with the           
+purchaser at the foreclosure sale.”).                                     
+Tran, recognizing a possible tension between these two               
+cases, in that Outpost Cafe “call[s] Beal into question” on the           
+question of the timing of extinguishment, Appellant’s Reply 2             
+n.2, asserts that Beal, as a ruling by the highest state court            
+in the Commonwealth, to wit, the “Supreme Judicia[l] Court[],”            
+“effectively overrules Outpost [Cafe], at least in part,” id.             
+In response, Jacobs contends that Beal, decided in 1924, could            
+not have overruled Outpost Cafe, decided in 1975, because Beal            
+predated Outpost Cafe by 51 years.  Appellee’s Surreply 2.                
+
+Subsequently, Tran acknowledged that overruling was an               
+“infelicitous choice of words,” Appellant’s Surreply 1, but he            
+still argues that Beal, although earlier in time, by virtue of            
+being the decision of the Supreme Judicial Court, ought control           
+to the extent it conflicts with the decision in Outpost Cafe, a           
+decision by the Massachusetts Appeals Court, id.  Tran further            
+argues that so long as the Supreme Judicial Court did not                 
+overrule its own precedent, Beal remains good law, and that the           
+Appeals Court cannot “discredit” a decision by the Supreme                
+Judicial Court.  Id.                                                      
+  The Supreme Judicial Court is the “final arbiter” of the           
+laws of the Commonwealth.  Genereux v. Raytheon Co., 754 F.3d             
+
+51, 57 (1st Cir. 2014); see also Commonwealth v. Vasquez, 456             
+Mass. 350, 356 (2010) (“[The Supreme Judicial Court] is the               
+highest appellate authority in the Commonwealth, and our                  
+decisions on all questions of law are conclusive on all                   
+Massachusetts trial courts and the Appeals Court.”).                      
+Consequently, and further, the Commonwealth’s Appeals Court, in           
+its own words, is “bound to follow the decisions of the Supreme           
+Judicial Court.”  Commonwealth v. Colon, 52 Mass. App. Ct. 725,           
+730 n.1 (2001).  Therefore, until and unless overruled by the             
+Supreme Judicial Court, Beal cannot be overruled by Outpost               
+Cafe, a decision by an intermediate appellate court of the                
+Commonwealth.  The Supreme Judicial Court has not overruled               
+
+Beal, and conversely, has approvingly cited it as recently as             
+2001.  See Kelley v. Neilson, 433 Mass. 706, 714 n.16 (2001);             
+see also Appellant’s Surreply 1 (mentioning Kelley’s reference            
+to Beal).  Thus, Beal remains in force.                                   
+That Beal remains in force, however, is not to suggest, as           
+Tran does, that it is controlling in the present case.  To be             
+sure, Beal does include language suggesting that the equity of            
+redemption would not be extinguished by the close of an auction           
+sale but rather would be retained by the mortgagor until                  
+conveyance.  See Beal, 248 Mass. at 343, 345.  Subsequent cases           
+by the Supreme Judicial Court, however, have distinguished that           
+language in Beal.  Most notably, and as Jacobs also points out,           
+
+Appellee’s Surreply 2, the Supreme Judicial Court clarified a             
+few years after Beal, in a decision written by the Justice who            
+had written the Beal opinion, that “[Beal] is not an authority            
+for the contention that the right to redeem continues until the           
+conveyance is made.”  White v. Macarelli, 267 Mass. 596, 599              
+(1929).  White thus states that Beal cannot be cited as                   
+authority for the contention that the equity of redemption                
+extinguishes not at the conclusion of a foreclosure auction sale          
+but when conveyance takes place via the transfer and recording            
+of a duly executed deed.  Id.                                             
+In addition, while Tran correctly observes that Beal has             
+been continuously and approvingly cited by courts, including the          
+
+Supreme Judicial Court, citations to Beal following White have            
+followed White’s clarification that Beal ought not be cited for           
+the contention that the equity of redemption survives an auction          
+sale and until conveyance.  See, e.g., Kelley, 433 Mass. at 714           
+n.16; Laurin v. De Carolis Constr. Co., 372 Mass. 688, 691                
+(1977); Kattor v. Adams, 323 Mass. 686, 689 (1949).  These                
+subsequent citations to Beal have recruited that case in aid of           
+the proposition that the mortgagor is entitled to rents and               
+profits received by the mortgagee during the time intervening             
+between the auction sale and the delivery of the deed to the              
+purchaser, which has no bearing on the equity of redemption and           
+the precise time at which it extinguishes.  See, e.g., Kelley,            
+
+433 Mass. at 714 n.16; Laurin, 372 Mass. at 691; Kattor, 323              
+Mass. at 689.                                                             
+For the foregoing reasons, Tran cannot rely on Beal to               
+argue that the equity of redemption over the Property did not             
+extinguish when the memorandum of sale was executed at the                
+conclusion of the foreclosure auction.                                    
+  3.   Other Cases Establish That the Equity of Redemption           
+       Extinguishes When a Memorandum of Sale is Executed            
+Having established Beal’s inapplicability to the present             
+dispute concerning the precise time at which the equity of                
+redemption extinguishes, this Court now proceeds to survey other          
+cases that provide guidance.  Caselaw from both this District             
+and the Commonwealth amply demonstrates that the equity of                
+redemption is extinguished at the conclusion of a foreclosure             
+auction sale as of the moment a memorandum of sale is executed.           
+The Court begins with a survey of how the timing question            
+has been treated by the courts of the Commonwealth.  In Outpost           
+Cafe, upon which Jacobs repeatedly relies, see, e.g., Appellee’s          
+Br. 8-10, the Commonwealth’s Appeals Court held that “the                 
+plaintiff’s equity of redemption was barred . . . at least as             
+early as the point in time when the memorandum of sale was                
+executed with the purchaser at the foreclosure sale.”  3 Mass.            
+App. Ct. at 7.  Subsequent decisions by the Appeals Court have            
+continued to follow Outpost Cafe’s holding.  See, e.g., Boston            
+
+Redevelopment Auth. v. Boston Priv. Bank & Tr. Co., 2020 Mass.            
+App. Unpub. LEXIS 746, at *2-3 (Mass. App. Ct. Aug. 6, 2020)              
+(“Many of the rights of the mortgagor, such as the right of               
+redemption, terminate upon execution of the memorandum of                 
+sale.”); Guempel v. Great Am. Ins. Co., 11 Mass. App. Ct. 845,            
+849 (1981).  One decision, tellingly, held that Outpost Cafe’s            
+holding that the equity of redemption extinguishes upon the               
+execution of a memorandum of sale is “well-settled.”  Housman v.          
+LBM Fin., LLC, 80 Mass. App. Ct. 213, 220 (2011) (“It is well-            
+settled that the power of sale is exercised at the time of the            
+actual sale and terminates the owner’s equity of redemption.”).           
+More importantly, the Supreme Judicial Court has agreed              
+
+with the Commonwealth’s Appeals Court on this point.                      
+Approvingly citing Outpost Cafe, the Supreme Judicial Court held          
+that “[t]he execution of the memorandum of sale terminated the            
+plaintiffs’ equity of redemption.”  Williams v. Resolution GGF            
+Oy, 417 Mass. 377, 384 (1994).  As such, the interpretation by            
+the Commonwealth’s intermediate appellate court that a                    
+mortgagor’s equity of redemption extinguishes as of the moment a          
+memorandum of sale is executed at an auction sale has been                
+affirmed by the highest court in the Commonwealth.2  That the             
+Supreme Judicial Court has agreed with Outpost Cafe’s holding in          
+Williams renders unmeritorious Tran’s contention that Outpost             
+Cafe is an “outlier.”  Appellant’s Surreply 2.  On the contrary,          
+
+Outpost Cafe, as approvingly cited by the Supreme Judicial Court          
+in Williams, provides the controlling statement as to when a              
+mortgagor’s equity of redemption extinguishes in the                      
+Commonwealth -- and the statement is that such equity                     
+extinguishes “when the memorandum of sale was executed with the           
+purchaser at the foreclosure sale.”  Outpost Cafe, 3 Mass. App.           
+Ct. at 7.                                                                 
+This Court now proceeds to survey caselaw from the district          
+in which it sits.  The bankruptcy courts in this district that            
+have been called upon to confront this issue of timing have, not          
+surprisingly, followed the courts of the Commonwealth.  As early          
+as 1997, merely three years after the Supreme Judicial Court              
+
+
+2 Williams, which affirmed Outpost Cafe’s interpretation,            
+was decided in 1994.  In 2005, a bankruptcy court confronting             
+the same question of when does the equity of redemption                   
+extinguish observed that “were the Supreme Judicial Court                 
+confronted with the issue of when is a property, or rather                
+the equity of redemption, sold at a foreclosure sale, it would            
+conclude that the sale occurs when the memorandum of sale is              
+signed.”  In re Crichlow, 322 B.R. 229, 238 (Bankr. D. Mass.              
+2005) (Hillman, J.).  Through Williams, the Supreme Judicial              
+Court has indeed had the opportunity to provide its                       
+interpretation on this issue.                                             
+expressed agreement with Outpost Cafe’s holding in Williams, a            
+bankruptcy court noted that “[i]t is well-settled                         
+under Massachusetts law that where a foreclosure sale is                  
+properly conducted, the redemption rights of a mortgagor                  
+terminate as early as the execution of the memorandum of sale.”           
+
+In re Theoclis, 213 B.R. 880, 882 (Bankr. D. Mass. 1997)                  
+(Boroff, J.).  Subsequent bankruptcy court decisions from this            
+district have expressed agreement.  See, e.g., In re Kaplan, No.          
+06-41771-JBR, 2006 WL 3757711, at *3 (Bankr. D. Mass. Dec. 19,            
+2006) (Rosenthal, J.) (“Property sold at foreclosure under a              
+power of sale in a mortgage terminates a mortgagor’s right to             
+redeem the property.”); In re Grassie, 293 B.R. 829, 831 (Bankr.          
+D. Mass. 2003) (Hillman, J.) (“The power of sale is a completed           
+sale that occurs upon the execution of the memorandum of sale.            
+The execution of the memorandum of sale terminates a debtor's             
+equity of redemption.”); In re Dow, 250 B.R. 6, 8 (Bankr. D.              
+Mass. 2000) (Queenan, J.) (holding that “under Massachusetts law          
+
+redemption rights still exist until the execution of a                    
+memorandum of sale following the bidding process”); id. (“My              
+colleagues in this district have come to the same conclusion in           
+cases where the memorandum of sale was executed prior to the              
+bankruptcy filing.”).                                                     
+More specifically, expressing agreement with the cases               
+surveyed above, it was held in at least one bankruptcy court              
+case that the contention of “a foreclosure sale being actually            
+completed by delivery of a deed” was unmeritorious, as the sale           
+was completed by the execution of a memorandum of sale.  In re            
+Crichlow, 322 B.R. at 237.  This responds directly to Tran’s              
+contention that the equity of redemption is transferred “when             
+
+the high bidder pays the consideration and the deed is                    
+delivered, and not before.”  Appellant’s Reply 2 (emphasis in             
+original).                                                                
+Tran unpersuasively cites to a case from this district in            
+further aid of his contention concerning timing.  See                     
+Appellant’s Surreply 1-2 (discussing Zagarella v. Caliber Home            
+Loans, No. CV 18-12414-NMG, 2019 WL 3021261 (D. Mass. June 7,             
+2019) (Bowler, M.J.)).  Zagarella contains no holding or dictum           
+that explicitly implicates the question of timing.  See                   
+Appellee’s Resp. Suppl. Authority 1-2.  In fact, if anything,             
+Zagarella references decisions by the courts of the Commonwealth          
+that in turn have acknowledged that a mortgagor’s equity of               
+
+redemption extinguishes at the foreclosure auction sale when a            
+memorandum of sale is executed.  See, e.g., Zagarella, 2019 WL            
+3021261, at *5 (referring to Housman, which, among other things,          
+approvingly quotes Outpost Cafe and other decisions that have             
+held that the equity of redemption extinguishes upon the                  
+execution of a memorandum of sale).                                       
+Finally, this Court also takes note that on the question of          
+timing, other sessions in this district, too, have uniformly              
+followed the courts of the Commonwealth.  See, e.g., Dickey v.            
+United States Bank Tr., N.A. as Tr. for LSF9 Master                       
+Participation Tr., No. CV 19-12504-FDS, 2020 WL 4474273, at *5            
+
+(D. Mass. Aug. 3, 2020) (Saylor, C.J.), aff'd, No. 20-1866, 2021          
+WL 7627516 (1st Cir. Nov. 1, 2021) (“Furthermore, under                   
+Massachusetts law, a mortgagor's equity of redemption is                  
+extinguished at the time the foreclosure sale is concluded, not           
+when the deed is recorded.”); Shaw v. Bank of America, NA, No.            
+10-CV-11021, 2015 WL 224666, at *10 (D. Mass. Jan. 15, 2015)              
+(Casper, J.) (“BOA is correct that the equity of redemption is            
+extinguished by the memorandum of sale.”).  Moreover, one of the          
+sessions of this Court, like the observations made by the                 
+Commonwealth’s courts, described the rule as being “well-                 
+settled.”  Barbosa v. Wells Fargo Bank, N.A., No. CIV.A. 12-              
+12236-DJC, 2013 WL 4056180, at *9 (D. Mass. Aug. 13, 2013)                
+
+(Casper, J.) (quoting Housman, 80 Mass. App. Ct. at 220-21).              
+This Court therefore concludes it well-settled by both the           
+courts of the Commonwealth and in this district that in the               
+Commonwealth, a mortgagor’s equity of redemption extinguishes             
+upon the execution of a memorandum of sale at the auction sale.           
+Tran’s contentions to the contrary are rejected.                          
+In the present appeal, as the record establishes, a                  
+memorandum of sale -- stylized as such -- was executed on August          
+16, 2022, at 12:13 P.M.  See Answer to Compl. Filed by Herbert            
+Jacobs 12-17, Bankruptcy Docket No.15 (“Answer to Compl. Filed            
+by Herbert Jacobs”).  Further, the memorandum of sale, signed by          
+both Citizens Bank and Jacobs, clearly describes the Property             
+
+and mentions the purchase price.  See id.  Tran, in his                   
+submissions, has not alleged that the memorandum of sale is               
+defective.  See Bankruptcy Court Decision 2 (“The parties do not          
+dispute that Citizens conducted an auction of the Property at             
+which Jacobs was the high bidder and that a memorandum of sale .          
+. . was executed by Citizens and Jacobs before [Tran] filed his           
+petition.”).                                                              
+  4.   Tran’s Equity of Redemption Extinguished Upon the             
+       Execution of the Memorandum of Sale                           
+As has been consistently and continuously interpreted by             
+the Commonwealth’s courts, therefore, the memorandum of sale              
+that was duly executed on August 16, 2022, Material Facts ¶ 2,            
+and prior to Tran’s petition for bankruptcy that was filed on             
+September 13, 2022, id. ¶ 6, extinguished Tran’s equity of                
+redemption.                                                               
+This Court therefore affirms the Bankruptcy Court Decision           
+holding that Tran’s equity of redemption extinguished                     
+prepetition.  See Bankruptcy Court Decision 4 (“It is settled             
+law that, when a foreclosure auction concludes with an accepted           
+bid and the execution of a memorandum of sale, a mortgagor’s              
+equity of redemption is extinguished”); id. at 5 (referring to            
+Tran’s equity of redemption as “an extinguished equity of                 
+redemption”).                                                             
+C.   The Bankruptcy Court Correctly Held That the Affidavit          
+     of Sale Provides Constructive Notice of the                     
+     Foreclosure Auction Sale.                                       
+The second and related issue that arises in this appeal              
+concerns the question whether Tran can avoid the transfer                 
+(extinguishment) of his equity of redemption.  Section 522(h) of          
+the Bankruptcy Code grants debtors the possibility to avoid a             
+transfer of their property -- in this case, their equity of               
+redemption -- if “such transfer is avoidable by the trustee               
+under section 544” and if “the trustee does not attempt to avoid          
+such transfer.”  11 U.S.C. § 522(h)(1)-(2); see also In re                
+Piper, 291 B.R. 20, 23 (Bankr. D. Mass. 2003) (Kenner, J.)                
+(“Section 522(h) of the Bankruptcy Code permits the debtor to             
+exercise the trustee’s avoidance powers under §§ 544(a) and 545           
+in certain circumstance: where, by exercise of                            
+
+the avoidance power, the debtor would recover an asset that he            
+or she can claim as exempt.”).  Section 544, as interpreted by            
+the Supreme Court, “set[s] out circumstances under which a                
+trustee can avoid unrecorded liens and conveyances.”  Merit               
+Mgmt. Grp., LP v. FTI Consulting, Inc., 583 U.S. 366, 371                 
+(2018).  One of those circumstances arises when a trustee may             
+avoid any obligation incurred by the debtor that is voidable by           
+“a real or hypothetical bona fide purchaser, regardless of any            
+actual knowledge of the obligation by the trustee.”  United               
+States Bank, N.A. v. Desmond (In re Mbazira), 15 F.4th 106, 111           
+(1st Cir. 2021) (describing 11 U.S.C. § 544(a)(3)).3  “Thus,              
+
+[under this section,] the trustee can only void a mortgage                
+obligation if it did not have constructive notice of the                  
+encumbrance.”  Id.                                                        
+The question before this Court is whether a good faith               
+purchaser would have been put on constructive notice of the               
+transfer (extinguishment) of Tran’s equity of redemption to               
+Citizens via the execution of the memorandum of sale.  If the             
+question is answered in the affirmative, that is, if there is             
+constructive notice, Tran, cloaked as a bona fide purchaser               
+under Section 544(a)(3), cannot avoid the transfer; if answered           
+in the negative, that is, in the absence of constructive notice,          
+he can.  As explained in more detail below, this Court concludes          
+
+that there is constructive notice in the present case, and                
+consequently, that Tran cannot avoid the transfer                         
+
+3 Section 544(a)(3) is the specific “strong-arm” power Tran          
+attempts to use to avoid the transfer of the equity of                    
+redemption.  The other two powers in 11 U.S.C. § 544(a)(1) and            
+11 U.S.C. § 544(a)(2), respectively, are not at issue here.  See          
+also Bankruptcy Court Decision 5 (phrasing the legal question as          
+whether “a trustee, cloaked with the status of a good faith               
+purchaser under § 544(a)(3), [could] avoid the transfer of                
+equitable title”).                                                        
+(extinguishment) of the equity of redemption.                             
+Tran contends that the deed relating to the foreclosure              
+auction sale is defective, Appellant’s Br. 2, “flawed and void,”          
+and thus unable to give effect to the transfer of Tran’s equity           
+of redemption over the Property.  Appellant’s Surreply 2.                 
+
+Tran’s contention rests on his understanding that a defective             
+deed lacking an acknowledgment, as he argues is the case here,            
+cannot provide constructive notice.  See, e.g., Appellant’s Br.           
+6.  He also asserts that Jacobs concedes the defective nature of          
+the deed.  See, e.g., Appellant’s Reply 2.  Jacobs, on the other          
+hand, submits that there is no need to reach the issue of the             
+allegedly defective deed.  See Appellee’s Surreply 3 n.1.  This           
+is because, Jacobs contends, the Affidavit of Sale that was               
+recorded on September 8, 2022 (and thus prepetition),                     
+Appellant’s Br. 2; Appellee’s Br. 5, evidencing the execution of          
+a memorandum of sale at the foreclosure auction, provided                 
+constructive notice to third parties that Tran’s equity of                
+
+redemption had extinguished.  See, e.g., Appellee’s Br. 6, 10-            
+11.  This Court agrees with Jacobs.                                       
+Without going into the details of the allegedly defective            
+deed,4 it is important to note that this Court already concluded          
+
+
+4 The Bankruptcy Court did not reach the issue of the                
+allegedly defective deed either.  See Bankruptcy Court Decision           
+5-6.  It did, however, note that “[a] foreclosure deed was also           
+above, see supra Section IV.B.4, that Tran’s equity of                    
+redemption extinguished via the execution of a memorandum of              
+sale at the conclusion of the foreclosure auction sale.  Thus,            
+for Tran to successfully avoid the transfer (extinguishment) of           
+his equity of redemption, he must persuade the Court that third           
+
+parties were not put on notice of the conclusion of the auction           
+sale.                                                                     
+This Court remains unpersuaded by Tran’s focus on the deed,          
+because, as the courts of the Commonwealth whose decisions were           
+surveyed earlier in this opinion make abundantly clear, the               
+prompt delivery of a non-defective deed is not the instrument or          
+the process through which one’s equity of redemption is                   
+extinguished.  Rather, it is the execution of a memorandum of             
+sale that extinguishes said equity.  As such, for purposes of             
+extinguishing a debtor’s equity of redemption and ensuring that           
+the debtor cannot avoid such extinguishment via Section                   
+544(a)(3), it suffices that third parties are put on                      
+
+constructive notice of the due conclusion of a foreclosure                
+auction and not of the deed.  See In re Mularski, 565 B.R. 203,           
+208 n.2 (Bankr. D. Mass. 2017) (Hoffman, J.) (noting that                 
+“prompt compliance” with the Commonwealth’s requirement that an           
+Affidavit of Sale be recorded in the registry of deeds following          
+
+recorded concurrently with the Affidavit of Sale that did not             
+include the signature page.”  Id. at 3.                                   
+a foreclosure sale “would put the world on notice that the                
+foreclosure sale had been consummated, so that the failure to             
+record the foreclosure deed itself might not present                      
+difficulties”); see also Bankruptcy Court Decision 5 (adopting            
+the reasoning in In re Mularski);5 Appellee’s Br. 10 (“It was not         
+
+necessary to record a foreclosure deed to provide constructive            
+notice of the foreclosure sale because the foreclosure is                 
+complete at the time of the auction sale.” (quotations and                
+
+
+5 Tran takes issue with the Bankruptcy Court’s reliance on           
+In re Mularski by arguing that the latter’s statement regarding           
+an affidavit of sale sufficing for purposes of putting third              
+parties on constructive notice as to the foreclosure sale is              
+“speculative dicta.”  Appellant’s Br. 7 (referring to In re               
+Mularski’s use of the word “[a]rguably,” 565 B.R. at 208 n.2, as          
+a preface to its observation that an affidavit of sale would put          
+third parties on notice).  There is nothing barring this Court            
+from taking notice of the decisions of other courts, including            
+those statements that are more appropriately categorized as               
+dicta, in arriving at its own conclusion.  Further, in In re              
+Mularski, neither the affidavit of sale nor the foreclosure deed          
+was recorded prepetition, 565 B.R. at 208 n.2 (“In this case,             
+because none of the foreclosure documents were recorded before            
+the filing of the bankruptcy petition, I need not decide what             
+documents must be on record to perfect the transfer of an equity          
+of redemption vis-à-vis third parties.” (emphasis in original)).          
+The present appeal is easily distinguishable from the fact                
+pattern in that case, as both the deed, notwithstanding its               
+alleged defects, and the Affidavit of Sale were recorded                  
+prepetition.  Tran further points to In re Mularski’s partial             
+reliance on a case from a sister court in New York with a                 
+different mortgage foreclosure regime, id. (citing In re                  
+Cerrato, 504 B.R. 23, 33 (Bankr. E.D.N.Y. 2014)).  See                    
+Appellant’s Br. 6-7.  Again, there is nothing barring courts,             
+especially in the absence of relevant “Massachusetts decisional           
+authority,” In re Mularski, 565 B.R. at 207, from looking to              
+decisions of other courts.                                                
+citations omitted)).                                                      
+The recorded Affidavit of Sale, see Answer to Compl. Filed           
+by Herbert Jacobs 9-10, does exactly that: it puts third parties          
+on notice that the foreclosure auction, whose conclusion upon             
+the execution of a memorandum of sale extinguished Tran’s equity          
+
+of redemption, indeed happened.  See, e.g., Chaves v. United              
+States Bank, N.A., 335 F. Supp. 3d 100, 107 (D. Mass. 2018)               
+(Wolf, J.) (holding that defendants’ “recorded Affidavit of               
+Sale establishes a prima facie case that they have complied with          
+the statutory requirements for conducting a foreclosure by power          
+of sale, including the notice requirements of § 14”); see also            
+Fannie Mae v. Hendricks, 463 Mass. 635, 642 (2012) (holding that          
+“where the Affidavit of Sale is in the statutory form or meets            
+the particular requirements of § 15, a plaintiff has made a               
+prima facie case”).                                                       
+To be sure, the Commonwealth’s courts have held that all             
+that a recorded affidavit of sale does is to make a prima facie,          
+
+not conclusive, case of compliance with the Commonwealth’s                
+relevant notice requirements.  See, e.g., Fannie Mae, 463 Mass.           
+at 641.  If and when such a prima facie case has been made,               
+however, it is “incumbent” upon the mortgagor to “counter with            
+his own affidavit or acceptable alternative[.]”  Chaves, 335 F.           
+Supp. 3d at 107; Fannie Mae, 463 Mass. at 642.                            
+In the present appeal, Tran has not contested the Affidavit          
+of Sale evidencing the conclusion of the foreclosure auction via          
+a duly executed memorandum of sale.  Appellant’s Reply 2                  
+(asserting that Jacobs mistakenly “focusses [sic] on the                  
+Affidavit, which is simply wrong”).  Having reviewed the                  
+Bankruptcy Docket, this Court observes that the Affidavit of              
+
+Sale contains the seller and the purchaser’s names and their              
+signatures, correctly identifies the Property and the purchase            
+price, is notarized, notes compliance with the requirement to             
+publish notice of the sale in a local newspaper three times, and          
+is accompanied by a note of general compliance with the                   
+Commonwealth’s applicable notice requirements.  See Answer to             
+Compl. Filed by Herbert Jacobs 9.  In the absence of any                  
+evidence proffered by Tran that the Affidavit of Sale is                  
+defective, the Court concludes that the affidavit’s prepetition           
+recording provided constructive notice to bona fide third                 
+parties.  See Chaves, 335 F. Supp. 3d at 107 (“Therefore, by              
+submitting an Affidavit of Sale in the statutory form defendants          
+
+have demonstrated prima facie compliance with the § 14 notice             
+requirements.”).  As such, Tran is unable to avoid the transfer           
+of his equity of redemption.                                              
+In summary, it is settled that in the Commonwealth a                 
+mortgagor’s equity of redemption extinguishes upon the execution          
+of a memorandum of sale at the conclusion of a foreclosure                
+auction sale.  The courts of the Commonwealth have further held           
+that an affidavit regarding such sale that complies with the              
+applicable statutory requirements is prima facie evidence that            
+such sale occurred, which puts third parties on notice that such          
+sale occurred.  Therefore, Tran can neither argue that he still           
+retains his equity of redemption on the Property nor that he is           
+
+able to avoid the transfer of such equity by contending that the          
+foreclosure deed contains defects.                                        
+V.   CONCLUSION                                                           
+For the foregoing reasons, this Court AFFIRMS the                    
+Bankruptcy Court.  Bankruptcy Docket Nos. 38, 40, 44.                     
+
+SO ORDERED.                                                               
+
+                                   _/s/ William G. Young__           
+                                     WILLIAM G. YOUNG                
+                                          JUDGE                      
+                                          of the                     
+                                      UNITED STATES6                 
+
+
+
+
+
+6 This is how my predecessor, Peleg Sprague (D. Mass. 1841-          
+1865), would sign official documents.  Now that I’m a Senior              
+District Judge I adopt this format in honor of all the judicial           
+colleagues, state and federal, with whom I have had the                   
+privilege to serve over the past 45 years.

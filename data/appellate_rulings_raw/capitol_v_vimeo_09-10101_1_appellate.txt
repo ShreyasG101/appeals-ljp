@@ -1,0 +1,1767 @@
+21-2949(L)
+Capitol Records v. Vimeo
+
+
+
+
+                    UNITED STATES COURT OF APPEALS
+                        FOR THE SECOND CIRCUIT
+
+                               August Term 2023
+
+       (Argued: October 12, 2023               Decided: January 13, 2025)
+
+                      Docket Nos. 21-2949(L), 21-2974(Con)
+
+
+
+                    _____________________________________
+
+    CAPITOL RECORDS, LLC, a Delaware Limited Liability company,
+ CAROLINE RECORDS, INC., a New York Corporation, VIRGIN RECORDS
+AMERICA, INC., a California Corporation, EMI BLACKWOOD MUSIC INC.,
+    a Connecticut Corporation, EMI APRIL MUSIC INC., a Connecticut
+    Corporation, EMI VIRGIN MUSIC, INC., a New York Corporation,
+   COLGEMS-EMI MUSIC, INC., a Delaware Corporation, EMI VIRGIN
+  SONGS, INC., a New York Corporation, EMI GOLD HORIZON MUSIC
+CORP., a New York Corporation, EMI UNART CATALOG INC., a New York
+  Corporation, STONE DIAMOND MUSIC CORPORATION, a Michigan
+  Corporation, EMI U CATALOG INC., a New York Corporation, JOBETE
+                MUSIC CO., INC., a Michigan Corporation,
+
+                               Plaintiff-Appellants,
+
+                                        v.
+
+  VIMEO, INC., a Delaware Limited Liability company, AKA VIMEO.COM,
+  CONNECTED VENTURES, LLC, a Delaware Limited Liability company,
+
+                              Defendant-Appellees,
+                            DOES, 1-20 INCLUSIVE,
+
+                                 Defendants.
+                   _____________________________________
+
+Before:
+
+                  LEVAL, PARKER, and MERRIAM, Circuit Judges.
+
+      Plaintiffs, rightsholders of musical recordings, all affiliates of EMI,
+appeal from the judgment of the United States District Court for the Southern
+District of New York (Ronnie Abrams, J.) granting summary judgment to
+defendants, Vimeo, Inc. and Connected Ventures, LLC (collectively “Vimeo”),
+dismissing Plaintiffs’ claims of copyright infringement on the ground that
+Vimeo is entitled to the safe harbor provided by Section 512(c) of the Digital
+Millennium Copyright Act (“DMCA”), 17 U.S.C. § 512(c), which, in certain
+circumstances, protects internet service providers from liability for
+infringement when users of the service upload infringing material onto the
+providers’ websites. The district court rejected Plaintiffs’ contention that
+Vimeo had actual or red flag knowledge of the infringement or the right and
+ability to control the infringing activity, and therefore lost entitlement to the
+safe harbor.
+
+
+      AFFIRMED.
+
+                                        CATHERINE E. STETSON (Nathaniel A.G.
+                                        Zelinsky, Hogan Lovells, US LLP,
+                                        Washington, D.C.; Russell J. Frackman,
+                                        Mitchell Silberberg & Knupp LLP, Los
+                                        Angeles, CA, on the brief), Hogan Lovells
+                                        US LLP, Washington, D.C., for Plaintiff-
+                                        Appellants.
+
+                                        KATHLEEN M. SULLIVAN (Todd Anten,
+                                        Owen F. Roberts, Quinn Emanuel
+
+                                         2
+Urquhart & Sullivan, LLP, New York,
+NY; Michael A. Cheah, Vimeo, Inc. &
+Rachel Kassabian, Quinn Emanuel
+Urquhart & Sullivan, LLP, Redwood
+Shores, CA, on the brief), Quinn Emanuel
+Urquhart & Sullivan, LLP, Los Angeles,
+California, for Defendant-Appellees.
+
+Hyland Hunt, Ruthanne M. Deutsch,
+Alexandra Mansbach, Deutsch Hunt
+PLLC, Washington, DC, for amici curiae,
+National Music Publishers’ Association,
+Recording Industry Association of
+America, and Copyright Alliance, in
+support of Plaintiffs-Appellants.
+
+Matthew C. Schruers, Alexandra
+Sternburg, Computer &
+Communications Industry Association,
+Washington, DC, for amicus curiae,
+Computer & Communications Industry
+Association, in support of Defendants-
+Appellees.
+
+Mitchell L. Stoltz, Corynne McSherry,
+Electronic Frontier Foundation, San
+Francisco, CA, for amicus curiae,
+Electronic Frontier Foundation, in
+support of Defendants-Appellees.
+
+Rebecca Tushnet, Harvard Law School,
+Cambridge, MA, for amici curiae,
+Intellectual Property Scholars in Support
+of Defendants-Appellees.
+
+
+
+
+ 3
+LEVAL, Circuit Judge:
+
+         This is an appeal by Plaintiffs, who are rightsholders of musical
+
+recordings, all current or former affiliates of EMI, from the judgment of the
+
+United States District Court for the Southern District of New York (Ronnie
+
+Abrams, J.), granting summary judgment to defendants, Vimeo, Inc. and
+
+Connected Ventures, LLC (collectively “Vimeo”). The district court dismissed
+
+Plaintiffs’ claims of copyright infringement.
+
+         Section 512(c) of the Digital Millennium Copyright Act (“DMCA”)
+
+establishes a safe harbor, which protects qualifying service providers from
+
+liability for infringement when users of the service upload infringing material
+
+onto the providers’ websites. See 17 U.S.C. § 512(c)(1). However, the safe
+
+harbor is not available to a service provider if the service provider (A) has
+
+actual or red flag knowledge that the material on its website is infringing and
+
+fails to remove the infringing matter expeditiously, or (B) has the right and
+
+ability to control infringing material on its website and receives a financial
+
+benefit directly attributable to that activity. See id. 1 Vimeo is a qualifying
+
+service provider and operates a website on which users can upload videos to
+
+
+
+
+1   This portion of the statute is set forth at pages 7-8.
+                                            4
+share either within a restricted circle of users or with the general public. At
+
+issue in this appeal are 281 videos containing copyrighted musical recordings
+
+owned by Plaintiffs. All of the videos selected by Plaintiffs to place in issue in
+
+this suit are videos with which Vimeo employees interacted after those videos
+
+were uploaded by users to Vimeo’s website—for example, by selecting the
+
+video to be featured in a prominent section of the website or by posting a
+
+comment about the video.
+
+      The district court found that Vimeo was entitled to the DMCA’s safe
+
+harbor because: (1) although there was evidence that Vimeo employees had
+
+interacted with videos containing infringing content, there was insufficient
+
+evidence to prove that it would have been obvious to those employees that
+
+the content of the videos was neither authorized by the rightsholder nor fair
+
+use; and (2) Plaintiffs failed to show that Vimeo had sufficient “right and
+
+ability to control” within the meaning of the statute to lose entitlement to the
+
+safe harbor. We agree with the district court that Vimeo is entitled to the safe
+
+harbor and therefore AFFIRM the judgment.
+
+
+
+
+                                        5
+                                BACKGROUND
+
+   1. Facts
+
+          A. The Digital Millennium Copyright Act (“DMCA”)
+
+       “The DMCA was enacted in 1998 to implement the World Intellectual
+
+Property Organization Copyright Treaty and to update domestic copyright
+
+law for the digital age.” Viacom Int’l, Inc. v. YouTube, Inc., 676 F.3d 19, 26 (2d
+
+Cir. 2012) (internal quotations and citations omitted). Title II of the DMCA,
+
+the “Online Copyright Infringement Liability Limitation Act” (“OCILLA”),
+
+established four safe harbors that allow qualifying service providers to limit
+
+liability for certain claims of copyright infringement. See id. at 27. We have
+
+described these safe harbors as a “compromise” between protecting copyright
+
+owners and “insulat[ing] service providers from liability for infringements of
+
+which they are unaware, contained in material posted to their sites by users,
+
+so as to make it commercially feasible for them to provide valuable Internet
+
+services to the public.” Capitol Recs., LLC v. Vimeo, LLC, 826 F.3d 78, 82 (2d Cir.
+
+2016) (“Vimeo I”).
+
+      If a service provider meets the threshold qualification criteria, see
+
+
+
+
+                                         6
+17 U.S.C. § 512(k)(1)(B), (i)(1)-(2), 2 it then has passed those tests of eligibility
+
+for one of the four safe harbors. The safe harbor at issue in this case is
+
+provided by Section 512(c), which protects the provider from liability for
+
+infringement that would arise “by reason of the storage at the direction of a
+
+user of material that resides on a system or network controlled or operated by
+
+or for the service provider.” Id. § 512(c)(1). The statute provides (as here
+
+pertinent):
+
+       [(c)(1)] A service provider shall not be liable for monetary relief
+       . . . for infringement of copyright by reason of the storage at the
+       direction of a user of material that resides on [its website] . . . , if
+       the service provider—
+
+       (A)    (i) does not have actual knowledge that the material or an
+              activity using the material on the system or network is
+              infringing;
+
+              (ii) in the absence of such actual knowledge, is not aware
+              of facts or circumstances from which infringing activity is
+              apparent; or
+
+              (iii) upon obtaining such knowledge or awareness, acts
+              expeditiously to remove, or disable access to, the material;
+
+2 Qualification for the safe harbor requires “that the party (1) must be a
+‘service provider’ as defined by the statute; (2) must have adopted and
+reasonably implemented a policy for the termination in appropriate
+circumstances of users who are repeat infringers; and (3) must not interfere
+with standard technical measures used by copyright owners to identify or
+protect copyrighted works.” Wolk v. Kodak Imaging Network, 840 F. Supp. 2d
+724, 743 (S.D.N.Y. 2012).
+                                           7
+      (B)    does not receive a financial benefit directly attributable to
+             the infringing activity, in a case in which the service
+             provider has the right and ability to control such activity;
+             and
+
+      (C)    upon notification of claimed infringement . . . , responds
+             expeditiously to remove, or disable access to, the material
+             that is claimed to be infringing or to be the subject of
+             infringing activity.
+
+Id. § 512(c)(1)(A)-(C). 3 The statutory scheme also has a notice-and-takedown
+
+provision: Section 512(c)(2) requires that service providers designate an agent
+
+to receive notifications of claimed infringement, and Section 512(c)(3) explains
+
+what elements must be included in such a notification. See id. § 512(c)(2)-(3).
+
+Upon receipt of a valid notification, Section 512(c)(1)(C) requires that the
+
+service provider “expeditiously” remove or disable access to the infringing
+
+material. See id. § 512(c)(1)(C).
+
+
+
+
+3 Although the statute may appear to imply “or” as the conjunction linking
+clauses (i), (ii), and (iii) of subsection (A), it seems clear that Congress in fact
+established a more complex relationship among the three clauses. While
+satisfaction of clause (iii) alone (prompt removal upon learning of the
+infringement) does secure safe-harbor immunity, it is clear that satisfaction of
+clause (i) alone (lack of actual knowledge), or of clause (ii) alone (lack of red
+flag knowledge), is by itself insufficient. The service provider must satisfy
+both clauses (i) and (ii) to gain entry into the safe harbor without reliance on
+(iii). The statute links clauses (i) and (ii) by the implied conjunctive “and,”
+and links clauses (i) and (ii) to clause (iii) by the conjunctive “or.”
+                                         8
+         B. The Vimeo Website
+
+      Vimeo is a video-sharing platform created in 2004. It has become one of
+
+the most popular websites on the internet. In 2007, Vimeo had only 40,000
+
+registered users, but as of 2012, it had about 12.3 million registered users
+
+posting about 43,000 new videos a day.
+
+      Users who have registered an account with Vimeo can upload videos to
+
+the site. They can add tags (i.e., keywords associated with the video) or
+
+descriptions (also called captions). Other users may write comments, signal
+
+that they “like” videos, subscribe to interest groups that will share videos of
+
+preferred types, and create or subscribe to channels, which are repositories of
+
+videos that have been grouped together by a common theme or category.
+
+Registering as a user is free and can be done anonymously. 4
+
+      A posting user may choose to designate a video as “private,” in which
+
+case the video can be viewed only by accounts designated by the poster or
+
+
+
+
+4 Vimeo insists that registration is not truly anonymous because Vimeo users
+provide a name and email address and Vimeo will block users who try to
+create a new account with the same email address as an account that has been
+terminated. Plaintiffs answer that abusive users can avoid this obstacle by
+registering again under different names and email addresses. Determination
+of this appeal does not depend on the resolution of this dispute.
+
+
+                                        9
+those who possess a password selected by the poster. If a video has not been
+
+designated as private, both registered and non-registered users (essentially
+
+anybody with access to an Internet connection) can play the video on
+
+demand—either directly on Vimeo’s website or through a third-party website
+
+where the video is embedded—or download the video for later viewing. 5
+
+       Vimeo offers both free and paid subscriptions. The majority of its
+
+revenue comes from user subscription fees. Vimeo also earns revenue from
+
+the placement of advertisements on its website, in two ways: for some
+
+advertisements, Vimeo contracts with the advertiser and typically is paid
+
+each time the advertisement is viewed; for others, Google’s AdSense program
+
+selects which advertisements to display to which customer, and Vimeo is paid
+
+each time a user clicks on the advertisement to go to the advertiser’s website.
+
+Beginning in 2011, by contract with certain rightsholders in copyrighted
+
+recordings (mostly smaller labels, not including any Plaintiff in this suit),
+
+Vimeo began offering licenses to users to reproduce copyrighted music
+
+through its music store. Vimeo earns commissions through such sales.
+
+
+
+
+5This is the case unless the download function has been expressly disabled by
+the posting user.
+                                        10
+         C. Background of the Dispute
+
+      Some videos uploaded by users onto Vimeo’s website incorporate
+
+recordings of musical performances for which the rights are owned by
+
+Plaintiffs (including the “Videos-in-Suit”). This lawsuit seeks to impose
+
+liability on Vimeo for those alleged infringements.
+
+      Vimeo, for purposes of these summary judgment motions, conceded
+
+that the Videos-in-Suit contain music owned by Plaintiffs and that the uses in
+
+those videos were infringing uses. See J. App’x at 312-13 & n.3. It is
+
+uncontested that Plaintiffs have never licensed this music to Vimeo or its
+
+users who posted it and that Vimeo has never paid Plaintiffs for the use of the
+
+music.
+
+      In 2008, EMI sent Vimeo a cease-and-desist letter demanding removal
+
+from the website of videos containing EMI recordings and compositions. The
+
+letter enclosed a list of 173 videos to be removed from the site and demanded
+
+that “Vimeo immediately take appropriate action to ensure that all other EMI-
+
+owned or -controlled works are removed from the Site.” J. App’x at 104.
+
+Vimeo took down the 173 videos listed in the letter. Following this incident,
+
+Vimeo employees emailed one another, seemingly mocking EMI, referring to
+
+EMI personnel as “dicks” and “goofballs.” J. App’x at 994. This lawsuit was
+                                        11
+filed a year later. Since then, EMI has sent additional take-down notices, with
+
+which Vimeo has complied.
+
+      On appeal, there are 281 videos in contention. These are videos
+
+uploaded between 2006 and 2013, which include recordings of musical
+
+performances owned or controlled by Plaintiffs, and with which Vimeo
+
+employees interacted (for example: commented upon, liked, promoted or
+
+demoted, or placed in a community channel). These do not include any videos
+
+that were uploaded by Vimeo employees.
+
+         D. Vimeo’s Upload Requirements, Curation, and Moderation
+
+      Unlike other video-sharing websites, Vimeo does not allow users to
+
+upload videos that were not created—in whole, or in part—by the uploader.
+
+Vimeo tells users that it does not allow the posting of specified types of
+
+videos, which include advertising videos (such as commercials, infomercials,
+
+and product promotions), videos containing abusive (e.g., bullying) or
+
+sexually-explicit content, real-estate walkthroughs, and, since 2008, so-called
+
+
+
+
+                                       12
+“gameplay” videos, wherein the video exhibits a person playing a video
+
+game. 6 Vimeo’s rules also disallow uploads of movies, TV shows, and trailers.
+
+      In order to register an account, users must agree to abide by Vimeo’s
+
+Terms of Service. Those terms include an agreement not to upload videos that
+
+infringe another’s rights. Every time a user uploads a video, the user is
+
+reminded of the agreement to upload only self-created videos and to not
+
+upload videos that are intended for commercial use or are otherwise
+
+inconsistent with Vimeo’s content restrictions.
+
+      In practice, however, users can generally upload any videos without
+
+interference from Vimeo. Vimeo does not pre-screen videos presented for
+
+uploading. It does engage in a small degree of moderation and curation of its
+
+website. As examples, members of Vimeo’s “Community Team” occasionally
+
+post “likes” (a symbol, such as a heart, indicating approval) or comments,
+
+upload their own videos, and create or subscribe to groups and channels.
+
+They also promote user videos by putting them in prominent places on the
+
+website, such as on Vimeo’s own blog, or on the “Staff Picks” channel. In
+
+
+
+
+6There are exceptions for videos that use a video game in a creative way,
+for example, by using the video game characters to tell an original story.
+
+                                       13
+some instances, staff members remove videos (and, at times, entire user
+
+accounts) for violation of the Terms of Service.
+
+      Vimeo has also encouraged users to create certain types of content. In
+
+2006, Vimeo’s founder created a video of himself lip-synching to music while
+
+walking down the street, and then synced the video with music. He named it
+
+“lip-dubbing” and invited others to create their own lip-dubbing videos. At a
+
+company party, Vimeo’s employees created their own lip-dub video, which
+
+was watched millions of times. Lip-dub became a popular trend, and Vimeo
+
+created a channel under the name “Lip Dub Stars.” A lip balm company paid
+
+Vimeo for the opportunity to advertise on the lip-dub channel and also
+
+funded a lip-dub contest.
+
+      Vimeo employs various computer programs (“Mod Tools”) to assist the
+
+Community Team in locating and removing videos whose content violates the
+
+Terms of Service. One tool identifies videos that have recently received a large
+
+number of views; another searches the website for current film titles; another
+
+identifies videos that are approximately the length of a typical half-hour or
+
+hour-long television show; and another identifies users who are uploading a
+
+large number of videos in a short period of time. When videos and/or users are
+
+
+
+                                       14
+identified by one of these tools, Vimeo staff manually review them. Vimeo also
+
+enables users to “flag” videos that they believe violate the Terms of Service.
+
+Community moderators evaluate the flagged content and decide whether or
+
+not to remove it.
+
+           E. Employees’ Knowledge Concerning Licensing and Copyright
+              Laws
+
+      Plaintiffs have offered evidence to suggest that Vimeo employees had
+
+particular experience with and awareness of facts that would allow them to
+
+discern whether posted uses of music were licensed or were fair use.
+
+      Some Vimeo employees have published their own videos, during the
+
+time period of interest, including videos containing Plaintiffs’ music, without
+
+securing a license. In or around 2009, Vimeo employees were told by Vimeo’s
+
+legal team not to use copyrighted music in the background of videos they
+
+created.
+
+      In answering questions from users about whether copyrighted music
+
+could be included in the background of a video, Vimeo’s pre-scripted
+
+response was that “adding a third party’s copyrighted content to a video
+
+generally (but not always) constitutes copyright infringement under
+
+applicable laws.” J. App’x at 75, 175, 404-05. Plaintiffs provided evidence
+
+
+                                       15
+showing that, on at least a few occasions, Vimeo employees added text that
+
+undermined the official message, such as, “off the record . . . Go ahead and
+
+post it. I don’t think you’ll have anything to worry about.” J. App’x at 175,
+
+404-05. Vimeo characterizes these interactions as “few in number,
+
+unauthorized, and . . . not reflect[ing] . . . Vimeo’s policy.” J. App’x at 448-49.
+
+      In 2011, Vimeo launched a virtual music store where users could pay a
+
+fee to obtain a license to use certain non-major-label music. In launching the
+
+store, Vimeo published a blog post which explained that Vimeo employees
+
+know that licensing music can be “confusing” and “painful.” J. App’x at 1130.
+
+   2. Procedural History
+
+      On December 10, 2009, Plaintiffs filed their initial complaint, which
+
+named 199 videos that contained allegedly infringing uses of music licensed
+
+to Plaintiffs. In May 2012, Plaintiffs moved to amend the complaint by adding
+
+over a thousand videos. The district court denied the motion with leave to
+
+refile after the court ruled on a motion for summary judgment. On September
+
+7, 2012, Vimeo moved for summary judgment asserting entitlement to safe
+
+harbor protection under the DMCA, and on November 16, 2012, Plaintiffs
+
+cross-moved for partial summary judgment that Vimeo was not entitled to
+
+
+
+                                         16
+the safe harbor. On September 18, 2013, the district court ruled that Vimeo did
+
+not have the right and ability to control the infringing material at issue and
+
+therefore was not excluded from the safe harbor on that ground. However, it
+
+also ruled that a triable issue of material fact existed as to whether Vimeo had
+
+knowledge or awareness of infringing content for 55 of the videos, with
+
+which Vimeo employees had interacted. 7 As to the remaining 144 videos, the
+
+court granted partial summary judgment to Plaintiffs on those videos
+
+containing infringed-upon material recorded prior to 1972, because, in the
+
+district court’s view, the DMCA safe harbor did not extend to recordings
+
+made prior to 1972. It granted summary judgment to Vimeo on the remaining
+
+videos.
+
+      On reconsideration, the district court granted summary judgment to
+
+Vimeo on an additional 17 videos. The court also granted Plaintiffs leave to
+
+amend the complaint, adding 1,476 videos, and certified three questions for
+
+interlocutory appeal: (1) whether the DMCA safe harbor extended to
+
+recordings made prior to 1972; (2) whether Vimeo had knowledge or
+
+
+7For ten of these videos, which had been uploaded by employees, the district
+court also found there was a triable issue of fact as to whether they had been
+“stored at the direction of a user” and therefore were ineligible for safe
+harbor. See Spec. App’x at 56.
+                                       17
+awareness of infringing content; and (3) whether Vimeo had “a general policy
+
+of willful blindness to infringement of sound recordings.” Vimeo I, 826 F.3d at
+
+82.
+
+      On that interlocutory appeal, this court held that the DMCA safe harbor
+
+does apply to pre-1972 recordings, and thus vacated the grant of partial
+
+summary judgment to Plaintiffs on the videos alleged to infringe music from
+
+before 1972. See id. at 93, 99. We also vacated the district court’s denial of
+
+summary judgment to Vimeo on Vimeo’s red flag knowledge of
+
+infringement, ruling that Vimeo was entitled to summary judgment “unless
+
+plaintiffs can point to evidence sufficient to . . . prov[e] that Vimeo personnel
+
+either knew the video was infringing or knew facts making that conclusion
+
+obvious to an ordinary person who had no specialized knowledge of music or
+
+the laws of copyright.” Id. at 98. We affirmed the district court’s finding that
+
+Vimeo had not been willfully blind to infringement. See id. at 98-99.
+
+      On remand, the parties identified 307 videos remaining in dispute and
+
+renewed their cross-motions for summary judgment. The district court ruled
+
+in favor of Vimeo, granting summary judgment in its favor on 281 videos,
+
+holding that, under our standard laid out in Vimeo I, Plaintiffs had failed to
+
+
+
+                                        18
+show that Vimeo had red flag knowledge of infringing content. On the other
+
+hand, the court did find that there was a disputed issue of material fact as to
+
+26 of the allegedly infringing videos, which had been uploaded by Vimeo
+
+employees. To permit the district court to enter an appealable final judgment,
+
+the parties stipulated to the dismissal of the 27 claims related to these 26
+
+remaining videos, allowing Plaintiffs to reinstitute these claims if the district
+
+court’s ruling is vacated or reversed on any of the claims on appeal. 8 The final
+
+judgment was issued on November 1, 2021, dismissing all of Plaintiffs’ other
+
+claims with prejudice. Plaintiffs filed a timely notice of appeal on November
+
+29, 2021.
+
+                           STANDARD OF REVIEW
+
+      The court of appeals reviews a district court’s grant of summary
+
+judgment de novo, “construing the evidence in the light most favorable to the
+
+party against whom summary judgment was granted and drawing all
+
+reasonable inferences in that party’s favor.” Bey v. City of New York, 999 F.3d
+
+157, 164 (2d Cir. 2021) (citing Sista v. CDC Ixis N. Am., Inc., 445 F.3d 161, 168-
+
+
+
+
+8 Under Purdy v. Zeldes, 337 F.3d 253, 257-58 (2d Cir. 2003), such a judgment is
+final and appealable notwithstanding Plaintiffs’ retention of the right to
+reinstitute claims they had voluntarily dismissed.
+                                        19
+69 (2d Cir. 2006)). When parties cross-move for summary judgment, each
+
+motion is analyzed separately, “in each case construing the evidence in the
+
+light most favorable to the non-moving party.” Schwebel v. Crandall, 967 F.3d
+
+96, 102 (2d Cir. 2020).
+
+       Summary judgment is granted only if “there is no genuine dispute as to
+
+any material fact and the movant is entitled to judgment as a matter of law.”
+
+FED. R. CIV. P. 56(a). Accordingly, a genuine dispute as to a material fact
+
+precludes summary judgment “where the evidence is such that a reasonable
+
+jury could decide in the non-movant’s favor.” Lucente v. Cnty. of Suffolk, 980
+
+F.3d 284, 296 (2d Cir. 2020) (quoting Beyer v. Cnty. of Nassau, 524 F.3d 160, 163
+
+(2d Cir. 2008)).
+
+                                   DISCUSSION
+
+       Plaintiffs contend that Vimeo is not entitled to safe harbor under
+
+Section 512(c)(1) of the DMCA because Vimeo cannot meet two of the
+
+statute’s requirements. They argue that Vimeo (1) had “aware[ness] of facts or
+
+circumstances from which infringing activity is apparent” (often referred to as
+
+“red flag knowledge”) and failed to “expeditiously [] remove, or disable
+
+access to, the material,” 17 U.S.C. § 512(c)(1)(A)(ii)-(iii); and that it (2)
+
+
+
+                                          20
+“receive[d] a financial benefit directly attributable to the infringing activity
+
+[while having] . . . the right and ability to control such activity,” id.
+
+§ 512(c)(1)(B).
+
+      Although it is the defendant’s burden to show that it meets the
+
+qualifications for entitlement to the safe harbor—such as by showing that it is
+
+a service provider within the meaning of the statute—we have held, citing the
+
+Nimmer copyright treatise, that it is the plaintiff’s burden to demonstrate that
+
+a service provider has lost entitlement to the safe harbor because it had actual
+
+or red flag knowledge of the infringement. See Vimeo I, 826 F.3d at 94-95. In
+
+our view, for the same reasons, a plaintiff must also bear the burden of
+
+persuasion in showing that the defendant was disqualified from the safe
+
+harbor because it received a financial benefit directly attributable to the
+
+infringing activity while having the right and ability to control such activity.
+
+See 17 U.S.C. § 512(c)(1)(B).
+
+      For the reasons explained below, we reject Plaintiffs’ arguments as to
+
+both bases of disqualification and hold that Plaintiffs have failed to establish a
+
+basis to deny Vimeo access to the safe harbor.
+
+
+
+
+                                         21
+   1. Red Flag Knowledge
+
+      Among the conditions that the DMCA establishes for a service provider
+
+to qualify for the protection of its safe harbor are the following: that it “(i)
+
+does not have actual knowledge that the material . . . on the system or
+
+network is infringing; (ii) in the absence of such actual knowledge, [it] is not
+
+aware of facts or circumstances from which infringing activity is apparent
+
+[red flag knowledge]; or (iii) upon obtaining such knowledge or awareness,
+
+[it] acts expeditiously to remove, or disable access to, the material.” 17 U.S.C.
+
+§ 512(c)(1)(A)(i)-(iii). In Viacom, our court explained the difference between
+
+the “actual” and “red flag” knowledge provisions as follows:
+
+      The difference between actual and red flag knowledge is . . . not
+      between specific and generalized knowledge, but instead between
+      a subjective and an objective standard. In other words, the actual
+      knowledge provision turns on whether the provider actually or
+      ‘subjectively’ knew of specific infringement, while the red flag
+      provision turns on whether the provider was subjectively aware
+      of facts that would have made the specific infringement
+      ‘objectively’ obvious to a reasonable person.
+
+676 F.3d at 31 (emphasis added). In Vimeo I, we further clarified the
+
+“reasonable person” standard relevant to the red flag knowledge analysis:
+
+“[t]he hypothetical ‘reasonable person’ to whom infringement must be
+
+obvious is an ordinary person—not endowed with specialized knowledge or
+
+
+                                         22
+expertise concerning music or the laws of copyright.” 826 F.3d at 93-94. 9 We
+
+noted that under this standard, a service provider’s non-expert employees
+
+cannot be expected to necessarily know whether a particular use of
+
+copyrighted music in a video constituted infringement, or, alternatively,
+
+whether it was a fair use, see 17 U.S.C. § 107, or authorized under a license. See
+
+Vimeo I, 826 F.3d at 96-97. Accordingly,
+
+      the mere fact that a video contains all or substantially all of a piece
+      of recognizable, or even famous, copyrighted music and was to
+      some extent viewed (or even viewed in its entirety) by some
+      employee of a service provider would be insufficient (without
+      more) to sustain the copyright owner’s burden of showing red flag
+      knowledge.
+
+Id. at 97. We concluded that:
+
+      Vimeo is entitled to summary judgment on those videos as to the
+      red flag knowledge issue, unless plaintiffs can point to evidence
+      sufficient to carry their burden of proving that Vimeo personnel
+      . . .knew facts making th[e] conclusion [that a video was
+      infringing] obvious to an ordinary person who had no specialized
+      knowledge of music or the laws of copyright.
+
+
+
+
+9The “ordinary person” is not any person; rather, it is “a reasonable person
+operating under the same or similar circumstances” as a service provider’s
+employees. S. REP. No. 105-190, at 44 (1998). Thus, under this approach, a
+plaintiff must show that employees were subjectively aware of facts and
+circumstances that would have made the infringement objectively obvious to
+a reasonable person in the employee’s shoes, who is assumed to have no
+specialized knowledge of music or copyright.
+                                        23
+Id. at 98. However, we also acknowledged in Vimeo I that it is “entirely
+
+possible that an employee of the service provider who viewed a video did have
+
+expertise or knowledge with respect to the market for music and the laws of
+
+copyright.” Id. at 97 (emphasis added). Thus, as an alternative way to
+
+establish red flag knowledge, a plaintiff could produce evidence to
+
+demonstrate that an employee (1) was not an “ordinary person” unfamiliar
+
+with these fields, and (2) was aware of facts that would make infringement
+
+objectively obvious to a person possessing such specialized knowledge. See id.
+
+We noted, though, that “[e]ven an employee who was a copyright expert
+
+cannot be expected to know when use of a copyrighted song has been
+
+licensed,” id., and, as discussed below, even a copyright expert may similarly
+
+struggle to identify instances of fair use.
+
+      Thus, in order to carry their burden of demonstrating that Vimeo had
+
+actual or red flag knowledge of the specific instances of infringement,
+
+Plaintiffs needed to show that Vimeo employees were aware of facts making
+
+it obvious to (a) a person who has no specialized knowledge or (b) a person
+
+that Plaintiffs have demonstrated does possess specialized knowledge that:
+
+
+
+
+                                        24
+(1) the videos contained copyrighted music; (2) the use of the music was not
+
+licensed; and (3) the use did not constitute fair use.
+
+      Vimeo has not contested that its employees were aware that the Videos-
+
+in-Suit contained copyrighted music. In support of the contention that Vimeo
+
+employees had red flag knowledge that the users were not authorized to
+
+reproduce the copyrighted music, Plaintiffs rely on evidence that Vimeo, in
+
+opening its licensing store in 2011, published a blog post saying that Vimeo
+
+employees were aware that licensing can be confusing and painful. Plaintiffs
+
+argue that if Vimeo employees knew that music licensing could be confusing
+
+and painful, then it would have been obvious to those employees that the
+
+videos they observed containing what they knew to be copyrighted music
+
+had not been licensed. To show that the employees had access to facts that
+
+made it objectively obvious the videos were not fair use, Plaintiffs rely on
+
+evidence that Vimeo told users that using copyrighted music in a video
+
+“generally (but not always) constitutes copyright infringement” and that
+
+Vimeo employees had been told by Vimeo’s legal counsel not to use
+
+copyrighted music in the background of videos they created. See Appellants’
+
+Br. at 59 (quoting J. App’x at 904).
+
+
+
+                                        25
+      We are not persuaded by these arguments. The fact that licensing
+
+music, as a general matter, can be challenging or confusing does not make it
+
+obvious that music accompanying a particular user-uploaded video was not
+
+licensed. Even if a person without specialized knowledge would have
+
+intuited a likelihood that many of the posted videos were not authorized, that
+
+would not make it obvious that a particular video lacked authorization to use
+
+the music. This is all the more true in view of the uncontested fact that, since
+
+2011, Vimeo had run a store from which users could purchase licenses to use
+
+music in videos. Accordingly, Vimeo employees were aware of the existence
+
+of simplified opportunities available to purchase licenses. Furthermore,
+
+because Plaintiffs have not proved that Vimeo employees had specialized
+
+knowledge of the music industry, those employees’ awareness that music
+
+found on their videos was under copyright did not show that they knew
+
+whether the music they heard on user videos came from EMI or another label.
+
+Plaintiffs’ evidence does not support it being apparent to Vimeo employees
+
+that the music they heard on any particular video came from a label that did
+
+not offer licenses through Vimeo’s store or otherwise.
+
+
+
+
+                                       26
+      Plaintiffs also rely on the contention that EMI’s cease-and-desist letter,
+
+sent to Vimeo in 2008, put Vimeo employees on notice that any EMI music
+
+used on the website was unauthorized. Plaintiffs cite EMI Christian Music
+
+Grp., Inc. v. MP3tunes, LLC, 844 F.3d 79, 93 (2d Cir. 2016), where we explained
+
+that the defendant’s subjective awareness that there had been no legal online
+
+distribution of Beatles songs could support red flag knowledge that any
+
+online electronic copies of Beatles songs on defendant’s servers were
+
+unlicensed. But the same logic does not necessarily apply here. As the district
+
+court pointed out, an awareness that EMI sent a letter in the past demanding
+
+removal of its music gave no assurance that EMI did not thereafter make
+
+contracts licensing the use of its music, especially in view of evidence that
+
+some users who posted the videos containing EMI music asserted that EMI
+
+had provided them with authorization to use the music. The DMCA does not
+
+require service providers to perform research on mere suspicion of a user’s
+
+infringement to determine the identity of the music in the user’s video,
+
+identify its source, and determine whether the user acquired a license. See
+
+Vimeo I, 826 F.3d at 98-99 (explaining, in the context of a contention of willful
+
+blindness, that requiring service providers “constantly to take stock of all
+
+
+
+                                        27
+information their employees may have acquired that might suggest the
+
+presence of infringements in user postings, and to undertake monitoring
+
+investigations whenever some level of suspicion was surpassed, . . . would
+
+largely undo the value of § 512(m)”).
+
+      Even if we concluded that Vimeo had red flag knowledge that EMI’s
+
+music in user videos was not authorized or licensed, that would be
+
+insufficient to satisfy Plaintiffs’ burden. Plaintiffs needed in addition to show
+
+that it would be apparent to a person without specialized knowledge of
+
+copyright law, or, alternatively, persons who have been demonstrated to
+
+possess specialized knowledge of copyright law, that the particular use of the
+
+music in the Videos-in-Suit was not fair use. Plaintiffs contend that they
+
+showed that the Vimeo staff had “legal acumen” as to copyright laws. See
+
+Appellants’ Br. at 59. We disagree. Their argument rests solely on Vimeo’s
+
+having told its employees not to produce videos containing copyrighted
+
+music and Vimeo’s having communicated to users that using copyrighted
+
+music “generally (but not always) constitutes copyright infringement.” Id.
+
+Those facts do not support the conclusion that a Vimeo employee, absent
+
+familiarity with copyright laws, would have a basis for knowing whether the
+
+
+
+                                        28
+use of copyrighted music in a particular video was or was not a fair use.
+
+Plaintiffs’ argument goes too far; it would require Vimeo employees to
+
+assume that uses of copyrighted material are never fair use. Vimeo’s exercise
+
+of prudence in instructing employees not to use copyrighted music and
+
+advising users that use of copyrighted music “generally (but not always)
+
+constitutes copyright infringement” did not educate its employees about how
+
+to distinguish between infringing uses and fair use.
+
+      Furthermore, at least during the period in question, the boundaries of
+
+fair use were not so well settled as to make clear even to persons well
+
+acquainted with copyright law whether and when a dancing, acting, or lip-
+
+dubbing performance of copyrighted music might pass muster as a fair use.
+
+      The difficulty distinguishing fair use from infringement at the time in
+
+question is illustrated by the Supreme Court’s subsequent consideration of
+
+Andy Warhol Foundation for the Visual Arts, Inc. v. Goldsmith, 598 U.S. 508
+
+(2023). The question presented to the Court in that case was whether the first
+
+statutory factor for a finding of fair use—“the purpose and character of the
+
+use,” 17 U.S.C. § 107(1)—favored a finding of fair use for a portrait of the
+
+singer Prince, created by Andy Warhol in 1984, which incorporated a
+
+
+
+                                        29
+copyright-protected photograph of Prince taken by photographer Lynn
+
+Goldsmith, while making changes to the original. See Warhol, 598 U.S. at 516-
+
+18.
+
+      More than 40 copyright experts, as “Copyright Law Professors” and
+
+“Art Law Professors,” filed amicus briefs in their own names supporting a
+
+finding of fair use and consequently no infringement. 10 At the same time,
+
+approximately 18 intellectual property professors filed amicus briefs arguing
+
+that the copying did not represent fair use. 11 The Court itself also proved to be
+
+bitterly divided. In the majority opinion, seven Justices rejected the
+
+arguments passionately advanced by two dissenters that Warhol’s changes to
+
+
+
+
+10See Br. of Amici Curiae Copyright Law Professors in Support of Petitioner,
+Warhol, 598 U.S. 508; Br. of Art Law Professors as Amici Curiae in Support of
+Petitioner, Warhol, 598 U.S. 508.
+
+11See Br. of Professors Peter S. Menell, Shyamkrishna Balganesh, and Jane C.
+Ginsburg as Amici Curiae in Support of Respondents, Warhol, 598 U.S. 508;
+Br. of Amicus Curiae Jeffrey Sedlik, Professional Photographer and
+Photography Licensing Expert, in Support of Respondents, Warhol, 598 U.S.
+508; Br. of Amicus Curiae Prof. Zvi S. Rosen in Support of Respondents,
+Warhol, 598 U.S. 508; Br. of Professor Guy A. Rub as Amici Curiae in Support
+of Respondents, Warhol, 598 U.S. 508; Br. of Amici Curiae Institute for
+Intellectual Property and Social Justice and Intellectual-Property Professors in
+Support of Respondents, Warhol, 598 U.S. 508; Br. of Professor Terry Kogan as
+Amicus Curiae in Support of Respondents, Warhol, 598 U.S. 508.
+                                       30
+the original Goldsmith photograph were transformative and that the ultimate
+
+creation was a fair use. See Warhol, 598 U.S. at 548-50.
+
+       Where academic scholars specialized in the study of the fair use
+
+question and the Justices of the Supreme Court are so divided, we cannot
+
+conclude that it was “apparent,” as required by Section 512(c)(1)(A)(ii), to
+
+untutored employees of Vimeo that dancing, acting, or lip-dubbing
+
+performances of copyrighted music uses posted by Vimeo users were not fair
+
+use.
+
+       In making this observation, we express no views on the strength or
+
+weakness of arguments that such lip-dubs or dances or acting performances
+
+qualify as fair use. We are merely pointing out the weakness of Plaintiffs’
+
+argument that Vimeo had red flag knowledge of infringement based on mere
+
+observation of the videos by employees with no training in copyright law.
+
+       We reject Plaintiffs’ arguments that Vimeo lost the protection of the safe
+
+harbor by virtue of having red flag knowledge that user postings were
+
+infringing and then failing to remove those postings from its website.
+
+
+
+
+                                        31
+   2. Right and Ability to Control
+
+      Plaintiffs also contend that Vimeo lost the protection of the Section
+
+512(c) safe harbor because it “receive[d] a financial benefit directly
+
+attributable to the infringing activity, in a case in which [it had] the right and
+
+ability to control such activity.” 17 U.S.C. § 512(c)(1)(B) (emphasis added).
+
+      The difficulty we face at the outset in considering these questions
+
+derives from uncertainty regarding what Congress meant by “right and
+
+ability to control [the infringing] activity.” Id. Exercise of control could mean
+
+many different things. What sort of control did Congress have in mind? How
+
+much control is required? If it meant simply the legal right and the technical
+
+capability to remove videos from the site, or prevent their installation, it
+
+would be rare for a service provider not to fall within that description. In
+
+virtually all cases, private operators of websites that host material posted by
+
+users have the legal right to select the categories of videos they will allow,
+
+and to exclude those that do not conform, as well as the technical ability to
+
+effectuate these choices. Indeed, the Act’s delineation of the scope of its safe
+
+harbor presupposes that the service provider will have the “right and ability”
+
+to remove infringing material from the site, as it provides in Sections
+
+
+
+                                         32
+512(c)(1)(A)(iii) & (C) that such removal is the means by which the service
+
+provider secures entitlement to the safe harbor upon becoming aware of the
+
+infringing nature of a user’s posting. See Viacom, 676 F.3d at 37.
+
+      Construing Section 512(c)(1) to mean that profiting from possession of a
+
+capability that virtually all private service providers are expected to possess
+
+would effectively foreclose access to the Act’s safe harbor and would
+
+substantially undermine what has generally been understood to be one of
+
+Congress’s major objectives in passing the DMCA: encouraging
+
+entrepreneurs to establish websites that can offer the public rapid, efficient,
+
+and inexpensive means of communication by shielding service providers
+
+from liability for infringements placed on the sites by users. It seems highly
+
+unlikely that Congress intended that this ambiguous provision should be
+
+interpreted to have a meaning that would effectively undo a major benefit
+
+that the Act appears intended to confer.
+
+      Accordingly, we held in Viacom that a showing of a “right and ability to
+
+control” requires “something more” than the mere ability to remove or block
+
+access to materials on its website. See 676 F.3d at 38 (internal citation omitted).
+
+In describing what the “something more” might be, we noted that (at that
+
+
+
+                                        33
+time) only one decision of a federal court—Perfect 10, Inc. v. Cybernet Ventures,
+
+Inc., 213 F. Supp. 2d 1146 (C.D. Cal. 2002) (“Cybernet”)—had concluded that a
+
+service provider had the right and ability to control infringing activity under
+
+Section 512(c)(1)(B). 12 See Viacom, 676 F.3d at 38. In that unique instance, the
+
+service provider had demanded that its users comply with a particular layout
+
+and appearance, gave its users extensive advice on content, and engaged in
+
+stringent monitoring of images. See Cybernet, 213 F. Supp. 2d at 1173. We
+
+characterized Cybernet as an instance where a service provider exerted
+
+“substantial influence” on user activities. See Viacom, 676 F.3d at 38. We also
+
+suggested in Viacom that a service provider might have a right and ability to
+
+control infringing activity if it had induced the infringing activity. See id.
+
+(citing Metro-Goldwyn-Mayer Studios Inc. v. Grokster, Ltd., 545 U.S. 913 (2005)).
+
+      Since then, only one additional federal court decision—Mavrix
+
+Photographs, LLC v. LiveJournal, Inc., 873 F.3d 1045, 1059 (9th Cir. 2017)—has
+
+acknowledged a possibility that a service provider might have come within
+
+
+
+
+12We also noted that other cases had “suggested that control may exist
+where the service provider is ‘actively involved in the listing, bidding,
+sale and delivery’ of items [or] . . . controls vendor sales.” Viacom, 676
+F.3d at 38 n.13 (internal citation omitted). This is not relevant to our case.
+
+                                         34
+the statutory standard of “right and ability to control.” In that case, the
+
+defendant website operator reviewed each user submission for content before
+
+allowing publication and rejected nearly two-thirds of submitted posts. See id.
+
+The Ninth Circuit remanded to the district court with instructions to assess
+
+whether those facts would justify a finding that the service provider had the
+
+“right and ability to control” infringing activity. See id. As with Cybernet, the
+
+site operator’s activities in Mavrix arguably involved exercise of “substantial
+
+influence” over user postings.
+
+      Our court has addressed this issue twice since Viacom, in each case
+
+employing a non-precedential summary order to affirm a district court ruling
+
+that found no right and ability to control. First, the district court in Wolk v.
+
+Kodak Imaging Network, Inc. had ruled that the service provider did not have
+
+the right and ability to control because it neither engaged in prescreening, nor
+
+extensively influenced users regarding content, nor altered user content. See
+
+840 F. Supp. 2d at 748. This court affirmed the judgment “substantially for the
+
+reasons stated by the district court” the judgment was proper, finding that the
+
+operator lacked the “right and ability to control” infringing activity. See Wolk
+
+v. Photobucket.com, Inc., 569 F. App’x 51, 52 (2d Cir. 2014) (summary order).
+
+
+
+                                         35
+Second, the district court in Obodai v. Demand Media, Inc. had ruled that
+
+evidence that the service provider monitored site traffic, but not the content of
+
+user postings, was insufficient to “conclude that [the] defendant exercised
+
+control over user submissions sufficient to remove it from the safe harbor
+
+provision of section 512(c)(1)(B).” No. 11-cv-2503 (PKC), 2012 WL 2189740, at
+
+*8 (S.D.N.Y. June 13, 2012). As in Wolk, this court found that “the district court
+
+correctly determined that [the defendant] was eligible for” the Section 512(c)
+
+safe harbor. See Obodai v. Cracked Ent. Inc., 522 F. App’x 41, 42 (2d Cir. 2013)
+
+(summary order).
+
+      Plaintiffs endorse the exercise of “substantial influence” over infringing
+
+activity as the governing standard. See Appellants’ Br. at 27 (“[The Act]
+
+preserves vicarious liability for providers . . . who can exercise ‘substantial
+
+influence’ over users’ infringing activity, and who derive a financial benefit
+
+from that activity. Viacom, 676 F.3d at 38 (citing Cybernet, 213 F. Supp. 2d at
+
+1173).”). Plaintiffs argue that a service “provider’s influence should be found
+
+’substantial’ when the provider exercises editorial judgment, such as by
+
+evaluating content for its merit.” Appellants’ Br. at 28. They contend that, by
+
+promoting and demoting user posts based on their merit or their appeal to
+
+
+
+                                        36
+other users, as well as by banning videos that merely reproduced pre-existing
+
+content and gameplay videos, Vimeo exercised the sort of substantial
+
+influence that, combined with the profits it earned, at least raised a jury
+
+question of its eligibility for the safe harbor, thus requiring that we vacate the
+
+district court’s grant of summary judgment to Vimeo. They assert that
+
+“Vimeo employees made significant editorial judgments about the precise
+
+kind of activity— user uploads—that infringe copyright” and that “Vimeo’s
+
+level of control over its users’ activity outstripped” the controls found in
+
+Cybernet to constitute exercise of “substantial influence” over the user
+
+postings, resulting in forfeiture of access to the safe harbor. See Appellants’ Br.
+
+at 35.
+
+         We cannot agree. In the first place, the extent to which Vimeo
+
+employees exercised control over user posts was far less intrusive than the
+
+controls exercised by the service providers in Cybernet and Mavrix. As noted
+
+above, in Cybernet, the service provider dictated a prescribed layout and
+
+appearance for all user posts, gave its users extensive advice on content, and
+
+engaged in stringent monitoring of images. See 213 F. Supp. 2d at 1173. In
+
+Mavrix, the service provider reviewed each user submission for content before
+
+
+
+                                         37
+allowing publication and rejected nearly two-thirds of submitted posts. See
+
+873 F.3d at 1059.
+
+      Vimeo’s intrusions into user autonomy over their posts were far less
+
+extensive as to both coercive effect and frequency. Calling attention to
+
+selected videos by giving them a sign of approval or displaying them on a
+
+Staff Picks channel (or the contrary, by demoting them) did not restrict the
+
+freedom of users to post whatever videos they wished.
+
+      As for Vimeo’s insistence that user videos be limited to those created at
+
+least in part by the user, and its ban of pornography as well as gameplay
+
+videos and other unoriginal content, this was somewhat more intrusive. But
+
+these requirements were in the nature of (i) avoiding illegality and the risk of
+
+offending viewers and (ii) designing a website that would be appealing to
+
+users with particular interests. It seems unlikely that, in Congress’s use of an
+
+ambiguous term in formulating the standards for eligibility for the safe
+
+harbor to encourage entrepreneurs to create websites, it intended to deny
+
+eligibility for the safe harbor to entrepreneurs merely because they sought to
+
+exclude content that violates other laws or because they sought to design sites
+
+to make them appealing to selected categories of consumer preferences—
+
+
+
+                                       38
+whether for child-friendly videos, videos devoted to dance, kittens and
+
+puppies, hunting and fishing, cars, baseball, wildlife, antiques, carpentry, or
+
+whatever else. The creation of websites designed to satisfy consumer
+
+demands appears to be precisely the sort of entrepreneurial activity that the
+
+safe harbor was intended to encourage. 13
+
+      In addition, when one recognizes the huge number of videos posted by
+
+users on Vimeo, Plaintiffs have failed to show that interventions by Vimeo
+
+staff affected more than a tiny percentage. For example, in 2012, 43,000 new
+
+videos per day were posted on Vimeo, which annualized to over 15 million
+
+new videos. During that year, Vimeo had only 74 employees. Apart from how
+
+minimal an intrusion it is for a staff member to select a video to receive an
+
+indication of approval, the number of videos that 74 staff members could
+
+have evaluated and emphasized amounted to no more than an insignificant
+
+
+13Plaintiffs do not contend that restrictions imposed by a website operator
+that are designed to avoid illegality, alienation of users, or postings not
+compatible with the website’s mission cause forfeiture of the safe harbor.
+Plaintiffs classify such restrictions as “basic site maintenance,” which they
+assert are distinct from exercises of editorial judgment that forfeit entitlement
+to the safe harbor. See Appellants’ Br. at 31. Plaintiffs have suggested no
+reason why Congress would have intended by its ambiguous language to
+deny a provider the safe harbor merely because it drew attention to videos it
+believed would appeal to its users or demoted videos it believed would not
+appeal to its viewers.
+                                       39
+percentage of those posted. Plaintiffs did not show that staff awards,
+
+consisting of likes, thumbs-ups, and promotions to a Staff Picks channel (or
+
+demotions), came anywhere near amounting to exercising “substantial
+
+influence” over the contents of user-posted videos.
+
+      In our view, denial of eligibility for the safe harbor based on such
+
+noncoercive exercises of control over only a small percentage of postings
+
+would undermine, rather than carry out, Congress’s purposes in establishing
+
+the safe harbor. In establishing this safe harbor with its limitations, Congress
+
+sought to achieve a compromise with the following complex objectives. First,
+
+Congress recognized that the creation of websites on which the public could
+
+post videos would render a hugely valuable public service. However, the
+
+expense of either policing all postings to weed out infringements or of paying
+
+damages for infringements by users would be prohibitive. Entrepreneurs
+
+could not be expected to establish such ventures if doing so would expose
+
+them to an open-ended risk of liability for the posting by users of infringing
+
+videos or if they would need to incur unsustainable costs in policing posted
+
+videos to ensure that they were free of infringements. See S. REP. No. 105-190,
+
+at 8 (1998) (“[W]ithout clarification of their liability, service providers may
+
+
+
+                                        40
+hesitate to make the necessary investment in the expansion of the speed and
+
+capacity of the Internet.”). Congress therefore enacted inducements to
+
+establish such websites by granting safe harbors protecting service providers
+
+from liability for infringements posted by users and by expressly exempting
+
+the service providers from any obligation to conduct burdensome research to
+
+detect infringements. See 17 U.S.C. § 512(m) (“Nothing in this section shall be
+
+construed to [require] a service provider [to] monitor[] its service or
+
+affirmatively seek[] facts indicating infringing activity . . . .”). At the same
+
+time, Congress recognized that the posting of infringements by users of
+
+websites could cause significant economic harm to copyright holders.
+
+Accordingly, Congress placed some limitations on eligibility for the safe
+
+harbor. While Congress deemed it important not to impose on website
+
+operators the huge burden of checking user posts for infringement, it
+
+recognized that this burden would be considerably lessened if the operator
+
+was already voluntarily incurring a large expense in monitoring and
+
+controlling user posts to serve the operator’s own business purposes. In such
+
+cases, where an operator is not merely passively accepting content but is
+
+arguably playing a large role in shaping the content of user posts, checking
+
+
+
+                                         41
+also for infringements would add only a relatively modest incremental
+
+expense and would not substantially disincentivize the provision of socially
+
+valuable sites. Congress therefore gave rightsholders some limited recourse
+
+against service providers that have the “right and ability to control”
+
+infringements by users, which our court has interpreted to apply in
+
+circumstances when the service provider has exercised “substantial
+
+influence” over user activities. 14 To interpret this provision as Plaintiffs
+
+argue—to deny Vimeo access to the safe harbor merely because of the tiny
+
+influences it exercised—would subject Vimeo to a huge expense in
+
+monitoring millions of posts to protect itself against the possibility of liability
+
+for infringements. It would undermine the compromise that we understand
+
+Congress to have sought. It would prevent service providers from seeking to
+
+
+14Because availability of the safe harbor turns, in part, on whether the service
+provider has the “right and ability to control” “the infringing activity,”
+17 U.S.C. § 512(c)(1)(B) (emphasis added), it is arguable that exercise of
+control as to content, or other elements of a site that are unrelated to
+infringement, does not show “control” within the meaning of the statute.
+Under this view, exercises of control by site operators that were not
+addressed to incidence of infringement would contribute nothing to a
+showing of “right and ability to control” and would therefore be inadmissible
+as evidence supporting that showing. We do not need to decide whether such
+exercise of control is relevant to establishing “right and ability to control”
+infringement because, on either view, Vimeo did not exercise “substantial
+influence” such that it lost the protection of the safe harbor.
+                                         42
+make their websites responsive to user desires, substantially diminishing
+
+their utility to the public.
+
+       We recognize, as Congress did, that this compromise will cause some
+
+hardships to rightsholders. At the same time, increasing the vulnerability of
+
+service providers to liability for infringements posted by users would result
+
+in diminishing the scope and availability of web services offered by service
+
+providers to the public for lawful use. Where the balance should ideally be
+
+struck is a policy question committed to the judgment of Congress. If
+
+Congress believes we have misunderstood its compromise or has changed its
+
+mind as to where the balance should lie, it is for Congress to pass corrective
+
+legislation.
+
+       Last, we address the question whether by promoting the creation of lip-
+
+dub videos, given the likelihood that users would lip-dub currently popular
+
+copyrighted music, Vimeo encouraged infringement and should be deemed
+
+to have thus exercised the “right and ability to control,” risking forfeiture of
+
+the safe harbor. We see force in the argument that encouraging users to make
+
+infringing lip-dubs should trigger forfeiture of a safe harbor designed to
+
+
+
+
+                                        43
+protect service providers from liability for infringements for which they were
+
+in no way responsible.
+
+      However, Plaintiffs have waived the argument. Their opening brief
+
+declines to assert this argument, explaining that our earlier opinion in this
+
+case “forecloses (at this stage) the argument that Vimeo’s ‘urging’ and
+
+‘encouraging users to post infringing material’ constituted inducement under
+
+Grokster.” Appellants’ Br. at 28 n.5 (quoting Vimeo I, 826 F.3d at 99). 15
+
+      We do not read our opinion in Vimeo I as foreclosing this potentially
+
+forceful argument. Our comments in Vimeo I to the effect that Plaintiffs’
+
+arguments were not supported by the evidence concerned a different issue:
+
+willful blindness to infringement, which we ruled could not be demonstrated
+
+
+
+15Plaintiffs’ statement in their brief that Vimeo I forecloses the argument “(at
+this stage)” implies an intention to raise the argument at a later time –
+presumably before the Supreme Court. Appellants’ Br. at 25 n.5 (emphasis
+added). Without doubt, there is a well-established practice, when the prior
+decisions of the court of appeals clearly reject an argument, for an advocate of
+that argument to raise it before the court of appeals in only a perfunctory
+fashion, as a token preservation of the argument to be asserted before the
+Supreme Court. The propriety of that practice, however, depends on the court
+of appeals having truly rejected the argument. That condition does not apply
+here. Not only have we not rejected Plaintiffs’ argument: we have not even
+considered it. Accordingly, we question whether there is justification for
+Plaintiffs to contend that they have preserved the argument to be raised in the
+Supreme Court, despite having failed to raise it in this court.
+
+                                         44
+by “a handful of sporadic instances . . . in which Vimeo employees
+
+inappropriately encouraged users to post videos that infringed music.” Vimeo
+
+I, 826 F.3d at 99.
+
+       In Vimeo I, we rejected Plaintiffs’ contention of Vimeo’s willful
+
+blindness in substantial part because of the tiny scope of isolated instances of
+
+a different sort of encouragement to infringe: where employees deviated from
+
+company policy by telling users not to worry about infringement. 16 Our
+
+opinion neither said nor implied that encouragements to infringe could not
+
+impact Vimeo’s entitlement to the safe harbor under Section 512(c)(1)(B). The
+
+discussion furthermore did not concern Vimeo’s policy to encourage lip-dubs.
+
+We can see no basis for Plaintiffs’ reading our Vimeo I opinion as
+
+“foreclos[ing] . . . the argument that Vimeo’s ‘urging’ and ‘encouraging users
+
+to post infringing material’ constituted inducement.” Appellants’ Br. at 28 n.5.
+
+
+
+
+16“Thus, notwithstanding a few unrelated instances in which its employees
+improperly encouraged specific infringements, Vimeo can still assert the
+protection of § 512(m) for the present suit, and claim the benefit of the safe
+harbor, in the absence of a showing by Plaintiffs of facts sufficient to
+demonstrate that Vimeo, having actual or red flag knowledge of infringement
+in the videos that are the subject of Plaintiffs’ suit, failed to promptly take
+them down.” Vimeo I, 826 F.3d at 99.
+                                        45
+       Insofar as this concerns the resolution of this appeal, the answer is
+
+simple. Because Plaintiffs waived the argument that Vimeo’s policy to
+
+encourage lip-dub videos constituted (or contributed to) the “right and ability
+
+to control” infringements, with adverse consequences under Section
+
+512(c)(1)(B), we do not consider that as a possible basis of liability for Vimeo.
+
+Because we agree with the district court that Vimeo’s other activities—
+
+commenting on and promoting posted videos, and banning certain types of
+
+videos—do not, in combination, support a finding that Vimeo has exercised
+
+“substantial influence” over the infringing activity, as required by Viacom,
+
+Plaintiffs failed to raise a triable question regarding Vimeo’s “right and ability
+
+to control.” Accordingly, we need not reach the question whether Vimeo
+
+received a financial benefit directly attributable to that infringing material.
+
+                                CONCLUSION
+
+      Plaintiffs failed to demonstrate a disputed issue of material fact as to
+
+whether Vimeo had the right and ability to control infringing activity on its
+
+website or whether Vimeo’s employees had red flag knowledge of users’
+
+infringement. Accordingly, we AFFIRM the judgment of the district court.
+
+
+
+
+                                        46

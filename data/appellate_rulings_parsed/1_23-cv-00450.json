@@ -1,0 +1,49 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court properly granted a preliminary injunction against enforcement of Maine's 'Act to Prohibit Campaign Spending by Foreign Governments' on First Amendment grounds.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "AFFIRM",
+      "key_reasoning": "The First Circuit found no abuse of discretion in the district court's conclusion that the Act's restrictions on campaign spending by entities with 5% or more foreign government ownership, or with foreign government participation in decision-making, were likely not narrowly tailored and thus likely unconstitutional under the First Amendment."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the district court erred in applying strict scrutiny (rather than exacting scrutiny) to the Act's restrictions on political spending and contributions.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that, even assuming exacting scrutiny applied to contribution limits, the Act would still likely fail because its restrictions were not closely drawn to a sufficiently important interest; strict scrutiny was properly applied to expenditure restrictions."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the Act is preempted by the Federal Election Campaign Act (FECA) as to federal elections.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court agreed that FECA preempts the Act as applied to federal elections, but found this did not affect the overall First Amendment analysis or the propriety of the injunction."
+    },
+    {
+      "issue_id": 4,
+      "description": "Whether the district court abused its discretion by not severing potentially valid portions of the Act at the preliminary injunction stage.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found no abuse of discretion in the district court's decision to reserve the severability question for later proceedings, given the expedited nature of the case."
+    }
+  ],
+  "key_precedents": [
+    "Citizens United v. FEC, 558 U.S. 310 (2010)",
+    "Bluman v. FEC, 800 F. Supp. 2d 281 (D.D.C. 2011), aff'd, 565 U.S. 1104 (2012)",
+    "Fortu\u00f1o, 699 F.3d 1 (1st Cir. 2012)",
+    "Minn. Chamber of Com. v. Choi, 765 F. Supp. 3d 821 (D. Minn. 2025)",
+    "Buckley v. Valeo, 424 U.S. 1 (1976)",
+    "Moody v. NetChoice, LLC, 603 U.S. 707 (2024)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "In 2023, Maine voters passed by ballot initiative \"An Act to Prohibit Campaign Spending by Foreign Governments\" (\"the Act\") with the expressed purpose of prohibiting foreign governments and \"foreign government-influenced entit[ies]\" from contributing to or otherwise influencing candidate elections and ballot initiatives. Me. Rev. Stat. Ann. tit. 21-A, \u00a7 1064 (2024). To accomplish the Act's aim of preventing what its supporters refer to as \"foreign interference\" in elections, the Act also requires media platforms to conduct due diligence to ensure that they do not distribute a public communication that violates this prohibition. Those who violate the Act may be subject to civil penalties, criminal penalties, or both.\n\nSeveral companies and individuals, including Central Maine Power (\"CMP\"), Versant Power and Enmax Corporation (\"Versant\"), Maine Press Association and Maine Association of Broadcasters (\"Press and Broadcasters\"), and several individuals (\"Electors\") filed suit against state officials and entities responsible for enforcing the Act (collectively, \"Maine\"), including the Maine Commission on Governmental Ethics and Election Practices (the \"Ethics & Election Commission\"). The challengers contended that the Act was facially invalid under the First Amendment and thus moved for a preliminary injunction enjoining the Act in its entirety. The district court granted the preliminary injunction, and Maine appealed. We affirm."
+}

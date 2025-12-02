@@ -1,0 +1,829 @@
+United States Court of Appeals
+                      For the First Circuit
+
+
+No. 21-1214
+
+                      ÁNGEL FORTEZA-GARCÍA,
+
+                      Petitioner, Appellant,
+
+                                v.
+
+                          UNITED STATES,
+
+                      Respondent, Appellee.
+
+
+          APPEAL FROM THE UNITED STATES DISTRICT COURT
+                FOR THE DISTRICT OF PUERTO RICO
+
+       [Hon. Raúl M. Arias-Marxuach, U.S. District Judge]
+
+
+                              Before
+
+                       Barron, Chief Judge,
+              Montecalvo and Aframe, Circuit Judges.
+
+
+     Franco L. Pérez-Redondo, with whom Rachel Brill, Federal
+Public Defender, District of Puerto Rico, Héctor L. Ramos-Vega,
+Interim Federal Public Defender, District of Puerto Rico, and Kevin
+E. Lerman, Research and Writing Attorney, were on brief, for
+appellant.
+     Joshua K. Handell, with whom W. Stephen Muldrow, United States
+Attorney, Mariana E. Bauzá-Almonte, Assistant United States
+Attorney,    Chief,   Appellate    Division,    and   Ricardo    A.
+Imbert-Fernández, Assistant United States Attorney, were on brief,
+for appellee.
+March 3, 2025
+            BARRON, Chief Judge.         Ángel Forteza-García appeals the
+
+District Court's denial of his 28 U.S.C. § 2255 petition for
+
+post-conviction      relief,     in    which   he     seeks   relief     from    his
+
+conviction under 18 U.S.C. § 924(j).                That provision makes it a
+
+crime to "cause the death of a person through the use of a firearm"
+
+in the course of violating 18 U.S.C. § 924(c), which in turn
+
+criminalizes using or carrying a firearm "during and in relation
+
+to any crime of violence."            Forteza based his petition on United
+
+States v. Davis, 588 U.S. 445 (2019), which held unconstitutionally
+
+vague a portion of the definition of a "crime of violence" in
+
+§ 924(c).     Forteza contends that, in consequence of Davis, the
+
+predicate conviction for his § 924(j) offense does not qualify as
+
+a "crime of violence," and thus that his conviction for that
+
+offense is unconstitutional.           We disagree and affirm.
+
+                                        I.
+
+            Section 924(c) makes it a crime to use or carry a firearm
+
+"during   and   in    relation    to    any    crime    of    violence    or    drug
+
+trafficking     crime . . . for        which    the    [perpetrator]      may    be
+
+prosecuted in a court of the United States," or to possess a
+
+firearm in furtherance of any such crime of violence or drug
+
+trafficking crime.        18 U.S.C. § 924(c)(1)(A).                 Section 924(j)
+
+criminalizes anyone who, in the course of committing a violation
+
+of § 924(c), "causes the death of a person through the use of a
+
+firearm,"   with     different    penalties     depending      on    whether    that
+
+                                       - 3 -
+killing would qualify as murder or manslaughter under federal law.
+
+Id. § 924(j).
+
+          So, to prove that a defendant has committed a violation
+
+of § 924(j), the government must prove not only that a killing
+
+occurred through the use of a firearm, but also that the killing
+
+occurred in the course of the defendant committing a "crime of
+
+violence or drug trafficking crime" within the meaning of § 924(c).
+
+The relevant definition of "crime of violence" for § 924(c) is set
+
+forth in § 924(c)(3).   It provides that such a crime includes any
+
+felony offense that, under what is known as the force clause, "has
+
+as an element the use, attempted use, or threatened use of physical
+
+force against the person or property of another" or that, under
+
+what is known as the residual clause, "by its nature, involves a
+
+substantial risk that physical force against the person or property
+
+of another may be used in the course of committing the offense."
+
+Id. § 924(c)(3).
+
+          Forteza's § 924(j) conviction stems from an indictment
+
+that was handed up in the District of Puerto Rico in March 2003.
+
+The indictment charged him with five counts, though only two are
+
+relevant to this appeal.
+
+          The first relevant count ("Count One") charged Forteza
+
+with "aiding and abetting" a violation of 18 U.S.C. § 2114(a).
+
+Although often referred to as the federal mail robbery statute
+
+because it criminalizes the robbery of custodians of United States
+
+                              - 4 -
+mail, § 2114(a) also criminalizes the robbery of any person who
+
+has "lawful charge" of "any money or other property of the United
+
+States."    18 U.S.C. § 2114(a); see Garcia v. United States, 469
+
+U.S. 70, 72-73 (1984).   The violation was alleged to have involved
+
+the assault of a government informant, who possessed money provided
+
+by the government for the purpose of effecting a controlled
+
+purchase of a firearm, with the intent to rob him.      This count
+
+further alleged that the victim of the assault was "wounded" and
+
+his life was "put . . . in jeopardy" when he was shot several times
+
+and ultimately died.
+
+            The other count that is relevant to this appeal ("Count
+
+Three") charged Forteza with "aiding and abetting" a violation of
+
+§ 924(j).    It did so by alleging that the violation of § 2114(a)
+
+described in Count One was committed by the use or carrying of a
+
+firearm during the incident, and that "in the course of that crime
+
+of violence," the victim was "unlawfully killed . . . through the
+
+use of a firearm."
+
+            Forteza pleaded guilty in September 2003 only to Count
+
+Three, which had charged him with the § 924(j) offense.         In
+
+exchange for his guilty plea, the government agreed to drop the
+
+remaining four charges -- including the § 2114(a) charge -- and to
+
+recommend a sentence below the maximum term authorized for a
+
+violation of § 924(j).    Forteza was then sentenced to 324 months
+
+in prison, followed by five years of supervised release.
+
+                                - 5 -
+            Forteza       unsuccessfully    appealed      his   conviction     and
+
+sentence.    United States v. Fortez[a]-García, Nos. 04-1215, 04-
+
+1398, 04-1216, 04-2458, 2006 WL 4399664 (1st Cir. Sept. 8, 2006).
+
+He then filed a petition for post-conviction relief under 28 U.S.C.
+
+§ 2255 in the District of Puerto Rico in 2006.
+
+            The     petition   alleged     that    Forteza's    conviction     and
+
+sentence were unconstitutional due to prosecutorial and judicial
+
+misconduct    and    his    having    received    ineffective     assistance    of
+
+counsel.     The petition was denied.             Forteza does not appear to
+
+have appealed that ruling.
+
+            In    2017,    however,    Forteza    filed   an    application    for
+
+permission to file a second petition for post-conviction relief
+
+under § 2255.       He did so on the ground that his § 924(j) conviction
+
+was unconstitutional under intervening precedent of the Supreme
+
+Court of the United States in Davis, which was decided in 2019.
+
+There, the Court held that the portion of § 924(c)(3)'s "crime of
+
+violence" definition which encompassed any felony that "by its
+
+nature, involves a substantial risk that physical force against
+
+the person or property of another may be used in the course of
+
+committing the offense" was unconstitutionally vague.                Davis, 588
+
+U.S. at 470.
+
+            This Court granted that application in 2020.                Forteza
+
+thereafter filed the petition that is at issue in this appeal.
+
+
+
+                                       - 6 -
+              Forteza's      petition    alleges       that,    in       consequence   of
+
+Davis, his § 2114(a) offense can only properly support his § 924(j)
+
+conviction     if    it    qualifies     as    a    "crime     of       violence"   under
+
+§ 924(c)(3)(A)'s force clause.               But, the petition further alleges,
+
+that offense does not so qualify, because § 2114(a) does not have
+
+"as an element the use, attempted use, or threatened use of
+
+physical force against the person or property of another" that is
+
+required under § 924(c)(3)(A).
+
+              The District Court rejected this argument on the ground
+
+that the § 2114(a) offense of which Forteza had been convicted
+
+does   have    as    an    element     the    use     of   force        contemplated   by
+
+§ 924(c)(3)(A).           Forteza-García v. United States, No. 20-1145,
+
+2021 WL 784875, at *6 (D.P.R. Feb. 26, 2021).                       In so ruling, the
+
+District   Court      also     noted    that    any    argument          that   Forteza's
+
+predicate offense would not so qualify under the force clause
+
+because he had been an accomplice to that offense, rather than a
+
+principal, was foreclosed by binding First Circuit precedent.                          Id.
+
+Finally,   the      District    Court    denied       Forteza       a    certificate   of
+
+appealability (COA) on his claim.               Id.
+
+              Forteza requested a COA from this Court.                    We granted the
+
+request with respect to his claim that his § 924(j) conviction was
+
+unconstitutional under Davis.
+
+
+
+
+                                        - 7 -
+                                II.
+
+          "When reviewing a district court's denial of a § 2255
+
+petition, we review the district court's legal conclusions de novo
+
+and any factual findings for clear error."      Lassend v. United
+
+States, 898 F.3d 115, 122 (1st Cir. 2018) (citation omitted).
+
+"The question of whether an offense qualifies as a crime of
+
+violence is a quintessentially legal one[.]"      United States v.
+
+Martinez, 762 F.3d 127, 133 (1st Cir. 2014) (citation omitted).
+
+The question of which offense serves as the defendant's purported
+
+predicate offense under the categorical approach, however, is a
+
+question of fact.   Pereida v. Wilkinson, 592 U.S. 224, 238 (2021).
+
+Because this is a question of fact that we review for clear error,
+
+we will only disturb the District Court's findings if, after
+
+reviewing the whole record, we are left with "a strong, unyielding
+
+belief that a mistake has been made."        See United States v.
+
+Fitzpatrick, 67 F.4th 497, 502 (1st Cir. 2023) (quoting United
+
+States v. Cintrón-Echautegui, 604 F.3d 1, 6 (1st Cir. 2010)).
+
+                               III.
+
+          Forteza agrees that he can succeed on his Davis-based
+
+challenge to the denial of his petition only if he can demonstrate
+
+that the § 2114(a) offense underlying his § 924(j) conviction does
+
+not have "as an element the use, attempted use, or threatened use
+
+of physical force against the person or property of another."   18
+
+U.S.C. § 924(c)(3); see Mathis v. United States, 579 U.S. 500, 504
+
+                               - 8 -
+(2016); United States v. Taylor, 848 F.3d 476, 491 (1st Cir. 2017);
+
+see also United States v. Collymore, 61 F.4th 295, 297 (2d Cir.
+
+2023) (explaining that "because an element of an offense under
+
+section 924(j)(1) is that the defendant was 'in the course of a
+
+violation of [§ 924(c)],'" a predicate that does not qualify for
+
+the purposes of § 924(c) cannot qualify as a predicate for the
+
+purposes of § 924(j)).   But although Forteza contends that he can
+
+demonstrate just that, we conclude that he has failed to do so.
+
+                                A.
+
+          Section 2114(a)1 provides as follows:
+
+          (a) Assault.--A person who assaults any person
+          having lawful charge, control, or custody of
+          any mail matter or of any money or other
+          property of the United States, with intent to
+          rob, steal, or purloin such mail matter,
+          money, or other property of the United States,
+          or robs or attempts to rob any such person of
+          mail matter, or of any money, or other
+          property of the United States, shall, for the
+          first offense, be imprisoned not more than ten
+          years; and if in effecting or attempting to
+          effect such robbery he wounds the person
+          having custody of such mail, money, or other
+          property of the United States, or puts his
+          life in jeopardy by the use of a dangerous
+          weapon, or for a subsequent offense, shall be
+          imprisoned not more than twenty-five years.
+          18 U.S.C. § 2114(a).
+
+          The parties agree that § 2114(a) sets out at least two
+
+separate offenses -- a simple form of the offense and an aggravated
+
+
+     1 Section 2114 also contains a second provision, subsection
+(b), but no party contends that this subsection was the basis of
+Forteza's § 2114 offense.
+
+                              - 9 -
+form of it.   Taylor, 848 F.3d at 492 (explaining that statutes
+
+which list multiple elements in the alternative are "divisible"
+
+into separate offenses under the categorical approach, meaning
+
+that some forms of the offense may have as an element the requisite
+
+force while other forms of the offense may not).      The parties'
+
+agreement, however, ends there with respect to the nature and
+
+number of offenses that § 2114 delineates.
+
+          As Forteza sees it, the text from § 2114(a) that is
+
+quoted above sets out only two offenses.     The first offense, in
+
+his view, is a single, indivisible, simple variant of a § 2114(a)
+
+offense, which is defined only by the text that precedes the
+
+semicolon in that statute.   The second offense, in his view, is
+
+also a single, indivisible offense, but it is defined by all the
+
+text following the semicolon, which sets forth an aggravated
+
+variant of the § 2114(a) offense.   As a result, he contends that,
+
+although the aggravated form of the § 2114(a) offense can be
+
+committed by wounding or placing the life of a custodian of federal
+
+property in jeopardy in the course of committing simple § 2114(a),
+
+it also can be committed by committing the simple form of the
+
+§ 2114(a) offense more than once.      Forteza then argues that,
+
+because the simple form of mail robbery set forth in § 2114(a) can
+
+be committed without using the force required under § 924(c)(3),
+
+that § 2114(a) offense does not qualify as a "crime of violence"
+
+under the definition of a "crime of violence" that provision sets
+
+                              - 10 -
+forth.    And he goes on to argue that it follows that, because the
+
+aggravated variant of the § 2114(a) offense can be committed by
+
+merely committing the simple variant of the § 2114(a) offense
+
+twice, the aggravated form of the § 2114(a) offense also fails to
+
+qualify as a "crime of violence" that could support his § 924(j)
+
+conviction.
+
+           According   to   the   government,   however,    the   text    in
+
+§ 2114(a) that precedes the semicolon sets out three distinct
+
+simple variants of the § 2114(a) offense: the first predicated on
+
+robbery of a custodian of federal property, the second predicated
+
+on assault of that custodian with intent to rob, and the third
+
+predicated on attempted robbery of that custodian.         The government
+
+then goes on to contend that the text after the semicolon sets out
+
+two distinct aggravated variants of the § 2114(a) offense.               The
+
+first of those offenses, according to the government, is for an
+
+offense in which a person wounds the custodian while committing
+
+the simple § 2114(a) offense.         The second of those offenses,
+
+according to the government, is for an offense in which a person
+
+places that custodian's life in jeopardy by the use of a dangerous
+
+weapon.    Finally, the government argues that the remaining text
+
+after the semicolon sets forth not a separate § 2114(a) offense
+
+but merely a sentencing factor, which enhances the sentence for
+
+any § 2114(a) offense -- whether a simple or aggravated variant of
+
+
+
+                                  - 11 -
+such an offense -- based on the defendant having violated § 2114(a)
+
+more than once.
+
+          From this premise, the government argues that each of
+
+the   robbery-,   wounding-,    and      placing-life-in-jeopardy-based
+
+§ 2114(a) offenses has as an element the use of force that is
+
+required for an offense to qualify as a "crime of violence" under
+
+§ 924(c)(3)(A).     As a result, in the government's view, so long
+
+as Forteza's predicate § 2114(a) offense was for one of these kinds
+
+of § 2114(a) offenses, it was for an offense that suffices to
+
+support Forteza's § 924(j) conviction because it was for a "crime
+
+of violence" within the meaning of § 924(c)(3).
+
+          Against     this   backdrop,     we    begin   with   Forteza's
+
+contention that, because it is not clear from the record whether
+
+his predicate offense was based on the simple or aggravated variant
+
+of the § 2114(a) offense,2 the District Court was obliged to treat
+
+his predicate offense as being for the simple rather than the
+
+aggravated form of the offense and thus to conclude that it did
+
+not qualify as a "crime of violence."           Because we conclude that
+
+
+
+
+      2The government contends that Forteza's challenge to the
+District Court's finding that he was convicted of aggravated mail
+robbery is "underdeveloped" and thus waived. But, because we find
+the "simplest way to decide" Forteza's challenge on this ground is
+to proceed to the merits, we do so here. See, e.g., United States
+v. Grullon, 996 F.3d 21, 32 (1st Cir. 2021) (quoting United States
+v. McCullock, 991 F.3d 313, 322 (1st Cir. 2021)).
+
+                                - 12 -
+there is no merit to this contention, we then proceed to address
+
+Forteza's fallback contentions.
+
+                                    B.
+
+           Forteza begins with the point that the only count of his
+
+indictment that he pleaded guilty to was Count Three, which charged
+
+him with violating § 924(j).      See United States v. Faust, 853 F.3d
+
+39, 53 (1st Cir. 2017) (holding that a court may look to a
+
+defendant's "charging document, written plea agreement, transcript
+
+of [their] plea colloquy, and any explicit factual finding by the
+
+trial judge to which the defendant assented," to determine which
+
+offense   under   a   divisible   statute   formed   the   basis   of   the
+
+defendant's predicate (quoting Shepard v. United States, 544 U.S.
+
+13, 16 (2005))).      Count Three, to which he pleaded guilty, alleges
+
+that Forteza and his codefendants:
+
+           [A]iding   and   abetting   each   other,    did
+           willfully,   intentionally,    and   unlawfully
+           possess, use or carry a firearm during and in
+           relation to a crime of violence, . . . that
+           is, assaulting an individual who lawfully had
+           charge, control, or custody of money of the
+           United States, with intent to rob, steal, or
+           purloin said money, as set forth in COUNT ONE
+           herein, which is realleged and incorporated by
+           reference herein, . . . and, in the course of
+           that crime of violence, the defendants herein
+           unlawfully killed [the victim] with malice and
+           aforethought    through    the    use    of    a
+           firearm, . . . by     knowingly,     willfully,
+           deliberately   and    maliciously    and    with
+           premeditation shooting [the victim] with a
+           firearm thus causing his death . . . .
+
+
+
+                                  - 13 -
+           Forteza argues that, because there is no reference in
+
+this count to any potentially aggravating element (or elements) of
+
+§ 2114(a) -- that is, to wounding the victim, placing his life in
+
+jeopardy, or committing more than one § 2114(a) offense -- the
+
+count does not make clear that the predicate offense underlying
+
+his § 924(j) conviction was for anything other than the simple
+
+form of the § 2114(a) offense.      Thus, he contends, the District
+
+Court was required to treat his predicate § 2114(a) offense as if
+
+it were for the less serious form of the offense and so was for a
+
+simple rather than an aggravated form of the § 2114(a) offense.
+
+           Moreover, Forteza contends that the District Court's
+
+contrary   conclusion   is   mistaken   insofar   as   it   rests   on   the
+
+references in the text quoted above from Count Three to a firearm
+
+and to the shooting and killing of the victim.          He contends that
+
+those references in the text of Count Three do not establish that
+
+he pleaded guilty to any element (or elements) of having wounded
+
+or placed the life of the victim in jeopardy with respect to an
+
+aggravated form of a § 2114(a) offense.           Instead, he contends,
+
+those references were made with respect to establishing that he
+
+pleaded guilty to the elements of the § 924(j) offense, which
+
+requires that the government establish the death of a victim caused
+
+by a firearm.
+
+           Finally, Forteza disputes that the text of Count One of
+
+the indictment -- the count charging his § 2114(a) offense -- is
+
+                                 - 14 -
+incorporated into the text of Count Three.              But, he contends, even
+
+if that text from Count One is in fact incorporated into Count
+
+Three,   the   text   of    Count   One    does   not   itself   reference     any
+
+particular aggravating element of § 2114(a).                Thus, he contends
+
+that text cannot support the conclusion that, because the record
+
+establishes that he pleaded guilty to Count Three, the record
+
+establishes    that   his    predicate      § 2114(a)    offense   was   for   an
+
+aggravated rather than a simple form of that offense.
+
+           Forteza, however, is not correct about the contents of
+
+the text of Count One.        That text does specifically allege that,
+
+in the course of committing the § 2114(a) violation, he and his
+
+codefendants "wounded [the victim], the custodian of said money
+
+and put [the victim's] life in jeopardy, by shooting [him] several
+
+times and causing his death."             (Emphasis added).      The underlined
+
+portions of that text clearly reference the portion of § 2114(a)'s
+
+text that describes wounding or placing a victim's life in jeopardy
+
+by the use of a dangerous weapon.            See 18 U.S.C. § 2114(a).
+
+           Forteza, therefore, can only succeed in arguing that the
+
+record is not clear as to the nature of his predicate § 2114(a)
+
+offense if the language in Count One concerning his § 2114(a)
+
+offense is not incorporated by reference into the count to which
+
+he pleaded guilty, which is Count Three.                   But, although the
+
+District Court did not make any explicit finding as to whether the
+
+language of Count One was incorporated into Count Three, the record
+
+                                     - 15 -
+makes clear that the language of Count One was so incorporated.
+
+See Pullman-Standard v. Swint, 456 U.S. 273, 291-92 (1982) (holding
+
+that appellate courts should remand to the district court to make
+
+"missing   findings . . . unless       the   record    permits    only    one
+
+resolution of the factual issue").
+
+           Count Three -- the § 924(j) count to which Forteza
+
+pleaded guilty -- states that the crime of violence underlying the
+
+§ 924(j) charge is "assaulting an individual who lawfully had
+
+charge, control, or custody of money of the United States, with
+
+intent to rob, steal, or purloin said money, as set forth in COUNT
+
+ONE [of the indictment] herein, which is realleged and incorporated
+
+by reference herein."     (Emphasis added).           In addition, at the
+
+change-of-plea hearing, the sentencing judge confirmed that the
+
+predicate offense underlying the § 924(j) charge was the § 2114(a)
+
+charge "as [was] further described in the main count of the
+
+indictment, [C]ount [O]ne."
+
+           Forteza does argue that this conclusion is foreclosed by
+
+the language in the plea agreement that states that the agreement
+
+"constitutes   the   complete   Plea    Agreement     between    the   United
+
+States, the defendant, and the defendant's counsel," and further
+
+that the "United States has made no promises or representations
+
+except as set forth in writing in this plea agreement and deny
+
+[sic] the existence of any other term and conditions not stated
+
+herein."   But that is not so.     The language of Count One is part
+
+                                 - 16 -
+of -- and so within the four corners of -- the plea agreement
+
+itself precisely because it is expressly incorporated into Count
+
+Three    by   that   count's   plain   terms. 3   It   is   thus   clear   that
+
+Forteza's predicate § 2114(a) offense was based on his having aided
+
+and abetted a violation of § 2114(a) that involved placing the
+
+life of the victim in jeopardy by the use of a dangerous weapon
+
+and wounding that victim.        Thus, it is clear from the record that
+
+his § 2114(a) offense was for an aggravated rather than a simple
+
+form of that offense, such that his challenge based on the offense
+
+having been for a simple form of that offense necessarily fails.
+
+                                       C.
+
+              Forteza does separately contend that the aggravated form
+
+of § 2114(a) is indivisible as between wounding, placing life in
+
+jeopardy, and the repeated commission of the simple form of the
+
+§ 2114(a) offense.       Thus, he contends that even the aggravated
+
+form of the § 2114(a) offense charged in Count One does not qualify
+
+as a "crime of violence," precisely because the simple form of
+
+that offense does not.         But we have rejected this exact argument
+
+in Rojas-Tapia v. United States, __ F.4th __ [slip op. at 18-22]
+
+(1st Cir. 2024) [Nos. 20-1514, 20-1735].4         Nor does Forteza develop
+
+
+     3 Though Forteza is correct that the transcript of the
+change-of-plea colloquy did not contain any mention of a wounding
+or placing-life-in-jeopardy aggravator of § 2114(a), he makes no
+argument that this should trump any explicit reference to such
+aggravators in the incorporated language of the plea agreement.
+     4   Because we reject Forteza's argument about the indivisible
+                                   - 17 -
+any other argument as to why we must conclude that the District
+
+Court   was    wrong    to   hold   that     the    aggravated    variant     of   the
+
+§ 2114(a) offense with which he was charged would qualify as a
+
+crime of violence under § 924(c)'s force clause.                       See United
+
+States v. Zannino, 895 F.2d 1, 17 (1st Cir. 1990) (deeming issue
+
+waived where party makes no "effort at developed argumentation").
+
+                                           D.
+
+              There remains, then, only Forteza's final ground for
+
+challenging his § 924(j) conviction.               Here, he contends that, even
+
+if his predicate § 2114(a) offense would qualify as a crime of
+
+violence      under    § 924(c)'s    force      clause     when   committed    by    a
+
+principal, it does not so qualify here because he committed that
+
+offense as an aider and abettor.                   See 18 U.S.C. § 2 ("Whoever
+
+commits an offense against the United States or aids, abets,
+
+counsels,      commands,     induces    or      procures    its   commission,       is
+
+punishable as a principal.").                But we have also rejected this
+
+argument in Rojas-Tapia.            See Rojas-Tapia, __ F.4th at __ [slip
+
+op. at 26-35].        We thus must reject this aspect of his challenge
+
+to the District Court's decision to deny his habeas petition as
+
+well.
+
+
+
+
+nature of the aggravated form of the § 2114(a) offense on the
+merits, we need not address the government's contentions that he
+waived this argument both below and on appeal. See, e.g., Grullon,
+996 F.3d at 32.
+
+                                       - 18 -
+                    IV.
+
+The decision of the District Court is affirmed.
+
+
+
+
+                   - 19 -

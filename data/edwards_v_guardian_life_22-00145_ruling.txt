@@ -1,0 +1,709 @@
+ Case: 1:22-cv-00145-KHJ-MTP Doc #: 58 Filed: 07/12/24 1 of 14 PageID #: 544
+
+
+
+
+                      UNITED STATES DISTRICT COURT
+                     NORTHERN DISTRICT OF MISSISSIPPI
+                           ABERDEEN DIVISION
+
+
+JAMES “JIMMY” EMMETT EDWARDS                                               PLAINTIFF
+
+V.                                       CIVIL ACTION NO. 1:22-CV-145-KHJ-MTP
+
+GUARDIAN LIFE INSURANCE OF AMERICA                                      DEFENDANT
+
+
+                                       ORDER
+
+       Before the Court is Defendant Guardian Life Insurance of America’s
+
+(“Guardian”) [50] Motion for Summary Judgment. The Court grants the motion.
+
+I.     Background
+
+       This case arises from Plaintiff James “Jimmy” Emmett Edwards’s (Edwards)
+
+attempt to recover $85,000 in group life insurance proceeds following the death of
+
+his wife, Pam Edwards (Mrs. Edwards). See Compl. [1].
+
+       Mrs. Edwards owned and operated Allure Salon in Starkville, Mississippi.
+
+See Pl.’s Resp. [55] at 1; Admin. R. [43-1] at 91−92. In December 2007, Guardian
+
+issued Allure Salon a group life insurance plan that covered Mrs. Edwards and
+
+three other full-time salon technicians. See [43-1] at 105; see also id. at 91 (showing
+
+insurance application with Allure Salon as Planholder and coverage for four
+
+employees). “In subsequent years, new employees were added[,] and others were
+
+removed.” Wiltrout Decl. [12-1] ¶ 12. “From January 15, 2015 through November
+
+14, 2019, employee benefits were provided to three employees, including . . . [Mrs.]
+
+Edwards.” Id. The plan’s terms granted Guardian the right to cancel the plan on the
+    Case: 1:22-cv-00145-KHJ-MTP Doc #: 58 Filed: 07/12/24 2 of 14 PageID #: 545
+
+
+
+
+“policy anniversary date or premium due date” if “less than two employees are
+
+insured.” [43-1] at 3.
+
+       Mrs. Edwards was diagnosed with cancer in 2019. [55] at 2. Later that year,
+
+in November 2019, she became the only participating employee under the group
+
+plan. Id. She still maintained the plan and pay monthly premiums. See id.
+
+       Then in 2020, the COVID-19 pandemic hit. See Def.’s Mem. in Supp. [51] at
+
+3. Guardian chose to “suspend[] its practice of terminating plans that had dropped
+
+to one participant . . . from September 2020 through October 2021.” Id. (citing [12-1]
+
+¶ 20; [43-1] at 68−75). Once the suspension ended, Guardian mailed a
+
+prenotification of cancellation letter to Allure Salon and Mrs. Edwards. Id. (citing
+
+[43-1] at 168; Jansen Decl. [12-3] ¶¶ 4−5; [12-1] ¶ 21). Guardian sent a final
+
+cancellation letter on December 31, 2021, stating the “group plan is being cancel[ed]
+
+effective January 15, 2022” because of low group participation. Id. at 4 (citing [43-1]
+
+at 169); see also id. at 3. “After the Allure Group Plan had been cancel[ed],
+
+Guardian did not . . . receive any additional premiums from Allure [Salon].” Id. at 4
+
+(citing [12-1] ¶ 23).
+
+       Mrs. Edwards passed away on May 27, 2022. [1] ¶ 4. At that point, Debbie
+
+Jaudon—the insurance agent who sold the group policy to Allure Salon—told
+
+Edwards that his wife had a life insurance policy. See Jaudon Aff. [17-2] at 2.
+
+Jaudon then “contacted Guardian to get a life claim form[, but] . . . they informed
+
+[her] the policy had been cancel[ed].” Id. Guardian then sent Jaudon the
+
+“cancellation notices that it claimed it had sent [Mrs. Edwards] before her death.”
+
+
+
+                                           2
+      Case: 1:22-cv-00145-KHJ-MTP Doc #: 58 Filed: 07/12/24 3 of 14 PageID #: 546
+
+
+
+
+Id. Jaudon claims that she did not receive these cancellation notices before Mrs.
+
+Edwards’s death and that “[i]n the insurance business, it is customary that an
+
+agent such as [Jaudon] will receive notice of any cancellation.” Id.
+
+        On October 4, 2022, Edwards sued for state-law claims for insufficient notice
+
+and wrongful cancellation or, in the alternative, recovery of plan benefits under 29
+
+U.S.C. § 1132(a). See [1] ¶¶ 9−12.
+
+II.     Procedural History
+
+        Guardian previously moved for partial summary judgment on Edwards’s
+
+state-law claims, arguing ERISA preempted them. Def.’s Mem. Supp. Mot. Partial
+
+Summ. J. [13] at 1. The parties disagreed on whether the salon technicians were
+
+employees or independent contractors and whether ERISA applied. See id. at 1−10;
+
+Pl.’s Mem. Opp’n Mot. Partial Summ. J. [18]. The Court held that the technicians
+
+were employees and that the insurance policy was an ERISA-governed employee
+
+benefit plan. See Order Granting Partial Summ. J. [34] at 16 (“The circumstances
+
+show that the Guardian-issued life insurance policy is an ERISA plan.”). It also held
+
+that, because ERISA preempted Edwards’s state-law claims, “only his claim for
+
+benefits under ERISA [would] proceed.” Id. at 23. 1
+
+        Guardian now moves for summary judgment on Edwards’s “remaining claim
+
+for benefits under ERISA.” [50] at 1. The Court considers Guardian’s motion below.
+
+
+
+
+        1 In a subsequent Order, the Court allowed Edwards to conduct limited discovery
+
+related to his remaining ERISA claim. See [47].
+
+                                            3
+       Case: 1:22-cv-00145-KHJ-MTP Doc #: 58 Filed: 07/12/24 4 of 14 PageID #: 547
+
+
+
+
+III.     Standard
+
+         “Standard summary judgment rules control in ERISA cases.” Talasek v. Nat’l
+
+Oilwell Varco, L.P., 16 F.4th 164, 168 (5th Cir. 2021) (quotation omitted). Summary
+
+judgment is appropriate if the movant shows “no genuine dispute as to any material
+
+fact” exists, and the movant is entitled to judgment as a matter of law. Fed. R. Civ.
+
+P. 56(a). “A fact is material if it ‘might affect the outcome of the suit under the
+
+governing law,’ while a dispute about that fact is genuine ‘if the evidence is such
+
+that a reasonable jury could return a verdict for the nonmoving party.’” Owens v.
+
+Circassia Pharms., Inc., 33 F.4th 814, 824 (5th Cir. 2022) (citation omitted). The
+
+Court “view[s] the evidence introduced and all factual inferences from the evidence
+
+in the light most favorable to the party opposing summary judgment[, but a] party
+
+opposing summary judgment may not rest on mere conclusory allegations or denials
+
+in its pleadings.” Smith v. Reg’l Transit Auth., 827 F.3d 412, 417 (5th Cir. 2016)
+
+(quoting Hightower v. Tex. Hosp. Ass’n, 65 F.3d 443, 447 (5th Cir. 1995)).
+
+IV.      Analysis
+
+         Only Edwards’s claim under 29 U.S.C. § 1132(a)(1)(B) remains. 2 Because §
+
+1132(a)(1)(B) does not allow recovery here, the Court grants Guardian’s motion for
+
+summary judgment.
+
+
+
+
+         2 Although Edwards cites generally to 29 U.S.C. § 1132 and 29 U.S.C. § 1132(a), he
+
+really seeks relief under 29 U.S.C. § 1132(a)(1)(B). His Complaint recites only the language
+of § 1132(a)(1)(B) as a basis for ERISA recovery. See [1] ¶ 12. Further, “[w]hen a beneficiary
+simply wants what was supposed to have been distributed under the plan, the appropriate
+remedy is [§ 1132](a)(1)(B).” Hager v. DBG Partners, Inc., 903 F.3d 460, 469 (5th Cir. 2018)
+(quotation omitted). Edwards tries only to recover “what was supposed to have been
+distributed under the plan.” See id.; see also [1] ¶ 12 (seeking recovery of “the policy proceeds
+
+                                               4
+    Case: 1:22-cv-00145-KHJ-MTP Doc #: 58 Filed: 07/12/24 5 of 14 PageID #: 548
+
+
+
+
+       Section 1132(a)(1)(B) allows a plaintiff to bring a civil action “to recover
+
+benefits due to him under the terms of his plan, to enforce his rights under the
+
+terms of the plan, or to clarify his rights to future benefits under the terms of the
+
+plan.” Hager v. DBG Partners, Inc., 903 F.3d 460, 469 (5th Cir. 2018) (quoting
+
+29 U.S.C. § 1132(a)(1)(B)). But that section does not allow recovery when “the plan
+
+no longer exist[s] and c[an] no longer function.” Id. at 469 n.43 (quoting McCormack
+
+v. Comput. Scis. Corp., 99 F. App’x 458, 463 (4th Cir. 2004)). 3
+
+       Here, Guardian canceled the Allure Group Plan before Mrs. Edwards’s death
+
+and before Edwards made a claim under the policy. Without a plan in existence,
+
+Edwards “has no claim for benefits under the plan.” Id. at 465.
+
+       Still, Edwards seeks to recover benefits from the canceled plan alleging that
+
+Guardian (1) “waived its right to cancel the [p]lan for falling under the required
+
+participation level”; and (2) “did not properly provide notice and give [Mrs.
+
+Edwards] the opportunity to convert to individual life insurance as allowed by the
+
+plan.” [55] at 5−6. 4 As explained below, these arguments do not prevent summary
+
+judgment.
+
+
+of $85,000.00”); [55] at 5 (“Plaintiff is entitled to recover plan benefits.”). The Court is
+therefore sure that Edwards seeks relief under 29 U.S.C. § 1132(a)(1)(B).
+       3   See also Maccarone v. Lineage L., LLC, No. 17-212, 2018 WL 6579161, at *4 (M.D.
+La. Dec. 13, 2018) (“Plaintiff cannot bring a claim under Section 1132(a)(1)(B) because [the]
+. . . plan has been terminated.”); Hanson v. Wilcox Veterinary Clinic PLLC, 596 F. Supp. 3d
+742, 751 (E.D. Tex. 2021) (“Plaintiffs are no longer members of their former employer’s plans
+because the plans no longer exist. Accordingly, any claim to recover those plan benefits is
+foreclosed under § 1132(a)(1)(B).”).
+       4
+         Edwards also argues that he is “entitled to recover plan benefits under 29 U.S.C. §
+1132” because the Mississippi Supreme Court’s decision in Gulf Guaranty Life Insurance Co.
+v. Kelley, 389 So. 2d 920 (Miss. 1980), “barred [Guardian] from terminating the Plan since
+Pam Edwards’[s] life was uninsurable.” [55] at 5; see also id. at 3 (arguing that Kelley
+
+                                             5
+    Case: 1:22-cv-00145-KHJ-MTP Doc #: 58 Filed: 07/12/24 6 of 14 PageID #: 549
+
+
+
+
+       A. Waiver
+
+       To begin, the parties do not dispute that the plan granted Guardian
+
+discretionary authority to determine benefit eligibility and an absolute right to
+
+cancel the policy in some cases:
+
+       Guardian is the Claims Fiduciary with discretionary authority to
+       interpret and construe the terms of the Policy, the Certificate, the
+       Schedule of Benefits, and any riders, or other documents or forms that
+       may be attached to the Certificate or the Policy, and any other plan
+       documents. Guardian has discretionary authority to determine
+       eligibility for benefits and coverage under those documents.
+       ....
+       [Guardian] ha[s] the right to cancel [the plan], or any coverage
+       hereunder, on the policy anniversary date or premium due date, if, on
+       that date, either:
+          • less than two employees are insured under [the plan]; or
+          • with respect to any contributory coverages, less than 75% of those
+             employees who are eligible for insurance under [the plan] are
+             insured.
+
+[43-1] at 45; id. at 3; see also [55] at 2 (“The Plan allowed for Defendant to cancel
+
+the Plan if less than two employees were covered.”). Edwards does not argue that
+
+the plan provisions are ambiguous. And he does not dispute that Guardian canceled
+
+the policy on the 2022 policy anniversary date for low group participation. Instead,
+
+Edwards argues that Guardian “waived its right to cancel the [p]lan for falling
+
+under the required participation level” when it “became aware that Pam Edwards
+
+
+
+
+“imposed a law on insurers: regardless of the terms of an insurance policy, an insurer cannot
+cancel a policy once an insured has become uninsurable.”). Edwards insists that Kelley’s
+holding constitutes a law regulating insurance and is therefore “not preempted.” Id. at 5; see
+also id. at 2−4 (arguing Kelley falls within ERISA’s savings clause). Edwards raised this same
+argument in response to Guardian’s motion for partial summary judgment. See [18] at 6−9.
+The Court considered and rejected this argument in its prior Order. See [34] at 19−23. His
+argument fails here for the same reasons expressed in the Court’s prior Order. See id.
+
+                                              6
+    Case: 1:22-cv-00145-KHJ-MTP Doc #: 58 Filed: 07/12/24 7 of 14 PageID #: 550
+
+
+
+
+was the only participating employee” at the end of 2019, yet “continued to accept
+
+premium payments for over two years before choosing to cancel the policy.” [55] at
+
+5. The Court disagrees with Edwards and finds that Guardian did not waive its
+
+right to cancel the plan.
+
+      “Waiver is the voluntary or intentional relinquishment of a known right.”
+
+Bunner v. Dearborn Nat’l Life Ins. Co., 37 F.4th 267, 273 (5th Cir. 2022) (quoting
+
+Pitts By & Through Pitts v. Am. Sec. Life Ins. Co., 931 F.2d 351, 357 (5th Cir.
+
+1991)). This circuit has “a clear dividing line as to when waiver claims are
+
+available” in the ERISA context. Price v. Metro. Life Ins. Co., No. 2:04-CV-338, 2008
+
+WL 4187944, at *3 (N.D. Miss. Sept. 8, 2008). “The key element is that waiver must
+
+be intentional.” Id. (citing High v. E-Sys. Inc., 459 F.3d 573, 581 (5th Cir. 2006)).
+
+      To support a showing of waiver, Edwards relies on the Fifth Circuit’s opinion
+
+in Pitts, 931 F.2d 351 (5th Cir. 1991). In Pitts, the group health insurance policy
+
+“specified that the insured group must consist of at least ten employees; otherwise,
+
+[the insurer] could terminate the policy.” Id. at 353. The group eventually dropped
+
+to only one employee. See id. at 357. The insurer knew this, yet it continued to
+
+provide coverage. Id. During that time, the employee became injured and filed a
+
+claim under the policy. Id. at 354. The insurer paid benefits on the claim and
+
+continued to accept premiums for five months before trying to terminate the policy
+
+for low group participation. Id. Indeed, the insurer had paid over $100,000 in
+
+benefits towards the employee’s claim before it tried to halt payments and cancel
+
+the policy. Id. The Fifth Circuit viewed the insurer’s actions as a “classic example of
+
+
+
+                                           7
+    Case: 1:22-cv-00145-KHJ-MTP Doc #: 58 Filed: 07/12/24 8 of 14 PageID #: 551
+
+
+
+
+waiver,” which prevented the insurer from “assert[ing] a defense to its liability
+
+under the policy.” Id. at 357.
+
+      Pitts does not support a finding of waiver here. There, the insurer’s liability
+
+had attached before the attempted cancellation. See id. at 354. In other words, the
+
+employee had filed a claim under the policy before the insurer tried to cancel the
+
+plan. Id. And the insurer even made benefits payments before trying to cancel the
+
+plan. See id. Those circumstances supported a finding of waiver. See, e.g., 1A Couch
+
+on Ins. § 8:42 (3d ed.) (“Courts have sustained awards to insureds based on . . .
+
+waiver of ineligibility defenses when the . . . insurer had . . . knowledge of the
+
+eligibility problem and accepted premium payments and failed to attempt to cancel
+
+the policy until the insured filed a claim.” (emphasis added)); Otero v. Unum Life
+
+Ins. Co. of Am., 226 F. Supp. 3d 1242, 1272 (N.D. Ala. 2017) (“[C]ourts ha[ve]
+
+applied waiver . . . when ‘the insurance company was attempting to reap an unjust
+
+benefit, e.g., accepting premiums after the insurer’s defense to coverage was known
+
+and clear, thus giving the insurance company the option of keeping the premiums if
+
+beneficial to it or at its option returning the premium and cancel[ing] the policy
+
+when it was convenient to do so, i.e., after a claim is made.’” (emphasis added)).
+
+      That is not what happened here. Guardian canceled the policy months before
+
+Edwards tried to make a claim. See [43-1] at 169 (listing the effective date of
+
+cancellation as January 15, 2022); [55] at 2 (recognizing the attempted claim was
+
+made sometime after Mrs. Edwards’s death on May 27, 2022).
+
+
+
+
+                                            8
+    Case: 1:22-cv-00145-KHJ-MTP Doc #: 58 Filed: 07/12/24 9 of 14 PageID #: 552
+
+
+
+
+      When confronted with a similar issue in Bunner, the Fifth Circuit rejected
+
+the plaintiff’s “attempt to expand the scope of [its] waiver analysis to include the
+
+defendants’ [actions] made before [the plaintiff] . . . made a claim for benefits.” 37
+
+F.4th at 273; see also id. at 273−74 (“[T]his is not the equivalent of relinquishing a
+
+known right after [a plaintiff] agreed to a plan and then brought a claim for
+
+benefits.” (emphasis added)). Expanding the court’s waiver analysis would
+
+“impermissibly blur[] the line between estoppel and waiver.” Id. at 274.
+
+      The Court applies the Bunner reasoning and finds that Guardian did not
+
+waive its right to cancel the group plan when it did so per the plan’s terms and
+
+before Edwards brought a claim for benefits.
+
+      B. Notice
+
+      Edwards argues that “Guardian’s cancellation was [a]n improper exercise of
+
+its rights under the plan since it did not properly provide notice.” [55] at 6.
+
+According to him, Mrs. Edwards “was the last remaining member of the policy, and .
+
+. . her condition had worsened to the point that it impaired her ability to function,
+
+[so] it is unlikely that she received those notices.” Id. 5 This argument does not
+
+preclude summary judgment on Edwards’s § 1132(a)(1)(B) claim for at least two
+
+reasons. First, Edwards does not point to a provision in the group plan entitling him
+
+to benefits for improper or untimely notice. Holman v. Life Ins. Co. of N. Am., 533 F.
+
+Supp. 3d 502, 505 (S.D. Tex. 2021) (“A plaintiff suing under [§ 1132(a)(1)(B)] bears
+
+
+
+
+      5The Court notes that Edwards cites no legal authority to support his notice
+argument.
+
+                                            9
+   Case: 1:22-cv-00145-KHJ-MTP Doc #: 58 Filed: 07/12/24 10 of 14 PageID #: 553
+
+
+
+
+the burden of proving his entitlement to contractual benefits.” (quoting Horton v.
+
+Reliance Std. Life Ins. Co., 141 F.3d 1038, 1040 (11th Cir. 1998))). Second, even if
+
+Edwards had identified a plan provision, there is no genuine fact issue as to
+
+whether Guardian mailed a cancellation notice.
+
+        Indeed, the record overwhelmingly supports a presumption that Guardian
+
+mailed the cancellation notice. “A letter properly addressed, stamped[,] and mailed
+
+may be presumed to have been received by the addressee in the due course of the
+
+mail.” Wells Fargo Bus. Credit v. Ben Kozloff, Inc., 695 F.2d 940, 944 (5th Cir. 1983)
+
+(citation omitted). “A threshold question for [applying this] rule is whether there is
+
+sufficient evidence that the letter was actually mailed.” Custer v. Murphy Oil USA,
+
+Inc., 503 F.3d 415, 419 (5th Cir. 2007). “Placing letters in the mail may be proved by
+
+circumstantial evidence, including customary mailing practices used in the sender’s
+
+business.” Wells Fargo Bus. Credit, 695 F.2d at 944 (citation omitted). While
+
+“[e]vidence of non-receipt can be used to establish that the notice was never mailed,”
+
+a “bare assertion of non-receipt [cannot] create a genuine issue of material fact to
+
+survive summary judgment.” Custer, 503 F.3d at 420−21.
+
+        Guardian offers substantial evidence to support the presumption that it
+
+mailed notice of cancellation to Mrs. Edwards. To begin, Guardian offers the
+
+October 28, 2021, and December 31, 2021, notification letters addressed to Mrs.
+
+Edwards and Allure Salon at the address on record. [43-1] at 168−69; see also [51]
+
+at 9.
+
+
+
+
+                                          10
+   Case: 1:22-cv-00145-KHJ-MTP Doc #: 58 Filed: 07/12/24 11 of 14 PageID #: 554
+
+
+
+
+      Guardian then offers the Declaration of “Rebecca J[a]nsen, a Team Leader in
+
+Support Assistance[,] which is [the group] responsible for mailing the two notice of
+
+cancellation letters to [Mrs.] Edwards.” Def.’s Reply in Supp. Partial Summ. J. [26]
+
+at 11; see also [50] at 2; Def.’s Reply [57] at 13 (adopting and incorporating
+
+document [26] by reference). Jansen’s Declaration details the standard procedure
+
+followed for creating and mailing the two cancellation notices:
+
+      When a policy is cancel[ed], the underwriting department notifies the
+      cancellation department. The cancellation department generates the
+      letters and saves them and uploads them into a shared file on a shared
+      drive on Guardian’s computer network. My team then uploads them
+      through a website portal to a third[-]party vendor who undertakes the
+      task of printing the letter and envelope and mailing the letter. Through
+      the website portal for our account, we are able to track when the letter
+      was mailed. Any items that are returned as non-deliverable[,] we have
+      a sharepoint site that tracks the mail and we process and work to find
+      new addresses.
+
+[12-3] ¶ 4; see also id. ¶¶ 5−8. Jansen testified that “Guardian’s pre-notification
+
+letter was mailed” on October 28, 2021, to Mrs. Edwards’s address on record, and
+
+“Guardian’s December 31, 2021, notice of cancellation was sent to [Mrs.] Edwards at
+
+the same address on January 5, 2022.” Id. ¶¶ 5−6. Jansen attaches to her
+
+Declaration “a screen[]shot of the vendor’s record of mailing letters for Guardian on
+
+January 5, 2022, which included the December 31 notice of cancellation.” Id. ¶ 6.
+
+The screenshot “shows the order was placed on January 3, the postage was 56 cents,
+
+the letter was inserted into the envelope by hand[,] and the letter was mailed
+
+through the United States Postal Service.” Id. To determine whether either letter
+
+was returned as undeliverable, Jansen “reviewed [the] internal sharepoint site” but
+
+
+
+
+                                          11
+   Case: 1:22-cv-00145-KHJ-MTP Doc #: 58 Filed: 07/12/24 12 of 14 PageID #: 555
+
+
+
+
+found that “[n]o letters associated with Group No. 744345, Allure Salon’s group
+
+number, have ever been returned.” Id. ¶ 7.
+
+      Next, Guardian offers the Declaration of Melanie Wiltrout, the Appeals
+
+Leader at Guardian. [50] at 1; see also [12-1] ¶ 3. Among other things, Wiltrout
+
+stated that Guardian sent the October 28, 2021, pre-notification letter and the
+
+December 31, 2021, cancellation letter to Mrs. Edwards at the address of record.
+
+[12-1] ¶ 21. She also testified that “[b]ecause the . . . policy anniversary date was
+
+January 15, [the letters] advised [Mrs. Edwards] that the Group Plan was being
+
+cancel[ed] effective January 15, 2022.” Id. Wiltrout added that Guardian “received
+
+no additional premiums from Allure [Salon]” after the January 15, 2022,
+
+cancellation date. Id. ¶ 22.
+
+      And finally, Guardian offers the internal computer notes logged for the Allure
+
+Salon group policy:
+
+
+
+
+Def.’s Rep. to Request for Prod. [50-1] at 7. Guardian points to the October 28, 2021,
+
+entry showing “PRENOTIFY LETTER SENT” and the December 28, 2021, entry
+
+showing “FINAL LETTER SENT.” See [51] at 12 (citing [50-1] at 7).
+
+                                           12
+   Case: 1:22-cv-00145-KHJ-MTP Doc #: 58 Filed: 07/12/24 13 of 14 PageID #: 556
+
+
+
+
+       As for Edwards, he offers little evidence to support that Guardian did not
+
+send a notice of cancellation to Mrs. Edwards. He offers only one piece of evidence—
+
+the affidavit of Debbie Jaudon, the insurance agent who sold the group policy to
+
+Mrs. Edwards. [55] at 6 (referencing Jaudon’s testimony from [17-2] that in the
+
+normal insurance practice, the agent would have received a copy of any cancellation
+
+notice). According to Edwards, Jaudon’s non-receipt of the cancellation notices
+
+creates a genuine issue of material fact “as to whether . . . the notices of cancellation
+
+were actually sent.” See id. 6 But Edwards cites no plan provision requiring
+
+Guardian to send these notices to the insurance agent who sold the policy. And he
+
+offers no legal authority to support such a requirement without express plan
+
+language. Aside from Jaudon’s affidavit, Edwards provides no evidence that
+
+Guardian did not mail notice of the plan’s cancellation to Mrs. Edwards.
+
+       Having viewed all the evidence in a light most favorable to Edwards, the
+
+Court finds no genuine issue exists as to whether Guardian mailed a notice of
+
+cancellation to Mrs. Edwards. Guardian’s evidence offers “sufficient proof to create
+
+a presumption that it mailed the [notice].” See Cash v. AXA Equitable Life Ins. Co.,
+
+229 F. Supp. 3d 542, 550 (W.D. Tex. 2017) (evaluating and finding as sufficient
+
+similar evidence consisting of “job and report numbers, testimony from witnesses as
+
+to the mailing process on the specific date at issue, and the electronic copy of the . . .
+
+
+       6 Edwards also argues that because Mrs. Edwards “was the last remaining member of
+
+the policy, and [] her condition had worsened to the point that it impaired her ability to
+function, it is unlikely that she received those notices.” [55] at 6. Edwards offers no record
+evidence or legal authority. Id. This “bare assertion of non-receipt [does not] create a genuine
+issue of material fact to survive summary judgment.” Custer, 503 F.3d at 421; see also
+Faciane v. Sun Life Assurance Co. of Can., 931 F.3d 412, 421 (5th Cir. 2019).
+
+                                              13
+     Case: 1:22-cv-00145-KHJ-MTP Doc #: 58 Filed: 07/12/24 14 of 14 PageID #: 557
+
+
+
+
+[n]otice”). Edwards’s allegation that the insurance agent (Jaudon) did not receive a
+
+cancellation notice does not rebut this point. Indeed, Jaudon’s declaration that she
+
+did not receive the notices does not create a genuine dispute of material fact as to
+
+whether Guardian sent the notices to Mrs. Edwards. See Faciane, 931 F.3d at 420
+
+(“[P]roof that a letter properly directed was placed in a U.S. post office mail
+
+receptacle creates a presumption that it reached its destination in the usual time
+
+and was actually received by the person to whom it was addressed.” (emphasis
+
+added)).
+
+        Because Edwards offers insufficient evidence to rebut the presumption, the
+
+Court finds that no genuine issue of material fact exists as to whether Guardian
+
+mailed notice of the group plan’s cancellation to Mrs. Edwards. See Faciane, 931
+
+F.3d at 421 (affirming grant of summary judgment when there was “substantial
+
+evidence buttressing the presumption of receipt and only ineffectual rebuttals”).
+
+V.      Conclusion
+
+        The Court has considered all arguments. Those not addressed would not have
+
+changed the outcome. For the stated reasons, the Court GRANTS Guardian Life
+
+Insurance of America’s [50] Motion for Summary Judgment. The Court will issue a
+
+final judgment consistent with this Order.
+
+        SO ORDERED, this 12th day of July, 2024.
+
+                                                s/ Kristi H. Johnson
+                                                UNITED STATES DISTRICT JUDGE
+
+

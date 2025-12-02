@@ -1,0 +1,35 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court properly granted summary judgment to Boston Medical Center on the ground that granting Melino's requested religious exemption from the COVID-19 vaccine mandate would impose an undue hardship under Title VII.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found no genuine dispute of material fact that accommodating Melino's request would impose an undue hardship, as BMC relied on CDC guidance and no medical evidence in the record contradicted the efficacy of the vaccines. Melino's arguments and evidence did not create a triable issue."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the district court abused its discretion in denying Melino's motion to strike portions of BMC's affidavit for failure to comply with local rules and on hearsay grounds.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that denial was proper because Melino failed to comply with the local rule requiring conferral before filing, and the challenged affidavit statements were not hearsay as they were offered to show BMC's motive, not for the truth of the matter asserted."
+    }
+  ],
+  "key_precedents": [
+    "Groff v. DeJoy, 600 U.S. 447 (2023)",
+    "Bazinet v. Beth Israel Lahey Health, Inc., 113 F.4th 9 (1st Cir. 2024)",
+    "Rodrique v. Hearst Commc'ns, Inc., No. 24-1289, 2025 WL 227489 (1st Cir. Jan 17, 2025)",
+    "Bragdon v. Abbott, 524 U.S. 624 (1998)",
+    "Amoah v. McKinney, 875 F.3d 60 (1st Cir. 2017)",
+    "Clausen v. Sea-3, Inc., 21 F.3d 1181 (1st Cir. 1994)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "Alexandra Melino, a registered nurse, sued her former employer, Boston Medical Center (BMC), alleging that BMC violated Title VII of the Civil Rights Act and Mass. Gen. Laws ch. 151B by denying her request for a religious exemption under its August 21, 2021 policy mandating that all employees and volunteers be vaccinated against COVID-19. The district court granted summary judgment to BMC, holding that Melino's requested exemption would have imposed undue hardship on her employer. See Melino v. Bos. Med. Ctr., No. 22-12119, 2024 WL 2724145, at *1-2 (D. Mass. May 28, 2024). Melino appeals both the grant of summary judgment and an order denying her motion to strike portions of an affidavit submitted by BMC. We affirm."
+}

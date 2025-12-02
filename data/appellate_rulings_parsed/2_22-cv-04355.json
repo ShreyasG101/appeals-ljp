@@ -1,0 +1,59 @@
+{
+  "overall_outcome": "MIXED",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether NFTs are 'goods' protected under the Lanham Act and whether Yuga Labs has enforceable trademark rights in the BAYC marks",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held NFTs are goods under the Lanham Act because they are unique commercial goods sold in online marketplaces, and Yuga Labs has enforceable trademark rights as the first user in commerce without losing priority due to unlawful conduct or abandonment."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether Yuga Labs proved as a matter of law that defendants' use of BAYC marks was likely to cause consumer confusion (trademark infringement claim)",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "Applying the Sleekcraft factors, the court found some factors favored Yuga, some favored defendants, and some were neutral, so summary judgment was improper as a matter of law given the factual disputes and reasonable inferences favoring defendants."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether defendants' use of domain names was 'confusingly similar' to Yuga's marks under the Anticybersquatting Consumer Protection Act (ACPA)",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "The court concluded that the addition of 'rr' in rrbayc.com and differences in apemarket.com domain names precluded a finding of confusing similarity as a matter of law."
+    },
+    {
+      "issue_id": 4,
+      "description": "Whether the district court properly granted summary judgment for Yuga on defendants' Digital Millennium Copyright Act (DMCA) counterclaim",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "Yuga's takedown notices primarily asserted trademark claims, not copyright infringement, and there was no evidence of knowing misrepresentation or bad faith, so the DMCA counterclaim failed as a matter of law."
+    },
+    {
+      "issue_id": 5,
+      "description": "Whether the district court properly dismissed defendants' declaratory judgment counterclaims regarding copyright ownership with prejudice",
+      "standard_of_review": "abuse of discretion",
+      "holding": "AFFIRM",
+      "key_reasoning": "Dismissal with prejudice was appropriate because there was no case or controversy and no competent court for defendants to reassert copyright claims absent registration."
+    }
+  ],
+  "key_precedents": [
+    "Dastar Corp. v. Twentieth Century Fox Film Corp., 539 U.S. 23 (2003)",
+    "Slep-Tone Ent. Corp. v. Wired for Sound Karaoke and DJ Servs., LLC, 845 F.3d 1246 (9th Cir. 2017)",
+    "Jack Daniel\u2019s Props., Inc. v. VIP Prods. LLC, 599 U.S. 140 (2023)",
+    "Network Automation, Inc. v. Advanced Sys. Concepts, Inc., 638 F.3d 1137 (9th Cir. 2011)",
+    "Rossi v. Motion Picture Ass\u2019n of Am. Inc., 391 F.3d 1000 (9th Cir. 2004)",
+    "Rogers v. Grimaldi, 875 F.2d 994 (2d Cir. 1989)",
+    "CreAgri, Inc. v. USANA Health Scis., Inc., 474 F.3d 626 (9th Cir. 2007)",
+    "Southern California Darts Ass\u2019n v. Zaffina, 762 F.3d 921 (9th Cir. 2014)",
+    "Entrepreneur Media, Inc. v. Smith, 279 F.3d 1135 (9th Cir. 2002)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "The panel affirmed in part and reversed in part the district court\u2019s judgment, and remanded, in an action under the Lanham Act and the Anticybersquatting Consumer Protection Act concerning the Bored Ape Yacht Club nonfungible token (NFT) collection created by Yuga Labs, Inc.\n    Yuga sued Ryder Ripps and Jeremy Cahen, creators of a nearly identical NFT collection called \u201cRyder Ripps Bored Ape Yacht Club,\u201d for trademark infringement and unlawful cybersquatting. Defendants countersued Yuga under the Digital Millennium Copyright Act (DMCA) and also sought declaratory relief that Yuga had no copyright protection over the Bored Apes. The district court dismissed defendants\u2019 declaratory-judgment counterclaims for lack of subject-matter jurisdiction and granted summary judgment for Yuga on its two claims and defendants\u2019 DMCA counterclaim. After a bench trial on remedies, the district court enjoined defendants from marketing, promoting, or selling products that use the Bored Ape Yacht Club marks, and awarded Yuga over $8 million for disgorgement of profits, statutory damages, attorney fees, and costs.\n     The panel held that an NFT can be trademarked because it is a \u201cgood\u201d under the Lanham Act, which protects marks used with \u201cany goods or services.\u201d The panel concluded that the statutory text did not establish that NFTs are categorically excluded from protection under the Lanham Act, and neither did Dastar Corp. v. Twentieth Century Fox Film Corp., 539 U.S. 23 (2003), and Slep-Tone Ent. Corp. v. Wired for Sound Karaoke and DJ Servs., LLC, 845 F.3d 1246 (9th Cir. 2017) (per curiam), because unlike the intangible content at issue in those cases, NFTs are not contained in or even associated with tangible goods. Rather, consumers purchase NFTs as commercial goods in online marketplaces specifically curated for NFTs.\n    The panel concluded that defendants\u2019 NFTs were \u201cgoods\u201d under the Lanham Act. The panel also concluded that Yuga had trademark priority because it was the first to use the Bored Ape Yacht Club marks in commerce and did not lose that priority either because it engaged in unlawful conduct in using the marks to sell unregistered securities or because it gave up its trademark rights when selling its NFTs.\n    The panel nonetheless reversed the district court\u2019s grant of summary judgment for Yuga on its trademark-infringement and cybersquatting claims because Yuga did not prove as a matter of law that defendants\u2019 actions were likely to cause consumer confusion. The panel concluded that defendants\u2019 use of Yuga\u2019s marks did not constitute nominative fair use and was not \u201cexpressive work\u201d protected by the First Amendment. As to the trademark claim, applying the Sleekcraft factors, the panel concluded that some of the factors indicated a likelihood of confusion, some did not, and some were neutral. Thus, viewing the facts and reasonable inferences therefrom in the light most favorable to defendants, the panel could not conclude as a matter of law that a reasonably prudent consumer in the marketplace was likely to be confused as to the origin of the goods bearing Yuga\u2019s marks. As to the cybersquatting claim, Yuga did not establish as a matter of law that defendants\u2019 domains were \u201cconfusingly similar\u201d to Yuga\u2019s protected marks.\n    The panel affirmed the district court\u2019s rejection of defendants\u2019 counterclaims, concluding that there was no genuine dispute of fact as to the DMCA claim and that the district court properly dismissed the claims for declaratory relief with prejudice."
+}

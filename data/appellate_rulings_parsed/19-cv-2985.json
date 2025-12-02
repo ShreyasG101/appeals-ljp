@@ -1,0 +1,50 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether Sberbank is presumptively immune from suit under the Foreign Sovereign Immunities Act (FSIA) due to its majority ownership by the Russian Ministry of Finance acquired after the suit was filed.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that under Second Circuit precedent, FSIA immunity attaches based on current ownership, not ownership at the time of filing, and Sberbank is majority-owned by a political subdivision of a foreign state, making it presumptively immune."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the FSIA\u2019s commercial activity exception abrogates Sberbank\u2019s sovereign immunity for the alleged conduct of facilitating money transfers to the DPR via U.S. correspondent accounts.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found that the gravamen of the suit is Sberbank\u2019s commercial activity\u2014facilitating money transfers in the United States\u2014which falls squarely within the FSIA\u2019s commercial activity exception, thus abrogating immunity."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the Anti-Terrorism Act (ATA) immunity provision applies to instrumentalities of foreign states, such as Sberbank, or only to agencies.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "As a matter of first impression, the court held that the ATA\u2019s immunity provision incorporates the FSIA\u2019s definition of 'foreign state,' which includes instrumentalities, so Sberbank is presumptively immune under the ATA as well."
+    },
+    {
+      "issue_id": 4,
+      "description": "Whether the FSIA\u2019s commercial activity exception applies to abrogate sovereign immunity in an action brought under the ATA.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court concluded that the FSIA\u2019s commercial activity exception applies equally to ATA actions, so Sberbank\u2019s immunity is abrogated under the ATA for the same reasons as under the FSIA."
+    }
+  ],
+  "key_precedents": [
+    "Bartlett v. Baasiri, 81 F.4th 28 (2d Cir. 2023)",
+    "Argentine Republic v. Amerada Hess Shipping Corp., 488 U.S. 428 (1989)",
+    "Republic of Austria v. Altmann, 541 U.S. 677 (2004)",
+    "Saudi Arabia v. Nelson, 507 U.S. 349 (1993)",
+    "OBB Personenverkehr AG v. Sachs, 577 U.S. 27 (2015)",
+    "Rodriguez v. Pan American Health Organization, 29 F.4th 706 (D.C. Cir. 2022)",
+    "Ungar v. Palestinian Liberation Org., 402 F.3d 274 (1st Cir. 2005)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": true,
+  "summary_text": "Defendant-Appellant Sberbank of Russia PJSC (\u201cSberbank\u201d) appeals from the decision and order of the United States District Court for the Southern District of New York (Andrew L. Carter, Jr., Judge), entered on December 6, 2022, denying Sberbank\u2019s motion to dismiss the second amended complaint on foreign sovereign immunity grounds.\n       Plaintiffs-Appellees (\u201cPlaintiffs\u201d) are the surviving relatives of Quinn Lucas Schansman, a passenger aboard Malaysia Airlines Flight 17 (\u201cMH17\u201d) who was killed when the plane was shot down over eastern Ukraine by a surface-to-air missile launched from territory controlled by the Russian Federation-backed Donetsk People\u2019s Republic (\u201cDPR\u201d). Plaintiffs brought claims against Sberbank, a commercial bank based in Russia, under the Anti-Terrorism Act (\u201cATA\u201d), 18 U.S.C. \u00a7 2331 et seq., alleging that Sberbank knowingly provided material support to the DPR by facilitating money transfers from donors to the DPR via correspondent accounts in the United States, and that this material support proximately caused the downing of MH17.\n       After the suit was filed, the Ministry of Finance of the Russian Federation acquired a majority share in Sberbank. Sberbank moved to dismiss for lack of subject matter jurisdiction under Federal Rule of Civil Procedure 12(b)(1), arguing that it is immune under both the Foreign Sovereign Immunities Act (\u201cFSIA\u201d), 28 U.S.C. \u00a7 1602 et seq., and the ATA. The district court denied the motion, and Sberbank appealed. For the reasons set forth below, we hold that: (1) Sberbank is presumptively immune under the FSIA; (2) the FSIA\u2019s commercial activity exception applies to Sberbank\u2019s conduct because the alleged claims are based upon quintessentially commercial activity\u2014facilitating money transfers\u2014that Sberbank carried on in the United States, and thus abrogates Sberbank\u2019s sovereign immunity under the FSIA; (3) as a matter of first impression, the ATA\u2019s immunity provisions apply not only to agencies, but also to \u201cinstrumentalities\u201d of foreign states; and (4) as a matter of first impression, the commercial activity exception of the FSIA applies equally to an action brought under the ATA, and thus similarly abrogates Sberbank\u2019s sovereign immunity under the ATA. Accordingly, we AFFIRM the order of the district court and REMAND for further proceedings consistent with this opinion."
+}

@@ -1,0 +1,42 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court properly granted summary judgment to Barracuda on Axis's claim for equitable indemnification under Massachusetts law.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that Axis failed to present evidence of a relationship between Zoll and Barracuda that would support derivative or vicarious liability, which is required for equitable indemnification under Massachusetts law."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the district court properly granted summary judgment to Barracuda on Axis's breach of contract claim based on Fusion's failure to satisfy a condition precedent in the OEM agreement.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found that Barracuda did not waive the condition precedent and was not estopped from relying on it, as mere silence or inaction does not constitute waiver or estoppel under Massachusetts law."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the district court properly granted summary judgment to Barracuda on Axis's claim for breach of the covenant of good faith and fair dealing.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court concluded that Axis failed to identify any contractual right Fusion was entitled to in the event of a data breach, and the implied covenant cannot create rights not found in the contract."
+    }
+  ],
+  "key_precedents": [
+    "Decker v. Black & Decker Mfg. Co., 449 N.E.2d 641 (Mass. 1983)",
+    "Elias v. Unisys Corp., 573 N.E.2d 946 (Mass. 1991)",
+    "Celotex Corp. v. Catrett, 477 U.S. 317 (1986)",
+    "Paterson-Leitch Co. v. Mass. Mun. Wholesale Elec. Co., 840 F.2d 985 (1st Cir. 1988)",
+    "Ayash v. Dana-Farber Cancer Inst., 822 N.E.2d 667 (Mass. 2005)",
+    "Uno Rests., Inc. v. Boston Kenmore Realty Corp., 805 N.E.2d 957 (Mass. 2004)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "The district court granted Barracuda's motion for summary judgment on all claims. For the reasons stated below, we affirm.\n\nIn reviewing the district court's decision granting summary judgment to Barracuda, we recite the facts in the record in the light most favorable to Axis and draw all reasonable inferences from those facts in its favor. See Sutherland v. Peterson's Oil Serv., Inc., 126 F.4th 728, 734 (1st Cir. 2025).\n\n... After discovery, Barracuda moved for summary judgment against Axis on the surviving claims. The district court granted Barracuda's motion. First, the district court held that Zoll and Barracuda's relationship \"c[ould] best be described as one of an independent contractor,\" and that this status, without more, did not create the derivative or vicarious relationship required for equitable indemnification under Massachusetts law. Second, the court held that the breach of contract claim could not proceed because Fusion failed to fulfill a condition precedent in the OEM when it failed to include the appropriate limitation of liability or indemnification language in its customer contracts, and Barracuda had not waived that condition. Finally, the court held that Axis could not prove its claim of breach of the covenant of good faith and fair dealing because it failed to demonstrate a contractual right to which Fusion was entitled in the event of a data breach. Thus, the covenant could not be used to create rights that did not exist in the contractual relationship.\n\nAxis timely appealed."
+}

@@ -1,0 +1,27 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether plaintiffs adequately alleged actual injury under the Sherman Act and Commodity Exchange Act (CEA) to survive a motion to dismiss their claims of Sterling LIBOR manipulation.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that plaintiffs failed to allege any specific transaction in which they suffered financial harm as a result of the alleged multidirectional manipulation of Sterling LIBOR, making it implausible that they suffered actual injury as required for antitrust and CEA standing."
+    }
+  ],
+  "key_precedents": [
+    "Gamma Traders \u2013 I LLC v. Merrill Lynch Commodities, Inc., 41 F.4th 71 (2d Cir. 2022)",
+    "Gelboim v. Bank of Am. Corp., 823 F.3d 759 (2d Cir. 2016)",
+    "Harry v. Total Gas & Power N. Am., Inc., 889 F.3d 104 (2d Cir. 2018)",
+    "Port Dock & Stone Corp. v. Oldcastle, Ne., Inc., 507 F.3d 117 (2d Cir. 2007)",
+    "Schwab Short-Term Bond Mkt. Fund v. Lloyds Banking Grp. PLC, 22 F.4th 103 (2d Cir. 2021)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "Plaintiffs \u2013 an individual, an investment fund, and a limited partnership that traded in derivatives based on the Sterling London Interbank Offered Rate (\u201cSterling LIBOR\u201d) \u2013 appeal from a judgment of the United States District Court for the Southern District of New York (Broderick, J.) dismissing their claims under the Sherman Act and the Commodity Exchange Act (the \u201cCEA\u201d) against several banks that allegedly conspired together to manipulate that rate. The district court concluded that these claims failed for several reasons, including that (1) Sonterra Capital Master Fund, Ltd. and Richard Dennis lacked antitrust standing; (2) FrontPoint European Fund L.P. no longer had litigating capacity and had not assigned its claims to its would-be substitute; and (3) Dennis had failed to plead specific intent with respect to his CEA claims.\n       We take a more direct road to the same result: because Plaintiffs have failed to allege actual injury under the Sherman Act or CEA, we AFFIRM the judgment of the district court without reaching any other issue.\n\n      AFFIRMED."
+}

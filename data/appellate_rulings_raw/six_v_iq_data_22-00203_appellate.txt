@@ -1,0 +1,408 @@
+FOR PUBLICATION
+
+  UNITED STATES COURT OF APPEALS
+       FOR THE NINTH CIRCUIT
+
+RYAN SIX,                                 No. 23-15887
+
+             Plaintiff-Appellant,            D.C. No.
+                                          2:22-cv-00203-
+ v.                                            MTL
+
+IQ DATA INTERNATIONAL, INC.,
+                                            OPINION
+             Defendant-Appellee.
+
+      Appeal from the United States District Court
+               for the District of Arizona
+      Michael T. Liburdi, District Judge, Presiding
+
+         Argued and Submitted May 17, 2024
+                  Phoenix, Arizona
+
+                Filed February 24, 2025
+
+ Before: Susan P. Graber, Roopali H. Desai, and Ana de
+                 Alba, Circuit Judges.
+
+                Opinion by Judge Desai
+2               SIX V. IQ DATA INTERNATIONAL, INC.
+
+
+                          SUMMARY *
+
+
+             Fair Debt Collection Practices Act
+
+    Reversing the district court’s dismissal for lack of
+subject matter jurisdiction of an action under the Fair Debt
+Collection Practices Act, and remanding for further
+proceedings, the panel held that the plaintiff had Article III
+standing to bring his claim under 15 U.S.C. § 1692c(a)(2),
+which prohibits a debt collector from directly
+communicating with a consumer in connection with the
+collection of any debt when the collector knows that the
+consumer is represented by an attorney.
+    The panel held that an individual who receives a letter in
+violation of § 1692c(a)(2) has constitutional standing to
+bring a claim. The panel concluded that both Congress’s
+judgment in enacting the Fair Debt Collection Practices Act
+and a comparison to traditionally recognized harms
+established that the plaintiff suffered a concrete injury when
+the defendant sent him a letter. Furthermore, the plaintiff’s
+harm was both particularized and actual. Because receipt of
+the letter in alleged violation of § 1692c(a)(2) inherently
+violated the plaintiff’s privacy, he sufficiently alleged actual
+harm, rather than a conjectural harm or bare procedural
+violation. And there was no dispute that the remaining
+elements of standing were met because there was a causal
+connection between the injury and the conduct complained
+of, and the relief sought would redress the intrusion.
+
+
+*
+ This summary constitutes no part of the opinion of the court. It has
+been prepared by court staff for the convenience of the reader.
+               SIX V. IQ DATA INTERNATIONAL, INC.              3
+
+
+    The panel addressed additional issues in a separately
+filed memorandum disposition.
+
+
+                         COUNSEL
+
+Russell S. Thompson IV (argued), Thompson Consumer
+Law Group PC, Scottsdale, Arizona, for Plaintiff-Appellant.
+Erin M. McManis (argued), Ember A. Van Vranken
+(argued), and Joshua M. Bolen, Carpenter Hazlewood
+Delgado & Bolen LLP, Tempe, Arizona, for Defendant-
+Appellee.
+
+
+
+                          OPINION
+
+DESAI, Circuit Judge:
+
+    The Fair Debt Collection Practices Act (“FDCPA”)
+prohibits debt collectors from engaging in certain practices,
+including directly communicating with a consumer in
+connection with the collection of any debt when the collector
+knows that the consumer is represented by an attorney. See
+15 U.S.C. § 1692c(a)(2). Ryan Six brought a claim against
+IQ Data International, Inc. (“IQ”) under § 1692c(a)(2),
+alleging that IQ sent him a debt verification letter after he
+notified the company that all communications should be sent
+to his attorney. The district court dismissed Six’s action for
+lack of jurisdiction, ruling that he lacked Article III standing.
+On appeal, Six challenges the district court’s dismissal for
+lack of jurisdiction, as well as its denial of his motion to
+strike affirmative defenses, its resolution of the parties’ joint
+4                SIX V. IQ DATA INTERNATIONAL, INC.
+
+
+discovery dispute based on attorney-client privilege, and its
+modified grant of attorneys’ fees. We hold that an individual
+who receives a letter in violation of § 1692c(a)(2) has
+standing to bring a claim, and thus reverse the district court’s
+dismissal for lack of jurisdiction and remand for further
+proceedings. 1 In light of our ruling, we need not, and do not,
+reach Six’s claim for the denial of his motion to strike
+affirmative defenses. 2
+                         BACKGROUND
+    IQ acquired a debt obligation for Six’s purported breach
+of a residential lease. Six learned of the debt and, on August
+18, 2021, mailed a letter to Equifax disputing the debt and
+requesting documentation of it. The same day, Six’s counsel
+mailed a letter directly to IQ providing notice that Six was
+represented and that all correspondence should be sent to
+counsel.
+    On September 2, 2021, IQ received Six’s dispute letter
+and submitted an internal request to generate and send the
+requested documentation to Six’s mailing address. The next
+day, September 3, IQ updated its records to show that it had
+processed Six’s counsel’s letter and that direct
+communication should cease. But on that same day, IQ also
+sent the letter with verification of the debt to Six’s mailing
+address.
+
+
+
+1
+ In a separately filed memorandum disposition, we affirm the district
+court’s resolution of the parties’ joint discovery dispute and the court’s
+modified grant of attorneys’ fees.
+2
+ The parties may litigate the affirmative defenses on remand. And in any
+event, Six is not precluded from appealing the district court’s denial of
+his motion to strike in a future appeal.
+               SIX V. IQ DATA INTERNATIONAL, INC.             5
+
+
+    After receiving the letter, Six sued IQ in the District of
+Arizona under 15 U.S.C. § 1692c(a)(2). Six and IQ filed
+cross-motions for summary judgment. The district court
+dismissed the action for lack of jurisdiction. It ruled that Six
+lacked Article III standing because he could not show that
+he had suffered an injury in fact. The district court reasoned
+that the receipt of one unwanted letter was neither akin to the
+traditional types of harm providing a basis for a lawsuit, nor
+was it the type of abusive debt collection practice that the
+FDCPA was intended to prevent. The district court did not
+reach the other arguments in the parties’ cross-motions for
+summary judgment and, instead, denied the remainder of the
+motions for summary judgment as moot.
+                STANDARD OF REVIEW
+    We review de novo whether a plaintiff has standing. In
+re Zappos.com, Inc., 888 F.3d 1020, 1024 (9th Cir. 2018).
+                         ANALYSIS
+    Six claims that he has standing because he received an
+unwanted letter from IQ after notifying IQ that all
+correspondence should be sent to his attorney, resulting in
+an invasion of his privacy interests. IQ claims that Six’s
+alleged harm is insufficient to establish standing because it
+is not analogous to the types of harm traditionally recognized
+by American courts. To determine whether Six had standing
+to bring his claim, we consider whether he “(1) suffered an
+injury in fact, (2) that is fairly traceable to the challenged
+conduct of the defendant, and (3) that is likely to be
+redressed by a favorable judicial decision.” Van Patten v.
+Vertical Fitness Grp., LLC, 847 F.3d 1037, 1042 (9th Cir.
+2017) (quoting Spokeo, Inc. v. Robins, 578 U.S. 330, 338
+(2016)).
+6              SIX V. IQ DATA INTERNATIONAL, INC.
+
+
+    An “injury in fact” is “an invasion of a legally protected
+interest that is concrete and particularized and actual or
+imminent, not conjectural or hypothetical.” Spokeo, 578
+U.S. at 339 (cleaned up) (quoting Lujan v. Defs. of Wildlife,
+504 U.S. 555, 560 (1992)). To determine whether there is a
+concrete injury, we consider two factors: (1) Congress’s
+judgment and (2) a comparison of the alleged harm to harms
+traditionally recognized by American courts. TransUnion
+LLC v. Ramirez, 594 U.S. 413, 425–26 (2021). Tangible
+harms, like physical or monetary loss, readily qualify as
+concrete injuries, but “[v]arious intangible harms can also be
+concrete.” Id. at 425. A harm is particularized if it affects the
+plaintiff “in a personal and individual way.” Spokeo, 578
+U.S. at 339 (quoting Lujan, 504 U.S. at 560 n.1).
+    We first turn to Congress’s judgment, which can be
+“instructive” in determining whether there is a concrete
+injury “because Congress is well positioned to identify
+intangible harms that meet minimum Article III
+requirements.” Id. at 341. Accordingly, we “must afford due
+respect to Congress’s decision to . . . grant a plaintiff a cause
+of action to sue over the defendant’s violation of [a] statutory
+prohibition . . . In that way, Congress may ‘elevate to the
+status of legally cognizable injuries concrete, de facto
+injuries that were previously inadequate [at] law.’”
+TransUnion, 594 U.S. at 425 (quoting Spokeo, 578 U.S. at
+341). But the existence of a statutory cause of action does
+not automatically create standing, and this court must decide
+independently whether a concrete injury exists in the context
+of the statutory violation. See id. at 426.
+     When Congress enacted the FDCPA, it recognized that
+“[a]busive       debt     collection    practices    contribute
+to . . . invasions of individual privacy.” 15 U.S.C. § 1692(a).
+And with that knowledge, Congress expressly prohibited
+              SIX V. IQ DATA INTERNATIONAL, INC.             7
+
+
+debt collectors from communicating directly with
+consumers who the collectors know are represented by
+counsel. Id. § 1692c(a)(2); see Ward v. NPAS, Inc., 63 F.4th
+576, 581 (6th Cir. 2023) (finding that § 1692c(c) protects
+consumer privacy). It follows, therefore, that receipt of a
+letter from a debt collection agency is the type of
+infringement on privacy interests that Congress
+contemplated when it enacted the FDCPA. Congress’s
+judgment thus supports Six’s claim that he suffered a
+concrete injury in the context of the statute and has standing
+to sue.
+    Next, we assess whether Six has “identified a close
+historical or common-law analogue for [his] asserted
+injury.” TransUnion, 594 U.S. at 424. The analogue to the
+alleged injury must be a harm that is “traditionally
+recognized as providing a basis for a lawsuit in American
+courts.” Id. (cleaned up). Intrusion upon seclusion, which
+protects the right of privacy, is one such example. Id. at 425;
+see Van Patten, 847 F.3d at 1043 (“Actions to remedy
+defendants’ invasions of privacy, intrusion upon seclusion,
+and nuisance have long been heard by American courts, and
+the right of privacy is recognized by most states.”).
+Furthermore, the alleged harm need not be “an exact
+duplicate” of a traditionally recognized harm to be
+analogous. TransUnion, 594 U.S. at 424. A close analogue
+exists when the alleged and traditionally recognized harm
+are similar in “kind” rather than “degree.” Gadelhak v.
+AT&T Servs., Inc., 950 F.3d 458, 462 (7th Cir. 2020) (citing
+Spokeo, 578 U.S. at 340–42).
+    Courts have consistently found that the harm caused by
+unwanted communications bears a close relationship to
+intrusion upon seclusion. See, e.g., Van Patten, 847 F.3d at
+1040–41, 1043 (holding two unwanted text messages in
+8              SIX V. IQ DATA INTERNATIONAL, INC.
+
+
+violation of the Telephone Consumer Protection Act
+(“TCPA”) was a concrete injury); Wakefield v. ViSalus, Inc.,
+51 F.4th 1109, 1117–18 (9th Cir. 2022) (affirming Van
+Patten post-TransUnion); Gadelhak, 950 F.3d at 463;
+Dickson v. Direct Energy, LP, 69 F.4th 338, 348–49 (6th Cir.
+2023) (holding that one silently delivered voicemail in
+violation of the TCPA was a concrete injury); Lupia v.
+Medicredit, Inc., 8 F.4th 1184, 1191–93 (10th Cir. 2021)
+(holding that an unwanted call and voicemail in violation of
+the FDCPA was a concrete injury). In Ward, for example, a
+debt collector called the plaintiff one time after the plaintiff’s
+lawyer attempted to send a cease-and-desist letter to the
+collector. 63 F.4th at 579. The plaintiff sued under
+§ 1692c(a)(2), and the Sixth Circuit found that the kind of
+harm caused by the unwanted call was closely related to
+intrusion upon seclusion. Id. at 580–82. We see no
+meaningful difference in this context between making a
+phone call and sending a letter.
+     When Six notified IQ that it should communicate only
+with his counsel, he clearly expressed a desire to be
+undisturbed by IQ’s communications. And by sending a
+letter after receiving Six’s notification, IQ created the kind
+of “irritating intrusion[]” addressed by intrusion upon
+seclusion. Gadelhak, 950 F.3d at 462. As other courts have
+held, the fact that IQ sent only one letter does not change the
+kind of harm caused. See Lupia, 8 F.4th at 1192 (holding that
+a single phone call poses the same kind of harm as intrusion
+upon seclusion, although it may not be sufficient to establish
+liability). Accordingly, the harm alleged by Six poses “the
+same kind of harm recognized at common law—an
+unwanted intrusion into . . . plaintiff’s peace and quiet,” id.,
+and the harm caused by an unwanted letter, in violation of
+               SIX V. IQ DATA INTERNATIONAL, INC.             9
+
+
+§ 1692c(a)(2), is analogous to the harm caused by intrusion
+upon seclusion.
+     IQ relies on the Seventh Circuit’s decision in Pucillo v.
+National Credit Systems, Inc., 66 F.4th 634 (7th Cir. 2023),
+to distinguish the kind of harm caused by unwanted letters
+from that caused by other types of unwanted
+communications. In Pucillo, the plaintiff sued a debt
+collector under the FDCPA for sending him two letters
+regarding a debt that had been discharged in bankruptcy. Id.
+at 636. The court ultimately concluded that the two letters
+Pucillo received were “too far afield from the traditional tort
+of intrusion upon seclusion” to establish a concrete injury.
+Id. at 641. In reaching its conclusion, the court explained that
+the harm caused by the letters differed from that caused by
+unwanted text messages:
+
+       Text messages may create an injury because
+       they can disrupt a person at anytime,
+       anywhere,        thereby   invading    private
+       solitude . . . In contrast, postal mail is
+       delivered to a mailbox without interrupting
+       the recipient’s seclusion. Mail can be picked
+       up when, if, and how often the recipient
+       chooses, unlike a phone which is usually on
+       one’s person or close by throughout the day.
+       While receiving a letter can be an irritation,
+       we do not see an actionable analogy between
+       a letter delivered to a mailbox and automated
+       text messages delivered to one’s cell phone.
+
+Id. (cleaned up).
+   We are unpersuaded by this distinction. The line drawn
+by Pucillo rests on the degree of harm, rather than the kind
+10               SIX V. IQ DATA INTERNATIONAL, INC.
+
+
+of harm, and the Supreme Court has counseled against this
+approach. See Gadelhak, 950 F.3d at 462 (“But when Spokeo
+instructs us to analogize to harms recognized by the common
+law, we are meant to look for a ‘close relationship’ in kind,
+not degree.”); Pucillo, 66 F.4th at 644–45 (Lee, J.,
+dissenting) (noting that the majority opinion’s standing
+analysis erred by focusing on the number of letters received
+and degree of intrusion caused by mail). Indeed, the Pucillo
+court acknowledged that its analysis hinged on degree rather
+than kind, commenting that it reserved ruling on “other kinds
+of mailings [that] could impact seclusion more
+significantly.” Pucillo, 66 F.4th at 640 n.3. Furthermore,
+taking Pucillo’s distinction to its logical extreme
+demonstrates that its line-drawing is misguided. Even a
+consumer who receives hundreds of unwanted letters could
+not establish a harm analogous to intrusion upon seclusion
+simply because the letters could be picked up at the
+recipient’s choosing. This cannot be the case. Regardless of
+when it is picked up, an unwanted letter intrudes on the
+recipient’s privacy and, thus, we are unpersuaded by
+Pucillo. 3
+    In sum, both Congress’s judgment and a comparison to
+traditionally recognized harms establish that Six suffered a
+concrete injury when IQ sent him a letter. Furthermore, Six’s
+harm is both particularized and actual. IQ’s letter was
+delivered directly to Six, which affected him in a “personal
+and individual way.” Spokeo, 578 U.S. at 339 (quoting
+Lujan, 504 U.S. at 560 n.1). And because receipt of the letter
+
+3
+  Similarly, the factual assumption underpinning Pucillo’s analysis is not
+necessarily true: Nothing compels a person to look at text messages at
+unwanted times of the day. Just as “[m]ail can be picked up when, if,
+and how often the recipient chooses,” Pucillo, 66 F.4th at 641, so too can
+text messages be viewed when, if, and how often the recipient chooses.
+              SIX V. IQ DATA INTERNATIONAL, INC.            11
+
+
+in alleged violation of § 1692c(a)(2) inherently violated
+Six’s privacy, he has sufficiently alleged actual harm, rather
+than a “conjectural” harm or “bare procedural violation.”
+Compare Spokeo, 578 U.S. at 342 (noting that a formatting
+error in violation of the Fair Credit Reporting Act may not
+result in actual harm), with Hall v. Smosh Dot Com, Inc., 72
+F.4th 983, 988 n.5, 991 (9th Cir. 2023) (finding that a
+violation of TCPA § 227(c) for texting a phone number on
+the Do-Not-Call Registry established actual harm because an
+unsolicited text is inherently an invasion of privacy). Thus,
+Six suffered an injury in fact sufficient to establish standing
+at this juncture of the case.
+    We also conclude that the remaining elements of
+standing are met, a conclusion that IQ does not dispute.
+There is a “causal connection between the injury and the
+conduct complained of,” Lujan, 504 U.S. at 560, because it
+was IQ’s letter itself that caused the intrusion on Six’s
+privacy, see id. (explaining that traceability requires a
+connection between the injury and defendant’s alleged
+violation, rather than third-party action). And the relief
+sought under the FDCPA, including declaratory relief,
+statutory damages, and actual damages, would redress the
+intrusion. Robey v. Shapiro, Marianos, & Cejda, L.L.C., 434
+F.3d 1208, 1212 (8th Cir. 2006). In sum, the district court
+improperly dismissed the action for lack of jurisdiction.
+    Six argues that we should grant summary judgment in
+his favor if we hold that he has standing, but IQ argues that
+remand is appropriate if we reverse the district court’s
+dismissal for lack of jurisdiction. The district court is best
+positioned to rule on the parties’ alternative arguments for
+summary judgment in the first instance, and thus we agree
+with IQ’s suggestion to remand for further proceedings
+12               SIX V. IQ DATA INTERNATIONAL, INC.
+
+
+consistent with our rulings. 4 See EB Holdings II, Inc. v. Ill.
+Nat’l Ins. Co., 108 F.4th 1211, 1225 (9th Cir. 2024)
+(declining to reach alternative arguments for summary
+judgment in the first instance).
+     REVERSED AND REMANDED.
+
+
+
+
+4
+  We do not consider the merits of Six’s claim against IQ, and our
+holding does not foreclose the availability of the bona fide mistake
+defense on remand. Indeed, the minimal amount of time between IQ’s
+processing of the letter from Six’s attorney’s and IQ’s mailing of the
+disputed letter, coupled with the fact that Six asked IQ for information
+to be sent to him, raises serious questions about IQ’s liability.

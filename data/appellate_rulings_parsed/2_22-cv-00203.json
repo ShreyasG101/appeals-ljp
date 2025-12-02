@@ -1,0 +1,29 @@
+{
+  "overall_outcome": "REVERSE",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the plaintiff has Article III standing to bring a claim under 15 U.S.C. \u00a7 1692c(a)(2) of the Fair Debt Collection Practices Act",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "The court held that receipt of a letter in violation of \u00a7 1692c(a)(2) constitutes a concrete and particularized injury sufficient for Article III standing, based on Congress's judgment that such communications invade privacy and by analogy to the common law tort of intrusion upon seclusion."
+    }
+  ],
+  "key_precedents": [
+    "Spokeo, Inc. v. Robins, 578 U.S. 330 (2016)",
+    "TransUnion LLC v. Ramirez, 594 U.S. 413 (2021)",
+    "Van Patten v. Vertical Fitness Grp., LLC, 847 F.3d 1037 (9th Cir. 2017)",
+    "Ward v. NPAS, Inc., 63 F.4th 576 (6th Cir. 2023)",
+    "Gadelhak v. AT&T Servs., Inc., 950 F.3d 458 (7th Cir. 2020)",
+    "Lupia v. Medicredit, Inc., 8 F.4th 1184 (10th Cir. 2021)",
+    "Pucillo v. National Credit Systems, Inc., 66 F.4th 634 (7th Cir. 2023)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": true,
+    "close_case": true,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "Fair Debt Collection Practices Act\n\nReversing the district court\u2019s dismissal for lack of subject matter jurisdiction of an action under the Fair Debt Collection Practices Act, and remanding for further proceedings, the panel held that the plaintiff had Article III standing to bring his claim under 15 U.S.C. \u00a7 1692c(a)(2), which prohibits a debt collector from directly communicating with a consumer in connection with the collection of any debt when the collector knows that the consumer is represented by an attorney.\nThe panel held that an individual who receives a letter in violation of \u00a7 1692c(a)(2) has constitutional standing to bring a claim. The panel concluded that both Congress\u2019s judgment in enacting the Fair Debt Collection Practices Act and a comparison to traditionally recognized harms established that the plaintiff suffered a concrete injury when the defendant sent him a letter. Furthermore, the plaintiff\u2019s harm was both particularized and actual. Because receipt of the letter in alleged violation of \u00a7 1692c(a)(2) inherently violated the plaintiff\u2019s privacy, he sufficiently alleged actual harm, rather than a conjectural harm or bare procedural violation. And there was no dispute that the remaining elements of standing were met because there was a causal connection between the injury and the conduct complained of, and the relief sought would redress the intrusion.\n\nThe panel addressed additional issues in a separately filed memorandum disposition."
+}

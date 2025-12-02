@@ -1,0 +1,34 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court erred in dismissing Scales' complaint for failure to state a claim against the Union for breach of contract, breach of the duty of fair representation, or conversion.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found that Scales failed to plausibly allege arbitrary, discriminatory, or bad faith conduct by the Union, as required for a duty of fair representation claim, and could not point to any contractual language creating enforceable obligations against the Union. The conversion claim was also not viable as it was based on the same facts as the contract claim."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the district court abused its discretion in denying Scales' requests for appointment of pro bono counsel.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that the district court applied the correct legal standard and reasonably found that Scales' claims lacked likely merit, thus it was not required to consider further factors for appointing counsel."
+    }
+  ],
+  "key_precedents": [
+    "Vaughn v. Phx. House N.Y. Inc., 957 F.3d 141 (2d Cir. 2020)",
+    "White v. White Rose Food, a Div. of DiGiorgio Corp., 237 F.3d 174 (2d Cir. 2001)",
+    "United Steelworkers of Am., AFL-CIO-CLC v. Rawson, 495 U.S. 362 (1990)",
+    "Hodge v. Police Officers, 802 F.2d 58 (2d Cir. 1986)",
+    "Cooper v. A. Sargenti Co., 877 F.2d 170 (2d Cir. 1989)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "Plaintiff-Appellant William Scales appeals from an April 3, 2023 judgment (Cronan, J.) dismissing his complaint against his union, the Hotel Trades Council of New York Local 6 (the \u201cUnion\u201d), for failure to state a claim. We assume the parties\u2019 familiarity with the underlying facts, procedural history, and issues on appeal, to which we refer only as necessary to explain our decision.\n\nScales, who proceeded pro se below, sued the Union alleging a \u201cbreach of contract\u201d related to the placement of his 401(k) contributions into the Union\u2019s pension plan. 1 Joint App\u2019x at 208. When Hotel Trades Council of New York took over as the new union to represent Ace Hotel New York (the \u201cHotel\u201d) employees in 2012, it signed a Memorandum of Agreement with the Hotel, which entitles \u201c[c]urrent [e]mployees\u201d to elect, \u201cat [their] sole discretion, within thirty (30) days of the date on which the Industry Pension plan gives a presentation, to either participate in the Hotel\u2019s [401(k) retirement] plan or be covered by the Industry Pension Plan.\u201d Joint App\u2019x at 155. 2 Any employee who does not communicate their choice within that thirty-day window is placed into the Industry Pension Plan by default. Scales was not informed of this thirty-day period, which lapsed while he was on layoff.\n\nWhen Scales returned to work, the Hotel gave him a form to select his preferred plan, and he chose the employer plan. \u201cAround 2018,\u201d however, he learned that his retirement plan was \u201cdefaulted into\u201d the Industry Pension Plan while he was laid off. Joint App\u2019x at 213. After filling out a complaint form, Scales waited \u201cweeks upon weeks\u201d before being informed that the Union could not assist him. Id. at 214. The Union explained that it could not help because the Hotel plan predated its representation, and did not attempt to investigate or arbitrate the matter on Scales\u2019 behalf. As a result, Scales was unable to access his 401(k) funds \u201cbecause the [Union] pension is fixed and [he] cannot withdraw money from it.\u201d Id. at 215.\n\nDuring the district court litigation, the Union proceeded to arbitration against the Hotel regarding Scales\u2019 underlying claims, and the case was stayed. After the arbitration was decided against the Union and Scales, the district court lifted the stay and subsequently granted the Union\u2019s motion to dismiss for failure to state a claim.\n\nOn appeal, Scales argues that (1) the district court erred in finding that he failed to state a claim upon which relief can be granted, and (2) that the district court abused its discretion in failing to appoint him pro bono counsel."
+}

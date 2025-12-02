@@ -1,0 +1,629 @@
+United States Court of Appeals
+                        For the First Circuit
+
+
+No. 24-1156
+
+              289 KILVERT, LLC, successor in interest to
+               PAUL and BARRY MILLER PARTNERSHIP, LLC,
+
+                         Plaintiff, Appellee,
+
+                                  v.
+
+                       SBC TOWER HOLDINGS LLC,
+
+                        Defendant, Appellant.
+
+
+          APPEAL FROM THE UNITED STATES DISTRICT COURT
+                FOR THE DISTRICT OF RHODE ISLAND
+
+          [Hon. Mary S. McElroy, U.S. District Judge]
+
+
+                                Before
+
+                     Gelpí, Kayatta, and Aframe,
+                           Circuit Judges.
+
+
+     Steven M. Cowley, with whom Duane Morris LLP, James T.
+Huggard, and Burns & Farrey, P.C. were on brief, for appellant.
+
+     John O. Mancini, with whom Mancini Carter, PC was on brief,
+for appellee.
+
+
+
+                            March 20, 2025
+            GELPÍ, Circuit Judge.         May   a   Rhode   Island    statute,
+
+R.I. Gen. Laws § 8-8-3(a)(2) (2025), allocating jurisdiction over
+
+landlord-tenant disputes to its district courts, preclude removal
+
+to federal court?      Appellant SBC Tower Holdings LLC, ("SBC Tower")
+
+and Appellee 289 Kilvert, LLC ("Kilvert") have a commercial lease
+
+agreement in which Rhode Island law governs disputes that arise
+
+under the same.      Kilvert, the lessor, sued SBC Tower, the lessee,
+
+in Rhode Island district court, claiming that SBC Tower breached
+
+the agreement.      Invoking diversity jurisdiction, SBC Tower removed
+
+the case to the United States District Court for the District of
+
+Rhode Island ("the federal court"), but Kilvert, in turn, moved to
+
+remand.      Kilvert   did   not   dispute   the    presence   of    diversity
+
+jurisdiction, but it contended that the federal court could not
+
+entertain the matter given that the Rhode Island district court
+
+has exclusive jurisdiction.        The federal court agreed.         SBC Tower
+
+appealed.    We reverse, and in doing so answer the question before
+
+us in the negative.
+
+                              I. BACKGROUND
+
+            Kilvert is a company registered in Rhode Island with its
+
+principal place of business therein.         Several years ago, it bought
+
+a commercial property located at 289 Kilvert Street, in Warwick,
+
+Rhode     Island,   and   obtained    rights    and    interests     under   a
+
+telecommunication tower lease.        SBC Tower, a Delaware company with
+
+its principal place of business in Texas, had been leasing said
+
+
+                                     - 2 -
+telecommunication tower for a period of years.                  After Kilvert
+
+acquired the rights and interests under the lease, it claimed that
+
+SBC Tower had breached its terms.             Specifically, it alleged that
+
+SBC Tower owed fifty percent of the payments received from up to
+
+six subleases, at a minimum of $800 per month for each sublease,
+
+for   more   than   twenty   years.      As    a   result,   Kilvert   filed   a
+
+Commercial Property Eviction Complaint in Rhode Island district
+
+court, seeking eviction and damages for unpaid rent and the use
+
+and occupation of the property.
+
+             SBC Tower filed a timely notice of removal to federal
+
+court based on diversity jurisdiction.1             Kilvert moved to remand,
+
+arguing that the lease's choice-of-law provision mandated that the
+
+dispute be adjudicated exclusively in Rhode Island district court.
+
+
+
+
+      1A defendant may remove a civil action filed in state court
+to federal district court based on diversity jurisdiction where
+jurisdiction over the action would have existed had the action
+initially been filed in federal district court, and where no
+defendant is a citizen of the state in which the action was
+brought. 28 U.S.C. § 1441(a),(b). To meet diversity jurisdiction,
+the matter in controversy must exceed "the sum or value of $75,000,
+exclusive    of    interest    and     costs,"    and    must    be
+"between . . . citizens of different States." 28 U.S.C. § 1332.
+Here, Kilvert is a citizen of Rhode Island, and SBC Tower is a
+citizen, directly or through its members, of Delaware, Texas,
+Georgia, New Jersey, Illinois, and New York.       Because Kilvert
+claims that SBC Tower owes fifty percent of the payments received
+from up to six subleases, at a minimum of $800 per month for each
+sublease for twenty years, the amount in controversy exceeds
+$75,000. Thus, the requirements for diversity jurisdiction are
+met.
+
+
+                                      - 3 -
+           The    lease   contains     a    choice-of-law        provision    that
+
+states:    "This Agreement shall be governed by, construed and
+
+enforced in accordance with the law of the State of Rhode Island."
+
+The fourth amendment to the lease also contains a choice-of-law
+
+provision, stating the following:
+
+      "Governing Law.      Notwithstanding anything to the
+      contrary contained in the Lease and in this Amendment,
+      the Lease and this Amendment shall be governed by and
+      construed in all respects in accordance with the laws of
+      the State or Commonwealth in which the Leased Premises
+      is situated, without regard to the conflicts of laws
+      provisions of such State or Commonwealth."
+
+           Kilvert    argued    that       since   Rhode   Island      law    gives
+
+district courts exclusive original jurisdiction over all actions
+
+between landlords and tenants, R.I. Gen. Laws § 8-8-3(a)(2), the
+
+parties must litigate their dispute in Rhode Island district court.
+
+The   statute    specifically   provides      that   state   district        courts
+
+"shall have exclusive original jurisdiction [over] . . . [a]ll
+
+actions between landlords and tenants . . . and all other actions
+
+for possession of premises."         Id.      The federal court agreed and
+
+granted Kilvert's motion to remand, holding that because Rhode
+
+Island law "mandates the state district court as the proper court
+
+for this action, the defendant is bound by that requirement and
+
+removal . . . was     improper."       289    Kilvert,     LLC    v.   SBC    Tower
+
+Holdings, LLC, No. 23-00530, 2024 WL 490452, at *1 (D.R.I. Feb. 8,
+
+2024).
+
+
+
+
+                                     - 4 -
+                              II. DISCUSSION
+
+         We review de novo "[t]he district court's jurisdictional
+
+determination   on    removal"      as   well    as    "[i]ssues    of   statutory
+
+interpretation."      Romulus v. CVS Pharmacy., Inc., 770 F.3d 67, 73
+
+(1st Cir. 2014) (citations omitted).
+
+         At the outset, we must determine whether the instant
+
+appeal is properly before us.            Kilvert argues that this court has
+
+no jurisdiction to hear this appeal because, under 28 U.S.C.
+
+§ 1447(d), "[a]n order remanding a case to the State court from
+
+which it was removed is not reviewable on appeal" unless the case
+
+"was removed pursuant to section 1442 or 1443" of the statute.
+
+Because SBC Tower did not remove the case under sections 1442 and
+
+1443, Kilvert says, this court cannot hear this appeal.                  But that
+
+is not so.
+
+         "[T]he Supreme Court has 'interpreted' section 1447(d)'s
+
+prohibition   on     review   'to    cover      less   than   its   words   alone
+
+suggest.'"    LeChase Constr. Servs., LLC v. Argonaut Ins. Co., 63
+
+F.4th 160, 164 (2d Cir. 2023) (quoting Powerex Corp. v. Reliant
+
+Energy Servs., Inc., 551 U.S. 224, 229 (2007)).                      Indeed, the
+
+Supreme Court made clear that "§ 1447(d) must be read in pari
+
+materia with § 1447(c), so that only remands based on grounds
+
+specified in § 1447(c) are immune from review under § 1447(d)."
+
+Quackenbush v. Allstate Ins. Co., 517 U.S. 706, 711–12 (1996)
+
+(quoting Things Remembered, Inc. v. Petrarca, 516 U.S. 124, 127
+
+
+                                     - 5 -
+(1995)).    "In other words, its 'prohibition on appellate review
+
+remains    limited    to   remands    based     on    the   grounds    specified'
+
+elsewhere in section 1447."         LeChase Constr. Servs., LLC, 63 F.4th
+
+at 164 (quoting Powerex, 551 U.S. at 230).             Those grounds are "lack
+
+of    subject    matter    jurisdiction"        and    "defects       in   removal
+
+procedure."     Quackenbush, 517 U.S. at 712.               The parties do not
+
+allege, and the district court did not identify, any problems with
+
+the removal procedure.           And the district court's order nowhere
+
+indicates any doubt as to its subject-matter jurisdiction over the
+
+dispute, instead characterizing its decision as "an issue of
+
+enforcing what the parties agreed to."                 Therefore, we have the
+
+authority to entertain this appeal because the federal court's
+
+remand was not grounded in section 1447(c).
+
+            Having jurisdiction, we turn to interpreting the Rhode
+
+Island statute at issue,            R.I. Gen. Laws § 8 8 3(a)(2), and
+
+specifically,    whether     its    mandate     that    certain   Rhode     Island
+
+district courts "have exclusive jurisdiction" over landlord-tenant
+
+disputes precludes the federal court from adjudicating this case.
+
+            Kilvert submits that this case belongs exclusively in
+
+Rhode Island district court despite the presence of diversity
+
+jurisdiction.        Kilvert posits that (1) Kilvert and SBC Tower
+
+agreed, in the lease, to Rhode Island law as their choice of law;
+
+(2)    Rhode    Island     law     grants     exclusive     jurisdiction     over
+
+landlord-tenant disputes to state district courts; (3) the parties
+
+
+                                      - 6 -
+indeed have a landlord-tenant dispute; and (4) thus they must
+
+litigate exclusively in Rhode Island district court.          We disagree
+
+with Kilvert's conclusion.
+
+           We must begin with the text of the statute.        Nat'l Ass'n
+
+of Mfrs. v. Dep't of Def., 583 U.S. 109, 127 (2018) (explaining
+
+that where text "is unambiguous, our inquiry begins with the
+
+statutory text, and ends there as well" (internal quotation marks
+
+and citations omitted)); see also Parrillo v. R.I. Hosp., 202 A.3d
+
+942, 946 (R.I. 2019) ("[W]e begin our analysis with an examination
+
+of the text of the statute . . . .").            The language at issue
+
+provides that state district courts "shall have exclusive original
+
+jurisdiction   [over] . . . [a]ll     actions    between   landlords   and
+
+tenants pursuant to chapter 18 of Title 34 and all other actions
+
+for   possession   of   premises   and     estates   notwithstanding   the
+
+provisions of subsection (c) of this section."             R.I. Gen. Laws
+
+§ 8-8-3(a)(2).     The parties advance two competing interpretations
+
+of the statute’s reach.     On the one hand, SBC Tower argues that
+
+the statute allocates exclusive jurisdiction only among Rhode
+
+Island state courts, that is, between the state district and
+
+superior courts.    Kilvert, on the other, has a more sweeping take.
+
+It posits that the statute apportions jurisdiction among every
+
+court -- whether state or federal -- sitting in Rhode Island.
+
+Consequently, Kilvert submits that by choosing Rhode Island law,
+
+
+
+
+                                   - 7 -
+the parties ostensibly consented to the exclusive jurisdiction of
+
+the Rhode Island district court to hear landlord-tenant disputes.
+
+             Read in isolation, the Rhode Island statute's provision
+
+covering landlord-tenant disputes does not specify whether it
+
+purports to allocate jurisdiction among state and federal courts,
+
+or just among state courts.          See R.I. Gen. Laws § 8-8-3(a)(2).
+
+But to discern the breadth of a provision with "uncertain reach,"
+
+we do not confine our review "to a single sentence when the text
+
+of   the   whole   statute   gives   instruction       as   to   its   meaning."
+
+Maracich v. Spears, 570 U.S. 48, 65 (2013) (citing U.S. Nat'l Bank
+
+of Or. v. Indep. Ins. Agents of Am., Inc., 508 U.S. 439, 455
+
+(1993)); see also State v. Hazard, 68 A.3d 479, 485 (R.I. 2013)
+
+("[W]e     must   consider   the   entire    statute   as   a    whole . . . ."
+
+(quoting Mendes v. Factor, 41 A.3d 994, 1002 (R.I. 2012))). Simply
+
+put, we do not interpret a statute's text "in a vacuum"; we read
+
+the words "in their context and with a view to their place in the
+
+overall statutory scheme."         Sturgeon v. Frost, 577 U.S. 424, 438
+
+(2016) (quoting Roberts v. Sea-Lands Servs., Inc., 566 U.S. 93,
+
+101 (2012)); see also Hazard, 68 A.3d at 485 (affirming that
+
+"individual sections must be considered in the context of the
+
+entire statutory scheme, not as if each section were independent
+
+of all other sections").
+
+             Engaging in that exercise, we find that the text of the
+
+Rhode Island statute, read as a whole, suggests that it covers
+
+
+                                     - 8 -
+only the delegation of jurisdiction among state -- not federal --
+
+courts.   In other words, the clause at issue reflects an attempt
+
+to apportion subject matter jurisdiction solely among Rhode Island
+
+state courts.   It does not purport to divest a federal court of
+
+jurisdiction to hear landlord-tenant disputes which are properly
+
+before it.
+
+          Take, for instance, the other provisions in § 8-8-3(a).
+
+Beyond landlord-tenant disputes, the Rhode Island statute also
+
+grants exclusive jurisdiction to state district courts over "[a]ll
+
+civil actions at law . . . wherein the amount in controversy does
+
+not exceed . . . $5,000," but not most causes in equity, R.I. Gen.
+
+Laws § 8-8-3(a)(1); "[a]ll actions of replevin where the goods and
+
+chattels to be replevied" do not exceed $5,000, id. § 8-8-3(a)(3);
+
+"[a]ll violations of minimum housing standards," with certain
+
+exceptions, id. § 8-8-3(a)(4); "[a]ll suits and complaints for
+
+offenses against the bylaws, ordinances, and regulations of cities
+
+and   towns,"   id.   § 8-8-3(a)(5);    and   "[a]ll   other   actions,
+
+proceedings, and matters of whatever nature which are or shall be
+
+declared to be within the jurisdiction of the court by the laws of
+
+the state," id. § 8-8-3(a)(6).    The statute also establishes that
+
+the "district court shall have concurrent original jurisdiction
+
+with the superior court of all civil actions at law wherein the
+
+amount in controversy exceeds the sum of five thousand dollars
+
+
+
+
+                                - 9 -
+($5,000) and does not exceed ten thousand dollars ($10,000)."            Id.
+
+§ 8-8-3(c).
+
+            Said provisions form part of a broader statutory scheme
+
+designed to allocate jurisdiction among state courts, rather than
+
+purporting to strip federal courts of jurisdiction.               See, e.g.,
+
+R.I. Gen. Laws § 8-2-14(a) (granting exclusive jurisdiction to
+
+superior courts over actions at law where the amount in controversy
+
+exceeds $10,000).     More so, the statute's text signals no intent
+
+to divest federal courts of diversity jurisdiction if the parties
+
+agree to Rhode Island law as their choice of law.          The Rhode Island
+
+statute provides, for instance, that if tenants are in arrears and
+
+the landlord wishes to evict them, the landlord cannot go to the
+
+Rhode Island superior or municipal court. § 8-8-3(a)(2). Instead,
+
+the landlord must go to Rhode Island district court, since that is
+
+the only state court authorized to adjudicate such grievance.            See
+
+id.    The Rhode Island statute, therefore, does not divest the
+
+federal court of diversity jurisdiction.
+
+            Our decision in Emigrant Mortgage Co. v. Bourke is on
+
+point. 127 F.4th 385, 389-90 (1st Cir. 2025).              There, appellant
+
+contended that the United States District Court for the District
+
+of    Massachusetts   had   no   power   to   hear   the   case   because   a
+
+Massachusetts statute gave the Land Court exclusive jurisdiction
+
+to adjudicate "[c]omplaints affecting title to registered land."
+
+Id. at 389 (alteration in original) (quoting Mass. Gen. Laws ch.
+
+
+                                  - 10 -
+185, § 1 (a 1/2)).     We rejected such contention, reiterating the
+
+longstanding principle that "[o]nly Congress may determine a lower
+
+federal court's subject-matter jurisdiction."         Id. (alteration in
+
+original) (quoting Kontrick v. Ryan, 540 U.S. 443, 452 (2004)).
+
+We further asserted that federal jurisdiction "is determined 'by
+
+the law of the court's creation . . . [and] cannot be defeated by
+
+the extraterritorial operation of a [state] statute.'" Id. (second
+
+alteration in original) (quoting Marshall, 547 U.S. at 314).          So,
+
+we held, the Massachusetts statute could not be read to "divest
+
+the federal district court of jurisdiction or its ability to grant
+
+the requested relief."     Id. at 390 (collecting cases).
+
+             The exact rationale applies here.   An expansive reading
+
+of the Rhode Island statute would infringe on -- indeed, would
+
+directly conflict with -- federal court diversity jurisdiction
+
+under   28   U.S.C.   § 1332.   See   U.S.   Const.    art.   VI,   cl.   2
+
+(establishing that the "Constitution, and the Laws of the United
+
+States . . . shall be the supreme Law of the Land . . . .").        Given
+
+the obvious conflict, we cannot say that Kilvert's reading wins
+
+the day.     See   Kansas v. Garcia, 589 U.S. 191, 202 (2020) ("If
+
+federal law 'imposes restrictions or confers rights on private
+
+actors' and 'a state law confers rights or imposes restrictions
+
+that conflict with the federal law,' 'the federal law takes
+
+precedence and the state law is preempted.'" (quoting Murphy v.
+
+Nat’l Collegiate Athletic Ass'n., 584 U.S. 453, 477 (2018))); see
+
+
+                                - 11 -
+also Joseph W. Glannon, Examples & Explanations: Civil Procedure
+
+210 (9th ed. 2023) ("[I]f the conflict is between a federal statute
+
+and        a   state      law,         [the        federal]       statute      must     be
+
+applied . . . because . . . federal statutes are the 'Supreme Law
+
+of the Land' . . . ." (quoting U.S. Const. art. VI, cl. 2).
+
+               Finally, we are not convinced by Kilvert's suggestion at
+
+oral       argument    that    the     choice-of-law           provision    contained    an
+
+implied exclusive forum-selection clause.2 To be sure, the parties
+
+could have bound themselves to litigate in Rhode Island district
+
+court if they had so specifically agreed -- that is, if they had
+
+assented to an exclusive forum-selection clause (or if SBC Tower
+
+decided not to remove the case to federal court).3                         See Huffington
+
+v.    T.C.     Grp.,    LLC,     637       F.3d    18,    21    (1st   Cir.   2011)     ("A
+
+forum-selection         clause       may    make    the    designated       forum   merely
+
+available for resolution of disputes or it may make it 'exclusive,'
+
+
+      A forum-selection clause is a contractual provision in which
+       2
+
+the parties agree to the forum in which they will litigate. See
+Forum-Selection Clause, Black's Law Dictionary (11th ed. 2019).
+       A forum-selection clause "does not oust the jurisdiction of
+       3
+
+the [federal] courts."    LFC Lessors, Inc. v. Pac. Sewer Maint.
+Corp., 739 F.2d 4, 6 (1st Cir. 1984) (quoting Cent. Contracting
+Co. v. Md. Cas. Co., 367 F.2d 341, 345 (3d Cir. 1966)). Indeed,
+"even a mandatory forum-selection clause does not in fact divest
+a court of jurisdiction that it otherwise retains."       Silva v.
+Encyclopedia Britannica, Inc., 239 F.3d 385, 388 n.6 (1st Cir.
+2001).     The forum-selection clause "merely constitutes a
+stipulation in which the parties join in asking the court to give
+effect to their agreement by declining to exercise its
+jurisdiction."    LFC Lessors, 739 F.2d at 6 (quoting Cent.
+Contracting Co., 367 F.2d at 345).
+
+
+                                            - 12 -
+at least in the sense that either side can insist upon it as the
+
+venue." (citing Rivera v. Centro Médico de Turabo, Inc., 575 F.3d
+
+10, 17 (1st Cir. 2009)).             But the parties did no such thing.               The
+
+requirements     for    diversity        jurisdiction        being   met,    SBC    Tower
+
+properly removed this case to federal court.                    And because federal
+
+district   courts       have    a     "virtually       unflagging       obligation    to
+
+exercise   their       lawful       jurisdiction       and    resolve    the   matters
+
+properly   before      them,"       we   hold   that    the    federal      court    must
+
+adjudicate the parties' dispute.                  Nazario-Lugo v. Caribevisión
+
+Holdings, Inc., 670 F.3d 109, 114 (1st Cir. 2012) (quoting Colo.
+
+River Water Conservation Dist. v. United States, 424 U.S. 800, 817
+
+(1976)).
+
+                                    III. CONCLUSION
+
+           For    the    foregoing        reasons,     we    reverse     the   district
+
+court's judgment and remand for further proceedings consistent
+
+with this opinion.
+
+           It is so ordered.
+
+
+
+
+                                         - 13 -

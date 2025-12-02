@@ -1,0 +1,728 @@
+Case: 2:21-cv-05501-SDM-KAJ Doc #: 54 Filed: 02/05/24 Page: 1 of 14 PAGEID #: 617
+
+
+
+
+                     UNITED STATES DISTRICT COURT
+                      SOUTHERN DISTRICT OF OHIO
+                           EASTERN DIVISION
+
+ DEREK KRAMER,
+
+                    Plaintiff,
+                                         :
+       v.                                      Case No. 2:21-cv-5501
+                                               Judge Sarah D. Morrison
+                                               Magistrate Judge Kimberly A.
+ AMERICAN ELECTRIC POWER                       Jolson
+ EXECUTIVE SEVERANCE PLAN,
+                                         :
+ et al.,
+
+                    Defendants.
+
+                            OPINION AND ORDER
+
+      Derek Kramer brings this ERISA action against the American Electric Power
+
+Executive Severance Plan and its sponsor, American Electric Power Service
+
+Corporation, after a determination that Mr. Kramer was not entitled to benefits
+
+under the Plan. (See Compl., ECF No. 1.) The Administrative Record was filed (ECF
+
+No. 21-1), though Mr. Kramer was allowed limited additional discovery. The matter
+
+is now before the Court on Defendants’ Motion for Summary Judgment. (Mot., ECF
+
+No. 41.) Mr. Kramer responded (Resp., ECF No. 52) and Defendants replied (Reply,
+
+ECF No. 53). Because AEP’s conclusion that Mr. Kramer was terminated for Cause
+
+was neither arbitrary nor capricious, AEP’s Motion for Summary Judgment is
+
+GRANTED.
+
+I.    BACKGROUND
+
+      AEP established and maintains the American Electric Power Executive
+
+Severance Plan (“Plan,” appearing at ECF No. 21-1, PAGEID # 155–80) to provide
+Case: 2:21-cv-05501-SDM-KAJ Doc #: 54 Filed: 02/05/24 Page: 2 of 14 PAGEID #: 618
+
+
+
+
+severance benefits to a select group of employees if their employment is
+
+involuntarily terminated. (Id., § 1.1.)
+
+      In July 2018, AEP hired Mr. Kramer to be Vice President and Chief Digital
+
+Officer of AEP CHARGE, “a new AEP innovation hub.” (ECF No. 21-1, PAGEID
+
+# 139.) AEP invited Mr. Kramer to participate in the Plan and, on April 3, 2019, he
+
+accepted. (Id., PAGEID # 145.)
+
+      A.     Mr. Kramer was terminated after an internal investigation into
+             his assistant’s use of company credit cards.
+
+      Two weeks after becoming a participant in the Plan, Mr. Kramer had a call
+
+with Thomas Festi and Tom DeHaven from AEP’s Audit Services Department
+
+(“ASD”). (Id., PAGEID # 195.) During an annual proactive audit of company credit
+
+card use, ASD discovered that Martha Napalo (Mr. Kramer’s Executive Assistant)
+
+had been charging personal expenses1 to her company credit card—including
+
+“amazon purchases, meals for herself while out running errands for the department,
+
+supplies and snacks for the office, office hygiene and grooming items and gas for her
+
+personal vehicle.” (Id.; see also id., PAGEID # 205 (“[Ms. Napalo] had 66 personal
+
+expenses for $2,069.01 for the period 9/19/16 (her hire date) through 3/22/19.”).)
+
+Messrs. Festi and DeHaven raised the issue directly with Mr. Kramer, “because Mr.
+
+Kramer, as Ms. Napalo’s supervisor, has the responsibility to approve only
+
+appropriate charges and he is AEP’s control over expenses for his subordinates.”
+
+
+
+      1 AEP’s Corporate Credit Card Policy prohibits using the company credit card
+
+use “for personal or non-business purposes.” (ECF No. 21-1, PAGEID # 280.) The
+Policy also provides that “[a]pproving supervisors are responsible for verifying the
+validity of” charges to a company credit card. (Id.)
+
+                                          2
+Case: 2:21-cv-05501-SDM-KAJ Doc #: 54 Filed: 02/05/24 Page: 3 of 14 PAGEID #: 619
+
+
+
+
+(Id., PAGEID # 195.) Mr. Kramer “indicated that he wanted to discuss the charges
+
+with” Ms. Napalo. (Id.) Later that day, Mr. Kramer emailed Mr. DeHaven:
+
+        Thomas,
+
+        Thanks for the insight.
+
+        Connected with Martha this morning and covered off on the personal
+        expense as a rare exception, timely submission, and mileage-over-gas
+        reimbursement.
+
+        Thank you again,
+
+(Id., PAGEID # 198.)
+
+        In ASD’s audit the following year, however, “Ms. Napalo’s name appeared as
+
+having the third highest number of charges on an AEP credit card. Her charges
+
+rivaled those of [AEP’s] entire Fleet Services and Aviation organizations.” (Id.,
+
+PAGEID # 195–96.) ASD investigated and found that $854 of expenses were
+
+personal in nature, but processed by Ms. Napalo and approved by Mr. Kramer as
+
+business-related. (Id., PAGEID # 189.) Those charges included “Christmas and
+
+birthday gifts for [Mr. Kramer], flowers for [Mr. Kramer’s] wife, flowers for [Ms.
+
+Napalo’s] family, [and] a dress and bottles of personal fragrance for [Ms. Napalo].”
+
+(Id.)
+
+        On September 22, 2020, AEP’s Ethics and Compliance department
+
+interviewed Mr. Kramer about the expenses. (Id.) His employment was then
+
+suspended for the remainder of the investigation. (Id.; see also id., PAGEID # 185.)
+
+Per company policy, AEP Region Security Coordinator Kerrie Campbell went to Mr.
+
+Kramer’s home after the interview to retrieve his company-issued cell phone. (Id.,
+
+PAGEID # 202.) Her Affidavit recounts the event:
+
+                                          3
+Case: 2:21-cv-05501-SDM-KAJ Doc #: 54 Filed: 02/05/24 Page: 4 of 14 PAGEID #: 620
+
+
+
+
+      5.     When I arrived at Mr. Kramer’s home, and upon ringing the door
+      bell, Mr. Kramer answered. I identified myself and advised Mr. Kramer
+      that I was there to collect his phone for an ongoing investigation.
+
+      6.     Upon my asking Mr. Kramer for the phone, Mr. Kramer hesitated
+      and asked if he could place a call first. As a courtesy, I agreed. At that
+      time, he went back into the house and left me on his front porch.
+
+      7.    When Mr. Kramer returned, I again asked him for the cell phone.
+      He held it in his hand and hesitated and said it was his phone and he
+      used it for personal use. He then provided me with the phone and,
+      pursuant to our protocol, I requested the PIN/security code for the
+      phone. Mr. Kramer once again hesitated and then stated that if “I give
+      you the Pin you will be able to see what I have on the phone” I looked at
+      him and stated “yes they may need to look at the phone.” Mr. Kramer
+      told me the pin and I repeated it back to him. He advised it was correct.
+      I wished him a good day and I returned to my vehicle.
+
+      8.    Upon returning to my vehicle, I wrote the Pin down he had given
+      me, and started to pull away. I tested the PIN and learned that it was
+      incomplete. I looked back towards Mr. Kramer’s front door and saw him
+      pacing outside, talking to himself in an animated manner.
+
+      9.     I pulled my car around through Mr. Kramer’s circle driveway and
+      got out of the car with the phone. I advised Mr. Kramer that I needed to
+      confirm the PIN because I was not sure I had the complete PIN. Mr.
+      Kramer then provided the complete PIN, which I confirmed unlocked
+      the phone.
+
+(Id., PAGEID # 202–03 (reproduced as written).)
+
+      When the phone returned to AEP, it was sent for digital forensic
+
+examination. (Id., PAGEID # 182.) AEP Security Manager Michael Knorps swore in
+
+an Affidavit:
+
+      The phone was powered on and displayed the airplane mode symbol and
+      the standard login password screen. The phone was unlocked using the
+      passcode provided by Mr. Kramer. Password prompts were observed.
+      This indicated a potential network connection and the Apple ID
+      password having been changed prior to the phone being turned on, in
+      addition to application passwords being changed remotely. The phone
+      connected to an internal wireless network at AEP. The normal forensic
+      extraction process was started but the device rebooted and began wiping
+
+                                          4
+Case: 2:21-cv-05501-SDM-KAJ Doc #: 54 Filed: 02/05/24 Page: 5 of 14 PAGEID #: 621
+
+
+
+
+        itself clean. No other settings or operations were pressed on the phone.
+        When the phone finished the rebooting process, it was fully wiped which
+        indicated that a remote wipe had taken place.
+
+(Id.)
+
+        On September 29, 2022, Mr. Kramer was asked why the phone wiped clean
+
+and restored to factory settings. He explained,
+
+        in setting up his new phone, he removed his personal Apple ID and
+        iCloud account from the old phone. Mr. Kramer did not do so with the
+        intention of wiping the company phone or know that his actions had
+        done so until it was brought to his attention during the September 29,
+        2020 call.
+
+(Id., PAGEID # 153.) But that explanation “did not appear to be possible.” (Id.,
+
+PAGEID # 210.) Later research and testing confirmed that the fact scenario Mr.
+
+Kramer described “did not result in a wiped iPhone[.]” (Id., PAGEID # 215.)
+
+Instead, AEP “concluded that the phone had been wiped remotely by Mr. Kramer.”
+
+(Id., PAGEID # 185.)
+
+        Three days later, on October 2, 2020, Mr. Kramer’s employment was
+
+terminated. (Id., PAGEID # 140.)
+
+        B.    The Plan provides severance benefits to participants who
+              experience an Involuntary Termination—which does not
+              include termination for Cause.
+
+        The Plan2 provides severance benefits to participating AEP employees in the
+
+event that their employment “is terminated due to an Involuntary Termination or a
+
+Good Reason Resignation.” (Plan, § 1.1.) An “Involuntary Termination” is a
+
+
+        2 The only Plan document included in the record was amended and restated
+
+as of January 4, 2021. Neither party argues or alleges that the Plan’s terms were
+different in any material or relevant way on the date of Mr. Kramer’s employment
+termination.
+
+                                           5
+Case: 2:21-cv-05501-SDM-KAJ Doc #: 54 Filed: 02/05/24 Page: 6 of 14 PAGEID #: 622
+
+
+
+
+“termination of employment initiated by [AEP] for any reason other than Cause.”
+
+(Id., § 2.18.) A participant whose employment is terminated for Cause is not entitled
+
+to Plan benefits. (Id., §§ 3.2(c)(4), 4.3.) “Cause” is defined to include:
+
+       (ii) commission of an act of willful misconduct, fraud, embezzlement or
+            dishonesty either in connection with the Employee’s duties to any
+            AEP System Company or which otherwise is injurious to the best
+            interest or reputation of any AEP System Company; [and]
+
+       (v) a material violation of any of the rules of conduct of behavior of any
+           AEP System Company, such as may be provided in any employee
+           handbook or as an AEP System Company may promulgate from time
+           to time, following notice and a reasonable opportunity to cure (if such
+           violation is capable of cure)[.]
+
+(Id., § 2.5.) The Plan provides that “[t]he Committee3, in its sole and absolute
+
+discretion, shall determine Cause.” (Id.)
+
+       C.     Mr. Kramer made a claim for Plan benefits. On receiving an
+              adverse benefit determination, he appealed. The appeal was
+              unsuccessful.
+
+       Mr. Kramer filed a claim for Plan benefits in November 2020. (ECF No. 21-1,
+
+PAGEID # 143.) The claim was denied in a January 19, 2021 letter from AEP Chief
+
+Human Resources Officer Julius Cox. (Id., PAGEID # 145–47.) Mr. Cox determined
+
+that Mr. Kramer was “not entitled to executive severance benefits under the Plan
+
+because [his] termination was for ‘Cause.’” (Id., PAGEID # 145.) Mr. Cox cited both
+
+the corporate credit card misuse and the remote wiping of his company-issued cell
+
+phone as for-Cause reasons driving his termination. (Id., PAGEID # 146.)
+
+
+
+
+       3 The “Committee” is defined as “the Human Resources Committee of the
+
+Board of such other committee to which the Board has delegated the functions of its
+Human Resources Committee.” (Plan, § 2.8.)
+
+                                             6
+Case: 2:21-cv-05501-SDM-KAJ Doc #: 54 Filed: 02/05/24 Page: 7 of 14 PAGEID #: 623
+
+
+
+
+      Mr. Kramer appealed Mr. Cox’s decision to the AEP Executive Severance
+
+Plan Appeal Committee. (Id., PAGEID # 149.) The Appeal Committee concluded
+
+that Mr. Kramer’s employment was terminated for failure to supervise Ms. Napalo’s
+
+company credit card use and for remotely wiping his company-issued cell phone
+
+during an internal investigation—and that those reasons constitute Cause. (Id.,
+
+PAGEID # 289–92.) This lawsuit followed.
+
+II.   STANDARD OF REVIEW
+
+      ERISA benefit determinations are reviewed de novo unless the plan expressly
+
+grants its administrator or fiduciary discretionary authority “to determine
+
+eligibility for benefits or to construe the terms of the plan.” Firestone Tire and
+
+Rubber Co. v. Bruch, 489 U.S. 101, 115 (1989); see also Yaeger v. Reliance Std. Life
+
+Ins. Co., 88 F.3d 376, 380 (6th Cir. 1996). If a plan grants discretionary authority,
+
+“application of the highly deferential arbitrary and capricious standard of review is
+
+appropriate[.]” Yaeger, 88 F.3d at 380.
+
+      Though the parties agree that the Plan grants discretionary authority to both
+
+the Plan Administrator and the Committee, they dispute the applicable standard of
+
+judicial review.4 Mr. Kramer argues that the Defendants are “judicially estopped
+
+
+      4 They also dispute the proper form of Defendants’ motion for judgment. Mr.
+
+Kramer asserts that the pending Motion for Summary Judgment is either
+technically improper or somehow distinct from the ordinary motion for judgment on
+the administrative record. (Resp., PAGEID # 584–86 (citing Wilkins v. Baptist
+Healthcare Sys., Inc., 150 F.3d 609 (6th Cir. 1998)).) Mr. Kramer puts up a paper
+tiger. The Administrative Record is before the Court. (ECF No. 21-1.) Mr. Kramer
+was allowed additional discovery, but attached nothing to his Response. The locus of
+the dispute is thus the Administrative Record. For avoidance of doubt, the Court
+hereby CONSTRUES Defendants’ Motion for Summary Judgment as a motion for
+judgment on the Administrative Record.
+
+                                           7
+Case: 2:21-cv-05501-SDM-KAJ Doc #: 54 Filed: 02/05/24 Page: 8 of 14 PAGEID #: 624
+
+
+
+
+from asserting a right to deferential review.” (Resp., PAGEID # 586.) Earlier in the
+
+litigation, Defendants successfully argued that the Plan is a top hat plan exempt
+
+from ERISA’s fiduciary provisions. (See ECF No. 49, PAGEID # 575.) In Mr.
+
+Kramer’s view, the Firestone standard applies only to plans subject to those
+
+fiduciary provisions, and urges the Court to proceed with a de novo review. (Resp.,
+
+586–87.) But this Court has concluded that Firestone applies “even if” a plan is a top
+
+hat plan. Whitescarver v. Sabin Robbins Paper Co., No. C-1-03-911, 2005 WL
+
+8168487, at *4 (S.D. Ohio Apr. 28, 2005) (Dlott, J.).5 The Court sees no reason to
+
+alter its prior conclusion.
+
+       “A decision reviewed according to the arbitrary and capricious standard must
+
+be upheld if it results from ‘a deliberate principled reasoning process’ and is
+
+supported by ‘substantial evidence.’” Schwalm v. Guardian Life Ins. Co. of Am., 626
+
+F.3d 299, 308 (6th Cir. 2010) (quoting Baker v. United Mine Workers of Am. Health
+
+& Ret. Funds, 929 F.2d 1140, 1144 (6th Cir. 1991)). Judicial review is no “rubber
+
+stamp”—rather the court examines the “quantity and quality of the . . . evidence on
+
+each side.” Id. (citing Evans v. UnumProvident Corp., 434 F.3d 866, 876 (6th Cir.
+
+2006). “[T]hough the [arbitrary and capricious] standard is not without some teeth,
+
+
+       5 Although Whitescarver was affirmed, the Sixth Circuit expressly declined to
+
+take up the question of whether “an ERISA top hat plan must be reviewed under a
+de novo standard.” Whitescarver v. Sabin Robbins Paper Co., 313 F. App’x 781, 787
+(6th Cir. 2008). Of note, the same Plan language that gave the Court of Appeals
+comfort in applying an arbitrary and capricious standard in Whitescarver is also
+present here. See id. at 786–87 (“Where the Plan . . . describes the interpretation
+reached by the employer/administrator to be ‘binding and conclusive,’ we can only
+conclude that the plan meaning is to vest the type of discretion in the Plan
+Administrator that must be reviewed under an arbitrary and capricious standard.”).
+(See also Plan §§ 7.1 and 7.3, PAGEID # 171.)
+
+                                           8
+Case: 2:21-cv-05501-SDM-KAJ Doc #: 54 Filed: 02/05/24 Page: 9 of 14 PAGEID #: 625
+
+
+
+
+it is not all teeth.” McClain v. Eaton Corp. Disability Plan, 740 F.3d 1049, 1064 (6th
+
+Cir. 2014). “[I]ndications of arbitrary and capricious decisions include a lack of
+
+substantial evidence, a mistake of law, bad faith and a conflict of interest by the
+
+decision-maker.” Zenadocchio v. BAE Sys. Unfunded Welfare Ben. Plan, 936 F.
+
+Supp. 2d 868, 884 (S.D. Ohio 2013) (Rose, J.) (citing Caldwell v. Life Ins. Co. of N.
+
+Am., 287 F.3d 1276, 1282 (10th Cir. 2002)). However, “[w]hen it is possible to offer a
+
+reasoned explanation, based on the evidence, for a particular outcome, that outcome
+
+is not arbitrary or capricious.” Shields v. Reader’s Digest Ass’n, Inc., 331 F.3d 536,
+
+541 (6th Cir. 2003) (quoting Davis v. Kentucky Fin. Cos. Ret. Plan, 887 F.2d 689,
+
+693 (6th Cir. 1989)).
+
+III.   ANALYSIS
+
+       A.    Count One – Benefit Denial
+
+       Mr. Kramer first asserts that he was improperly denied Plan benefits to
+
+which he was entitled. See 29 U.S.C. § 1132(a)(1)(B). Mr. Cox and the Appeal
+
+Committee concluded that he was not entitled to those benefits because he was
+
+terminated for Cause. Mr. Kramer challenges the basis for those conclusions.
+
+             1.     The adverse benefit determination was not arbitrary or
+                    capricious.
+
+       It is “a fundamental principle of ERISA law—the plain language of the plan
+
+controls.” West v. AK Steel Corp. Retirement Accumulation Pension Plan, 318 F.
+
+Supp. 2d 579, 585 (S.D. Ohio 2004) (Beckwith, J.) (citation omitted). Accordingly,
+
+the Court’s “starting point is the language of the Plan itself.” Farhner v. United
+
+Transp. Union Discipline Income Prot. Program, 645 F.3d 338, 343 (6th Cir. 2011)
+
+
+                                           9
+Case: 2:21-cv-05501-SDM-KAJ Doc #: 54 Filed: 02/05/24 Page: 10 of 14 PAGEID #: 626
+
+
+
+
+       Under the Plan, “[e]ach Eligible Employee in the Plan who incurs an
+
+Involuntary Termination or Good Reason Resignation . . . and who satisfies the
+
+conditions of Section 3.2 shall be eligible to receive the Severance Benefits described
+
+in the Plan.” (Plan, § 3.1.) Section 3.2 provides that “[a]n Eligible Employee shall
+
+not be eligible to receive Severance Benefits upon the Eligible Employee’s . . .
+
+termination for Cause[.]” (Id., § 3.2(c).)
+
+       Mr. Kramer’s employment was terminated on October 2, 2020. (See ECF No.
+
+21-1, PAGEID # 140.) Ms. Risch swore an Affidavit that she
+
+       made the decision to terminate Mr. Kramer’s employment. [She] had
+       lost trust in Mr. Kramer as a leader of the CHARGE organization and
+       as a Senior Officer of AEP. Mr. Kramer had been advised a year earlier
+       that he had an employee whose commingling of company and personal
+       credit card use was unacceptable and needed to be addressed. He was
+       also either approving questionable expenses or not paying close enough
+       attention to notice or question them. Mr. Kramer had a reasonable
+       opportunity to cure these violations but he took no steps to correct the
+       behavior. Mr. Kramer failed in his high duty as an Officer of the
+       Company to manage and monitor corporate assets. When confronted
+       with these concerns by investigators, he did not show accountability.
+       Additionally, remotely wiping his Company cell phone was misconduct
+       and an intentional and willful act of dishonesty.
+
+(Id., PAGEID # 186.)
+
+       On review of the claim, Mr. Cox concluded that Mr. Kramer’s employment
+
+“was terminated for Cause for two reasons”—first, a material violation of the rules
+
+of conduct (failure to supervise Ms. Napalo’s corporate credit card) and, second,
+
+willful dishonesty (remotely wiping his company-issued cell phone during an
+
+internal investigation). (Id., PAGEID # 145–48.)
+
+       On review of the appeal, the Appeal Committee came to the same conclusion:
+
+Mr. Kramer’s employment was terminated for two independent reasons constituting
+
+                                             10
+Case: 2:21-cv-05501-SDM-KAJ Doc #: 54 Filed: 02/05/24 Page: 11 of 14 PAGEID #: 627
+
+
+
+
+Cause and he was, thus, ineligible for Plan benefits. (Id., PAGEID # 289–92.) The
+
+Appeal Committee made additional, explicit findings as to Mr. Kramer’s culpability
+
+for the conduct underlying his termination. As to the material violation of the rules
+
+of conduct, the Appeal Committee explained:
+
+      Ms. Napalo used her card to purchase personal goods at your direction,
+      including a dress for Ms. Napolo’s personal use. It was your
+      responsibility to review these purchases and ensure that they were
+      appropriate, which you failed to do.
+
+Further,
+
+      [b]oth the 2019 [audit] report and the additional information provided
+      in the affidavit of Thomas Festi . . . make it clear that you were notified
+      that your conduct concerning business expenses, including the improper
+      method for approving the expenses of others, was a material violation of
+      the company’s rules of conduct and that you were informed as such in
+      2019.
+
+(Id., PAGEID # 290.) And as to the willful dishonesty, the Appeal Committee found
+
+that the iPhone Research and Testing Report
+
+      concludes that you or someone under your control or action must have
+      intentionally erased the cell phone’s contents remotely. In so doing, you
+      attempted to deceive AEP about your company cell phone’s contents
+      during an ongoing investigation and lied about the actions you took to
+      wipe the cell phone. Further, in the affidavit of Kerrie Campbell . . . , the
+      record shows that you were not completely cooperative with the
+      investigation but instead were resistant and dishonest in that process.
+
+(Id., PAGEID # 291.)
+
+      Mr. Cox and the Appeal Committee each offered a reasonable explanation,
+
+based on evidence, for their conclusion that Mr. Kramer was terminated for Cause.
+
+As such, the adverse benefit determination was neither arbitrary nor capricious.
+
+The Court will not disturb it.
+
+
+
+
+                                           11
+Case: 2:21-cv-05501-SDM-KAJ Doc #: 54 Filed: 02/05/24 Page: 12 of 14 PAGEID #: 628
+
+
+
+
+             2.     Mr. Kramer’s arguments otherwise fail.
+
+      Mr. Kramer offers a laundry list of reasons why the Court should set aside
+
+the determination. None have merit.
+
+      Conflict of Interest. Mr. Kramer first argues that “the Plan has a significant
+
+conflict of interest” because a large sum of money is at stake. (Resp., PAGEID
+
+# 589.) Under Sixth Circuit precedent, “conclusory allegations of bias based on th[e]
+
+(relatively common)” conflict of interest that exists when a single entity both
+
+decides and pays claims “do not deserve much weight.” Autran v. Procter & Gamble
+
+Health & Long-Term Disability Benefit Plan, 27 F.4th 405, 418 (6th Cir. 2022)
+
+(internal quotations marks omitted). Instead, a plaintiff “should attempt to uncover
+
+evidence suggesting that the conflict materialized in a concrete way to influence the
+
+administrator’s decisional process.” Id. (citations omitted). Mr. Kramer offers no
+
+such evidence—despite having been allowed discovery outside the Administrative
+
+Record on his allegations of conflict. (See ECF No. 24, PAGEID # 308–09.)
+
+      Written Explanation. Mr. Kramer next argues that he was never given a
+
+written explanation for his termination. (Resp., PAGEID # 589.) But neither the
+
+Plan nor the law requires that an employer provide a contemporaneous written
+
+explanation on termination.
+
+      Ex Post Facto Evidence. Mr. Kramer further argues that “[a]ll of the ‘for
+
+cause’ evidence was generated after Kramer sought severance benefits.” (Id.) The
+
+Court is unswayed by the insinuation that Mr. Cox’s and the Appeal Committee’s
+
+conclusions were based on ex post facto evidence. The conduct underlying the
+
+decision undeniably occurred before the termination. That it took another week for
+
+                                          12
+Case: 2:21-cv-05501-SDM-KAJ Doc #: 54 Filed: 02/05/24 Page: 13 of 14 PAGEID #: 629
+
+
+
+
+the audit report to be finalized, or another month for Ms. Risch to complete an
+
+affidavit, is irrelevant.
+
+       Attorney Engagement. With no citation to authority, Mr. Kramer seeks a
+
+negative inference from Defendants’ engagement of attorneys on this matter. (Id.,
+
+PAGEID # 590.) The Court draws none.
+
+       Inconsistent Explanations. In an August 29, 2023 declaration, Mr. Kramer
+
+states that AEP’s reasons for his suspension and termination changed over time.
+
+(ECF No. 52-1.) The declaration was not subject to cross-examination, was not
+
+produced in discovery, and was not included in the Administrative Record. The
+
+Court thus declines to consider it. Cf. Ace Am. Ins. Co. v. Gerling & Assocs., Inc.,
+
+630 F. Supp. 3d 919, 926 (S.D. Ohio 2022) (Marbley, J.) (“Self-serving affidavits
+
+alone . . . are not enough to create an issue of fact sufficient to survive summary
+
+judgment.”).
+
+       Termination Not For Cause. Mr. Kramer disputes that the conduct alleged
+
+constituted “Cause” under the Plan. (See, e.g., Resp., PAGEID # 591 (“The allegation
+
+the Kramer committed a material violation of the rules of conduct regarding his
+
+expense account does not support a determination that Kramer was terminated for
+
+cause.”).) Mr. Kramer’s multi-part challenge fails to show that the for-Cause
+
+determination was arbitrary or capricious.
+
+       Defendants’ motion is GRANTED as to Count One.
+
+       B.      Count Two – Interference
+
+       In Count Two, Mr. Kramer alleges that AEP interfered with his ERISA-
+
+protected rights. See 29 U.S.C. § 1140. According to the Sixth Circuit, the
+
+                                          13
+Case: 2:21-cv-05501-SDM-KAJ Doc #: 54 Filed: 02/05/24 Page: 14 of 14 PAGEID #: 630
+
+
+
+
+      emphasis of a § 1140 action is to prevent persons and entities from
+      taking actions which might cut off or interfere with a participant’s
+      ability to collect present or future benefits or which punish a participant
+      for exercising his or her rights under an employee benefit plan.
+
+Hogan v. Jacobson, 823 F.3d 872, 885 (6th Cir. 2016) (internal quotations and
+
+citation omitted). But a plaintiff must “show more than the mere denial of a claim to
+
+establish that an [administrator] has acted with the intent of interfering with a
+
+future right under 29 U.S.C. § 1140.” Id. (internal quotation and citation omitted).
+
+Mr. Kramer does not allege that AEP engaged in any conduct beyond denying his
+
+claim for Plan benefits.6 The claim thus fails.
+
+      Defendants’ motion is GRANTED as to Count Two.
+
+IV.   CONCLUSION
+
+      For the reasons above, Defendants’ Motion for Summary Judgment (ECF No.
+
+41) is GRANTED.
+
+
+
+      IT IS SO ORDERED.
+
+
+                                        /s/ Sarah D. Morrison
+                                        SARAH D. MORRISON
+                                        UNITED STATES DISTRICT JUDGE
+
+
+
+
+      6 Mr. Kramer argues that AEP interfered with his right to benefits by
+
+“designat[ing] his discharge as ‘for cause’.” (Resp., PAGEID # 598.) That designation
+is part and parcel of the claim denial.
+
+                                          14

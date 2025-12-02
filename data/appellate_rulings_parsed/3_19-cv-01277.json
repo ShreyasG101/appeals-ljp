@@ -1,0 +1,27 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court properly granted summary judgment to the Department of the Army on Quintana's claims of sex, race, and age discrimination and retaliation, based on her reassignment, under Title VII and the ADEA.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found that Quintana failed to properly contest the Army's statement of facts under Local Rule 56, so the Army's version of the facts was deemed admitted. On the merits, even assuming a prima facie case, Quintana failed to show that the Army's stated reason for her reassignment (poor management substantiated by investigations) was pretext for discrimination or retaliation."
+    }
+  ],
+  "key_precedents": [
+    "McDonnell Douglas Corp. v. Green, 411 U.S. 792 (1973)",
+    "Dusel v. Factory Mut. Ins. Co., 52 F.4th 495 (1st Cir. 2022)",
+    "L\u00f3pez-Hern\u00e1ndez v. Terumo P.R. LLC, 64 F.4th 22 (1st Cir. 2023)",
+    "Ram\u00edrez Rodr\u00edguez v. Boehringer Ingelheim Pharms., Inc., 425 F.3d 67 (1st Cir. 2005)",
+    "Carreras v. Sajo, Garcia & Partners, 596 F.3d 25 (1st Cir. 2010)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "Carmen Quintana-Dieppa (\"Quintana\") sued her employer, the Department of the Army (\"the Army\"), alleging sex and race discrimination as well as retaliation, under 42 U.S.C. \u00a7 2000 et. seq., and age discrimination under 29 U.S.C. \u00a7 621 et. seq. Upon conclusion of discovery, the Army moved for summary judgment, arguing that it was entitled to judgment as a matter of law on each of Quintana's claims. The district court agreed and granted the Army\u2019s motion. Quintana appealed. For the reasons that follow, we affirm the district court\u2019s judgment."
+}

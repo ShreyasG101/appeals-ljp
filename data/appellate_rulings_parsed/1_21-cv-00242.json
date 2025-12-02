@@ -1,0 +1,35 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court correctly dismissed as moot the plaintiffs' constitutional challenge to Maine's COVID-19 vaccine mandate for healthcare workers after the mandate was repealed.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found the challenge moot because the COVID-19 vaccine mandate was repealed and there was no ongoing conduct to enjoin or controversy to resolve. No exceptions to mootness applied, as the repeal was not done to evade litigation and recurrence was highly unlikely."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the district court abused its discretion in denying plaintiffs' request for leave to amend the complaint to broaden their claims or add a facial challenge to the statute.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held there was no abuse of discretion because plaintiffs sought to drastically broaden their claims without identifying any post-filing events justifying amendment, and the statute/regulation preexisted the suit."
+    }
+  ],
+  "key_precedents": [
+    "Bos. Bit Labs, Inc. v. Baker, 11 F.4th 3 (1st Cir. 2021)",
+    "Corrigan v. Bos. Univ., 98 F.4th 346 (1st Cir. 2024)",
+    "Harris v. Univ. of Mass. Lowell, 43 F.4th 187 (1st Cir. 2022)",
+    "Palmer v. Champion Mortg., 465 F.3d 24 (1st Cir. 2006)",
+    "Bayley's Campground, Inc. v. Mills, 985 F.3d 153 (1st Cir. 2021)",
+    "Calvary Chapel of Bangor v. Mills, 52 F.4th 40 (1st Cir. 2022)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "This appeal challenges the district court's February 23, 2024 dismissal on mootness grounds of appellants' constitutional challenge to Maine's COVID-19 vaccine mandate for certain healthcare workers, which was originally promulgated by emergency rule on August 12, 2021, no longer enforced as of July 12, 2023, and repealed by amendment of the regulation, effective on September 5, 2023. See 10-144-264 Me. Code R. \u00a7 2 (amended Sept. 5, 2023) (requiring designated healthcare facilities to \"require for all employees who do not exclusively work remotely a Certificate of Immunization, or Proof of Immunity\" against COVID-19). The appellants are Maine healthcare workers who do not exclusively work remotely and who were terminated from their employment at covered healthcare facilities after they refused to comply with the COVID-19 vaccine mandate based on their religious beliefs.\n\nIn 2021, the appellants filed suit in the United States District Court for the District of Maine against their former employers and various Maine government officials, asserting that the failure of the mandate to provide for religious exemptions violated, inter alia, the First and Fourteenth Amendments of the United States Constitution. On the same day, they filed a motion for a temporary restraining order and a preliminary injunction, which were denied. The appellants appealed the denial of preliminary injunctive relief.1 On October 19, 2021, this court affirmed the district court's denial of a preliminary injunction, Does 1-6 v. Mills, 16 F.4th 20, 37 (1st Cir. 2021), and the Supreme Court denied the appellants' subsequent application for emergency injunctive relief, Does 1-3 v. Mills, 142 S. Ct. 17, 17 (2021).\n\nOn February 14, 2022, the defendants moved to dismiss the complaint for failure to state a claim, which was granted on August 18, 2022. In May 2023, this court affirmed in part and reversed in part, reversing the dismissal of the First Amendment Free Exercise and Fourteenth Amendment Equal Protection Clause claims for declaratory and injunctive relief against the Commissioner of the Maine Department of Health and Human Services (\"MDHHS\") and the Director of the Maine Center for Disease Control and Prevention (\"MCDC\"). Lowe v. Mills, 68 F.4th 706, 709, 725 (1st Cir. 2023).\n\nFollowing the September 2023 repeal of the challenged regulation, the defendants moved to dismiss these remaining claims as moot, and their motion was granted. The district court also denied the appellants leave to amend the complaint. This timely appeal followed."
+}

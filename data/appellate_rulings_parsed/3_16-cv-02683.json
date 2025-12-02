@@ -1,0 +1,35 @@
+{
+  "overall_outcome": "MIXED",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the federal felon-in-possession conviction violated the Double Jeopardy Clause due to a prior Puerto Rico conviction for carrying a weapon without a license based on the same conduct.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that the federal and Commonwealth offenses have different statutory elements under Blockburger, so double jeopardy does not bar the federal prosecution even though both arise from the same conduct."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether prior Puerto Rico convictions for robbery of a motor vehicle under Article 173B qualify as predicate violent felonies under the Armed Career Criminal Act (ACCA) for sentencing enhancement.",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "The court found that Article 173B criminalizes conduct broader than the ACCA\u2019s definition of violent felony, as it includes intimidation against property and does not require the use or threatened use of force against a person, so it cannot serve as an ACCA predicate."
+    }
+  ],
+  "key_precedents": [
+    "Blockburger v. United States, 284 U.S. 299 (1932)",
+    "United States v. Almonte-N\u00fa\u00f1ez, 963 F.3d 58 (1st Cir. 2020)",
+    "Johnson v. United States (Johnson II), 576 U.S. 591 (2015)",
+    "Puerto Rico v. S\u00e1nchez Valle, 579 U.S. 59 (2016)",
+    "Mathis v. United States, 579 U.S. 500 (2016)",
+    "Borden v. United States, 593 U.S. 420 (2021)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": true,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "This is an appeal from the district court's denial of Julio Rodr\u00edguez-M\u00e9ndez's ('Rodr\u00edguez') motion under 28 U.S.C. \u00a7 2255. In his motion, Rodr\u00edguez sought relief from (1) his conviction for felon-in-possession of a firearm under 18 U.S.C. \u00a7 922(g)(1) on double jeopardy grounds and (2) his sentence for that offense, which was based on the sentencing court's conclusion that he was an armed career criminal under 18 U.S.C. \u00a7 924(e). We reject the double jeopardy claim but agree that Rodr\u00edguez should not have been sentenced as an armed career criminal."
+}

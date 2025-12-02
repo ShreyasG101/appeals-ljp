@@ -1,0 +1,27 @@
+{
+  "overall_outcome": "REMAND",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court erred in dismissing the developer's federal constitutional claims (Takings Clause and Excessive Fines) without abstaining in favor of parallel state-court proceedings that could moot or narrow the federal issues.",
+      "standard_of_review": "de novo",
+      "holding": "REMAND",
+      "key_reasoning": "The court determined that Pullman abstention was appropriate because ongoing state-court proceedings could resolve or significantly narrow the federal constitutional issues, and thus vacated the dismissal and remanded with instructions to stay the federal case."
+    }
+  ],
+  "key_precedents": [
+    "R.R. Comm'n v. Pullman Co., 312 U.S. 496 (1941)",
+    "San Remo Hotel, L.P. v. City & Cnty. of S.F., 545 U.S. 323 (2005)",
+    "Harris Cnty. Comm'rs Ct. v. Moore, 420 U.S. 77 (1975)",
+    "First Eng. Evangelical Lutheran Church of Glendale v. Cnty. of L.A., 482 U.S. 304 (1987)",
+    "Mongeau v. City of Marlborough, 492 F.3d 14 (1st Cir. 2007)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "This is a land use dispute between a developer and local government authorities concerning the restoration of a property that has been designated as a historical landmark. The developer argues that the local government violated its federal constitutional rights by forcing it to stop restoring the property. Because this dispute could be substantially narrowed or mooted by the resolution of state-law issues presently pending in state court, we decline to reach the merits at this time and instead direct the district court to stay the suit while the state-court proceedings are ongoing."
+}

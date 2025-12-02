@@ -1,0 +1,391 @@
+
+ 1   WO
+ 2
+ 3
+ 4
+ 5
+ 6                       IN THE UNITED STATES DISTRICT COURT
+ 7                                FOR THE DISTRICT OF ARIZONA
+ 8
+ 9    Ryan Six,                                         No. CV-22-00203-PHX-MTL
+10                   Plaintiff,                         ORDER
+11    v.
+12    IQ Data International Incorporated,
+13                   Defendant.
+14
+15          Every day, millions of people receive unwanted mail. Extend the warranty on your
+16   car, buy-one-get-one-free teriyaki bowls, an upstart landscaper wants your business, and
+
+17   the like. Sometimes a collection agency sends a recalcitrant debtor a letter asking for
+18   payment. Ryan Six, the plaintiff here, got one such letter and now he makes a federal case
+
+19   out of it. The Court is asked to rule on Defendant IQ Data International Incorporated’s (“IQ
+
+20   Data”) and Six’s competing Motions for Summary Judgment (Docs. 62, 112). But doing
+21   so is not necessary because Six lacks Article III standing. The Court dismisses this action
+22   for lack of jurisdiction.
+
+23   I.     BACKGROUND
+
+24          Six sues IQ Data, alleging that the company violated the Fair Debt Collection
+
+25   Practices Act (“FDCPA”), 15 U.S.C. § 1692 et seq., by sending him a collection letter after
+
+26   he informed IQ Data of his representation by counsel. The debt obligation stems from an
+27   allegedly unpaid invoice for Six’s breach of a residential lease. (Doc. 1 ¶ 9.) In June 2017,
+28   the debt obligation was placed with IQ Data, a professional collection agency providing
+     Case 2:22-cv-00203-MTL Document 128 Filed 05/18/23 Page 2 of 11
+
+
+
+ 1   services to the residential apartment industry. (Doc. 62 at 4.) On August 18, 2021, Six
+ 2   mailed a dispute letter to Equifax claiming that he had no recollection of the debt account
+ 3   and requesting documentation verifying the debt account information. (Doc. 63-1 at 21.)
+ 4   On that same day, Six’s prior counsel mailed a letter to IQ Data advising that he had
+ 5   retained counsel in connection to the subject debt and directing IQ Data to send all
+ 6   communication related to the subject debt to counsel. (Id. at 23.)
+ 7          While the parties dispute the precise timeline of what happened next, the following
+ 8   is uncontroverted. On September 2, 2021, IQ Data, having received and processed the
+ 9   dispute letter forwarded from Equifax, submitted a system request to generate and send a
+10   letter providing documentation and notice of the debt to Six’s updated address. (Doc. 62 at
+11   5; Doc. 112 at 4.) The next day, on September 3, 2021, IQ Data updated its records to
+12   reflect that it had processed the letter from counsel, that Six was represented by counsel,
+13   and that there should not be any direct communication with Six. (Doc. 62 at 6; Doc. 112 at
+14   4.) On that same day, however, IQ Data’s collection letter providing documentation and
+15   re-issuing notice of the debt was sent to Six’s updated mailing address. (Id.) Six alleges
+16   that IQ Data violated 15 U.S.C. § 1692c(a)(2) by communicating directly with him—by
+17   sending the letter—despite knowledge of his representation by counsel. (Doc. 1 ¶¶ 21−22.)
+18   II.    LEGAL STANDARD
+19          Federal courts are courts of limited jurisdiction. Kokkonen v. Guardian Life Ins.
+20   Co. of Am., 511 U.S. 375, 377 (1994). As relevant here, Article III of the United States
+21   Constitution limits the jurisdiction of federal courts to cases and controversies. U.S.
+22   CONST. art. III, § 2. “Standing is a constitutional requirement for the exercise of subject
+23   matter jurisdiction over disputes in federal court.” Tailford v. Experian Info. Sols., Inc., 26
+24   F.4th 1092, 1099 (9th Cir. 2022) (citing Spokeo, Inc. v. Robins, 578 U.S. 330, 339 (2016)).
+25   Indeed, federal courts cannot decide the merits of a case unless they “have subject-matter
+26   jurisdiction, which requires the plaintiff have Article III standing.” Adams v. Skagit Bonded
+27   Collectors, LLC, 836 F. App’x 544, 545 (9th Cir. 2020) (citing Steel Co. v. Citizens for a
+28   Better Env’t, 523 U.S. 83, 93−95 (1998)).
+
+
+                                                  -2-
+     Case 2:22-cv-00203-MTL Document 128 Filed 05/18/23 Page 3 of 11
+
+
+
+ 1          The “irreducible constitutional minimum of standing” consists of three components.
+ 2   Lujan v. Defs. of Wildlife, 504 U.S. 555, 560 (1992). The party invoking federal jurisdiction
+ 3   must prove that: “(1) it has suffered an ‘injury in fact’ that is (a) concrete and particularized
+ 4   and (b) actual or imminent, not conjectural or hypothetical; (2) the injury is fairly traceable
+ 5   to the challenged action of the defendant; and (3) it is likely, as opposed to merely
+ 6   speculative, that the injury will be redressed by a favorable decision.” Friends of the Earth,
+ 7   Inc. v. Laidlaw Env’t Servs. (TOC), Inc., 528 U.S. 167, 180−81 (2000) (citing Lujan, 504
+ 8   U.S. at 560−61)). The parties focus their argument solely on the first element of standing—
+ 9   injury in fact.
+10          Article III standing requires a concrete injury even in the context of a statutory
+11   violation. See Spokeo, 578 U.S. at 341 (explaining that a plaintiff cannot “for example,
+12   allege a bare procedural violation, divorced from any concrete harm, and satisfy the injury-
+13   in-fact requirement of Article III”). In determining whether a plaintiff has suffered a
+14   concrete injury due to a defendant’s failure to comply with a statutory requirement, the
+15   Ninth Circuit directs courts to apply a two-step test: “(1) whether the statutory provisions
+16   at issue were established to protect [a plaintiff’s] concrete interests (as opposed to purely
+17   procedural rights), and if so, (2) whether the specific procedural violations alleged in this
+18   case actually harm, or present a material risk of harm to, such interests.” Tailford, 26 F.4th
+19   at 1099; see also Robins v. Spokeo, Inc., 867 F.3d 1108, 1113 (9th Cir. 2017).
+20   III.   DISCUSSION
+21          IQ Data moves for summary judgment on the grounds that Six lacks standing to
+22   bring suit, that it lacked the required knowledge to commit a violation of the FDCPA, and
+23   that any violation of the FDCPA was merely the result of a bona fide error. (Doc. 62 at 3.)
+24   IQ Data also requests an award of attorneys’ fees and costs, arguing that Plaintiff filed his
+25   Complaint “in bad faith with the intent to harass and extort . . . .” (Id. at 4.) For his part,
+26   Six argues that he is entitled to summary judgment because IQ Data had actual notice of
+27   Six’s counsel’s letter before it sent him its collection letter and IQ Data “cannot prove a
+28   single element” of its bona fide error defense. (Doc. 112 at 2−9.) Six further maintains that
+
+
+                                                   -3-
+     Case 2:22-cv-00203-MTL Document 128 Filed 05/18/23 Page 4 of 11
+
+
+
+ 1   he has standing to pursue his claims. (Id. at 9.)
+ 2          A.     Article III Standing
+ 3          Standing is a threshold issue for the maintenance of this suit. Accordingly, the Court
+ 4   begins its inquiry with this issue.
+ 5                 1.      Concrete Interests
+ 6          To identify the concrete interests protected by statutory provisions, courts “examine
+ 7   historical practice and the legislative judgment underlying the provisions at issue.” Adams,
+ 8   836 F. App’x at 546 (citing Campbell v. Facebook, Inc., 951 F.3d 1106, 1117 (9th Cir.
+ 9   2020)) (cleaned up). As to historical practice, “it is instructive to consider whether an
+10   alleged intangible harm has a close relationship to a harm that has traditionally been
+11   regarded as providing a basis for a lawsuit in English or American courts.” Spokeo, 578
+12   U.S. at 341; see also TransUnion LLC v. Ramirez, — U.S. —, 210 L. Ed. 2d 568, 141 S.
+13   Ct. 2190, 2204 (2021) (“Various intangible harms can also be concrete. Chief among them
+14   are injuries with a close relationship to harms traditionally recognized as providing a basis
+15   for lawsuits in American courts.”). Regarding legislative judgment, “[c]ourts must afford
+16   due respect to Congress’s decision to impose a statutory prohibition or obligation on a
+17   defendant, and to grant a plaintiff a cause of action to sue over the defendant’s violation of
+18   that statutory prohibition or obligation.” TransUnion, 141 S. Ct. at 2204.
+19                         a.      Historical Practice
+20          Six argues that he “suffered intangible harm similar to intrusion upon
+21   seclusion . . . .” (Doc. 112 at 13.) The Supreme Court has expressly listed the common law
+22   tort of intrusion upon seclusion as one of those harms bearing a close relationship to harms
+23   traditionally regarded as providing a basis for a lawsuit. TransUnion, 141 S. Ct. at 2204.
+24   IQ Data does not dispute that the tort of intrusion upon seclusion is one of those harms
+25   traditionally regarded as providing a basis for a lawsuit. Rather, IQ Data argues that any
+26   intangible harm suffered from receiving a single letter after providing notice of
+27   representation does not bear a close relationship to the harm suffered by intrusion upon
+28   seclusion. (Doc. 116 at 7.)
+
+
+                                                  -4-
+     Case 2:22-cv-00203-MTL Document 128 Filed 05/18/23 Page 5 of 11
+
+
+
+ 1          The common law tort of intrusion upon seclusion occurs when one “intrudes,
+ 2   physically or otherwise, upon the solitude or seclusion of another or his private affairs or
+ 3   concern . . . if the intrusion would be highly offensive to a reasonable person.” Restatement
+ 4   (Second) of Torts § 652B (1977). The tort “consists solely of an intentional interference
+ 5   with [a person’s] interest in solitude or seclusion, either as to his person or as to his private
+ 6   affairs or concerns, of a kind that would be highly offensive to a reasonable man.” Id. at
+ 7   cmt. a (emphasis added).
+ 8          The Ninth Circuit has not yet considered whether the alleged harm caused by an
+ 9   unwelcome letter bears a close relationship to harm suffered from intrusion upon seclusion.
+10   Six, therefore, directs the Court’s attention to the Tenth Circuit’s decision in Lupia v.
+11   Medicredit, Inc., 8 F.4th 1184 (10th Cir. 2021), and the Sixth Circuit’s recent decision in
+12   Ward v. NPAS, Inc., 63 F.4th 576 (6th Cir. 2023). (Doc. 112 at 12; Doc. 122 at 1.) In Lupia,
+13   the Tenth Circuit found that a single unwelcome phone call related to a disputed medical
+14   debt, though insufficient to give rise to liability at common law, “poses the same kind of
+15   harm recognized at common law—an unwanted intrusion into plaintiff’s peace and quiet.”
+16   8 F.4th at 1192 (citation omitted). Similarly, in Ward, the Sixth Circuit found that
+17   “[u]nwanted phone calls are the type of intrusive invasion of privacy that [the tort of
+18   intrusion upon seclusion] seeks to prevent.” 63 F.4th at 580 (internal marks and citations
+19   omitted). This is so, the Sixth Circuit reasoned, even when “the volume of such calls may
+20   be too minor an annoyance to be actionable at common law.” Id. at 581 (citation omitted).
+21   Both Lupia and Ward found the Seventh Circuit’s decision in Gadelhak v. AT&T Servs.,
+22   Inc., 950 F.3d 458 (7th Cir. 2020), instructive on this point. In that case, then-Judge Barrett
+23   reasoned that, in assessing intangible injuries and their relationship to common law harms,
+24   courts “are meant to look for a close relationship in kind, not degree.” Gadelhak, 950 F.3d
+25   at 462. Therefore, although a single unwanted phone call may not give rise to common law
+26   liability, the harm suffered by its receipt bears a close relationship in kind to the harm
+27   suffered from intrusion upon seclusion.
+28          According to Six, just as an unwanted phone call or text message intrudes upon an
+
+
+                                                   -5-
+     Case 2:22-cv-00203-MTL Document 128 Filed 05/18/23 Page 6 of 11
+
+
+
+ 1   individual’s seclusion, so too does an unwelcome letter placed in his mailbox. But as the
+ 2   Seventh Circuit most recently clarified, “[i]ntrusion upon seclusion requires more than just
+ 3   an emotional response—it requires a particular kind of offensive intrusion.” Pucillo v. Nat’l
+ 4   Credit Sys., Inc., 66 F.4th 634, 640 (7th Cir. 2023) (citing Gadelhak, 950 F.3d at 462−63)).
+ 5   Mindful that courts should evaluate the kind of harm rather than the degree, Pucillo makes
+ 6   clear that only those particularly offensive intrusions are similar in kind to intrusion upon
+ 7   seclusion. Moreover, the tort generally seeks to guard against invasion of privacy by some
+ 8   “form of investigation or examination into [one’s] private concerns, as by opening his
+ 9   private and personal mail, searching his safe or his wallet, examining his private bank
+10   account, or compelling him by a forged court order to permit an inspection of his personal
+11   documents.” Nayab v. Capital One Bank (USA), N.A., 942 F.3d 480, 491 (9th Cir. 2019)
+12   (quoting Restatement (Second) of Torts § 652B)).1 Indeed, courts have reasoned that
+13   intrusion upon seclusion is largely concerned with “eavesdropping, wiretapping, and
+14   looking through one’s personal documents.” Salcedo v. Hanna, 936 F.3d 1162, 1171 (11th
+15   Cir. 2019).
+16          Receiving a letter with undisputedly accurate information, specifically requested
+17   from a different source, can hardly be said to constitute a particularly offensive intrusion.
+18   See Pucillo, 66 F.4th at 640 (reasoning that “there is nothing inherently bothersome,
+19   intrusive, or invasive about a collection letter delivered via U.S. Mail”). That “[c]ourts have
+20   also recognized liability for intrusion upon seclusion for irritating intrusions[,] such as
+21   when telephone calls are repeated with such persistence and frequency as to amount to a
+22   course of hounding the plaintiff[,]” does not lead to a differing conclusion. Gadelhak, 950
+23   F.3d at 462 (internal marks and citations omitted). As Pucillo explains, text messages and
+24   phone calls differ in kind from the letter at issue here. “Text messages may create an injury
+25   because they can disrupt a person anytime, anywhere, thereby invading private solitude.”
+26   Pucillo, 66 F.4th at 641 (internal marks and citation omitted). And the “undesired buzzing
+27   1
+       In Nayab, a Fair Credit Reporting Act case, the Ninth Circuit found that “the release of
+     highly personal information . . . is the same harm that forms the basis for the tort of
+28   intrusion upon seclusion.” 942 F.3d at 491−92.
+
+
+                                                  -6-
+     Case 2:22-cv-00203-MTL Document 128 Filed 05/18/23 Page 7 of 11
+
+
+
+ 1   of a cell phone . . . like the unwanted ringing of a phone from a call, is an intrusion into
+ 2   peace and quiet in a realm that is private and personal.” Gadelhak, 950 F.3d at 462 n.1. On
+ 3   the other hand, a letter delivered to an individual’s mailbox does not intrude into the
+ 4   recipient’s seclusion in a realm that is private and personal. Indeed, at his deposition, Six
+ 5   admitted that he did not know when the letter came to his to mailbox. (Doc. 112-1 at 56.)
+ 6   This admission is unsurprising given that “[m]ail can be picked up when, if, and how often
+ 7   the recipient chooses, unlike a phone which is usually on one’s person or close by
+ 8   throughout the day.” Pucillo, 66 F.4th at 641. It is difficult to see how a letter delivered to
+ 9   a mailbox, unbeknownst to Six, and to be retrieved at his leisure, in a mailbox where he
+10   receives countless articles of correspondence, some desired and some not, results in a harm
+11   similar in kind to the irritating intrusion into the peace and quiet of a private and personal
+12   realm caused by phone calls and text messages. Cf. Van Patten v. Vertical Fitness Grp.,
+13   LLC, 847 F.3d 1037, 1043 (9th Cir. 2017) (finding that “[u]nsolicited telemarking phone
+14   calls or text messages, by their nature, invade the privacy and disturb the solitude of their
+15   recipients”). Therefore, the Court finds that Six’s alleged harm does not bear a close
+16   relationship to a harm traditionally regarded as providing a basis for a lawsuit.
+17                        b.      Congressional Judgment
+18          As Congress is “well positioned to identify intangible harms that meet minimum
+19   Article III requirements, its judgment is also instructive and important.” Spokeo, 578 U.S.
+20   at 341. That said, Congress may not “simply enact an injury into existence, using its
+21   lawmaking power to transform something that is not remotely harmful into something that
+22   is.” TransUnion, 141 S. Ct. at 2205 (citations omitted). And courts cannot “treat an injury
+23   as concrete for Article III purposes based only on Congress’s say-so.” Id. (citations
+24   omitted).
+25          Congress enacted the FDCPA to “eliminate abusive debt collection practices, to
+26   ensure that debt collectors who abstain from such practices are not competitively
+27   disadvantaged, and to promote consistent state action to protect consumers.” Jerman v.
+28   Carlisle, McNellie, Rini, Kramer & Ulrich LPA, 559 U.S. 573, 577 (2010). Insofar as
+
+
+                                                  -7-
+     Case 2:22-cv-00203-MTL Document 128 Filed 05/18/23 Page 8 of 11
+
+
+
+ 1   Congress intended to prevent invasions of individual privacy through the passage of the
+ 2   FDCPA, only those “[a]busive debt collection practices” that “contribute to . . . invasions
+ 3   of individual privacy” are referenced in the statute. 15 U.S.C. § 1692(a); see also Cohen v.
+ 4   Rosicki, Rosicki & Assocs., P.C., 897 F.3d 75, 81 (2d Cir. 2018) (“Congress enacted the
+ 5   FDCPA to protect against the abusive debt collection practices likely to disrupt a debtor’s
+ 6   life.”).
+ 7              A debt collectors’ mailing of a single letter containing accurate information to a
+ 8   debtor’s mailbox after that debtor requested information verifying the debt from a credit
+ 9   reporting agency is not the kind of abusive debt collection practice the FDCPA seeks to
+10   prevent. See Pucillo, 66 F.4th at 641−42 (finding that “sending two letters, one year apart
+11   and without any tangible consequences for the recipient, is not the kind of abusive practice
+12   Congress sought to prevent”). And, as analyzed above, the intrusion into the peace and
+13   seclusion presented by unwanted phone calls differs materially from the receipt of a letter
+14   in a mailbox—even though both actions on behalf of the debt collector are violative of the
+15   statute if it has knowledge of a debtor’s representation by counsel. In essence, not every
+16   violation of 15 U.S.C. § 1692c(a)(2) necessarily threatens the recipient’s concrete interests.
+17   Therefore, the Court considers the alleged violation here more procedural than substantive.
+18   See Campbell, 951 F.3d at 1119 n.8 (reasoning that “procedural obligations . . . sometimes
+19   protect individual interests,” while violations of “substantive right[s]” always cause
+20   concrete harm) (citation omitted).
+21                     2.     Actual Harm or Risk of Harm
+22              Six also fails to allege actual harm or material risk of harm to the interests protected
+23   by the FDCPA. For one, Six’s Complaint does not contain a single allegation that he acted
+24   or forewent any action because of the letter. Indeed, the Complaint does not allege any
+25   harm beyond a mere procedural violation. See Bassett v. ABM Parking Servs., 883 F.3d
+26   776, 779 (9th Cir. 2018) (reiterating that “a bare procedural violation, divorced from any
+27   concrete harm, cannot satisfy the injury-in-fact requirement of Article III”) (internal marks
+28   and citation omitted); see also TransUnion, 141 S. Ct. at 2205 (“[U]nder Article III, an
+
+
+                                                      -8-
+     Case 2:22-cv-00203-MTL Document 128 Filed 05/18/23 Page 9 of 11
+
+
+
+ 1   injury in law is not an injury in fact.”). And as discussed above, the FDPCA is designed to
+ 2   protect against abusive debt collecting practices absent here.
+ 3          For the first time in his summary judgment briefing, Six alleges that the collection
+ 4   “letter made him angry, frustrated, and stressed.” (Doc. 112 at 13.) Six maintains that this
+ 5   resulted “in his heart racing, a feeling of being overwhelmed, loss of appetite, and loss of
+ 6   sleep.” (Id.)2 Again, the Ninth Circuit “has not yet considered whether . . . allegations of
+ 7   intangible harm—emotional distress, loss of personal reputation, and loss of personal
+ 8   time—without more, suffice as concrete injury-in-fact for standing purposes in a FDCPA
+ 9   case in view of TransUnion.” Samano v. LVNV Funding, LLC, No. 1:21-CV-01692-SKO,
+10   2022 WL 1155910, at *3 (E.D. Cal. Apr. 18, 2022). On the other hand, the Seventh Circuit
+11   “ha[s] expressly rejected ‘stress’ as constituting concrete injury following an FDCPA
+12   violation.” Wadsworth v. Kross, Lieberman & Stone, Inc., 12 F.4th 665, 668 (7th Cir. 2021)
+13   (quoting Pennell v. Glob. Tr. Mgmt., 990 F.3d 1041, 1045 (7th Cir. 2021)). A plaintiff
+14   “must show harm beyond emotional response, such as an adverse credit rating or
+15   detrimental action that the plaintiff took in reliance on the letters.” Pucillo, 66 F.4th at 639.
+16          As an initial matter, it is not clear that Six’s emotional responses are at all traceable
+17   to the collection letter. At his deposition, Six stated that he “even lost a few nights’ sleep
+18   over this debt.” (Doc. 112-1 at 58.) But this describes a response to the existence of a debt,
+19   not the response to a letter following notice of representation. And “federal courts may
+20   entertain FDCPA claims only when the plaintiff suffers a concrete harm that he wouldn’t
+21   have incurred had the debt collector complied with the Act.” Wadsworth, 12 F.4th at 669.
+22   Here, if Six’s loss of sleep is driven by the existence of the debt, this harm is suffered
+23   regardless of whether IQ Data complied with the FDCPA. Nevertheless, as mentioned
+24   above, Six’s anger, frustration, and stress are insufficient to establish a concrete injury. See
+25   Id. at 668 (finding that these “are quintessential abstract harms that are beyond our power
+26   2
+       The Court disagrees with Six’s characterization of these harms as tangible. (Doc. 112 at
+     13.) The Supreme Court has referred to “traditional tangible harms” as those that cause
+27   “physical or monetary injury to [a] plaintiff[.]” TransUnion, 141 S. Ct. at 2204. The Court
+     finds the alleged anger, frustration, and stress to be dissimilar to traditional tangible harms
+28   causing physical or monetary damage. Indeed, it is difficult to quantify “loss of appetite”
+     or “loss of sleep.” Thus, the Court also considers these to be intangible injuries.
+
+                                                   -9-
+     Case 2:22-cv-00203-MTL Document 128 Filed 05/18/23 Page 10 of 11
+
+
+
+ 1   to remedy”).3
+ 2          In sum, neither historical practice nor Congressional judgment establishes that
+ 3   Congress enacted the FDCPA to protect against the intangible harm Six alleges here and
+ 4   Six fails to show any other actual harm or material risk of harm to the interests protected
+ 5   by the FDCPA.
+ 6          B.       IQ Data’s Request for Fees
+ 7          IQ Data argues that it “should be awarded fees and costs accrued from defending
+ 8   against [Six’s] scheme and frivolous claim.” (Doc. 62 at 15.) The FDCPA provides that on
+ 9   “a finding by the court that an action . . . was brought in bad faith and for the purpose of
+10   harassment, the court may award to the defendant attorney’s fees reasonable in relation to
+11   the work expended and costs.” 15 U.S.C. § 1692k(a)(3). IQ Data claims that Six and his
+12   counsel “knew there was no standing at the time the frivolous lawsuit was filed.” (Id. at
+13   16.) The Court finds that the action was not brought in bad faith or for the purposes of
+14   harassment. Ironically, the Court previously found that IQ Data and its counsel recklessly
+15   filed a frivolous Rule 11 motion for the bad faith purpose of leveraging a settlement, denied
+16   Six’s requests for an extension of time in bad faith, and misrepresented its reasoning for
+17   requesting a modification of the Scheduling Order to the Court. (Doc. 106 at 42−43.)
+18   Considering this context, IQ Data’s request for attorneys’ fees exhibits a striking lack of
+19   self-awareness. It is denied.
+20   ...
+21   ...
+22   ...
+23   ...
+24   ...
+25   ...
+26
+     3
+       For the first time in his supplemental briefing, Six claims that he received text/push
+27   notification to his cell phone notifying him that there was mail ready to be picked up at his
+     mailbox. (Doc. 126 at 4.) But Six does not allege that IQ Data sent him the text message
+28   and provides no other information on the origins of the message. This tardy and vague
+     allegation does not alter the Court’s conclusion.
+
+                                                - 10 -
+     Case 2:22-cv-00203-MTL Document 128 Filed 05/18/23 Page 11 of 11
+
+
+
+ 1   IV.     CONCLUSION
+ 2           Six has not alleged a concrete injury to satisfy Article III standing for his FDCPA
+ 3   claim. The Court is, therefore, without jurisdiction to adjudicate the merits of his claim.
+ 4           Accordingly,
+ 5           IT IS ORDERED:
+ 6           1.    This case is dismissed for lack of subject matter jurisdiction.
+ 7           2.    Defendant IQ Data International Incorporated’s Motion for Summary
+ 8   Judgment (Doc. 62) is denied as moot.
+ 9           3.    Plaintiff Ryan Six’s Motion for Summary Judgment (Doc. 112) is denied as
+10   moot.
+11           4.    Plaintiff Ryan Six’s Motion to Strike Expert Disclosure or Exclude Expert
+12   (Doc. 68) is denied as moot.
+13           5.    The Clerk of Court is instructed to terminate this case.
+14           6.    The Court retains jurisdiction to resolve Plaintiff’s Motion for Attorneys’
+15   Fees (Doc. 109), which remains pending and will be resolved in a separate order.
+16           Dated this 18th day of May, 2023.
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28

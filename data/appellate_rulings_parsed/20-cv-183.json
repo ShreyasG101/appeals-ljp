@@ -1,0 +1,30 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court properly dismissed the amended complaint for lack of subject-matter jurisdiction based on the Department of Education's sovereign immunity from FDCPA, constitutional, and state law claims.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that the Department of Education was entitled to sovereign immunity because there was no unequivocal waiver in the FDCPA, the constitutional claims failed for lack of a waiver and final agency action, and the FTCA does not permit suit against federal agencies. Thus, the district court lacked subject-matter jurisdiction."
+    }
+  ],
+  "key_precedents": [
+    "Adeleke v. United States, 355 F.3d 144 (2d Cir. 2004)",
+    "Dotson v. Griesa, 398 F.3d 156 (2d Cir. 2005)",
+    "Noel v. Chapman, 508 F.2d 1023 (2d Cir. 1975)",
+    "Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians v. Patchak, 567 U.S. 209 (2012)",
+    "Shakhnes v. Berlin, 689 F.3d 244 (2d Cir. 2012)",
+    "In re SEC ex rel. Glotzer, 374 F.3d 184 (2d Cir. 2004)",
+    "Rivera v. United States, 928 F.2d 592 (2d Cir. 1991)",
+    "Doe v. Civiletti, 635 F.2d 88 (2d Cir. 1980)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "UPON DUE CONSIDERATION, IT IS HEREBY ORDERED, ADJUDGED, AND DECREED that the judgment of the district court, entered on June 8, 2023, is AFFIRMED.\n\nRobert Dingle, Jr., pro se, appeals from the district court\u2019s dismissal of his amended complaint, without prejudice, for lack of subject-matter jurisdiction. After commencing this action against Coast Professionals, Inc. and the United States Department of Education (\u201cDOE\u201d), Dingle filed an amended complaint against solely the DOE, claiming that the agency violated the Fair Debt Collection Practice Act, 15 U.S.C. \u00a7 1692 et seq. (\u201cFDCPA\u201d), his Fifth and Fourteenth Amendment rights, and several state law provisions. The DOE moved to dismiss the amended complaint, under Federal Rule of Civil Procedure 12(h)(3), for lack of subject-matter jurisdiction, or alternatively, for summary judgment under Federal Rule of Civil Procedure 56. The district court dismissed the amended complaint, without prejudice, for lack of subject-matter jurisdiction, concluding that the DOE was entitled to sovereign immunity. We assume the parties\u2019 familiarity with the underlying facts, procedural history, and issues on appeal, to which we refer only as necessary to explain our decision to affirm."
+}

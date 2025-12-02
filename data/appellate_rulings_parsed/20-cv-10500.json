@@ -1,0 +1,49 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court properly denied Jules\u2019s motion to lift the stay, finding that the arbitrator (not the court) should decide if Chateau materially breached the arbitration agreement by failing to pay fees.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found clear and unmistakable evidence that the parties delegated such issues to the arbitrator, including a broad arbitration clause and incorporation of JAMS rules, so the district court correctly left the material breach issue to the arbitrator."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the district court had subject matter jurisdiction to confirm the arbitration award after staying the original federal question suit pending arbitration.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that, under binding Second Circuit precedent, a court that stays an action pending arbitration retains jurisdiction to confirm the resulting award, and Badgerow v. Walters did not entirely undermine this precedent."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether it was proper for non-parties to the lawsuit (Appellees and Chateau) to move to confirm the arbitration award.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "Although the proper procedure would have been for Chateau to intervene under Rule 24, the FAA allows any party to the arbitration to seek confirmation, and the district court did not err in permitting Chateau to join the motion."
+    },
+    {
+      "issue_id": 4,
+      "description": "Whether the district court properly confirmed the arbitration award and declined to vacate it under Section 10 of the FAA or non-statutory grounds.",
+      "standard_of_review": "de novo (legal conclusions), clear error (factual findings)",
+      "holding": "AFFIRM",
+      "key_reasoning": "Jules and Farinella failed to meet their heavy burden to show the award should be vacated, and the district court correctly found no statutory or non-statutory basis for vacatur."
+    }
+  ],
+  "key_precedents": [
+    "Howsam v. Dean Witter Reynolds, Inc., 537 U.S. 79 (2002)",
+    "Rent-A-Center, W., Inc. v. Jackson, 561 U.S. 63 (2010)",
+    "Badgerow v. Walters, 596 U.S. 1 (2022)",
+    "Cortez Byrd Chips, Inc. v. Bill Harbert Constr. Co., 529 U.S. 193 (2000)",
+    "Smiga v. Dean Witter Reynolds, Inc., 766 F.2d 698 (2d Cir. 1985)",
+    "MasterCard Int\u2019l Inc. v. Visa Int\u2019l Serv. Ass\u2019n, Inc., 471 F.3d 377 (2d Cir. 2006)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": true,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "Plaintiff-Appellant Adrian Jules and Interested-Party-Appellant Attorney Thomas A. Farinella, both proceeding pro se, appeal from a judgment of the United States District Court for the Southern District of New York (Lorna G. Schofield, District Judge) confirming an arbitration award entered against them. Jules, represented by Farinella, sued Defendants-Appellees, asserting various employment discrimination and other claims under state and federal law. Pursuant to an arbitration agreement between Jules and Intervenor Chateau Holdings, Ltd. (\u201cChateau\u201d), the district court stayed the proceedings pending arbitration (between Jules and Chateau) and granted Defendants-Appellees\u2019 motion\u2014in which Chateau purported to join despite not being a party to the action\u2014to confirm the resulting award.\n\nCollectively, Jules and Farinella challenge two orders of the district court. The first order denied Jules\u2019s motion to lift the stay due to Chateau\u2019s alleged material breach of the agreement during arbitration. The second order confirmed the arbitration award. 1 We assume the parties\u2019 familiarity with the case."
+}

@@ -1,0 +1,41 @@
+{
+  "overall_outcome": "REVERSE",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court abused its discretion by excluding evidence of legal and administrative impediments to resentencing, and by denying a new trial on damages and punitive damages for the 2007-08 incarceration period.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "REVERSE",
+      "key_reasoning": "The district court erred by excluding evidence relevant to causation and punitive damages, which prejudiced the defense and relieved the plaintiff of his burden; this error requires a new trial on these issues."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the district court erred in denying qualified immunity to defendants for the 2007-08 and 2010 periods of incarceration.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "Second Circuit precedent (Earley, Betances, Vincent) forecloses qualified immunity for post-Earley enforcement of unpronounced PRS terms, regardless of administrative or legal impediments."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the district court erred in granting summary judgment and dismissing claims related to the 2010 incarceration period on the basis of qualified immunity.",
+      "standard_of_review": "de novo",
+      "holding": "REMAND",
+      "key_reasoning": "The district court's grant of summary judgment on qualified immunity grounds for the 2010 period is inconsistent with Second Circuit precedent; the case is remanded for further proceedings, including consideration of causation and impediments."
+    }
+  ],
+  "key_precedents": [
+    "Earley v. Murray, 451 F.3d 71 (2d Cir. 2006)",
+    "Betances v. Fischer, 837 F.3d 162 (2d Cir. 2016)",
+    "Vincent v. Annucci (Vincent II), 63 F.4th 145 (2d Cir. 2023)",
+    "Aponte v. Perez, 75 F.4th 49 (2d Cir. 2023)",
+    "Hassell v. Fischer, 879 F.3d 41 (2d Cir. 2018)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "Plaintiff Jesus Santiago claimed that state officials violated his constitutional rights by enforcing terms of his post-release supervision that our court ruled unconstitutional in Earley v. Murray, 451 F.3d 71 (2d Cir. 2006). At trial, the defendants sought to introduce evidence that legal and administrative impediments prevented the resentencing of Santiago and correspondingly reduced the liability of the defendants for failing to achieve the resentencing. The district court barred the evidence on the grounds that it would confuse the jury and had limited probative value. After the jury returned a verdict awarding Santiago $100,000 in compensatory damages and $750,000 in punitive damages, the defendants moved for a new trial. The district court denied the motion. We hold that the district court abused its discretion by barring the evidence of impediments and therefore erred by denying the motion for a new trial. We reverse the judgment of the district court insofar as it denied the motion for a new trial related to Santiago\u2019s incarceration in 2007-08. At the same time, we conclude that our precedents require the denial of qualified immunity as to both the 2007-08 period and the period of incarceration in 2010. We vacate and remand insofar as the district court dismissed the claims related to the incarceration in 2010 on summary judgment. We remand for further proceedings consistent with this opinion."
+}

@@ -1,0 +1,29 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court properly abstained from exercising jurisdiction under the Younger abstention doctrine in a federal suit seeking to order a state court to unseal criminal transcripts while related state proceedings were pending.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The Second Circuit held that the district court correctly abstained under Younger because the state court's order denying unsealing, which was still under review by higher state courts at the time the federal suit was filed, was a pending civil proceeding uniquely in furtherance of the state court's ability to perform its judicial functions."
+    }
+  ],
+  "key_precedents": [
+    "Younger v. Harris, 401 U.S. 37 (1971)",
+    "New Orleans Pub. Serv., Inc. v. Council of New Orleans, 491 U.S. 350 (1989)",
+    "Sprint Commc\u2019ns, Inc. v. Jacobs, 571 U.S. 69 (2013)",
+    "Juidice v. Vail, 430 U.S. 327 (1977)",
+    "Pennzoil Co. v. Texaco, Inc., 481 U.S. 1 (1987)",
+    "Falco v. Justs. of the Matrim. Parts of Sup. Ct. of Suffolk Cnty., 805 F.3d 425 (2d Cir. 2015)",
+    "Cavanaugh v. Geballe, 28 F.4th 428 (2d Cir. 2022)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": false
+  },
+  "has_dissent": true,
+  "summary_text": "Appeal from an order and judgment of the United States District Court for the Southern District of New York (Crotty, J.) dismissing the Plaintiff-Appellant\u2019s complaint for lack of subject-matter jurisdiction. Plaintiff-Appellant, Anna Gristina, sued the Defendants-Appellees pursuant to 42 U.S.C. \u00a7 1983, seeking injunctive and declaratory relief ordering the unsealing of certain state court transcripts. The district court dismissed the complaint for lack of subject-matter jurisdiction pursuant to the doctrine of Younger v. Harris, 401 U.S. 37 (1971). We hold that the district court properly abstained from exercising jurisdiction. Therefore, we AFFIRM.\n\nJudge Menashi dissents in a separate opinion."
+}

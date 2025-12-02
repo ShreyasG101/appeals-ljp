@@ -1,0 +1,49 @@
+{
+  "overall_outcome": "MIXED",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether Little Hearts' claims for breach of fiduciary duty and aiding and abetting breach of fiduciary duty are derivative and thus belong to the bankruptcy estate, or direct and may be asserted by Little Hearts.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held these claims are derivative under New York law because the alleged injuries were to the company, not to Little Hearts individually, and thus only the creditor trustee may assert them."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether Little Hearts' claims for breach of contract and breach of the implied covenant of good faith and fair dealing are direct claims that Little Hearts may assert.",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "The court found these claims are direct because they seek to vindicate contractual rights belonging to Little Hearts under the Operating Agreement, not rights of the company, and thus may proceed."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the unjust enrichment claim should be dismissed as duplicative of the contract claims.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held the unjust enrichment claim is duplicative of the contract claims because it arises from the same facts and seeks the same damages, and thus must be dismissed."
+    },
+    {
+      "issue_id": 4,
+      "description": "Whether the case should be remanded for the bankruptcy court to determine its jurisdiction over the remaining direct claims and whether abstention is warranted.",
+      "standard_of_review": "de novo",
+      "holding": "REMAND",
+      "key_reasoning": "The court remanded for the bankruptcy court to determine in the first instance whether it has jurisdiction over the direct claims and whether mandatory abstention applies."
+    }
+  ],
+  "key_precedents": [
+    "Tooley v. Donaldson, Lufkin & Jenrette, Inc., 845 A.2d 1031 (Del. 2004)",
+    "Yudell v. Gilbert, 949 N.Y.S.2d 380 (1st Dep't 2012)",
+    "St. Paul Fire & Marine Ins. Co. v. PepsiCo, Inc., 884 F.2d 688 (2d Cir. 1989)",
+    "Brightstar Asia, Ltd. v. NAF Holdings, LLC, 43 F.4th 112 (2d Cir. 2022)",
+    "Citigroup Inc. v. AHW Inv. P\u2019ship, 140 A.3d 1125 (Del. 2016)",
+    "Corsello v. Verizon New York, Inc., 18 N.Y.3d 777 (2012)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "Plaintiff-Appellant Little Hearts Marks Family II L.P. was a member of 305 East 61st Street Group LLC, a company organized to purchase a building and convert it into a condominium. Defendant-Appellee 61 Prime LLC was the majority member and manager of the company, and Defendant-Appellee Jason D. Carter was the manager and sole member of Prime. In 2021, the company filed for bankruptcy and eventually sold the building to a different company that Carter had created. The plan of liquidation established a creditor trust with the exclusive right to pursue causes of action that belong to the debtor\u2019s estate. After the sale of the building, Little Hearts sued Prime and Carter for breach of fiduciary duty, aiding and abetting breach of fiduciary duty, breach of contract, breach of the implied covenant of good faith and fair dealing, and unjust enrichment. Little Hearts sought damages representing its lost capital investment in the company and the loss of its rights under the Operating Agreement, including the right to use and develop designated units in the building.\n\nWe affirm the judgment insofar as the bankruptcy and district courts dismissed the claims for breach of fiduciary duty and aiding and abetting breach of fiduciary duty. These claims belonged to the company and could be asserted only by the creditor trustee. We vacate the judgment insofar as the bankruptcy and district courts dismissed the claims for breach of contract and breach of the implied covenant of good faith and fair dealing. These claims seek to vindicate rights belonging directly to Little Hearts under the Operating Agreement and may proceed. The unjust enrichment claim, meanwhile, must be dismissed as duplicative of the contract claims. We remand for further proceedings consistent with this opinion."
+}

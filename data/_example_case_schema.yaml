@@ -1,0 +1,10 @@
+docket_number: "23-1234"
+judge_name: "Smith"
+outcome: "AFFIRM"
+appellate_circuit: "9th"  # Federal circuit court (e.g., "9th", "5th", "D.C.", "Federal")
+appellate_date: "2024-10-15"  # Date appellate opinion was published (YYYY-MM-DD)
+lower_court_ruling_file: "case_name_ruling.txt"
+reason_for_appeal: |
+  Optional: appellant's stated grounds for appeal.
+  This field is optional.
+appellate_ruling_link: "https://example.com/ruling.pdf"  # Optional: link to appellate court's ruling

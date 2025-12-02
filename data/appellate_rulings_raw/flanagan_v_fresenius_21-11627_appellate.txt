@@ -1,0 +1,1365 @@
+United States Court of Appeals
+                      For the First Circuit
+
+No. 23-1305
+
+              UNITED STATES EX REL. MARTIN FLANAGAN,
+
+                      Plaintiff, Appellant,
+
+                                v.
+
+ FRESENIUS MEDICAL CARE HOLDINGS, INC., d/b/a Fresenius Medical
+                       Care North America,
+
+                       Defendant, Appellee.
+
+
+          APPEAL FROM THE UNITED STATES DISTRICT COURT
+               FOR THE DISTRICT OF MASSACHUSETTS
+
+        [Hon. F. Dennis Saylor, IV, U.S. District Judge]
+
+
+                              Before
+
+       Montecalvo, Thompson, and Kayatta, Circuit Judges.
+
+
+     Jamie Michele Bennett, with whom Bennett Law, Christopher P.
+Sullivan, Pamela E. Berman, Robins Kaplan LLP, W. Scott Simmer,
+Noah M. Rich, and Baron & Budd, P.C., were on brief, for appellant.
+
+     James F. Bennett, with whom Maria R. Durant, Hogan Lovells
+LLP, Megan S. Heinsz, Hannah F. Preston, and Dowd Bennett LLP were
+on brief, for appellee.
+
+     Daniel Winik, Appellate Staff, Civil Division, U.S.
+Department of Justice, with whom Brian M. Boynton, Principal Deputy
+Assistant Attorney General, Joshua S. Levy, Acting U.S. Attorney,
+Michael S. Raab, Appellate Staff, Civil Division, U.S. Department
+of Justice, and Charles W. Scarborough, Appellate Staff, Civil
+Division, U.S. Department of Justice, were on brief, for the United
+States, amicus curiae.
+June 27, 2025
+              MONTECALVO, Circuit Judge.       Martin Flanagan brought this
+
+qui    tam   suit   against   Fresenius      Medical   Care   Holdings,   Inc.
+
+("Fresenius"), under the False Claims Act ("FCA"), 31 U.S.C.
+
+§ 3729, alleging a fraudulent kickback scheme related to referrals
+
+to    Fresenius-operated      dialysis    clinics.      The   district    court
+
+dismissed Flanagan's complaint for failing to meet the heightened
+
+pleading standard under Rule 9(b) of the Federal Rules of Civil
+
+Procedure, among other reasons.           When Flanagan then sought leave
+
+to amend his complaint, the district court also denied that motion.
+
+Flanagan now appeals these decisions, arguing that the complaint
+
+satisfied the heightened pleading standard necessary to assert
+
+fraud claims and that the district court abused its discretion in
+
+denying his motion for leave to amend.                 For the reasons that
+
+follow, we affirm both decisions of the district court.
+
+                               I. Background1
+
+                               A. The Parties
+
+              Fresenius is the country's largest dialysis services
+
+provider.        Annually,    it   treats    nearly    190,000   patients    in
+
+approximately 2,400 outpatient dialysis clinics across the United
+
+States.      Flanagan worked for Fresenius for twenty-nine years, most
+
+recently as Director of Acute Market Development for the Fresenius
+
+
+       At this stage of the litigation, "[w]e draw the facts from
+       1
+
+the complaint, taking the well-pleaded facts as true and construing
+all reasonable inferences in [Flanagan]'s favor." Zhou v. Desktop
+Metal, Inc., 120 F.4th 278, 283 (1st Cir. 2024).
+
+
+                                     - 3 -
+Western Business Unit.     In that role, he was responsible for
+
+negotiating contracts under which Fresenius provided dialysis
+
+treatment to hospital inpatients.        He also, as detailed below,
+
+observed what he believed to be an elaborate kickback scheme
+
+utilized to induce referrals to Fresenius clinics.
+
+                    B. Relevant Underlying Facts
+
+                       1. Medical Background
+
+           Chronic kidney disease is the progressive loss of a
+
+person's   kidney   function,    which   is   typically   irreversible.
+
+End-stage renal disease ("ESRD") is an advanced form of chronic
+
+kidney disease -- also classified as stage 5 chronic kidney disease
+
+-- that requires either dialysis treatments or a kidney transplant.
+
+At the end of 2017, almost 750,000 patients in the United States
+
+were suffering from ESRD. Many of those patients undergo a regular
+
+regimen of dialysis treatments; about half of those patients begin
+
+dialysis "emergently" after experiencing complications from kidney
+
+failure.   The dialysis treatments are intended to replace some
+
+functions typically performed by the kidney; during treatment a
+
+patient's blood is gradually pumped through a device called a
+
+dialyzer that filters out excess water, solutes, and toxins before
+
+being returned to the body.     Often, patients also receive separate
+
+injectable medications during their dialysis treatment.            Most
+
+dialysis patients undergo treatment at a clinic three times per
+
+week.
+
+
+                                 - 4 -
+                              2. Treatment Funding
+
+             The    federal     government       helps   cover    costs   for    ESRD
+
+treatment.       It does so primarily through two subsidized health
+
+insurance programs: Medicare and Medicaid.2
+
+                                     a. Medicare
+
+             All patients with ESRD are eligible for benefits from
+
+Medicare,    a     federally    funded    health     insurance     program.       The
+
+Medicare program is administered through the Centers for Medicare
+
+& Medicaid Services ("CMS"), an agency within the Department of
+
+Health and Human Services.
+
+             One    portion     of    Medicare      covers    dialysis       services
+
+provided in outpatient clinics. Because of this coverage, Medicare
+
+is the primary payor for more than 80% of ESRD patients in this
+
+country for the cost of their dialysis treatments.                  These Medicare
+
+expenditures exceed $40 billion annually.                    Medicare reimburses
+
+providers at a composite rate for outpatient maintenance dialysis
+
+services     (including        nursing    and     clinical       services,    social
+
+
+
+
+     2 Other federal health programs also provide benefits to
+patients with ESRD, including the Civilian Health and Medical
+Program of the Uniformed Services (known as CHAMPUS/TRICARE),
+which is administered by the U.S. Department of Defense for
+individuals affiliated with the armed forces, and the Civilian
+Health and Medical Program of the Department of Veterans Affairs
+(known as CHAMPVA), which is administered by the U.S. Department
+of Veterans Affairs for the families of veterans. These programs
+are not part of the claims in this case.
+
+
+                                         - 5 -
+services, supplies, equipment, and certain laboratory tests and
+
+drugs).
+
+            For Medicare reimbursement, ESRD treatment providers
+
+submit one reimbursement claim bill per month for each patient,
+
+which includes costs for dialysis treatment, laboratory costs, and
+
+separately billable drugs.     These reimbursement claims include a
+
+variety of data, including information about the patient and the
+
+claims sought to be reimbursed.      Fiscal intermediaries contracting
+
+with CMS process and pay out reimbursement claims.       These payments
+
+are made directly to the ESRD treatment facilities; other entities
+
+providing   services   --   such   as   laboratories,   suppliers,   and
+
+physicians billing for ESRD-related drugs -- must then seek payment
+
+from those facilities.
+
+            Dialysis facilities must submit annual Medicare cost
+
+reports.    These cost reports include a certification of adherence
+
+to applicable laws and regulations.         The reports also include
+
+information about the percentage of hours that medical directors
+
+work at a dialysis facility.
+
+                             b. Medicaid
+
+            Medicaid, a joint federal-state program administered by
+
+states, also provides payment for some costs for ESRD patients who
+
+do not qualify for Medicare or for treatment costs not covered by
+
+Medicare.   Although CMS administers Medicaid at the federal level,
+
+each state sets its own guidelines regarding eligibility and
+
+
+                                   - 6 -
+services.   Funding for Medicaid comes from both the states and the
+
+federal government, and the states then utilize a combination of
+
+state and federal funds to pay claims submitted to Medicaid.
+
+            Because   of   this   relationship    between    the    state   and
+
+federal governments, states must submit certain forms to CMS to
+
+receive federal funding for Medicaid.         These forms include claims
+
+for reimbursement submitted to and paid through Medicaid.                   The
+
+federal government then utilizes these forms to determine whether
+
+any   fraudulent   claims    were   paid    and   may    later     recoup   any
+
+erroneously paid funds by reducing the amount provided to the state
+
+in the future.
+
+                           C. Alleged Wrongdoing
+
+            The amended complaint alleges that Fresenius created a
+
+kickback scheme to wrongfully induce referrals.                  Because the
+
+allegations regarding the kickback scheme are not directly at issue
+
+here, we summarize the scheme below.
+
+                   1. Fresenius Hospital Contracts
+
+            Around 2007, Fresenius began to seek exclusive contracts
+
+with hospitals to provide inpatient dialysis care in the hospital
+
+setting.     Fresenius     instructed   mid-level       managers,    including
+
+Flanagan, to obtain hospital contracts "at any cost," as this would
+
+help the managers to later secure referrals for patients at that
+
+hospital after they were discharged. To entice hospital contracts,
+
+Fresenius severely limited the costs and fees that would be
+
+
+                                    - 7 -
+contractually passed on to the hospitals and did not enforce
+
+certain provisions that would have increased costs.                         Fresenius
+
+management specifically instructed Flanagan that entering into
+
+these below-cost contracts was the company's standard business
+
+practice.
+
+             Accordingly, Fresenius budgeted for -- and incurred --
+
+losses in some of its contracts with larger hospitals. Fresenius's
+
+underlying goal for entering into these hospital contracts below
+
+cost was to secure more referrals for its outpatient facilities,
+
+thereby   more    than   making   up    for    its   losses    on     the   hospital
+
+contracts.
+
+             Efforts to sign hospital contracts intensified in late
+
+2009 to early 2010, and several executives and upper-level managers
+
+told marketing directors that "if you lose a hospital, we lose
+
+referrals."      In 2010, Flanagan spoke with both his supervisor and
+
+another executive in the company regarding his concerns that
+
+Fresenius appeared to be buying referrals from hospitals with
+
+below-cost contracts.        Flanagan was told that he should not
+
+complain about or be concerned with this issue.                 Other employees
+
+throughout the country had similar experiences regarding their
+
+concerns about the below-cost hospital contracts.
+
+                     2. Fresenius Medical Directors
+
+             Separate from its hospital contracts, Fresenius also
+
+contracted    with   hospital     nephrologists        to     serve    as    medical
+
+
+                                       - 8 -
+directors     at     Fresenius      outpatient       facilities.         Medicare
+
+regulations require there to be a medical director overseeing the
+
+operation and safety of each dialysis clinic.              42 C.F.R. § 494.150
+
+(2025).     According to Flanagan, the regulations further require
+
+that medical directors "devote sufficient time" to this position
+
+and offer guidance that this time should amount to approximately
+
+one quarter of a typical forty-hour work week.
+
+            Fresenius targeted its recruiting of medical directors
+
+at those nephrologists who were in positions to refer high numbers
+
+of patients to Fresenius outpatient facilities.                Although not made
+
+explicit    in   contracts,      medical     directors'    compensation     often
+
+correlated with the number of patients the doctor had and would
+
+increase as the number of patients in a clinic grew.
+
+            Although there was significant variation among medical
+
+directors' salaries, the medical directors were well-compensated.
+
+These   salaries     were   often     more    than    double    those    paid   by
+
+Fresenius's primary competitor in the same localities.                    Reports
+
+from Fresenius claim that its medical directors worked eight to
+
+ten hours per week.         However, Fresenius does not require its
+
+medical directors document their time.
+
+            Flanagan     personally        recollected     that    the    medical
+
+directors    spent    little     to   no    time   at    Fresenius   outpatient
+
+facilities.      He believed that their involvement was often limited
+
+to monthly reviews of documents that required a medical director's
+
+
+                                      - 9 -
+signature, which took less than an hour of time.                     Flanagan's
+
+experience was that Fresenius did not track the services that the
+
+medical directors were performing.
+
+             Medical    directors    could    also   have   a   difficult   time
+
+leaving their positions.           All Fresenius medical directors sign
+
+contracts     that     include      non-compete,     non-solicitation,       and
+
+non-disparagement provisions.         To be released from the non-compete
+
+provisions, the medical directors would have to negotiate buyouts.
+
+               3. Fresenius Free or Below-Cost Services
+
+             In addition to below-cost contracts, Fresenius offered
+
+other benefits to hospitals, all allegedly tailored towards the
+
+same overarching goal of securing as many patient referrals to its
+
+facilities    as     possible.      The   amended    complaint    specifically
+
+highlights    four     different    benefits:    (1) the    Bridge    Program;3
+
+
+
+
+     3 This program provided free services to hospitals, which
+included providing a Fresenius employee to perform certain tasks
+and "funnel[]" ESRD patients to its own outpatient facilities.
+These free services were valued at more than $10,000 annually per
+hospital.
+
+
+                                     - 10 -
+(2) the Treatment Options Program;4 (3) value added services;5 and
+
+(4) practice management services.6
+
+                         4. Lease Agreements
+
+           Fresenius entered extended, guaranteed lease agreements
+
+for office space in physician-owned buildings.      These leases were
+
+at rates above fair market value and were often guaranteed for
+
+fifteen   years.   The   leases   also   included   annual   escalator
+
+provisions.   On the other side of transactions, Fresenius leased
+
+office space in buildings that it owned.       Fresenius leased these
+
+spaces to its medical directors at rates below fair market value.
+
+
+
+
+     4  Fresenius made this educational service available to
+"interested hospitals, physicians, and community organizations,"
+whether or not they participated in the Bridge Program.      The
+program also promoted Fresenius's outpatient services.
+     5 These "value added services" or "services beyond the rate"
+included    free   nursing    services,    in-service   training,
+transportation to and from dialysis treatments, and patient
+education.
+     6 These services provided physician practices with free or
+below-cost services, including specialty advice and technology
+solutions.    Fresenius communicated to doctors utilizing this
+service that early referrals to Fresenius's outpatient clinics
+could be profitable to physician practices.       Fresenius also
+provided physicians with a free recruiting service targeting
+nephrology fellows and practicing physicians to join the
+physicians' practices. Sometimes, the physicians involved in this
+service also entered into Confidentiality Agreements and Business
+Associate Agreements, through which they received additional free
+resources.
+
+
+                               - 11 -
+                     5. Joint Venture Agreements
+
+             In 2007, Fresenius began entering into joint venture
+
+agreements with nephrologists and other physicians, which allowed
+
+partners to share in the management, profits, and losses of the
+
+outpatient     dialysis    facilities.      Fresenius        anticipated   a
+
+significant number of referrals to come from its joint venture
+
+partners and put pressure on the partners to refer patients to
+
+Fresenius clinics.        The joint venture agreements also included
+
+non-compete clauses, which made it difficult for physicians to
+
+leave the joint venture.
+
+                          D. Procedural History
+
+             In March 2014, Flanagan filed this qui tam suit against
+
+Fresenius in the U.S. District Court for the District of Maryland,
+
+alleging presentation of false claims in violation of the FCA,
+
+31 U.S.C.    § 3729(a)(1)(A),    and   making   or   using   false   records
+
+material to a false or fraudulent claim in violation of the FCA,
+
+id. § 3729(a)(1)(B).
+
+             The complaint was initially sealed to give the U.S.
+
+Department of Justice time to investigate and determine whether
+
+the United States would intervene, as occurs in all FCA qui tam
+
+actions.     See United States ex rel. Nargol v. DePuy Orthopaedics,
+
+Inc., 865 F.3d 29, 31-32 (1st Cir. 2017); see also United States
+
+ex rel. Lovell v. AthenaHealth, Inc., 56 F.4th 152, 155 (1st Cir.
+
+2022) ("A plaintiff's complaint may remain sealed for an extended
+
+
+                                  - 12 -
+period while the government investigates the allegations prior to
+
+making its intervention decision.").    In June 2020, the government
+
+declined to intervene.    Cf. United States ex rel. Ge v. Takeda
+
+Pharm. Co., 737 F.3d 116, 119 (1st Cir. 2013) ("In a successful
+
+qui tam action, the relator collects a portion of the award to the
+
+government regardless of whether the government intervenes.").
+
+The complaint was unsealed shortly thereafter.
+
+          Fresenius moved to dismiss in January 2021. In response,
+
+Flanagan filed the amended complaint in February 2021. The amended
+
+complaint reasserted the claims under the FCA but also added over
+
+100 pages of new allegations which detailed new fraudulent schemes
+
+not previously alleged in the original complaint.
+
+          In   the   amended   complaint,   Flanagan   alleged   that
+
+Fresenius defrauded the government by
+
+          [k]nowingly     offering     remuneration     to
+          hospitals in the form of no-cost or below-cost
+          items and services (including but not limited
+          to free discharge planners) in connection with
+          the provision of inpatient dialysis care to
+          ESRD patients, at least one purpose of which
+          was to secure referrals from those hospitals
+          for patients who would enter outpatient care
+          at Fresenius dialysis clinics, in violation of
+          the   Anti-Kickback     Statute,     42   U.S.C.
+          § 1320a-7b(b) ("AKS") and which did not meet
+          safe harbor requirements; and [i]n violation
+          of the AKS (and which did not meet safe harbor
+          requirements),         knowingly        offering
+          remuneration to physicians (at least one
+          purpose of which was to reward or induce
+          referrals    from     those     physicians    to
+          Fresenius'[s] network of outpatient clinics),
+          including:    medical     director    agreements
+
+
+                               - 13 -
+              ("MDAs") that were well above fair market
+              value ("FMV") or commercially unreasonable;
+              free patient education services and/or free or
+              below-cost   practice   management    services
+              (including free recruitment services for new
+              nephrologists entering the workforce); lease
+              agreements     that     were      commercially
+              unreasonable and not at FMV[]; and joint
+              venture     agreements . . . in     outpatient
+              dialysis clinics that were commercially
+              unreasonable and not at FMV.
+
+              Fresenius subsequently filed a motion to transfer the
+
+case from the District of Maryland.            The court granted Fresenius's
+
+motion to transfer, and the case was transferred to the U.S.
+
+District Court for the District of Massachusetts in October 2021.
+
+              Once in the District of Massachusetts, Fresenius again
+
+filed a motion to dismiss, seeking dismissal under Rules 9(b),
+
+12(b)(1), and 12(b)(6) of the Federal Rules of Civil Procedure.
+
+In support of dismissal, Fresenius raised five separate issues:
+
+(1) the amended complaint did not comply with the FCA's statutory
+
+requirements for filing new claims under 31 U.S.C. § 3730(b)(2);
+
+(2) the FCA's public-disclosure bar, 31 U.S.C. § 3730(e)(4), bars
+
+Flanagan's claims related to Fresenius's joint venture agreements
+
+and medical director arrangements; (3) the FCA's first-to-file
+
+rule,    31   U.S.C.   § 3730(b)(5),     bars     Flanagan's   joint   venture
+
+claims; (4) Flanagan did not allege sufficient facts to support
+
+either a predicate violation of the AKS or a violation of the FCA
+
+with the particularity required by Rule 9(b); and (5) Flanagan
+
+failed   to    state   a   claim   for   FCA    conspiracy.    Specifically,
+
+
+                                    - 14 -
+Fresenius      argued   that     Flanagan        failed     to    adequately          plead
+
+causation under the FCA.         Flanagan opposed the motion to dismiss.
+
+            On May 23, 2022, the district court held a hearing on
+
+the   motion    to    dismiss   and     ultimately        took    the    matter       under
+
+advisement.      On December 5, 2022, the district court granted
+
+Fresenius's motion to dismiss.            In doing so, the court considered
+
+the     mandatory     pre-suit       requirements         under     the        FCA,     the
+
+applications of the public-disclosure bar and the first-to-file
+
+bar, and the pleading standards under Rule 9(b).
+
+            First, the court explained that the amended complaint
+
+added 125 pages of allegations and multiple new claims to the
+
+original complaint.         Specifically, the original complaint -- which
+
+complied with the FCA's filing requirements -- did not contain any
+
+allegations     about    the    joint    venture     agreements         or     provisions
+
+providing free services. The amended complaint, on the other hand,
+
+did not comply with the FCA's mandatory filing requirements;
+
+namely, it was not filed under seal, and the government was not
+
+given    the   opportunity      to     determine     if     it    would        intervene.
+
+Accordingly, the district court dismissed those new claims.
+
+            Next, the district court found that, even if the joint
+
+venture claims in the amended complaint met the FCA's filing
+
+requirements,        they    were       further     precluded           by     both     the
+
+public-disclosure and first-to-file bars.                    This was so because
+
+another     lawsuit     filed    and     unsealed     prior        to        the   amended
+
+
+                                        - 15 -
+complaint -- Complaint,      United   States    ex   rel.   CKD   Project    v.
+
+Fresenius Med. Care Holdings, 551 F. Supp. 3d 27 (E.D.N.Y. 2021)
+
+(No. 14-cv-6646) -- contained allegations substantially similar to
+
+those that Flanagan newly asserted regarding the joint venture
+
+claims.    As to the public-disclosure bar, the district court
+
+concluded that Flanagan's allegations did not "materially add" to
+
+the   public   allegations    in   that     lawsuit.        And   as   to   the
+
+first-to-file bar, the court determined that Flanagan alleged the
+
+same scheme that was alleged in the prior lawsuit and no exceptions
+
+to the first-to-file bar applied.              Thus, the district court
+
+concluded that these were alternative bases for dismissing the
+
+amended complaint's new claims regarding joint ventures.
+
+          Lastly, the district court determined that the amended
+
+complaint, although lengthy and detailed regarding how claims are
+
+submitted generally and how Fresenius's alleged kickback scheme
+
+functioned, still failed to state a claim under the FCA because
+
+there were not "particularized allegations of claims for payment
+
+arising from that scheme."         The district court also determined
+
+that, under Rule 9(b), the amended complaint did not describe the
+
+false claims with the requisite level of specificity.                   As to
+
+Medicare claims specifically, which Fresenius submitted directly
+
+to the federal government, the district court found that Flanagan
+
+had not identified a single specific false claim or provided any
+
+representative or sample claims, as required.           The district court
+
+
+                                   - 16 -
+also expressed doubt that the amended complaint adequately pled
+
+causation as required by the relevant statutes. Although the court
+
+also suggested that but-for causation was the proper standard, it
+
+ultimately decided the motion on other grounds.         Accordingly, the
+
+district court also found dismissal appropriate under Rule 9(b).
+
+            In   January   2023,     Flanagan   filed   a   motion   for
+
+reconsideration and a motion to amend the amended complaint.         The
+
+district court denied both motions.         As to the motion to amend,
+
+the district court recognized that the case was, at that time,
+
+nearly nine years old and that Fresenius had filed three different
+
+motions to dismiss, all of which targeted Flanagan's failure to
+
+plead any false claims with particularity.       For these reasons, the
+
+district court found that the "extensive delays" and "obvious
+
+prejudice to defendant" were sufficient reasons to deny the motion
+
+to amend.
+
+            Flanagan then filed a timely notice of appeal as to the
+
+order dismissing the complaint, the order denying his motion for
+
+reconsideration, and the order denying his motion for leave to
+
+file a second amended complaint.
+
+                            II. Discussion
+
+            On appeal, Flanagan asserts that the district court made
+
+two central errors: first, that it should not have dismissed claims
+
+for failing to satisfy Rule 9(b); and second, that it abused its
+
+discretion in denying his motion to amend.              The first issue
+
+
+                                   - 17 -
+requires us to examine only the claims and allegations that the
+
+district court dismissed under Rule 9(b); thus, we do not address
+
+the alternative grounds for dismissal (in other words, we leave
+
+undisturbed the district court's rulings on the failure to meet
+
+statutory     requirements,     the    public-disclosure      bar,    and    the
+
+first-to-file bar).         We address the granting of the motion to
+
+dismiss and the denial of the motion to amend in turn.
+
+                            A. Motion to Dismiss
+
+                           1. Standard of Review
+
+             A district court's decision granting a motion to dismiss
+
+is subject to de novo review.           See Zhou v. Desktop Metal, Inc.,
+
+120 F.4th 278, 287 (1st Cir. 2024).            Our review "requires that we
+
+separate    factual    allegations      from    conclusory    ones    and   then
+
+evaluate whether the factual allegations support a 'reasonable
+
+inference     that   the   defendant     is    liable   for   the    misconduct
+
+alleged.'"     United States ex rel. Zotos v. Town of Hingham, 98
+
+F.4th 339, 343 (1st Cir. 2024) (quoting Ashcroft v. Iqbal, 556
+
+U.S. 662, 678 (2009)).       Because Flanagan alleges fraud claims, the
+
+complaint must also satisfy the heightened pleading standard under
+
+Rule 9(b), which requires the circumstances of fraud to be alleged
+
+with particularity.        See Zhou, 120 F.4th at 287; United States ex
+
+rel. Karvelas v. Melrose-Wakefield Hosp., 360 F.3d 220, 228 (1st
+
+Cir. 2004) (holding that "Rule 9(b) applies to claims under the
+
+
+
+
+                                      - 18 -
+FCA"), abrogated on other grounds by, Allison Engine Co. v. United
+
+States ex rel. Sanders, 553 U.S. 662 (2008).
+
+          Before examining the sufficiency of the complaint here,
+
+we first provide a brief overview of the relevant statutes.
+
+                       2. Statutory Background
+
+          Flanagan's    allegations     center    on   two    interlinked
+
+statutes: the FCA and the AKS.    We briefly describe the relevant
+
+portions of each statute.
+
+                       a. The False Claims Act
+
+          The FCA "is an 'expansive' statute, intended 'to reach
+
+all types of fraud, without qualification, that might result in
+
+financial loss to the [g]overnment.'"            United States ex rel.
+
+Escobar v. Universal Health Servs., Inc., 780 F.3d 504, 512 (1st
+
+Cir. 2015) (cleaned up) (quoting Cook County v. United States ex
+
+rel. Chandler, 538 U.S. 119, 129 (2003)), vacated on other grounds,
+
+Universal Health Servs., Inc. v. United States, 579 U.S. 176
+
+(2016).   The FCA holds liable anyone who "knowingly presents, or
+
+causes to be presented, a false or fraudulent claim for payment or
+
+approval" or who "knowingly makes, uses, or causes to be made or
+
+used, a false record or statement material to a false or fraudulent
+
+claim."   31 U.S.C. § 3729(a)(1)(A), (B).         "For purposes of the
+
+statute, 'a claim includes direct requests to the government for
+
+payment as well as reimbursement requests made to the recipients
+
+of federal funds under federal benefit programs.'"           Guilfoile v.
+
+
+                               - 19 -
+Shields, 913 F.3d 178, 187 (1st Cir. 2019) (cleaned up) (quoting
+
+Universal Health Servs., Inc., 579 U.S. at 181).
+
+                  b. The Anti-Kickback Statute
+
+          Flanagan's FCA claims are rooted in alleged violations
+
+of the AKS, which prohibits, among other things, "knowingly and
+
+willfully offer[ing] or pay[ing] any remuneration (including any
+
+kickback, bribe, or rebate) directly or indirectly, overtly or
+
+covertly, in cash or in kind to any person to induce such person"
+
+either "to refer an individual to a person for the furnishing or
+
+arranging for the furnishing of any item or service for which
+
+payment may be made in whole or in part under a Federal health
+
+care program" or "to purchase, lease, order, or arrange for or
+
+recommend purchasing, leasing, or ordering any good, facility,
+
+service, or item for which payment may be made in whole or in part
+
+under a Federal health care program."   42 U.S.C. § 1320a-7b(b)(2).
+
+          "The AKS was designed to prevent medical providers from
+
+making decisions based on improper financial incentives rather
+
+than medical necessity and to ensure that federal health care
+
+programs do not bear the costs of such decisions."   United States
+
+ex rel. Banigan v. PharMerica, Inc., 950 F.3d 134, 137 (1st Cir.
+
+2020).   "Essentially, the AKS targets any remunerative scheme
+
+through which a person is 'paid in return for referrals' to a
+
+program under which payments may be made from federal funds."
+
+Guilfoile, 913 F.3d at 189 (quoting United States v. Patel, 778
+
+
+                             - 20 -
+F.3d 607, 618 (7th Cir. 2015)).                  There is no question that
+
+liability under the FCA can be predicated on a violation of the
+
+AKS.   See id.; Banigan, 950 F.3d at 137.             There are two pathways
+
+to FCA liability for an AKS violation: (1) "when someone falsely
+
+represents compliance with a material requirement that there be no
+
+AKS violation in connection with the claim," United States v.
+
+Regeneron Pharms., Inc. ("Regeneron"), 128 F.4th 324, 333 (1st
+
+Cir. 2025), and (2) when claims for payment are made "resulting
+
+from" AKS violations, 42 U.S.C. § 1320a-7b(g).               Flanagan asserts
+
+that the amended complaint presents claims under both pathways.
+
+             We have recently interpreted the meaning of "resulting
+
+from" under the AKS.        See Regeneron, 128 F.4th at 328-36.          In so
+
+doing, this court concluded that "to demonstrate falsity" under a
+
+theory that the claim resulted from an AKS violation, the plaintiff
+
+"must show that an illicit kickback was the but-for cause of a
+
+submitted claim."          Id. at 336.          Put another way, the phrase
+
+"resulting from" requires actual causality, which "demands proof
+
+'that the harm would not have occurred but for the defendant's
+
+conduct.'"        Id. at 329 (cleaned up) (quoting Univ. of Tex. Sw.
+
+Med. Ctr. v. Nassar, 570 U.S. 338, 346-47 (2013)).
+
+                                3. False Claims
+
+             We    now   take   on   Flanagan's    core   allegations   of    FCA
+
+violations,       concluding    that    the     amended   complaint   fails    to
+
+adequately plead that the alleged AKS violations were the but-for
+
+
+                                       - 21 -
+cause of the submitted claims or that Fresenius falsely certified
+
+that it complied with the AKS.
+
+                        a. "Resulting From" Claims
+
+           The issue of causation has loomed as a potential threat
+
+to Flanagan's claims since the outset of this lawsuit.                 In its
+
+motion to dismiss, Fresenius argued that the complaint failed to
+
+establish causation, citing the but-for standard applied by the
+
+district   court   in   United   States    v.   Regeneron   Pharms.,    Inc.,
+
+No. 20-11217, 2020 WL 7130004, at *14 (D. Mass. Dec. 4, 2020).             In
+
+resolving the motion to dismiss, the district court suggested that
+
+but-for causation may be required but decided that motion on other
+
+grounds.   Our circuit had not yet decided the issue, so on appeal,
+
+Flanagan initially argued that but-for causation was not required,
+
+but, even if it was, the complaint was adequate.             Subsequently,
+
+Regeneron resolved the issue, and Flanagan now acknowledges that
+
+the law in this circuit requires such a standard.7            We now focus
+
+on Flanagan's alternative argument -- that the amended complaint
+
+adequately pleads       but-for causation by articulating        "specific
+
+compensation relationships with specific physicians which were
+
+intended to and did result in referrals."             Flanagan's briefing
+
+
+
+     7 On March 7, 2025, Flanagan filed a letter with the Clerk's
+Office under Rule 28(j) of the Federal Rules of Appellate
+Procedure. In that letter, Flanagan conceded that our decision in
+Regeneron resolved the issue of what standard of causation should
+be applied.
+
+
+                                  - 22 -
+goes on to focus on claims relating to only one physician -- thus,
+
+we do the same.8
+
+                In particular, Flanagan focuses on the allegations that
+
+Dr.    Stephen      Tilles    held   two   medical   director   positions   with
+
+Fresenius, that his compensation in those roles was meant to induce
+
+referrals, and that Tilles and his practice referred sixty patients
+
+to Fresenius clinics in 2012.              The amended complaint also alleges
+
+that       a   Fresenius   report    stated   that   "Dr. Tilles['s]   contract
+
+renewal is critical.             Currently, he is [the] only physician
+
+referring to San Jose and has [the] majority of Los Gatos.                   He
+
+must be secured for at least one more year at San Jose and
+
+indefinitely in Los Gatos."           The amended complaint further alleges
+
+that Fresenius tracked the number of patients that Tilles referred
+
+to non-Fresenius clinics.
+
+                These allegations, though, do nothing to tell us whether
+
+Tilles's referrals resulted from the alleged kickback scheme.
+
+There are no allegations that Tilles would not have made these
+
+referrals had he not been given the medical director position.               At
+
+a minimum, Flanagan was required to plead some information that
+
+would have allowed us to reasonably infer in his favor that
+
+causation exists.            Accordingly, the amended complaint lacks the
+
+
+       Flanagan's Rule 28(j) letter similarly only cited to the
+       8
+
+portions of the amended complaint that refer to a single physician
+in support of the proposition that the amended complaint satisfied
+the but-for causation standard.
+
+
+                                       - 23 -
+detail needed to plausibly allege but-for causation.         See United
+
+States ex rel. Martin v. Hathaway, 63 F.4th 1043, 1053 (6th Cir.
+
+2023) (finding that but-for causation was not plausibly alleged
+
+when "[t]here's not one claim for reimbursement identified with
+
+particularity in this case that would not have occurred anyway");
+
+see also Stop Ill. Health Care Fraud, LLC v. Sayeed, 100 F.4th
+
+899, 909 (7th Cir. 2024) (noting that but-for causation would be
+
+established if plaintiff could show that "the defendants would not
+
+have provided service to [the relevant] patients" in the absence
+
+of the fraudulent referral scheme).       Without any further details,
+
+no reasonable inference can be made in Flanagan's favor as to
+
+causation.     See Comcast Corp. v. Nat'l Ass'n of Afr. Am.-Owned
+
+Media, 589 U.S. 327, 331-32, 336 (2020) (holding that but-for
+
+causation must be adequately pled and that such a rule cannot "be
+
+overlooked or modified in the early stages of a case").
+
+             Thus, Flanagan's claims arising under the theory that
+
+the   reimbursement   claims   resulted    from   AKS   violations   were
+
+properly dismissed because the amended complaint failed to allege
+
+but-for causation.
+
+                    b. False Representation Claims
+
+             Flanagan next argues that he has separate claims under
+
+31 U.S.C. § 3729(a)(1)(B) that the district court did not address.
+
+
+
+
+                                - 24 -
+As a reminder, under subsection (a)(1)(B),9 a defendant can be held
+
+liable when they "knowingly make[], use[], or cause[] to be made
+
+or used, a false record or statement material to a false or
+
+fraudulent claim."             Further, "[t]he defendant must have 'intended
+
+the [g]overnment to rely on that false statement as a condition of
+
+payment.'"         United States ex rel. Gagne v. City of Worcester, 565
+
+F.3d 40, 46 (1st Cir. 2009) (cleaned up) (quoting Allison Engine
+
+Co.,       553   U.S.     at   672).     Unlike       the   "resulting   from"    claims
+
+addressed above, these types of claims do not require proof of
+
+causation.         See Regeneron, 128 F.4th at 333-34.
+
+                 Flanagan argues that the amended complaint alleges that
+
+Fresenius made false records by falsely certifying its compliance
+
+with the AKS annually and by falsely certifying cost reports that
+
+listed the number of hours that its medical directors work.                           He
+
+recites the details the complaint alleges regarding the kickback
+
+scheme       and    the    allegedly     tainted       referrals   and    argues    that
+
+"Fresenius fully intended to bill all payors, including federal
+
+health       care       programs,      for    treatments      resulting    from    each
+
+referral."
+
+                 However, the complaint is not as specific as Flanagan
+
+asserts.         First, the complaint alleges that submitting certain
+
+
+
+       Subsection (a)(1)(B) was formerly subsection (a)(2) under
+       9
+
+the FCA. See United States ex rel. Gagne v. City of Worcester,
+565 F.3d 40, 46 (1st Cir. 2009).
+
+
+                                             - 25 -
+certifications and information in forms is required under the
+
+Medicare program and then broadly alleges that every Fresenius
+
+clinic submits these forms every year.              But Flanagan has not
+
+pointed us to any allegations in the complaint that address what
+
+Fresenius   actually   submitted     in   those    reports,   either    as   to
+
+certifications    or   as    to   hours   worked   by   medical   directors.
+
+Further, with respect to the overarching kickback scheme, he still
+
+must plead with particularity the connection between false records
+
+and/or statements and the intent to have a false claim paid for by
+
+the government programs.          See Gagne, 565 F.3d at 46.           Broadly
+
+stating that Fresenius intended to have all claims paid, whether
+
+or not tainted by the kickback scheme, is not sufficient to satisfy
+
+our heightened standard under Rule 9(b).
+
+            For   these        reasons,      Flanagan's       claim     under
+
+subsection (a)(1)(B) was also properly dismissed.
+
+                             B. Motion to Amend
+
+            This court reviews the denial of a motion to amend for
+
+abuse of discretion.        Ge, 737 F.3d at 127.
+
+            Flanagan argues that, in denying his motion to amend,
+
+the district court failed to identify any actual prejudice to
+
+Fresenius or explain why his motion constituted an "undue delay."
+
+Flanagan asserts that because there has yet to be discovery in
+
+this case and there is no trial date, Fresenius would not be
+
+prejudiced by an amendment simply because the case had been pending
+
+
+                                    - 26 -
+for   nearly    a    decade     at   the    time    of    the   proposed    amendment.
+
+Further, because Flanagan, in his opening brief, primarily focuses
+
+on whether he sufficiently pled a false claim, he emphasizes that
+
+he did not have the necessary claims data needed to amend his
+
+complaint until after the motion to dismiss was decided, and,
+
+therefore, he could not have amended his complaint until that time.
+
+           "Amendments may be permitted pre-judgment, even after a
+
+dismissal for failure to state a claim, and leave to amend is
+
+freely given when justice so requires."                       Id. (quoting Palmer v.
+
+Champion Mortg., 465 F.3d 24, 30 (1st Cir. 2006)).                       "Nonetheless,
+
+grounds for denying leave include 'undue delay, bad faith or
+
+dilatory   motive[,]       repeated         failure      to   cure   deficiencies    by
+
+amendments previously allowed, undue prejudice to the opposing
+
+party[,]    and      futility        of    amendment.'"          Kader     v.    Sarepta
+
+Therapeutics, Inc., 887 F.3d 48, 60 (1st Cir. 2018) (cleaned up)
+
+(quoting ACA Fin. Guar. Corp. v. Advest, Inc., 512 F.3d 46, 55-56
+
+(1st Cir. 2008)).       Although our amendment rules are "liberal," the
+
+district court has "significant latitude" in determining whether
+
+to allow leave to amend.             Id. at 60-61 (quoting Advest, Inc., 512
+
+F.3d at 55).         "[N]otably, 'undue delay in moving to amend, even
+
+standing alone,' can provide a court with adequate grounds to deny
+
+leave."    Id. at 61 (quoting Zullo v. Lombardo, 755 F.3d 1, 3 (1st
+
+Cir. 2014)).         "[W]e have explicitly condemned a 'wait and see'
+
+approach   to       pleading,    whereby      plaintiffs        'having    the   needed
+
+
+                                           - 27 -
+information, deliberately wait in the wings with another amendment
+
+to a complaint should the court hold the first amended complaint
+
+was insufficient.'"        Id. (cleaned up) (quoting Advest, Inc., 512
+
+F.3d at 57).
+
+            As discussed above, the original complaint was filed in
+
+March   2014    and    there   was    some   delay   in   the   case   while   the
+
+government decided whether to intervene.             However, Fresenius filed
+
+its first motion to dismiss in January 2021, raising substantially
+
+the same arguments that are now before us.                  Although Flanagan
+
+attempted      to   cure   these     deficiencies    by   filing   the   amended
+
+complaint in February 2021, the government filed another motion to
+
+dismiss in March 2021, again asserting substantially the same
+
+arguments raised in its previous motion and now raised before us.
+
+Once the case was transferred to the District of Massachusetts,
+
+Fresenius (now for the third time) filed its motion to dismiss in
+
+January 2022.         Only after the district court issued its order,
+
+almost a year after the most recent motion to dismiss was filed,
+
+did Flanagan then file his motion to amend the complaint.
+
+            Although Flanagan argued, both to the district court and
+
+before us, that this delay should be excused because he did not
+
+receive the claims information until after the motion to dismiss
+
+was granted, he has not provided the court with any information as
+
+to when he sought this claims information or why this claims
+
+information was needed to plead causation.                  Without more from
+
+
+                                       - 28 -
+Flanagan, the district court could reasonably conclude that --
+
+although Flanagan was aware of Fresenius's arguments and the
+
+potential need for an amendment for two years -- he waited until
+
+after the district court granted the motion to dismiss to seek the
+
+claims information he allegedly needed to amend his complaint.
+
+This two-year period is significantly longer than periods of time
+
+we have previously relied upon in upholding denials of leave to
+
+amend on undue delay grounds.    See id.
+
+          Accordingly,   the   district    court   did   not   abuse   its
+
+discretion in denying Flanagan's motion for leave to amend, and we
+
+affirm.
+
+                          III. Conclusion
+
+          For the foregoing reasons, we affirm the decisions of
+
+the district court granting the motion to dismiss in favor of
+
+Fresenius and denying Flanagan's motion to amend.
+
+
+
+
+                                - 29 -

@@ -1,0 +1,31 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the Heck v. Humphrey doctrine bars a \u00a7 1983 claim when the underlying criminal charges were dismissed after successful completion of pretrial probation under Mass. Gen. Laws ch. 276, \u00a7 87.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that the Heck bar does not apply because Aprileo was not convicted or sentenced, and her pretrial probation under Section 87 did not constitute a conviction or its functional equivalent under Massachusetts law. Without an underlying conviction, Heck is not triggered."
+    }
+  ],
+  "key_precedents": [
+    "Heck v. Humphrey, 512 U.S. 477 (1994)",
+    "Wallace v. Kato, 549 U.S. 384 (2007)",
+    "Commonwealth v. Rodriguez, 802 N.E.2d 1039 (Mass. 2004)",
+    "Commonwealth v. Tim T., 773 N.E.2d 968 (Mass. 2002)",
+    "Duarte v. City of Stockton, 60 F.4th 566 (9th Cir. 2023)",
+    "Mitchell v. Kirchmeier, 28 F.4th 888 (8th Cir. 2022)",
+    "Vasquez Arroyo v. Starks, 589 F.3d 1091 (10th Cir. 2009)",
+    "S.E. v. Grant Cnty. Bd. of Educ., 544 F.3d 633 (6th Cir. 2008)",
+    "McClish v. Nugent, 483 F.3d 1231 (11th Cir. 2007)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": true,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "This case poses one central question: Does Heck v. Humphrey, 512 U.S. 477 (1994), which held that a \u00a7 1983 claim cannot impugn a valid criminal judgment, bar Aprileo's claim here? See id. at 486-87. We agree with the district court, as well as with the majority of our sister circuits to have considered the question, that the Heck bar is not triggered when there is no underlying criminal conviction or sentence. Because Aprileo was not convicted of any crime, and she secured a dismissal of the charges against her without a guilty plea or any admission of wrongdoing, the Heck bar does not apply. Thus, we affirm the district court's decision allowing Aprileo's \u00a7 1983 claims to proceed against certain defendants."
+}

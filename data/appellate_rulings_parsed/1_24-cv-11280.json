@@ -1,0 +1,34 @@
+{
+  "overall_outcome": "REMAND",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court erred in concluding that the child (A.R.) was not 'now settled' in the United States under the Hague Convention, thus requiring his return to Brazil.",
+      "standard_of_review": "clear error",
+      "holding": "REVERSE",
+      "key_reasoning": "The appellate court found that, under a holistic, totality-of-the-circumstances analysis, the evidence compelled the conclusion that A.R. is 'now settled' in the United States, and the district court clearly erred in holding otherwise."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether, after finding the child 'now settled,' the district court should exercise its equitable discretion to order the child's return to Brazil.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "REMAND",
+      "key_reasoning": "The appellate court remanded for the district court to exercise its equitable discretion, as required by precedent, to determine whether to order the child's return despite his 'now settled' status."
+    }
+  ],
+  "key_precedents": [
+    "da Costa v. de Lima, 94 F.4th 174 (1st Cir. 2024)",
+    "Alcala v. Hernandez, 826 F.3d 161 (4th Cir. 2016)",
+    "da Silva v. de Aredes, 953 F.3d 67 (1st Cir. 2020)",
+    "Yaman v. Yaman, 730 F.3d 1 (1st Cir. 2013)",
+    "Monasky v. Taglieri, 589 U.S. 81 (2020)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "Approximately two years after Respondent-Appellant Jessica Silveira da Silva (\"Silveira\") brought her minor son (\"A.R.\") to the United States, A.R.'s father, Petitioner-Appellee Edervaldo Rodrigues da Silva (\"Rodrigues\"), initiated proceedings in federal court to return A.R. to Brazil under the Hague Convention on the Civil Aspects of International Child Abduction (\"Hague Convention\"). After Rodrigues proved that A.R. had been wrongfully removed, Silveira invoked the \"now settled\" defense under the Hague Convention, asserting that A.R.'s extensive ties to the community in Lowell, Massachusetts, weighed against returning him to Brazil. The district court disagreed.\n\nOn appeal, Silveira argues that the district court committed both legal and factual errors, which mandate reversal. The district court engaged in a thorough analysis and \"grapple[d] with difficult factual circumstances in which no outcome may [have] appear[ed] ideal.\" Mendez v. May, 778 F.3d 337, 347 (1st Cir. 2015). Ultimately, we hold that it erred in concluding that A.R. is not settled in the United States. Accordingly, we vacate and remand."
+}

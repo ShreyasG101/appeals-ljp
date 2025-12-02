@@ -1,0 +1,27 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the Poultry Products Inspection Act (PPIA) expressly preempts Article XII(B) of Puerto Rico's Market Regulation No. 8, which requires a local inspector to be present when poultry shipping containers are opened and unloaded at an official establishment.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that Article XII(B) is expressly preempted by the PPIA because it imposes requirements 'with respect to premises, facilities and operations' of an official establishment that are 'in addition to, or different than' those under the PPIA, and the savings clause does not apply since the regulation operates inside the official establishment."
+    }
+  ],
+  "key_precedents": [
+    "Nat'l Meat Ass'n v. Harris, 565 U.S. 452 (2012)",
+    "Puerto Rico v. Franklin Cal. Tax-Free Tr., 579 U.S. 115 (2016)",
+    "Lamar, Archer & Cofrin, LLP v. Appling, 584 U.S. 709 (2018)",
+    "Chicago-Midwest Meat Ass'n v. City of Evanston, 589 F.2d 278 (7th Cir. 1978)",
+    "Bates v. Dow Agrosciences LLC, 544 U.S. 431 (2005)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "The Poultry Products Inspection Act (\"PPIA\"), 21 U.S.C. \u00a7\u00a7 451-473, provides for the inspection of poultry and poultry products that move through or substantially affect interstate or foreign commerce and regulates their processing and distribution. Plaintiff Northwestern Selecta, Inc. (\"NWS\"), a Puerto Rico importer of poultry products, argues that the PPIA expressly preempts a regulatory provision promulgated by the Puerto Rico Department of Agriculture (\"PRDA\") -- Article XII(B) of Market Regulation No. 8 -- that requires a PRDA inspector to be present when a shipping container transporting poultry meat is opened and unloaded. The district court agreed with NWS, determining that Article XII(B)'s inspector requirement falls within the scope of the PPIA's preemption clause and is not exempted by its savings clause. The court therefore granted NWS declaratory relief and permanently enjoined the enforcement of Article XII(B) against it. After careful consideration, we affirm."
+}

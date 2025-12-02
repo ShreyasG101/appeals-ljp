@@ -1,0 +1,916 @@
+          United States Court of Appeals
+                      For the First Circuit
+
+
+No. 24-1920
+
+ AXIS INSURANCE COMPANY, a/a/o Zoll Medical Corporation and Zoll
+                 Services LLC, a/s/o Fusion LLC,
+
+                      Plaintiff, Appellant,
+
+                                v.
+
+              BARRACUDA NETWORKS, INC.; SONIAN INC.,
+
+                      Defendants, Appellees.
+
+
+          APPEAL FROM THE UNITED STATES DISTRICT COURT
+               FOR THE DISTRICT OF MASSACHUSETTS
+
+         [Hon. Nathaniel M. Gorton, U.S. District Judge]
+
+
+                              Before
+
+                 Gelpí, Thompson, and Montecalvo,
+                          Circuit Judges.
+
+
+     Stephen D. Rosenberg, with whom Wagner Law Group was on brief,
+for appellant.
+
+     Christopher P. Silva, with whom Joseph L. Demeo, Michael R.
+Stanley, Samuel B. Goodwin, and DEMEO LLP were on brief, for
+appellees.
+
+
+                        November 20, 2025
+                GELPÍ, Circuit Judge.        This case stems from a 2018 data
+
+breach at Barracuda Networks, Inc., ("Barracuda") that exposed the
+
+protected health information ("PHI") of patients of Zoll Services
+
+LLC,       a   subsidiary   of   Zoll   Medical   Corporation     (collectively,
+
+"Zoll"). Zoll had obtained its data-security services from Fusion,
+
+LLC ("Fusion"), which in turn relied on Barracuda's technology to
+
+fulfill its contract with Zoll.              Axis Insurance Company ("Axis"),
+
+in   its       derivative   capacity    as    Zoll's   assignee    and   Fusion's
+
+subrogee, now brings tort and contract claims against Barracuda.
+
+The district court granted Barracuda's motion for summary judgment
+
+on all claims.        For the reasons stated below, we affirm.
+
+                                   I. BACKGROUND
+
+                In reviewing the district court's decision granting
+
+summary judgment to Barracuda, we recite the facts in the record
+
+in the light most favorable to Axis and draw all reasonable
+
+inferences from those facts in its favor.                  See Sutherland v.
+
+Peterson's Oil Serv., Inc., 126 F.4th 728, 734 (1st Cir. 2025).
+
+                A. Factual Background
+
+                Fusion and Barracuda's corporate predecessors1 entered
+
+into an Original Equipment Manufacturer agreement ("OEM") through
+
+
+
+       Fusion is the successor-in-interest to Apptix, Inc., having
+       1
+
+acquired Apptix in 2016 and merged it into Fusion in 2018.
+Similarly, Barracuda is the successor-in-interest to Sonian, Inc.,
+following a 2017 acquisition. As a result, Zoll became a Fusion
+customer, and Fusion became a Barracuda customer.     For ease of
+reference, Apptix will be referred to as "Fusion" and Sonian will
+                                        - 2 -
+which Fusion was allowed to resell Barracuda's email archiving
+
+services to its customers.               The OEM was conditioned on Fusion's
+
+inclusion      of         appropriate      limitation       of     liability        and
+
+indemnification language in its customer contracts.                           The OEM
+
+included       a     provision       reserving          Barracuda's        right     to
+
+"audit . . . all applicable books and records relating to the
+
+[services provided by Barracuda]" and a clause stating that "[n]o
+
+failure or delay of [Barracuda] in exercising any right or remedy
+
+under   [the       OEM]    shall   operate    as    a    waiver   of   such    right"
+
+("anti-waiver provision").
+
+            Shortly after the OEM, Zoll -- a company that sells
+
+medical devices and receives and stores customer PHI -- became a
+
+Fusion customer, acquiring services for electronic messaging and
+
+email   communications.            The   contract       between   Fusion    and    Zoll
+
+("Hosting Agreement") did not include appropriate limitation of
+
+liability or indemnification provisions, as required by the OEM.
+
+Zoll separately entered into a Health Insurance Portability and
+
+Accountability Act ("HIPAA") Business Associate Agreement ("BAA")
+
+with Fusion in which Fusion agreed to, among other things, use
+
+appropriate safeguards to prevent unauthorized use or disclosure
+
+of PHI and ensure that any subcontractor or vendor to whom it
+
+provides    PHI     agreed    to   the    same   restrictions      and     conditions
+
+
+
+be referred to as "Barracuda" unless further precision is otherwise
+required.
+                                         - 3 -
+regarding the protection of PHI.       There is no evidence that Fusion
+
+ever ensured Barracuda's compliance with the BAA.
+
+             In 2018, a data breach at Barracuda exposed Zoll's
+
+HIPAA-protected customer information to an              unauthorized third
+
+party.     Following the breach, Zoll's affected customers brought a
+
+class action lawsuit against Zoll. Zoll settled with its customers
+
+and was responsible for the payment of damages to the class
+
+members.
+
+             B. Procedural Background
+
+             In 2020, Zoll commenced arbitration proceedings against
+
+Fusion and the instant litigation against Barracuda.                 Fusion
+
+successfully moved to intervene in the litigation as a Rule 20
+
+Party and asserted claims against Barracuda.        In a previous order,
+
+the district court dismissed most of their claims, but retained
+
+Zoll's claim of equitable indemnification and Fusion's claims of
+
+breach of contract and breach of the covenant of good faith.
+
+             Pursuant to the parties' arbitration and settlements,
+
+Zoll   and   Fusion's   claims   against    Barracuda    were   assigned   to
+
+Axis -- Fusion's insurer.        Axis was thus substituted as plaintiff
+
+in 2022.
+
+             After discovery, Barracuda moved for summary judgment
+
+against Axis on the surviving claims.         The district court granted
+
+Barracuda's motion.     First, the district court held that Zoll and
+
+Barracuda's relationship "c[ould] best be described as one of an
+
+                                    - 4 -
+independent contractor," and that this status, without more, did
+
+not create the derivative or vicarious relationship required for
+
+equitable indemnification under Massachusetts law.         Second, the
+
+court held that the breach of contract claim could not proceed
+
+because Fusion failed to fulfill a condition precedent in the OEM
+
+when it failed to include the appropriate limitation of liability
+
+or   indemnification   language   in   its   customer   contracts,   and
+
+Barracuda had not waived that condition.       Finally, the court held
+
+that Axis could not prove its claim of breach of the covenant of
+
+good faith and fair dealing because it failed to demonstrate a
+
+contractual right to which Fusion was entitled in the event of a
+
+data breach.   Thus, the covenant could not be used to create rights
+
+that did not exist in the contractual relationship.
+
+           Axis timely appealed.
+
+                           II. DISCUSSION
+
+           A. Standard of review
+
+           We review the district court's summary judgment rulings
+
+de novo.    Cruz-Cedeño v. Vega-Moral, 150 F.4th 1, 5 (1st Cir.
+
+2025).   Summary judgment is appropriate if, based on the record,
+
+there remains no dispute of material fact -- that is, if "there is
+
+no factual determination which a 'rational factfinder' could make
+
+as to the 'existence or nonexistence' of a fact that 'has the
+
+potential to change the outcome of the suit' -- such that 'the
+
+moving party is entitled to judgment as a matter of law.'"       Ithier
+
+                                  - 5 -
+v. Aponte-Cruz, 105 F.4th 1, 6 (1st Cir. 2024) (quoting Borges ex
+
+rel. S.M.B.W. v. Serrano-Isern, 605 F.3d 1, 4-5 (1st Cir. 2010));
+
+see Fed. R. Civ. P. 56(a).    Summary judgment is also appropriate
+
+if the nonmoving party "fails to make a showing sufficient to
+
+establish the existence of an element essential to [their] case"
+
+with respect to which they "bear the burden of proof."               Celotex
+
+Corp. v. Catrett, 477 U.S. 317, 322 (1986); see also Baez v.
+
+Baymark Detoxification Servs., Inc., 123 F.4th 62, 66 (1st Cir.
+
+2024).
+
+          This    case   arises     in     diversity     of   citizenship
+
+jurisdiction and asserts claims under Massachusetts law.             See 28
+
+U.S.C. § 1332.    In reviewing the district court's decision, "we
+
+look to federal law for the summary judgment framework and to state
+
+law for the substantive rules of decision."             FinSight I LP v.
+
+Seaver, 50 F.4th 226, 230 (1st Cir. 2022).
+
+          B. Zoll's equitable indemnification claim
+
+          Axis argues that the district court erred in denying it
+
+equitable indemnification from Barracuda in relation to Zoll's
+
+settlement with its customers. Axis claims that the district court
+
+erred by analyzing the legal status of the parties' relationship,
+
+when it should have instead focused on their relationship in
+
+reference to the factual circumstances.        In Axis's view, vicarious
+
+or   derivative   liability   does       not   depend   on    "the    legal
+
+characterization of the [parties'] relationship," but on whether
+
+                                  - 6 -
+the facts "demonstrate that [Zoll] can be held derivatively or
+
+vicariously liable due to the acts of [Barracuda]."                  We disagree
+
+and conclude that Zoll and Barracuda did not have a relationship
+
+that could sustain an equitable indemnification claim.
+
+            Under      Massachusetts         law,       "indemnity . . . allows
+
+someone who is without fault, [but] compelled by operation of law
+
+to defend himself against the wrongful act of another, to recover
+
+from the wrongdoer the entire amount of his loss."               Elias v. Unisys
+
+Corp., 573 N.E.2d 946, 948 (Mass. 1991).              "This right to indemnity
+
+is limited to those cases in which the would-be indemnitee is held
+
+derivatively     or   vicariously      liable    for     the   wrongful      act   of
+
+another."    Decker v. Black & Decker Mfg. Co., 449 N.E.2d 641, 645
+
+(Mass.   1983)    (citation     omitted).           Derivative   and    vicarious
+
+liability   only      arise   where    the    relevant     parties     are    in    a
+
+relationship that permits courts to hold one responsible for
+
+another's conduct.       See Elias, 573 N.E.2d at 948 (explaining how,
+
+under Massachusetts law, vicarious liability "arises simply by the
+
+operation of law and is only derivative of the wrongful act of the
+
+agent"); Leonard v. Blake, 10 N.E. 2d 469, 470 (Mass. 1937) ("The
+
+liability of the mother . . . was based, not on any personal fault,
+
+for there was none, but on the agency relationship which existed
+
+between the mother and her negligent daughter.                 Her liability was
+
+derivative,    not    arising   from    any     wrong    committed     by    her.");
+
+Hollywood Barbecue Co. v. Morse, 50 N.E. 2d 55, 56 (Mass. 1943).
+
+                                      - 7 -
+The rule reflects a balance: the law imposes vicarious liability
+
+on an otherwise-blameless party to "increase[] the likelihood that
+
+an injury will be compensated, by providing two funds from which
+
+a plaintiff may recover," Elias, 573 N.E.2d at 948, yet it tempers
+
+that result by providing the blameless party a right to seek
+
+reimbursement from the true wrongdoer, see id.
+
+            In    order    to    survive    summary       judgment,   the     would-be
+
+indemnitee must present sufficient evidence showing that it is
+
+liable only because the law imposes on it responsibility for
+
+another's    wrongdoing.          See     FinSight    I    LP,   50   F.4th    at   230
+
+(explaining that federal courts follow the federal law standard
+
+for summary judgment); see also Santos v. Chrysler Corp., 715
+
+N.E.2d 47, 62 (Mass. 1999) (describing the rule for equitable
+
+indemnification         under    Massachusetts       law).       Massachusetts      law
+
+recognizes       such    responsibility        in    certain      legally     defined
+
+relationships,          including     employer-employee,          principal-agent,
+
+manufacturer-retailer,              and     some       independent         contractor
+
+relationships.            See,      e.g.,     Elias,       573    N.E.2d      at    946
+
+(employer-employee); Chapman v. Bernard's Inc., 198 F.R.D. 575,
+
+579 (D. Mass. 2001) (principal-agent); Santos, 715 N.E.2d at 51
+
+(manufacturer-retailer); Garbincius v. Boston Edison Co., 621 F.2d
+
+1171, 1176 (1st Cir. 1980) (independent contractor).                   So Axis must
+
+have presented sufficient evidence that would tend to show that
+
+Zoll and Barracuda had any of these types of relationships.
+
+                                          - 8 -
+            Axis presented no such evidence.        The only evidence of
+
+record are the provisions in the OEM and the Hosting Agreement
+
+characterizing Barracuda's relationship with Fusion and Zoll's
+
+relationship with Fusion, respectively, as independent contractor
+
+relationships.    None of these documents have any bearing on Zoll's
+
+relationship with Barracuda.       And even if their relationship could
+
+somehow be characterized as one of independent contractor,2 "Axis
+
+ma[de] no claim that Zoll was anything more than an independent
+
+contractor"     and   never     claimed    "that   derivative     liability
+
+exist[ed] . . . in spite of the independent contract[or] status."
+
+Axis Ins. v. Barracuda Networks, Inc., 749 F. Supp. 3d 222, 227
+
+(D. Mass.   2024).     An   independent    contractor   status    alone     is
+
+insufficient to create derivative or vicarious liability.             Lyon v.
+
+Morphew, 678 N.E.2d 1306, 1310 (Mass. 1997).
+
+            Axis does offer up some caselaw to try to support its
+
+contention that the facts (and the facts alone) can sustain an
+
+equitable     indemnification    action,    even   if   there    is   not   a
+
+traditional derivative liability relationship. But we do not think
+
+Axis reads any of those cases correctly.           The natural place to
+
+
+     2 Drawing on the OEM between Fusion and Barracuda, the
+district court characterized the Zoll-Barracuda relationship as,
+at most, one of an independent contractor, where derivative
+liability cannot attach. To us, the relationship seems one step
+further removed: Barracuda is an independent contractor's
+independent contractor, because Zoll hired Fusion, who separately
+contracted with Barracuda.    And that makes the case all the
+clearer.
+                                   - 9 -
+start is Decker v. Black & Decker Manufacturing Company, 449 N.E.2d
+
+641 (Mass. 1983).    There, the Supreme Judicial Court said what we
+
+think is the crucial point: the "right to indemnity is limited to
+
+those cases in which the would-be indemnitee is held derivatively
+
+or vicariously liable for the wrongful act of another."        Id. at
+
+645.
+
+            With that in mind, we cannot make much of Axis's argument
+
+that the Decker court (or its progeny) "did not hold that the
+
+relationship between the party seeking indemnity and the party
+
+from whom indemnity is sought, in and of itself, determined the
+
+existence    or   lack   thereof   of    common   law   or   equitable
+
+indemnification." Contrariwise to Axis, we think that is precisely
+
+what the court said.     See id.   If not to put some guardrails on
+
+equitable indemnity based on legal relationships, why else would
+
+it "limit[]" the action "to those cases in which the would-be
+
+indemnitee is held derivatively or vicariously liable"?       Id.   We
+
+just don't see it.   And with that settled, our take on Axis's other
+
+cited cases, all relying on Decker, shake out the same way.         See
+
+Fireside Motors, Inc. v. Nissan Motor Corp., 479 N.E.2d 1386, 1388
+
+(Mass. 1985) (citing Decker, among other cases, for the same
+
+proposition); Ferreira v. Chrysler Grp. LLC, 13 N.E.3d 561, 567
+
+(Mass. 2014) (citing Decker and Fireside Motors for the same
+
+proposition); Fraco Prods., Ltd. v. Bostonian Masonry Corp., 995
+
+N.E.2d 1125, 1129-30 (Mass. App. Ct. 2013).
+
+                                - 10 -
+               Because Axis failed to present any evidence probative
+
+that the parties share a relationship that imposes derivative or
+
+vicarious liability, Zoll's claim of indemnification must fail.
+
+See Celotex Corp., 477 U.S. at 322 (moving party entitled to
+
+summary judgment when nonmoving party fails to make sufficient
+
+showing on essential element with respect to which it bears the
+
+burden of proof); see also Baez, 123 F.4th at 66.
+
+               C. Fusion's breach of contract claim
+
+               Axis argued before the district court that Barracuda
+
+breached its contract with Fusion by failing to provide the
+
+services required by the OEM: data hosting that properly protected
+
+Zoll's patients' PHI.           Barracuda replied that Axis could not
+
+maintain its breach of contract claim because the Hosting Agreement
+
+failed    to    meet   a   condition    precedent -- the      inclusion      of   a
+
+provision limiting Barracuda's liability -- imposed by the OEM.
+
+At the motion to dismiss stage, the district court agreed with
+
+Barracuda and held that Fusion did not comply with the condition
+
+precedent.3 Still, Axis maintained throughout the summary judgment
+
+briefing that the claim could proceed because Barracuda supposedly
+
+waived the OEM's condition precedent by declining to exercise its
+
+contractual       right    to   audit      Fusion's     customer     contracts.
+
+Alternatively,      Axis   claimed     that     Barracuda   was   estopped   from
+
+
+
+
+     3   On appeal, Axis does not dispute this holding.
+                                       - 11 -
+relying on the condition precedent to deny liability. The district
+
+court rejected that argument, holding that there was no genuine
+
+issue of material fact precluding summary judgment, that Barracuda
+
+had not waived the condition precedent, and that it was not
+
+estopped from relying on it.       On appeal, Axis challenges the
+
+district court's conclusions.    Reviewing de novo, we see no reason
+
+to reverse.
+
+          1. Summary judgment standard
+
+          Axis argues that the district court erred in granting
+
+summary judgment on the issue of whether Barracuda waived the OEM's
+
+condition precedent because waiver is an issue for the factfinder.
+
+Axis further maintains that, because its claim is "not devoid of
+
+any reasonable factual support," the district court "usurped" the
+
+role of the jury by finding no genuine issue of material fact
+
+precluding summary judgment.
+
+          Axis misunderstands the standard for summary judgment.
+
+Although waiver is ordinarily an issue for the factfinder, it may
+
+be resolved on summary judgment when the evidence of waiver -- or
+
+lack thereof -- is "clear, unequivocal and undisputed."     Bachorz
+
+v. Miller-Forslund, 703 F.3d 27, 32 (1st Cir. 2012) (quoting Metro.
+
+Transit Auth. v. Ry. Exp. Agency, Inc., 84 N.E.2d 26, 28 (Mass.
+
+1949)).   A "genuine" issue exists only if there is "sufficient
+
+evidence supporting the claimed factual dispute" to require a
+
+choice between "the parties' differing versions of the truth at
+
+                                - 12 -
+trial."     Garside v. Osco Drug, Inc., 895 F.2d 46, 48 (1st Cir.
+
+1990) (quoting Hahn v. Sargent, 523 F.2d 461, 464 (1st Cir. 1975)).
+
+            Here, the material facts are not in dispute. Axis relies
+
+on two facts as evidence:4 (1) the OEM's provision affording
+
+Barracuda    a   contractual   right   to   audit   Fusion's   books   and
+
+records -- which      it   contends     extends     to   its     customer
+
+contracts -- and (2) Axis's allegation that Barracuda failed to
+
+exercise    such   contractual   rights.      Barracuda's      anti-waiver
+
+provision in the OEM counters this evidence.         Both parties agree
+
+on these facts.5    Thus, the only remaining issue is whether Axis's
+
+
+     4 Axis claims that
+     There is evidence in this case that Fusion altered its
+     customer contracts over the years in an effort to comply
+     with the contractual condition at issue, and thus it is
+     a reasonable inference that it was only Barracuda's
+     inaction over the years that caused Fusion not to take
+     further action to comply with the applicable contractual
+     condition.
+Axis does not cite to the record but cites to a prior decision by
+the district court that supposedly recognizes this fact: Zoll Med.
+Corp. v. Barracuda Networks, Inc., 585 F. Supp. 3d 128, 136-37
+(D. Mass. 2022). We cannot find this recognition in the opinion.
+See generally id. And the fact that Axis makes this evidentiary
+claim in its brief cannot save it from summary judgment, because
+we have long recognized that "statements contained in a memorandum
+or lawyer's brief are insufficient, for summary judgment purposes,
+to establish material facts." Corrada Betances v. Sea-Land Serv.,
+Inc., 248 F.3d 40, 43 (1st Cir. 2001).
+     5 Barracuda initially disputed the fact that it held a right
+
+to audit Fusion's customer contracts. But on appeal, this does
+not raise a genuine dispute as to Barracuda's right to audit
+Fusion's contracts because Barracuda's arguments proceed under the
+premise that it had the right to audit. See Warner v. Dejoy, 153
+F.4th 109, 113 (1st Cir. 2025) ("[D]ispute[s are] genuine if the
+evidence about the fact is such that a reasonable jury could
+resolve the point in the favor of the non[]moving party." (second
+                                 - 13 -
+allegations amount to waiver. That legal question is appropriately
+
+resolved on summary judgment.          See id.; see Dunkin' Donuts v.
+
+Panagakos, 5 F. Supp. 2d 57, 62 (D. Mass. 1998) (summary judgment
+
+entered against party claiming waiver).
+
+           2. Waiver
+
+           A condition precedent may be waived by the party it
+
+favors, see Am. Title Ins. v. E. W. Fin., 16 F.3d 449, 459 (1st
+
+Cir. 1994), if the party either expressly or impliedly manifests
+
+intent to relinquish voluntarily a right and "no other reasonable
+
+explanation" exists for that surrender,       KACT, Inc. v. Rubin, 819
+
+N.E.2d 610, 616 (Mass. App. Ct. 2004) (citation omitted).            Under
+
+Massachusetts law, waiver must be premised upon "clear, decisive
+
+and unequivocal conduct" by the waiving party.           Paterson-Leitch
+
+Co. v. Mass. Mun. Wholesale Elec. Co., 840 F.2d 985, 992 (1st Cir.
+
+1988) (emphasis omitted) (quoting D. Federico Co. v. Commonwealth,
+
+415 N.E.2d 855, 858 (Mass. App. Ct. 1981)).         The burden of proving
+
+waiver is on the party asserting it. Dunkin' Donuts, 5 F. Supp. 2d
+
+at 61 (citation omitted).
+
+           Axis cannot meet its burden to establish waiver because
+
+the only conduct it points to is Barracuda's silence. Lower courts
+
+have previously found it "doubtful that mere silence could satisfy"
+
+the   standard   for   waiver.   Id.    (applying    Massachusetts   law).
+
+
+
+and third alterations in original) (quoting Rodríguez-Cardi v. MMM
+Holdings, Inc., 936 F.3d 40, 47 (1st Cir. 2019))).
+                                 - 14 -
+Likewise, the leading treatise on contract law explains that
+
+"[m]ere silence, acquiescence, or inactivity is insufficient to
+
+show a waiver of contract rights when there is no duty to speak or
+
+act . . . . Similarly, forbearance to assert or insist on a right
+
+does not, by itself, constitute a waiver."            13 Richard A. Lord,
+
+Williston on Contracts § 39:35 at 653 (4th ed. 2025).
+
+          That guidance is directly on point here.                 After all,
+
+Barracuda had the right, not the obligation, to act.               Cf. Dickow
+
+v. United States, 740 F. Supp. 2d 231, 238-39 (D. Mass. 2010)
+
+(noting that there could be no inference from silence when there
+
+is no duty to act).          Under these circumstances, Barracuda's
+
+inaction toward exercising its right to audit cannot be viewed as
+
+a "clear" relinquishment of the condition precedent because its
+
+inaction is equally consistent with preserving its right as with
+
+surrendering it.   Paterson-Leitch Co., 840 F.2d at 992.            Moreover,
+
+against this silence is Barracuda's anti-waiver provision.              While
+
+such a clause is "not dispositive," M.J.G. Props., Inc. v. Hurley,
+
+537 N.E.2d 165, 167 (Mass. App. Ct. 1989), it reinforces our
+
+conclusion that the condition was not waived by affirmatively
+
+demonstrating Barracuda's intent to preserve its rights.
+
+          In   sum,   Axis   has   not   met   its   burden   in    providing
+
+sufficient evidence tending to show that Barracuda waived the OEM's
+
+condition precedent.
+
+
+
+                                   - 15 -
+          3. Estoppel
+
+          Axis   argues    in   the    alternative    that   Barracuda    is
+
+estopped from relying on the condition precedent to defeat the
+
+breach of contract claim and that the district court erred in
+
+holding otherwise. To establish estoppel, a party must show "(1) a
+
+representation intended to induce reliance on the part of a person
+
+to whom the representation is made; (2) an act or omission by that
+
+person   in   reasonable    reliance     on   the    representation;     and
+
+(3) detriment as a consequence of the act or omission."          Bongaards
+
+v. Millen, 793 N.E.2d 335, 339 (Mass. 2003).             Axis cannot make
+
+this showing.
+
+          To support its estoppel claim, Axis argues that "[f]or
+
+years, Barracuda had declined to exercise its own contractual right
+
+to examine relevant customer contracts" and assess compliance with
+
+the OEM's conditions.      And this "representation" (the term Axis
+
+uses to describe Barracuda's years of silence on the issue)
+
+apparently "led Fusion to consider itself to be in compliance with
+
+the contractual condition at issue."          We are unpersuaded.      While
+
+the law recognizes a kind of estoppel by silence, the doctrine
+
+applies only where there is a duty to act.           See Marsh v. S. M. S.
+
+Co., 194 N.E. 97, 99 (Mass. 1935) (citation omitted).            Here, no
+
+such duty existed.        As explained before, the OEM might have
+
+allowed, but did not compel, Barracuda to ensure that Zoll's
+
+contracts complied with the OEM's terms.            It was still Fusion's
+
+                                 - 16 -
+responsibility to comply.      Thus, we agree with the district court
+
+that the failure to inquire is not grounds for equitable estoppel.
+
+Barracuda is entitled to summary judgment on Axis's breach of
+
+contract claim.
+
+            D. Fusion's breach of the covenant of good faith and
+            fair dealing claim
+
+            Finally,   Axis   claims   the    district     court   erred   by
+
+granting summary judgment for Barracuda on its breach of the
+
+covenant of good faith and fair dealing claim.                In its view,
+
+"substantial     evidence"    supports       the    fact   that    Barracuda
+
+"deprive[d] Fusion of the benefit of its contractual bargain with
+
+Barracuda."     After reviewing de novo, we see no good reason to
+
+reverse the district court.
+
+            Every contract in Massachusetts is subject to an implied
+
+covenant of good faith and fair dealing.           See Anthony's Pier Four,
+
+Inc. v. HBC Assocs., 583 N.E.2d 806, 820 (Mass. 1991) (citation
+
+omitted).     It provides "that neither party shall do anything that
+
+will have the effect of destroying or injuring the right of the
+
+other party to receive the fruits of the contract."           Id. (citation
+
+modified).     The implied covenant exists so that neither party
+
+hinders performance of the contract, but it cannot be used to
+
+"create rights and duties not otherwise provided for in the
+
+existing contractual relationship."          Ayash v. Dana-Farber Cancer
+
+Inst., 822 N.E.2d 667, 684 (Mass. 2005) (quoting Uno Rests., Inc.
+
+
+                                 - 17 -
+v. Boston Kenmore Realty Corp., 805 N.E.2d 957, 964 (Mass. 2004).
+
+"The scope of the covenant is only as broad as the contract that
+
+governs the particular relationship."       Id.
+
+          Here, Axis has not identified any contractual right to
+
+which Fusion was entitled to in the event of a breach.           The OEM is
+
+limited to the creation of a non-exclusive license to market and
+
+resell   Barracuda's      emailing   services     to   Fusion    customers.
+
+Although Fusion could have negotiated for a clause granting it
+
+assurances or protections in the event of a breach, we see nothing
+
+in the contract providing those assurances or protections. Because
+
+the   covenant   cannot    "substitute    for   [Fusion's]      failure   to
+
+negotiate . . . terms,"       Uno Rests., Inc., 805 N.E.2d at 967,
+
+Axis's claim fails.       See also Lohnes v. Level 3 Commc'ns, Inc.,
+
+272 F.3d 49, 62 (1st Cir. 2001) (finding no violation of the
+
+covenant where the defendant was "not contractually bound to
+
+provide the appellant with individualized notice . . . .").
+
+          We note that even if Fusion had held some right in the
+
+event of a data breach, none of Axis's proffered evidence can
+
+establish a lack of good faith on Barracuda's part.             Axis claims
+
+that Barracuda "was slow to provide information about the data
+
+breach;" that "when it did so, the information was often provided
+
+in a virtually unusable format;" that "Barracuda interfered with
+
+efforts by Zoll’s investigators to determine the actual cause of
+
+the breach;" and that Barracuda "misrepresented details of the
+
+                                 - 18 -
+breach."    Yet,     all   but    the    second    of    Axis's   claims   concern
+
+Barracuda's treatment of Zoll -- a party with whom Barracuda had
+
+no   contractual    relationship.          Thus,   they    cannot    evince    that
+
+Barracuda acted in bad faith toward Fusion.                       And the second
+
+allegation relates to the data being provided in JSON format.6
+
+Fusion's own witnesses testified that Fusion never requested the
+
+data in another format and that it was "not difficult" to decode.
+
+Indeed, they suggest that JSON files were standard for this type
+
+of data.   Taken together, these assertions would not suggest that
+
+Barracuda lacked good faith in its dealings with Fusion.
+
+           Barracuda's actions did not frustrate the OEM's purpose
+
+of enabling Fusion to resell Barracuda's services.                  Barracuda is
+
+therefore entitled to summary judgment on this claim.
+
+                                 III. CONCLUSION
+
+           For     the   reasons    explained,      we    affirm    the    district
+
+court's grant of summary judgment for Barracuda on all three
+
+claims.
+
+
+
+
+      JSON format is a machine-readable format configured to allow
+      6
+
+software and machine protocols to read content.
+                                        - 19 -
+

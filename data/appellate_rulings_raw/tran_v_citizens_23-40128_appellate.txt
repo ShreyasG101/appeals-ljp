@@ -1,0 +1,683 @@
+United States Court of Appeals
+                     For the First Circuit
+
+
+No. 24-1101
+
+                      IN RE: ANDY LUU TRAN,
+
+                             Debtor.
+
+
+                         ANDY LUU TRAN,
+
+                           Appellant,
+
+                               v.
+
+ CITIZENS BANK, N.A., f/k/a RBS Citizens, N.A.; HERBERT JACOBS,
+
+                           Appellees.
+
+
+          APPEAL FROM THE UNITED STATES DISTRICT COURT
+               FOR THE DISTRICT OF MASSACHUSETTS
+
+          [Hon. William G. Young, U.S. District Judge]
+
+
+                             Before
+
+                      Barron, Chief Judge,
+                   Breyer,* Associate Justice,
+                   and Kayatta, Circuit Judge.
+
+
+     David G. Baker, for appellant.
+     John F. Willis, with whom Fidelity National Law Group was on
+brief, for appellee Herbert Jacobs.**
+
+    *   Hon. Stephen G. Breyer, Associate Justice (Ret.) of the
+Supreme Court of the United States, sitting by designation.
+    **  Appellee Citizens Bank, N.A. did not file a brief and was
+not heard at oral argument. See Fed. R. App. P. 31(c).
+July 1, 2025
+            KAYATTA, Circuit Judge.                This appeal arises out of an
+
+adversary action filed in a Chapter 13 proceeding in the U.S.
+
+Bankruptcy Court for the District of Massachusetts.                         Under the
+
+"strong    arm"       provision    of    the      Bankruptcy      Code,    11   U.S.C.
+
+§ 544(a)(3), the debtor, Andy Luu Tran, seeks to avoid the transfer
+
+of his interest in his Massachusetts home (the "Property") because
+
+the   foreclosure        deed     was   recorded        without    an     accompanying
+
+certificate      of    acknowledgment.            The   bankruptcy      court   granted
+
+summary judgment against Tran; the district court affirmed.                        Tran
+
+timely appealed. For the following reasons, we affirm the judgment
+
+of the bankruptcy court.
+
+                                             I.
+
+            The facts are undisputed. In 2008, Tran granted Citizens
+
+Bank, N.A. (the "Bank") a mortgage on the Property.                       In 2022, the
+
+Bank foreclosed on the Property at an auction sale in which Herbert
+
+Jacobs was the high bidder.                  Jacobs and the Bank executed a
+
+memorandum of sale at the close of the auction.                   Subsequently, the
+
+Bank recorded an affidavit of sale stating the purchase price and
+
+Jacobs's identity and confirming that the sale complied with notice
+
+requirements under Massachusetts law. See Mass. Gen. Laws ch. 244,
+
+§ 15(b)    (2024)      (requiring       an    affidavit      of   sale    "fully   and
+
+particularly stating the person's acts" to be recorded in the
+
+registry    of    deeds);       id.     § 14      (2024)    (stating      the   notice
+
+requirements for a foreclosure sale).                      A foreclosure deed was
+
+
+                                         - 3 -
+recorded along with the affidavit of sale; however, the deed did
+
+not include the signature page required under Massachusetts law.
+
+See Mass. Gen. Laws ch. 183, § 29 (2024) ("No deed shall be
+
+recorded unless a certificate of its acknowledgment or of the proof
+
+of   its    due     execution . . .        is   endorsed   upon   or   annexed   to
+
+it . . . .").
+
+             Jacobs subsequently served on Tran a notice to vacate
+
+premises.         The next day, Tran filed a Chapter 13 bankruptcy
+
+petition,     and,     a    day   later,    an   adversary   complaint     in    the
+
+bankruptcy court seeking to avoid what he termed the "transfer of
+
+title" that occurred at foreclosure due to the improperly recorded
+
+deed.      Tran then filed motions for judgment on the pleadings on
+
+the adversary complaint, which the bankruptcy court converted to
+
+motions for summary judgment.               The Bank and Jacobs filed cross-
+
+motions for summary judgment on Tran's adversary complaint.
+
+             Ruling in the adversary proceeding, the bankruptcy court
+
+first held that, under § 544's "strong arm" provision, the only
+
+"transfer" that occurred at foreclosure was of Tran's equity of
+
+redemption, because legal title at that point was with the Bank.
+
+And Tran's equity of redemption, the court held, was extinguished
+
+at the conclusion of the foreclosure auction by the execution of
+
+the memorandum of sale between the Bank and Jacobs.                    Delivery of
+
+the deed thereafter only "implicate[d] certain limited rights"
+
+which      "d[id]     not    revive    [Tran's]      extinguished      equity    of
+
+
+                                       - 4 -
+redemption."       Although the bankruptcy court assumed Tran had
+
+standing under 11 U.S.C. § 522(h) to proceed in the trustee's shoes
+
+for the purposes of an avoidance action under § 544, it held that,
+
+under Massachusetts law, the properly recorded affidavit of sale
+
+"provide[d]     constructive   notice       to   a   hypothetical   good   faith
+
+purchaser . . . and,        as such,    a trustee could not avoid the
+
+transfer (extinguishment) of the Debtor's equity of redemption on
+
+the Property."      Given that holding, the court did not reach the
+
+issue    of   whether   a   deed   without       a   signature   page   provided
+
+constructive notice.        The bankruptcy court also rejected Tran's
+
+motion for relief from the judgment on the same grounds.                See Fed.
+
+R. Civ. P. 59(e); Fed. R. Bankr. P. 9023.
+
+              Tran appealed to the U.S. District Court for the District
+
+of Massachusetts, which affirmed the decision of the bankruptcy
+
+court.    Tran now appeals to us.
+
+                                     II.
+
+              This court "review[s] the bankruptcy court's decision
+
+directly, despite the intermediate district-court decision."               U.S.
+
+Bank, N.A. v. Desmond (In re Mbazira), 15 F.4th 106, 111 (1st Cir.
+
+2021).    "We assess the bankruptcy court's factual findings for
+
+clear error and its legal conclusions de novo."              Id.
+
+                                       A.
+
+              "Chapter 5 of the Bankruptcy Code affords bankruptcy
+
+trustees the authority to 'set aside certain types of transfers
+
+
+                                    - 5 -
+and recapture the value of those avoided transfers for the benefit
+
+of the estate.'"     Merit Mgmt. Grp., LP v. FTI Consulting, Inc.,
+
+583 U.S. 366, 370 (2018) (cleaned up) (quoting Charles J. Tabb,
+
+Law of Bankruptcy § 6.2, at 474 (4th ed. 2016)).       The "strong arm"
+
+provision grants such authority, stating that a trustee
+
+          may avoid any transfer of property of the
+          debtor . . . that is voidable by . . . a bona
+          fide purchaser of real property . . . from the
+          debtor, against whom applicable law permits
+          such transfer to be perfected, that obtains
+          the status of a bona fide purchaser and has
+          perfected such transfer at the time of the
+          commencement of the case, whether or not such
+          a purchaser exists.
+
+11 U.S.C. § 544(a), (a)(3).       In other words, § 554(a) and (a)(3)
+
+"give[] the trustee the rights of a bona fide purchaser" such that
+
+"the trustee can avoid most unperfected and incomplete transfers
+
+of the debtor's . . . property."       1 Robert E. Ginsberg & Robert D.
+
+Martin,   Ginsberg   &   Martin   on   Bankruptcy   § 9.01[A],   at   9-5
+
+(Catherine J. Furay ed., 6th ed. 2022).
+
+          Moreover, "[a]lthough the statute . . . refer[s] to the
+
+trustee's right to avoid transfers under § 544, a debtor in
+
+possession . . . may also benefit from these avoiding powers" in
+
+some instances.    Id. § 9.01[A][1], at 9-6; see 11 U.S.C. § 522(h)
+
+("The debtor may avoid a transfer of property . . . to the extent
+
+that the debtor could have exempted such property . . . if . . .
+
+such transfer is avoidable by the trustee under [§] 544 . . . .").
+
+
+
+
+                                  - 6 -
+                As a debtor in possession, Tran seeks to avoid the
+
+"transfer" of his interest in the Property under the "strong arm"
+
+provision.1        In order to assess his claim, we first decide what
+
+property interest is at stake and when any "transfer" occurred.
+
+See González v. Banco Popular De Puerto Rico (In re Cancel), 7
+
+F.4th 23, 29 (1st Cir. 2021) ("The core question under 11 U.S.C.
+
+[§ 544(a)(3)] is whether under state law the debtor conveyed a
+
+property interest in the real property at issue . . . .").                    We
+
+then consider whether a hypothetical bona-fide purchaser would
+
+have been able to avoid that "transfer."               See Stern v. Cont'l
+
+Assurance Co. (In re Ryan), 851 F.2d 502, 505–06 (1st Cir. 1988).
+
+                                         B.
+
+                On appeal, Tran claims two interests in the Property
+
+that       he   says   support   an   avoidance   action:   first,    his   pre-
+
+foreclosure right (known as the equity of redemption) to redeem
+
+legal title to the Property by paying off the mortgage, and second,
+
+his post-foreclosure right to surplus proceeds after the sale,
+
+together with his possessory interest in the Property.               We address
+
+each in turn.
+
+
+
+
+       1Following the parties' lead, we, like the bankruptcy court,
+assume that Tran has standing to bring this avoidance action as a
+debtor in possession under 11 U.S.C.§ 522(h).
+
+
+                                       - 7 -
+                                    1.
+
+           Under Massachusetts law, a grant of a mortgage splits
+
+title into two parts: legal title to the mortgagee and equitable
+
+title to the mortgagor.     Bevilacqua v. Rodriguez, 955 N.E. 2d 884,
+
+894 (Mass. 2011).     Upon default, the mortgagor's property interest
+
+is known as the equity of redemption, which consists of "the basic
+
+and historic right of a debtor to redeem the mortgage obligation
+
+after its due date" and regain legal title to the property.               Id.
+
+(quoting Restatement (Third) of Prop.: Mortgs. ch. 3, intro. note
+
+(Am. L. Inst. 1997)).
+
+           Massachusetts law provides, however, that a mortgagor's
+
+equity of redemption persists only until the property has been
+
+sold via foreclosure.      See Mass. Gen. Laws ch. 244, § 18 (2024)
+
+("The mortgagor . . . may . . . redeem the land mortgaged . . .
+
+unless the land has been sold pursuant to a power of sale contained
+
+in the mortgage deed.").     And Massachusetts courts have uniformly
+
+held that the foreclosure sale is complete at the close of the
+
+auction,   when   a   memorandum   of    sale   is   executed   between   the
+
+mortgagee and the highest bidder.         Williams v. Resol. GGF OY, 630
+
+N.E.2d 581, 585 (Mass. 1994) ("The execution of the memorandum of
+
+sale terminated the plaintiffs' equity of redemption."); Outpost
+
+Cafe, Inc. v. Fairhaven Sav. Bank, 322 N.E.2d 183, 187 (Mass. App.
+
+
+
+
+                                   - 8 -
+Ct. 1975) (interpreting Mass. Gen. Laws ch. 244, § 182 to mean that
+
+a mortgagor's right to redeem is extinguished at least as early as
+
+the time of execution of the memorandum of sale at the foreclosure
+
+sale); White v. Marcarelli, 166 N.E. 734, 736 (Mass. 1929) ("If a
+
+foreclosure sale is fairly conducted and there is no defect in the
+
+proceedings, the right of the intervenor to redeem is gone when
+
+the contract of sale was made with the purchaser at the auction.").
+
+               In sum, Tran did indeed have a property interest in the
+
+form of an equity of redemption, and that interest was extinguished
+
+at the foreclosure sale when the Bank and Jacobs executed a
+
+memorandum of sale.            Further, the Bankruptcy Code is clear that
+
+"the       foreclosure   of    a    debtor's       equity   of    redemption"    is   a
+
+"transfer"       under   the       meaning    of    the   Code.      See   11   U.S.C.
+
+§ 101(54)(C).        Thus,      as    the    bankruptcy     court    found,     Tran's
+
+avoidance action gets to first base to the extent it is based on
+
+an attempt to recover his equitable interest in the Property,
+
+rather than legal title.
+
+                                             2.
+
+               Tran's effort to rely on his asserted post-foreclosure
+
+equity in the property as a basis for an avoidance action fares
+
+less well.       Because this argument is floated for the first time
+
+
+
+       2The language of the provision interpreted by the Outpost
+Cafe court is substantively identical to that of the provision in
+force today. See Mass. Gen. Laws ch. 244, § 18 (2024).
+
+
+                                         - 9 -
+before us, it receives, at best, plain-error review.              See Nat'l
+
+Fed'n of the Blind v. The Container Store, Inc., 904 F.3d 70, 85–
+
+86 (1st Cir. 2018).    And Tran makes no showing of plain error.           It
+
+is   true   that,   after   a   memorandum    of   sale   is   executed    at
+
+foreclosure, a mortgagor retains an entitlement to any surplus
+
+proceeds left over after the mortgage is paid.             See Mass. Gen.
+
+Laws ch. 183, § 27 (2024) ("The holder of a mortgage of real
+
+estate . . . out of the money arising from a sale under the power
+
+of sale shall be entitled to retain all sums then secured by the
+
+mortgage . . .      rendering    the   surplus,      if    any,    to     the
+
+mortgagor . . . ."); Duclersaint v. Fed. Nat'l Mortg. Ass'n, 696
+
+N.E.2d 536, 538–39 (Mass. 1998) ("Generally, a mortgagee must give
+
+a mortgagor any surplus generated at a foreclosure sale[, which
+
+is] . . . any amount recovered at a foreclosure sale above the
+
+amount owed to the mortgagee, including fees and costs." (citation
+
+omitted)).   In addition, Tran retains a possessory interest in the
+
+property, since he still resides there.
+
+            But Tran identifies no "transfer" of these interests,
+
+meaning there is nothing to "avoid."         See 11 U.S.C. § 544(a).      Nor
+
+can he revive his lost equity of redemption through these more
+
+limited interests.     See In re Crichlow, 322 B.R. 229, 237 (Bankr.
+
+D. Mass. 2004) (holding that a mortgagor's "limited rights . . .
+
+to receive any residual amounts it is due after the mortgagee's
+
+debt has been satisfied . . . do not revive the lost equity of
+
+
+                                  - 10 -
+redemption"); Ray v. JP Morgan Chase & Co., No. 15 MISC 00507,
+
+2016 WL 2854323, at *6 (Mass. Land Ct. May 16, 2016) (same).                Tran
+
+also emphasizes that creditors are required to seek relief from
+
+the Bankruptcy Code's automatic stay before interfering with a
+
+debtor's post-foreclosure interests.            See, e.g., In re Sullivan,
+
+551 B.R. 868, 868–89 (Bankr. D. Mass. 2016) (reasoning that "a
+
+debtor's bare possessory interest" is "property of the estate"
+
+even   if   the   debtor's     other     interests    were   extinguished    at
+
+foreclosure (quoting Fed. Nat'l Mortg. Ass'n v. Fitzgerald (In re
+
+Fitzgerald), 237 B.R. 252, 258 (Bankr. D. Conn. 1999)).                But he
+
+fails to explain how the fact that creditors would need to seek
+
+relief from the automatic stay to interfere with his remaining
+
+interests in the Property supports his ability to avoid the loss
+
+of his previous interests in the Property.              In sum, there is no
+
+plain error here.
+
+            Thus, Tran's only route to regaining equitable title to
+
+the Property is by avoiding the foreclosure of his equity of
+
+redemption.       We   now   turn   to   the   key   question:   whether    that
+
+"transfer" was "so far perfected as to be effective against a bona
+
+fide purchaser of that [property interest] from [Tran] under
+
+nonbankruptcy law."      Ginsberg & Martin, supra, § 9.01[B], at 9-7.
+
+                                         C.
+
+            In Massachusetts, a proper recording in the registry of
+
+deeds provides constructive notice, "a positive rule of state law
+
+
+                                     - 11 -
+that permits the prior purchaser to gain priority over a latter
+
+purchaser, regardless of whether the latter purchaser really knows
+
+of the prior purchase."          In re Ryan, 851 F.2d at 506.              This form
+
+of notice "aris[es] by presumption of law from the existence of
+
+facts and circumstances that a party had a duty to take notice
+
+of."   Bank of Am., N.A. v. Casey, 52 N.E.3d 1030, 1040 n.21 (Mass.
+
+2016) (quoting Notice, Black's Law Dictionary (10th ed. 2014)).
+
+Thus, a purchaser "has constructive notice (whether or not he has
+
+actual   knowledge)    of    a     prior   deed   if   that    deed   is    properly
+
+recorded."   In re Ryan, 851 F.2d at 506.
+
+           Here, the same principles apply to the extinguishment of
+
+Tran's equity of redemption upon foreclosure.                   Tran argues that
+
+neither the improperly recorded foreclosure deed nor the properly
+
+recorded affidavit of sale was sufficient to provide constructive
+
+notice of that event.            As support, he highlights this court's
+
+decision in In re Mbazira, 15 F.4th at 112.               There, we considered
+
+whether a mortgage deed provided constructive notice of a mortgage
+
+encumbering registered land where, as here, the relevant deed
+
+lacked the required certificate of acknowledgment.                Id.      Reasoning
+
+that "the weight of precedent leans decidedly in favor of strictly
+
+construing   the      statutory       requirement       for     certificates       of
+
+acknowledgment,"      we    held    that,   under      Massachusetts       law,   the
+
+recording of the unacknowledged mortgage was "not effective to
+
+give constructive notice to third parties."                   Id. at 112–13; see
+
+
+                                      - 12 -
+also In re Ryan, 851 F.2d at 507 (holding that a mortgage which
+
+lacked the signature of one witness per the requirements of Vermont
+
+law "could not serve as constructive notice of [the existence of
+
+that mortgage] to a future purchaser").
+
+          But   here,   our   inquiry     focuses   on   notice   of   the
+
+"foreclosure of [Tran's] equity of redemption," since that is the
+
+"transfer" with which the Bankruptcy Code is concerned, 11 U.S.C.
+
+§ 101(54)(C), and not on notice of a mortgage, as in In re Mbazira,
+
+which must be evidenced by the recording of a deed, see 15 F.4th
+
+at 111. Thus, even though, in other contexts, a recorded affidavit
+
+of sale cannot give constructive notice of the conveyance of a
+
+real property interest, here we are not dealing with such a
+
+conveyance, but with the extinguishment of a mortgagor's equity of
+
+redemption through the sale itself.       And although we have no prior
+
+case on this precise issue, we see no reason why a properly
+
+recorded affidavit of sale would not provide the requisite notice
+
+of the very sale it memorializes.         As such, we are persuaded by
+
+the   Bankruptcy   Court   for   the    District    of   Massachusetts's
+
+suggestion in another case that a properly recorded affidavit of
+
+sale would "put the world on notice that the foreclosure sale had
+
+been consummated, so that the failure to record the foreclosure
+
+deed itself might not present difficulties."        Weiss v. U.S. Bank,
+
+N.A. (In re Mularski), 565 B.R. 203, 208 n.2 (Bankr. D. Mass.
+
+2017); cf. Cerrato v. BAC Home Loans Servicing (In re Cerrato),
+
+
+                                 - 13 -
+504 B.R. 23, 33 (Bankr. E.D.N.Y. 2014) (holding that a "Report of
+
+Sale"      provided     "express    notice"      under    New    York   law    that   a
+
+foreclosure sale had been conducted).
+
+              Indeed, the presence of the properly recorded affidavit
+
+of sale here distinguishes cases where the Bankruptcy Court for
+
+the District of Massachusetts declined to find constructive notice
+
+of a "transfer" of a debtor's equity of redemption at a foreclosure
+
+sale. See In re Mularski, 565 B.R. at 208 & n.2; Neiva v. Loancare,
+
+LLC (In re Neiva), No. 23-40098, 2024 WL 544049, at *6–7 (Bankr.
+
+D. Mass. Feb. 9, 2024).            In each of those decisions, no documents
+
+had been recorded prior to the debtor's bankruptcy petition.3
+
+              To   be   sure,    Tran    correctly       notes   that   a     recorded
+
+affidavit of sale does not provide "conclusive proof of compliance"
+
+with recording requirements under Massachusetts law, such that the
+
+transfer of the property to Jacobs could not have been perfected
+
+by   the    affidavit     of    sale.    See     Fed.    Nat'l    Mortg.      Ass'n   v.
+
+Hendricks, 977 N.E.2d 552, 558 (Mass. 2012); Mass. Gen. Laws
+
+ch. 244, § 15(b) (2024) (providing that an affidavit of sale may
+
+
+      3 In In re Giacchetti, the bankruptcy court noted, while
+deciding a different issue, that "a bankruptcy trustee cloaked
+with the status of a bona fide purchaser . . . may avoid the
+transfer of a debtor's interest in property at a foreclosure sale
+if the deed was not recorded prior to the bankruptcy filing."
+Giacchetti v. Everhome Mortg. (In re Giacchetti), 584 B.R. 441,
+448 (Bankr. D. Mass. 2018). But a review of the docket in that
+case suggests that no documents relating to the foreclosure sale
+were recorded prior to the debtor's bankruptcy petition.     As a
+result, this case is also distinguishable.
+
+
+                                        - 14 -
+"be   admitted    as   evidence      that   the   power   of   sale    was   duly
+
+executed").   But the question is not whether the affidavit of sale
+
+perfects the conveyance of the Property from the Bank to Jacobs.
+
+Rather, the relevant question is whether the affidavit of sale
+
+provides   notice      of   the    extinguishment    of   Tran's      equity   of
+
+redemption.      And, as we have explained, it does.
+
+           Finally, Tran contends that the affidavit of sale "lives
+
+or dies" with the deed; "that is, if the deed is void, so is the
+
+memorandum or affidavit."            But he cites no authority for this
+
+proposition and does not elaborate on it, so we need not address
+
+it.   See United States v. Zannino, 895 F.2d 1, 17 (1st Cir. 1990).
+
+           As a result, we agree with the bankruptcy court that the
+
+affidavit of sale provided constructive notice of the foreclosure
+
+under Massachusetts law.           For that reason, we need not reach the
+
+question of whether the improperly recorded foreclosure deed would
+
+independently suffice.            We therefore conclude that Tran cannot
+
+avoid the "transfer" of his equity of redemption in the Property.
+
+                                       III.
+
+           For the foregoing reasons, we affirm the judgment of the
+
+bankruptcy court.
+
+
+
+
+                                      - 15 -

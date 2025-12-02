@@ -1,0 +1,954 @@
+§UNITED STATES DISTRICT COURT                           
+              DISTRICT OF MASSACHUSETTS                              
+__________________________________________                                
+                              )                                      
+                              )                                      
+STATE TEACHERS RETIREMENT          )                                      
+SYSTEM OF OHIO, individually and      )                                   
+on behalf of all others similarly situated,    )                          
+                              )                                      
+          Plaintiff,          )                                      
+                              )                                      
+     v.                       )                                      
+                              )         Case No. 23-cv-11132-DJC     
+                              )                                      
+CHARLES RIVER LABORATORIES         )                                      
+INTERNATIONAL, INC., JAMES C.      )                                      
+FOSTER and DAVID R. SMITH,         )                                      
+                              )                                      
+          Defendants.         )                                      
+__________________________________________)                               
+
+               MEMORANDUM AND ORDER                                  
+
+CASPER, J.                                              July 1, 2024      
+
+I.   Introduction                                                         
+
+Lead plaintiff State Teachers Retirement System of Ohio (“Plaintiff”)  asserts this putative 
+class action against Defendants Charles River Laboratories International, Inc. (“Charles River” or 
+the “Company”), Charles River’s Chief Executive Officer (“CEO”) James C. Foster (“Foster”) 
+and  Charles  River’s  former  Chief  Financial  Officer  (“CFO”)  David  R.  Smith  (“Smith”) 
+(collectively, “Defendants”), alleging securities fraud in violation of Sections 10(b) and 20(a) of 
+the Securities Exchange Act of 1934 (“Exchange Act”) and Securities and Exchange Commission 
+(“SEC”) Rule 10b-5 (“Rule 10b-5), between May 7, 2020 and March 15, 2023 (the “Class 
+Period”).  D. 36.  Defendants have moved to dismiss the amended complaint.  D. 42.  For the 
+reasons stated below, the Court ALLOWS the motion to dismiss.             
+II.  Factual Background                                                   
+
+The following facts are alleged in Plaintiff’s amended complaint, D. 36, and are accepted 
+as true for the purpose of resolving the motion to dismiss.               
+Plaintiff is a public pension fund with total investments of $88.8 billion as of June 30, 2022, 
+providing retirement benefits, health care benefits and other services to active, inactive and retired 
+Ohio public educators.  D. 36 ¶ 62.  Plaintiff purchased Charles River stock during the Class 
+Period.  Id.  Charles River is a publicly-traded drug development company (with its common stock 
+trading on the New York Stock Exchange) that assists drug developers in the discovery and 
+development of new products.  Id. ¶¶ 4, 63, 69.  Foster served as the Company’s Chief Executive 
+Officer at all relevant times, id. ¶ 64; Smith served as Chief Financial Officer from August 2015 
+to May 2022.  Id. ¶ 66.                                                   
+A.   Charles River Imports Long-Tailed Macaques for Drug Safety Assessment 
+     Studies Subject to Federal and International Law                
+
+U.S. Food and Drug Administration regulations require that a drug’s safety be proven 
+through drug safety assessment studies on animals before it can be tested in humans.  Id. ¶¶ 5, 75.  
+Charles River sells animals to drug developers for use in these drug safety assessment studies.  Id. 
+¶¶ 4, 71.  The Company also imports animals for use in its own drug assessment studies, which it 
+conducts on behalf of some clients.  Id. ¶¶ 4, 71–72.  To test the safety of biologic drugs, such as 
+vaccines, Charles River and other drug developers conduct safety assessment studies on “non-
+human primates” (“NHPs”) due to their biological similarity to humans.  Id. ¶¶ 5, 76–77.  The 
+NHP most frequently used to assess the safety of biologic drugs is the long-tailed macaque.  Id. 
+¶¶ 5, 83–85.  Nearly all macaques are imported into the United States.  See id. ¶¶ 6, 88. 
+The commercial trade and import of macaques is regulated by federal and international 
+law.  Id. ¶¶ 7, 92.  The macaque is a protected species under the Convention on International Trade 
+in Endangered Species of Wild Fauna and Flora (“CITES”), to which the United States is a party.  
+Id. ¶¶ 7, 93–94, 97.  The United States has implemented CITES through the Endangered Species 
+Act (“ESA”), which is enforced by the U.S. Fish and Wildlife Service (“USFWS”).  Id. ¶¶ 7, 104–
+05.  The ESA provides, in relevant part, that “[i]t is unlawful for any person . . . to engage in any 
+trade in any specimens [of wildlife] contrary to the provisions of the [CITES], or to possess any 
+
+specimens [of wildlife] traded contrary to the provisions of . . . [CITES].”  Id. ¶ 7 n.2 (alterations 
+in original) (quoting 16 U.S.C. § 1538(c)).                               
+Separately, the Lacey Act makes it unlawful for any person “to import, export, transport, 
+sell, receive, acquire, or purchase any fish or wildlife or plant taken, possessed, transported, or 
+sold in violation of any law, treaty, or regulation of the U.S.”  Id. ¶¶ 7 n.2, 106 (citing 16 U.S.C. 
+§ 3372(a)(1)).  The Lacey Act defines “wildlife” as “any wild animal, whether alive or dead, 
+including without limitations any wild mammal . . . whether or not bred, hatched, or born in 
+captivity, and includes any part, product, egg, or offspring thereof.”  Id. ¶ 106 (quoting 16 U.S.C. 
+§ 3371(a)).                                                               
+
+During the Class Period, Charles River told investors that the Company maintained and 
+enforced standards of conduct concerning its suppliers.  Id. ¶ 107.  For example, the Company 
+would refer investors to its Code of Business Conduct and Ethics and Supplier Code of Conduct, 
+which provided that Charles River’s executives, officers, employees and suppliers “must comply 
+with the international agreements and conventions, as well as the national, regional and local laws 
+and regulations that apply to our global and international business,” “[b]e truthful and accurate in 
+all representations and certifications made to government agencies,” “[w]e must always be truthful 
+and accurate about our products and services,” and “we must all be vigilant in meeting and going 
+beyond our responsibilities to comply with relevant laws and regulations.”  Id. ¶ 108.   
+B.   China Restricts Macaque Exports in Response to the Pandemic and Charles 
+     River Sources Macaques from Other Suppliers in Southeast Asia             
+
+Before the Class Period, Charles River obtained more than 60% of its macaques from 
+China.  Id. ¶¶ 8, 110.  In early 2020, however, in the wake of the Covid-19 pandemic, China 
+imposed strict restrictions on the export of macaques, reducing exports to the United States to zero.  
+Id. ¶¶ 9, 111.  As China imposed its export controls, Cambodian suppliers increased their export 
+of macaques to the United States—up 86% in 2020 over 2019, with similar increases in 2021 and 
+2022 compared to 2019.  Id. ¶¶ 14, 115.  In 2019, Cambodia exported between 10,902 and 11,351 
+macaques to the United States; in 2020, it exported between 24,500 to 28,295 macaques to the 
+United States.  Id. ¶ 14.  Meanwhile, demand for Charles River’s drug safety assessment services 
+surged with the rise of Covid-19 related drug research, an increase in biologic drug development 
+generally, and access restrictions preventing Charles River’s clients from using their own research 
+facilities.  Id. ¶¶ 9, 89–90.                                             
+In response to these industry dynamics, Foster told investors shortly before the Class 
+Period, “we’ve made arrangements with other supply sources around the world,” and “[s]o we 
+won’t be interrupted there to any material degree.”  Id. ¶¶ 10, 137.  Throughout the Class Period, 
+Charles River sourced macaques from various suppliers in Southeast Asia, including Orient 
+BioResource Center, Inc. (“Orient BioResource”), Envigo Global Services, Inc. (“Envigo”), 
+Nafovanny, K.F. (Cambodia) Ltd. (“KF Cambodia”) and World Wide Primates, Inc. (“WW 
+Primates”).  Id. ¶¶ 20, 28–29, 124, 126, 132–34.  Charles River also received over 1,000 specimens 
+
+or extracts derived from macaques from KHI Bioservices Ltd.               
+Charles River received at least 2,262 macaques from Orient BioResource and Envigo, 
+subsidiaries of a company called Inotiv, Inc. (“Inotiv”).  Id. ¶¶ 20, 125–26.  Inotiv is a publicly 
+traded U.S. company and, as of 2021, purported to be the “largest importer of NHPs in North 
+America, with long-established relationships with the source breeders around the world,” including 
+from “breeding farms principally located in Cambodia, Vietnam, and Mauritius Island.”  Id. ¶ 125.  
+Inotiv primarily received macaques from Cambodia.  Id. ¶ 127.  Inotiv’s principal supplier of 
+macaques in the country was a network of related companies doing business as the “Vanny Group,” 
+including Vanny HK, KHI Bioservices Ltd., Vanny Cambodia, Vanny Chain Technology (HK) 
+
+Ltd. and Nafovanny.  Id. ¶¶ 127, 129.                                     
+Charles River received more than 10,000 macaques from KF Cambodia during the Class 
+Period, including 3,763 macaques in 2020, 3,182 macaques in 2021 and 3,096 macaques in 2022.  
+Id. ¶ 132.  The Company sourced at least 956 long-tailed macaques from WW Primates, a company 
+based in Miami, Florida.  Id. ¶ 133.  Nafovanny, a member of the Vanny Group based in Vietnam, 
+directly supplied at least 512 macaques directly to Charles River.  Id. ¶ 134.   
+As Charles River leveraged its network of suppliers, Defendants represented to investors 
+that the Company had a timely and steady supply of macaques to meet client demand.  Id. ¶ 11.  
+For example, Defendants stated in various SEC filings that Charles River had taken “steps to find 
+
+alternative supply channels and lock in supply with preferred sources through multi-year and/or 
+minimum commitment contracts,” id. ¶¶ 11, 145, 170, 262, and that “[w]e proactively engaged 
+with our suppliers beginning in January 2020 to limit any potential disruption to our supply chain.”  
+Id. ¶¶ 11, 143, 168.  During conference calls in 2020 and 2021, Foster told analysts and investors, 
+“we work really hard to have multiple supply sources from multiple geographies,” id. ¶¶ 12, 176, 
+“we’ve done an exceptional job in adding, ensuring, tightening up, expanding our supply sources 
+so that we have multiple supply sources for multiple countries such that we can support the 
+demand, which is quite significant,” id. ¶¶ 12, 203, and “we’ve had to identify and validate 
+multiple new sources of supply of multiple countries to accommodate just the increase in demand 
+and the pace of demand and just to ensure that the supply is there.”  Id. ¶¶ 12, 248.  On February 
+22, 2023, Foster stated, “in recent years, NHPs sourced from Cambodia have been responsible for 
+approximately 60% of the NHPs supplied to the United States and to Charles River for drug 
+research and development.”  Id. ¶¶ 116, 342.                              
+C.   Constraints on the Import of Macaques Due to Their Gestation Periods 
+
+As alleged by Plaintiff, the rapid increase in the supply of macaques from Cambodia was 
+unlikely to have been the result of captive breeding alone.  Id. ¶¶ 13, 15, 117.   Plaintiff asserts that 
+the gestation period for long-tailed macaques is roughly six months, pregnancy typically results in 
+one offspring and macaques usually are not ready for export until they are at least two years old.  
+Id. ¶¶ 15, 118–19.  Thus, any uptick in macaque exports in response to the Covid-19 pandemic, 
+according to Plaintiff, could not have occurred earlier than “at least late 2022.”  Id. ¶ 120.   
+The constraints imposed by NHPs’ gestation periods were acknowledged after the Class 
+Period by Charles River’s Executive Vice President and Chief Operating Officer Birgit Girshick 
+(“Girshick”), who stated in a June 8, 2023 conference call that “none of the [NHP] farms can scale 
+
+really, really quickly” and that “the gestation doesn’t allow that.  The animals have to be a certain 
+age.”  Id. ¶¶ 15, 122, 357.  On June 13, 2023, UBS published an analyst report stating that “given 
+the gestation periods and fecundity of primates, the rapid increase in supply originating in 
+Cambodia simply was not possible without including (illegally-sourced) wild animals into the 
+mix.”  Id. ¶¶ 16, 123.                                                    
+D.   The DOJ Investigates the Import of Macaques from Cambodia       
+
+On August 4, 2021, the U.S. Department of Justice (“DOJ”) issued a press release stating 
+that Gary Tucker, an executive at Orient BioResource, had pled guilty to lying to USFWS agents 
+about “his involvement in the procurement and importation to the United States of long-tailed 
+macaques—small non-human primates regularly employed in scientific research—from Southeast 
+Asia.”  Id. ¶¶ 21, 233.  Agents had asked Tucker “whether he or others working for his employer, 
+Orient BioResource Center (OBRC), prepared or submitted to OBRC any audits or reports 
+concerning visits to supplier sites in Cambodia,” the existence of which “was material to the 
+ongoing investigation into the trafficking of the primates.”  Id. ¶ 233.  Two days later, on August 
+
+6, 2021, Foster sold 10,000 shares of Charles River for over $4 million and gifted 2,500 shares 
+with a value of over $1 million; on August 9, 2021, Smith sold 1,750 shares of Charles River 
+common stock for proceeds of approximately $712,954.  Id. ¶¶ 22, 234–35.  On September 14, 
+2021, when asked about Charles River’s supply chain, Foster stated, “we’ve been doing a really 
+good job in supply chain . . . .  [W]e found ourselves in very good shape as supply chain tightened 
+or was hampered by COVID and have continued to work through that with pretty much no 
+disruptions at all that I’m aware of.”  Id. ¶ 236.  Foster referenced the Company’s “complex 
+framework of suppliers” and added that “what we’ve done there is meaningfully expanded our 
+supply sources.”  Id.                                                     
+
+The government filed its sentencing memorandum in Tucker’s criminal case on October 7, 
+2021, asserting that the government “has been investigating whether foreign exporters and, 
+potentially, U.S. importers are improperly importing wild-caught non-human primates into the 
+United  States  despite  the  animals  being  labeled  as  captive  bred  in  regulatory  and  related 
+documents.”  Id. ¶ 239.  A week later, the DOJ issued another press release, stating that Tucker 
+had been sentenced as part of “a criminal investigation of international trafficking of primates into 
+the United States.”  Id. ¶¶ 23, 238.  On October 26, 2021, Foster gifted 14,813 shares to his children 
+with a value of $6,367,072 based on the closing price per share of $429.83 per share.  Id. ¶¶ 24, 
+240.                                                                      
+On February 16, 2022, Inotiv disclosed in an SEC filing that, on June 15, 2021, Envigo had 
+been served with a grand jury subpoena by the DOJ “requiring the production of documents related 
+to the importation into the United States of live non-human primates originating from or transiting 
+through China, Cambodia and/or Vietnam.”  Id. ¶¶ 25, 253.  As of this disclosure, Charles River 
+allegedly had acquired at least 1,918 macaques from either Inotiv or its subsidiaries, Orient 
+
+BioResource and Envigo.  Id. ¶ 254.  As alleged, Orient BioResource and Envigo supplied more 
+than 814 macaques to Charles River, accounting for approximately 5% of macaques used by 
+Charles River in 2021.  Id.                                               
+Also on February 16, 2022, Charles River’s 2021 Form 10-K stated that “[w]e continuously 
+engage with our suppliers to limit any potential disruption to our supply chain,” id. ¶ 260, that 
+“[l]limited global supply or regional restrictions on transportation for certain products may require 
+us to source products from non-preferred vendors, which may not be successful,” id. ¶ 262, and 
+that “we are currently in compliance in all material respects with applicable national, regional and 
+local laws, as well as other accepted guidance used by oversight bodies.”  Id. ¶ 264.  On February 
+
+22 and 23, 2022, Foster exercised 37,732 options to acquire shares of Charles River common stock 
+and sold 100% of them for net proceeds of over $6.1 million.  Id. ¶¶ 26, 270–71.  On March 3, 
+2022, Smith exercised 8,965 options to acquire shares of Charles River common stock and sold 
+100% of them for net proceeds of $1,308,326.  Id. ¶ 272.                  
+On May 16, 2022, Inotiv disclosed that Orient BioResource had received a grand jury 
+subpoena from the DOJ in June 2021, similar to the one previously served upon Envigo.  Id. ¶¶ 27, 
+280.  As of May 2022, Envigo and Orient BioResource had supplied Charles River with at least 
+1,990 macaques since the start of the Class Period, at least 1,247 of which were identified as 
+Cambodia macaques.  Id. ¶ 27.  Envigo and Orient BioResource had sourced about 60% of their 
+Cambodia macaques from the Vanny Group.  Id. ¶ 28.  On June 6, 2022, Foster gifted 2,000 of 
+Charles River common stock, with a value of $490,040, based on the closing price of $245.02 per 
+share.  Id. ¶ 281.                                                        
+Several months later, on or around September 21, 2022, the USFWS refused to clear a 
+shipment of 360 macaques from KF Cambodia to Charles River, the first time the agency had done 
+
+so.  Id. ¶¶ 30, 289, 291.  The USFWS blocked additional shipments from KF Cambodia to Charles 
+River on or around December 29, 2022 and January 22, 2023.  Id. ¶¶ 294–95.  By the end of the 
+Class Period, the USFWS had blocked the Company’s import of 1,269 macaques from KF 
+Cambodia.  Id. ¶ 296.                                                     
+E.   The DOJ Charges Six Vanny Group Executives                      
+
+On November 16, 2022, the DOJ unsealed an indictment of two Cambodian government 
+officials responsible for the implementation and oversight of CITES and six executives of the 
+Vanny Group, including executives at Vanny HK and Vanny Cambodia, charged with taking part 
+in a scheme to smuggle macaques into the United States.  Id. ¶¶ 31, 314.  The indictment also 
+referenced “unnamed” co-conspirators, which Plaintiff alleges to be Inotiv (or its subsidiaries 
+Orien BioResource and Envigo) and WW Primates.  Id. ¶¶ 31, 315–16.  The Vanny Group 
+executives were charged for allegedly conspiring to introduce wild macaques into the supply chain 
+of customers in the United States, in violation of the ESA and the Lacey Act.  Id. ¶¶ 32–33, 317–
+18.  On the same day, November 16, 2022, Charles River’s shares declined to $239.39 per share, 
+a decline of $10.68 per share or about 4.3% from the closing price per share on the prior day.  Id. 
+¶¶ 34, 323.  On November 17, 2022, Inotiv filed a Form 8-K with the SEC, stating that it had 
+previously disclosed the grand jury subpoenas issued to Orient BioResource and Envigo in June 
+2021 and acknowledging that Vanny Cambodia was Inotiv’s “principal supplier of non-human 
+primates.”  Id. ¶¶ 35, 324.                                               
+About  two  weeks  later,  on  November  30,  2022,  Charles  River  made  the  following 
+statements in a Form 8-K:                                                 
+Charles River was not named or referenced in the DOJ proceedings, and the 
+Company does not have any direct supply contracts with the indicted Cambodian 
+supplier.  [ ] Charles River has global supply sources, including other sources in 
+Cambodia, which is the primary country of origin of NHP imports to the United 
+States and to Charles River.  However, in light of the indictment, and subsequent 
+statements made by the Cambodia government, Charles River is operating under 
+the expectation that for some time period supply of Cambodia-sourced NHPs will 
+be difficult to obtain in the United States.                         
+
+Id. ¶¶ 37, 326.  Foster reiterated during an investor conference on the same day, “there were also 
+a couple of Cambodian officials that were named in this indictment, and we don’t have any direct 
+contacts with that supplier either,” and added that “we’re working really hard to mitigate any 
+potential adverse impact with other supply sources with our current supplier in Cambodia.”  Id. 
+¶¶ 37, 327.  Foster also stated that the situation was complex because “one of the big suppliers 
+from Cambodia, who’s not a supplier of ours is unable to ship.  So that’s going to hurt some folks” 
+and that “[the] [f]acility that we work with in Cambodia is extremely high quality one [sic], all the 
+ones that we work with are high quality ones.”  Id.  Charles River’s shares declined from $239.50 
+per share the previous day to close at $228.57 per share on November 30, 2022, a decline of $10.93 
+per share or 4.6%.  Id. ¶¶ 38, 328.                                       
+On January 12, 2023, there was the publication of a research report about Charles River, 
+in which it stated that “[t]he indictment of Vanny and other Cambodian officials alters” the 
+viewpoint that Charles River’s import of NHPs “was in a privileged position” because “~24% of 
+CRL’s U.S. NHP usage relies on Vanny supply (likely through an indirect relationship), a 
+perspective underappreciated by investors.”  Id. ¶¶ 43, 338.  The Company’s stock then declined 
+from a close on January 11, 2023 of $246.94 per share to a close at $232.25 per share on January 
+12, 2023, a decline of $14.69 per share or about 6%.  Id. ¶¶ 44, 339.  On February 15, 2023, Foster 
+sold over $5 million worth of Charles River stock.  Id. ¶¶ 46, 340.       
+F.   Charles River Discloses Receipt of a DOJ Subpoena               
+
+On February 22, 2023, before the market opened, Charles River announced on February 
+17, 2023, it had received a DOJ subpoena related to the USFWS investigation into the Company’s 
+import of NHPs from Cambodia.  Id. ¶¶ 47, 341.  Charles River also filed its 2022 Form 10-K, 
+stating that “we have voluntarily suspended future shipments of [NHPs] from Cambodia until such 
+time that we and USFWS can agree upon and implement additional procedures to reasonably 
+ensure that [NHPs] imported to the United States from Cambodia are purpose-based.”  Id. ¶¶ 47, 
+345.  Charles River’s stock price declined from a close on February 21, 2023 of $243.60 per share 
+to a close on February 22, 2023 of $219.09 per share, a decline of $24.51 per share or over 10%.  
+Id. ¶¶ 49, 346.                                                           
+On March 15, 2023, the last day of the Class Period, Foster stated in a conference call with 
+
+analysts and investors that Charles River had used non-preferred suppliers of macaques from 
+Cambodia.  Id. ¶¶ 50, 348.  In relevant part, Foster said:                
+So there are no U.S. breeding sources.  There are a couple of companies that sort 
+of brokers[,] that get animals from wherever.  We have used those folks to some 
+extent historically.  I’m trying to be careful picking my words here.  We prefer not 
+to use them.  Reputationally, I just don’t think they’re the best possible people to 
+use.  And I don’t actually think they care where the animals come from or what the 
+background is and they’ve been kind of inappropriate with pricing . . . . There are 
+probably animals in country brought in from the outside, including it could be from 
+Cambodia.  It could be from the source that DOJ is looking at.  I don’t know that.  
+We’re just not using them, number one.  Number two, I don’t think it’s large 
+numbers of the [animals].  Number three, I don’t know how sustainable that is.  
+Id. (second alteration in original).  The same day, Charles River’s stock declined from a closing 
+price on March 14, 2023 of $205.02 per share to close at $194.90 per share, a decline of $10.12 
+per share or approximately 5%.  Id. ¶¶ 51, 349.                           
+Approximately two months later, on May 11, 2023, Foster stated, “we’re quite confident 
+from what we know that our supplier—he has [been] purpose bre[e]ding these animals according 
+
+to all of our expectations, and we can demonstrate that . . . we’re confident that we can prove it 
+and demonstrate it scientifically without a shadow of a doubt.”  Id. ¶¶ 54, 354.  On August 9, 2023, 
+Charles River disclosed in its Form 10-Q that, on May 16, 2023, the Company had received an 
+inquiry from the SEC, requesting information related to the Company’s sourcing of NHPs in Asia.  
+Id. ¶ 356.  As of November 13, 2023, the Company’s stock price had not recovered, closing at 
+$170.03 per share.  Id. ¶¶ 55–56.                                         
+III.  Procedural History                                                  
+
+This class action was initiated on May 19, 2023.  D. 1.  The Court allowed a motion 
+appointing Plaintiff as lead plaintiff.  D. 25.  Plaintiff filed the amended complaint on November 
+14, 2023.  D. 36.  Defendants have now moved to dismiss.  D. 42.  The Court heard the parties on 
+the pending motion and took the matter under advisement.  D. 52, 53.      
+IV.  Standard of Review                                                   
+
+As with any Rule 12(b)(6) motion, the Court must “accept well-pleaded factual allegations 
+in the complaint as true and view all reasonable inferences in the plaintiffs’ favor.”  ACA Fin. 
+Guar. Corp. v. Advest, Inc., 512 F.3d 46, 58 (1st Cir. 2008) (citations omitted).     
+In addition, “[a]s with all allegations of fraud, a plaintiff must plead the circumstances of 
+the fraud with particularity, pursuant to Rule 9(b).”  Hill v. Gozani, 638 F.3d 40, 55 (1st Cir. 2011) 
+(citing ACA Fin., 512 F.3d at 58).  Allegations of securities fraud under Sections 10(b) and 20(a) 
+of the Exchange Act must satisfy the “specific pleading requirements” of the Private Securities 
+Litigation Reform Act (“PSLRA”).  Id.  The PSLRA requires that a pleading (1) “specify each 
+statement alleged to have been misleading [and] the reason or reasons why the statement is 
+misleading” and (2) “if an allegation regarding the statement or omission is made on information 
+and belief, the complaint shall state with particularity all facts on which that belief is formed.”  Id. 
+
+(quoting 15 U.S.C. § 78u–4(b)(1)); see In re Cabletron Sys., Inc., 311 F.3d 11, 27 (1st Cir. 2002).    
+With respect to the element of scienter, the PSLRA requires that the pleading “state with 
+particularity facts giving rise to a strong inference that the defendant acted with the required state 
+of mind.”  Hill, 638 F.3d at 55 (quoting 15 U.S.C. § 78u–4(b)(2)(A)).  “[T]he inference of scienter 
+must be more than merely ‘reasonable’ or ‘permissible’—it must be cogent and compelling, thus 
+strong in light of other explanations.”  Tellabs v. Makor Issues & Rts., Ltd., 551 U.S. 308, 323 
+(2007).  “A complaint will survive . . . only if a reasonable person would deem the inference of 
+scienter cogent and at least as compelling as any opposing inference one could draw from the facts 
+alleged.”  Id. at 324.  The plaintiff is not required to “plead evidence,” ACA Fin., 512 F.3d at 63, 
+
+however, and the Court must consider “all of the facts alleged, taken collectively.”  Tellabs, 551 
+U.S. at 323 (emphasis in original).                                       
+V.   Discussion                                                           
+
+A.   Section 10(b) and Rule 10b-5 (Count I)                          
+
+To state a claim under Section 10(b) and Rule 10b-5, a plaintiff must plead the following 
+“six elements”:  “(1) a material misrepresentation or omission; (2) scienter; (3) a connection with 
+the purchase or sale of a security; (4) reliance; (5) economic loss; and (6) loss causation.”  City of 
+Miami Fire Fighters’ & Police Officers’ Ret. Tr. v. CVS Health Corp., 46 F.4th 22, 30 (1st Cir. 
+2022) (quoting Constr. Indus. & Laborers Joint Pension Tr. v. Carbonite, Inc., 22 F.4th 1, 6 (1st 
+Cir. 2021)).  Defendants argue that Plaintiff has failed to plead a material misrepresentation or 
+omission, scienter and loss causation.  D. 43 at 17–28.                   
+     1.   Actionable Misrepresentations or Omissions                 
+
+“To  establish  a  material  misrepresentation  or  omission,  [Plaintiff]  must  show  ‘that 
+defendants made a materially false or misleading statement or omitted to state a material fact 
+necessary to make a statement not misleading.’”  Ganem v. InVivo Therapeutics Holdings Corp., 
+845 F.3d 447, 454 (1st Cir. 2017) (quoting Geffon v. Micrion Corp., 249 F.3d 29, 34 (1st Cir. 
+2001)).                                                                   
+With  respect  to  affirmative  statements,  the  truth  or  falsity  of  same  is  a  relatively 
+straightforward analysis, see In re Cytyc Corp. Sec. Litig., No. 02-cv-12399-NMG, 2005 WL 
+3801468, at *14 (D. Mass. Mar. 2, 2005), report and recommendation adopted by No. Civ.A. 02-
+12399-NMG (D. Mass. Mar. 22, 2005), but whether a statement is misleading “depends on the 
+perspective of a reasonable investor.”  Karth v. Keryx Biopharmaceuticals, Inc., 6 F.4th 123, 135 
+(1st Cir. 2021) (quoting Omnicare, Inc. v. Laborers Dist. Council Constr. Indus. Pension Fund, 
+
+575 U.S. 175, 186 (2015)).                                                
+With respect to omissions, Section 10(b) “do[es] not create an affirmative duty to disclose 
+any and all material information.”  In re Bos. Sci. Corp. Sec. Litig., 686 F.3d 21, 27 (1st Cir. 2012) 
+(alteration in original) (quoting Matrixx Initiatives, Inc. v. Siracusano, 563 U.S. 27, 44 (2011)).  
+“Even where the omitted ‘information is material, there is no liability . . . unless there was a duty 
+to disclose it.”  Pizzuto v. Homology Meds., Inc., No. 1:23-CV-10858-AK, 2024 WL 1436025, at 
+*8 (D. Mass. Mar. 31, 2024) (quoting Roeder v. Alpha Indus., Inc., 814 F.2d 22, 26 (1st Cir. 
+1987)); see Sec. & Exch. Comm’n v. Johnston, 986 F.3d 63, 72 (1st Cir. 2021) (noting that “[i]t is 
+well-settled that the ‘mere possession of . . . nonpublic information does not create a duty to 
+disclose it’”) (quoting In re Smith & Wesson Holding Corp. Sec. Litig., 669 F.3d 68, 74 (1st Cir. 
+2012)).  Moreover, the duty to disclose “extends only where affirmative states are made and the 
+speaker fails to ‘reveal those facts that are needed so that what was revealed would not be so 
+incomplete as to mislead.’”  Bos. Sci. Corp., 686 F.3d at 27 (quoting Hill, 638 F.3d at 57).   
+“Information  is  material  if  a  reasonable  investor  would  have  viewed  it  as  ‘having 
+
+significantly altered the total mix of information made available.’”  Ponsa-Rabell v. Santander Sec. 
+LLC, 35 F.4th 26, 33 (1st Cir. 2022) (quoting Miss. Pub. Emps.’ Ret. Sys. v. Bos. Sci. Corp., 523 
+F.3d 75, 85 (1st Cir. 2008)).  The Court considers “the entirety of the relevant facts available at 
+the time of the allegedly misleading statement, not simply the words of the statement itself.”  Id.  
+Although “[m]ateriality is usually a matter for the trier of fact,” ACA Fin., 512 F.3d at 65, “courts 
+have demonstrated a willingness to find immaterial as a matter of law a certain kind of rosy 
+affirmation  commonly  heard  from  corporate  managers  and  numbingly  familiar  to  the 
+marketplace—loosely optimistic statements that are so vague, so lacking in specificity, or so 
+clearly constituting the opinions of the speaker, that no reasonable investor could find them 
+
+important to the total mix of information available.”  Shaw v. Digital Equip. Corp., 82 F.3d 1194, 
+1217 (1st Cir. 1996).                                                     
+Plaintiff alleges numerous, materially false or misleading statements in the amended 
+complaint.  D. 36 ¶¶ 141, 143, 145, 147, 149, 157, 159, 161, 168, 170, 172, 174, 176, 184, 186, 
+188, 191, 194–95, 200, 203, 213, 215, 221, 224, 226, 228, 230, 236, 242, 244, 246, 248, 250, 256, 
+258, 260, 262, 264, 267–68, 274, 276, 278, 283, 285, 287, 303, 305, 307, 311, 326–27, 336.  
+Plaintiff  groups  these  alleged  misrepresentations  into  the  following  six  categories:  
+(1) representations  in  response  to  the  November  2022  indictment,  D. 46  at  17–18; 
+(2) representations  concerning  engagement  with  non-preferred  suppliers,  id.  at  18–21; 
+(3) representations  concerning  “purpose-bred,  SPF”  macaques,  id.  at  21;  (4) representations 
+concerning supply chain concentration, id. at 21–22; (5) representations concerning macaque 
+demand and inventory, id. at 22–24; and (6) representations concerning legal compliance and 
+codes of conduct.  Id. at 24–26.                                          
+          a)   Representations in Response to the November 2022 Indictment 
+
+Plaintiff alleges that, on November 30, 2022, Charles River and Foster made materially 
+false or misleading statements in response to the November 2022 indictment of two Cambodian 
+government officials and six executives of Vanny Group member companies, including Vanny 
+HK and Vanny Cambodia.1   D. 36 ¶¶ 314, 317, 326–27; see id. at 135, 138–39.  Specifically, 
+Plaintiff points to Charles River’s statements in the Form 8-K and Foster’s statements during an 
+investor conference.  Id. ¶¶ 326–27.  In the Form 8-K, Charles River stated that the “the Company 
+does not have any direct supply contracts with the indicted Cambodian supplier” and that “Charles 
+River has global supply sources, including other sources in Cambodia.”  Id. ¶ 326.  During the 
+investor conference, Foster reiterated that “we don’t have any direct contacts with that [indicted] 
+
+supplier” and stated that “we’re working really hard to mitigate any potential adverse impact with 
+other supply sources with our current supplier in Cambodia.”  Id. ¶ 327.  Foster added, “So really 
+complex [ ] situation at the moment, more complex by the fact that one of the big suppliers from 
+Cambodia, who’s not a supplier of ours is unable to ship.  So that’s going to hurt some folks.”  Id.   
+He further assured investors that the “[f]acility that we work with in Cambodia is [an] extremely 
+high quality one, all the ones that we work with are high quality ones,” that “we have a really good 
+
+
+
+1 As alleged, Smith served as CFO of Charles River from August 2015 to May 2022, D. 36 
+¶ 66; accordingly, the allegations in the amended complaint do not appear to link him to any of the 
+November 30, 2022 statements.                                             
+supplier over there and a good relationship and a big supply contract,” and that the supplier 
+implicated in the indictment is “not a supplier of ours.  It’s not directed to us . . . .”  Id.   
+Plaintiff alleges that Charles River and Foster’s representations regarding the Company’s 
+lack of “direct” supply contracts or contacts with the indicted supplier were materially false and 
+misleading because they failed to disclose that the Company had received macaques from the 
+
+Vanny Group network, through unnamed co-conspirators referenced in the indictment (which 
+Plaintiff alleges to be Worldwide Primates, Envigo and Orient BioResource).  Id. ¶¶ 39, 331.  
+Plaintiff  also  alleges  that  Foster’s  representations  were  false  and  misleading  because  they 
+suggested that the Company had no direct supply contracts with Vanny Cambodia when it had a 
+direct relationship with some Vanny Group companies, namely Nafovanny and KHI Bioservices 
+Ltd.  Id. ¶¶ 40, 331.  The amended complaint further alleges that Foster’s statements were 
+misleading because, as of September 2022, the USFWS had refused or rejected Charles River’s 
+import of at least 360 macaques from KF Cambodia in connection with its investigation of the 
+Vanny Group.  Id. ¶¶ 41, 331.                                             
+
+Charles  River’s  statements  on  the  Form  8-K  and  Foster’s  remarks  at  the  investor 
+conference on November 30, 2022 were not false or misleading.  The indictment named executives 
+of Vanny HK and Vanny Cambodia, id. at 138–39, neither of which are alleged to have been 
+Charles River’s direct suppliers.  See id. ¶¶ 126, 132–35 (alleging that Orient BioResource, 
+Envigo, KF Cambodia, WW Primates, Nafovanny and KHI Bioservices Ltd. were Charles River’s 
+direct suppliers of macaques or macaque specimens/extracts).  Accordingly, Charles River’s 
+statements on the Form 8-K emphasizing that the Company does not have any “direct” supply 
+contracts with the “indicted Cambodian supplier,” and Foster’s remarks indicating the same, were 
+true.  See Cytyc Corp., 2005 WL 3801468, at *14.  These statements also would not have been so 
+incomplete as to mislead the reasonable investor, given that, in the context of same, the Company 
+cautioned that “Cambodia-sourced NHPs will be difficult to obtain in the United States” for “some 
+time period.”  D. 36 ¶ 326; see In re Bos. Tech., Inc. Sec. Litig., 8 F. Supp. 2d 43, 55 (D. Mass. 
+1998) (noting that, in 10b-5 cases, statements are read in their “immediate context,” i.e., “the 
+balance of what was said on the particular occasion, and the immediate circumstances in which 
+
+the particular statement was made”).  Foster also had no duty to disclose the USFWS’ independent 
+refusal to clear shipments from KF Cambodia, an entity which does not appear to be mentioned in 
+the indictment and which, even as alleged, is not affiliated with either Vanny HK or Vanny 
+Cambodia.  See Bos. Sci. Corp., 686 F.3d at 27.                           
+          b)   Representations Concerning Engagement with Non-Preferred 
+               Suppliers                                             
+
+Plaintiff also alleges that Defendants made false or misleading statements throughout the 
+Class Period by stating in SEC filings that “regional restrictions on transportation for certain 
+products may require us to source products from non-preferred vendors.”  See, e.g., D. 36 ¶¶ 145, 
+170, 262.  Subsequent SEC filings incorporated this risk factor by reference.  See, e.g., id. ¶¶ 157, 
+285, 305.  According to Plaintiff, this risk factor was materially false and misleading because 
+Defendants did not disclose that the Company had already engaged “non-preferred vendors,” such 
+as “Orient BioResource and Envigo.”  Id. ¶ 146; see D. 46 at 18–21.       
+The truth or falsity of the Defendants’ statements, however, depends on the meaning of 
+“non-preferred,” a term not clearly defined in the amended complaint.  At oral argument, Plaintiff’s 
+counsel  contended  that  a  supplier  is  “non-preferred”  if  it  either  faces  an  allegation  of 
+noncompliance with the law or sources macaques from the wild.  D. 53 at 22.  Plaintiff’s counsel 
+also  pointed  to  Foster’s  statement  at  the  end  of  the  Class  Period  that  Charles  River  had 
+“historically” used suppliers “that get animals from wherever” and that the Company “prefer[red] 
+not to use them.”  Id. at 22–23; see D. 36 ¶ 17.                          
+“For allegedly false statements to support a claim of securities fraud, they must be false 
+when made.”  CVS Health Corp., 46 F.4th at 30 (internal quotation marks and citation omitted).  
+Thus, even by Plaintiff’s own definition of “non-preferred,” any statement by Defendants that the 
+
+Company “may” engage non-preferred suppliers of macaques would not have been false or 
+misleading until at least one of its suppliers either faced an allegation of noncompliance with the 
+law or sourced macaques from the wild.  See D. 53 at 22.  To that end, in the amended complaint, 
+Plaintiff singles out Orient BioResource and Envigo.  See, e.g., D. 36 ¶ 146 (identifying “Orient 
+BioResource and Envigo” as “non-preferred suppliers” of macaques); see also id. ¶¶ 171, 263, 306 
+(adopting the reasoning set forth in paragraph 146 of the amended complaint).  The amended 
+complaint does not allege, however, that Orient BioResource and Envigo were in violation of the 
+law or that they themselves were sourcing macaques from the wild when Defendants stated, 
+“regional restrictions on transportation for certain products may require us to source products from 
+
+non-preferred vendors.”                                                   
+Plaintiff points to the Company’s statements on August 3, 2022 and November 2, 2022, 
+see D. 46 at 20 (citing D. 36 ¶¶ 285, 305)—at which point Inotiv had disclosed that DOJ had issued 
+subpoenas to Orient BioResource and Envigo, D. 36 ¶¶ 25, 27, 253, 280—but the mere existence 
+of investigations does not establish that, at the time Defendants’ statements were made, Orient 
+BioResource and Envigo were, even by Plaintiff’s definition, “non-preferred.”2  As one other court 
+
+
+2 Although Plaintiff alleges that that an Orient BioResource executive, Gary Tucker, pled 
+guilty in August 2021 to an offense in connection with the DOJ’s investigation into potential illegal 
+trafficking of wildlife, see D. 36 ¶ 21, Defendants have proffered the DOJ press release upon which 
+Plaintiff’s allegations are based.  See D. 43-2 at 2–3.  The Court may consider same on a motion 
+to dismiss as a “document[ ] sufficiently referred to in the complaint.”  See Watterson v. Page, 987 
+has noted, “[t]he fact that Envigo and OBRC received subpoenas is just that—they received 
+subpoenas.”  In re Inotiv, Inc. Sec. Litig., No. 4:22-CV-045-PPS-JEM, 2024 WL 1344784, at *29 
+(N.D. Ind. Mar. 29, 2024); see Lipow v. Net1 UEPS Techs., Inc., 131 F. Supp. 3d 144, 167 
+(S.D.N.Y. 2015) (noting that “government investigations are just that, investigations”).    
+Plaintiff also cannot rely upon Foster’s statement at the end of the Class Period to salvage 
+
+its theory of falsity.  On March 15, 2023, Foster stated in a conference call: 
+So there are no U.S. breeding sources.  There are a couple of companies that sort 
+of brokers[,] that get animals from wherever.  We have used those folks to some 
+extent historically.  I’m trying to be careful picking my words here.  We prefer not 
+to use them.  Reputationally, I just don’t think they’re the best possible people to 
+use . . . .  There are probably animals in country brought in from the outside, 
+including it could be from Cambodia.  It could be from the source that DOJ is 
+looking at.  I don’t know that.  We’re just not using them, number one.  Number 
+two, I don’t think it’s large numbers of the [animals].  Number three, I don’t know 
+how sustainable that is . . . .                                      
+
+D. 36 ¶ 348 (second alteration in original).  Plaintiff construes this statement as an admission that 
+Charles River had used non-preferred suppliers of macaques from Cambodia throughout the Class 
+Period and, presumably, at the same time as when Defendants stated that the Company “may” 
+engage non-preferred vendors.  See id.; D. 46 at 19.  Assuming arguendo that the companies that 
+Charles River “prefer[red] not to use” (as noted by Foster on March 15, 2023) meet the same 
+criteria as “non-preferred vendors” (as noted in the Company’s risk factor), Foster’s statement is 
+too vague to meet the Rule 9(b) standard applied by the First Circuit in securities fraud actions.  
+See Greebel v. FTP Software, Inc., 194 F.3d 185, 193 (1st Cir. 1999) (explaining that the First 
+Circuit “has been notably strict and rigorous in applying the Rule 9(b) standard in securities fraud 
+
+F.2d 1, 3 (1st Cir. 1993).  According to the press release, Tucker pled guilty “to knowingly and 
+willfully making a materially false, fictious, and fraudulent statement and representation” to the 
+government as part of an ongoing investigation, D. 43-2 at 2; this offense, without more, does not 
+show that Orient BioResource’s import and supply of macaques was illegal or that the company 
+itself was engaged in obtaining macaques from the wild.                   
+actions”).  For instance, Foster’s statement does not specify “who” these non-preferred vendors 
+were, “when” the Company’s engagement with same occurred (aside from a vague mention of 
+“historically), or “where” these relationships were brokered.  See Wassan v. LogMeIn, Inc., 496 
+F. Supp. 3d 612, 626 (D. Mass. 2020) (explaining that a complaint asserting securities fraud under 
+Section 10(b) “must include the who, what, when, where, and how of the alleged fraud”) (internal 
+
+quotation marks and citation omitted).  Accordingly, Plaintiff has not sufficiently alleged that 
+Defendants’  statements  regarding  possible  engagement  with  non-preferred  suppliers  were 
+materially false and misleading.3                                         
+          c)   Representations Concerning “Purpose Bred, SPF” Macaques 
+
+Plaintiff also alleges that Defendants made materially false or misleading statements by 
+indicating in SEC filings that Charles River was a “premier provider of high quality, purpose bred, 
+SPF” macaques to the “biomedical research community.”  D. 36 ¶¶ 188, 258.  These statements 
+were included in the Company’s 2020 10-K and 2021 10-K, which were, respectively, filed on 
+February 17, 2021 and February 16, 2022.  Id. ¶¶ 183, 188, 255, 258.  Plaintiff asserts that 
+Defendants’ statements were materially false and misleading at the time they were made and that 
+Defendants failed to disclose that, because the Company had engaged non-preferred vendors, 
+Charles River likely received wild-caught macaques from Cambodia that were neither “purpose 
+bred” nor “SPF,” i.e., “specific pathogen free.”  D. 46 at 21; D. 36 ¶¶ 189–90.   
+
+
+3 Plaintiff’s theory that Defendants’ engaged non-preferred suppliers during the Class 
+Period serves as the basis for at least some of Plaintiffs’ other allegations of false and misleading 
+statements.  See, e.g., D. 36 ¶ 188–89 (alleging that Foster and Smith’s statements that Charles 
+River was a “premier provider of high quality, purpose bred, SPF large research models” were 
+materially false and misleading because “the Company had engaged non-preferred suppliers of 
+animals from Cambodia”).  These allegations similarly fail for lack of specificity and so, to avoid 
+redundancy, the Court focuses on Plaintiffs’ remaining theories of falsity to the extent they are not 
+premised upon Plaintiff’s assertions of engagement with non-preferred vendors.   
+Defendants’ description of Charles River was not materially false or misleading.  The 
+amended complaint itself notes that Charles River supplied macaques to drug developers, see D. 36 
+¶¶ 4, 69, 71, 92, 110, and the Plaintiff’s allegations plainly do not go so far as to assert that most 
+or all of these macaques were not “purpose bred” or “SPF.”  Plaintiff also does not seem to argue 
+that Charles River actually provided customers with wild-caught macaques, only that there existed 
+
+a substantial risk that the Company received wild-caught macaques during the Class Period.  See 
+D. 46 at 19–20 (arguing that “[b]y engaging and purchasing from [non-preferred] suppliers, it is 
+very likely that Charles River received animals trapped from the wild, substantially increasing the 
+risks to the Company”).  To the extent Plaintiff challenges Defendants’ use of the phrase “high 
+quality” to describe its macaques, such corporate puffery is not actionable.  See In re Biogen Inc. 
+Sec. Litig., 193 F. Supp. 3d 5, 42 (D. Mass. 2016) (holding that a company’s statement that it had 
+a “terrific product” was not actionable).                                 
+For reasons the Court has already discussed, namely the lack of specificity regarding the 
+allegations of Charles River’s engagement with “non-preferred” suppliers, Plaintiff’s argument 
+
+that Defendants were required to disclose the same when describing the Company as a provider of 
+high-quality macaques is unavailing.  Accordingly, the Court concludes Defendants’ statements 
+as alleged were not materially false or misleading.                       
+          d)   Representations Concerning Supply Chain Concentration 
+
+Plaintiff further asserts that Defendants made materially false and misleading statements 
+concerning Charles River’s supply chain concentration.  D. 46 at 21–22.  Specifically, Plaintiff 
+points to Foster’s remarks during a conference call on October 29, 2020, toward the beginning of 
+the Class Period.  Id. at 22 (citing D. 36 ¶¶ 176–77).  Foster stated, “we work really hard to have 
+multiple  supply  sources  from  multiple  geographies  and  multiple  suppliers  within  those 
+geographies and have close working relationships with them to ensure exceptional veterinary 
+oversight and supply numbers that are consistent and preferably and hopefully always in  advance 
+of when we need this animals because it’s an important resource.”  D. 36 ¶ 176.  He added, “we’re 
+doing very well resourcing in [N]HPs.”  Id. (alteration in original).     
+These statements were not false or misleading.  Even as alleged, it is true that Charles River 
+
+sourced its macaques from multiple geographies.  See, e.g., id. ¶ 29 (alleging that Charles River 
+received  macaques  from  Vietnam);  see  also  id.  ¶ 19  (indicating  that  Defendants  imported 
+macaques from Vietnam-based supplier Nafovanny).  Allegations that Charles River received 
+roughly 60% of its supply of macaques from Cambodia also necessarily confirm that the balance 
+of the Company’s macaques were sourced from other geographies.  See id. ¶ 14.  In addition, to 
+the extent Plaintiff challenges Foster’s statement that Charles River was “doing very well” with 
+resourcing NHPs, this statement is nonactionable puffery.  See Cytyc Corp., 2005 WL 3801468, 
+at *22 (ruling that statements about “momentum” and consistent “growth” non-actionable); Orton 
+v. Parametric Tech. Corp., 344 F. Supp. 2d 290, 301 (D. Mass. 2004) (concluding that statements 
+
+“we are pleased with . . . [the] results” and “[the company is] position[ed] . . . for long-term 
+growth”  were  “classic  example[s]  of  non-actionable  corporate  puffery”).    Thus,  Foster’s 
+statements on the October 29, 2020 conference call about its supply chain were not false or 
+misleading.4                                                              
+
+
+4 Plaintiff again attempts to rely upon Foster’s statement toward the end of the Class Period 
+to plead that Charles River used suppliers that “get animals from wherever” to allege that, during 
+the October 29, 2020 conference call, Foster had a duty to disclose the Company’s exposure to the 
+risk of engagement with non-preferred suppliers.  In the Company’s Q3 2020 10-Q filed on 
+October 29, 2020, D. 36 ¶ 167, however, Defendants stated that “limited global supply or regional 
+restrictions on transportation for certain products may require us to source products from non-
+preferred vendors.”  Id. ¶ 170.                                           
+          e)   Representations Concerning Macaque Inventory and Demand  
+
+In addition, Plaintiff asserts that Defendants made materially false or misleading statements 
+that Charles River had adequate inventory or was increasing inventory to meet customer demand, 
+while mitigating potential supply chain risks or disruptions.  See D. 46 at 21–22 (citing D. 36 
+¶¶ 143, 147, 157, 172, 184, 213, 221, 226, 244, 248, 250, 260).  For example, on May 7, 2020, 
+Defendants stated the following on Form 10-Q for the quarter ended March 28, 2020 (“Q1 2020 
+10-Q”):                                                                   
+We are focused on ensuring that we have adequate inventory and supplies on hand 
+given the potential disruption of the COVID-19 pandemic to our suppliers and their 
+supply chain.  Accordingly, we have and expect to continue to increase inventory 
+and supplies through the second quarter of 2020 and beyond as deemed appropriate.  
+We proactively engaged with our suppliers beginning in January 2020 to limit any 
+potential disruption to our supply chain.  However, notwithstanding generally 
+successful efforts to maintain supply chain continuity, we have experienced and 
+expect to experience increased costs and potential delays throughout our supply 
+chain during the pandemic.                                           
+
+D. 36 ¶ 143.  Plaintiff contends that this statement was materially false and misleading because 
+Defendants failed to disclose that, to increase its inventory of macaques, Charles River had 
+engaged non-preferred suppliers.  D. 46 at 22.  For reasons the Court has already discussed, 
+however, such as the lack of specificity concerning the Company’s alleged engagement with “non-
+preferred suppliers,” Plaintiff’s omission theory of falsity fails.5      
+
+5 Plaintiff also alleges that Defendants made materially false or misleading statements that 
+demand for the Company’s safety assessment studies had increased revenue and margins.  D. 46 
+at 23 (citing D. 36 ¶¶ 191, 256, 274, 303).  For example, Defendants stated on the Form 10-K, 
+filed on February 17, 2021, D. 36 ¶ 183, that the Company’s “Robust Safety Assessment” division 
+had experienced “revenue growth in fiscal 2020 [that] was primarily driven by increased demand 
+and pricing.”  Id. ¶ 191.  Plaintiff argues that this statement was materially false and misleading 
+because Defendants did not disclose that this demand “caused” Charles River to engage non-
+preferred suppliers, id. ¶ 192, but this argument fails for the same reason that Plaintiff’s omission 
+theory fails with respect to Defendants’ statements about inventory.      
+Many of Defendants’ statements about inventory also are not actionable on other grounds.  
+For instance, Defendants’ statement that Charles River “expect[s] to continue to increase inventory 
+and supplies through the second quarter of 2020 and beyond as deemed appropriate” is forward-
+looking and accompanied by ample cautionary language regarding the potential adverse impacts 
+of the Covid-19 pandemic to fall within the PSLRA’s “safe harbor.”  See Yan v. ReWalk Robotics 
+
+Ltd., 973 F.3d 22, 34 (1st Cir. 2020) (explaining that “a statement is not actionable if it is ‘a 
+forward-looking  statement,  and  [it]  is  accompanied  by  meaningful  cautionary  statements 
+identifying important factors that could cause actual results to differ materially from those in the 
+forward-looking statement’”) (alteration in original) (quoting 15 U.S.C. § 78u–5(c)(1)(A)(i)).  
+Other statements, such as those emphasizing the Company’s “proactive[ ]” and “successful” 
+engagement with suppliers, are nonactionable expressions of corporate optimism.  See Suna v. 
+Bailey Corp., 107 F.3d 64, 72 (1st Cir. 1997) (noting that “[a]nalysts and arbitrageurs rely on facts 
+in  determining  the  value  of  a  security,  not  mere  expressions  of  optimism  from  company 
+spokesmen”) (internal citation omitted).                                  
+
+          f)   Representations Concerning Legal Compliance and Codes of 
+               Conduct                                               
+
+Plaintiff alleges that Defendants made materially false or misleading statements concerning 
+Charles River’s compliance with the law.  See, e.g., D. 36 ¶ 149.  For example, on the Q1 2020 
+10-Q, id. ¶ 149, Defendants stated, “we believe we are currently in compliance in all material 
+respects with applicable national, regional and local laws, as well as other accepted guidance used 
+by oversight bodies [ ]including . . . the standards set by . . . the [CITES] [and] U.S. Fish and 
+Wildlife Service.”  Id.  Defendants added that “failure to comply could subject us to denial of the 
+right to conduct business, fines, criminal penalties and other enforcement actions.”  Id.  Defendants 
+made similar statements throughout the Class Period, see id. ¶¶ 159, 174, 186, 215, 228, 246, 264, 
+278, 287, with the latest iteration of this statement having been made on the Company’s Q3 2022 
+10-Q, filed on November 2, 2022.  Id. ¶ 307.                              
+These statements were not materially false or misleading.  Plaintiff does not allege that, 
+when Defendants were asserting their belief in the Company’s compliance with the law, Charles 
+River was actually violating the CITES, the ESA or other applicable laws.  Plaintiff alleges only 
+
+that the Company had engaged in conduct that “substantially and materially increased the risk to 
+the Company.”  See, e.g., id. ¶ 150.  Moreover, even assuming investigations could establish illegal 
+conduct, allegations that investigations were ongoing at the supplier level would not necessarily 
+undercut the truth of Defendants’ opinion or belief that Charles River itself was in compliance 
+with the law; Charles River, thus, was not required to disclose any further information when it 
+asserted a genuine belief.  See Miller Inv. Tr. v. Morgan Stanley & Co., 308 F. Supp. 3d 411, 428 
+(D. Mass. 2018) (noting that statements of opinion may be actionable where the speaker does not 
+actually hold the stated belief and where embedded statements of fact are untrue); see also Kushner 
+v. Beverly Enters., Inc., 317 F.3d 820, 831 (8th Cir. 2003) (holding that “[a]bsent a clear allegation 
+
+that the defendants knew of [illegal conduct] and its illegal nature at the time they stated the belief 
+that the company was in compliance with the law, there is nothing further to disclose”).   
+The Court also notes that the DOJ investigation into Charles River’s conduct allegedly 
+began  on  February  17,  2023,  when  the  Company  received  a  DOJ  subpoena  related  to  its 
+investigation of the Cambodian NHP supply chain.  D. 36 ¶ 341.  Charles River disclosed this 
+information to the market five days later, on February 22, 2023.  See id. ¶¶ 341–45.  Given that 
+Charles River’s latest disclosure related to its compliance was on November 2, 2022, months 
+before this investigation, Plaintiff has not shown that Defendants’ statements were false or 
+misleading when they were made.6  See CVS Health Corp., 46 F.4th at 30.   
+Separately, Plaintiff argues that Charles River’s codes of conduct, which allegedly applied 
+to suppliers, contained materially false and misleading statements.  D. 46 at 25–26; see D. 36 ¶¶ 
+194-95; 199-200.  As other courts have recognized, codes of conduct are “inherently aspirational”; 
+
+they reflect a company’s “opinions as to what actions are preferable, as opposed to implying that 
+all staff, directors, and officers always adhere to its aspirations.”  See Retail Wholesale & Dep’t 
+Store Union Loc. 338 Ret. Fund Hewlett-Packard Co., 845 F.3d 1268, 1276 (9th Cir. 2017); see 
+also Singh v. Cigna Corp., 918 F.3d 57, 61, 63 (2d Cir. 2019) (holding that a code of ethics 
+requiring employees “to act with integrity in all we do, including any and all dealings with 
+government officials” was nonactionable puffery).  Where, however, a code of conduct “describes 
+with specificity a course of conduct that [the defendant] promised to abjure,” such statements may 
+be deemed actionable.  See City of Fort Lauderdale Police & Firefighters’ Ret. Sys. v. Pegasystems 
+Inc., 683 F. Supp. 3d  120, 133–34 & n.6 (D. Mass. July 24, 2023) (holding that a code of conduct 
+
+was actionable where it “adopted” a code of conduct that stated the Company would “[n]ever use 
+illegal  or  questionable  means  to  acquire  a  competitor’s  trade  secrets  or  other  confidential 
+information, such as . . . seeking confidential information from a new employee who recently 
+worked for a competitor, or misrepresenting your identity in hopes of obtaining confidential 
+information”).                                                            
+
+
+6 Plaintiff argues that the allegations related to the USFWS blocking shipments, which 
+occurred before the November 2, 2022 statement, are sufficient to show that Charles River’s 
+statements were materially false or misleading.  D. 46 at 25.  That suppliers abroad were blocked 
+from  sending  shipments,  however,  does  not  establish  that  Charles  River  itself  was  in 
+noncompliance with the law.                                               
+Although some of portions of Defendants’ codes of conduct appear to prescribe a specific 
+course of conduct, see, e.g., D. 36 ¶ 195 (“make sure that all information furnished to any customs 
+officials or anyone we engage to facilitate our imports and exports is accurate and truthful”), the 
+overwhelming majority of alleged misrepresentations are either appeals to ethical norms or generic 
+references to compliance.  See, e.g., id. (“[w]e must comply with the international agreements and 
+
+conventions”); id. (“we must all be vigilant in meeting and going beyond our responsibilities to 
+comply with relevant laws and regulations”); id. ¶ 199 (“[s]uppliers are expected to conduct 
+business in accordance with the highest ethical standards and act with integrity”).  Moreover, as 
+alleged, Defendants represented to investors that the codes of conduct merely reflected the 
+Company’s “expectations”; given that a company has only so much control over its suppliers, a 
+reasonable investor would not mistake same for a certification that all of its suppliers were in 
+compliance with the law.  Cf. Pegasystems, 683 F. Supp. 3d at 133 n.6 (concluding that a code of 
+conduct was actionable where the defendant “assured investors that it had ‘adopted a written code 
+of conduct that applies to our Board of Directors and employees, including our principal executive 
+
+officer, principal financial officer, principal accounting officer, and persons performing similar 
+functions’” and where same did not apply to suppliers).  Accordingly, the Court concludes that 
+Defendants’ codes of conduct are not actionable statements under Section 10(b).   
+     2.   Scienter                                                   
+
+“Scienter is defined as either the ‘intentional or willful conduct designed to deceive or 
+defraud investors’ or ‘a high degree of recklessness.’”  Metzler Asset Mgmt. GmbH v. Kingsley, 
+928 F.3d 151, 158 (1st Cir. 2019) (quoting In re Biogen Inc. Sec. Litig., 857 F.3d 34, 41 (1st Cir. 
+2017)).  Recklessness in this context refers to “a highly unreasonable omission” involving “an 
+extreme departure from the standards of ordinary care, and which presents a danger of misleading 
+buyers and sellers that is either known to the defendant or is so obvious that the actor must have 
+been aware of it.”  Brennan v. Zafgen, Inc., 853 F.3d 606, 613 (1st Cir. 2017) (internal quotation 
+marks and citation omitted).  This “definition of recklessness does not encompass ordinary 
+negligence and is closer to a lesser form of intent.”  Greebel, 194 F.3d at 199.  Defendants must 
+have had the requisite scienter at the time of the allegedly fraudulent statements.  See In re Ariad 
+
+Pharms., Inc. Sec. Litig., 842 F.3d 744, 751–52 (1st Cir. 2016).          
+As noted above, the PSLRA’s requirement to plead facts giving rise to a “strong inference” 
+of scienter means that “[a] complaint will survive . . . only if a reasonable person would deem the 
+inference of scienter cogent and at least as compelling as any opposing inference one could draw 
+from the facts alleged.”  Tellabs, 551 U.S. at 324.  Thus, in evaluating securities class action 
+complaints,  courts  “must  take  into  account  plausible  opposing  inferences.”    Id.  at  323–24 
+(instructing courts to “consider plausible, nonculpable explanations for the defendant’s conduct, 
+as well as inferences favoring the plaintiff”).  This is necessarily a fact-specific inquiry, Aldridge 
+v. A.T. Cross Corp., 284 F.3d 72, 82 (1st Cir. 2002), which may rely upon indirect evidence of 
+
+scienter.  Greebel, 194 F.3d at 195, 202.  Courts conducting such an inquiry must determine 
+“whether all of the facts alleged, taken collectively, give rise to a strong inference of scienter, not 
+whether any individual allegation, scrutinized in isolation, meets that standard.”  Tellabs, 551 U.S. 
+at 322–23 (emphasis omitted).                                             
+Plaintiff argues that the amended complaint alleges a strong inference of scienter on the 
+theory that Foster and Smith “sold over $67 million in artificially inflated shares of Charles River 
+common stock—sales that were suspiciously times and in unusual amounts.”  D. 46 at 26–28.  
+Plaintiff also contends that the following circumstances support scienter:  (1) Charles River and 
+Foster’s November 30, 2022 statements given the USWFS and the DOJ’s investigations into the 
+import of macaques from Cambodia, id. at 28; (2) Foster and Smith’s conferences with investors, 
+monitoring of the supply chain and the public nature of the investigations, id. at 29; (3) the 
+Company’s over concentration in Cambodia and the rapid rise in macaque exports from the 
+country, id. at 30; (4) the centrality of safety assessment studies to Charles River’s business, id.; 
+and (5) Foster’s March 15, 2023 statement at the end of the Class Period indicating that the 
+
+Company had historically used “non-preferred suppliers.”  Id. at 31.      
+          a)   Foster and Smith’s Sale of Charles River Stock        
+
+Plaintiff asserts that Foster and Smith’s sale of over $67 million during the Class Period 
+supports a strong inference of scienter.  D. 46 at 26–28.  Plaintiff maintains that these sales were 
+“unusual in terms of dollar amounts and in percentages of shares sold” and occurred “around the 
+time of their misrepresentations, shortly before the stock crashed, or shortly after the DOJ 
+investigation was publicized.”  D. 46 at 27.                              
+“[M]ere pleading of insider trading, without regard to either the context or the strength of 
+the inferences to be drawn, is not enough.  At a minimum, the trading must be in a context where 
+defendants have incentives to withhold material, non-public information, and it must be unusual, 
+well beyond the normal patterns of trading by those defendants.”  Greebel, 194 F.3d at 198; see 
+Fire & Police Pension Ass’n of Colo. v. Abiomed, Inc., 778 F.3d 228, 245–46 (1st Cir. 1999) 
+(holding that insider trading that was “neither unusual nor suspicious” did not support scienter).  
+Although Plaintiff alleges that Foster and Smith’s sales were suspicious, the amended complaint 
+includes no allegations about Foster and Smith’s trading activity “before and after the class 
+period.”  See Lemartz v. Am. Superconductor Corp., 879 F. Supp. 2d 167, 186 (D. Mass. 2012).  
+Accordingly, the Court cannot conclude that Foster and Smith’s trading activity was “well beyond 
+the normal patterns of trading by those defendants.”  See Greebel, 194 F.3d at 198. 
+There are also more compelling, nonculpable explanations for Foster and Smith’s trading 
+activity.  Although Plaintiff insists that Foster and Smith sold or gifted stock “around the time of 
+their misrepresentations” and “shortly before stock crashed,” D. 46 at 27, the amended complaint 
+makes plain that Foster and Smith frequently sold or gifted their shares, on at least thirty-two 
+occasions throughout the Class Period.  See D. 36 ¶ 19; see In re Wayfair, Inc. Sec. Litig., 471 F. 
+
+Supp. 3d 332, 347 (D. Mass. 2019) (emphasizing that “[g]iven the frequency of Defendants’ trades, 
+it is essentially meaningless to say their sales were made ‘within a few days’ of a given date”).  
+Courts have noted that the sale of stock as the Company’s stock price is rising, as the amended 
+complaint alleges here, is “hardly surprising” and “further undermines an inference of scienter.”  
+See Quinones v. Frequency Therapeutics, Inc., 665 F. Supp. 3d 156, 175 (D. Mass. 2023); see also 
+Loc. No. 8 IBEW Ret. Plan v. Vertex Pharms. Inc., 140 F. Supp. 3d 120, 136 (D. Mass. 2015) 
+(explaining that “there is nothing unusual, or necessarily suspicious, about insider sales during 
+periods of rapid stock price increases”).                                 
+It is also significant that Foster and Smith’s holdings in Charles River stock increased 
+
+during the Class Period; thus, his financial exposure to drops in the Company’s stock price 
+increased over the Class Period, weakening the inference that Defendants sought to defraud 
+investors by selling off stock before the disclosure of adverse information.  D. 36 ¶ 65 (alleging 
+that Foster’s class-period holdings increased from 337,915 to 350,198 shares); id ¶ 67 (alleging 
+that Smith’s class-period holdings increased 20,475 to 27,725 shares); see Fire & Police Pension 
+Ass’n of Colo., 778 F.3d at 246 (noting that a 9.2% increase in insider’s stock holdings during the 
+class period negated an inference of “motive to artificially inflate” stock prices).   
+Because the allegations in the amended complaint provide more support for nonculpable 
+explanations for Foster and Smith’s trading activity than culpable ones, Plaintiff has not carried its 
+burden of pleading facts and circumstances behind Foster and Smith’s trading activity so as to 
+support a strong inference of scienter.  See Leavitt v. Alnylam Pharms., Inc., 451 F. Supp. 3d 176, 
+188 (D. Mass. 2020) (noting that plaintiff bears the burden of asserting facts regarding scienter). 
+          b)   Plaintiff’s Other Theories of Scienter                
+
+“‘[C]lear allegations of admissions, internal records or witnessed discussions suggesting 
+that at the time they made the statements claimed to be misleading, the defendant officers were 
+aware that they were withholding vital information or at least were warned by others that this was 
+so’ are often necessary to meet the PSLRA’s scienter requirement.”  In re Bos. Sci. Corp. Sec. 
+Litig., 646 F. Supp. 3d 249, 284 (D. Mass. 2022) (quoting Bos. Sci. Corp., 686 F.3d at 31).  The 
+amended complaint is devoid of such allegations.  Nonetheless, Plaintiff argues that the following 
+circumstances support a cogent inference of scienter:  (1) Charles River and Foster’s November 
+30, 2022 statements given the USWFS and the DOJ’s investigations into the import of macaques 
+from Cambodia, D. 46 at 28; (2) Foster and Smith’s conferences with investors, monitoring of the 
+supply chain and the public nature of the investigations, id. at 29; (3) the Company’s over 
+
+concentration in Cambodia and the rapid rise in macaque exports from the country, id. at 30; (4) the 
+centrality of safety assessment studies to Charles River’s business, id.; and (5) Foster’s March 15, 
+2023 statement at the end of the Class Period indicating that the Company had historically used 
+“non-preferred suppliers.”  Id. at 31.                                    
+First,  Plaintiff argues  Charles  River and  Foster’s  November  30,  2022  statements  in 
+response to the indictment of executives at Vanny HK and Vanny Cambodia support scienter 
+because they “sharply conflicted with the then-existing facts.”  Id. at 28.  As discussed above, 
+however, Charles River and Foster’s statements were not materially false or misleading.  In the 
+context of analyzing scienter, a company, however, is not required to disclose every interaction 
+with a government agency.  See Corban v. Sarepta Therapeutics, Inc., 868 F.3d 31, 40 (1st Cir. 
+2017) (emphasizing that “[t]he defendants had no legal obligation to loop the public into each 
+detail of every communication with the FDA”); Fire & Police Pension Ass’n of Colo., 778 F.3d at 
+244 (noting that “[t]here must be some room for give and take between a regulated entity and its 
+regulator”); see also Washtenaw Cnty. Emps.’ Ret. Sys. v. Avid Tech., Inc., 28 F. Supp. 3d 93, 
+
+114 (D. Mass. 2014) (explaining that a government investigation is “insufficient in and of itself” 
+to support a strong inference of scienter).                               
+Second, Plaintiff argue that scienter is met by a series of circumstances, including Foster 
+and Smith’s frequent remarks to investors during conferences, their monitoring of supply chain 
+risks,  publicly  available  information  about  the  DOJ  and  USFWS  investigations  and  their 
+“numerous misrepresentations concerning the Company’s non-preferred suppliers.”  D. 46 at 29.  
+Because the Court has already discussed the latter two of these circumstances at some length, the 
+Court focuses on Plaintiff’s claims regarding Foster and Smith.  To that end, Plaintiff cannot show 
+scienter merely by emphasizing responsibilities that are inherent to Foster and Smith’s positions 
+
+as CEO and CFO, respectively.  Such an argument is tantamount to the “scienter by status” theory, 
+which has been “uniformly rejected” and which cannot sustain a showing of scienter here.  See 
+Pegasystems, 683 F. Supp. 3d at 132; Lirette v. Shiva Corp., 27 F. Supp. 2d 268, 283 (D. Mass. 
+1998) (inferences that defendants by virtue of their position within a company “must have known” 
+about problems are “inadequate”).                                         
+Third, Plaintiff points to the Company’s alleged over concentration of its macaque supply 
+chain in Cambodia and the rapid increase in production from Cambodia.  D. 46 at 30.  Plaintiff 
+argues that the combination of these two factors amounted to a “red flag” that Foster and Smith 
+either knew about or recklessly disregarded given the gestation period of macaques.  Id.  In support 
+of this theory, Plaintiff points to a remark by Charles River’s Executive Vice President and Chief 
+Operating Officer Birgit Girshick, made after the Class Period, stating “none of the [NHP] farms 
+can scale really, really quickly . . . .  the gestation doesn’t allow that.  The animals have to be a 
+certain age.”  D. 36 ¶ 15.  Where Plaintiff has not made “clear allegations of admissions, internal 
+records or witnessed discussions” or the like involving Foster or Smith, this lone allegation falls 
+
+short of what is required to show scienter.  See Bos. Sci. Corp., 646 F. Supp. 3d at 284.  Moreover, 
+that this alleged remark was made after the end of the Class Period further weakens any inference 
+of scienter.  See Ezra Charitable Tr. v. Tyco Int’l, Ltd., 466 F.3d 1, 6 (1st Cir. 2006) (holding that 
+“pleading by hindsight, essentially making general allegations that defendants knew earlier what 
+later turned out badly, is not sufficient”) (internal quotation marks and citation omitted).   
+Fourth, Plaintiff points to the centrality of the safety assessment studies to Charles River’s 
+business model.  D. 46 at 30.  Allegations of scienter that rest on a company’s core business 
+without “other significant evidence of a defendant’s intent or recklessness,” however, do not offer 
+a strong basis to infer scienter. See Biogen, 193 F. Supp. 3d at 51.      
+
+Finally, Plaintiff argues that Foster’s “admission” on March 15, 2023, at the end of the 
+Class Period, that the Company had engaged non-preferred suppliers establishes scienter.  D. 46 
+at 31.  As the Court noted above, however, Foster’s statement is so devoid of specifics that it 
+cannot properly be characterized as an admission of knowledge.  In addition, as with Girshick’s 
+remark about the gestation period of macaques, Plaintiff’s argument represents an attempt to plead 
+scienter by hindsight, which the First Circuit has noted is not sufficient.  See Ezra Charitable Tr., 
+466 F.3d at 6.  Accordingly, Plaintiff has not alleged facts supporting a strong inference of scienter 
+and, thus, has failed to state a claim under Section 10(b) and Rule 10b-5 on this alternative basis.7   
+B.   Section 20(a) Claim (Count II)                                  
+
+Plaintiff claims that Foster and Smith are individually liable under Section 20(a) of the 
+Exchange Act based upon their positions of control and authority within the Company.  D. 36 
+¶¶ 403–07.  Section 20(a) imposes joint and several liability on “[e]very person who, directly or 
+indirectly, controls any person liable” for a securities fraud violation.  15 U.S.C. § 78t(a).  Thus, 
+to state a claim under Section 20(a), a plaintiff must allege a primary violation of the Exchange 
+Act.  ACA Fin., 512 F.3d at 67 (stating that “[t]he plain terms of [S]ection 20(a) indicate that it 
+only creates liability derivative of an underlying securities violation”).  Because Plaintiff fails to a 
+plead a primary securities law violation, Plaintiff’s claim under Section 20(a) against Foster and 
+Smith also fails.                                                         
+C.   Leave to Amend                                                  
+
+A party may amend a complaint with the court’s leave, which the court “should freely give” 
+when “justice so requires.”  Fed. R. Civ. P. Rule 15(a)(2).  Leave to amend may be “denied for 
+several reasons, including undue delay, bad faith, dilatory motive of the requesting party, repeated 
+failure  to  cure  deficiencies,  and  futility  of amendment.”   Hagerty  ex  rel.  United  States  v. 
+Cyberonics, Inc., 844 F.3d 26, 34 (1st Cir. 2016) (internal quotation marks and citation omitted).   
+Here, Plaintiff has not formally requested leave to amend the amended complaint.  Plaintiff 
+instead asserts in a footnote on one of the final pages of its opposition that “[i]n the event the Court 
+dismisses the Complaint, in whole or in part, Plaintiff requests leave under Rule 15 of the Federal 
+Rules of Civil Procedure for an opportunity to replead.”  D. 46 at 34 n.25.  Other courts in similar 
+
+
+7 In light of the Court’s conclusion that Plaintiff has failed to allege falsity and scienter, the 
+Court does not reach Defendants’ challenge to Plaintiff’s allegations regarding loss causation. 
+D. 43 at 26–28; D. 46 at 31–34.                                           
+circumstances have refused to allow such “informal request[s].”  See, e.g., Biogen, 193 F. Supp. 
+3d at 55 (denying “plaintiffs’ informal request for leave to amend” in a securities fraud class action 
+where, instead of “formally request[ing] leave to amend the amended complaint,” plaintiffs 
+requested same “on the final page of their thirty-page opposition to defendants’ motion to 
+dismiss”); see Fire & Police Pension Ass’n of Colo., 778 F.3d at 247 (“wish[ing] to discourage 
+
+this practice of seeking leave to amend after the case has been dismissed”); see also ACA Fin., 
+512 F.3d at 57 (rejecting plaintiffs’ argument that district court erred in denying leave to amend 
+because “[p]laintiffs took no action to add new allegations” in response to defendants’ motion to 
+dismiss “even though they knew what they would add if they amended,” and noting that allowing 
+such a practice would “lead to delays, inefficiencies, and wasted work”).  Accordingly, the Court 
+will not grant Plaintiff’s informal request for leave to amend.           
+VI.  Conclusion                                                           
+
+For the aforementioned reasons, the Court ALLOWS Defendants’ motion to dismiss.  
+D. 42.                                                                    
+So Ordered.                                                          
+
+                                   /s Denise J. Casper               
+                                   United States District Judge

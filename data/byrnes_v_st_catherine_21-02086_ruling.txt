@@ -1,0 +1,2971 @@
+        Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 1 of 55
+
+
+
+
+                            IN THE UNITED STATES DISTRICT COURT
+                                 FOR THE DISTRICT OF KANSAS
+
+
+
+ MATTHEW BYRNES,
+
+                                Plaintiff,                  Case No. 21-2086-DDC
+
+ v.
+
+ ST. CATHERINE HOSPITAL, et al.,
+
+                                Defendants.
+
+
+
+                                MEMORANDUM AND ORDER
+
+       People get fired from their jobs for many reasons, or, sometimes, for no reason at all.
+
+And if the person’s an at-will employee, that’s just fine, the law says. Just fine, that is, as long as
+
+his employer didn’t fire him for discriminatory or retaliatory reasons. Plaintiff Dr. Matthew
+
+Byrnes got fired in February 2020. He had worked as a surgeon and intensivist for St. Catherine
+
+Hospital (SCH) in Garden City, Kansas, since 2012. And he was their Chief Medical Officer
+
+(CMO) from 2013 to 2019. Then, SCH and Centura—who managed SCH—fired him without
+
+cause. Plaintiff was an at-will employee under his employment agreement. So, SCH and
+
+Centura didn’t need a reason to fire him. And the court isn’t here to decide if firing him was a
+
+good call—justified or unjustified, fair or not. They didn’t need a reason at all, much less a good
+
+or fair one. Instead, the outcome of defendants’ summary judgment motion (Doc. 172) turns
+
+solely on whether Centura fired plaintiff for discriminatory or retaliatory reasons.
+
+       Plaintiff claims they did. He contends that defendants St. Catherine Hospital and Centura
+
+Health Corporation wanted him out because of his complaints about a fellow doctor. Plaintiff
+
+had accused Dr. Kurt Kessler of sexual harassment and other standard-of-care shortcomings. He
+        Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 2 of 55
+
+
+
+
+also claims that—because of these complaints against Dr. Kessler—defendants viewed him as
+
+mentally unstable. So, he asserts, this perceived impairment drove their desire to let him go.
+
+What’s more, even after they got rid of him, plaintiff claims that defendants continued to
+
+retaliate against him by unfairly reporting four of his medical cases to the Kansas Board of
+
+Healing Arts (KBHA).
+
+       Defendants, for their part, say they didn’t fire plaintiff for retaliatory or discriminatory
+
+reasons. Instead, they rely on patient care concerns and issues with peer review in his role as
+
+CMO. And they say they never perceived plaintiff as impaired, nor was their KBHA reporting
+
+process retaliatory.
+
+       And so, defendants have filed a Motion for Summary Judgment (Doc. 172). The court
+
+grants the motion, concluding that plaintiff has failed to present a triable issue on his federal
+
+claims of Title VII retaliation, ADA retaliation, or ADA discrimination. In a nutshell, plaintiff
+
+has failed to adduce evidence that defendants’ reasons for terminating his employment were
+
+pretext for retaliation. Nor has he shown facts sufficient to support an inference that defendants
+
+perceived him as impaired. And he fails to demonstrate—such that a reasonable juror could
+
+infer—a causal connection between defendants’ KBHA reporting processes and his protected
+
+activity. With the federal claims resolved, the court declines to exercise supplemental
+
+jurisdiction over plaintiff’s state law claims and thus dismisses those state law claims without
+
+prejudice. The court explains its decisions, below.
+
+I.     Background
+
+       The following facts are stipulated, uncontroverted or, where controverted, are stated in
+
+the light most favorable to plaintiff, the party opposing summary judgment. Scott v. Harris, 550
+
+U.S. 372, 378 (2007).
+
+
+
+                                                      2
+         Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 3 of 55
+
+
+
+
+                                          Plaintiff’s Job
+
+        Plaintiff worked at Saint Catherine Hospital in Garden City, Kansas, as a general surgeon
+
+and intensivist from 2012 until February 12, 2020. Doc. 165 at 2–3 (Pretrial Order ¶ 2.a.ii., vi.,
+
+xii.). Plaintiff also served as SCH’s Chief Medical Officer from roughly 2013 to June 2019. Id.
+
+at 3 (Pretrial Order ¶ 2.a.xi.). The agreements that governed plaintiff’s employment during his
+
+tenure at SCH specified that SCH was “operated and managed by Centura . . . , which may
+
+assign management duties to its Centura Health Physician Group division.” Id. (Pretrial Order
+
+¶ 2.a.ix.); Doc. 174-7 at 1 (Def. Ex. 24). And so, SCH and Centura “concede that they jointly
+
+employed” plaintiff. Doc. 165 at 3 (Pretrial Order ¶ 2.a.x.).
+
+                                        April 2019 Meeting
+
+        The issues with plaintiff’s employment started—at least for purposes of this case—in
+
+April 2019. It was then that five SCH doctors, who worked with plaintiff, requested that SCH’s
+
+Chief Executive Officer (CEO) Scott Taylor fire plaintiff. Doc. 173-2 at 5 (Taylor Dep. 133:23–
+
+135:21); Doc. 173-13 at 4 (Arroyo Dep. 31:24–32:5). The doctors attending that meeting
+
+included Dr. William Freund, Dr. Kessler, Dr. Julie Freeman (King),1 Dr. Gretchen Dunford, and
+
+Dr. Zeferino Arroyo. Doc. 173-2 at 5 (Taylor Dep. 134:8–12). At the meeting, the doctors
+
+expressed various concerns about plaintiff, including one about patient care, and requested that
+
+he no longer work at SCH. Id. (Taylor Dep. 133:23–135:21). CEO Taylor decided to remove
+
+plaintiff as CMO, but leave his employment intact. Id. (Taylor Dep. 135:2–21). And so,
+
+plaintiff ceased performing the duties of CMO, but he continued working at SCH. Doc. 165 at 3
+
+(Pretrial Order ¶ 2.a.xiii., vi.).
+
+
+
+
+1
+       Referred to as Dr. King during discovery, Dr. King returned to use of her maiden name—
+Freeman—after the parties took depositions. Doc. 189 at 3 n.5.
+
+                                                     3
+         Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 4 of 55
+
+
+
+
+                                  Plaintiff’s Sexual Harassment Complaints
+
+        A few months later, on August 31, 2019, plaintiff submitted a written complaint to Dr.
+
+Freund and Nancy Killion, Centura’s Director of Quality, about Dr. Kessler. Doc. 165 at 3
+
+(Pretrial Order ¶ 2.a.xv.). Plaintiff submitted the complaint by email at 1:54 AM on a Saturday
+
+morning. Doc. 174-16 at 1 (Def. Ex. 33). In the complaint, plaintiff alleged, among other
+
+things, that: Dr. Kessler’s conversion rate from a laparoscopic approach to an open procedure
+
+for gallbladder removal was “massively higher” than the appropriate conversion rate; the nursing
+
+staff “is nearly uniformly concerned with his ability to care for patients in the ICU[;]” Dr.
+
+Kessler “rarely wears gloves when doing sensitive exams[;]” and Dr. Kessler “made sexually
+
+explicit comments to numerous nurses[,]” “inappropriately touched nurses[,]” and “voiced out
+
+loud in the operating room area that he rarely spends time at home because he is either at the
+
+hospital or the strip club.” Id. at 2–3 (Def. Ex. 33).
+
+        Dr. Freund, in his capacity as Medical Staff President, investigated the allegations in the
+
+complaint, Doc. 174-1 at 4 (Freund Dep. 35:1–7). But plaintiff contends that his investigation
+
+was neither fair nor reasonable, in part, because Dr. Freund let Dr. Kessler read the complaint,
+
+told him that plaintiff had filed it, and said he needed Dr. Kessler’s response. Doc. 183 at 4;
+
+Doc. 183-15 at 6–7 (Kessler Dep. 27:21–28:11). And Dr. Freund shared plaintiff’s complaint
+
+about Dr. Kessler and that he had evaluated those concerns with SCH’s Medical Executive
+
+Committee (MEC) on September 17, 2019.2 Doc. 174-1 at 8–9 (Freund Dep. 58:24–61:10).
+
+Based on the MEC meeting discussion, one of the doctors in attendance—Dr. Dunford, Chief of
+
+Surgery—contacted Ms. Killion with concerns about plaintiff. Doc. 173-11 at 3–4 (Dunford
+
+
+
+2
+         The parties dispute the extent Dr. Freund shared accurately or specifically about his investigation
+into this complaint. Doc. 183 at 5. The parties also dispute Dr. Freund concluding that the allegations in
+the complaint were false and his representing that conclusion to the MEC. Id.
+
+                                                         4
+         Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 5 of 55
+
+
+
+
+Dep. 31:20–35:1). Dr. Dunford expressed that she thought plaintiff “seemed to be very
+
+disturbed, writing a letter like that about a colleague.” Id. at 4 (Dunford Dep. 34:24–35:1). Dr.
+
+Dunford then emailed Dr. Toni Green-Cheatwood—Centura’s Group VP and Physician
+
+Executive for Centura’s Greater Colorado Kansas (GCK) Group—with the same concerns. Id. at
+
+4 (Dunford Dep. 35:21–36:2).
+
+        In response to these emails, Dr. Freund, Dr. Green-Cheatwood, and Dr. Bryan Stucky—
+
+Vice-President of Medical Staff—met with plaintiff on October 16, 2019. Doc. 165 at 3 (Pretrial
+
+Order ¶ 2.a.xvi.). At the meeting, plaintiff challenged the adequacy of any investigation of his
+
+allegations against Dr. Kessler and reiterated his complaints. Doc. 183-6 at 49–50, 52 (Byrnes
+
+Dep. 180:5–181:9, 183:5-24).
+
+                                 MEC Request for Psychological Evaluation
+
+        The MEC continued to express concerns about plaintiff’s allegations against Dr. Kessler,
+
+according to a letter Dr. Freund delivered to plaintiff on December 29, 2019. Doc. 174-1 at 16
+
+(Freund Dep. 112:1–13). The letter referenced the MEC’s concerns—apparently expressed at a
+
+November 2019 meeting—about plaintiff’s allegations and about his “insistence that [he] believe
+
+these allegations to be true.” Doc. 174-23 (Def. Ex. 40). In light of these discussions and
+
+concerns, the letter requested that plaintiff undergo a psychological evaluation, stating that the
+
+MEC “unanimously agreed that it was in the best interest of the hospital and the medical staff to
+
+ask [plaintiff] to seek an evaluation including a psychologic assessment.”3 Id. Dr. Freund alone
+
+signed the letter. Id.
+
+
+3
+          Plaintiff disputes the letter’s statement that the MEC unanimously agreed to this evaluation
+request. While the letter makes this assertion, plaintiff cites deposition testimony from Dr. Stucky stating
+that the letter itself was drafted after the November meeting and thus the MEC couldn’t have voted on the
+letter itself. Doc. 183-19 at 35 (Stucky Dep. 83:1–19). And Dr. Stucky couldn’t remember if there was a
+vote about this request, or whether the vote was unanimous. Id.
+
+
+                                                         5
+         Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 6 of 55
+
+
+
+
+        On January 19, 2020, plaintiff responded to this request with a letter of his own, emailed
+
+to Dr. Stucky, who had replaced Dr. Freund as President of the Medical Staff.4 Doc. 165 at 3
+
+(Pretrial Order ¶ 2.a.xvii.). Plaintiff’s response letter asserted that “Dr. Freund’s letter is
+
+tantamount to retaliation against a whistleblower[,]” reiterated his initial complaints about Dr.
+
+Kessler, and demanded the MEC retract Dr. Freund’s letter. Doc. 174-24 at 2–6 (Def. Ex. 41).
+
+On January 21, 2020, Dr. Stucky emailed plaintiff a letter notifying him that the MEC would
+
+retract the letter requesting his psychological evaluation. Doc. 174-25 at 1–2 (Def. Ex. 42).
+
+                           Kansas Board Healing Arts Complaint and Subpoena
+
+        Less than a week later, SCH received a subpoena from the Kansas Board of Healing Arts
+
+(KBHA). Doc. 165 at 4 (Pretrial Order ¶ 2.a.xviii.). The subpoena demanded SCH produce
+
+records, reports, proceedings, findings, and documents about plaintiff pursuant to an anonymous
+
+complaint filed against him. Doc. 174-27 (Def. Ex. 44). Plaintiff later provided Centura’s in-
+
+house General Counsel, Peter Sabey, with a copy of the anonymous complaint. Doc. 165 at 4
+
+(Pretrial Order ¶ 2.a.xix.). The KBHA complaint against plaintiff summarized ten different
+
+allegations. Doc. 174-31 at 6 (Def. Ex. 48). These included:
+
+               “multiple alarming adverse outcomes, including multiple patient deaths[;]”
+
+               “pressuring hospital CEO Scott Taylor to disband the hospital peer review
+
+                committee[;]”
+
+               “an unusually high number of nicked bowels during surgeries[;]”
+
+               “abandon[ing] 8 I.C.U. cases[;]”
+
+
+
+4
+          The Pretrial Order provides that plaintiff sent this letter to Dr. Stucky on January 19, 2019. Doc.
+165 at 3 (Pretrial Order ¶ 2.a.xvii.). Given the chronology of events, the court assumes the year identified
+in this stipulation is erroneous and assumes the proper date is January 19, 2020. The date on the letter
+itself—and the email that transported it—confirms this assumption. See Doc. 174-24 at 1–2 (Def. Ex.
+41).
+
+                                                          6
+        Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 7 of 55
+
+
+
+
+              “transferring out patients that he has dangerously mismanaged[;]” and
+
+              “well known incidents of sexual relations in hospital treatment rooms with
+
+               nurses.”
+
+Id. The KBHA complaint also described a vote of no confidence from plaintiff’s fellow
+
+physicians: “[T]he medical staff has advised the CEO that he is unsafe and needs an assessment
+
+due to his erratic behaviors and dangerous violations of the standard of care.” Id.
+
+       On January 30, 2020, plaintiff phoned Dr. Green-Cheatwood to discuss the anonymous
+
+KBHA complaint. Doc. 183-24 at 3 (Byrnes Decl. ¶ 11). He told Dr. Green-Cheatwood “that
+
+the report was made in retaliation for the complaint [plaintiff] had filed against Dr. Kessler in
+
+August.” Id. And, he asserted, the report’s allegations were false. Id. He then cited specific
+
+data showing his mortality rate, recited his work experience as a surgeon, and reviewed his
+
+litigation record (just two unsuccessful lawsuits against him in 12.5 years in practice). Id.; Doc.
+
+174-29 at 1 (Def. Ex. 46). He also informed Dr. Green-Cheatwood about “many witnesses who
+
+had the best knowledge to speak to and refute the allegations in the KBHA complaint[.]” Doc.
+
+183-24 at 3 (Byrnes Decl. ¶ 12).
+
+                                     Investigating KBHA Complaint
+
+       That same day, Dr. Green-Cheatwood informed in-house counsel Mr. Sabey about her
+
+phone call with plaintiff. Doc. 174-29 at 1 (Def. Ex. 46). In response, Mr. Sabey initiated an
+
+internal investigation, with plans to interview SCH “employees and medical staff members” and
+
+gather “documents and information related to [KBHA’s] inquiry.” Doc. 174-30 at 1 (Def. Ex.
+
+47).
+
+       Mr. Sabey, Dr. Green-Cheatwood, and Morgan Thomas (GCK Group Quality Director)
+
+traveled on February 6, 2020, to Garden City to conduct investigative interviews and gather
+
+
+
+                                                     7
+        Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 8 of 55
+
+
+
+
+documents. Id.; Doc. 165 at 4 (Pretrial Order ¶ 2.a.xx.). While there, Mr. Sabey and Dr. Green-
+
+Cheatwood talked to CEO Taylor, Ms. Killion, Dr. Michael Babigumira, Dr. Arroyo, Dr.
+
+Freeman (King), Dr. Dunford, Dr. Stucky, Dr. Freund, Dr. Kessler, and Dr. James Zauche. Doc.
+
+165 at 4 (Pretrial Order ¶ 2.a.xx.). Mr. Sabey and Dr. Green-Cheatwood also inquired about any
+
+further developments and gathered documents about plaintiff’s allegations against Dr. Kessler.
+
+Doc. 183-11 at 48–49 (Freund Dep. 168:24–169:16); Doc. 183-13 at 29–30 (Green-Cheatwood
+
+Dep. 92:21–93:21). Mr. Sabey and Dr. Green-Cheatwood didn’t interview plaintiff as part of
+
+their investigation. Doc. 165 at 4 (Pretrial Order ¶ 2.a.xx.). Nor did they interview any nurses.
+
+Id.
+
+                                             Firing Plaintiff
+
+       Having completed their investigation, Mr. Sabey and Dr. Green-Cheatwood reported
+
+their interpretation of its results to Tom Gessel, GCK Group President, and Scott Lichtenberger,
+
+President of Centura Health Physician Group by phone on February 10, 2020. Doc. 173-9 at 22
+
+(Green-Cheatwood Dep. 157:24–160:23); Doc. 173-5 at 21 (Sabey Dep. 145:13–146:1; 146:20–
+
+148:17). During that phone call, Dr. Green-Cheatwood recommended that they fire plaintiff.
+
+Doc. 173-9 at 22 (Green-Cheatwood Dep. 158:13–24). After the call, Mr. Gessel and Dr.
+
+Lichtenberger jointly decided to terminate plaintiff’s employment. Doc. 173-3 at 3
+
+(Lichtenberger Dep. 24:8–24). According to Dr. Lichtenberger, he decided based on the
+
+information provided to him by Dr. Green-Cheatwood and Mr. Sabey. Id. at 4 (Lichtenberger
+
+Dep. 25:8–27:16; 28:14–18). And so, on February 12, 2020, Dr. Green-Cheatwood and Dr.
+
+Zauche met with plaintiff, told him that he was fired, and provided him a termination letter
+
+signed by Dr. Lichtenberger. Doc. 165 at 4 (Pretrial Order ¶ 2.a.xxi.). The termination letter
+
+specified that plaintiff’s employment was terminated “without cause.” Doc. 174-45 at 1 (Def.
+
+Ex. 51). Plaintiff’s then-in-force employment agreement permitted either party to “terminate
+                                                    8
+           Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 9 of 55
+
+
+
+
+[the] Agreement for any reason or no reason” on 90 days written notice. Doc. 174-7 at 5 (Def.
+
+Ex. 24).
+
+                               Peer Review & Report of Cases to KBHA
+
+       Several months after plaintiff’s termination, SCH submitted a Report of Adverse
+
+Findings on one of the plaintiff’s cases to KBHA. Doc. 173-18 at 3 (Evans Dep. 19:11–20:4).
+
+This report process began, on February 18, 2020, when Dr. Green-Cheatwood sent Mr. Gessel
+
+and Dr. Lichtenberger, among others, a proposed plan for establishing quality and peer review at
+
+SCH. Doc. 174-54 at 1–2 (Def. Ex. 60); Doc. 173-15 at 9–10 (Thomas Dep. 111:21–114:1).
+
+The proposed plan involved immediately sending out SCH cases to other facilities boasting high
+
+functioning peer review committees so that those committees could review and identify any
+
+immediate care concerns. Doc. 173-15 at 9–10 (Thomas Dep. 112:19–113:3). So, in May 2020,
+
+Dr. Stucky—on behalf of SCH MEC— began identifying which cases to submit for this outside
+
+review. Doc. 173-7 at 5 (Stucky Dep. 27:10–28:24). Dr. Stucky also relied—specifically in
+
+surgical cases—on recommendations from Dr. Green-Cheatwood. Id. With the cases identified,
+
+peer review committees at other Centura facilities—including one from St. Anthony’s Hospital
+
+directed by Dr. Rebecca Vogel—reviewed them. Doc. 173-15 at 32 (Thomas Dep. 241:20–
+
+242:16); Doc. 173-17 at 2 (Vogel Dep. 46:3–24). When a case received a score from the peer
+
+review committee that met a mandatory reporting threshold, SCH submitted a Report of Adverse
+
+Findings to KBHA. Doc. 173-15 at 32 (Thomas Dep. 241:20–242:16). As mentioned above,
+
+SCH submitted one of plaintiff’s cases around September 28, 2020. Doc. 173-18 at 3 (Evans
+
+Dep. 19:11–20:4); Doc. 184-11 (Pl. Ex. E34). Later, on January 12, 2021, it submitted three
+
+more reports about plaintiff’s cases. Id. at 3–4 (Evans Dep. 20:18–21:3).
+
+
+
+
+                                                   9
+       Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 10 of 55
+
+
+
+
+                                           KBHA Conclusions
+
+       In the end, KBHA dismissed all four Adverse Findings Reports (and the anonymous
+
+complaint against plaintiff) in this fashion: First, KBHA gave plaintiff an opportunity to respond
+
+to the allegations asserted in the anonymous complaint against him. Doc. 183-24 at 2 (Byrnes
+
+Decl. ¶ 10). And on September 22, 2021, KBHA sent plaintiff a letter stating they had
+
+determined not to take any action at this time and closed the case. Id. After receiving the first
+
+SCH Adverse Findings Report, KBHA notified plaintiff and again gave him an opportunity to
+
+respond. Id. at 4 (Byrnes Decl. ¶ 17). KBHA also decided not to take action on that report and
+
+closed the case. Id. Finally, KBHA notified plaintiff and gave him an opportunity to respond to
+
+the final three cases SCH had submitted. Id. (Byrnes Decl. ¶ 20). And plaintiff received a final
+
+letter from KBHA on August 3, 2022. It asserted that “the reviewing Committee determined that
+
+the treatment [he] provided adhered to the applicable standard of care” and KBHA closed the
+
+matter. Id.
+
+       That’s all for now. This Order will provide a few additional facts that correspond to the
+
+specific arguments raised in the parties’ written submissions.
+
+II.    Summary Judgment Standard
+
+       Summary judgment is appropriate where the moving party demonstrates there is “no
+
+genuine dispute” about “any material fact” and that the movant is “entitled to a judgment as a
+
+matter of law.” Fed. R. Civ. P. 56(a). This standard dictates that the court “view the evidence
+
+and make inferences in the light most favorable to the non-movant.” Nahno-Lopez v. Houser,
+
+625 F.3d 1279, 1283 (10th Cir. 2010) (citing Oldenkamp v. United Am. Ins. Co., 619 F.3d 1243,
+
+1245–46 (10th Cir. 2010)).
+
+       “An issue of fact is ‘genuine’ ‘if the evidence is such that a reasonable jury could return a
+
+verdict for the non-moving party’ on the issue.” Id. (quoting Anderson v. Liberty Lobby, Inc.,
+
+                                                    10
+       Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 11 of 55
+
+
+
+
+477 U.S. 242, 248 (1986)). “An issue of fact is ‘material’ ‘if under the substantive law it is
+
+essential to the proper disposition of the claim’ or defense.” Id. (quoting Adler v. Wal-Mart
+
+Stores, Inc., 144 F.3d 664, 670 (10th Cir. 1998)).
+
+       The moving party bears “‘both the initial burden of production on a motion for summary
+
+judgment and the burden of establishing that summary judgment is appropriate as a matter of
+
+law.’” Kannady v. City of Kiowa, 590 F.3d 1161, 1169 (10th Cir. 2010) (quoting Trainor v.
+
+Apollo Metal Specialties, Inc., 318 F.3d 976, 979 (10th Cir. 2002)). To carry this burden, the
+
+moving party “‘need not negate the non-movant’s claim, but need only point to an absence of
+
+evidence to support the non-movant’s claim.’” Id. (quoting Sigmon v. CommunityCare HMO,
+
+Inc., 234 F.3d 1121, 1125 (10th Cir. 2000)). Even if the non-moving party fails to respond
+
+adequately, “the district court may not grant the motion without first examining the moving
+
+party’s submission to determine if it has met its initial burden of demonstrating that no material
+
+issues of fact remain for trial and the moving party is entitled to judgment as a matter of law.”
+
+Reed v. Bennett, 312 F.3d 1190, 1194–95 (10th Cir. 2002).
+
+       If the moving party satisfies its initial burden, the non-moving party “‘may not rest on its
+
+pleadings, but must bring forward specific facts showing a genuine issue for trial [on] those
+
+dispositive matters for which it carries the burden of proof.’” Kannady, 590 F.3d at 1169
+
+(quoting Jenkins v. Wood, 81 F.3d 988, 990 (10th Cir. 1996)); see also Celotex Corp. v. Catrett,
+
+477 U.S. 317, 324 (1986); Anderson, 477 U.S. at 248–49. The specific “facts must be identified
+
+by reference to affidavits, deposition transcripts, or specific exhibits incorporated therein.”
+
+Libertarian Party of N.M. v. Herrera, 506 F.3d 1303, 1309 (10th Cir. 2007) (citing Adler, 144
+
+F.3d at 671). Affidavits and testimony “must be based upon personal knowledge and set forth
+
+facts that would be admissible in evidence; conclusory and self-serving affidavits are not
+
+
+
+                                                     11
+       Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 12 of 55
+
+
+
+
+sufficient.” Tucker v. Faith Bible Chapel Int’l, 36 F.4th 1021, 1030–31 (10th Cir. 2022)
+
+(quotation cleaned up).
+
+       Finally, since 1986, federal courts haven’t viewed summary judgment as a “disfavored
+
+procedural shortcut.” Celotex, 477 U.S. at 327. Instead, it represents an important procedure
+
+“designed ‘to secure the just, speedy and inexpensive determination of every action.’” Id.
+
+(quoting Fed. R. Civ. P. 1).
+
+III.   McDonnell Douglas Burden-Shifting Framework
+
+       According to the Pretrial Order, plaintiff asserts seven claims: Title VII Retaliation
+
+(Count 1); Kan. Stat. Ann. § 65-4928 (Count 2); ADA (Count 3); Fraud (Count 4); Fraud by
+
+Silence (Count 5); Promissory Estoppel/Detrimental Reliance (Count 7); and Common Law
+
+Retaliation under the Kansas Wage Payment Act (Count 10). Doc. 165 at 17–18 (Pretrial Order
+
+¶ 4.a.i.–vii.). Three of these claims arise under federal law, and this Order will focus on those
+
+first: (1) Title VII retaliation, (2) ADA discrimination, and (3) ADA retaliation. The familiar
+
+McDonnell Douglas burden-shifting framework for Title VII claims applies to all three federal
+
+law claims. See Doebele v. Sprint/United Mgmt. Co., 342 F.3d 1117, 1135 (10th Cir. 2003)
+
+(explaining framework applies to Title VII and applying framework to ADA retaliation claim);
+
+Morgan v. Hilti, Inc., 108 F.3d 1319, 1323 (10th Cir. 1997) (applying framework to ADA
+
+disability discrimination claim). And so, the court identifies that framework before beginning its
+
+analysis of plaintiff’s federal claims.
+
+       Under the familiar burden-shifting framework, plaintiff first must present a prima facie
+
+case of discrimination or retaliation. Bekkem v. Wilkie, 915 F.3d 1258, 1267 (10th Cir. 2019).
+
+But the “burden on the employee to establish a prima facie case is light[.]” Guy v. McDonough,
+
+No. 20-6158, 2021 WL 3854764, at *2 (10th Cir. Aug. 30, 2021). Then, the burden of
+
+production shifts to the employer “to offer a legitimate nondiscriminatory [and nonretaliatory]
+                                                    12
+         Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 13 of 55
+
+
+
+
+reason for its employment decision.” Morgan, 108 F.3d at 1323. As with the employee’s burden
+
+in the first step, the employer’s burden at this second stage is “exceedingly light.” Montes v. Vail
+
+Clinic, Inc., 497 F.3d 1160, 1173 (10th Cir. 2007). If the employer offers a legitimate reason,
+
+“the burden then reverts to the plaintiff to show that there is a genuine dispute of material fact . .
+
+. whether the employer’s proffered reason for the challenged action is pretextual—i.e., unworthy
+
+of belief.” Morgan, 108 F.3d at 1323 (quotation cleaned up).
+
+         The court applies this McDonnell Douglas burden-shifting framework to plaintiff’s
+
+federal law claims, starting with his two Title VII retaliation claims.
+
+IV.      Title VII Claims (Count I)
+
+         Plaintiff asserts two retaliation claims based on Title VII. First, plaintiff asserts that
+
+defendants fired him as retaliation for his complaints about Dr. Kessler’s alleged sexual
+
+harassment,5 thus violating Title VII. Doc. 165 at 17 (Pretrial Order ¶ 4.a.i.). Second, plaintiff
+
+contends, defendants engaged in a biased and unfair review process of his cases, leading to
+
+reporting four of his cases to KBHA, in retaliation for those same complaints about sexual
+
+harassment and for his filing of EEOC charges. Doc. 165 at 10 (Pretrial Order ¶ 3.a.). Together,
+
+these claims comprise Count I. The court starts with plaintiff’s termination-based retaliation
+
+claim.
+
+         A.      Title VII Termination-Based Retaliation Claim
+
+
+5
+        Plaintiff also asserts that defendants fired him in retaliation for filing EEOC charges. Doc. 165 at
+17–18 (Pretrial Order ¶ 4.a.iii.). The court addresses the timing of the EEOC charge filing later in this
+Order. See § V.B. There, the court determines that plaintiff’s firing occurred before plaintiff filed any
+EEOC charges. Id. And so, the court doesn’t address the filing of EEOC charges as part of plaintiff’s
+protected activity under its Title VII retaliation claim premised on his firing. An employer can’t fire an
+employee in retaliation for behavior after he was fired. See Durkin v. City of Chicago, 341 F.3d 606,
+614–15 (7th Cir. 2003) (“It is axiomatic that a plaintiff engage in statutorily protected activity before an
+employer can retaliate against her for engaging in statutorily protected activity.”).
+
+
+
+
+                                                         13
+        Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 14 of 55
+
+
+
+
+                1.      Prima Facie Case
+
+        Title VII makes certain forms of retaliation unlawful by providing that an employer may
+
+not “discriminate against any of his employees . . . because [the employee] has opposed any
+
+practice made an unlawful employment practice by [Title VII].” 42 U.S.C. § 2000e-3(a). A
+
+plaintiff asserting a Title VII retaliation claim without direct evidence of retaliation must
+
+establish a prima facie case under McDonnell Douglas. Bekkem, 915 F.3d at 1267. For Title VII
+
+retaliation, this prima facie case has three elements. A plaintiff must show “(1) that [he] engaged
+
+in protected opposition to discrimination, (2) that a reasonable employee would have found the
+
+challenged action materially adverse, and (3) that a causal connection existed between the
+
+protected activity and the materially adverse action.” Id. (quoting Khalik v. United Air Lines,
+
+671 F.3d 1188, 1193 (10th Cir. 2012)). The burden rests on plaintiff to establish a triable issue
+
+for all three prima facie elements. Id.
+
+        Here, neither party disputes that plaintiff engaged in protected opposition to
+
+discrimination.6 And the parties also stipulate that plaintiff submitted a written complaint about
+
+Dr. Kessler’s alleged sexual harassment on August 31, 2019. Doc. 165 at 3 (Pretrial Order
+
+¶ 2.a.xv.). “Complaints of retaliation for having complained of sexual harassment are, like the
+
+complaints of sexual harassment themselves, protected activity under Title VII.” Townsend v.
+
+BG-Meridian, Inc., No. CIV-04-1162-F, 2005 WL 2978899, at *5 (W.D. Okla. Nov. 7, 2005).
+
+That takes care of the first prong.
+
+
+
+
+6
+        Indeed, defendants “assume for purposes of summary judgment only, and without admitting the
+same, that Plaintiff participated in protected activity pursuant to Title VII when he complained in August
+2019 that nurses were sexually harassed by Dr. Kessler and when he filed charges of discrimination with
+EEOC.” Doc. 173 at 26 n.7.
+
+
+                                                        14
+        Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 15 of 55
+
+
+
+
+        The second prima facie prong is equally straightforward. Plaintiff asserts his firing
+
+provides the requisite materially adverse action. Doc. 183 at 36. And defendants don’t
+
+challenge that assertion.7 See generally Doc. 173. Nor could they. The parties stipulate that Dr.
+
+Green-Cheatwood informed plaintiff of his job’s termination and provided him with a
+
+termination letter on February 12, 2020. Doc. 165 at 3 (Pretrial Order ¶ 2.a.xxi.). And firing
+
+qualifies as a materially adverse action. See Argo v. Blue Cross & Blue Shield of Kan., Inc., 452
+
+F.3d 1193, 1202 (10th Cir. 2006) (“[H]e was fired, which obviously qualifies as ‘materially
+
+adverse[.]’”). So, plaintiff’s prima facie case of termination-based retaliation under Title VII
+
+comes down to the third prong: causation.
+
+        Recall that a plaintiff establishing a prima facie retaliation case must show “‘a causal
+
+connection existed between the protected activity and the materially adverse action.’” Bekkem,
+
+915 F.3d at 1267 (quoting Khalik, 671 F.3d at 1193). And as “a prerequisite to this showing,
+
+[plaintiff] must first come forward with evidence from which a reasonable factfinder could
+
+conclude that those who decided to fire him had knowledge of his protected activity.” Hinds v.
+
+Sprint/United Mgmt. Co., 523 F.3d 1187, 1203 (10th Cir. 2008). “An employer’s action against
+
+an employee cannot be because of that employee’s protected opposition unless the employer
+
+knows the employee has engaged in protected opposition.” Petersen v. Utah Dep’t of Corr., 301
+
+F.3d 1182, 1188 (10th Cir. 2002) (emphasis in original). “Plaintiff must therefore point to
+
+evidence that those who acted against him knew of his formal complaints.” Singh v. Cordle, 936
+
+F.3d 1022, 1043 (10th Cir. 2019). And “bare speculation” supporting an employer’s knowledge
+
+
+
+7
+        Defendants’ brief doesn’t contest that terminating plaintiff qualifies as an adverse action. It does
+contest plaintiff’s ability to establish a materially adverse action, however, on another basis: MEC’s
+request for plaintiff to submit to a psychological evaluation. Doc. 173 at 27. But defendants
+misapprehend the basis of plaintiff’s Title VII claim. Plaintiff clarifies in his Response that he doesn’t
+argue that the psychological evaluation request was a materially adverse action. See Doc. 183 at 36 n.11.
+
+                                                         15
+        Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 16 of 55
+
+
+
+
+of plaintiff’s protected opposition won’t suffice. Lindsay v. Denver Pub. Schs., 88 F.4th 1323,
+
+1328 (10th Cir. 2023).
+
+        Here, defendants argue that plaintiff fails to provide evidence of the requisite knowledge
+
+to establish a causal connection. Doc. 173 at 29–30. That is, plaintiff hasn’t adduced evidence
+
+that the decision makers who fired him knew of his protected activity, defendants contend. Id.
+
+Without adducing evidence of such knowledge, defendants argue, plaintiff’s claim fails. Id. Not
+
+so fast, plaintiff responds. While plaintiff concedes that the decision makers who terminated him
+
+didn’t possess knowledge of his protected activity, he claims that doesn’t end the analysis.8 Doc.
+
+183 at 40–41. Instead, plaintiff argues, the “cat’s paw” doctrine9 applies here. Id.
+
+        “On a cat’s paw theory of liability the influence of [a] biased subordinate provides the
+
+causal connection the plaintiff’s prima facie case requires[.]” Lawrence v. Sch. Dist. No. 1, 560
+
+F. App’x 791, 795 (10th Cir. 2014). That’s so because “even though the ultimate
+
+
+8
+         Plaintiff also argues that the close temporal proximity between plaintiff’s January 2020 written
+and oral complaints and his termination in February 2020 “by itself, shows causation.” Doc. 183 at 36.
+To be sure, “a plaintiff may show a causal connection by presenting evidence that the ‘temporal
+proximity’ between the protected conduct and the materially adverse action justifies an inference of
+retaliatory motive.” Singh, 936 F.3d at 1043 (quotation cleaned up). Nonetheless, “a plaintiff who seeks
+to show causation [by temporal proximity] still must present evidence that the decisionmakers knew of the
+protected conduct.” Id. (emphasis in original). So, plaintiff’s temporal proximity causation argument
+doesn’t take care of the knowledge question. That is, the alleged temporal proximity doesn’t, “by itself,”
+demonstrate causation and plaintiff still must rely on the cat’s paw doctrine.
+9
+        The Tenth Circuit previously explained the etymology of the cat’s paw doctrine. This etymology
+contributes to a fuller understanding of the doctrine, so the court recites it here:
+
+        The cat’s paw doctrine derives its name from a fable, made famous by La Fontaine, in
+        which a monkey convinces an unwitting cat to pull chestnuts from a hot fire. As the cat
+        scoops the chestnuts from the fire one by one, burning his paw in the process, the monkey
+        eagerly gobbles them up, leaving none left for the cat. . . . In the employment
+        discrimination context, “cat’s paw” refers to a situation in which a biased subordinate, who
+        lacks decisionmaking power, uses the formal decisionmaker as a dupe in a deliberate
+        scheme to trigger a discriminatory employment action.
+
+E.E.O.C. v. BCI Coca-Cola Bottling Co. of L.A., 450 F.3d 476, 484 (10th Cir. 2006) (quotation cleaned
+up).
+
+                                                        16
+       Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 17 of 55
+
+
+
+
+decisionmakers weren’t biased it was still because of bias that the employee suffered the adverse
+
+action.” Id. “[T]o survive summary judgment when asserting the cat’s-paw theory of liability, a
+
+plaintiff must show that there is a genuine issue of material fact that (1) the subordinate took
+
+action motivated by discriminatory animus; (2) the subordinate intended the action to cause an
+
+adverse employment action, and (3) the subordinate’s actions proximately caused the intended
+
+adverse employment action.” Singh, 936 F.3d at 1038.
+
+       Here, it’s undisputed that Dr. Lichtenberger and Mr. Gessel jointly decided to terminate
+
+plaintiff’s employment. Doc. 173-3 at 3 (Lichtenberger Dep. 24:8–24); Doc. 183 at 14
+
+(disputing the veracity of the information on which Dr. Lichtenberger and Mr. Gessel relied, but
+
+not disputing whether they made the firing decision). It’s also undisputed that they didn’t know
+
+of plaintiff’s complaints about Dr. Kessler. Doc. 173-3 at 13 (Lichtenberger Dep. 62:18–24);
+
+Doc. 183 at 15. At first blush, that seems to end the issue. When a plaintiff doesn’t “come
+
+forward with evidence from which a reasonable factfinder could conclude that those who
+
+decided to fire him had knowledge of his protected activity[,]” his claim fails. Hinds, 523 F.3d
+
+at 1203. But, plaintiff retorts, Dr. Lichtenberger and Mr. Gessel decided to terminate him based
+
+on information provided by Dr. Green-Cheatwood and Mr. Sabey. Doc. 183 at 15; Doc. 173-3 at
+
+4 (Lichtenberger Dep. 25:6–27:21). And so, plaintiff argues, Dr. Lichtenberger and Mr. Gessel
+
+were innocent cats with burned paws. That is, Dr. Lichtenberger and Mr. Gessel simply did the
+
+bidding of Dr. Green-Cheatwood and Mr. Sabey, who, plaintiff asserts, were motivated by
+
+retaliatory animus.
+
+       For plaintiff here to invoke the cat’s paw doctrine successfully, he first must establish a
+
+genuine issue of material fact from which a jury could infer that retaliatory animus motivated a
+
+subordinate’s action. Plaintiff contends that Dr. Green-Cheatwood and Mr. Sabey imputed
+
+
+
+                                                     17
+       Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 18 of 55
+
+
+
+
+retaliatory bias to the decision makers, Dr. Lichtenberger and Mr. Gessel. And plaintiff asserts
+
+that a reasonable juror could infer Dr. Green-Cheatwood and Mr. Sabey’s retaliatory bias based
+
+on the evidence of pretext plaintiff provides. Doc. 183 at 41.
+
+       A plaintiff appropriately may rely on pretext evidence at the causation stage, Tenth
+
+Circuit precedent holds. See Proctor v. United Parcel Serv., 502 F.3d 1200, 1209 (10th Cir.
+
+2007) (identifying that the Tenth Circuit has taken into account pretext evidence in a retaliation
+
+claim’s prima facie stage) (citing Wells v. Colo. Dep’t of Transp., 325 F.3d 1205, 1218 (10th Cir.
+
+2003) (analyzing causation element of prima facie case for Title VII retaliation claim by
+
+addressing pretext evidence)). But here plaintiff takes a spaghetti-on-the-wall approach to
+
+pretext, rattling off no fewer than 13 theories to see which one will stick. Doc. 183 at 38–39.
+
+And plaintiff’s burden at the prima facie causal connection stage differs from plaintiff’s burden
+
+at the pretext stage. See Annett v. Univ. of Kan., 371 F.3d 1233, 1241 (10th Cir. 2004) (“The
+
+burden of establishing a prima facie case in the McDonnell Douglas framework is not
+
+onerous. . . . [But in the] pretext analysis . . . the burden is more demanding and requires a
+
+plaintiff to assume the normal burden of any plaintiff to prove his or her case at trial.” (quotation
+
+cleaned up)). So, if the court engages in a full analysis of plaintiff’s pretext arguments here—
+
+under the prima facie burden—it would have to revisit that entire analysis under plaintiff’s
+
+higher burden of pretext below. The court declines. And so, the court assumes—without
+
+deciding—that a reasonable juror could infer Dr. Green-Cheatwood and Mr. Sabey’s retaliatory
+
+animus under one of the many pretext arguments plaintiff proffers. And the court thus moves on
+
+to the second step of the cat’s paw doctrine. And no one need worry that the court has
+
+abandoned the pretext analysis. The court will return to these pretext arguments under
+
+McDonnell Douglas’s third step later in this Order. See § IV.A.3.
+
+
+
+                                                     18
+       Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 19 of 55
+
+
+
+
+       The second cat’s paw theory prong requires a plaintiff to show a genuine issue of
+
+material fact that “the subordinate intended the action to cause an adverse employment action[.]”
+
+Singh, 936 F.3d at 1038. The most obvious actions relevant here are Dr. Green-Cheatwood and
+
+Mr. Sabey’s acts of conducting investigative interviews and then reporting their findings to the
+
+decision makers. And plaintiff has adduced evidence sufficient for a reasonable juror to infer
+
+that Dr. Green-Cheatwood and Mr. Sabey intended those interviews and that reporting to cause
+
+plaintiff’s firing. Dr. Green-Cheatwood, for her part, expressly relied on the information
+
+procured in the interviews to recommend that Dr. Lichtenberger and Mr. Gessel fire plaintiff.
+
+Doc. 173-9 at 22 (Green-Cheatwood Dep. 157:5–158:24). And Mr. Sabey testified that the
+
+whole point of investigating was to provide information about the interviews so the decision
+
+makers could rely on it. Doc. 173-5 at 23 (Sabey Dep. 158:8–159:8). Both subordinates thus
+
+drew a straight-line between the action of engaging in the interview process and firing plaintiff,
+
+satisfying prong two.
+
+       The third prong of the cat’s paw theory requires plaintiff to show a genuine issue of
+
+material fact that “the subordinate’s actions proximately caused the intended adverse
+
+employment action.” Singh, 936 F.3d at 1038. Our Circuit requires the subordinate’s
+
+involvement to surpass “mere influence or input in the decisionmaking process.” BCI Coca-
+
+Cola, 450 F.3d at 487 (quotation cleaned up). Instead, “the biased subordinate’s discriminatory
+
+reports, recommendation, or other actions [must have] caused the adverse employment action.”
+
+Id. Here, the court concludes, a reasonable juror could infer from the February 10, 2020, phone
+
+conversation that Dr. Green-Cheatwood and Mr. Sabey’s interview reports caused Dr.
+
+Lichtenberger and Mr. Gessel to fire plaintiff. Dr. Lichtenberger testified that he had relied on
+
+Mr. Sabey’s verbal report about the interviews in making his firing decision. Doc. 173-3 at 5–6
+
+
+
+                                                    19
+       Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 20 of 55
+
+
+
+
+(Lichtenberger Dep. 32:8–33:9). And he testified that he relied on Dr. Green-Cheatwood’s
+
+representations about the investigations, as well. Id. at 4 (Lichtenberger Dep. 25:6–27:16). And
+
+he had to rely in this fashion. Dr. Lichtenberger was new to his position—he had worked for
+
+defendants for just one month when he fired plaintiff—and he didn’t know plaintiff at all. Id. at
+
+3 (Lichtenberger Dep. 23:3–24:7). He identified Mr. Sabey as his source to confirm that the
+
+interviews substantiated the allegations against plaintiff. See id. at 5 (Lichtenberger Dep. 32:11–
+
+16). Mr. Gessel, for his part, doesn’t recall who made plaintiff’s termination decision, whether
+
+he was involved in that decision, or why plaintiff was fired. Doc. 183-12 at 3–4 (Gessel Dep.
+
+41:12–42:16). He could surmise, however, that Dr. Green-Cheatwood and Mr. Sabey supported
+
+firing plaintiff because, since they were the ones involved in the discussion, he “probably would
+
+have remembered [any] objection.” Id. at 5 (Gessel Dep. 43:21–25). While Mr. Gessel’s
+
+testimony proves less definitive, Dr. Lichtenberger’s suffices to show a genuine issue of material
+
+fact from which a reasonable juror could infer that Dr. Green-Cheatwood and Mr. Sabey’s report
+
+caused plaintiff’s firing, satisfying the third prong of the cat’s paw doctrine.
+
+       And so, assuming cat’s paw liability, the court concludes that plaintiff otherwise has
+
+established a prima facie case for a Title VII retaliation claim premised on his termination.
+
+               2.      Legitimate, Nondiscriminatory Reason
+
+       If plaintiff “establishes a prima facie case of retaliation, the burden shifts to [the
+
+employer] to assert a legitimate, nondiscriminatory reason for the adverse action.” Proctor, 502
+
+F.3d at 1208. If the employer “provides a legitimate, nondiscriminatory reason for its decision,
+
+the burden shifts back to [plaintiff] to show that [the employer’s] proffered reason is a pretext
+
+masking discriminatory animus.” Id. (quotation cleaned up).
+
+
+
+
+                                                      20
+       Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 21 of 55
+
+
+
+
+       Our Circuit has explained that the defendant employer, at this second step, doesn’t “‘need
+
+to litigate the merits of the reasoning, nor does it need to prove that the reason relied upon was
+
+bona fide, nor does it need to prove that the reasoning was applied in a nondiscriminatory
+
+fashion.’” Frappied v. Affinity Gaming Black Hawk, LLC, 966 F.3d 1038, 1058 (10th Cir. 2020)
+
+(quoting E.E.O.C. v. Flasher Co., 986 F.2d 1312, 1316 (10th Cir. 1992)). That is, defendants’
+
+“burden is one of production, not persuasion; it can involve no credibility assessment.” Carter v.
+
+Pathfinder Energy Servs., Inc., 662 F.3d 1134, 1149 (10th Cir. 2011) (quoting Reeves v.
+
+Sanderson Plumbing Prods., Inc., 530 U.S. 133, 142 (2000)). “‘[T]his stage of the analysis only
+
+requires the defendant to articulate a reason for the [employment decision] that is not, on its face,
+
+prohibited’ and that is ‘reasonably specific and clear.’” Frappied, 966 F.3d at 1058 (first
+
+alteration in original) (quoting Flasher, 986 F.2d at 1316 & n.4). So, according to our Circuit’s
+
+authority, a party’s burden to demonstrate a legitimate, nondiscriminatory reason is “exceedingly
+
+light.” Bekkem, 915 F.3d at 1268 (quotation cleaned up).
+
+       Here, defendants offer four legitimate, nondiscriminatory reasons for firing plaintiff.
+
+They harbored concerns about plaintiff: (i) abandoning patients in the ICU; (ii) poorly
+
+documenting patients’ status; (iii) potentially exercising poor clinical judgment; and (iv)
+
+stopping some of the peer review components in his role as CMO. Doc. 173-3 at 4
+
+(Lichtenberger Dep. 25:6–26:19). Defendants’ reasons for firing plaintiff aren’t prohibited
+
+facially—so, defendants have satisfied their burden at this step. The court needn’t litigate the
+
+merits of firing plaintiff for these reasons, nor need it determine whether any of these four
+
+reasons were bona fide. Instead, because defendants’ burden at this stage is exceedingly light,
+
+defendants’ showing qualifies as a legitimate, nondiscriminatory reason satisfactory to discharge
+
+defendants’ burden at step two. Frappied, 966 F.3d at 1058. This claim’s disposition thus turns
+
+
+
+                                                     21
+        Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 22 of 55
+
+
+
+
+on whether plaintiff has adduced sufficient evidence to identify a triable issue of pretext under
+
+McDonnell Douglas step three.
+
+               3.      Pretext
+
+        At the third step of the McDonnell Douglas framework, the burden shifts back to
+
+plaintiff. Now, plaintiff must present a genuine issue of material fact that defendants’ asserted
+
+reasons for terminating his employment were pretextual. To meet this burden, plaintiff must
+
+provide evidence that “the employer’s explanation was so weak, implausible, inconsistent or
+
+incoherent that a reasonable factfinder could conclude that it was not an honestly held belief but
+
+rather was subterfuge for discrimination” or retaliation. Young v. Dillon Cos., 468 F.3d 1243,
+
+1250 (10th Cir. 2006). To analyze whether a reasonable juror could find pretext under this
+
+standard, the court doesn’t ask “whether the employer’s reasons were wise, fair or correct[.]”
+
+Riggs v. AirTran Airways, Inc., 497 F.3d 1108, 1118 (10th Cir. 2007). Instead, the court asks
+
+“whether the employer honestly believed its reasons and acted in good faith upon them.” Id. at
+
+1119.
+
+        The court thus evaluates “the facts as they appeared to the person making the decision,”
+
+and doesn’t “second-guess the employer’s decision even if it seems in hindsight that the action
+
+taken constituted poor business judgment.” Id. “The reason for this rule is plain: [the court’s]
+
+role is to prevent intentional discriminatory [employment] practices, not to act as a ‘super
+
+personnel department,’ second guessing employers’ honestly held (even if erroneous) business
+
+judgments.” Young, 468 F.3d at 1250; see also Rivera v. City & Cnty. of Denver, 365 F.3d 912,
+
+925 (10th Cir. 2004) (“‘An articulated motivating reason is not converted into pretext merely
+
+because, with the benefit of hindsight, it turned out to be poor business judgment.’” (quoting
+
+McKnight v. Kimberly Clark Corp., 149 F.3d 1125, 1129 (10th Cir. 1998))).
+
+
+
+                                                    22
+        Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 23 of 55
+
+
+
+
+        Plaintiff’s pretext arguments fall into four categories10: defendants’ inconsistent and
+
+uncorroborated reasons for plaintiff’s termination; the temporal proximity between protected
+
+activity and termination; defendants’ failure to conduct reasonable and sufficient investigations;
+
+and defendants’ failure to follow normal policies and procedures. Doc. 183 at 38–39. The court
+
+concludes that plaintiff hasn’t adduced sufficient evidence to create a genuine issue that
+
+defendants’ rationale for his termination is pretext for retaliation. The court explains this
+
+conclusion by addressing each pretext argument, below.
+
+                       i.        Inconsistent and Uncorroborated Reasons
+
+        First, plaintiff argues that defendants offer inconsistent and uncorroborated reasons for
+
+firing plaintiff. The Tenth Circuit has “held that a jury can reasonably infer pretext when an
+
+
+10
+         Plaintiff’s Response brief lists 13 different pretext arguments. Doc. 183 at 38–39. The court
+identified significant overlap in several of these enumerated arguments. So, the court streamlined the
+arguments into four overarching categories. This footnote explains the four pretext arguments that
+capture all of plaintiff’s pretext theories.
+
+        First, the court grouped together arguments about defendants’ inconsistent and uncorroborated
+reasons for plaintiff’s termination including: “(a) Defendants provided changing, inconsistent, and post-
+hoc reasons for termination[;]” “(b) Many irregularities, inconsistencies, and fact disputes regarding the
+alleged reasons for termination[;]” and “(c) Witnesses did not actually corroborate the stated reasons for
+termination[;]” “(e) Reasons were inconsistent with performance assessments, objective data, and recent
+contract renewal and recredentialing[;] and “(f) CEO Taylor . . . said [plaintiff’s] performance was good,
+he met all quality care metrics, and termination was ‘unwarranted’ and ‘wrong.’” Id.
+
+         Second, the court grouped together arguments about temporal proximity including: “(m)
+Temporal proximity between protected activity and termination” and “(i) [o]ngoing concern over
+[plaintiff’s] complaints about Kessler that continued up to termination.” Id.
+
+         Third, the court grouped together arguments about failure to conduct reasonable and sufficient
+investigations including: “(d) Failure to conduct a reasonable investigation[;]” “(l) Investigation of
+[plaintiff] was conducted ‘solely because of’ the KBHA complaint . . . which . . . was retaliatory[;]” and
+“(h) Disparate treatment of other doctors . . . (failure to interview)[;]” and “(j) Failure to conduct a
+reasonable investigation into Byrnes’ complaints about Kessler.” Id.
+
+         Last, the court grouped together arguments about defendants’ failure to follow normal policies
+and procedures: “(g) Not following policies and normal procedures in numerous respects[;]” and “(k)
+failure to follow policy and normal procedure in that investigation.” Id.
+
+
+
+                                                        23
+       Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 24 of 55
+
+
+
+
+employer is inconsistent in the reasons it provides for the termination.” Fassbender v. Correct
+
+Care Sols., LLC, 890 F.3d 875, 887 (10th Cir. May 2018) (quotation cleaned up). “Such
+
+inconsistencies include abandoning explanations that the employer previously asserted[,]” id., or
+
+affirmatively disclaiming a proffered rationale. Whittington v. Nordam Grp. Inc., 429 F.3d 986,
+
+994 (10th Cir. 2005). But “merely providing additional non-discriminatory reasons for the
+
+termination is not enough to establish pretext, especially where the additional reasons are not
+
+contradictory.” Rolland v. Carnation Bldg. Servs., Inc., 739 F. App’x 920, 924 (10th Cir. 2018)
+
+(collecting cases). “Rather, inconsistency evidence is only helpful to a plaintiff if the employer
+
+has changed its explanation under circumstances that suggest dishonesty or bad faith.”
+
+Litzsinger v. Adams Cnty. Coroner’s Off., 25 F.4th 1280, 1291 (10th Cir. 2022) (quotation
+
+cleaned up); see also Mueggenborg v. Nortek Air Sols., LLC, No. 20-6147, 2021 WL 4807176, at
+
+*8 (10th Cir. Oct. 15, 2021) (assuming employer provided an “inconsistent explanation” for
+
+firing plaintiff but concluding that the circumstances still did “not suggest [the employer]
+
+changed its explanation under circumstances that suggest dishonesty or bad faith”).
+
+       Here, plaintiff explains, various spokespersons for defendants emphasized different
+
+termination reasons, which, plaintiff argues, amounts to an inconsistency sufficient for a
+
+reasonable juror to infer pretext. Doc. 183 at 38. As explained above under McDonnell
+
+Douglas’s stage two, defendants identified four reasons—across their spokespersons and
+
+decision makers—to fire plaintiff: abandoning patients in the ICU; poorly documenting patients’
+
+status; potentially exercising poor clinical judgment; and stopping some of the peer review
+
+components in his role as CMO. Doc. 173-3 at 4 (Lichtenberger Dep. 25:6–26:19). And the
+
+summary judgment evidence supports plaintiff’s contention that the various spokespersons
+
+emphasized one reason over another. But those varying emphases don’t equal inconsistent
+
+
+
+                                                    24
+       Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 25 of 55
+
+
+
+
+reasons. Indeed, the different spokespersons—even when emphasizing one primary firing
+
+reason—also cited other reasons, as well.
+
+       Decision maker Dr. Lichtenberger identified patient abandonment in the ICU as his
+
+primary concern but noted all four reasons in his deposition testimony. Id. For example, even as
+
+Dr. Lichtenberger prioritized the alleged abandoning of patients, he, too, referenced plaintiff’s
+
+neglect in “doing some of the peer review components.” Id. (Lichtenberger Dep. 25:6–26:16).
+
+Similarly, defendants’ corporate witness echoed Dr. Lichtenberger’s concern about patient
+
+abandonment but also cited “clinical competency” concerns. Doc. 183-8 at 22–23 (Eklund Dep.
+
+62:23–63:1). And outside counsel framed the primary issue leading to plaintiff’s firing as
+
+shutting down the peer review system, but he also discussed the “inappropriateness of
+
+[plaintiff’s] patient care.” Doc. 183-34 at 1 (Pl. Ex. D2). To be sure, defendants identified
+
+multiple reasons, and different spokespersons did so with differing emphases. But defendants
+
+never abandoned or affirmatively disclaimed any of their reasons. See Whittington, 429 F.3d at
+
+994.
+
+       What’s more, the four reasons cited by defendants are “not contradictory” to one another.
+
+See Rolland, 739 F. App’x at 924. Plaintiff could have abandoned patients in the ICU and
+
+interfered with the peer review system when serving as CMO; these actions aren’t mutually
+
+exclusive. Nor has plaintiff adduced evidence of “circumstances that suggest dishonesty or bad
+
+faith.” Litzsinger, 25 F.4th at 1291. A given spokesperson prioritizing one reason—while still
+
+citing other reasons consistent with other spokespersons—doesn’t suggest dishonesty or bad
+
+faith. Id. In sum, despite the multitude of reasons and the varying speakers’ different emphases,
+
+the summary judgment evidence reveals sufficient overlap in the reasons given to preclude an
+
+inference of pretext premised on inconsistent reasons.
+
+
+
+                                                    25
+       Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 26 of 55
+
+
+
+
+       Next, plaintiff contends defendants’ termination reasons were uncorroborated. Doc. 183
+
+at 38. He argues that witnesses and previous assessments of plaintiff’s work don’t align with
+
+defendants’ termination reasons. Id. And he argues that CEO Taylor’s perspective that
+
+plaintiff’s firing was unwarranted and wrong likewise demonstrates uncorroborated reasons.
+
+Finally, he argues that he had no role in stopping the peer review system, so this reason, too, was
+
+uncorroborated. But a reasonable juror couldn’t infer from the summary judgment evidence here
+
+that defendants’ termination reasons were uncorroborated. Here’s why: Five different doctors
+
+had brought similar concerns about plaintiff’s patient care to CEO Taylor in April 2019, before
+
+plaintiff engaged in the protected activity at issue here. Doc. 173-2 at 5 (Taylor Dep. 133:23–
+
+135:21); Doc. 173-13 at 4 (Arroyo Dep. 31:24–32:5) (explaining that in April 2019 five doctors
+
+communicated to CEO Taylor the same concerns about plaintiff that Dr. Arroyo reiterated to Mr.
+
+Sabey in the investigative interview). And at that time, the five doctors requested that SCH fire
+
+plaintiff. Doc. 173-2 at 5 (Taylor Dep. 133:23–135:21). But instead of firing plaintiff in April
+
+2019, CEO Taylor removed him as CMO. Id. (Taylor Dep. 135:2–8); Doc. 165 at 3 (Pretrial
+
+Order ¶ 2.a.xiii.). More importantly, whether those five doctors were correct in their assessments
+
+about plaintiff’s patient care issues isn’t something for the court to decide here. The court
+
+doesn’t need to hash out whether defendants’ deciding to fire plaintiff was “wise, fair or
+
+correct[.]” Riggs, 497 F.3d at 1118. Instead, the court evaluates merely “whether the employer
+
+honestly believed its reasons and acted in good faith upon them.” Id. at 1119. And the April
+
+2019 meeting suggests, at the very least, that patient care concerns weren’t uncorroborated.
+
+Even if those concerns never made it into a formal assessment or CEO Taylor didn’t agree that
+
+they warranted termination, there were doctors who corroborated the patient care concerns
+
+before any protected activity.
+
+
+
+                                                    26
+       Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 27 of 55
+
+
+
+
+       Nor is it of any moment that plaintiff contends the peer review termination reason is
+
+false. Again, the court evaluates “the facts as they appeared to the person making the decision,”
+
+and evaluates “whether the employer honestly believed its reasons and acted in good faith upon
+
+them.” Riggs, 497 F.3d at 1119 (emphasis added). The summary judgment evidence suggests
+
+that the decision makers—Dr. Lichtenberger and Mr. Gessel—and those influencing the decision
+
+makers—Dr. Green-Cheatwood and Mr. Sabey—understood that plaintiff bore responsibility for
+
+the hospital’s inadequate peer review system. See Doc. 173-5 at 16 (Sabey Dep. 115:21–116:8);
+
+Doc. 173-9 at 9–10 (Green-Cheatwood Dep. 83:19––85:3). Mr. Sabey came to that
+
+understanding from the interviews. Doc. 173-5 at 16 (Sabey Dep. 115:21–116:8). Dr. Green-
+
+Cheatwood arrived at that conclusion from her own CMO experience. Doc. 173-9 at 9–10
+
+(Green-Cheatwood Dep. 83:19––85:3). And Dr. Lichtenberger relied on the information he
+
+received from Dr. Green-Cheatwood and Mr. Sabey. Doc. 173-3 at 4, 5–6 (Lichtenberger Dep.
+
+25:6–27:16, 32:8–33:9). The court needn’t decide whether plaintiff was at fault for the peer
+
+review system stalling out; just whether the decision makers, when firing plaintiff, thought he
+
+was at fault. And plaintiff hasn’t presented a triable issue about the decision makers’
+
+understanding. Instead, plaintiff disputes his role in the peer review interference with deposition
+
+testimony from CEO Taylor and Ms. Killion. Doc. 183 at 31. But CEO Taylor wasn’t part of
+
+the decision making process. Doc. 173-2 at 5 (Taylor Dep. 133:8–12). So, his understanding
+
+about how the peer review system became defunct sheds no light on how the facts appeared to
+
+the people making the decision to terminate. And plaintiff cites the deposition testimony of Ms.
+
+Killion. Doc. 183 at 31. But she testified that she doesn’t recall discussing the peer review
+
+process in the interview with Dr. Green-Cheatwood and Mr. Sabey. Doc. 183-16 at 40 (Killion
+
+Dep. 120:10–121:3). Her understanding, therefore, also didn’t reach the ears of the decision
+
+
+
+                                                    27
+       Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 28 of 55
+
+
+
+
+makers. In sum, none of the evidence plaintiff cites creates a triable issue about the decision
+
+makers’ understanding of the peer review debacle.
+
+       So, the court concludes, plaintiff hasn’t created a triable issue that the absence of
+
+corroborating evidence—in the form of witnesses, performance assessments, CEO Taylor’s
+
+judgment, or a false peer review reason—demonstrates pretext. See Sarrai v. Azar, Civ. No. 16-
+
+1299 KK/SCY, 2018 WL 6833408, at *13 (D.N.M. Dec. 28, 2018) (“[T]hat [defendants] failed
+
+to confirm the complaints’ accuracy does not give rise to a reasonable inference that their stated
+
+reliance on these complaints is pretextual.”). The court moves on to plaintiff’s next pretext
+
+argument: temporal proximity.
+
+                     ii.      Temporal Proximity
+
+       Second, plaintiff argues, the temporal proximity of his re-upped sexual harassment
+
+complaints (in January 2020) to his firing (in February 2020) creates a triable issue of pretext.
+
+Doc. 183 at 39. This temporal proximity pretext argument is particularly compelling, plaintiff
+
+asserts, because the concerns about plaintiff’s protected activity were ongoing, continuing up to
+
+just weeks before termination. Id. But here’s the problem: the concerns that surfaced in the
+
+interviews—and that decision makers relied on to fire plaintiff—emerged before plaintiff’s
+
+protected activity in August 2019. That five-doctor meeting with CEO Taylor in April 2019
+
+manifested many of the same concerns, thus mitigating against a plausible finding of pretext on
+
+temporal proximity grounds. What’s more, “close temporal proximity can support a finding of
+
+pretext only in combination with other evidence of pretext.” Lobato v. N. M. Env’t Dep’t, 733
+
+F.3d 1283, 1293 (10th Cir. 2013). And, as discussed more fully below, no other evidence of
+
+pretext here contributes to the requisite combination.
+
+
+
+
+                                                    28
+       Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 29 of 55
+
+
+
+
+                     iii.      Unreasonable Investigation
+
+       Third, plaintiff contends that defendants’ failure to conduct reasonable investigations
+
+demonstrates pretext. Doc. 183 at 38. In assessing an investigation in the context of a pretext
+
+analysis, the Tenth Circuit doesn’t focus on whether that investigation is “optimal (i.e., text-book
+
+best practices)” but instead on whether it “was fair.” Dewitt v. Sw. Bell Tel. Co., 845 F.3d 1299,
+
+1315 (10th Cir. 2017). That is, a “failure to conduct . . . a fair investigation of the violation that
+
+purportedly prompted adverse action may support an inference of pretext.” Smothers v. Solvay
+
+Chemicals, Inc., 740 F.3d 530, 542 (10th Cir. 2014) (quotation cleaned up). Smothers is
+
+instructive here. In Smothers, the employer fired an employee by relying on information from
+
+just one side of an employment dispute. Id. And the employer actively refused to let plaintiff
+
+talk about the quarrel. Id. The Tenth Circuit held that this coupling of one-sided reliance and
+
+active refusal sufficed for a reasonable jury to infer pretext. Id. at 543. The Tenth Circuit later
+
+framed Smothers’ employer as having “deliberately prevented the plaintiff from responding to
+
+the allegations against him.” Gupta v. Okla. City Pub. Schs., No. 21-6138, 2022 WL 1742048, at
+
+*6 (10th Cir. May 31, 2022). On the other hand, where an employer acknowledged that plaintiff
+
+disputed the accusations against him—but declined to rely on plaintiff’s representation about the
+
+conflict—the Tenth Circuit found no such inference of pretext. Id. That is, “an employer
+
+may . . . ‘defeat the inference’ of pretext stemming from an allegedly unfair investigation by
+
+‘simply asking an employee for his version of events.’” Dewitt, 845 F.3d at 1314 (quoting BCI
+
+Coca-Cola, 450 F.3d at 488).
+
+       Here, plaintiff argues, defendants conducted an unreasonable investigation after receiving
+
+the KBHA subpoena primarily by criticizing who defendants chose to interview—and who they
+
+chose not to interview. Plaintiff contends that defendants didn’t interview “other obvious
+
+
+
+                                                      29
+        Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 30 of 55
+
+
+
+
+witnesses” like nurses or a co-surgeon, didn’t interview plaintiff himself,11 didn’t consider
+
+“readily available provider data,” and accepted “biased witnesses’ allegations without verifying
+
+them.” Doc. 183 at 38. But an “optimal,” “best practices” investigation isn’t required. Dewitt,
+
+845 F.3d at 1315. And defendants’ decision to interview doctors, instead of nurses, makes sense
+
+given that the doctors—in light of their expertise and experience—likely were better placed to
+
+identify issues with plaintiff’s performance as a doctor. To be sure, considering provider data
+
+undoubtedly falls into the best practices category. But such data rarely tells the whole story.
+
+And—once again—best practices aren’t required.
+
+        So, at bottom, a single phone call is the most important event for the court to evaluate
+
+pretext here. It is undisputed that Dr. Green-Cheatwood conversed with plaintiff about the
+
+KBHA complaint—the subject of the allegedly unreasonable investigation—on January 30,
+
+2020. Doc. 183-24 at 3 (Byrnes Decl. ¶ 11). And it is undisputed that plaintiff, during this
+
+
+
+11
+         Plaintiff also cites this “failure to interview” in a separate pretext argument about disparate
+treatment of other doctors. Doc. 183 at 38. But the evidence plaintiff adduces as disparate treatment for
+the termination decision all centers on the unreasonableness of the investigation. This evidence includes:
+a failure to interview other informed witnesses; a failure to interview a co-surgeon in one of plaintiff’s
+cases reviewed by Dr. Green-Cheatwood; a failure to interview plaintiff; and a failure to provide plaintiff
+with an opportunity to respond. Because these instances of alleged disparate treatment thus center on the
+reasonableness of defendants’ investigation, the court doesn’t address a disparate treatment pretext
+argument separately here. It is subsumed in plaintiff’s pretext argument based on unreasonable
+investigation.
+
+         And even if it did address disparate treatment separately, the court could dispense with the
+argument quickly. “A plaintiff may show pretext by providing evidence that he was treated differently
+from other similarly-situated, nonprotected employees who violated work rules of comparable
+seriousness.” Smothers, 740 F.3d at 540 (quotation cleaned up). Plaintiff adduces no evidence
+suggesting anyone had complained to the KBHA about the allegedly similarly-situated doctors, or that
+KBHA had issued a subpoena against these other allegedly similarly-situated doctors. And that report
+and subpoena drove the investigation here. So, plaintiff fails to adduce disparate treatment evidence to
+establish pretext.
+
+        The only other disparate treatment evidence plaintiff adduces involves a Report of Adverse
+Findings submitted to KBHA months after plaintiff was fired. But here the court addresses just evidence
+about defendants’ termination decision. So, the court doesn’t take up that disparate treatment argument
+here.
+
+                                                        30
+       Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 31 of 55
+
+
+
+
+conversation, told Dr. Green-Cheatwood that the allegations were false. Id. And that’s not all.
+
+Plaintiff also pleaded his case. He cited specific data showing his mortality rate, recited his work
+
+experience as a surgeon, and even reviewed his litigation record (just two unsuccessful lawsuits
+
+against him in 12.5 years in practice). Id.; Doc. 174-29 at 1 (Def. Ex. 46). Finally, he identified
+
+medical staff members who would support him. Doc. 183-24 at 3 (Byrnes Decl. ¶ 12); Doc. 174-
+
+29 at 1 (Def. Ex. 46).
+
+        This conversation ends the analysis about the KBHA complaint investigation. During the
+
+phone call, plaintiff provided “‘his version of events.’” Dewitt, 845 F.3d at 1314 (quoting BCI
+
+Coca-Cola, 450 F.3d at 488). And that’s a far cry from “deliberately prevent[ing] the plaintiff
+
+from responding to the allegations against him.” Gupta, 2022 WL 1742048, at *6. To be sure,
+
+defendants didn’t interview plaintiff formally during their investigation. And perhaps such a
+
+formal interview would constitute a best practice. But, one more time, an “optimal”
+
+investigation isn’t the standard. Dewitt, 845 F.3d at 1315. And neglecting to provide plaintiff a
+
+second, more formal opportunity to defend himself isn’t required.12 See Daimaru v. Wayfair,
+
+LLC, 631 F. Supp. 3d 1069, 1085 (D. Utah 2022) (“[Defendant’s] failure to ask for more
+
+information is not the same as a deliberate attempt to prevent her from arguing her case.”).
+
+Finally, just because defendants chose not to rely on plaintiff’s representations, but instead relied
+
+on those of other witnesses, it doesn’t follow that a reasonable juror properly could infer pretext.
+
+
+
+
+12
+        The court recognizes that plaintiff had this conversation with Dr. Green-Cheatwood alone. But it
+is undisputed that Dr. Green-Cheatwood sent an email to Mr. Sabey summarizing the phone call. Doc.
+174-29 (Def. Ex. 46). And plaintiff argues that Dr. Green-Cheatwood and Mr. Sabey influenced the
+decision makers to the point of imputing their own biases, see § IV.A.1. above. That argument cuts both
+ways. If Dr. Green-Cheatwood and Mr. Sabey’s perspectives so influenced the termination decision, then
+this phone call suffices as an opportunity for plaintiff to tell defendants his version of the events.
+
+
+                                                      31
+       Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 32 of 55
+
+
+
+
+See Gupta, 2022 WL 1742048, at *6. And so, the January 30, 2020, conversation negates any
+
+inference of pretext stemming from an allegedly unfair investigation into the KBHA complaint.
+
+        A similar analysis overwhelms any inference of pretext premised on the investigation into
+
+plaintiff’s complaints about Dr. Kessler. Again, plaintiff takes issue with the choice of
+
+witnesses, noting that defendants only interviewed one nurse and didn’t interview the ICU
+
+nurses’ boss until just before plaintiff’s firing. Doc. 183 at 4. But the nurse who defendants
+
+interviewed was the one nurse plaintiff alleged Dr. Kessler had harassed—a logical choice. Doc.
+
+183-14 at 19 (Hauer Dep. 40:7–17); Doc. 174-17 at 2 (Def. Ex. 34) (explaining that plaintiff’s
+
+complaint included “a single incident” involving the nurse interviewed). And SCH’s Human
+
+Resources Director interviewed that nurse within one week of plaintiff’s written complaint. Doc.
+
+174-18 at 1 (Def. Ex. 35). The nurse explained in the interview that the allegedly inappropriate
+
+touching was simply when “the doctor had brushed up against [her]” and that she “was not
+
+uncomfortable.” Id. She also commented that she “was surprised” the person reporting the
+
+incident said anything and surmised that the person reporting it “must have taken it wrong”
+
+because the brushing up “did not bother [her].” Id. To be sure, the nurse told plaintiff the
+
+touching was “weird and inappropriate.” Doc. 183-32 at 1 (St. Clair Decl. ¶ 7). But she never
+
+claims to have made any such representation to the Human Resources Director—instead the
+
+nurse says she doesn’t recall their conversation.13 Id. at 1–2 (St. Clair Decl. ¶ 9). In light of such
+
+
+
+
+13
+         The summary judgment record appears to contain evidence manifesting a dispute over what
+precisely this same nurse told Dr. Freund when he interviewed her on behalf of the MEC. Dr. Freund
+claims she never said the touching was “weird and inappropriate,” but she says she did. See Doc. 183-11
+at 17–18 (Freund Dep. 65:23–66:12); Doc. 183-32 at 2 (St. Clair Decl. ¶ 10). But the court has
+determined that the MEC wasn’t plaintiff’s employer. See § V.A.; Doc. 165 at 3 (Pretrial Order ¶ 2.x.).
+So, the court focuses here on what defendants—plaintiff’s employer—did in their investigation of the
+Kessler complaint.
+
+                                                      32
+        Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 33 of 55
+
+
+
+
+statements to HR, defendants’ decision not to pursue other interviews seems—perhaps not
+
+“optimal”—but at least explicable. Dewitt, 845 F.3d at 1315.
+
+        What’s more, plaintiff again had occasion to provide “‘his version of events’” during his
+
+October 16, 2019, meeting with Dr. Freund, Dr. Green-Cheatwood, and Dr. Stucky. Id. at 1314
+
+(quoting BCI Coca-Cola, 450 F.3d at 488); Doc. 165 at 3 (Pretrial Order ¶ 2.a.xvi.). At the
+
+meeting, plaintiff not only reiterated his concerns about Dr. Kessler but also expressed his views
+
+about the thoroughness of the investigation. Doc. 174-61 at 2 (Def. Ex. 67); Doc. 183-6 at 50–52
+
+(Byrnes Dep. 181:21–183:10). Once again, defendants’ request that plaintiff attend this meeting
+
+and explain his version of events surrounding the Kessler complaint “‘defeat[s] the inference’ of
+
+pretext stemming from an allegedly unfair investigation[.]” Dewitt, 845 F.3d at 1314 (quoting
+
+BCI Coca-Cola, 450 F.3d at 488). And so, plaintiff is left with one final pretext argument:
+
+deviation from normal policies and procedures.
+
+                      iv.        Deviation from Normal Policies and Procedures
+
+        Fourth, plaintiff asserts that defendants’ failure to follow their normal policies and
+
+procedures allows an inference of pretext. Doc. 183 at 38. As evidence, plaintiff invokes CEO
+
+Taylor’s not participating in the firing decision and defendants’ practice of resolving patient care
+
+issues with a doctor by discussing it with him, not firing him.14
+
+
+
+
+14
+         Plaintiff adduces other evidence as well, but the court needn’t address it here. First, plaintiff
+invokes Dr. Green-Cheatwood’s review of plaintiff’s cases. Doc. 183 at 12–13, 39. But plaintiff himself
+identifies that Dr. Green-Cheatwood didn’t review the relevant case until after plaintiff’s firing and
+concedes that Dr. Green-Cheatwood’s “opinions regarding that procedure could not have formed a basis
+for [plaintiff’s] termination.” Id. at 12–13. If any alleged issues with Dr. Green-Cheatwood’s review
+didn’t influence plaintiff’s firing, the court needn’t address that pretext argument here. Second, plaintiff
+cites shortcomings of the KBHA complaint’s investigation—neglecting to interview plaintiff, neglecting
+to interview other witnesses, such as nurses, and neglecting to review quality data—as evidence of
+procedural deviation. Id. at 38. And he also cites the Kessler complaint investigation’s shortcomings—
+neglecting to interview more than one nurse. But the court has addressed these arguments already in
+§ IV.A.3.iii., above, and so it needn’t take them up again here.
+
+                                                         33
+        Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 34 of 55
+
+
+
+
+        A showing of pretext premised on a deviation from procedure requires evidence that the
+
+defendant acted (i) “contrary to a written company policy[;]” (ii) contrary to “an unwritten
+
+policy[;]” or (iii) “contrary to company practice when making the adverse employment
+
+decision.” Kendrick v. Penske Transp. Servs., Inc., 220 F.3d 1220, 1230 (10th Cir. 2000)
+
+(quotation cleaned up). “However, ‘deviations from normal company procedures’ provide
+
+support for an assertion of pretext only when they can be considered ‘disturbing procedural
+
+irregularities.’” May v. Cockman, No. CV 13-1021 GBW/KK, 2016 WL 10591979, at *8
+
+(D.N.M. Jan. 28, 2016) (quoting Doebele, 342 F.3d at 1138 n.11). “A plaintiff who wishes to
+
+show that the company acted contrary to an unwritten policy or to company practice often does
+
+so by providing evidence that he was treated differently from other similarly-situated employees
+
+who violated work rules of comparable seriousness.” Kendrick, 220 F.3d at 1230. In this
+
+similarly-situated analysis, a court should “compare the relevant employment circumstances,
+
+such as work history and company policies, applicable to the plaintiff and the intended
+
+comparable employees in determining whether they are similarly situated.” Aramburu v. Boeing
+
+Co., 112 F.3d 1398, 1404 (10th Cir. 1997).
+
+        Here, plaintiff never adduces evidence of any written policies that defendants violated
+
+when reaching a decision to terminate him.15 So, he must rely either on unwritten policies or
+
+company practice to establish pretext by deviation. To establish pretext based on CEO Taylor
+
+not participating in the termination decision, plaintiff adduces just one scrap of evidence: CEO
+
+Taylor’s subjective belief. CEO Taylor testified that he “believe[d]” it would be atypical to
+
+
+15
+        Plaintiff adduces evidence of written SCH and Centura policies about the peer review process and
+a physician’s opportunity to respond to cases under review. Doc. 184-3 (Pl. Ex. D6); Doc. 184-24 (Pl.
+Ex. E167). But plaintiff clarifies in his briefing that the quality review to which these policies apply “did
+not occur until after [plaintiff’s] termination[.]” Doc. 183 at 21. So, the court doesn’t take into account
+these written policies in assessing whether defendants’ termination reasons were pretextual.
+
+
+                                                         34
+       Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 35 of 55
+
+
+
+
+exclude the CEO and that it “seemed unusual” that the CEO wouldn’t know the reason for a
+
+termination decision. Doc. 183-20 at 42, 45 (Taylor Dep. 117:17–20; 120:7–24). But CEO
+
+Taylor’s belief, without more, doesn’t reach the level of a “disturbing procedural irregularit[y].”
+
+May, 2016 WL 10591979, at *8. And, although plaintiff’s argument may have some logical
+
+appeal at first blush, it fades when one considers the CEO’s position in the relevant hierarchy
+
+here. Centura employed both decision makers16 whereas SCH employed Taylor. Doc. 183-20 at
+
+2 (Taylor Dep. 12:11–25). And CEO Taylor explains that he “reported directly to the Centura
+
+leadership team” and functioned as Centura’s “agent” whose “authority came directly from their
+
+delegated authority[.]” Id. So, while one logically might assume a CEO would make hiring and
+
+firing decisions, the analysis changes when the CEO is the agent of an overarching corporation
+
+like Centura. As such, CEO Taylor not participating in the firing decision doesn’t help plaintiff
+
+here. In sum, plaintiff hasn’t adduced evidence sufficient for a reasonable juror to infer that
+
+defendants’ termination reasons were pretextual based on CEO Taylor’s un-involvement in the
+
+firing decision.
+
+       Nor does defendants’ decision to fire plaintiff for his alleged patient care issues—instead
+
+of discussing those issues with him and coaching him through them—allow an inference of
+
+pretext. To argue pretext here, plaintiff cites CEO Taylor’s testimony about one or two older
+
+radiologists who the hospital thought it might need to remove from reading mammograms
+
+because they misread them. Doc. 183-20 at 49–51 (Taylor Dep. 128:17–130:2). To CEO
+
+Taylor’s knowledge—he left SCH during this time—those radiologists continued to work at the
+
+hospital but with more extensive oversight and increased peer review requirements. Id.
+
+
+
+16
+        Mr. Gessel held the position of Group President of Centura’s Greater Colorado Kansas (GCK)
+and Dr. Lichtenberger held the position of Centura Health Physician Group President of Physician
+Alignment. Doc. 173 at 10, 15.
+
+                                                     35
+       Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 36 of 55
+
+
+
+
+Essentially, this evidence invokes the similarly-situated employee argument: Because those
+
+radiologists weren’t fired but instead received increased monitoring, defendants should have
+
+taken a similar approach to plaintiff’s patient care issues. And so, he argues, a reasonable juror
+
+can infer defendants’ proffered termination reasons were pretextual because defendants treated
+
+plaintiff differently than a similarly-situated employee. But plaintiff’s pretext argument fails
+
+because those radiologists weren’t similarly situated employees, at least not under the controlling
+
+legal definition of the term.
+
+       A similarly-situated employee is one who “violated work rules of comparable
+
+seriousness.” Aramburu, 112 F.3d at 1404. But here, defendants’ concerns about the allegedly
+
+similarly-situated radiologists were limited to one discrete issue: the accurate reading of
+
+mammograms. And, while such an issue is less-than-ideal, defendants could address it easily by
+
+putting checks in place to confirm correct diagnoses. The work rules plaintiff allegedly violated
+
+were myriad, not singular, and not so easily addressed with simple double-checks and oversight.
+
+The KBHA complaint against plaintiff summarized ten different allegations. These included:
+
+“multiple alarming adverse outcomes, including multiple patient deaths[;]” “pressuring hospital
+
+CEO Scott Taylor to disband the hospital peer review committee[;]” “an unusually high number
+
+of nicked bowels during surgeries[;]” “abandon[ing] 8 I.C.U. cases[;]” “transferring out patients
+
+that he has dangerously mismanaged[;]” and “well known incidents of sexual relations in
+
+hospital treatment rooms with nurses.” Doc. 174-31 at 6 (Def. Ex. 48). The KBHA complaint
+
+also described his fellow physicians’ concerns: “[T]he medical staff has advised the CEO that he
+
+is unsafe and needs an assessment due to his erratic behaviors and dangerous violations of the
+
+standard of care.” Id. Such numerous and serious allegations preclude the argument that
+
+
+
+
+                                                    36
+       Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 37 of 55
+
+
+
+
+plaintiff and the radiologists were similarly-situated employees who “violated work rules of
+
+comparable seriousness.” Aramburu, 112 F.3d at 1404.
+
+       Nor does plaintiff adduce evidence about the “relevant employment circumstances” of
+
+those radiologists, allowing the court to categorize them as similarly-situated employees. Id. In
+
+his pretext section, plaintiff doesn’t adduce any evidence of the radiologists’ work history or of
+
+company policies, which is necessary to compare plaintiff and the radiologists as similarly-
+
+situated. Id.; see Doc. 183 at 38. Instead, plaintiff merely cites CEO Taylor’s account of the
+
+radiologists’ treatment. See Doc. 183 at 38 (citing to PSAF 142 at Doc. 183 at 34). And CEO
+
+Taylor couldn’t remember whether defendants removed either radiologist from patient care,
+
+though he thought they continued practice. Doc. 183-20 at 50 (Taylor Dep. 129:5–11). Nor was
+
+CEO Taylor in defendants’ employ long enough to know with any certainty the ultimate outcome
+
+of the radiologists’ saga. Id. (Taylor Dep. 129:9–18). Absent more substantial evidence, no
+
+reasonable juror could infer pretext based on defendants’ deviation from company policy as
+
+demonstrated by their differential treatment of plaintiff and the radiologists.
+
+                     v.        Pretext Conclusion
+
+       In sum, plaintiff has failed to demonstrate a genuine issue about whether the proffered
+
+reasons for his termination were pretextual. The arguments based on inconsistent and
+
+uncorroborated reasons; temporal proximity; unreasonable investigation; and failure to follow
+
+normal policies and procedures are insufficient, taken separately and together, for a reasonable
+
+jury to conclude that defendants’ termination reasons were pretext for a retaliatory discharge.
+
+Defendants thus are entitled to summary judgment on the claim of Title VII termination-based
+
+retaliation. The court addresses plaintiff’s other Title VII claim, next.
+
+
+
+
+                                                     37
+       Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 38 of 55
+
+
+
+
+       B.      Title VII Review Process Retaliation Claim
+
+       Plaintiff also contends under Title VII that defendants targeted him and treated him
+
+differently in the 2020 quality review process. Doc. 183 at 36. Recall that plaintiff, to state a
+
+prima facie case for retaliation, must show that (1) he engaged in protected opposition, (2) to a
+
+reasonable worker, the challenged employment action is materially adverse, and (3) the
+
+protected activity and the materially adverse action were connected causally. Bekkem, 915 F.3d
+
+at 1267. If plaintiff presents a prima facie case of retaliation, then defendant must respond with a
+
+legitimate, nonretaliatory reason for the challenged action. Parker Excavating, Inc. v. Lafarge
+
+W., Inc., 863 F.3d 1213, 1220 (10th Cir. 2017). If defendant satisfies this burden, plaintiff must
+
+show that defendant’s reason was merely a pretext for retaliation. Id.
+
+       Once again, plaintiff’s first protected action—filing complaints against Dr. Kessler for
+
+alleged sexual harassment—is stipulated and undisputed. Doc. 165 at 3 (Pretrial Order
+
+¶ 2.a.xv.). And plaintiff’s second action—filing an EEOC charge—likewise qualifies as
+
+protected activity. See Anderson v. Coors Brewing Co., 181 F.3d 1171, 1178 (10th Cir. 1999)
+
+(“By filing an EEOC claim, Plaintiff engaged in protected activity.”) So, plaintiff easily meets
+
+the first prong of a prima facie case. And as with plaintiff’s other Title VII claim, the second
+
+prong of the prima facie analysis here is also straightforward. Defendants don’t dispute that
+
+reporting to a state regulatory board constitutes a materially adverse action. See Doc. 173 at 26–
+
+31. Their position makes sense. As another court has explained:
+
+       It is difficult to see how threatening to report Plaintiff to the state licensing board,
+       who presumably has the ability to revoke Plaintiff’s license and thus impede his
+       ability to work in his profession, could not be an adverse employment action. A
+       reasonable employee could be dissuaded from engaging in protected speech if they
+       knew their employer would take steps to limit their ability to work in their
+       profession[.]
+
+
+
+
+                                                     38
+        Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 39 of 55
+
+
+
+
+Bogden-Cozmuta v. Granby Urgent Care, LLC, No. 20-CV-00879-VLB, 2022 WL 4585442, at
+
+*7 (D. Conn. Sept. 29, 2022). The proverbial rubber once again meets the road, therefore, on the
+
+causation prong.
+
+        To establish the requisite causal connection between his protected conduct and the
+
+materially adverse action, plaintiff must adduce evidence capable of supporting a reasonable
+
+finding that a desire to retaliate against him for his complaints about Dr. Kessler or EEOC charge
+
+filing motivated defendants to adopt retaliatory processes when they decided to report his cases
+
+to KBHA. Plaintiff’s two causation theories sound like this: (1) Dr. Stucky and Dr. Green-
+
+Cheatwood identified, with a retaliatory motive, specific cases of plaintiff’s for peer review; and
+
+(2) Drs. Stucky and Green-Cheatwood manipulated the peer review committee to deny plaintiff
+
+the opportunity—which it had provided to other doctors—to respond to the reviewed cases
+
+before reporting those cases to KBHA. Doc. 183 at 41. Here’s the problem with these
+
+theories.17
+
+        Plaintiff has come forward with no evidence to demonstrate that the reviewing committee
+
+knew of his protected activities. And neither of his theories establishes the requisite knowledge.
+
+Recall that a plaintiff asserting a claim of retaliation “must first come forward with evidence
+
+from which a reasonable factfinder could conclude that those who decided to take adverse action
+
+against him had knowledge of his protected activity.” Singh, 936 F.3d at 1043 (quotation
+
+cleaned up). So, unless plaintiff adduces evidence to demonstrate that the decision makers
+
+themselves had knowledge of plaintiff’s protected activities, this theory of causation fails. See
+
+
+17
+         Notice that neither causation theory involves the EEOC charge filing as protected activity.
+Plaintiff fails to offer any theory where the peer review committee—who, the court determines, are the
+decision makers here—have knowledge of his EEOC filing. See generally Doc. 183. And so, plaintiff’s
+claim—as premised on the EEOC filing as protected activity—fails. And the court doesn’t address it in
+the analysis here. The court explains this conclusion more fully when, below, it addresses plaintiff’s
+ADA retaliation claim premised on the EEOC charge filing. See § V.B.
+
+                                                      39
+       Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 40 of 55
+
+
+
+
+Henderson v. Stormont-Vail Healthcare, Inc., 607 F. Supp. 3d 1173, 1189 (D. Kan. 2022)
+
+(“Without evidence that these committee members had knowledge of plaintiff’s complaint,
+
+plaintiff necessarily cannot establish the requisite causation between her complaint and the
+
+[standard of care violation] finding.”).
+
+       To address his knowledge problem, plaintiff first urges the court to view Dr. Stucky and
+
+Dr. Green-Cheatwood—not the committee—as the decision makers because they chose the cases
+
+and passed the information on to the committee. Doc. 183 at 41. The court isn’t persuaded. It
+
+declines to equate choosing which cases to place before a committee at an outside facility with
+
+deciding how appropriate or egregious those cases were. In his alternative theory, plaintiff
+
+accepts the committee as the decision maker but contends that the doctors manipulated the
+
+committee such that the committee didn’t allow plaintiff to offer input. Id. This theory fails as
+
+well. As discussed before, to rely on a cat’s paw theory of liability—such as this alleged
+
+manipulation requires—the subordinate’s involvement must surpass “mere influence or input in
+
+the decisionmaking process.” BCI Coca-Cola, 450 F.3d at 487 (quotation cleaned up). Instead,
+
+“the biased subordinate’s discriminatory reports, recommendation, or other actions [must have]
+
+caused the adverse employment action.” Id. Plaintiff hasn’t adduced any evidence to show the
+
+doctors exercised anything beyond influence or input in the decisionmaking process here. To be
+
+sure, deciding which cases a committee reviews constitutes influence. But it doesn’t cause the
+
+committee to find those cases were handled so poorly or inappropriately that they must report
+
+them to KBHA. What’s more, the members of the peer review committee were from another
+
+hospital. Doc. 183-22 at 8 (Vogel Dep. 46:3–24). They worked and conducted peer review at a
+
+sister facility—not SCH—and this arrangement arose from an intentional attempt to ensure an
+
+“unbiased, robust peer review[.]” Id. Such geographical removal casts doubt on the Dr. Green-
+
+
+
+                                                    40
+       Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 41 of 55
+
+
+
+
+Cheatwood and Dr. Sabey’s ability to manipulate the committee. And so, plaintiff’s failure to
+
+adduce evidence of the committee’s protected activity knowledge persists.
+
+       In his last-ditch effort, plaintiff attempts to cure this knowledge problem one final way:
+
+by adducing evidence that Dr. Green-Cheatwood singled out one of plaintiff’s cases to Rebecca
+
+Vogel. Doc. 183 at 20. Dr Vogel served as chair of the peer review committee and the email she
+
+received from Dr. Green-Cheatwood revealed plaintiff’s identity, which should have remained
+
+undisclosed. Doc. 184-33 at 2–3 (Pl. Ex. E234). But that Dr. Vogel knew plaintiff’s identity
+
+isn’t evidence that Dr. Vogel knew about plaintiff’s protected activities. This is especially so
+
+here because Dr. Vogel led peer review conducted by at an outside, sister facility—not SCH—
+
+and so plaintiff’s identity alone was less likely to divulge his protected activities. Doc. 183-22 at
+
+8 (Vogel Dep. 46:3–24).
+
+       But let’s just say it did disclose those protected activities. Still, one person’s sole
+
+knowledge—when a group is deciding something—isn’t sufficient to establish the requisite
+
+causation. See Flores v. DeJoy, No. 19-CV-00784-LF-JHR, 2021 WL 2186240, at *10 (D.N.M.
+
+May 28, 2021) (“The biggest problem for [plaintiff] in showing a causal connection . . . is that
+
+only one person involved in the process . . . was aware that [plaintiff] had filed an EEO
+
+complaint.”). Instead, a plaintiff must demonstrate not just a single person’s knowledge, but also
+
+that the group mentioned or considered the protected activity when reaching its decision. See id.
+
+(“Given that [plaintiff] has no evidence that his EEO activity was even mentioned, much less
+
+considered, when the committee made its decision, and that only one member of the committee
+
+even knew about his EEO activity, no reasonable jury could find a causal connection[.]”); see
+
+also Henderson, 607 F. Supp. 3d at 1191 (“While Dr. Sachs was one of th[e] members [of the
+
+
+
+
+                                                     41
+          Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 42 of 55
+
+
+
+
+decision making committee], there is no evidence that he influenced the decision in any way or
+
+that he shared his knowledge of plaintiff’s complaint.”).
+
+          Plaintiff thus fails to come forward with evidence sufficient for a reasonable juror to infer
+
+a causal connection between his protected activities and the processes that led to SCH reporting
+
+his cases to KBHA. And without the requisite causal connection, plaintiff’s Title VII retaliation
+
+claim based on the peer review process can’t stand. The court grants defendants summary
+
+judgment on Count 1. And the court moves on to address plaintiff’s other set of federal claims,
+
+below.
+
+V.        ADA Claims (Count 3)
+
+          Plaintiff brings two claims under Count 3, both premised on the Americans with
+
+Disabilities Act. Doc. 165 at 17–18 (Pretrial Order ¶ 4.a.iii.). One claim asserts that defendants
+
+wrongly perceived or regarded plaintiff as disabled because he filed a protected complaint. Id.
+
+The second claim asserts that defendants violated the ADA by retaliating against plaintiff after
+
+he filed EEOC charges of discrimination. Id. The court addresses each claim, in turn.
+
+          Recall that the McDonnell Douglas burden-shifting framework applies with equal force
+
+to plaintiff’s ADA claims. See Morgan, 108 F.3d at 1323 (applying framework to ADA
+
+disability discrimination claim); Doebele, 342 F.3d at 1135 (applying framework to ADA
+
+retaliation claim). And so, the court begins with this now familiar question: Has plaintiff
+
+established a prima facie case for each ADA claim?
+
+     A.       “Regarded As” ADA Disability Claim18
+
+          Plaintiff claims that defendants violated the ADA by wrongly perceiving plaintiff to have
+
+a mental disability because he filed a protected complaint. Doc. 165 at 17–18 (Pretrial Order
+
+
+18
+          The Pretrial Order asserts two claims under the ADA. Doc. 165 at 17–18 (Pretrial Order
+¶ 4.a.iii.). The ADA Amendments Act of 2008 (“ADAAA”) amended the ADA and “went into effect on
+
+                                                       42
+        Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 43 of 55
+
+
+
+
+¶ 4.a.iii.). And plaintiff contends, as a result of that wrong perception, defendants fired him.
+
+Doc. 183 at 46. The ADA prohibits covered employers from discriminating against a “qualified
+
+individual on the basis of disability” in hiring, advancement, training, termination, and “other
+
+terms, conditions, and privileges of employment.” 42 U.S.C. § 12112(a). “To establish a prima
+
+facie case of employment discrimination under the ADA, [plaintiff] must present evidence that
+
+(1) he is disabled within the meaning of the ADA; (2) he is qualified to perform the essential
+
+functions of his job with or without accommodations; and (3) he was terminated under
+
+circumstances which give rise to an inference that the termination was based on his disability.”
+
+Smothers, 740 F.3d at 544 (quotation cleaned up). Under the first prong of the prima facie case,
+
+“being regarded as” having a disability qualifies as being disabled. 42 USC § 12102(1)(C).
+
+        “Under the ADAAA, for a plaintiff alleging disability discrimination to show that the
+
+employer regarded him as having an impairment, the plaintiff must show that (1) he has an actual
+
+or perceived impairment, (2) that impairment is neither transitory nor minor, and (3) the
+
+employer was aware of and therefore perceived the impairment at the time of the alleged
+
+discriminatory action.” Adair, 823 F.3d at 1306. That is, to establish the first prong a prima
+
+facie case of ADA discrimination based on plaintiff’s perceived mental disability, plaintiff must
+
+adduce evidence that—applying the three elements outlined above—defendants regarded
+
+
+
+
+January 1, 2009.” Dewitt, 845 F.3d at 1303 n.1. Here, the “events that form the basis for [plaintiff’s]
+disability-related claims occurred after this date; therefore, the ADAAA is technically applicable here.”
+Id. So, the court “refer[s] to [plaintiff’s] disability-related claims . . . as claims alleging violations of the
+ADAAA.” Id. Also, as our Circuit has noted, the 2008 amendments “primarily” revised “the ADA’s
+definition of ‘disability.’” Id. And the ADAAA modified the scope of a “regarded as” claim by defining
+“being regarded as having such an impairment” as not requiring that “‘the impairment limits or is
+perceived to limit a major life activity.’” Adair v. City of Muskogee, 823 F.3d 1297, 1305 (10th Cir.
+2016) (quoting 42 USC § 12102(3)(A)). Because this modified scope affects plaintiff’s claims here, the
+court’s analysis relies principally on cases decided after the ADAAA’s effective date.
+
+
+                                                            43
+        Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 44 of 55
+
+
+
+
+plaintiff as having an impairment. Having satisfied that first prong,19 plaintiff then must adduce
+
+evidence that the circumstances of his termination give rise to the inference that it was based on
+
+his perceived disability. Smothers, 740 F.3d at 544. The court thus addresses, first, whether
+
+plaintiff has adduced evidence to show that defendants regarded him as having an impairment.
+
+Then, the court takes up whether the circumstances of his termination allow a reasonable juror to
+
+infer that defendants premised that termination on his perceived disability.
+
+        Here, plaintiff doesn’t come forward with evidence that he had an actual or perceived
+
+impairment, thus failing to establish the first prong of a prima facie case for “regarded as” ADA
+
+discrimination. In his attempt to meet his burden that he had a perceived impairment, plaintiff
+
+adduces evidence that the Medical Executive Committee (MEC) requested he undergo a
+
+psychological evaluation. Doc. 174-23 (Def. Ex. 40) (letter from MEC to plaintiff
+
+recommending psychological evaluation). And while this evidence, on its face, might seem
+
+sufficient to permit a finding that plaintiff had a perceived impairment, a sister circuit has
+
+determined—even after the 2008 ADA Amendments Act broadening the “regarded as” claim—
+
+that a request for psychological evaluation isn’t enough to suggest that the employer regarded
+
+plaintiff as disabled. Krueger v. Home Depot USA, Inc., 674 F. App’x 490, 494 (6th Cir. 2017)
+
+(“Asking [the employee] to undergo a psychological evaluation is not enough to suggest that
+
+Home Depot regarded [the employee] as mentally disabled.”). And other circuits held the same
+
+before the ADAAA took effect. See Stewart v. County of Brown, 86 F.3d 107, 111 (7th Cir.
+
+1996) (affirming that an employer’s ordering “a number of psychological evaluations for
+
+
+19
+         The parties don’t dispute the second prong of a prima facie ADA disability discrimination case:
+that plaintiff “is qualified to perform the essential functions of his job with or without
+accommodations[.]” Smothers, 740 F.3d at 544. See 183 at 46 n.15 (“Defendants did not contest that
+[second] element, which is not surprising given that [plaintiff] did not actually have any impairment. In
+any event, there is an abundance of evidence that [plaintiff] was qualified.”). And so, the court’s analysis
+doesn’t address this second prong.
+
+                                                         44
+        Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 45 of 55
+
+
+
+
+[plaintiff], and . . . stat[ing] to third persons that he considered [plaintiff] to be emotionally or
+
+psychologically imbalanced” didn’t show a perception of mental impairment); Cody v. CIGNA
+
+Healthcare of St. Louis, Inc., 139 F.3d 595, 599 (8th Cir. 1998) (holding that employer’s request
+
+for a mental evaluation after plaintiff had demonstrated “unusual workplace behavior” didn’t
+
+demonstrate that employer perceived plaintiff as impaired).
+
+        But even if plaintiff had adduced evidence capable of establishing that the MEC regarded
+
+plaintiff as impaired, his prima facie case would fail on the third element of the “regarded as”
+
+test. That is, plaintiff hasn’t adduced evidence of circumstances which permit a reasonable juror
+
+to infer that defendants fired plaintiff based on his perceived disability. To be sure, defendants
+
+were aware of a perceived impairment at the time of termination, having first heard concerns
+
+about plaintiff’s mental state in September 2019 from members of the Medical Executive
+
+Committee. See Doc. 174-21 (Def. Ex. 38) (explaining the MEC’s concerns about plaintiff’s
+
+mental state in a September 2019 email to Dr. Green-Cheatwood, Physician Executive for
+
+Centura’s GKC group); Doc. 173-11 at 3–4 (Dunford Dep 32:21–35:1) (testifying that Dr.
+
+Dunford reached out to Nancy Killion, Centura’s Director of Quality, in September 2019—
+
+shortly after learning about plaintiff’s letter of complaint—because of concerns about his
+
+impairment). And plaintiff argues that these “internal communications show [defendants]
+
+believed [plaintiff] had such an impairment because of his protected complaints about Kessler[.]”
+
+Doc. 183 at 46. But that perception isn’t all an ADA claim requires.
+
+        Circumstances must allow a reasonable juror to infer that plaintiff’s employer fired
+
+plaintiff based on the perceived disability. But all the evidence plaintiff adduces to demonstrate
+
+his perceived mental state centers on the Medical Executive Committee (MEC), who wasn’t
+
+plaintiff’s employer. Doc. 173-4 at 6 (Gessel Dep. 48:7–16) (“Whether it’s employment or new
+
+
+
+                                                       45
+       Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 46 of 55
+
+
+
+
+contracts or termination of existing contracts, those weren’t the purview of the hospital board.”);
+
+see also Doc. 165 at 3 (Pretrial Order ¶ 2.a.x.) (“For purposes of [plaintiff’s] Title VII and ADA
+
+claims, the Hospital and Centura concede that they jointly employed [plaintiff].”). It is
+
+undisputed that the MEC had no power to make employment decisions about employed
+
+physicians. Doc. 173 at 2–3; Doc. 183 at 3. And so, plaintiff needed to adduce evidence of
+
+circumstances surrounding his firing that allow an inference that SCH or Centura—not the
+
+MEC—perceived he had an impairment. But he didn’t adduce any. Indeed, defendants—his
+
+employers—didn’t take any action or indicate in any way that they might terminate plaintiff
+
+when the MEC concerns surfaced in September 2019. Instead, defendants acted four months
+
+later—and only after the KBHA complaint and subpoena—arrived early in 2020. And plaintiff
+
+hasn’t adduced any evidence to suggest that those affiliated with defendants who knew about the
+
+MEC concerns—Dr. Green-Cheatwood, Nancy Killion, and Mr. Sabey—ever expressed those
+
+concerns to Dr. Lichtenberger and Mr. Gessel, the persons who decided to terminate plaintiff.
+
+       And so, even when the court assumes defendants perceived plaintiff as having an
+
+impairment—a generous assumption given the case law about psychological evaluations—
+
+plaintiff still hasn’t adduced sufficient evidence that the circumstances of his termination give
+
+rise to an inference that defendants based it on his perceived disability. Plaintiff’s ADA
+
+“regarded as” disability discrimination claim thus fails at the prima facie stage and the court
+
+grants summary judgment to defendants on this claim. Now, to plaintiff’s second ADA claim.
+
+       B.      ADA Retaliation Claim
+
+       In the Pretrial Order, plaintiff premises his second ADA claim on defendants’ “retaliating
+
+against [plaintiff] when they took adverse action against him after he filed EEOC charges of
+
+discrimination alleging Defendants violated the ADA.” Doc. 165 at 17–18 (Pretrial Order
+
+
+
+                                                    46
+       Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 47 of 55
+
+
+
+
+¶ 4.a.iii.). But then, in his Response to Defendants’ Motion for Summary Judgment, plaintiff
+
+changes his tack. He reframes his ADA retaliation claim and premises it on his “January 2020
+
+opposition to being wrongly regarded as disabled and asked to undergo medical examination.”
+
+Doc. 183 at 46. And, as a result, plaintiff argues in his Response that defendants’ “actions to fire
+
+him and subject him to their pretextual quality investigation . . . create an inference that ADA
+
+retaliation caused those actions.” Id. That is, instead of premising his ADA retaliation claim on
+
+his filing an EEOC charge—which first happened in May 2020—plaintiff scoots his premise for
+
+retaliatory conduct back in time. In his Response, plaintiff attempts to alter the premise of his
+
+ADA claim to his January 2020 letter opposing the psychological evaluation request. And that
+
+changed premise would allow plaintiff’s ADA retaliation claim to encompass both his firing and
+
+the case peer review that followed. But that’s a problem. Here’s why.
+
+       Fed. R. Civ. P. 16(d) provides that the pretrial order “controls the course of the action”
+
+unless modified by the court. What’s more, “‘[c]laims, issues, defenses, or theories of damages
+
+not included in the pretrial order are waived.’” Zenith Petrol. Corp. v. Steerman, 656 F. App’x
+
+885, 887 (10th Cir. 2016) (quoting Cortez v. Wal–Mart Stores, Inc., 460 F.3d 1268, 1276–77
+
+(10th Cir. 2006)). Courts must construe pretrial orders liberally “‘to cover any of the legal or
+
+factual theories that might be embraced by their language.’” Id. (quoting Trujillo v. Uniroyal
+
+Corp., 608 F.2d 815, 818 (10th Cir. 1979)). Nonetheless, pretrial orders require the parties to
+
+disclose the “real issues” preserved for trial to “avoid surprise.” Id. (quotation cleaned up).
+
+       Here, the court entered the Pretrial Order on January 23, 2024, before defendants filed
+
+their summary judgment motion. Doc. 165. The court has reviewed the Pretrial Order and
+
+concludes that it placed defendants on notice of just one basis for plaintiff’s ADA retaliation
+
+claim: his filing of EEOC charges. Id. at 17–18 (Pretrial Order ¶ 4.a.iii.). And that claim wasn’t
+
+
+
+                                                     47
+       Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 48 of 55
+
+
+
+
+broadly worded to permit the court to construe it liberally to include plaintiff’s January 2020
+
+opposition letter. What’s more, plaintiff’s Third Amended Complaint unequivocally indicates
+
+that the EEOC filing forms the grounds for his ADA retaliation claim. Doc. 87 at 16 (3d Am.
+
+Compl. ¶¶ 126–27) (“Dr. Byrnes engaged in activity protected by the ADA by filing EEOC
+
+Charges against the Defendants. . . . Defendants retaliated against Dr. Byrnes because he
+
+engaged activity protected by the ADA, in violation of the ADA.”). The court can’t read the
+
+Pretrial Order or Third Amended Complaint to place defendants on notice of any other theory of
+
+recovery for ADA retaliation. And so, the court evaluates plaintiff’s ADA retaliation claim as
+
+based solely on his filing of EEOC charges—and not his January 2020 opposition. As a result,
+
+this ADA claim doesn’t encompass plaintiff’s firing, as explained, below.
+
+       The ADA prohibits employers from retaliating against employees who engage in an
+
+activity protected by that act. See 42 U.S.C. § 12203(a)–(b). To make a prima facie case of
+
+ADA retaliation, plaintiff must show that “(1) he engaged in a protected activity; (2) he was
+
+subjected to an adverse employment action subsequent to or contemporaneous with the protected
+
+activity; and (3) there was a causal connection between the protected activity and the adverse
+
+employment action.” Foster v. Mountain Coal Co., LLC, 830 F.3d 1178, 1187 (10th Cir. 2016).
+
+(quotation cleaned up).
+
+       Here, the court already has identified plaintiff’s sole protected activity—his EEOC
+
+charge filing. See Anderson, 181 F.3d at 1178 (“By filing an EEOC claim, Plaintiff engaged in
+
+protected activity.”). And that protected activity determines the timeframe of relevant adverse
+
+employment actions. That is, plaintiff solely may allege adverse employment actions
+
+“subsequent to or contemporaneous with the protected activity[.]” Foster, 830 F.3d at 1187.
+
+Here, plaintiff filed his first EEOC claim on May 1, 2020. Doc. 87 at 9 (3d Am. Compl. ¶ 67).
+
+
+
+                                                    48
+       Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 49 of 55
+
+
+
+
+So, the court only needs to evaluate those adverse employment actions occurring on or after May
+
+1, 2020.
+
+       Defendants fired plaintiff on February 12, 2020. Doc. 165 at 4 (Pretrial Order ¶ 2.a.xxi.).
+
+So that adverse action is out. Defendants also engaged in a review process of cases that plaintiff
+
+contends demonstrates a retaliatory motive because of his disparate treatment in the process
+
+compared to other doctors. And that process led to defendants reporting some of plaintiff’s cases
+
+to KBHA. That one happened in the proper timeframe. The court already has determined that
+
+such reporting qualifies as an adverse employment action. See § IV.B. So, on this review
+
+process basis, plaintiff has satisfied the first two prongs of a prima facie ADA retaliation claim.
+
+All that remains is prong three: the causal connection between his EEOC filing and defendants’
+
+reporting to KBHA.
+
+       But, as with the Title VII claim premised on the review process discussed above, see
+
+§ IV.B., here, too, plaintiff has a causation problem. Recall that a plaintiff asserting a claim of
+
+retaliation “must first come forward with evidence from which a reasonable factfinder could
+
+conclude that those who decided to take adverse action against him had knowledge of his
+
+protected activity.” Singh, 936 F.3d at 1043 (10th Cir. 2019) (quotation cleaned up). But here,
+
+doctors in a different, sister facility conducted the review process. Doc. 183-22 at 8 (Vogel Dep.
+
+46:3–24). And, although Dr. Stucky and Dr. Green-Cheatwood determined which cases to send
+
+to that review committee, the court already has concluded that this didn’t turn them into
+
+decision-makers. See § IV.B., above. So, the relevant decision makers are, yet again, the peer
+
+review committee. This means that plaintiff—to discharge the requirement of a causal
+
+connection—must adduce evidence that those review committee decision makers had knowledge
+
+of his EEOC charge filing. And plaintiff hasn’t adduced such evidence—at all—zero. See
+
+
+
+                                                     49
+         Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 50 of 55
+
+
+
+
+§ IV.B.n.18; see also generally Doc. 183. Here too, then, plaintiff fails to establish a prima facie
+
+case of ADA retaliation on the final prong—causation. And without a prima facie case,
+
+plaintiff’s claim can’t stand. The court thus grants defendants summary judgment against
+
+plaintiff’s ADA claims (Count 3). Having thus granted summary judgment on all of plaintiff’s
+
+federal claims, the court takes up plaintiff’s state claims, below.
+
+VI.      State Law Claims
+
+         In addition to his federal claims, plaintiff asserts state and common law claims for
+
+Retaliation (Count 2), Fraud (Count 4), Fraud by Silence (Count 5), Promissory
+
+Estoppel/Detrimental Reliance (Count 7) and Common Law Retaliation for protected activity—
+
+under the Kansas Wage Payment Act (Count 10). Doc. 165 at 17–18 (Pretrial Order ¶ 4.a.ii., iv.–
+
+vii.).
+
+         Under 28 U.S.C. § 1367(c)(3), the court may decline to exercise supplemental
+
+jurisdiction over state law claims if it has “dismissed all claims over which it has original
+
+jurisdiction[.]” Section 1367 “reflects the understanding that, when deciding whether to exercise
+
+supplemental jurisdiction, ‘a federal court should consider and weigh in each case, and at every
+
+stage of the litigation, the values of judicial economy, convenience, fairness, and comity.’” City
+
+of Chi. v. Int’l Coll. of Surgeons, 522 U.S. 156, 173 (1997) (quoting Carnegie-Mellon Univ. v.
+
+Cohill, 484 U.S. 343, 350 (1988)). In “the usual case in which all federal-law claims are
+
+eliminated before trial, the balance of factors to be considered under the [supplemental]
+
+jurisdiction doctrine—judicial economy, convenience, fairness, and comity—will point toward
+
+declining to exercise jurisdiction over the remaining state-law claims.” Carnegie-Mellon Univ.,
+
+484 U.S. at 350 n.7. Also, “[n]otions of comity and federalism demand that a state court try its
+
+own lawsuits, absent compelling reasons to the contrary.” Thatcher Enters. v. Cache Cnty.
+
+Corp., 902 F.2d 1472, 1478 (10th Cir. 1990).
+                                                     50
+        Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 51 of 55
+
+
+
+
+        Our Circuit has expressed its preference that, when a district court dismisses all federal
+
+claims, it typically should decline to exercise supplemental jurisdiction over state law claims.
+
+See Smith v. City of Enid ex rel. City Comm’n, 149 F.3d 1151, 1156 (10th Cir. 1998) (“When all
+
+federal claims have been dismissed, the court may, and usually should, decline to exercise
+
+jurisdiction over any remaining state claims.” (emphasis added)). But still, the decision is
+
+committed to the district court’s sound discretion. Exum v. U.S. Olympic Comm., 389 F.3d 1130,
+
+1138–39 (10th Cir. 2004).
+
+        The court, in its discretion, declines to exercise supplemental jurisdiction over plaintiff’s
+
+state law claims. The court finds no compelling reasons to depart from our Circuit’s general
+
+directives. Fairness and comity lead the court to conclude that a Kansas state court should
+
+resolve plaintiff’s Kansas state law claims.
+
+VII.    Other Pending Motions
+
+        The court also takes this opportunity to rule other pending motions associated with the
+
+summary judgment briefing: three sealing motions and one disregard or surreply motion. The
+
+court starts with the sealing motions.
+
+        A.      Sealing Motions (Doc. 176; Doc. 188; Doc. 194)
+
+        Defendants have filed two Motions for Leave to File Under Seal (Doc. 176; Doc. 194)
+
+and plaintiff has filed one Motion for Leave to File Exhibits Under Seal (Doc. 188). All three
+
+sealing motions are unopposed.20 The parties ask the court to seal in their entirety—or give
+
+leave to file redacted versions of—specified exhibits filed with their supporting summary
+
+judgment memorandums.
+
+
+
+20
+         Defendants’ first sealing motion (Doc. 176) left ambiguous plaintiff’s position about their
+specific sealing and redacting requests. See Doc. 176 at 4. But plaintiff’s counsel later communicated
+informally to chambers, clarifying that plaintiff didn’t oppose defendants’ motion.
+
+                                                       51
+       Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 52 of 55
+
+
+
+
+       The Supreme Court recognizes a “general right to inspect and copy public records and
+
+documents, including judicial records and documents.” Nixon v. Warner Commc’ns, Inc., 435
+
+U.S 589, 597 (1978) (citations omitted). Nevertheless, a party may rebut the presumption of
+
+access to judicial records by demonstrating that “countervailing interests heavily outweigh the
+
+public interests in access.” Mann v. Boatright, 477 F.3d 1140, 1149 (10th Cir. 2007) (quotation
+
+cleaned up). The party seeking to deny access must shoulder the burden to establish a
+
+sufficiently significant interest outweighing the presumption of access. Id. (quotation cleaned
+
+up); see also United States v. Bacon, 950 F.3d 1286, 1293 (10th Cir. 2020) (“The party seeking
+
+to keep records sealed bears the burden of justifying that secrecy,” and it must “articulate a
+
+sufficiently significant interest that will justify continuing to override the presumption of public
+
+access.” (quotation cleaned up)).
+
+       This legal standard requires federal courts to assess competing interests: the general right
+
+of public access weighed against an interest in protecting certain information from disclosure.
+
+When engaging in this endeavor, district courts have substantial discretion. See, e.g., Nixon, 435
+
+U.S. at 599 (“[T]he decision [about] access [to judicial records] is one best left to the sound
+
+discretion of the trial court[.]”); see also Mann, 477 F.3d at 1149 (“Whether judicial records and
+
+other case-related information should be sealed or otherwise withheld from the public is a matter
+
+left to the sound discretion of the district court.” (citation omitted)). Applying this standard, the
+
+court finds that the parties’ need to preserve confidentiality here outweighs the public’s right to
+
+access because the material at issue falls into two categories meriting protection: (i) patient
+
+identity and medical information; and (ii) confidential and proprietary business information.
+
+And our Circuit has clarified that “[m]edical records and confidential business records are
+
+
+
+
+                                                     52
+       Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 53 of 55
+
+
+
+
+examples of the types of private information this court has allowed to be sealed.” Luo v. Wang,
+
+71 F.4th 1289, 1304 (10th Cir. 2023).
+
+       Having reviewed the exhibits at issue in these three sealing motions, the court concludes
+
+that each falls appropriately within one of these two categories. And the court notes that the
+
+parties diligently have sought limited redactions to preserve public access whenever possible.
+
+So, the court grants defendants’ Motions for Leave to File Under Seal (Doc. 176; Doc. 194) and
+
+plaintiff’s Motion for Leave to File Exhibits Under Seal (Doc. 188).
+
+       B.      Motion to Disregard or for Leave to File Surreply (Doc. 195)
+
+       The final pending motion that spins out of the summary judgment briefing is plaintiff’s
+
+Motion to Disregard Defendants’ New Evidence or, in the Alternative, for Leave to File a
+
+Surreply (Doc. 195). Plaintiff asks the court to disregard new materials attached to defendants’
+
+Reply brief (Doc. 189).
+
+       Our Circuit answered “whether the district court may consider evidence and issues raised
+
+by the party moving for summary judgment in a reply brief without allowing the opposing party
+
+to respond” in Beaird v. Seagate Tech., Inc., 145 F.3d 1159, 1164 (10th Cir. 1998). It
+
+determined that a district court has “two permissible courses of action” in this situation: the
+
+court may “permit[] a surreply or, in granting summary judgment for the movant, it [may]
+
+refrain[] from relying on any new material contained in the reply brief.” Id.; see also Doebele,
+
+342 F.3d at 1139 n.13 (10th Cir. 2003) (concluding “the court abused its discretion to the extent
+
+it relied on new evidentiary materials presented for the first time in [defendant’s summary
+
+judgment] reply brief” because the district court denied plaintiff’s motion to file a surreply);
+
+Green v. New Mexico, 420 F.3d 1189, 1196 (10th Cir. 2005) (explaining that a district court
+
+choosing not to rely on new evidence raised in a summary judgment reply brief “does not abuse
+
+its discretion by precluding a surreply” (quotation cleaned up)). Here, the court grants movants
+                                                     53
+       Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 54 of 55
+
+
+
+
+summary judgment. And it does so without relying on any of the new evidence filed with
+
+defendants’ Reply brief. So, the court follows the second permissible course of action identified
+
+by our Circuit. It grants the portion of plaintiff’s motion requesting that it disregard defendants’
+
+new materials filed on reply and denies the portion of plaintiff’s motion requesting leave to file a
+
+surreply.
+
+VIII. Conclusion
+
+       For the reasons stated in this Memorandum and Order, the court grants defendants’
+
+Motion for Summary Judgment (Doc. 172) against plaintiff’s retaliation claims under Title VII
+
+and plaintiff’s “regarded as” discrimination and retaliation claims under the ADA. The court
+
+dismisses plaintiff’s state law claims without prejudice. The court also grants the parties’
+
+Motions for Leave to File Under Seal (Doc. 176; Doc. 188; Doc. 194). And it grants in part and
+
+denies in part plaintiff’s Motion to Disregard Defendants’ New Evidence or, in the Alternative,
+
+for Leave to File a Surreply (Doc. 195). The court directs the Clerk to enter Judgment consistent
+
+with this Memorandum and Order and close this case.
+
+       IT IS THEREFORE ORDERED BY THE COURT THAT defendants’ Motion for
+
+Summary Judgment (Doc. 172) is granted.
+
+       IT IS FURTHER ORDERED BY THE COURT THAT the parties’ Motions for Leave
+
+to File Under Seal (Doc. 176; Doc. 188; Doc. 194) are granted.
+
+       The court directs the Clerk to remove the provisional designation and leave permanently
+
+under seal the following Doc. 174 exhibits: Doc. 174-27, Doc. 174-30, Doc. 174-33, Doc. 174-
+
+36, Doc. 174-43, Doc. 174-44, Doc. 174-57, Doc. 174-58, and Doc. 174-62. And the court
+
+directs the Clerk to unseal any provisionally sealed exhibits in Doc. 174 not enumerated here.
+
+       The court also directs the Clerk to remove the provisional designation and leave
+
+permanently under seal the following Doc. 184 exhibits: Doc. 184-5, Doc. 184-11, Doc. 184-21,
+                                                     54
+       Case 2:21-cv-02086-DDC Document 200 Filed 09/05/24 Page 55 of 55
+
+
+
+
+Doc. 184-30, Doc. 184-31, and Doc. 184-33. And the court directs the Clerk to unseal any
+
+provisionally sealed exhibits in Doc. 184 not enumerated here.
+
+       The court also directs the Clerk to remove the provisional designation and leave
+
+permanently under seal the following Doc. 190 exhibit: Doc. 190-1. And the court directs the
+
+Clerk to unseal the other provisionally sealed exhibit in Doc. 190 not enumerated here.
+
+       The court further directs defendants to file the redacted version—previously submitted to
+
+chambers by email—of the following exhibits: Doc. 174-27, Doc. 174-30, Doc. 174-33, Doc.
+
+174-36, Doc. 174-43, Doc. 174-44, Doc. 174-58, Doc. 174-62, and Doc. 190-1.
+
+       Finally, the court directs plaintiff to file the redacted version—previously submitted to
+
+chambers by email—of the following exhibits: Doc. 184-5, Doc. 184-11, Doc. 184-21, Doc.
+
+184-30, and Doc. 184-33.
+
+       IF IS FURTHER ORDERED BY THE COURT THAT plaintiff’s Motion for Leave
+
+to Disregard Defendants’ New Evidence or, in the Alternative, for Leave to File a Surreply (Doc.
+
+195) is granted in part and denied in part. The court grants plaintiff’s request to disregard
+
+defendants’ new evidence and denies plaintiff’s request for leave to file a surreply.
+
+       IT IS SO ORDERED.
+
+       Dated this 5th day of September, 2024, at Kansas City, Kansas.
+
+                                                      s/ Daniel D. Crabtree
+                                                      Daniel D. Crabtree
+                                                      United States District Judge
+
+
+
+
+                                                     55

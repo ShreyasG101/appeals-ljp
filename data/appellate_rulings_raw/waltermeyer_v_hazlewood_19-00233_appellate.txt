@@ -1,0 +1,1213 @@
+United States Court of Appeals
+                     For the First Circuit
+
+
+No. 24-1355
+
+                      BROC T. WALTERMEYER,
+
+                      Plaintiff, Appellant,
+
+                               v.
+
+     ROBERT HAZLEWOOD, Warden, FCI Berlin; DIANE L. KISLER,
+                     Physician, FCI Berlin,
+
+                     Defendants, Appellees.
+
+
+          APPEAL FROM THE UNITED STATES DISTRICT COURT
+               FOR THE DISTRICT OF NEW HAMPSHIRE
+
+          [Hon. Landya McCafferty, U.S. District Judge]
+
+
+                             Before
+
+                   Montecalvo, Circuit Judge,
+                   Breyer,* Associate Justice,
+                    and Lynch, Circuit Judge.
+
+
+     Samuel Weiss, with whom Rights Behind Bars was on brief, for
+appellant.
+     Jaynie Lilley, Appellate Staff Attorney, Civil Division, with
+whom Sarah Carroll, Appellate Staff Attorney, Civil Division, and
+Brian M. Boynton, Principal Deputy Assistant Attorney General,
+United States Department of Justice, were on brief, for appellees.
+
+
+                           May 6, 2025
+
+
+     * Hon. Stephen G. Breyer, Associate Justice (Ret.) of the
+Supreme Court of the United States, sitting by designation.
+            LYNCH, Circuit Judge.     The dispositive question in this
+
+appeal is whether this Eighth Amendment claim for damages against
+
+a federal Bureau of Prisons ("BOP") doctor and warden asserted by
+
+Broc     Waltermeyer,    an   incarcerated   federal   inmate,   alleging
+
+inadequate medical treatment presents a new context and so is
+
+meaningfully different from the claim asserted in Carlson v. Green,
+
+446 U.S. 14 (1980).     Applying Egbert v. Boule, 596 U.S. 482 (2022),
+
+and Ziglar v. Abbasi, 582 U.S. 120 (2017), we affirm dismissal of
+
+this case, albeit on different reasoning than used by the district
+
+court.     See Waltermeyer v. Warden, 720 F. Supp. 3d 97 (D.N.H.
+
+2024).
+
+                                      I.
+
+            In Egbert v. Boule and Ziglar v. Abbasi and other cases,
+
+the Supreme Court has instructed that judicially created damages
+
+causes of action for alleged constitutional violations must be
+
+dismissed if the claim arose in a new context than the prior cases
+
+which had judicially created such a claim.         See Egbert, 596 U.S.
+
+at 492; Ziglar, 582 U.S. at 136.      The Supreme Court had recognized
+
+damages     claims      against   federal    officials    for    alleged
+
+constitutional violations in three earlier cases: Carlson, Bivens
+
+v. Six Unknown Named Agents of Federal Bureau of Narcotics, 403
+
+U.S. 388 (1971), and Davis v. Passman, 442 U.S. 228 (1979).            In
+
+more recent years, the Court has stated that "expanding the Bivens
+
+[claim] is now a 'disfavored' judicial activity," Ziglar, 582 at
+
+
+                                   - 2 -
+135 (quoting Ashcroft v. Iqbal, 556 U.S. 662, 675 (2009)), and
+
+that "Bivens, Davis, and Carlson were the products of an era when
+
+the Court routinely inferred 'causes of action' that were 'not
+
+explicit'    in    the    text   of   the   provision      that   was   allegedly
+
+violated," Hernández v. Mesa, 589 U.S. 93, 99 (2020) (quoting
+
+Ziglar, 582 U.S. at 132).           The Supreme Court has not recognized a
+
+Bivens-type claim since Carlson in 1980.                  Since then, the Court
+
+has "consistently rebuffed requests to add to the claims allowed
+
+under Bivens," Hernández, 589 U.S. at 102, explaining that it
+
+"ha[s]   come     'to    appreciate    more    fully   the    tension   between'
+
+judicially    created      causes     of   action   and    'the   Constitution's
+
+separation of legislative and judicial power,'" Egbert, 596 U.S.
+
+at 491 (quoting Hernández, 589 U.S. at 100).                 See, e.g., Bush v.
+
+Lucas, 462 U.S. 367 (1983); FDIC v. Meyer, 510 U.S. 471 (1994);
+
+Wilkie v. Robbins, 551 U.S. 537 (2007).
+
+            The Supreme Court has structured the analysis we must
+
+apply to determine whether Waltermeyer's claims present a new
+
+context.     We first ask whether the claim presents "'a new Bivens
+
+context' -- i.e., is it 'meaningful[ly]' different" from whichever
+
+of Bivens, Carlson, or Davis is most similar to the case at hand.
+
+Egbert, 596 U.S. at 492 (quoting Ziglar, 582 U.S. at 139); see
+
+also Hernández, 589 U.S. at 102.            The Court has explained:
+
+            Without endeavoring to create an exhaustive
+            list of differences that are meaningful enough
+            to make a given context a new one, some
+
+
+                                       - 3 -
+            examples might prove instructive.      A case
+            might differ in a meaningful way because of
+            the rank of the officers involved; the
+            constitutional right at issue; the generality
+            or specificity of the official action; the
+            extent of judicial guidance as to how an
+            officer should respond to the problem or
+            emergency to be confronted; the statutory or
+            other legal mandate under which the officer
+            was   operating;   the  risk   of   disruptive
+            intrusion   by   the   Judiciary    into   the
+            functioning of other branches; or the presence
+            of potential special factors that previous
+            Bivens cases did not consider.
+
+Ziglar, 582 U.S. at 139-140. Using these "instructive" "examples,"
+
+our discussion in the instant case focuses on the third through
+
+seventh examples.       Id. at 139.
+
+            Egbert     also   requires   us   to    ask   whether   "there   are
+
+'special    factors'    indicating    that    the   Judiciary   is    at   least
+
+arguably less equipped than Congress to 'weigh the costs and
+
+benefits of allowing a damages action to proceed.'"                 Egbert, 596
+
+U.S. at 492 (quoting Ziglar, 582 U.S. at 136).                  This includes
+
+"sound reasons to think Congress might doubt the efficacy or
+
+necessity of a damages [claim]," and "if we have reason to pause
+
+before applying Bivens in a new context . . . we reject the
+
+request."    Hernández, 589 U.S. at 102 (first quoting Ziglar, 582
+
+U.S. at 137). Egbert further held that "[w]hile our cases describe
+
+two steps, those steps often resolve to a single question: whether
+
+there is any reason to think that Congress might be better equipped
+
+to create a damages [claim]."         Egbert, 596 U.S. at 492.
+
+
+
+                                     - 4 -
+           The parties agree that Carlson is our comparison case.
+
+Carlson recognized a Bivens-type Eighth Amendment claim against
+
+federal    prison     officials      alleging        those      officials       showed
+
+deliberate      indifference    to      the   plaintiff's         life-threatening
+
+asthma-related      medical    needs,    including        by    keeping   him    in   a
+
+facility despite knowing that its medical facilities were grossly
+
+inadequate to his needs, acting against the advice of doctors by
+
+failing to provide medical treatment for several hours after he
+
+suffered   an    asthma   attack,    and      then    administering       medically
+
+contraindicated drugs which worsened his condition.                   Carlson, 446
+
+U.S. at 16 n.1.      The officials then attempted to use a respirator
+
+that was known to be inoperative, which further impeded his
+
+breathing,   and    delayed    his   transfer        to    an   outside   hospital,
+
+resulting in the plaintiff's death.            Id.        As the Court explained:
+
+           More specifically, respondent alleged that
+           petitioners, being fully apprised of the gross
+           inadequacy of medical facilities and staff at
+           the Federal Correction Center in Terre Haute,
+           Ind., and of the seriousness of Jones' chronic
+           asthmatic condition, nonetheless kept him in
+           that facility against the advice of doctors,
+           failed to give him competent medical attention
+           for some eight hours after he had an asthmatic
+           attack, administered contra-indicated drugs
+           which made his attack more severe, attempted
+           to use a respirator known to be inoperative
+           which further impeded his breathing, and
+           delayed for too long a time his transfer to an
+           outside hospital.      The complaint further
+           alleges that Jones' death resulted from these
+           acts and omissions, that petitioners were
+           deliberately indifferent to Jones' serious
+
+
+
+                                     - 5 -
+            medical needs, and that their indifference was
+            in part attributable to racial prejudice.
+
+Carlson, 446 U.S. at 16 n.1.
+
+                                      II.
+
+            "We do not credit legal labels or conclusory statements,
+
+but     rather    focus    on   the         complaint's      non-conclusory,
+
+non-speculative factual allegations and ask whether they plausibly
+
+narrate a claim for relief."     Cheng v. Neumann, 51 F.4th 438, 443
+
+(1st Cir. 2022).     "'[W]e recount the underlying facts as alleged
+
+in the complaint,' but 'disregard any conclusory allegations.'"
+
+Analog Techs., Inc. v. Analog Devices, Inc., 105 F.4th 13, 14 (1st
+
+Cir. 2024) (first quoting Shash v. Biogen, Inc., 84 F.4th 1, 6
+
+(1st Cir. 2023); then quoting Ponsa-Rabell v. Santander Sec. LLC,
+
+35 F.4th 26, 30 n.2 (1st Cir. 2022)).             We review the district
+
+court's dismissal order de novo.      Douglas v. Hirshon, 63 F.4th 49,
+
+54-55 (1st Cir. 2023).
+
+            Waltermeyer's operative complaint alleges he received
+
+inadequate medical treatment while incarcerated at the Federal
+
+Correctional Institute in Berlin, New Hampshire from May 2018
+
+through July 2019.    Afterwards, he was transferred to a different
+
+federal    correctional   facility,   FCC     Coleman     Low.   He   remains
+
+incarcerated at the time of this appeal.                In September 2018,
+
+Waltermeyer requested diagnostic imaging for his chronic knee
+
+pain.     His doctor at FCI Berlin, defendant Dr. Kistler, honored
+
+
+
+
+                                 - 6 -
+his request; she requested and obtained approval for an MRI, which
+
+was conducted a little over two months later. Waltermeyer attached
+
+his MRI results to his initial pleading such that they are included
+
+in the operative complaint. The MRI results state that Dr. Kistler
+
+reviewed them, and they include handwritten notes saying, "no
+
+surgery needed," "physical therapy," and "ultimate solution: knee
+
+total replacement."         The notes also read: "interim solution [:]
+
+(1)   chondroitin      sulfate    and   glucosamine   supplements      (2)   knee
+
+bracing (3) no sports or weightlifting (4) pendulum exercises 2 x
+
+1 day - 50 reps (5) on . . . lam [sic] for pain."                 Waltermeyer
+
+admits that Dr. Kistler told him that an outside specialist
+
+recommended deferring the knee surgery until he was older.                Having
+
+reviewed the results of the MRI, Dr. Kistler declined to order
+
+surgery    at   that    time     but    provided   non-surgical   alternative
+
+treatments for his knee condition, and these choices are at the
+
+heart of Waltermeyer's operative complaint.                In Waltermeyer's
+
+view,     "[t]he   reward      outweighs     the   risk   of   surgical      knee
+
+replacements       irrespective        of   Plaintiff's   age,    or    related
+
+conditions," and the denial of surgery makes his case like Carlson.
+
+            Waltermeyer concedes that he received multiple types of
+
+non-surgical medical treatments to address his knee condition.
+
+These treatments included bi-annual cortisone injections (although
+
+he wanted to receive the injections every month), pain medication,
+
+special shoes, knee braces, access to a low bunk, and a cane.
+
+
+                                        - 7 -
+Waltermeyer alleges he nonetheless continued to be in pain and
+
+alleges that Dr. Kistler's frequent response to his complaints
+
+was, "you just got[ta] deal with the pain" or "[you] just ha[ve]
+
+to get use[d] [to] the pain."
+
+           Waltermeyer filed a pro se complaint and a motion for a
+
+preliminary injunction requiring the defendants to provide him
+
+with his desired medical care (as relevant here, knee surgery) on
+
+March 6, 2019, against Dr. Kistler and the FCI Berlin warden,
+
+Robert Hazlewood.1     The defendants filed a motion to dismiss and
+
+opposed the motion for a preliminary injunction.                The district
+
+court denied the motion        for a preliminary injunction             on the
+
+magistrate judge's recommendation that the motion was moot because
+
+Waltermeyer had been transferred to a different facility such that
+
+the   defendants,    both   FCI    Berlin    officials,    were    no   longer
+
+responsible for his care.         Waltermeyer then amended his complaint
+
+to seek only money damages.          In light of his filings and the BOP
+
+records he attached to them, defendants filed a new motion to
+
+dismiss.   The district court dismissed the complaint, holding that
+
+Waltermeyer's   claims      failed    because   he   had   an     alternative
+
+
+
+
+      1 Waltermeyer initially brought other claims related to
+allegedly inadequate treatment for Hepatitis C and a lipoma. He
+dropped   both   claims  after   receiving   further  treatment.
+Waltermeyer also originally named several unnamed defendants who
+the district court later dismissed.     None of those claims or
+defendants are at issue in this appeal.
+
+
+                                     - 8 -
+administrative remedy.        See Waltermeyer, 720 F. Supp. 3d at 101.
+
+This timely appeal followed.
+
+              We do not engage, as appellees suggest, in an analysis
+
+of whether Waltermeyer's operative complaint, which never mentions
+
+policy, fails on "policy" grounds.           Rather, we hold that factual
+
+and   legal     differences   make   Waltermeyer's    case   "meaningfully
+
+different" from Carlson.       Waltermeyer's complaint is "meaningfully
+
+different" under the analyses required by both Ziglar and Egbert.
+
+To be clear, if we found that this case was the same as Carlson,
+
+we would be bound by Carlson, which remains good law, unless and
+
+until the Supreme Court overrules it.
+
+                                     III.
+
+              Waltermeyer's primary arguments are that his case is not
+
+"meaningfully different" from Carlson because:
+
+(1) he brings his claim under the Eighth Amendment alleging cruel
+
+and unusual punishment through inadequate medical care at a federal
+
+prison,
+
+(2) the defendant prison doctor and prison warden are of no higher
+
+rank than those in Carlson, and
+
+(3) his claim is of personal injury involving "direct harm . . .
+
+to an individual in [their] care."
+
+Binding Supreme Court and First Circuit precedent is clear that
+
+Waltermeyer's arguments fail.        As Hernández explained, "[a] claim
+
+may arise in a new context even if it is based on the same
+
+
+                                     - 9 -
+constitutional provision as a claim in a case in which a damages
+
+[claim] was previously recognized."    Hernández, 589 U.S. at 103.
+
+And in Quinones-Pimentel, we held that a claim arose in a new
+
+context because the facts regarding law enforcement acts that
+
+allegedly violated the plaintiff's Fourth Amendment rights were
+
+meaningfully different from the facts alleged in its comparison
+
+case, Bivens.   Quinones-Pimentel v. Cannon, 85 F.4th 63, 70-71
+
+(1st Cir. 2023); see also Egbert, 596 U.S. at 495 (instructing
+
+that while the facts at issue there "involve[d] similar allegations
+
+of excessive force and thus arguably present 'almost parallel
+
+circumstances' [to Bivens] . . . these superficial similarities
+
+are not enough to support the judicial creation of a cause of
+
+action." (quoting Ziglar, 582 U.S. at 139)).         Here, we see a
+
+distinction between the alleged deliberate indifference, denial of
+
+care, and provision of contraindicated care alleged in Carlson and
+
+Waltermeyer's allegation that he received substantial treatment,
+
+but not the treatment he preferred.
+
+          The Court had made this clear even before the Ziglar-
+
+Hernández-Egbert   trilogy.   In   Correctional   Services   Corp.   v.
+
+Malesko, 534 U.S. 61 (2001), the plaintiff was a federal inmate
+
+housed in a facility operated by a private corporation, and he
+
+brought a Bivens-type action against the corporation for providing
+
+inadequate medical care for his heart condition in violation of
+
+the Eighth Amendment.    Id. at 64-65.    The Court held that the
+
+
+                              - 10 -
+claim, an Eighth Amendment claim against prison officials for
+
+inadequate medical care, was dissimilar to Carlson and that no
+
+Bivens action existed.         It reasoned: "[t]he purpose of Bivens is
+
+to    deter      individual      federal     officers        from     committing
+
+constitutional violations," and because the defendants were not
+
+individual federal officers, the claim was an extension of Bivens.
+
+Id. at 70.       The Court emphasized that "[t]he caution towards
+
+extending     Bivens    remedies   into    any   new    context,      a    caution
+
+consistently      and   repeatedly    recognized       for    three       decades,
+
+forecloses such an extension here."          Id. at 74 (emphasis added).2
+
+            We   hold   that    Waltermeyer's    claims      are    meaningfully
+
+different from those at issue in Carlson because here:
+
+1.   The prison officials were not on notice of any gross inadequacy
+
+in medical care at FCI Berlin, nor does the complaint here allege
+
+gross inadequacy of medical care.
+
+2.   The medical procedures administered by the medical staff under
+
+the warden's supervision were not contrary to medically advised
+
+procedures.
+
+
+
+
+      2And in Minneci, the Court held that no Bivens claim existed
+where "a federal prisoner s[ought] damages from privately employed
+personnel working at a privately operated federal prison, where
+the conduct allegedly amount[ed] to a violation of the Eighth
+Amendment, and where that conduct [wa]s of a kind that typically
+falls within the scope of traditional state tort law." Minneci v.
+Pollard, 565 U.S. 118, 131 (2012).
+
+
+                                    - 11 -
+3.     To the contrary, Waltermeyer alleges he received numerous
+
+treatments and accommodations to treat his condition, and the
+
+procedures     and    treatments    provided      were    in   accordance    with
+
+doctors' recommendations.         In particular, unlike in Carlson, where
+
+both    the   lack    of    treatment     and   several   of   the   treatments
+
+administered were medically contraindicated, there are no such
+
+allegations here.           Waltermeyer's MRI results indicated that no
+
+knee replacement surgery was needed at the time he requested it.
+
+This case involves not the denial of care but the timing of medical
+
+treatments which were in accord with doctors' instructions.
+
+4.     Waltermeyer did receive from the defendant officials medical
+
+treatments for his knees which helped alleviate his pain.                   He was
+
+also provided treatment in the form of cortisone shots, pain
+
+medication, special shoes, knee braces, access to a low bunk, and
+
+a cane.
+
+5.     There was no deliberate indifference analogous to Carlson;
+
+rather, he received a timely MRI, cortisone shots, and the other
+
+treatments described above.
+
+6.   The claim does not involve a wrongful death-like action and at
+
+no time did the alleged failure to adequately treat concern either
+
+a life-threatening condition or extreme pain.
+
+              These   are    meaningful    differences.        Moreover,    under
+
+Ziglar, the pleadings here are meaningfully different under the
+
+third, fourth, fifth, sixth, and seventh "instructive" "examples":
+
+
+                                     - 12 -
+differences in "the generality or specificity of the official
+
+action," "the extent of judicial guidance as to how an officer
+
+should respond to the problem or emergency to be confronted," "the
+
+statutory or other legal mandate under which the officer was
+
+operating," and "the risk of disruptive intrusion by the Judiciary
+
+into the functioning of other branches."              Ziglar, 582 U.S. at 139-
+
+40.3   Under Egbert, these differences amount to "special factors,"
+
+see Egbert, 596 U.S. at 490-93, which involve different concerns
+
+about Judiciary involvement in healthcare services for federal
+
+inmates.
+
+                 This holding is supported by Rowland v. Matevousian, 121
+
+F.4th 1237, 1243 (10th Cir. 2024), in which the Tenth Circuit held
+
+that       the   Eighth   Amendment   claims   that    prison   officials   were
+
+deliberately indifferent in treating the plaintiff's hernia were
+
+meaningfully different from those at issue in Carlson. Rowland's
+
+doctor recommended treatments short of surgery, but Rowland wanted
+
+surgery and filed petitions through the Administrative Remedial
+
+Program to that effect.           Id. at 1240, 1243.        The Tenth Circuit
+
+held that Rowland's claim presented a "new context" from Carlson
+
+since "the prison officials [in Rowland's case] did not act
+
+
+       These dissimilarities with Carlson require dismissal, even
+       3
+
+before there is any need to address the question of whether the
+complaint would survive a plausibility standard under Fed. R. Civ.
+P. 12(b)(6) for motions to dismiss, had a cause of action been
+stated.   We reject Waltermeyer's argument that the case should
+survive at least until discovery is completed.
+
+
+                                      - 13 -
+contrary    to   the   doctor's   recommendations   for   treating   Mr.
+
+Rowland's hernia; rather, their actions were consistent with the
+
+physician's conclusion that the hernia should be treated with more
+
+conservative measures short of surgery."      Id. at 1243.    Likewise,
+
+Waltermeyer's doctor also chose more conservative measures that
+
+were short of surgery.       Moreover, the Tenth Circuit held that
+
+unlike in Carlson, the prison officials "did not (1) give 'contra-
+
+indicated drugs' to Mr. Rowland, (2) knowingly keep him in a
+
+medical facility that was 'grossly inadequate' and contrary to the
+
+doctor's orders, or (3) prescribe or use a medical instrument that
+
+was 'known to be inoperative.'"        Id.   Citing Ziglar, the court
+
+determined that even "small" differences can "'easily satisf[y]'
+
+the 'new context inquiry,'" but that those differences were not
+
+small.     Id. (quoting Ziglar, 582 U.S. at 149).     The same is true
+
+here.4
+
+            Our sister circuits have similarly rejected the creation
+
+of new Eighth Amendment damages claims factually distinct from
+
+
+     4 Whether or not Brooks v. Richardson, 131 F.4th 613 (7th Cir.
+2025), is correct in its Carlson/Bivens analysis, it is
+distinguishable from our case. The Seventh Circuit held that an
+inmate's Eighth Amendment damages claim for inadequate medical
+treatment was not a new context for Bivens where the inmate alleged
+that the prison's medical staff failed to treat him for
+appendicitis. See id. at 614-15. The case is distinguishable:
+Brooks involved a total failure to treat for appendicitis, a
+potentially life-threatening condition, unlike this case where
+Waltermeyer was provided with treatment for his knee pain. See
+id. The Brooks plaintiff, unlike Waltermeyer, also did not seek
+contraindicated treatment. See id.
+
+
+                                  - 14 -
+Carlson.5   See Ahmed v. Weyker, 984 F.3d 564, 568 (8th Cir. 2020)
+
+(articulating that meaningful differences from Carlson can include
+
+"the sorts of actions being challenged, the mechanism of injury,
+
+and the kinds of proof those injuries would require" (quoting Farah
+
+v. Weyker, 926 F.3d 492, 500 (8th Cir. 2019))); Crespo v. Carvajal,
+
+No. 24-1138, 2025 WL 635497, at *1 (2d Cir. Feb. 27, 2025)
+
+(unpublished)   (holding   that    inmates'   claims   presented   a   new
+
+context "even though they may be 'based on the same constitutional
+
+provision as a claim in a case in which a damages remedy was
+
+previously recognized'" (quoting Hernández, 589 U.S. at 102)).
+
+Other circuits have also often emphasized that "[t]he Supreme Court
+
+has warned lower courts to act with utmost hesitation when faced
+
+with actions that do not fall precisely under Bivens, Davis, or
+
+Carlson."   Bulger, 62 F.4th at 137.       See also Byrd v. Lamb, 990
+
+F.3d 879, 882 (5th Cir. 2021) (per curiam); Oliva v. Nivar, 973
+
+
+
+
+     5 We need not go so far as other circuits which have tried to
+establish guidelines, such as whether "[t]he severity, type, and
+treatment of [the plaintiff's] injuries differ significantly from
+those of the prisoner in Carlson" or if "non-lethal physical
+injuries . . . were eventually treated by the defendants."
+Johnson v. Terry, 119 F.4th 840, 859 (11th Cir. 2024). See also
+Bulger v. Hurwitz, 62 F.4th 127, 138 (4th Cir. 2023) (holding that
+new context existed because "even if [the plaintiff] could make
+out a claim for an alleged failure to provide constitutionally
+adequate medical treatment, a lack of competent medical care did
+not cause [the plaintiff's] death"); Chambers v. Herrera, 78 F.4th
+1100, 1106 (9th Cir. 2023) (holding that new context existed for
+failure-to-protect claim because "the mechanism of injury in [the
+plaintiff's] claim is different than in Carlson").
+
+
+                                  - 15 -
+F.3d 438, 442 (5th Cir. 2020); Cantú v. Moody, 933 F.3d 414, 422
+
+(5th Cir. 2019).6
+
+          Recognizing a judicially created cause of action based
+
+on Waltermeyer's allegations conflicts with the Court's directive
+
+that even claims presenting "almost parallel circumstances" may
+
+not suffice, Egbert, 596 U.S. at 595 (quoting Ziglar, 582 U.S. at
+
+139), as well as Ziglar's directive that "the new-context inquiry
+
+is easily satisfied," Ziglar, 582 U.S. at 149.
+
+          Waltermeyer's counsel conceded at oral argument that the
+
+inquiry ends here:
+
+          I think if you get to step two, we didn't want
+          to waste defendants' time or this court's time
+          by briefing step two. Because I think if you
+          get to step two . . . I think any prison
+          conditions claim fails.    So I think what is
+          left of Bivens is cases that are not a new
+          context. . . a relatively narrow area around
+          Carlson.
+
+Oral Arg. Tr. at 10:44-11:17.7
+
+
+
+     6 The cases that we cite do not all involve comparisons with
+Carlson as opposed to other key Bivens cases, but the Supreme Court
+has prescribed the same analysis regardless of the comparator case
+used. See., e.g., Egbert, 596 U.S. at 492-93.
+     7 Under Egbert, we look to whether there are "'special
+factors' indicating that the Judiciary is at least arguably less
+equipped than Congress to 'weigh the costs and benefits of allowing
+a damages action to proceed,'" Egbert, 596 U.S. at 492 (quoting
+Ziglar, 582 U.S. at 136), including "sound reasons to think
+Congress might doubt the efficacy or necessity of a damages
+[claim]," id. (quoting Ziglar, 582 U.S. at 137). Waltermeyer did
+not brief this issue, and given his counsel's concession at oral
+argument, we need not discuss this step further.
+
+
+                              - 16 -
+         We   affirm    the   district   court's   dismissal   of   the
+
+appellant's claims.    No costs are awarded.
+
+                  -Dissenting Opinion Follows-
+
+
+
+
+                                - 17 -
+              BREYER, Associate Justice, dissenting.          In three cases,
+
+the Supreme Court has held that a person who is injured by a
+
+violation of certain parts of the Constitution may recover damages.
+
+See Bivens v. Six Unknown Named Agents of Fed. Bureau of Narcotics,
+
+403 U.S. 388 (1971) (Fourth Amendment); Davis v. Passman, 442 U.S.
+
+228 (1979) (Fifth Amendment); Carlson v. Green, 446 U.S. 14 (1980)
+
+(Eighth Amendment).        The Court has since held that it would not
+
+"extend" those holdings to new contexts.             See Hernández v. Mesa,
+
+589    U.S.   93,   96   (2020).      Here   we   must   decide   whether   Broc
+
+Waltermeyer's complaint asserts a claim similar to one of the three
+
+Bivens cases -- in particular, Carlson -- or whether recognizing
+
+a cause of action here would "extend" Carlson to a new context.
+
+In my view, Waltermeyer's claim is similar to Carlson, and I
+
+dissent from the majority's contrary conclusion.
+
+                                        I.
+
+              There are three critical Bivens cases.              They begin in
+
+1971 with Bivens itself.           The plaintiff in that case claimed that
+
+federal officers had conducted an unlawful seizure, in violation
+
+of the Constitution's Fourth Amendment, and had thereby injured
+
+him.   403 U.S. at 389-90.         The Court held that the Fourth Amendment
+
+provided him with a damages remedy.            Id. at 397.   As Justice Harlan
+
+succinctly put the matter: "[I]t is important, in a civilized
+
+society, that the judicial branch of the Nation's government stand
+
+
+
+
+                                      - 18 -
+ready to afford a remedy" for certain constitutional violations.
+
+Id. at 411 (Harlan, J., concurring in judgment).
+
+          In 1979, the Court, in Davis, 442 U.S. 228, applied
+
+Bivens' reasoning in a new context.         The plaintiff in that case
+
+claimed that a federal Congressman had dismissed her from her
+
+federal job in violation of the Constitution's Fifth Amendment.
+
+Id. at 230-31.     The Court held that the Fifth Amendment provided
+
+her with a damages remedy.      Id. at 234.
+
+          In 1980 the Court applied Bivens' reasoning in yet
+
+another context.    The survivors of a man incarcerated in a federal
+
+prison claimed the prison's doctors had provided the prisoner with
+
+deficient medical care, leading to his suffering and to his death,
+
+in violation of the Eighth Amendment.         Carlson, 446 U.S. at 16 &
+
+n.1.   The Court held that the Eighth Amendment provided the
+
+survivors with a damages remedy.     Id. at 19-20, 24.
+
+          The    Court   then   "declined     to   extend"   its   Bivens'
+
+reasoning further.    Hernández, 589 U.S. at 108; see Bush v. Lucas,
+
+462 U.S. 367, 368 (1983) (no First Amendment damages remedy where
+
+federal employee claims First Amendment retaliation); Chappell v.
+
+Wallace, 462 U.S. 296, 297-98 (1983) (no constitutional damages
+
+remedy where enlisted military personnel claimed unconstitutional
+
+actions by superior officers during the plaintiffs' enlistment);
+
+Schweiker v. Chilicky, 487 U.S. 412, 414 (1988) (no constitutional
+
+damages remedy where plaintiffs claimed wrongful denial of Social
+
+
+                                 - 19 -
+Security disability benefits).     The Court later said that the
+
+Bivens trio had not controlled any of these cases because the
+
+plaintiffs in each case were asking the Court to "authoriz[e] a
+
+new kind of federal litigation."   Wilkie v. Robbins, 551 U.S. 537,
+
+550 (2007) (emphasis added) (quoting Bush, 462 U.S. at 378).    More
+
+recently, the Court has added that recognizing a new Bivens cause
+
+of action is "disfavored."   Ziglar v. Abbasi, 582 U.S. 120, 135
+
+(2017) (quoting Ashcroft v. Iqbal, 556 U.S. 662, 675 (2009)).    But
+
+it has added that its refusal to extend Bivens to new contexts is
+
+"not intended to cast doubt on the continued force, or even the
+
+necessity, of Bivens in the . . . context in which it arose."    Id.
+
+at 134.
+
+          In Ziglar the Court added a checklist of several factors
+
+that might help distinguish old contexts from new ones.    Some of
+
+the potentially relevant differences include:
+
+          the rank of the officers involved; the
+          constitutional right at issue; the generality
+          or specificity of the official action; the
+          extent of judicial guidance as to how an
+          officer should respond to the problem or
+          emergency to be confronted; the statutory or
+          other legal mandate under which the officer
+          was   operating;   the  risk   of   disruptive
+          intrusion   by   the   Judiciary    into   the
+          functioning of other branches; or the presence
+          of potential special factors that previous
+          Bivens cases did not consider.
+
+Id. at 140.
+
+
+
+
+                             - 20 -
+                                  II.
+
+                                   A
+
+            Let us first compare the present case with the relevant
+
+ Bivens case, namely, Carlson:
+
+                                        Carlson             Here
+
+Type of action             Damages action                   Same
+
+Constitutional violation   Eighth Amendment                 Same
+
+Status of plaintiff        Federal prisoner                 Same
+
+                           Federal medical                  Same
+Status of key defendants
+                           officers
+                           Federal prison                   Same
+Place of injury
+                           facilities
+                           Aggravated asthma;     Chronic knee pain
+Type of injury             pain and suffering;    and related
+                           death                  suffering
+                           Deliberate             Deliberate
+                           indifference to        indifference to
+                           medical needs;         medical needs
+                           administration of
+Cause of injury
+                           contra-indicated
+                           medical care; use
+                           of non-functioning
+                           medical devices
+
+
+ Next, consider the remaining Ziglar factors, applied here and in
+
+ Carlson.   In Carlson, the inmate sued a number of prison officials
+
+ responsible for his medical treatment, including the Chief Medical
+
+ Officer and Medical Training Assistant.    See Green v. Carlson, 581
+
+ F.2d 669, 671 (7th Cir. 1978).   The defendants in this case -- the
+
+ prison warden and prison doctor -- are of no higher rank.         The
+
+ "generality or specificity of the official action," Ziglar, 582
+
+
+
+                                 - 21 -
+U.S. at 140, is identical across the two cases: Both inmates
+
+challenged specific decisions made by the defendants about the
+
+inmate's medical care.      In   Carlson, the "extent of judicial
+
+guidance" available to federal officers was the principle set out
+
+in Estelle v. Gamble, 429 U.S. 97, 104 (1976), which established
+
+that   "deliberate   indifference       to   serious   medical    needs   of
+
+prisoners" violates the Eighth Amendment.          See Carlson, 446 U.S.
+
+at 17 & n.3.     If anything, the defendants in this case had
+
+considerably more guidance than the defendants in Carlson, as the
+
+law in this area has developed considerably over the last forty-
+
+five years.   See, e.g., Farmer v. Brennan, 511 U.S. 825, 828-29
+
+(1994) (clarifying Estelle's "deliberate indifference" standard).
+
+Both cases involve the same "statutory or legal mandate": the
+
+Eighth Amendment.    And the "risk of disruptive intrusion by the
+
+Judiciary into the functioning of the other branches" appears to
+
+be identical across the suits, as both involve the provisioning of
+
+medical care at federal prisons.
+
+                                    B
+
+          As far as I can tell, then, there are only two arguable
+
+differences between Carlson and the present case.                First, the
+
+injury.   The Carlson injury was more serious: The prisoner had
+
+asthma and died, see Carlson, 446 U.S. at 16 n.1, whereas here,
+
+the prisoner had significant knee-related pain and associated
+
+suffering.    Second, the treatment.          In Carlson the plaintiff
+
+
+                                 - 22 -
+alleged contra-indicated, or perhaps no, treatment.                Id.    Here the
+
+prisoner concedes that he received some treatment, and that the
+
+treatment aligned with a recommendation from an external medical
+
+professional.
+
+            These are differences of degree, not kind.              The Seventh
+
+Circuit, upholding a Carlson-type claim in Brooks v. Richardson,
+
+131 F.4th 613 (7th Cir. 2025), noted that differences in the
+
+"duration    of   the     poor   care   or   the   gravity   of   the    [medical]
+
+condition    .    .   .   seem   more   pertinent    to   the   merits    than   to
+
+determining the scope of the holding in Carlson."                       Id. at 615
+
+(Easterbrook, J.). The same reasoning applies here. Waltermeyer's
+
+claim appears to be weaker than the claim in Carlson.                   Perhaps it
+
+is so much weaker that Waltermeyer has not even alleged an Eighth
+
+Amendment violation.         See Estelle, 429 U.S. at 104 (holding that
+
+a claim that prison medical care violates the Eighth Amendment
+
+requires that the defendants acted with "deliberate indifference
+
+to a prisoner's serious illness or injury").                 If the defendants
+
+believe that to be the case, they should file a motion to dismiss
+
+or for summary judgment on that basis.               But the defendants have
+
+not yet made that argument. Before the district court, they argued
+
+only that Waltermeyer's claim is an impermissible extension of
+
+Bivens.     And so that is the only argument before us today.                    To
+
+conclude that a claim extends Carlson because it is weaker than
+
+the claim in Carlson is to undermine Carlson itself -- the very
+
+
+                                        - 23 -
+thing the Supreme Court has asked us not to do.            See also Snowden
+
+v. Henning, 72 F.4th 237, 247 (7th Cir. 2023) (not a new Bivens
+
+context despite presence of warrant, fewer federal officers, and
+
+different location); Hicks v. Ferreyra, 64 F.4th 156, 166 (4th
+
+Cir. 2023) (not a new Bivens context even though home not searched,
+
+no arrest, no excessive force).
+
+                                       C
+
+            Cases in which the Supreme Court or this Circuit have
+
+refused to extend Bivens differ significantly from the present
+
+case.     Ziglar involved non-citizens detained in an immigration
+
+detention center arguing that their conditions of confinement and
+
+their treatment by prison guards violated both their Fourth and
+
+Fifth Amendment rights.      582 U.S. at 128-29.      The Court held that
+
+their Fourth Amendment claims, concerning high-level policies in
+
+an immigrant detention center, differed significantly from the
+
+more ordinary, lower-level search and seizure policies at issue in
+
+Bivens.    Id. at 140.      And Carlson did not control, because the
+
+Ziglar plaintiffs' claims were asserted under the Fourth and Fifth
+
+Amendments, whereas the claims in Carlson were asserted under the
+
+Eighth Amendment.       Id. at 148.
+
+            Hernández     involved    a    "cross-border   shooting"   with
+
+"national security" and "foreign relations" considerations, none
+
+of which were present in Bivens or here.           589 U.S. at 103, 107.
+
+Egbert v. Boule also involved an altercation along the border and
+
+
+                                     - 24 -
+immigration police, not ordinary federal police officers.      596
+
+U.S. 482, 489, 494, 498 (2022).     Finally, Correctional Services
+
+Corp. v. Malesko, 534 U.S. 61 (2001), and Minneci v. Pollard, 565
+
+U.S. 118 (2012), involved suits against private corporations and
+
+private-prison operators, not (like Carlson and here) ordinary
+
+federal prison employees.
+
+          This Circuit's refusal-to-apply Bivens cases are yet
+
+more different.   Quinones-Pimentel v. Cannon, 85 F.4th 63, 71 (1st
+
+Cir. 2023), involved a claim that federal officers had helped
+
+fabricate evidence in support of warrants to search a business
+
+(not an individual) for evidence of copyright and money-laundering
+
+violations.   And Hornof v. United States, 107 F.4th 46 (1st Cir.
+
+2024), involved a group of non-resident seaman suing the Coast
+
+Guard for unlawful detention aboard a foreign vessel.
+
+          Claims involving different constitutional amendments,
+
+high-level immigration-detention policies, foreign nations and
+
+foreign places of detention, and business or corporate parties,
+
+would seem, in my view, less like Carlson than this case, which is
+
+identical to Carlson but for less-serious injuries (knee-related
+
+suffering) or medical failures (deliberate indifference to medical
+
+needs).   Thus, as I have said, while this might be a weaker case
+
+than Carlson, I cannot say that this case, when compared with
+
+Carlson, presents a "new kind of litigation" or "extends" Carlson
+
+to a new context.
+
+
+                              - 25 -
+For these reasons, with respect, I dissent.
+
+
+
+
+                   - 26 -

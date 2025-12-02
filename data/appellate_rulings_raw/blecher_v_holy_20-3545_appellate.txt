@@ -1,0 +1,1687 @@
+22-2840
+Blecher v. Holy See
+
+
+
+
+                                               In the
+                      United States Court of Appeals
+                                 For the Second Circuit
+
+                                         August Term, 2023
+
+                      (Argued: September 13, 2023         Decided: July 24, 2025)
+
+                                         Docket No. 22-2840
+
+
+
+             ERIK BLECHER, JAMES BRUNO, ROBERT BURNS, EMMETT CALDWELL, LOUIS
+            CASTIGLIONE, KEVIN CAVANAUGH, BRIAN COMPASSO, WAYNE COMPASSO,
+          VINCENT DILLARD, JOHN GILLEN, STEPHEN HURN, JOSEPH JOCKEL, MARIANNE
+           AGNELLO, DIANNE MONDELLO, VERNON ALLEN JONES, MICHAEL LEONARD,
+            JOHN O’CONNOR, THOMAS O’CONNOR, DANIEL RICE, JOSEPH RUSSO, TOM
+             SPARKS, PETER SENATORE, MATTHEW SEXTON, LAWRENCE SMITH, JORDAN
+           TAYLOR, DESIREE CALLENDER, JACQUELINE REGAN, MICHAEL GILL, NEIL M.
+           CURTIS, AND ROBERT LISIECKI, ON BEHALF OF THEMSELVES AND ALL PERSONS
+                                     SIMILARLY SITUATED,
+
+
+                                                                       Plaintiffs-Appellants,
+
+                                                  –v.–
+
+                              THE HOLY SEE, AKA THE APOSTOLIC SEE,
+
+                                                                       Defendant-Appellee.∗
+
+
+
+
+∗
+    The Clerk of Court is directed to amend the official caption as set forth above.
+B e f o r e:
+
+                         RAGGI, LOHIER, and CARNEY, Circuit Judges.
+
+
+
+       The question presented in this case is whether the discretionary function
+exclusion from the tortious activity exception of the Foreign Sovereign Immunities Act
+(“FSIA”) precludes federal courts from exercising jurisdiction over claims against the
+Holy See concerning child sexual abuse perpetrated by clerics in the United States.
+Plaintiffs-Appellants are thirty survivors of childhood sexual abuse who seek damages
+for negligence from Defendant-Appellee the Holy See under a vicarious liability theory.
+They allege that the Holy See promulgated a mandatory policy of secrecy that governed
+how its dioceses and bishops handled reports of sexual abuse by clerics. In adhering to
+this policy, Plaintiffs allege, bishops in New York—the Holy See’s employees—failed to
+warn children and parents of the dangers posed by the accused clerics and failed to
+report suspected abuse to law enforcement, thus emboldening abusers and exposing
+children to a foreseeable risk of harm. The District Court (Oetken, J.) granted the Holy
+See’s motion to dismiss for lack of subject matter jurisdiction under the FSIA,
+concluding that the discretionary function exclusion from the FSIA’s tortious activity
+exception barred Plaintiffs’ claims. On de novo review, we agree with the District Court.
+Accordingly, we AFFIRM the District Court’s judgment dismissing the action for lack of
+jurisdiction.
+
+
+
+                             JEFFREY HERMAN (Stuart S. Mermelstein, on the brief), Herman
+                                    Law Firm, Boca Raton, FL, for Plaintiffs-Appellants.
+
+                             ALEXIS HALLER, Law Office of Alexis Haller, Aptos, CA
+                                   (Jeffrey S. Lena, Law Office of Jeffrey S. Lena,
+                                   Berkeley, CA; Jennifer L. Bruno, Soquel, CA, on the
+                                   brief), for Defendant-Appellee.
+
+
+CARNEY, Circuit Judge:
+
+      The question presented in this case is whether the discretionary function
+
+exclusion from the tortious activity exception of the Foreign Sovereign Immunities Act
+
+(“FSIA”) precludes federal courts from exercising jurisdiction over claims against the
+
+
+
+                                             2
+Holy See concerning child sexual abuse perpetrated by clerics. Plaintiffs-Appellants are
+
+thirty survivors of childhood sexual abuse who seek damages for negligence from
+
+Defendant-Appellee the Holy See under a vicarious liability theory. They allege that the
+
+Holy See promulgated a mandatory policy of secrecy that governed how its dioceses
+
+and bishops handled reports of sexual abuse by clerics. In adhering to this policy,
+
+Plaintiffs allege, bishops in the Archdiocese of New York, the Diocese of Brooklyn, the
+
+Diocese of Rockville Centre, the Diocese of Albany, the Diocese of Syracuse, and the
+
+Diocese of Ogdensburg (together, the “New York dioceses”) failed to warn children and
+
+parents of the dangers posed by the accused clerics and failed to report suspected abuse
+
+to law enforcement, thus emboldening abusers and enabling abuse to continue for
+
+years. The District Court (Oetken, J.) granted the Holy See’s motion to dismiss for lack
+
+of subject matter jurisdiction under the FSIA, concluding that the discretionary function
+
+exclusion from the FSIA’s tortious activity exception barred Plaintiffs’ claims. Because
+
+we agree with the District Court that the discretionary function exclusion applies and
+
+precludes Plaintiffs’ claims, we AFFIRM its judgment dismissing the action for lack of
+
+jurisdiction.
+
+
+                                     BACKGROUND
+
+I.     Overview of the FSIA
+
+       Before the FSIA was enacted in 1976, “[f]or more than a century and a half, the
+
+United States generally granted foreign sovereigns complete immunity from suit in the
+
+courts of this country.” Verlinden B.V. v. Cent. Bank of Nigeria, 461 U.S. 480, 486 (1983). As
+
+the Supreme Court has observed, “foreign sovereign immunity is a matter of grace and
+
+comity on the part of the United States, and not a restriction imposed by the
+
+Constitution.” Id. The Court therefore tended to defer to the decisions of the Executive
+
+Branch on whether to exercise jurisdiction over actions against foreign sovereigns. See
+
+id.
+
+
+                                              3
+       But in 1952, the State Department issued the “Tate Letter.” See Ltr. from Jack B.
+
+Tate, Acting Legal Adviser, Dep’t of State, to Acting Att’y Gen. Philip B. Perlman (May
+
+19, 1952), reprinted in 26 Dep’t State Bull. 984–85 (1952). The Tate Letter was “a
+
+landmark policy statement expressing the Executive Branch’s adoption of a more
+
+nuanced, ‘restrictive theory’ of sovereign immunity, under which sovereigns would
+
+enjoy immunity as to their public acts, but not as to their private or commercial
+
+activities outside of their territories.” Mobil Cerro Negro, Ltd. v. Bolivarian Republic of
+
+Venezuela, 863 F.3d 96, 103 (2d Cir. 2017). Despite this lucid statement, the State
+
+Department continued to make immunity determinations on a case-by-case basis,
+
+“suggest[ing] . . . immunity in cases where immunity would not have been available
+
+under the restrictive theory,” Verlinden, 461 U.S. at 487, and contributing to a
+
+“patchwork quilt of immunity decisions,” Mobil Cerro Negro, 863 F.3d at 103.
+
+       In response to the growing disarray, in 1976 Congress passed the FSIA. See 28
+
+U.S.C. §§ 1330, 1332(a)(2)–(4), 1391(f), 1441(d), 1602–1611. The FSIA codified the
+
+restrictive theory of foreign sovereign immunity and “vested responsibility for
+
+immunity determinations in the federal judiciary.” Mobil Cerro Negro, 863 F.3d at 104
+
+(citing Verlinden, 461 U.S. at 488–89). The FSIA provides the “sole basis” for the exercise
+
+of jurisdiction over a foreign sovereign in U.S. courts. Argentine Republic v. Amerada Hess
+
+Shipping Corp., 488 U.S. 428, 434 (1989). Under the FSIA, a “foreign state” is
+
+presumptively immune from the jurisdiction of courts in this country unless an express
+
+exception to immunity found in the FSIA applies. 28 U.S.C. § 1604. 1 See Republic of
+
+
+
+
+1 Section 1604 provides: “Subject to existing international agreements to which the United States
+is a party at the time of enactment of this Act a foreign state shall be immune from the
+jurisdiction of the courts of the United States and of the States except as provided in sections
+1605 to 1607 of this chapter.” 28 U.S.C. § 1604.
+
+
+
+                                                4
+Hungary v. Simon, 145 S. Ct. 480, 488 (2025); Saudi Arabia v. Nelson, 507 U.S. 349, 355
+
+(1993).
+
+          One of the statutory exceptions to immunity established by the FSIA is the
+
+tortious activity exception. 28 U.S.C. § 1605(a)(5). It permits courts to exercise
+
+jurisdiction over claims against foreign sovereigns “in which money damages are
+
+sought against a foreign state for personal injury or death, . . . occurring in the United
+
+States and caused by the tortious act or omission of [the] foreign state or of any official
+
+or employee of that foreign state while acting within the scope of his office or
+
+employment.” Id. To satisfy the exception’s situs requirement, “the ‘entire tort’ must be
+
+committed in the United States.” In re Terrorist Attacks on Sept. 11, 2001, 714 F.3d 109, 115
+
+(2d Cir. 2013).
+
+          The statute also provides an “exception to the exception,” however: this is the
+
+“discretionary function exclusion” from the tortious activity exception, which is set
+
+forth in 28 U.S.C. § 1605(a)(5)(A). USAA Cas. Ins. Co. v. Permanent Mission of Republic of
+
+Namibia, 681 F.3d 103, 111 (2d Cir. 2012). The discretionary function exclusion
+
+“preserves the immunity of a sovereign nation when it would otherwise be abrogated
+
+by the tortious activity exception.” Id. It holds that the tortious activity exception does
+
+not apply to “any claim based upon the exercise or performance or the failure to
+
+exercise or perform a discretionary function regardless of whether the discretion be
+
+abused.” 28 U.S.C. § 1605(a)(5)(A). 2 Thus, the FSIA generally excepts a sovereign’s
+
+tortious acts in the United States from jurisdictional immunity in the courts, but
+
+
+
+
+2 For completeness: The FSIA contains a separate jurisdictional exclusion from the tortious
+activity exception for “any claim arising out of out of malicious prosecution, abuse of process,
+libel, slander, misrepresentation, deceit, or interference with contract rights.” 28 U.S.C.
+§ 1605(a)(5)(B).
+
+
+
+                                                5
+reinstates the immunity where the claim turns on the sovereign’s discretionary act—the
+
+“exclusion” from the “exception.”
+
+        The Supreme Court has yet to interpret the discretionary function exclusion of
+
+the FSIA, but it has evaluated the corresponding exception in the Federal Tort Claims
+
+Act (“FTCA”). 3 Because the language of the FSIA exclusion is “closely replicated” in the
+
+FTCA, we regularly consult FTCA caselaw when analyzing the exclusion in the FSIA
+
+context. Swarna v. Al-Awadi, 622 F.3d 123, 145 (2d Cir. 2010); see also USAA, 681 F.3d at
+
+112 n.43 (looking to FTCA caselaw in FSIA case). Indeed, in its discussion of the
+
+exclusion, the 1976 House Report accompanying the FSIA expressly refers to the FTCA.
+
+See H.R. Rep. No. 94-1487, at 21 (1976) (“The exception[] provided in subparagraph[] (A)
+
+. . . of section 1605(a)(5) correspond[s] to many of the claims with respect to which the
+
+U.S. Government retains immunity under the Federal Tort Claims Act, 28 U.S.C.
+
+[§] 2680(a) . . . .”).
+
+
+
+
+3The corresponding language in the FTCA, 28 U.S.C. §§ 1346(b), 2671 et seq., waives the
+sovereign immunity of the federal government from suits for negligent or wrongful acts of its
+employees (subject to many exceptions). It further provides that the FTCA’s waiver of
+immunity does not apply to:
+
+        Any claim based upon an act or omission of an employee of the Government,
+        exercising due care, in the execution of a statute or regulation, whether or not such
+        statute or regulation be valid, or based upon the exercise or performance or the failure
+        to exercise or perform a discretionary function or duty on the part of a federal agency or an
+        employee of the Government, whether or not the discretion involved be abused.
+
+Id. § 2680(a) (emphasis added). The first half of this provision sets forth the FTCA’s “due care
+exception,” which is designed to “bar[] tests by tort action of the legality of statutes and
+regulations.” Dalehite v. United States, 346 U.S. 15, 33 (1953). The due care exception does not
+appear in the corresponding general provision of the FSIA, 28 U.S.C. § 1605(a)(5), and is not at
+issue here. The second half of section 2680(a) sets forth the FTCA’s discretionary function
+exception. As observed above, it contains language virtually identical to that contained in the
+FSIA’s discretionary function exclusion.
+
+
+
+                                                     6
+       The Supreme Court has established a two-pronged framework known as the
+
+“Berkovitz/Gaubert test” for determining whether the discretionary function exception
+
+applies in the FTCA context. See Berkovitz v. United States, 486 U.S. 531, 536–37 (1988);
+
+United States v. Gaubert, 499 U.S. 315, 322–23 (1991). Under this test, the FTCA
+
+discretionary function exception bars the exercise of jurisdiction over a claim where (1)
+
+the challenged act or omission is “discretionary,” meaning that it “involves an element
+
+of judgment or choice,” Berkovitz, 486 U.S. at 536; and (2) the judgment or choice in
+
+question is grounded in “considerations of public policy” or is “susceptible to policy
+
+analysis,” Gaubert, 499 U.S. at 323, 325 (internal quotation marks omitted). 4 Put
+
+differently, the FTCA’s discretionary function exception permits the exercise of
+
+jurisdiction if a plaintiff can show: “either (1) the United States’ allegedly tortious act (or
+
+failure to act) was inconsistent with a ‘specific mandatory directive’ – i.e., a ‘federal
+
+statute, regulation, or policy that specifically prescribes a course of action for the federal
+
+government to follow,’ . . . or (2) the allegedly tortious ‘judgment or choice in question’
+
+is not ‘grounded in considerations of public policy or susceptible to policy analysis.’”
+
+Cangemi v. United States, 13 F.4th 115, 130 (2d Cir. 2021) (emphases in original)
+
+
+
+
+4In explaining the interrelationship between the first and second prongs of the Berkovitz/Gaubert
+test, the Supreme Court summarized:
+
+       [I]f a regulation mandates particular conduct, and the employee obeys the
+       direction, the Government will be protected because the action will be deemed in
+       furtherance of the policies which led to the promulgation of the regulation. If the
+       employee violates the mandatory regulation, there will be no shelter from liability
+       because there is no room for choice and the action will be contrary to policy. On
+       the other hand, if a regulation allows the employee discretion, the very existence
+       of the regulation creates a strong presumption that a discretionary act authorized
+       by the regulation involves consideration of the same policies which led to the
+       promulgation of the regulations.
+
+Gaubert, 499 U.S. at 324 (citation omitted).
+
+
+
+                                                7
+(alterations adopted) (quoting Berkovitz, 486 U.S. at 536, 544, and Coulthurst v. United
+
+States, 214 F.3d 106, 109 (2d Cir. 2000)).
+
+       “Plaintiffs bear the initial burden to state a claim that is not barred by the [FTCA
+
+discretionary function exception].” Molchatsky v. United States, 713 F.3d 159, 162 (2d Cir.
+
+2013); City of New York v. Permanent Mission of India to the United Nations, 446 F.3d 365,
+
+369 (2d Cir. 2006) (“The party seeking to establish jurisdiction bears the burden of
+
+producing evidence establishing that a specific exception to immunity applies, but the
+
+foreign state then bears the ultimate burden of persuasion on this question.”), aff’d and
+
+remanded, 551 U.S. 193 (2007).
+
+       We have applied the Berkovitz/Gaubert test in the FSIA context. See, e.g., USAA,
+
+681 F.3d at 111–12 (setting out test in FSIA case). With these principles in mind, we turn
+
+to Plaintiffs’ contentions. 5
+
+
+
+
+5 We recognize that the subtle distinction in terms between the FTCA’s “discretionary function
+exception” and the FSIA’s “discretionary function exclusion” may appear confusing to a casual
+reader. In short, these differing terms reflect the fact that the FTCA and FSIA operate from
+different baselines. The FTCA generally waives the sovereign immunity of the United States
+federal government from suits for negligent or wrongful acts of its employees (subject to many
+exceptions, including the discretionary function exception). The FSIA, by contrast, establishes the
+foreign sovereign’s immunity from suit, unless an FSIA statutory exception, like the “tortious
+activity exception,” applies. 28 U.S.C. § 1605(a)(5). The FSIA’s discretionary function exclusion
+is an exception to the tortious activity exception to the foreign sovereign’s presumptive
+immunity: if the discretionary function exclusion applies, the foreign government’s immunity is
+preserved “when it would otherwise be abrogated by the tortious activity exception.” USAA,
+681 F.3d at 111. Accordingly, we use “exclusion” when referring to the FSIA’s discretionary
+function exclusion and “exception” when referring to the FTCA’s discretionary function
+exception. When correctly applied, the exclusion and exception each bar the exercise of
+jurisdiction over an action against the relevant sovereign.
+
+
+
+                                                 8
+II.    Factual Background 6
+
+       Plaintiffs allege that they were abused in the 1960s through 1990s by named
+
+clerics of the New York dioceses. Asserting negligence claims under a vicarious liability
+
+theory, they seek damages from the Holy See for the physical and psychological injuries
+
+they allegedly sustained from the abuse.
+
+       The Holy See directs the activities of the organizations, agents, and employees of
+
+the Catholic Church worldwide. 7 The Church divides itself into geographic territories
+
+comprising dioceses and archdioceses (in effect, a large diocese). Bishops operate
+
+dioceses; an archdiocese is a “primary diocese” in a region, governed by an archbishop.
+
+Am. Compl. ¶ 46, Plaintiffs’ App’x (“App’x”) at 32. An archbishop enjoys a “position of
+
+honor” among bishops, but operates in parallel to—that is, exercises no direct authority
+
+over—bishops. Id. Bishops and archbishops (together, “bishops”) conduct the Church’s
+
+activities at a local level, supervising priests and all other clerics assigned to work
+
+within their respective dioceses and archdioceses. The bishops perform these duties
+
+“under the direction and complete, plenary control of the Holy See.” Id. The Complaint
+
+alleges that bishops in the U.S. are employees of the Holy See.
+
+       Central to Plaintiffs’ theory of the case is the mandatory secrecy policy allegedly
+
+established by the Holy See about one hundred years ago in a confidential document
+
+
+
+
+6Unless otherwise noted, the allegations set forth below are drawn from Plaintiffs’ amended
+complaint (the “Complaint”).
+
+7The Holy See is the “universal government of the Catholic Church and operates from Vatican
+City State, a sovereign, independent territory.” See U.S. Dep’t of State, U.S. Embassy, The Vatican,
+https://diplomacy.state.gov/encyclopedia/u-s-embassy-the-vatican [https://perma.cc/Y2N7-
+9JUF] (last accessed July 21, 2025). Courts treat the Holy See as a “foreign state” for FSIA
+purposes. See, e.g., O’Bryan v. Holy See, 556 F.3d 361, 372–74 (6th Cir. 2009). The parties do not
+dispute that the Holy See is a “foreign state” within the meaning of the FSIA, and we proceed
+on that understanding.
+
+
+
+                                                 9
+titled “Instruction on the Manner of Proceeding in Cases of Solicitation” or “Crimen
+
+Sollicitationis” (“the Policy”). Id. ¶ 65, App’x at 37. Initially promulgated in 1922 and
+
+reiterated in documents issued in 1962, 2001, and 2010, the Policy established, as
+
+pertinent here, specific internal procedures for investigating and responding to
+
+allegations and reports of child sexual abuse within the Catholic Church. Id. ¶¶ 65, 69,
+
+App’x at 37–39. It imposed a requirement of “strict secrecy” outside of these specified
+
+processes, under penalty of excommunication. Id. ¶ 64, App’x at 37. In particular, as
+
+alleged here, the Policy mandated that bishops: not disclose allegations of abuse to law
+
+enforcement; instruct victims and their families not to report incidents of abuse to law
+
+enforcement; and provide no warning or disclosure, such as might otherwise help
+
+protect parishioners from abuse. According to Plaintiffs, the Policy “emboldened sexual
+
+predators among [the] clergy,” created an environment in which predators “could
+
+engage in child sexual abuse with impunity,” and placed children in the dioceses at
+
+foreseeable risk of harm. Id. ¶ 79, App’x at 41–42.
+
+
+III.   Procedural History
+
+       Plaintiffs filed this putative class action against the Holy See in May 2020. In July
+
+2021, the Holy See moved to dismiss the action for lack of subject matter jurisdiction,
+
+lack of personal jurisdiction, improper venue, and failure to state a claim. Plaintiffs then
+
+filed an amended complaint—the complaint at issue here. The Holy See again moved to
+
+dismiss for, among other things, lack of subject matter jurisdiction. And in September
+
+2022, the District Court granted the Holy See’s motion, concluding that the District
+
+Court lacked subject matter jurisdiction under the FSIA over Plaintiffs’ suit. It reasoned
+
+as follows.
+
+       As to Plaintiffs’ claims based on the allegedly tortious conduct of the New York
+
+dioceses, the District Court concluded that the dioceses, which are New York
+
+
+
+
+                                             10
+corporations organized under New York law, each have a separate juridical status from
+
+that of the foreign sovereign, the Holy See. See Blecher v. Holy See, 631 F. Supp. 3d 163,
+
+168–70 (S.D.N.Y. 2022). It determined that Plaintiffs failed to allege facts sufficient to
+
+overcome the “strong presumption” established by the Supreme Court in First Nat’l City
+
+Bank v. Banco Para El Comercio Exterior de Cuba (“Bancec”), 462 U.S. 611 (1983), that, as an
+
+instrumentality of a foreign state, the Holy See has a status independent from that of the
+
+foreign state itself. Blecher, 631 F. Supp. 3d at 169–70 (quoting Gater Assets Ltd. v. AO
+
+Moldovagaz, 2 F.4th 42, 56 (2d Cir. 2021)). This conclusion in effect made the Holy See
+
+the wrong defendant on Plaintiffs’ claims based on the dioceses’ and bishops’ actions.
+
+       The District Court then rejected Plaintiffs’ argument in the alternative that
+
+common-law agency principles should apply to overcome the Bancec presumption.
+
+Even if the New York dioceses could be considered “agents” of the Holy See, it
+
+explained, the tortious activity exception’s “plain language extends only to tortious
+
+conduct either by the ‘foreign state’ or its ‘official or employee,’” not to agents of the
+
+foreign state. Id. at 170 (quoting 28 U.S.C. § 1605(a)(5)). It thus determined that, under
+
+the FSIA, the Holy See could not be held vicariously liable for the dioceses’ allegedly
+
+tortious conduct. See id. at 168–70.
+
+       The District Court then turned to Plaintiffs’ claims based on the allegedly
+
+tortious conduct of the individual bishops who administered the New York dioceses. It
+
+ruled that the bishops were employees of the Holy See under New York law; that in
+
+reporting or failing to report the accusations, the bishops were acting within the scope
+
+of their employment; and that the Holy See could therefore, as a general matter, be held
+
+vicariously liable for the bishops’ (as opposed to the dioceses’) alleged conduct. See id.
+
+at 170–72. Next, the court concluded that Plaintiffs satisfied the “entire tort”
+
+
+
+
+                                             11
+requirement of the FSIA’s tortious activity exception, 8 reasoning that Plaintiffs’ core
+
+theory of the case was premised on the bishops’ local implementation of the Holy See’s
+
+secrecy policy—that is, the bishops’ conduct in allegedly failing to warn parishioners
+
+about and to report suspected or actual abuse by clerics in their dioceses in the United
+
+States. See id. at 172. It then found that the Complaint “contain[ed] ample well-pleaded
+
+allegations of alleged sexual abuse traceable to the alleged negligence of supervising
+
+clergy and the Archbishop.” Id. Accordingly, the District Court concluded, the tortious
+
+activity exception covered Plaintiffs’ claims with respect to the bishops. See id.
+
+        But the District Court then decided that the court’s exercise of jurisdiction over
+
+Plaintiffs’ claims based on the bishops’ alleged conduct was nonetheless barred by the
+
+discretionary function exclusion from the tortious activity exception. Id. at 172–74. In so
+
+concluding, it first determined that the bishops’ challenged conduct was discretionary,
+
+saying that “the Supreme Court has been clear that promulgation of a policy or
+
+regulation by employees is discretionary in nature.” Id. at 173 (emphasis in original)
+
+(citing Gaubert, 499 U.S. at 323). It relied in part on the Supreme Court’s instruction, in
+
+the analogous FTCA context, that “if a regulation mandates particular conduct, and the
+
+employee obeys the direction, the Government will be protected because the action will
+
+be deemed in furtherance of the policies which led to the promulgation of the
+
+regulation.” Id. (quoting Gaubert, 499 U.S. at 324). It also explained: “[C]ommon sense
+
+dictates that there are many ways to minister to parishes and to run a diocese,” and
+
+“within that mosaic, the individual bishops . . . appear to have some discretion in how
+
+to deal with priests under their supervision . . . .” Id. (internal quotation marks omitted).
+
+
+
+
+8Recall that the “entire tort” must be committed in the United States to be covered by the
+tortious activity exception. 28 U.S.C. § 1605(a)(5); In re Terrorist Attacks on Sept. 11, 2001, 714 F.3d
+at 115.
+
+
+
+                                                  12
+       The District Court next found that the bishops’ decision “whether to warn about
+
+an individual’s dangerous proclivities is the type of discretionary judgment that the
+
+exclusion was designed to protect.” Id. (internal quotation marks omitted and
+
+alterations adopted). Accordingly, it concluded, any alleged decision by the Holy See’s
+
+employees—the bishops—about whether to warn or report was susceptible to policy
+
+analysis and therefore covered by the discretionary function exclusion. See id. at 173–74.
+
+       The District Court entered judgment granting the Holy See’s motion to dismiss
+
+for lack of subject matter jurisdiction under the FSIA. Plaintiffs timely appealed.
+
+
+                                         DISCUSSION
+
+       We review de novo the District Court’s legal conclusions “regarding jurisdiction
+
+under the FSIA.” USAA, 681 F.3d at 107 (internal quotation marks omitted). When
+
+considering a motion to dismiss for lack of subject matter jurisdiction, “we must accept
+
+as true all material factual allegations in the complaint,” but we may not draw any
+
+jurisdictional inferences in favor of the plaintiff. J.S. ex rel. N.S. v. Attica Cent. Sch., 386
+
+F.3d 107, 110 (2d Cir. 2004); Shipping Fin. Servs. Corp. v. Drakos, 140 F.3d 129, 131 (2d Cir.
+
+1998) (“[J]urisdiction must be shown affirmatively, and that showing is not made by
+
+drawing from the pleadings inferences favorable to the party asserting it.”).
+
+       “[T]o determine whether one of the exceptions to the FSIA’s general exclusion of
+
+jurisdiction over foreign sovereigns applies,” the court “must review the pleadings and
+
+any evidence before it.” Robinson v. Gov’t of Malaysia, 269 F.3d 133, 140 (2d Cir. 2001)
+
+(internal quotation marks and citation omitted); id. at 141 n.6 (“A district court may
+
+consult evidence to decide a Rule 12(b)(1) motion . . . [and] must do so if resolution of a
+
+proffered factual issue may result in the dismissal of the complaint for want of
+
+jurisdiction.” (internal quotation marks omitted)); J.S. ex rel. N.S., 386 F.3d at 110 (“We
+
+may consider affidavits and other materials beyond the pleadings to resolve the
+
+
+
+
+                                                13
+jurisdictional issue, but we may not rely on conclusory or hearsay statements contained
+
+in the affidavits.”). In particular, “under the FSIA, the district court may examine the
+
+defendant’s activities to determine whether they confer subject matter jurisdiction on
+
+the federal courts.” Robinson, 269 F.3d at 141–42.
+
+
+I.     Jurisdiction over Plaintiffs’ claims against the Holy See is barred by the
+       discretionary function exclusion from the tortious activity exception in the
+       FSIA.
+
+       On appeal, Plaintiffs submit that the District Court erred in concluding that their
+
+claims—alleging that the bishops engaged in tortious conduct when they carried out the
+
+Holy See’s mandatory secrecy policy—fall within the discretionary function exclusion
+
+from the FSIA’s tortious activity exception.9 We disagree.
+
+       A.      The bishops’ challenged conduct involved discretionary acts, and
+               Plaintiffs fail to allege that the bishops’ conduct violated a mandatory
+               policy, so Berkovitz/Gaubert prong one is satisfied.
+
+       According to Plaintiffs, the District Court improperly applied the discretionary
+
+function exclusion because, they assert, the Complaint plausibly alleges tortious
+
+conduct that involved no discretion by the bishops. Moreover, because the bishops’
+
+conduct was purportedly compelled by the Holy See’s mandatory secrecy policy,
+
+Plaintiffs argue that their claims necessarily fall outside the ambit of the exclusion for
+
+the purposes of Berkovitz/Gaubert prong one. 10 Plaintiffs’ arguments fall short. We
+
+address each in turn.
+
+
+
+9On appeal, Plaintiffs do not challenge the District Court’s ruling that, under the FSIA, the Holy
+See could not be held vicariously liable for the New York dioceses’ allegedly tortious conduct.
+Plaintiffs’ Br. at 10 n.9; see Blecher, 631 F. Supp. 3d at 168–70.
+
+10On appeal, the Holy See argues that the District Court erred in concluding that the tortious
+activity exception applied in the first place. Specifically, it challenges the District Court’s
+conclusions that Plaintiffs’ allegations met the “entire tort” requirement, and that the Complaint
+
+
+
+                                               14
+               1. The bishops’ challenged conduct involved discretionary acts.
+
+       Despite Plaintiffs’ conclusory allegations that the bishops’ compliance with the
+
+Policy left them with no room for discretion, Plaintiffs’ theory of causation, as alleged in
+
+the Complaint, depends on discretionary actions by bishops. Plaintiffs allege that they
+
+were all abused by priests or deacons who were “assigned” to Plaintiffs’ respective
+
+parishes, churches, or schools. Am. Compl. ¶¶ 4–12, 14–28, 30–36, App’x at 20–29. This
+
+assignment authority is crucial to Plaintiffs’ theory of causation. The alleged harm flows
+
+not merely from failing to warn about known dangers but also from the decisions to
+
+assign clergy to positions where they could access potential victims while maintaining
+
+the alleged secrecy about past misconduct. As Plaintiffs have repeatedly clarified in
+
+their submissions to the Court (but outside the four corners of their Complaint), these
+
+priests and deacons were all “assigned by an Archbishop or Bishop to the respective
+
+parishes where they abused children.” Plaintiffs’ Reply Br. at 24 (citing Am. Compl.
+
+¶¶ 34–36, App’x at 30); Plaintiffs’ Mem. in Opp’n to Mot. to Dismiss, Dist. Ct. Dkt. No.
+
+55 at 31 (“[T]he clergy perpetrators assigned to the parishes by the bishops were placed in
+
+particular positions that enabled them to groom and sexually abuse Plaintiffs.” (citing
+
+Am. Compl. ¶¶ 4, 7, 12, 19, 22, 28–33, App’x at 20–29) (emphasis added)); id. at 22
+
+(“These clergymen were each assigned by the Archbishop of New York to the parishes
+
+where they abused Plaintiffs.” (citing Am. Compl. ¶ 34, App’x at 30)); see also Am.
+
+Compl. ¶ 58, App’x at 35 (“A Bishop is the superior of all Priests and other clergy
+
+assigned to work within his Diocese.”); Plaintiffs’ Br. at 6 (“The Bishops were
+
+designated by the Holy See as the direct supervisors of the clergy assigned within their
+
+
+
+sufficiently alleged a causal link between the employees’ challenged conduct and the harm
+suffered by Plaintiffs. Holy See Br. at 47–57; see Blecher, 631 F. Supp. 3d at 172. Because we
+affirm the judgment of the District Court on the ground that the discretionary function
+exclusion from the tortious activity exception precludes the exercise of jurisdiction, we do not
+reach these arguments.
+
+
+
+                                                15
+respective territories, subject to the directives of the Holy See.”). At oral argument,
+
+Plaintiffs’ counsel explained how, in their view, the Policy and the bishops’ assignment
+
+authority combined enabled abuse, stating that a bishop’s alleged silence “enabled this
+
+priest to molest again, or they moved him, as part of the silence, they moved him to
+
+another church where he then molests again.” Oral Argument Tr. at 28:8–10. 11
+
+       The bishops’ “[d]ay-to-day management” decisions regarding how and where to
+
+assign clergy is a quintessentially discretionary act, “requir[ing] judgment as to which
+
+of a range of permissible courses is the wisest.” Gaubert, 499 U.S. at 325; see Swarna, 622
+
+F.3d at 146 (“[Plaintiff’s] claim that Kuwait failed to institute procedures or a system to
+
+monitor its employees implicates a discretionary function [under the FSIA].”); Blaber v.
+
+United States, 332 F.2d 629, 631 (2d Cir. 1964) (holding that decisions concerning extent
+
+of supervision of private contractors fell within FTCA discretionary function exception);
+
+M.D.C.G. v. United States, 956 F.3d 762, 772 (5th Cir. 2020) (holding that supervision of
+
+subordinates involved element of choice and thus fell within FTCA discretionary
+
+function exception); Suter v. United States, 441 F.3d 306, 313 n.6 (4th Cir. 2006) (“Courts
+
+have repeatedly held that government employers’ hiring and supervisory decisions are
+
+discretionary functions.”); Sharp ex rel. Est. of Sharp v. United States, 401 F.3d 440, 447
+
+(6th Cir. 2005) (holding that National Forest Service staffing allocation decisions fell
+
+within FTCA discretionary function exception); Santana-Rosa v. United States, 335 F.3d
+
+39, 44 (1st Cir. 2003) (holding that staffing allocation fell within discretionary function
+
+exception to the FTCA); Burkhart v. Washington Metro. Area Transit Auth., 112 F.3d 1207,
+
+
+11The Holy See submitted evidence to the District Court consistent with these assertions. See,
+e.g., Decl. of Professor Andrea Bettetini (2022), Dist. Ct. Dkt. No. 63 ¶¶ 27, 41, 43, Supplemental
+App’x at 55–56, 66–67 (discussing authority of bishops); Decl. of Professor Andrea Bettetini
+(2021), Dist. Ct. Dkt. No. 47 ¶ 18, App’x at 64–65 (same); Dist. Ct. Dkt. No. 64-20, Supplemental
+App’x at 113 (testimony of Plaintiffs’ expert, Rev. Doyle) (“[T]he bishop himself would
+decide . . . [whether] the individual was transferred to another assignment in the same diocese
+or in another country or another diocese where inevitably he would continue to offend.”).
+
+
+
+                                                16
+1217 (D.C. Cir. 1997) (“[D]ecisions concerning the hiring, training, and supervising of
+
+[Washington Metropolitan Area Transit Authority] employees are discretionary in
+
+nature.”).
+
+       Taking Plaintiffs’ allegations as true, the Policy left no room for discretion that
+
+would enable bishops to, inter alia, “disclos[e] or report[] to persons serving in the
+
+Catholic schools and parishes that a clergyman assigned there was known or suspected of
+
+child sexual abuse, or was at risk of engaging in such conduct.” Am. Compl. ¶¶ 112,
+
+121, 130, App’x at 49, 51, 52–53 (emphasis added). Yet, the alleged breach of the bishops’
+
+duty to “disclos[e] or report” is premised on the discretionary assignment of clergy
+
+within the bishops’ territory. Id. Accordingly, the harms that Plaintiffs allege hinge on
+
+the discretionary acts of bishops in assigning clergy to positions within the dioceses that
+
+enabled abuse. 12 Based on their own account, Plaintiffs would not have been harmed
+
+but for discretionary acts by bishops. Therefore, Plaintiffs fail to allege that the tortious
+
+acts at issue were not discretionary, and Berkovitz/Gaubert prong one is satisfied.
+
+
+
+
+12The District Court remarked, in passing, that “common sense dictates that there are many
+ways to minister to parishes and to run a diocese,” and that “within that mosaic, the individual
+bishops and cardinals appear to have some discretion in how to deal with priests under their
+supervision . . . .” Blecher, 631 F. Supp. 3d at 173 (internal quotation marks omitted). Likewise,
+the Holy See argues on appeal that “both [the Policy] and common sense show that bishops
+retained ample discretion in such cases [of clergy sex abuse].” Holy See Br. at 33. As discussed
+above, we need not rely on common sense nor must we interpret the contours of the Policy itself
+to identify discretionary acts here. We therefore decline to address the Holy See’s contention
+further. Moreover, it is “well settled” that we “may affirm on any basis for which there is
+sufficient support in the record, including grounds not relied on by the district court.” Lotes Co.
+v. Hon Hai Precision Indus. Co., 753 F.3d 395, 413 (2d Cir. 2014) (internal quotation marks
+omitted). That the district court’s reasoning does not mirror ours thus does not prevent us from
+affirming the judgment.
+
+
+
+                                                17
+              2. Plaintiffs fail to allege that the bishops’ conduct violated a mandatory policy.
+
+       Plaintiffs argue that the discretionary function exclusion does not bar their claims
+
+on the ground that the tortious conduct they allege arose from the bishops’ compliance
+
+with the Holy See’s mandatory policy. Plaintiffs’ Br. at 13 (“The fact that the tort claim is
+
+plausibly alleged to be based on a mandatory regulation or requirement of the foreign
+
+state forecloses application of the discretionary function exception and ends the
+
+inquiry.”). Plaintiffs do not assert that the bishops violated the mandatory secrecy policy
+
+set forth by the Holy See in any way. But, in light of the Supreme Court’s
+
+pronouncements in the analogous FTCA context and the comity rationale underlying
+
+the FSIA, Plaintiffs’ argument ultimately falls short.
+
+       In the FTCA context, the Supreme Court has instructed that “if a regulation
+
+mandates particular conduct, and the employee obeys the direction, the Government
+
+will be protected because the action will be deemed in furtherance of the policies which
+
+led to the promulgation of the regulation.” Gaubert, 499 U.S. at 324 (emphasis added).
+
+The Court presaged this rule in Dalehite v. United States, where it wrote, “[A]cts of
+
+subordinates in carrying out the operations of government in accordance with official
+
+directions cannot be actionable. If it were not so, the protection of [section] 2680(a)
+
+would fail at the time it would be needed, that is, when a subordinate performs or fails
+
+to perform a causal step, each action or nonaction being directed by the superior,
+
+exercising, perhaps abusing, discretion.” 346 U.S. 15, 36 (1953).
+
+       In contending that their claims against the Holy See based on the bishops’
+
+conduct are not barred by the discretionary function exclusion, Plaintiffs rely
+
+principally on the argument that “material language in the FTCA is missing from the
+
+FSIA,” the omission signaling a substantive difference. Plaintiffs’ Br. at 16
+
+(capitalization altered). In particular, they argue that the FTCA’s “due care exception”—
+
+the first phrase of section 2680(a), see supra n.3, which preserves the government’s
+
+
+
+                                               18
+immunity for “[a]ny claim based upon an act or omission of an employee of the
+
+Government, exercising due care, in the execution of a statute or regulation, whether or
+
+not such statute or regulation be valid,” 28 U.S.C. § 2680(a) 13—“has no corollary in the
+
+FSIA.” Plaintiffs’ Br. at 17. Plaintiffs posit that the rule articulated by the Supreme Court
+
+in Gaubert—that “if a regulation mandates particular conduct, and the employee obeys
+
+the direction, the Government will be protected,” 499 U.S. at 324—relied on the FTCA’s
+
+due care exception and that because no equivalent appears in the FSIA, that rule does
+
+not apply in the FSIA context. Therefore, they maintain, the Holy See cannot avail itself
+
+of the discretionary function exclusion here.
+
+       The fatal flaw in Plaintiffs’ argument is that Gaubert itself, like the cases it relied
+
+on, was about the FTCA’s discretionary function exception, not the due care exception. See
+
+id. at 318–19 (“The question before us is whether certain actions taken by [two agencies]
+
+are within the ‘discretionary function’ exception to the liability of the United States
+
+under the FTCA.”). The Gaubert Court ruled that a government employee’s conduct in
+
+complying with a mandatory directive “will be protected,” id. at 324, expanding on
+
+three applicable precedents, all of which expressly turned on the discretionary function
+
+exception and not the due care exception. See Dalehite, 346 U.S. at 32–33 (observing that
+
+“there are two phrases [in section 2680(a)] describing the excepted acts of government
+
+employees,” and that the first phrase is the due care exception, while “[t]he second [the
+
+discretionary function exception] is applicable in this case” (emphasis added)); United
+
+States v. S.A. Empresa de Viacao Aerea Rio Grandense (“Varig Airlines”), 467 U.S. 797, 820
+
+(1984) (concluding that acts of agency employees executing a program “in accordance
+
+
+
+
+ The “due care” exception to the FTCA’s abrogation of sovereign immunity “deals with acts or
+13
+
+omissions of government employees, exercising due care in carrying out statutes or regulations
+whether valid or not,” and “bars tests by tort action of the legality of statutes and regulations.”
+Dalehite, 346 U.S. at 33.
+
+
+
+                                                19
+with agency directives are protected by the discretionary function exception” (emphasis
+
+added)); Berkovitz, 486 U.S. at 535 (discussing the discretionary function exception as
+
+“[t]he exception relevant to this case”).
+
+       In particular, Gaubert’s reliance on Dalehite is instructive. Dalehite involved
+
+alleged negligence in the government’s manufacture, packaging, and preparation of
+
+fertilizer for export, resulting in an explosion. The Supreme Court held that the
+
+manufacture of the fertilizer was done “in accordance with, and done under,
+
+specifications and directions as to how the [Fertilizer Grade Ammonium Nitrate] was
+
+produced at the plants,” based on an agency plan “developed at a high level under a
+
+direct delegation of plan-making authority from the apex of the Executive Department.”
+
+346 U.S. at 38, 40. The government employees’ actions in compliance with that plan
+
+were, therefore, the “product of an exercise of judgment, requiring consideration of a
+
+vast spectrum of factors, including some which touched directly the feasibility of the
+
+fertilizer export program.” Id. at 40. Accordingly, the allegedly tortious acts fell “within
+
+the exception for acts of discretion.” Id. at 41. The Court concluded that “acts of
+
+subordinates in carrying out the operations of government in accordance with official
+
+directions cannot be actionable.” Id. at 36. 14
+
+       Berkovitz involved FTCA claims alleging that the Division of Biologic Standards
+
+and the Bureau of Biologics of the Food and Drug Administration failed properly to
+
+approve and inspect polio vaccines, in violation of federal law and policy. 486 U.S. at 533.
+
+The Berkovitz Court held that “the discretionary function exception does not apply” to a
+
+claim alleging “a failure on the part of the agency to perform its clear duty under
+
+
+
+14Similarly, the Supreme Court in Dalehite cited with approval a case applying the discretionary
+function exception to government blasting operations that were “conducted pursuant to
+detailed plans and specifications drawn by the Chief of Engineers.” 346 U.S. at 36 n.32 (citing
+Boyce v. United States, 93 F. Supp. 866 (S.D. Iowa 1950)).
+
+
+
+                                                  20
+federal law” because “failing to act in accord with a specific mandatory directive” is not
+
+a permissible exercise of discretion. Id. at 544.
+
+       Berkovitz did not involve any claim arising from compliance with the law. Yet,
+
+Plaintiffs rely on broad language from Berkovitz for the doubtful proposition that “[t]he
+
+discretionary function exception will not apply when a federal statute, regulation, or
+
+policy specifically prescribes a course of action for an employee to follow,” 486 U.S. at
+
+536, regardless of whether the challenged acts or omissions allegedly comply with or
+
+deviate from a prescribed course of action. Plaintiffs’ Br. at 20, 22–23. As Plaintiffs
+
+correctly note, this Court has previously suggested that Berkovitz/Gaubert prong one
+
+requires that “the acts alleged to be negligent . . . be discretionary, in that they involve
+
+an element of judgment or choice and are not compelled by statute or regulation.”
+
+Coulthurst, 214 F.3d at 109 (emphasis added) (internal quotation marks omitted); accord
+
+USAA, 681 F.3d at 111 (same, in FSIA context) (quoting Coulthurst, 214 F.3d at 109). But
+
+this Court has never held that a sovereign’s immunity was abrogated by allegations of
+
+tortious acts purportedly “compelled by statute or regulation”—what Plaintiffs are
+
+asking us to conclude here. Rather, our decisions have consistently reflected the
+
+premise that to be “discretionary” for purposes of Berkovitz/Gaubert prong one, an act
+
+must be not prohibited by statute or regulation. See, e.g., Cangemi, 13 F.4th at 130
+
+(reasoning that acts are non-discretionary when “inconsistent with a ‘specific
+
+mandatory directive’” (quoting Berkovitz, 486 U.S. at 544)); Fazi v. United States, 935 F.2d
+
+535, 538 (2d Cir. 1991) (“When the claim is that the injury was caused by a failure to
+
+comply with a regulation that ‘specifically prescribes a course of action for an employee
+
+to follow,’ the discretionary function exception does not bar the claim.” (quoting
+
+Berkovitz, 486 U.S. at 536)); Myers & Myers, Inc. v. U.S. Postal Serv., 527 F.2d 1252, 1261
+
+(2d Cir. 1975) (holding FTCA’s discretionary function exception did not apply where
+
+plaintiffs alleged “Postal Service has acted in contravention of its own regulations,”
+
+
+
+
+                                              21
+reasoning that “[i]t is, of course, a tautology that a federal official cannot have discretion
+
+to behave unconstitutionally or outside the scope of his delegated authority”). Applying
+
+Berkovitz in the FSIA context, we have held that, where an alleged failure of the
+
+Permanent Mission of the Republic of Namibia to the United Nations to ensure the
+
+integrity of a wall constituted a violation of a mandatory regulation, “the Mission [could
+
+not] avail itself of the protection of the FSIA’s discretionary function exception.” USAA,
+
+681 F.3d at 113.
+
+       The interpretation of Berkovitz urged by Plaintiffs—that the discretionary
+
+function exclusion cannot apply whenever a specific legal directive exists, regardless of
+
+whether that directive is followed—is contrary to the Supreme Court’s unanimous
+
+ruling in Gaubert, reached just three years after Berkovitz. In Gaubert, the Supreme Court
+
+explained that the FTCA’s discretionary function exception did not apply to bar
+
+Berkovitz’s claims not because there existed a legally prescribed course of action, but
+
+because “the agency employees [in Berkovitz] had failed to follow the specific directions
+
+contained in the applicable regulations, i.e., in those instances, there was no room for
+
+choice or judgment.” 499 U.S. at 324. It was in this context that the Gaubert Court
+
+articulated the rule that “if a regulation mandates particular conduct, and the employee
+
+obeys the direction, the Government will be protected[.]” Id.
+
+       Accordingly, we conclude that this rule—that the FTCA’s discretionary function
+
+exception bars the exercise of jurisdiction over claims stemming from employee conduct
+
+in compliance with a mandatory policy—also applies in the FSIA context to claims
+
+against a foreign sovereign. The discretionary function exclusion from the FSIA’s
+
+tortious activity exception bars the exercise of jurisdiction over claims that challenge
+
+employees’ compliance with a foreign sovereign’s mandatory policy, at least for
+
+purposes of Berkovitz/Gaubert prong one.
+
+
+
+
+                                             22
+       Such a rule makes sense in light of the concerns animating Congress in crafting
+
+of the FTCA’s discretionary function exception. As the Supreme Court has pointed out,
+
+“Congress wished to prevent judicial ‘second-guessing’ of legislative and
+
+administrative decisions grounded in social, economic, and political policy through the
+
+medium of an action in tort.” Varig Airlines, 467 U.S. at 814; see also id. at 820 (“Judicial
+
+intervention in [agency] decisionmaking through private tort suits would require the
+
+courts to ‘second-guess’ the political, social, and economic judgments of an agency
+
+exercising its regulatory function. It was precisely this sort of judicial intervention in
+
+policymaking that the discretionary function exception was designed to prevent.”). “By
+
+fashioning an exception for discretionary governmental functions,” the Court added,
+
+“Congress took steps to protect the Government from liability that would seriously
+
+handicap efficient government operations.” Id. at 814 (internal quotation marks
+
+omitted). Because “[c]ases construing the discretionary function exc[lusion] in the FSIA
+
+draw heavily on case law interpreting a similar exception in the FTCA,” USAA, 681 F.3d
+
+at 112 n.43, these same considerations have significant purchase in the FSIA context as
+
+well. If Congress was reluctant to encourage judicial second-guessing of the federal
+
+government’s policymaking judgments, we doubt that it was more eager to empower
+
+courts to scrutinize the policy decisions of foreign sovereigns.
+
+       True, the reasons stated by Congress for crafting the FSIA exclusion do not
+
+exactly mirror those expressed when it fashioned the FTCA exception. See Restatement
+
+(Fourth) of the Foreign Relations Law of the U.S. § 457 (Am. L. Inst. 2018) (“[T]he
+
+underlying rationale for the [FSIA discretionary function] exclusion (protecting the
+
+dignity of foreign states, respecting the sensitivity of foreign relations, and preserving
+
+the sovereign interests of the United States in reciprocal situations) is quite different
+
+from the separation-of-powers principle reflected in the FTCA.”); cf. Dole Food Co. v.
+
+Patrickson, 538 U.S. 468, 479 (2003) (explaining that foreign sovereign immunity was
+
+
+
+
+                                              23
+intended “to give foreign states . . . some protection from the inconvenience of suit as a
+
+gesture of comity between the United States and other sovereigns”). And, to be sure,
+
+some difficulties and ambiguities arise from too readily importing FTCA caselaw into
+
+the FSIA context. For example, courts have differed as to whether, in determining if a
+
+foreign sovereign’s employee was afforded meaningful discretion, the court’s proper
+
+reference point should be the foreign state’s law, international law, domestic U.S. law,
+
+or some combination of these. 15 We need not resolve that question here, however, as
+
+Plaintiffs identify the Holy See as the relevant source of authority conferring or
+
+withholding discretion. 16
+
+
+
+
+15Some courts have held that U.S. domestic law provides the correct reference point for this
+analysis. See, e.g., Doe v. Fed. Democratic Republic of Ethiopia, 189 F. Supp. 3d 6, 26–28 (D.D.C.
+2016) (rejecting “Ethiopia’s contention that Ethiopian law should govern the scope of the FSIA’s
+discretionary function exc[lusion],” and concluding instead that U.S. criminal laws served as the
+appropriate reference point); USAA, 681 F.3d at 108–12 (looking to New York City Building
+Code to determine whether the Mission of Namibia to the U.N. had discretion to engage in
+challenged conduct). Other courts have referred to the foreign country’s own law as the correct
+baseline. See Liu v. Republic of China, 892 F.2d 1419, 1431 (9th Cir. 1989) (explaining that
+employee “had no discretion, according to [the Republic of China’s (‘ROC’)] courts, to violate
+the ROC law that prohibits murder”). Still other courts have examined a mix of the foreign
+state’s law and international law, or a combination of domestic and international law. See Broidy
+Cap. Mgmt., LLC v. State of Qatar, 982 F.3d 582, 591–92 (9th Cir. 2020) (“[T]he policy discretion of
+a foreign sovereign is not evaluated by those same constraints [of U.S. law], but rather by the
+corresponding limitations that bind that sovereign, whether contained in its own domestic law
+or (we will assume) in applicable and established principles of international law.” (emphasis
+omitted)); Letelier v. Republic of Chile, 488 F. Supp. 665, 673 (D.D.C. 1980) (“Whatever policy
+options may exist for a foreign country, it has no ‘discretion’ to perpetrate conduct . . . that is
+clearly contrary to the precepts of humanity as recognized in both national and international
+law.”).
+
+16Plaintiffs do not contend that domestic U.S. law should inform the Berkovitz/Gaubert prong
+one analysis. Although they suggest that the bishops “fail[ed] to report as may be required
+pursuant to [New York] law,” Plaintiffs’ Br. at 30, that bears on whether the bishops’ alleged
+conduct was tortious (i.e., whether the FSIA’s tortious activity exception applies) but not on
+whether the bishops’ actions involved an element of judgment or choice (i.e., whether
+Berkovitz/Gaubert prong one is satisfied). Instead, Plaintiffs argue that, because alleged tortious
+
+
+
+                                                 24
+       These differences in statutory context notwithstanding, Congress’s rationale for
+
+creating the FSIA’s discretionary function exclusion lends further support to our
+
+conclusion. In view of the comity considerations inherent in the FSIA context,
+
+construing the exclusion not to immunize a foreign sovereign when its employees obey
+
+a mandatory directive—as Plaintiffs urge—would lead to an odd result. While the
+
+federal government would be protected under the FTCA from liability stemming from
+
+an employee’s adherence to a mandatory policy “because the action will be deemed in
+
+furtherance of the policies which led to the promulgation of the [policy],” Gaubert, 499
+
+U.S. at 324, under Plaintiffs’ interpretation, a foreign sovereign would not be entitled to
+
+the same protection under the FSIA, even though its employee’s conduct adhering to its
+
+mandatory policy would likewise further the considerations that led to its promulgation
+
+of the policy. Permitting this divergence between the rulings in FTCA and FSIA
+
+contexts would undermine the comity rationale motivating the FSIA’s discretionary
+
+function exclusion and the FSIA more generally. 17
+
+
+
+
+acts were committed “pursuant to [the Holy See’s] mandatory secrecy policy,” the “first prong
+of the Berkovitz/Gaubert test” precludes “application of the discretionary function exc[lusion].”
+Plaintiffs’ Reply Br. at 15. At this juncture, then, we do not—and need not—decide whether
+courts considering the applicability of the FSIA’s discretionary function exclusion should
+always look to U.S. law (as in, e.g., USAA, 681 F.3d at 108–12) or to foreign law (as in, e.g., Liu,
+892 F.2d at 1431). Accordingly, we proceed on the assumption that, in this case, the correct
+reference point for the Berkovitz/Gaubert analysis is the foreign state’s law—the law of the Holy
+See.
+
+17See generally Restatement (Fourth) of the Foreign Relations Law of the U.S. § 457 (Am. L. Inst.
+2018) (explaining that the discretionary function “exclusion was designed to place foreign states
+in the same position as the United States finds itself when sued under the [FTCA]”); Sienho Yee,
+Note, The Discretionary Function Exception Under the Foreign Sovereign Immunities Act: When in
+America, Do the Romans Do as the Romans Wish?, 93 Colum. L. Rev. 744, 770 (1993) (“This parity
+[between courts’ interpretations of the discretionary function exception under the FTCA and the
+corresponding exclusion under the FSIA] fulfills the congressional desire to accord foreign
+sovereigns the same treatment that the U.S. government receives in U.S. courts.”). Thus, a rule
+conferring immunity on a foreign sovereign for its employee’s compliance with its mandatory
+
+
+
+                                                 25
+       To be clear, we do not decide that the mere fact that a foreign sovereign has a
+
+mandatory policy allegedly governing conduct challenged as tortious will be
+
+dispositive in every case involving the discretionary function exclusion. In assessing
+
+whether the exclusion applies to bar jurisdiction, courts should carefully consider the
+
+relationship between the tortious conduct alleged and the precise policy purportedly
+
+mandating or prohibiting the conduct. See, e.g., Usoyan v. Republic of Turkey, 6 F.4th 31,
+
+38–45 (D.C. Cir. 2021) (identifying sources of law either granting or limiting Turkish
+
+security detail’s authority to use physical force in the United States); cf. Gaubert, 499 U.S.
+
+at 322 (“[I]t is the nature of the conduct, rather than the status of the actor[,] that
+
+governs whether the exception applies.” (internal quotation marks omitted)). In some
+
+cases, the alleged policy will be so general, or its relation to the challenged conduct so
+
+attenuated, that it makes little sense for its mere existence to be dispositive at
+
+Berkovitz/Gaubert prong one. Cf. Usoyan, 6 F.4th at 43–44 (observing that “[n]ot every law
+
+prescribes specific conduct,” before concluding that “generally applicable laws
+
+prohibiting criminal assault did not give the Turkish security detail a sufficiently
+
+specific directive to strip Turkey of its immunity” for its employees’ attacks on
+
+protestors outside the Turkish ambassador’s residence in D.C. (internal quotation marks
+
+omitted)). Moreover, the discretionary function exclusion will not immunize acts that
+
+“cannot be said to be based on the purposes that the regulatory regime seeks to
+
+accomplish.” Gaubert, 499 U.S. at 325 n.7.
+
+       Here, however, the alleged policy is mandatory and specific, and the allegedly
+
+tortious conduct reflects a straightforward adherence to the policy. Plaintiffs’ claims
+
+boil down to a challenge to the Holy See’s considerations in deciding to promulgate the
+
+Policy. Thus, the bishops’ actions in compliance with the Policy “will be deemed in
+
+
+
+policy would promote Congress’s goals, in enacting the FSIA, of respecting the dignity of
+foreign states and preserving the United States’ interests in reciprocal situations.
+
+
+
+                                              26
+furtherance of the policies which led to the promulgation of the [policy].” Gaubert, 499
+
+U.S. at 324. Moreover, as discussed above in Section I.A.1., the alleged torts hinged on
+
+discretionary acts by bishops. Thus, Berkovitz/Gaubert prong one is satisfied.
+
+       To summarize: where plaintiffs seeking to overcome the discretionary function
+
+exclusion allege the existence of a mandatory policy that specifically governs the
+
+challenged conduct, to satisfy Berkovitz/Gaubert prong one, they must show that the
+
+allegedly tortious act “violate[d] the mandatory regulation.” Gaubert, 499 U.S. at 324.
+
+This requirement is rooted in the Supreme Court’s precedents interpreting the similar
+
+exception contained in the FTCA. It also comports with the comity considerations that
+
+animated Congress’s enactment of the FSIA.
+
+       B.     The bishops’ challenged conduct was susceptible to policy analysis, so
+              Berkovitz/Gaubert prong two is also satisfied.
+
+       As to the second Berkovitz/Gaubert criterion, the question is whether the bishops’
+
+allegedly tortious conduct was “susceptible to policy analysis.” Gaubert, 499 U.S. at 325;
+
+see also Berkovitz, 486 U.S. at 537 (noting FTCA’s discretionary function exception
+
+“protects only governmental actions and decisions based on considerations of public
+
+policy”). Plaintiffs bear the burden of alleging “facts which would support a finding
+
+that the challenged actions are not the kind of conduct that can be said to be grounded
+
+in the policy of the regulatory regime.” Gaubert, 499 U.S. at 324–25.
+
+       In Gaubert, the Supreme Court explained that some acts of government
+
+employees, while “obviously discretionary” and within the scope of their employment,
+
+do not come “within the discretionary function exception because these acts cannot be
+
+said to be based on the purposes that the regulatory regime seeks to accomplish.”
+
+Gaubert, 499 U.S. at 325 n.7. It offered as a quintessential example of such an act the case
+
+of a government employee who “drove an automobile on a mission connected with his
+
+official duties and negligently collided with another car,” reasoning that, “[a]lthough
+
+
+
+                                             27
+driving requires the constant exercise of discretion, the official’s decisions in exercising
+
+that discretion can hardly be said to be grounded in regulatory policy.” Id.
+
+       Our own cases offer additional examples of acts that do not involve the exercise
+
+of policy judgment. For instance, in Coulthurst, an FTCA case, we concluded that a
+
+government employee’s “absent-minded or lazy” conduct did not “involve
+
+‘considerations of public policy.’” 214 F.3d at 111 (quoting Gaubert, 499 U.S. at 323). The
+
+hypothetical examples we provided in Coulthurst—in which the plaintiff asserted claims
+
+arising from injuries caused by the government’s alleged negligence in maintaining
+
+equipment in a prison gym—included a government employee’s “decision (motivated
+
+simply by laziness) to take a smoke break rather than inspect the [gym] machines, or an
+
+absent-minded or lazy failure to notify the appropriate authorities upon noticing [a]
+
+damaged cable.” Id. These actions, we explained, “d[id] not reflect the kind of
+
+considered judgment ‘grounded in social, economic, and political policy’ which the
+
+[discretionary function exception] is intended to shield from ‘judicial second-
+
+guessing.’” Id. (quoting Varig Airlines, 467 U.S. at 814). Likewise, in USAA, we observed
+
+that “the failure to protect a wall during a construction project is not a matter of policy
+
+analysis.” 681 F.3d at 113 (internal quotation marks omitted).
+
+       In contrast, judgments susceptible to policy analysis include, for example,
+
+decisions that require the government “to establish priorities for the accomplishment of
+
+its policy objectives by balancing the objectives sought to be obtained against such
+
+practical considerations as staffing and funding.” Varig Airlines, 467 U.S. at 820. More
+
+concretely, the Supreme Court in Varig Airlines concluded that the FAA’s establishment
+
+of a system of “spot-checking” airplanes for compliance with safety standards
+
+represented a policy determination about what would “best accommodate[] the goal of
+
+air transportation safety and the reality of finite agency resources.” Id.
+
+
+
+
+                                             28
+       In this case, the District Court concluded that the second prong of the
+
+Berkovitz/Gaubert test was satisfied. Blecher, 631 F. Supp. 3d at 173. We agree. The
+
+bishops’ discretionary acts in assigning clergy to particular parishes, churches, and
+
+schools are the kind of resource allocation decisions that courts have consistently held
+
+to be susceptible to policy analysis. See, e.g., Swarna, 622 F.3d at 146 (applying the
+
+discretionary function exclusion on the ground that plaintiff’s failure to supervise
+
+claims against Kuwait alleged a “failure that occurred at the planning level of
+
+government”); Molchatsky, 713 F.3d at 162 (holding that discretionary function exception
+
+barred FTCA claim because challenged “choices regarding allocation of agency time
+
+and resources” were “grounded in economic, social and policy considerations”);
+
+Simmons v. United States, 764 F. App’x 98, 100 (2d Cir. 2019) (summary order) (decision
+
+to staff and assign security guard “is susceptible to policy analysis,” and thus FTCA
+
+discretionary function exception applied to bar claim); Two Eagle v. United States, 57
+
+F.4th 616, 623 (8th Cir. 2023) (holding that discretionary function exception barred
+
+FTCA claim because “allocation of staff time” and resources implicated policy
+
+considerations); Burkhart, 112 F.3d at 1217 (“The hiring, training, and supervision
+
+choices that [Washington Metropolitan Area Transit Authority] faces are choices
+
+susceptible to policy judgment.” (internal quotation marks omitted)).
+
+       Moreover, as explained above, we see no daylight between the Holy See’s
+
+secrecy policy and the bishops’ allegedly tortious conduct of failing to warn and failing
+
+to report. The Holy See’s policy confining disclosures of alleged abuse to specified
+
+internal mechanisms and otherwise prohibiting the advising of parishioners and law
+
+enforcement of suspected or alleged abuse, and the bishops’ continuing to assign clergy
+
+suspected of abuse to parishes could have been the product of weighing various policy
+
+considerations—not only of factors like “parishioners’ well-being,” but also of factors
+
+like the church’s reputation, “pastoral stability,” “low ordination rates,” or “staffing
+
+
+
+
+                                             29
+shortages.” Doe v. Holy See, 557 F.3d 1066, 1085 (9th Cir. 2009). 18 As the Ninth Circuit
+
+observed in a case involving similar claims against the Holy See, “the decision . . .
+
+whether to warn about [an employee’s] dangerous proclivities” is “the type of
+
+discretionary judgment[] that the exclusion was designed to protect.” Id. at 1084.
+
+       Other courts have likewise found that “[b]alancing safety, reputational interests,
+
+and confidentiality is the kind of determination ‘the discretionary function exc[lusion]
+
+was designed to shield.’” Croyle v. United States, 908 F.3d 377, 382 (8th Cir. 2018)
+
+(quoting Berkovitz, 486 U.S. at 536). The plaintiff in Croyle, who alleged that he was
+
+sexually assaulted by a priest stationed at an Army hospital, sued the federal
+
+government under the FTCA for negligent supervision and failure to warn of the
+
+priest’s history of sexual abuse. Id. at 380. As relevant here, Croyle contended that the
+
+government failed to satisfy Berkovitz/Gaubert prong two on the ground that “no
+
+conceivable policy choice would allow [the priest] access to children without a
+
+warning.” Id. at 381. The Eighth Circuit rejected Croyle’s argument, reasoning that the
+
+government, “in determining whether to warn families or take other protective action,”
+
+could have balanced a number of considerations, including “public and child safety,”
+
+“the need to protect [the priest]’s reputation and confidentiality,” “staffing shortages,”
+
+and the reputation of the hospital and other religious personnel at the hospital. Id. at
+
+382. Although “there may be disagreements [about] how these interests should be
+
+balanced”—and although in some situations, as in Croyle and in this case, the balancing
+
+of these interests may produce appalling and tragic results—Congress did not intend to
+
+
+
+
+18Whether the bishops’ acts and omissions here were in fact grounded in the Holy See’s policy
+considerations is of no moment. As our precedent makes clear, the discretionary function
+exclusion applies not only where the foreign sovereign “has actually undertaken a public policy
+analysis, but also where the decision at issue is merely ‘susceptible to policy analysis.’” Cangemi,
+13 F.4th at 133 (quoting Gaubert, 499 U.S. at 325) (emphases in original).
+
+
+
+                                                 30
+“empower judges to second guess such decisions via tort action.” Id. at 382–83 (internal
+
+quotation marks omitted).
+
+       Plaintiffs urge that there can be no plausible policy justification for maintaining
+
+the strict secrecy of illegal conduct, i.e., cleric sexual abuse of children. In support, they
+
+rely primarily on another FTCA case, Tonelli v. United States, 60 F.3d 492 (8th Cir. 1995),
+
+decided by the Eighth Circuit. But Tonelli is distinguishable, in our view, and has little
+
+application to the facts here. In Tonelli, the Eighth Circuit concluded that the post
+
+office’s alleged failure to supervise its employees properly even after it was on notice of
+
+ongoing illegal action—a postal employee was tampering with mail, a federal crime—
+
+“d[id] not represent a choice based on plausible policy considerations.” Id. at 496. As an
+
+initial matter, Tonelli involved negligent hiring and supervision claims, not failure-to-
+
+warn claims. See id. Further, the Tonelli plaintiffs’ theory hinged on an asserted violation
+
+of a mandatory policy—unlike the alleged compliance with a mandatory policy at issue
+
+in this case. Accordingly, we find Doe and Croyle instructive for our purposes, and
+
+Tonelli much less so.
+
+       Ultimately, however ill-advised their judgment may have been, the bishops
+
+could well have decided that their challenged actions “best accommodate[d]” their
+
+competing policy goals and concerns, Varig Airlines, 467 U.S. at 820, and thus their
+
+allegedly tortious conduct in complying with the mandated secrecy policy was
+
+“susceptible to policy analysis,” Gaubert, 499 U.S. at 325. 19
+
+
+
+
+19Plaintiffs further allege that, in December 2019, Pope Francis issued a directive to bishops
+reversing the Holy See’s dated mandatory secrecy policy. The 2019 directive provided, they
+assert, that “those reporting the crime of child sexual abuse . . . shall not be bound by any
+obligation of silence.” Am. Compl. ¶ 73, App’x at 40 (internal quotation marks omitted). This
+alleged reversal in the Holy See’s policy regarding the handling of reported or suspected child
+sexual abuse underscores our point that the judgments involved here are susceptible to the
+
+
+
+                                               31
+                                        *       *      *
+
+       We in no way condone the horrific abuse alleged by Plaintiffs and acknowledged
+
+by the Holy See. See Oral Argument Tr. at 10:9–14. But the question before us is whether
+
+the Holy See, a foreign sovereign, is immune under the FSIA from suit in the courts of
+
+this country for the bishops’ alleged failures to warn and to report, not whether the
+
+secrecy policy or the bishops’ actions were justifiable.
+
+       In sum, because Plaintiffs’ allegations of harm hinge on discretionary actions by
+
+the bishops and Plaintiffs fail to allege that the bishops’ conduct violated the Holy See’s
+
+mandatory secrecy policy, Berkovitz/Gaubert prong one is satisfied. And because the
+
+challenged conduct was susceptible to policy analysis, Berkovitz/Gaubert prong two is
+
+met. Accordingly, the discretionary function exclusion from the tortious activity
+
+exception of the FSIA bars the court from exercising jurisdiction over Plaintiffs’ claims
+
+against the Holy See. 20
+
+
+                                       CONCLUSION
+
+       For the reasons set forth above, the judgment of the District Court is AFFIRMED.
+
+
+
+
+balancing of policy considerations—judgments that are best reserved for foreign sovereigns, not
+courts.
+
+20The Holy See advances an alternative ground for affirming the District Court’s judgment. It
+avers that the misrepresentation exclusion from the tortious activity exception, 28 U.S.C.
+§ 1605(a)(5)(B), applies here and that the District Court therefore lacks jurisdiction under the
+FSIA over the Holy See for this reason as well. See Holy See Br. at 41–47. Because we affirm the
+District Court’s judgment of dismissal on other grounds, we do not address the Holy See’s
+alternative argument.
+
+
+
+                                               32

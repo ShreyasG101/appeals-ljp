@@ -1,0 +1,30 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court abused its discretion in denying a preliminary injunction against enforcement of the Massachusetts ban on assault weapons and large capacity magazines under the Second Amendment.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that the plaintiffs were unlikely to succeed on the merits of their Second Amendment challenge because the Massachusetts ban is consistent with the Nation's historical tradition of firearm regulation, as required by Bruen, and the burden imposed is analogous to historical restrictions on dangerous weapons. The court also found its prior decision in Ocean State Tactical controlling as to the magazine ban."
+    }
+  ],
+  "key_precedents": [
+    "District of Columbia v. Heller, 554 U.S. 570 (2008)",
+    "New York State Rifle & Pistol Association v. Bruen, 597 U.S. 1 (2022)",
+    "United States v. Rahimi, 602 U.S. 680 (2024)",
+    "Ocean State Tactical, LLC v. Rhode Island, 95 F.4th 38 (1st Cir. 2024)",
+    "Worman v. Healey, 922 F.3d 26 (1st Cir. 2019), abrogated on other grounds by Bruen",
+    "Bianchi v. Brown, 111 F.4th 438 (4th Cir. 2024)",
+    "Hanson v. District of Columbia, 120 F.4th 223 (D.C. Cir. 2024)",
+    "Duncan v. Bonta, No. 23-55805, 2025 WL 867583 (9th Cir. Mar. 20, 2025) (en banc)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": true,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "This appeal involves a constitutional challenge to a Massachusetts law that prohibits the sale, transfer, or possession of \"an assault weapon or a large capacity feeding device.\" Mass. Gen. Laws ch. 140, \u00a7 131M (the \"Massachusetts Ban,\" or the \"Ban\").\n\nAppellant Joseph R. Capen is a Massachusetts resident who alleges that he would purchase items covered by the Ban \"to keep in his home for self-defense and other lawful purposes\" if not for the credible threat of prosecution under \u00a7 131M. Appellant the National Association for Gun Rights (the \"Association\") is a nonprofit organization whose members would also allegedly purchase items prohibited by the Massachusetts Ban for the same purposes if not for that threat.\n\nAppellants filed a complaint in the U.S. District Court for the District of Massachusetts on September 7, 2022, seeking a declaratory judgment that the Ban (1) on its face violates the Second Amendment of the U.S. Constitution or, in the alternative, (2) violates the Second Amendment \"as applied to the extent [its] prohibitions apply to law-abiding adults seeking to acquire, use, transfer, or possess arms that are in common use by the American public for lawful purposes.\" The Complaint also includes a request for preliminary and permanent injunctions against the Ban's enforcement. Appellants filed a Motion for Preliminary Injunction (\"PI Motion\") on November 9, 2022. Defendant-Appellee, the Attorney General of the Commonwealth of Massachusetts (the \"Commonwealth\"), opposed this motion.\n\nThe district court denied the PI Motion on December 21, 2023, concluding that Plaintiffs \"cannot demonstrate a likelihood of success on the merits of their claims.\" Capen v. Campbell, 708 F. Supp. 3d 65, 70 (D. Mass. 2023). Appellants brought this interlocutory appeal from that order.\n\nBecause we conclude that Appellants are unlikely to succeed on the merits of their claims as presented, taking into account the record as was before the district court, and in light of intervening authority, we affirm the denial of the PI Motion."
+}

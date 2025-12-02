@@ -1,0 +1,729 @@
+21-2949-cv
+Capitol Records v. Vimeo
+
+                    UNITED STATES COURT OF APPEALS
+                        FOR THE SECOND CIRCUIT
+
+                                  August Term 2023
+
+(Argued: October 12, 2023                  Rehearing Decided: September 9, 2025 )
+
+                           Docket Nos. 21-2949-cv/21-2974-cv
+
+                    _____________________________________
+
+    CAPITOL RECORDS, LLC, a Delaware Limited Liability company,
+ CAROLINE RECORDS, INC., a New York Corporation, VIRGIN RECORDS
+AMERICA, INC., a California Corporation, EMI BLACKWOOD MUSIC INC.,
+    a Connecticut Corporation, EMI APRIL MUSIC INC., a Connecticut
+    Corporation, EMI VIRGIN MUSIC, INC., a New York Corporation,
+   COLGEMS-EMI MUSIC, INC., a Delaware Corporation, EMI VIRGIN
+  SONGS, INC., a New York Corporation, EMI GOLD HORIZON MUSIC
+CORP., a New York Corporation, EMI UNART CATALOG INC., a New York
+  Corporation, STONE DIAMOND MUSIC CORPORATION, a Michigan
+  Corporation, EMI U CATALOG INC., a New York Corporation, JOBETE
+                MUSIC CO., INC., a Michigan Corporation,
+
+                                  Plaintiff-Appellants,
+
+                                           v.
+
+  VIMEO, INC., a Delaware Limited Liability company, AKA VIMEO.COM,
+  CONNECTED VENTURES, LLC, a Delaware Limited Liability company,
+
+                                  Defendant-Appellees,
+
+                               DOES, 1-20 INCLUSIVE,
+
+                                  Defendants.
+                    _____________________________________
+Before:      LEVAL, PARKER, and MERRIAM, Circuit Judges.
+
+      Plaintiffs, who are rightsholders of musical recordings, all affiliates of
+EMI, petition for reconsideration of our decision of January 13, 2025. See Capitol
+Recs., LLC v. Vimeo, Inc., 125 F.4th 409 (2d Cir. 2025). In that opinion, we ruled,
+in part, that Plaintiffs waived the argument under Metro-Goldwyn-Mayer
+Studios Inc. v. Grokster, Ltd., 545 U.S. 913 (2005), that Defendants Vimeo, Inc.
+and Connected Ventures, LLC’s (collectively, “Vimeo”) encouragement of
+users to make infringing lip-dub videos may constitute a form of “right and
+ability to control” infringement, thus risking forfeiture of the safe harbor
+provided by the Digital Millennium Copyright Act, 17 U.S.C. § 512(c). The
+petition for rehearing is GRANTED in part and DENIED in part.
+
+                                       CATHERINE E. STETSON (Nathaniel A.G.
+                                       Zelinsky, Hogan Lovells US LLP,
+                                       Washington, D.C.; Russell J. Frackman,
+                                       Mitchell Silberberg & Knupp LLP, Los
+                                       Angeles, CA, on the brief), Hogan Lovells
+                                       US LLP, Washington, D.C., for Plaintiff-
+                                       Appellants.
+
+                                       KATHLEEN M. SULLIVAN (Todd Anten,
+                                       Owen F. Roberts, Quinn Emanuel
+                                       Urquhart & Sullivan, LLP, New York,
+                                       NY; Michael A. Cheah, Vimeo, Inc.,
+                                       New York, NY; Rachel Kassabian,
+                                       Quinn Emanuel Urquhart & Sullivan,
+                                       LLP, Redwood Shores, CA, on the brief),
+                                       Quinn Emanuel Urquhart & Sullivan,
+                                       LLP, Los Angeles, CA, for Defendant-
+                                       Appellees.
+
+                                       Hyland Hunt, Ruthanne M. Deutsch,
+                                       Alexandra Mansbach, Deutsch Hunt
+
+                                        2
+                                       PLLC, Washington, D.C., for amici curiae,
+                                       National Music Publishers’ Association,
+                                       Recording Industry Association of
+                                       America, and Copyright Alliance, in
+                                       support of Plaintiff-Appellants.
+
+                                       Matthew C. Schruers, Alexandra
+                                       Sternburg, Computer &
+                                       Communications Industry Association,
+                                       Washington, D.C., for amicus curiae,
+                                       Computer & Communications Industry
+                                       Association, in support of Defendant-
+                                       Appellees.
+
+                                       Mitchell L. Stoltz, Corynne McSherry,
+                                       Electronic Frontier Foundation, San
+                                       Francisco, CA, for amicus curiae,
+                                       Electronic Frontier Foundation, in
+                                       support of Defendant-Appellees.
+
+                                       Rebecca Tushnet, Harvard Law School,
+                                       Cambridge, MA, for amici curiae,
+                                       Intellectual Property Scholars in Support
+                                       of Defendant-Appellees.
+
+LEVAL, Circuit Judge:
+
+      Plaintiffs, who are rightsholders of musical recordings, all affiliates of
+
+EMI, petition for reconsideration of our decision of January 13, 2025. See Capitol
+
+Recs., LLC v. Vimeo, Inc., 125 F.4th 409 (2d Cir. 2025) (“January 13 Opinion”).
+
+Plaintiffs brought this action against Defendants Vimeo, Inc. and Connected
+
+Ventures, LLC (collectively, “Vimeo”) claiming that Vimeo is liable to Plaintiffs
+
+                                        3
+for copyright infringement by reason of hosting on its website videos, posted
+
+by Vimeo users, playing copyright-protected music owned by Plaintiffs. We
+
+found in favor of Vimeo, on the basis of the safe harbor conferred on internet
+
+service providers by § 512(c) of the Digital Millenium Copyright Act
+
+(“DMCA”). See 17 U.S.C. § 512(c)(1). We ruled, in part, that Plaintiffs waived
+
+the argument under Metro-Goldwyn-Mayer Studios Inc. v. Grokster, Ltd., 545 U.S.
+
+913 (2005) (“Grokster”), that Vimeo’s encouragement of users to make
+
+infringing lip-dub videos may satisfy the statutory standard of “right and
+
+ability to control” infringement, which can result in forfeiture of the safe
+
+harbor. 17 U.S.C. § 512(c)(1)(B). In support of their petition for reconsideration,
+
+Plaintiffs contend that the Grokster-based argument, which this court found to
+
+be waived, was in fact pressed throughout Plaintiffs’ opening brief. Plaintiffs
+
+also ask that we remove from the January 13 Opinion a footnote in which we
+
+discussed the question whether the Grokster-based argument, even if waived in
+
+our court, was adequately preserved for review by the Supreme Court.
+
+      The petition is granted in part and denied in part, for the reasons that
+
+follow. We reject Plaintiffs’ contention that they did not waive the Grokster-
+
+based argument. Their petition is denied in that regard. However, we grant the
+
+
+
+                                        4
+petition in so far as it seeks to remove the footnote discussing whether the
+
+Grokster-based argument is preserved for review by the Supreme Court.
+
+                                  BACKGROUND
+
+       We assume familiarity with the facts set forth in the January 13 Opinion,
+
+see Capitol Records, 125 F.4th at 413-17, and begin with an overview of precedent
+
+and procedural history relevant to the petition.
+
+I.     The DMCA
+
+       “Section 512(c) of the [DMCA] establishes a safe harbor, which protects
+
+qualifying service providers from liability for infringement when users of the
+
+service upload infringing material onto the providers’ websites.” Id. at 413
+
+(citing 17 U.S.C. § 512(c)(1)). “However, the safe harbor is not available to a
+
+service provider if the service provider (A) has actual or red flag knowledge
+
+that the material on its website is infringing and fails to remove the infringing
+
+matter expeditiously, or (B) has the right and ability to control infringing
+
+material on its website and receives a financial benefit directly attributable to
+
+that activity.” Id. (citing 17 U.S.C. § 512(c)(1)).
+
+       In Viacom International, Inc. v. YouTube, Inc., this court held that “the ‘right
+
+and ability to control’ infringing activity under § 512(c)(1)(B) ‘requires
+
+something more than the ability to remove or block access to materials posted
+
+                                           5
+on a service provider’s website.’” 676 F.3d 19, 38 (2d Cir. 2012) (quoting Capitol
+
+Recs., Inc. v. MP3tunes, LLC, 821 F. Supp. 2d 627, 645 (S.D.N.Y. 2011)).
+
+Recognizing the difficulty in defining that “something more,” id., the Viacom
+
+opinion offered two possible constructions based on two cases in which a
+
+service provider “exert[ed] substantial influence on the activities of users,
+
+without necessarily—or even frequently—acquiring knowledge of specific
+
+infringing activity.” Id. First, citing Perfect 10, Inc. v. Cybernet Ventures, Inc., 213
+
+F. Supp. 2d 1146 (C.D. Cal. 2002) (“Cybernet”), we suggested that the requisite
+
+“something more” might exist if a service provider imposed editorial standards
+
+over content, and instituted a strict monitoring program to enforce such
+
+standards, including by refusing access to non-compliant users. Viacom, 676
+
+F.3d at 38. Second, citing Grokster, we noted that “inducement of copyright
+
+infringement[,] . . . which premises liability on purposeful, culpable expression
+
+and    conduct,     might    also    rise   to   the    level   of    control    under
+
+§ 512(c)(1)(B).” Id. (internal citations and quotation marks omitted).
+
+II.    District Court Proceedings and Interlocutory Appeal
+
+       In addressing Plaintiffs’ contention that they did not waive the Grokster-
+
+based argument, we focus first on the arguments advanced by Plaintiffs in the
+
+district court. In their motion for partial summary judgment demanding
+
+                                            6
+rejection of Vimeo’s defense based on the DMCA safe harbor and in opposition
+
+to Vimeo’s motion for summary judgment, Plaintiffs argued, following the
+
+framework laid out in Viacom, that “[t]he right and ability to control
+
+infringement” under the DMCA “can be demonstrated in two different ways:”
+
+(1) the Cybernet path—by showing “a monitoring program that, for example,
+
+includes detailed instruction on issues of layout, appearance, and content,” or
+
+(2) the Grokster path—by showing “inducement to infringe which premises
+
+liability on purposeful, culpable expression and conduct.” J. App’x at 164
+
+(internal quotation marks omitted). In their district court briefing, Plaintiffs
+
+offered thirteen pages of argument analogizing Vimeo’s efforts to curate its
+
+website, enforce content restrictions, and monitor user content to the
+
+monitoring program in Cybernet, see id. at 165–77, and ten separate pages
+
+framing Vimeo’s efforts to, among other things, create, upload, and promote
+
+lip-dub videos, as inducement to infringe under Grokster, see id. at 177–86.
+
+Vimeo dedicated nearly five pages of its opposition brief to rebutting Plaintiffs’
+
+Cybernet-based arguments, see Defendants’ Opposition To Plaintiffs’ Motion for
+
+Partial Summary Judgment And Reply In Further Support Of Defendants’
+
+Motion For Summary Judgment Pursuant To The DMCA Safe Harbor, ECF No.
+
+
+
+                                        7
+76, at 21-25, and nearly six pages to rebutting Plaintiffs’ Grokster-based
+
+arguments, see id. at 25-30.
+
+      In ruling on the summary judgment motions, the district court adopted
+
+Plaintiffs’ proposed structure, “us[ing] the cases cited in . . . Viacom—Cybernet
+
+and Grokster—as analytical guideposts” because “each supplies a distinct
+
+example of conduct” to establish a right and ability to control. Spec. App’x at
+
+39. In particular, in a sub-section titled “Cybernet—Substantial Influence
+
+Through a Monitoring Program,” id., the district court, following
+
+approximately six pages of analysis, found no triable issue as to Vimeo’s
+
+exertion of substantial influence on user activity through its monitoring
+
+program. See id. at 45. In the following sub-section titled “Grokster—Substantial
+
+Influence through Inducement of Infringement,” id., the district court, as
+
+detailed in approximately eight pages of analysis, found “no basis to conclude
+
+that Vimeo exerted substantial influence on its users’ activities through
+
+inducement,” id. at 52. In this sub-section, the district court specifically rejected
+
+Plaintiffs’ Grokster-based argument regarding lip-dub videos. The court
+
+acknowledged the presence in the record of “stray instances of wrongful
+
+conduct by Vimeo employees on the [w]ebsite and/or a generalized effort to
+
+
+
+                                         8
+promote videos that incorporate music,” but concluded that this evidence did
+
+“not rise to the level . . . adduced in Grokster,” where “the record was replete
+
+with evidence that defendants clearly voiced the objective that recipients use
+
+[their product] to download copyrighted works.” Id. at 48 (internal quotation
+
+marks omitted).
+
+      In a separate order, the district court certified three questions for
+
+interlocutory appeal—none of which concerned right and ability to control
+
+under § 512(c)(1)(B):
+
+      (i) whether the safe harbor of § 512(c) applies to pre-1972 sound
+      recordings; (ii) whether evidence of some viewing by Vimeo
+      employees of videos that played all or virtually all of
+      “recognizable” copyrighted songs was sufficient to satisfy the
+      standard of red flag knowledge, which would make Vimeo
+      ineligible for the DMCA safe harbor; and (iii) whether Plaintiffs
+      have shown that Vimeo had a general policy of willful blindness
+      to infringement of sound recordings, which would justify
+      imputing to Vimeo knowledge of the specific infringements.
+
+Capitol Recs., LLC v. Vimeo, LLC, 826 F.3d 78, 82 (2d Cir. 2016) (“Vimeo I”).
+
+      On the third certified question—willful blindness—Plaintiffs argued that
+
+Vimeo “actively encouraged users to post videos containing infringing
+
+material,” and that a service provider “cannot adopt a general policy of urging
+
+or encouraging users to post infringing material and then escape liability by
+
+
+
+                                        9
+hiding behind a disingenuous claim of ignorance of the users’ infringements.”
+
+Id. at 99. In support, Plaintiffs specified a handful of instances where employees
+
+failed to comply with company policy by telling users not to worry about
+
+infringement, including one instance where a Vimeo employee responded to a
+
+user’s question that he “‘see[s] all the time at vime[o] videos, (for example Lip-
+
+dub) music being used that is copyrig[ht]ed, is there any problem with this?’
+
+by telling the user ‘[w]e allow it, however if the copyright holder sent us a legal
+
+takedown notice, we could have to comply.’” Id. at 85.
+
+      In responding to the certified questions, we rejected Plaintiffs’ argument,
+
+finding the evidence of the “sporadic instances . . . in which Vimeo employees
+
+inappropriately encouraged users to post videos that infringed music,” none
+
+of which related to the videos at issue in the lawsuit, did not support a finding
+
+of “the sort of generalized encouragement of infringement supposed by
+
+[Plaintiffs’] legal theory” of willful blindness, and was thus “insufficient to
+
+justify a finding of red flag knowledge.” Id. at 99. We did not mention Grokster
+
+or use the word “induce” anywhere in our opinion resolving the interlocutory
+
+appeal.
+
+
+
+
+                                        10
+III.   Direct Appeal
+
+       On direct appeal, Plaintiffs did not address the Grokster inducement
+
+theory, other than in a footnote to the portion of their opening brief discussing
+
+right and ability to control under Cybernet. The footnote stated:
+
+       Providers can also exercise “substantial influence” when they
+       induce infringement, as occurred in Grokster. See Viacom, 676 F.3d
+       at 38; UMG Recordings, Inc. v. Shelter Cap. Partners LLC, 718 F.3d
+       1006, 1030 (9th Cir. 2013). Grokster represents a different type of
+       control that “premises liability on purposeful, culpable expression
+       and conduct.” Viacom, 676 F.3d at 38 (quoting Grokster, 545 U.S. at
+       937). The rightsholders acknowledge that Vimeo I forecloses (at this
+       stage) the argument that Vimeo’s “urging” and “encouraging
+       users to post infringing material” constituted inducement under
+       Grokster. Vimeo I, 826 F.3d at 99. The rightsholders preserve this
+       argument for further review.
+
+Appellants’ Br. at 28 n.5 (“Footnote 5”).
+
+       In its opposition brief, Vimeo forcefully noted Plaintiffs’ abandonment
+
+of the Grokster inducement argument:
+
+       In granting summary judgment to Vimeo on this issue, the district
+       court examined two decisions as “analytical guideposts”: Cybernet,
+       213 F. Supp. 2d 1146, and [Grokster], 545 U.S. 913 (2005). SPA 39.
+       On appeal, Plaintiffs limit their challenge to the district court’s
+       Cybernet analysis.
+
+
+
+
+                                       11
+Appellees’ Br. at 24 (citing Appellants’ Br. at 27-28 & n.5). Plaintiffs did not
+
+deny or contest Vimeo’s assertion that Plaintiffs were “limit[ing] their
+
+challenge to the district court’s Cybernet analysis.” Id.
+
+      In our January 13 Opinion, we affirmed the district court’s grant of
+
+summary judgment in favor of Vimeo. In so doing, we noted a possible
+
+question whether Vimeo’s promotion of lip-dub videos encouraged
+
+infringement in a way that might be deemed an exercise of the right and ability
+
+to control under Grokster and thus a possible forfeiture of the safe harbor. While
+
+we recognized some “force in the argument that encouraging users to make
+
+infringing lip-dubs should trigger forfeiture of a safe harbor designed to
+
+protect service providers from liability for infringements for which they were
+
+in no way responsible,” we concluded on the basis of Footnote 5 of Plaintiffs’
+
+opening brief that Plaintiffs had decided not to assert the argument. Capitol
+
+Records, 125 F.4th at 427. We expressed surprise at Plaintiffs’ conclusion that
+
+our ruling in Vimeo I foreclosed the argument. We wrote,
+
+      We do not read our opinion in Vimeo I as foreclosing this
+      potentially forceful argument. Our comments in Vimeo I to the
+      effect that Plaintiffs’ arguments were not supported by the
+      evidence concerned a different issue: willful blindness to
+      infringement, which we ruled could not be demonstrated by “a
+      handful of sporadic instances . . . in which Vimeo employees
+
+
+                                        12
+       inappropriately encouraged users to post videos that infringed
+       music.” Vimeo I, 826 F.3d at 99.
+
+       In Vimeo I, we rejected Plaintiffs’ contention of Vimeo’s willful
+       blindness in substantial part because of the tiny scope of isolated
+       instances of a different sort of encouragement to infringe: where
+       employees deviated from company policy by telling users not to
+       worry about infringement. Our opinion neither said nor implied
+       that encouragements to infringe could not impact Vimeo’s
+       entitlement to the safe harbor under Section 512(c)(1)(B). The
+       discussion furthermore did not concern Vimeo’s policy to
+       encourage lip-dubs. We can see no basis for Plaintiffs’ reading our
+       Vimeo I opinion as “foreclose[ing] . . . the argument that Vimeo’s
+       ‘urging’ and ‘encouraging users to post infringing material’
+       constituted inducement.”
+
+Id. at 427-28.
+
+       In a footnote, we also questioned whether Plaintiffs could properly
+
+preserve the Grokster argument for review by the Supreme Court without
+
+having raised it before us, especially in the circumstance in which our court
+
+had not expressed views on the question. See id. at 427 n. 15 (“Footnote 15”).
+
+       Plaintiffs filed a timely petition for rehearing. Vimeo filed a response.
+
+                                 DISCUSSION
+
+       In their petition for reconsideration, Plaintiffs make two arguments.
+
+First, they contend that, contrary to our perception of waiver, they were in fact
+
+arguing the Grokster-based inducement theory of right and ability to control in
+
+
+
+                                        13
+their opening brief. Second, they argue that we should eliminate from our
+
+opinion our expression of doubt as to whether they had properly preserved
+
+that argument for review by the Supreme Court. We discuss each of these
+
+arguments in turn.
+
+      I.     Waiver of Grokster Inducement Theory
+
+      Plaintiffs insist that they did not waive the Grokster inducement theory
+
+of right and ability to control; far from waiving, they in fact “pressed [it] . . .
+
+throughout the text of their brief.” Petition at 1.
+
+      It is true that in the Fact Section of Plaintiffs’ brief, they recite facts that
+
+would support the Grokster-based argument in question. However, nowhere in
+
+the Argument section of the brief do they make the Grokster-based argument,
+
+predicated on the facts recited, that inducement to infringe through the lip-dub
+
+program could satisfy the requirement of right and ability to control under the
+
+Grokster precedent. To the contrary, the brief in Footnote 5 expressly
+
+“acknowledge[d] that Vimeo I forecloses (at this stage) the argument that
+
+Vimeo’s ‘urging’ and ‘encouraging users to post infringing material’
+
+constituted inducement under Grokster.” Appellants’ Br. at 28 n.5. “It is a settled
+
+appellate rule that issues . . . unaccompanied by some effort at developed
+
+argumentation, are deemed forfeited.” Palin v. N.Y. Times Co., 113 F.4th 245, 279
+
+                                         14
+(2d Cir. 2024) (internal quotation marks omitted). “This is true even if an
+
+appellant argued the same issues more fully before the district court that she
+
+left undeveloped on appeal.” Id.
+
+      Plaintiffs contend that they went on to argue those facts in the portion of
+
+the Argument section addressing right and ability to control under
+
+§ 512(c)(1)(B), specifically, under the heading “I. A Reasonable Factfinder
+
+Could Conclude That Vimeo Possessed The Right And Ability To Control
+
+Infringing Activity And Received A Benefit.” Appellants’ Br. at 27. But that
+
+portion of Plaintiffs’ brief made different arguments about right and ability to
+
+control—primarily the argument based on Cybernet, that is that the exertion of
+
+substantial influence by imposition of strict editorial controls over user
+
+postings and submissions can constitute right and ability to control.
+
+      Since Viacom and throughout the evolution of arguments in this case, it
+
+has been clear that the approach to demonstrating “substantial influence”
+
+outlined in Cybernet, and the encouragement to infringe approach, based on
+
+Grokster, are two distinct ways to satisfy right and ability to control. Plaintiffs’
+
+initial brief in this appeal vigorously argued the Cybernet-based theory that
+
+right and ability to control was achieved by imposition of editorial controls
+
+
+
+                                        15
+over user content. As for satisfying right and ability to control by
+
+encouragement of infringement, as approved by Grokster, Plaintiffs’ brief did
+
+not argue it because they “acknowledge[d]” that theory as “foreclose[d]” by
+
+our earlier ruling in Vimeo I. Id. at 28 n.5.
+
+      That Plaintiffs’ arguments relied only on the Cybernet theory, and not on
+
+the Grokster theory is also apparent from the topic-headings in the Argument
+
+section of the brief. These include:
+
+             A. A Provider Exerts “Substantial Influence” When It Makes
+                Editorial Judgments About Users’ Uploads.
+                   1. Step 1: Is There A Relationship Between The Provider’s
+                      Control And The Infringing Activity?
+                   2. Step 2: Does The Provider Exercise Editorial Judgment
+                      Over Its Users’ Activity?
+                   3. Cybernet And Subsequent Precedent Confirm These
+                      Steps.
+
+             B. A Jury Could Find That Vimeo Exerted Significant Editorial
+                Judgment Over Users’ Content.
+                   1. Vimeo’s Control Exceeded The Provider’s Control In
+                      Cybernet.
+                   2. The District Court Misapplied The Substantial Influence
+                      Standard And Improperly Drew Every Inference In
+                      Vimeo’s Favor.
+
+             C. Vimeo Directly Benefited From Infringement.
+                  1. “Direct Financial Benefit” Has Its Common-Law
+                     Meaning.
+
+
+                                          16
+                   2. Vimeo Received A Financial Benefit Causally Related
+                      To Users’ Infringement.
+
+Appellants’ Br. at 28-52 (emphases added). Each of these headings, and the
+
+argumentation text that followed, made clear that the argument they made was
+
+the Cybernet-based argument of achieving right and ability to control by
+
+imposition of editorial controls. In no context did they rely on the Grokster-
+
+based theory of achieving right and ability to control by encouraging users to
+
+infringe. Other than in Footnote 5 (and a string-cite on an unrelated point, see
+
+id. at 29), the brief makes no mention of Grokster, or of the word “induce,” in the
+
+Argument section. As for the Grokster-based encouragement argument, we
+
+merely took Plaintiffs at their word—that they had concluded that the
+
+argument was foreclosed by our earlier ruling and therefore did not argue it.
+
+      We do not dispute that Plaintiffs relied on the inducement or
+
+encouragement of users to post infringing content, especially in encouraging
+
+the posting of lip-dubs, but their arguments were advanced solely as support
+
+for Plaintiffs’ Cybernet-based argument on exertion of editorial control. The
+
+introductory sentence of the relevant section states, “Vimeo encouraged users
+
+to make specific types of content. Cf. Cybernet, 213 F. Supp. 2d at 1181-82.”
+
+Appellants’ Br. at 40. The cited parts of the opening brief do not, as Plaintiffs
+
+
+                                        17
+now contend, argue the separate Grokster-based theory. And if there were any
+
+doubt about which theory was being argued and which was not, Plaintiffs
+
+eliminated any possible doubt by explaining in Footnote 5 why they did not
+
+argue the Grokster-based inducement theory. In the footnote, Plaintiffs
+
+acknowledge that the Grokster theory represents “a different type of control”
+
+than control achieved under the Cybernet theory, which they were vigorously
+
+arguing. Id. at 28 n.5.
+
+      We conclude that, in Footnote 5, Plaintiffs expressly waived the Grokster-
+
+based argument that Vimeo had substantial influence over, or the right and
+
+ability to control, infringement. As noted above, Vimeo expressly flagged
+
+Plaintiffs’ waiver of the Grokster inducement argument in its opposition brief.
+
+See Appellee Br. at 24 (“On appeal, Plaintiffs limit their challenge to the district
+
+court’s Cybernet analysis.”) (citing Appellants’ Br. at 27-28 & n.5). Plaintiffs did
+
+not challenge this framing of their opening brief on reply.
+
+      Plaintiffs try to escape this conundrum by arguing that their waiver was
+
+not of the Grokster-based theory of forfeiture of the safe harbor, but rather of a
+
+claim under Grokster for induced infringement. We are not persuaded. As
+
+Vimeo points out, the distinction between a Grokster-based claim and Grokster-
+
+
+
+                                        18
+based forfeiture of the DMCA safe harbor appeared nowhere in Plaintiffs’
+
+opening brief. And, perhaps more importantly, it ignores that the issue on
+
+appeal was Vimeo’s eligibility for the safe harbor—not liability for an
+
+infringement claim.
+
+      We reject Plaintiffs’ argument that we erred in finding that they waived
+
+(or forfeited) the Grokster-based argument that Vimeo’s inducement of users to
+
+lip-dub qualified as right and ability to control.
+
+II.   Preservation of Grokster Inducement Theory for Supreme Court
+      Review
+
+      Plaintiffs ask us to remove language in Footnote 15 of the January 13
+
+Opinion suggesting that their Grokster inducement theory of right and ability
+
+to control is barred from review by the Supreme Court. We agree to Plaintiffs’
+
+proposed modification and amend the January 13 Opinion accordingly.
+
+                                CONCLUSION
+
+      For the foregoing reasons, the petition is hereby GRANTED in part and
+
+DENIED in part. We hereby AMEND the January 13 Opinion to remove
+
+Footnote 15.
+
+
+
+
+                                        19

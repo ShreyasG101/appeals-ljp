@@ -1,0 +1,2561 @@
+     6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 1 of 48
+
+
+
+
+                       IN THE UNITED STATES DISTRICT COURT
+                      FOR THE EASTERN DISTRICT OF OKLAHOMA
+
+PERRY CLINE, on behalf of himself
+and all others similarly situated,
+                        Plaintiff,
+
+v.                                                   Civil Action No. 6:17-cv-313-JAG
+
+SUNOCO, INC. (R&M), et al.,
+                Defendants.
+
+                                            OPINION
+
+       Sunoco owes millions of dollars in interest on late payments for crude oil. Oklahoma law
+
+requires a first purchaser of crude oil—such as Sunoco—to pay promptly for the oil. If the
+
+purchaser pays late, it must pay interest to the owner of the well that produced the oil. This case
+
+involves Sunoco’s failure to pay that interest.
+
+       Long ago, Sunoco decided not to pay interest on late payments. Recognizing that the law
+
+mandated interest, Sunoco has adopted a policy only to pay if the well owner requests an interest
+
+payment. Since most well owners do not know they can get the payment, few request their interest,
+
+and Sunoco keeps the money. It amounts to millions of dollars each year.
+
+       Sunoco’s indifference to its obligation extends far beyond not paying what it should.
+
+Sunoco has never even bothered to figure out how much interest it owes to owners. It keeps scant
+
+records of why it made late payments. Instead, Sunoco simply keeps the money for its own use,
+
+knowing two things: that most owners will not request interest, and that eventually the owners’
+
+potential claims will die at the hands of the statute of limitations. And when that happens, Sunoco
+
+will have irrevocably pocketed the money.
+
+       In this case, a farmer named Perry Cline calls Sunoco to task on this practice.
+    6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 2 of 48
+
+
+
+
+                                      I. INTRODUCTION
+
+       Perry Cline, the named plaintiff, represents a class of owners of interests in oil wells in
+
+Oklahoma.1 The defendants, Sunoco, Inc. (R&M), and Sunoco Partners Marketing & Terminals,
+
+L.P. (collectively, “Sunoco”), purchase crude oil from those wells, sell the oil, and pay proceeds
+
+to well owners pursuant to Oklahoma’s Production Revenue Standards Act (“PRSA”). See Okla.
+
+Stat. tit. 52, § 570, et seq. The PRSA says that, when Sunoco pays well owners late, it must pay
+
+interest on those late payments.
+
+       Cline has sued Sunoco under the PRSA for failing to pay the statutory interest on late
+
+payments it made on oil proceeds. He also contends that Sunoco committed fraud by failing to
+
+disclose that it owed interest on those payments.
+
+       This case requires the Court to resolve several straightforward questions: Under the PRSA,
+
+when Sunoco pays an interest owner late, must Sunoco automatically pay statutory interest owed
+
+on the late payment? If Sunoco did not pay interest at the same time it made the late payment,
+
+does interest continue to accrue? Does Sunoco’s failure to disclose that it did not pay interest on
+
+a late payment constitute fraud? And how much does Sunoco owe?
+
+       On December 10, 2019, the Court concluded that the PRSA requires Sunoco to make
+
+statutory interest payments automatically with the late payment. The Court held a bench trial on
+
+the remaining issues from December 16-19, 2019. The Court heard closing arguments on June 17,
+
+2020.2 The Court now issues this Opinion to set forth its findings of fact and conclusions of law
+
+resolving the remaining questions in this case. See Fed. R. Civ. P. 52(a)(1).
+
+
+
+       1
+        Cline serves as the named representative of a class certified by the Court on October 3,
+2019. The Court uses the terms “the class” and “Cline” interchangeably.
+       2
+        The Court delayed ruling on the case until the parties received the trial transcript and had
+a chance to brief the case. Unfortunately, by the time the parties filed briefs, Coronavirus 2019
+                                                 2
+    6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 3 of 48
+
+
+
+
+                                    II. PROCEDURAL HISTORY
+
+       On July 7, 2017, Cline filed this case in Oklahoma state court on behalf of himself and all
+
+others similarly situated. Cline asserts claims for a violation of the PRSA (Count One) and fraud
+
+(Count Two). He seeks compensatory and punitive damages, and various forms of equitable relief.
+
+       Almost immediately after Cline filed suit, Sunoco removed the case to the U.S. District
+
+Court for the Eastern District of Oklahoma (Dk. No. 2) and filed its answer (Dk. No. 23). The
+
+case moved along slowly, and, finally, on June 14, 2019, Cline moved to certify the class, appoint
+
+a class representative, and appoint class counsel. (Dk. No. 91.)
+
+       On July 18, 2019, the Court reassigned this case to the undersigned. (Dk. No. 97.) Given
+
+the length of time the case had gone on, the Court set the case for trial on December 16, 2019, set
+
+a discovery cutoff of October 18, 2019, and set other pretrial deadlines. (Dk. No. 102.)
+
+       On October 3, 2019, the Court certified the following class:
+
+               All non-excluded persons or entities who: (1) received Untimely Payments
+       from Defendants (or Defendants’ designees) for oil proceeds from Oklahoma wells
+       on or after July 7, 2012, and (2) who have not already been paid statutory interest on
+       the Untimely Payments. An “Untimely Payment” for purposes of this class
+       definition means payment of proceeds from the sale of oil production from an
+       oil and gas well after the statutory periods identified in Okla. Stat. tit 52,
+       § 570.10(B)(1) (i.e., commencing not later than six (6) months after the date of first
+       sale, and thereafter not later than the last day of the second succeeding month after
+       the end of the month within which such production is sold). Untimely Payments
+       do not include: (a) payments of proceeds to an owner under Okla. Stat. tit 52,
+       § 570.10(B)(3) (minimum pay); (b) prior period adjustments; or (c) pass-through
+       payments.
+
+               The persons or entitles excluded from the Class are: (1) agencies,
+       departments, or instrumentalities of the United States of America or the State of
+       Oklahoma; (2) publicly traded oil and gas companies and their affiliates;
+       (3) persons or entities that Plaintiff’s counsel may be prohibited from representing
+       under Rule 1.7 of the Oklahoma Rules of Professional Conduct; and (4) officers of
+       the court.
+
+
+(COVID-19) had struck, and the judge could not immediately return to Oklahoma to hear oral
+argument.
+                                                 3
+      6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 4 of 48
+
+
+
+
+(Dk. No. 127, at 1.)
+
+        When it became clear that the case would move forward, Sunoco adopted a number of
+
+tactics to derail the litigation. First, after the Court set the case for trial, Sunoco moved to dismiss
+
+it as moot. Sunoco had finagled its mootness argument by sending Cline an unrequested check for
+
+the amount of interest it owed him, and then, nearly two years later, claimed that the tendered
+
+check deprived him of standing. This attempt to pick him off as a plaintiff failed. (Dk. Nos. 122-
+
+23)
+
+        Second, on October 8, 2019, Sunoco moved to stay this case pending its appeal of the
+
+Court’s class certification decision to the Tenth Circuit Court of Appeals, pursuant to Federal Rule
+
+of Civil Procedure 23(f). The Court denied the stay. (Dk. Nos. 131, 149-50.) On November 13,
+
+2019, the Tenth Circuit denied Sunoco’s request to appeal the Court’s class certification ruling.
+
+(Dk. No. 170.)
+
+        Third, after the Court certified the class (and long after the Court set a trial date and
+
+discovery cutoff), Sunoco finally began to look through thousands of files for evidence of what it
+
+might owe. This resulted in a massive production of millions of lines of data to the plaintiff—after
+
+the plaintiff’s expert report was due, and after the discovery cutoff.3 Sunoco characterizes its
+
+search for data as heroic; in reality, Sunoco ignored its files for years because it never intended to
+
+pay much interest, and let this case sit around for three years without getting its evidence together.
+
+Notwithstanding its untimely production of millions of pieces of evidence, Sunoco scolded Cline’s
+
+expert for not including it in her calculations. And Sunoco’s own expert, Eric Krause, relied upon
+
+the compilation of data to file tardy reports of his own—reports that he supplemented and that
+
+
+
+
+        3
+         Sunoco produced the same data to its own expert, helping to fatally delay his report, as
+discussed below.
+                                                   4
+    6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 5 of 48
+
+
+
+
+continued to evolve to fit the defense’s needs. (See Dk. Nos. 207, 230, 234.) Indeed, he even
+
+revised his opinion the weekend before the trial in this case.
+
+       Fourth, Sunoco filed a motion to “clarify” the class definition, which merely amounted to
+
+an argument to cut down the size of the class. (Dk. No. 172.) On November 26, 2019, the Court
+
+denied this motion. (Dk. No. 186.)
+
+       In December, 2019, the case finally moved toward rulings on the merits. On December
+
+10, 2019, the Court granted Cline’s motion for partial summary judgment. (Dk. Nos. 231-32.)
+
+The Court concluded that the PRSA requires Sunoco to pay interest at the same time it makes a
+
+late payment, and that Sunoco cannot wait for a request from the owner before paying that interest.
+
+(See Dk. No. 231.) The Court held a bench trial in this case from December 16-19, 2019, and
+
+heard closing arguments on June 17, 2020.
+
+                                          III. THE PRSA
+
+       Before reciting the facts, the Court begins by setting forth the relevant provisions of the
+
+PRSA. In this case, Sunoco admits that it frequently makes late payments for oil. The PRSA sets
+
+forth different interest rates on late payments, depending on the cause of the lateness. A great deal
+
+of the evidence at trial dealt with the issue of the correct rate of interest. The significance of the
+
+evidence in the case, therefore, only grows clear when viewed through the prism of the PRSA’s
+
+requirements.
+
+       As noted above, the PRSA imposes duties on the first purchaser who buys oil or gas from
+
+an interest owner or the person holding the proceeds from the sale of the oil and gas. Specifically,
+
+the first purchaser must pay owners their proceeds within six months from the date of first sale and
+
+within two months after the month of subsequent sales. Okla. Stat. tit. 52, § 570.10(B)(1). This
+
+
+
+
+                                                  5
+    6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 6 of 48
+
+
+
+
+requirement has several exceptions, including one that allows less frequent payments for small
+
+royalties of less than $100. See, e.g., id. §570.10(B)(3).
+
+       The Oklahoma Legislature adopted the prompt payment rule because of abusive practices
+
+by the oil industry, which frequently withheld payments from owners for a long time. See Krug v.
+
+Helmerich & Payne, Inc., 362 P.3d 205, 214 (Okla. 2015). To compensate owners for delayed
+
+payment, and to provide an incentive to pay properly, the statute requires the oil industry to pay
+
+interest on late payments. When “proceeds from the sale of oil or gas production . . . are not paid
+
+prior to the end of the applicable time periods provided in” the PRSA, those proceeds “shall earn
+
+interest.” Okla. Stat. tit. 52 §570.10(D)(1)-(2). “Except as otherwise provided in paragraph 2 of
+
+this subsection [regarding late payments due to marketable title],” a 12 percent interest rate applies
+
+to late payments “until the day paid.” Id. § 570.10(D)(1). When a first purchaser or holder of
+
+proceeds does not pay proceeds due to an issue with marketable title,4 a 6 percent interest rate
+
+applies to periods before November 1, 2018, and “the prime interest rate as reported in the Wall
+
+Street Journal” applies to periods on or after November 1, 2018.5 Id. § 570.10(D)(2)(a). The
+
+interest compounds annually. One of the big fights in this case revolves around whether Sunoco
+
+owes 12 percent or 6 percent interest.
+
+
+
+
+       4
+         “Marketability of title shall be determined in accordance with the title examination
+standards of the Oklahoma Bar Association.” § 570.10(D)(2)(a). The title examination standards
+define “marketable title” as “one free from apparent defects, grave doubts and litigious uncertainty,
+and consists of both legal and equitable title fairly deducible of record.” (Defs.’ Ex. 26, at 12.)
+       5
+          The lower interest rate also applies until “the holder has received an acceptable affidavit
+of death and heirship in conformity with Section 67 of Title 16 of the Oklahoma Statutes,” or until
+the proceeds are interpled, as set forth in § 570.10(D)(2)(b). See § 570.10(D)(2)(a). The Court
+will refer to the lower interest rate as the 6 percent interest rate throughout this Opinion. This rate
+only applies until title to the interest becomes marketable. Id.
+                                                  6
+    6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 7 of 48
+
+
+
+
+       The PRSA also bears on Cline’s argument that Sunoco committed fraud by withholding
+
+information from well owners. The statute says that, when a first purchaser or holder of proceeds
+
+makes a payment to an owner, it must provide the owner with the following information:
+
+       1.      Lease or well identification;
+       2.      Month and year of sales included in the payment;
+       3.      Total barrels or MCF attributed to such payment;
+       4.      Price per barrel or MCF, including British Thermal Unit adjustment of gas
+               sold;
+       5.      Total amount attributed to such payment of severance and other production
+               taxes, with the exception of windfall profit tax;
+       6.      Net value of total sales attributed to such payment after taxes are deducted;
+       7.      Owner’s interest, expressed as a decimal, in production from the property;
+       8.      Owner’s share of the total value of sales attributed to such payment prior to
+               any deductions;
+       9.      Owner’s share of the sales value attributed to such payment less owner’s
+               share of the production and severance taxes; and
+       10.     A specific listing of the amount and purpose of any other deductions from
+               the proceeds attributed to such payment due to the owner upon request by
+               the owner.
+
+Okla. Stat. tit. 52, § 570.12(A).
+
+                                           IV. FACTS
+
+                                         A. The Parties
+
+                                            1. Sunoco
+
+       Sunoco, Inc. (R&M) (now Sunoco (R&M), LLC) is a limited liability company that is a
+
+wholly owned subsidiary of ETP Holdco Corporation (“ETP”). Sunoco Partners Marketing &
+
+Terminals, L.P., is a limited partnership with no corporate parents. Sunoco has a net value over
+
+$30 billion.
+
+       Sunoco buys crude oil from oil producers and sells the oil. (Trial Tr. vol. 1, 168:11-20.)
+
+Sunoco is a first purchaser under the PRSA. (Id. 77:7-10, 85:21 to 86:8.) As a first purchaser,
+
+Sunoco is a “holder” of the oil proceeds owed to owners until Sunoco pays the oil proceeds directly
+
+
+
+
+                                                 7
+    6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 8 of 48
+
+
+
+
+to owners or to states as “unclaimed” property on behalf of unlocated owners. (Id. 77:7-13, 86:3-
+
+8, 131:8-24.)
+
+       Sunoco is not itself an oil and gas producer and does not have leases with individual
+
+landowners. (Id. 112:18 to 113:1, 177:7-9.) Rather, “operators” typically extract the oil from the
+
+ground and, pursuant to contracts, convey it to Sunoco.6 Sunoco then pays owners their proceeds
+
+directly. (Id. 86:3-8, 191:2-14.) Sunoco has paid thousands of owners across the United States.
+
+(Id. 178:3-5.) In many cases, Sunoco has agreed to pay these owners pursuant to a contract with
+
+the operator.7 (See, e.g., Defs.’ Ex. 29, at 3 ¶ 6.) Sunoco often relies on information provided by
+
+a well operator to pay owners their proceeds. (See, e.g., Trial Tr. vol. 1, 178:6 to 181:11.) That
+
+information is not always correct. (Id. 171:6-14, 178:6 to 181:11.)
+
+
+
+
+       6
+          Oil production has a cast of varied characters. When someone (such as Cline) owns land
+that may have oil on it, an exploration and production (“E&P”) company leases the land to drill
+for and extract the oil. (Trial Tr. vol. 1, 174:22 to 175:8.) The E&P company agrees to split the
+proceeds from the sale of that oil with the landowner if the company can extract it. (Id. 175:10-
+13.) Usually, the landowner gets at least a one-eighth royalty and bears no costs or risk associated
+with drilling the well or cleaning and closing a dry hole. (Id. 175:14-20.) The E&P company
+partners with other industry players, known as working interest owners, to drill the well, and they
+split the remaining interest. (Id. 175:21-24.) One of the working interest owners is deemed the
+“operator.” (Id. 175:25 to 176:2.) The operator “frequently ha[s] either a majority interest, or [it
+is] elected because [it is] knowledgeable and the other working interest owners respect [it].” (Id.
+176:3-7.) The working interest owner with the largest share of the interest performs and
+coordinates the work, with the remaining companies sharing in the cost and risk. (Id. 176:8-13.)
+After the working interest owners extract the oil, companies such as Sunoco will enter into
+contracts with the operators to transport and market the oil. (Id. 176:24 to 177:6.) The landowner’s
+interest may fracture over time, such as when a landowner dies or sells the interest to another
+individual or entity. (Id. 177:13 to 178:10.) Thus, it is not unusual for Sunoco to pay anywhere
+from tens to thousands of interest owners for oil produced from a well. (Id. 172:19-25.)
+       7
+          The contracts sometimes include an indemnity agreement under which the producer or
+operator agrees to indemnify Sunoco for costs associated with late payments to owners. (See Trial
+Tr. vol. 1, 125:22 to 127:4.)
+                                                 8
+    6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 9 of 48
+
+
+
+
+                                      2. Cline and the Class
+
+       Cline lives in Oklahoma and owns royalty interests in three oil wells. (Dk. No. 175.) He
+
+works as a farmer and has no training in the oil and gas industry. (Trial Tr. vol. 2, 428:2-16.)
+
+During the class period, Sunoco paid Cline royalty proceeds on all three wells; on occasion,
+
+Sunoco paid the royalties late. (Dk. No. 175.) Cline did not ask Sunoco to pay him interest on the
+
+late payments. (Trial Tr. vol. 1, 257:1-4.) At all relevant times, Sunoco had Cline’s correct contact
+
+and interest information. (See id. 99:8-15, 103:21 to 110:4; Pl.’s Exs. 459-60, 463.)
+
+       Cline represents a class of individuals and entities who own royalty interests in wells from
+
+which Sunoco purchased crude oil and paid proceeds late without paying interest on the proceeds.
+
+(See Dk. No. 127, at 1.)
+
+                                      B. Sunoco’s Conduct
+
+                                         1. Late Payments
+
+       Sunoco generally pays proceeds to owners on time. (Trial Tr. vol. 1, 77:25 to 78:2, 222:8-
+
+14.) On approximately one percent of its payments, however, Sunoco pays owners the proceeds
+
+late as defined by the PRSA. (Id. 77:14-24, 78:3-5, 91:12-20, 222:8-14.) Because Sunoco deals
+
+with thousands of owners, making many payments to each owner, over the years this small
+
+percentage amounts to millions of late payments.
+
+       The reasons for the late payments vary. Sometimes, the payments are just not on time.
+
+Other times, Sunoco has an internal reason why they are late. For example, Sunoco may suspend
+
+payment on an account if the owner has not returned a division order.8 (Id. 103:6-20.) If Sunoco
+
+
+
+       8
+         Sunoco uses division orders to confirm ownership and ensure accuracy of the payments.
+(Trial Tr. vol. 1, 186:19 to 187:11.) Oklahoma law says that an oil company cannot withhold
+payments because the owner has not signed a division order. Whether Sunoco’s practices with
+regard to division orders violate the PRSA is not before the Court.
+
+
+                                                 9
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 10 of 48
+
+
+
+
+does not have current or accurate information either from the owner or from the producer to pay
+
+the owner, sometimes it cannot remit the funds, or it may receive a returned check.9 (Id. 186:21
+
+to 187:11, 221:1 to 222:1, 281:4-8.) If Sunoco does not know the identity of the interest owner, it
+
+does not remit payment to anyone and instead pays those proceeds to Texas as unclaimed funds.10
+
+(Trial Tr. vol. 3, 577:7-24, 578:23 to 580:8.)
+
+       When Sunoco pays owners late, it does not automatically pay statutory interest. (Trial Tr.
+
+vol. 1, 78:6-13, 116:3-11; Pl.’s Ex. 43.) As noted above, Sunoco only pays statutory interest when
+
+specifically requested by an owner. (Trial Tr. vol. 1, 78:10-13, 82:20-23; Holland Dep. 55:18 to
+
+56:16; see, e.g., Pl.’s Ex. 38.) Sunoco does not get many requests for interest each year. (See,
+
+e.g., Trial Tr. vol. 1, 83:21-24; Holland. Dep. 33:5-15; Pl.’s Ex. 62.)
+
+       Sunoco takes a haphazard approach to its obligations arising from late payments. In fact,
+
+Sunoco has not even tried to identify every instance of a late payment in Oklahoma. (Trial Tr. vol.
+
+1, 79:6-7; Holland Dep. 102:5-19.) For its millions of late payments, it says it cannot determine
+
+the amount of interest due. This inability, however, does not arise from a lack of information.
+
+Rather, it arises from Sunoco’s unwillingness to make the effort, at the time of the late payment,
+
+to determine the cause of the lateness and the amount of interest due. On the rare occasions when
+
+Sunoco receives a request for interest, it usually has the information it needs to calculate the
+
+amount of interest due on the late payment. (See, e.g., Trial Tr. vol. 1, 99:8-15; Holland Dep. 34:8-
+
+24.) Sunoco employees simply look at the files for each payment to determine the reason the
+
+payment was late and whether Sunoco owes that owner 6 percent interest or 12 percent interest.
+
+
+
+
+       9
+           When Sunoco gets bad owner information from a producer or operator, it generally does
+not tell the producer or operator. (See Pl.’s Ex. 339.)
+       10
+            Sunoco calls payments for which it has no owner information “undivided payments.”
+                                                 10
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 11 of 48
+
+
+
+
+(Trial. Tr. vol. 1, 94:1 to 95:3, 223:17 to 224:7.) One employee handles calculating interest after
+
+other employees research the request. (Id. 94:1-21.) Sunoco uses a computer program into which
+
+a Sunoco employee manually inputs information to calculate the interest. (Id. 94:1 to 95:3;
+
+Holland Dep. 19:8 to 21:19; see Defs.’ Exs. 261-79.) When Sunoco finally gets around to paying
+
+interest, it pays the interest due only through the date Sunoco paid the proceeds to the owner.
+
+(Holland Dep. 123:7 to 124:18.)
+
+       Although Sunoco knows that it owes interest on late payments under the PRSA, it takes
+
+the position that the statute does not set forth a due date; in other words, the debt never becomes
+
+due. Sunoco takes this position based on industry practice and the advice of counsel. (See, e.g.,
+
+Trial Tr. vol. 1, 84:15-24.)
+
+       After Cline filed this lawsuit, Sunoco investigated Cline’s claim for interest. (Id. 98:21 to
+
+99:17; Pl.’s Ex. 4.) Sunoco had not paid Cline because Cline had not signed a division order and
+
+had not otherwise responded to Sunoco’s communications with him. (Id. 99:21 to 100:7.) On
+
+December 19, 2017, Sunoco sent Cline a check for $1,886.54 in unpaid interest. (Dk. No. 175;
+
+Pl.’s Exs. 4, 24.) Sunoco applied a 12 percent interest rate compounded through the date it had
+
+paid Cline his late proceeds. (Trial Tr. vol. 1, 99:16-20; Pl.’s Exs. 4, 24.) When Cline did not
+
+cash the check, Sunoco sent Cline a letter asking Cline to respond and explaining that failure to
+
+respond would lead Sunoco to deem the funds as unclaimed, which could have resulted in the
+
+money going to Oklahoma’s unclaimed property agency. (Trial Tr. vol. 1, 110:9 to 111:21; Pl.’s
+
+Ex. 476.) To date, Cline has not cashed Sunoco’s check. (Trial Tr. vol. 2, 445:10-19.)
+
+       As a result of this litigation, Sunoco has decided to stop paying proceeds and interest in
+
+Oklahoma. (Trial Tr. vol. 1, 74:10 to 75:19.)
+
+
+
+
+                                                11
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 12 of 48
+
+
+
+
+                                  2. The Amount of Interest Due
+                                    Because of Late Payments
+
+       Sunoco owes millions of dollars in interest on late payments. To prove the precise amount
+
+due, Cline relied on the expert testimony of Barbara Ley, a certified public accountant who has
+
+extensive experience with accounting in the oil and gas industry. (See, e.g., Trial Tr. vol. 3, 493:4
+
+to 510:15.) Ley testified credibly, and described a thorough and defensible method of calculating
+
+the amount due from Sunoco. Ley received information from Sunoco to create a database of
+
+individual owner information and to determine whether each payment was late based on that data.
+
+(Id. 510:17 to 588:12.) Sunoco’s data identifies the date proceeds were sold, the date Sunoco paid
+
+proceeds to an owner, and the amount of the proceeds. (Trial Tr. vol. 1, 89:3-15.) To the extent
+
+she could, Ley checked the sale date against public records. (Trial Tr. vol. 3, 519:4 to 520:17.)
+
+She also reviewed depositions and other documents produced in the case, and was present in the
+
+courtroom during the majority of the trial. (Id. 505:1-24). Sunoco agrees that Ley’s data reliably
+
+reflects the sale date, payment date, and amount of proceeds. (Id. 90:8-20.)
+
+       Ley removed some late payments from her database because they fell outside the class
+
+certification definition. She did this based on Sunoco’s accounting data, Sunoco’s suspense
+
+codes,11 and discussions with class counsel and Sunoco’s experts. (Id. 561:9 to 570:4, 587:14 to
+
+588:12.) Further, Ley excluded payments made to unclaimed property funds12 when Sunoco
+
+issued a check to the interest owner on time. (Id. 580:21 to 582:7.) Thus, she did not include
+
+payments to unclaimed funds if Sunoco previously sent a timely check to the owner that went
+
+
+
+       11
+          Suspense codes are Sunoco’s administrative notes about delayed payments. In relying
+on Sunoco’s suspense codes, Ley bent over backwards to give Sunoco the benefit of the doubt. As
+discussed below, even Sunoco’s own experts say that the suspense codes do not give reliable
+information about the reasons for late payments.
+       12
+            Unclaimed property payments are discussed below.
+                                                 12
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 13 of 48
+
+
+
+
+uncashed.     (Id. 580:21 to 582:13.)     She also excluded statutory interest payments Sunoco
+
+previously made during the class period for the types of payments at issue in this case. (Id. 574:15
+
+to 575:5.) All told, Ley only considered liability for interest on late payments falling within the
+
+class definition. (Id. 589:5-17.)
+
+       Ley determined that Sunoco made 1,596,945 late payments to approximately 53,000 class
+
+members. (Id. 554:8-12, 568:21 to 569:1; Pl.’s Ex. 454.) As of December 16, 2019, Sunoco owed
+
+$74,763,113.00 in late interest payments, based on a 12 percent interest rate compounded
+
+annually.13 (Trial Tr. vol. 3, 571:23 to 572:5.)
+
+                            C. Evidence Related to Sunoco’s Defenses
+
+                                    1. Unclaimed Property Funds14
+
+       Sunoco says that it should not have to pay interest on proceeds it pays to unclaimed
+
+property funds. Each state has created by statute a government agency that collects money held
+
+
+
+       13
+            Because the actual damages in this case include amounts that will continue to compound
+until the Court enters judgment, the Court must explain its reference point for damages. At trial,
+Cline presented a damages figure of $74,763,113.00 based on Ley’s calculations. (Trial Tr. vol.
+3, 571:23 to 572:5.) That figure represented the statutory interest due on the late payments through
+December 16, 2019, less interest Sunoco already paid and any opt-outs received during the class
+notification process as of the first day of trial. (Id. 572:9 to 576:25.) For ease, the Court will base
+its damages award off the $74,763,113.00 discussed during trial. Thus, the interest owed in this
+case is $74,763,113.00 plus any additional interest due from December 17, 2019, to the date of
+this Opinion. Further, for the reasons set forth below, the Court will apply a 12 percent interest
+rate to all the late payments.
+         After trial, however, the class administrator submitted information about additional opt-
+out requests and withdrawals of previously submitted opt-out requests. Although the Court will
+award damages based on the figure presented at trial, the Court will require counsel to submit
+updated calculations before it enters the final judgment order. Nevertheless, the Court believes it
+is appropriate to issue this Opinion and Order because the exclusion requests do not affect the
+merits of this case. Further, Sunoco had adequate notice of the additional exclusion requests well
+before closing arguments in June, 2020. Issuing this decision will stop interest from compounding
+and will enable counsel to provide a final damages calculation.
+       14
+            The parties sometimes refer to these payments as “escheat” payments.
+
+
+                                                   13
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 14 of 48
+
+
+
+
+by businesses for people who cannot be found. The agency holds the money on behalf of the true
+
+owners.
+
+       When Sunoco cannot identify or locate an owner, it eventually sends the owner’s proceeds
+
+to the unclaimed property fund of the state of the owner’s last known residence. (See, e.g., id.
+
+131:8 to 132:21.) For example, if someone stops cashing his or her checks and does not respond
+
+to the notice Sunoco sends, Sunoco sends the proceeds to the unclaimed agency of the owner’s
+
+state. It makes this payment after it holds the funds for a certain number of years set by state
+
+unclaimed property law. (Id. 265:10 to 270:2) If Sunoco does not know the address of the owner
+
+or the payment is an undivided payment, it pays unclaimed proceeds to Texas, Sunoco’s home
+
+state. (Id. 262:10-20.) When Sunoco sends unclaimed proceeds to a state, it does not send any
+
+interest owed on those proceeds. (Id. 132:22-25.)
+
+       Sunoco does not conduct an extensive search to locate unidentified or unlocated owners.
+
+(Id. 137:6 to 138:8; Lanscelin Dep. 67:24 to 69:8, 70:23 to 71:02.) Rather, if Sunoco has an
+
+address for an owner who has stopped cashing checks, it will send a division order twice to the
+
+address on file, a stale check notice, a letter notifying the owner that it may send the funds to the
+
+state as unclaimed, and a due diligence notice. (Trial Tr. vol. 1, 135:16 to 137:5, 156:8-22.)
+
+Sometimes people will respond to Sunoco’s notices, at which point Sunoco verifies the owner’s
+
+identity or ownership. (Id. 271:4 to 272:3.)15
+
+
+
+       15
+           Cline offered evidence designed to show that Sunoco did not make a bona fide effort to
+find people before sending their proceeds to unclaimed property funds. For instance, Sunoco
+claimed not to know where well owner Paul Walker lived, even though he had lived at the same
+place for decades. Fred Buxton, an oil producer, said that his company took many steps more than
+Sunoco does to find correct addresses for owners. And Sunoco threatened to send one of Cline’s
+interest checks to unclaimed property, even though it was in litigation with Cline, knew his address,
+and had frequent contact with his lawyers. While interesting, and indicative of a lackadaisical
+attitude by Sunoco, this evidence does not figure in the Court’s analysis.
+
+
+                                                 14
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 15 of 48
+
+
+
+
+                                       2. Unmarketable Title
+
+       Under the PRSA, a purchaser owes only 6 percent interest if a delay in payment occurs
+
+because the owner does not have marketable title to the oil sold. Sunoco tried to show that many
+
+of its late payments could have stemmed from the owner’s unmarketable title.
+
+       To establish unmarketability, Sunoco relied on its “suspense” codes. When Sunoco puts a
+
+payment in suspense, it does not send the money to the owner. Someone at the company makes a
+
+file entry reflecting one of fifty codes. The codes are shorthand for reasons to withhold payments.
+
+As an example, Sunoco might not make a payment if the IRS had asserted a lien over the proceeds;
+
+an employee at Sunoco would then make an entry for the code relating to IRS liens. The validity
+
+of suspense codes to establish marketability was a central issue at trial.
+
+       Sunoco called Kraettli Epperson as an expert on marketable title. Epperson testified about
+
+the title opinion process and opined that the title examination standards do not presume
+
+marketability, but that “you have to look at the record, you have to determine in essence whether
+
+it is clear that somebody owns it.” (Trial Tr. vol. 4, 707:9-16.) Thus, a title examiner must review
+
+a variety of records to determine whether title is marketable. (Id. 708:20 to 710:11.)
+
+       Epperson did not examine any titles, and could not testify that any of the owners did not
+
+have marketable title. He did talk about the suspense codes, and opined that some of them might
+
+mean that the owner did not have unmarketable title. Ultimately, however, the suspense codes
+
+were, at best, “a crude surrogate” for marketability. (Id. 715:5.) They do not give a determination
+
+that title is marketable or unmarketable. (Id. 718:9-14.) As defense counsel observed at trial,
+
+Sunoco’s employees prepared the codes to justify failure to make payments. The codes are simply
+
+an administrative tool, not an indication of marketability. (Id. 629:15-18.)
+
+
+
+
+                                                 15
+      6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 16 of 48
+
+
+
+
+         Epperson did not conduct a title search on property of any of the 53,000 owners to whom
+
+Sunoco made late payments. He offered no opinion on the state of any titles at issue in this case.
+
+                                                D. Fraud
+
+         Cline offered evidence to support his claim that Sunoco had committed fraud on owners to
+
+whom it owed interest. Essentially, Cline showed that Sunoco did not tell owners either that it
+
+owed them interest on late payments, or that it would give them interest payments if they requested
+
+it.
+
+         Sunoco did, however, provide check stubs with royalty checks. Although they generally
+
+do not mention interest, Sunoco’s check stubs do contain the information required by § 570.12.
+
+(See, e.g., Defs.’ Ex. 8; see also Closing Arg. Tr. 195:21 to 196:6.) The check stubs, however, do
+
+not indicate: (1) that Sunoco owes the owner interest and has withheld that interest; (2) how to
+
+calculate the interest Sunoco is withholding based on the data provided; or (3) that Sunoco will
+
+pay the interest if the owner requests it. (Trial Tr. vol. 3, 589:19 to 592:2; Pl.’s Ex. 520.) On the
+
+occasions when Sunoco pays interest, it notes the payment on the check stub with an “interest
+
+payment” code. (Trial Tr. vol. 3, 514:16-20; see Pl.’s Ex. 24; Defs.’ Ex. 45.)
+
+                                             E. Eric Krause
+
+         Sunoco called Eric Krause to rebut Ley’s testimony regarding liability and damages. For
+
+the reasons set forth below, the Court will strike Krause’s testimony.
+
+                                            V. ANALYSIS
+
+                                        A. Preliminary Matters
+
+         Before turning to the merits of the case, the Court must address two preliminary matters
+
+raised by the parties at trial and in their briefs.
+
+
+
+
+                                                      16
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 17 of 48
+
+
+
+
+                                       1. Class Certification
+
+       Sunoco continues to challenge the Court’s decision to certify the class. (See, e.g., Dk. No.
+
+274, at 58-60; Dk. No. 275, at 155-65.) The Court has had multiple opportunities to consider the
+
+propriety of class certification. (See Dk. Nos. 126, 149, 186.) For the reasons set forth in its
+
+October 3, 2019 Opinion (Dk. No. 126), the Court continues to conclude that class certification is
+
+proper in this case. The evidence and trial testimony do not change the Court’s conclusions.
+
+Nevertheless, the Court will briefly address some of Sunoco’s arguments.
+
+       First, although this case requires a degree of individualized inquiry, “questions of law or
+
+fact common to class members predominate over any questions affecting only individual
+
+members.” Fed. R. Civ. P. 23(b)(3). The Court has resolved most of the issues in this case by
+
+interpreting provisions of the PRSA and applying that interpretation to the class as a whole. (See,
+
+e.g., Dk. No. 231.) The trial testimony established that Sunoco followed a practice of not paying
+
+interest until it received a request from an owner. (See, e.g., Trial Tr. vol. 1, 78:6-13, 82:20-23;
+
+Holland Dep. 102:5-19.) Ley created a methodology through which she could calculate class-wide
+
+damages based on that conduct. (Trial Tr. vol. 3, 491:21 to 594:25; Trial Tr. vol. 4, 605:10 to
+
+683:7.) Further, her computer calculations identify the precise damages for each late payment for
+
+each owner of each well.
+
+       Moreover, the trial confirmed that “a class action is superior to other available methods for
+
+fairly and efficiently adjudicating the controversy.” Fed. R. Civ. P. 23(b)(3). For the reasons set
+
+forth below, Cline will prevail on his breach of statutory interest claim on behalf of the class, which
+
+comprises approximately 53,000 class members and more than 1.5 million late payments. Cline
+
+has done this through a trial that lasted approximately one week. That outcome represents a fair
+
+and efficient way of resolving the claims without requiring individual actions.
+
+
+
+                                                  17
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 18 of 48
+
+
+
+
+       In essence, Sunoco wants to force all 53,000 victims of its scheme to file independent
+
+claims, just as it has tried to compel them to make individual requests for interests. No doubt,
+
+Sunoco hopes that the owners will abandon their claims, most of which are small, rather than incur
+
+the cost and effort to take on a behemoth. Class actions exist precisely for claims such as those
+
+presented here.
+
+       Second, to the extent that Sunoco complains that it could not possibly have presented all
+
+of its defenses at trial, Sunoco had the opportunity to at least try to do so. Instead, Sunoco did not
+
+object to finishing the trial on December 19, 2019—a day before trial was scheduled to end. (Trial
+
+Tr. vol. 4, 602:16 to 603:6.) Nor did it request any additional time to try this case. It did not even
+
+begin to analyze its own data until the eve of trial.
+
+       Sunoco continues to insist that its defenses are too individualized to present in a class
+
+action. At trial, Sunoco presented a light sampling of these defenses but failed to establish that
+
+such defenses would have overwhelmed the trial.16 Unsurprisingly, Sunoco conflates doing what
+
+is impossible with doing what is hard. No doubt, figuring out what Sunoco owes to interest owners
+
+is difficult when it has failed to comply with the PRSA for years. Had Sunoco done its homework
+
+in the years before this suit, it would have known how much interest it owes, and could have
+
+presented a compilation or summary. See Fed. R. Evid. 1006. Sunoco’s own evidence shows that
+
+it has the ability to determine what Sunoco owes interest owners; it just does not do so until asked.
+
+Thus, Sunoco’s arguments fall far short.
+
+       The Court declines to decertify the class.
+
+
+
+
+       16
+         Additionally, many of the defenses did not actually rebut Cline’s claims or carry
+Sunoco’s burden.
+
+
+                                                  18
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 19 of 48
+
+
+
+
+                                     2. Motion to Strike Krause
+
+        On December 5, 2019, Cline moved to strike the testimony and opinions of Krause,
+
+Sunoco’s expert witness on damages. (Dk. No. 207.) Cline argues that Sunoco disclosed Krause’s
+
+opinions late in violation of the Court’s pretrial order and the Federal Rules of Civil Procedure.
+
+At trial, the Court took the motion and related objections under advisement. For the following
+
+reasons, the Court will grant the motion and sustain Cline’s objections.
+
+                                          a. Background17
+
+        The parties began discovery in 2017. Sunoco disclosed Krause as an expert in March,
+
+2019. Cline contends that Krause asked Sunoco for its suspense history data in 2018. Sunoco
+
+claims that it did not refuse to produce the historical suspense data. Rather, it asserts “that the data
+
+did not exist in [usable], accessible form in Sunoco’s accounting system, and it was only through
+
+a massive effort appropriately undertaken after the Court certified the class on October 3 that
+
+Sunoco was able to come up with it at all.” (Dk. No. 230, at 6.) It took Sunoco several weeks to
+
+compile the data in a usable format. This argument ignores the question of why Sunoco waited
+
+until after class certification to begin to think about its exposure to damages in this case.
+
+        The Court reassigned the case to the undersigned district judge on July 18, 2019. On
+
+August 5, 2019, the Court set the discovery deadline as October 18, 2019. (Dk. No. 102, at 1.)
+
+For expert disclosures, the Court set the following deadlines: initial disclosures for the party with
+
+burden of proof on an issue were due October 25, 2019; the opposing party’s disclosures were due
+
+on November 1, 2019; and rebuttal expert disclosures were due on November 8, 2019. (Id. at 2.)
+
+
+
+
+        17
+           Because Cline filed this motion before trial, the Court summarizes the relevant facts as
+set forth in the parties’ briefs.
+                                                  19
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 20 of 48
+
+
+
+
+       Sunoco served Krause’s initial expert report on November 1, 2019. In the report, Krause
+
+explained that Sunoco provided him with the data he needed to render certain opinions on October
+
+31, 2019, and reserved the right to supplement his opinions “once [he was] able to complete a
+
+refined study” of the data. (Dk. No. 207-5 ¶ 49.) Based on his preliminary review of the data,
+
+however, he could not link millions of dollars of damages in Ley’s model to any suspense codes.
+
+(Id. ¶ 49 n.38.) He also opined that, even with the data, he could not determine the reason for the
+
+untimely payments. (Id.)
+
+       On November 8, 2019, Ley served her rebuttal expert report. She objected to Krause’s use
+
+of the suspense code information but nevertheless asserted that, if Sunoco met its burden of
+
+showing unmarketable title, she could incorporate those conclusions into her model. (See Dk. No.
+
+230-7 ¶¶ 5-9.) She also reserved the right to supplement her report because she understood
+
+Krause’s work to be ongoing. (Id. ¶ 11.)
+
+       Less than three weeks before trial, Krause’s expert report was not done, and his opinions
+
+were not complete. Two weeks before trial, Krause served a supplemental report “[d]ue to the
+
+complex nature of the data and because [he] received the data one day prior to [his] report being
+
+due.” (Dk. No. 207-3 ¶ 5.) He explained that he “did not have sufficient time by November 1 to
+
+perform a quantification of the effects to any damages resulting from a full analysis and evaluation
+
+of this data.” (Id.) Nevertheless, “[i]t remain[ed] [his] opinion after a full review of the suspense
+
+history data” that Ley could not use that information to fully understand the reason for an untimely
+
+payment and whether a 6 percent or 12 percent interest rate would apply. (Id.) The report also
+
+responded to the Court’s ruling on the motion to clarify. (Id. ¶ 29.) Krause’s analysis reduced the
+
+damages amount by approximately $3.5 million. (Id. ¶ 15.) Krause further opined that his
+
+
+
+
+                                                 20
+    6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 21 of 48
+
+
+
+
+damages figures would change based on work performed between completing the report and trial.
+
+(See id. ¶ 14.)
+
+        On December 3, 2019, Sunoco sent Cline a corrected version of Krause’s supplemental
+
+report. Sunoco served the materials supporting the report on December 4, 2019. Cline deposed
+
+Krause on December 5, 2019, and filed the motion to strike later that day. Sunoco contends that
+
+the “additional work [Krause] intends to do is a summary, for illustrative purposes only, of his
+
+already-disclosed opinions.” (Dk. No. 230, at 14.)
+
+        At trial, Krause testified about a number of topics, including issues related to unclaimed
+
+funds and the feasibility of using the suspense codes to determine marketable title. (Trial Tr. vol.
+
+4, 814:13 to 912:24; Trial Tr. vol. 5, 920:21 to 947:17.) He also considered evidence from the
+
+Oklahoma Corporation Commission using information he downloaded from the Internet on
+
+December 15, 2019. (Trial Tr. vol. 4, 854:19 to 858:7.) Further, Krause testified to his own
+
+calculation of damages—a number significantly lower than Ley’s calculations. (See, e.g., id.
+
+885:15 to 888:22, 896:17 to 901:3.) Cline objected to much of the testimony, including a
+
+continuing objection to the admissibility of Krause’s testimony for the reasons set forth in the
+
+motion to strike. (See id. 822:21 to 823:23, 839:23 to 840:13, 855:23 to 858:7, 870:11 to 872:5,
+
+872:15 to 873:2, 875:11 to 876:4, 890:2-3, 890:18 to 891:5.)
+
+                                        b. Legal Standard
+
+        When a party discloses the identity of its expert witness, the party must provide a written
+
+report prepared and signed by the expert that contains “a complete statement of all opinions the
+
+witness will express and the basis and reasons for them.” Fed. R. Civ. P. 26(a)(2)(B)(i). Parties
+
+must make these disclosures by the dates ordered by the court. See Fed. R. Civ. P. 26(a)(2)(D).
+
+
+
+
+                                                21
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 22 of 48
+
+
+
+
+       A party has a duty to supplement its disclosures “in a timely manner if the party learns that
+
+in some material respect the disclosure or response is incomplete or incorrect, and if the additional
+
+or corrective information has not otherwise been made known to the other parties during the
+
+discovery process or in writing.” Fed. R. Civ. P. 26(e)(1)(A). For expert reports, the duty to
+
+supplement applies to information both included in the report and given in a deposition. See Fed.
+
+R. Civ. P. 26(e)(2). The disclosures, however, “must be [made] by the time the party’s pretrial
+
+disclosures under Rule 26(a)(3) are due.” Id.
+
+       Expert reports “are necessary to allow the opposing party a reasonable opportunity to
+
+prepare for effective cross examination and perhaps arrange for expert testimony from other
+
+witnesses.” Rodgers v. Beechcraft Corp., 759 F. App’x 646, 656 (10th Cir. 2018) (alterations and
+
+quotations omitted). A party who fails to disclose or supplement information may not use that
+
+information or witness “to supply evidence” at a trial “unless the failure was substantially justified
+
+or is harmless.” Fed. R. Civ. P. 37(c)(1).
+
+       “Substantial justification requires justification . . . that could satisfy a reasonable person
+
+that parties could differ as to whether the party was required to comply with the disclosure request.
+
+The proponent’s position must have a reasonable basis in law and fact.” Nguyen v. IBP, Inc., 162
+
+F.R.D. 675, 680 (D. Kan. 1995). A failure to disclose is harmless “when there is no prejudice to
+
+the party entitled to the disclosure.” Id. The late-disclosing party bears the burden of establishing
+
+that the failure was substantially justified or harmless. See id.
+
+       A court need not make “explicit findings” about whether the failure was substantially
+
+justified or harmless. Rodgers, 759 F. App’x at 657. Rather, it must consider the following factors:
+
+(1) the prejudice or surprise to the party against whom the testimony is offered, (2) the ability of
+
+the party to cure the prejudice, (3) the extent to which introducing the testimony would disrupt the
+
+
+
+                                                 22
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 23 of 48
+
+
+
+
+trial, and (4) the moving party’s bad faith or willfulness. See id. The late-disclosing party’s
+
+conduct does not need to satisfy all factors to justify exclusion. See, e.g., SFF-TIR, LLC v.
+
+Stephenson, No. CIV 14-0369, 2020 WL 2922190, at *14 (N.D. Okla. June 3, 2020).
+
+                                           c. Application
+
+       Here, Sunoco’s disclosures were both late and incomplete. Sunoco assumed that Cline had
+
+the burden of proof regarding marketability of title. For the reasons set forth below, Sunoco bore
+
+that burden. Thus, Sunoco should have disclosed Krause’s opinions regarding marketable title on
+
+October 25, 2019. (See Dk. No. 102.) Even if Sunoco did not have the burden of proof, the final
+
+version of his report was over a month late. In any event, Krause’s disclosures gave Cline at best
+
+a high-level overview of Krause’s opinions regarding marketable title and the reliability of Ley’s
+
+methodology, but his opinions were essentially a moving target until trial. Thus, Cline did not
+
+have “a complete statement of all opinions [Krause] [would] express and the basis and reasons
+
+for” the opinions until trial. Fed. R. Civ. P. 26(a)(2)(B)(i).
+
+       Moreover, Sunoco had no reasonable justification to delay the production of its historical
+
+suspense data and the disclosure of Krause’s opinions; it simply hoped that the case would not
+
+proceed to trial. See Fed. R. Civ. P. 37(c)(1). The Court cannot overstate the prejudice that Cline
+
+suffered and the incurable nature of that prejudice. See Rodgers, 759 F. App’x at 657. Sunoco
+
+lauds itself for transforming its suspense code data into a usable format within a few weeks of the
+
+Court’s class certification decision. But discovery had been going on for nearly two years. To the
+
+extent that the reassignment of this case to the undersigned district judge changed the trial timeline,
+
+the parties knew a month and a half before discovery closed that this case would proceed to trial
+
+in December, 2019. Instead of trying to complete discovery within the required timeline, Sunoco
+
+
+
+
+                                                  23
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 24 of 48
+
+
+
+
+waited to begin these efforts until the Court certified the class and rejected Sunoco’s last-ditch
+
+effort to pick off the named plaintiff and moot this case.
+
+       When Sunoco finally produced key evidence, it did so after Ley’s first report was due.
+
+Then, Sunoco blamed Ley for creating an allegedly unreliable model in large part because she tried
+
+to discern marketable title from Sunoco’s late-produced data. Sunoco, however, created an
+
+untenable situation for Cline—either scramble through “a big new slug of data” produced after
+
+discovery closed or risk failing to meet his burden regarding liability at trial. (Trial Tr. vol. 4,
+
+622:4-5.) Cline, of course, chose the former option. Ultimately, Ley created a well-reasoned and
+
+thorough model that she testified about at trial.
+
+       Krause continued to work with the data well past the discovery and expert deadlines,
+
+leaving Cline to guess about Krause’s opinions—the exact scenario that Rule 26 and the Court’s
+
+pretrial order meant to avoid. Krause’s late disclosures significantly limited the amount of time
+
+Cline’s attorneys had to prepare for Krause’s cross-examination and required Cline to take a
+
+deposition on the eve of trial. Any argument that Cline knew the contours of Krause’s opinions
+
+ignores the fact that Sunoco’s conduct still limited class counsel’s ability to fully prepare for trial
+
+and required them to expend resources completing depositions well past the discovery deadline.
+
+Much of this case now centers on the damages Sunoco owes. Any change to the damages
+
+calculations bears on central questions in this case. Regardless of whether Sunoco acted willfully
+
+or in bad faith, Sunoco’s conduct justifies exclusion of Krause’s testimony and opinions.
+
+       On a final note, even if the Court denied the motion, Krause’s opinions would not tip this
+
+case in Sunoco’s favor. Most of the evidence presented through Krause’s testimony rests on faulty
+
+assumptions—that Cline bore the burden to prove marketable title and that Ley created an
+
+unreliable model. For the reasons set forth below, Sunoco, not Cline, bears the burden of proving
+
+
+
+                                                    24
+    6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 25 of 48
+
+
+
+
+unmarketable title, and Ley created a reliable model that satisfies Cline’s burden. Moreover,
+
+Krause’s testimony mostly echoes what Sunoco’s other witnesses have said all along—that
+
+Sunoco’s suspense codes are not reliable, and that it is too unfair to hold Sunoco liable for violating
+
+the PRSA because it would be really hard for Sunoco to straighten it all out now. These defenses
+
+do not carry the day.
+
+        For the foregoing reasons, the Court will grant the motion to strike and will sustain Cline’s
+
+objections to Krause’s testimony.
+
+                 B. Count One: Breach of Statutory Obligation to Pay Interest
+
+                                             1. Liability
+
+        Cline has met his burden of proving liability by a preponderance of the evidence for the
+
+entire class.
+
+        For the reasons set forth in the Court’s December 10, 2019 Opinion, “[t]he PRSA requires
+
+Sunoco to pay interest on late payments at the same time it makes those payments, and Sunoco
+
+cannot require an interest owner to make a demand for payment before paying that interest.” (Dk.
+
+No. 231, at 13.) Sunoco’s representative at trial, Eric Koelling, acknowledged that Sunoco
+
+sometimes pays proceeds late and does not automatically remit interest with the late proceeds.
+
+(Trial Tr. vol. 1, 77:19 to 78:9.) Koelling also acknowledged that Sunoco generally only pays
+
+interest when owners ask for it. (Id. 78:10-13.) Koelling further agreed that Sunoco had already
+
+sent every class member a check for proceeds and that “there is no issue about whether those
+
+people have a right to be paid their principal proceeds.” (Id. 159:3-12.)
+
+        Ignoring the evidence at trial, Sunoco says that the Court must consider the file of every
+
+single class member—that it must conduct thousands of mini-trials. As the Court described above,
+
+however, Ley conducted a thorough and individual assessment of more than 1.5 million late
+
+
+
+                                                  25
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 26 of 48
+
+
+
+
+payments. (See Trial Tr. vol. 3, 510:17 to 588:12; Pl.’s Ex. 454.) She determined the date payment
+
+was due, and the date it was made. She calculated interest. She identified payments that fell
+
+outside of the class and excluded those payments from her calculations. (Trial Tr. vol. 3, 561:9 to
+
+570:4, 580:21 to 582:13, 587:14 to 588:12.) This methodology proves liability by a preponderance
+
+of the evidence.
+
+       Nevertheless, Sunoco attacks Ley’s method as unreliable, mainly arguing that she cannot
+
+accurately determine marketable title issues. As discussed below, Sunoco, not Cline, bears the
+
+burden of proving that it withheld payments due to title issues. Thus, Sunoco’s argument that its
+
+data is unreliable merely faults Ley for being unable to meet Sunoco’s burden regarding the
+
+applicable interest rate. (See, e.g., Trial Tr. vol. 4, 618:8 to 634:11, 710:12 to 744:22.)18
+
+       Sunoco also says that Ley cannot identify payments that fall outside the class definition.
+
+Again, Sunoco fails to sufficiently challenge Ley’s methodology. Sunoco primarily relies on
+
+Krause to establish that Ley’s conclusions are unreliable or incorrect. Because the Court has struck
+
+his testimony, Sunoco cannot rely on his opinions. Even so, Krause did not identify any payments
+
+Ley categorized as late because they were paid outside of the six-month and two-month time
+
+frames. (Trial Tr. vol. 5, 937:3 to 938:8, 943:3-10.) Krause did find a few small errors in Ley’s
+
+
+
+
+       18
+           Sunoco’s focus on this point also underscores a separate flaw in its argument. The PRSA
+requires that interest accrue at 6 percent “until such time as the title to such interest becomes
+marketable.” § 570.10(D)(2)(a). When title is not marketable, Sunoco “is not [ ] required to pay
+until the other party has cleared up his title.” In re Tulsa Energy, Inc., 111 F.3d 88, 90 (10th Cir.
+1997). Interest, however, still accrues, albeit at 6 percent. At most, the defendant’s argument
+would reduce the amount of interest it owes, a defense on which it has the burden of proof. This
+litigation only focuses on interest owed on payments Sunoco already made. Thus, when Sunoco
+paid an owner the proceeds, Sunoco essentially determined that it was liable for that payment in
+some capacity.
+         To the extent that Sunoco argues that it sometimes paid owners as a “business decision,” it
+has provided little concrete evidence to rebut Ley’s methodology and conclusions regarding class-
+wide liability. (Trial Tr. vol. 1, 158:3-14.)
+                                                  26
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 27 of 48
+
+
+
+
+methodology, and relied on them to conclude that the entire model was unreliable. (See Trial Tr.
+
+vol. 3, 565:20 to 566:21; Trial Tr. vol. 4, 860:13 to 861:24; Trial Tr. vol. 5, 945:8-20.) The Court
+
+cannot resolve this case based on a hypothetical challenge. Thus, even if the Court considered
+
+Krause’s opinions, a few examples of small errors in a document spanning millions of lines of data
+
+does not undermine the credibility of Ley’s testimony or methodology.
+
+       Next, relying on Wal-Mart Stores, Inc. v. Dukes, 564 U.S. 338 (2011), Sunoco tries to
+
+characterize this litigation as a “trial by spreadsheet.” In Dukes, the Supreme Court determined
+
+that a class certified under Rule 23(b)(2) could not seek individualized money damages for
+
+violations of Title VII of the Civil Rights Act of 1964. The Supreme Court distinguished the class
+
+certified under Rule 23(b)(2) from one certified under Rule 23(b)(3), which “allows class
+
+certification in a much wider set of circumstances but with greater procedural protections.” Id. at
+
+362. The Court disagreed with the approach to determining liability, in which “[a] sample set of
+
+the class members would be selected, as to whom liability for sex discrimination and the backpay
+
+owing as a result would be determined in depositions supervised by a [special] master.” Id. at 367.
+
+Under this approach, the special master would determine “[t]he percentage of claims . . . to be
+
+valid . . . and then . . . appl[y] [that percentage] to the entire remaining class.” Id. Each class
+
+member would receive an average back pay award.
+
+       Here, the Court certified this class under Rule 23(b)(3), thereby affording the class greater
+
+protections than enjoyed by the class in Dukes. Further, the class members will not receive an
+
+average damages award based on representative claims. As explained above, Ley has examined
+
+each payment and determined liability for each class member.           Essentially, Sunoco saw a
+
+spreadsheet and cried foul. But for the above reasons, Sunoco has not endured a “trial by
+
+spreadsheet.”
+
+
+
+                                                27
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 28 of 48
+
+
+
+
+       Finally, Sunoco argues that Cline failed to prove that Sunoco alone caused the harm. Under
+
+the PRSA, “[w]here royalty proceeds are paid incorrectly as a result of an error or omission, the
+
+party whose error or omission caused the incorrect royalty payments shall be liable for the
+
+additional royalty proceeds on such production and all resulting costs or damages incurred by the
+
+party making the incorrect payment.”19 § 570.10(C)(4) (emphasis added). Under that provision’s
+
+plain language, the party causing the error or omission must pay Sunoco for costs associated with
+
+the incorrect payment. That provision, however, does not change Sunoco’s obligations to pay
+
+owners on time when it undertakes the responsibility to do so. (See Trial Tr. vol. 1, 85:21 to
+
+86:8.)20
+
+       Here, Sunoco was a first purchaser that paid owners late during the class period. Thus,
+
+Sunoco owes interest on those late payments. Accordingly, Cline has established liability under
+
+Count One.
+
+                                     2. Default Interest Rate
+
+       Next, the parties dispute whether the 12 percent interest rate or the 6 percent interest rate
+
+applies by default, and which party bears the burden of proving that the non-default rate applies.
+
+       “Legislative intent controls statutory interpretation.” Krug, 362 P.3d at 210. “The obvious
+
+overriding purpose of the [PRSA] is to ensure that royalty owners are timely paid their share of
+
+the proceeds. The [Oklahoma] Legislature has followed a path of strengthening mineral owners[’]
+
+
+
+
+       19
+         The Court assumes for the purposes of this argument that the PRSA considers a late
+payment an “incorrect payment.”
+       20
+            For the same reasons, the Court rejects Sunoco’s arguments regarding liability issues
+related to indemnity agreements. Whether Sunoco can later recover from another party for its
+liability in this lawsuit is not before the Court.
+
+
+                                                28
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 29 of 48
+
+
+
+
+rights since the [PRSA’s] inception.” Id. at 214. Against that background, the Court reaches the
+
+unremarkable conclusion that the PRSA sets forth a 12 percent default interest rate.
+
+       Under the PRSA,
+
+       [e]xcept as otherwise provided in paragraph 2 of this subsection, where proceeds
+       from the sale of oil or gas production or some portion of such proceeds are not paid
+       prior to the end of the applicable time periods provided in this section, that portion
+       not timely paid shall earn interest at the rate of twelve percent (12%) per annum
+       to be compounded annually"
+
+§ 570.10(D)(1) (emphasis added). The “paragraph 2” referred to in that provision describes when
+
+a 6 percent interest rate applies for unmarketable title. Thus, the statute defines the 6 percent
+
+interest rate as an exception, not a rule. See Roberts Ranch Co. v. Exxon Corp., 43 F. Supp. 2d
+
+1252, 1275 (W.D. Okla. 1997) (“[T]he only exception to the twelve percent interest provision is
+
+where the proceeds are not paid because the title to the royalties is not marketable, in which case
+
+the unpaid royalties bear interest at the annual rate of six percent (6%).”) The only question that
+
+remains, therefore, is who bears the burden of proving which interest rate applies in this case?
+
+       Sunoco argues that Tulsa Energy should inform the Court’s analysis. 111 F.3d 88. In
+
+Tulsa Energy, the Tenth Circuit considered whether the parties could waive the interest provision
+
+in a division order. In its analysis, the Tenth Circuit explained that “[i]t is the interest owner’s
+
+responsibility to establish marketable title so that he can receive proceeds.” Id. at 90. The court
+
+then concluded that parties may waive the 6 percent interest rate because that rate “merely
+
+compensates the party entitled to payment for the use of his money until he can establish
+
+marketable title.” Id. at 91 (quotations omitted).
+
+       Here, the Court has limited the class definition to those whom Sunoco has paid proceeds
+
+but failed to pay interest. (See Dk. No. 127, at 1.) Thus, whether the class members bore the
+
+
+
+
+                                                 29
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 30 of 48
+
+
+
+
+burden of proving marketable title to receive the proceeds in the first place makes no difference.
+
+Sunoco has already remitted payments to the class in some fashion. Now, it must pay the interest.
+
+       Instead, the Court considers Quinlan v. Koch Oil Co., 25 F.3d 936 (10th Cir. 1994),
+
+instructive. In Quinlan, the Tenth Circuit rejected the argument that the plaintiff “was not entitled
+
+to twelve percent interest because he was not legally entitled to the proceeds as he failed to show
+
+either marketable title or sign a division order.” Id. at 939 (quotations omitted). Because no
+
+question as to marketability of title existed with regard to the plaintiff’s oil interest, the Tenth
+
+Circuit explained that the PRSA “did not require [the plaintiff] to make an affirmative showing of
+
+marketable title at that time in order to be deemed ‘legally entitled to the proceeds.’” Id. at 939-
+
+40. Further, the Tenth Circuit declined to impose a burden on the interest owner to prove
+
+marketable title for every royalty payment.
+
+       Unmarketability is, in essence, an affirmative defense. In making its argument, Sunoco
+
+agrees it owes some interest under the statute, but says that those payments falls into an exception
+
+to the general rule. The burden of proving an affirmative defense rests with the defendant.
+
+Meacham v. Knolls Atomic Power Lab., 554 U.S. 84, 92 (2008); NLRB v. Transp. Mgmt. Corp.,
+
+462 U.S. 393, 400 (1983); Roberts v. Barreras, 484 F.3d 1236, 1241 (10th Cir. 2007) (“[T]he
+
+burden of proving all affirmative defenses rests on the defendant.”). The burden is not only to put
+
+the defense in issue, but also to ultimately prove it. See Roberts, 484 F.3d at 1241.
+
+       Sunoco’s entire argument rests on its suspense codes. But its own witness called them a
+
+“crude surrogate” for issues of marketability. (See Trial Tr. vol. 4, 715:5.) Sunoco did not identify
+
+a single case in which an owner did not have marketable title. In fact, Sunoco has already paid
+
+owners their proceeds and has not raised any legitimate questions about marketability. Thus,
+
+
+
+
+                                                 30
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 31 of 48
+
+
+
+
+applying Quinlan’s holding more broadly, the Court concludes that the PRSA imposes the burden
+
+on Sunoco—not Cline—to prove that it withheld the payments at issue due to unmarketable title.21
+
+        In sum, the PRSA requires first purchasers and holders of proceeds, such as Sunoco, to pay
+
+12 percent interest on late payments by default. The first purchaser and holder of proceeds bears
+
+the burden of proving that it withheld payment due to unmarketable title such that it only owes 6
+
+percent interest on the late payment. Accordingly, Sunoco bore the burden of establishing that a
+
+6 percent interest rate applied to any of the late payments at issue in this case.
+
+                                           3. Unclaimed Funds
+
+        The parties dispute whether (and when) Sunoco is liable for interest on unclaimed funds.
+
+Sunoco contends that it does not owe interest on these funds when it pays the funds to the state.
+
+(See, e.g., Trial Tr. vol. 1, 139:9-15.)
+
+                                              a. Standing
+
+        The class members entitled to unclaimed funds have standing to seek damages. To have
+
+standing, a plaintiff must prove (1) that he suffered an injury in fact that is “concrete and
+
+particularized and . . . actual or imminent, not conjectural or hypothetical;” (2) that the injury is
+
+“fairly traceable to the challenged action of the defendant;” and (3) that it is “likely, as opposed to
+
+merely speculative, that the injury will be redressed by the relief requested.” Tandy v. City of
+
+Wichita, 380 F.3d 1277, 1283 (10th Cir. 2004); see Lujan v. Defs. of Wildlife, 504 U.S. 555, 560-
+
+61 (1992).
+
+
+
+        21
+          Sunoco has vigorously argued that its own records are too unreliable to explain why it
+made a late payment. If the Court interpreted the PRSA to impose on the owners the burden to
+prove why Sunoco withheld payment, the Court would effectively allow Sunoco to hide behind a
+mess of its own making, claiming innocence. Moreover, Sunoco, not the owner, is in the best
+position to know the reasons Sunoco made a late payment. Thus, placing the burden on the owner
+to prove why Sunoco made a late payment would undermine the purpose of the PRSA.
+
+
+                                                  31
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 32 of 48
+
+
+
+
+         Cline has proven that all class members suffered an injury, including those entitled to
+
+unclaimed funds. For most payments to unclaimed property funds, Sunoco knew the identity of
+
+the owner. Even where Cline has not provided the precise identities for some class members,
+
+Ley’s methodology identified late payments—payments Sunoco determined it owed to someone—
+
+on which Sunoco did not pay interest. Moreover, Sunoco admitted that it does not pay interest
+
+when it sends proceeds to a state. (Trial Tr. vol. 1, 132:22-25.) As the Court explained on
+
+November 26, 2019, “the owners’ right to the funds in question . . . exists, whether the owners take
+
+possession of the funds themselves or a state holds the money for them.” (Dk. No. 186, at 1.)
+
+Once the state receives the money on behalf of the individual, the owner can claim the money.
+
+See, e.g., Okla. Stat. tit. 60, §§ 661, 663-64, 674-75; Tex. Prop. Code Ann. §§ 74.304, 74.501.
+
+Paying the state amounts to paying the owner or an agent or trustee on behalf of the owner. Thus,
+
+each class member has suffered an injury because Sunoco has withheld interest it owes to the
+
+owner.
+
+         Sunoco creatively argues that those entitled to unclaimed funds do not have a concrete
+
+injury because the owners have not asked for the proceeds, and therefore, are not aggrieved by a
+
+lack of interest. (See Dk. No. 274, at 22.) This argument implies that an owner suffers no injury
+
+if the owner never realizes that Sunoco owes the owner proceeds. No matter how one looks at it,
+
+Sunoco has kept someone else’s money, a classic example of a concrete injury. The failure to pay
+
+interest on late proceed payments—regardless of whether Sunoco has identified or located the
+
+owner—“affect[s] the [owner] in a personal and individual way,” creating an injury that “actually
+
+exist[s].” Spokeo, Inc. v. Robins, 136 S. Ct. 1540, 1548 (2016), as revised (May 24, 2016).
+
+         Essentially, the owners of unclaimed funds suffer an injury at the moment Sunoco fails to
+
+pay interest on the late payment. Requesting the proceeds or interest, therefore, cannot be a
+
+
+
+                                                32
+    6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 33 of 48
+
+
+
+
+precondition to suffering an injury for Sunoco’s violation of the PRSA for failing to pay interest
+
+on late payments without a request.
+
+        Next, Sunoco argues that it has not caused the unidentified class members’ injuries because
+
+those class members have not claimed their proceeds. (Dk. No. 274, at 23.) This argument is a
+
+thinly veiled effort to shift the blame to those who had a right to the money in the first place. The
+
+PRSA requires Sunoco to pay interest on proceeds, which Sunoco did not pay. Thus, Sunoco
+
+caused the class members’ injuries. See Nova Health Sys. v. Gandy, 416 F.3d 1149, 1156 (10th
+
+Cir. 2005) (“Article III . . . require[s] proof of a substantial likelihood that the defendant’s conduct
+
+caused plaintiff’s injury in fact.”).
+
+        Finally, Sunoco argues that Cline has not established redressability because “a judgment
+
+awarding interest to the owners of unclaimed proceeds likely would be of no practical benefit to
+
+them.” (Dk. No. 274, at 23.) As with the injury analysis, Sunoco asks the Court to relieve it of its
+
+legal obligations because a royalty interest owner has not yet claimed the funds. This argument
+
+“misconstrue[s] the nature of [the] redressability inquiry.” Sprint Commc’ns Co., L.P. v. APCC
+
+Servs., Inc., 554 U.S. 269, 286 (2008). The Court must consider “whether the injury that a plaintiff
+
+alleges is likely to be redressed through the litigation.” Id. at 287. The Court’s judgment must
+
+“redress[ ] the plaintiff’s injury . . . directly or indirectly.” Nova Health Sys., 416 F.3d at 1159.
+
+“[T]he requirement of redressability ensures that the injury can likely be ameliorated by a favorable
+
+decision.” S. Utah Wilderness All. v. Office of Surface Mining Reclamation & Enf’t, 620 F.3d
+
+1227, 1233 (10th Cir. 2010).
+
+        Here, the class members’ injuries occurred when Sunoco made a late payment without the
+
+required interest. An award of damages will compensate the unidentified or unlocated owners for
+
+the interest owed on those late payments. Once the relevant state receives the damages award on
+
+
+
+                                                  33
+    6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 34 of 48
+
+
+
+
+behalf of the owner, the owner may claim that interest at any time. At a minimum, this provides
+
+indirect relief for the injury. See Nova Health Sys., 416 F.3d at 1159. Thus, a damages award will
+
+redress the injury that each class member suffered as a result of Sunoco’s violations of the PRSA,
+
+regardless of whether the owner is identified.22 Accordingly, owners entitled to unclaimed funds
+
+have standing.
+
+                                         b. PRSA Language
+
+         The Court has already concluded that paying the state unclaimed property fund amounts to
+
+paying the owner or a trustee on behalf of the owner. (Dk. No. 186.) If Sunoco could hold
+
+proceeds without interest until it sends the proceeds to unclaimed funds, that would “contradict[ ]
+
+the purpose of the PRSA, which Oklahoma adopted to prevent exactly this kind of windfall.” (Id.
+
+at 4.)
+
+         Indeed, the Court’s analysis regarding the interest owed on unclaimed funds begins and
+
+ends with the language of the PRSA. Section 570.10 provides,
+
+         Except as otherwise provided in this section:
+
+         1. Proceeds from the sale of oil or gas production from an oil or gas well shall be
+         paid to persons legally entitled thereto:
+
+         a. commencing not later than six (6) months after the date of first sale, and
+
+         b. thereafter not later than the last day of the second succeeding month after the end
+         of the month within which such production is sold.
+
+§ 570.10(B)(1) (emphasis added). The PRSA, therefore, sets forth the precise timeframes by
+
+which Sunoco must pay proceeds. The PRSA further excepts certain payments from its timing
+
+
+
+
+         22
+          Because the injuries to the unidentified or unlocated owners of unclaimed funds have
+already occurred, their claims are ripe for adjudication. See Texas v. United States, 523 U.S. 296,
+300 (1998) (“A claim is not ripe for adjudication if it rests upon contingent future events that may
+not occur as anticipated, or indeed may not occur at all.” (quotations omitted)).
+                                                  34
+    6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 35 of 48
+
+
+
+
+requirements. See, e.g., § 570.10(B)(3). Those exceptions do not include unclaimed funds. See
+
+World Pub’g Co. v. Miller, 32 P.3d 829, 833 (Okla. 2001) (“Th[e] [Oklahoma Supreme] Court
+
+does not read exceptions into a statute not made by the Legislature.”). The PRSA’s timing
+
+requirements, therefore, apply to unclaimed funds.
+
+        Moreover, because interest accrues “until the date paid,” interest accrues until the
+
+proceeds—including interest on late payments—are paid to the relevant state.23 See, e.g., Okla.
+
+Stat. tit. 60, §§ 661, 663-64, 674-75; Tex. Prop. Code Ann. §§ 74.304, 74.501; see also Cockerell
+
+Oil Props., Ltd v. Unit Petroleum Co., No. CIV-16-135, 2020 WL 2110904, at *2 (E.D. Okla. May
+
+4, 2020) (“The term as used in the PRSA is, therefore, found to be unambiguous and providing for
+
+the annual accrual of interest on the accumulated interest on any unpaid proceeds not paid timely
+
+under the provisions of that statute.”).
+
+        Accordingly, Sunoco must pay interest on unclaimed funds from the date the interest
+
+payment is late under the PRSA through the date it remits those funds as unclaimed property to
+
+the relevant state.24
+
+
+
+        23
+          Sunoco lodges a bevy of challenges related to unclaimed funds, including that unclaimed
+funds involve numerous individual questions and that the unclaimed funds statutes of each state
+conflict with the PRSA and implicate constitutional concerns. The Court rejects those arguments.
+Sunoco has previously sent payments to unclaimed funds, so it can identify the state to which the
+payment is due. (See, e.g., 131:8 to 139:25.) Sunoco has also summarized the period of time that
+must elapse before a state considers property abandoned. (Dk. No. 275, at 98-99.) Further, the
+PRSA requires Sunoco to pay proceeds on time and creates a consequence for not doing so; the
+unclaimed funds statutes set timelines for remitting the funds only if Sunoco’s efforts to locate
+owners do not work. Thus, despite the deadline in the unclaimed funds statutes, Sunoco remains
+free to try to locate and identify the owners. Sunoco, therefore, has failed to show that
+(1) individual questions predominate in this regard; (2) the various states’ unclaimed funds statutes
+conflict with the PRSA’s interest payment requirements or otherwise control in this case; or (3) any
+purported conflicts between the PRSA timing requirements and the unclaimed funds statutes raise
+due process concerns.
+
+        The Court rejects Sunoco’s argument that it should be excused from complying with the
+        24
+
+PRSA because it relied on industry custom and could not possibly determine the applicable interest
+                                                 35
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 36 of 48
+
+
+
+
+                                      4. Compound Interest
+
+       Sunoco argues that once it makes the late payment to the interest owner, statutory interest
+
+stops accruing. Cline contends that Sunoco owes compound interest until Sunoco pays the
+
+statutory interest. Sunoco refers to this as “interest on interest,” in an attempt to make it sound
+
+like something exotic or unusual. In fact, compound interest is a common feature in investments
+
+and means simply that interest becomes part of the principal and therefore earns interest. See Kate
+
+Ashford,    What    is   Compound      Interest?,     Forbes   (Aug.    12,   2020,    1:18      p.m.),
+
+https://www.forbes.com/advisor/investing/compound-interest/.
+
+       Under the PRSA,
+
+       where proceeds from the sale of oil or gas production or some portion of such
+       proceeds are not paid prior to the end of the applicable time periods provided in this
+       section, that portion not timely paid shall earn interest at the rate of twelve percent
+       (12%) per annum to be compounded annually, calculated from the end of the month
+       in which such production is sold until the day paid.
+
+§ 570.10(D)(1). Essentially, Sunoco interprets “until the day paid” to mean “until the day Sunoco
+
+paid the proceeds.” Thus, Sunoco argues that it does not owe compound interest.
+
+
+
+
+rate at the same time it makes a late payment. Moreover, Sunoco’s repeated proclamations that it
+simply misinterpreted the law falls short. If Sunoco could escape liability because it misinterpreted
+the statute or because it believed its actions were legal because everyone else was doing it, that
+would undermine the remedy enacted by the Oklahoma Legislature to address the precise conduct
+that Sunoco has engaged in. Cf. Creekmore v. Pomeroy IT Sols., Inc., No. 10-cv-0091, 2010 WL
+3702543, at *2 (N.D. Okla. Sept. 16, 2010) (“Permitting a defendant to plead ignorance of the
+requirements of the Testing Act would have virtually eliminated the civil remedy created by the
+Testing Act, and would have reserved a civil remedy only for the most extreme violations.”
+(quotations omitted)). Further, Sunoco presented testimony that shows that compliance may have
+been difficult, but it failed to establish that compliance was impossible. Indeed, Sunoco could
+calculate interest when someone requested interest. (See, e.g., Trial Tr. vol. 1, 90:8-20, 99:8-15;
+Holland Dep. 34:8-24.) To the extent that Sunoco argues that the PRSA is void for vagueness, the
+fact that Sunoco misunderstood the PRSA’s requirements does not make the PRSA “so vague and
+indefinite as really to be no rule or standard at all.” A.B. Small Co. v. Am. Sugar Ref. Co., 267
+U.S. 233, 239 (1925).
+
+
+                                                 36
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 37 of 48
+
+
+
+
+        The Court recently resolved this question in a different case, concluding that the plain
+
+language of the PRSA “provides for compounding of interest until the full amount—the proceeds
+
+due and the accrued interest—are paid in accordance with the terms of the statute,” Cockerell Oil
+
+Props., 2020 WL 2110904, at *1-2 (emphasis added). The Court finds Cockerell Oil persuasive
+
+and adopts the reasoning set forth therein. Id. Further, Ley’s model adequately compounds interest
+
+on the payments at issue in this case. (See, e.g., Trial Tr. vol. 3, 526:23 to 527:25.) Accordingly,
+
+the PRSA requires Sunoco to pay interest on interest, and Ley’s model adequately calculates
+
+compound interest for the payments at issue in this case.
+
+                                       C. Count Two: Fraud
+
+        Cline has not proven fraud.       Oklahoma recognizes two types of fraud—actual and
+
+constructive. “To be actionable, both actual fraud and constructive fraud require detrimental
+
+reliance by the person complaining.” Howell v. Texaco Inc., 112 P.3d 1154, 1161 (Okla. 2004).
+
+“Fraud is never presumed, but must be proven by clear and convincing evidence.” 25 Tice v. Tice,
+
+672 P.2d 1168, 1171 (Okla. 1983).
+
+        As explained above, the PRSA sets forth the information Sunoco must include when it
+
+remits payment. See § 570.12. “The PRSA . . . give[s] the royalty owners a right to be accurately
+
+informed of the facts and place[s] a legal duty on the [first purchasers and holders of proceeds] to
+
+accurately inform the plaintiffs of the facts on which the royalty payments are based.” Howell,
+
+112 P.3d at 1161. The plain language of the PRSA creates a legal duty for Sunoco to provide the
+
+information set forth in § 570.12. See id.
+
+
+
+
+        25
+          “[C]lear and convincing evidence is the measure or degree of proof which will produce
+in the mind of the trier of fact a firm belief or conviction as to the truth of the allegation sought to
+be established.” In re C.D.P.F., 243 P.3d 21, 23 (Okla. 2010).
+                                                  37
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 38 of 48
+
+
+
+
+       Cline does not argue that Sunoco failed to comply with the PRSA’s explicit requirements
+
+under § 570.12. (Closing Arg. Tr. 196:2-6); cf. Howell, 112 P.3d at 1161 (“The respondents failed
+
+to include any statements or evidentiary materials in their motions for partial summary judgment
+
+showing that they complied with the PRSA.”). Compare § 570.12, with (Pl.’s Ex. 520). Rather,
+
+Cline contends the class relied on Sunoco’s “material misrepresentations and omissions to their
+
+detriment” because “[t]hey cashed the checks they received from Sunoco believing that Sunoco
+
+paid them all the monies they were owed.” (Dk. No. 272, at 43.)
+
+       The Court doubts that an additional duty exists for Sunoco to inform interest owners that
+
+it withheld interest from a late payment. See Wylie v. Chesser, 173 P.3d 64, 71 (Okla. 2007) (“If
+
+a statute is plain and unambiguous and its meaning clear and no occasion exists for the application
+
+of rules of construction a statute will be accorded the meaning expressed by the language used.”).
+
+In any event, Cline has failed to establish class-wide detrimental reliance based on Sunoco’s check
+
+stubs. For instance, owners entitled to interest on unclaimed funds did not cash—and likely, did
+
+not see—the checks. Thus, Cline has not shown that those class members have relied on the
+
+information contained on the check stubs. See Buford White Lumber Co. Profit Sharing & Sav.
+
+Plan & Tr. v. Octagon Props., Ltd., 740 F. Supp. 1553, 1570 (W.D. Okla. 1989) (“The alleged
+
+misrepresentations need not be the sole inducement which causes a party to take action, but they
+
+must be that without which the party would not have acted.” (emphasis added)). Moreover, the
+
+information on the check stubs allowed an owner to determine whether she had received interest
+
+and, if so, in what amount. Accordingly, Cline has not proven class-wide detrimental reliance by
+
+clear and convincing evidence sufficient to prove fraud.
+
+
+
+
+                                                38
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 39 of 48
+
+
+
+
+                                            D. Relief26
+
+                                       1. Actual Damages27
+
+                                        a. Damages Award
+
+       For the reasons set forth above, Cline has established class-wide liability, and Sunoco must
+
+pay compound interest. Further, the Court has concluded that the PRSA applies a 12 percent
+
+interest rate to unpaid proceeds by default, and that Sunoco bears the burden of proving when a 6
+
+percent interest rate applies. Unfortunately for Sunoco, it has failed to meet its burden of proving
+
+that 6 percent interest applies to any of the late payments.
+
+       Sunoco repeatedly emphasized that its own data cannot reliably establish why a payment
+
+was late. (See, e.g., Trial Tr. vol. 1, 222:2-7, 223:17-25.) Epperson opined that the codes were
+
+“simply a crude surrogate” for identifying payments made due to unmarketable title. (Trial Tr.
+
+vol. 4, 715:5.) He also agreed that none “of [Sunoco’s] codes provide a definitively accurate
+
+determination of marketability or unmarketability without doing a more elaborate search of
+
+Sunoco’s records and potentially even public records.” (Id. 718:9-14.) Further, at trial, Koelling
+
+explained that the ability to locate an interest owner does not mean that the owner has marketable
+
+title. (Trial Tr. vol 1, 133:23-25.) Under that reasoning, the inverse is also true—being unable to
+
+
+
+       26
+            Based on the post-trial briefs and closing arguments, Cline no longer seeks equitable
+relief if the Court awards actual and punitive damages. (See, e.g., Dk. No. 272, at 53.) Because
+the Court will award those damages, it will not award an accounting, disgorgement, or an
+injunction.
+       27
+          Sunoco argues that “Cline . . . concedes that the actual class damages claimed at trial
+($74,763,113) should be reduced by $8,033,00.60 for the ‘undivided’ category of unclaimed funds
+paid to the states and by $5,790,028 based on the Krause identification of payments associated
+with Epperson’s ‘unmarketable’ suspense codes.” (Dk. No. 279, at 28.) Cline, however, only
+agrees to reduce the damages award by those amounts if the Court concludes that Sunoco met its
+burden of proving unmarketable title at trial. (See Closing Arg. Tr. 16:23 to 17:2; see also Dk.
+No. 272, at 20.) Accordingly, the Court will consider whether Sunoco has met its burden of
+proving marketable title as to those two figures.
+                                                 39
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 40 of 48
+
+
+
+
+locate an interest owner does not mean that that owner has unmarketable title. Indeed, Sunoco has
+
+not proffered—nor could the Court find—any authority holding that a company’s inability to
+
+locate or identify an owner makes the title to that owner’s interest unmarketable per se.
+
+        In sum, Sunoco has failed to establish by a preponderance of the evidence that Sunoco
+
+withheld any of the late payments at issue due to unmarketable title. Accordingly, 12 percent
+
+interest applies to all late payments in this case.28
+
+                                          b. Fluid Damages
+
+        Relying primarily on Eisen v. Carlisle & Jacquelin,29 Sunoco contends that the presence
+
+of unidentified class members deprives Sunoco of its due process rights, making a damages award
+
+unconstitutional. (Dk. No. 274, at 49-50.) As noted above, Cline has offered evidence that
+
+questions whether many of these individuals truly cannot be located. In any event, Sunoco has
+
+misplaced its reliance on Eisen.
+
+
+
+
+        28
+           The Court construes Sunoco’s argument that the class did not mitigate its damages
+because owners failed to provide Sunoco with updated contact information as a challenge to the
+Court’s class certification decision. To the extent that Sunoco also raises this argument as a
+challenge to liability and damages, that argument ignores that the PRSA requires Sunoco to pay
+interest regardless of the reason for the late payment. See § 570.10(D). For that same reason, the
+argument that a class member has waived interest by preventing payment also fails. Further, the
+Court rejects Sunoco’s argument that some class members may have waived interest by contract.
+First, Sunoco did not prove by a preponderance of the evidence that the class members were parties
+to contracts waiving the interest requirement. Second, as explained above, the Court concludes
+that a 12 percent interest rate applies to all late payments in this case. In Tulsa Energy, the Tenth
+Circuit held that parties cannot waive the 12 percent interest rate for public policy reasons. 111
+F.3d at 90. Although Sunoco argues that the Oklahoma Supreme Court later concluded that PRSA
+claims are contractual, see Purcell v. Santa Fe Minerals, 961 P.2d 188, 193 (Okla. 1998)—
+implying that a party can now waive that interest—neither the Oklahoma Supreme Court nor the
+Tenth Circuit have cast doubt on the holding in Tulsa Energy. Thus, pursuant to Tulsa Energy,
+the parties cannot waive the 12 percent interest rate requirement.
+        29
+             479 F.2d 1005 (2d Cir. 1973), vacated on other grounds, 417 U.S. 156 (1974).
+                                                   40
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 41 of 48
+
+
+
+
+       Eisen involved a six-million-member class of individuals throughout the world who bought
+
+or sold odd lots on the New York Stock Exchange from 1962 through 1966. Millions of
+
+unidentified class members would receive notice by publication through extensive efforts. After
+
+several appeals, the district judge substituted individual claimants for “the class as a whole.” Eisen,
+
+479 F.2d at 1010. Under the district court’s plan, after the defendants distributed the damages
+
+award to the court, counsel would continue to publish notices soliciting claims. Importantly, the
+
+U.S. Court of Appeals for the Second Circuit suspected that few individuals would ever be
+
+identified or file claims, and the court could not discern how the district court expected to disburse
+
+the remainder of the “huge residue.” Id. at 1010-11. The Court further noted that “the expenses
+
+of giving the notices required by . . . Rule 23 and the general costs of administration of the action
+
+would exceed the amount due to the few members of the class who filed claims and the individual
+
+members of the class would get nothing.” Id. at 1018.
+
+       This case does not present the same manageability problems at issue in Eisen. The Court
+
+has not substituted individual claimants with the class as a whole. Nor has Ley’s methodology
+
+simply aggregated damages into one lump payment without considering Sunoco’s liability to every
+
+class member. Rather, Ley has calculated individual damages through a standard methodology,
+
+and Sunoco has had the opportunity to rebut those calculations. See McLaughlin v. Am. Tobacco
+
+Co., 522 F.3d 215, 232 (2d Cir. 2008), abrogated on other grounds by Bridge v. Phx. Bond &
+
+Indem. Co., 553 U.S. 639 (2008) (explaining the right to raise individual defenses against the class
+
+members “does not mean that defendants are constitutionally entitled to compel a parade of
+
+individual plaintiffs to establish damages” (quotations omitted)). Moreover, this action is far from
+
+“hopelessly unmanageable” due to the unidentified class members. Eisen, 479 F.2d at 1010. To
+
+
+
+
+                                                  41
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 42 of 48
+
+
+
+
+the extent that Cline cannot identify the owner owed the funds, Cline need only send that member’s
+
+portion of the damages to the same place Sunoco remitted the underlying unclaimed funds.
+
+       Accordingly, recovery in this case does not “mask the prevalence of individual issues [such
+
+that] it is an impermissible affront to defendants’ due process rights.” McLaughlin, 522 F.3d at
+
+232.
+
+                                     2. Punitive Damages30
+
+       Cline must clear two hurdles to receive punitive damages: first, Cline must show that
+
+Sunoco’s conduct meets the standard set forth in the Energy Litigation Reform Act (“ELRA”),
+
+Okla. Stat. tit. 52, § 903; and second, Cline must show that Sunoco’s conduct meets the
+
+requirements set forth in Oklahoma’s punitive damages statute, Okla. Stat. tit. 23, § 9.1.
+
+                                             a. ELRA
+
+       Under the ELRA, the PRSA “provide[s] the exclusive remedy to a person entitled to
+
+proceeds from production for failure of a holder to pay the proceeds within the time periods
+
+required for payment.” § 903. A plaintiff may recover punitive damages, however, if the Court
+
+determines
+
+       upon clear and convincing evidence that the holder who failed to pay such proceeds
+       did so with the actual, knowing[,] and willful intent: (a) to deceive the person to
+       whom the proceeds were due, or (b) to deprive proceeds from the person the holder
+       knows, or is aware, is legally entitled thereto.
+
+Id. Cline, therefore, must first show that Sunoco’s conduct overcomes the ELRA’s bar to punitive
+
+damages.
+
+
+
+
+       30
+          In its motion to dismiss, Sunoco argued that Cline waived his claim to punitive damages
+by failing to include those damages in his initial disclosures. (Dk. No. 117, at 3, 11-12.) Sunoco
+never moved to strike that request.
+
+
+                                                42
+    6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 43 of 48
+
+
+
+
+        As an initial matter, Sunoco argues that the ELRA only applies to claims for “proceeds,”
+
+not “interest.” But “it is the failure to timely pay ‘proceeds’ that leads to the recovery of ‘interest.’”
+
+Cockerell Oil Props., Ltd v. Unit Petroleum Co., No. CIV-16-135, 2020 WL 974875, at *6 (E.D.
+
+Okla. Feb. 28, 2020), modified on other grounds on reconsideration, 2020 WL 2110904. Thus,
+
+the ELRA does not bar Cline’s claim in that respect.
+
+        Next, the Court concludes that Sunoco acted with “the actual, knowing[,] and willful
+
+intent: . . . to deprive proceeds from the person the holder knows, or is aware, is legally entitled
+
+thereto.” § 903. Sunoco says that it had a good faith belief that it did not have to pay interest
+
+automatically based in large part on industry practice. (See Dk. No. 274, at 46.)
+
+        As thousands of mothers have told their children, the fact that everyone does something
+
+does not make it right. Here, an industry (apparently supported by its lawyers) decided that it owes
+
+interest that it never has to pay. This myopic group-think does not excuse keeping millions of
+
+dollars of other people’s money.
+
+        At trial, Koelling confirmed that Sunoco knew that it owed interest to royalty owners for
+
+the late payments. (Trial Tr. vol. 1, 82:20 to 85:19.) Sunoco also admitted that it generally waited
+
+for owners to ask for that interest rather than pay the interest automatically. (Id. 78:6-9, 82:20 to
+
+83:23.) Further, Cline introduced other evidence, such as emails, that established that Sunoco is
+
+aware of its legal obligation to pay interest and its intent to keep the interest absent a request,
+
+thereby depriving owners of the interest Sunoco owed them. (See, e.g., Pl.’s Ex. 38.)
+
+        Thus, Cline proved by clear and convincing evidence that Sunoco knew it owed interest
+
+payments and intentionally withheld that interest until—and unless—the owner finally asked for
+
+the interest. Accordingly, the ELRA allows punitive damages in this case.
+
+
+
+
+                                                   43
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 44 of 48
+
+
+
+
+                            b. Oklahoma’s Punitive Damages Statute31
+
+       Cline seeks an award of punitive damages equal to twice the class’ actual damages, or in
+
+the alternative, to the amount of the class’ actual damages.
+
+       When the factfinder finds by clear and convincing evidence that the defendant acted with
+
+reckless disregard for the rights of others, the Court may award punitive damages equal to the
+
+amount of actual damages awarded. Okla. Stat. tit. 23, § 9.1(B). Reckless disregard requires the
+
+plaintiff to prove that the defendant “was either aware, or did not care, that there was a substantial
+
+and unnecessary risk that [its] conduct would cause serious injury to others.” Beavers v. Victorian,
+
+38 F. Supp. 3d 1260, 1273-74 (W.D. Okla. 2014) (quoting Okla. Unif. Civil Jury Instr. 5.6).
+
+       When the factfinder finds by clear and convincing evidence that the defendant acted
+
+intentionally with malice towards others, the Court may award twice the amount of actual
+
+damages. Id. § 9.1(C). Malice “requires that the action complained of be actuated by ill will or
+
+hatred and may be inferred from a willful action in reckless or wanton disregard for the rights of
+
+another.” Chavez v. Sears, Roebuck & Co., 525 F.2d 827, 830 (10th Cir. 1975).32
+
+
+
+       31
+          Sunoco argues that Cline cannot recover for punitive damages pursuant to Oklahoma’s
+punitive damages statute because the punitive damages statute only applies to actions “for the
+breach of an obligation not arising from contract.” § 9.1(A). Sunoco says that PRSA claims are
+contractual in nature. The cases Sunoco relies on considered PRSA claims as contractual for the
+purposes of determining (1) the statute of limitations, Purcell, 961 P.2d at 193, and (2) whether a
+party owed owners interest on a settlement payment, see Krug, 362 P.3d at 210-13 (concluding
+that the PRSA was inapplicable to that case). Neither case considered whether punitive damages
+are available for the type of claim at issue here, and the ELRA specifically contemplates an award
+of punitive damages if the defendant’s conduct meets its threshold requirements. See § 903.
+“Clearly, an exception exists under the [ELRA] for the availability of a punitive damage claim,
+should [the plaintiff] make the appropriate showing,” Cockerell Oil Props., 2020 WL 974875, at
+*6. Accordingly, § 9.1 does not bar recovery for punitive damages.
+       32
+          See Hamilton v. Amwar Petroleum Co., 769 P.2d 146, 149 (Okla. 1989) (“Showings
+necessary for a punitive damage award require a higher standard of culpability, i.e., fraud[,]
+oppression[,] or malice which is accompanied with some evil intent or recklessly wanton conduct
+as is deemed its equivalent in the law.”).
+                                                 44
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 45 of 48
+
+
+
+
+       To determine the amount of punitive damages to award, the Court must consider:
+
+       1. The seriousness of the hazard to the public arising from the defendant’s
+       misconduct;
+       2. The profitability of the misconduct to the defendant;
+       3. The duration of the misconduct and any concealment of it;
+       4. The degree of the defendant’s awareness of the hazard and of its excessiveness;
+       5. The attitude and conduct of the defendant upon discovery of the misconduct or
+       hazard;
+       6. In the case of a defendant which is a corporation or other entity, the number and
+       level of employees involved in causing or concealing the misconduct; and
+       7. The financial condition of the defendant.
+
+§ 9.1(A).
+
+       Seriousness and profitability of the misconduct. The public has suffered an enormous
+
+loss in this case. Sunoco urges the Court to consider that it pays almost all proceeds either early
+
+or on time. But as of December 16, 2019, Sunoco had withheld more than $74 million on more
+
+than 1.5 million late payments. (Trial Tr. vol. 3, 554:2-12, 572:5; Pl.’s Ex. 454.) Moreover,
+
+Sunoco withheld payments from over 50,000 class members. (Trial Tr. vol. 3, 568:21 to 569:1.)
+
+Despite that large number of class members and late payments, Sunoco does not get many requests
+
+for interest each year. (See, e.g., Trial Tr. vol. 1, 83:21-24; Holland. Dep. 33:5-15; Pl.’s Ex. 62.)
+
+Thus, Sunoco has enjoyed an enormous benefit by paying owners late and then withholding
+
+interest on those late payments—particularly significant in light of the purpose of § 570.10(D).
+
+See Krug, 362 P.3d at 214.
+
+       Duration of the misconduct, concealment, and awareness. Sunoco has withheld interest
+
+until an owner asks for it for the entire class period. (See, e.g., Trial Tr. vol. 1, 78:10-13, 82:20-
+
+23; Pl.’s Ex. 43.) For the reasons set forth above, the Court concludes that Sunoco did not actively
+
+conceal that it failed to pay interest to interest owners. But Sunoco knew that it owed interest on
+
+late proceeds and failed to make any effort to identify the late payments and pay the interest owed.
+
+
+
+
+                                                 45
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 46 of 48
+
+
+
+
+(Trial Tr. vol. 1, 79:4-20.) Instead, Sunoco generally waited for a demand for payment before
+
+paying interest. (Trial Tr. vol. 1, 84:15 to 85:19, 116:3-6; Pl.’s Ex. 339.)
+
+       Attitude and conduct of Sunoco after discovery. Outside of litigation, Sunoco still has not
+
+tried to calculate the interest it owes on late payments or identify every late payment it has made
+
+in Oklahoma. (Trial Tr. vol. 1, 79:4-20.) Further, when this Court ruled that interest was due at
+
+the same time as the late payment, Sunoco decided to “get out of the business” of paying royalty
+
+proceeds altogether. (Id. 74:10-17.)
+
+       Number and level of employees involved. Sunoco did not formally train its employees on
+
+the PRSA requirements; they all received on-the-job training. (Id. 97:19 to 98:12; Holland Dep.
+
+67:1-11.) Company-wide, Sunoco generally does not pay interest unless someone asks for it.
+
+(Trial Tr. vol. 1, 82:20-23.) In limited or “unusual” circumstances, Sunoco will pay interest
+
+without a request. (Id. 83:8-11.)
+
+       Financial Condition. Sunoco’s parent company is worth approximately $30 billion.33
+
+(Pl.’s Ex. 440, at 169.) In Sunoco’s view, the unpaid interest “was never a significant dollar
+
+amount to [Sunoco]. It was never something where [Sunoco was] going to make a fortune not
+
+paying the interest.” (Trial Tr. vol. 1, 121:9-11.)
+
+       Sunoco’s conduct probably reflects malice required for a punitive damages award of
+
+double the amount of compensatory damages under § 9.1(C). Malice here is demonstrated by a
+
+willful action in reckless and wanton disregard of the rights of others—specifically keeping other
+
+people’s money. Nevertheless, the Court is reluctant to impose $150 million dollars in punitive
+
+damages. Generally, Sunoco does a good job of paying proceeds to owners on time, at a better
+
+
+
+
+       33
+         During discovery, Sunoco told Cline to look at the net worth of ETP to determine
+Sunoco’s net worth. (Trial Tr. vol. 5, 948:25 to 951:6.)
+                                                 46
+   6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 47 of 48
+
+
+
+
+rate than the petroleum industry as a whole. While it bungled its system for paying interest on late
+
+payments, an award of double the amount of compensatory damages goes a bit too far.
+
+         Sunoco’s conduct, however, certainly amounts to a reckless disregard of the class
+
+members’ rights. See § 9.1(B). Sunoco knew that it owed interest on late payments, but it made
+
+no effort to identify those payments to determine the interest it owed—much less pay that interest.
+
+(Trial Tr. vol. 1, 79:4-20.) Absent this litigation, Sunoco would have deprived the class members
+
+of millions of dollars of interest indefinitely. Thus, Sunoco acted with a reckless disregard to a
+
+risk of serious harm to the class that supports an award of punitive damages. See § 9.1(B).
+
+         Furthermore, this award advances “the primary purpose of punitive damages”—punishing
+
+the wrongdoer and deterring similar conduct in the future. Thiry v. Armstrong World Indus., 661
+
+P.2d 515, 517 (Okla. 1983). Sunoco has had these business practices in place for decades yet is
+
+only being held accountable for late payments made on or after July 7, 2012. Nevertheless,
+
+although Sunoco may have assumed that “people didn’t care that much about” more than seventy
+
+million dollars in withheld interest payments (Trial Tr. vol. 1, 93:14-19), this punitive damages
+
+award will adequately punish Sunoco for failing to comply with § 570.10(D) during the class
+
+period. Further, such an award will deter Sunoco—and companies like it—from adopting
+
+“[p]erverse and absurd statutory interpretations . . . in the name of literalism” that perpetuate the
+
+abuse that the PRSA was designed to correct. Twisdale v. Snow, 325 F. 3d 950, 953 (7th Cir.
+
+2003).
+
+         Thus, pursuant to § 9.1(B), the Court will award punitive damages of $75 million dollars,
+
+an amount approximately equal to the class’ actual damages.34
+
+
+
+         34
+         At this time, the plaintiff has proved damages of just under $75 million. With interest
+added until the date of this Opinion, the Court expects the actual damages amount will exceed $75
+million.
+                                                 47
+    6:17-cv-00313-JAG Document 298 Filed in ED/OK on 08/17/20 Page 48 of 48
+
+
+
+
+                                       VI. CONCLUSION
+
+
+        For the foregoing reasons, the Court will grant the motion to strike Krause as an expert and
+
+will sustain Cline's objections to Krause's testimony at trial. The Court will enterjudgment against
+
+Sunoco as to Count One and will award the class:(1) actual damages in the amount of the interest
+
+owed on the late payments identified by Ley, amounting to $74,763,113.00 as of December 16,
+
+2019, plus any additional interest that has accrued on each payment at a rate of 12 percent,
+
+compounding annually,from December 17, 2019, to the date of this Opinion and Order, subject to
+
+modification based on the updated exclusion requests^^; and (2) punitive damages in the amount
+
+of $75,000,000. The Court will not enter judgment against Sunoco as to Count Two and will not
+
+award any equitable relief. The Court will overrule the remaining objections to the exhibits,
+
+witnesses, depositions, and other evidence.
+
+        The Court will issue an appropriate Order.
+
+        Let the Clerk send a copy of this Opinion to all counsel of record.
+
+
+                                                                       /s/ /<,
+Date:                 2020
+                                                      John A. Gibney, Jr./
+Richmond,
+                                                      United States Distnct Judge
+
+
+
+
+          As explained earlier, the Court will withhold entering judgment pursuant to Federal Rule
+of Civil Procedure 58 until counsel provides the updated damages calculations to the Court. This
+Opinion and Order, however, will serve as the judgment for the purposes of calculating the final
+interest due.
+
+                                                 48

@@ -1,0 +1,42 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether plaintiffs have Article III standing to bring Helms-Burton Act claims against defendants for alleged trafficking in confiscated property.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found plaintiffs alleged a concrete injury closely related to unjust enrichment, causation, and redressability, thus satisfying Article III standing requirements."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether 22 U.S.C. \u00a7 6084 (Helms-Burton Act time bar) is a statute of repose or a statute of limitations, and whether the time bar was tolled by presidential suspensions.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held \u00a7 6084 is a statute of repose, not subject to equitable tolling, and that presidential suspensions did not legislatively toll the time bar, so most claims were untimely."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the remaining timely allegations plausibly state a claim for trafficking under the Helms-Burton Act.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found the remaining allegations were conclusory, lacked sufficient factual support, or failed to connect defendants' conduct to trafficking in confiscated property, so failed to state a claim."
+    }
+  ],
+  "key_precedents": [
+    "Cal. Pub. Emps.\u2019 Ret. Sys. v. ANZ Sec., Inc., 582 U.S. 497 (2017)",
+    "CTS Corp. v. Waldburger, 573 U.S. 1 (2014)",
+    "Spokeo, Inc. v. Robins, 578 U.S. 330 (2016)",
+    "TransUnion LLC v. Ramirez, 594 U.S. 413 (2021)",
+    "P. Stolz Fam. P\u2019ship L.P. v. Daum, 355 F.3d 92 (2d Cir. 2004)",
+    "Garcia-Bengochea v. Carnival Corp., 57 F.4th 916 (11th Cir. 2023)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "The principal issue on this consolidated appeal is whether 22 U.S.C. \u00a7 6084, the time bar provision of the Helms-Burton Act, Pub. L. No. 104-114, 110 Stat. 785 (1996), is a statute of repose or a statute of limitations.\n\nPlaintiffs are successors-in-interest to assets seized by the Cuban regime many decades ago. In 1996, Congress created a private cause of action for United States nationals against \u201cany person\u201d who \u201ctraffics\u201d in that \u201cconfiscated\u201d property, 22 U.S.C. \u00a7 6082(a)(1)(A), by passing the Helms-Burton Act. Yet, no action could be brought until May 2019 because, until then, every President used his authority under the Act to suspend the private right of action. See 22 U.S.C. \u00a7 6085(c)(1)\u2013(2). When the plaintiffs ultimately brought suit against BNP Paribas, S.A. and Soci\u00e9t\u00e9 G\u00e9n\u00e9rale, S.A., the banks moved to dismiss under Rule 12(b)(1), (2), and (6) on, inter alia, the grounds that the plaintiffs lacked Article III standing, that most of their allegations were time-barred under section 6084, and that the timely allegations failed to plausibly allege trafficking as defined by section 6023(13)(A).\n\nFor the reasons that follow, we conclude that (1) the plaintiffs have Article III standing, but (2) their allegations predating the filing of their respective complaints by two years or more are untimely because section 6084 is a statute of repose, and no basis for tolling the time bar exists, and (3) the remaining allegations fail to plausibly allege a violation of the Helms-Burton Act. We therefore AFFIRM the judgments of the district courts."
+}

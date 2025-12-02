@@ -1,0 +1,42 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court erred in limiting discovery, including denial of motion to compel privileged documents under fiduciary exception",
+      "standard_of_review": "abuse of discretion",
+      "holding": "AFFIRM",
+      "key_reasoning": "The Plan is a top-hat plan exempt from ERISA fiduciary duties, so the fiduciary exception to attorney-client privilege does not apply; the district court did not abuse its discretion in denying discovery beyond the administrative record."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the plaintiff was entitled to a jury trial on his ERISA denial-of-benefits claim",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "ERISA denial-of-benefits claims under 29 U.S.C. \u00a7 1132(a)(1)(B) are equitable in nature and thus not triable by jury under the Seventh Amendment."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the district court erred in granting judgment to defendants on the denial-of-benefits claim applying arbitrary-and-capricious standard",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The Plan grants discretion to the administrator, so arbitrary-and-capricious review applies; the administrator\u2019s decision was supported by substantial evidence and was not arbitrary or capricious."
+    }
+  ],
+  "key_precedents": [
+    "Wilkins v. Baptist Healthcare Sys., Inc., 150 F.3d 609 (6th Cir. 1998)",
+    "Bair v. Gen. Motors Corp., 895 F.2d 1094 (6th Cir. 1990)",
+    "Firestone Tire & Rubber Co. v. Bruch, 489 U.S. 101 (1989)",
+    "United States v. Jicarilla Apache Nation, 564 U.S. 162 (2011)",
+    "Raymond B. Yates, M.D., P.C., Profit Sharing Plan v. Hendon, 541 U.S. 1 (2004)",
+    "Tsarnaev, 595 U.S. 302 (2022)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "This case looks like a standard claim under the Employee Retirement Income Security Act (\u201cERISA\u201d) to recover benefits. But Derek Kramer wants to change the rules for these claims. Kramer believes he has a right to \u201cfull discovery,\u201d including documents subject to the attorney-client privilege, rather than an adjudication based on the administrative record. Kramer also thinks he has a constitutional right to a jury trial for his ERISA claim. And he seeks to apply a different standard to adjudicate his claim than the one we instructed district courts to use more than two decades ago. We reject Kramer\u2019s request to change the rules.\n\nOn the merits, Kramer has not shown that the district court erred in finding that the decision denying Kramer benefits was not arbitrary and capricious. We thus affirm."
+}

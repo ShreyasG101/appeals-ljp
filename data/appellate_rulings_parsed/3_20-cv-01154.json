@@ -1,0 +1,27 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether, after United States v. Davis, the petitioner's conviction under 18 U.S.C. \u00a7 924(j) is unconstitutional because the predicate offense under 18 U.S.C. \u00a7 2114(a) does not qualify as a 'crime of violence' under \u00a7 924(c)(3)(A)'s force clause.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that the aggravated form of \u00a7 2114(a) underlying the petitioner's conviction\u2014specifically, aiding and abetting a violation involving wounding or placing the victim's life in jeopardy by use of a dangerous weapon\u2014categorically qualifies as a 'crime of violence' under \u00a7 924(c)(3)(A)'s force clause, and thus supports the \u00a7 924(j) conviction even after Davis."
+    }
+  ],
+  "key_precedents": [
+    "United States v. Davis, 588 U.S. 445 (2019)",
+    "Mathis v. United States, 579 U.S. 500 (2016)",
+    "United States v. Taylor, 848 F.3d 476 (1st Cir. 2017)",
+    "Rojas-Tapia v. United States, __ F.4th __ (1st Cir. 2024)",
+    "Shepard v. United States, 544 U.S. 13 (2005)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "\u00c1NGEL FORTEZA-GARC\u00cdA appeals the District Court's denial of his 28 U.S.C. \u00a7 2255 petition for post-conviction relief, in which he seeks relief from his conviction under 18 U.S.C. \u00a7 924(j). That provision makes it a crime to \"cause the death of a person through the use of a firearm\" in the course of violating 18 U.S.C. \u00a7 924(c), which in turn criminalizes using or carrying a firearm \"during and in relation to any crime of violence.\" Forteza based his petition on United States v. Davis, 588 U.S. 445 (2019), which held unconstitutionally vague a portion of the definition of a \"crime of violence\" in \u00a7 924(c). Forteza contends that, in consequence of Davis, the predicate conviction for his \u00a7 924(j) offense does not qualify as a \"crime of violence,\" and thus that his conviction for that offense is unconstitutional. We disagree and affirm."
+}

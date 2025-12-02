@@ -1,0 +1,1734 @@
+UNITED STATES DISTRICT COURT                                             
+EASTERN DISTRICT OF NEW YORK                                              
+AUGUST WILDMAN, et al.,                                                   
+
+               Plaintiffs,                                               
+
+     v.                              MEMORANDUM AND ORDER                
+                                        21-CV-04400 (HG) (RML)           
+DEUTSCHE BANK                                                             
+AKTIENGESELLSCHAFT, et al.,                                               
+
+               Defendants.                                               
+
+HECTOR GONZALEZ, United States District Judge:                            
+                         Table of Contents                               
+INTRODUCTION .......................................................................................................................... 3 
+PROCEDURAL BACKGROUND ................................................................................................. 4 
+BACKGROUND ............................................................................................................................ 5 
+LEGAL STANDARD ................................................................................................................... 11 
+A.  Motion to Dismiss for Failure to State a Claim .................................................................. 11 
+B.  JASTA/ATA ....................................................................................................................... 12 
+  1.  “Act of International Terrorism” Element ....................................................................... 12 
+  2.  “General Awareness” Element ........................................................................................ 13 
+  3.  “Substantial Assistance” Element ................................................................................... 16 
+DISCUSSION ............................................................................................................................... 19 
+I.  The Complaint Sufficiently Alleges FTOs Committed, Planned, or Authorized the   
+   Attacks Which Injured Plaintiffs ........................................................................................ 19 
+II.  The Complaint Fails to Allege Sufficiently that Deutsche Bank Either Had “General 
+   Awareness” or Provided “Substantial Assistance” ............................................................ 21 
+  A.  General Awareness .......................................................................................................... 21 
+   i.  Deutsche Bank’s “Laundromats” ................................................................................ 21 
+  ii.  Al Zarooni and Mazaka .............................................................................................. 24 
+  iii.  Imran Yakub Ahmed................................................................................................... 29 
+  iv.  Mamoun Darkazanli and Mamdoubh Mahmud Salim................................................ 30 
+  v.  Samir Azizi ................................................................................................................. 30 
+  vi.  National Iranian Oil Company (“NIOC”) and the National Iranian Tanker     
+     Company (“NITC”) .................................................................................................... 33 
+ B.  Substantial Assistance ..................................................................................................... 34 
+III. The Complaint Fails to Allege Sufficiently that Standard Chartered Either Had      
+  “General Awareness” or Provided “Substantial Assistance” ............................................. 37 
+ A.  General Awareness .......................................................................................................... 37 
+  i.  Standard Chartered’s “Laundromats” ......................................................................... 37 
+  ii.  Al Zarooni and Mazaka .............................................................................................. 38 
+  iii.  Samir Azizi ................................................................................................................. 40 
+  iv.  Hikmatullah Shadman ................................................................................................. 40 
+  v.  NIOC and NITC .......................................................................................................... 41 
+  vi.  Mustafa Ahmed al-Hisawi, Abdul Baqi Bari, and Viktor Bout .................................. 41 
+  vii.  Fatima Fertilizer Company Limited and Pakarab Fertilizers Limited ........................ 42 
+ B.  Substantial Assistance ..................................................................................................... 45 
+IV. The Complaint Fails to Allege Sufficiently that Danske Bank Either Had “General 
+  Awareness” or Provided “Substantial Assistance” ............................................................ 47 
+ A.  General Awareness .......................................................................................................... 47 
+  i.  Danske Bank’s “Estonian Laundromat” ..................................................................... 47 
+  ii.  Swefin ......................................................................................................................... 49 
+ B.  Substantial Assistance ..................................................................................................... 50 
+V.  The Complaint Fails to Allege Sufficiently that Placid Express Either Had “General 
+  Awareness” or Provided “Substantial Assistance” ............................................................ 52 
+
+                              2                                         
+  A.  General Awareness .......................................................................................................... 52 
+  B.  Substantial Assistance ..................................................................................................... 53 
+VI. The Complaint Fails to Allege Sufficiently that Wall Street Exchange Either Had  
+   “General Awareness” or Provided “Substantial Assistance” ............................................. 56 
+  A.  General Awareness .......................................................................................................... 56 
+  B.  Substantial Assistance ..................................................................................................... 58 
+VII. Plaintiffs’ RICO Claim ....................................................................................................... 60 
+CONCLUSION ............................................................................................................................. 61 
+                         INTRODUCTION                                    
+    Before the Court is an action brought by or on behalf of Americans who were killed or 
+injured by terrorist attacks in Afghanistan between 2011 and 2016 (“Relevant Period”), and their 
+close family members (collectively “Plaintiffs”).  Plaintiffs bring a claim under the civil liability 
+provision of the Anti-Terrorism Act, 18 U.S.C. § 2333, as amended by the Justice Against 
+Sponsors of Terrorism Act, Pub. L. No. 114-222, 130 Stat. 852 (2016), against Deutsche Bank 
+
+Aktiengesellschaft and Deutsche Bank Trust Company Americas (together, “Deutsche Bank”); 
+Standard Chartered Bank, Standard Chartered PLC, and Standard Chartered Bank (Pakistan) 
+Limited (together, “Standard Chartered”); Danske Bank A/S (“Danske Bank”);1 Placid NK 
+Corporation (“Placid Express”); and Wall Street Exchange LLC (“Wall Street Exchange”) 
+(collectively “Defendants”), for allegedly aiding and abetting the terrorist organization 
+responsible for the terrorist attacks.                                    
+
+
+
+1    Danske Markets, Inc. was originally named as a Defendant in the Complaint, but was 
+dismissed on July 26, 2022, pursuant to a stipulation of dismissal.  See ECF No. 69 
+
+                               3                                         
+    Presently before the Court are Defendants’ motions to dismiss the Complaint pursuant to 
+Rule 12(b)(6), which the Court consolidates for the purposes of this Order.2  ECF Nos. 43, 47, 
+51, 53, 78.  For the reasons set forth below, the motions are granted.    
+                   PROCEDURAL BACKGROUND                                 
+    On August 5, 2021, Plaintiffs brought suit against Defendants pursuant to the Anti-
+
+Terrorism Act (“ATA”), as amended by the Justice Against Sponsors of Terrorism Act 
+(“JASTA”), alleging that Defendants aided and abetted terrorist attacks by providing financial 
+services to individuals and organizations who, in turn, helped finance terrorist attacks against 
+American military members and civilians in Afghanistan during the Relevant Period.  ECF No. 
+1.  The Complaint alleges two counts, both for violations of the ATA.  ECF No. 38 ¶¶ 2025–43. 
+    On October 29, 2021, all Defendants, except Wall Street Exchange, filed letters 
+requesting a pre-motion conference before filing motions to dismiss the complaint for violating 
+Rule 8(a), failing to state a claim, and for various jurisdictional deficiencies.  ECF Nos. 25, 27, 
+28, 29.  On December 7, 2021, the Court held a pre-motion conference and it directed Plaintiffs 
+
+to file a more succinct amended complaint that would address the deficiencies raised by 
+Defendants in their pre-motion letters and provide the “best iteration of the factual allegations 
+that support [Plaintiffs’] claims.”  See ECF No. 70 (transcript of December 7, 2021, conference).  
+The Court also set a briefing schedule for those Defendants’ motions to dismiss.  Id., ECF Text 
+
+2    Also before the Court are:  (i) all Defendants’ motions to dismiss the Complaint for 
+failing to meet Rule 8(a)’s requirement of a “short and plain statement;” (ii) motions by 
+Deutsche Bank AG, Standard Chartered PLC, SCB Pakistan, Danske Bank, and Wall Street 
+Exchange to dismiss for failure to allege personal jurisdiction under 12(b)(2); and (iii) Wall 
+Street Exchange’s motion to dismiss for insufficient service of process under 12(b)(5).  Because 
+the Court grants Defendants’ motions to dismiss for failure to state a claim, it does not reach the 
+merits of these other arguments.                                          
+
+                               4                                         
+Order (Dec. 7, 2021).  On February 15, 2022, Plaintiffs filed their amended complaint, which 
+failed to comply with the Court’s earlier directive to file a shorter, more focused pleading.  ECF 
+No. 35.  After requesting leave to file a second amended complaint “to address formatting errors, 
+fix typos, and harmonize headers,” ECF No. 36, which was consented to by Defendants, ECF 
+No. 37, Plaintiffs filed their second amended complaint on February 26, 2022.  ECF No. 38 
+
+(“Am. Compl.” or “Complaint”).                                            
+    On June 1, 2022, all Defendants, except Wall Street Exchange, filed their motions to 
+dismiss.  ECF Nos. 43, 47, 51, 53.  Thereafter, Plaintiffs filed their briefs in opposition, ECF 
+Nos. 58, 59, 60, 61.  Defendants then filed their reply briefs.  ECF Nos. 63, 64, 65, 66.3   
+                         BACKGROUND                                      
+    According to the Complaint, which is assumed to be true for purposes of these motions, 
+Defendants “knowingly facilitate[ed] transfers of hundreds of millions in USD to . . . terrorists.”  
+Am. Compl. ¶ 6.  In their 596-page Complaint, Plaintiffs describe a complex “international 
+criminal network” (the “Syndicate”) which carried out terrorist attacks on Americans during the 
+
+Relevant Period.  Id. ¶ 5.  This Syndicate was organized and led by al-Qaeda and included the 
+Haqqani Network and other organizations which were designated Foreign Terrorist 
+Organizations (“FTOs”)4 at the time of the attacks, as well as other non-FTO organizations, such 
+
+
+3    Wall Street Exchange appeared on September 30, 2022, ECF No. 73, alleging improper 
+service and entered an appearance “for the limited purpose of filing a motion to dismiss,” ECF 
+No. 75 at 1.  On November 1, 2022, Wall Street Exchange filed its motion.  ECF No. 78.  
+Plaintiffs filed their brief in opposition on November 29, 2022.  Wall Street Exchange filed its 
+reply on December 9, 2022.                                                
+4    See Foreign Terrorist Organizations, U.S. DEP’T OF STATE,            
+https://www.state.gov/foreign-terrorist-organizations/ (last visited December 29, 2022) 
+
+                               5                                         
+as the Taliban and D-Company.  Id. ¶ 89.  Plaintiffs allege that “[e]ach attack was committed, 
+planned, and/or authorized by at least one FTO:  al-Qaeda,” and many attacks were “committed 
+directly by al-Qaeda.”  Id. ¶ 85.  Later in the Complaint, Plaintiffs describe specific acts of 
+international terrorism, all of which were “committed by the Taliban, including its Haqqani 
+Network, or jointly committed by the Taliban and al-Qaeda.”  Id. ¶¶ 1098–2024.  To further add 
+
+to this complexity, the Complaint additionally alleges that during the Relevant Period, the 
+Syndicate “depended upon the regular, substantial, and comprehensive support provided by 
+Iran’s Islamic Revolutionary Guard Corps,” or the IRGC, “primarily acting through IRGC’s 
+Lebanese Hezbollah Division . . . and . . . Qods Force,” id. ¶ 90, as well as support from the so-
+called Russian mafia, id. ¶ 139.5  Hezbollah became a FTO in 1997, but the IRGC and the Qods 
+Force were not designated FTOs during the Relevant Period.  Id. ¶¶ 91, 266 (noting that both 
+organizations became FTOs in 2019, after the attacks in the Complaint had occurred).  The 
+Russian mafia has never been designated a FTO.  See id. ¶¶ 298–311; see also Foreign Terrorist 
+Organizations, supra n.3.  The Complaint further describes a number of “Syndicate agents, 
+
+operatives, fronts, and cut-outs who served al-Qaeda, the Haqqani Network, Lashkar-e-Taiba, 
+and their Syndicate allies, as well as their affiliated Hezbollah and Qods Force allies.”  Id. ¶ 111. 
+    Nowhere in the Complaint do Plaintiffs allege that Defendants worked directly with any 
+of the FTOs at the time of the attacks.  Rather, Plaintiffs allege that Defendants worked with a 
+number of other individuals and organizations who were, sometimes tangentially, involved with 
+
+
+5    The Complaint does not clearly define the “Russian mafia” except to allege that it was 
+made up of “groups,” the foremost of which was the “Solntsevskaya Group.”  Id. ¶ 299.  The 
+Complaint does not specify whether the Solntsevskaya Group ever did business with Defendants, 
+and no other Russian mafia-related group is identified in the Complaint.  
+
+                               6                                         
+the “international criminal network” that supported the FTOs.  Id. ¶¶ 89–363 (discussing the 
+alleged network of FTOs and other criminal organizations).  Plaintiffs are much less clear about 
+which specific individuals or entities Defendants actually provided financial services to.  For 
+example, Plaintiffs will claim that a Defendant provided financial services to “Khanani and the 
+Khanani MLO,” if that Defendant provided services to one of Khanani’s front companies, or 
+
+even if they provided services to a separate person or entity who did business with a front 
+company.  See, e.g., id. ¶ 538 (describing how an unidentified Danske Bank customer had a 
+relationship with an alleged Khanani front company to support the claim that “Danske Bank 
+enabled syndicate terror finance”).  This is not an insignificant distinction, as one of the factors 
+the Court must evaluate here is how attenuated a Defendant’s relationship is with the principal 
+FTO that committed the attacks.  See Siegel v. HSBC N. Am. Holdings, Inc., 933 F.3d 217, 223 
+(2d Cir. 2019).  Despite the lack of specificity in the Complaint, the Court has identified the 
+following named individuals or organizations that Plaintiffs allege one or more Defendants 
+provided financial services to in violation of the ATA:                   
+
+ •  Mazaka General Trading:  Plaintiffs allege Deutsche Bank, Am. Compl. ¶¶ 391–408, 
+    Danske Bank, id. ¶¶ 534–45, and Standard Chartered, id. ¶¶ 458–72, provided services 
+    to Dubai-based Mazaka General Trading LLC (“Mazaka”).                
+ •  Al Zarooni Exchange:  Plaintiffs allege Deutsche Bank, id. ¶¶ 391–408, and Standard 
+    Chartered, id. ¶¶ 458–72, provided services to Dubai-based Al Zarooni Exchange (“Al 
+    Zarooni”).                                                           
+ •  National Iranian Oil Company and National Iranian Tanker Company:  Plaintiffs allege 
+    Deutsche Bank, id. ¶¶ 432–34, and Standard Chartered, id. ¶¶ 488–90, provided services 
+
+
+                               7                                         
+  to the Iran-based National Iranian Oil Company (“NICO”) and the National Iranian 
+  Tanker Company (“NITC”).                                             
+•  Samir Azizi:  Plaintiffs allege Deutsche Bank, id. ¶¶ 410–30, and Standard Chartered, id. 
+  ¶¶ 473–79, provided services to Samir Azizi.                         
+
+•  Imran Yakub Ahmed:  Plaintiffs allege Deutsche Bank provided services to Imran Yakub 
+  Ahmed.  Id. ¶ 431.                                                   
+•  Mamoun Darkazanli and Mamdouh Mahmud Salim:  Plaintiffs allege Deutsche Bank 
+  provided services to Mamoun Darkazanli and Mamdouh Mahmud Salim.  Id. ¶¶ 435–43. 
+•  Hikmatullah Shadman:  Plaintiffs allege Standard Chartered provided services to 
+  Hikmatullah Shadman.  Id. ¶¶ 480–87.                                 
+•  Mustafa Ahmed al-Hisawi:  Plaintiffs allege Standard Chartered provided services to 
+  Mustafa Ahmed al-Hisawi.  Id. ¶¶ 491–97.                             
+
+•  Victor Bout:  Plaintiffs allege Defendant Standard Chartered provided services to Victor 
+  Bout.  Id. ¶¶ 498–99.                                                
+•  Abdul Baqi Bari:  Plaintiffs allege Standard Chartered provided services to Abdul Baqi 
+  Bari.  Id. ¶¶ 500–04.                                                
+•  Fatima Fertilizer Company Ltd., and Pakarab Fertilizers Ltd.:  Plaintiffs allege Standard 
+  Chartered provided services to the Pakistan-based Fatima Fertilizer Company Ltd. 
+  (“Fatima”), and Pakarab Fertilizers Ltd. (“Pakarab”).  Id. ¶¶ 505–32. 
+•  Swefin:  Plaintiffs allege Placid Express provided services to Swedish-based Swefin.  Id. 
+  ¶¶ 546–61.                                                           
+
+
+
+                             8                                         
+ •  Prime Currency Exchange Ltd:  Plaintiffs allege Placid Express provided services to New 
+    Zealand-based Prime Currency Exchange Ltd. (“Prime Currency”).  Id. ¶ 565. 
+ •  Farzam Mehdizadeh:  Plaintiffs allege Wall Street Exchange provided services to Farzam 
+    Mehdizadeh.  Id. ¶¶ 946–49.                                          
+
+    Plaintiffs also make numerous conclusory allegations without providing any facts that 
+would, for example, allow the Court to identify any additional individuals or entities to whom 
+Defendants provided services.  See, e.g., Am. Compl. ¶¶ 356, 392–94, 406, 445, 471, 466, 538–
+40, 666, 567–71, 592, 668–71, 933–42, 1037 (a non-exhaustive list of examples where Plaintiffs 
+make conclusory allegations regarding Defendants’ interactions with networks or organizations 
+that are not described clearly or with sufficient specificity).  Plaintiffs allege, for example, that 
+Deutsche Bank “directly conspired with known Russian mafia money launderers,” but do not 
+provide any additional details like their names, which would allow the Court to infer that they 
+were, in fact, “known” criminals.  Id. ¶ 356.  At the same time, the Complaint provides a myriad 
+of facts which appear irrelevant to this case.  Id. ¶¶ 283–86, 298–311, 318–50, 367–71, 375–89, 
+
+406–08, 411–412, 423, 428–29, 448–453 (a non-exhaustive list of areas where Plaintiffs have 
+provided facts not clearly relevant to this case).6  For example, the Complaint goes into intricate 
+
+
+6    Although the Court is not reaching the question of whether the Complaint should be 
+dismissed under Rule 8, the Complaint nevertheless appears to fail to meet Rule 8’s requirement 
+of “a short and plain statement of the claim showing that the pleader is entitled to relief.”   The 
+Complaint’s combination of irrelevant factual allegations and unclear definitions regarding the 
+parties involved is a paradigmatic example of failing to “clearly state what each defendant did or 
+failed to do and why [plaintiff] is entitled to the relief [sought].”  Tasaka v. Bayview Loan 
+Servicing, LLC, No. 17-cv-7235, 2021 WL 84232, at *3 (E.D.N.Y. Jan. 11, 2021).  This sort of 
+“[u]nnecessary prolixity in a pleading places an unjustified burden on the court and the party 
+who must respond to it because they are forced to select the relevant material from a mass of 
+verbiage.”  Salahuddin v. Cuomo, 861 F.2d 40, 42 (2d Cir. 1988).          
+
+                               9                                         
+detail describing other aspects of the Russian mafia.  See, e.g., id. ¶¶ 298–311.  Plaintiffs, 
+however, never allege that the two named individuals associated with the Russian mafia in the 
+Complaint—Semyon Mogilevich and German Gorbuntsov—ever directly received services from 
+any of the Defendants.  Id.                                               
+    Despite its length—173,603 words spread out over 596 pages and 2,045 paragraphs—the 
+
+Complaint is less a novel, and more a series of vignettes describing a wide range of criminal 
+activity.  While these vignettes often go into great detail about the complex interplay between 
+different criminal players, and how those criminals or terrorists contributed to Plaintiffs’ injuries, 
+none of them sufficiently allege that any Defendant was ever aware of any of these connections, 
+or that the alleged assistance Defendants provided “substantially” helped these criminal players 
+cause Plaintiffs’ injuries.  Due to the sheer volume of information set forth in the Complaint, the 
+Court will not detail each and every “value chain”7 alleged in the Complaint.  However, the 
+following description is a good example of the sort of activity set forth in the Complaint and 
+demonstrates why the Complaint fails to establish the necessary nexus between any Defendant 
+
+and the alleged terrorist acts that injured Plaintiffs.  The Complaint alleges the existence of the 
+“Afghanistan-to-Russia Opium Pipeline.”  Id. ¶¶ 128, 215, 240, 242, 306, 615, 706.  According 
+to the Complaint, opium is grown by the Taliban in Afghanistan, id. ¶ 308; exported by al-
+Qaeda, the Haqqani Network, and D-Company, id.; smuggled into and through Iran with the help 
+of General Gholamreza Baghbani of Iran’s Islamic Revolutionary Guard Corps Qods Force, id. ¶ 
+
+
+
+7    The term “value chain” is never explicitly defined in the Complaint, but it appears to 
+refer to the causal chain linking Defendants’ services to Plaintiffs’ injuries.  See, e.g., id. ¶ 210. 
+
+                              10                                         
+362; and ultimately winds up in the hands of the Russian mafia.8  Id. ¶ 306.  “Russian weapons, 
+explosives, and freshly laundered money” then “flow[] back to al-Qaeda and the Taliban,” id., in 
+what the Complaint styles as the “Syndicate-Russian Mafia Opium Joint Venture.”  Id. ¶ 305.  
+Defendants only come in at the very end of this story, by allegedly helping to facilitate the 
+movement of the Russian mafia’s “freshly laundered money.”  Id. ¶ 306.    
+
+                        LEGAL STANDARD                                   
+ A.   Motion to Dismiss for Failure to State a Claim                     
+     “To survive a motion to dismiss, a complaint must contain sufficient factual matter, 
+accepted as true, to state a claim to relief that is plausible on its face.”  Ashcroft v. Iqbal, 556 
+U.S. 662, 678 (2009) (citation and internal quotation marks omitted).  “A claim has facial 
+plausibility when the plaintiff pleads factual content that allows the court to draw the reasonable 
+inference that the defendant is liable for the misconduct alleged.”  Id.  “When determining the 
+sufficiency of plaintiffs’ claim for Rule 12(b)(6) purposes, consideration is limited to the factual 
+allegations in plaintiffs’ amended complaint, which are accepted as true, to documents attached 
+
+to the Complaint as an exhibit or incorporated in it by reference, to matters of which judicial 
+notice may be taken, or to documents either in plaintiffs’ possession or of which plaintiffs had 
+knowledge and relied on in bringing suit.”  Brass v. Am. Film Techs., Inc., 987 F.2d 142, 150 (2d 
+Cir. 1993); see also Benny v. City of Long Beach, No. 20-cv-1908, 2021 WL 4340789, at *7 
+(E.D.N.Y. Sept. 23, 2021).  While the Court must draw all reasonable inferences in favor of the 
+
+
+
+8    It is implied, but never stated, that the Russian mafia then turns the opium into heroin, 
+which it then presumably sells in Russia, Central Asia, and Europe.       
+
+                              11                                         
+non-moving party, “[t]hreadbare recitals of the elements of a cause of action, supported by mere 
+conclusory statements, do not suffice” to state a plausible claim.  Iqbal, 556 U.S. at 678. 
+ B.   JASTA/ATA                                                          
+    JASTA was enacted in 2016 to amend Section 2333 of the ATA so that civil litigants 
+would have “the broadest possible basis to seek relief against those who have provided material 
+
+support, directly or indirectly, to foreign organizations or persons that engage in terrorist 
+activities against the United States.”  Siegel, 933 F.3d at 223 n.5 (internal quotation marks 
+omitted); see also Est. of Henkin v. Kuveyt Turk Katilim Bankasi, A.S., 495 F. Supp. 3d 144, 154 
+(E.D.N.Y. 2020), motion to certify appeal granted, No. 19-cv-5394, 2020 WL 6700121 
+(E.D.N.Y. Nov. 13, 2020).  In pursuit of that goal, JASTA authorizes claims against institutions 
+that, even if they did not directly violate the ATA, aided and abetted the violations of others who 
+did so.  JASTA is explicit that Halberstam v. Welch, 705 F.2d 472 (D.C. Cir. 1983), “provides 
+the proper legal framework for how [aiding-and-abetting] liability should function in th[is] 
+context.”  JASTA § 2(a)(5).  As stated in Halberstam, these elements are:  “(1) the party whom 
+
+the defendant aids must perform a wrongful act that causes an injury; (2) the defendant must be 
+generally aware of his role as part of an overall illegal or tortious activity at the time that he 
+provides the assistance; [and] (3) the defendant must knowingly and substantially assist the 
+principal violation.”  705 F.2d at 477 (emphasis added).                  
+    1.   “Act of International Terrorism” Element                        
+    In the six years since JASTA was enacted, courts in this circuit have detailed what is 
+needed to satisfy each Halberstam element in the context of a JASTA claim.  The first element 
+
+
+
+                              12                                         
+requires that plaintiffs be injured by “an act of international terrorism9 committed, planned, or 
+authorized by an organization that had been designated as a foreign terrorist organization.”  18 
+U.S.C. § 2333(d)(2).  FTOs are designated by the Secretary of State in accordance with the 
+Immigration and Nationality Act.  See 8 U.S.C. § 1189; Foreign Terrorist Organizations, supra 
+n.3.                                                                      
+
+    2.   “General Awareness” Element                                     
+    The second element requires that a defendant have been “generally aware that it was 
+thereby playing a role in [the FTO’s] violent or life-endangering activities.”  Linde v. Arab Bank, 
+PLC, 882 F.3d 314, 329 (2d Cir. 2018) (internal quotation marks omitted); Honickman v. BLOM 
+Bank SAL, 6 F.4th 487, 496 (2d Cir. 2021) (“The ‘general awareness’ element requires the 
+defendant to be ‘generally aware’ of its role in ‘an overall illegal or tortious activity at the time 
+that [it] provides the assistance.’”) (quoting Halberstam, 705 F.2d at 477).  To be “generally 
+aware,” a defendant “need not know of or intend to bring about the specific attacks at issue.”  
+Freeman v. HSBC Holdings PLC, No. 18-cv-7359, 2021 WL 76925, at *5 (E.D.N.Y. Jan. 7, 
+
+2021).  Nor do the attacks at issue need to have been committed, planned, or authorized by a 
+defendant’s direct customer.  See Honickman, 6 F.4th at 499 n.15.  Instead, what is required is 
+that a defendant’s customer or the services they are providing be “so closely intertwined with 
+[the FTO’s] violent terrorist activities that one can reasonably infer that [a defendant] was 
+
+9    An Act of “international terrorism” under the ATA “means activities that—(A) involve 
+violent acts or acts dangerous to human life that are a violation of the criminal laws of the United 
+States or of any State . . . ; (B) appear to be intended—(i) to intimidate or coerce a civilian 
+population; (ii) to influence the policy of a government by intimidation or coercion; or (iii) to 
+affect the conduct of a government by mass destruction, assassination, or kidnapping; and (C) 
+occur primarily outside the territorial jurisdiction of the United States.”  18 U.S.C. § 2331(1).  
+JASTA incorporates § 2331(1)’s definition of “international terrorism.”  18 U.S.C. § 2333(d)(2). 
+
+                              13                                         
+generally aware [that] while it was providing . . . services to those entities that it was playing a 
+role in unlawful activities from which [the FTO’s] attacks were foreseeable.”  Id. at 499 
+(emphasis added).  The scienter requirement for aiding and abetting is higher than “the mens rea 
+required to establish material support in violation of 18 U.S.C. § 2339B, which requires only 
+knowledge of the organization’s connection to terrorism, not intent to further its terrorist 
+
+activities or awareness that one is playing a role in those activities.”  Linde, 882 F.3d at 329–30; 
+see also Siegel, 933 F.3d at 224; Freeman v. HSBC Holdings PLC, 465 F. Supp. 3d 220, 229 
+(E.D.N.Y. 2020), reconsideration denied, No. 18-cv-7359, 2020 WL 4481944 (E.D.N.Y. Aug. 4, 
+2020).                                                                    
+    Plaintiffs insist that Honickman establishes a “general awareness” standard that is less 
+stringent than this, and that general awareness can be sufficiently established if a plaintiff 
+plausibly alleges “the defendant was generally aware of its role in an ‘overall illegal activity’ that 
+foreseeably risked terrorism.”10  ECF No. 61 at 24.  See also, ECF No. 58 at 14; ECF No. 59 at 
+20; ECF No. 60 at 10.  The Court is not persuaded that Honickman did anything but restate the 
+
+standard in Siegel and previous cases.  Honickman is in fact explicit on this point:  The question 
+is not whether a defendant was generally aware of its role in illegal activity that foreseeably 
+risked terrorism in general, but whether defendant was aware of its role in “overall illegal 
+activity from which the act that caused the plaintiff’s injury was foreseeable.”  Honickman, 6 
+F.4th at 496 (emphasis added).                                            
+
+10   Specifically, Plaintiffs argue that the fact that a defendant’s support “occurred several 
+years before the attacks in this case . . . may have been relevant to general awareness before 
+Honickman, because courts frequently treated the question as whether the defendant was aware 
+that it was playing a role in terrorist acts.  But after Honickman, the question is whether the 
+defendant was generally aware of its role in an ‘overall illegal activity’ that foreseeably risked 
+terrorism.”  Id.                                                          
+
+                              14                                         
+    It is not enough for a defendant to be aware “of the organization’s connection to 
+terrorism.”  Linde, 882 F.3d at 330; see also Weiss v. Nat’l Westminster Bank PLC, 381 F. Supp. 
+3d 223, 239 (E.D.N.Y. 2019) (concluding that evidence that a bank knowingly provided financial 
+services to a FTO alone is insufficient to satisfy JASTA’s scienter requirement).  Nor is it 
+sufficient for a defendant to be aware it is providing services which violate financial regulations.  
+
+See Siegel, 933 F.3d at 225–26 (holding that plaintiff’s allegations that defendant-bank helped an 
+organization known to support FTOs to violate financial regulations, was an “insufficient basis 
+for liability under JASTA because the plaintiffs have failed to allege that [the defendant] 
+knowingly assumed a role in [the FTO’s] terrorist activities”).  Nor is it even sufficient for a 
+defendant to knowingly violate laws which were designed to prevent terrorist activity.  See 
+Freeman, 465 F. Supp. 3d at 230 (“[I]t is not enough for a defendant-bank to be aware that its 
+conduct violates the law—even one intended to prevent terrorism—or that the organization or 
+entity to which it is providing financial services supports terrorist organizations; the bank must 
+be aware that through its own conduct, whether legal or illegal, it is assuming a role in actual 
+
+terrorist activity.”).  See also O’Sullivan v. Deutsche Bank AG, No. 17-cv-8709, 2020 WL 
+906153, at *6 (S.D.N.Y. Feb. 25, 2020) (“[A]llegations that Defendants knowingly violated laws 
+that were designed principally to prevent terrorist activity do not allege plausibly a general 
+awareness that Defendants had assumed a role in a [FTO’s] act of international terrorism.”) 
+(emphasis in original).  Rather, there must be a sufficient nexus between the services the 
+defendant provided and the terrorist acts ultimately committed, planned, or authorized by the 
+FTO that would support the plausible inference the defendant was generally aware it played a 
+role in those acts.                                                       
+
+
+                              15                                         
+    3.   “Substantial Assistance” Element                                
+    The third element requires a defendant to have knowingly and substantially assisted the 
+principal act of international terrorism.  “As a threshold matter, . . .  [the] substantial assistance 
+element requires that [defendant’s] assistance be knowing.”  Honickman for Est. of Goldstein v. 
+BLOM Bank SAL, 432 F. Supp. 3d 253, 268 (E.D.N.Y. 2020) (emphasis in original), aff’d sub 
+
+nom., Honickman v. BLOM Bank SAL, 6 F.4th 487 (2d Cir. 2021).  The “knowledge component 
+‘is designed to avoid’ imposing liability on ‘innocent, incidental participants.’”  Kaplan v. 
+Lebanese Canadian Bank, SAL, 999 F.3d 842, 864 (2d Cir. 2021) (quoting Halberstam, 705 F.2d 
+at 485 n.14).  Whether a defendant has actual knowledge that it is substantially assisting a FTO is 
+intertwined with the general awareness element.  Honickman, 6 F.4th at 499–500 (satisfying the 
+“knowledge component” in the third element does not “require [a defendant] to ‘know’ anything 
+more about [a principal’s] unlawful activities than what she knew for the general awareness 
+element”).  Innocent or inadvertent assistance is insufficient.  Kaplan, 999 F.3d at 864.   
+    Because “a plaintiff realistically cannot be expected to plead a defendant’s actual state of 
+
+mind,” Conn. Nat’l Bank v. Fluor Corp., 808 F.2d 957, 962 (2d Cir. 1987), “a complaint is 
+allowed to contain general allegations as to a defendant’s knowledge.”  Kaplan, 999 F.3d at 864.  
+At the same time, plaintiffs cannot simply make conclusory statements, but must include 
+“allegations of the facts or events they claim give rise to an inference of knowledge.”  Id. 
+    In determining whether a plaintiff has adequately pled that a defendant has provided 
+“substantial assistance,” courts weigh six factors:  “(1) the nature of the act encouraged, (2) the 
+amount of assistance given by defendant, (3) defendant’s presence or absence at the time of the 
+tort, (4) defendant’s relation to the principal, (5) defendant’s state of mind, and (6) the period of 
+defendant’s assistance.”  Linde, 882 F.3d at 329 (citing Halberstam, 705 F.2d at 483–84). 
+
+                              16                                         
+         a.    Nature of the Act                                         
+    Assessing the first factor, “the nature of the act encouraged,” involves examining 
+“whether the alleged aid . . . would be important to the nature of the injury-causing act,” in the 
+same way that verbal encouragement of “physical acts of violence” may be important to a 
+principal’s commission of battery.  Honickman, 6 F.4th at 500 n.17 (citing Halberstam, 705 F.2d 
+
+at 484).                                                                  
+         b.    Amount of Assistance                                      
+    The second factor, “the amount of assistance,” involves examining whether plaintiffs 
+pled “factual allegations that permit a reasonable inference that the defendant recognized the 
+money it transferred to its customers would be received by the FTO.”  Honickman, 6 F.4th at 500 
+(citing Kaplan, 999 F.3d at 866).  In determining whether such an inference can be made, “[t]he 
+inquiry should focus on the amount and type of aid the defendant provided.”  Id.  
+         c.    Presence or Absence                                       
+    The third factor, a defendant’s “presence or absence” at the time of the attacks, is self-
+
+explanatory; it is rarely the dispositive factor, as plaintiffs rarely allege defendants were present 
+at the time of the attacks.  See, e.g., Honickman, 432 F. Supp. 3d at 269 (“[Defendant] was not 
+‘present’ during the time of the attacks”); Siegel, 933 F.3d at 225 (“[A]s the plaintiffs themselves 
+allege, [defendant] was not ‘present’ at the time of the . . . [a]ttacks.”).  However, courts do 
+sometimes examine whether a defendant’s assistance was ongoing at the time the attacks 
+occurred.  Siegel, 933 F.3d at 225 (finding it crucial that defendant had ceased providing the 
+assistance at issue ten months before the attacks occurred).              
+
+
+
+                              17                                         
+         d.    Relation to the Principal                                 
+    The fourth factor, “defendant’s relation to the principal,” requires an evaluation of how 
+attenuated the relationship is between the defendant and the FTO.  “[A] direct relationship 
+between the defendant and the FTO is not required to satisfy this factor,” however, it also 
+“should not be so attenuated.”  Honickman, 6 F.4th at 501 (citing Siegel, 933 F.3d at 220–21) 
+
+(finding that the relationship between defendant and FTO was too attenuated).  
+         e.    State of Mind                                             
+    The fifth factor looks at whether a defendant’s “state of mind” “involved an intent to 
+finance or otherwise promote or carry out terrorist acts.”  Freeman, 465 F. Supp. 3d at 234.  This 
+factor, like the threshold requirement that a defendant’s assistance is knowing, is also satisfied if 
+a plaintiff satisfies the “general awareness” element.  See Siegel, 933 F.3d at 225 (finding that 
+this factor “[requires] plaintiffs [to] allege that [defendant] knowingly assumed a role in [the 
+FTO’s] terrorist activities or otherwise knowingly or intentionally supported [the FTO]”). 
+         f.    Duration                                                  
+
+    The sixth and final factor, “the period of defendant’s assistance,” looks at how long a 
+defendant was providing the assistance at issue.  While longer relationships may be more 
+indicative of substantial assistance, “[a] lengthy relationship [does] . . . not necessarily [bespeak] 
+. . . assistance in terrorism.”  Freeman, 465 F. Supp. 3d at 234 (finding “[a defendant’s] 25 years 
+of providing banking services” insufficient to establish assistance in terrorism). 
+
+
+
+
+
+                              18                                         
+                          DISCUSSION                                     
+ I.   The Complaint Sufficiently Alleges FTOs Committed, Planned, or Authorized 
+      the Attacks Which Injured Plaintiffs                               
+    As a threshold matter, Plaintiffs must plead that they were injured by “an act of 
+international terrorism committed, planned, or authorized by an organization that had been 
+designated as a foreign terrorist organization” at the time of the attacks.  18 U.S.C. § 2333(d)(2) 
+(emphasis added).11                                                       
+    While the Complaint contains allegations of terrorist attacks on 156 Americans, not every 
+attack was committed by the same set of actors.  Of the 156 injured Americans, 83 were injured 
+by designated FTOs at the time of the attack, usually al-Qaeda, thus satisfying this threshold 
+requirement.  However, many individuals were injured in the attacks “committed by the Taliban” 
+
+alone,12 Am. Compl. ¶¶ 1107–11, 1159–63, 1303–07, 1321–25, 1533–36, 1567–71, 1604–08, 
+1686–90, 1740–44, 1806–10, 1868–72, 1944–47, and a few were injured by the Haqqani 
+
+11   The first Halberstam element requires that Plaintiffs be (i) injured by an act of 
+“international terrorism” which was (ii) committed by an FTO.  None of the Defendants 
+challenge that Plaintiffs’ injuries were caused by acts of “international terrorism.”  The Court is 
+also satisfied that Plaintiffs’ injuries were caused by acts of international terrorism—the injuries 
+are alleged to have been caused by “violent acts . . . [in] violation of the criminal laws of the 
+United States” that appear “intended . . . to intimidate or coerce a civilian population [or] 
+influence” government policy and that “occur[ed] . . . outside the . . . United States.”  18 U.S.C. 
+§ 2331(1).                                                                
+12   The Complaint notes that “[u]nless Plaintiffs specifically indicate otherwise, Plaintiffs’ 
+references to ‘the Taliban’ . . .  mean ‘the Taliban (including its Haqqani Network),’” as the 
+“Haqqani Network and the Taliban are inseparable.”  Am. Compl. ¶ 89 n.9 (emphasis added). 
+The Court cannot treat them as “inseparable” as it pertains to this analysis, however, as the 
+Secretary of State has listed the Haqqani Network as a FTO, as required by the ATA, but not the 
+Taliban.  Fortunately, when Plaintiffs detail each of the attacks, they are explicit when the 
+Haqqani Network was one of the groups who committed the attack.  Thus, for the attacks 
+“committed by the Taliban,” where the Haqqani Network is not listed, the Court will assume the 
+attack was committed by the Taliban alone.                                
+
+                              19                                         
+Network before it was labeled a FTO, id. ¶¶ 1873–77, 1954–58.13           
+    Defendants argue that attacks committed by the Taliban alone, or the Haqqani Network 
+before 2012, would not satisfy the threshold requirement of the ATA.  ECF No. 44 at 5–6; ECF 
+No. 48 at 5 n.4; ECF No. 52 at 17; ECF No. 54 at 5–6.  Plaintiffs appear to recognize this 
+deficiency and argue that while al-Qaeda did not commit all of the attacks, it “authorized and 
+
+planned the Taliban’s attacks on U.S. forces.”  Am. Compl. ¶ 364.  The Second Circuit has not 
+yet ruled on what it means to have “planned” or “authorized” a terrorist attack in this context, but 
+the District of Columbia Circuit has in Atchley v. AstraZeneca UK Ltd., 22 F.4th 204 (D.C. Cir. 
+2022).  There, the court found that, because the FTO at issue—Hezbollah—provided “weaponry, 
+training, and knowledge” to the organization that carried out the attack—Jaysh al-Mahdi—it 
+could be said that Hezbollah helped “plan” the attack.  Id. at 218.  In addition, the Atchley court 
+found that “allegations that Hezbollah exerted religious, personal, and operational authority over 
+Jaysh al-Mahdi show that it ‘authorized’ the attacks as well.”  Id. at 219.   
+    The Court does not need to decide whether Plaintiffs have sufficiently alleged that a FTO 
+
+committed, planned, or authorized the attacks, as it finds that the Complaint should be dismissed 
+for failing to meet the other two Halberstam elements.  However, the Court assumes, without 
+deciding, for the purposes of this decision, that the District of Columbia Circuit correctly gave 
+the terms “planned” and “authorized” the broadest possible reading, in recognition that Congress 
+explicitly enacted JASTA to provide “civil litigants with the broadest possible basis . . . to seek 
+relief.”  JASTA § 2(b), see also Atchley, 22 F. 4th at 215.  Assuming that is the correct standard, 
+
+13   The Taliban has never been designated a FTO, and the Haqqani Network was not 
+designated one until 2012.  See  Foreign Terrorist Organizations, U.S. Dep’t State, 
+https://www.state.gov/foreign-terrorist-organizations (last accessed December 29, 2022).   
+
+                              20                                         
+Plaintiffs have sufficiently alleged that al-Qaeda “planned” the attacks by, inter alia, designing 
+and assembling the improvised explosive devices (“IEDs”) used by the Taliban, Am. Compl. ¶¶ 
+381–96, and by running training camps for the Taliban in Pakistan and Afghanistan, id. ¶¶ 372–
+80.  Plaintiffs also have sufficiently alleged that al-Qaeda “authorized” the attacks when they 
+“issued a series of fatwas directed toward the Taliban, conferring religious permission for them 
+
+to attack Americans in Afghanistan.”  Id. ¶¶ 365–71.                      
+ II.  The Complaint Fails to Allege Sufficiently that Deutsche Bank Either Had 
+      “General Awareness” or Provided “Substantial Assistance”           
+    The Complaint does not plausibly allege that Deutsche Bank aided and abetted terrorist 
+attacks in Afghanistan because it fails to plead sufficiently the “general awareness” or 
+“substantial assistance” elements of a JASTA claim.                       
+    A.   General Awareness                                               
+    Plaintiffs fail to establish plausibly that Deutsche Bank was “generally aware” it was 
+aiding and abetting the principals responsible for the terrorist attacks allegedly linked to 
+Deutsche Bank.  Id. ¶¶ 736–837, 1098–2024.                                
+      i.   Deutsche Bank’s “Laundromats”14                               
+    The Complaint alleges that Deutsche Bank “helped its Syndicate customers raise, wash, 
+and transfer tens of millions of U.S. Dollars through its Russian Laundromat and German 
+Laundromat, [and] Deutsche Bank assumed an active operational role in al-Qaeda and its 
+
+
+14   As alleged in the Complaint, a so-called “Laundromat” is a banking service that 
+facilitates money laundering; here, Plaintiffs allege that Deutsche Bank’s Laundromats helped 
+FTOs and others convert rubles and other currencies into dollars.  Id. ¶ 355.  This would often be 
+done via “mirror trades”—a type of transaction where bonds or shares are bought in one 
+currency and sold in another, in effect converting assets from one currency into another.  Id. ¶ 
+355 n.281.                                                                
+
+                              21                                         
+Syndicate affiliates.”  Id. ¶ 362.  The Complaint, however, alleges insufficient facts to establish 
+that Deutsche Bank was generally aware of its role in the attacks at the time it allegedly provided 
+its assistance.  See Conn. Nat’l Bank, 808 F.2d at 962 (noting that to establish defendant’s state 
+of mind plaintiff must plead facts or events that give rise to an inference of knowledge).  The 
+Complaint attempts to establish general awareness by relying on public sources, many of which 
+
+were published after the attacks at issue had occurred.  See, e.g., Am. Compl. ¶¶ 118 n.37, 212 
+n.89, 267 n.114, 367 n.209, 286 n.251, 294 nn.260–61, 368 n.289, 415 n.305, 453 nn.316–318, 
+485 n.319, 505 n.324, 507 n.327, 545 n.354 (a non-exclusive list of cited public sources which 
+were published after the attacks had occurred).  Public sources published after the attacks had 
+occurred “do not plausibly support an inference that [a defendant] had the requisite general 
+awareness at the time that it provided [the] banking services” at issue.  Honickman, 6 F.4th at 
+501 (emphasis added); cf. Kaplan, 999 F.3d at 864 (finding that public statements satisfied the 
+general awareness element where FTO at issue made public statements identifying the 
+individuals the bank was providing services to as affiliates prior to the attacks which injured 
+
+plaintiffs).                                                              
+    The Complaint implicitly concedes these deficiencies, but attempts to explain away this 
+flaw by stating that “Plaintiffs believe discovery is likely to reveal that Khanani directly or 
+indirectly aided the creation, operation, or refinement, of one or more of Deutsche Bank’s 
+Laundromats, including, but not limited to, the Bank’s ‘Russian Laundromat.’”  Am. Compl. ¶ 
+356 n.283.  However, “Rule 8 . . . does not unlock the doors of discovery for a plaintiff armed 
+with nothing more than conclusions.”  Iqbal, 556 U.S. at 678–79.  In other words, an assertion 
+that Plaintiffs may be able to provide the necessary allegations after discovery is not sufficient to 
+survive a motion to dismiss, the pleadings themselves must state a plausible claim.  Id.; see also, 
+
+                              22                                         
+e.g., Pub. Free Will Corp. v. Verizon Commc’ns Inc., No. 15-cv-6354, 2017 WL 1047330, at *5 
+(E.D.N.Y. Mar. 17, 2017) (finding plaintiff’s argument that it could “plead the two remaining 
+elements only after discovery” insufficient to survive a motion to dismiss). 
+    Looking only at the factual allegations in the Complaint, Plaintiffs have, at most, pled 
+that Deutsche Bank knowingly set up and ran Laundromats in Russia and Germany—in other 
+
+words, it was aware the services it provided were being used by other organizations to launder 
+money from potentially criminal activities.  Setting up a Laundromat in itself, even if illegal, is 
+insufficient to establish Deutsche Bank’s general awareness of its role in Syndicate terrorist 
+attacks in Afghanistan.  For example, in Freeman v. HSBC Holdings PLC, a court in this district 
+held that allegations that a defendant was “aware that its conduct violates the law—even one 
+intended to prevent terrorism,” was insufficient to plausibly plead “general awareness.”  
+Freeman, 465 F. Supp. 3d at 230; see also Siegel, 933 F.3d at 225–26 (finding allegations that 
+defendant helped another bank violate “banking regulations despite knowing that [bank] 
+supported terrorist organizations” were insufficient to plead plausibly “general awareness”); 
+
+O’Sullivan, 2020 WL 906153, at *6 (finding allegations that bank violated law designed 
+“principally to prevent terrorist activity” were insufficient to plead plausibly “general 
+awareness”).                                                              
+    Here, the Complaint alleges that “Deutsche[] [Bank’s] embrace of a profits-at-any-price 
+approach [and] its extreme tolerance for risks” led Deutsche Bank to engage in “risky, complex 
+and possibly illegitimate forms of finance.”  Am. Compl. ¶¶ 366, 368, 371 (emphasis added).  An 
+allegation of financial improprieties, absent factual allegations which would permit the Court to 
+infer Deutsche Bank was aware those improprieties were connected foreseeably to Syndicate 
+
+
+                              23                                         
+attacks in Afghanistan, is insufficient to establish plausibly JASTA’s “general awareness” 
+element.                                                                  
+    The fact that the alleged Laundromat was established in Russia, which according to the 
+Complaint is one of the most “notorious environments for financial crime in the world,” does not 
+change this analysis.  Id. ¶ 214.  The Complaint alleges Russia was a “global epicenter for money 
+
+laundering on behalf of violent actors,” including “organized crime” and “rogue states.”  Id. ¶¶ 
+212–13.  It does not explain how, in such an ecosystem, Deutsche Bank would be able to 
+differentiate services which, for example, supported organized crime in Latin America as 
+opposed to supporting al-Qaeda in carrying out terrorist acts.  Id. ¶¶ 212–13.  Indisputably, 
+having any role in this ecosystem is deplorable—but JASTA only provides for civil liability 
+where a plaintiff can establish general awareness of a defendant’s role in the specific terrorist 
+attacks which caused her injury.  See Siegel, 933 F.3d at 224 (the fact that defendant-bank’s 
+customer was financing terrorism did not satisfy the “general awareness” element for defendant 
+because it was only a small piece of its customer’s complex financial offerings). 
+
+      ii.    Al Zarooni and Mazaka15                                     
+    Plaintiffs further allege that Deutsche Bank was generally aware of the role its 
+Laundromats played in financing FTO attacks in Afghanistan because some of the Laundromats’ 
+customers were affiliates of known FTOs.  Am. Compl. ¶ 393 (alleging that Russian Laundromat 
+transactions “were ordinarily routed through [Deutsche Bank] accounts held in the name of Al 
+
+
+15   Given the overlapping nature of many of the allegations in the Complaint regarding Al 
+Zarooni and Mazaka, this portion of the decision, while focused primarily on Deutsche Bank, 
+will also address the Al Zarooni- and Mazaka-related allegations as to Standard Chartered, Am. 
+Compl. ¶¶ 458–72, and Danske Bank, id. ¶¶ 534–45.                         
+
+                              24                                         
+Zarooni, Mazaka, or other Khanani-related accounts,”16 and that “Khanani, [acted] as al-Qaeda’s, 
+the Taliban’s, and the Haqqani Network’s agent”).  Id. ¶¶ 471, 393.       
+    As discussed earlier, a defendant does not need to have a direct relationship with the FTO 
+that injured plaintiff to support a finding of general awareness by that defendant of its role in the 
+FTO’s violent activities.  Honickman, 6 F.4th at 501 (“[A] direct relationship between the 
+
+defendant and the FTO is not required.”).  For example, in Kaplan, the defendant-bank had 
+banking relationships with individuals and entities who were not FTOs themselves, but were 
+contemporaneously known to be “integral parts of” Hezbollah, the FTO that caused plaintiffs’ 
+injuries.  Kaplan, 999 F.3d 862–63.  There, the court found that because Hezbollah had released 
+public statements claiming a relationship with the individual and entities who were customers of 
+the defendant-bank, the fact that those customers were not FTOs themselves was not enough to 
+defeat the “general awareness” element.  Id. at 863–64.  However, the relationship also cannot be 
+“so attenuated” as to make an inference of general awareness implausible.  Honickman, 6 F.4th 
+at 501.  In Siegel, for example, the defendant-bank had a business relationship with another bank, 
+
+and that other bank had a relationship with a number of FTOs or FTO affiliates, including those 
+that caused the plaintiffs’ injuries.  933 F.3d at 220–21.  The Siegel court found that relationship 
+was too attenuated to establish general awareness.  Id. at 224.           
+    Here, Al Zarooni and Mazaka are simply too far removed from al-Qaeda or the Haqqani 
+Network to give rise to an inference of general awareness on the part of Deutsche Bank.  Al 
+Zarooni and Mazaka were Dubai-based “front companies” that provided currency exchange 
+
+16   The Complaint never names any other Khanani-related entities that did business with 
+Deutsche Bank.  The Court thus focuses its analysis only on the two organizations named in the 
+Complaint.                                                                
+
+                              25                                         
+services.17  Am. Compl. ¶¶ 460–62, 672.  They were allegedly “controlled by” Khanani, but 
+exactly how is unspecified.  Id. ¶¶ 250, 540.  Khanani controlled a number of other entities, 
+eleven of which are mentioned by name in the Complaint,18 id. ¶ 250, which he established in the 
+1990s “for the primary purpose of laundering the transnational organized crime profits, mostly 
+but not entirely from opium,” id. ¶ 248 (emphasis added).  The Complaint refers to these 
+
+organizations collectively as the Khanani Money Laundering Organization (“Khanani MLO”).   
+    A large portion of the Complaint is spent describing the Khanani MLO.  See, e.g., id. ¶¶ 
+7, 247–79.  The Khanani MLO served a “narco-terrorist clientele,” which included “Syndicate 
+members, [as] collectively, . . . Khanani’s largest group of clients.”  Id. ¶ 260.  It does not say, 
+however, that Syndicate members were even a majority of the clients served by the Khanani 
+MLO.  The Khanani MLO apparently worked through a “web of companies spanning the globe” 
+where it did not “segregate terrorist customers’ money but, instead, co-mingled the funds into 
+one pot of money,” including money from legitimate sources and perhaps legitimate clients.  Id. 
+¶¶ 7, 275.  It would then reinvest this pot of legitimate and illegitimate money into legal 
+
+“commercial and real estate ventures” in order to “clean” the money.  Id. ¶ 276.   
+    Again, the Complaint is overflowing with details about the alleged connections between 
+the Khanani MLO and the Syndicate, id. ¶¶ 7, 247–79, but then provides scant allegations that 
+any of the Defendants, including Deutsche Bank, was contemporaneously aware of these 
+
+
+17   The only specific actions the Complaint alleges Al Zarooni and Mazaka engaged in are 
+“mirror trades,” where bonds or shares are bought in one currency and sold in another.  Am. 
+Compl. ¶ 396.                                                             
+18   The Complaint only alleges that two of those entities, Al Zarooni and Mazaka, ever did 
+any business with any of the Defendants.                                  
+
+                              26                                         
+connections.  Id. ¶¶ 764–89.  Specifically, the Complaint fails to allege that Defendants were 
+aware of any connections between Al Zarooni or Mazaka and the Khanani MLO or the Syndicate 
+during the period Defendants were providing them routine banking services.   
+    First, the Complaint fails to provide factual allegations from which the Court could even 
+infer that Defendants were contemporaneously aware that either company was controlled by 
+
+Khanani.19  In their opposition, Plaintiffs dispute this contention.  They argue that the “complaint 
+cites sources as early as 2001 identifying Khanani and his company as suspected terrorist money 
+launderers.”  ECF No. 59 at 24.  However, none of the public sources cited by Plaintiffs link 
+Khanani to the two companies Defendants did business with—Al Zarooni or Mazaka.  See Am. 
+Compl. ¶¶ 672–73, 683.  At best, they link Khanani to a completely different business, Khanani 
+and Kalia International, which the Complaint does not link to Defendants.  Id. ¶ 672.  The Court 
+cannot find an independent source linking Khanani to Al Zarooni until November 2015,20 and 
+Mazaka until October 2016.21  There are no factual allegations linking any Defendant to either 
+organization after these respective dates.  The Complaint only provides one example of services 
+
+provided by Deutsche Bank—“mirror trades and/or one-legged trades” made by Mazaka through 
+
+19   The Complaint is unclear as to what exactly Khanani’s role was in the front companies 
+mentioned in the Complaint.  At times they are referred to as “Khanani-related,” id. ¶¶ 250, 278, 
+393, 471, 689, 1034, or “notoriously linked,” id. ¶ 538, which does not necessarily imply 
+ownership or control.  Other times they are referred to as explicitly controlled by Khanani.  Id. ¶¶ 
+682, 688.                                                                 
+20   U.S. DEPARTMENT OF THE TREASURY, Press Center, Treasury Sanctions The Khanani 
+Money Laundering Organization (Nov. 12, 2015), https://home.treasury.gov/news/press-
+releases/jl0265 (last accessed December 29, 2022).                        
+21   U.S. DEPARTMENT OF THE TREASURY, Press Center, Treasury Sanctions Individuals and 
+Entities as Members of the Altaf Khanani Money Laundering Organization (Oct. 11, 2016), 
+https://home.treasury.gov/news/press-releases/jl0574 (last accessed December 29, 2022). 
+
+                              27                                         
+its Deutsche Bank accounts between 2013 and 2014.  Am. Compl. ¶ 396.  These trades 
+concluded at least a year before any publicly available information linked Mazaka to Khanani.   
+    However, even if Plaintiffs did plausibly plead that Defendants were aware of 
+connections between the Khanani MLO and Al Zarooni or Mazaka, which they have not, the 
+Court would still find that insufficient to establish that Defendants were “generally aware” of 
+
+their role in Syndicate attacks in Afghanistan.  This is because the Complaint itself concedes that 
+the Khanani MLO financially supported a myriad of organizations in addition to the FTOs which 
+caused Plaintiffs’ injuries.  Id. ¶ 248.  Much like the defendant in Siegel—whose customer was 
+doing business with a FTO, but also with many other legitimate and illegitimate individuals and 
+entities at the same time, 933 F.3d at 224,—the complexity of the Khanani MLO does not permit 
+the Court reasonably to infer that any connection to this far-flung network satisfies the “general 
+awareness” element.  While the services provided by Defendants could have supported al-Qaeda 
+or the Haqqani Network, the Complaint concedes it could just as easily have supported “narco-
+terrorists operating in Mexico, Colombia, and China,”  Am. Compl. ¶ 261, or legitimate business 
+
+ventures, id. ¶ 275–76.  Given the breadth of organizations and activities supported by the 
+Khanani MLO, as conceded in the Complaint, see id. ¶¶ 260–64, the Court cannot infer that Al 
+Zarooni or Mazaka were “so closely intertwined with [al-Qaeda or the Haqqani Network’s] 
+violent terrorist activities that one can reasonably infer [Defendants were] . . . generally aware 
+while . . . [they were] providing banking services to those entities that . . . [they were] playing a 
+role in unlawful activities from which [Syndicate] attacks [in Afghanistan] were foreseeable.”  
+Honickman, 6 F.4th at 499.                                                
+    Plaintiffs attempt to get around this fatal deficiency in their pleading by arguing that it 
+“was obvious from the geographies of the banks upon which . . . [Al Zarooni or Mazaka] relied 
+
+                              28                                         
+to conduct the transaction” which transactions were connected to al-Qaeda and the Haqqani 
+Network and which were not.  Am. Compl. ¶ 262 (emphasis added).  This is nothing more than 
+rank speculation, since the wide range of geographies that the Complaint then specifies as 
+suspicious—Afghanistan, Pakistan, the U.A.E., Russia, Estonia, Germany—makes this far from 
+obvious.  Id. ¶¶ 205–45, 260.  For example, the Complaint points to “Germany as a hub for 
+
+financial and logistical activities designed to facilitate terrorist attacks in the U.S., Europe, and 
+the Middle East,” despite the “commitment of the German government to anti-terrorism.”  Id. ¶¶ 
+232 n.94, 232–38.  The Court cannot infer plausibly that Defendants were “generally aware” of 
+their role in Syndicate attacks in Afghanistan simply because one of their customers transferred 
+money from one of these countries to another or to the United States.  Over half a billion people 
+live in these countries, and their combined GDP in 2020 was over five trillion dollars.22  The 
+Court does not find it reasonable to label such a sizable portion of the global economy suspicious 
+enough that doing business there would establish general knowledge of aiding and abetting 
+terrorist attacks.                                                        
+
+      iii.  Imran Yakub Ahmed                                            
+    The Complaint alleges, “[o]n information and belief . . . that Deutsche Bank knowingly 
+aided the transactions with Imran Yakub Ahmed and the Ahmed Cell that enabled the 
+Syndicate’s VAT Finance Scheme.”  Am. Compl. ¶ 431.  It provides no additional detail linking 
+Deutsche Bank to Ahmed.  This is simply not enough.  “[M]ere conclusory statements [of this 
+sort], do not suffice” to state a plausible claim.  Iqbal, 556 U.S. at 678. 
+
+
+22   See U.S. CENTRAL INTELLIGENCE AGENCY, World Factbook, www.cia.gov/the-world-
+factbook (last accessed December 29, 2022).                               
+
+                              29                                         
+      iv.  Mamoun Darkazanli and Mamdoubh Mahmud Salim                   
+    The Complaint further alleges that Deutsche Bank provided banking services to Mamoun 
+Darkazanli and Mamdoubh Mahmud Salim, who were “al-Qaeda supporters, operatives, and 
+fundraisers who were each a member of al-Qaeda’s notorious cell in Hamburg, Germany.”  Am. 
+Compl. ¶ 435.  Plaintiffs allege that Deutsche Bank provided banking services to these 
+
+individuals “[f]rom 1995 through at least 2001.”  Id. ¶ 437.  The Complaint lays out additional 
+“financial transactions” by Darkazanli and Salim through “at least September 2003,” but does 
+not specify whether those transactions involved Deutsche Bank in any way.  Id.   
+    All of these transactions occurred over eight years before any of the alleged terrorist acts.  
+Thus, there is no way that based on these allegations the Court can infer plausibly that Deutsche 
+Bank was “generally aware of [its] role as part of an overall illegal or tortious activity at the time 
+that [it] provide[d] the assistance.”  Halberstam, 705 F.2d at 477 (emphasis added).  The gap in 
+time is too wide to find that the terrorist acts that caused Plaintiffs’ injuries were a foreseeable 
+result of Deutsche Bank’s alleged assistance nearly a decade earlier.  See Honickman, 6 F.4th at 
+
+496 (finding that “[f]oreseeability is . . . central to the Halberstam framework”). 
+      v.   Samir Azizi                                                   
+    The Complaint also alleges that Deutsche Bank provided services to Samir Azizi, who 
+conducted “large-scale VAT fraud” and repatriated that money back to FTOs like al-Qaeda.  Am. 
+Compl. ¶¶ 128, 288–94.  He did this “by regularly purchasing mobile phones in the United States 
+and then reexporting them to Afghanistan” “through Europe and Dubai.”  Id. ¶¶ 420–21.  Along 
+the way he would “seek a refund of the VAT that they falsely claimed to have paid in another 
+country” for those cell phones, “causing governments to issue [VAT] refunds that they should 
+not” have issued.  Id. ¶ 282.  Azizi then “use[d] global financial institutions to convert the Euros 
+
+                              30                                         
+obtained through the VAT fraud into USD . . . ; and (3) transfer the resulting USD back to 
+[FTOs] to support attacks against Americans in Afghanistan.”  Id. ¶ 287.  
+    Again, the Complaint alleges that Defendants Deutsche Bank and Standard Chartered 
+were only involved tangentially in Azizi’s VAT fraud.  The Complaint alleges that from the 
+“mid-2000s through 2015, Azizi used Deutsche Bank accounts . . . to enable the Syndicate’s 
+
+VAT Finance Scheme,” and identifies specific transactions made by Azizi from 2007 to 2012, 
+which allegedly show him transferring money to Syndicate “fronts, shell companies, operatives, 
+agents, or business partners.” 23  Id. ¶¶ 413, 417, 352.  The Complaint does not provide any 
+additional factual allegations that would permit the Court to infer that these transactions are 
+connected to FTOs.  In terms of services provided, the Complaint alleges that Azizi held 
+
+
+23   The Complaint does not provide any additional detail linking these transactions to FTOs.  
+However, upon further examination, the companies listed appear to be the companies controlled 
+or owned by Mr. Azizi himself, not separate organizations linked to al Qaeda or the Haqqani 
+network.  The information appears to be pulled from a working paper, which itself notes that any 
+connection between Mr. Azizi’s VAT fraud and terrorism are “not further supported by third-
+party evidence[,] rather . . . only by the sworn statement of the German prosecutor that in turn 
+(allegedly) rests on facts not presented in court [referring to Mr. Azizi’s 2015 extradition].”  See 
+Richard T. Ainsworth, VAT Fraud and Terrorist Funding—The Azizi Extradition Allegations 
+Part II, Law & Economics Working Paper No. 15-29, at 1 (Sept. 24, 2015)   
+https://www.bu.edu/law/files/2015/12/UpdatedAinsworthR09242015.pdf.  As such, it is unclear 
+exactly how the specific transactions made by Azizi from 2007 to 2012 which are referenced in 
+the Complaint demonstrate his “total estimated transfers to al-Qaeda,.” when the paper those 
+transactions were pulled from belies this very assertion   Am. Compl. ¶ 417.   
+    The Court notes that although the working paper is not explicitly cited in the Complaint, 
+it may still consider an extrinsic document “where the complaint ‘relies heavily upon its terms 
+and effect,’ which renders the document ‘integral’ to the complaint.”  Chambers v. Time Warner, 
+Inc., 282 F.3d 147, 153 (2d Cir. 2002) (quoting Int’l Audiotext Network, Inc. v. Am. Tel. and Tel. 
+Co., 62 F.3d 69, 72 (2d Cir. 1995)).  Here, Plaintiffs clearly relied heavily on Dr. Ainsworth’s 
+working paper, as the figures appear to be pulled directly from it.  Thus, the Court finds that the 
+working paper is sufficiently “integral to the complaint” and may be considered in determining 
+the motions.                                                              
+
+                              31                                         
+accounts at Deutsche Bank and made “trades” via those accounts, both seemingly routine 
+banking services.24  Id ¶ 417.                                            
+    Once again, however, the Complaint does not allege sufficient facts permitting the 
+reasonable inference that Deutsche Bank was aware that Azizi was connected to international 
+terror at the time it provided him with routine banking services.  The earliest public source 
+
+linking Azizi to the Syndicate appears to be his 2015 arrest and extradition.  Id. ¶¶ 291–92.  The 
+Complaint does not allege that Deutsche Bank (or Standard Chartered for that matter) provided 
+services after that date.  The Complaint does cite a number of earlier public sources discussing 
+the possible connections between VAT fraud and terror financing, in general, but none that 
+identifies Azizi as a perpetrator.  See, e.g., id. ¶¶ 280–86.             
+    That Azizi was using the supposed sale of cell phones as a means of perpetrating VAT 
+fraud does not change this analysis.25  For one, while cell phones can be used to provide 
+“operational advantages for terrorists,” id. ¶ 420, they have a wide variety of other non-nefarious 
+uses.  Even more to the point, the Complaint does not allege that either Deutsche Bank or 
+
+Standard Chartered was involved in, or aware of, these cell phone purchases.  Rather, it merely 
+alleges that Azizi deposited the money that he made through VAT fraud in his Deutsche Bank 
+and Standard Chartered accounts, transferred money to and from those accounts, and received 
+
+
+24   Plaintiffs argue “that knowingly providing services that benefit terrorist bombers can 
+never be routine,” noting that, “ordinary banking transactions often enabled Syndicate violence.” 
+ECF No. 61 at 23 n.5.  See also ECF No. 58 at 26; ECF No. 60 at 19.  The Court reads this 
+allegation as a concession that the services themselves were largely similar or identical to the 
+ordinary (i.e., “routine”) banking services provided to other customers.  
+25   Plaintiffs argue that “cell phone exports to Afghanistan were the definitive red flag of all 
+red flags for suspected VAT fraud-related transactions because cell phones purchased in the 
+United States . . . provide enormous operational advantages for terrorists.”  Am. Compl. ¶ 420. 
+
+                              32                                         
+financial advice regarding how to invest the money in those accounts.  Id. ¶¶ 413–14, 476–77.  
+Plaintiffs plead no facts which would permit the Court to infer that either Deutsche Bank or 
+Standard Chartered was aware of its role in Azizi’s “cell phone pipeline,” let alone that 
+Defendants were “generally aware” of their role in al-Qaeda or the Haqqani Network’s terror 
+attacks in Afghanistan.                                                   
+
+      vi.  National Iranian Oil Company (“NIOC”) and the National Iranian 
+           Tanker Company (“NITC”)                                       
+    The Complaint alleges that Deutsche Bank and Standard Chartered, see infra, Section 
+III.A.v, provided banking services to NIOC and NITC.  According to the Complaint, these are 
+government-owned Iranian companies that allegedly “have been led by an agent or cut-out for 
+the IRGC, including its Hezbollah Division and Qods Force, and [have] served as a central hub 
+of Hezbollah and Qods Force fundraising and logistics, which value has flowed through to al-
+Qaeda and the Taliban, including its Haqqani Network, to facilitate attacks against Americans in 
+Iraq,” Am. Compl. ¶ 341, and Afghanistan, id. ¶ 345.                      
+    Despite devoting ten pages of the Complaint to describing the connections between Iran, 
+al-Qaeda, and the Taliban, id. ¶¶ 318–45, Plaintiffs only devote three short paragraphs 
+attempting to connect, in wholly conclusory fashion, NIOC or NITC to Deutsche Bank.  Id. ¶¶ 
+432–34.  Plaintiffs allege that “[Standard Chartered and Deutsche Bank]26 knew that NIOC and 
+NITC served as a front for Iranian terrorism through the IRGC’s Hezbollah Division and Qods 
+Force” and that each “caused tens of millions in U.S. Dollars each year to flow through illicit 
+
+transactions with NIOC and NITC, into Hezbollah and Qods Force accounts, which funded al-
+
+26   The Complaint alleges that Deutsche Bank “regularly facilitated NIOC and NITC 
+transactions in the same manner as the [Standard Chartered] Defendants.”  Am. Compl. ¶ 432.   
+
+                              33                                         
+Qaeda’s and the Taliban’s terrorist campaign against Americans in Afghanistan.”  Id. ¶¶ 433–34 
+(as to Deutsche Bank); id. ¶ 489 (as to Standard Chartered).              
+    Plaintiffs, however, provide no factual allegations supporting these bald conclusory 
+statements that Defendants knew of the nexus between NIOC and NITC and the terrorist acts 
+alleged in the Complaint.  Again, “mere conclusory statements[] do not suffice” to state a 
+
+plausible claim that Deutsche Bank (or Standard Chartered) was “generally aware” of the alleged 
+role NIOC and NITC played financing international terror.  See Iqbal, 556 U.S. at 678. 
+    B.   Substantial Assistance                                          
+    Beyond not establishing “general awareness,” Plaintiffs have also failed to show that 
+Deutsche Bank provided “substantial assistance” under the six Halberstam factors, which the 
+Court analyzes as follows:                                                
+    i.  Nature of the act encouraged.  The Complaint alleges that Deutsche Bank provided 
+      a lax regulatory environment which facilitated money laundering and VAT fraud, 
+      ultimately allowing money to flow to FTOs.  While “[f]inancial support is 
+
+      ‘indisputably important’ to the operation of a terrorist organization,” the allegations 
+      here are too vague, and connection between the alleged support and the terrorist 
+      attacks at issue is too attenuated, to support a finding of substantial assistance.  
+      Gonzalez v. Google LLC, 2 F.4th 871, 905 (9th Cir. 2021) (quoting Halberstam, 705 
+      F.2d at 488).                                                      
+    ii.  Amount and kind of assistance.  The Complaint alleges that $59,326,477 flowed 
+      from Deutsche Bank.  Am. Compl. ¶ 352.  Of this amount, $49,787,832 involved 
+      trades made by Mazaka “between 2013 and 2014.”  Id. ¶ 396.  An estimated $8.7 
+
+
+                              34                                         
+      million involved transfers made by Azizi.27  Id. ¶¶ 416–17.  Finally, the Complaint 
+      alleges $970,585 worth of “transactions” made by Darkazanli and Salim.28  Id. ¶ 439.  
+      However, the Complaint does not allege any facts that would allow the Court to infer 
+      that the alleged nexus between these banking services and the terrorist activity is 
+      plausible.  The Complaint does not give any concrete values for any of the other 
+
+      named organizations or individuals, is vague and imprecise about exactly what 
+      services were provided, and the only specific examples provided appear to be routine, 
+      arms-length financial transactions.  The Complaint, therefore, does not “permit a 
+      reasonable inference that the defendant recognized the money it transferred to its 
+      customers would be received by the FTO,” Honickman, 6 F.4th at 500, and thus does 
+      not support a finding of substantial assistance.                   
+    iii. Presence at the time of the tortious conduct.  The Complaint does not allege 
+      Deutsche Bank was “present” at the time of the attacks.  This factor does not support 
+      a finding of substantial assistance.                               
+
+    iv. Relationship.  In terms of named organizations, the Complaint alleges Deutsche 
+      Bank provided financial services, possibly even financial services which helped 
+      facilitate money laundering, to Al Zarooni, Mazaka, Ahmed, Darkazanli, Salim, and 
+      Azizi.  The Complaint is not clear what services were provided to NIOC and NITC, if 
+
+27   The Complaint is not clear how Deutsche Bank was involved in these transactions, but 
+the Court assumes that they were trades made through Azizi’s Deutsche Bank accounts. 
+28   The Complaint does allege additional transactions, see, e.g., id. ¶ 434 (“Deutsche Bank . . 
+. caused tens of millions in U.S. Dollars each year to flow through illicit transactions with NIOC 
+and NITC . . . .”), but the Court finds that allegation too vague and unspecific to support a 
+finding of substantial assistance.                                        
+
+                              35                                         
+      any.  For the same reasons these relationships, as discussed above, are too attenuated 
+      to give rise to an inference of general awareness they are also too attenuated to 
+      support a finding of substantial assistance.                       
+    v.  State of mind.  Because there is insufficient evidence that Deutsche Bank acted with 
+      general awareness that it supported terrorist acts, see supra Section II.A, this factor 
+
+      does not support a finding of substantial assistance.              
+    vi. Duration.  The Complaint provides conclusory allegations that Deutsche Bank 
+      provided services to “Khanani” for eight years, from 2008 to 2016, and Azizi for five 
+      years, from 2007 to 2012.  Am. Compl. ¶¶ 392–93.  It broadly alleges Deutsche Bank 
+      provided services to the other named organizations or individuals during the Relevant 
+      Period, but does not provide any allegations that would permit the Court to make this 
+      inference.  The Court, therefore, does not find these allegations are enough to support 
+      a finding of substantial assistance.  See Freeman, 465 F. Supp. 3d at 235 (finding 25 
+      years of providing banking services inadequate to support a finding of “substantial 
+
+      assistance”).                                                      
+    Therefore, taking all the factors into account, the Court find that on balance the 
+Complaint insufficiently alleges that Deutsche Bank provided “substantial assistance” under the 
+six Halberstam factors.                                                   
+                          *    *    *                                    
+
+    Because Plaintiffs fail to allege plausibly the “general awareness” or “substantial 
+assistance” elements against Deutsche Bank, the Complaint as to Deutsche Bank is dismissed. 
+
+
+                              36                                         
+ III.  The Complaint Fails to Allege Sufficiently that Standard Chartered Either Had 
+      “General Awareness” or Provided “Substantial Assistance”           
+    Plaintiffs’ Complaint does not plausibly allege that Standard Chartered aided and abetted 
+terrorist attacks in Afghanistan because it fails to plead sufficiently the “general awareness” or 
+“substantial assistance” elements of a JASTA claim.  Id. ¶¶ 839–920.      
+    A.   General Awareness                                               
+    Plaintiffs fail to establish plausibly that Standard Chartered was “generally aware” it was 
+aiding and abetting the principals responsible for the terrorist attacks allegedly linked to Standard 
+Chartered.  Id. ¶¶ 868–920, 1098–2024.                                    
+      i.   Standard Chartered’s “Laundromats”                            
+    With respect to the so-called Laundromats, the Complaint alleges that “Standard 
+
+Chartered Bank operated as a Laundromat that willingly serviced terrorist financiers.”  Id. ¶ 450.  
+As with Defendant Deutsche Bank, see supra Section II.A.i, conclusory allegations that Standard 
+Chartered was operating a Laundromat, Am. Compl. ¶¶ 447–57, are insufficient to permit the 
+Court to infer that Standard Chartered was generally aware of the role it was playing in financing 
+terrorism in Afghanistan.                                                 
+    Plaintiffs provide no additional factual allegations that would allow the Court to make a 
+different inference.  In fact, the Complaint provides far fewer details about Standard Chartered’s 
+alleged Laundromat than it does for other Defendants.   Rather than alleging specific violations 
+that could be connected to the terrorist attacks at issue here, it alludes to a much broader set of 
+
+“violations of U.S. counter-terrorist finance laws, regulations, and norms.”  Id. ¶ 447.  Rather 
+than providing specific evidence, it cites to a plethora of public sources, some of which were 
+published after the Relevant Period, and none of which linked Standard Chartered to FTO or 
+
+                              37                                         
+FTO affiliates.  Id. ¶¶ 451–52.  While the sources cited certainly establish that Standard 
+Chartered has violated financial regulations in the past, such evidence is insufficient to allege 
+plausibly that it was generally aware of its role in terrorist attacks in Afghanistan.  See Freeman, 
+465 F. Supp. 3d at 230 (“[I]t is not enough for a defendant-bank to be aware that its conduct 
+violates the law—even one intended to prevent terrorism—or that the organization or entity to 
+
+which it is providing financial services supports terrorist organizations; the bank must be aware 
+that through its own conduct, whether legal or illegal, it is assuming a role in actual terrorist 
+activity.”).                                                              
+      ii.   Al Zarooni and Mazaka                                        
+    The Complaint next alleges that “Standard Chartered Bank provided financial services to 
+Khanani’s companies, including Al Zarooni Exchange and Mazaka.”  Id. ¶ 458.  Once again, for 
+the reasons established for Deutsche Bank, see supra Section II.A.ii, the fact that Standard 
+Chartered had a routine banking relationship with either of Khanani’s alleged front companies—
+Al Zarooni or Mazaka—before 2016 is insufficient to infer plausibly that Standard Chartered 
+
+was generally aware it was aiding and abetting terrorist attacks in Afghanistan.   
+    Here, Plaintiffs do not plead any additional factual allegations from which it can 
+plausibly be inferred that Standard Chartered had anything more than a routine banking 
+relationship with Al Zarooni and Mazaka.  At most, the Complaint alleges that Al Zarooni and 
+Mazaka had accounts at Standard Chartered and used those accounts to “facilitate USD-
+denominated transactions,” most likely mirror-trades.  Am. Compl. ¶ 461.  
+    The Court is not persuaded that general awareness is established by Plaintiffs’ additional 
+allegation regarding a senior compliance employee at Standard Chartered Bank, Dubai (“SCB 
+Dubai Employee-1”).  Id. ¶¶ 466–67.  The Complaint claims that SCB Dubai Employee-1 was 
+
+                              38                                         
+aware by 2012 that “Standard Chartered Bank’s relationship with Khanani29 risked terrorism 
+because the SCB Defendants’ provision of financial services to Khanani did, in fact, fund 
+Syndicate terrorists in Afghanistan and Pakistan through 2016,” but provides no further factual 
+support for this claim.  Id. ¶ 467.                                       
+    There are several issues with this claim.  First, Standard Chartered Bank, Dubai (“SCB 
+
+Dubai”) is not one of the Standard Chartered Defendants, see ECF No. 10 (Voluntary Dismissal 
+of SCB Dubai), and the Complaint does not explain what role, if any, SCB Dubai Employee-1 
+had in any of the named Standard Chartered Defendants.  The Complaint does not elaborate how 
+Employee-1 let SCB Dubai know of his or her conclusions, or whether anyone at SCB Dubai let 
+the other Standard Chartered Defendants know.  “While a plaintiff may plead facts alleged upon 
+information and belief where the belief is based on factual information that makes the inference 
+of culpability plausible, such allegations must be accompanied by a statement of the facts upon 
+which the belief is founded.”  Stern v. State Univ. of N.Y., No. 16-cv-5588, 2018 WL 4863588, at 
+*18 (E.D.N.Y. Sept. 30, 2018) (quoting CBF Industria de Gusa S/A v. AMCI Holdings, Inc., 316 
+
+F. Supp. 3d 635, 645 (S.D.N.Y. 2018)).  Even setting these deficiencies aside, claiming, without 
+factual support, that an unnamed individual within an affiliate of the Standard Chartered 
+Defendants named here was generally aware of the connections between Standard Chartered and 
+terrorist attacks in Afghanistan is no less of a conclusory allegation than simply claiming 
+Standard Chartered itself was aware.  “[M]ere conclusory statements[] do not suffice,” however, 
+to state a plausible claim that Standard Chartered was “generally aware” of the role Al Zarooni 
+
+
+29   The Complaint does not specify whether this refers to a direct relationship with Khanani, 
+a relationship with one of his front companies, or a relationship with one of his associates in the 
+Khanani MLO.                                                              
+
+                              39                                         
+or Mazaka played in financing international terror, let alone Standard Chartered’s role in al-
+Qaeda and the Haqqani Network’s attacks in Afghanistan.  See Iqbal, 556 U.S. at 678. 
+      iii.  Samir Azizi                                                  
+    For the same reasons established for Deutsche Bank, see supra Section II.A.v, allegations 
+that Standard Chartered provided routine banking services to alleged VAT fraudster Azizi before 
+
+his extradition in 2015 are insufficient to establish that Standard Chartered was generally aware 
+of the role it was playing in financing terrorism in Afghanistan.  Here, Plaintiffs provide no 
+details beyond what they alleged with regards to Deutsche Bank—that Azizi held accounts at 
+Standard Chartered before his arrest and received routine banking services.  As such, the 
+Complaint does not plead sufficient facts that would permit the Court to infer that Standard 
+Chartered was “generally aware” of its role in international terrorism when it did business with 
+Azizi.                                                                    
+      iv.     Hikmatullah Shadman                                        
+    The Complaint further alleges that Standard Chartered provided banking services to 
+
+Hikmatullah Shadman, who was allegedly “a notorious Haqqani Network-aligned warlord in 
+Afghanistan.”  Am. Compl. ¶ 480.  Plaintiffs allege that Shadman had Standard Chartered 
+accounts from “2008 through November 2012” when the U.S. seized his bank accounts for 
+aiding the Haqqani Network.  Id. ¶ 483.  Plaintiffs do not allege Standard Chartered provided any 
+services to Shadman after the U.S. initiated proceedings against him in 2012. 
+    The Complaint also does not allege any facts from which it could be inferred that 
+Standard Chartered knew, prior to 2012, that Shadman was associated with the Haqqani 
+Network.  Cf. Kaplan, 999 F.3d at 862–63 (finding defendant-bank liable because FTO had 
+released public statements claiming a relationship with individual and entities who were 
+
+                              40                                         
+customers of defendant-bank before their attacks).  Without additional allegations, the Complaint 
+fails to allege that Standard Chartered was aware of any connections between Shadman and 
+terror attacks in Afghanistan during the period he maintained accounts at the bank. 
+      v.   NIOC and NITC                                                 
+    The Complaint additionally alleges that Standard Chartered provided banking services to 
+
+NIOC and NITC “in the same manner” as Deutsche Bank.  Am. Compl. ¶ 432.  It alleges no 
+additional facts specific to Standard Chartered.  The Court has already determined, see supra 
+Section II.A.vi, that these allegations are conclusory statements that are insufficient to establish 
+general awareness.  As already noted, “mere conclusory statements[] do not suffice” to state a 
+plausible claim that Standard Chartered was “generally aware” of the alleged role NIOC and 
+NITC played in financing international terror.  See Iqbal, 556 U.S. at 678. 
+      vi.  Mustafa Ahmed al-Hisawi, Abdul Baqi Bari, and Viktor Bout     
+    The Complaint goes on to allege that Standard Chartered provided banking services to:  
+(i) Mustafa Ahmed al-Hisawi, “al-Qaeda’s paymaster and key financial planner,” Am. Compl. ¶ 
+
+491; (ii) Abdul Baqi Bari, “the ‘right hand’ of Jalaluddin Haqqani,” id. ¶ 500; and (iii) Viktor 
+Bout, a “notorious Russian arms dealer,” id. ¶ 498.  These individuals are alleged to have done 
+business with Standard Chartered.  Bari and al-Hisawi maintained bank accounts at Standard 
+Chartered.  Id. ¶¶ 491–97, 500–04.  The nature of the business relationship with Bout is less 
+clear—the Complaint only alleges that Standard Chartered had a relationship with Bout, but the 
+exact nature of that relationship is not described.  Id. ¶¶ 498–99.  There are no allegations 
+
+
+
+
+                              41                                         
+suggesting that the services provided by Standard Chartered to any of these individuals were 
+anything but routine banking services.                                    
+    While the connection between these individuals and the FTOs is clearer than for many of 
+the other named individuals in the Complaint, Standard Chartered points out that it “ceased 
+doing business with these three individuals years before the attacks.”  ECF No. 65 at 4 (emphasis 
+
+omitted).  Plaintiffs do not dispute this point.30  Thus, based on the allegations before the Court, 
+there is no basis from which to infer that Standard Chartered was “generally aware of [its] role as 
+part of an overall illegal or tortious activity at the time that [it] provided the assistance.”  
+Halberstam, 705 F.2d at 477 (emphasis added).  The span of time between when Standard 
+Chartered provided services to these three individuals31 and the attacks at issue is too attenuated 
+to allow for the inference that “the act[s] that caused the plaintiff[s’] injur[ies] w[ere] [a] 
+foreseeable” result of that assistance.  Honickman, 6 F.4th at 496.       
+      vii.  Fatima Fertilizer Company Limited and Pakarab Fertilizers Limited 
+    The Complaint further alleges that Standard Chartered provided “foreign exchange and 
+export finance services,” Am. Compl. ¶ 505, and “letters of credit,” id. ¶¶ 1076, 1081—both 
+
+routine banking services—to two fertilizer companies in Pakistan:  Fatima and Pakarab.  Id. ¶¶ 
+505–32.  The Complaint asserts that Fatima considered Standard Chartered one of the “major 
+
+
+
+30   Plaintiffs’ only rebuttal is to insist that such a temporal connection is no longer necessary 
+after Honickman.  ECF No. 61 at 24.  The Court has already explained why this is incorrect, 
+supra Section B.2, when discussing the “General Awareness” element.       
+31   The latest year that Plaintiffs allege Standard Chartered provided services to Hisawi is 
+2003, id. ¶ 496, Bout is 2008, id. ¶ 499, and Bari is 2006, id. ¶ 502.  The earliest attack alleged in 
+the Complaint occurred in 2011.  Id. ¶ 1.                                 
+
+                              42                                         
+bankers of the company,” but does not assert it was the only bank that did business with Fatima.  
+Id. ¶ 526.                                                                
+    According to the Compliant, a small portion, around one percent, of calcium ammonium 
+nitrate fertilizer produced by these companies was eventually used by FTOs, particularly the 
+Haqqani Network, to build IEDs.  Id. ¶ 515.  IEDs made with fertilizer, some of which were 
+
+made with fertilizer sold by Fatima and Pakrarab, were in turn used to cause grievous injuries, 
+including in “nearly every IED and suicide bomb attack in this case.”  Id. ¶ 403. 
+    While Plaintiffs have drawn a line from the fertilizer produced by Fatima and Pakarab to 
+IEDs used in Afghanistan, that by itself does not establish that Standard Chartered was generally 
+aware of the role it was playing in terror attacks by providing routine banking services to those 
+companies.  Plaintiffs do not allege that Fatima and Pakarab directly supplied FTOs with 
+fertilizer—they supplied fertilizer to Pakistani farmers and fertilizer dealers, some of which was 
+eventually smuggled into Afghanistan to produce IEDs.  Id. ¶¶ 513–14.     
+    Plaintiffs’ reliance on Atchley, 22 F.4th 204, as support for their assertion that they have 
+
+pled a sufficient nexus between Standard Chartered and the terrorists acts they link to Fatima and 
+Pakarab is unconvincing.  In Atchley, “terrorist group Jaysh al-Mahdi . . . openly controlled 
+Iraq’s Ministry of Health . . . and used it as a vehicle for terrorist activity.”  22 F.4th at 209.  
+Despite that knowledge, “defendants, aware of Jaysh al-Mahdi’s command of the Ministry, 
+secured lucrative medical-supply contracts with the Ministry by giving corrupt payments and 
+valuable gifts to Jaysh al-Mahdi.”  Id.  Here, there is no allegation that either Fatima or Pakarab 
+was “controlled” by a FTO, or that they did business directly with any FTO.  Rather, what 
+Plaintiffs allege is that a miniscule percentage of the otherwise legitimate product produced by 
+Fatima and Pakarab was ultimately used by terrorists.  Simply because a product of a company 
+
+                              43                                         
+receiving banking services from a defendant-bank can be used in terrorist activity is not enough 
+to establish that the bank customer is “so closely intertwined with [the FTO’s] violent terrorist 
+activities that one can reasonably infer that [the defendant-bank] was generally aware while it 
+was providing banking services to those entities that it was playing a role in unlawful activities 
+from which [FTO] attacks were foreseeable.”  Honickman, 6 F.4th at 499 (citations and 
+
+quotation marks omitted).                                                 
+    This analysis does not change even if Standard Chartered was made aware of how Fatima 
+and Pakarab’s product was being misused.  The Complaint alleges that in 2013 a senior U.S. 
+military official informed Standard Chartered about how Fatima and Pakarab’s product was 
+being used by FTOs.  Am. Compl. ¶¶ 529–30.  However, even if Standard Chartered was made 
+aware of the fact that a small portion of Fatima and Pakarab’s products was being misused—not 
+by Fatima and Pakarab, but by other individuals after it had been purchased—that in and of itself 
+is insufficient to establish that Standard Chartered was generally aware of the role it was playing 
+in terrorist activities.  See Siegel, 933 F.3d at 224 (HSBC had “little reason to suspect that it was 
+
+assuming a role in [al-Qaeda’s] terrorist activities,” because HSBC’s customer was a legitimate 
+business and was never publicly identified as a terrorist affiliate to al-Qaeda); Honickman, 432 F. 
+Supp. 3d at 268 (allegations showing defendant might have known about a possible nexus 
+between its customer and the FTO that caused plaintiffs’ injuries insufficient to establish general 
+awareness).  Fertilizer may be a key material component of terrorist attacks, but that does not 
+mean that providing routine banking services to fertilizer companies necessarily establishes that 
+Standard Chartered was generally aware of the role it was playing in those terrorist attacks.  
+
+
+
+                              44                                         
+    B.   Substantial Assistance                                          
+    As with Deutsche Bank, Plaintiffs have also failed to show that Standard Chartered 
+provided “substantial assistance” under the six Halberstam factors, which the Court analyzes as 
+follows:                                                                  
+    i.  Nature of the act encouraged.  The Complaint alleges that Standard Chartered 
+
+      provided routine banking services to individuals and organizations that in turn helped 
+      transfer money to FTOs.  Am. Compl. ¶¶ 458–504.  While “[f]inancial support is 
+      ‘indisputably important’ to the operation of a terrorist organization,” the allegations 
+      here are too vague, and the connection between the alleged support and the terrorist 
+      attacks at issue is too attenuated, to support a finding of substantial assistance.  
+      Gonzalez, 2 F.4th at 905 (quoting Halberstam, 705 F.2d at 488).    
+    ii.  Amount and kind of assistance.  As noted earlier, the Complaint largely alleges that 
+      Standard Chartered provided routine banking services to individuals and 
+      organizations.  As to the amount of assistance, the Complaint alleges that Standard 
+
+      Chartered provided “more than $130,000,000” to FTOs.  Am. Compl. ¶ 446.  
+      However, the Complaint does not allege any facts that would allow the Court to infer 
+      that the alleged nexus between these banking services and the terrorist activity is 
+      plausible.  The only specific factual allegations involve transfers by Hisawi, all of 
+      which occurred years before the attacks that injured Plaintiffs.  Id. ¶¶ 493–95.  The 
+      Complaint, therefore, does not “permit a reasonable inference that the defendant 
+      recognized the money it transferred to its customers would be received by the FTO,” 
+      Honickman, 6 F.4th at 500, and thus does not support a finding of substantial 
+      assistance.                                                        
+
+                              45                                         
+iii. Presence at the time of the tortious conduct.  The Complaint does not allege 
+ Standard Chartered was “present” at the time of the attacks.  This factor does not 
+ support a finding of substantial assistance.                       
+iv. Relationship.  The Complaint alleges that years before the attacks at issue, Standard 
+ Chartered had relationships with three individuals affiliated with FTOs—al-Hisawi, 
+
+ Bari, and Bout.  Am. Compl. ¶¶ 496, 499, 502.  These relationships are too 
+ temporally attenuated to the attacks at issue to support a finding of substantial 
+ assistance.  In addition, the Complaint alleges that Standard Chartered had routine 
+ banking relationships with Al Zarooni, Mazaka, Fatima, Pakarab, Azizi, and 
+ Shadman.  Id. ¶¶ 458, 461, 505, 1076, 1081.  The Complaint fails to establish what 
+ services, if any, were provided to NIOC and NITC.  Id. ¶ 432.  For the same reasons 
+ these relationships are too attenuated to support a reasonable inference of general 
+ awareness, see supra Section III.A, they are also too attenuated to support a finding 
+ of substantial assistance.                                         
+
+v.  State of mind.  Because there are insufficient allegations that Standard Chartered 
+ acted with general awareness that it supported terrorist acts, see supra Section III.A, 
+ this factor does not support a finding of substantial assistance.  
+vi. Duration.  The Complaint alleges specific multi-year relationships with Hisawi, 
+ Bout, and Bari—although these relationships all ended years before the attacks that 
+ injured Plaintiffs.  Am. Compl. ¶ 446.  The Complaint further alleges that Shadman 
+ held an account at Standard Chartered for four years, only one of which overlapped 
+ with the Relevant Period.  Id. ¶ 481.  The Complaint alleges a six-year banking 
+ relationship with Fatima and Pakarab, three of which overlapped with the Relevant 
+
+                         46                                         
+      Period.  Id. ¶ 446.  The Complaint only provides vague and conclusory allegations as 
+      to the duration of the relationships with Al Zarooni, Mazaka, Azizi, NIOC and NITC.  
+      Id.  The Court finds this factor, at best, weakly supports this element. 
+    Taking all the factors into account, the Court finds that on balance the Complaint 
+insufficiently alleges that Standard Chartered provided “substantial assistance” under the six 
+
+Halberstam factors.                                                       
+                          *    *    *                                    
+    Because Plaintiffs fail to allege plausibly the “general awareness” or “substantial 
+assistance” elements against Standard Chartered, the Complaint as to Standard Chartered is 
+dismissed.                                                                
+
+ IV.  The Complaint Fails to Allege Sufficiently that Danske Bank Either Had 
+      “General Awareness” or Provided “Substantial Assistance”           
+    Plaintiffs’ Complaint does not plausibly allege that Danske Bank aided and abetted 
+terrorist attacks in Afghanistan because it fails to plead sufficiently the “general awareness” or 
+“substantial assistance” elements of a JASTA claim.                       
+    A.   General Awareness                                               
+    Plaintiffs fail to establish plausibly that Danske Bank was “generally aware” it was aiding 
+and abetting the principals responsible for the terrorist attacks allegedly linked to Danske Bank.  
+Am. Compl. ¶¶ 921–30, 1098–2024.                                          
+      i.   Danske Bank’s “Estonian Laundromat”                           
+    For the same reasons established for Deutsche Bank, see supra Section II.A.i, and 
+Standard Chartered, see supra Section III.A.i, allegations that Danske Bank was operating a 
+Laundromat in Estonia do not allege sufficient facts from which the Court can reasonably infer 
+
+                              47                                         
+that Danske Bank was generally aware of the role it was allegedly playing in financing terrorism 
+in Afghanistan.                                                           
+    Here, Plaintiffs’ additional factual allegations attempting to connect Danske Bank’s so-
+called Estonian Laundromat to terror attacks in Afghanistan are insufficient to establish an 
+inference of “general awareness.”  The most specific allegation the Complaint provides is that 
+
+“[a] customer of Danske Bank’s Estonia branch, which purportedly had ‘hidden owners,’ 
+exchanged millions with the Dubai-registered company Mazaka General Trading, an entity 
+notoriously linked to Khanani.”  Am. Compl. ¶ 538.  The Complaint further alleges that a 
+German newspaper article noted that funds flowed into “[Mazaka’s] account at Danske Bank,” 
+id. ¶ 540 (alteration in Complaint).32  As noted earlier when discussing the allegations made 
+against Deutsche Bank and Standard Chartered, see supra Sections II.A.ii & III.A.ii, even if 
+Danske Bank did have a direct relationship with Mazaka, that in and of itself does not support a 
+plausible inference of “general awareness.”  Here, the Complaint is not even clear whether 
+Danske Bank had a direct relationship with Mazaka, let alone a FTO or even a FTO affiliate.   
+
+    Danske Bank’s recent guilty plea in a completely separate fraud case does not change this 
+analysis.  While Danske Bank may have engaged in fraud, the Complaint has not established a 
+nexus linking the fraud in that case to the terrorist acts which caused Plaintiffs’ injuries in 
+Afghanistan in this case.  Again, to “allege plausibly a general awareness that [a] Defendant[] . . . 
+assumed a role in a [FTO’s] act of international terrorism” requires more than merely showing 
+that defendant knowingly violated other laws—even those designed to prevent terrorist activity.  
+
+32   Despite Plaintiff’s edit, the article cited does not make it clear whether Mazaka was 
+actually the owner of the Danske Bank account discussed in the article, or whether Mazaka was 
+exchanging money with the Danske Bank account, but did not own it.  Id. ¶ 540 
+
+                              48                                         
+O’Sullivan, 2020 WL 906153, at *6 (emphasis in original); see also Freeman, 465 F. Supp. 3d at 
+230 (quoting O’Sullivan).  The alleged connections between Danske Bank’s services and the 
+terror attacks in Afghanistan are far too attenuated to give rise to a plausible inference that 
+Danske Bank had general awareness of the alleged role it was playing in international terrorism. 
+      ii.  Swefin                                                        
+
+    For the same reasons discussed earlier with respect to Deutsche Bank and Standard 
+Chartered, see supra Sections II.A.v & III.A.iii, allegations that Danske Bank provided routine 
+banking services to individuals or organizations who committed VAT fraud are insufficient to 
+establish that Danske Bank was generally aware of the role it allegedly played in financing 
+terrorism in Afghanistan.                                                 
+    Here, Plaintiffs’ factual allegations connecting Danske Bank to VAT fraudsters are 
+insufficient to establish a plausible inference of “general awareness.”  The Complaint alleges that 
+“Danske [Bank] set up an account for . . . later convicted VAT fraudsters” who were Swefin 
+customers.  Am. Compl. ¶ 547 (emphasis added).  It does not specify, however, who those 
+
+fraudsters are, making it impossible for the Court to determine how that relationship might have 
+given rise to a general awareness connecting those individuals to terrorism.  The Complaint does 
+name one organization, “Danish-owned company Swefin,” id. ¶ 548, “a payment platform” that 
+“operated as a way . . . to hide their cash flows from the authorities,” id. ¶ 550.  The Complaint 
+alleges the account was set up by an unnamed 23-year-old Lithuanian man who opened the 
+account without ever visiting the bank.  Id. ¶ 556.  It further notes that these types of accounts are 
+“diverted, typically through a series of shell companies, to fund terrorism,” id. ¶ 559 (emphasis 
+added); that “[t]hese types of VAT fraud schemes have been linked to terrorist finance,” id. ¶ 
+558 (emphasis added); and that “VAT fraud in Denmark accounted for approximately $12 
+
+                              49                                         
+million in terrorist finance,” id. ¶ 560 (emphasis added).  The Complaint, however, fails to allege 
+any specific connection between Swefin’s Danske Bank accounts and terrorist financing.  
+Broadly alleging that this type of activity, even if questionable or illegal, has been linked to 
+terrorist financing in the past does not give rise to a plausible inference that Danske Bank was 
+generally aware of any links to terrorist financing here.                 
+
+    B.  Substantial Assistance                                           
+    Once again, Plaintiffs have also failed to show that Danske Bank provided “substantial 
+assistance” under the six Halberstam factors, which the Court analyzes as follows: 
+    i.  Nature of the act encouraged.  The Complaint alleges that Danske Bank provided a 
+      lax regulatory environment that facilitated money laundering and VAT fraud, 
+      ultimately allowing money to flow to FTOs.  Id. ¶¶ 543–45.  While “[f]inancial 
+      support is ‘indisputably important’ to the operation of a terrorist organization,” the 
+      allegations here are too vague, and the connection between the alleged support and 
+      the terrorist attacks at issue is too attenuated, to support a finding of substantial 
+
+      assistance.  Gonzalez, 2 F.4th at 905 (quoting Halberstam, 705 F.2d at 488). 
+    ii.  Amount and kind of assistance.  The Complaint does not allege how much money, 
+      if any, actually flowed from Danske Bank to international terrorism.  The Complaint 
+      does allege that “the Khanani MLO obtained more than $700,000 through Danske 
+      [Bank]’s Global Laundromat.”  Am. Compl. ¶ 539.  However, as discussed supra 
+      Section IV.A, even if this is true, given that the Khanani MLO funneled money to a 
+      wide variety of criminal organizations, Am. Compl. ¶¶ 261–65, the allegation is 
+      insufficient to permit the Court to determine even an approximate estimate of how 
+      much of that money, if any, supported terror attacks in Afghanistan.  The Complaint, 
+
+                              50                                         
+ therefore, does not “permit a reasonable inference that the defendant recognized the 
+ money it transferred to its customers would be received by the FTO,” Honickman, 6 
+ F.4th at 500, and thus does not support a finding of substantial assistance.   
+iii. Presence at the time of the tortious conduct.  The Complaint does not allege 
+ Danske Bank was “present” at the time of the attacks.  This factor does not support a 
+
+ finding of substantial assistance.                                 
+iv. Relationship.  In terms of named organizations, the Complaint alleges routine 
+ banking relationships with 1) either the alleged Khanani front company Mazaka or a 
+ company that did business with Mazaka, and 2) Swefin, a payment platform that, at 
+ most, engaged in the types of transactions from which money may have eventually 
+ flowed to FTOs.  Am. Compl. ¶¶ 540, 548.  For the same reasons these relationships 
+ are too attenuated to give rise to an inference of general awareness, they are also too 
+ attenuated to support a finding of substantial assistance.         
+v.  State of mind.  Because there is insufficient evidence that Danske Bank acted with 
+
+ general awareness that it supported terrorist acts, see supra Section IV.A, this factor 
+ does not support a finding of substantial assistance.              
+vi. Duration.  Because the Complaint is too vague on the question of which 
+ organizations Danske Bank did business with as part of its so-called Estonian 
+ Laundromat, it is impossible for the Court to determine the duration of those 
+ relationships.  The Complaint only specifies that Danske Bank had a relationship with 
+ Mazaka, or a company doing business with Mazaka, for four months in 2014.  Am. 
+ Compl. ¶ 540.  All the specific allegations referring to Swefin all took place in 2009 
+ and 2010.  Id. ¶¶ 546, 548–49, 553.  The Court does not find these periods of time 
+
+                         51                                         
+      sufficient to support a finding of substantial assistance.  See Freeman, 465 F. Supp. 
+      3d at 234.                                                         
+    Taking all the factors into account, the Court finds that on balance the Complaint 
+insufficiently alleges that Danske Bank provided “substantial assistance” under the six 
+Halberstam factors.                                                       
+
+                          *    *    *                                    
+    Because Plaintiffs fail to allege plausibly the “general awareness” or “substantial 
+assistance” factors against Danske Bank, the Complaint as to Danske Bank is dismissed.  
+ V.   The Complaint Fails to Allege Sufficiently that Placid Express Either Had 
+      “General Awareness” or Provided “Substantial Assistance”           
+    The Complaint does not plausibly allege that Placid Express aided and abetted terrorist 
+attacks in Afghanistan because it fails to plead sufficiently the “general awareness” or 
+“substantial assistance” elements of a JASTA claim.                       
+    A.   General Awareness                                               
+    Plaintiffs fail to establish plausibly that Placid Express was “generally aware” it was 
+aiding and abetting the principals responsible for the terrorist attacks allegedly linked to Placid 
+
+Express.  Am. Compl. ¶¶ 931–45, 1098–2024.                                
+    The claims against Placid Express relate to two named customers of the Defendant—Al 
+Zarooni and Prince Currency Exchange Ltd.33  Id. ¶¶ 564–65.  Plaintiffs first allege, in 
+
+33   Plaintiffs also refer to a “partner company” of non-party Placid Express Middle East 
+LLC, which “shares multiple phone numbers with a U.S.-sanctioned company directly owned by 
+multiple Khanani family members.” Id. ¶ 566.  The Complaint, however, does not specify what 
+type of relationship this partner company had with Placid Express or any impropriety with regard 
+to it.                                                                    
+
+                              52                                         
+conclusory fashion, that Al Zarooni “claimed a relationship” with Placid Express, but never 
+directly allege that Defendant did any business with Al Zarooni.  Id. ¶ 564.  Once again, for the 
+same reasons established for the previously discussed Defendants,34 the fact that Placid Express 
+had a routine business relationship with an alleged Khanani front company—Al Zarooni—before 
+that company was publicly identified as an affiliate of the Khanani MLO is insufficient to 
+
+establish plausibly that Placid Express was “generally aware that it was thereby playing a role in 
+[a FTO’s] violent or life-endangering activities.”  Linde, 882 F.3d at 329 (internal quotation 
+marks omitted).                                                           
+    Plaintiffs further allege that Prime Currency Exchange Ltd. (“Prime Currency”), another 
+currency remitter that was owned and operated by Khanani’s brother and then by another 
+Khanani associate, had “an agency agreement with Placid Express.”  Am. Compl. ¶ 565.  The 
+Complaint provides no other allegations regarding this relationship and how it connects Placid 
+Express to terrorist activity.  Thus, the Complaint has pled insufficient facts to establish plausibly 
+that Placid Express was generally aware of any connections between Prime Currency and 
+
+terrorist attacks in Afghanistan.                                         
+    B.   Substantial Assistance                                          
+    Once again, as with the other Defendants, Plaintiffs have also failed to establish that 
+Placid Express provided “substantial assistance” under the six Halberstam factors, which the 
+Court analyzes as follows:                                                
+
+
+
+34   See Deutsche Bank, supra Section II.A.i; Standard Chartered, supra Section III.A.i; 
+Danske Bank, supra Section IV.A.i.                                        
+
+                              53                                         
+i.  Nature of the act encouraged.  It is unclear from the Complaint what amount and 
+ type of aid Placid Express provided to Al Zarooni, as Plaintiffs only allege that Al 
+ Zarooni claimed a relationship with Placid Express, not what that relationship was.  
+ Id. ¶ 565.  This allegation is too vague to support a finding of substantial assistance.  
+ Regarding Prime Currency, the Complaint only appears to allege that Placid Express 
+
+ provided it with standard remitting services, the same as it would have provided to 
+ any other customer.  Id. ¶ 565.  While “[f]inancial support is ‘indisputably important’ 
+ to the operation of a terrorist organization,” the allegations here are too vague, and the 
+ connection between the alleged support and the terrorist attacks at issue is too 
+ attenuated, to support a finding of substantial assistance.  Gonzalez, 2 F.4th at 905 
+ (quoting Halberstam, 705 F.2d at 488).                             
+ii.  Amount and kind of assistance.  The Complaint does not specify how much money 
+ was allegedly remitted.  Rather, it merely states that Prime Currency “remitted over 
+ $100 million to Pakistan using Placid Express and other unnamed money changers 
+
+ between 2009 and 2013.”  Am. Compl. ¶ 565 (emphasis added).  It is unclear how 
+ much of that alleged amount was actually remitted by Placid Express.  The 
+ Complaint, therefore, does not “permit a reasonable inference that the defendant 
+ recognized the money it transferred to its customers would be received by the FTO,” 
+ Honickman, 6 F.4th at 500, and thus does not support a finding of substantial 
+ assistance.                                                        
+iii. Presence at the time of the tortious conduct.  The Complaint does not allege Placid 
+ Express was “present” at the time of the attacks.  This factor does not support a 
+ finding of substantial assistance.                                 
+
+                         54                                         
+    iv. Relationship.  The closest relationship that the Complaint alleges between Placid 
+      Express and the principal FTO is a business relationship with Al Zarooni and Prime 
+      Currency, two alleged Khanani front companies.  As discussed previously, this is 
+      simply too attenuated to support a finding of substantial assistance.  See supra 
+      Sections II.A.ii, III.A.ii, IV.A.                                  
+
+    v.  State of mind.  Because there is insufficient evidence that Placid Express acted with 
+      general awareness that it supported terrorist acts, see supra Section V.A, this factor 
+      does not support a finding of substantial assistance.              
+    vi. Duration.  Because the Complaint is unclear exactly what relationship Placid Express 
+      had with Al Zarooni, it is impossible for the Court to determine the duration of that 
+      unspecified relationship.  This factor, therefore, does not support a finding of 
+      substantial assistance as to Al Zarooni.  The Complaint does allege that Placid 
+      Express had a four-year, standard remitter relationship with Prime Currency “between 
+      2009 and 2013.”  Am. Compl. ¶ 565.  Only two of these years overlap with the 
+
+      Relevant Period, which the Court does not find is sufficient to support a finding of 
+      substantial assistance.  See Siegel, 933 F.3d at 225 (finding a 25-year relationship 
+      insufficient).                                                     
+    Taking all the factors into account, the Court finds that on balance the Complaint 
+insufficiently alleges that Placid Express provided “substantial assistance” under the six 
+Halberstam factors.                                                       
+                          *    *    *                                    
+
+
+
+                              55                                         
+    Because the Complaint fails to allege plausibly the “general awareness” or “substantial 
+assistance” factors against Placid Express, the Complaint as to Placid Express is dismissed. 35   
+ VI.  The Complaint Fails to Allege Sufficiently that Wall Street Exchange Either Had 
+      “General Awareness” or Provided “Substantial Assistance”           
+    The Complaint does not plausibly allege that Wall Street Exchange aided and abetted 
+terrorist attacks in Afghanistan because it fails to plead sufficiently the “general awareness” or 
+“substantial assistance” elements of a JASTA claim.                       
+    A.   General Awareness                                               
+    Plaintiffs fail to establish plausibly that Wall Street Exchange was “generally aware” it 
+was aiding and abetting the principals responsible for the terrorist attacks allegedly linked to 
+Wall Street Exchange.  Am. Compl. ¶¶ 572–90, 946–63.                      
+
+    The Complaint claims “[o]n information and belief” that Wall Street Exchange was 
+“launder[ing] money for Khanani and Khanani’s money-laundering organization.”  Id. ¶ 948.  
+However, it provides just one concrete example of how Wall Street Exchange knew it was 
+“allowing the Khanani MLO to transfer and wash U.S. Dollars for the Syndicate’s benefit.” Id. ¶ 
+582.  Specifically, it alleges that Canadian authorities “found evidence of international wire 
+transfers via Wall Street Exchange” in the home of Farzam Mehdizadeh, who the Complaint 
+alleges was a “Canadian agent of Khanani” charged with money laundering in 2017.  Id. ¶ 947.  
+There is no allegation that these wire transfers were anything but routine business transactions 
+
+
+35   Once again, Plaintiffs attempt to get around these deficiencies by arguing that 
+“[d]iscovery will likely reveal significant additional relationships between Placid Express and 
+Khanani, the Khanani MLO, and the Syndicate.’”  Am. Compl. ¶ 571.  As the Court has already 
+noted, an assertion that Plaintiffs may be able to provide the necessary allegations after discovery 
+is not a sufficient basis to survive a motion to dismiss, the pleadings themselves must state a 
+plausible claim.  Iqbal, 556 U.S. at 678–79; Pub. Free Will, 2017 WL 1047330, at *5. 
+
+                              56                                         
+between Mehdizadeh and Wall Street Exchange, a currency remitter that handles 1.5 million 
+similar transactions each year.  ECF No. 79 at 2.                         
+    All of the transactions were alleged to have occurred prior to Mehdizadeh’s 2016 arrest.  
+Am. Compl. ¶¶ 947–48.  The Complaint does not allege how many wire transfers Mehdizadeh 
+made via Wall Street Exchange or provide even an approximate dollar value of how much 
+
+money was exchanged.  The Complaint also does not allege that Mehdizadeh made any wire 
+transfers through Wall Street Exchange after his arrest, nor does it allege any facts from which 
+the Court could infer that Wall Street Exchange knew, prior to his 2016 arrest, “that 
+Mehdiz[a]deh was laundering money . . . for Khanani and the Khanani MLO.”  Id. ¶ 949.  The 
+Complaint therefore does not plead sufficient facts to permit a reasonable inference that Wall 
+Street Exchange was aware that Mehdizadeh was connected to either money laundering or 
+international terror at the time it provided him with routine remitter services.   
+    The Complaint additionally alleges that “[a]n Assistant Commissioner of the Australian 
+Federal Police told an Australian investigative journalism television program that Khanani’s 
+
+money laundering operation was run through currency exchanges, and Wall Street Exchange was 
+one that Khanani used.” 36  Id. ¶ 579.  As Plaintiffs acknowledge, the Commissioner did not 
+claim that Wall Street Exchange knew it was being used for this purpose, and so this does not 
+
+36   See Linton Besser, Money Exchange With Links to Dubai Government Identified as Hub 
+for Billion-Dollar Laundering Empire, ABC NEWS AUSTRALIA (Feb. 5, 2018 2:00 PM), 
+https://www.abc.net.au/news/2018-02-06/khanani-network-laundered-money-through-wall-
+street-exchange/9398148 (“AFP Assistant Commissioner David Stewart has told Four Corners 
+the money laundering operation run by Altaf Khanani—who is now in jail in Florida—ran its 
+international transfers through multiple currency exchanges. ‘Wall Street Exchange … was 
+another one that was being used,’ he confirmed.”).  Once again, the Court notes that this article is 
+not directly cited in the Complaint.  However, given that the Complaint appears to rely on it, the 
+Court finds that the article is sufficiently “integral to the complaint” to warrant the Court’s 
+consideration.  See Chambers, 282 F.3d at 153.                            
+
+                              57                                         
+establish a showing of general awareness.  See ECF No. 86.  Not only that, but the interview was 
+published in 2018, two years after the attacks at issue had occurred, and so would not have put 
+Wall Street Exchange on notice during the Relevant Period.  Again, public sources published 
+after the attacks had occurred “do not plausibly support an inference that [a defendant] had the 
+requisite general awareness at the time that it provided [the] . . . services” at issue.  Honickman, 6 
+
+F.4th at 501.                                                             
+    B.   Substantial Assistance                                          
+    Plaintiffs have also failed to show that Wall Street Exchange provided “substantial 
+assistance” under the six Halberstam factors, which the Court analyzes as follows: 
+    i.  Nature of the act encouraged.  The Complaint alleges that Wall Street Exchange 
+      provided an alleged Khanani agent, Mehdizadeh, with routine remitting services.  
+      Am. Compl. ¶ 947.  While “[f]inancial support is ‘indisputably important’ to the 
+      operation of a terrorist organization,” here the allegations are too vague, and the 
+      connection between the alleged support and the terrorist attacks at issue is too 
+
+      attenuated, to support a finding of financial assistance.  Gonzalez, 2 F.4th at 905 
+      (quoting Halberstam, 705 F.2d at 488).                             
+    ii.  Amount and kind of assistance.  The Complaint does not specify how much money 
+      was remitted by Mehdizadeh.  It does allege, in conclusory fashion, that Wall Street 
+      Exchange “allowed the Khanani MLO to transfer millions if not billions of dollars 
+      using Wall Street Exchange’s facilities.”  Am. Compl. ¶ 951.  Again, “mere 
+      conclusory statements do not suffice” to state a plausible claim.  Iqbal, 556 U.S. at 
+      678.  The Complaint, therefore, does not “permit a reasonable inference that the 
+      defendant recognized the money it transferred to its customers would be received by 
+
+                              58                                         
+ the FTO,” Honickman, 6 F.4th at 500, and thus does not support a finding of 
+ substantial assistance.                                            
+iii. Presence at the time of the tortious conduct.  The Complaint does not allege Wall 
+ Street Exchange was “present” at the time of the attacks.  This factor does not support 
+ a finding of substantial assistance.                               
+
+iv. Relationship.  The only connection the Complaint draws between Wall Street 
+ Exchange and the principal FTOs is that one of its customers, Mehdizadeh, to whom 
+ Wall Street Exchange provided standard remitting services, was an “agent of Khanani 
+ and Khanani’s money-laundering organization.”  Am. Compl. ¶ 947.  The Complaint, 
+ however, does not provide any additional information beyond this conclusory 
+ allegation that would allow the Court to understand Mehdizadeh’s connections—and 
+ thus Wall Street Exchange’s connections—to either Khanani or international terror.  
+ This alleged relationship is therefore too vague to support a finding of substantial 
+ assistance.                                                        
+
+v.  State of mind.  Because there is insufficient evidence that Wall Street Exchange 
+ acted with general awareness that it supported terrorist acts, see supra Section VI.A, 
+ this factor does not support a finding of substantial assistance.  
+vi. Duration.  The Complaint alleges that Mehdizadeh was a customer of Wall Street 
+ Exchange.  Am. Compl. ¶ 947.  It does not provide any additional information about 
+ the length of that relationship.  Thus, the allegations in the Complaint are too vague to 
+ support a finding of substantial assistance.                       
+
+
+
+                         59                                         
+    Taking all the factors into account, the Court finds on balance that the Complaint 
+insufficiently alleges that Wall Street Exchange provided “substantial assistance” under the six 
+Halberstam factors.                                                       
+                          *    *    *                                    
+
+    Because the Complaint fails to allege plausibly the “general awareness” or “substantial 
+assistance” factors against Wall Street Exchange, the Complaint as to Wall Street Exchange is 
+dismissed.37                                                              
+ VII.  Plaintiffs’ RICO Claim                                            
+    Plaintiffs additionally allege an “Aiding-And-Abetting Liability, RICO Predicate” in 
+Count Two of the Complaint.  Am. Compl. ¶¶ 2034–43.  Plaintiffs fail to cite any legal support 
+
+for this claim.                                                           
+    Although no court in this circuit has yet ruled on this theory of liability, two District of 
+Columbia district courts have rejected reading a RICO theory of liability into the ATA.  After 
+noting that “[t]he ATA imposes aiding-and-abetting liability for ‘an injury arising from an act of 
+international terrorism committed, planned, or authorized’ by a FTO,” the court found in Atchley 
+that “it would be quite unnatural to read [the ATA’s] statutory language, as plaintiffs do, to mean 
+that the ‘act’ causing injury was not the particular attack in which a plaintiff was injured, but 
+
+
+37   Plaintiffs again attempt to get around these deficiencies by arguing that “[d]iscovery will 
+likely reveal significant additional relationships between Wall Street Exchange, on the one hand, 
+and Khanani, the Khanani money laundering organization, and the Syndicate, on the other.”  
+Am. Compl. ¶ 590.  As the Court has already noted, an assertion that Plaintiffs may be able to 
+provide the necessary allegations after discovery is not sufficient to survive a motion to dismiss, 
+since the pleadings themselves must state a plausible claim.  See Iqbal, 556 U.S. at 678–79; Pub. 
+Free Will, 2017 WL 1047330, at *5.                                        
+
+                              60                                         
+instead a collection of hundreds of attacks spanning [many] years.”  474 F. Supp. 3d 194, 212 
+(D.D.C. 2020), rev’d on other grounds, Atchley, 22 F.4th 240; see also Cabrera v. Black & 
+Veatch Special Projects Corps., No. 19-cv-3833, 2021 WL 3508091, at *25–26 (D.D.C. July 30, 
+2021) (rejecting RICO theory of liability under ATA/JASTA for same reasons as in Atchley).  
+The Court finds this reasoning persuasive, and thus concludes that Plaintiffs’ RICO claim is not a 
+
+valid theory of liability under the ATA.                                  
+                          CONCLUSION                                     
+    For the foregoing reasons, and because Plaintiffs have already had an opportunity to 
+amend their Complaint, Defendants’ motions to dismiss are granted with prejudice. 38  Miller v. 
+Brightstar Asia, Ltd., 43 F.4th 112, 126 (2d Cir. 2022).                  
+    SO ORDERED.                                                          
+                                      /s/ Hector Gonzalez             .  
+                                      HECTOR GONZALEZ                    
+                                      United States District Judge       
+
+ Dated:  Brooklyn, New York                                              
+      Decem ber 29, 2022                                                 
+
+
+
+
+38   Not only have Plaintiffs already amended their Complaint, but they amended it after 
+Defendants raised the same deficiencies the Court identifies in this order in their pre-motion 
+conference letters and at the December 7, 2021, status conference.  See ECF Nos. 25, 27, 28, 29, 
+70.  Thus, the Court finds that “any attempt to re-plead would [] be futile.”  Melendez v. Sirius 
+XM Radio, Inc., 50 F.4th 294, 309 (2d Cir. 2022); see also TechnoMarine SA v. Giftports, Inc., 
+758 F.3d 493, 505 (2d Cir. 2014).                                         
+
+                              61

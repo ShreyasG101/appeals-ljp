@@ -1,0 +1,43 @@
+{
+  "overall_outcome": "MIXED",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court properly certified the class under Rule 23, including predominance, ascertainability, and standing requirements.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found the class satisfied Rule 23's requirements, including predominance (due to Sunoco's uniform policy), ascertainability (using objective criteria and available records), and standing (all class members suffered monetary injury traceable to Sunoco)."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the district court properly awarded actual damages, including prejudgment interest under the Oklahoma PRSA, through the date of the trial opinion.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that the PRSA mandates 12% compounded interest on late payments until paid, and the district court correctly included prejudgment interest accruing until the date of its trial opinion."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the district court erred in awarding punitive damages to the class under Oklahoma law and the PRSA/ELRA.",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "The court held that punitive damages are not available for PRSA claims construed as breach of contract under Oklahoma law, absent an independent tort, and vacated the punitive damages award."
+    }
+  ],
+  "key_precedents": [
+    "Purcell v. Santa Fe Minerals, Inc., 961 P.2d 188 (Okla. 1998)",
+    "Naylor Farms, Inc. v. Chaparral Energy, LLC, 923 F.3d 779 (10th Cir. 2019)",
+    "Wal-Mart Stores, Inc. v. Dukes, 564 U.S. 338 (2011)",
+    "CGC Holding Co., LLC v. Broad & Cassel, 773 F.3d 1076 (10th Cir. 2014)",
+    "In re Urethane Antitrust Litig., 768 F.3d 1245 (10th Cir. 2014)",
+    "Base v. Devon Energy Prod. Co., 563 P.3d 934 (Okla. 2024)",
+    "Okland Oil Co. v. Conoco Inc., 144 F.3d 1308 (10th Cir. 1998)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": true,
+  "summary_text": "      This appeal arises from a dispute over oil proceeds and a class action\nbench trial in Oklahoma. It centered on class-wide violations of Oklahoma\u2019s\nProduction Revenue Standards Act (PRSA), Okla. Stat. Ann. tit. 52,\n\u00a7\u00a7 70.1\u2013570.15. The PRSA imposes strict timeframes on when a \u201cfirst\npurchaser or holder of proceeds\u201d of crude oil from an Oklahoma well must\ndistribute proceeds to royalty interest or working interest owners entitled\nto payments. Cline v. Sunoco, Inc. (R&M), 479 F. Supp. 3d 1148, 1157 (E.D.\nOkla. 2020) (Cline II). If the proceeds payments arrive late, the PRSA\nmandates that these payments must include statutory interest, at a default\nrate of 12 percent. Id.\n\n      The named plaintiff and class representative, Perry Cline, is an\nOklahoma farmer and landowner who owns royalty interests in three\nOklahoma oil wells. Id. at 1159. In 2017, Cline filed a class action lawsuit\nagainst Sunoco, Inc. (R&M), and Sunoco Partners Marketing & Terminals,\nL.P. (collectively, Sunoco). Id. at 1155. He sought to represent all owners\nwho received late payments from Sunoco without the PRSA-required\ninterest. Id. Under the PRSA, an \u201c[o]wner\u201d is \u201ca person or governmental\nentity with a legal interest in the mineral acreage under a well which\nentitles that person or entity to oil or gas production or the proceeds or\nrevenues therefrom[.]\u201d Okla. Stat. Ann. tit. 52, \u00a7 570.2. The class definition\nsetting forth the members of the class included all \u201cowners\u201d of mineral\ninterests who received late payments from Sunoco. See Cline v. Sunoco, Inc.\n(R&M), 333 F.R.D. 676, 681\u201382 (E.D. Okla. 2019) (Cline I) (defining the\ncertified class); see id. at 681 n.1 (discussing class definition).\n\n      In 2019, the district court certified this class. Relevant to this appeal,\nCline\u2019s lawsuit asserted two state law claims for relief: violation of the\nPRSA and common law fraud. Id. at 681.\n\n      In 2020, after a four-day bench trial, the district court ruled for the\nClass on the PRSA claim and for Sunoco on the fraud claim. The Class of\nover 53,000 owners was awarded damages for over $1.5 million late\nproceeds payments that failed to include the 12 percent rate of interest.\nCline II, 479 F. Supp. 3d at 1164, 1176\u201377. The judgment totaled over $103\nmillion in actual damages (which included additional prejudgment interest\nthat accrued post-trial) and $75 million in punitive damages.\n\n      Before this appeal, Sunoco filed a string of appeals that we dismissed.\nWe accepted Sunoco\u2019s last appeal preceding this one, however, because the\ndistrict court\u2019s initial allocation of damages failed to provide adequate\ninstructions regarding two undivided accounts for owners whom Sunoco\ncould not locate. Cline v. Sunoco, Inc. (R&M), No. 22-7018, 2023 WL\n4946312, at *6\u20138 (10th Cir. Aug. 3, 2023) (Cline III). On remand, the district\ncourt corrected those issues in an amended plan of allocation order and an\nupdated damages order. Together, these orders instructed the settlement\nadministrator regarding the amount of damages to pay each class member,\nincluding class members who could not be identified and whose payments\nwere sent to state unclaimed property funds.\n\n     After finalizing the total damages awarded to the Class, the district\ncourt entered final judgment. We therefore have jurisdiction under 28\nU.S.C. \u00a7 1291. We affirm much of the district court\u2019s findings and rulings,\nhowever, we reverse on one issue, punitive damages."
+}

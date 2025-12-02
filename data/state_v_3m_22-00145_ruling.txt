@@ -1,0 +1,941 @@
+UNITED STATES DISTRICT COURT                             
+          FOR THE DISTRICT OF NEW HAMPSHIRE                          
+
+State of New Hampshire                                                    
+
+v.                            Civil No. 22-cv-145-LM                 
+                              Opinion No. 2023 DNH 032 P             
+3M Company, et al.                                                        
+                       O R D E R                                     
+In late May 2019, the State of New Hampshire filed this parens patriae1 suit 
+in state court against 3M Company, E.I. DuPont de Nemours & Company, and The 
+Chemours Company alleging claims for negligence, defective design, failure to warn, 
+trespass, and violating the public trust.2  The State alleges that the defendants 
+supplied products containing certain per- and polyfluoroalkyl substances, which are 
+commonly known as PFAS or PFAS compounds, in New Hampshire.3  The State   
+asserts that the defendants knew or should have known that PFAS compounds, 
+
+1 A parens patriae suit involves “a matter of sovereign or quasi-sovereign 
+interest” and is brought by a state on behalf of all its citizens.  72 Am. Jur. 2d States, 
+Territories, and Dependencies § 94.                                       
+
+2 After filing its initial complaint, the State filed an amended complaint which 
+added defendants Corteva, Inc., and DuPont de Nemours, Inc., and claims accusing 
+defendants of engaging in what amounts to a fraudulent corporate shell game to avoid 
+or minimize potentially significant liability.  The state court later dismissed the 
+State’s trespass and public trust claims, so those claims are no longer at issue in this 
+suit.                                                                     
+
+3 For the reader’s ease, the court uses “PFAS” and “PFAS compounds” as 
+shorthand to refer to the several different chemical substances at issue in this suit, 
+which include perfluorooctansulfonic acid (“PFOS”); perfluorooctanoic acid (“PFOA”); 
+perfluorononanoic acid (“PFNA”); and perfluorohexanesulfonic acid (“PFHxS”); as 
+well as those compounds’ chemical precursors.                             
+when released into the environment, migrate long distances through soil,  
+groundwater, and air, and they do not decompose through natural processes.  The 
+State alleges that PFAS contamination has occurred statewide, meaning     
+
+throughout New Hampshire’s natural resources, including the entire state’s soil, 
+groundwater, surface water, and wildlife.                                 
+On April 29, 2022, three years after the State began this suit, 3M removed it 
+under the federal officer removal statute, 28 U.S.C. § 1442(a)(1).  3M asserts that 
+removal jurisdiction exists under § 1442(a)(1) because some of the contamination at 
+issue in this suit plausibly overlaps with, or has commingled with, PFAS  
+contamination from products known as Aqueous Film-Forming Foams (“AFFF”)  
+
+that 3M supplied to the United States military per a military-created specification 
+(“MilSpec AFFF”).                                                         
+The State moves to remand (doc. no. 12), asserting, among other arguments,4  
+that 3M has not met the requirements for removal jurisdiction under § 1442(a)(1) 
+because the State disclaimed in this suit any recovery for PFAS contamination from 
+AFFF products.  The State also contends that 3M did not timely remove this suit 
+
+under 28 U.S.C. § 1446(b), which creates a 30-day clock for removal that begins 
+when the removing defendant can first ascertain a case’s removability.    
+
+
+
+4  The  State  also  contends  that  sovereign  immunity  precludes  removal 
+jurisdiction  and  that  3M’s  asserted  federal  contractor  immunity  defense  is  not 
+colorable.  Because the court agrees with the State’s arguments under 28 U.S.C. 
+§§ 1442(a)(1) and 1446(b), the court need not address these two additional arguments. 
+3M objects, arguing that the State’s disclaimer is legally ineffective and 
+reiterating its position that some contamination at issue in this suit plausibly 
+overlaps with contamination from AFFF it produced for the United States military.  
+
+3M argues that its removal was timely because it only recently learned that this 
+suit involved statewide contamination or that a plausible overlap in contamination 
+exists.                                                                   
+The State’s motion to remand is granted for two reasons.  First, 3M has failed 
+to show that the requirements for removal jurisdiction under § 1442(a)(1) are met.  
+The State disclaimed in this suit recovery for harm from AFFF contamination, 
+which eliminates any connection between the State’s claims in this suit and 3M’s 
+
+production of MilSpec AFFF.  Second, 3M’s removal was untimely because the State 
+broadly pleaded this statewide contamination suit from the outset, and the State 
+clearly and unambiguously alleged facts from which 3M could have easily   
+determined that some contamination at issue in this suit plausibly overlaps with 
+contamination from AFFF it produced for the United States military.  After 
+summarizing the background facts, the court addresses both arguments.     
+
+
+                 STANDARD OF REVIEW                                  
+Federal courts are courts of limited jurisdiction, and they “possess only that 
+power authorized by Constitution and statute.”  Exxon Mobil Corp. v. Allapattah 
+Servs., Inc., 545 U.S. 546, 552 (2005).  When a case is first brought in a state court, 
+a defendant has the right to remove the case to federal court if it can show some 
+basis for federal jurisdiction.  Danca v. Private Health Care Sys., Inc., 185 F.3d 1, 4 
+(1st Cir. 1999).  A defendant must remove a case within 30 days of when the 
+grounds for removal can be first ascertained.  See 28 U.S.C. § 1446(b).   
+
+In this case, 3M asserts that this court has jurisdiction under the federal 
+officer removal statute, § 1442(a)(1), which “allows private actors ‘acting under’ 
+color of federal authority to remove a state-court action ‘for or relating to any act 
+under color of such office.’”  Rhode Island v. Shell Oil Prods. Co., LLC, 35 F.4th 44, 
+53 n.6 (1st Cir. 2022) (quoting § 1442(a)(1)).  If a plaintiff files a motion to remand, 
+the defendant shoulders the burden of showing that federal jurisdiction exists and 
+that removal was proper.  See Fayard v. Northeast Vehicle Servs., LLC, 533 F.3d 
+
+42, 48 (1st Cir. 2008).                                                   
+                    BACKGROUND                                       
+I.   The State files parallel lawsuits against 3M on the same day.        
+On May 29, 2019, the State of New Hampshire filed this suit against 3M and 
+
+several other defendants in Hillsborough County Superior Court.  The same day 
+that it filed this suit, the State filed a second lawsuit in the same court against 3M, 
+DuPont, and others making virtually identical allegations of harm from PFAS 
+contamination.  From the inception of this litigation, 3M and the State have been 
+represented by the same lead counsel in both cases.                       
+In both lawsuits, the State alleged that 3M supplied products containing 
+PFAS compounds in New Hampshire when 3M knew or should have known that    
+
+PFAS compounds are harmful to the environment and public health.  And, in both 
+suits, the State alleged that 3M’s supply of substances containing PFAS has caused 
+harmful, statewide contamination of New Hampshire’s natural resources—    
+including its soil, groundwater, surface water, and wildlife.             
+
+The one material difference between the two suits is that the State’s other 
+lawsuit relates only to PFAS contamination from AFFF.  The court refers to the 
+other suit as the “AFFF Suit.”                                            
+By contrast, in this suit the State expressly disclaimed any recovery for 
+contamination caused by AFFF.  This suit relates only to PFAS contamination from 
+sources other than AFFF.                                                  
+Setting out this distinction, the initial complaint in this case alleged: 
+
+     Through this action, the State is not seeking damages,          
+     remediation, restoration or any other relief with respect to    
+     any  contamination  related  to  Aqueous  Film-Forming          
+     Foam,  which  is a  specialized  category  of  products  that   
+     contain  PFAS  compounds,  as  that  is  the  subject  of  a    
+     separate action.                                                
+Doc. no. 1-3. ¶ 29.  Similarly, in the AFFF Suit, the State alleged that:   
+     Through this action, the State is not seeking damages,          
+     remediation, restoration or any other relief with respect to    
+     any contamination from [PFAS] that is not related to the        
+     manufacture  and  use  of AFFF,  as damages from  those         
+     compounds that are not from the manufacture and use of          
+     AFFF are the subject of a separate action.                      
+Doc. no. 1-5 ¶ 29.  The State has maintained this line between AFFF and non-AFFF 
+contamination throughout the course of both this suit and the AFFF Suit.  
+A.   Facts alleged in the initial complaint in this lawsuit.5        
+The State alleged in the initial complaint in this suit that PFAS compounds 
+produced by 3M have been essentially ubiquitous throughout the State, as 3M was 
+the “primary manufacturer of PFAS chemistry in the United States” for the last 70 
+
+years and products with PFAS “have been used for decades in industrial settings” 
+and “in the production of household and commercial products that are heat 
+resistant, stain resistant, long lasting, and water and oil repellant.”  Doc. no. 1-3 
+¶¶ 40, 65.                                                                
+PFAS compounds have “characteristics that cause extensive and persistent 
+environmental contamination.”  Id. ¶ 42.  In particular, PFAS compounds are 
+
+“bioaccumulative as well as mobile,” meaning that they “are readily transported 
+through the air as well as the soil and into groundwater where they can migrate 
+long distances.”  Id. ¶ 45.  PFAS compounds “do not readily biodegrade or 
+chemically degrade in the environment or in conventional treatment systems for 
+drinking water or wastewater.”  Id. ¶ 46.  And they are “difficult and costly to 
+remove from soil and water.”  Id. ¶ 49.                                   
+In the initial complaint as well in its amended complaints, the State broadly 
+
+alleged that 3M’s supply of PFAS has led to contamination of New Hampshire’s 
+“natural resources,” which was defined to include, among other items, “the ocean 
+
+
+5 The court reviews the facts as they were alleged in the initial complaint 
+because  whether  3M  timely  removed  this suit  depends on when the  State  first 
+informed 3M of the facts supporting removability.  The facts alleged in the State’s 
+amended pleadings, as they are relevant to the issues in this order, are largely the 
+same.                                                                     
+and its tidal estuaries,” “streams, rivers, lakes, [and] ponds,” as well as “all land . . . 
+owned, managed, held in trust, or otherwise preserved or protected by the State.”  
+Doc. no. 1-3 ¶ 2.  The State alleged that PFAS compounds supplied by 3M have 
+
+accumulated in New Hampshire’s soil, groundwater, surface water, and wildlife 
+including birds and game.  E.g., id. ¶¶ 156, 172, 179, 188.  The State alleged that 
+contamination has occurred statewide, meaning that the State wants to recover in 
+this action damages for contamination throughout the entire state, rather than in 
+one or several discrete geographic locations.  E.g., id. ¶ 11 (“PFAS has impacted 
+groundwater above current standards in every county in the State.”); id. ¶ 14 
+(“Defendants’ manufacture, distribution, and sale of [PFAS] has caused, and 
+
+continues to cause, widespread injury to the State’s groundwater and surface water, 
+fish, wildlife, marine resources, and other natural resources, as well as its 
+citizens.”); id. ¶ 156 (“[PFAS compounds] have been found in soil, groundwater, 
+surface water, sediments, fish, wildlife, marine resources, biota, and other natural 
+resources in locations throughout New Hampshire.”).  The initial complaint does not 
+exclude any location in New Hampshire from this lawsuit’s scope, only damage 
+
+caused by AFFF.                                                           
+B.   Facts alleged in initial complaint in the AFFF Suit.            
+The State’s initial complaint in the AFFF Suit contained similar allegations 
+as its initial complaint in this case.  In addition to its allegations about the harm 
+
+caused by PFAS and the scope of the lawsuit (also statewide and covering the 
+entirety of New Hampshire’s “natural resources”), the State specifically alleged that 
+3M had supplied AFFF to the United States military in New Hampshire, noting, for 
+example, that “[f]rom the 1960s through 2001, the United States Department of 
+Defense purchased AFFF exclusively from 3M and Tyco/Ansul.”  Doc. no. 1-5 ¶ 91.  
+
+Furthermore, the State identified “the Pease Air Force Base in Newington [New 
+Hampshire]; . . . [and] the New Boston Air Force Station Former Fire Department” 
+as locations (among others) at which 3M had supplied AFFF that had contaminated 
+the state’s natural resources.  Id. ¶ 10.                                 
+
+II.  3M removes the AFFF Suit to federal court.                           
+In late July 2019, 3M removed the AFFF Suit to federal court under the 
+federal officer removal statute, § 1442(a)(1).  State v. 3M, Case No. 19-cv-800-JD, 
+ECF doc. no. 1.  In its notice of removal in the AFFF Suit, 3M asserted that the 
+court had removal jurisdiction under § 1442(a)(1) because at least some of the PFAS 
+contamination for which the State sought to hold 3M liable resulted from 3M’s 
+production of MilSpec AFFF—that is, AFFF that 3M produced for the United States 
+
+military under a military specification.  Id. at 8.  In particular, 3M observed that 
+“[p]laintiff’s own allegations confirm that its alleged injuries arise in part from the 
+use of MilSpec AFFF at military sites in New Hampshire and that 3M and the other 
+Defendants were ‘acting under’ federal officers of the Department of Defense and its 
+agencies when manufacturing MilSpec AFFF.”  Id.  At that time, 3M also detailed 
+its knowledge of the history of MilSpec AFFF, its supply of MilSpec AFFF to the 
+
+United States military, and its disclosure of and the government’s knowledge of the 
+potential dangers of AFFF.                                                
+The State did not contest removal of the AFFF Suit.  Soon after 3M removed 
+the AFFF Suit, the Judicial Panel on Multidistrict Litigation transferred the AFFF 
+Suit to the District of South Carolina for participation in the AFFF multidistrict 
+
+litigation (“MDL”), In re Aqueous Film-Forming Foams Products Liability   
+Litigation, MDL No. 2874 (D.S.C.).                                        
+III.  3M moves to change venue from Hillsborough County to Merrimack County. 
+Although it removed the nearly identical AFFF Suit, 3M continued to litigate 
+
+this suit in state court.  In October 2019, 3M moved to change venue, arguing that 
+venue of this suit was improper in Hillsborough County.  3M contended that the 
+proper venue for the suit was Merrimack County because the State’s allegations 
+“form the basis of a transitory action, as they ‘have no locality,’” and “the purported 
+harm to birds, fish, rivers, streams, and other natural resources is not alleged to be 
+local or fixed to any one geographic location; the Complaint contemplates a harm 
+that is transitory, sporadic in nature, and crosses county borders.”  Doc. no. 12-3 at 
+
+4; id. at 5 (“The alleged environmental contamination caused by the Defendants 
+could have—and allegedly has—arisen throughout the State . . . .”).  Likewise, 
+during a February 2020 hearing on the motion, 3M observed that the State’s claims 
+were “sweeping statewide claims,” noting in particular 3M’s understanding (based 
+on the complaint) that the State’s claims included not only “land” but also “things 
+that move” such as wildlife and “[r]ivers, brooks, streams, [and] things that are not 
+
+in one location . . . .”  Doc. no. 12-4 at 4.                             
+In June 2020, the superior court (Nicolosi, J.) found that venue was improper 
+in Hillsborough County and transferred the case to Merrimack County Superior 
+Court.  See RSA 507:9 (fixing venue in “transitory actions” to the “county or judicial 
+
+district” in which an in-state party resides); State v. Cote, 95 N.H. 108, 110 (1948) 
+(stating that the State’s principal place of business is the county in which its capital 
+is located).  The superior court found that the complaint alleged a claim “that is 
+effectively universal throughout New Hampshire.”  Doc. no. 12-5 at 8.  The court 
+continued, stating that, according to the allegations in the complaint, “[t]he 
+invasion of PFAS has not targeted one county, or even distinct contiguous land in 
+multiple counties.  Rather the contamination is so pervasive that the complaint 
+
+makes no attempt to even identify any specific property upon which defendants 
+have trespassed.”  Id.  Further, the superior court stated that “these claims . . . have 
+arisen in every county and the claim is more a complaint as to all land in the state.”  
+Id.6                                                                      
+
+
+
+
+
+
+6 The defendants also moved to dismiss the State’s trespass claim for failure to 
+state a claim.  The court granted defendants’ motion in that respect, finding that “the 
+State’s allegation of a statewide trespass is too vague . . . as the Court cannot assess 
+which lands have been trespassed upon and whether the State meets the requisite 
+possessory rights for those lands.”  Doc. no. 12-5 at 19.  While the State opposed the 
+motion, it did not dispute the characterization of the complaint as alleging harm 
+throughout  the  entire  state.    See  doc.  no.  12-5  at  6-7  (describing  the  State’s 
+opposition).                                                              
+IV.  In response to the second amended complaint, 3M alleges a federal contractor 
+immunity defense but does not then remove the lawsuit.               
+After the state court granted defendants’ October 2019 motion, the State filed 
+its first amended complaint, which contained the same substantive factual 
+allegations as the initial complaint.                                     
+Defendants then moved to dismiss the amended complaint, arguing that the 
+State’s public trust claim failed to state a claim upon which relief could be granted.  
+In April 2021, the state court (Kissinger, J.) held a hearing on the motion to 
+
+dismiss.  Doc. no. 23-7 at 24 (start of transcript); doc. no. 23-8 (transcript 
+continued).  During the hearing, the State observed that its substantive allegations 
+were unchanged from the initial complaint and stated that “[t]his case is about 
+widespread contamination of public resources, and the State’s drinking water, 
+groundwater, surface water, land, natural resources, including wildlife, and other 
+public properties.”  Doc. no. 23-8 at 11.   The State contended that PFAS compounds 
+
+are released “into water in the form of liquid,” “in powder form,” and “by smoke 
+stacks into the air.”  Id. at 13.  The State added that PFAS compounds “can be 
+discharged into waste streams” and “[t]here are numerous pathways by which these 
+compounds are released into the environment, make their way into the natural 
+world, water, land, [and] into public [] drinking water.”  Id. at 13-14.  
+The court granted defendants’ motion to dismiss the State’s public trust 
+claim, and the State subsequently filed a second amended complaint.  In October 
+
+2021, 3M answered the second amended complaint.  In its answer, 3M asserted a 
+federal contractor immunity defense, specifically stating that “[s]ome or all of the 
+Plaintiff’s claims are barred, in whole or in part, because 3M is not responsible or 
+liable for any acts or omissions undertaken by or at the direction of any 
+governmental authority or agency.”  Doc. no. 12-11 ¶ 15.  3M, however, did not 
+
+attempt to remove this suit at that time.                                 
+V.   The State produces a non-exhaustive list of locations with PFAS      
+contamination that includes a site near Pease Air Force Base.        
+On December 17, 2021, the State produced, as part of its initial disclosures, a 
+non-exhaustive list of 244 locations within New Hampshire with PFAS       
+contamination.  That list, which the State noted was limited to sites for which a 
+state agency had opened a discrete investigation file, included locations throughout 
+New Hampshire, but it did not list Pease Air Force Base or any military facility.  
+
+The list, however, did include a location near Pease Air Force Base, namely, PSNH 
+Schiller Station.                                                         
+The State acknowledged in its initial disclosures that “there may be 
+references to investigations or sites with connections to the use of” AFFF, but 
+reiterated that, considering its disclaimer for AFFF contamination, any references 
+“should not be construed as indicating that the State seeks recovery in this case for 
+
+contamination caused in whole or in part by AFFF . . . .”  Doc. no. 1-4 at 2.  The 
+State also asserted that the sites it identified in its initial disclosures “do not 
+represent the location of the harm resulting in the totality of the State’s claimed 
+damages.”  Id. at 3.                                                      
+VI.  3M removes this suit under the federal officer removal statute three years 
+after it began and while it was on appeal before the New Hampshire   
+Supreme Court.                                                       
+The litigation of this suit in state court continued.  In July 2021, the state 
+superior court denied a motion to dismiss two defendants for lack of personal 
+jurisdiction (Corteva and The Chemours Company).  Those defendants appealed the 
+court’s denial of their motion to the New Hampshire Supreme Court, which heard 
+oral argument in late February 2022.                                      
+Meanwhile, in March 2022, the parties prepared for a case structuring 
+conference before the superior court.  In preparing for the conference, the parties 
+disputed certain discovery issues, and, in particular, the State hotly disputed 3M’s 
+
+request to issue approximately 12,000 interrogatories.  3M’s request was premised 
+on its claimed belief that the case would involve 244 trials or “mini-trials”—one for 
+each of the 244 sites listed by the State in its December 2021 initial disclosures.  
+Thus, 3M asserted, it should be permitted to issue 50 interrogatories for each site 
+on the State’s list.                                                      
+On March 30, 2022, the State responded by reiterating that “[t]his is a state-
+wide contamination case that will be tried on alternative liability theories, not a 
+
+site-by-site case requiring 244 mini site-specific trials as 3M suggest[s].”  Doc. no. 
+1-6 at 4.  The State continued, stating that it had “repeatedly explained” that “the 
+identified sites do not demonstrate the totality of the State’s harm.  The State’s 
+natural resources, including substantial surface and groundwater resources, are 
+contaminated across the State, and the State is seeking recovery for harm to those 
+resources which cannot be identified in a site list.”  Id.                
+On April 29, 2022—30 days after the State’s response and nearly three years 
+after the State began this suit—3M removed this suit under § 1442(a)(1) claiming 
+that the State’s response was the first time it learned that this suit involved 
+
+statewide contamination.7                                                 
+                     DISCUSSION                                      
+The State moves to remand.  Among other arguments, the State contends 
+that the court lacks removal jurisdiction under § 1442(a)(1) because, considering the 
+
+disclaimer for contamination from AFFF, 3M has not shown that a connection exists 
+between the State’s claims and 3M’s production of MilSpec AFFF.  The State also 
+argues that 3M’s removal of this suit nearly three years after it began was untimely 
+under 28 U.S.C. § 1446(b), which creates a 30-day clock to remove that begins when 
+the removing defendant can first ascertain removability.  The State argues that 3M 
+could have first ascertained the removability of this suit under § 1442(a)(1) no later 
+than December 17, 2021, when the State provided its initial disclosures that 
+
+referenced sites or investigations with connections to 3M’s supply of AFFF.  The 
+State thus argues that 3M should have removed the case by mid-January 2022, and 
+its failure to do so requires remand.                                     
+3M objects.  3M argues that a connection exists between the State’s claims 
+and 3M’s supply of MilSpec AFFF because PFAS contamination from MilSpec AFFF 
+has plausibly overlapped or commingled with contamination from other sources.  As 
+
+
+7 The New Hampshire Supreme Court had not issued a ruling at the time of 
+3M’s removal, and it subsequently dismissed the pending appeal.           
+to timeliness, 3M argues that the State’s initial disclosures were insufficient 
+because they did not connect 3M’s supply of MilSpec AFFF to any specific location 
+at issue in this suit.  Rather, 3M contends that if removal were ever ascertainable, 
+
+it was only after the State disclosed in late March 2022 that this suit involved 
+statewide contamination.  3M also contends that the State’s disclaimer of recovery 
+for AFFF contamination created an ambiguity as to whether the case could be 
+removed.                                                                  
+The court first addresses the parties’ arguments as to the existence of 
+removal jurisdiction under § 1442(a)(1), and then discusses their arguments as to 
+timeliness under § 1446(b).8                                              
+
+I.   The Federal Officer Removal Statute                                  
+The State first argues that remand is warranted because there is no  
+jurisdiction under the federal officer removal statute, 28 U.S.C. § 1442(a)(1).  The 
+court agrees.                                                             
+
+The federal officer removal statute, § 1442(a)(1), is a “specialized removal 
+statute” that “allows private actors ‘acting under’ color of federal authority to 
+remove a state-court action ‘for or relating to any act under color of such office.’”  
+
+
+
+
+8 Prior to his recusal, Judge Barbadoro held oral argument on the State’s 
+motion to remand.  The court has reviewed the transcript of oral argument in making 
+this ruling and finds that no further argument is necessary or warranted to aid the 
+court’s decision.                                                         
+Rhode Island, 35 F.4th at 53 n.6 (quoting 28 U.S.C. § 1442(a)(1)).9  Removal is 
+permissible under § 1442(a)(1) if the removing party shows (1) that it “acted under a 
+federal officer”; (2) that the claims against it are “for” or relate to “the alleged 
+
+official authority”; and (3) that it “will raise a colorable federal defense.”  Id. (citing 
+Moore v. Elec. Boat Corp., 25 F.4th 30, 34 & n.2 (1st Cir. 2022)).10      
+Congress intended § 1442(a)(1) to provide “broad” removal rights to a 
+defendant who works with the federal government and asserts a federal defense.  
+Willingham v. Morgan, 395 U.S. 402, 406 (1969) (“At the very least [§ 1442(a)(1)] is 
+broad enough to cover all cases where federal officers can raise a colorable defense 
+arising out of their duty to enforce federal law.  One of the primary purposes of the 
+
+removal statute—as its history clearly demonstrates—was to have such defenses 
+litigated in the federal courts.”).  Thus, unlike the general removal provision, which 
+
+
+9 Specifically, § 1442(a)(1) states that a defendant may remove a    
+state-court action that is against or directed to:                        
+
+     The United States or any agency thereof or any officer (or      
+     any person acting under that officer) of the United States      
+     or  of  any  agency  thereof,  in  an  official  or  individual 
+     capacity, for or relating to any act under color of such office 
+     or on account of any right, title or authority claimed under    
+     any Act of Congress for the apprehension or punishment of       
+     criminals or the collection of the revenue.                     
+10 3M asserts a federal contractor immunity defense.  To prove that defense, 
+the  defendant  must  establish  three  elements:  “(1)  the  United  States  approved 
+reasonably precise specifications; (2) the equipment conformed to those specifications; 
+and (3) the supplier warned the United States about the dangers in the use of the 
+equipment that were known to the supplier but not to the United States.”  Boyle v. 
+United Tech. Corp., 487 U.S. 500, 512 (1988).                             
+is strictly construed in favor of remand, § 1442(a)(1) is broadly construed in favor of 
+removal.  Watson v. Philip Morris Cos. Ins., 551 U.S. 142, 147-48 (2007). 
+The requirement that a claim be “for” or “relate to” the alleged federal 
+
+authority is a “nexus” requirement, but not a causation requirement.  Moore, 25 
+F.4th at 34 & n.2.  That is, only a “nexus” between the claims and the alleged 
+official authority need exist; it is sufficient that at least one of the plaintiff’s claims 
+is “connected” or “associated” with the defendant’s acts under color of federal office.  
+Baker v. Atlantic Richfield Co., 962 F.3d 937, 943-44 (7th Cir. 2020) (explaining 
+that 2011 amendments to § 1442(a)(1) removed requirement of causal connection 
+and collecting appellate cases holding likewise).                         
+
+Other federal courts have found that similar, specific limitations on the scope 
+of a plaintiff’s claims eliminate a potential relationship between the plaintiff’s 
+claims and a defendant’s federal acts.  For example, in Hayden v. 3M Company, the 
+plaintiff alleged that he suffered from mesothelioma caused by lifetime exposure to 
+asbestos and asbestos-based products produced by 78 different defendants.  No. 15-
+2275, 2015 WL 4730741, at *3-4 (E.D. La., Aug. 10, 2015).  However, the plaintiff 
+
+disclaimed any recovery for injuries resulting from asbestos exposure during his 
+service in the United States Navy.  Id.                                   
+During a deposition the plaintiff nonetheless testified that two of the named 
+defendants had manufactured a product which enhanced his exposure to asbestos 
+while he served in the Navy.  Id.  Based on that testimony, one defendant removed 
+the case to federal court under § 1442(a)(1).  Id.  The plaintiff moved to remand, 
+arguing that the disclaimer precluded federal jurisdiction.  Id.  The district court 
+agreed, finding that the disclaimer was like those in other cases in which 
+jurisdiction was found lacking.  Id. at *3.  Considering that precedent, the district 
+
+court found that the disclaimer “eliminates any cause of action related to exposure 
+while [the plaintiff] was in the Navy and the only valid grounds for removal relate 
+to that specific time period.”  See id. at *4.                            
+The court lacks removal jurisdiction under § 1442(a)(1) because 3M has not 
+shown that a “nexus” exists between the State’s claims in this case and 3M’s alleged 
+acts under federal authority.  Like the plaintiff in Hayden, the State has 
+consistently disclaimed any recovery for contamination resulting from 3M’s 
+
+production of AFFF.  That disclaimer is effective and eliminates the connection 
+between the State’s broad statewide claims and 3M’s production of MilSpec AFFF 
+for the United States military.  See 28 U.S.C. § 1442(a)(1); Batchelor v. Am. Optical 
+Corp., 185 F. Supp. 3d 1358, 1363-64 (S.D. Fla. 2016) (stating that federal courts 
+have “consistently” granted motions to remand in cases where the plaintiff 
+expressly disclaims recovery for the claims on which federal removal is based); 
+
+Hayden, 2015 WL 4730741, at *3-4; but see Nessel v. Chemguard, Inc., 2021 WL 
+744683 (W.D. Mich. Jan. 6, 2021) (denying motion to remand in case removed under 
+federal officer removal statute when plaintiff disclaimed recovery for contamination 
+from MilSpec AFFF but not commercially produced AFFF).11                  
+
+
+11 Courts generally find that non-specific disclaimers which purport to waive 
+all  federal  claims  based  on  generic,  boilerplate  language  are  ineffective.    See 
+Here, as in Hayden, there is no scenario under which 3M could be found 
+liable for any damages caused by AFFF.  That is, regardless of whether 3M’s AFFF 
+conformed to a specification required by the United States military or whether 3M 
+
+appropriately warned the government about the dangers of PFAS, 3M cannot be 
+liable in this case for contamination resulting from its alleged supply of MilSpec 
+AFFF.  Doc. no. 12-1 at 10-11 (State’s motion to remand) (“Because the State is not 
+making any claims here for injuries from the only product that 3M asserts it 
+supplied at the direction of a federal officer, the validity of that assertion will simply 
+not be tested in this action.”).  If the evidence, for example, shows that AFFF caused 
+any of the damages in this case, the portion attributable to AFFF would be 
+
+subtracted from any damages awarded the State.  And if no apportionment is 
+possible, no damages could be awarded.  3M would prevail without any need to 
+assert a defense premised on its acts under federal authority.  To the extent AFFF 
+is relevant, its presence in the contamination could eliminate recovery for the 
+State—regardless of why or for whom 3M made it.  The State’s claims are neither 
+“for” — nor do they “relate to” — 3M’s actions under federal authority.   
+
+
+
+
+Batchelor, 185 F. Supp. 3d at 1363 (describing circumstances in which disclaimers 
+are ineffective).  3M does not contend that the State’s disclaimer falls within this 
+category of generic disclaimers (i.e., those that disclaim all federal claims without 
+specifying which ones).  It is undisputed that the State’s disclaimer here, which 
+identifies specific claims against 3M for its production of AFFF, is not such a generic 
+disclaimer.                                                               
+3M relies primarily on Nessel v. Chemguard, Inc., to support its position.12  
+In Nessel, the court denied remand and found that the requirements of the federal 
+officer removal statute were met when, as here, the plaintiffs (in effect, the State of 
+
+Michigan) brought parallel PFAS contamination suits against several defendants.  
+Id. at *1.  One suit related only to PFAS contamination from commercially produced 
+AFFF, while the second suit related only to MilSpec AFFF.13  Id.  The defendants 
+removed the commercial AFFF suit under § 1442(a)(1), and the plaintiffs moved to 
+remand.  Plaintiffs argued, as the State does here, that no “nexus” existed between 
+their claims in the commercial AFFF case and the defendant’s acts under official 
+authority.  Id.                                                           
+
+The district court denied the motion to remand, finding that the record did 
+not make it clear whether injuries from commercial AFFF and MilSpec AFFF “will 
+be distinguishable.”  Id.  at *3.  On the contrary, the court stated that the trial court 
+“will likely have to engage in a detailed fact-finding process to determine whether 
+the injuries from MilSpec and Commercial AFFF can be distinguished . . . .”  Id.  
+Nor was the record clear in Nessel on whether plaintiffs’ harm in fact “occurred 
+
+from actions taken while Defendants were acting under color of federal office[.]”  Id.  
+The court explained that, notwithstanding the plaintiffs’ limitation of their case to 
+
+
+12 3M contends that the Judicial Panel on Multidistrict Litigation “endorsed” 
+the reasoning in Nessel when it transferred that case to the In re AFFF MDL.  Doc. 
+no. 39 at 2 n.2.  However, the court could find no such endorsement in the documents 
+cited by 3M.  See id.                                                     
+
+13 The MilSpec AFFF suit in Nessel was originally filed in federal court. 
+commercial AFFF, “Plaintiffs cannot decide what defense Defendants might  
+present.  Consider, for example, a tort case: a plaintiff can allege that a defendant 
+and only that defendant caused his injury, but a plaintiff cannot prevent a 
+
+defendant from presenting an alternate theory of causation.”  Id.         
+The instant case is distinguishable from Nessel because the State’s two cases 
+here involve AFFF and non-AFFF contamination, rather than contamination from 
+two different kinds of AFFF.  In Nessel, whether an alternate source of   
+contamination was MilSpec AFFF, as opposed to another version of AFFF, was 
+legally significant because the defendants’ liability turned on whether the factfinder 
+concluded that the defendant produced the AFFF for the federal government under 
+
+a military specification.  Here, unlike Nessel, whether an alternate source of 
+contamination was MilSpec AFFF is irrelevant because this suit does not involve 
+AFFF, regardless of whether it is MilSpec or another version of AFFF.     
+In addition, the court does not find the reasoning of Nessel persuasive.  If the 
+sources of contamination cannot be distinguished, 3M cannot be held liable.  That 
+is, the State will fail to establish its own case, which is premised on the existence of 
+
+contamination from some non-AFFF source.  And, if a factfinder can distinguish the 
+sources of contamination, 3M will prevail to the extent the factfinder determines 
+contamination came from AFFF.  This is true regardless of whether 3M supplied 
+the AFFF under federal authority or warned the government about its dangers. 
+In a final attempt to persuade the court that the State’s disclaimer is 
+ineffective to defeat removal, 3M points to the inapplicability of the “well-pleaded 
+complaint rule” in cases removed under § 1442(a)(1).  The well-pleaded complaint 
+rule governs the determination of whether a case arises under federal law for 
+purposes of federal question jurisdiction.  E.g., Rhode Island, 35 F.4th at 51.  The 
+
+court must make the determination from the face of the plaintiff’s complaint — 
+mindful that the plaintiff is “master” of its claims.  Id.  So, in most circumstances, 
+the non-federal cast of a complaint will prevent the defendant from removing it.  Id.  
+The federal officer removal statute, however, overrides the well-pleaded complaint 
+rule—at least inasmuch as removal jurisdiction under § 1442(a)(1) turns on the 
+defendant’s assertion of a colorable federal defense.  See, e.g., Durham v. Lockheed 
+Martin Corp., 445 F.3d 1247, 1253 (9th Cir. 2006).                        
+
+While 3M is correct that the well-pleaded complaint rule does not apply 
+under § 1442(a)(1), the defendant must still establish that a nexus exists between 
+the “charged conduct and the asserted official authority.”  Jefferson Cnty., Ala. v. 
+Acker, 527 U.S. 423, 431 (1999).  Simply asserting a federal defense is not, on its 
+own, sufficient to show removal jurisdiction under § 1442(a)(1).  Rather, § 1442(a)(1) 
+also requires that the plaintiff’s claims have a nexus to the defendant’s acts under 
+
+federal authority.  Id.  The nexus does not exist here — for the reasons already 
+explained.                                                                
+In sum, 3M has not met its burden to show that a nexus exists between the 
+claims in this case and its alleged actions under federal authority.  Therefore, 
+remand is necessary.                                                      
+II.  Timeliness of Removal.                                               
+The State also argues remand is necessary because 3M’s removal of this case 
+was untimely under 28 U.S.C. § 1446(b), which requires a defendant to remove a 
+case within 30 days of when its removability can be first ascertained.  The court 
+
+agrees.                                                                   
+A notice of removal in a civil action “shall be filed within 30 days after the 
+receipt by the defendant, through service or otherwise, of a copy of the initial 
+pleading setting forth the claim for relief upon which such action or proceeding is 
+based . . . .”  28 U.S.C. § 1446(b)(1).  “[I]f the case stated by the initial pleading is 
+not removable, a notice of removal may be filed within 30 days after receipt by the 
+
+defendant, through service or otherwise, of a copy of an amended pleading, motion, 
+order or other paper from which it may first be ascertained that the case is one 
+which is or has become removable.”  Id. § 1446(b)(3).                     
+In practice, the 30-day clock begins if either one of two conditions exists: (1) 
+the case stated by the initial complaint is removable or (2) subsequent papers allow 
+the defendant to ascertain removability.  See Romulus v. CVS Pharm., Inc., 770 
+F.3d 67, 72 (1st Cir. 2014) (“We now hold that Section 1446(b)’s thirty-day clocks 
+
+are triggered only when the plaintiffs’ complaint or plaintiffs’ subsequent paper 
+provides the defendant with sufficient information to easily determine that the 
+matter is removable.”).   Unless the issue is waived, a case removed after the 30-day 
+clock begins and ends must be remanded.  See Universal Truck & Equipment  
+Company, Inc. v. Southworth-Milton, Inc., 765 F.3d 103, 110 (1st Cir. 2014). 
+“When removability is not clear from the initial pleading,” the court “looks to 
+the plaintiffs’ subsequent papers” to determine whether or when removability first 
+became ascertainable.  See Romulus, 770 F.3d at 74.  In assessing whether 
+
+subsequent papers start the 30-day clock, the First Circuit applies a “bright-line 
+approach” that looks to whether the “plaintiffs’ pleadings or the plaintiffs’ other 
+papers provide the defendant with a clear statement of” the grounds for removal or 
+with “sufficient facts” from which the grounds for removal can be “easily 
+determined.”  See id. at 69, 72; accord Dietrich v. Boeing Co., 14 F.4th 1089, 1093 
+(9th Cir. 2021) (stating that the facts that demonstrate removability must be stated 
+“clearly” and “unequivocally” before 30-day clock begins).                
+
+The defendant has “no duty” to “investigate or to supply facts outside of those 
+provided by the plaintiff.”  Romulus, 770 F.3d at 75.  At the same time, the 
+defendant must “apply a reasonable amount of intelligence in ascertaining 
+removability.”  Id. (quoting Cutrone v. Mortgage Electronic Registration Sys., Inc., 
+749 F.3d 137, 143 (2d Cir. 2014)).  The use of a “reasonable amount of intelligence” 
+includes considering uncontested information in the record, even if the defendant 
+
+originally produced the information.  See id. at 79 n.9.                  
+A.   The First Circuit construes the term “other paper” broadly and the 
+     initial complaint in the AFFF Suit qualifies.                   
+To determine whether the 30-day clock started under § 1446(b)(3), the court 
+must analyze what is “apparent on (or easily ascertainable from) the face of the 
+plaintiff’s pleadings” and “other papers.”  Id. at 72-75.   A threshold issue in 
+determining when 3M could first ascertain the removability of this suit is which 
+papers the court may consider, and, in particular, whether documents filed in the 
+AFFF Suit can be considered “other paper” for purposes of triggering the 30-day 
+clock under § 1446(b)(3) in this suit.  Notably, the State’s initial complaint in the 
+
+AFFF Suit fills in several details about 3M’s supply of AFFF for the United States 
+military, and the facts alleged in the AFFF Suit underlie 3M’s removal of this suit. 
+Ordinarily, papers filed in one case would not be relevant and could not be 
+considered in ascertaining the removability of another case.  See Wisconsin v. 
+Amgen, Inc., 516 F.3d 530, 534 (7th Cir. 2008) (holding, in a case that did not 
+involve identical parties, that “there can be no removal on the basis of an order or 
+other document in another case” but leaving open the possibility that a case with a 
+
+“distinguishing feature” might except it from the general rule).  However, under the 
+unique circumstances here, the First Circuit’s reasoning in Romulus provides 
+support for considering papers filed in the AFFF Suit.  See 770 F.3d at 77.   
+In Romulus, the defendant removed the suit under statutes that permit 
+removal of a class-action suit if the amount in controversy exceeds $5,000,000 and 
+other requirements are met.  Id. at 70.  The removal occurred more than 30 days 
+
+after the filing of the initial complaint.  Id.  The plaintiff moved to remand, and the 
+district court granted the motion on the ground that removal was untimely.  The 
+district court found no basis to trigger the 30 days under § 1446(b)(3).  Id. at 71. 
+The First Circuit reversed, concluding that § 1446(b)(3) applied because the 
+defendant had received an informal email from plaintiff’s counsel which, for the 
+first time, disclosed data to the defendant that was “a very important component” of 
+its amount-in-controversy calculation.  Id. at 71.  This data, when combined with 
+the plaintiff’s pleadings and other data provided by the defendant in an earlier 
+notice of removal, was sufficient for the defendant to “easily determine” the case’s 
+
+removability, thus triggering the 30-day clock for removal.  Id. at 72.  Because the 
+defendant removed the case within that 30-day period, the First Circuit concluded 
+that the defendant’s removal was timely under § 1446(b)(3).  Id.          
+The First Circuit took a practical and common-sense approach to answering 
+the fact-intensive question of what constitutes sufficient notice of removability.  The 
+court interpreted § 1446(b)(3)’s term “other paper” to include documents such as 
+“informal correspondence from the plaintiff to the defendant.”  Id. at 78.  Thus, 
+
+under Romulus, a document need not be formally filed in a case or served on the 
+defendant to be considered an “other paper” for purposes of removal.  Id.  It is more 
+important that the document came from the plaintiff, was received by the removing 
+defendant, and unambiguously revealed facts that affected the removability of the 
+case at hand.  See id. (“We hold that correspondence from the plaintiff to the 
+defendant concerning damages can constitute an ‘other paper’ for purposes of 
+
+Section 1446(b)(3).”); 28 U.S.C. § 1446(b)(3) (stating that the 30-day clock begins 
+when the defendant receives “through service or otherwise,” inter alia, an “other 
+paper” that first allows it to ascertain removability) (emphasis added).  
+Where there are multiple cases involving the same defendant, courts have 
+looked to orders issued in those other cases to determine whether information in 
+those orders trigger § 1446(b)(3)’s 30-day clock.  The Fifth and Third Circuits have 
+held that, in special circumstances, when a defendant which sought removal was a 
+party in an unrelated case and in that case the court issued an “order” that affected 
+the case’s removability, the order triggered the 30-day clock under § 1446(b)(3).  See 
+
+Green v. R.J. Reynolds Tobacco Co., 274 F.3d 263, 267 (5th Cir. 2001) (“[A] decision 
+by a court in an unrelated case, but which involves the same defendant, a similar 
+factual situation, and the question of removal [] can constitute an ‘order’ under 
+§ 1446(b).”); Doe v. Am. Red Cross, 14 F.3d 196 (3d Cir. 1993) (same).  The cases 
+which the First Circuit relied on in Romulus are likewise consistent with this rule.  
+See Addo v. Globe Life and Acc. Ins. Co., 230 F.3d 759, 761-62 (5th Cir. 2000) 
+(“[O]ther paper must result from the voluntary act of a plaintiff which gives the 
+
+defendant notice of the changed circumstances which now support federal   
+jurisdiction.”); see also Yarnevic v. Brink’s, Inc., 102 F.3d 753, 755 (4th Cir. 1996) 
+(“We do not think § 1446(b) requires that the ‘motion, order or other paper’ be part 
+of the state court record, . . . .  The ‘motion, order or other paper’ requirement is 
+broad enough to include any information received by the defendant, ‘whether 
+communicated in a formal or informal manner.’”).                          
+
+Considering the First Circuit’s approach to this question in Romulus, and 
+under the unique circumstances present here, the court finds that certain 
+documents filed in the AFFF Suit qualify as “other paper” sufficient to trigger the 
+30-day clock under § 1446(b)(3).  There are unique facts in this case that make that 
+finding appropriate.  Specifically, both this suit and the AFFF Suit involve the same 
+plaintiff, the same removing defendant, and the same lawyers; both suits were filed 
+on the same day; they cover largely the same factual and legal issues; and, 3M’s 
+basis for its removal of this suit is the alleged inherent link between the claims in 
+this suit and the State’s claims in the AFFF Suit.                        
+
+B.   Considering the pleadings and other papers that the State provided to 
+     3M, 3M could have first ascertained the removability of this suit more 
+     than 30 days before its April 29, 2022 notice of removal.       
+Here, there is no dispute that the case stated by the initial complaint in this 
+suit, standing on its own, was not removable.  While the initial complaint covered 
+contamination statewide, it did not connect 3M’s supply of AFFF to any military 
+sites in New Hampshire.  Therefore, the court looks to § 1446(b)(3) to determine 
+whether any subsequent papers allowed 3M to ascertain this suit’s removability 
+under the federal officer removal statute.  See Romulus, 770 F.3d at 72.  
+3M did not file its notice of removal in this suit until April 29, 2022, so 
+removal was untimely if 3M could first ascertain the removability of this suit under 
+§ 1442(a)(1) more than 30 days earlier—i.e., prior to March 30, 2022.  See 28 U.S.C. 
+
+§ 1446(b)(3).  The initial complaint in this suit, when considered with the initial 
+complaint in the AFFF Suit, clearly and unequivocally stated sufficient facts from 
+which 3M could have easily determined the basis for its removal, which is that 
+there is plausible overlap in PFAS contamination in areas covered by this suit from 
+both MilSpec AFFF and non-AFFF sources.  These facts were revealed almost three 
+years before March 30, 2022, so 3M’s removal under § 1442(a)(1) was untimely. 
+
+3M makes several arguments in response.  To start, 3M asserts that the 
+State did not make clear that this suit involved statewide contamination until 
+March 30, 2022.  The record proves otherwise.  The initial complaint clearly and 
+unambiguously alleged that the case involved statewide contamination.  That is 
+enough.  But if it were not, the superior court confirmed that 3M’s “site-by-site” 
+
+viewpoint had no validity in its June 2020 order which described the State’s 
+complaint as broadly alleging harm to “all land in the state.”  Doc. no. 12-5 at 8.  
+The State made that point again in its April 2021 oral argument on defendants’ 
+motion to dismiss the public trust claim.  Doc. no. 23-8 at 11.  The State, of course, 
+reiterated it one more time on March 30, 2022, but the State repeating what it had 
+already made clear does not change when removability was first ascertainable by 
+3M.  See § 1446(b)(3).                                                    
+
+3M relies on the disclaimer to support its argument that it could not have 
+known the case was removable.  That is, 3M could not know that the case involved 
+MilSpec AFFF because the State expressly disclaimed MilSpec AFFF.  3M’s basis 
+for removing this case, however, is that the court should disregard that disclaimer.  
+And, whether disclaimers like the State pleaded in these cases are sufficient, as a 
+matter of law, to undermine removal jurisdiction under § 1442(a)(1) has been a 
+
+long-running legal question.  See, e.g., Hayden, 2015 WL 4730741, at *4 (disclaimer 
+effective); Jennings v. Bell Helicopter Textron, Inc., 2012 WL 12883239, at *4 (S.D. 
+Cal. Oct. 23, 2012) (finding that disclaimer is ineffective and collecting cases finding 
+the same).  Thus, 3M’s argument as to removal jurisdiction under § 1442(a)(1) (i.e., 
+the State’s disclaimer is ineffective to defeat removal) was always available to 3M.  
+For that reason, it is not a persuasive basis to delay the start of the 30-day clock 
+under § 1446(b)(3).  See Dahl v. R.J. Reynolds Tobacco Co., 478 F.3d 965, 970 (8th 
+Cir. 2007) (holding that the removing defendant could “ascertain” removability of a 
+suit under the federal officer removal statute notwithstanding federal courts’ 
+
+competing views about whether federal officer jurisdiction would exist under facts 
+like those in the case).                                                  
+The Eighth Circuit explained in Dahl that Congress did not intend for 
+§ 1446(b) to permit a defendant to delay removal simply because it lacked a 
+definitive legal basis to support removal jurisdiction.  See id.  Therefore, so long as 
+the plaintiff supplies sufficient facts for the defendant to easily determine that it 
+can non-frivolously remove the case under the pertinent statute, the 30-day clock 
+
+under § 1446(b)(3) begins.14  Cf. Universal Truck & Equip. Co., 765 F.3d at 108 
+(holding that 30-day clock was triggered for purposes of removal on diversity 
+grounds even though plaintiff included non-diverse defendants because it was 
+apparent from the face of the complaint that the non-diverse defendants were 
+fraudulently joined); Universal Truck & Equip. Co., Inc. v. Caterpillar, Inc., 653 
+Fed. Appx. 15, 19 (1st Cir. June 27, 2016) (explaining the decision in Universal 
+
+Truck & Equip Co., 765 F.3d at 108, and stating that the 30-day clock started in 
+that case because “[d]efendants knew (or should have known) from the case’s 
+
+14  Courts  have  held  that  an  appellate  court’s  abrogation  of  a  rule  that 
+previously foreclosed removal jurisdiction begins the 30-day clock under § 1446(b)(3).  
+See Borne v. ANCO Insulations, Inc., No. 20-134-BAJ-RLB, 2020 WL 6277307, at *6 
+(M.D. La. Sept. 18, 2020) (finding that 30-day clock for removal began when the Fifth 
+Circuit  overruled  prior  precedent  about  whether  § 1442(a)(1)  required  a  causal 
+connection or mere nexus).  Such a circumstance does not exist here.      
+beginning that they could remove the suit to federal court under diversity 
+jurisdiction”).                                                           
+The State’s disclaimers in this and the AFFF Suit were always clear and 
+
+unambiguous.  Since the beginning of this case, the State has changed neither the 
+disclaimer nor the scope of its claims.  3M’s argument that the State’s disclaimer 
+was insufficient to defeat removal jurisdiction was obvious from the face of the 
+initial complaint, and it was always known to 3M (or always should have been 
+known to 3M).  For those reasons, the State’s disclaimer did not delay or prevent 
+the start of the 30-day clock under § 1446(b).  See Universal Truck & Equip Co., 765 
+F.3d at 108; Dahl, 478 F.3d at 970.                                       
+
+3M also argues that removability was not ascertainable because it only 
+determined that § 1442(a)(1) was applicable to this suit after it conducted an 
+independent investigation which revealed that “contamination from MilSpec AFFF 
+sources plausibly overlaps with the putative non-AFFF contamination ostensibly at 
+issue in this action.”  See doc. no. 30-1 at 10.  This argument lacks merit for several 
+reasons.  First, it was clear from the initial pleadings that there was overlap in the 
+
+areas of contamination covered by the two suits.  Because the State alleged from the 
+outset that there was overlap in contamination, 3M’s “plausible overlap” theory was 
+ascertainable from the initial pleadings.                                 
+Second, if the facts alleged in the pleadings were insufficient for 3M to 
+remove under § 1442(a)(1), 3M filled in any remaining blanks when it removed the 
+AFFF Suit in July 2019.  See Romulus, 770 F.3d at 79 n.9 (stating that the 
+defendant cannot ignore facts that it submitted into the record to support an earlier 
+removal); State v. 3M, Case No. 19-cv-800-JD, ECF doc. no. 1 at 8 ¶¶ 20-30 
+(discussing history of MilSpec AFFF and of 3M’s supply of MilSpec AFFF in New 
+
+Hampshire).  The factual basis for 3M’s removal of this suit is the same as the 
+factual basis for its July 2019 removal of the AFFF Suit: 3M’s supply of MilSpec 
+AFFF at Pease Air Force Base.  Compare doc. no. 1 ¶ 30 (notice of removal in this 
+suit) (“MilSpec AFFF released from the Pease Air Force Base plausibly migrates to 
+the Great Bay estuary and other surrounding surface waters where it commingles 
+with PFAS that derives from other, non-AFFF sources.”), with State v. 3M, Case 
+No. 19-cv-800-JD, ECF doc. no. 1 at 8 ¶ 20 (AFFF Suit Notice of Removal) (removal 
+
+justified because the State alleged use of AFFF at Pease Air Force Base).  The only 
+relevant difference between this suit and the AFFF Suit is the State’s disclaimer of 
+recovery for AFFF contamination, and, as discussed, the potential ineffectiveness of 
+this disclaimer to undermine removal jurisdiction was apparent from the initial 
+pleadings, so it did not obviate 3M’s responsibility to remove within 30 days after 
+the State provided sufficient facts for 3M to set forth its plausible overlap theory.  
+
+See Universal Truck & Equip. Co., 765 F.3d at 108; Dahl, 478 F.3d at 970.  Because 
+the facts alleged in both suits are the same, and the basis for removal in both suits 
+is the same, and because 3M could have always raised its legal argument that the 
+one difference between the cases—the disclaimer—is ineffective to defeat removal 
+jurisdiction, the removal statute required 3M to remove this suit at least within 30 
+days of removing the AFFF Suit.  See id.                                  
+The court rejects 3M’s plausible overlap argument for a third reason.  If a 
+specific location in which plausible overlap in contamination were necessary to 
+trigger § 1446(b) notwithstanding the breadth of the State’s initial pleadings or 
+
+3M’s earlier removal of the AFFF Suit on the same grounds, the State’s December 
+2021 initial disclosures revealed that the State intended to recover for  
+contamination from non-AFFF sources at PSNH Schiller Station in Portsmouth.  
+PSNH Schiller Station is near Pease Air Force Base, where it has been undisputed 
+from the beginning that 3M supplied MilSpec AFFF.  The State also alleged in its 
+initial complaints that contamination from both AFFF and non-AFFF sources has 
+occurred in tidal estuaries, doc. nos. 1-3 ¶ 2 and 1-5 ¶ 3, and a large, well-known 
+
+tidal estuary—Great Bay—directly abuts Pease Air Force Base.  That the locations 
+are close to each other is sufficient because the State alleged that PFAS compounds 
+migrate “long distances” through soil and groundwater and do not decompose once 
+released.  Doc. no. 1-3 ¶¶ 45-48 (alleging that “[o]nce these PFAS compounds are 
+applied, discharged, disposed of, or otherwise released onto or into the air, soil, 
+sediments or water, they migrate through the environment and into groundwater, 
+
+surface water, fish, wildlife, marine resources, and other natural resources.”).  3M 
+only needed to apply a “reasonable degree of intelligence,” Cutrone, 749 F.3d at 143, 
+to easily determine that PFAS from MilSpec AFFF released at Pease Air Force Base 
+plausibly overlaps with non-AFFF contamination at PSNH Schiller Station or Great 
+Bay.                                                                      
+3M also relies on Orange County Water District v. 3M Company to support 
+its argument against remand.  2022 WL 605630, at *1-2 (9th Cir. Mar. 1, 2022).  In 
+Orange County Water District, the Ninth Circuit reversed, in an unpublished 
+
+decision, a district court’s remand order based on untimeliness.  2022 WL 605630, 
+at *1-2.  The Ninth Circuit reasoned that § 1446(b)’s 30-day clock was not triggered 
+by an ambiguous statement that military sites were “potential sources” of 
+environmental contamination subject to the suit, which involved several   
+defendants.  Id.  The Ninth Circuit held that this statement did not clearly and 
+unequivocally connect 3M to the suspected source of environmental contamination 
+forming the lawsuit’s basis.  Id.                                         
+
+Orange County Water District is distinguishable.  Here, the State made clear 
+and unambiguous in its pleadings that the alleged contamination covered the whole 
+of New Hampshire, including certain military sites such as Pease Air Force Base.  
+The pleadings added that 3M supplied AFFF to the United States military in New 
+Hampshire, which caused contamination of soil and groundwater in New      
+Hampshire.  And, lastly, the State’s allegations were not conditional or merely 
+
+asserting “potential” contamination by an unspecified defendant; rather, the State 
+alleged that 3M had supplied AFFF at military sites in New Hampshire which 
+migrated long distances and contaminated land and water throughout the entire 
+state.                                                                    
+Finally, 3M does not argue that it could not have ascertained the facts to 
+assert a colorable federal contractor immunity defense prior to March 30, 2022.  
+Presumably this is because, in its 2019 notice of removal in the AFFF Suit, 3M set 
+out all of facts it uses now to assert that defense.  And, under Romulus the 
+defendant cannot ignore facts that it supplied when it previously put them in the 
+
+record and relied on them.  See 770 F.3d at 79 n.9 (stating that defendant was 
+under “no duty” to provide facts for removal originally, but defendant “could not 
+subsequently ignore” an “uncontested fact” alleged in an earlier attempt at 
+removal).                                                                 
+
+III.  Summary                                                             
+In summary, the court finds two alternative bases on which to remand this 
+lawsuit.  First, 3M has not shown that a “nexus” exists between the State’s claims 
+in this case and its production of AFFF for the United States military.  Therefore, 
+the elements for removal jurisdiction under the federal officer removal statute, 
+§ 1442(a)(1), have not been met.                                          
+Second, 3M’s removal was untimely under § 1446(b).  Applying a reasonable 
+
+degree of intelligence to the clear and unambiguous facts alleged by the State, 3M’s 
+theory for removal (i.e., that PFAS compounds from MilSpec AFFF plausibly 
+migrated and commingled with PFAS compounds from other sources) was       
+ascertainable more than 30 days before 3M filed its notice of removal in this suit.  
+The record reveals at least three triggers for the 30-day clock to begin to run under 
+§1446(b)(3) that 3M ignored during the three years of this litigation: the May 2019 
+
+complaint in the AFFF Suit, the July 2019 removal of the AFFF Suit, and the 
+State’s December 2021 initial disclosures.  Thus, 3M’s notice of removal filed on 
+April 29, 2022, was untimely.  See 28 U.S.C. § 1446(b)(8). 
+
+                          CONCLUSION 
+ For the foregoing reasons, the State’s motion to remand (doc. no. 12) is 
+granted.  Any pending motions are denied as moot.  This case shall be remanded to 
+the Merrimack County Superior Court. 
+ SO ORDERED. 
+                                 □□ 
+                               Lan hot M Cafferty 
+                               United StatesDistrict Judge 
+                                         Li 
+March 29, 2023 
+ce:    Counsel of Record 
+
+                                    36

@@ -1,0 +1,393 @@
+UNITED STATES DISTRICT COURT                                              
+SOUTHERN DISTRICT OF NEW YORK                                             
+
+
+
+IN RE:                                     22-CV-9783 (RA)               
+
+305 EAST 61st STREET GROUP LLC,            MEMORANDUM                    
+                                          OPINION & ORDER                
+
+
+
+RONNIE ABRAMS, United States District Judge:                              
+    Appellant Little Hearts Marks Family II, LLP (“Little Hearts”)—an equity member of 305 
+East 61st Street Group LLC (“Debtor”), which is currently engaged in Chapter 11 bankruptcy 
+proceedings—filed this appeal challenging the Bankruptcy Court’s dismissal of a Complaint filed 
+in New York state court (and subsequently removed to the Bankruptcy Court) stating causes of 
+action against Appellees Jason D. Carter and 61 Prime LLC.1  Specifically, the Bankruptcy Court 
+dismissed the Complaint after finding that Appellant lacked standing to bring the causes of action.  
+See In re: 305 East 61st Street Group LLC, 644 B.R. 75 (Bankr. S.D.N.Y. 2022).  For the reasons 
+set forth below, because the Bankruptcy Court correctly found that the causes of action pleaded in 
+the Complaint were derivative claims—that is, claims which seek “to recover for injury to the 
+business entity” generally, rather than for “redress for injury to [Appellant] individually,” Yudell 
+v. Gilbert, 99 A.D.3d 108, 113 (N.Y. App. Div. 2012)—Appellant lacks standing to pursue them 
+given the Debtor’s ongoing bankruptcy. The order of the Bankruptcy Court dismissing the 
+Complaint is therefore affirmed.                                          
+
+1    By a separate Memorandum Opinion and Order issued today, the Court separately affirmed the Bankruptcy 
+Court’s approval of a settlement agreement pursuant to Bankruptcy Rule 9019 regarding the Debtor’s remaining 
+assets.  See In re: 305 East 61st Street Group LLC, No. 23-cv-80.         
+                         BACKGROUND                                      
+    The Debtor in the underlying bankruptcy proceedings, 305 East 61st Street Group LLC, 
+owned a ten-story former warehouse building in Manhattan which was acquired for conversion 
+into a condominium.2  The Debtor, in turn, was owned by four members: (1) 61 Prime LLC 
+(“Prime”); (2) Little Hearts; (3) Thaddeus Pollock; and (4) Onestone 305 LLC (“Onestone”).  
+
+Prime, whose sole member and manager is Jason Carter, held a 50% ownership interest in the 
+Debtor.  Little Hearts, whose principal is Mitchell Marks, held a 30% ownership interest in the 
+Debtor and also served as its manager.  Pollock and Onestone each held a 10% ownership interest.   
+    The members executed an Operating Agreement which assigned to each member specific 
+floors of the building, and required each member to assume responsibility for payment of a portion 
+of the mortgage on the building as part of their capital contributions to the conversion project.  
+Compl. ¶ 22.  Under those terms, Prime was required to pay 5/8ths of the mortgage, and each of 
+Little Hearts, Pollack, and Onestone were required to pay 1/8th of the mortgage.  Id. ¶ 23.  The 
+Operating Agreement also assigned a percentage of membership in the Debtor to each member in 
+
+exchange for their investment, and provided that each member would have the right to acquire and 
+retain, use, occupy, and develop one or more floors of the building, roughly equal to one floor for 
+each ten percent of equity.  Id. ¶ 28.  Prime therefore acquired exclusive rights to the 4th, 5th, 6th, 
+7th, and 9th floors, id. ¶ 30; Little Hearts acquired exclusive rights to the “basement/cellar” and 
+1st floor, 2nd floor, 10th floor, and roof, id. ¶ 29; Pollock acquired exclusive rights to the 3rd floor, 
+id. ¶ 31; and Onestone acquired exclusive rights to the 8th floor, id. ¶ 32.  The Operating 
+
+
+2    These facts are taken from the Complaint filed by Appellant in New York State court and subsequently 
+removed to the Bankruptcy Court, see Little Hearts Marks Family II L.P. v. Jason D. Carter and 61 Prime LLC, Index 
+No. 652410/2021, and, because this appeal arises from a decision on a motion to dismiss, the allegations contained 
+therein are assumed to be true, see In re ICP Strategic Credit Income Fund Ltd., 568 B.R. 596, 605–06 & n.6 (S.D.N.Y. 
+2017).                                                                    
+Agreement further set forth a priority for the distribution of proceeds in the event that a unit in the 
+building was sold.  See Operating Agreement § 21.2.  Under those terms, any profits that the 
+members recognized from the sale of a unit would go first to the Debtor generally, and—only after 
+a member’s obligations to the Debtor were fully paid—then to a member on an individual basis.   
+    The members have a particularly litigious history.  See, e.g., In re 305 East 61st St. Grp. 
+
+LLC, 644 B.R. 75, 78–80 (Bankr. S.D.N.Y. 2022) (detailing the years-long legal battle between 
+the equity members for control of the Debtor).  To briefly summarize: first, while under the 
+management of Little Hearts, the Debtor brought an action against Prime in New York State court 
+in spring 2018, alleging that Prime had refused to pay $62,500 of its original subscription to the 
+Debtor.  Compl. ¶ 39 (citing 305 East 61st Street Group LLC v. 61 Prime LLC, Index No. 
+652934/2018).  In July 2018, Prime and its principal, Carter, brought a separate action in New 
+York State court (hereafter, the “Prime Action”) against Little Hearts and its principal, Marks, 
+alleging that they had violated the Operating Agreement by, among other things, misappropriating 
+a portion of construction loan proceeds and misappropriating the unexcavated land below Debtor’s 
+
+building.  Id. ¶¶ 41–42 (citing 61 Prime LLC, et al. v. Little Hearts Marks Family II, LP, et al., 
+Index No. 653281/2018).  The court in the Prime Action issued a temporary restraining order 
+removing Little Hearts as manager of the Debtor and substituting Prime in its place.  Id. ¶ 44.  
+Little Hearts and Marks thereafter brought an action in August 2018 in New York State court (the 
+“Little Hearts Action”) alleging that Prime and Carter had improperly removed it as manager, and 
+that Prime and Carter had mismanaged the property, purportedly causing violations to be issued 
+by the Department of Buildings of the City of New York.  See Little Hearts Marks Family II, LP 
+v. 61 Prime LLC, et al., Index No. 654198/2018; see also Compl. ¶ 64.     
+    In June 2019, the fraught history of the Debtor reached a breaking point, and it filed a 
+petition for relief under Chapter 11 of the Bankruptcy Code.  Bankr. Dkt. 1.  Upon the filing of the 
+petition, both the Prime Action and the Little Hearts Action were automatically stayed, as required 
+by 11 U.S.C. § 362.  In view of the equity members’ litigious history and rivaling interests 
+regarding the Debtor’s remaining assets, the Bankruptcy Court eventually appointed Kenneth P. 
+Silverman as the Chapter 11 Trustee to administer the Debtor’s bankruptcy estate.  See Bankr. Dkt. 
+
+79 at 3 (Memorandum Decision recounting that appointment of a neutral third party as trustee was 
+necessary because “the equity members could not agree on a path forward for the Debtor”).  The 
+Chapter 11 Trustee later filed a plan of liquidation (the “Plan”), which was confirmed by an order 
+of the Bankruptcy Court, and which established a trust (the “Creditor Trust”) into which all of the 
+Debtor’s remaining assets—including causes of action held by the Debtor—were transferred.  
+Silverman, already the Chapter 11 Trustee, also assumed the role of Creditor Trustee.   
+    Following the automatic stay of the Little Hearts Action against Prime and Carter, Little 
+Hearts then brought an adversary proceeding in the Bankruptcy Court against the Debtor seeking 
+a declaratory judgment and injunctive relief, as well as claims asserting breach of contract and 
+
+breach of implied covenant of good faith and fair dealing.  In August 2019, Little Hearts also filed 
+a proof of claim against the Debtor in its Chapter 11 proceedings in the amount of $12 million.  
+The proof of claim included language directly tying Little Hearts’ claims against the Debtor to its 
+existing claims against Prime and Carter:                                 
+    [I]f it is determined that Prime and Mr. Carter are not individually liable to Claimant 
+    for their actions or inactions, the Claimant asserts claims against the Debtor for 
+    monetary damages arising from the Debtor’s breaches of the Operating Agreement 
+    by, inter alia, failing to timely complete the Project (defined below), pay off its 
+    mortgages, and secure approval of a condominium offering plan, as expressly 
+    contemplated  by  the  Operating  Agreement;  causing  or  permitting  damage  to 
+    Claimant’s condominium units and other portions of the Building (defined below); 
+    and other losses suffered by the Claimant.                           
+
+Bankr. Rec. 245–56, Proof of Claim at ¶ 4.  In October 2019, Little Hearts then moved for the stay 
+in the Little Hearts Action to be lifted.  See Bankr. Dkt. 66.  Notably, in that motion, Little Hearts 
+acknowledged that its claims against Prime and Carter were effectively the same claims that it had 
+also asserted against the Debtor’s estate:                                
+    [Little Hearts] intends to assert claims . . . against Prime and Mr. Carter arising 
+    from their actions in failing to complete the Project, failing to obtain approval of 
+    the condominium offering, and permitting the Mortgage to mature without being 
+    timely refinanced or paid off.  If the State Court rules in the Marks Parties’ favor 
+    on the claims or counterclaims, then Prime and Carter (and not the Debtor) will be 
+    liable for Marks LP’s damages.  If, on the other hand, the State Court determines 
+    that Prime and Mr. Carter acted properly, then Marks LP’s claims against the 
+    Debtor . . . would continue to exist.                                
+
+Bankr. Dkt. 66, Mot. to Lift Stay at ¶¶ 27–28.                            
+    Of particular relevance for purposes of the present appeal: in April 2021, Little Hearts filed 
+a new complaint (the “Complaint”) in New York State court, bringing causes of action against 
+Prime and Carter, Appellees here.  See Little Hearts Marks Family II L.P. v. Jason D. Carter and 
+61 Prime LLC, Index No. 652410/2021.  Appellees filed a notice of removal to the Bankruptcy 
+Court in May 2021, and subsequently moved to dismiss the Complaint.  In their motion to dismiss, 
+Appellees argued that Little Hearts was enjoined from pursuing its causes of action because they 
+belonged solely to the Creditor Trust pursuant to the Plan approved by the Bankruptcy Court.  See 
+Mot. at ¶ 27.  More specifically, Appellees argued that Little Hearts’ claims were each ultimately 
+grounded in mismanagement of the Debtor, making them derivative claims to an entity involved 
+in a bankruptcy proceeding.  Id. ¶ 7.  Appellees further argued that the harm allegedly suffered by 
+Little Hearts in the Complaint would be the same harm purportedly suffered by the Debtor and 
+other members.  Id. ¶ 39.                                                 
+    In  October 2022, after  oral argument,  the Bankruptcy Court issued a Memorandum 
+Decision and Order granting Appellees’ motion to dismiss the Complaint.  See In re 305 East 61st 
+Street Grp. LLC, 644 B.R. 75 (Bankr. S.D.N.Y. 2022).  The Court held that Little Hearts lacked 
+standing to pursue each cause of action in the Complaint against Appellees, given that the 
+fundamental allegation underlying each claim entailed the alleged mismanagement of the Debtor.  
+Id. at 86–93.  The Bankruptcy Court further found that the effects of Appellees’ alleged wrongful 
+conduct impacted the Debtor and/or all members’ rights, rather than Little Hearts independently.  
+Id.    It  concluded  that  “the  damages  asserted  in  the  Complaint  flow[ed]  directly  from  the 
+
+Defendants’ actions upon the Company’s operations and [were] experience[d] by all members with 
+respect to their designated units.”  Id. at 89.  The Bankruptcy Court thus held that Little Hearts 
+lacked standing to  assert the claims in  the Complaint,  which were instead properly vested 
+exclusively with the Creditor Trust.  Id. at 87, 93.  Accordingly, the Bankruptcy Court dismissed 
+the Complaint in its entirety.  Appellant timely appealed, and oral argument was held on August 
+1, 2023.                                                                  
+                        LEGAL STANDARD                                   
+    A district court reviews a bankruptcy court’s findings of fact for clear error and any 
+conclusions of law de novo.  See In re Momentum Mfg. Corp., 25 F.3d 1132, 1136 (2d Cir. 1994).  
+
+Specifically, challenges to a bankruptcy court’s rulings on a motion to dismiss are reviewed de 
+novo.  See In re Lyondell Chem. Co., 554 B.R. 635, 644 (S.D.N.Y. 2016).  “[S]tanding is the 
+threshold question in every federal case, determining the power of the court to entertain the suit.”  
+In re Gucci, 126 F.3d 380, 387–88 (2d Cir. 1997).  “If a court perceives at any stage of the 
+proceedings that it lacks subject matter jurisdiction, then it must take proper notice of the defect 
+by dismissing the action.”  Cave v. E. Meadow Union Free Sch. Dist., 514 F.3d 240, 250 (2d Cir. 
+2008).                                                                    
+                          DISCUSSION                                     
+    The commencement of a bankruptcy case creates an estate which includes “all legal or 
+equitable interests of the debtor in property as of the commencement of the case.”  11 U.S.C. § 
+541(a)(1).  As such, a debtor’s causes of action vest with the bankruptcy estate at the time that its 
+petition for relief is filed, and the representative of the bankruptcy estate has exclusive standing to 
+assert causes of action on behalf of the estate.  See BRS Assocs., LP v. Dansker, 246 B.R. 755, 
+771–72 (S.D.N.Y. 2000); see also In re Granite Partners, LP, 194 B.R. 318, 323 (Bankr. S.D.N.Y. 
+
+1996) (“The trustee stands in the shoes of the debtor,” and “may bring any suit that the debtor 
+could have brought before bankruptcy.”).  As the Second Circuit has observed, the “general 
+bankruptcy policy of ensuring that all similarly-situated creditors are treated fairly” requires that 
+the trustee have the first opportunity to pursue estate actions without interference from individual 
+creditors.  St Paul Fire & Marine Ins. Co. v. PepsiCo, Inc., 884 F.2d 688, 697 (2d Cir. 1989).  
+“Where the trustee has standing to sue, the automatic stay prevents creditors or shareholders from 
+asserting the claim notwithstanding that, outside of bankruptcy, they have the right to do so.”  In 
+re Granite Partners, LP, 194 B.R. at 325.  Accordingly, individual creditors or shareholders lack 
+standing to bring so-called ‘derivative’ actions—those which are derivative of a claim that may be 
+
+brought on behalf of the estate.  See id. at 324.  Conversely, where a cause of action is a “personal, 
+direct claim[] of [a] creditor[],” the trustee lacks standing to assert the claim.  Id.  And, as stated 
+previously, where a plaintiff lacks standing, a court does not have subject matter jurisdiction to 
+hear the case.  See Cent. States Se. & Sw. Areas Health & Welfare Fund v. Merck-Medco Managed 
+Care, LLC, 433 F.3d 181, 198 (2d Cir. 2005).                              
+    Whether an action is direct or derivative is a question of state law.  See St. Paul Fire & 
+Marine Ins. Co., 884 F.2d 688, 700 (2d Cir. 1989) (“Whether the rights belong to the debtor or the 
+individual creditors is a question of state law.”).  In New York, a “plaintiff asserting a derivative 
+claim seeks to recover for injury to the business entity;” whereas a “plaintiff asserting a direct 
+claim seeks redress for injury to him or herself individually.”  Yudell v. Gilbert, 99 A.D.3d at 113.  
+A shareholder or creditor has no individual cause of action for an alleged wrong against the 
+business entity, even if he or she suffers injury because of that wrong and “may ultimately share 
+in the recovery.” Serino v. Lipper, 123 A.D.3d 34, 39 (N.Y. App. Div. 2014); see also Tooley v. 
+Donaldson, Lufkin & Jenrette, Inc., 845 A.2d 1031, 1036 (Del. 2004) (a key consideration is 
+
+“whether the stockholder has demonstrated that he or she has suffered an injury that is not 
+dependent on an injury to the corporation”); Yudell, 99 A.D.3d at 114 (adopting the test developed 
+by the Delaware Supreme Court in Tooley).                                 
+    Thus, in evaluating whether a claim is direct or derivative, New York courts consider “(1) 
+who suffered the alleged harm (the corporation or the suing stockholders, individually); and (2) 
+who  would  receive  the  benefit  of  any  recovery  or  other  remedy  (the  corporation  or  the 
+stockholders, individually).”  Serino, 123 A.D.3d at 40.  A creditor has a direct cause of action 
+where it alleges that the defendant breached a duty owed to the plaintiff independent of the duties 
+owed to the entity in bankruptcy.  See Venizelos v. Oceania Maritime Agency, Inc., 268 A.D.2d 
+
+291, 291 (N.Y. App. Div. 2000).                                           
+ I.   The Causes of Action Stated in the Complaint are Derivative        
+    The Bankruptcy Court did not err in finding that each cause of action asserted in the 
+Complaint was derivative, and that Appellant thus lacked standing to pursue them.   
+    First, for the breach of fiduciary duty cause of action, as the Bankruptcy Court correctly 
+observed, the Complaint is replete with references that make clear that the alleged harms were 
+experienced by the members generally rather than Little Hearts exclusively.  See In re 305 East 
+61st Street Group LLC, 644 B.R. at 86–87.  The Complaint variously alleges, for instance, that 
+Carter and Prime “Plac[ed] the Company into a Bankruptcy Proceeding,” “Allow[ed] the Mortgage 
+to mature so that Members would be responsible for paying interest at the 24% default rate without 
+calling on the Members to pay the debt,” and that “Carter and Prime refused to accept the funds 
+Members were required to pay the Mortgage pursuant to their Subscription Agreements with the 
+Company.”  Compl. ¶ 88 (emphasis added).  Contrary to Appellant’s argument, the Complaint’s 
+allegations do not spell out how or why Carter and Prime owed any independent fiduciary duty 
+
+solely to Little Hearts, rather than to the members of the Debtor more broadly.  Nor does 
+Appellant’s reliance on Newman v. Newman, 202 A.D.3d 442 (N.Y. App. Div. 2022), require a 
+different result.  In that case, the court held that a claim for an independent breach of fiduciary 
+duty to the plaintiff existed because of the parties’ status as family members, such that the fiduciary 
+duty at issue could not be inextricably embedded in the derivative claims stated in the complaint.  
+Id. at 443–44.  Appellant here alleges no such theory for any similar independent breach of 
+fiduciary duty owed to Little Hearts.                                     
+    The second cause of action, for aiding and abetting the breach of fiduciary duty, fares 
+similarly.  The Complaint sets forth the same factual allegations underlying the fiduciary duty 
+
+cause of action, see Compl. ¶¶ 94, 96–97, and the Bankruptcy Court correctly concluded that, like 
+the first cause of action, the allegations are “anchored in [Appellees’] alleged wrongful conduct as 
+to the Company, with effects that impacted all Members’ rights,” 644 B.R. at 87.  Appellant cites 
+MDK Hijos Trust v. Nordlicht, 2020 N.Y. Misc. LEXIS 1248, at *48–49 (Sup. Ct. March 10, 
+2020), for the proposition that its cause of action for aiding and abetting the breach of fiduciary 
+duty should necessarily be construed as a direct claim.  But that is not so.  In MDK Hijos Trust, 
+the court held merely that the complaint pleaded particularized facts giving rise to independent 
+fiduciary duties that the defendant owed to the plaintiff.  See id. at *15; see also id. at *16–17 
+(outlining the independent fiduciary duties owed).  Here, however, the Complaint contains no 
+allegation that any independent fiduciary duty was owed by Carter and Prime to Little Hearts 
+specifically, rather than to the members of the Debtor generally.         
+    The third and fourth causes of action, for breach of contract and violation of the covenant 
+of good faith and fair dealing, also belong to the Debtor (via the Creditor Trust) and are thus too 
+derivative.  In alleging breach of contract, the Complaint alleges that Carter through “ownership, 
+
+domination  and  control”  caused  “Prime,  a  Member  and  Manager  to  breach  the  Operating 
+Agreement.”  Compl. ¶ 105.  Appellant argues that paragraphs 9(I) and 9(F) of the Agreement 
+form the basis of this cause of action, but each of those provisions relate to the Manager’s duties 
+to the Debtor and all members generally.  Paragraph 9(I) provides that the Manger is required to:  
+    discharge the Manager’s duties to the Company and to the other Members in good 
+    faith  and  with  the  degree  of  care  that  an  ordinarily  prudent  person  and  an 
+    experienced real estate developer in a similar position would use under similar 
+    circumstances.                                                       
+
+Operating Agreement at ¶ 9(I) (emphasis added).  In like form, Paragraph 9(F) provides that the 
+Manager is “required to devote as much time as is reasonably necessary to the management of the 
+Company’s business . . . to perform all work . . . as herein contemplated and provided.”  Id. ¶ 9(F) 
+(emphasis added).  Accepting the allegations in the Complaint as true—including that those 
+contractual provisions unequivocally breached by Carter and Prime—such breach would, as the 
+Bankruptcy Court held, involve “wrongful conduct as to the Company, with effects that impacted 
+all Members’ rights.”  644 B.R. at 87.  The fourth cause of action, for violation of the covenant of 
+good faith and fair dealing, similarly alleges that Appellees “violated their obligations to act in 
+good faith and fair dealing required as Managers by acting in their personal interests, self-dealing 
+and acting against the Company and other Members.”  Compl. ¶ 113 (emphasis added).  The 
+Complaint thus alleges that any violation of the covenant and fair dealing caused harm to the 
+Debtor and its members generally, and it is also a textbook derivative claim.  In re Granite 
+Partners, LP, 194 B.R. at 324.                                            
+    The remaining claims were also appropriately held to be derivative by the Bankruptcy 
+Court, and Appellant lacks standing to bring them as well.  Count five purports to assert a cause 
+of action against Carter individually on the theory that he is the alleged alter ego of Prime and the 
+eventual purchaser of the building at 305 East 61st Street, Lazarus 5.  See Compl. ¶¶ 117–27.  But 
+
+“there is no independent cause of action for alter-ego liability,” which is instead a “veil piercing 
+claim” meant solely to “impos[e] liability on an underlying cause of action.”  Ocampo v. 455 
+Hospitality LLC, 2021 WL 4267388, at *10 (S.D.N.Y. Sept. 20, 2021) (citing Peacock v. Thomas, 
+516 U.S. 349, 354 (1996)).  Because the wrongs underpinning any alter ego liability against Carter 
+are the same as those alleged against Appellees in the other causes of action, they do not plead any 
+direct, individualized harm to Little Hearts.  See Compl. ¶ 121 (“Carter abused the privilege of 
+doing business in the corporate form to perpetrate wrongs against Plaintiff and others.”).  So too, 
+count six, for unjust enrichment, merely repeats each of the preceding allegations in the Complaint 
+to assert that Appellees engaged in inequitable conduct causing harm to the Debtor members 
+
+generally, and that they were unjustly enriched as a result.  See Compl. ¶¶ 128, 130–31.  Nor does 
+Appellant’s reliance on Scott v. Pro Mgt. Servs. Grp., 2 N.Y.S.3d 90 (App. Div. 2015), salvage its 
+argument.  In Scott, while the court did hold that an unjust enrichment claim was direct, it did so 
+expressly because “all other owners of the holding companies received revenues, licensing fees, 
+royalties, and other consideration for using the companies’ trademarks, to plaintiff’s exclusion.”  
+Id. at 91.  Here, Appellees’ alleged mismanagement of the Debtor resulted in harm to all equity 
+members—not only Little Hearts, but also Onestone and Pollock.            
+    But even assuming, arguendo, that any of these six causes of action were nominally pled 
+as direct claims, any harm to Little Hearts would be so “confused with or embedded in” a harm to 
+the Debtor and all its members that it cannot be maintained as a direct claim under New York law.  
+Serino, 123 A.D.3d at 40.  The New York Court of Appeals has long held that where a complaint’s 
+allegations “confuse a shareholder’s derivative and individual rights,” it should “be dismissed.”  
+Abrams v. Donati, 66 N.Y.2d 951, 953 (1985); see also Maldonado v. DiBre, 35 N.Y.S.3d 731, 
+735 (App. Div. 2016) (finding, where an “individual claim is ‘confused’ or ‘embedded’ within [a] 
+
+derivative claim, then it must be dismissed”); Serino, 123 A.D.3d at 40 (“[E]ven where an 
+individual harm is claimed, if it is confused with or embedded in the harm to the corporation, it 
+cannot separately stand.”).  To be sure, as Appellant argued in its briefs—and emphasized again 
+at oral argument—direct claims can, in certain instances, be asserted based on contractual rights 
+bestowed upon members of an LLC.  See, e.g., Opening Br. at 12–13; Tr., Oral Arg. August 1, 
+2023, at 40:11–23 (citing Weiner v. King, 43 Misc. 3d 1203(A) (N.Y. Sup. Ct., N.Y. Cty. 2014) 
+and Ruffalo v. Transtech Serv. Partners Inc., 2010 WL 3307487, at *9 (Del. Ch. 2010) (“Claims 
+based upon contractual rights of the shareholder which exist separately from any right of the 
+corporation are direct claims.”)).  But where an otherwise independent claim is “inextricably 
+
+entangled with derivative claims,” it should be dismissed as derivative.  Accredited Aides Plus, 
+Inc. v. Program Risk Mgmt., Inc., 46 N.Y.S.3d 246, 258 (App. Div. 2017).   
+    That is the case here.  Because any injuries to Little Hearts as pleaded in the Complaint are 
+based on allegations of Appellees’ mismanagement of the Debtor, and thereby caused harm to all 
+members, any damages suffered were suffered by all members in accordance with their respective 
+membership interest.  See In re 305 East 61st Street Group LLC, 644 B.R. at 92–93 (Bankruptcy 
+Court finding same); see also Serino, 123 A.D.3d at 39–40 (observing that a “claim must be 
+factually supportable by more than complaints that conflict [a claimant’s] derivative and individual 
+rights”); Yudell, 949 N.Y.S.2d at 384 (“To the extent, if any, that plaintiffs have asserted direct 
+claims,  they  are  embedded  in  an  otherwise  derivative  claim  for  partnership  waste  and 
+mismanagement.”).                                                         
+    In sum: because the Bankruptcy Court did not err in finding the causes of action derivative, 
+Appellant lacks standing, and its underlying Complaint was thus appropriately dismissed for lack 
+of jurisdiction.                                                          
+
+ II.  Appellant Waived the Argument that it was Conferred Real Property Rights 
+    On appeal to this Court, Appellant argues in the alternative—and for the very first time—
+that the Operating Agreement also granted it “rights to real property, and not personal property as 
+is a membership interest in an LLC or a share in a corporation.”  Opening Br. at 13.  The argument 
+is premised on the notion that the exclusive rights each member was granted to designated floors 
+in the building at 305 East 61st somehow conveyed real property rights to each member’s 
+respective floors, and that any cause of action stating a claim for interference with or violation of 
+those real property rights is necessarily a direct, rather than derivative, cause of action.  See id. at 
+13–15.  But Appellant did not raise this argument below to the Bankruptcy Court, nor does the 
+
+Complaint contain any allegation that the Operating Agreement in any way conferred an interest 
+in real property.  Therefore, as an initial matter, the argument has been waived.  As the Second 
+Circuit has observed, although a court has “discretion to consider a waived argument where 
+necessary to avoid manifest injustice, the circumstances normally do not militate in favor of an 
+exercise of discretion to address … new arguments on appeal where those arguments were 
+available to the [party] below and they proffer no reason for their failure to raise the argument 
+below.”  In re Johns-Manville Corp., 759 F.3d 206, 219 (2d Cir. 2014).  Thus, “any argument not 
+raised in the bankruptcy court is waived and will not be considered by the district court, unless 
+such waiver would result in manifest injustice.”  In re Ampal-American Isr. Corp., 554 B.R. 604, 
+617–18 (S.D.N.Y. 2016).                                                   
+    There would be no manifest injustice by finding waiver of the argument here.  Indeed, 
+Appellant’s argument to the Bankruptcy Court below—that the Complaint stated a direct cause of 
+action based in contractual rights, rather than any real property right—appears to stand in stark 
+contrast to the argument that it now raises on appeal.  See Bankr. Rec. 796, Sept. 9, 2021 Hearing 
+
+Tr. at 64:3–6 (Appellant arguing: “in any event, these rights, they don’t have to be property rights.  
+The rights were contractual in nature, which gave Little Hearts direct standing to protect those 
+rights.”); id. at 780, Tr. at 48:4–7 (“[T]he complaint doesn’t seek the property back, Your Honor.  
+What it seeks are money damages related to the rights, the contractual rights that Little Hearts lost 
+because of what is alleged that the defendants did.”); id. at 774, Tr. at 42:3–6 (“Little Hearts’ 
+claims are based on contractual rights that only it has under the operating agreement.”).  And, 
+given the particularly litigious history between Appellant and Appellees, with more than a half-
+dozen separately filed actions related to the same underlying claims of mismanagement of the 
+Debtor across multiple fora, it can hardly be said that the real property argument was not “available 
+
+to the [Appellant] below.”  In re Johns-Manville Corp., 759 F.3d at 219.  
+    Finally, even were the argument not waived, it would nonetheless fail, as the plain terms 
+of the Operating Agreement did not convey real property rights to the members.  Rather, the 
+designation of specific units for limited purposes based upon a member’s capital contribution 
+reflected a membership interest in the Debtor.  See Operating Agreement § 5 (“The respective 
+percentage interest of the Members (the ‘Percentage Interests’) of the Company shall be as set 
+forth in Exhibit ‘A.’); id. § 4(f)(i) (providing Little Hearts a “20% Percentage Interest in the 
+Company, together with the right to retain, use, occupy, develop and acquire the condominium 
+units” on its designated floors).  Indeed, the Operating Agreement specifically sets out a priority 
+for the distribution of proceeds in the event that a condominium unit in the building were to be 
+sold.  Id. 421.2.  That is, any profits recognized from the sale of any units were to go first to the 
+Debtor generally and then—only after  a member’s obligations to the Debtor were fully repaid— 
+could any member recover individually.  Jd.  Were the Operating Agreement to have conveyed 
+real property rights to designated floors, as Appellant now appears to argue, any sale proceeds 
+would have flowed directly to the owning member.  The fact that it did not underscores that the 
+rights were instead contractual in nature, and tied to each member’s interest in the Debtor as a 
+matter of “pure equity ownership.”  In re 305 61st Street Group LLC, 644 B.R. at 92.  And, as 
+stated previously, any violation of a right held as  a member in the Debtor generally is definitionally 
+derivative.  See Serino, 123 A.D.3d at 39 (observing that  a member has no direct cause of action 
+for an alleged wrong against the business entity, even if he or she suffers injury because of that 
+wrong and “may ultimately share in the recovery’). 
+                               CONCLUSION 
+     Accordingly, for the foregoing reasons, the decision of the Bankruptcy Court is affirmed. 
+The Clerk of Court is respectfully directed to close this action. 
+
+SO ORDERED. 
+Dated:       August 11, 2023
+            New York, New York                 | J 
+                                             —__. 
+                                        Hon. Ronnie Abrams 
+                                        United States District Judge 
+
+                                     15

@@ -1,0 +1,748 @@
+23-1202-bk
+In re: 305 East 61st St. Grp. LLC
+
+                           In the
+               United States Court of Appeals
+                        FOR THE SECOND CIRCUIT
+
+
+
+                               AUGUST TERM 2023
+                                No. 23-1202-bk
+
+                                   IN RE:
+                     305 EAST 61ST STREET GROUP LLC,
+                                  Debtor.
+                             _______________
+
+                   LITTLE HEARTS MARKS FAMILY II L.P.,
+                               Appellant,
+
+                                      v.
+
+                      JASON D. CARTER, 61 PRIME LLC,
+                                Appellees.
+
+
+
+                   On Appeal from the U.S. District Court
+                   for the Southern District of New York
+
+
+
+                             ARGUED: JUNE 17, 2024
+                            DECIDED: MARCH 4, 2025
+
+
+
+Before:         LYNCH, CARNEY, and MENASHI, Circuit Judges.
+      Plaintiff-Appellant Little Hearts Marks Family II L.P. was a
+member of 305 East 61st Street Group LLC, a company organized to
+purchase a building and convert it into a condominium. Defendant-
+Appellee 61 Prime LLC was the majority member and manager of the
+company, and Defendant-Appellee Jason D. Carter was the manager
+and sole member of Prime. In 2021, the company filed for bankruptcy
+and eventually sold the building to a different company that Carter
+had created. The plan of liquidation established a creditor trust with
+the exclusive right to pursue causes of action that belong to the
+debtor’s estate. After the sale of the building, Little Hearts sued Prime
+and Carter for breach of fiduciary duty, aiding and abetting breach of
+fiduciary duty, breach of contract, breach of the implied covenant of
+good faith and fair dealing, and unjust enrichment. Little Hearts
+sought damages representing its lost capital investment in the
+company and the loss of its rights under the Operating Agreement,
+including the right to use and develop designated units in the
+building.
+
+      We affirm the judgment insofar as the bankruptcy and district
+courts dismissed the claims for breach of fiduciary duty and aiding
+and abetting breach of fiduciary duty. These claims belonged to the
+company and could be asserted only by the creditor trustee. We
+vacate the judgment insofar as the bankruptcy and district courts
+dismissed the claims for breach of contract and breach of the implied
+covenant of good faith and fair dealing. These claims seek to vindicate
+rights belonging directly to Little Hearts under the Operating
+Agreement and may proceed. The unjust enrichment claim,
+meanwhile, must be dismissed as duplicative of the contract claims.
+We remand for further proceedings consistent with this opinion.
+
+
+
+
+                                   2
+             ANDREW R. GOLDENBERG, Levy Goldenberg LLP, New
+             York, New York, for Plaintiff-Appellant.
+
+             GERARD S. CATALANELLO (James J. Vincequerra,
+             Kimberly J. Schiffman, Christopher J. Borchert, on the
+             brief), Alston & Bird LLP, New York, New York, for
+             Defendants-Appellees.
+
+
+
+MENASHI, Circuit Judge:
+
+      Plaintiff-Appellant Little Hearts Marks Family II L.P. (“Little
+Hearts”) was a member of 305 East 61st Street Group LLC, a company
+organized to purchase a building at 305 East 61st Street in Manhattan
+and convert it into a condominium. Defendant-Appellee 61 Prime
+LLC (“Prime”) was the majority member and manager of the
+company, and Defendant-Appellee Jason D. Carter was the manager
+and sole member of Prime. In 2021, 305 East 61st Street Group filed
+for bankruptcy and eventually sold the building to another company
+that Carter had created.
+
+      The plan of liquidation established a creditor trust with the
+exclusive right to pursue legal claims that belonged to the estate of
+305 East 61st Street Group. After the sale of the building, Little Hearts
+filed its own lawsuit against Prime and Carter in state court, asserting
+claims for breach of fiduciary duty, aiding and abetting breach of
+fiduciary duty, breach of contract, breach of the implied covenant of
+good faith and fair dealing, and unjust enrichment. Little Hearts
+sought damages for its lost capital investment in the company and the
+loss of its rights under the Operating Agreement, which had granted
+Little Hearts the right to use and develop designated units in the
+
+                                   3
+building. Carter and Prime removed the action to the bankruptcy
+court.
+
+         We affirm the judgment insofar as the bankruptcy and district
+courts dismissed the claims for breach of fiduciary duty and for
+aiding and abetting breach of fiduciary duty. These claims were
+derivative of claims that belonged to the debtor company and
+therefore could be asserted only by the creditor trustee. We vacate the
+judgment insofar as the bankruptcy and district courts dismissed the
+claims for breach of contract and for breach of the implied covenant
+of good faith and fair dealing. These were direct claims that sought to
+vindicate contractual rights that belonged to Little Hearts. The unjust
+enrichment claim, meanwhile, must be dismissed as duplicative of the
+contract claims. We remand for further proceedings consistent with
+this opinion.
+
+                            BACKGROUND
+
+                                    I
+
+         On August 15, 2016, Mitchell Marks—the principal of Little
+Hearts—signed a contract to purchase “a 65,000 square foot
+warehouse at 305 East 61st Street, between Second Avenue and a
+ramp off the 59th Street bridge,” for $40,000,000. App’x 27. Marks then
+organized a group of real estate investors to finance the purchase and
+to convert the building into a condominium. The vehicle for doing so
+was 305 East 61st Street Group, a limited liability company with four
+members: (1) Prime, which owned a 50 percent interest; (2) Little
+Hearts,     which   owned    30   percent;   (3) Onestone   305,   LLC
+(“Onestone”), which owned 10 percent; and (4) an individual investor
+named Thaddeus Pollock with a 10 percent ownership interest.
+
+         The purchase was financed by a $20,000,000 acquisition loan
+from Banco Popular North America and a capital investment of
+
+                                   4
+$21,328,000 from the members. Construction work on the building
+was to be financed with an additional loan of $10,000,000 from Banco
+Popular. 1 The acquisition and construction loans were secured by a
+single mortgage on the building in favor of Banco Popular, which was
+guaranteed by Little Hearts, Prime, Marks, and Carter. Little Hearts,
+Onestone, and Pollock each assumed responsibility for $3,750,000—
+or one-eighth of the $30,000,000 in total indebtedness to Banco
+Popular—with Prime assuming responsibility for the remaining
+$18,750,000 or five-eighths.
+
+      The members executed an Operating Agreement to govern the
+affairs of the company. Little Hearts was designated the manager of
+the company and, in the event that Little Hearts resigned or was
+removed as manager, Prime held “the right to assume the duties of
+[Little Hearts] as [m]anager … or to designate a [m]anager in the place
+and stead of [Little Hearts].” App’x 75. The Operating Agreement
+assigned each member certain floors of the building on which it was
+authorized to perform interior work. Little Hearts received “the right
+to retain, use, occupy, develop and acquire the condominium units
+consisting of the (i) basement/cellar and first floor, and (ii) 10th floor
+and roof, of the [b]uilding.” Id. at 64. A similar provision assigned
+Prime the fourth through seventh floors and the ninth floor of the
+
+
+
+
+1 The complaint states at one point that the $10,000,000 investment in
+construction was funded with a loan from Banco Popular of $5,186,000 and
+an investment from the members of $4,924,000. See App’x 28. But it then
+states that the members “signed promissory notes for the Construction
+Loan totaling $10,000,000.” Id. at 29. The percentages of the mortgage
+assigned to each member indicate that the total mortgage was $30,000,000—
+$20,000,000 for the acquisition loan and $10,000,000 for the construction
+loan.
+
+                                    5
+building. The Operating Agreement was subsequently amended to
+give Little Hearts the right to the second floor as well.
+
+      With respect to the units on their assigned floors, Little Hearts
+and Prime also had the right to “perform any alterations,” to “sell all
+or any part,” and to “lease, sublease, assign, and use, without consent
+and without the payment of any fees or expenses to the [c]ompany or
+when in Condominium Ownership, to the Board of Managers.” Id. at
+70. Once the condominium plan was approved, Little Hearts and
+Prime would have the option either to acquire the units on their
+designated floors or to market those units and share in the proceeds.
+The proceeds from any sale of condominium units by Little Hearts or
+Prime would first be applied to pay off the Banco Popular loans, then
+be directed to settle closing expenses in connection with the sale, next
+be put toward “the payment of all sums due hereunder,” and finally
+be remitted to the member who sold the unit. Id. at 86. Onestone and
+Pollock received the option to acquire the units on their designated
+floors but not the right to share in the proceeds of any sale or lease of
+the units.
+
+      Little Hearts received additional rights with respect to its units
+in the cellar and on the first floor—part of the so-called “Marks
+Units”—that the other members did not receive. At the closing of the
+acquisition of the building, the company as landlord entered into a
+lease with Little Hearts as tenant for the cellar and the first floor. A
+rider to the lease gave Little Hearts the right to sublease these floors
+without the consent of the company and to install “signs, lights,
+advertisements or notices on the exterior of the building.” Id. at 462.
+Little Hearts also had the right, with Prime’s consent, to make
+alterations to the roof “financed by the capital of the [c]ompany.” Id.
+at 72. Additionally, Little Hearts had the right to subdivide the tenth
+floor into two separate units without the consent of the company.
+
+                                    6
+Little Hearts alleges that “[i]n reliance on the rights granted to [it]
+under the Operating Agreement, [it] spent millions of dollars
+renovating each of the Marks Units to use, lease, or sell.” Id. at 30.
+Little Hearts also “entered into a valuable sublease, as sub-landlord,
+with non-party Acqua Ancien Bath New York, Inc. (“Spa”), as sub-
+tenant, for the Ground Floor Unit for a term of 15 years.” Id.
+
+      In the spring of 2018, “Prime refused to pay $62,500 of its
+original subscription to the [c]ompany,” and the company sued Prime
+in New York state court. Id. at 31. In response, Prime and Carter
+brought a separate action to remove Little Hearts as manager and
+moved ex parte for a temporary restraining order based on allegations
+that Little Hearts describes as “grossly false.” Id. The state court
+granted the TRO and installed Prime as manager of the company.
+According to the allegations of the complaint, Prime mismanaged the
+company. “[I]n the two years that followed the TRO, Carter and
+Prime did not advance any construction work, renew building
+permits, advance the condominium offering plan, or correct the stop
+work order issued by the City of New York for the illegal work
+commenced by Defendants.” Id. at 34-35. Little Hearts further alleges
+that Prime and Carter interfered with its sublease to the Spa. Prime
+and Carter allegedly “[c]ut the power and water to the Ground Floor
+Unit,” “locked the Spa out of the Ground Floor Unit” in violation of a
+court order, “[v]iolated a temporary restraining order and court order
+dated August 23, 2018 directing Defendants to re-install power and
+water to the Spa’s ground floor unit,” and “[c]aused the Spa to sue the
+[c]ompany for … millions of dollars.” Id. at 35-36.
+
+      The Banco Popular loans matured in December 2018, and Prime
+“failed to pay [its] 5/8ths portion of the [m]ortgage.” Id. at 36-37.
+“Instead, Carter attempted to refinance the [m]ortgage with
+commercially unreasonable terms from a personal friend.” Id. at 37.
+
+                                   7
+“Little   Hearts   presented    multiple   refinancing    proposals   at
+commercially reasonable terms, which Carter unreasonably refused
+to consider.” Id. According to the complaint, “Carter tried to pressure
+Little Hearts to accept his refinancing proposal … and called Marks
+telling him ‘there is only going to be one winner here, and it’s not
+going to be you—give in while there is something still left in it for
+you.’” Id. Little Hearts alleges that “Carter did not want the
+[m]ortgage paid so he could purchase the [b]uilding.” Id. at 37-38.
+After the company defaulted, the LLC that held the loans began
+foreclosure proceedings.
+
+      In its state action, Prime sought a preliminary injunction to
+maintain the removal of Little Hearts as manager. The state court held
+a hearing on the request in February 2019. During a subsequent
+session in May 2019, the presiding judge indicated not only that Prime
+was not entitled to a preliminary injunction but that Little Hearts was
+entitled to have a receiver appointed. On June 10, 2019, before the
+state court could resolve the request for the preliminary injunction,
+Prime as manager caused the company to file for bankruptcy under
+Chapter 11 in the Southern District of New York. According to the
+complaint, “[t]he Bankruptcy Proceeding was unnecessary as the
+[c]ompany was solvent. The value of the [c]ompany’s [sole] asset, the
+[b]uilding, far exceeded the [c]ompany’s liabilities.” Id. at 34.
+
+      Little Hearts alleges that Prime initiated the bankruptcy
+proceeding solely to forestall an adverse ruling in the state court
+litigation. On the same day that the company filed for bankruptcy,
+Carter formed a new entity called Lazarus 5, LLC. The complaint
+alleges that “Lazarus 5 was [formed] solely for the purpose of
+purchasing the [m]ortgage … and then forcing a sale of the [b]uilding
+to Lazarus 5.” Id. at 39. A bankruptcy trustee was appointed and
+submitted a plan of liquidation in May 2020. The plan provided for
+
+                                    8
+the sale of the building to Lazarus 5 and established the creditor trust,
+the “sole purpose” of which was to liquidate the remaining assets of
+the estate—including legal claims—and to distribute the proceeds to
+the bankruptcy claimants. Prime App’x 20. The plan permanently
+enjoined actions involving property of the estate brought by anyone
+other than the creditor trustee. At a bankruptcy sale held on August
+12, 2020, Lazarus 5 purchased the mortgage and acquired the building
+for approximately $50,000,000.
+
+                                   II
+
+      In June 2019, Little Hearts commenced an adversary
+proceeding in the bankruptcy court. Little Hearts, Carter, and the
+creditor trustee entered into mediation. When the mediation failed,
+Little Hearts sued in New York state court. The defendants removed
+the action to the bankruptcy court pursuant to Bankruptcy Rule
+9027(a)(3).
+
+      The complaint asserted six causes of action. Counts I and II
+asserted claims for breach of fiduciary duty and for aiding and
+abetting breach of fiduciary duty. Counts III and IV asserted claims
+for breach of contract and for breach of the implied covenant of good
+faith and fair dealing. Count V advanced a theory of alter ego liability
+against Carter, which was styled as a separate cause of action, and
+Count VI asserted a claim for unjust enrichment. The complaint
+alleged that Prime and Carter used their positions as managers “to
+squeeze out Little Hearts and transfer the [b]uilding to themselves.”
+App’x 25. Little Hearts claimed damages of “at least $48,052,000 in
+lost capital and the loss of valuable rights afforded to [Little Hearts]
+in the Operating Agreement, including the right to retain, use, occupy
+and develop” the Marks Units. Id. at 26 (internal quotation marks and
+alterations omitted).
+
+
+                                   9
+      The bankruptcy court dismissed the complaint in its entirety.
+The bankruptcy court held that the claims asserted in the complaint
+were derivative of injuries to the debtor. “As derivative claims, the
+causes of action belonged to the Debtor and[,] pursuant to the terms
+of the Debtor’s plan and the Creditor Trust Agreement, are now
+vested with the [c]reditor [t]rust.” In re 305 E. 61st St. Grp. LLC, 644
+B.R. 75, 90 (Bankr. S.D.N.Y. 2022). Little Hearts argued that its claims
+were based on its own contractual rights with respect to the Marks
+Units. The bankruptcy court concluded that “[t]he Marks Units were
+not distinct property rights or interests separate from the Plaintiff’s
+investment in the Debtor” but rather that the assignment of specific
+units to each member “represented an agreement amongst the
+[m]embers to reflect their membership interests in the Debtor.” Id. at
+91. The district court affirmed the judgment of the bankruptcy court.
+See App’x 861-75. This appeal followed.
+
+                            DISCUSSION
+
+      The plan of liquidation prohibits anyone other than the creditor
+trustee from pursuing legal claims belonging to the debtor’s estate
+under 11 U.S.C. § 541(a)(1). For that reason, Little Hearts may not
+maintain its claims if those claims were part of the bankruptcy estate
+when the debtor filed for bankruptcy. To resolve that issue, we ask
+whether the claims Little Hearts asserts are derivative or direct under
+New York law. “[I]f, under state law, a cause of action belongs to the
+debtor or if ‘rights of action exist against officers, directors and
+shareholders of a corporation for breaches of fiduciary duties, which
+can be enforced by either the corporation directly or the shareholders
+derivatively before bankruptcy,’ those actions properly are asserted
+by the bankruptcy trustee” or by the debtor in possession—and such
+claims cannot be maintained by individual creditors. St. Paul Fire &
+Marine Ins. Co. v. PepsiCo, Inc., 884 F.2d 688, 697 (2d Cir. 1989)
+
+                                  10
+(alteration and citation omitted) (quoting Koch Refining v. Farmers
+Union Cent. Exch., Inc., 831 F.2d 1339, 1343 (7th Cir. 1987)).
+
+       “We exercise plenary review over a district court’s affirmance
+of a bankruptcy court’s decisions.” DuVall v. County of Ontario, 83
+F.4th 147, 150 (2d Cir. 2023) (quoting Gasson v. Premier Cap., LLC, 43
+F.4th 37, 41 (2d Cir. 2022)). “In other words, we independently review
+the bankruptcy court’s decision.” In re DiBattista, 33 F.4th 698, 702 (2d
+Cir. 2022). We review de novo the decision to dismiss “causes of action
+for failure to state a claim for relief.” In re Bernard L. Madoff Inv. Secs.
+LLC, 721 F.3d 54, 63 (2d Cir. 2013). In doing so, we “accept[] all factual
+allegations in the complaint as true, and draw[] all reasonable
+inferences in the plaintiff’s favor.” City of Pontiac Gen. Emps.’ Ret. Sys.
+v. MBIA, Inc., 637 F.3d 169, 173 (2d Cir. 2011) (quoting Shomo v. City of
+New York, 579 F.3d 176, 183 (2d Cir. 2009)). 2
+
+       We conclude that the claims for breach of fiduciary duty and
+for aiding and abetting breach of fiduciary duty are derivative and
+may be asserted only by the creditor trustee. The claims for breach of
+contract and for breach of the implied covenant of good faith and fair
+dealing, however, are direct claims that Little Hearts may pursue
+against Prime and Carter. The claim for unjust enrichment,
+meanwhile, must be dismissed as duplicative of the contract claims.
+Accordingly, we affirm in part, vacate in part, and remand for further
+proceedings consistent with this opinion.
+
+
+
+2 The defendants-appellees argue that Little Hearts lacks “standing” to
+bring derivative claims and that subject-matter jurisdiction is therefore
+lacking. Appellees’ Br. 23. But “the inquiry into whether a claim is direct,
+and a plaintiff therefore has ‘standing’ to bring it, is not an Article III
+standing inquiry.” Miller v. Brightstar Asia, Ltd., 43 F.4th 112, 125-26 (2d Cir.
+2022).
+
+                                       11
+                                    I
+
+        Whether a cause of action belongs to the bankruptcy debtor—
+and therefore forms a part of the bankruptcy estate—or belongs to an
+individual creditor “depends on an analysis of state law.” St. Paul, 884
+F.2d at 700. The parties do not dispute that the relevant state law in
+this case is that of New York. Historically, “New York has lacked a
+clear approach for determining” the “difference between direct and
+derivative claims.” Yudell v. Gilbert, 949 N.Y.S.2d 380, 381 (1st Dep’t
+2012). For that reason, the Appellate Division, First Department, has
+“adopt[ed] the test the Supreme Court of Delaware developed in
+Tooley v. Donaldson, Lufkin & Jenrette, Inc.” Id. (citing Tooley v.
+Donaldson, Lufkin & Jenrette, Inc., 845 A.2d 1031, 1039 (Del. 2004)). The
+Second and Third Departments have followed that precedent. See,
+e.g., Accredited Aides Plus, Inc. v. Program Risk Mgmt., Inc., 46 N.Y.S.3d
+246, 255 (3d Dep’t 2017) (quoting Yudell, 949 N.Y.S.2d at 384); Mizrahi
+v. Cohen, 961 N.Y.S.2d 538, 541 (2d Dep’t 2013) (citing Yudell, 949
+N.Y.S.2d at 383-84).
+
+        “[T]he decisions of New York State’s Appellate Division are
+helpful indicators” of “how the [New York] Court of Appeals would
+rule.” Michalski v. Home Depot, Inc., 225 F.3d 113, 116 (2d Cir. 2000).
+Those decisions are “not to be disregarded by a federal court unless it
+is convinced by other persuasive data that the highest court of the
+state would decide otherwise.” Id. (quoting West v. AT&T Co., 311 U.S.
+223, 237 (1940)). We are not convinced that the New York Court of
+Appeals would decide otherwise, so we apply the Tooley framework
+here.
+
+        In Tooley, the Delaware Supreme Court explained that a court
+must “look to the nature of the wrong and to whom the relief should
+go” to determine whether a corporate stockholder’s claim for breach
+
+
+                                   12
+of fiduciary duty is derivative or direct. Tooley, 845 A.2d at 1039. For
+a claim to be direct, the stockholder’s alleged injury “must be
+independent of any alleged injury to the corporation. The stockholder
+must demonstrate that the duty breached was owed to the
+stockholder and that he or she can prevail without showing an injury
+to the corporation.” Id.
+
+      “[T]he Delaware Supreme Court has clarified that ‘when a
+plaintiff asserts a claim based on the plaintiff’s own right, such as a
+claim for breach of a commercial contract, Tooley does not apply.’”
+Brightstar Asia, 43 F.4th at 122 (quoting Citigroup Inc. v. AHW Inv.
+P’ship, 140 A.3d 1125, 1139-40 (Del. 2016)). The Tooley test helps to
+evaluate claims that are “based on the defendants’ alleged violation
+of fiduciary duties arising by law from the defendants’ status in the
+corporate structure.” NAF Holdings, LLC v. Li & Fung (Trading) Ltd.,
+772 F.3d 740, 745 (2d Cir. 2014). Before applying the Tooley test,
+therefore, “a more important initial question has to be answered: does
+the plaintiff seek to bring a claim belonging to her personally or one
+belonging to the corporation itself?” NAF Holdings, LLC v. Li & Fung
+(Trading) Ltd., 118 A.3d 175, 180 (Del. 2015). We ask that question with
+respect to each claim asserted in the complaint.
+
+                                   A
+
+      We begin with Counts I and II, which assert claims for breach
+of fiduciary duty and for aiding and abetting breach of fiduciary duty.
+The paradigmatic claim to which Tooley applies is a stockholder’s
+claim for breach of fiduciary duty. “Tooley and its progeny” were
+“intended” specifically to identify “the line between direct actions for
+breach of fiduciary duty suits by stockholders,” on the one hand, “and
+derivative actions for breach of fiduciary duty suits subject to the
+demand excusal rules,” on the other. NAF Holdings, 118 A.3d at 179.
+
+
+                                  13
+      Under Tooley, Little Hearts may maintain its claims for breach
+of fiduciary duty and for aiding and abetting breach of fiduciary duty
+only if (1) the claimed injury is “independent of any alleged injury to
+the corporation,” (2) “the duty breached was owed to” Little Hearts,
+and (3) Little Hearts “can prevail without showing an injury to the
+corporation.” Tooley, 845 A.2d at 1039. Counts I and II do not satisfy
+these criteria, so Little Hearts cannot maintain those claims directly.
+
+      Count I alleges that Prime and Carter breached a fiduciary duty
+to Little Hearts by having Little Hearts removed as manager, placing
+the company into bankruptcy, failing to advance construction
+projects on the building, failing to pay off the mortgage, and
+orchestrating the sale of the building to Lazarus 5. The complaint
+alleges that these actions violated Paragraphs 9(F) and 9(I) of the
+Operating Agreement. Paragraph 9(F) requires the manager to
+“devote as much time as is reasonably necessary to the management
+of the [c]ompany’s business.” App’x 71. Paragraph 9(I) requires the
+manager to “discharge [its] duties to the [c]ompany and to the other
+[m]embers in good faith and with that degree of care that an
+ordinarily prudent person and an experienced real estate developer
+in a similar position would use under similar circumstances.” Id. at
+73.
+
+      We agree with the bankruptcy court that these claims are
+derivative under Tooley. The alleged mismanagement, bad-faith
+bankruptcy filing, and loss of ownership of the building were injuries
+to the company that, in turn, caused the injury to Little Hearts. The
+conduct of Prime and Carter that allegedly breached a fiduciary duty
+to Little Hearts would also have breached a fiduciary duty to the
+company. Because Little Hearts cannot prevail on its claim for breach
+of fiduciary duty without showing an injury to the company, the
+claim is derivative under Tooley, and the plan bars Little Hearts from
+
+                                   14
+asserting it. As the bankruptcy court observed, moreover, “[t]he claim
+of aiding and abetting cannot stand independent of the claim for
+breach of fiduciary duty,” so Count II was properly dismissed along
+with Count I. 305 East 61st St., 644 B.R. at 87 n.12.
+
+                                    B
+
+      Counts III and IV, which assert claims for breach of contract
+and for breach of the implied covenant of good faith and fair dealing,
+are different. The bankruptcy court was right that all of the counts
+“are anchored in the Defendants[’] alleged wrongful conduct as to the
+[c]ompany, with effects that impacted all [m]embers’ rights.” Id. at 87.
+But it does not follow from that observation that Tooley bars all the
+claims. When the answer to the “important initial question” is that
+“the plaintiff seek[s] to bring a claim belonging to her personally”
+rather than “belonging to the corporation,” NAF Holdings, 118 A.3d at
+180, the Tooley test “does not apply,” Citigroup, 140 A.3d at 1140.
+When the Tooley test does not apply, a plaintiff may bring a direct
+claim even if it cannot demonstrate its injury without showing an
+injury to the corporation. Thus, “a suit by a party to a commercial
+contract to enforce its own contractual rights is not a derivative action
+under Delaware law, despite the fact that [the party] cannot
+demonstrate its injury without showing an injury to the corporation
+in which it owns stock.” Brightstar Asia, 43 F.4th at 122 (internal
+quotation marks and citation omitted).
+
+      We made this clear in Brightstar Asia. The plaintiff in that case
+was a stockholder and former officer of a cellular telephone
+refurbishment business, Harvestar, that was purchased by Brightstar
+Asia. The complaint alleged that Brightstar Asia mismanaged
+Harvestar and caused the company to enter into transactions on non-
+market terms with its own affiliates. As a result, the plaintiff’s stock
+
+
+                                    15
+options under the shareholders agreement were rendered worthless.
+See id. at 117-18. Applying Delaware law, we held that the plaintiff
+could not bring a direct claim for breach of the conflicted-transactions
+provision of the shareholders agreement because that provision
+created a duty to the company rather than to the plaintiff
+individually. We held, however, that the plaintiff could bring a direct
+claim for breach of the implied covenant of good faith and fair dealing
+based on the loss of his option rights. See id. at 123-25. Because those
+rights were “individual rights” belonging to the plaintiff, the plaintiff
+adequately alleged “an implied covenant of good faith and fair
+dealing that creates a contractual duty owed to him, not to
+Harvestar.” Id. at 124. Even though the plaintiff could not prevail on
+the claim without also showing an injury to the company, the claim
+was direct because it was based on a right belonging to the plaintiff
+personally.
+
+      The same conclusion applies in this case. We disagree with the
+assertion of the bankruptcy court that the interests of Little Hearts in
+the Marks Units “were not distinct property rights or interests
+separate from [its] investment in the Debtor.” 305 E. 61st St., 644 B.R.
+at 91. The right to “retain, use, occupy, develop, and acquire” specific
+units in a building does not follow automatically from ownership of
+a percentage of the equity in the company that owns the building. It
+would have been possible for an additional investor to contribute and
+to become a member of the company without receiving the right to
+occupy or to renovate specific units in the building. In fact, Little
+Hearts had contractual rights with respect to its designated units that
+the other investors lacked. It was contractually entitled to lease the
+cellar and first floor units from the company and to sublease those
+units to a commercial tenant. Because no other member of the
+
+
+
+                                   16
+company had such contractual rights, the rights did not simply reflect
+the percentage interest of Little Hearts in the company.
+
+      New York courts applying Tooley have held that even if a claim
+is direct, it still must be dismissed “if it is confused with or embedded
+in the harm to the corporation.” Serino v. Lipper, 994 N.Y.S.2d 64, 69
+(1st Dep’t 2014); Yudell, 949 N.Y.S.2d at 384 (“To the extent, if any, that
+plaintiffs have asserted direct claims, they are embedded in an
+otherwise     derivative    claim     for   partnership      waste    and
+mismanagement.”); see also Abrams v. Donati, 66 N.Y.2d 951, 953 (1985)
+(“A complaint the allegations of which confuse a shareholder’s
+derivative and individual rights will … be dismissed.”). But this
+principle does not apply when, in light of the predicate “important
+initial question,” the Tooley test does not apply. NAF Holdings, 118
+A.3d at 180. In such a case, the plaintiff may pursue a direct claim
+even if he cannot state the claim without showing an injury to the
+corporation. See Brightstar Asia, 43 F.4th at 122; NAF Holdings, 772 F.3d
+at 744. If the plaintiff may pursue even a claim based on a derivative
+harm, he surely may also pursue a claim based on an independent
+harm that is “embedded in the harm to the corporation.” Serino, 994
+N.Y.S.2d at 69.
+
+      The underlying principle the New York courts have identified
+is that it is not enough to allege an individual harm. See id. (“[E]ven
+where an individual harm is claimed, if it is confused with or
+embedded in the harm to the corporation, it cannot separately
+stand.”). The plaintiff must also allege that “the wrongdoer has
+breached a duty owed directly to the shareholder which is
+independent of any duty owing to the corporation.” Id. Accordingly,
+New York courts have dismissed claims as “confused with or
+embedded in” derivative claims when the plaintiff has failed to allege
+
+
+                                    17
+an independent duty owed to himself directly. Id. 3 These decisions
+aim to preserve the distinction between the rights of the individual
+shareholder and the rights of the corporation. See Serino, 994 N.Y.S.2d
+at 69 (explaining that a direct claim “must be factually supportable by
+more than complaints that conflate [the plaintiff’s] derivative and
+individual rights”) (citing Abrams, 66 N.Y.2d at 953-54). Here, Counts
+III and IV are not impermissibly confused with or embedded in harm
+to the corporation because those claims seek to vindicate independent
+contractual obligations owed to Little Hearts individually.
+
+       Because Counts III and IV are based on contractual duties—
+express or implied—that are owed to Little Hearts individually, the
+Tooley test does not apply and Little Hearts may assert those claims
+directly. The bankruptcy court therefore erred in dismissing those
+claims on the ground that the claims are derivative.
+
+                                      C
+
+       Count VI asserts a claim for unjust enrichment. This claim is
+duplicative of the contract claims asserted in Counts III and IV and
+must be dismissed regardless of whether it is direct or derivative.
+Under New York law, “[a]n unjust enrichment claim is not available
+
+
+3 See Serino, 994 N.Y.S.2d at 70 (dismissing a claim for lost earning capacity
+as a result of reputational harm from a corporate scandal); Yudell, 949
+N.Y.S.2d at 384 (dismissing claims based on pecuniary loss to joint venture
+partners resulting from a manager’s “failure to collect rents and other
+obligations owed the joint venture”); Abrams, 66 N.Y.2d at 953-54
+(dismissing a complaint alleging a “conspiracy to terminate [the plaintiff’s]
+employment as president of [the corporation]” that “mixe[d] those
+allegations with charges of diversion of corporate assets … and the
+fraudulent reduction of the price of [the corporation’s] products” because
+the plaintiff failed to allege “that defendants breached an independent duty
+owed [to him]”).
+
+                                     18
+where it simply duplicates, or replaces, a conventional contract or tort
+claim.” Corsello v. Verizon New York, Inc., 18 N.Y.3d 777, 790 (2012).
+“Two claims are duplicative of one another if they ‘arise from the
+same facts and do not allege distinct damages.’” NetJets Aviation, Inc.
+v. LHC Commc’ns, LLC, 537 F.3d 168, 175 (2d Cir. 2008) (alteration
+omitted) (quoting Sitar v. Sitar, 854 N.Y.S.2d 536, 538 (2d Dep’t 2008)).
+
+      The unjust enrichment claim parallels the contract claims by
+resting on allegations that Prime and Carter wrongfully deprived
+Little Hearts of its exclusive rights with respect to the Marks Units.
+Count VI seeks the same damages as Counts III and IV of not less than
+$48,052,000 to compensate Little Hearts for “lost capital and the loss
+of valuable rights afforded to [Little Hearts] in the Operating
+Agreement, including the right to ‘retain, use, occupy [and] develop’
+designated units in the [b]uilding.” App’x 26, 50-51. The unjust
+enrichment claim in Count VI therefore must be dismissed as
+duplicative.
+
+                                    II
+
+      Neither party addresses in its briefing on appeal whether the
+case must be remanded to the bankruptcy court or to state court. At
+oral argument, counsel for Little Hearts argued that the bankruptcy
+court lacks subject-matter jurisdiction over the direct claims and
+therefore the case must return to the state court. See Oral Argument
+Audio Recording at 45:50. He acknowledged that the bankruptcy
+court may exercise jurisdiction over a direct claim that is closely
+related to a bankruptcy case, but he suggested that such a close
+relationship is missing here. See 28 U.S.C. § 1334(b) (providing that
+the district court in which the bankruptcy case is filed “shall have
+original but not exclusive jurisdiction of all civil proceedings arising
+under title 11, or arising in or related to cases under title 11”).
+
+
+                                    19
+       The jurisdiction of the bankruptcy court extends to “core
+proceedings” that arise under—or in cases under—the Bankruptcy
+Code and to non-core proceedings that are “related.” 28 U.S.C. § 157;
+see id. § 1334. “Core proceedings” include “matters concerning the
+administration of the estate” and “proceedings affecting the
+liquidation of the assets of the estate.” Id. § 157(b)(2)(A), (O). Among
+the “assets of the estate” that the creditor trust must liquidate
+pursuant to the plan is the derivative claim for breach of fiduciary
+duty against Prime and Carter. The direct claims that Little Hearts
+asserts here may affect the liquidation of that asset because if Little
+Hearts prevails, its share of any recovery for the fiduciary-duty claims
+will be correspondingly reduced to avoid a double recovery.
+Moreover, even if the direct claims are not part of a core proceeding,
+the claims may still be “related” to the bankruptcy. 4 “[A] civil
+proceeding is related to a bankruptcy case when ‘the outcome of that
+proceeding could conceivably have any effect on the estate.’” 1 Collier
+on Bankruptcy ¶ 3.01[3][e][ii] (16th ed. 2024) (quoting Pacor, Inc. v.
+Higgins, 743 F.2d 984, 994 (3d Cir. 1984)).
+
+       If the direct claims are part of a non-core but related proceeding
+based on a state law claim or cause of action, the bankruptcy court
+will need to decide whether to abstain under § 1334(c)(2). That statute
+provides that when a proceeding is “related” to a core proceeding but
+
+4 It is not inconsistent to conclude that a claim arises in or is related to a
+bankruptcy proceeding, on the one hand, but is not embedded in or
+confused with a claim belonging to the debtor, on the other. The statute
+conferring jurisdiction on the bankruptcy court looks to the effect of the
+proceeding on the bankruptcy estate. The New York cases applying Tooley,
+by contrast, aim at ensuring plaintiffs do not “conflate … derivative and
+individual rights.” Serino, 994 N.Y.S.2d at 69. A claim may be based on a
+plaintiff’s individual rights—such as a contract right—and nonetheless
+have a potential effect on the bankruptcy estate.
+
+                                     20
+“could not have been commenced in a court of the United States”
+absent that relation, the federal courts “shall abstain from hearing
+such proceeding if an action is commenced, and can be timely
+adjudicated, in a State forum of appropriate jurisdiction.” 28 U.S.C.
+§ 1334(c)(2). We have explained that timeliness under § 1334(c)(2)
+depends on “a case- and situation-specific inquiry that requires a
+comparison of the time in which the respective state and federal
+forums can reasonably be expected to adjudicate the matter.” Parmalat
+Cap. Fin. Ltd. v. Bank of Am. Corp., 639 F.3d 572, 580 (2d Cir. 2011).
+
+      The bankruptcy court should address these questions in the
+first instance, with the option of receiving briefing from the parties.
+We therefore remand to the district court with instructions to remand
+to the bankruptcy court so that the bankruptcy court may
+determine—before it proceeds to the merits—whether it may exercise
+jurisdiction over the direct claims under 28 U.S.C. § 1334(b) and
+whether, if the claims are part of a non-core proceeding, abstention is
+warranted under 28 U.S.C. § 1334(c)(2).
+
+                            CONCLUSION
+
+      We have previously explained that “when a plaintiff asserts a
+claim based on the plaintiff’s own right, such as a claim for breach of
+a commercial contract,” the claim is direct regardless of the Tooley test.
+Brightstar Asia, 43 F.4th at 122 (quoting Citigroup, 140 A.3d at 1139-40).
+In this case, the claims for breach of contract and for breach of the
+implied covenant of good faith and fair dealing belong to Little
+Hearts, not to the creditor trust. The fiduciary duty claims are
+derivative, however, and may be asserted only by the creditor trustee.
+Because the unjust enrichment claim duplicates the contract claims, it
+must also be dismissed. We therefore affirm the judgment in part,
+
+
+
+                                   21
+vacate in part, and remand for further proceedings consistent with
+this opinion. 5
+
+
+
+
+5 We note that Count V asserts an alter ego theory of liability against Carter.
+Because alter ego liability “is not itself an independent … cause of action,
+but rather is a means of imposing liability on an underlying cause of
+action,” Peacock v. Thomas, 516 U.S. 349, 354 (1996) (internal quotation marks
+omitted), Little Hearts may pursue the theory on remand for its direct
+claims.
+
+                                      22

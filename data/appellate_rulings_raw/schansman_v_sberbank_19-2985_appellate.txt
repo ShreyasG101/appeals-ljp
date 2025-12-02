@@ -1,0 +1,1974 @@
+22-3097-cv
+Schansman v. Sberbank
+
+
+                    United States Court of Appeals
+                              for the Second Circuit
+                        _____________________________________
+
+                                  August Term 2023
+
+              (Argued: December 13, 2023       Decided: February 4, 2025)
+
+                                     No. 22-3097
+
+                        _____________________________________
+
+    THOMAS SCHANSMAN, individually, as surviving parent of Quinn Lucas
+  Schansman, and as the legal guardian on behalf of X.S., a minor; CATHARINA
+TEUNISSEN, individually and as the surviving parent and personal representative
+  of the Estate of Quinn Lucas Schansman; NERISSA SCHANSMAN, as surviving
+  sibling of Quinn Lucas Schansman; XANDER SCHANSMAN, individually, as a
+                   surviving sibling of Quinn Lucas Schansman,
+                                  Plaintiffs-Appellees,
+                                        — v. —
+
+                              SBERBANK OF RUSSIA PJSC,
+
+                                 Defendant-Appellant,
+
+    WESTERN UNION COMPANY; WESTERN UNION FINANCIAL SERVICES, INC.;
+  MONEYGRAM INTERNATIONAL, INC.; MONEYGRAM PAYMENT SYSTEMS, INC.; VTB
+                             BANK PJSC,
+                                      Defendants.
+
+                        _____________________________________
+
+
+
+                                           1
+Before:            WALKER, CABRANES, and BIANCO, Circuit Judges.
+      Defendant-Appellant Sberbank of Russia PJSC (“Sberbank”) appeals from
+the decision and order of the United States District Court for the Southern District
+of New York (Andrew L. Carter, Jr., Judge), entered on December 6, 2022, denying
+Sberbank’s motion to dismiss the second amended complaint on foreign sovereign
+immunity grounds.
+       Plaintiffs-Appellees (“Plaintiffs”) are the surviving relatives of Quinn Lucas
+Schansman, a passenger aboard Malaysia Airlines Flight 17 (“MH17”) who was
+killed when the plane was shot down over eastern Ukraine by a surface-to-air
+missile launched from territory controlled by the Russian Federation-backed
+Donetsk People’s Republic (“DPR”). Plaintiffs brought claims against Sberbank, a
+commercial bank based in Russia, under the Anti-Terrorism Act (“ATA”), 18
+U.S.C. § 2331 et seq., alleging that Sberbank knowingly provided material support
+to the DPR by facilitating money transfers from donors to the DPR via
+correspondent accounts in the United States, and that this material support
+proximately caused the downing of MH17.
+       After the suit was filed, the Ministry of Finance of the Russian Federation
+acquired a majority share in Sberbank. Sberbank moved to dismiss for lack of
+subject matter jurisdiction under Federal Rule of Civil Procedure 12(b)(1), arguing
+that it is immune under both the Foreign Sovereign Immunities Act (“FSIA”), 28
+U.S.C. § 1602 et seq., and the ATA. The district court denied the motion, and
+Sberbank appealed. For the reasons set forth below, we hold that: (1) Sberbank is
+presumptively immune under the FSIA; (2) the FSIA’s commercial activity
+exception applies to Sberbank’s conduct because the alleged claims are based upon
+quintessentially commercial activity—facilitating money transfers—that Sberbank
+carried on in the United States, and thus abrogates Sberbank’s sovereign immunity
+under the FSIA; (3) as a matter of first impression, the ATA’s immunity provisions
+apply not only to agencies, but also to “instrumentalities” of foreign states; and
+(4) as a matter of first impression, the commercial activity exception of the FSIA
+applies equally to an action brought under the ATA, and thus similarly abrogates
+Sberbank’s sovereign immunity under the ATA. Accordingly, we AFFIRM the
+
+
+
+
+                                         2
+order of the district court and REMAND for further proceedings consistent with
+this opinion.
+      Judge Walker concurs in part and concurs in the judgment in a separate
+opinion.
+
+                              JAY S. AUSLANDER (Natalie Shkolnik and Michael
+                              Van Riper, on the brief), Wilk Auslander LLP, New
+                              York, New York, for Defendant-Appellant.
+
+                              ANDRIANNA KASTANEK (Lee Wolosky, Jason P.
+                              Hipp, and Terri L. Mascherin, on the brief), Jenner
+                              & Block LLP, New York, New York, and Chicago,
+                              Illinois, for Plaintiffs-Appellees.
+
+
+
+
+                                       3
+JOSEPH F. BIANCO, Circuit Judge:
+
+      Defendant-Appellant Sberbank of Russia PJSC (“Sberbank”) appeals from
+
+the decision and order of the United States District Court for the Southern District
+
+of New York (Andrew L. Carter, Jr., Judge), entered on December 6, 2022, denying
+
+Sberbank’s motion to dismiss the second amended complaint on foreign sovereign
+
+immunity grounds.
+
+      Plaintiffs-Appellees (“Plaintiffs”) are the surviving relatives of Quinn Lucas
+
+Schansman, a passenger aboard Malaysia Airlines Flight 17 (“MH17”) who was
+
+killed when the plane was shot down over eastern Ukraine by a surface-to-air
+
+missile launched from territory controlled by the Russian Federation-backed
+
+Donetsk People’s Republic (“DPR”). Plaintiffs brought claims against Sberbank, a
+
+commercial bank based in Russia, under the Anti-Terrorism Act (“ATA”), 18
+
+U.S.C. § 2331 et seq., alleging that Sberbank knowingly provided material support
+
+to the DPR by facilitating money transfers from donors to the DPR via
+
+correspondent accounts in the United States, and that this material support
+
+proximately caused the downing of MH17.
+
+      After the suit was filed, the Ministry of Finance of the Russian Federation
+
+acquired a majority share in Sberbank. Sberbank moved to dismiss for lack of
+
+
+
+                                         4
+subject matter jurisdiction under Federal Rule of Civil Procedure 12(b)(1), arguing
+
+that it is immune under both the Foreign Sovereign Immunities Act (“FSIA”), 28
+
+U.S.C. § 1602 et seq., and the ATA. The district court denied the motion, and
+
+Sberbank appealed. For the reasons set forth below, we hold that: (1) Sberbank is
+
+presumptively immune under the FSIA; (2) the FSIA’s commercial activity
+
+exception applies to Sberbank’s conduct because the alleged claims are based upon
+
+quintessentially commercial activity—facilitating money transfers—that Sberbank
+
+carried on in the United States, and thus abrogates Sberbank’s sovereign immunity
+
+under the FSIA; (3) as a matter of first impression, the ATA’s immunity provisions
+
+apply not only to agencies, but also to “instrumentalities” of foreign states; and
+
+(4) as a matter of first impression, the commercial activity exception of the FSIA
+
+applies equally to an action brought under the ATA, and thus similarly abrogates
+
+Sberbank’s sovereign immunity under the ATA. Accordingly, we AFFIRM the
+
+order of the district court and REMAND for further proceedings consistent with
+
+this opinion.
+
+
+
+
+                                        5
+                                I.   BACKGROUND
+
+          A. Factual Background 1
+
+       On July 17, 2014, Quinn Schansman, a dual citizen of the United States and
+
+the Netherlands, boarded MH17 from Amsterdam to Kuala Lumpur to join his
+
+family on vacation in Indonesia. As the plane traveled over eastern Ukraine, it
+
+was shot down by a surface-to-air missile launched from territory forcibly
+
+controlled by the DPR, a terrorist group backed by the Russian Federation. 2 All of
+
+the passengers died.
+
+
+
+
+1
+  The factual allegations are taken from Plaintiffs’ second amended complaint, and we
+accept such allegations as true for purposes of our review of the district court’s denial of
+a Rule 12(b)(1) motion. See Donoghue v. Bulldog Invs. Gen. P’Ship, 696 F.3d 170, 173 (2d
+Cir. 2012) (“In conducting de novo review of the denial of a Rule 12(b)(1) motion to dismiss
+for lack of standing, we borrow from the familiar Rule 12(b)(6) standard, construing the
+complaint in the plaintiff’s favor and accepting as true all material factual allegations
+contained therein.”).
+
+2
+  As of July 17, 2014, Ukraine had designated the DPR as a terrorist organization and the
+United States had imposed sanctions on the DPR, but the United States has not
+designated the DPR as a foreign terrorist organization under 8 U.S.C. § 1189(a)(1). See 31
+CFR § 589.201 & 589.209; U.S. DEP’T OF THE TREASURY, BLOCKING PROPERTY OF CERTAIN
+PERSONS        CONTRIBUTING         TO       THE      SITUATION         IN      UKRAINE,
+https://home.treasury.gov/news/press-releases/jl2572     [https://perma.cc/UA5E-VPTB]
+(2014).
+
+
+                                             6
+      Plaintiffs, who are family members of Schansman, commenced this suit
+
+against Sberbank on April 4, 2019. 3 Sberbank is headquartered in the Russian
+
+Federation but has branches worldwide, including, during the timeframe relevant
+
+to the second amended complaint, in the United States.                During that time,
+
+Sberbank also maintained correspondent accounts with banks in New York City
+
+to effectuate the transfer of funds in U.S. dollars and advertised those
+
+correspondent banking relationships on its website.
+
+      Plaintiffs allege that Sberbank provided banking and money transfer
+
+services to the DPR, knowing or deliberately indifferent to the fact that the DPR
+
+would use those services to finance lethal terrorist acts. Specifically, they allege
+
+that the DPR fundraised on social media platforms and other websites and, as part
+
+of those efforts, “brazenly” informed donors that they could send money to
+
+accounts at Sberbank or bank cards issued by Sberbank. Joint App’x at 102. For
+
+instance, in one blog post, the DPR’s self-proclaimed governor shared account
+
+details to donate to a Sberbank bank card. In another video posted on YouTube,
+
+
+3
+  Plaintiffs also named VTB Bank PJSC (“VTB”)—another bank headquartered in
+Russia—and several money transfer institutions in their second amended complaint.
+Plaintiffs and the money transfer institutions agreed to a resolution of the claims between
+them. As a result, Plaintiff’s claims were voluntarily dismissed. See D. Ct. Dkt. No. 366,
+432. VTB did not assert a defense under the FSIA or the ATA.
+
+
+                                            7
+the DPR’s commander-in-chief held up a piece of paper listing the full account
+
+number for that same account at Sberbank.
+
+      Plaintiffs allege that funds from DPR supporters in these Sberbank accounts
+
+were “essential for [the DPR’s] procurement of weapons, ammunition, and other
+
+instruments of violence, which the DPR used to intimidate and coerce the
+
+Ukrainian government and civilian population, and to acquire and control
+
+territory, including the territory from which the DPR launched the missile that
+
+brought down the MH17 airplane.” Joint App’x at 104–05. Funds raised in these
+
+efforts were allegedly used to purchase a wide array of military supplies for the
+
+DPR, in part because the DPR itself, as a widely recognized terrorist group, did
+
+not maintain a central bank account in its own name. One fundraising group, Save
+
+Donbass, requested on its website that “Sberbank cardholders . . . make direct
+
+payments to our card number,” which it provided; shared reports of transfers to
+
+and from its Sberbank accounts in June and July 2014; and, the day before the
+
+attack, reported that it had purchased armored vehicles and other supplies for the
+
+DPR and its affiliates. Joint App’x at 116. Reflecting on the fundraising operation
+
+as a whole, one of the DPR’s leading fundraisers described the solicitation of
+
+donations from Russian citizens as “perhaps the largest crowdfunding campaign
+
+
+
+                                        8
+in post-Soviet Russia,” claiming that the donations “ensured the survival” of the
+
+DPR. Joint App’x at 108.
+
+      According to the second amended complaint, at least some of these
+
+fundraising efforts were explicitly directed toward donors who sought to use U.S.
+
+dollars. One fundraiser, for instance, explained that the only way donors could
+
+transfer U.S. dollars to it was by routing funds through Sberbank’s correspondent
+
+account at the Deutsche Bank Trust Company Americas in New York City. A
+
+second fundraiser provided similar instructions for routing U.S.-dollar
+
+contributions through Sberbank’s Deutsche Bank correspondent account or
+
+Sberbank’s correspondent account at the Bank of New York Mellon in New York
+
+City. A third fundraiser also provided online instructions for how to donate to a
+
+Sberbank account using correspondent accounts at Citibank and JPMorgan Chase
+
+Bank. Yet another fundraiser provided, in an English-language post, its Sberbank
+
+account number as “the official account to collect funds.” Joint App’x at 134. A
+
+financial report posted by a DPR-affiliated group on July 4, 2014—thirteen days
+
+before Schansman boarded MH17—stated that “citizens from different countries
+
+[had] transfer[red] money” to it in “significant amounts.” Joint App’x at 112.
+
+According to that report, the DPR-affiliated group used 1,762,690 rubles (at the
+
+
+
+                                       9
+time, approximately $51,000) to provide cash support and purchase military items
+
+for the DPR. More specifically, Plaintiffs have identified two wire transfers on
+
+June 9 and July 2, 2014 from individuals residing in Maryland and New Jersey to
+
+the DPR using Sberbank’s correspondent accounts in New York City. 4
+
+      Plaintiffs allege that “by no later than April 2014,” Sberbank “had actual
+
+knowledge that [it] was providing material support and financing to the DPR.”
+
+Joint App’x at 107. In particular, they point to articles from that month in Forbes,
+
+Reuters, and the Kyiv Post that specifically named Sberbank as one of the
+
+intermediaries being used to fund the DPR’s violence. One article stated that
+
+Sberbank was conducting an internal investigation into the allegations of terrorist
+
+financing, and another stated that Sberbank had contacted Ukrainian officials to
+
+discuss the allegations, making clear that Sberbank was aware of the reports.
+
+Following the July 17, 2014 attack on MH17, the U.S. Department of the Treasury
+
+imposed sanctions on Sberbank because of its financial assistance to the DPR. Still,
+
+Sberbank allegedly continued to allow donors to use its correspondent accounts
+
+in New York City to provide funds to the DPR for some time thereafter.
+
+
+
+
+4
+ These two transfers totaled $300. Plaintiffs expect the completion of discovery to reveal
+additional transfers.
+                                           10
+          B. Procedural History
+
+      Plaintiffs filed their initial complaint on April 4, 2019, an amended
+
+complaint on October 8, 2019, and the operative second amended complaint on
+
+October 5, 2020. When Plaintiffs filed their initial complaint, the Central Bank of
+
+the Russian Federation owned a majority stake of Sberbank’s total authorized
+
+capital. On April 30, 2020, the Ministry of Finance of the Russian Federation
+
+acquired that majority stake. 5
+
+      In the second amended complaint, Plaintiffs allege that Sberbank provided
+
+material support and financing to the DPR by, inter alia, maintaining
+
+correspondent accounts in New York and allowing transfers to a specific Sberbank
+
+bank card that were then used to procure lethal weapons for the DPR. Sberbank
+
+moved to dismiss the second amended complaint on the grounds that the court
+
+lacked personal jurisdiction over it and that the complaint failed to state a claim
+
+
+5
+  Sberbank moved to dismiss the initial complaint and the first amended complaint. In
+its briefing in support of those motions to dismiss, Sberbank disclaimed that it was an
+instrumentality of the Russian Federation. See D. Ct. Dkt. No. 98 at 21 n.6 (noting in its
+memorandum in support of its motion to dismiss the initial complaint that “Plaintiffs also
+allege Sberbank is directly majority-owned by the Russian Federation . . . apparently in
+an attempt to assert Sberbank is an instrumentality of Russia. If these false allegations
+were true, dismissal would be mandated for lack of subject matter jurisdiction over
+Sberbank as an instrumentality.”); D. Ct. Dkt. No. 115 at 21 (same, in memorandum in
+support of motion to dismiss first amended complaint). These motions were mooted by
+Plaintiffs’ amendments.
+
+
+                                           11
+under the ATA. 6 The district court denied the motion to dismiss the second
+
+amended complaint (and later denied Sberbank’s motion for reconsideration).
+
+      On November 17, 2021, Sberbank filed its answer to Plaintiffs’ second
+
+amended complaint. In its answer, Sberbank, for the first time, objected to the
+
+district court’s subject matter jurisdiction under the FSIA, arguing that because
+
+Sberbank is majority-owned by the Russian Federation, it is an agency or
+
+instrumentality of a foreign state. On December 30, 2021, with the district court’s
+
+permission, Sberbank moved to dismiss the second amended complaint, pursuant
+
+to Rule 12(b)(1), for lack of subject matter jurisdiction under the FSIA and the ATA.
+
+That motion is the subject of the instant appeal. In its memorandum in support of
+
+that motion, Sberbank argued that its current ownership by the Russian Ministry
+
+of Finance entitles it to a presumption of immunity as an agency or instrumentality
+
+and that the commercial activity exception does not apply. In addition, Sberbank
+
+argued that, even if FSIA immunity was determined at the time Plaintiffs filed
+
+their initial complaint, Sberbank is nonetheless immune because its then-majority
+
+owner was the Central Bank of the Russian Federation, which Sberbank contends
+
+
+
+6 In its motion to dismiss, Sberbank again denied that it was an instrumentality of the
+Russian Federation—its first such denial following the acquisition of a majority stake by
+the Russian Ministry of Finance.
+
+
+                                           12
+is a political subdivision of the Russian Federation. Thus, according to Sberbank,
+
+it was still an agency or instrumentality of a foreign state or political subdivision
+
+thereof under the FSIA. Sberbank further argued that the ATA barred claims
+
+against Sberbank regardless of when Sberbank acquired its agency or
+
+instrumentality status.
+
+      In March 2022, the district court ordered jurisdictional discovery, granting
+
+Plaintiffs’ request for discovery related to “[t]he degree of independence the
+
+Central Bank of the Russian Federation . . . enjoys vis-à-vis the Russian Federation
+
+and the Federation’s agencies of state power.” D. Ct. Dkt. Nos. 291, 298. 7 On
+
+November 18, 2022, the parties reported that Sberbank had produced certain
+
+documents but that they remained at an impasse regarding the scope of and
+
+timeline for discovery on that issue.
+
+         C. District Court Decision
+
+      On December 6, 2022, with the discovery dispute pending, the district court
+
+issued a written order denying the motion to dismiss under Rule 12(b)(1). See
+
+
+
+
+7
+  The district court denied discovery for documents related to whether the Russian
+Central Bank’s core functions are predominantly governmental or commercial in nature,
+and documents related to the extent that Sberbank’s commercial activity was used to
+commit unlawful acts.
+
+
+                                         13
+generally Schansman v. Sberbank of Russia PJSC, No. 19-CV-02985 (ALC) (GWG),
+
+2022 WL 17540666 (S.D.N.Y. Dec. 6, 2022). As an initial matter, the district court
+
+declined to consider the issue of whether Sberbank had waived its sovereign
+
+immunity defense by failing to assert it at earlier stages of the briefing, noting that
+
+Sberbank did raise the defense in its answer to the second amended complaint.
+
+      The district court then concluded, based on its reading of Dole Food Co. v.
+
+Patrickson, 538 U.S. 468, 478 (2003), and Abrams v. Société Nationale Des Chemins De
+
+Fer Francais, 389 F.3d 61, 64 (2d Cir. 2004), that the determination of whether
+
+Sberbank is an agency or instrumentality of a foreign state that is presumptively
+
+immune under the FSIA is based on Sberbank’s status at the time of the filing of
+
+the suit—that is, when its majority owner was the Central Bank of the Russian
+
+Federation. Applying the core functions test we articulated in Garb v. Republic of
+
+Poland, 440 F.3d 579 (2d Cir. 2006), the district court concluded that the Central
+
+Bank qualified as a political subdivision of the Russian Federation because its core
+
+functions were predominantly governmental, not commercial. Specifically, the
+
+district court found the Central Bank to be “a crucial market regulator within the
+
+Russian [s]ystem. The Constitution of the Russian Federation states that the
+
+[Central Bank] is ‘exclusively’ responsible for the issuance of rubles, and that
+
+
+
+                                          14
+‘protecting and ensuring the stability of the ruble shall be the core function of the
+
+Central Bank of the Russian Federation.’” Schansman, 2022 WL 17540666, at *4
+
+(quoting Art. 75 of the Constitution of the Russian Federation and D. Ct. Dkt. No.
+
+260 at 20 (Declaration of Lyudmila Efimova)). The district court accordingly held
+
+that Sberbank was an agency or instrumentality of the Russian Federation, making
+
+it presumptively immune from suit under the FSIA.
+
+      However, the district court concluded that Sberbank was nonetheless
+
+subject to the commercial activity exception to the FSIA because the gravamen of
+
+the suit—Sberbank’s “provi[sion of] material support and financing to the DPR, in
+
+part by operating correspondent accounts in New York”—concerned commercial
+
+activity Sberbank carried on in the United States. Id. at *5 (citation omitted).
+
+Looking “to the nature of the . . . act, rather than . . . to its purpose,” 28 U.S.C.
+
+§ 1603(d), the district court determined that in these circumstances, the “use of
+
+correspondent accounts and authorization of money transfers is classic
+
+commercial behavior for an international bank and does not qualify as sovereign
+
+conduct,” Schansman, 2022 WL 17540666, at *5.
+
+      Lastly, the district court declined Sberbank’s invitation “to read the ATA’s
+
+sovereign immunity provision more broadly than the FSIA.” Id. at *6. Relying,
+
+
+
+                                         15
+inter alia, on the Supreme Court’s guidance in Republic of Austria v. Altmann, 541
+
+U.S. 677, 691 (2004), that “courts should decide claims of sovereign immunity in
+
+conformity with [the FSIA’s] principles,” the district court concluded that
+
+sovereign immunity assertions under the ATA are “functionally equivalent” to
+
+those under the FSIA and thus, for the same reasons, denied sovereign immunity
+
+under the ATA. Schansman, 2022 WL 17540666, at *6 (quoting Republic of Austria,
+
+541 U.S. at 691; Ungar v. Palestinian Liberation Org., 402 F.3d 274, 283 (1st Cir. 2005)).
+
+                                II.   DISCUSSION
+
+      We are presented with four issues on appeal. The first is whether Sberbank
+
+is presumptively immune under the FSIA, either because it was majority-owned
+
+by the Russian Central Bank when this action commenced or because a majority
+
+stake has since been acquired by the Russian Ministry of Finance. If Sberbank is
+
+presumptively immune under the FSIA, the second issue is whether the FSIA’s
+
+commercial activity exception applies to the suit. If the FSIA does not shield
+
+Sberbank, the third issue is whether Sberbank is presumptively immune under the
+
+provision of the ATA that immunizes foreign states and agencies from actions
+
+brought under the ATA. If Sberbank is presumptively immune under the ATA,
+
+the fourth and final issue is whether the FSIA’s commercial activity exception
+
+
+
+                                           16
+applies to an action brought under the ATA. We review these questions of law de
+
+novo. Peterson Energía Inversora S.A.U. v. Argentine Republic & YPF S.A., 895 F.3d
+
+194, 203 (2d Cir. 2018) (“We review de novo a district court’s legal determinations
+
+regarding its subject matter jurisdiction, such as whether sovereign immunity
+
+exists, and its factual determinations for clear error.” (internal quotation marks
+
+and citation omitted)).
+
+         A. Presumptive Immunity under the FSIA and Sberbank’s Post-
+            Filing Acquisition by the Russian Ministry of Finance
+
+
+      Section 1603(a) of the FSIA provides presumptive immunity for a “foreign
+
+state,” which includes “an agency or instrumentality of a foreign state.” 28 U.S.C.
+
+§ 1603 (the “FSIA Definitional Provision”). As relevant here, the FSIA defines an
+
+“[a]gency or instrumentality of a foreign state” as “[a]ny entity . . . which is a
+
+separate legal person . . . and . . . is an organ of a foreign state or political
+
+subdivision thereof, or a majority of whose shares or other ownership interest is
+
+owned by a foreign state or political subdivision thereof.” 28 U.S.C. § 1603(b).
+
+      The parties agree that the majority of Sberbank’s shares were owned by the
+
+Central Bank of the Russian Federation when the action was filed, but since
+
+April 30, 2020, the Ministry of Finance of the Russian Federation has owned the
+
+majority of Sberbank’s shares. Therefore, as a threshold matter, we must address
+
+                                        17
+which owner is the relevant entity for our analysis under Section 1603(b)—that is,
+
+whether Sberbank’s status as an agency or instrumentality of a foreign state is
+
+determined only at the time of the action’s initial filing, or whether a post-filing
+
+change in ownership may impact the district court’s jurisdiction.
+
+      Plaintiffs, relying primarily on Dole Food, initially argued on appeal that an
+
+entity’s status as an agency or instrumentality must be determined at the time an
+
+action is filed. Therefore our analysis would be limited to whether the Central
+
+Bank is a foreign state or political subdivision thereof under the FSIA. In Dole Food,
+
+the Supreme Court held that federal removal jurisdiction under Section 1441(d) of
+
+the FSIA should be determined “at the time suit is filed” rather than “at the time
+
+of the conduct giving rise to the suit.” 538 U.S. at 478–79. Sberbank argues that
+
+Dole Food’s holding does not apply to “subsequent developments” that confer
+
+immunity, such as a post-filing acquisition. Appellant’s Br. at 12.
+
+      After the filing of the parties’ briefs, but before oral argument, this Court
+
+squarely decided this issue in another case. In Bartlett v. Baasiri, we addressed
+
+“whether [the defendant] may raise a defense of immunity under [the FSIA] . . .
+
+when it alleges that immunity arose after suit was filed.” 81 F.4th 28, 31 (2d Cir.
+
+2023), cert. denied, 144 S. Ct. 1456 (2024) (internal citation omitted). We held that
+
+
+
+                                         18
+the “most natural reading of the statute is one that gives foreign sovereigns
+
+immunity even when they gain their sovereign status mid-suit,” reasoning that
+
+the statute’s use of the present tense provides “present protection from the
+
+inconvenience of suit as a gesture of comity.” Id. at 33 (internal quotation marks
+
+and citation omitted). In reaching this conclusion, we also noted that foreign
+
+states’ immunity under the FSIA is “not only from judgments, but from process,”
+
+that the Supreme Court has instructed that immunity depends on “current
+
+political realities,” and that this result is consistent with the common-law
+
+approach that the FSIA codified. Id. at 33–34. Thus, we held that immunity under
+
+the FSIA “may attach when a defendant becomes an instrumentality of a foreign
+
+sovereign after a suit is filed.” 8 Id. at 30.
+
+       Although we noted the plaintiffs’ concern that “allowing post-filing changes
+
+in sovereign status will encourage gamesmanship,” we found “[t]hose concerns
+
+. . . absent” in Bartlett. Id. at 36–37. In particular, we distinguished TIG Insurance
+
+Co. v. Republic of Argentina, 967 F.3d 778, 780–82 (D.C. Cir. 2020), in which
+
+
+
+8
+  In so holding, we agreed with the view of the U.S. Department of State, expressed in its
+amicus brief, that “an entity that becomes an agency or instrumentality of a foreign state
+within the meaning of the FSIA during the pendency of litigation is entitled to immunity
+under that statute, subject to the act’s enumerated exceptions.” Brief for the United States
+as Amicus Curiae, Bartlett v. Baasiri, 81 F.4th 28 (2d Cir. 2023) (No. 21-2019), 2023 WL
+4196930, at *5.
+                                             19
+Argentina sought to prevent attachment of a property in the District of Columbia.
+
+Argentina had offered the property for sale and then, after a creditor sought to
+
+attach it under Section 1610(a), promptly removed the property from the market.
+
+Id. Confronted with those facts, the D.C. Circuit adopted a “time of filing” rule for
+
+purposes of determining sovereign immunity in an attachment action under that
+
+section, to avoid the risk of “manipulation” that would follow if “a foreign
+
+sovereign unilaterally [could] thwart an otherwise valid attachment simply by
+
+removing property from the market.” Id. at 785. We concluded that this risk was
+
+not present in Bartlett because the defendant bank’s change in ownership was the
+
+result of its liquidation and subsequent public receivership after being designated
+
+by the U.S. government as a terrorist organization, and “not any attempt by [the
+
+foreign state] to avoid th[e] lawsuit.” 81 F.4th at 37.
+
+      Plaintiffs acknowledge that Bartlett “is inconsistent with the argument that
+
+instrumentality status must be determined at the time of filing.” D. Ct. Dkt. No. 74
+
+at 1. Nevertheless, they assert that, unlike in Bartlett, “the record here reflects . . .
+
+gamesmanship.” Id. They allege that Sberbank’s “status is the product of Russia
+
+manufacturing a change in ownership,” pointing to the Ministry of Finance’s
+
+mid-litigation acquisition of a fifty-percent equity stake plus one share in
+
+
+
+                                           20
+Sberbank, “precisely the amount needed to make [Sberbank] a FSIA
+
+instrumentality and engineer a sovereign immunity defense.” Id. at 1–2. Plaintiffs
+
+thus request that we either “hold that Bartlett does not extend to such strategic
+
+acquisitions,” or “remand for further factual development as to gamesmanship.”
+
+Id. at 2. We decline to do so. This conclusory assertion of “gamesmanship” is
+
+insufficient, under Bartlett, to overcome Sberbank’s change in ownership status
+
+solely because it occurred after the lawsuit was filed. We similarly reject Plaintiffs’
+
+request that we remand for further development of the record on the
+
+“gamesmanship” issue, especially where no such request for discovery on that
+
+issue was ever made in the district court. See Tannerite Sports, LLC v. NBCUniversal
+
+News Grp., 864 F.3d 236, 252–53 (2d Cir. 2017) (“It is a well-established general rule
+
+that an appellate court will not consider an issue raised for the first time on
+
+appeal.”). In short, Bartlett governs here, and we consider Sberbank’s current
+
+ownership by the Russian Ministry of Finance, rather than its ownership at the
+
+time of filing, for purposes of our analysis under the FSIA.
+
+      Here, there is no dispute that the Ministry of Finance is a political
+
+subdivision of the Russian Federation, a foreign state. As explained supra, Section
+
+1603(b)(1)–(2) defines an agency or instrumentality of a foreign state
+
+
+
+                                          21
+presumptively entitled to immunity as a “separate legal person, corporate or
+
+otherwise, . . . a majority of whose shares or other ownership interest is owned by
+
+a foreign state or political subdivision thereof.” Because the Russian Ministry of
+
+Finance owns a majority of the shares of Sberbank and Sberbank is a “separate
+
+legal person,” Sberbank is an agency or instrumentality of a foreign state as
+
+defined in Section 1603. Thus, Sberbank is presumptively immune under the FSIA.
+
+         B. Application of the FSIA’s Commercial Activity Exception to
+            Sberbank’s Alleged Conduct
+
+
+      Plaintiffs argue that, even if Sberbank is presumptively immune under the
+
+FSIA, the FSIA’s exception for commercial activity applies.          See 28 U.S.C
+
+§ 1605(a)(2). They contend that Sberbank’s provision of material support and
+
+financing to the DPR through commercial banking services to private customers,
+
+using correspondent accounts in New York City, constitutes commercial conduct
+
+in the United States, abrogating sovereign immunity. We agree.
+
+      Before 1976, when the FSIA was enacted, the courts had come to defer to the
+
+positions of the Executive in determining whether to afford immunity to foreign
+
+states. See H.R. Rep. No. 94-1487; Verlinden B.V. v. Cent. Bank of Nigeria, 461 U.S.
+
+480, 486 (1983).    In reaching those decisions, beginning in 1952, the U.S.
+
+Department of State announced in the Tate Letter that it would begin to “follow
+
+                                        22
+the ‘restrictive’ theory of foreign sovereign immunity in advising courts whether
+
+they should take jurisdiction in any given case.” Rubin v. Islamic Republic of Iran,
+
+583 U.S. 202, 208 (2018). That theory cabins immunity “to suits involving the
+
+foreign sovereign’s public acts,” as opposed “to cases arising out of a foreign
+
+state’s strictly commercial acts,” which are not immune. Verlinden, 461 U.S. at 487.
+
+Congress’s purpose in enacting the FSIA was “to endorse and codify the restrictive
+
+theory of sovereign immunity,” while shifting the responsibility for deciding
+
+immunity claims from the Executive to the courts. Samantar v. Yousuf, 560 U.S.
+
+305, 313 (2010) (citing 28 U.S.C. § 1602); see also Bartlett, 81 F.4th at 32.
+
+       Codifying the restrictive theory of sovereign immunity, the commercial
+
+activity exception provides that a foreign state “shall not be immune from the
+
+jurisdiction of courts of the United States or of the States in any case . . . in which
+
+the action is based upon a commercial activity carried on in the United States by
+
+the foreign state.” 28 U.S.C § 1605(a)(2). “Commercial activity” is defined as
+
+“either a regular course of commercial conduct or a particular commercial
+
+transaction or act.” Id. § 1603(d). The “commercial character” of a defendant’s
+
+conduct, transaction, or act is determined “by reference to the nature of the course
+
+
+
+
+                                            23
+of conduct or particular transaction or act, rather than by reference to its purpose.”
+
+Id.
+
+      “[A] state engages in commercial activity . . . where it exercises ‘only those
+
+powers that can also be exercised by private citizens,’ as distinct from those
+
+‘powers peculiar to sovereigns.’” Saudi Arabia v. Nelson, 507 U.S. 349, 360 (1993)
+
+(quoting Republic of Argentina v. Weltover, Inc., 504 U.S. 607, 614 (1992)). In other
+
+words, it engages in commercial activity when it “acts, not as a regulator of a
+
+market, but in the manner of a private player within it.” Anglo-Iberia Underwriting
+
+Mgmt. v. P.T. Jamsostek, 600 F.3d 171, 176 (2d Cir. 2010) (quoting Weltover, 504 U.S.
+
+at 614). It is thus the “nature of the course of conduct or particular transaction,”
+
+not that action’s “purpose,” that determines commercial character. 28 U.S.C
+
+§ 1603(d). “As this Court has recognized, however, that ‘is a standard more easily
+
+stated than applied, . . . and its application may sometimes depend on the level of
+
+generality at which the conduct is viewed.” Daou v. BLC Bank, S.A.L., 42 F.4th 120,
+
+134 (2d Cir. 2022) (quoting Pablo Star Ltd. v. Welsh Gov’t, 961 F.3d 555, 561 (2d Cir.
+
+2020)).
+
+      In Daou, for example, we held that a defendant, the central bank of Lebanon,
+
+“engaged in at least one course of commercial activity: allowing . . . [c]ommercial
+
+
+
+                                         24
+[b]anks to open checking accounts, which the [c]ommercial [b]anks then used to
+
+write checks to [plaintiffs], and then denying requests by banks in the United
+
+States to transfer the funds upon deposit of those checks. That is the sort of activity
+
+in which any commercial bank could engage.” Id. The activity at issue here—
+
+using correspondent accounts and authorizing money transfers—is of the same
+
+kind.
+
+        The commercial activity exception, however, only applies where the action
+
+is “based upon” the commercial activity in question. § 1605(a)(2). “[A]n action is
+
+‘based upon’ the ‘particular conduct’ that constitutes the ‘gravamen’ of the suit.”
+
+OBB Personenverkehr AG v. Sachs, 577 U.S. 27, 35 (2015) (quoting Nelson, 507 U.S. at
+
+356–58). In Nelson, for instance, a case involving personal injury claims against the
+
+Saudi government by an American doctor who was employed at a Saudi
+
+government-owned hospital and detained and tortured for reporting safety
+
+hazards in that hospital, the Supreme Court held that the action was not “based
+
+upon” the commercial activity of recruiting and hiring the doctor because the
+
+“gravamen” of his suit was his detention and torture, not his recruitment and
+
+hiring. 507 U.S. at 356–63.
+
+
+
+
+                                          25
+      When assessing the “gravamen” of a suit, we need “not undertake . . . an
+
+exhaustive claim-by-claim, element-by-element analysis” of each cause of action;
+
+instead, we “zero[] in on the core of the[] suit.” Sachs, 577 U.S. at 34–35. Applying
+
+this approach to Sachs, the Court declared that “the gravamen of Sachs’s suit”—
+
+injuries she suffered at a government-owned train station in Innsbruck, Austria—
+
+“plainly occurred abroad. All of her claims turn on the same tragic episode in
+
+Austria.” Id. (emphasis added). The Court explicitly rejected Sachs’s assertion
+
+that some of her claims were “based upon” commercial activity in the United
+
+States because her Eurail purchase involved “commercial activity . . . in the United
+
+States.” Id. at 30, 35–36 (“Sachs maintains that some of those claims are not limited
+
+to negligent conduct or unsafe conditions in Austria, but rather involve at least
+
+some wrongful action in the United States. . . . However Sachs frames her suit, the
+
+incident in Innsbruck remains at its foundation.”). The Court emphasized its
+
+opinion’s limited reach, noting it “consider[ed] here only a case in which the
+
+gravamen of each claim is found in the same place.” Id. at 36 n.2.
+
+      Sberbank argues that the gravamen of Plaintiffs’ claims is the DPR’s attack
+
+on MH17 because that is the conduct that actually injured Plaintiffs. We disagree.
+
+Here, the gravamen of their claims is Sberbank’s alleged use of correspondent
+
+
+
+                                         26
+accounts and authorization of money transfers in the United States to the DPR and
+
+its affiliate groups. In other words, Sberbank’s commercial activity—its alleged
+
+material support to the DPR in the form of payment facilitation—is the specific
+
+unlawful conduct that forms the basis of this particular suit, and the attack on
+
+MH17 is, as Plaintiffs describe it, merely the “activity’s downstream
+
+consequence[].” Appellees’ Br. at 44.
+
+      Our conclusion is consistent with the D.C. Circuit’s analysis in Rodriguez v.
+
+Pan American Health Organization, 29 F.4th 706 (D.C. Cir. 2022). Rodriguez was an
+
+action brought by a group of Cuban physicians who alleged that Cuba had forced
+
+them, without their consent, to participate in Brazil’s “Mais Médicos” (i.e., “More
+
+Doctors”) program to provide medical services to impoverished Brazilians. Id. at
+
+709. The physicians filed suit against the Pan American Health Organization
+
+(“PAHO”) for facilitating the program, including, inter alia, serving as a financial
+
+intermediary between Brazil and Cuba. Id. According to the physicians, PAHO’s
+
+role included moving money, for a fee, between Brazil and Cuba, which sought to
+
+avoid a direct intergovernmental agreement because doing so would have
+
+required the approval of the Brazilian Congress.       Id. at 709–10.   Under this
+
+arrangement, Brazil made payments to PAHO’s Citibank account in the District of
+
+
+
+                                        27
+Columbia. Id. PAHO then forwarded 85% to Cuba, paid 10% to the physicians,
+
+and retained 5% for its services. Id. PAHO, like Sberbank, asserted that “moving
+
+money for a fee” only became “wrongful” due to activity that occurred
+
+elsewhere—in that instance, alleged human trafficking and forced labor in Cuba
+
+and Brazil. Id. at 715. According to PAHO, absent the alleged trafficking and
+
+forced labor, PAHO would have merely acted as a typical financial intermediary.
+
+Id.
+
+      The D.C. Circuit rejected PAHO’s argument and concluded that the alleged
+
+financial activity itself gave rise to a cause of action—the prohibition on financially
+
+benefitting from participation in human trafficking. Id. at 716. It held:
+
+       At least with regard to alleged illegal financial activity, we consider
+       the “gravamen” of that alleged wrongful conduct rather than any
+       harm that may result elsewhere. The “gravamen” of a suit consists
+       of “those elements of a claim that, if proven, would entitle a plaintiff
+       to relief under his theory of the case,” or, phrased differently, “the
+       core” of a claim. If the conduct is itself wrongful—as opposed to
+       wrongful based only on other conduct—it constitutes the “core” of
+       the claim.
+
+Id. (emphasis in original) (quoting Nelson, 507 U.S. at 357, and Sachs, 557 U.S. at
+
+35). The D.C. Circuit concluded that because the physicians alleged that PAHO
+
+committed a financial crime in the United States, the “financial benefit” was itself
+
+“wrongful conduct” occurring in the United States. Id. It further explained that
+
+                                          28
+the “financial benefit” that occurred in the United States was that “PAHO
+
+received, forwarded and retained the Mais Médicos money through its
+
+Washington, D.C. bank account.” Id. Accordingly, it concluded that PAHO’s
+
+conduct of “moving money for a fee” constituted “commercial activity carried on
+
+in the United States.” Id. at 717.
+
+      Sberbank argues that “[u]nlike in Rodriguez, where the defendant’s alleged
+
+crime accrued the moment it received the completed funds transfers at its own
+
+bank account in the United States, here the alleged predicate crimes and ATA
+
+cause of action cannot have accrued until the[] . . . DPR supporters received . . .
+
+funds in their overseas accounts with Sberbank’s alleged knowledge.          Even
+
+focusing on the ‘act of international terrorism,’ Plaintiffs’ claims are based on
+
+alleged overseas activity.” Reply Br. at 26. We are unpersuaded. To be sure, the
+
+mere delivery of funds into and out of Sberbank’s accounts in New York City does
+
+not, standing alone, constitute wrongful conduct that would subject Sberbank to
+
+liability. However, if Sberbank, as Plaintiffs allege, transferred funds from U.S.-
+
+based accounts to overseas accounts affiliated with the DPR, knowing that the
+
+DPR perpetrated acts of terrorism, such conduct plausibly falls within the ambit
+
+of the ATA’s prohibitions on financing terrorism. See 18 U.S.C. §§ 2339A, 2339C.
+
+
+
+                                        29
+Here, like in Rodriguez, Plaintiffs allege Sberbank committed a financial crime—
+
+transferring funds to groups engaged in terrorist activity—and that the wrongful
+
+conduct occurred in the United States.
+
+      Sberbank contends, however, that the “only evidence of transfers to the DPR
+
+through Sberbank’s U.S. correspondent accounts consists of bank records
+
+purporting to establish two transfers totaling $300.”        Appellant’s Br. at 55.
+
+Sberbank argues that Plaintiffs do not allege that the $300 transferred “actually
+
+allowed” the DPR to acquire the arsenal of military equipment that it used to
+
+capture Ukrainian territory and, ultimately, shoot down MH17 using a surface-to-
+
+air missile. Id. In sum, according to Sberbank, “[t]hose two transfers . . . cannot
+
+possibly constitute the ‘core’ of the lawsuit.” Id. at 56.
+
+      We disagree. As alleged in the second amended complaint, Sberbank’s
+
+commercial activity of facilitating transfers in the United States to the DPR and its
+
+affiliated groups with either knowledge of or deliberate indifference to the DPR’s
+
+perpetration of terrorism is what this lawsuit is “based upon.” See Rodriguez, 29
+
+F.4th at 716–17. In particular, Sberbank’s summary of the claims understates
+
+Plaintiffs’ allegations regarding the DPR’s large-scale international crowdfunding
+
+effort. As Plaintiffs argue, the two transfers discussed in the second amended
+
+
+
+                                          30
+complaint are merely identified as non-exhaustive examples, and Plaintiffs have
+
+not had the benefit of meaningful discovery. Beyond those two transfers, Plaintiffs
+
+allege that multiple DPR fundraisers provided information for donors to donate
+
+U.S. dollars using Sberbank’s correspondent accounts at four banks in the United
+
+States, and, less than two weeks before the MH17 attack, a DPR-affiliated group
+
+publicly reported that it had raised “significant amounts” from donors in multiple
+
+countries, much of which it had used to provide cash support to, and purchase
+
+military equipment for, the DPR. Plaintiffs also allege, based on multiple press
+
+reports, that Sberbank had learned of this extensive fundraising effort by April
+
+2014 and failed to stop it. Although Plaintiffs’ particular injury—much like the
+
+physicians’ alleged human trafficking in Rodriguez—would not have occurred
+
+absent the act of a third party abroad, Sberbank’s wrongful conduct of providing
+
+material support to the DPR in the United States nonetheless is the gravamen of
+
+this suit. See 29 F.4th at 717. Accordingly, we hold that the commercial activity
+
+exception applies here to abrogate Sberbank’s sovereign immunity under the
+
+FSIA.
+
+
+
+
+                                        31
+          C. Presumptive Immunity under the ATA
+
+
+      Because we hold that Sberbank is not shielded by sovereign immunity
+
+under the FSIA, we now turn to its novel argument that the ATA provides it with
+
+immunity where the FSIA does not. Specifically, Sberbank argues that it is also
+
+immune under the ATA, and that a cause of action brought under the ATA is not
+
+subject to the FSIA’s commercial activity exception. We first address its argument
+
+that it is presumptively immune under the ATA. Then, we turn to its argument
+
+that the commercial activity exception does not apply in this ATA action.
+
+      In 1992, sixteen years after Congress enacted the FSIA, it passed the “core
+
+provisions” of the ATA. See Freeman v. HSBC Holdings PLC, 57 F.4th 66, 75 (2d Cir.
+
+2023), cert. denied, 144 S. Ct. 83 (2023) (citing Pub. L. No. 102-572, § 1003, 106 Stat.
+
+4521–24 (1992), codified at 18 U.S.C. §§ 2331–2338). These provisions include
+
+Section 2333(a) of the ATA (the “ATA Cause of Action”), which creates a civil
+
+remedy for those injured “by reason of an act of international terrorism,” and
+
+which provides the legal basis for Plaintiffs’ cause of action here. In addition, the
+
+ATA provides that no claim under Section 2333 may proceed against “a foreign
+
+state, an agency of a foreign state, or an officer or employee of a foreign state or an
+
+
+
+
+                                          32
+agency thereof.” 18 U.S.C. § 2337(2) (the “ATA Immunity Provision”). 9 Unlike the
+
+FSIA, the ATA provides no further explanation of what a “foreign state” includes.
+
+      Sberbank argues that the FSIA Definitional Provision should be applied to
+
+the ATA Immunity Provision’s reference to “a foreign state.” Sberbank suggests
+
+that “[a]lthough the ATA immunizes ‘foreign state[s],’ it does not separately
+
+define that term,” while, in contrast, the FSIA defines that term in “meticulous[]”
+
+detail. Appellant’s Br. at 21. Accordingly, Sberbank argues, we should treat the
+
+FSIA Definitional Provision as a guiding provision that the ATA Immunity
+
+Provision merely incorporates by reference. In other words, Sberbank would have
+
+us read the term “foreign state” in the ATA Immunity Provision as referring to the
+
+FSIA Definitional Provision, under which Sberbank, as an instrumentality of the
+
+Russian Federation, would be presumptively immune.
+
+      Plaintiffs, however, contend that the ATA Immunity Provision is narrower
+
+than the FSIA Definitional Provision and should therefore be given independent
+
+meaning. They point to the ATA’s text, which “immunizes a ‘foreign state’ and its
+
+‘agenc[ies],’” but does not mention instrumentalities. Appellees’ Br. at 34 (quoting
+
+§ 2337). In contrast, they note the FSIA Definitional Provision covers “an agency
+
+
+9
+  The ATA Immunity Provision is subject to an express exception at 28 U.S.C. § 1605B(c),
+discussed infra.
+                                          33
+or instrumentality of a foreign state.”    28 U.S.C. § 1603(a) (emphasis added).
+
+Plaintiffs suggest that if the term “foreign state” has the same meaning under the
+
+FSIA and the ATA, then the inclusion of “an agency of a foreign state” in the ATA
+
+Immunity Provision would be superfluous, because the term “foreign state” in the
+
+FSIA already incorporates agencies.        Additionally, Plaintiffs argue that the
+
+description of “foreign state” in the FSIA is limited to that statute because FSIA
+
+Section 1603(a) describes “foreign state” only “[f]or purposes of [Chapter 97].”
+
+Appellees’ Br. at 34 (quoting 28 U.S.C. § 1603). The ATA is not a part of Chapter 97;
+
+thus, according to Plaintiffs, the FSIA Definitional Provision does not apply to the
+
+ATA.
+
+       Sberbank argues that a later amendment to the FSIA and the ATA provides
+
+further support for its proposed construction. In 2016, Congress amended the
+
+FSIA and the ATA with the Justice Against Sponsors of Terrorism Act (“JASTA”).
+
+As relevant here, the JASTA amendments added (1) a new provision to the FSIA,
+
+codified at 28 U.S.C. § 1605B (the “FSIA JASTA Amendment”), and (2) a new
+
+provision to the ATA, codified at 18 U.S.C. § 2333(d)(2) (the “ATA JASTA
+
+Amendment”). See Pub. L. No. 114-222, 130 Stat. at 852–56; see also Freeman, 57
+
+F.4th at 75.   The FSIA JASTA Amendment expressly abrogated the blanket
+
+
+
+                                          34
+sovereign immunity of the ATA, providing that “[n]otwithstanding [the ATA
+
+Immunity Provision], a national of the United States may bring a claim against a
+
+foreign state in accordance with [the ATA Cause of Action] if the foreign state
+
+would not be immune under subsection (b).” 10 28 U.S.C. § 1605B; see also Pub. L.
+
+114-222, 130 Stat. 852 (2016).
+
+        Sberbank argues this use of the term “foreign state” demonstrates that the
+
+ATA, FSIA, and JASTA define the term identically to one another, and that its
+
+definition includes instrumentalities. Appellant’s Br. at 25 (“JASTA, moreover, . . .
+
+must use the same definition of ‘foreign state’ as the ATA, because the JASTA
+
+exception expressly refers to and partially repeals the immunity of a ‘foreign state’
+
+under the ATA, and the Supreme Court ‘does not lightly assume that Congress
+
+silently attaches different meanings to the same term in the same or related
+
+statutes.’” (quoting Azar v. Allina Health Servs., 587 U.S. 566, 574 (2019))). In
+
+response, Plaintiffs argue that the FSIA JASTA Amendment shows that if Congress
+
+had wanted to expressly incorporate the FSIA Definitional Provision, it would
+
+have.
+
+
+
+10
+   Subsection (b), in turn, specifically abrogated immunity for certain injuries “occurring
+in the United States and caused by . . . an act of international terrorism in the United
+States.” 28 U.S.C. § 1605B(b).
+
+                                            35
+      The narrow question of whether the ATA Immunity Provision for foreign
+
+states excludes instrumentalities that the FSIA Definitional Provision would
+
+otherwise cover is an issue of first impression in this Court.         However, the
+
+Supreme Court, in cases both before and after the enactment of the ATA, has
+
+explained clearly that the FSIA governs all sovereign immunity determinations in
+
+civil cases. In Argentine Republic v. Amerada Hess Shipping Corp., 488 U.S. 428 (1989),
+
+the Supreme Court considered a claim brought under the Alien Tort Statute
+
+(“ATS”) based on the alleged bombing of the plaintiffs’ oil tanker by Argentina
+
+during the Falkland Islands war, in violation of international law. Rejecting
+
+Argentina’s claim of sovereign immunity based on the FSIA, this Court held that
+
+the ATS provided “a jurisdictional grant based on international law” independent
+
+of the FSIA and that Congress did not intend for the FSIA to disturb “existing
+
+remedies in United States courts [under the ATS] for violations of international
+
+law.” Amerada Hess Shipping Corp. v. Argentine Republic, 830 F.2d 421, 425–26 (2d
+
+Cir. 1987).
+
+      The Supreme Court reversed.          Noting “the comprehensiveness of the
+
+statutory scheme in the FSIA,” it held that “the FSIA provides the sole basis for
+
+obtaining jurisdiction over a foreign state in federal court.” Argentine Republic, 488
+
+
+
+                                          36
+U.S. at 437, 439; see also Nelson, 507 U.S. at 355. First, it observed that the statutory
+
+structure—the FSIA created a new chapter 97 to Title 28, entitled “Jurisdictional
+
+Immunities of Foreign States”—indicates that the FSIA is the relevant statute with
+
+respect to foreign state immunity in civil cases. Argentine Republic, 488 U.S. at 434.
+
+Second, it pointed to Congress’s provisions in the text of the FSIA. It noted, inter
+
+alia, that the FSIA itself provides that “[c]laims of foreign states to immunity
+
+should henceforth be decided by courts of the United States in conformity with the
+
+principles set forth in this chapter.” Id. at 437 (emphasis added in Amerada Hess)
+
+(quoting 28 U.S.C. § 1602). It also cited the House and Senate Reports, which
+
+explained that the FSIA was “intended to preempt any other State and Federal law
+
+(excluding applicable international agreements) for according immunity to foreign
+
+sovereigns.” Id. at 438 (quoting H.R. Rep. No. 94–1487, at 12 (1976); S. Rep. No.
+
+94–1310, at 11 (1976)). In the Supreme Court’s view, Congress “very likely . . .
+
+thought that should be sufficient.” Id. at 437–38.
+
+      The Supreme Court’s analysis of the FSIA’s preemptive effect in Amerada
+
+Hess applies in this context as well. As the Amerada Hess Court observed, Section
+
+1604 provides broadly that “a foreign state shall be immune from the jurisdiction
+
+of the courts of the United States and of the States except as provided in sections
+
+
+
+                                           37
+1605 to 1607 of this chapter,” only “[s]ubject to existing international agreements
+
+to which the United States [was] a party at the time of the enactment of this Act.”
+
+Id. at 434 (quoting § 1604). Further, the FSIA specifically provides that “the district
+
+courts shall have original jurisdiction . . . of any nonjury civil action against a
+
+foreign state . . . as to any claim for relief in personam with respect to which the
+
+foreign state is not entitled to immunity under sections 1606–1607 of this title or
+
+under any applicable international agreement.” Id. (emphases added) (quoting
+
+§ 1330(a) (as amended by the FSIA)). In light of the express provisions and the
+
+“comprehensiveness of the [FSIA’s] statutory scheme,” id. at 437, we view the FSIA
+
+Definitional Provision as preempting any alternative grounds for determining
+
+sovereign immunity in a civil case brought under the ATA.
+
+      Although Amerada Hess predated the ATA, the Supreme Court reiterated its
+
+holding after the ATA was enacted, in Altmann, 541 U.S. at 691. The Court in
+
+Altmann addressed claims by the niece of a Jewish art collector, who fled Austria
+
+in 1938, alleging that the Republic of Austria and the state-owned Austrian Gallery
+
+had wrongfully taken possession of six paintings by Gustav Klimt during or after
+
+World War II. Id. at 680. Her claims arose under Austrian, international, and
+
+California law, and she asserted jurisdiction under the FSIA. Id. at 685–86. The
+
+
+
+                                          38
+Supreme Court explained that Congress enacted the FSIA in 1976 “to remedy the[]
+
+problems” of then-prevailing “governing standards [that] were neither clear nor
+
+uniformly applied.” Id. at 691 (internal quotation marks and citation omitted). The
+
+result was “the FSIA, a comprehensive statute containing a set of legal standards
+
+governing claims of immunity in every civil action against a foreign state or its
+
+political subdivisions, agencies, or instrumentalities.”    Id. (emphasis added)
+
+(internal quotation marks and citation omitted).      The Court emphasized the
+
+language of the FSIA’s preamble that it had previously quoted in Amerada Hess,
+
+stating that the FSIA should be applied “henceforth” to all claims of sovereign
+
+immunity in civil actions. Id.
+
+      Altmann, like Amerada Hess, unequivocally states that the FSIA
+
+comprehensively governs sovereign immunity in civil cases. We acknowledge
+
+that neither case involved the ATA, and Altmann was decided after its enactment.
+
+Indeed, the Supreme Court has recently cautioned that “general language in
+
+judicial opinions” should be read “as referring in context to circumstances similar
+
+to the circumstances then before the Court and not referring to quite different
+
+circumstances that the Court was not then considering.” Turkiye Halk Bankasi A.S.
+
+v. United States, 598 U.S. 264, 278 (2023) (internal quotation marks and citation
+
+
+
+                                        39
+omitted) (warning against applying the language in Amerada Hess to criminal
+
+cases). Here, however, we remain squarely in the realm of the “circumstances that
+
+the Court was . . . then considering”—i.e., jurisdiction over civil, as opposed to
+
+criminal, liability. Id.
+
+       Plaintiffs argue that this reading of the statutes renders the inclusion of
+
+“agency” in the ATA Immunity Provision superfluous. To be sure, a construction
+
+of a statute that renders language in it redundant is typically “a result . . . to be
+
+avoided.” Filler v. Hanvit Bank, 378 F.3d 213, 220 (2d Cir. 2004). This canon of
+
+construction, however, is a general presumption, not an “absolute rule.” Marx v.
+
+Gen. Revenue Corp., 568 U.S. 371, 385 (2013). The presumption against surplusage
+
+“assists only where a competing interpretation gives effect to every clause and
+
+word of a statute.” Microsoft Corp. v. I4I Ltd. P’ship, 564 U.S. 91, 106 (2011) (internal
+
+quotation marks and citation omitted).
+
+       Plaintiffs’ competing interpretation, however, would have us disregard the
+
+FSIA’s extensive language describing its general applicability.          See 28 U.S.C.
+
+§§ 1330(a), 1604. It also would require us to read the word “foreign state” in
+
+Section 1605B of the FSIA JASTA Amendment—a section that expressly refers to
+
+the ATA Immunity Provision—to mean less in Section 1605B than it does in
+
+
+
+                                           40
+Section 1603. Cf. Azar, 587 U.S. at 574. Considering the Supreme Court’s guidance
+
+and our understanding of the text and structure of the statutory scheme, Plaintiffs’
+
+reliance on the general presumption against surplusage is insufficient to bear the
+
+weight of their argument.
+
+       The text, structure, purpose, and history of the FSIA lead us to the same
+
+conclusion. Accordingly, we hold that a “foreign state” for purposes of the ATA
+
+Immunity Provision, 18 U.S.C. § 2337(2), is any “foreign state” under the FSIA
+
+Definitional Provision, 28 U.S.C. § 1603, which “includes . . . an agency or
+
+instrumentality of a foreign state.” 11 Applying that holding, we afford Sberbank,
+
+an instrumentality of the Russian Federation due to its majority ownership by the
+
+Russian Ministry of Finance, presumptive immunity from suit even where, as
+
+here, that suit is brought under the ATA.
+
+
+
+
+11 Only one of our sister circuits has addressed this precise issue regarding the interaction
+of the FSIA and ATA provisions and it reached the same conclusion that we do today.
+The First Circuit, in Ungar, 402 F.3d at 282, addressed a suit on behalf of victims of a
+terrorist attack in Israel by members of Hamas. Id. at 275. In addressing the question of
+whether the identical term “foreign state” should be read differently between the two
+statutes, the First Circuit turned to general principles of interpretation, the specific text
+and history of the FSIA and ATA, and the Supreme Court’s guidance in Amerada Hess
+and Altmann. The First Circuit concluded that “an assertion of sovereign immunity under
+the ATA [is] functionally equivalent to an assertion of sovereign immunity under the
+FSIA.” Id. at 283 (citations to statutes omitted).
+
+
+                                             41
+         D. Application of the FSIA’s Commercial Activity Exception to this
+            ATA Action
+
+
+      Our in pari materia reading of these provisions is a pyrrhic victory for
+
+Sberbank. While Sberbank asks us to rely on the FSIA’s status as “the sole basis
+
+for obtaining [civil] jurisdiction over a foreign state” to determine whether
+
+Sberbank is presumptively immune, Appellant’s Br. at 20 (internal quotation
+
+marks and citation omitted), it would have us set aside the FSIA’s detailed
+
+statutory immunity scheme when it comes to applying its exception for
+
+commercial activity. We decline to follow Sberbank down this narrow path.
+
+      Sberbank makes several arguments contending that the ATA Immunity
+
+Provision incorporates the FSIA’s definition of “foreign state” but not its
+
+commercial activity exception. First, Sberbank argues that Congress has never
+
+amended the commercial activity exception under the FSIA to reference the ATA,
+
+nor has it included language in the ATA referencing the commercial activity
+
+exception.   This argument is unpersuasive for the simple reason that a
+
+“comprehensive[] . . . statutory scheme” such as the FSIA applies by definition to
+
+circumstances within its ambit, regardless of whether it specifically refers to the
+
+causes of action that might implicate it. Amerada Hess, 488 U.S. at 437. Although
+
+the ATA does not reference the FSIA’s commercial activity exception, that is
+
+                                        42
+because it does not need to. The “declaration of purpose” Congress enacted in the
+
+FSIA’s preamble was for future “[c]laims of foreign states to immunity [to]
+
+henceforth be decided by courts of the United States and of the States in
+
+conformity with the principles set forth in this chapter.” 28 U.S.C. § 1602; accord
+
+H.R. Rep. No. 94–1487, at 12 (1976); S. Rep. No. 94–1310, at 11 (1976). Central to
+
+this new statutory scheme was the codification of the restrictive theory of
+
+sovereign immunity, that is, the doctrine that “states are not immune from the
+
+jurisdiction of foreign courts insofar as their commercial activities are concerned.”
+
+§ 1602; see also Samantar, 560 U.S. at 313. Making its broad applicability crystal
+
+clear, the FSIA expressly states that no foreign state is immune “in any case” where
+
+the commercial activity exception applies. § 1605(a). To ensure that courts applied
+
+the restrictive theory to all civil claims, regardless of the cause of action, Congress
+
+“very likely . . . thought that should be sufficient.” Amerada Hess, 488 U.S. at
+
+437-38.
+
+      Second, Sberbank argues that the FSIA is a general statute governing claims
+
+against foreign sovereigns, while the ATA is a specific statute governing claims
+
+against foreign sovereigns for acts of international terrorism.          Thus, under
+
+traditional canons of statutory construction, the ATA’s latter-enacted and more
+
+
+
+                                          43
+specific sovereign immunity provision displaces the FSIA’s general exception to
+
+sovereign immunity. Here, however, on the issue of sovereign immunity, we are
+
+faced with a “comprehensive statute containing a set of legal standards governing
+
+claims of immunity in every civil action against a foreign state or its political
+
+subdivisions, agencies, or instrumentalities.” Altmann, 541 U.S. at 691 (internal
+
+quotation marks and citation omitted); see also Amerada Hess, 488 U.S. at 439 (“The
+
+FSIA provides the sole basis for obtaining jurisdiction over a foreign state in federal
+
+court.” (emphasis added)). We will not set aside that statute’s detailed framework
+
+and careful balancing of the equities in claims of sovereign immunity based on the
+
+argument that the ATA silently repealed that framework, for the same reasons that
+
+we decline to find that an instrumentality presumptively immune under the FSIA
+
+loses its presumptive immunity when the action is brought under the ATA.
+
+      Third, Sberbank relies on the ATA JASTA Amendment, 18 U.S.C.
+
+§ 2333(d)(2). This amendment provides liability in certain circumstances “for an
+
+injury arising from an act of international terrorism committed, planned, or
+
+authorized by an organization that had been designated as a foreign terrorist
+
+organization.” Id. Sberbank argues that this inclusion by Congress of an express
+
+exception in the ATA, in contrast to the ATA’s silence regarding the FSIA’s
+
+
+
+                                          44
+commercial activity exception, indicates its intent to afford ATA defendants
+
+sovereign immunity even for their commercial activity. As Plaintiffs note, though,
+
+there is no evidence that in enacting JASTA to expand the rights of terrorism
+
+victims, Congress intended to restrict ATA actions. However, this illogical result
+
+would follow from holding that the ATA JASTA Amendment evinces Congress’s
+
+intent to create one, and only one, exception to ATA sovereign immunity. In short,
+
+Sberbank’s statutory interpretation would run afoul of Congress’s stated intent in
+
+enacting JASTA, which was “to provide civil litigants with the broadest possible
+
+basis, consistent with the Constitution of the United States, to seek relief against
+
+persons [and] entities . . . that have provided material support . . . to foreign
+
+organizations or persons that engage in terrorist activities against the United
+
+States.” Kaplan v. Lebanese Canadian Bank, SAL, 999 F.3d 842, 855 (2d Cir. 2021)
+
+(emphases in Kaplan) (quoting JASTA, Pub. L. No. 114-222, § 2(b), 130 Stat. at 853
+
+(“Purpose”)); see also Doe v. Bin Laden, 663 F.3d 64, 68–69 (2d Cir. 2011) (rejecting
+
+“Afghanistan’s proposed narrow reading” of the noncommercial tort exception,
+
+28 U.S.C. § 1605(a)(5), which Afghanistan argued followed from the state-
+
+sponsored-terrorism exception in Section 1605A, because, if the narrow reading
+
+were correct, “the enactment of the terrorism exception would therefore have
+
+
+
+                                         45
+constituted a repudiation of the then-prevailing interpretation of the
+
+noncommercial          tort   exception,”   which    “runs    against     all   canons    of
+
+interpretation”). 12
+
+       In its briefs and at argument, Sberbank further emphasizes the “potential
+
+foreign policy friction that may” ensue from reading the ATA together with the
+
+FSIA’s commercial activity exception. Appellant’s Br. at 45. Specifically, it points
+
+to the fact that JASTA was enacted over the President’s veto. However, that
+
+concern provides additional support for not construing JASTA in a manner, as
+
+urged by Sberbank, that would stray from Congress’s carefully crafted legislative
+
+
+
+
+12
+   In an attempt to distinguish Doe, Sberbank contends that its “position is not that JASTA
+impliedly repealed the commercial activity exception,” but instead “that the commercial
+activity exception never applied under the ATA in the first place.” Reply Br. at 20 (emphasis
+in original). To be sure, before the ATA JASTA Amendment, no court had held that the
+FSIA’s commercial activity exception applied to a case brought under the ATA.
+However, in this case, that is a distinction without a difference. The crux of Sberbank’s
+argument is the ATA JASTA Amendment. Absent that amendment, there would be little
+reason to construe the ATA as rejecting the commercial activity exception. Without the
+amendment, therefore, and interpreting the statutes congruently, as Sberbank’s reading
+requires, the commercial activity exception would apply with equal force to an action
+brought under the ATA. If the ATA JASTA Amendment is the first indication Congress
+gave of its intent not to extend the commercial activity exception to ATA cases, that
+argument “would not so much be a reading of the statute as it would be a decision that
+the [ATA JASTA Amendment] amounts to a partial repeal by implication of the
+[commercial activity] exception” in the ATA context. Doe, 663 F.3d at 68. In any event,
+we decline to find that the ATA JASTA Amendment constituted an implicit repeal, or
+rejection, of the application of this exception to foreign sovereign immunity under the
+ATA.
+                                             46
+compromises. On the issue before us, Congress has spoken clearly through the
+
+FSIA’s “comprehensive set of legal standards,” which “govern[] claims of
+
+immunity in every civil action against a foreign state or its . . . instrumentalities.”
+
+Verlinden, 461 U.S. at 488; see also Amerada Hess, 488 U.S. at 437. Congress balanced
+
+the relevant policy concerns in the FSIA with awareness of “the potential
+
+sensitivity of actions against foreign states,” and emphasized “the importance of
+
+developing a uniform body of law in this area.” Verlinden, 461 U.S. at 489 (quoting
+
+H.R. Rep. No. 94-1487, at 32).      Of those carefully calibrated legal standards
+
+Congress adopted in the FSIA, the most notable—the one it specifically selected to
+
+explain in the preamble to the statute—is the commercial activity exception. 28
+
+U.S.C. § 1602. We decline to disturb that comprehensive framework absent any
+
+specific indication in the text of the FSIA or the ATA that it does not apply in these
+
+circumstances.
+
+      Accordingly, we conclude that the FSIA’s commercial activity exception
+
+applies to sovereign immunity under the ATA and, for the reasons outlined supra
+
+with respect to the FSIA, the alleged conduct by Sberbank that forms the basis of
+
+the claims in this suit falls within that exception and similarly abrogates
+
+Sberbank’s presumptive sovereign immunity under the ATA.
+
+
+
+                                          47
+                           III.   CONCLUSION
+
+     In sum, we hold:
+
+  1. Sberbank is presumptively immune under the FSIA.
+
+  2. The FSIA’s commercial activity exception applies to Sberbank’s conduct
+
+     because the alleged claims are based upon quintessentially commercial
+
+     activity—facilitating money transfers—that Sberbank carried on in the
+
+     United States, and thus abrogates Sberbank’s sovereign immunity under the
+
+     FSIA.
+
+  3. As a matter of first impression, the ATA’s immunity provisions apply not
+
+     only to agencies, but also to “instrumentalities” of foreign states.
+
+  4. As a matter of first impression, the commercial activity exception of the
+
+     FSIA applies equally to an action brought under the ATA, and thus similarly
+
+     abrogates Sberbank’s sovereign immunity under the ATA.
+
+
+     For the foregoing reasons, we AFFIRM the order of the district court and
+
+REMAND for further proceedings consistent with this opinion.
+
+
+
+
+                                        48
+22-3097
+Schansman v. Sberbank
+
+WALKER, Circuit Judge, concurring in part and concurring in the judgment:
+
+       I concur in much of the opinion but write separately to register my
+disagreement as to Part II.C, holding that Sberbank of Russia PJSC (“Sberbank”)
+enjoys presumptive immunity under the Anti-Terrorism Act (“ATA”), 18 U.S.C.
+§ 2331 et seq. Though it does not affect the outcome of this appeal, I would instead
+hold that the ATA immunizes only foreign states and their agencies, not
+instrumentalities like Sberbank. The plain text of the ATA’s immunity provision
+makes clear that it was intended to cover a set of entities distinct from those
+embraced by the Foreign Sovereign Immunities Act (“FSIA”), 28 U.S.C. § 1602 et
+seq. By declining to give effect to these differences, we risk writing into the ATA a
+new immunity that Congress did not intend and undermining others that it did.
+
+       The FSIA immunizes any “foreign state,” which it defines as including a
+“political subdivision of a foreign state or an agency or instrumentality” thereof.
+28 U.S.C. § 1603(a). An “agency or instrumentality” is in turn defined, “for the
+purposes of [chapter 97],” as “any . . . separate legal person, corporate or
+otherwise,” that “is an organ of a foreign state or political subdivision thereof, or
+a majority of whose shares or other ownership interest is owned by a foreign state
+or political subdivision thereof.” 28 U.S.C. § 1603(b). By contrast, the ATA
+immunizes a narrower set of foreign entities: only a “foreign state” and “an
+agency” thereof, “or an officer or employee of a foreign state or an agency thereof”
+acting in their official capacity. 18 U.S.C. § 2337(2).
+
+       The ATA does not itself define “foreign state” or “agency of a foreign state.”
+However, “agency” is defined elsewhere in Title 18—which houses the ATA, but
+not the FSIA—to include “any corporation in which the United States has a
+proprietary interest.” 18 U.S.C. § 6. By analogy, an “agency of a foreign state”
+must include any corporation in which a foreign state has a proprietary interest.
+Sberbank is majority owned by the Russian Ministry of Finance, which is itself an
+agency of Russia. Thus, Sberbank cannot constitute a “corporation in which a
+foreign state has a proprietary interest” but rather one in which an agency of a
+                                           1
+foreign state has a proprietary interest. 18 U.S.C. § 6. Sberbank therefore is not an
+“agency of a foreign state” under the ATA but an instrumentality to which the
+ATA does not attach immunity. 18 U.S.C. § 2337(2).
+
+       If Congress had intended “foreign state” as used in the ATA to incorporate
+the definitional language found in the FSIA, a law enacted sixteen years earlier
+and located in a different title of the United States Code, it would have done so
+explicitly. Contrary to the majority’s conclusion, grafting the FSIA’s definitional
+language onto the ATA does in fact come with consequences. Cf. Marx v. Gen.
+Revenue Corp., 568 U.S. 371, 385 (2013) (the presumption against surplusage
+“assists only where a competing interpretation gives effect to every clause and
+word of a statute” (cleaned up)). It would render superfluous the words “an
+agency of a foreign state.” 18 U.S.C. § 2337(2). More significantly, it could also
+undermine the ATA’s immunity coverage of individual officers and employees of
+foreign entities. 18 U.S.C. § 2337(2) (extending immunity to “a foreign state, an
+agency of a foreign state, or an officer or employee of a foreign state or an agency thereof”
+(emphasis added)). The Supreme Court has made clear that, unlike the ATA, the
+FSIA does not immunize individual foreign officials. Samantar v. Yousuf, 560 U.S.
+305, 319 (2010) (“Reading the FSIA as a whole, there is nothing to suggest we
+should read ‘foreign state’ in § 1603(a) to include an official acting on behalf of the
+foreign state, and much to indicate that this meaning was not what Congress
+enacted.”).    The majority’s holding, which substitutes the FSIA’s language
+pertaining to immunity reach, could thus have the effect both of extending and
+reducing the immunity conferred by the ATA. It would grant ATA immunity to
+instrumentalities and deny it to individual officials of foreign states.
+
+       Giving full effect to the textual idiosyncrasies of the ATA could also ease an
+administrability problem acknowledged by the majority, which this court
+wrestled with in Bartlett v. Baasiri, 81 F.4th 28 (2d Cir. 2023). Bartlett held that for
+the purposes of FSIA immunity, a defendant’s status as an instrumentality of a
+foreign state is measured at the time of a court’s decision, not the time of filing. Id.
+
+                                             2
+at 30.     Thus, FSIA immunity “may attach when a defendant becomes an
+instrumentality of a foreign sovereign after a suit is filed.” Id. In Bartlett, we
+acknowledged that this rule could lead to “gamesmanship”: allowing foreign
+entities to manufacture immunity by manipulating ownership after a suit is filed.
+Id. at 36. Giving effect to the textual differences between the ATA and FSIA could
+lessen this perverse incentive. A foreign defendant, like Sberbank here, that is
+privately owned when a suit is filed but is subsequently acquired by a foreign
+agency would be entitled to immunity under the FSIA, but not the ATA. And it is
+more difficult for a nation to transform an entity into an agency than an
+instrumentality in response to litigation. The former involves an entity’s direct
+absorption into a national government; the latter requires only the turning over of
+a majority of shares to a pre-existing agency. Excluding instrumentalities from the
+ambit of ATA immunity could therefore limit the opportunities for this evasive
+maneuver.
+
+         Finally, I cannot agree with the majority that this question is within the
+realm of circumstances contemplated by the Supreme Court in Argentine
+Republic v. Amerada Hess Shipping Corp., 488 U.S. 428 (1989), or Republic of Austria v.
+Altmann, 541 U.S. 677 (2004). Op. at 40; see Turkiye Halk Bankasi A.S. v. United States,
+598 U.S. 264, 278 (2023) (“general language in judicial opinions” should be read
+“as referring in context to circumstances similar to the circumstances then before
+the Court”). First, as the majority points out, neither case concerned the ATA.
+Although Altmann was decided after the ATA was enacted, the great majority of
+its language reaffirming the FSIA’s general applicability comes in the form of
+direct quotes from Amerada Hess, decided before the ATA’s time. Altmann, 541
+U.S. at 691, 699 (quoting Amerada Hess, 488 U.S. 434-35, 488). Nothing in Altmann
+indicates that the ATA was even on the Court’s radar. Applying general language
+from those decisions in the ATA context, apart from being countertextual, could
+lead to the unintended consequences described above.
+
+
+
+
+                                           3
+      Second, the ATA’s idiosyncrasies suggest that it should be treated like the
+criminal statute in Turkiye Halk instead of a run-of-the-mill civil claim over which
+the FSIA exclusively governs. In Turkiye Halk, the Supreme Court made clear that
+“Amarada Hess’s rationale does not translate to the criminal context,” because its
+holding as to the FSIA’s “‘comprehensiveness’” was limited to civil matters. 598
+U.S. at 278 (quoting Amerada Hess, 488 U.S. at 437)). The FSIA “says nothing about
+criminal matters—a distinct legal regime housed in an entirely separate title of the
+U.S. Code.” Id. Here, the ATA resembles a similarly distinct regime. Although
+Plaintiff’s ATA claim provides only for civil liability, § 2333 and the ATA in
+general are intimately bound up with criminal law. The ATA is housed in Title 18
+of the U.S. Code, covering federal crimes and criminal procedure. It amended
+Title 18’s section setting forth criminal penalties for acts of terrorism. And civil
+ATA claims like Plaintiff’s are predicated on criminal conduct. See Antiterrorism
+Act of 1990, Pub. L. 101-519, § 132, 104 Stat. 2240, 2250 (1990) (amending 18 U.S.C.
+§ 2332, “Criminal Penalties,” which defines “international terrorism” as “activities
+that . . . are a violation of the criminal laws of the United States . . . or that would
+be a criminal violation if committed within the jurisdiction of the United States”);
+Terrorism Civil Remedy, Pub. L. 102-572, Title X, § 1003(a)(4), 106 Stat. 4506, 4522
+(1992) (creating a civil claim under 18 U.S.C. § 2333 for an injury arising from “an
+act of international terrorism”).     I therefore disagree that the FSIA’s general
+applicability to civil claims overrides these specific textual differences in the ATA’s
+immunity provision.
+
+
+
+
+                                           4

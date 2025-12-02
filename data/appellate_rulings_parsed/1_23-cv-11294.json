@@ -1,0 +1,57 @@
+{
+  "overall_outcome": "MIXED",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court erred in dismissing the plaintiffs' Fourteenth Amendment \u00a7 1983 claims against the BPD and DCF defendants and the City under the state-created danger doctrine.",
+      "standard_of_review": "de novo",
+      "holding": "REMAND",
+      "key_reasoning": "The court found that the plaintiffs plausibly alleged that certain affirmative acts by BPD and DCF defendants enhanced the danger to them, satisfying the first prong of the state-created danger test, and remanded for further proceedings on the remaining prongs."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the district court erred in dismissing the Fourteenth Amendment \u00a7 1983 claims against the City of Boston for lack of an underlying constitutional violation by a city employee (Monell liability).",
+      "standard_of_review": "de novo",
+      "holding": "REMAND",
+      "key_reasoning": "Because the court vacated the dismissal of the state-created danger claims against city employees, it also vacated the dismissal of the Monell claim and remanded for further proceedings."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the district court erred in dismissing the \u00a7 1985(3) conspiracy claims for failure to allege class-based animus or membership in a protected class.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court affirmed dismissal because plaintiffs failed to allege they were members of a cognizable class or that defendants acted with class-based animus, as required under \u00a7 1985(3)."
+    },
+    {
+      "issue_id": 4,
+      "description": "Whether the district court erred in sua sponte dismissing claims against the DCF defendants without notice or opportunity to respond.",
+      "standard_of_review": "de novo",
+      "holding": "REMAND",
+      "key_reasoning": "The court held that sua sponte dismissal without notice or opportunity to respond was erroneous and vacated the dismissal of the Fourteenth Amendment claims against the DCF defendants."
+    },
+    {
+      "issue_id": 5,
+      "description": "Whether the district court erred in dismissing the Fourteenth Amendment \u00a7 1983 claims based on Commissioner Evans's reinstatement of Rose to full duty.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court agreed with the district court that plaintiffs did not plausibly allege that the reinstatement caused any additional harm, failing the causation prong of the state-created danger test."
+    }
+  ],
+  "key_precedents": [
+    "DeShaney v. Winnebago Cnty. Dep't of Soc. Servs., 489 U.S. 189 (1989)",
+    "Irish v. Fowler, 979 F.3d 65 (1st Cir. 2020)",
+    "Monell v. Department of Social Services of the City of New York, 436 U.S. 658 (1978)",
+    "Rivera v. Rhode Island, 402 F.3d 27 (1st Cir. 2005)",
+    "P\u00e9rez-S\u00e1nchez v. Pub. Bldg. Auth., 531 F.3d 104 (1st Cir. 2008)",
+    "Griffin v. Breckenridge, 403 U.S. 88 (1971)",
+    "United Bhd. of Carpenters v. Scott, 463 U.S. 825 (1983)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "The district court dismissed the amended complaint in full. See Doe v. City of Bos., No. CV 23-11294, 2024 WL 1346018, at *2 (D. Mass. Mar. 29, 2024). As relevant to this appeal, it dismissed the \u00a7 1983 claims against the BPD and DCF defendants after rejecting the argument that these defendants violated the Does' substantive due process rights by affirmatively enhancing the danger they faced from Rose. See id. at *12-16. The court then dismissed the \u00a7 1983 claims against the City based on its conclusion that the Does had not alleged any underlying constitutional violation by any city employee, and thus they could not meet the test for municipal liability under Monell v. Department of Social Services of the City of New York, 436 U.S. 658, 694 (1978). See Doe, 2024 WL 1346018, at *16.\n\nAs for the \u00a7 1985 claims, the district court concluded that the Does did not sufficiently plead that the defendants were motivated by class-based animus to conspire and deprive John and Jane Doe of their civil rights. See id. at *16-17. Lastly, because the court dismissed all the federal claims, it declined to exercise supplemental jurisdiction over the remaining state-law claims. See id. at *17.\n\nThe Does timely appealed."
+}

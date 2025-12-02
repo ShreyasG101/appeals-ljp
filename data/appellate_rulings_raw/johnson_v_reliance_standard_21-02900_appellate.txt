@@ -1,0 +1,1187 @@
+USCA11 Case: 23-13443     Document: 36-1       Date Filed: 11/21/2025      Page: 1 of 36
+
+
+
+
+                                FOR PUBLICATION
+
+
+                                      In the
+                 United States Court of Appeals
+                          For the Eleventh Circuit
+                            ____________________
+                                    No. 23-13443
+                            ____________________
+
+        CHERIESE D. JOHNSON,
+                                                            Plaintiﬀ-Appellant,
+        versus
+
+        RELIANCE STANDARD LIFE INSURANCE COMPANY,
+                                          Defendant-Appellee,
+        THE WILLIAM CARTER COMPANY GROUP
+        LONG TERM DISABILITY INSURANCE PLAN,
+                                                                    Defendant.
+                            ____________________
+                     Appeal from the United States District Court
+                        for the Northern District of Georgia
+                        D.C. Docket No. 1:21-cv-02900-SDG
+                            ____________________
+
+        Before WILLIAM PRYOR, Chief Judge, and GRANT and KIDD, Circuit
+        Judges.
+        GRANT, Circuit Judge:
+USCA11 Case: 23-13443     Document: 36-1     Date Filed: 11/21/2025    Page: 2 of 36
+
+
+
+
+        2                     Opinion of the Court                23-13443
+
+               Cheriese Johnson was not feeling well. So she went to the
+        doctor—many times—complaining of a wide variety of
+        symptoms. At these appointments, doctors diagnosed her with
+        nearly a dozen ailments: ﬁbromyalgia, borderline lupus
+        erythematosus, and epistaxis, just to name a few. What they did
+        not diagnose was the disease she actually had—scleroderma, a rare
+        autoimmune condition that causes hardening and thickening of
+        the skin and other tissues. No one had suspected this diagnosis
+        before it happened. And no one argues that the failure of diagnosis
+        resulted from malpractice, bad faith, or evasion.
+               But when Johnson ﬁled a scleroderma-based disability claim
+        once she could no longer work, her insurance company denied it.
+        The problem, as the insurer saw it, was that many of Johnson’s
+        medical appointments took place during the three-month window
+        before her policy went into eﬀect. Under Johnson’s policy,
+        disability beneﬁts are not owed if they stem from “preexisting
+        conditions” treated during that three-month lookback period.
+               This case hinges on the exact terms of that policy, which
+        deﬁned a preexisting condition as “any Sickness or Injury for which
+        the Insured received medical Treatment, consultation, care or
+        services, including diagnostic procedures, or took prescribed drugs
+        or medicines.” See Reliance Standard Life Insurance Company
+        Policy No. LTD 106119 (emphasis added). The italicized phrase is
+        key—“for which.” Johnson says she could not have received
+        medical treatment for scleroderma during the lookback period
+        because no one even suspected she had that condition until much
+USCA11 Case: 23-13443     Document: 36-1     Date Filed: 11/21/2025   Page: 3 of 36
+
+
+
+
+        23-13443              Opinion of the Court                      3
+
+        later. The insurance company takes a far broader view of the
+        policy, and says no beneﬁts are due if Johnson was treated for any
+        symptoms during the lookback period that were not inconsistent
+        with scleroderma—even if no one thought she had that condition
+        or intended to treat it.
+               We agree with Johnson—the insurance company’s
+        interpretation is wrong. The closer question is whether its
+        interpretation is also unreasonable, a heightened requirement of
+        this Circuit’s ERISA precedents. To be sure, the policy is likely
+        susceptible to a multitude of reasonable readings. But we cannot
+        conclude that the insurance company’s, which would deny
+        coverage for a brain tumor if the doctor encouraged a patient with
+        headaches to drink more water, is one of them. We reverse and
+        remand.
+                                        I.
+               Cheriese Johnson began experiencing coughing and pain in
+        her hands and feet in December 2015. Seven months later, in July
+        2016, she was hired to work in human resources at The William
+        Carter Company, “the most trusted name in baby, kids, and toddler
+        clothing.” When she started the job, she bought a long-term
+        disability insurance policy from Reliance Standard. The policy
+        took eﬀect on October 12, 2016.
+              By January 26, 2017—about four months after the policy
+        kicked in—Johnson could no longer work. In insurance-speak, she
+        was “totally disabled.” But because that happened within one year
+        of the date that she became insured, Johnson was subject to the
+USCA11 Case: 23-13443      Document: 36-1     Date Filed: 11/21/2025   Page: 4 of 36
+
+
+
+
+        4                      Opinion of the Court               23-13443
+
+        policy’s “Pre-existing Conditions Limitation,” which allowed
+        Reliance Standard to deny beneﬁts if her disability was “(1) caused
+        by; (2) contributed to by; or (3) resulting from; a Pre-existing
+        Condition.” The policy went on to deﬁne “Pre-Existing Condition”
+        as “any Sickness or Injury for which the Insured received medical
+        Treatment, consultation, care or services, including diagnostic
+        procedures, or took prescribed drugs or medicines,” during the
+        lookback period of the “three (3) months immediately prior to the
+        Insured’s eﬀective date of insurance.” All agree that the relevant
+        “Sickness” here is scleroderma, and that the lookback period ran
+        from July 12, 2016, through October 12, 2016.
+                Johnson did receive quite a bit of medical care during that
+        time:
+            • On August 15, she was “seen in follow-up with assessments
+              of fatigue, muscle weakness, nausea, and vomiting.” The
+              nurse practitioner continued her prescriptions for
+              Cyclobenzaprine and Zofran.
+            • On August 23, she underwent an “upper gastrointestinal
+              endoscopy,” which revealed “gastritis and a hiatus hernia.”
+            • On September 6, she was treated for “vomiting, nose bleeds,
+              memory loss, body aches, and joint swelling.” She was
+              diagnosed     with    Helicobacter       pylori,   epistaxis,
+              gastroesophageal reﬂux disease, edema, and hypertension,
+              and she was given several prescriptions, none of which were
+              for scleroderma.
+USCA11 Case: 23-13443     Document: 36-1    Date Filed: 11/21/2025   Page: 5 of 36
+
+
+
+
+        23-13443              Opinion of the Court                     5
+
+           • On September 13, she sought treatment for a “post-syncopal
+             episode and low blood sugar.” She was diagnosed with
+             bronchitis, fatigue, gastroesophageal reﬂux disease, and
+             sleep apnea.
+           • On September 30, she was treated for “numbness, coldness,
+             and pain involving all four extremities, nausea, vomiting,
+             forgetfulness, cognitive impairment, fatigue, inability to
+             control bowels, blurred vision, fever, dropping things
+             frequently, headaches, decreased appetite, syncope,
+             dizziness, generalized aching, swelling of feet and hands,
+             and loss of motor skills.”
+               All told, Johnson presented over a dozen symptoms when
+        she visited her many doctors. Most were garden-variety ailments:
+           •   nausea
+           •   vomiting
+           •   cough
+           •   fatigue
+           •   swelling of feet and hands
+           •   muscle weakness
+           •   cognitive impairment
+           •   Raynaud-type symptoms
+           •   chronic pain
+           •   gastroesophageal reﬂux disease
+           •   hypertension
+           •   decreased appetite
+USCA11 Case: 23-13443       Document: 36-1    Date Filed: 11/21/2025     Page: 6 of 36
+
+
+
+
+        6                       Opinion of the Court               23-13443
+
+            •   syncope
+            •   dizziness
+            •   generalized aching
+            •   a loss of motor skills.
+               These symptoms led to no fewer than ten diagnoses, none
+        of which were scleroderma: (1) ﬁbromyalgia; (2) borderline lupus
+        erythematosus; (3) probable somatoform disorder; (4) helicobacter
+        pylori; (5) epistaxis; (6) gastroesophageal reﬂux disease; (7) edema;
+        (8) hypertension; (9) sleep apnea; and (10) bronchitis.
+               In February 2017—four months after the lookback period
+        ended—Johnson underwent a lung biopsy to further investigate
+        her symptoms. The biopsy led to a diagnosis of scleroderma, a
+        “rare, chronic autoimmune disease in which normal tissue is
+        replaced with dense, thick ﬁbrous tissue.” Symptoms typically
+        include “joint pain and stiﬀness, persistent cough, shortness of
+        breath, digestive and gastrointestinal problems, and fatigue.”
+        Neither Johnson nor any of her many doctors—a neurologist,
+        pulmonologist, thoracic surgeon, and rheumatologist—ever
+        suspected that she had scleroderma before the lung surgery.
+               Eight months later, Johnson ﬁled a claim with Reliance
+        Standard for long-term disability beneﬁts stemming from her
+        scleroderma symptoms. Denied. Johnson appealed that decision,
+        arguing that because no one suspected that she had the disease
+        until after the lookback period ended, it could not qualify as a
+        preexisting condition. Though scleroderma is usually treated by
+        rheumatologists because it is fundamentally an inﬂammatory
+USCA11 Case: 23-13443      Document: 36-1       Date Filed: 11/21/2025     Page: 7 of 36
+
+
+
+
+        23-13443               Opinion of the Court                          7
+
+        condition, Reliance Standard retained an endocrinologist—a
+        doctor specializing in hormones—to review Johnson’s ﬁle. The
+        endocrinologist concluded that the “symptoms/ﬁndings do
+        support a reported diagnosis of scleroderma.” So Reliance
+        Standard upheld the denial of Johnson’s claim “on the basis that the
+        claimed disability [was] caused by, contributed to by, or the result
+        of a pre-existing condition”—namely, scleroderma.
+               Johnson sued Reliance Standard under the Employee
+        Retirement Income Security Act of 1974 (ERISA), arguing that her
+        long-term disability plan entitled her to beneﬁts. She also ﬁled a
+        motion with the district court requesting judgment on the
+        administrative record, while Reliance Standard moved for
+        summary judgment. The district court denied her motion and
+        granted summary judgment to Reliance Standard. Johnson now
+        appeals.
+                                          II.
+               We review a district court’s ruling aﬃrming or reversing a
+        plan administrator’s ERISA beneﬁts decision de novo, “applying the
+        same legal standards that governed the district court’s decision.”
+        Goldfarb v. Reliance Standard Life Ins. Co., 106 F.4th 1100, 1105 (11th
+        Cir. 2024) (quotation omitted).
+                                         III.
+               ERISA “permits a person denied benefits under an employee
+        benefit plan to challenge that denial in federal court.” Metro. Life
+        Ins. Co. v. Glenn, 554 U.S. 105, 108 (2008). The statute was enacted
+        to “promote the interests of employees and their beneficiaries in
+USCA11 Case: 23-13443     Document: 36-1      Date Filed: 11/21/2025    Page: 8 of 36
+
+
+
+
+        8                     Opinion of the Court                23-13443
+
+        employee benefit plans, and to protect contractually defined
+        benefits.” Firestone Tire & Rubber Co. v. Bruch, 489 U.S. 101, 113
+        (1989) (quotations and citation omitted). To implement those
+        goals, “federal courts have developed a body of federal common
+        law to govern the review, interpretation, and enforcement of
+        ERISA beneﬁts plans.” Goldfarb, 106 F.4th at 1105. That includes
+        distinct burdens of proof. For example, when “the insurer claims
+        that a speciﬁc policy exclusion applies to deny the insured
+        beneﬁts”—the situation we have here—the burden falls on the
+        insurer, who “generally must prove the exclusion prevents
+        coverage.” Horton v. Reliance Standard Life Ins. Co., 141 F.3d 1038,
+        1040 (11th Cir. 1998). And this Circuit adds a six-step sequence
+        governing review of a plan administrator’s beneﬁts decision:
+              (1) Apply the de novo standard to determine whether
+              the claim administrator’s beneﬁts-denial decision is
+              “wrong” (i.e., the court disagrees with the
+              administrator’s decision); if it is not, then end the
+              inquiry and aﬃrm the decision.
+              (2) If the administrator’s decision in fact is “de novo
+              wrong,” then determine whether he was vested with
+              discretion in reviewing claims; if not, end judicial
+              inquiry and reverse the decision.
+              (3) If the administrator’s decision is “de novo wrong”
+              and he was vested with discretion in reviewing claims,
+              then determine whether “reasonable” grounds
+USCA11 Case: 23-13443          Document: 36-1           Date Filed: 11/21/2025           Page: 9 of 36
+
+
+
+
+        23-13443                    Opinion of the Court                                    9
+
+                supported it (hence, review his decision under the
+                more deferential arbitrary and capricious standard).
+                (4) If no reasonable grounds exist, then end the
+                inquiry and reverse the administrator’s decision; if
+                reasonable grounds do exist, then determine if he
+                operated under a conﬂict of interest.
+                (5) If there is no conﬂict, then end the inquiry and
+                aﬃrm the decision.
+                (6) If there is a conﬂict, the conﬂict should merely be
+                a factor for the court to take into account when
+                determining whether an administrator’s decision was
+                arbitrary and capricious.
+        Blankenship v. Metro. Life Ins. Co., 644 F.3d 1350, 1355 (11th Cir. 2011).
+              We stand alone in applying this framework.1 See J.
+        Christopher Collins et al., ERISA Survey of Federal Circuits 15–17;
+        78–80; 153–57; 222–26; 295–301; 355–57; 412–16; 449–53; 505–09;
+        594–602; 660–63; 738–45 (Brooks R. Magratten ed. 2024)
+
+
+        1 More typical is the approach of six of our sister circuits, each of which simply
+
+        applies the classic arbitrary-and-capricious test if the plan administrator is
+        vested with discretion. See Colby v. Union Sec. Ins. Co. & Mgmt. Co. for
+        Merrimack Anesthesia Assocs. Long Term Disability Plan, 705 F.3d 58, 61 (1st Cir.
+        2013); Pagan v. NYNEX Pension Plan, 52 F.3d 438, 441 (2d Cir. 1995); Dowling v.
+        Pension Plan for Salaried Emps. of Union Pac. Corp. & Affiliates, 871 F.3d 239, 245–
+        46 (3d Cir. 2017); Elliott v. Metro. Life Ins. Co., 473 F.3d 613, 617 (6th Cir. 2006);
+        Holmstrom v. Metro. Life Ins. Co., 615 F.3d 758, 766 (7th Cir. 2010); Chambers v.
+        Fam. Health Plan Corp., 100 F.3d 818, 825 & n.1 (10th Cir. 1996).
+USCA11 Case: 23-13443      Document: 36-1      Date Filed: 11/21/2025     Page: 10 of 36
+
+
+
+
+        10                     Opinion of the Court                  23-13443
+
+        (describing each circuit’s approach). And candidly, while this six-
+        step dance is likely unnecessarily complex (and may even obscure
+        the lawful result in certain cases), we apply it all the same because
+        it is our binding precedent. See In re Lambrix, 776 F.3d 789, 794 (11th
+        Cir. 2015).
+               Here, the answers at steps one and two are relatively
+        straightforward: Reliance Standard’s decision is de novo wrong and
+        the company plainly has interpretive authority. But our analysis
+        ends after step three because Reliance Standard’s interpretation of
+        the policy is not only de novo wrong, it is also unreasonable: it
+        overlooks the distinction between receiving medical care for
+        symptoms that are not inconsistent with a preexisting condition
+        and receiving medical care for the preexisting condition itself. See
+        Blankenship, 644 F.3d at 1355.
+                                          A.
+               At step one, we apply “ERISA’s common law” and consider
+        whether Reliance Standard’s beneﬁts-denial decision was wrong.
+        See Tippitt v. Reliance Standard Life Ins. Co., 457 F.3d 1227, 1234–35
+        (11th Cir. 2006) (quotation omitted); Blankenship, 644 F.3d at 1355.
+        The answer to that question depends on whether the company
+        correctly interpreted the terms of Johnson’s disability policy. It did
+        not.
+               As always, we begin with “the plain and ordinary meaning
+        of the policy terms to interpret the contract.” Alexandra H. v.
+        Oxford Health Ins. Freedom Access Plan, 833 F.3d 1299, 1307 (11th Cir.
+        2016). Johnson’s policy states that beneﬁts “will not be paid” for a
+USCA11 Case: 23-13443     Document: 36-1     Date Filed: 11/21/2025    Page: 11 of 36
+
+
+
+
+        23-13443              Opinion of the Court                       11
+
+        disability that is “caused by,” “contributed to by,” or “resulting
+        from” a preexisting condition. Here, a preexisting condition is any
+        illness “for which the Insured received medical Treatment,
+        consultation, care or services, including diagnostic procedures, or
+        took prescribed drugs or medicines” during the lookback period.
+        See Reliance Standard Life Insurance Company Policy No. LTD
+        106119 (emphasis added). In plain speak: the preexisting condition
+        exclusion is triggered when someone receives medical treatment
+        “for” a “Sickness or Injury” during the lookback period.
+                A lot hinges on for—a word that “connotes intent.” Lawson
+        ex rel. Lawson v. Fortis Ins. Co., 301 F.3d 159, 165 (3d Cir. 2002)
+        (Alito, J.). That word is used “to indicate the object, aim, or
+        purpose of an action or activity.” See For, The American Heritage
+        Dictionary of the English Language (5th ed. 2016); see also For,
+        Webster’s Ninth New Collegiate Dictionary (1986) (“for” is “used
+        as a function word to indicate purpose”). As Black’s Law
+        Dictionary puts it: the word for “connotes the end with reference
+        to which anything is, acts, serves, or is done.” For, Black’s Law
+        Dictionary (5th ed. 1979). Or: “In consideration of which, in view
+        of which, or with reference to which, anything is done or takes
+        place.” Id. Texts using the word for, then, have “an implicit intent
+        requirement” baked into them. Lawson, 301 F.3d at 165.
+               Applying that meaning to Johnson’s case, we have little
+        diﬃculty concluding that Reliance Standard’s beneﬁt-denial
+        decision was wrong. No one “intended or even thought” to treat
+        Johnson “for” scleroderma during the lookback period. See id. And
+USCA11 Case: 23-13443      Document: 36-1      Date Filed: 11/21/2025     Page: 12 of 36
+
+
+
+
+        12                     Opinion of the Court                  23-13443
+
+        as then-Judge Alito explained, “it is hard to see how a doctor can
+        provide treatment ‘for’ a condition without knowing what that
+        condition is or that it even exists.” Id. Because neither Johnson
+        “nor her physicians either knew or suspected that the symptoms
+        she was experiencing were in any way connected with”
+        scleroderma, it would make little sense to say that she was treated
+        for scleroderma. McLeod v. Hartford Life & Accident Ins. Co., 372 F.3d
+        618, 620 (3d Cir. 2004). Simply put: giving the language in
+        Johnson’s policy its “ordinary and popular” meaning requires us to
+        conclude that she is entitled to beneﬁts. See Pitcher v. Principal Mut.
+        Life Ins. Co., 93 F.3d 407, 411 (7th Cir. 1996) (quotation omitted).
+               We reach this conclusion without a thumb on the scale in
+        Johnson’s favor. To be sure, part of the federal common law for
+        ERISA is that “the rule of contra proferentem requires us to construe
+        any ambiguities against the drafter.” Alexandra H., 833 F.3d at 1307.
+        But we invoke this interpretive canon only when “a term is
+        ambiguous” and both sides advance “reasonable interpretations
+        that can be fairly made.” Id. Because Reliance Standard’s
+        interpretation falls far short, we see no need to resort to contra
+        proferentem to buttress our straightforward conclusion. See
+        Pitcher, 93 F.3d at 412, 418 (contra proferentem unnecessary to
+        conclude that plaintiﬀ was not treated “for” cancer when neither
+        she “nor her physician, at this juncture, had reason to suspect that”
+        she had it).
+USCA11 Case: 23-13443     Document: 36-1      Date Filed: 11/21/2025     Page: 13 of 36
+
+
+
+
+        23-13443               Opinion of the Court                        13
+
+              In short: because scleroderma was not a condition for which
+        Johnson received medical treatment during the lookback period,
+        Reliance Standard was wrong to deny coverage.
+                                         B.
+                So we move on to step two, asking whether the policy vested
+        Reliance Standard “with discretion in reviewing claims.” See
+        Blankenship, 644 F.3d at 1355. The policy must “expressly” give
+        Reliance Standard “discretionary authority to make eligibility
+        determinations or to construe the plan’s terms.” Kirwan v. Marriott
+        Corp., 10 F.3d 784, 788 (11th Cir. 1994) (emphasis omitted). That
+        standard is high, but here the question is not close. Johnson’s policy
+        states that Reliance Standard “has the discretionary authority to
+        interpret the Plan and the insurance policy and to determine
+        eligibility for beneﬁts.” We thus continue on our six-step journey.
+                                         C.
+               Step three, often the heart of the ERISA analysis in this
+        Circuit, is decisive here too. Even though Reliance Standard’s
+        decision was wrong, because the ﬁrm was vested with discretion in
+        reviewing claims, we protect that discretion by evaluating whether
+        “reasonable” grounds supported its decision. See Blankenship, 644
+        F.3d at 1355. That means we review Reliance Standard’s decision
+USCA11 Case: 23-13443       Document: 36-1         Date Filed: 11/21/2025       Page: 14 of 36
+
+
+
+
+        14                        Opinion of the Court                     23-13443
+
+        “under the more deferential arbitrary and capricious standard.”2
+        Id.
+               Make no mistake: this standard really is deferential. So long
+        as a reasonable basis for denying coverage exists, the
+        administrator’s decision “must be upheld as not being arbitrary or
+        capricious, even if there is evidence that would support a contrary
+        decision.” Jett v. Blue Cross & Blue Shield of Ala., Inc., 890 F.2d 1137,
+        1140 (11th Cir. 1989). As a leading treatise explains, we cannot
+        substitute our own judgment for that of the ﬁduciary. See 1A
+        Steven Plitt et al., Couch on Insurance § 7:60 (3d ed. 2023).
+               Still, “deferential review is not no review,” and “deference
+        need not be abject.” Hess v. Hartford Life & Accident Ins. Co., 274 F.3d
+        456, 461 (7th Cir. 2001) (alteration adopted and quotation omitted).
+        There will be times when “the plain language or structure of the
+        plan or simple common sense will require the court to pronounce
+        an administrator’s determination arbitrary and capricious.” Id.
+        This is one of those times.
+                Reliance Standard’s interpretation of the preexisting
+        condition language as applied to Johnson’s claim is unreasonable
+        because it completely elides the distinction between receiving
+        medical care for symptoms not inconsistent with a preexisting
+        condition and receiving medical care for a preexisting condition
+        itself. Reliance Standard agrees that its interpretation of the plan
+
+        2 In this context, there is “no substantive distinction between the terms
+
+        ‘arbitrary and capricious’ and ‘abuse of discretion.’” Shaw v. Conn. Gen. Life
+        Ins. Co., 353 F.3d 1276, 1284–85 n.7 (11th Cir. 2003) (quotation omitted).
+USCA11 Case: 23-13443         Document: 36-1          Date Filed: 11/21/2025           Page: 15 of 36
+
+
+
+
+        23-13443                    Opinion of the Court                                 15
+
+        means that “any symptom experienced” before the ultimate
+        diagnosis would allow the company to deny coverage “so long as
+        the symptom was not later deemed inconsistent with that
+        condition.” McLeod, 372 F.3d at 625 (rejecting this view). It is no
+        exaggeration to say that under Reliance Standard’s view, a patient
+        told to drink more water because her headache was likely caused
+        by her dehydration has been treated for cancer if she turns out to
+        have a brain tumor. And that is true even if dehydration really was
+        the root cause of the headache. Headaches, after all, are a
+        symptom of both brain tumors and dehydration. So, to Reliance
+        Standard, treatment for a headache during the lookback period
+        converts any disease or condition that causes headaches into a
+        preexisting condition under the policy. We do not overstate the
+        company’s view—Reliance Standard doubled down on it at oral
+        argument.3
+               This position is unreasonable—full stop. It “interprets the
+        plan in a manner inconsistent with its plain words,” which speak in
+        terms of an “illness or disease,” not a symptom theoretically
+        consistent with having an illness or disease. See McCauley v. First
+
+
+        3 This point alone refutes the suggestion that we are “attacking a strawman.”
+
+        Dissenting Op. at 7. No. We are taking Reliance Standard at its word. In fact,
+        the dissent outright embraces this interpretation, positing that a football player
+        who undergoes concussion protocols has received medical care “for” cancer if
+        a CT scan happens to reveal an unsuspected brain tumor. Id. at 5. Under the
+        dissent’s logic, the football player is also out of luck if medical staff told him to
+        drink more water to rehydrate after a long match. McLeod rejected this exact
+        interpretation. See 372 F.3d at 625.
+USCA11 Case: 23-13443      Document: 36-1      Date Filed: 11/21/2025      Page: 16 of 36
+
+
+
+
+        16                      Opinion of the Court                  23-13443
+
+        Unum Life Ins. Co., 551 F.3d 126, 133 (2d Cir. 2008) (quotation
+        omitted). Even Bullwinkel v. New England Mutual Life Insurance—
+        Reliance Standard’s best case—rejected this cramped
+        interpretation. 18 F.3d 429 (7th Cir. 1994). As the Seventh Circuit
+        explained, a person does not have a preexisting condition merely
+        because he purchased generic cough medicine in one month and
+        learned about his lung cancer in the next. Id. at 433.
+               To be sure, Reliance Standard is right that Johnson presented
+        many symptoms to her doctors during the lookback period, some
+        of which were not inconsistent with scleroderma. 4 But recall that
+        these symptoms—things like nausea, vomiting, cough, fatigue, and
+        swelling—were vague and general, pointing to any variety of other
+        ailments. And though Johnson received no fewer than ten
+        diagnoses, scleroderma was conspicuously absent from the list.
+        Indeed, “none of the tests” Johnson underwent during this process
+        “ever linked the symptoms she was experiencing” to scleroderma,
+        so doctors had no suspicion that she might have it. See McLeod, 372
+        F.3d at 628. And that means there could be no “intention” on the
+        part of Johnson’s doctors to treat her for scleroderma. Id. None.
+        Put another way: because there is “no evidence that the possibility
+        that” Johnson had scleroderma “ever entered the minds of ”
+        Johnson’s doctors, “it would not make sense” to say that she
+
+
+
+        4 Curiously, Reliance Standard’s denial letters never specified which of
+        Johnson’s symptoms were theoretically consistent with scleroderma. But
+        Johnson does not dispute that at least one of them was.
+USCA11 Case: 23-13443          Document: 36-1          Date Filed: 11/21/2025           Page: 17 of 36
+
+
+
+
+        23-13443                    Opinion of the Court                                  17
+
+        received medical advice or treatment for scleroderma.5 Lawson, 301
+        F.3d at 166.
+               To illustrate, suppose an insured goes to his doctor during
+        the lookback period complaining of coughing and fatigue. Seeing
+        and suspecting nothing grievously wrong, the doctor diagnoses
+        him with the ﬂu and prescribes Nyquil. But a month later—after
+        the lookback period has ended—he starts coughing up blood and
+        is soon diagnosed with tuberculosis. Did the doctor treat the
+        patient for tuberculosis a month earlier? Of course not. And we
+        cannot see how it would be reasonable to say yes. Yet under
+        Reliance Standard’s reading of the policy, it could (would) deny
+        beneﬁts because the coughing and fatigue were symptoms not
+        inconsistent with the unsuspected tuberculosis—rendering the
+        tuberculosis a preexisting condition and counting the Nyquil as a
+        treatment for the unsuspected tuberculosis.6
+               This sweeping interpretation of “for” is outside the bounds
+        of reasonableness. The problem with Reliance Standard’s “ex post
+
+
+        5 We also note that all evidence points to consistent good-faith efforts by
+
+        Johnson to get a diagnosis.
+        6 Recasting Reliance Standard’s argument, the dissent insists that “there is
+
+        more than ‘consistency’ between what Johnson was treated for and
+        scleroderma; they are the same thing.” Dissenting Op. at 8. If that’s the
+        argument, we are not sure what to make of it. Even though Johnson received
+        treatment for fatigue, nausea, and other symptoms that can be consistent with
+        scleroderma, the symptoms are not the disease—an indication of something is
+        not the thing itself. In fact, it is hard to find a condition for which fatigue is not
+        a symptom. So it makes no sense to say that fatigue is “the same thing” as
+USCA11 Case: 23-13443      Document: 36-1       Date Filed: 11/21/2025       Page: 18 of 36
+
+
+
+
+        18                      Opinion of the Court                    23-13443
+
+        facto analysis is that a whole host of symptoms occurring before a
+        ‘correct’ diagnosis is rendered, or even suspected, can presumably
+        be tied to the condition once it has been diagnosed.” McLeod, 372
+        F.3d at 625. And, again, that’s true even if the earlier symptom is
+        not ultimately connected to the eventual diagnosis. Indeed, under
+        Reliance Standard’s view, “any time a policy holder seeks medical
+        care of any kind during the look-back period, the ‘symptom’ that
+        prompted him to seek the care could potentially be deemed a
+        symptom of a pre-existing condition, as long as it was later deemed
+        consistent with symptoms generally associated with the condition
+        eventually diagnosed.” Id.
+               That view is arbitrary and capricious. As then-Judge Alito
+        explained, “considering treatment for symptoms of a not-yet-
+        diagnosed condition as equivalent to treatment of the underlying
+        condition ultimately diagnosed might open the door for insurance
+        companies to deny coverage for any condition the symptoms of
+        which were treated during the exclusionary period.” Lawson, 301
+        F.3d at 166. Here, that “might” becomes a “would.” See id. And to
+        bless “such backward-looking reinterpretation of symptoms to
+        support claims denials would so greatly expand the deﬁnition of
+        preexisting condition as to make that term meaningless: any prior
+        symptom not inconsistent with the ultimate diagnosis would
+        provide a basis for denial.” Id. (quotation omitted). Other courts
+        agree. See, e.g., McLeod, 372 F.3d at 628; Est. of Ermenc ex rel. Ermenc
+
+
+        scleroderma or coughing is “the same thing” as tuberculosis, any more than
+        to say that a wet umbrella is “the same thing” as a hurricane.
+USCA11 Case: 23-13443      Document: 36-1       Date Filed: 11/21/2025      Page: 19 of 36
+
+
+
+
+        23-13443                Opinion of the Court                          19
+
+        v. Am. Fam. Mut. Ins. Co., 585 N.W.2d 679, 682 (Wis. Ct. App. 1998);
+        Karagon v. Aetna Life Ins. Co., 228 N.W.2d 515, 516 (Mich. Ct. App.
+        1975).
+               In the end, Reliance Standard urges us to apply a diﬀerent
+        policy than the one it wrote, reading it as if it barred coverage for
+        claims arising from conditions that may have originated or existed
+        during the lookback period, not conditions that were treated
+        during that period. And its reading may be even broader than
+        that—denying coverage based on symptoms that occurred during
+        the lookback period, whether or not those symptoms were
+        connected to the eventual disability claim. So despite our
+        deferential posture, we decline the invitation to stretch the text of
+        Johnson’s policy beyond what it can reasonably bear.
+                Reliance Standard’s counterarguments do not persuade.
+        The company chieﬂy relies on this Court’s unpublished decision in
+        Ferrizzi v. Reliance Standard Life Insurance, 792 F. App’x 678 (11th Cir.
+        2019) (unpublished). We start by pointing out that unpublished
+        cases are not precedential and do not bind us. See Otto Candies, LLC
+        v. Citigroup Inc., 137 F.4th 1158, 1195 (11th Cir. 2025). But even
+        putting that aside, Ferrizzi does not move the needle.
+              That panel dealt with a nearly identical disability policy to
+        the one we have here. See Ferrizzi, 792 F. App’x at 684. The
+        question was whether “substance abuse/drug dependency” was a
+        condition “for which” the claimant received medical treatment
+        during the lookback period. Id. The plaintiﬀ said no, asserting that
+        he was neither diagnosed with nor treated for this illness during
+USCA11 Case: 23-13443         Document: 36-1         Date Filed: 11/21/2025          Page: 20 of 36
+
+
+
+
+        20                         Opinion of the Court                         23-13443
+
+        that time. See id. This Court rejected that argument with little
+        analysis, concluding that the policy at issue did not “require a
+        formal diagnosis during the lookback period.” Id. at 685. That’s it.
+               We do not ﬁnd Ferrizzi instructive. For one, Johnson, unlike
+        Ferrizzi, does not say that there must be a “formal diagnosis”
+        during the lookback period. See id. at 684–85. Nor do we—
+        suspecting and treating for a condition is enough. And the doctors
+        in Ferrizzi did suspect that he had a substance-dependency illness
+        during the lookback period. Id. at 685. Indeed, Ferrizzi “received
+        ‘medical treatment’ for substance abuse/drug dependency on at
+        least one occasion during the lookback period.” Id. Not so for
+        Johnson. Ferrizzi is entirely consistent with our holding here, and
+        we do not understand the dissent’s insistence that it is not.7 See
+        Dissenting Op. at 6–7.
+
+
+        7 Nor do the dissenting opinion’s comparator cases make the point the opinion
+
+        suggests. Most obvious is Mogil v. California Physicians Corp., 267 Cal. Rptr.
+        487, 492 (Cal. Ct. App. 1990). The policy at issue there defined “Pre-existing
+        Condition” to exist where: (i) “any professional advice or treatment of a
+        Physician, or any medical supply (including but not limited to prescription
+        drugs or medicines) was obtained for that Disability” or (ii) “the Disability was
+        manifest to the Covered Person.” Id. at 488 (emphasis added). The court’s
+        decision turned on (ii), not (i): the insured’s treatment was not covered
+        because her cancer “manifested” itself prior to the policy’s start date. See id. at
+        491–94. The policy here has no such provision. Likewise, Lincoln Income Life
+        Insurance v. Milton involved an exclusion that barred coverage where the
+        insured’s disease “first commenced or became evident after the effective date
+        of the contract.” 412 S.W.2d 291, 292 (Ark. 1967). And the policy in Kirchstein
+        v. Kentucky Central Life Insurance defined “sickness” broadly—to include “all
+        complications arising therefrom or reoccurrences thereof.” 556 So. 2d 1190,
+USCA11 Case: 23-13443        Document: 36-1         Date Filed: 11/21/2025        Page: 21 of 36
+
+
+
+
+        23-13443                  Opinion of the Court                               21
+
+               Reliance Standard’s emphasis on the Seventh Circuit’s
+        Bullwinkel decision is similarly misplaced. 18 F.3d 429. There, the
+        plaintiﬀ went to her doctor during the lookback period because of
+        a lump on her breast. Id. at 430. The doctor was “concerned about
+        the possibility of cancer” and referred her to a surgeon. Id. After
+        the lookback period ended, a surgeon completed a biopsy on the
+        lump and conﬁrmed that it was cancerous. Id. The plaintiﬀ sought
+        treatment, but the insurance company denied coverage, classifying
+        the cancer as a preexisting condition. Id. The Seventh Circuit
+        agreed: because the “lump was discovered in September to be
+        cancerous,” it took “from this fact that the lump was also
+        cancerous in July,” during the lookback period when her physician
+        suspected that disease. Id. at 432. In so concluding, the panel
+        emphasized that the plaintiﬀ’s symptoms “were not trivial and
+        inconclusive—like a cough or a rash which might imply any of a
+        variety of maladies.” Id. Her doctor was concerned about cancer,
+        and that made the diﬀerence.8
+
+
+
+
+        1192 (Fla. Dist. Ct. App. 1990). Johnson’s policy lacks the symptoms-focused
+        exclusions discussed in Mogil, Milton, and Kirchstein. These cases interpreting
+        different policy language do not control here, and we cannot rewrite her
+        policy to say what it does not.
+        8 The Seventh Circuit itself has been clear that Bullwinkel did not go nearly as
+
+        far as Reliance Standard suggests: Bullwinkel depended on its facts, and “was
+        obviously not intended as an authorization for summary judgment in favor of
+        insurers in all future cases dealing with pre-existing condition limitations.”
+        Pitcher, 93 F.3d at 416 (alteration adopted and quotation omitted).
+USCA11 Case: 23-13443         Document: 36-1         Date Filed: 11/21/2025          Page: 22 of 36
+
+
+
+
+        22                         Opinion of the Court                         23-13443
+
+                This case is worlds apart. It involves a patient who exhibited
+        “only non-speciﬁc symptoms and neither the patient nor the
+        physician” suspected that the later-diagnosed illness was in play.
+        Lawson, 301 F.3d at 166. To be sure, when a patient “seeks advice
+        for a sickness with a speciﬁc concern in mind”—like the breast
+        lump in Bullwinkel—“an intent to seek or provide treatment or
+        advice ‘for’ a particular disease has been manifested.” Id.; see also
+        Marshall v. UNUM Life Ins. Co., 13 F.3d 282, 283 (8th Cir. 1994)
+        (chronic fatigue syndrome was a preexisting condition when
+        plaintiﬀ “sought treatment for chronic fatigue” during the
+        lookback period). But where, as here, the doctor “had no reason
+        to suspect, much less believe, that his patient was aﬄicted” with a
+        later-diagnosed condition, the patient did not receive treatment
+        “for” it.9 Pitcher, 93 F.3d at 415–16.
+                That’s also why the dissent’s interpretation fails. To start, it
+        is not the one pressed by Reliance Standard. Plus, the dissent puts
+        too much weight on the words “diagnostic procedures,” which are
+        completely consistent with our interpretation of the policy. See
+        Dissenting Op. at 4–5. The policy makes clear that diagnostic
+
+        9 The other cases in the dissent’s page-long string cite offer little in the way of
+
+        support. See Dissenting Op. at 8–9. One involved a patient who exhibited
+        “strong indications” of a particular illness. See LoCoco v. Med. Sav. Ins. Co., 530
+        F.3d 442, 448 (6th Cir. 2008). Another involved a patient whose doctor had
+        “reasonable cause to believe that [he] had multiple sclerosis.” Dowdall v. Com.
+        Travelers Mut. Accident Ass’n of Am., 181 N.E.2d 594, 595 (Mass. 1962). In these
+        cases, the insured’s sickness manifested in the form of “a distinct symptom or
+        condition from which one learned in medicine can diagnose the disease.” Id.
+        at 596. The same cannot be said for Johnson.
+USCA11 Case: 23-13443     Document: 36-1      Date Filed: 11/21/2025     Page: 23 of 36
+
+
+
+
+        23-13443               Opinion of the Court                        23
+
+        procedures “for” a particular disease trigger the policy’s preexisting
+        conditions exclusion. So if a doctor who suspects cancer performs
+        a biopsy—a diagnostic procedure “for” cancer—that procedure
+        counts under this contract. But a doctor who suspects nothing in
+        particular cannot perform a procedure “for” a speciﬁc condition.
+        The “interpretive problem” the dissent identiﬁes is thus one of its
+        own making. See id. at 5.
+               It would be “awkward at best” to say that Johnson “received
+        treatment” for scleroderma because “there is no connection
+        between the treatment or advice received and the sickness.”
+        Lawson, 301 F.3d at 166. We reject this unnatural reading of her
+        policy. So despite our deferential standard of review, we conclude
+        that Reliance Standard’s denial of benefits was arbitrary and
+        capricious because its interpretation was “contrary to the clear
+        language of the plan.” See Lockhart v. United Mine Workers of Am.
+        1974 Pension Tr., 5 F.3d 74, 78 (4th Cir. 1993) (alteration adopted
+        and quotation omitted); McLeod, 372 F.3d at 628 (district court
+        “erred as a matter of law” when it misread clear policy language).
+                                    *    *       *
+               We emphasize again that we are not charged with ﬁnding
+        the best interpretation of Johnson’s policy. There are likely a range
+        of reasonable interpretations; it’s just that Reliance Standard’s is
+        not one of them. It warps the “plain and ordinary meaning” of the
+        policy language, converting a preexisting-condition exclusion into
+        a preexisting-symptom exclusion. Alexandra H., 833 F.3d at 1307.
+        The company’s reading of the plan was arbitrary and capricious, so
+USCA11 Case: 23-13443   Document: 36-1   Date Filed: 11/21/2025   Page: 24 of 36
+
+
+
+
+        24                  Opinion of the Court             23-13443
+
+        we REVERSE the district court’s grant of summary judgment for
+        Reliance Standard and REMAND for further proceedings
+        consistent with this opinion.
+USCA11 Case: 23-13443      Document: 36-1      Date Filed: 11/21/2025     Page: 25 of 36
+
+
+
+
+        23-13443          WILLIAM PRYOR, C.J., Dissenting                    1
+
+        WILLIAM PRYOR, Chief Judge, Dissenting:
+               As far back as the record reflects, Cheriese Johnson has ex-
+        perienced several ailments and symptoms. Since October 2015, she
+        has suffered from joint pain and swelling, shortness of breath, fa-
+        tigue, chronic vomiting, gastroesophageal reflux, and coughing—
+        to name a few. She regularly sought treatment for those symptoms
+        with various health specialists and was prescribed several medica-
+        tions for them. Later, in October 2016, Johnson became insured for
+        disability under a policy administered by Reliance Standard Life In-
+        surance Company. Unfortunately, Johnson’s symptoms did not
+        disappear after she became insured—they only progressed. In Oc-
+        tober 2017, Johnson filed a claim with Reliance for disability based
+        on the symptoms she had experienced for two years. In the claim
+        form, Johnson’s physician stated that those symptoms were the re-
+        sult of scleroderma—a sickness that had gone undiagnosed until
+        four months after the policy’s lookback period ended but that in-
+        volves the very symptoms he had treated every few months since
+        April 2016, well before the lookback period. Reliance denied John-
+        son’s claim because, as her physician admitted, she had suffered
+        from and was treated for the symptoms of scleroderma long before
+        she became covered. Under the policy, Johnson could not receive
+        benefits for a “Pre-existing Condition.” Yet, the majority holds that
+        Reliance unreasonably found that Johnson’s scleroderma was a pre-
+        existing condition. It does so by ignoring the whole text of John-
+        son’s policy, the record facts, and the settled purpose of pre-existing
+        condition exclusions, and it dismisses as unreasoned our earlier
+USCA11 Case: 23-13443      Document: 36-1       Date Filed: 11/21/2025      Page: 26 of 36
+
+
+
+
+        2                 WILLIAM PRYOR, C.J., Dissenting              23-13443
+
+        decision interpreting the same policy to require the opposite result.
+        I respectfully dissent.
+               As always, when reviewing an administrator’s interpretation
+        of a policy, we begin with “the plain and ordinary meaning of the
+        policy terms.” Alexandra H. v. Oxford Health Ins. Inc. Freedom Access
+        Plan, 833 F.3d 1299, 1307 (11th Cir. 2016). The policy excludes cov-
+        erage for benefits “caused by,” “contributed to by,” or “resulting
+        from” a “Pre-Existing Condition.” And it defines “Pre-Existing
+        Condition” as any sickness or injury “for which the Insured re-
+        ceived medical Treatment, consultation, care or services, including
+        diagnostic procedures, or took prescribed drugs or medicines” dur-
+        ing the lookback period.
+               The majority isolates a single word in the exclusion to deter-
+        mine its entire scope: “for.” Majority Op. at 11–12. Even at a bird’s
+        eye view, it is strange for the majority to base its entire textual anal-
+        ysis on a single word that has, at least, eleven different definitions.
+        See For, WEBSTER’S NEW INTERNATIONAL DICTIONARY (2d ed. 1959);
+        For, OXFORD ENGLISH DICTIONARY (revised 2022). It is even
+        stranger, as the majority does, to take one meaning of the word
+        “for” as determinative and not even consider whether that mean-
+        ing, or an alternative one, makes more sense in context. When con-
+        sidering “possible meanings that a word . . . can bear,” a “judicial
+        interpreter [should] consider the entire text, in view of its structure
+        and of the physical and logical relation of its many parts.” ANTONIN
+        SCALIA & BRYAN A. GARNER, READING LAW: THE INTERPRETATION
+        OF LEGAL TEXTS § 24, at 167–68 (2012) (emphasis added). And
+USCA11 Case: 23-13443      Document: 36-1      Date Filed: 11/21/2025      Page: 27 of 36
+
+
+
+
+        23-13443          WILLIAM PRYOR, C.J., Dissenting                     3
+
+        “[p]articularly when interpreting” a text that “features as elastic a
+        word” as for, we “construe [the text’s] language in its context and
+        in light of the terms surrounding it.” Leocal v. Ashcroft, 543 U.S. 1, 9
+        (2004).
+               The majority attempts to make up for its interpretive myo-
+        pia through name dropping by relying heavily on a sister circuit
+        precedent involving a current Supreme Court Justice’s earlier in-
+        terpretation of the word “for” in a materially different policy.
+        Then-Judge Alito’s (whom the majority references three times by
+        name) opinion in Lawson ex rel. Lawson v. Fortis Insurance Co. read
+        “for” as a term that “connotes intent.” 301 F.3d 159, 165 (3d Cir.
+        2002). The majority reasons that because none of Johnson’s doctors
+        “intended or even thought” to treat scleroderma by name, they
+        could not have treated Johnson “for” scleroderma during the look-
+        back period. Majority Op. at 11.
+               But this appeal is not so easy. The Reliance exclusion, read
+        in context, cannot bear the intent-based meaning of “for” on which
+        the majority rests its decision. Instead, “for” is read more naturally
+        in the exclusion as meaning “because of.” See For, WEBSTER’S
+        SECOND, supra (number seven); For, WEBSTER’S THIRD NEW
+        INTERNATIONAL DICTIONARY (1993) (number eight); For, THE
+        AMERICAN HERITAGE DICTIONARY OF THE ENGLISH LANGUAGE (5th
+        ed. 2022) (number seven); For, OXFORD ENGLISH DICTIONARY, supra
+        (number seven). To be sure, “for” can be read as meaning “in-
+        tended” in some parts of the exclusion. To take the majority’s ex-
+        ample, it makes sense to say a sickness that doctors intended to
+USCA11 Case: 23-13443     Document: 36-1      Date Filed: 11/21/2025     Page: 28 of 36
+
+
+
+
+        4                 WILLIAM PRYOR, C.J., Dissenting           23-13443
+
+        treat during the lookback period is a pre-existing condition. See Ma-
+        jority Op. at 12. Yet, in the context of other parts of the exclusion,
+        it makes little sense to read “for” as having an “implicit intent re-
+        quirement.” Lawson, 301 F.3d at 165.
+                For example, under the majority’s view, a “diagnostic pro-
+        cedure” must have been intended for a particular condition for the
+        diagnostic procedure to trigger the exclusion. But a doctor does not
+        perform a diagnostic procedure if he already knows what the diag-
+        nosis is. And in some cases, contrary to the majority, a diagnostic
+        procedure may point a doctor to a condition he never “suspected”
+        or “even thought” of before the procedure. See Majority Op. at 22;
+        see also id. at 11.
+                By its plain meaning, a procedure is “diagnostic” when it
+        “serv[es] to distinguish, identify, or determine,” Diagnostic,
+        WEBSTER’S THIRD, or to “[i]ndicat[e] the nature of a disease,” Diag-
+        nostic, WEBSTER’S SECOND. Nothing in that definition suggests that
+        a diagnostic procedure ceases being “diagnostic” if it “identif[ies]”
+        or “indicat[es]” an unsuspected condition. On the contrary, doctors
+        learn to expect unsuspected findings. As one medical textbook ex-
+        plains, “[i]n many cases, diagnostic testing can identify a condition
+        before it is clinically apparent”—much less, one “clinically appar-
+        ent” by its symptoms but unsuspected by name until the proce-
+        dure. ERIN P. BALOGH ET AL., IMPROVING DIAGNOSIS IN HEALTH
+        CARE 39 (2015). We recognized this common-sense medical reality
+        in an unpublished decision when we said “[a]lthough doctors as-
+        sign a ‘diagnostic conclusion’ to a known condition, they order
+USCA11 Case: 23-13443      Document: 36-1      Date Filed: 11/21/2025     Page: 29 of 36
+
+
+
+
+        23-13443          WILLIAM PRYOR, C.J., Dissenting                    5
+
+        ‘diagnostic procedure’ for unknown ones.” Jones v. Golden Rule Ins.
+        Co., 748 Fed. App’x 861, 867 (11th Cir. Aug. 23, 2018).
+               For example, imagine a doctor performs a CT scan thinking
+        that his patient’s severe headaches are symptoms of a concussion
+        sustained during a football game. See Concussion, MAYO CLINIC,
+        https://perma.cc/8LTG-2P5H (noting that a “[CT] scan of the
+        head is the standard test in adults to assess the brain right after in-
+        jury”). During the CT scan, the doctor detects a cancerous tumor
+        he determines to be the cause of the headaches. See Brain tumor,
+        MAYO CLINIC, https://perma.cc/W7EB-VJW2 (noting that a “CT
+        scan [may] show[] a brain tumor”). Although the doctor did not
+        intend to diagnose or suspect brain cancer, he performed the brain
+        scan “because of” it. After all, the tumor was the cause of the head-
+        aches.
+                That Lawson’s definition of “for” cannot be superimposed on
+        Johnson’s policy should be no surprise. The policy in Lawson did
+        not reference “diagnostic procedures,” see 301 F.3d at 161, and if it
+        had, the Third Circuit might have adopted a different interpreta-
+        tion, cf. LoCoco v. Med. Savs. Ins. Co., 530 F.3d 442, 446–47 (6th Cir.
+        2008) (holding that Lawson’s intent-based definition of “for” did not
+        “extend to the particular contractual language at issue,” because
+        the language in the provision excluded sicknesses “for which . . .
+        diagnosis . . . was recommended”).
+              Reading “for” as “because of” avoids this interpretive prob-
+        lem. A doctor can perform diagnostic procedures “because of” the
+        underlying symptoms of scleroderma, even if he does not know or
+USCA11 Case: 23-13443     Document: 36-1      Date Filed: 11/21/2025     Page: 30 of 36
+
+
+
+
+        6                 WILLIAM PRYOR, C.J., Dissenting           23-13443
+
+        even suspect that the patient’s symptoms are attributable to sclero-
+        derma. Indeed, it happened here. Johnson underwent a “diagnostic
+        procedure”—an upper gastrointestinal endoscopy—because of gas-
+        trointestinal symptoms that are also symptoms of scleroderma.
+        This reading comports with the rest of the pre-existing condition
+        exclusion. Under this definition, the policy excludes coverage for
+        any sickness or injury “[because of] which [Johnson] received med-
+        ical Treatment, consultation, care or services, including diagnostic
+        procedures, or took prescribed drugs or medicines” during the
+        lookback period.
+                Inconveniently for the majority, our Court interpreted the
+        same provision of the same policy in Ferrizzi v. Reliance Standard
+        Life Insurance Company—yes, that Reliance Standard Life Insurance
+        Company—and came to the opposite conclusion as the majority in
+        a routine unpublished opinion several years ago. 792 F. App’x 678,
+        680 (11th Cir. Nov. 7, 2019). As the majority admits, Ferrizzi held
+        that the “Reliance policy exclusion does not require a formal diag-
+        nosis during the lookback period” for the exclusion to apply. Id. at
+        685. Contrary to the majority’s gloss, see Majority Op. at 20, neither
+        did Ferrizzi require that the excludable sickness be “suspected” by
+        healthcare professionals during the lookback period. After all, the
+        text of the exclusion never requires that doctors “suspect” a partic-
+        ular sickness for it to be excludable. The Ferrizzi court instead af-
+        firmed Reliance’s denial of benefits by determining that the in-
+        sured’s condition pre-existed the policy as a matter of fact and that
+        he “received medical treatment” for a symptom of that condition.
+        Id. (internal quotation marks omitted). Yet, our interpretation of
+USCA11 Case: 23-13443      Document: 36-1      Date Filed: 11/21/2025     Page: 31 of 36
+
+
+
+
+        23-13443          WILLIAM PRYOR, C.J., Dissenting                    7
+
+        the same exclusion was, under the majority’s position, “arbitrary
+        and capricious” and “unreasonable—full stop.” Majority Op. at 15,
+        18. But as the district court reasoned, “[a]t a minimum,” Reliance’s
+        adoption of the interpretation in Ferrizzi “demonstrate[s] that [Re-
+        liance’s determination] was not unreasonable.”
+                Instead of engaging seriously with the whole text of the ex-
+        clusion, the majority ascribes to Reliance a position that it never
+        takes—attacking a strawman. According to the majority, Reliance
+        argues that “no beneﬁts are due if Johnson was treated for any
+        symptoms during the lookback period that were not inconsistent
+        with scleroderma.” Majority Op. at 3. This assertion does not ap-
+        pear in Reliance’s brief nor was it uttered by Reliance’s counsel at
+        oral argument (even if he inartfully answered a broad hypothet-
+        ical). The majority took this argument from a quotation in the
+        Third Circuit’s decision in McLeod v. Hartford Life and Accident Insur-
+        ance Co., imputed it to Reliance, and rejected it as the Third Circuit
+        did. See id. at 15 (quoting 372 F.3d 618, 625 (3d Cir. 2004)).
+               But Reliance’s argument is not so broad. In its brief, Reliance
+        instead argues that healthcare professionals treated Johnson’s scle-
+        roderma during the lookback period because the “record[] indis-
+        putably establish[es] that she received treatment, consultation[,]
+        and medication during the look back period for the very conditions
+        and symptoms” that prove that she suﬀers from scleroderma. To
+        establish that, it points out that doctors treated and prescribed med-
+        ication for the “various symptoms and conditions of scleroderma”
+        she experienced during the lookback period. In other words,
+USCA11 Case: 23-13443      Document: 36-1      Date Filed: 11/21/2025      Page: 32 of 36
+
+
+
+
+        8                 WILLIAM PRYOR, C.J., Dissenting             23-13443
+
+        Reliance asserts there is more than “consistency” between what
+        Johnson was treated for and scleroderma; they are the same thing.
+        To borrow the majority’s metaphor, see Majority Opinion at 17 n.6,
+        it is like using an umbrella to stay dry without knowing whether
+        the current rainstorm is a hurricane or quick summer shower. In
+        either case, the umbrella fends oﬀ the rains. So too doctors treated
+        Johnson’s symptoms of scleroderma without knowing sclero-
+        derma was their cause.
+               It is hardly novel that the terms of a pre-existing condition
+        exclusion may bar coverage for a sickness that went undiagnosed
+        or unsuspected by name during the lookback period. See, e.g.,
+        Hughes v. Bos. Mut. Life Ins. Co., 26 F.3d 264, 266, 269 (1st Cir. 1994)
+        (concluding that a similar provision could be “reasonabl[y] inter-
+        pret[ed]” to mean that a “treatment ‘for’ a condition refers to treat-
+        ment of any symptom which in hindsight appears to be a manifes-
+        tation of the condition”); LoCoco, 530 F.3d at 447 (“[I]f receipt of a
+        recommendation to undergo a diagnostic process is suﬃcient to
+        render a condition ‘pre-existing,’ as the language of the contract in
+        this case states, it cannot be that an actual diagnostic conclusion is
+        required.” (footnote omitted)); Bullwinkel v. New England Mut. Life
+        Ins. Co., 18 F.3d 429, 430–32 (7th Cir. 1994) (excluding cancer as a
+        pre-existing condition because “even though [the insured] did not
+        know [her symptom] was cancerous . . . , her visit with the doctor”
+        during the lookback period “concerning [the symptom] actually
+        concerned cancer”); Marshall v. UNUM Life Ins. Co., 13 F.3d 282, 285
+        (8th Cir. 1994) (explaining that although the insured’s “physicians
+        may have had diﬃculty identifying her condition” during the
+USCA11 Case: 23-13443      Document: 36-1      Date Filed: 11/21/2025      Page: 33 of 36
+
+
+
+
+        23-13443          WILLIAM PRYOR, C.J., Dissenting                     9
+
+        lookback period, the court “need[s] only decide whether her disa-
+        bling condition is linked to her pre-existing condition”); Lincoln In-
+        come Life Ins. Co. v. Milton, 412 S.W.2d 291, 292 (Ark. 1967) (“That
+        [the insured] did not know the medical explanation for her condi-
+        tion when she applied for the policy is not a reason for holding that
+        the condition [was not pre-existing].”); Mogil v. Cal. Physicians Corp.,
+        267 Cal. Rptr. 487, 492 (Cal. Ct. App. 1990) (concluding that pre-
+        existing conditions were excludable if they were “manifest” during
+        a lookback period and deﬁning manifest as “that point in time
+        when the sickness or disease becomes symptomatic and not neces-
+        sarily when the exact nature of sickness or disease is diagnosed by
+        a physician” (alterations adopted) (citation and internal quotation
+        marks omitted)); Kirchstein v. Ky. Cent. Life Ins. Co., 556 So. 2d 1190,
+        1192 (Fla. Dist. Ct. App. 1990) (“That the doctor may have incor-
+        rectly diagnosed the ‘sickness’ does not change the fact that the
+        condition for which she received treatment was a preexisting con-
+        dition under the terms of this policy . . . .”); Dowdall v. Com. Travel-
+        ers Mut. Acc. Ass’n of Am., 181 N.E.2d 594, 596 (Mass. 1962) (holding
+        that for the exclusion to apply, “[k]nowledge of the existence of the
+        disease on the part of the plaintiﬀ was not required; it was suﬃcient
+        if the disease had in fact originated prior to the eﬀective date of the
+        policy”). Although these decisions do not bear on our interpreta-
+        tion of the policy in this appeal, they conﬁrm that pre-existing con-
+        ditions exclusions do not ordinarily turn on whether the condition
+        was diagnosed or suspected during the lookback period.
+              Because the majority’s reading of the policy is so narrow, it
+        never engages with the record evidence Reliance reviewed in
+USCA11 Case: 23-13443     Document: 36-1      Date Filed: 11/21/2025     Page: 34 of 36
+
+
+
+
+        10                WILLIAM PRYOR, C.J., Dissenting           23-13443
+
+        denying Johnson’s claim. But that evidence establishes that Reli-
+        ance had reasonable grounds to conclude scleroderma was a pre-
+        existing condition. In his statement to Reliance, Johnson’s own
+        rheumatologist, Dr. Querubin, confirmed that Johnson first expe-
+        rienced symptoms of scleroderma in October 2015 and that he
+        treated her for those symptoms “every 1–3” months during the
+        lookback period. In the light of our deferential review, that admis-
+        sion alone is sufficient to establish that scleroderma was a “Sickness
+        . . . for which [Johnson] received medical Treatment” during the
+        lookback period. And there is nothing in the text of the policy that
+        barred Reliance from so concluding because Dr. Querubin did not
+        diagnose or suspect scleroderma during the lookback period.
+               Other healthcare professionals also consulted with Johnson
+        about symptoms she acknowledges are symptoms of scleroderma.
+        Nurse Practitioner Ashleigh Clark treated Johnson for fatigue and
+        joint swelling. Johnson consulted Dr. Alan Maloon at Premier Neu-
+        rosurgical Institute for fatigue, nausea, and swelling of the feet and
+        hands. As already explained, Johnson even underwent a “diagnos-
+        tic procedure,” an upper gastrointestinal endoscopy, for gastroin-
+        testinal complaints. “Taken as a whole,” those medical records
+        “provide sufficient evidence to conclude that” Johnson suffered
+        from scleroderma, which “equated to a ‘Sickness or Injury’ under
+        the Reliance policy during the lookback period.” Ferrizzi, 792 F.
+        App’x at 686.
+              An exclusion for a pre-existing condition “serves the . . . pur-
+        pose of protecting insurers from fraudulent applicants seeking
+USCA11 Case: 23-13443     Document: 36-1      Date Filed: 11/21/2025     Page: 35 of 36
+
+
+
+
+        23-13443          WILLIAM PRYOR, C.J., Dissenting                  11
+
+        coverage for known diseases.” Mogil, 267 Cal. Rptr. at 491 (citation
+        and internal quotation marks omitted). When insurance compa-
+        nies began using these exclusions, “they failed to expressly define
+        the term” pre-existing condition in their policies. Id. So, courts in-
+        terpreting the exclusions “adopt[ed] [a] general rule” to define
+        them. Id. The majority of courts settled on the rule that a pre-exist-
+        ing condition exists when it becomes “manifest or active or when
+        there is a distinct symptom or condition from which one learned in
+        medicine can with reasonable accuracy diagnose the illness.” Id.
+        (emphasis added) (collecting cases); see also Preferred Risk Life Ins.
+        Co. v. Sande, 421 So. 2d 566, 568 (Fla. Dist. Ct. App. 1982) (defining
+        “manifest” as “when the sickness or disease becomes symptomatic
+        and not necessarily when the exact nature of sickness or disease is
+        diagnosed by a physician after extensive testing” (citation and in-
+        ternal quotation marks omitted)). It made sense not to base the ex-
+        cludability of a pre-existing condition on whether a doctor had yet
+        diagnosed or suspected it by name during the lookback period.
+        Otherwise, “unscrupulous applicants . . . fraudulently attempt[ing]
+        to gain coverage” after experiencing serious symptoms could first
+        obtain coverage and only later seek medical evaluation. Mogil, 267
+        Cal. Rptr. at 491 (citation and internal quotation marks omitted). A
+        sickly yet undiagnosed applicant with symptoms XYZ is in the same
+        position of a sickly, diagnosed applicant with the same symptoms. It
+        would defy the purpose of the exclusion to give the former, but not
+        the latter, benefits and to provide an ill person an incentive to ob-
+        tain coverage before being medically evaluated.
+USCA11 Case: 23-13443      Document: 36-1      Date Filed: 11/21/2025     Page: 36 of 36
+
+
+
+
+        12                WILLIAM PRYOR, C.J., Dissenting            23-13443
+
+                I accept that Johnson, in good faith, diligently sought to dis-
+        cover the cause of her symptoms, but the record makes plain that
+        she displayed sufficient “symptom[s] or condition[s] from which
+        one learned in medicine c[ould] with reasonable accuracy diagnose
+        the illness.” Id. Her lookback-period symptoms were the same as
+        the symptoms her physician later stated were attributable to scle-
+        roderma—joint pain and swelling, shortness of breath, persistent
+        cough, digestive and gastrointestinal problems, and fatigue. That
+        her doctors were temporarily unable to diagnose the cause of those
+        symptoms as scleroderma does not change the fact that Johnson
+        experienced and received treatment and diagnostic procedures for
+        them well before she obtained insurance and now seeks benefits
+        because of their disabling effect.
+                                    *     *      *
+               Ms. Johnson’s condition is unfortunate, but the terms of her
+        policy plainly contemplate that a condition need not be diagnosed
+        or even suspected to be pre-existing. Because it was neither arbi-
+        trary nor capricious for Reliance to conclude that scleroderma was
+        a pre-existing condition under the terms of the policy exclusion, I
+        would affirm.
+               I respectfully dissent.
+

@@ -1,0 +1,34 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether Credit One Bank violated the Fair Credit Reporting Act (FCRA) by failing to conduct a reasonable investigation into Suluki's claim of identity theft.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that, even assuming there were factual disputes about the reasonableness of Credit One's investigation, no reasonable investigation would have led to a different result, and thus summary judgment for Credit One was appropriate."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether Suluki was entitled to damages on the basis that Credit One willfully or negligently violated the FCRA.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found that no reasonable jury could conclude Credit One acted willfully or negligently under the FCRA, as its investigation followed established protocols and there was no evidence that a different result would have been reached with a reasonable investigation."
+    }
+  ],
+  "key_precedents": [
+    "Felts v. Wells Fargo Bank, NA, 893 F.3d 1305 (11th Cir. 2018)",
+    "Safeco Ins. Co. of Am. v. Burr, 551 U.S. 47 (2007)",
+    "Johnson v. MBNA Am. Bank, NA, 357 F.3d 426 (4th Cir. 2004)",
+    "Gorman v. Wolpoff & Abramson, LLP, 584 F.3d 1147 (9th Cir. 2009)",
+    "Casella v. Equifax Credit Info. Servs., 56 F.3d 469 (2d Cir. 1995)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "Appeal from a judgment of the United States District Court for the Southern District of New York (Stein, J.) dismissing plaintiff-appellant's claims under the Fair Credit Reporting Act, which alleged that defendant-appellee bank failed to conduct a reasonable investigation into her dispute claiming identity theft committed by her mother. Plaintiff contends that a reasonable investigation would have led to a finding that the account was fraudulent. The district court granted summary judgment to the bank, concluding first that, putting aside the actual reasonableness of the bank's investigation, no reasonable investigation required by the statute would have yielded a different result; and second that plaintiff did not present any triable issues of fact as to whether the bank willfully or negligently violated the statute so as to be liable to her for damages.\n\nAFFIRMED."
+}

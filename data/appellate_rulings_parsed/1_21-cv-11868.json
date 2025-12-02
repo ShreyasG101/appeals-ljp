@@ -1,0 +1,29 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the Cambridge Police Department violated Officer Hussey's First Amendment rights by disciplining him for a Facebook post criticizing the naming of the George Floyd Justice in Policing Act.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that, although Hussey's speech touched on a matter of public concern, the Department's interest in maintaining public trust and preventing disruption reasonably outweighed Hussey's and the public's interest in his speech, especially given the context and manner of his comments. The Department's prediction of disruption was reasonable, and there was no evidence of impermissible viewpoint discrimination."
+    }
+  ],
+  "key_precedents": [
+    "Pickering v. Bd. of Educ., 391 U.S. 563 (1968)",
+    "Connick v. Myers, 461 U.S. 138 (1983)",
+    "Garcetti v. Ceballos, 547 U.S. 410 (2006)",
+    "Curran v. Cousins, 509 F.3d 36 (1st Cir. 2007)",
+    "MacRae v. Mattos, 106 F.4th 122 (1st Cir. 2024)",
+    "Waters v. Churchill, 511 U.S. 661 (1994)",
+    "Davignon v. Hodgson, 524 F.3d 91 (1st Cir. 2008)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": true,
+  "summary_text": "Contending that he was unconstitutionally disciplined in retaliation for exercising his First Amendment rights, Cambridge Police Officer Brian Hussey sued the City of Cambridge, Massachusetts, and the Commissioner of the Cambridge Police Department (collectively, the \"Department\") under 42 U.S.C. \u00a7 1983. The district court granted summary judgment for the Department, finding that its interest in regulating Hussey's speech outweighed the relevant free speech interests. After careful review, we affirm."
+}

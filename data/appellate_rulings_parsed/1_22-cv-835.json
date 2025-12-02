@@ -1,0 +1,28 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the Bankruptcy Court properly granted summary judgment denying Legenza a discharge under 11 U.S.C. \u00a7727(a)(3) for failure to keep or preserve adequate financial records, and whether the District Court properly affirmed that ruling.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found that the absence of records was undisputed, Legenza failed to justify his lack of adequate recordkeeping, and his explanations (including loss of records during a move and reliance on memory) were insufficient under \u00a7727(a)(3). Thus, summary judgment was properly granted and affirmed."
+    }
+  ],
+  "key_precedents": [
+    "In re Kalikow, 602 F.3d 82 (2d Cir. 2010)",
+    "Nick\u2019s Garage, Inc. v. Progressive Cas. Ins. Co., 875 F.3d 107 (2d Cir. 2017)",
+    "In re Cacioli, 463 F.3d 229 (2d Cir. 2006)",
+    "In re Chalasani, 92 F.3d 1300 (2d Cir. 1996)",
+    "Anderson v. Liberty Lobby, Inc., 477 U.S. 242 (1986)",
+    "Celotex Corp. v. Catrett, 477 U.S. 317 (1986)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "UPON DUE CONSIDERATION, the judgment of the District Court entered on July 27, 2023, is AFFIRMED.\n\nDebtor-defendant-appellant Richard Joseph Legenza (\u201cLegenza\u201d) appeals from the District Court\u2019s judgment affirming the Bankruptcy Court\u2019s grant of summary judgment, pursuant to 11 U.S.C. \u00a7727(a)(3), denying him a discharge in bankruptcy.\n\nPlaintiff-appellee Gina Del Rosario (\u201cDel Rosario\u201d) loaned Legenza $58,000 to develop a casino-based blackjack game that Legenza created called \u201cWild Aces.\u201d The parties executed a \u201cLoan and Royalty Agreement\u201d (the \u201cAgreement\u201d) under which the debt was acknowledged to be $70,000 \u2013 accounting for interest \u2013 and \u201cLegenza assigned to Del Rosario a percentage of royalties he would receive from licensing the game.\u201d Legenza v. Del Rosario, 653 B.R. 295, 298 (W.D.N.Y. 2023) (\u201cLegenza II\u201d). But Legenza failed to place Wild Aces in at least 30 casinos in 30 months, as required by the Agreement, and Del Rosario asserted her right to cancel the Agreement and request the return of her funds. Legenza did not return her funds, so Del Rosario sued him in Nevada state court. Soon after Del Rosario\u2019s Nevada case was initiated, however, Legenza relocated to Buffalo and commenced bankruptcy proceedings in the U.S. Bankruptcy Court for the Western District of New York.\n\nOn November 22, 2021, Del Rosario initiated an adversary proceeding against Legenza requesting that the Bankruptcy Court deny a discharge to Legenza on several bases, including \u201cunder 11 U.S.C. \u00a7727(a)(3) because Mr. Legenza concealed, failed to keep or preserve sufficient recorded information, including books, documents, records, and papers, from which his financial condition or business transactions related to Plaintiff\u2019s investment might be ascertained.\u201d App\u2019x at 232. Del Rosario and Legenza filed cross-motions for summary judgment and on October 20, 2022, the Bankruptcy Court granted summary judgment in Del Rosario\u2019s favor and denied Legenza\u2019s discharge as to his debt to Del Rosario, pursuant to 11 U.S.C. \u00a7727(a)(3). On July 26, 2023, the District Court affirmed, and Legenza now appeals. We assume the parties\u2019 familiarity with the underlying facts, procedural history, and arguments on appeal, to which we refer only as necessary to explain our decision to affirm."
+}

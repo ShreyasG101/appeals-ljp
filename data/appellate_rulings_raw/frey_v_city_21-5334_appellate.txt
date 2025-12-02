@@ -1,0 +1,2020 @@
+23-365-cv
+Frey v. City of New York
+
+
+                           United States Court of Appeals
+                                    for the Second Circuit
+                           _____________________________________
+
+                                     August Term 2023
+
+               Argued: January 30, 2024        Decided: September 19, 2025
+
+                                       No. 23-365-cv
+
+                           _____________________________________
+
+                    JASON FREY, BRIANNA FREY, WILLIAM SAPPE,
+
+                                    Plaintiffs-Appellants,
+
+                                      JACK CHENG,
+
+                                          Plaintiff,
+
+                                          — v. —
+
+       CITY OF NEW YORK, NEW YORK, JESSICA S. TISCH, IN HER OFFICIAL
+    CAPACITY AS COMMISSIONER OF THE NEW YORK POLICE DEPARTMENT, STEVEN G.
+    JAMES, IN HIS OFFICIAL CAPACITY AS SUPERINTENDENT OF THE NEW YORK STATE
+                                     POLICE,*
+
+                              Defendants-Appellees.
+         _____________________________________
+
+
+
+
+*
+ The Clerk of the Court is respectfully directed to amend the caption on this Court’s
+docket to be consistent with the caption on this opinion.
+Before:     SACK, RAGGI, AND BIANCO, Circuit Judges.
+
+       Plaintiffs-Appellants brought pre-enforcement Second Amendment
+challenges to certain aspects of New York State’s (“New York” or the “State”)
+concealed carry license regime. As relevant to this appeal, Plaintiffs challenge the
+constitutionality of: (1) the prohibition on carrying firearms in “sensitive
+locations”—namely, Times Square, the New York City (the “City”) subway
+system, and the Metro-North rail system, see N.Y. Penal Law §§ 265.01-e(2)(t),
+(2)(n); (2) New York’s ban on open carry, see id. § 400.00(15); and (3) the
+requirement that a State concealed carry license holder apply for and receive a
+City-specific permit in order to carry a firearm in the City, see id. § 400.00(6).
+Plaintiffs filed a motion to preliminarily enjoin the enforcement of those
+provisions, which the district court denied in a March 13, 2023 order. On this
+appeal from that order, we conclude that Plaintiffs are unlikely to succeed on the
+merits because, based on the preliminary record before us, the government has
+demonstrated that each of the challenged provisions falls within our Nation’s
+historical tradition of gun regulations and, thus, does not violate the Second
+Amendment. Accordingly, we AFFIRM the order of the district court.
+
+                                AMY L. BELLANTONI, The Bellantoni Law Firm,
+                                Scarsdale, New York, for Plaintiffs-Appellants.
+
+                                ELINA DRUKER, Corporation Counsel (Richard
+                                Dearing and Claude S. Platton, Corporation
+                                Counsel, on the brief), for the Hon. Sylvia O. Hinds-
+                                Radix, Corporation Counsel of the City of New
+                                York, New York, New York, for Defendants-
+                                Appellees the City of New York and Jessica S. Tisch.
+
+                                PHILIP J. LEVITZ, Assistant Solicitor General
+                                (Barbara D. Underwood, Solicitor General, and
+                                Ester Murdukhayeva, Deputy Solicitor General, on
+                                the brief), for Letitia James, Attorney General for
+                                the State of New York, New York, New York, for
+                                Defendant-Appellee Steven G. James.
+
+
+
+
+                                         1
+                                   Janet Carter and William J. Taylor, Jr., Everytown
+                                   Law, New York, New York, for Amicus Curiae
+                                   Everytown for Gun Safety, in support of Defendants-
+                                   Appellees.
+
+                                   Matteo Godi, Paul, Weiss, Rifkind, Wharton &
+                                   Garrison LLP, Washington, District of Columbia,
+                                   Allan J. Arffa, Paul, Weiss, Rifkind, Wharton &
+                                   Garrison LLP, New York, New York, for Amicus
+                                   Curiae Metropolitan Transportation Authority, in
+                                   support of Defendants-Appellees.
+
+                                   Alan Schoenfeld and Ryan Chabot, Wilmer Cutler
+                                   Pickering Hale and Dorr LLP, New York, New
+                                   York, for Amicus Curiae The Times Square Alliance,
+                                   in support of Defendants-Appellees.
+
+
+
+JOSEPH F. BIANCO, Circuit Judge:
+
+      Plaintiffs-Appellants   brought      pre-enforcement     Second    Amendment
+
+challenges to certain aspects of New York State’s (“New York” or the “State”)
+
+concealed carry license regime. As relevant to this appeal, Plaintiffs challenge the
+
+constitutionality of: (1) the prohibition on carrying firearms in “sensitive
+
+locations”—namely, Times Square, the New York City (the “City”) subway
+
+system, and the Metro-North rail system, see N.Y. Penal Law §§ 265.01-e(2)(t),
+
+(2)(n); (2) New York’s ban on open carry, see id. § 400.00(15); and (3) the
+
+requirement that a State concealed carry license holder apply for and receive a
+
+
+                                           2
+City-specific permit in order to carry a firearm in the City, see id. § 400.00(6).
+
+Plaintiffs filed a motion to preliminarily enjoin the enforcement of those
+
+provisions, which the district court denied in a March 13, 2023 order. On this
+
+appeal from that order, we conclude that Plaintiffs are unlikely to succeed on the
+
+merits because, based on the preliminary record before us, the government has
+
+demonstrated that each of the challenged provisions falls within our Nation’s
+
+historical tradition of gun regulations and, thus, does not violate the Second
+
+Amendment. Accordingly, we AFFIRM the order of the district court.
+
+                                 BACKGROUND
+
+      New York requires individuals to obtain a license in order to carry firearms
+
+from the privacy of their homes into the public realm. See generally N.Y. Penal Law
+
+§ 400.00; see also id. §§ 265.03(3) (criminalizing possession of a loaded firearm
+
+outside a person’s home or place of business), 265.20(a)(3) (exempting license-
+
+holders from liability). New York grants licenses only for concealed public carry
+
+of a pistol or revolver.     See id. § 400.00(2)(f).   In other words, New York
+
+criminalizes, and thereby effectively bans, the open carrying of firearms in public.
+
+See id. § 400.00(15) (violation of a licensing restriction is a class A misdemeanor).
+
+
+
+
+                                          3
+      The licensing processes are administered at the city and county levels. See
+
+id. § 400.00(3). These localities may establish and apply more restrictive licensing
+
+requirements than the State. See id. § 400.30. With some exceptions inapplicable
+
+to this appeal, state law requires individuals who want to carry firearms in the
+
+City to obtain a license issued by the City, or a special permit if the individual has
+
+already obtained a license elsewhere. See id. § 400.00(6).
+
+      Prior to July 2022, New York law required license applicants to show,
+
+among other things, “proper cause” in order to obtain a concealed carry license.
+
+Id. § 400.00(2)(f) (effective Apr. 3, 2021 to July 5, 2022). However, the Supreme
+
+Court held that the requirement violated the Second Amendment and struck it
+
+down. See generally N.Y. State Rifle & Pistol Ass’n, Inc. v. Bruen, 597 U.S. 1, 70 (2022).
+
+In response to Bruen, the State legislature passed the Concealed Carry
+
+Improvement Act (“CCIA”), which removed the proper-cause requirement and
+
+amended other portions of the State’s concealed carry regulatory regime. As
+
+pertinent here, the CCIA makes it a felony to carry a firearm in certain statutorily
+
+defined categories of “sensitive locations,” including Times Square, as well as
+
+public transportation systems, even by concealed-carry license holders. N.Y. Penal
+
+Law §§ 265.01-e(2)(n), (2)(t); see also N.Y.C. Admin. Code § 10-315 (defining
+
+
+
+
+                                            4
+location of Times Square). There are exemptions for, inter alia, law enforcement
+
+officers, active-duty military personnel, and security guards. N.Y. Penal Law
+
+§ 265.01-e(3). The CCIA did not alter New York’s open carry ban or the City’s
+
+special permit requirement.
+
+      Plaintiffs filed this lawsuit in 2021. In October 2022, after the CCIA came
+
+into effect, Plaintiffs filed the operative second amended complaint against the
+
+City, the then-Commissioner of the New York City Police Department, and the
+
+then-Acting Superintendent of the New York State Police. As relevant to this
+
+appeal, Plaintiffs brought pre-enforcement Second Amendment challenges to
+
+(1) the CCIA’s prohibition on carrying firearms in certain “sensitive locations,”
+
+including Times Square, as well as the New York City subway and Metro-North
+
+train systems, id. § 265.01-e; (2) various provisions that they alleged together
+
+effectively ban the open carrying of firearms in New York, id. §§ 400.00(15), 265.01,
+
+265.01-b, 265.03(3), and N.Y.C. Admin. Code § 10-315; and (3) the City’s special
+
+permit requirement, N.Y. Penal Law § 400.00(6).
+
+
+
+
+                                         5
+       Plaintiffs Jason Frey and William Sappe are State residents who hold valid
+
+licenses for concealed carry in the State. 1 Jason Frey has a restricted “sportsman”
+
+license issued in Westchester County, New York, allowing him to carry concealed
+
+handguns in public to and from target shooting activities and during sporting
+
+activities, such as camping, hiking, and hunting. In 2019, Westchester County
+
+denied Frey’s application for an unrestricted concealed carry license for failure to
+
+show proper cause. Frey does not have a special permit issued by the City to carry
+
+concealed handguns within the City and asserts he “is not going to, and should
+
+not have to” apply for a separate City permit. App’x at 21. Nevertheless, Frey
+
+avers that he regularly carries his handgun concealed outside the scope of his
+
+“sportsman” license in Westchester County and in the City, including on the
+
+Metro-North train into Grand Central station, on the New York City subway, and
+
+in Times Square. Frey also states that he “intend[s] to start carrying [his] handgun
+
+open and holstered” when he is “not carrying the same handgun concealed,” and
+
+that “[t]he only reason [he] do[es] not exercise the right to open carry in New York
+
+
+
+
+1
+  Plaintiff Jack Cheng did not join the preliminary injunction motion that is the subject of
+this appeal. In addition, Plaintiff Brianna Frey does not contest the district court’s
+determination that she lacks standing to challenge the statutory provisions relevant to
+this appeal. Accordingly, only the challenges brought by William Sappe and Jason Frey
+are the subject of this appeal.
+
+                                             6
+State is the fear of arrest, jail and the other criminal and civil penalties that will
+
+follow.” Id. at 21.
+
+      William Sappe has an “unrestricted” license to carry a concealed weapon
+
+issued in Orange County, New York. At some unspecified point in time, he
+
+applied for a special permit to carry in the City, but his application was denied.
+
+Sappe avers that he is licensed as an armed guard by the State. As part of that job,
+
+he regularly transports cash, diamonds, and jewelry in and out of the City’s
+
+Diamond District, which requires him to travel though Times Square. Sappe states
+
+that he “intend[s] to carry [his] handgun concealed in New York City for self-
+
+defense on a daily basis,” id. at 25, and “intend[s] to begin carrying [his] handgun
+
+open and exposed on those days that [he is] not carrying a handgun concealed on
+
+[his] person, both inside New York City and throughout the state,” id. at 27. He
+
+fears “arrest and incarceration” for carrying in the City as well as for “carrying
+
+open and holstered.” Id. at 28.
+
+      On October 20, 2022, Plaintiffs filed a proposed order to show cause for
+
+emergency relief, which the district court construed as a motion for a preliminary
+
+injunction. See Frey v. Nigrelli, 661 F. Supp. 3d 176, 186 (S.D.N.Y. 2023). The district
+
+
+
+
+                                           7
+court denied the motion. 2 As to the restrictions on carrying concealed handguns
+
+in “sensitive locations,” the district court determined that the government
+
+sufficiently met its burden of establishing a historical tradition of banning firearms
+
+in congested commercial areas, such as Times Square and the public
+
+transportation systems. Id. at 200–07. As to the open carry ban, it concluded that
+
+Plaintiffs lacked standing to seek a preliminary injunction because they did not
+
+sufficiently aver concrete and imminent intentions to carry firearms in an open
+
+manner. See id. at 195. The district court also found that, even assuming Plaintiffs
+
+had standing, they were unlikely to prevail on the merits because the open carry
+
+ban fits within the historical tradition of regulating the manner of public carry,
+
+which allowed a state to lawfully eliminate one kind of public carry (concealed or
+
+open), so long as it left the alternative option open. See id. at 198–99. Finally, the
+
+district court concluded that Plaintiffs were unlikely to succeed on the merits of
+
+
+
+
+2
+ The district court stayed resolution of Plaintiffs’ challenge to the CCIA’s prohibition on
+carrying firearms onto private property without permission from the owner or lessee,
+N.Y. Penal Law § 265.01-d, pending our review of the same provision in two other cases.
+See Frey, 661 F. Supp. at 199. The district court similarly stayed the resolution of Plaintiffs’
+challenges to firearm prohibitions in other sensitive locations, including public parks,
+theaters, and restaurants with on-premises alcohol consumption, pending our review of
+the identical issues in Antonyuk v. James, No. 22-2908 (2d Cir. Filed Nov. 9, 2022). See id.
+at 200. Those provisions are therefore not before us on this appeal.
+
+                                               8
+their challenge to the City’s special permit requirement because the government
+
+established a historical tradition of firearm regulations at the municipal and town
+
+level. See id. at 196–98.
+
+      This appeal followed.
+
+                                   DISCUSSION
+
+      “We review the denial of a motion for a preliminary injunction for abuse of
+
+discretion, which we will identify only if the decision rests on an error of law or a
+
+clearly erroneous finding of fact, or cannot be located within the range of
+
+permissible decisions.” New Hope Fam. Servs., Inc. v. Poole, 966 F.3d 145, 180 (2d
+
+Cir. 2020). “We may, of course, affirm on any basis for which there is a record
+
+sufficient to permit conclusions of law, including grounds upon which the district
+
+court did not rely.” Name.Space, Inc. v. Network Sols., Inc., 202 F.3d 573, 584 (2d Cir.
+
+2000) (internal quotation marks and citation omitted).
+
+      “A preliminary injunction is an extraordinary remedy never awarded as of
+
+right.” Winter v. Nat. Res. Def. Council, Inc., 555 U.S. 7, 24 (2008). Ordinarily, “[a]
+
+plaintiff seeking a preliminary injunction must establish [(1)] that he is likely to
+
+succeed on the merits, [(2)] that he is likely to suffer irreparable harm in the
+
+absence of preliminary relief, [(3)] that the balance of equities tips in his favor, and
+
+
+
+
+                                           9
+[(4)] that an injunction is in the public interest.” Id. at 20. However, “when, as
+
+here, the moving party seeks a preliminary injunction that will affect government
+
+action taken in the public interest pursuant to a statutory or regulatory scheme,
+
+the injunction should be granted only if the moving party” can “establish a clear
+
+or substantial likelihood of success on the merits.” Cnty. of Nassau. v. Leavitt, 524
+
+F.3d 408, 414 (2d Cir. 2008) (alteration, internal quotation marks, and citations
+
+omitted).
+
+ I.   Second Amendment Principles
+
+      The Second Amendment, made applicable to the states through the
+
+Fourteenth Amendment, guarantees that “the right of the people to keep and bear
+
+[a]rms [] shall not be infringed.” U.S. Const. amend. II.
+
+      After Bruen, we follow a two-step framework to evaluate Second
+
+Amendment challenges.       First, the plaintiff must establish that “the Second
+
+Amendment’s plain text covers an individual’s conduct.” Bruen, 597 U.S. at 24. If
+
+the plaintiff surmounts this initial textual hurdle, the burden shifts to the
+
+government to prove that the challenged law is “consistent with the Nation’s
+
+historical tradition of firearm regulation.” Id. We focus on history and tradition
+
+because the Second Amendment “codified a pre-existing right”—with a history
+
+
+
+
+                                         10
+that makes clear that this right is “not unlimited.” District of Columbia v. Heller, 554
+
+U.S. 570, 592, 595 (2008) (emphasis in original). The right’s enshrinement in the
+
+Bill of Rights “br[ought] the old soil with it,” Sekhar v. United States, 570 U.S. 729,
+
+733 (2013) (internal quotation marks and citation omitted)—that is, we understand
+
+the Second Amendment to “incorporate traditional limitations that existed at or
+
+around ratification, unless historical context suggests otherwise,” Antonyuk v.
+
+James, 120 F.4th 941, 968 (2d Cir. 2024) (internal quotation marks and citation
+
+omitted), cert. denied, 145 S. Ct. 1900 (2025). Historically established firearm
+
+regulations therefore inform us of the limits of the right and thereby “give content
+
+to the indeterminate and underdetermined text of the Second Amendment.” Id.
+
+      Under this history and tradition analysis at step two, we “must ascertain
+
+whether the [challenged] new law is relevantly similar to laws that our tradition
+
+is understood to permit, applying faithfully the balance struck by the founding
+
+generation to modern circumstances.” United States v. Rahimi, 602 U.S. 680, 692
+
+(2024) (alteration adopted) (internal quotation marks and citation omitted). “Why
+
+and how the regulation burdens the right are central to this inquiry.” Id. The
+
+Supreme Court has stressed that the Bruen framework was “not meant to suggest
+
+a law trapped in amber.” Id. at 691. Thus, this analogical reasoning “requires only
+
+
+
+
+                                          11
+that the government identify a well-established and historical analogue, not a
+
+historical twin” or a “dead ringer.” Bruen, 597 U.S. at 30 (emphases in original).
+
+      Because Bruen did not “provide an exhaustive survey of the features that
+
+render regulations relevantly similar under the Second Amendment,” id. at 29, we
+
+attempted to undertake that endeavor at some length in Antonyuk. There, we
+
+explained that “courts must be particularly attuned to the reality that the issues
+
+we face today are different than those faced in medieval England, the Founding
+
+Era, the Antebellum Era, and Reconstruction.” Antonyuk, 120 F.4th at 970; see
+
+Bruen, 597 U.S. at 27 (“[C]ases implicating unprecedented societal concerns or
+
+dramatic technological changes may require a more nuanced approach.”). Thus,
+
+a lack of distinctly similar historical regulations during one or more of those time
+
+periods “may not be reliably dispositive in Second Amendment challenges to laws
+
+addressing modern concerns.” Antonyuk, 120 F.4th at 970. “Reasoning from
+
+historical silence is [also] risky,” we said, because “[l]egislatures past and present
+
+have not generally legislated to their constitutional limits,” and it is thus “not
+
+necessarily the case that, if no positive legislation from a particular time or place
+
+is in the record, it must be because the legislators then or there deemed such
+
+regulation inconsistent with the right to bear arms.” Id. at 969.
+
+
+
+
+                                         12
+      We also underscored that it is “not dispositive whether comparable
+
+historical regulations exist in significant numbers.” Id. at 971 (emphasis omitted).
+
+Indeed, the Supreme Court had no trouble confirming that “laws forbidding the
+
+carrying of firearms in sensitive places such as schools and government buildings”
+
+were “longstanding” and “settled,” notwithstanding that “the historical record
+
+yields relatively few 18th- and 19th- century ‘sensitive places’ where weapons
+
+were altogether prohibited.” Bruen, 597 U.S. at 30 (internal quotation marks and
+
+citation omitted).   That was because the Court was “aware of no disputes
+
+regarding the lawfulness of such prohibitions.” Id. Therefore, especially where
+
+there is a lack of constitutional dispute regarding a type of gun regulation, or “if
+
+courts during that period upheld similar governmental practices against similar
+
+constitutional challenges,” “comparable historical laws need not proliferate to
+
+justify a modern prohibition.” Antonyuk, 120 F.4th at 969, 972.
+
+      Importantly, in Antonyuk, we further held that “[b]ecause the CCIA is a state
+
+law, the prevailing understanding of the right to bear arms in 1868 and 1791 are
+
+both focal points of our analysis,” and that “[t]he time periods in close proximity
+
+to 1791 and 1868 are also relevant to our analysis.” Id. at 972–73. We reasoned
+
+that “the understanding that prevailed when the States adopted the Fourteenth
+
+
+
+
+                                        13
+Amendment” is, “along with the understanding of that right held by the founders
+
+in 1791, a relevant consideration.” Id. at 973–74 (internal quotation marks and
+
+citation omitted).   Thus, we suggested that the incorporation of the Second
+
+Amendment against the states through the Fourteenth Amendment may have, as
+
+commentators observe, “invested those original 1791 texts with new 1868
+
+meanings.”    Kurt T. Lash, Respeaking the Bill of Rights: A New Doctrine of
+
+Incorporation, 97 Ind. L.J. 1439, 1441 (2022); see also Akhil Reed Amar, Heller, HLR,
+
+and Holistic Legal Reasoning, 122 Harv. L. Rev. 145, 178 (2008) (“In the process of
+
+‘incorporating’ these rights against states, the Fourteenth [Amendment] also
+
+reglossed the earlier amendments and gave America a more liberal, more
+
+individualistic Bill of Rights than did the Founders.”). However, we did not
+
+definitively answer the question that the Supreme Court has so far tabled:
+
+“whether courts should primarily rely on the prevailing understanding of an
+
+individual right when the Fourteenth Amendment was ratified in 1868 when
+
+defining its scope.” Bruen, 597 U.S. at 37 (emphasis added); see Rahimi, 602 U.S. at
+
+692 n.1 (reserving same question).
+
+      Here too, as in Antonyuk, we need not choose which era’s understanding has
+
+primacy. Even if the 1791 understanding primarily controls, the Supreme Court
+
+
+
+
+                                         14
+has approved looking to post-Founding history to discern that meaning. We
+
+pause here to reiterate why we may comfortably rely on that history, especially
+
+from the Reconstruction era, and to explain why we may rely on it where the
+
+Second Amendment’s plain text and Founding era evidence prove equivocal.
+
+      The Supreme Court has explicitly sanctioned looking to post-Founding
+
+history in understanding the original public meaning of the Second Amendment
+
+in 1791. In Heller, the Supreme Court explained that “the examination of a variety
+
+of legal and other sources to determine the public understanding of a legal text in the
+
+period after its enactment or ratification” is “a critical tool of constitutional
+
+interpretation.”   554 U.S. at 605 (second emphasis added).          Heller therefore
+
+“address[ed] how the Second Amendment was interpreted from immediately
+
+after its ratification through the end of the 19th century” in its pursuit of
+
+understanding the scope of the right to keep and bear arms. Id.
+
+      In particular, Heller underscored the importance of Reconstruction-era
+
+evidence. Heller explained that, “[i]n the aftermath of the Civil War, there was an
+
+outpouring of discussion of the Second Amendment in Congress and in the public
+
+discourse,” and “those born and educated in the early 19th century faced a
+
+widespread effort to limit arms ownership by a large number of citizens.” Id. at
+
+
+
+
+                                          15
+614; see McDonald v. City of Chicago, 561 U.S. 742, 771 (2010) (“After the Civil War,
+
+many of the over 180,000 African-Americans who served in the Union Army
+
+returned to the States of the old Confederacy, where systematic efforts were made
+
+to disarm them and other blacks.”). As a result, “their understanding of the origins
+
+and continuing significance of the [Second] Amendment is instructive.” Heller,
+
+550 US. at 614. Bruen reaffirmed the appropriateness of relying on post-Founding
+
+history as evidence of the public understanding of a Constitutional provision at
+
+the time of the Founding. 597 U.S. at 35 (“It is true that in Heller we reiterated that
+
+evidence of how the Second Amendment was interpreted from immediately after
+
+its ratification through the end of the 19th century represented a critical tool of
+
+constitutional interpretation.” (internal quotation marks and citation omitted)).
+
+      Post-Founding historical evidence is also relevant under James Madison’s
+
+“liquidation” theory. Under that theory—which the Supreme Court has endorsed
+
+on several occasions, including in Bruen—“‘a regular course of practice’ can
+
+‘liquidate & settle the meaning of’ disputed or indeterminate ‘terms & phrases’”
+
+in the Constitution. Chiafalo v. Washington, 591 U.S. 578, 593 (2020) (quoting Letter
+
+from J. Madison to S. Roane (Sept. 2, 1819), in 8 Writings of James Madison 450 (G.
+
+Hunt ed. 1908)); Bruen, 597 U.S. at 35–36 (quoting the passage from Chiafalo); see
+
+
+
+
+                                          16
+also, e.g., The Pocket Veto Case, 279 U.S. 655, 689 (1929) (“Long settled and
+
+established practice is a consideration of great weight in a proper interpretation of
+
+constitutional provisions.”).     In other words, where the meaning of a
+
+Constitutional provision is “more or less obscure and equivocal,” a deliberate and
+
+sustained course of post-enactment action may settle the meaning of that
+
+provision. The Federalist No. 37, at 236 (James Madison) (Jacob E. Cooke ed.,
+
+1961); see generally William Baude, Constitutional Liquidation, 71 Stan. L. Rev. 1, 8–
+
+35 (2019); see also Rahimi, 602 U.S. at 738 (Barrett, J., concurring) (explaining that
+
+post-enactment history can “liquidate ambiguous constitutional provisions”
+
+(citation omitted)).
+
+      To be sure, Bruen cautioned that we should not give “postenactment history
+
+more weight that it can rightly bear.” 597 U.S. at 35. In particular, we cannot rely
+
+on later history if it “contradicts what the text says.” Id. at 36. Moreover, our
+
+reliance on 19th-century evidence should be “secondary” where there is a “wealth
+
+of authority” from the Founding era. Id. at 37. However, those observations “do[]
+
+not require courts to reflexively discount evidence from the latter half of the 19th
+
+century absent indications that such evidence is inconsistent with the national
+
+tradition.” Antonyuk, 120 F.4th at 1029.
+
+
+
+
+                                           17
+      Where there is no strong historical evidence from the Founding era, it is
+
+appropriate to look toward, and rely upon, later historical evidence. As we
+
+articulated in Antonyuk, the paucity of a similar historical regulation during the
+
+Founding era does not evince a lack of a historical tradition in “this Nation’s whole
+
+tradition,” id. at 972 n.15 (emphasis in original), because “it is not necessarily the
+
+case that, if no positive legislation from a particular time or place is in the record,
+
+it must be because the legislators then or there deemed such a regulation
+
+inconsistent with the right to bear arms,” id. at 969. Thus, the dearth of similar
+
+Founding-era laws does not help us discern with clarity the scope of the Second
+
+Amendment right. At that point, rather than shrugging our shoulders, we must
+
+instead continue our march through history to ascertain the meaning of that as-yet
+
+ambiguous Constitutional provision.         Later history may continue to prove
+
+equivocal, in which case the government cannot meet its burden of proving a
+
+historical tradition of a certain firearm regulation. Later history might instead
+
+definitively showcase either the existence or lack of a strong national tradition.
+
+However, whatever that later history bears out, the conclusions we derive from it
+
+could not be characterized as contradicting the understanding of the right in 1791
+
+if the Founding-era history does not point with some certainty in one direction or
+
+
+
+
+                                          18
+another. See id. at 974 (recognizing “that evidence nearest to 1791 can differ from
+
+that nearest to 1868,” but that 1791, 1868, and “the adjacent and intervening
+
+periods” remain “fertile ground” to “seek evidence of our national tradition of
+
+firearm regulation”).
+
+      As discussed above, looking to later history in the face of an indeterminate
+
+Founding-era record fits neatly within the originalist and liquidation theories
+
+espoused by the Court in Heller and Bruen. It comports with an originalism
+
+analysis pegged to 1791 because Reconstruction era evidence, though secondary
+
+to Founding era evidence, is nevertheless uniquely “instructive” to understanding
+
+the original public meaning of the Second Amendment right since “those born and
+
+educated in the early 19th century faced a widespread effort to limit arms
+
+ownership by a large number of citizens” during that time period. Heller, 554 U.S.
+
+at 614; see also Rahimi, 602 U.S. at 738 (Barrett, J., concurring) (“[P]ostenactment
+
+history can be an important tool” because it can “provide persuasive evidence of
+
+the original meaning”).     Thus, for example, in explaining that the Second
+
+Amendment right “was not a right to keep and carry any weapon whatsoever in
+
+any manner whatsoever and for whatever purpose,” and providing the
+
+“prohibitions on carrying concealed weapons” as an example of lawful limitations
+
+
+
+
+                                        19
+on the right, Heller relied exclusively on the fact that “the majority of the 19th-
+
+century courts to consider the question” found those prohibitions “lawful under
+
+the Second Amendment or state analogues.”                Id. at 626 (emphasis added)
+
+(collecting 19th century cases). Relying on later history is also appropriate under
+
+Madison’s liquidation theory because a regular course of practice may settle a
+
+constitutional debate at any point in our history, so long as the question had
+
+previously remained open. See Baude, 71 Stan. L. Rev. at 59–60 (arguing that
+
+“[p]rivileging early practice through liquidation is tempting but wrong” because
+
+“[i]ndeterminate provisions remain open to liquidation for as long as their
+
+meanings remain contested”); cf. Heller, 554 U.S. at 625 (noting that some
+
+“provisions of the Bill of Rights have [] remained unilluminated for lengthy
+
+periods”). In short, consistent with the two constitutional interpretive modalities
+
+endorsed by Bruen, where neither the plain text nor Founding-era evidence makes
+
+clear the scope of the Second Amendment right, we may focus on later evidence,
+
+especially from the Reconstruction era, to ascertain that scope. 3
+
+
+
+
+3
+  We readily recognize that, as Justice Barrett explained in her Rahimi concurrence, “for
+an originalist, the history that matters most is the history surrounding the ratification of
+the text” because “that backdrop illuminates the meaning of the enacted law.” Rahimi,
+
+
+
+
+                                            20
+          With these principles in mind, we take up the Second Amendment questions
+
+presented in this appeal.
+
+    II.   Sensitive Locations Restrictions
+
+          We first address Plaintiffs’ challenge to the ban on firearms in certain
+
+sensitive locations. Section 265.01-e criminalizes the “possession of a firearm, rifle
+
+or shotgun in a sensitive location” when “such person knows or reasonably should
+
+know such location is a sensitive location.” N.Y. Penal Law § 265.01-e(1). Section
+
+265.01-e then lists and defines those sensitive locations, including, as relevant here,
+
+“the area commonly known as Times Square,” id. at § 265.01-e(2)(t), and “any
+
+place, conveyance, or vehicle used for public transportation or public transit” or
+
+“any facility used for or in connection with service in the transportation of
+
+passengers,” such as subway and train cars and stations, id. at § 265.01-e(2)(n). 4
+
+
+
+
+602 U.S. at 737–38 (Barrett, J., concurring). However, when that evidence fails to yield a
+conclusive answer, nothing stops us from considering the next-best evidence. See id. at
+738 (explaining that “postenactment history can be an important tool” because it can
+“provide persuasive evidence of the original meaning”).
+
+4
+  The City’s argument that Plaintiffs lack standing to challenge these provisions unless
+we conclude that they are likely to succeed on their challenge to the City’s special permit
+requirement, N.Y. Penal L. § 400.00(6), is unpersuasive. Although the City offers little by
+way of explanation, we construe the City to argue that Plaintiffs cannot satisfy the
+
+
+
+
+                                             21
+       The district court found that Plaintiffs satisfied the requirements under step
+
+one of the Bruen analysis, which Defendants do not challenge on appeal. Frey, 661
+
+F. Supp. 3d at 200–01, 203. We assume, without deciding, that finding is correct
+
+and turn our attention to the step-two analysis.
+
+       Beginning with Heller, the Supreme Court has repeatedly confirmed that
+
+“laws forbidding the carrying of firearms in sensitive places” are “presumptively
+
+lawful regulatory measures.” 554 U.S. at 626–27 & n.26; see McDonald, 561 U.S. at
+
+786 (“repeat[ing] th[e] assurances” in Heller that “laws forbidding the carrying of
+
+firearms in sensitive places such as schools and government buildings” are
+
+presumptively constitutional (internal quotation marks and citation omitted)).
+
+Although Heller illustrated the sensitive places doctrine by referencing schools and
+
+government buildings, it identified them “only as examples” that did “not purport
+
+to be exhaustive.” Heller, 554 U.S. at 627 n.26. Bruen then reaffirmed that it is
+
+
+
+
+redressability requirement of standing because even if we enjoined Section 265.01-e,
+Section 400.00(6) bars Plaintiffs from carrying firearms in the City generally, including in
+Times Square and the City’s public transportation systems. However, a violation of
+Section 265.01-e is a class E felony, whereas a violation of Section 400.00 is a class A
+misdemeanor. Thus, enjoining the enforcement of Section 265.01-e “satisfies the
+redressability requirement” because it “will relieve a discrete injury”—the risk of a felony
+conviction. Larson v. Valente, 456 U.S. 228, 243 n.15 (1982); see id. (explaining that a plaintiff
+“need not show that a favorable decision will relieve his every injury” to satisfy
+redressability (emphasis in original)).
+
+                                               22
+“settled” that certain locations such as legislative assemblies, polling places, and
+
+courthouses are “‘sensitive places’ where arms carrying could be prohibited
+
+consistent with the Second Amendment.” Bruen, 597 U.S at 30. Bruen further
+
+explained that courts can analogize to these “‘longstanding’ ‘laws forbidding the
+
+carrying of firearms in sensitive places such as schools and government
+
+buildings’” “to determine that modern regulations prohibiting the carry of
+
+firearms in new and analogous sensitive places are constitutionally permissible.”
+
+Id. (emphasis in original).
+
+      Bearing those principles in mind in Antonyuk, we scoured the history books
+
+and concluded that our Nation has a “well-established and representative
+
+tradition of regulating firearms in public forums and quintessentially crowded
+
+places, enduring from medieval England to Reconstruction America and beyond.”
+
+120 F.4th at 1019. In so concluding, we first pointed to a British statute from 1328—
+
+the Statute of Northampton—which forbade going or riding “armed by night []or
+
+by day, in fairs, markets.” Id. (quoting Statute of Northampton 1328, 2 Edw. 3 c.3
+
+(Eng.)). Two states, Virginia and North Carolina, “passed statutes at the Founding
+
+that replicated the medieval English law prohibiting firearms in fairs and markets,
+
+i.e., the traditional, crowded public forum.” Id. at 1019–20 (citing 1786 Va. Acts 35,
+
+
+
+
+                                         23
+Ch. 49 (stating that “no man, great or small, of what condition,” except ministers
+
+of justice, shall “go nor ride armed by night nor by day, in fairs or markets, or in
+
+other places, in terror of the country”); Collection of Statutes of the Parliament of
+
+England in Force in the State of North Carolina, pp. 60–61, ch. 3 (F. Martin Ed.
+
+1792) (stating that “no man great nor small,” except ministers of justice, shall
+
+“bring no force in an affray of peace, nor to go nor ride armed by night nor by day,
+
+in fairs, markets”)); see id. at 1021 (observing that Virginia’s and North Carolina’s
+
+statutes “applied to over a quarter of the Nation’s population”). Looking to the
+
+Reconstruction era, we determined that three other states (Texas, Missouri, and
+
+Tennessee) and two territories (Oklahoma and Arizona) similarly passed laws
+
+prohibiting weapons in public forums and crowded places. Id. at 1021–22; see
+
+1869–70 Tenn. Pub. Acts 23 (prohibiting carriage of deadly weapons by “any
+
+person attending any fair, race course, or other public assembly of the people”);
+
+1870 Tex. Gen. Laws 63 (prohibiting firearms in “place[s] where persons are
+
+assembled for educational, literary or scientific purposes, or into a ball room, social
+
+party or other social gathering”); 1883 Mo. Laws 76 (barring firearms in “any
+
+school room or place where people are assembled for educational, literary or social
+
+purposes” and “any other public assemblage of persons met for any lawful
+
+
+
+
+                                          24
+purpose”); 1889 Ariz. Sess. Laws 17 (prohibiting carrying “a pistol or other
+
+firearm” to “any church or religious assembly, any school room, or other place
+
+where persons are assembled for amusement or for educational or scientific
+
+purposes, or into any circus, show or public exhibition of any kind, or into a ball
+
+room, social party or social gathering, or to any election precinct on the day or
+
+days of any election . . . or to any other public assembly”); 1890 Okla. Sess. Laws
+
+496 (prohibiting carriage of a firearm in places “where persons are assembled for
+
+. . . amusement, or for educational or scientific purposes, or into any circus, show
+
+or public exhibition of any kind, or into any ball room, or to any social party or
+
+social gathering”).
+
+      These legislative actions were reinforced by judicial imprimatur.           We
+
+highlighted that “the state courts of all three states that had such laws upheld this
+
+type of statute as constitutional.” Antonyuk, 120 F.4th at 1021; see Andrews v. State,
+
+50 Tenn. 165, 182 (1871) (upholding conviction under Tennessee law on grounds
+
+that “a man may well be prohibited from carrying his arms” to a “public
+
+assemblage, as the carrying [of] them to such places is not an appropriate use of
+
+them”); English v. State, 35 Tex. 473, 478–79 (1872) (upholding indictment under
+
+Texas law and noting that the Second Amendment does not guarantee the “right
+
+
+
+
+                                         25
+to carry upon his person any of the mischievous devices inhibited by the statute,
+
+into a peaceable public assembly, as, for instance into a church, a lecture room, a
+
+ball room, or any other place where ladies and gentlemen are congregated
+
+together.”) 5; State v. Shelby, 2 S.W. 468, 469 (Mo. 1886) (holding that the Missouri
+
+law prohibiting carriage “where people are assembled for educational, literary, or
+
+social purposes” was constitutional). These state supreme court decisions “during
+
+that period uph[olding] similar governmental practices against similar
+
+constitutional challenges” are “strong evidence of constitutionality.” Antonyuk,
+
+120 F.4th at 969.
+
+      Accordingly, we held that “[t]his long, unbroken line, beginning from
+
+medieval England and extending beyond Reconstruction, indicates that the
+
+tradition of regulating firearms in often-crowded public forums is part of the
+
+
+
+
+5
+  English v. State also upheld a Texas law that forbade anyone from “carrying on or about
+his person . . . any pistol . . . unless he has reasonable grounds for fearing an unlawful
+attack on his person.” 1871 Tex. Gen. Laws § 1. As to that particular portion of English,
+Bruen concluded that it was an “outlier[]” and would therefore “not give
+disproportionate weight” to it in assessing whether there was a historical tradition of a
+“proper cause” licensing requirement. 597 U.S. at 64–65. However, on the issue of
+carrying a firearm into a public assembly, the Texas statute and English decision are, as
+demonstrated above, supported by a wide swath of other similar state statutes and court
+decisions. Bruen therefore in no way prevents us from relying on the English case here.
+See Antonyuk, 120 F.4th at 1021 n.83.
+
+                                           26
+immemorial custom of this Nation.” Id. at 1021 (internal quotation marks and
+
+citations omitted).
+
+       Comparing that robust historical tradition against the prohibition of
+
+firearms in urban parks and theaters at issue in Antonyuk was “a straightforward
+
+inquiry” because “[i]t is obvious that [Section] 265.01-e burdens Second
+
+Amendment rights in a distinctly similar way (i.e., by prohibiting carriage) and for
+
+a distinctly similar reason (i.e., maintaining order in often-crowded public squares)
+
+as do the plethora of regulations provided by the State.” 6 Id. at 1024. We therefore
+
+
+
+
+6
+  We are not so certain that the Northampton statute, or the Virginia and North Carolina
+laws that replicated it, prohibited carriage altogether. As Antonyuk acknowledged, the
+Virginia statute “prohibited conduct and not simply carriage, i.e., bearing arms in ‘terror’
+of the county.” 120 F.4th at 1020 n.82 (emphasis omitted). Although Antonyuk read the
+Northampton and North Carolina statutes “to have prohibited firearm carriage in general
+at fairs and markets regardless of conduct,” id., Bruen undermines that interpretation. As
+Bruen explained, English courts interpreted the Northampton statute to do nothing more
+than affirm the common law offense of “going armed to terrify the King’s subjects,” and
+therefore, “one’s conduct will come within the Act” only “where the crime shall appear
+to be malo animo.” 597 U.S. at 43–44 (alteration adopted) (emphasis omitted) (quoting
+Sir John Knight’s Case, 3 Mod. 117, 118 (K. B. 1686)). By the 18th century, the Northampton
+statute “was no obstacle to public carry for self-defense in the decades leading to the
+founding” because, as one “widely read 1716 treatise[] confirmed,” “no wearing of Arms
+is within the meaning of [the Statute of Northampton], unless it be accompanied with
+such Circumstances as are apt to terrify the People.” Id. at 45 (emphasis added) (internal
+quotation marks and citation omitted). As to the North Carolina law, Bruen pointed to
+State v. Huntly, 25. N.C. 418 (1843) (per curiam), where “consistent with the
+[Northampton] Statute’s long-settled interpretation, the North Carolina Supreme Court
+
+
+
+
+                                            27
+concluded that the prohibition on firearms in these crowded public spaces was
+
+likely constitutional.
+
+        Here, the government relies on that same historical evidence to support the
+
+constitutionality of laws prohibiting firearms in Times Square and the public
+
+transportation system. 7       Whether these prohibitions are consistent with the
+
+
+
+
+acknowledged ‘that the carrying of a gun’ for a lawful purpose ‘per se constitutes no
+offence,’” and “[o]nly carrying for a ‘wicked purpose’ with a ‘mischievous result . . .
+constitute[d a] crime.’” Id. at 51 (quoting Huntly, 25 N.C. at 422–23). It therefore may be
+that those statutes, just like the Virginia law, did not ban carriage without malintent. See
+Wolford v. Lopez, 116 F.4th 959, 998 n.12 (9th Cir. 2024) (rejecting the states’ reliance on
+“colonial laws in Virginia and North Carolina that were successors to the Statute of
+Northampton” because “the Supreme Court has explained that those laws prohibited the
+carry of firearms only to the ‘terror’ of the people or for a ‘wicked purpose’; lawful carry
+was permitted.”).
+
+        Nevertheless, even assuming that Antonyuk does not have the better reading of
+these statutes, we remain confident in Antonyuk’s conclusion that we have a well-
+established tradition of banning firearms in quintessentially crowded places. The
+Founding-era Virginia and North Carolina laws evince that lawmakers were sensitive to
+the potential mayhem gun-wielding may cause in crowded locations, but do not provide
+clarity into how far they understood they could legislate to mitigate those concerns. See
+Antonyuk, 120 F.4th at 969 (“Legislatures past and present have not generally legislated
+to their constitutional limits.”). As we explained supra, where, as here, the Founding-era
+history is inconclusive, we may consider later history. And, as explained above, there is
+a host of relevantly similar Reconstruction-era statutes, affirmed by state supreme court
+decisions during that time period, that more than adequately establish the robustness of
+the historical tradition.
+
+7
+    In addition to the laws cited in Antonyuk, the government has also identified a similar
+
+
+
+
+                                             28
+historical tradition of prohibiting firearms in quintessentially crowded places is
+
+similarly “a straightforward inquiry.” Antonyuk, 120 F.th at 1024.
+
+       There is perhaps no public place more quintessentially crowded than Times
+
+Square. Extending approximately from 40th to 53rd Street, and from Sixth to
+
+Ninth Avenue in Manhattan, see N.Y.C. Admin. Code § 10-315, this block at the
+
+heart of Manhattan, known as the “Crossroads of the World,” teems with “rivers
+
+of neon and seas of tourists.” Clyde Haberman, The Crossroads, N.Y. Times,
+
+https://archive.nytimes.com/www.nytimes.com/specials/times-square/
+
+ts-index.html (last visited Aug. 14, 2025). The Nasdaq Exchange and Broadway
+
+theaters, as well as hundreds of restaurants and stores are among those that call it
+
+home. See Times Square Alliance Amicus Br. at 4–5. Over 300,000 people visit
+
+Times Square every day. Id. at 5. Moreover, Times Square serves as a civic
+
+
+
+
+law from Montana, 1903 Mont. Laws 49 (prohibiting firearms in any “other place where
+persons are assembled for amusement or for education or scientific purposes, or into any
+circus, show, or public exhibition of any kind, or into a ball room, social party, or social
+gathering”), as well as two laws from Georgia and Idaho that banned firearms at any
+“public gathering” without qualification, 1870 Ga. Laws 421 (prohibiting carrying “any
+dirk, bowie-knife, pistol or revolver, or any kind of deadly weapon, to any court of justice,
+or any election ground or precinct, or any place of public worship, or any other public
+gathering in this State, except militia muster-grounds”); 1889 Idaho Gen. Laws 23
+(prohibiting carrying “any dirk, dirk-knife, sword, sword-cane, pistol, gun or other
+deadly weapons . . . in any public assembly”).
+
+                                             29
+commons where thousands gather to exercise their fundamental democratic and
+
+First Amendment rights—to speak, demonstrate, and protest. Id. at 10. In short,
+
+Times Square is our modern-day, electrified, supersized equivalent of fairs,
+
+markets, and town squares of old. We therefore “need not stretch the analogy far,”
+
+Antonyuk, 120 F.4th at 1038, to conclude that Section 265.01-e(2)(t) is entirely
+
+consistent with our historical tradition of regulating firearms in quintessentially
+
+crowded places in both the “how” and “why.”
+
+        For similar reasons, we have no trouble holding that Section 265.01-e(2)(n),
+
+as it applies to the Subway and Metro-North, is consistent with that tradition. “By
+
+any measure, the New York City subway system is America’s largest and busiest.”
+
+MacWade v. Kelly, 460 F.3d 260, 264 (2d Cir. 2006). It is “the place where millions
+
+of diverse New Yorkers and visitors stand elbow to elbow as they traverse the
+
+metropolis.”        Id.; see MTA Daily Ridership and Traffic: Beginning 2020,
+
+https://data.ny.gov/Transportation/MTA-Daily-Ridership-and-Traffic-Beginning-
+
+2020/sayj-mze2/about_data (last updated August 18, 2025) (showing daily
+
+ridership consistently far in excess of 3 million in summer 2025). 8 Similarly, there
+
+
+
+
+8
+    We take judicial notice of these statistics publicized on the State’s website. See Vill.
+
+
+
+
+                                             30
+is no dispute that Metro-North trains are often packed with passengers, especially
+
+during peak commuting hours. See MTA Daily Ridership and Traffic: Beginning
+
+2020,       https://data.ny.gov/Transportation/MTA-Daily-Ridership-and-Traffic-
+
+Beginning-2020/sayj-mze2/about_data (last updated August 18, 2025) (showing
+
+weekday ridership on the Metro-North consistently above 200,000 in summer
+
+2025). What’s more, once the familiar command—“stand clear of the closing
+
+doors”—sounds and the car doors slam shut, riders are sealed within the slender
+
+metal tube until, absent misadventure, they emerge at the next station stop.
+
+Firearm prohibitions in subway and train systems are therefore especially akin to
+
+those historical laws that specifically singled out enclosed crowded spaces, such as
+
+ballrooms, as places where prohibiting firearm carriage was appropriate. See 1870
+
+Tex. Gen. Laws 63 (enumerating ballrooms in list of places of public assembly
+
+where arms are prohibited); 1889 Ariz. Sess. Laws 17 (same); 1890 Okla. Sess. Laws
+
+495 (same); 1903 Mont. Laws 355 (same); 1864–65 N.M. Laws 406 (prohibiting
+
+
+
+
+Green at Sayville, LLC v. Town of Islip, 43 F.4th 287, 299 n.7 (2d Cir. 2022) (“A court may
+take routine judicial notice of documents retrieved from official government websites.”
+(alteration adopted) (internal quotation marks and citation omitted)); accord Cangemi v.
+United States, 13 F.4th 115, 124 n.4 (2d Cir. 2021) (taking judicial notice of statistics on
+government website).
+
+
+
+                                            31
+firearms in “balls or fandangos”); New Orleans, L.a., An Ordinance Respecting
+
+Public Balls, art. 1 (Oct. 27, 1817), reprinted in General Digest of the Ordinances and
+
+Resolutions of the Corporation of New Orleans 371, 371 (1831) (prohibiting
+
+weapons in ball rooms).
+
+      Plaintiffs’ focus on a “lack of a distinctly similar historical regulation”
+
+directly addressing firearm carriage on public transportation is misplaced.
+
+Appellant’s Reply Br. at 17. There were no mass transit systems at the time of the
+
+Founding, so the lack of historical laws that specifically regulated transit systems
+
+was a natural consequence. Notably, the first railroad in America was not built
+
+until 1827, and the “golden age” of railroads began around the Reconstruction era.
+
+Association of American Railroads, Chronology of America’s Freight Railroads,
+
+https://www.aar.org/chronology-of-americas-freight-railroads/#!         (last   visited
+
+Aug. 19, 2025); see also Joshua Hochman, Note, The Second Amendment on Board:
+
+Public and Private Historical Traditions of Firearm Regulation, 133 Yale L.J. 1676, 1685
+
+(2024). Those railroad networks were largely operated by private corporations
+
+throughout the 19th century, and it was not until the 20th century that government
+
+
+
+
+                                          32
+entities began operating their own rail and subway systems. 9 See Hochman, 133
+
+Yale L.J. at 1686, 1708. Thus, the lack of historical government gun regulations
+
+specifically targeting public transport systems is attributable to this “dramatic
+
+technological change[] [that] may require a more nuanced approach” under
+
+Bruen’s analogical method, 597 U.S. at 27, and therefore has little bearing on the
+
+constitutionality of our modern-day regulations. See Schoenthal v. Raoul, -- F.4th--
+
+, 2025 WL 2504854, at *1 (7th Cir. Sept. 2, 2025) (concluding that “our nation’s
+
+historical regulatory traditions” do not foreclose a state from “temporarily
+
+disarm[ing] its citizens as they travel in crowded and confined metal tubes unlike
+
+anything the Founders envisioned”); cf. Antonyuk, 120 F.4th at 1022 (relying on
+
+urban public park regulations from 1861 to 1897 because “the rise of public parks
+
+as municipal institutions” only began occurring “over the latter half of the 19th
+
+century”).
+
+
+
+
+9
+  These private corporations generally prohibited passengers from carrying guns on their
+persons. See, e.g., Rules and Regulations for Running the Trains on the North
+Pennsylvania Railroad 13 (Philadelphia, 1875). The district court relied in part on these
+regulations to conclude that Section 265.01-e(2)(n) was likely constitutional. See Frey, 661
+F. Supp. 3d at 205. Because we find that Section 265.01-e(2)(n) is sufficiently similar to
+the historical tradition of prohibiting firearms in quintessentially crowded enclosed
+places, we need not decide whether the district court properly relied on these private yet
+quasi-public railroad company regulations.
+
+                                            33
+       In sum, we conclude that Plaintiffs are unlikely to succeed on their Second
+
+Amendment challenges to the CCIA’s prohibition on firearm carriage in Times
+
+Square, the Subway, or the Metro-North rail system. We therefore affirm the
+
+district court’s denial of the preliminary injunction with respect to these
+
+provisions.
+
+III.   Open Carry Ban
+
+       We turn next to Plaintiffs’ challenge to New York’s open carry ban, N.Y.
+
+Penal Law § 400.00(15). 10 Section 400.00(15) makes “[a]ny violation by any person
+
+of any provision of [Section 400.00] a class A misdemeanor.” Because Section
+
+400.00(2) only grants licenses for concealed public carry, a license holder that
+
+carries openly in public would violate the terms of that license and may thereby
+
+be subject to prosecution under Section 400.00(15).
+
+       We conclude that, although the district court erred in determining that
+
+
+
+
+10 Plaintiffs alleged that Sections 400.00(15), 265.01, 265.01-b, and 265.03(3), and N.Y.C.
+Admin. Code § 10-315 together effectively ban the open carry of firearms in New York.
+The district court found that Plaintiffs lacked standing to seek an injunction against the
+enforcement of Sections 265.01, 265.01-b, and 265.03(3) because Plaintiffs are valid state
+concealed carry license holders and therefore cannot face criminal liability under those
+statutes. Frey, 661 F. Supp. 3d at 190. In addition, the district court concluded that
+Plaintiffs conceded they had no basis to challenge N.Y.C. admin. Code § 10-315. Id. at
+195–96. Plaintiffs do not challenge those determinations on appeal. Therefore, only
+Section 400.00(15) is at issue.
+
+                                            34
+Plaintiffs lacked standing to challenge the open carry ban, the denial of the
+
+preliminary injunction was proper because Plaintiffs cannot show the requisite
+
+likelihood of success on the merits.
+
+   A. Standing
+
+      To establish standing, “a plaintiff must show [(1)] that he suffered an injury
+
+in fact that is concrete, particularized, and actual or imminent; [(2)] that the injury
+
+was likely caused by the defendant; and [(3)] that the injury would likely be
+
+redressed by judicial relief.” TransUnion LLC v. Ramirez, 594 U.S. 413, 423 (2021).
+
+An alleged future injury is sufficiently actual or imminent if it is “certainly
+
+impending” or there is “substantial risk” of harm. Clapper v. Amnesty Int’l USA,
+
+568 U.S. 398, 409, 414 n.5 (2013) (original emphasis, internal quotation marks and
+
+citation omitted). Thus, a plaintiff bringing a pre-enforcement constitutional
+
+challenge must demonstrate “(1) an intention to engage in a course of conduct
+
+arguably affected with a constitutional interest; (2) that the intended conduct is
+
+proscribed by the challenged law; and (3) that there exists a credible threat of
+
+prosecution thereunder.” Vitagliano v. Cnty. of Westchester, 71 F.4th 130, 136 (2d
+
+Cir. 2023) (internal quotation marks and citation omitted). Here, it is undisputed
+
+that the second and third requirements are met: Section 400.00(15) penalizes open
+
+
+
+
+                                          35
+carry, and Plaintiffs face a credible threat of prosecution for open carrying.
+
+      The district court determined that Plaintiffs failed to establish standing
+
+principally because their statements of their intentions to carry openly were not
+
+accompanied by “any description of concrete plans, or indeed even any
+
+specification of when” they intended to carry openly and, therefore, did not
+
+support a finding of an imminent injury. Frey, 661 F. Supp. 3d at 195.
+
+      However, as we observed in Antonyuk, the Supreme Court has not required
+
+plaintiffs bringing pre-enforcement constitutional challenges to aver an intention
+
+to violate the law with such particularity. The Supreme Court has recognized, for
+
+example, “that plaintiffs who intend to comply with the law solely to avoid
+
+prosecution (i.e., who have been deterred) have standing to bring a pre-
+
+enforcement challenge.” Antonyuk, 120 F.4th at 1015 (citing Holder v. Humanitarian
+
+L. Project, 561 U.S. 1, 15–16 (2010); Steffel v. Thompson, 415 U.S. 452, 456 (1974)).
+
+      Here, Frey has averred that “[t]he only reason [he] do[es] not exercise the
+
+right to open carry in New York City is the fear of arrest, jail and the other criminal
+
+and civil penalties that will follow.” App’x at 21. Sappe has likewise alleged that
+
+he intends to carry his handgun concealed daily for self-defense, that he plans to
+
+carry his gun openly on days he is not carrying concealed, and he fears “arrest and
+
+
+
+
+                                           36
+incarceration” for carrying in the City. Id. at 28. In other words, they “intend to
+
+comply with the law solely to avoid prosecution,” which is all that they need to
+
+aver under Antonyuk and the Supreme Court’s precedents. Antonyuk, 120 F.4th at
+
+1015; see, e.g., Holder, 561 U.S. at 15–16 (finding plaintiffs had standing where they
+
+would engage in the proscribed conduct again “if the statute’s allegedly
+
+unconstitutional bar were lifted”).
+
+      The City contends that, even if Plaintiffs demonstrated that they suffered an
+
+injury in fact, we cannot redress that injury. We disagree. The City first argues
+
+that even if we enjoin enforcement of Section 400.00(15), which would preclude
+
+arresting and prosecuting Plaintiffs for open carry, Section 400.00(2)(f) may still
+
+serve as a separate basis for the government to revoke Plaintiffs’ licenses.
+
+However, redressability only requires that we can “redress at least some” of the
+
+alleged injury. Diamond Alt. Energy, LLC v. E.P.A., 145 S. Ct. 2121, 2135 (2025)
+
+(finding standing where invalidating regulations “would likely redress at least
+
+some of the [plaintiffs’] monetary injuries” (emphasis added)); see also Mass. v.
+
+E.P.A., 549 U.S. 497, 526 (2007) (finding standing where the plaintiff’s alleged
+
+injury “would be reduced to some extent if petitioners received the relief they seek”
+
+(emphasis added)); Elias Bochner, 287 7th Ave. Realty LLC v. City of New York, 118
+
+
+
+
+                                         37
+F.4th 505, 521 (2d Cir. 2024) (“[T]he law of standing does not require that the relief
+
+sought by a plaintiff completely redress the asserted injury.”). Enjoining Section
+
+400.00(15) would at least redress Frey’s fear of “arrest, jail and the other criminal
+
+[] penalties” and Sappe’s fear of “arrest and incarceration” that reasonably deter
+
+them from each exercising their alleged constitutional right. App’x at 21, 28. The
+
+City’s additional argument that Frey would nevertheless be unable to carry openly
+
+in the City because he does not possess the requisite special permit to carry a
+
+firearm in the City at all is unpersuasive for the same reason. Enjoining Section
+
+400.00(15) would at the very least allow Frey to carry openly outside of the City,
+
+which he averred he intended to do. See App’x at 20–21 (listing locations outside
+
+of the City and averring that he “intend[ed] to start carrying [his] handgun open
+
+and holstered at the above locations”).          Plaintiffs therefore “satisf[y] the
+
+redressability requirement [because they] show[] that a favorable decision will
+
+relieve a discrete injury to [themselves]. [They] need not show that a favorable
+
+decision will relieve every injury.” Larson, 456 U.S. at 243 n.15.
+
+      Accordingly, the district court erred in concluding that Plaintiffs lacked
+
+standing to challenge the open carry ban.
+
+
+
+
+                                          38
+     B. Merits
+
+        Although Plaintiffs have satisfactorily demonstrated standing, they have
+
+not shown a likelihood of success on the merits on their claim that the Second
+
+Amendment guarantees them uninhibited choice in their mode of public carry. 11
+
+        Bruen alone seriously undermines Plaintiffs’ probability of success. As
+
+Bruen acknowledged, “[t]hroughout modern Anglo-American history, the right to
+
+keep and bear arms in public has traditionally been subject to well-defined
+
+restrictions governing . . . the manner of carry.” 597 U.S. at 38. The historical
+
+evidence demonstrated that “States could lawfully eliminate one kind of public
+
+carry—[open carry or] conceal carry—so long as they left open” the other option.
+
+Id. at 59. That post-enactment tradition included, inter alia, laws from ten states or
+
+territories between 1813 and 1859 that prohibited concealed carry of pistols. Id. at
+
+53 n.16 (citing 1813 Ky. Acts § 1, p. 100; 1813 La. Acts p. 172; 1820 Ind. Acts p. 39;
+
+1838 Ark. Rev. Stat. § 13, p. 280; 1838 Va. Acts ch. 101, § 1, p. 76; 1839 Ala. Acts no.
+
+77, § 1; 1837 Ga. Acts §§ 1, 4, p. 90; 1859 Ohio Laws § 1, p. 56; 1821 Tenn. Acts ch.
+
+13, § 1, p. 15; 1835 Terr. of Fla. Laws p. 423). Furthermore, as Heller pointed out,
+
+
+
+
+11
+   We assume, without deciding, that Plaintiffs have satisfied Bruen’s step-one textual
+requirements.
+
+                                          39
+“the majority of the 19th-century courts to consider the question held that
+
+prohibitions on carrying concealed weapons were lawful under the Second
+
+Amendment or state analogues.” 554 U.S. at 626 (collecting cases). For example,
+
+in State v. Jumel, the Louisiana Supreme Court held that a statute criminalizing
+
+concealed carry “d[id] not infringe the right of the people to keep or bear arms. It
+
+is a measure of police, prohibiting only a particular mode of bearing arms which
+
+is found dangerous to the peace of society.” 13 La. Ann. 399, 399–400 (1858)
+
+(emphasis omitted). Those laws and court decisions together evince a strong
+
+historical tradition of regulating, and often criminalizing, one manner of public
+
+carry, so long as the government does not “altogether prohibit public carry.” 12
+
+Bruen, 597 U.S. at 54.
+
+
+
+
+12 That these laws and court cases come after the Founding era does not weaken the
+established tradition. As we explained supra, Antonyuk and Supreme Court precedents
+support reliance on 19th-century history in the face of uncertain or silent Founding-era
+history. Indeed, Bruen itself relied exclusively on these 19th-century sources to conclude
+there was a “consensus view that States could not altogether prohibit the public carry of
+‘arms’ protected by the Second Amendment or state analogues.” 597 U.S. at 55.
+
+
+
+                                           40
+       To be sure, New York law is the converse of many of these historical laws:
+
+it eliminates open carry while permitting concealed carry. 13               However, the
+
+historical analogues need only be “relevantly similar,” not a “historical twin,” for
+
+the challenged regulation to pass constitutional muster. Id. at 29–30 (internal
+
+quotation marks and citation omitted). New York’s open carry ban burdens the
+
+right to carry to a “similar” degree as these historical laws, id.—it “eliminate[s] one
+
+kind of public carry” but leaves “open” another option of carry that does not
+
+hinder the capacity for self-protection, id. at 59. It does so for the same reasons as
+
+those historical analogues—namely, to regulate “a particular mode of bearing
+
+arms” that the legislature deems “dangerous to the peace of society.” Jumel, 13 La.
+
+Ann. at 400 (emphasis omitted); see also State v. Chandler, 5 La. Ann. 489, 490 (1850)
+
+(holding that a law banning concealed carry was “absolutely necessary to
+
+counteract a vicious state of society . . . and to prevent bloodshed and
+
+assassinations committed upon unsuspecting persons”); State v. Reid, 1 Ala. 612,
+
+
+
+
+13 We note that there may also have been restrictions on open carry that proliferated
+during the Reconstruction era and beyond. See Baird v. Bonta, 709 F. Supp. 3d 1091, 1136
+(E.D. Cal. 2023) (“From 1860 to 1900, 24 states enacted anti-open carry laws, and 9 states
+did so in the early 1900s (a few states enacted laws in both centuries),” and “[s]tate courts
+generally upheld these laws.” (internal quotation marks and citation omitted)). The
+government did not rely on these laws at this preliminary injunction stage, and we
+therefore do not consider them in our likelihood of success determination.
+
+                                             41
+617 (1840) (holding that “a law which is intended merely to promote personal
+
+security, and to put down lawless aggression and violence, and to that end inhibits
+
+the wearing of certain weapons, in such a manner as is calculated to exert an
+
+unhappy influence upon the moral feelings of the wearer, by making him less
+
+regardful of the personal security of others, does not come in collision with the
+
+constitution”). New York’s determination that open carry is the more dangerous
+
+mode of public carry today is well within its legislative prerogative to address
+
+“issues we face today [that] are different than those faced in medieval England,
+
+the Founding Era, the Antebellum Era, and Reconstruction.” Antonyuk, 120 F.4th
+
+at 970; see State Br. at 32 (explaining that New York prohibits open carry “largely
+
+to prevent disruption of the peace and fear among citizens, particularly in
+
+crowded modern urban settings”).
+
+      In sum, we conclude that Plaintiffs are unlikely to successfully challenge the
+
+constitutionality of the State’s open carry ban, and we therefore affirm the district
+
+court’s denial of the preliminary injunction as to the open carry ban.
+
+IV.   New York City Special Permit Requirement
+
+      Finally, we address Plaintiffs’ challenge to the City’s special permit
+
+requirement. As noted above, Section 400.00(6) states that “[a] license to carry or
+
+
+
+
+                                         42
+possess a pistol or revolver . . . not otherwise limited as to place or time of
+
+possession, shall be effective throughout the state, except that the same shall not
+
+be valid within the city of New York unless a special permit granting validity is
+
+issued by the police commissioner of that city.” N.Y. Penal Law § 400.00(6).
+
+      As a threshold matter, on a preliminary injunction motion, the plaintiff
+
+bears the burden of “mak[ing] at least some showing to overcome t[he]
+
+presumptive constitutionality” of a shall-issue licensing regime. Giambalvo v.
+
+Suffolk Cnty., -- F.4th--, 2025 WL 2627368, at *9 (2d Cir. Sept. 12, 2025) (emphasis in
+
+original). In Bruen, the Supreme Court clarified that “nothing in our analysis
+
+should be interpreted to suggest the unconstitutionality of the 43 States’ ‘shall-
+
+issue’ licensing regimes.” 597 U.S. at 38 n.9. Those regimes are constitutionally
+
+sound because they “are designed to ensure only that those bearing arms in the
+
+jurisdiction are, in fact, law-abiding, responsible citizens.” Id. (internal quotation
+
+marks and citation omitted); see also id. at 79–80 (Kavanaugh, J., concurring)
+
+(“[T]he Court’s decision does not prohibit States from imposing licensing
+
+requirements for carrying a handgun for self-defense.”). We have interpreted
+
+those statements, along with the Court’s reassurances in Heller and McDonald that
+
+there exists certain “presumptively lawful regulatory measures,” Heller, 554 U.S.
+
+
+
+
+                                          43
+at 627 n.26; see McDonald, 561 U.S. at 786, to mean that shall-issue licensing regimes
+
+are “presumptively constitutional,” Giambalvo, 2025 WL 2627368, at *9; see also
+
+Maryland Shall Issue, Inc. v. Moore, 116 F.4th 211, 222 (4th Cir. 2024) (en banc)
+
+(“[N]on-discretionary      ‘shall-issue’   licensing     laws    are    presumptively
+
+constitutional.”), cert. denied, 145 S. Ct. 1049 (2025). Therefore, as part of his burden
+
+of establishing “a clear or substantial likelihood of success on the merits,” Leavitt,
+
+524 F.3d at 414 (internal quotation marks and citations omitted), a plaintiff must
+
+initially surmount this presumption by articulating what particular aspects of the
+
+challenged licensing regime are unconstitutional and why, see Giambalvo, 2025 WL
+
+2627368, at *9; see, e.g., Bruen, 597 U.S. at 38 n.9 (suggesting the possibility of
+
+constitutional challenges to shall-issue licensing regimes where the plaintiff can
+
+allege that the scheme is being “put toward abusive ends,” or involves, for
+
+example, “lengthy wait times in processing license applications” or “exorbitant
+
+fees” that effectively “deny ordinary citizens their right to public carry”); Rahimi,
+
+602 U.S. at 692 (“Why and how the regulation burdens the right are central to this
+
+inquiry.”).
+
+      Here, Plaintiffs do not challenge any particular portion of the City’s special
+
+permit requirement. Indeed, Plaintiffs fail to allege, for instance, that the permit
+
+
+
+
+                                           44
+is not granted on a shall-issue basis once an applicant satisfies the necessary
+
+requirements, that the process is administered inappropriately, or that the process
+
+is too lengthy or costly. 14 The only potential constitutional harm Plaintiffs suggest
+
+they have suffered is that, having already been issued a license to carry in other
+
+parts of the State, they must now endure another application process to carry
+
+within the City limits. 15 We are not persuaded that such a theory can overcome
+
+the presumption of constitutionality. Where, as here, a lawsuit asserts a facial
+
+constitutional challenge, the plaintiff must “establish that no set of circumstances
+
+exists under which the Act would be valid.” Rahimi, 602 U.S. at 693 (quoting United
+
+States v. Salerno, 481 U.S. 739, 745 (1987)); see N.Y. State Rifle & Pistol Ass'n, Inc. v.
+
+Cuomo, 804 F.3d 242, 265 (2d Cir. 2015) (When a plaintiff pursues a “pre-
+
+
+
+
+14
+  Sappe avers that at some unspecified point in time, he applied for, and was denied, a
+special permit to carry in New York City. He does not provide the reason for the denial
+nor does he challenge the denial on appeal.
+
+15 To the extent Plaintiffs separately argue that the City’s special permit requirement is
+unconstitutional merely because it is administered at the municipal, rather than state,
+level, they have failed to persuasively explain how that distinction has any bearing on
+the constitutional analysis. As we observed in Antonyuk, “many licensing schemes
+originated in the cities of the post-Civil War period” as the result of “changes in American
+society in the nineteenth century, including urbanization and concomitant shifts in norms
+of governance.” 120 F.4th at 992; see Frey, 661 F. Supp. 3d at 197 (collecting numerous city
+licensing ordinances from the 19th century). Plaintiffs offer no principled reason for us
+to question the presumptive constitutionality of municipal-level licensing regimes.
+
+                                            45
+enforcement appeal before they have been charged with any violation of law, it
+
+constitutes a facial, rather than as-applied challenge.” (internal quotation marks
+
+omitted)). Plaintiffs have not articulated any burden the additional City permit
+
+requirement creates that is not de minimis. Cf. Heller v. District of Columbia., 801
+
+F.3d 264, 274 (D.C. Cir. 2015) (“Because the burden of the basic registration
+
+requirement as applied to long guns is de minimis, it does not implicate the
+
+[S]econd [A]mendment right.”). We therefore cannot rule out that, at least “in
+
+some of its applications,” Rahimi, 602 U.S. at 693, the additional City permit
+
+requirement merely imposes a brief delay on an individual’s ability to carry
+
+concealed firearms within the City. That does not amount to constitutional harm.
+
+See Giambalvo, 2025 WL 2627368, at *12 (“[A] short delay does not violate an
+
+individual’s Second Amendment rights”); see also Maryland Shall Issue, 116 F.4th at
+
+227 (rejecting an argument that “any temporary delay” constitutes an
+
+infringement of Second Amendment rights).
+
+      In any case, even assuming arguendo that Plaintiffs’ theory of harm is
+
+sufficient to rebut the presumption of constitutionality and satisfy the step-one
+
+plain-text requirements, we have a strong historical tradition of allowing localities
+
+to implement their own, often stricter, regulatory measures within their
+
+
+
+
+                                         46
+jurisdictions. “[P]erhaps no characteristic of gun control in the United States is as
+
+‘longstanding’ as the stricter regulation of guns in cities than in rural areas.”
+
+Joseph Blocher, Firearm Localism, 123 Yale L.J. 82, 85 (2013).        For example,
+
+beginning in the Antebellum era, states and territories gave newly incorporated
+
+towns the power to regulate the carriage of guns or gunpowder within those
+
+towns. See, e.g., 1825 Tenn. Priv. Acts 306–07 (incorporating towns of Winchester
+
+and Reynoldsburgh and empowering them to “restrain and punish . . . shooting
+
+and carrying guns, and enact penalties and enforce the same”); 1836 Conn. Pub.
+
+Acts 104–05 (“[T]he court of common council . . . shall have power . . . to make by-
+
+laws . . . relative to prohibiting and regulating the bringing in, and conveying out,
+
+or storing of gun-powder in said cities . . . .”); 1838 Fla. Laws 70 (“Be it further
+
+enacted, That the common council of said city shall have power and authority to
+
+prevent and remove nuisances . . . to provide safe storage of gun-powder . . . .”);
+
+see also Blocher, 123 Yale L.J. at 116 & n.177. From the Reconstruction era onward,
+
+many states and territories have more precisely delineated the gun laws applicable
+
+in towns and cities. Some, like New York, gave municipalities the specific power
+
+to issue their own gun permits. See, e.g., 1891 N.Y. Laws 127, 176 (giving the city
+
+of Buffalo the power to “issue to any person a permit in writing to carry a pistol
+
+
+
+
+                                         47
+or pistols in the city”); Ordinances of the Mayor, Aldermen and Commonalty of
+
+the City of New York (1881) (requiring residents and non-residents to receive a
+
+permit from the superintendent of the police to carry a pistol); Ordinance to
+
+Regulate the Carrying of Pistols in Brooklyn (1880) (similar); see also 1880 City of
+
+Kansas Ordinances 264 (“No person shall, in this city, wear under his clothes or
+
+concealed about his person, any pistol or revolver, except by special permission
+
+from the Mayor”); 1896 City of Milwaukee Gen. Ordinances 692–93 (requiring a
+
+written permit from the city’s chief of police in order to carry concealed weapons
+
+within the city). Others “flatly prohibited the carrying of nearly any weapon
+
+within towns, cities, villages, and settlements.” Blocher, 123 Yale L.J. at 117 &
+
+n.195; see 1853 N.M. Laws 67 (“That each and every person is prohibited from
+
+carrying short arms . . . about their persons concealed, within the settlements.”);
+
+1871 Tex. Gen. Laws 25 (forbidding, with some exceptions, any person but a law
+
+officer from carrying a “pistol” in a city “unless he has reasonable grounds for
+
+fearing an unlawful attack on his person, and that such ground of attack shall be
+
+immediate and pressing”); 1876 Wyo. Sess. Laws 352 (prohibiting residents and
+
+non-residents from bearing “concealed or openly, any fire arm or other deadly
+
+weapon, within the limits of any city, town or village”); 1881 Kansas Sess. Laws 92
+
+
+
+
+                                        48
+(“The [city] council shall prohibit and punish the carrying of firearms . . .
+
+concealed or otherwise.”); 1888 Idaho Sess. Laws 23 (“[I]t is unlawful for any
+
+person, except [certain officers], to carry, exhibit, or flourish any . . . pistol, gun or
+
+other deadly weapons, within the limits or confines of any city, town or village or
+
+in any public assembly of Idaho Territory.”); 1901 Ariz. Sess. Laws 1251–52 (“If
+
+any person within any settlement, town, village or city within this territory shall
+
+carry on or about his person, saddle, or in saddlebags, any pistol . . . he shall be
+
+punished by a fine . . . and, in addition thereto, shall forfeit to the county in which
+
+he is convicted the weapon or weapons so carried.”). These laws establish that
+
+“city people have long had a different relationship with guns than their rural
+
+neighbors, a relationship generally marked by greater concern about interpersonal
+
+violence.” Antonyuk, 120 F.4th at 992 (citing Blocher, 123 Yale L. J. at 112–21). In
+
+addition, they demonstrate a history of addressing this uniquely urban concern in
+
+an equivalent or even more stringent manner than the City’s special permit
+
+requirement today.
+
+      Plaintiffs’ principal quarrel is not over whether these laws are sufficiently
+
+analogous to the City’s special permit requirement. Again, it is with the fact that
+
+the government “proffer[s] only ‘late-nineteenth-century’ regulations to justify
+
+
+
+
+                                           49
+§ 400.00(6)’s restriction.” Reply Br. at 15. However, as discussed supra, Supreme
+
+Court precedents and this Court’s opinion in Antonyuk confirm that we can use
+
+19th century evidence to discern our American tradition—at least where it does
+
+not conflict with Founding-era evidence.          Plaintiffs have pointed to no such
+
+conflicting evidence, and we are aware of none.
+
+      Accordingly, we affirm the district court’s denial of the preliminary
+
+injunction with respect to the City’s special permit requirement.
+
+                                       CONCLUSION
+
+      For the foregoing reasons, we AFFIRM the order of the district court and
+
+REMAND for further proceedings consistent with this opinion. 16
+
+
+
+
+16 Just as in Antonyuk, we emphasize that our affirmance here of the denial of the
+preliminary injunction motion “does not determine the ultimate constitutionality of the
+challenged [] provisions, which await further briefing, discovery, and historical analysis,
+both in this case as it proceeds and perhaps in other cases.” 120 F.4th at 1048 n.126.
+
+                                            50

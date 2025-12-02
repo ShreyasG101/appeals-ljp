@@ -1,0 +1,359 @@
+22-1718-cv
+   Advanced Analytics, Inc. v. Citigroup Global Markets, Inc.
+
+                                  UNITED STATES COURT OF APPEALS
+                                      FOR THE SECOND CIRCUIT
+
+                                              SUMMARY ORDER
+
+RULINGS BY SUMMARY ORDER DO NOT HAVE PRECEDENTIAL EFFECT. CITATION TO
+A SUMMARY ORDER FILED ON OR AFTER JANUARY 1, 2007, IS PERMITTED AND IS
+GOVERNED BY FEDERAL RULE OF APPELLATE PROCEDURE 32.1 AND THIS COURT’S
+LOCAL RULE 32.1.1. WHEN CITING A SUMMARY ORDER IN A DOCUMENT FILED WITH
+THIS COURT, A PARTY MUST CITE EITHER THE FEDERAL APPENDIX OR AN
+ELECTRONIC DATABASE (WITH THE NOTATION “SUMMARY ORDER”).        A PARTY
+CITING A SUMMARY ORDER MUST SERVE A COPY OF IT ON ANY PARTY NOT
+REPRESENTED BY COUNSEL.
+
+                  At a stated term of the United States Court of Appeals for the Second Circuit, held
+   at the Thurgood Marshall United States Courthouse, 40 Foley Square, in the City of New York,
+   on the 13th day of May, two thousand twenty-five.
+
+   Present:
+
+               GERARD E. LYNCH,
+               EUNICE C. LEE,
+               ALISON J. NATHAN,
+                     Circuit Judges.
+   _____________________________________
+
+   ADVANCED ANALYTICS, INC.,
+
+                              Plaintiff-Counter-Defendant-Appellant,
+
+                      v.                                                                No. 22-1718-cv
+
+   CITIGROUP GLOBAL MARKETS, INC., FKA SALOMON
+   SMITH BARNEY INC., THE YIELD BOOK, INC., FKA
+   SALOMON ANALYTICS, INC.,
+
+                     Defendants-Counter-Claimants-Appellees. ∗
+   _____________________________________
+
+   For Plaintiff-Counter-Defendant-Appellant:                                   KEVIN K. TUNG, Kevin
+                                                                                Kerveng Tung, P.C.,
+                                                                                Flushing, NY.
+
+
+   ∗
+       The Clerk of the Court is respectfully directed to amend the caption as set forth above.
+                                                                          Peter J. Toren, The Law
+                                                                          Office of Peter J. Toren, New
+                                                                          York, NY, on the brief. 1
+
+For Defendants-Counter-Claimants-Appellees:                               THOMAS S. KESSLER
+                                                                          (Christopher P. Moore and
+                                                                          Jennifer Kennedy Park, on
+                                                                          the brief), Cleary Gottlieb
+                                                                          Steen & Hamilton LLP, New
+                                                                          York, NY.
+
+        Appeal from a November 5, 2021 judgment of the United States District Court for the
+
+Southern District of New York (Swain, C.J.).
+
+
+        UPON DUE CONSIDERATION, IT IS HEREBY ORDERED, ADJUDGED, AND
+
+DECREED that the judgment of the district court is AFFIRMED.
+
+        Plaintiff-Counter-Defendant-Appellant Advanced Analytics, Inc. (“AAI”) appeals from
+
+the district court’s entry of partial summary judgment in favor of Defendants-Counter-Claimants-
+
+Appellees Citigroup Global Markets, Inc. (“CGMI”) and The Yield Book, Inc. (“TYB”)
+
+(collectively, “Defendants”) on AAI’s claims of misappropriation of trade secrets, breach of
+
+contract, breach of the duty of good faith and fair dealing, quantum meruit, and unjust enrichment.
+
+AAI also appeals the district court’s grant of only nominal damages to AAI on the limited breach
+
+of contract claim on which it prevailed.
+
+
+1
+  Peter J. Toren no longer represents Appellant in this appeal. By letter dated January 7, 2025, Appellant’s
+new counsel, Kevin K. Tung, notified the Court that Appellant wished to proceed not with the reply brief
+filed by Toren publicly on our docket on March 15, 2024, but instead with a different reply brief, which
+Appellant submitted under seal on March 13, 2024. Tung attached to his letter a declaration from Dr.
+Xiaolu Wang, AAI’s principal, that purported to include that March 13, 2024 reply brief as an exhibit;
+however, upon review, the brief actually filed under seal on March 13, 2024 and the document attached to
+that declaration – and which that declaration asserts is Appellant’s “genuine reply” filed under seal on
+March 13, see Doc. 462 – are not the same brief. Nevertheless, Appellees took no position on which reply
+brief this Court should accept, and we have considered both documents in our review of this case.
+                                                     2
+       AAI generally alleges that, during unsuccessful licensing negotiations conducted in the
+
+1990s, CGMI misappropriated a proprietary numerical sequence (the “ACE Numbers”) developed
+
+by AAI’s principal, Dr. Xiaolu Wang, and later incorporated elements of that sequence into its
+
+own software, TYB, generating significant profits without compensating AAI.           After nearly
+
+twenty years of litigation, including two rounds of discovery spanning approximately five years,
+
+the district court found that CGMI had produced unrebutted evidence of independent development
+
+of its software and that AAI had failed to introduce evidence showing that CGMI’s software
+
+incorporated or was derived from AAI’s ACE Numbers.         Accordingly, the district court granted
+
+summary judgment to Defendants on the misappropriation of trade secrets claim (and the contract
+
+and quasi-contract claims premised on the same contentions).     The district court also found that
+
+CGMI breached a nondisclosure agreement with AAI (the “NDA”) in a limited fashion but
+
+awarded only nominal damages, citing AAI’s failure to proffer evidence of any resulting damages.
+
+Finally, the district court granted CGMI’s counterclaim for an award of attorneys’ fees and costs
+
+as the prevailing party under the NDA and denied several motions to reconsider its various rulings.
+
+       On appeal, AAI’s briefing is at points difficult to understand – so much so that Defendants
+
+urge us to affirm on the ground that AAI has “failed to satisfy its burden to set out identifiable
+
+legal arguments” at all.   Appellee Br. 26, citing Ernst Haas Studio, Inc. v. Palm Press, Inc., 164
+
+F.3d 110, 112 (2d Cir. 1999).   Nevertheless, we have done our best to decipher and address AAI’s
+
+intended arguments, including what we perceive to be its challenges to: (1) various discovery
+
+rulings, (2) the grant of summary judgment to CGMI on the misappropriation claim, (3) the award
+
+of only nominal damages on the breach of contract claim, and (4) the award of attorneys’ fees and
+
+
+
+
+                                                 3
+costs to CGMI. 2
+
+        We assume the parties’ familiarity with the remaining underlying facts, the procedural
+
+history, and the issues on appeal.
+
+                            *                       *                        *
+
+I.      Discovery Orders
+
+        As related to the district court’s discovery orders, AAI’s objections seem to focus primarily
+
+on: (1) the rejection of its various claims that Defendants engaged in discovery misconduct; (2)
+
+the denial of several requests for additional discovery; and (3) the exclusion of a declaration by
+
+AAI’s expert, Dr. Jianqing Fan, which AAI filed along with its opposition to CGMI’s motion for
+
+summary judgment.
+
+        We review a district court’s discovery rulings for abuse of discretion.         See FIH, LLC v.
+
+Found. Cap. Partners LLC, 920 F.3d 134, 145 (2d Cir. 2019). “A district court abuses its
+
+discretion ‘when its decision cannot be located within the range of permissible decisions or is
+
+based on a clearly erroneous factual finding or an error of law.’” Id. (quoting United States v.
+
+Scully, 877 F.3d 464, 474 (2d Cir. 2017)).
+
+         Though AAI repeatedly asserts that CGMI withheld or fabricated crucial evidence, its
+
+arguments on that front are circular and supported by no evidence. AAI has therefore identified
+
+no basis to conclude that the district court erred, let alone abused its discretion, in finding that no
+
+discovery abuse had occurred.
+
+
+
+
+2
+  AAI does not “meaningfully challenge” any of the various other orders mentioned in its briefing. Grand
+River Enter. Six Nations, Ltd. v. Pryor, 481 F.3d 60, 65 (2d Cir. 2007). Therefore, any objections to those
+orders have been abandoned. Id. at 65–66.
+
+                                                    4
+       As to the denial of AAI’s requests for additional discovery, such requests must promise
+
+more than a mere “fishing expedition”; they should be specifically tailored to enable a plaintiff to
+
+fill material evidentiary gaps in its case. Paddington Partners v. Bouchard, 34 F.3d 1132, 1138
+
+(2d Cir. 1994) (quotation marks omitted). Here, AAI has offered nothing more than conclusory
+
+assertions and speculation as to the evidence it believes is still outstanding. Given that failure and
+
+the substantial discovery already conducted in this case, the district court did not abuse its
+
+discretion in denying AAI’s requests for additional discovery.
+
+       Finally, AAI objects to the district court’s decision to strike a declaration by AAI’s expert,
+
+Dr. Fan (“the Fourth Fan Declaration”), on the bases that it was unjustifiably untimely and that it
+
+impermissibly relied on and incorporated a previously stricken expert report. But AAI has
+
+identified no valid reason to review that decision. Accordingly, we conclude that the district court
+
+properly excluded the Fourth Fan Declaration from consideration on the merits. 3
+
+II.    Motion for Summary Judgment
+
+       AAI argues that the district court improperly applied the summary judgment standard and
+
+placed the burden on the non-moving party when it found that AAI had failed to raise a genuine
+
+issue of material fact regarding the independent origin of Defendants’ sequences.            However,
+
+contrary to AAI’s arguments, the district court correctly applied the summary judgment standard
+
+here, recognizing that “[e]ntry of summary judgment is appropriate ‘against a party who fails to
+
+make a showing sufficient to establish the existence of an element essential to that party’s case,
+
+
+
+
+3
+  Subsequent orders permitted AAI to use objective descriptions of record evidence from the Fourth Fan
+Declaration in its briefing; however, contrary to AAI’s arguments, the expert opinions contained therein
+remained off-limits for merits purposes.
+
+                                                   5
+and on which that party will bear the burden of proof at trial.’”        App’x at 1606–07 (quoting
+
+Celotex Corp. v. Catrett, 477 U.S. 317, 322 (1986)).
+
+        To make out a prima facie case of misappropriation, a plaintiff must demonstrate, among
+
+other things, that the defendant “used” their trade secret.   Faiveley Transp. Malmo AB v. Wabtec
+
+Corp., 559 F.3d 110, 117 (2d Cir. 2009).           That “use” element is met where the plaintiff
+
+demonstrates that the defendant’s product was substantially derived from the plaintiff’s trade
+
+secret or that defendants had access to the trade secret and thereafter produced a substantially
+
+similar product.     Id. at 118.     Here, the district court concluded that AAI had proffered
+
+insufficient evidence to meet its prima facie burden of demonstrating use of, similarity to, or
+
+derivation from the ACE Numbers.        It further found that AAI had failed to offer any evidence to
+
+rebut Defendants’ evidence demonstrating that CGMI had independently developed its sequences.
+
+        Those findings were not erroneous.     AAI has identified no admissible evidence that raises
+
+a genuine issue of material fact on any of these points. 4     Absent such evidence, its conclusory
+
+assertions that the district court mischaracterized its claims or overlooked material evidence cannot
+
+defeat summary judgment.       See Shannon v. N.Y.C. Transit Auth., 332 F.3d 95, 99 (2d Cir. 2003).
+
+Thus, we affirm the grant of summary judgment as well.
+
+III.    Damages
+
+        AAI also argues that the district court erred in awarding nominal damages with respect to
+
+the single contract claim on which it prevailed and contends that the issue of damages should have
+
+
+
+4
+  As discussed above, the Fourth Fan Declaration, on which AAI relies heavily in its briefing, is
+inadmissible for purposes of summary judgment. AAI also makes passing reference to other evidence and
+documents, but it has not established that they are properly in the record, nor explained how they might
+undermine the district court’s findings. Thus, they do not change our conclusion here.
+
+                                                   6
+been left to a jury. Specifically, the district court found that although Defendants had technically
+
+breached the NDA by retaining a report generated during the testing of the ACE Numbers, AAI
+
+was entitled to only nominal damages for that breach because it had “failed to identify evidence
+
+quantifying its damages specifically resulting from” the breach. App’x at 3376.
+
+       Contrary to AAI’s argument, a court may properly award only nominal damages at
+
+summary judgment where a plaintiff fails to put forward evidence as to damages. See Norfolk S.
+
+Ry. Co. v. Pittsburgh & W. Va. R.R., 870 F.3d 244, 256–57 (3d Cir. 2017); see also Jill Stuart
+
+(Asia) LLC v. Sanei Int’l Co., 566 F. App’x 29, 32 (2d Cir. 2014) (approving nominal damages at
+
+summary judgment where plaintiff failed to provide evidence of actual consequential damages).
+
+Here, even after the district court gave AAI an opportunity to conduct additional discovery on
+
+precisely this issue, AAI failed to point to any evidence that Defendants’ limited breach of the
+
+NDA resulted in its claimed loss of millions of dollars in licensing fees. In fact, the expert report
+
+it produced did not identify any damages specifically caused by Defendants’ retention of the report.
+
+Accordingly, we affirm the district court’s award of nominal damages.
+
+IV.    Attorneys’ Fees
+
+       Finally, AAI argues that the district court erred in granting attorneys’ fees and costs to the
+
+Defendants under the NDA.
+
+       The relevant NDA provision states that, in any legal action arising out of the agreement,
+
+“the prevailing party shall be entitled to recover all court costs, expenses and reasonable attorneys’
+
+fees, in addition to any other relief to which it may be entitled.” App’x at 122.        Under New
+
+York law, which governs this dispute pursuant to the NDA, a prevailing party is a party that
+
+“has . . . prevailed with respect to the central relief sought.” Nestor v. McDowell, 81 N.Y.2d 410,
+
+                                                  7
+415–16 (1993).   “Whether a litigant qualifies as a ‘prevailing party’ constitutes a question of law
+
+warranting de novo review.” Manhattan Rev. LLC v. Yun, 919 F.3d 149, 152 (2d Cir. 2019).
+
+       We see no error here.   Although AAI prevailed on a limited breach of contract claim, as
+
+the district court observed, “that claim [wa]s a relatively insignificant part of the case” and
+
+generated only nominal damages.       App’x at 3377 (quotation marks omitted).         In contrast,
+
+Defendants prevailed with regard to the central relief sought: it was granted summary judgment
+
+on AAI’s misappropriation, primary breach of contract, and other claims, on which AAI sought
+
+substantial damages.   Thus, the district court correctly found that Defendants were the prevailing
+
+party entitled to recoup reasonable attorneys’ fees and costs under the NDA.
+
+                         *                      *                       *
+
+       We have considered AAI’s remaining arguments and find them to be without merit. For
+
+the reasons set forth above, we AFFIRM the judgment of the district court.
+
+
+                                             FOR THE COURT:
+                                             Catherine O’Hagan Wolfe, Clerk of Court
+
+
+
+
+                                                8

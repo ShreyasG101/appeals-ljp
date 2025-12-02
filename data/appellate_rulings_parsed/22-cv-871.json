@@ -1,0 +1,41 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court erred by denying the motion to compel arbitration of Flores\u2019s claims against the Denver Broncos and the NFL based on his employment agreement with the New England Patriots, which incorporated the NFL Constitution.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that the NFL Constitution\u2019s arbitration provision, which vests unilateral substantive and procedural authority in the NFL Commissioner (an executive of an adverse party), does not provide for true arbitration and is not protected by the FAA, nor does it guarantee Flores can vindicate his statutory rights in an arbitral forum."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the district court correctly denied the motion to compel arbitration of Flores\u2019s claims against the New York Giants, Houston Texans, and the NFL based on his employment agreement with the Pittsburgh Steelers.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "Because the Steelers agreement incorporated the same unenforceable NFL Constitution arbitration provision, the court held that Flores could not be compelled to arbitrate his claims against the Giants, Texans, or the NFL."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the district court abused its discretion by denying Defendants\u2019 motion for reconsideration after they submitted a signed copy of the Flores-Steelers agreement.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found no abuse of discretion because, regardless of the signed agreement, the underlying arbitration provision was unenforceable, so reconsideration would not change the outcome."
+    }
+  ],
+  "key_precedents": [
+    "Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, Inc., 473 U.S. 614 (1985)",
+    "AT&T Mobility LLC v. Concepcion, 563 U.S. 333 (2011)",
+    "Viking River Cruises, Inc. v. Moriana, 596 U.S. 639 (2022)",
+    "Am. Exp. Co. v. Italian Colors Rest., 570 U.S. 228 (2013)",
+    "Hooters of Am., Inc. v. Phillips, 173 F.3d 933 (4th Cir. 1999)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "The National Football League (\u201cNFL\u201d) and six of its member clubs (jointly \u201cDefendants\u201d) moved to compel arbitration of a putative class action brought by Plaintiffs Brian Flores, Steve Wilks, and Ray Horton\u2014current and former NFL coaches\u2014alleging, in relevant part, claims of racial discrimination under 42 U.S.C. \u00a7 1981. The questions presented are whether the United States District Court for the Southern District of New York (Valerie E. Caproni, Judge) erred by partially denying Defendants\u2019 motion to compel arbitration and \u201cabused its discretion\u201d by denying Defendants\u2019 motion for reconsideration. More specifically, we consider: (1) whether the District Court erred by denying arbitration of Flores\u2019s claims against the Denver Broncos and the NFL based on his employment agreement with the New England Patriots, which incorporated by reference the NFL Constitution; (2) whether the District Court correctly denied Defendants\u2019 motion to compel arbitration of Flores\u2019s claims against the New York Giants, Houston Texans, and the NFL; and (3) whether the District Court abused its discretion by denying Defendants\u2019 motion for reconsideration.\n\nWe AFFIRM the District Court\u2019s order denying the motion to compel arbitration of Flores\u2019s claims against the Denver Broncos, New York Giants, Houston Texans, and NFL. We also AFFIRM the District Court\u2019s order denying reconsideration.\n\nWe conclude that: (1a) Flores\u2019s agreement under the NFL Constitution to submit his statutory claims against the Broncos and the NFL to the unilateral substantive and procedural discretion of the NFL Commissioner\u2014the principal executive of one of Flores\u2019s adverse parties\u2014provides for arbitration in name only and accordingly lacks the protection of the Federal Arbitration Act (\u201cFAA\u201d); (1b) Flores\u2019s agreement to submit his statutory claims against the Broncos and the NFL to the unilateral discretion of the NFL Commissioner is unenforceable because the agreement fails to guarantee that Flores can \u201cvindicate [his] statutory cause of action in [an] arbitral forum\u201d, (1c) the District Court did not err when it denied Defendants\u2019 motion to compel arbitration of Flores\u2019s claims against the Giants, Texans, and the NFL; and (2) the District Court did not abuse its discretion by denying Defendants\u2019 motion for reconsideration."
+}

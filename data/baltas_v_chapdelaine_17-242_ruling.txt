@@ -1,0 +1,917 @@
+UNITED STATES DISTRICT COURT                             
+                  DISTRICT OF CONNECTICUT                               
+
+JOE BALTAS,                     :                                         
+JASON GOODE,                    :                                         
+KENYON L. JOSEPH PELLOT-        :                                         
+   CASTELLANO,                :                                         
+RICHARD RICE,                   :                                         
+YARDLEY DAVIS,                  :                                         
+PHILIP RIVERA,                  :                                         
+NOAH GLADDING,                  :                                         
+PETER TARASCO,                  :                                         
+THOMAS DELEO and                :                                         
+JOSE ORTIZ,                     :                                         
+                              :                                         
+   Plaintiffs,                :                                         
+                              :                                         
+v.                              :  Case No. 3:17-cv-242(RNC)              
+                              :                                         
+CAROL CHAPDELAINE,              :                                         
+GIULIANNA MUDANO and            :                                         
+ANGEL QUIROS,                   :                                         
+                              :                                         
+   Defendants.                :                                         
+
+                      RULING AND ORDER                                  
+
+   In 2017, inmates in the custody of the Connecticut                   
+Department of Correction (“DOC”) at MacDougall-Walker                     
+Correctional Institution (“MWCI”) brought this action under               
+42 U.S.C. § 1983 against DOC officials in their individual                
+and official capacities seeking damages and injunctive                    
+relief based on alleged violations of their rights under                  
+federal and state law arising from their confinement in Q-                
+Pod, a housing unit at MWCI.  Named as defendants were the                
+officials responsible for the operation of Q-Pod at the                   
+time: Carol Chapdelaine, who served as Warden of MWCI;                    
+Guilianna Mudano, who served as Deputy Warden; and Angel                  
+
+Quiros, who served as DOC’s District Administrator.                       
+   Plaintiffs alleged that Q-Pod, although nominally a                  
+general population housing unit, actually functioned as an                
+administrative detention unit.  Plaintiffs alleged that                   
+while in Q-Pod, they were denied privileges in                            
+
+contravention of DOC Administrative Directives (“DOC                      
+A.D.”), specifically, DOC A.D. 9.4, which authorizes                      
+various types of restrictive housing units, and DOC A.D.                  
+9.5, which governs the disciplinary process.  They further                
+alleged that they were housed in Q-Pod for up to a year or                
+more at the “whim” of prison officials without the benefit                
+
+of procedural safeguards.  Plaintiffs claimed that as a                   
+result of their confinement in Q-Pod, each of them had been               
+deprived of certain constitutional rights, with the                       
+knowledge and approval of the defendants, specifically: (1)               
+the Eighth Amendment right to be free from cruel and                      
+unusual punishment; (2) the Fourteenth Amendment right to                 
+
+due process of law; (3) the First Amendment right to access               
+the courts; and (4) the First Amendment right to the free                 
+exercise of religion.1  In addition, the complaint alleged                
+violations of the Connecticut Constitution and state                      
+
+statutes.                                                                 
+   The defendants denied the allegations of the amended                 
+complaint and pleaded defenses of qualified immunity and                  
+mootness.  Cross-motions for summary judgment were filed                  
+and argued and the case has been effectively stayed pending               
+
+a ruling on the motions.                                                  
+   The defendants seek summary judgment on all the                      
+federal causes of action in the amended complaint.  They                  
+argue that the admissible evidence in the record would not                
+permit a jury to find in favor of any of the plaintiffs on                
+any of those causes of action.  They further argue that, at               
+
+a minimum, they are protected by qualified immunity under §               
+1983.  Finally, they argue that the claims for injunctive                 
+relief are moot.  I conclude that to the extent any of the                
+plaintiffs may have a viable claim under § 1983, qualified                
+immunity applies.  I also conclude that the claims for                    
+injunctive relief are moot.  Accordingly, the defendants’                 
+
+
+1 Plaintiffs also invoke the Fourth and Fifth Amendments.  In             
+substance, the Fourth Amendment claim is duplicative of the               
+Fourteenth Amendment procedural due process claim, so it is not           
+discussed separately in the text.  The Fifth Amendment claim is           
+not discussed because it does not apply to the matters at issue.          
+motion is granted with regard to the federal claims,                      
+plaintiffs’ motion is denied, and the state law claims are                
+
+dismissed without prejudice.                                              
+I.     Background                                                       
+   Based on the summary judgment record, the following                  
+matters appear to be undisputed.  MWCI is a high security,                
+level 4/5 facility.  It provides a highly structured                      
+
+environment for long-term sentenced offenders, protective                 
+custody offenders, and high bond unsentenced offenders.  At               
+the pertinent time, it had a population of approximately                  
+1900 inmates.                                                             
+   Q-Pod is a housing unit located in the MacDougall wing               
+of MWCI.  Established in 2003, it has been used to house                  
+
+inmates who are transitioning from more restrictive                       
+conditions of confinement, such as punitive segregation,                  
+back to general population.  Q-Pod has been the subject of                
+prior cases brought by inmates under § 1983.  See, e.g.,                  
+Galarza v. Erfe, No. 3:18-cv-663(JAM), 2019 WL 8756874 (D.                
+Conn. April 30, 2019)(denying Q-Pod inmate’s motion to                    
+
+reopen action under § 1983 for failure to show plausible                  
+grounds for relief for any constitutional claim); Harnage                 
+v. Brighthaupt, No. 3:12-cv-1521, Ruling On Motion to                     
+Dismiss In Part, ECF 42 (D. Conn. Feb. 12, 2014)(dismissing               
+Q-Pod inmate’s Eighth Amendment conditions-of-confinement                 
+
+claim and Fourteenth Amendment procedural due process                     
+claim);  Shakur v. Sieminski, 3:07-cv-1239(CFD), 2009 WL                  
+2151174 (D. Conn. July 15, 2009)(dismissing Q-Pod inmate’s                
+Eighth Amendment conditions-of-confinement claim).2                       
+   There are 60 cells in Q-Pod, each one designed for two               
+
+people.  The cells are divided for administrative purposes                
+into 4 groups of 15 cells each.  This arrangement enables                 
+prison officials to separate inmates for safety and                       
+security reasons by placing them in different groups.  Each               
+cell throughout the unit has a toilet with a timer that                   
+limits the number of consecutive flushes.3  The unit has a                
+
+medical assessment room.  The outdoor recreation yard                     
+attached to the unit includes a full-length basketball                    
+court.  There is no television.                                           
+
+
+2 Shakur provides a detailed description of Q-Pod, which at the           
+time was called “Q-Unit.”                                                 
+3 While the exact intervals on the timer are in dispute, the              
+official notice sent to inmates when the timers were installed            
+reads as follows: “Be advised you can flush the toilet two times          
+in five minutes.  You must wait five minutes before flushing              
+again.  If you try to flush a third time before the ten minute            
+period the toilet will lockout for 30 minutes.  After 30 minutes          
+the cycle will reset to normal operation.”  ECF 61-1 at 12.               
+   Inmates in Q-Pod are generally housed with a cellmate                
+and permitted daily visitation.  Meals are provided to                    
+
+inmates in their cells.4  Inmates recreate in the outdoor                 
+recreation yard 15 cells at a time (i.e. 30 inmates per                   
+session).  When the plaintiffs were housed in Q-Pod, they                 
+were not given access to group religious services with the                
+general population, although that has since changed.                      
+
+   Q-Pod inmates have fewer privileges than general                     
+population inmates.  Authority for this disparity in                      
+privileges is unclear, but may be found in DOC A.D. 9.4.6,                
+which provides that “[a]n inmate on restrictive housing                   
+status shall not be entitled to access to programs or                     
+privileges afforded an inmate in general population.”  In                 
+
+any event, the stated purpose of the disparity in                         
+privileges is to motivate inmates to work their way out of                
+Q-Pod by complying with prison rules and regulations.                     
+“Correctional experience has demonstrated that it is an                   
+effective correctional tool to disincentivize inmates from                
+
+
+4 The parties disagree as to why inmates in Q-Pod are fed in              
+their cells.  Defendants argue that this policy arises from the           
+need to separate inmates due to safety and security concerns.             
+Plaintiffs claim that there were no separation issues while they          
+were housed in Q-Pod and that defendants conflate security                
+issues in the MacDougall and Walker wings of MCWI.                        
+getting tickets or disciplinary reports.”  See Plfs’ Local                
+Rule 56(a)(2) Statement, ECF 69, at 2 ¶9, admitting Defs’                 
+
+Local Rule 56(a)(1) Statement, ECF 56-2, at 2 ¶9.5                        
+   The following matters are disputed.  Plaintiffs allege               
+that when they were in Q-Pod, medical and mental health                   
+services were provided only within the unit itself (if at                 
+all), rather than in the main building, where general                     
+
+population inmates receive services.  Defendants state that               
+like general population inmates, Q-Pod inmates go to the                  
+main building for medical and mental health services; the                 
+medical assessment room in Q-Pod is available for use in                  
+emergencies.  Plaintiffs further allege that when they were               
+in Q-Pod, inmates were allowed to go to the library in the                
+
+main building just once a month, in contrast to general                   
+population inmates, who could go once a week.  Defendants                 
+state that Q-Pod inmates were able to access the library                  
+every other week if they signed up in advance.                            
+   Toilet-related issues are also disputed.  Defendants                 
+
+
+5 In 2004, soon after Q-Pod opened, the U.S. Department of                
+Justice, National Institute of Corrections, issued a report               
+commending DOC’s “Close Custody Phase Program” at MWCI.  See              
+Classification of High-Risk and Special Management Prisoners, A           
+National Assessment of Current Practices, at 51, available at             
+http://www.nicic.org.                                                     
+say that toilets all over MWCI have timers due to an                      
+agreement with the Town of Suffield related to water usage;               
+
+plaintiffs say that toilets in other parts of the facility                
+did not have timers when they were in Q-Pod.  Plaintiffs                  
+also allege that Q-Pod was the only unit where DOC staff                  
+could shut off inmates’ water and that some (unidentified)                
+correctional Officers sometimes shut off inmates’ water for               
+
+hours.                                                                    
+ Finally, the parties dispute what determined the amount                
+of time plaintiffs stayed in Q-Pod.  Defendants state that                
+the duration of a plaintiff’s stay depended on the                        
+disciplinary ticket he received: a ticket for a Class A                   
+violation resulted in a stay of 90 days; a Class B ticket                 
+
+resulted in a stay of 60 days.  Plaintiffs say the duration               
+was always longer than 90 days.  Defendants counter that                  
+new violations of prison rules reset the clock for a                      
+plaintiff’s stay in Q-Pod, as prison officials noted in                   
+response to one of plaintiff Baltas’s grievances.  See Pl.                
+Ex., ECF 47-3 at 17, 40.                                                  
+II.  Legal Standard                                                     
+
+   “Summary judgment is proper only when, construing the                
+evidence in the light most favorable to the non-movant,                   
+‘there is no genuine dispute as to any material fact and                  
+the movant is entitled to judgment as a matter of law.’”                  
+
+Doninger v. Niehoff, 642 F.3d 334, 344 (2d Cir. 2011)                     
+(quoting Fed. R. Civ. P. 56(a)).  “A genuine issue of                     
+material fact exists if ‘the evidence is such that a                      
+reasonable jury could return a verdict for the nonmoving                  
+party.’”  Nick’s Garage, Inc. v. Progressive Cas. Ins. Co.,               
+
+875 F.3d 107, 113 (2d Cir. 2017) (quoting Anderson v.                     
+Liberty Lobby, 477 U.S. 242, 248 (1986)).  Summary judgment               
+may be granted “against a party who fails to make a showing               
+sufficient to establish the existence of an element                       
+essential to that party’s case, and on which that party                   
+will bear the burden of proof at trial.”  Celotex Corp. v.                
+
+Catrett, 477 U.S. 317, 322 (1986).                                        
+   The non-moving party may defeat summary judgment by                  
+pointing to a genuine dispute of material fact but may not                
+do so through conclusory allegations, unsubstantiated                     
+speculation, or inadmissible evidence.  See F.D.I.C. v.                   
+Great Am. Ins. Co., 607 F.3d 288, 292 (2d Cir. 2010).  “The               
+
+mere verification by affidavit of one’s own conclusory                    
+allegations is not sufficient to oppose a motion for                      
+summary judgment.”  Zigmund v. Foster, 106 F. Supp. 2d 352,               
+356 (D. Conn. 2000) (brackets omitted) (quoting Greene v.                 
+Ga. Pardons & Parole Bd., 807 F. Supp. 748, 750 n.5 (N.D.                 
+
+Ga. 1992)); see also Saji v. Nassau Univ. Med. Ctr., 724 F.               
+App’x 11, 15 (2d Cir. 2018) (summary order) (holding that a               
+plaintiff “must offer some hard evidence showing that                     
+[their] version of the events is not wholly fanciful”                     
+(quoting D’Amico v. City of N.Y., 132 F.3d 145, 149 (2d                   
+
+Cir. 1998)).  “The mere existence of a scintilla of                       
+evidence in support of the plaintiff’s position will be                   
+insufficient.”  Anderson, 477 U.S. at 252.                                
+III. Discussion                                                         
+   A.  Eighth Amendment                                                 
+   Plaintiffs claim that their rights under the Eighth                  
+
+Amendment were violated as a result of their placement in                 
+Q-Pod in that they were: (1) denied group meals, group                    
+exercise and other group activities providing opportunities               
+to socialize; (2) denied vocational training, job                         
+assignments, and education; (3) deprived of adequate                      
+medical care; (4) deprived of court-ordered drug and                      
+
+alcohol counseling; and (5) deprived of access to toilets                 
+without timers.                                                           
+   The Eighth Amendment is concerned with “[a prisoner’s]               
+basic human needs — e.g., food, clothing, shelter, medical                
+care, and reasonable safety.”  DeShaney v. Winnebago Cnty.                
+
+Dep’t of Soc. Servs., 489 U.S. 189, 200 (1989).  “[A]                     
+prison official violates the Eighth Amendment only when” he               
+or she causes a deprivation that is “sufficiently serious.”               
+Salahuddin v. Goord, 467 F.3d 263, 279 (2d Cir. 2006)                     
+(quoting Farmer v. Brennan, 511 U.S. 825, 834 (1994)).                    
+
+“Only ‘deprivations “denying the minimal civilized measure                
+of life’s necessities” are sufficiently grave to form the                 
+basis of an Eighth Amendment violation.’”  Id. (quoting                   
+Wilson v. Seiter, 501 U.S. 294, 298 (1991)).                              
+   In accordance with these principles, plaintiffs’ Eighth              
+Amendment claim requires that they prove (1) an                           
+
+“objectively, sufficiently serious . . . denial of the                    
+minimal civilized measure of life’s necessities” and (2) a                
+“sufficiently culpable state of mind” on the part of the                  
+responsible official.  Willey v. Kirkpatrick, 801 F.3d 51,                
+66 (2d Cir. 2015).  The deprivations at issue here do not                 
+meet the first prong.  See Galarza v. Erfe, 2019 WL                       
+
+8756874, *3 (Q-Pod inmate’s allegations of no communal                    
+meals, 45-minute limit on recreation time, non-availability               
+of programs outside of cell, and correctional officers’                   
+loud walkie-talkies disrupting sleep failed to meet first                 
+prong); Shakur, 2009 WL 2151174, *6 (rejecting claim that                 
+
+restrictive conditions in Q-Pod constituted cruel and                     
+unusual punishment).                                                      
+   At oral argument, plaintiff’s counsel explained that                 
+plaintiffs’ lack of access to group meals, group exercise                 
+and other group activities while in Q-Pod resulted in a                   
+
+form of debilitating isolation.  “Confinement . . . in an                 
+isolation cell is a form of punishment subject to scrutiny                
+under Eighth Amendment standards.”  Hutto v. Finney, 437                  
+U.S. 678, 685 (1978).  But plaintiffs do not allege that                  
+any of them was held in isolation.  Rather, each plaintiff                
+had a cellmate, was permitted daily visits and could                      
+
+recreate up to two hours a day with many others.  Given                   
+this level of social contact, plaintiffs’ lack of access to               
+group meals, group exercise and other group activities did                
+not impose a level of isolation sufficient to support a                   
+constitutional claim.  Cf. Tavares v. Amato, 954 F. Supp.                 
+2d 79, 92 (N.D.N.Y. 2013) (noting that administrative                     
+
+segregation conditions are generally insufficient to                      
+establish Eighth Amendment violations).                                   
+   Deliberate indifference by prison officials to a                     
+prisoner’s serious medical or mental health needs                         
+constitutes cruel and unusual punishment.  See Slavone v.                 
+
+New York State Dep’t of Corr. Servs., 719 F.3d 127, 138 (2d               
+Cir. 2013).  However, “not every lapse in medical care is a               
+constitutional wrong.”  Salahuddin, 467 F.3d at 279.  To                  
+prevail on a claim of deliberate indifference in violation                
+of the Eighth Amendment, an inmate must demonstrate (1)                   
+
+that his need for medical care was objectively,                           
+sufficiently serious, and (2) that the defendant failed to                
+provide necessary care despite being aware of a substantial               
+risk that the inmate would suffer serious harm as a result.               
+Plaintiffs do not specifically allege (or offer evidence to               
+prove) any instance in which any of them was denied access                
+
+to needed medical or mental health care.  Rather, they                    
+state that “many times the offender would be denied medical               
+treatment” and that with regard to mental health treatment,               
+“[t]here was not any confidentiality.”  ECF 69 ¶ 36.  These               
+allegations are insufficient to support a claim of                        
+deliberate indifference.                                                  
+
+   The absence of specific allegations of harm (and lack                
+of supporting evidence), also undercuts the Eighth                        
+Amendment claim insofar as it is based on denial of access                
+to drug and alcohol counseling.  Plaintiff Rivera claimed                 
+in an inmate request form that he needed to be in a drug                  
+
+treatment program to become eligible for parole but was                   
+being denied entry into the program because he was in Q-                  
+Pod.  Pl. Ex., ECF 47-4, at 20.  DOC’s response to Rivera’s               
+grievance indicates that he was barred from the program                   
+because of his disciplinary report rather than by his                     
+
+housing status per se.  Id.  Delayed eligibility for parole               
+is not a deprivation of basic human needs and does not                    
+violate the Eighth Amendment.                                             
+   Plaintiffs’ allegation regarding toilet timers does not              
+support an Eighth Amendment claim.  Temporary deprivations                
+of toilet use that do not result in serious physical harm                 
+
+or contamination do not rise to the level of a                            
+constitutional violation.  Harvin v. Chapdelaine, No. 3:16-               
+CV-1616(VAB), 2017 WL 3725611, at *11 (D. Conn. Aug. 29,                  
+2017) (collecting cases).                                                 
+   Finally, plaintiffs’ lack of access to jobs,                         
+educational programs and vocational training while in Q-Pod               
+
+does not support an Eighth Amendment claim.  See Galarza v.               
+Erfe, 2019 WL 8756874, *3 (non-availability of programs in                
+Q-Pod did not provide plausible ground for Eighth Amendment               
+claim).                                                                   
+   Defendants argue that even assuming an Eighth                        
+
+Amendment violation could be found on the basis of the                    
+record here, they are entitled to qualified immunity.  I                  
+agree.                                                                    
+   Qualified immunity shields government officials from                 
+claims for damages under § 1983 “insofar as their conduct                 
+
+does not violate clearly established statutory or                         
+constitutional rights of which a reasonable person would                  
+have known.”  Farid v. Ellen, 593 F.3d 233, 244 (2d Cir.                  
+2010) (quoting Harlow v. Fitzgerald, 457 U.S. 800, 818                    
+(1982) (internal quotation marks omitted)).  To overcome a                
+defense of qualified immunity, a plaintiff must show that                 
+
+(1) the defendant violated a constitutional right, and (2)                
+the right at issue was clearly established at the time of                 
+the defendant’s conduct.  Pearson v. Callahan, 555 U.S.                   
+223, 232 (2009).  “A clearly established right is one that                
+is ‘sufficiently clear that every reasonable official would               
+have understood that what he is doing violates that                       
+
+right.’”  Mullenix v. Luna, 577 U.S. 7, 11 (2015) (quoting                
+Reichle v. Howards, 566 U.S. 658, 664 (2012)).  To                        
+determine whether a right was clearly established, courts                 
+in this circuit consider “Supreme Court decisions, [Second                
+Circuit] decisions, and decisions from other circuit                      
+
+courts.”  Simon v. City of New York, 893 F.3d 83, 92 (2d                  
+Cir. 2018).  “A right must be defined with reasonable                     
+specificity and is clearly established only if the relevant               
+case authority is directly on point or clearly foreshadows                
+a ruling recognizing the right.”  Galarza v. Erfe, No.                    
+
+3:18-cv-663 (JAM), 2020 WL 5501239, *4 (D. Conn. Sept. 11,                
+2020), citing Sloley v. VanBramer, 845 F.3d 30, 40 (2d Cir.               
+2019).                                                                    
+    Plaintiffs have not identified relevant case authority              
+showing that the restrictive conditions they experienced in               
+Q-Pod violated the Eighth Amendment.  They cite no decision               
+
+of the Supreme Court, Second Circuit or other circuit                     
+courts suggesting that the conditions were objectively,                   
+sufficiently serious to rise to the level of cruel and                    
+unusual punishment.  Moreover, the decision in Shakur                     
+rejecting the plaintiff’s Eighth Amendment claim gave the                 
+defendants reason to believe that the conditions of                       
+
+confinement in Q-Pod did not violate the Eighth Amendment.                
+See also Galarza v. Erfe, No. 3:18-CV-00663 (JAM), 2019 WL                
+8756874, *3 (D. Conn. Apr. 30, 2019) (inmate’s allegations                
+concerning conditions of confinement in Q-Pod failed to                   
+provide plausible ground for Eighth Amendment claim).                     
+   B.  Fourteenth Amendment                                             
+
+         i.  Procedural Due Process                                     
+
+  The Due Process Clause of the Fourteenth Amendment                    
+protects inmates against deprivation of certain liberty                   
+interests without procedural safeguards.  A prisoner has a                
+right to procedural protection when (1) the state has                     
+created a liberty interest in a statute or regulation and                 
+(2) deprivation of that interest results in “atypical and                 
+significant hardship in relation to the ordinary incidents                
+of prison life.”  Sandin v. Conner, 515 U.S. 472, 484                     
+
+(1995).6  Accordingly, to prevail here, plaintiffs must                   
+establish both that their confinement in Q-Pod imposed an                 
+atypical and significant hardship under Sandin, and that                  
+the state granted them, by regulation or statute, a                       
+protected liberty interest in remaining free from                         
+
+
+6 Sandin involved an inmate, Demont Connor, who was confined in           
+disciplinary segregation for 30 days.  During his 30 days in              
+disciplinary segregation, Connor was confined to his cell except          
+for 50 minutes each day when he was permitted to exercise and             
+shower while isolated from other inmates and constrained by leg           
+irons and waist chains.  The Court concluded that Conner’s                
+confinement in disciplinary segregation for 30 days did not               
+impose “atypical and significant hardship.”                               
+confinement in Q-Pod.  See Frazier v. Coughlin, 81 F.3d                   
+313, 317 (2d Cir. 1996).                                                  
+
+   The record is insufficient to permit a reasoned                      
+determination of whether plaintiffs can prove a state-                    
+created liberty interest.  They point to DOC A.D 9.5, which               
+sets out the available penalties for disciplinary                         
+violations.  See ECF 60.  They contend that this regulation               
+
+gives prisoners a liberty interest in being free from                     
+penalties that are not expressly authorized.  Defendants                  
+have not addressed this contention directly.  See ECF 56-1                
+at 21-22.  But they do deny that the conditions in Q-Pod                  
+imposed a penalty.  Though the record is insufficient to                  
+permit a reasoned finding, I will assume for present                      
+
+purposes that plaintiffs can prove they had a state-created               
+liberty interest in avoiding assignment to Q-Pod.                         
+   Whether plaintiffs can prove that the conditions in Q-               
+Pod imposed atypical and significant hardship is also                     
+unclear.  The inquiry hinges on two factors: the duration                 
+of the plaintiff’s confinement in Q-Pod and the extent to                 
+
+which the conditions in Q-Pod differed from the conditions                
+in general population.  See Palmer v. Richards, 364 F.3d                  
+60, 64 (2d Cir. 2004); Colon v. Howard, 215 F.3d 227, 231                 
+(2d Cir. 2000).  Some of the plaintiffs were confined in Q-               
+Pod for lengthy periods of time, so the duration factor                   
+
+weighs in their favor.  However, the conditions in Q-Pod                  
+were not dramatically different from the conditions in                    
+general population.                                                       
+   In assessing the conditions in Q-Pod for purposes of                 
+the Sandin claim, guidance can be drawn from other cases                  
+
+brought in this court by Q-Pod inmates seeking relief under               
+Sandin.  In the first case, filed in 2012, Judge Thompson                 
+summarized the plaintiff’s allegations with regard to the                 
+conditions in Q-Pod as follows:                                           
+   The plaintiff alleges that he is denied communal                     
+   meals, must shower in the evening rather than                        
+   being allowed to choose to shower in the morning                     
+   or evening, and can access the prison library only                   
+   one day per week. The plaintiff is afforded two                      
+   hours out-of-cell time per day, one hour of                          
+   recreation in the morning and one hour for showers                   
+   and telephone use in the evening. He is not                          
+   allowed the additional hour of exercise in a large                   
+   outdoor yard or, during inclement weather, in the                    
+   gymnasium that other general population inmates                      
+   are afforded. The housing unit does not have a                       
+   television in the day room or a typewriter for the                   
+   unit.                                                                
+
+Ruling on Motion to Dismiss in Part, Harnage v.                           
+Brighthaupt, No. 3:12-cv-1521 (AWT) (D. Conn. Feb 12,                     
+2014), ECF 42 at 14.  Judge Thompson observed that while                  
+these conditions may have been harsher than the conditions                
+in other housing units, “the plaintiff had alleged no facts               
+describing any condition that an inmate should not expect                 
+
+to undergo by virtue of his incarceration.”  Id. at 18.                   
+Accordingly, the plaintiff could not meet the significant                 
+and atypical standard of Sandin.                                          
+   In the second case, filed in 2015, the same plaintiff                
+alleged that while he was in Q-Pod, “prison officials                     
+
+subjected [him] to limited access to library resources,                   
+shorter recreation periods, restrictions on photocopying                  
+services and no access to intramural sports and communal                  
+dining.  In addition, religious and medical services were                 
+performed within the unit instead of outside of the unit.”                
+Ruling on Motion to Dismiss, Harnage v. Chapdelaine, 3:15-                
+
+cv-1034 (AWT) (D. Conn. Mar. 28, 2017), ECF 25 at 2-3                     
+(“Harnage II”).  Judge Thompson again concluded that the                  
+conditions alleged by the plaintiff did not meet the Sandin               
+standard and he was therefore “not entitled to procedural                 
+due process prior to his placement in Q-Pod.”  Id. at 10.                 
+   Plaintiffs’ allegations concerning lack of access to                 
+
+jobs, vocational training and classroom instruction go                    
+beyond the allegations in the Harnage cases.  But the                     
+record does not support a finding that this lack of access                
+was a marked departure from the ordinary incidents of                     
+prison life.  With regard to jobs, plaintiffs admit that                  
+
+MWCI had a wait list for general population inmates who                   
+wanted jobs.7  They also do not dispute that, with the                    
+possible exception of “tiermen” in Q-Pod, inmates with                    
+disciplinary records did not have jobs.  Id. ¶ 30.  With                  
+regard to other programming, the record indicates that                    
+
+eligibility depended on an inmate’s disciplinary record,                  
+rather than his housing assignment.  See Pl. Ex., ECF 47-4                
+at 20 (grievance from plaintiff Rivera claiming that he had               
+been denied program participation because of his placement                
+in Q-Pod; response stating that program participation                     
+required a clean disciplinary record for 120 days after a                 
+
+Class A violation).                                                       
+   The allegations in the present case also go beyond the               
+allegations in the Harnage cases with regard to medical and               
+religious services.  Plaintiffs allege that services were                 
+provided only within Q-Pod, the same allegation made in                   
+Harnage II.  But plaintiffs also assert that some Q-Pod                   
+
+inmates were denied access to medical care and religious                  
+
+
+7 At the pertinent time, there were approximately 1900 inmates at         
+MWCI and only about 500 jobs.  ECF 69 ¶ 31-32.                            
+services even within the unit, in other words, they were                  
+wholly denied access to medical and religious services.                   
+
+These allegations were not made in the Harnage cases.                     
+   Viewed most favorably to plaintiffs, the record does                 
+not permit a finding that any of them was ever denied                     
+access to needed medical care while in Q-Pod.  The                        
+assertion that “many times” unidentified “offenders” were                 
+
+denied needed medical care is conclusory in nature.  There                
+is no allegation or evidence that any of the plaintiffs had               
+a need for medical treatment while in Q-Pod, sought                       
+treatment and was denied treatment.                                       
+   Plaintiffs’ claim with regard to the alleged denial of               
+access to religious services is better supported.                         
+
+Plaintiff Baltas’s affidavit states that he could not                     
+smudge in his cell.   His statement is contradicted by                    
+contemporaneous documentary evidence.  See Pl. Ex., ECF 47-               
+3 at 21 (grievance by plaintiff Baltas claiming that he was               
+restricted from practicing his Native American religion by                
+smudging with the rest of the general population; response                
+
+by officials stating that inmates in Q-Pod may dry smudge                 
+in their cells and that the “Native American Chaplin [sic]                
+does a service with the inmates in Q unit.”).  But                        
+plaintiff Tarasco’s affidavit makes a similar claim                       
+regarding Native American religious services.  He alleges                 
+
+that he “was not allowed to attend [his] religious                        
+practices or purifications at all” and that as a result of                
+his persistent complaints about this restriction, he “was                 
+eventually removed from Q-Pod.”  ECF 47-5 at 6.  Tarasco’s                
+claim is buttressed by the affidavit of plaintiff                         
+
+Castellano, which recounts a conversation between Tarasco,                
+a Native American Services Alder, and a Q-Pod counselor,                  
+which Castellano overheard.  According to Castellano’s                    
+account, Tarasco asked the alder about accessing services,                
+including a sweat lodge and smudging.  The counselor   said               
+the Warden and Deputy Warden had been informed of Tarasco’s               
+
+request and were looking into whether services could be                   
+provided.  Both the counselor and the alder said they were                
+uncertain whether any services could be provided to Tarasco               
+in Q-Pod due to staffing issues.  ECF 47-5 at 7-8.                        
+   Viewing the record most favorably to plaintiffs, the                 
+affidavits of Baltas, Tarasco and Castellano, in                          
+
+combination, raise a triable issue whether Baltas and                     
+Castellano were unable to smudge or attend sweat lodge                    
+services in Q-Pod.  But the duration of the deprivation                   
+remains unclear.                                                          
+
+  As to the amount of time plaintiffs spent in Q-Pod, the               
+record, viewed most favorably to the plaintiffs, shows the                
+following:                                                                
+   Baltas was in Q-Pod from April 9, 2015 to May 12,                    
+2015; then from May 29, 2015 to October 21, 2015; then from               
+
+November 13, 2015 to February 24, 2016; then from April 8,                
+2017 to July 3, 2016;                                                     
+   Rivera was in Q-Pod for 9 months;                                    
+   Tarasco was in Q-Pod for 3 months and a few days;                    
+   Rice was in Q-Pod from March 28, 2016 to July 6, 2016;               
+And                                                                       
+
+   Gladding was in Q-Pod for longer than 6 months                       
+consecutively and ultimately spent a total of more than one               
+year in Q-Pod.8                                                           
+   Based on this record, I cannot exclude the possibility               
+that Baltas, Rivera and Gladding may be able to prove that                
+they were confined in Q-Pod without procedural protections                
+
+for a longer period than permitted by the Fourteenth                      
+
+
+8 The record does not disclose the duration of the other                  
+plaintiffs’ confinement in Q-Pod.                                         
+Amendment.  A decision by Chief Judge Underhill shows that                
+the claims of these plaintiffs have arguable merit.  In                   
+
+Garcia v. Semple, No. 3:18-cv-1226, 2019 WL 5597771 (D.                   
+Conn. Oct. 30, 2019), the plaintiff was placed on high                    
+security status and moved to a cell in Q-Pod, where he                    
+remained for 89 days.  The plaintiff’s affidavit described                
+conditions similar to the ones at issue here.  See No.                    
+
+3:18-cv-1226, ECF 1 at ¶ 167.  Judge Underhill concluded                  
+that the plaintiff had a plausible procedural due process                 
+claim.  See 2019 WL 5597771, *13.9                                        
+   However, I agree with the defendants that they are                   
+entitled to qualified immunity.  Plaintiffs cite no                       
+relevant case authority clearly establishing that confining               
+
+them in Q-Pod without procedural safeguards for the periods               
+at issue violated the Fourteenth Amendment.  At the                       
+pertinent time, relevant case authority indicated that                    
+confinement in more severe conditions for months at a time                
+would not constitute atypical and substantial hardship                    
+under Sandin.  See Frazier, 81 F.3d at 317-18 (120 days in                
+
+segregation followed by 30 days loss of recreation and                    
+
+
+9 The case was later dismissed for failure to prosecute.  See ECF         
+35.                                                                       
+other privileges did not impose atypical and significant                  
+hardship).  Moreover, in the Harnage cases, the plaintiff                 
+
+alleged that he had been in Q-Pod for four or five months                 
+at a time.  See Ruling on Motion to Dismiss, Harnage v.                   
+Chapdelaine, 3:15-cv-1034 (AWT) (D. Conn. Mar. 28, 2017),                 
+ECF 25 at 3.  Accordingly, the dismissal of the procedural                
+due process claims in those cases signaled that the                       
+
+conditions in Q-Pod were not so different from the ordinary               
+incidents of prison life as to support a claim under                      
+Sandin.                                                                   
+   I also agree with defendants’ argument that                          
+plaintiffs’ claims for injunctive relief under Sandin are                 
+moot.  ECF 56-1 at 28-30.  At the time this motion was                    
+
+briefed, none of the plaintiffs remained in Q-Pod, and only               
+two of them remained at MWCI.  See id. at 29-30.  Now, it                 
+appears, four plaintiffs are incarcerated at MWCI, but it                 
+is unclear whether any of them are housed in Q-Pod.  When                 
+an inmate is moved from the facility that is the site of                  
+his claim for injunctive relief, the request is generally                 
+
+moot.  Young v. Coughlin, 866 F.2d 567, 568 n.1 (2d Cir.                  
+1989); see also Candelaria v. Coughlin, 787 F. Supp. 368,                 
+378 (S.D.N.Y.), aff'd 979 F.2d 845 (2d Cir. 1992) ("Because               
+plaintiff has now been transferred to another facility, we                
+dismiss his claim for injunctive relief as moot.").                       
+        ii.  Grievance Process                                          
+
+   Plaintiffs claim that defendants violated their due                  
+process rights by failing to properly administer the                      
+grievance process.  More specifically, plaintiffs claim                   
+
+that their grievances were not addressed at all or were not               
+addressed in a timely manner. Am. Compl., ECF 14 ¶ 47. They               
+also object to the practice of resolving grievances by                    
+“compromising” them, which did not allow for the usual                    
+appeals process. See, e.g., Pl. Ex., ECF 47-4 at 14.  The                 
+
+record does not support a viable due process claim.                       
+“Although state laws may in certain circumstances create a                
+constitutionally protected entitlement to substantive                     
+liberty interests, state statutes do not create federally                 
+protected due process entitlements to specific state-                     
+mandated procedures.”  Holcomb v. Lykens, 337 F.3d 217, 224               
+
+(2d Cir. 2003) (citations omitted); see Kalican v.                        
+Dzurenda, 583 F. App’x 21, 22 (2d Cir. 2014) (summary                     
+order) (“Grievance procedures, which are creatures of state               
+law, are not interests independently protected by the                     
+Constitution . . . .”); see also Green v. Martin, 224 F.                  
+Supp. 3d 154, 178 (D. Conn. 2016) (“Prisoners have no                     
+constitutionally protected right to have prison officials                 
+
+comply with grievance procedures or even to respond to                    
+grievances.”).  Accordingly, defendants are entitled to                   
+summary judgment on this claim.                                           
+   C.  First Amendment                                                  
+         i.  Access to the Courts                                       
+
+   Plaintiffs allege that defendants violated their right               
+to access the courts by interfering with their use of the                 
+library and the typewriter.10  The record, viewed most                    
+favorably to plaintiffs, does not raise a triable issue                   
+with regard to this claim.  “[T]here is . . . no                          
+constitutional right to a typewriter as an incident to the                
+
+right of access to the courts.”  Taylor v. Coughlin, 29                   
+F.3d 39, 40 (2d Cir. 1994) (quotation marks omitted)                      
+(quoting Wolfish v. Levi, 573 F.2d 118, 132 (2d Cir. 1978),               
+
+
+10 Plaintiffs also assert that they were stymied in bringing              
+grievances, in violation of the First Amendment.  There is no             
+right to a grievance procedure under the First Amendment.                 
+Boddie v. Alexander, 356 F. App’x 438, 440 (2d Cir. 2009)                 
+(summary order).  “[T]he First Amendment functions only to                
+prohibit the government from obstructing the right to petition.”          
+Id.  “Because [plaintiffs] allege[], in essence, that the                 
+[defendants] failed to assist [their] ability to raise a                  
+grievance — not that the [defendants] obstructed [their] ability          
+to raise a grievance — [plaintiffs have] failed to state a                
+cognizable First Amendment claim.”  Id. at 441.                           
+rev’d on other grounds, Bell v. Wolfish, 441 U.S. 520                     
+(1979)).                                                                  
+
+   As for library access, the parties dispute how often Q-              
+Pod inmates could visit the library.  Again viewing the                   
+record in the light most favorable to the plaintiffs, I                   
+will assume that the plaintiffs had access to the library                 
+only once per month, unlike general population inmates on                 
+
+other units who accessed the library once per week.  While                
+Bounds v. Smith requires adequate access to a law library                 
+as a part of the right to access the courts, 430 U.S. 817,                
+829 (1977), plaintiffs still must demonstrate inadequate                  
+access resulting in “actual injury.”  Benjamin v. Fraser,                 
+264 F.3d 175, 185 (2d Cir. 2001) (“Because law libraries                  
+
+and legal assistance programs do not represent                            
+constitutional rights in and of themselves, but only the                  
+means to ensure ‘a reasonably adequate opportunity to                     
+present claimed violations of fundamental constitutional                  
+rights to the courts,’ prisoners must demonstrate ‘actual                 
+injury’ in order to have standing.” (quoting Lewis v.                     
+
+Casey, 518 U.S. 343, 351 (1996) (internal quotations                      
+omitted)).  In other words, plaintiffs must show that their               
+lack of access to the law library was in fact inadequate                  
+and impeded their access to the courts.                                   
+   The record does not support a finding of actual injury               
+
+as a result of any limited access to the library or                       
+typewriters.  In particular, the record does not support a                
+finding that “the alleged shortcomings in the library or                  
+legal assistance program hindered [any plaintiff’s] efforts               
+to pursue a legal claim.” Bourdon v. Loughren, 386 F.3d 88,               
+
+93 (2d Cir. 2004).  Therefore, the defendants are entitled                
+to summary judgment on this claim.                                        
+        ii.  Free Exercise of Religion                                  
+   Plaintiffs claim that they were prevented from                       
+engaging in religious practices while in Q-Pod in violation               
+of the First Amendment.  As discussed above, Baltas and                   
+
+Tarasco may be able to prove that they were not allowed to                
+engage in Native American religious practices in Q-Pod.                   
+Even if they were permitted to smudge, they might still be                
+able to prove that they were deprived of a “constitutional                
+right to participate in congregate religious services.”                   
+Salahuddin v. Coughlin, 993 F.2d 306, 308 (2d Cir. 1993).                 
+
+In Salahuddin v. Coughlin, 999 F. Supp. 526, 538-39                       
+(S.D.N.Y. 1998), the court held that there must be                        
+individualized findings to justify depriving a particular                 
+inmate of congregate services.  In other words, mere                      
+segregation status on a particular unit is not enough.  See               
+
+also LaReau v. MacDougall, 473 F.2d 974, 979 n.9 (2d Cir.                 
+1972) (noting that not all prisoners in segregation                       
+“lawfully can be prevented from attending church services                 
+in the chapel. Not all segregated prisoners are potential                 
+troublemakers; so some discrimination must be made by                     
+
+prison authorities among the inmates in the segregation                   
+unit.”).  Furthermore, this claim is distinguishable from                 
+other cases that have declined to allow religious freedom                 
+claims related to the Q-Pod to go forward. In Shakur v.                   
+Sieminski, No. 3:07-cv-1239C, 2009 WL 2151174 (D. Conn.                   
+July 15, 2009), summary judgment was granted on the First                 
+
+Amendment claims of a prisoner in Q-Pod. However, in that                 
+case, the plaintiff “[did] not allege . . . that he was                   
+denied the ability to practice his religion or attend                     
+congregate religious services.” Id. at *7. Instead, he only               
+alleged that congregate services were “provided in Q-Unit,                
+instead of the main building.” Id.  Here, Tarasco                         
+
+specifically alleges that he was denied both the ability to               
+practice his religion and to attend congregate religious                  
+services.                                                                 
+   Nevertheless, I conclude that the defendants are                     
+entitled to qualified immunity.  No relevant case authority               
+
+has been cited or found that addresses the First Amendment                
+free exercise rights of inmates to participate in sweat                   
+lodge or smudging services.  See, e.g., Baltas v. Erfe, No.               
+3:19-cv-1820 (MPS), 2022 WL 4260672, *12 (D. Conn. Sept.                  
+15, 2022) (“N either party has cited, and the Court is                    
+
+unaware of, any Second Circuit or U.S. Supreme Court                      
+precedent that specifically addresses an                                  
+inmate's First Amendment right either to demand                           
+construction of a sweat lodge within a prison facility, or                
+to transfer to a prison facility with sweat lodge access,                 
+to accommodate the inmate's free exercise of the Native                   
+
+American religion”); Buckles v. Crowe, 2021 WL 1341887, * 6               
+(D. Mont. Feb. 22, 2021) (finding based on a review of                    
+federal case law that there is “no clearly established                    
+constitutional right to access a sweat lodge in prison to                 
+practice the Native American religion”).  In the absence of               
+clear case law, qualified immunity applies to the claims of               
+
+Baltas and Tarasco against the defendants in their                        
+individual capacities.  And their claims for injunctive                   
+relief are moot, as discussed earlier.                                    
+   D.  State Law Claims                                                 
+   Because summary judgment is properly granted on all the              
+
+federal claims, the state law claims will be dismissed                    
+without prejudice.  “[I]n the usual case in which all                     
+federal-law claims are eliminated before trial, the balance               
+of factors . . . will point toward declining to exercise                  
+jurisdiction over the remaining state-law claims.”  Kolari                
+
+v. New York-Presbyterian Hosp., 455 F.3d 118, 122 (2d Cir.                
+2006) (alteration in original) (quoting Carnegie-Mellon                   
+Univ. v. Cohill, 484 U.S. 343, 350 n.7 (1988)).  In                       
+addition, “district courts may decline to exercise                        
+supplemental jurisdiction” where “the claim raises a novel                
+or complex issue of State law.”  28 U.S.C. § 1367(c)(1).                  
+
+In this case, it is unclear whether there are private                     
+rights of action for many of plaintiffs’ state                            
+constitutional claims.  See Binette v. Sabo, 710 A.2d 688,                
+700 (Conn. 1998) (“Whether to recognize a cause of action                 
+for alleged violations of other state constitutional                      
+provisions in the future must be determined on a case-by-                 
+
+case basis.”).  This counsels against exercising                          
+supplemental jurisdiction.  See Lopez v. Smiley, 375 F.                   
+Supp. 2d 19, 26 (D. Conn. 2005) (declining jurisdiction                   
+over state constitutional claims, citing Binette and                      
+“federalism and comity concerns”).  Accordingly, those                    
+
+claims are dismissed without prejudice to refiling in state               
+court.  See Kolari, 455 F.3d at 124.                                      
+IV.  Conclusion                                                         
+   Defendants’ motion for summary judgment is granted with              
+regard to the federal claims and plaintiffs’ partial motion               
+
+for summary judgment is denied.  The state law claims are                 
+dismissed without prejudice.  The Clerk may enter judgment                
+and close the file.                                                       
+   So ordered this 30th day of September 2022.                          
+                               /s/ Robert N. Chatigny  ____             
+                                 Robert N. Chatigny                     
+                            United States District Judge

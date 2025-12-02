@@ -1,0 +1,26 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the Federal Highway Administration (FHWA) acted arbitrarily and capriciously under the Administrative Procedure Act (APA) by failing to consider updated cost information when determining if rehabilitation of the Frank J. Wood Bridge was a prudent and feasible alternative under Section 4(f) of the Department of Transportation Act.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that the FHWA properly limited its remand inquiry to the specific issue identified in the prior appellate mandate\u2014whether a 53% price differential constituted a cost of extraordinary magnitude\u2014and was not required to recalculate the cost differential using updated estimates, especially given the agency's reasonable rejection of plaintiffs' new cost evidence."
+    }
+  ],
+  "key_precedents": [
+    "Hist. Bridge Found. v. Buttigieg, 22 F.4th 275 (1st Cir. 2022)",
+    "Dep't of Homeland Sec. v. Regents of the U. of Cal., 591 U.S. 1 (2020)",
+    "SEC v. Chenery Corp. (Chenery II), 332 U.S. 194 (1947)",
+    "Motor Vehicle Mfrs. Ass'n of U.S. v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29 (1983)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "We consider for a fourth time the fate of the Frank J. Wood Bridge (\"the Bridge\"), a key piece of Maine's infrastructure connecting the municipalities of Topsham and Brunswick. Built in 1932, the Bridge is no longer capable of safely performing its needed role, and traffic restrictions and eventual closure will likely result absent substantial rehabilitation or replacement.\n\nMaine's Department of Transportation (MDOT) concluded that replacement makes more sense than rehabilitation. Because federal funds will be used to replace the Bridge, MDOT was therefore required to obtain the approval of the Federal Highway Administration (FHWA) and to comply with several federal statutes, including -- because the Bridge is part of a historic district and is itself historic -- section 4(f) of the Department of Transportation (DOT) Act. See DOT Act, Pub. L. No. 89-670, \u00a7 4(f), 80 Stat. 931, 932 (1966), codified as amended at 49 U.S.C. \u00a7 303(c) (limiting approvals of projects which \"use\" a protected property to situations where there is \"no prudent and feasible alternative\"); 23 C.F.R. \u00a7 774.17 (2024) (providing that an alternative is not \"prudent\" under section 4(f) if it \"results in additional construction, maintenance, or operational costs of an extraordinary magnitude\"); see also 54 U.S.C. \u00a7 306108 (requiring federal agencies to \"take into account the effect of [any] undertaking on any historic property\"). Over the objections of pro-preservation groups -- including the plaintiffs prosecuting this appeal -- the FHWA granted MDOT approval under section 4(f) to replace the Bridge.\n\nA petition for review to the district court followed, Hist. Bridge Found. v. Chao, 517 F. Supp. 3d 9 (D. Me. 2021), in which plaintiffs and others presented \"a slew of line-item challenges to various [agency] calculations,\" Hist. Bridge Found. v. Buttigieg, 22 F.4th 275, 281 (1st Cir. 2022). The district court rejected all of plaintiffs' challenges. Hist. Bridge Found. v. Chao, 517 F. Supp. 3d at 32.\n\nPlaintiffs' first appeal to this court followed. We rejected all of plaintiffs' challenges, save one. Hist. Bridge Found. v. Buttigieg, 22 F.4th at 282\u201386. The surviving challenge pertained to the manner in which MDOT compared the costs of replacement and rehabilitation in concluding that rehabilitation would represent a cost of \"extraordinary magnitude\" under 23 C.F.R. \u00a7 774.17 (2024), so as to render rehabilitation not \"prudent\" under section 4(f). Id. at 284. As explained in more detail in our opinion on that prior appeal, MDOT concluded that the rehabilitation alternative would cost over double the cost of replacement, for a shorter service life. Id. at 279. In so concluding, MDOT did not rely on the differential that would result from discounting future costs to present value -- although it calculated that differential, roughly 53%, in a calculation known as life-cycle cost analysis. Id. at 284\u201386. Nor did the agency explain why it did not rely on discounted costs, apart from \"rel[ying] on non-discounted future costs as the better basis upon which to compare the alternatives,\" id. at 279, despite evidence that the DOT and the FHWA's own guidelines identify discounting as \"the standard and preferred way to compare future costs,\" id. at 284\u201385 (citing, among others, Off. of Asset Mgmt., FHWA, Pub. No. FHWA IF-02-047, Life-Cycle Cost Analysis Primer 9 (2002)). We therefore vacated the FHWA decision in part and remanded the case \"for the strictly limited purpose of allowing the agency to further justify use of the service-life analysis and/or to decide whether a 53% price differential represents a cost of an extraordinary magnitude under 23 C.F.R. \u00a7 774.17.\" Id. at 286."
+}

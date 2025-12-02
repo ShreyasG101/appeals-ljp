@@ -1,0 +1,41 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court properly granted summary judgment to Barracuda on Axis's claim for equitable indemnification under Massachusetts law.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that Axis failed to present evidence of a relationship between Zoll and Barracuda that could give rise to derivative or vicarious liability, which is required for equitable indemnification under Massachusetts law."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the district court properly granted summary judgment to Barracuda on Axis's breach of contract claim based on Fusion's failure to satisfy a condition precedent in the OEM agreement.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found that Fusion did not fulfill the OEM's condition precedent and that Barracuda neither waived nor was estopped from relying on that condition; mere inaction or silence by Barracuda was insufficient to constitute waiver or estoppel."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the district court properly granted summary judgment to Barracuda on Axis's claim for breach of the covenant of good faith and fair dealing.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court concluded that Axis failed to identify any contractual right Fusion was entitled to in the event of a data breach, and the implied covenant cannot create new rights not found in the contract."
+    }
+  ],
+  "key_precedents": [
+    "Celotex Corp. v. Catrett, 477 U.S. 317 (1986)",
+    "Decker v. Black & Decker Mfg. Co., 449 N.E.2d 641 (Mass. 1983)",
+    "Elias v. Unisys Corp., 573 N.E.2d 946 (Mass. 1991)",
+    "Ayash v. Dana-Farber Cancer Inst., 822 N.E.2d 667 (Mass. 2005)",
+    "Uno Rests., Inc. v. Boston Kenmore Realty Corp., 805 N.E.2d 957 (Mass. 2004)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "The district court granted Barracuda's motion for summary judgment on all claims. For the reasons stated below, we affirm.\n\n                                   I. BACKGROUND\n\n                In reviewing the district court's decision granting\nsummary judgment to Barracuda, we recite the facts in the record\nin the light most favorable to Axis and draw all reasonable\ninferences from those facts in its favor. See Sutherland v.\nPeterson's Oil Serv., Inc., 126 F.4th 728, 734 (1st Cir. 2025).\n\n                A. Factual Background\n\n                Fusion and Barracuda's corporate predecessors1 entered\ninto an Original Equipment Manufacturer agreement (\"OEM\") through\nwhich Fusion was allowed to resell Barracuda's email archiving\nservices to its customers. The OEM was conditioned on Fusion's\ninclusion of appropriate limitation of liability and\nindemnification language in its customer contracts. The OEM\nincluded a provision reserving Barracuda's right to\n\"audit . . . all applicable books and records relating to the\n[services provided by Barracuda]\" and a clause stating that \"[n]o\nfailure or delay of [Barracuda] in exercising any right or remedy\nunder [the OEM] shall operate as a waiver of such right\"\n(\"anti-waiver provision\").\n\n            Shortly after the OEM, Zoll -- a company that sells\nmedical devices and receives and stores customer PHI -- became a\nFusion customer, acquiring services for electronic messaging and\nemail communications. The contract between Fusion and Zoll\n(\"Hosting Agreement\") did not include appropriate limitation of\nliability or indemnification provisions, as required by the OEM.\nZoll separately entered into a Health Insurance Portability and\nAccountability Act (\"HIPAA\") Business Associate Agreement (\"BAA\")\nwith Fusion in which Fusion agreed to, among other things, use\nappropriate safeguards to prevent unauthorized use or disclosure\nof PHI and ensure that any subcontractor or vendor to whom it\nprovides PHI agreed to the same restrictions and conditions\nregarding the protection of PHI. There is no evidence that Fusion\never ensured Barracuda's compliance with the BAA.\n\n             In 2018, a data breach at Barracuda exposed Zoll's\nHIPAA-protected customer information to an unauthorized third\nparty. Following the breach, Zoll's affected customers brought a\nclass action lawsuit against Zoll. Zoll settled with its customers\nand was responsible for the payment of damages to the class\nmembers.\n\n             B. Procedural Background\n\n             In 2020, Zoll commenced arbitration proceedings against\nFusion and the instant litigation against Barracuda. Fusion\nsuccessfully moved to intervene in the litigation as a Rule 20\nParty and asserted claims against Barracuda. In a previous order,\nthe district court dismissed most of their claims, but retained\nZoll's claim of equitable indemnification and Fusion's claims of\nbreach of contract and breach of the covenant of good faith.\n\n             Pursuant to the parties' arbitration and settlements,\nZoll and Fusion's claims against Barracuda were assigned to\nAxis -- Fusion's insurer. Axis was thus substituted as plaintiff\nin 2022.\n\n             After discovery, Barracuda moved for summary judgment\nagainst Axis on the surviving claims. The district court granted\nBarracuda's motion. First, the district court held that Zoll and\nBarracuda's relationship \"c[ould] best be described as one of an\nindependent contractor,\" and that this status, without more, did\nnot create the derivative or vicarious relationship required for\nequitable indemnification under Massachusetts law. Second, the\ncourt held that the breach of contract claim could not proceed\nbecause Fusion failed to fulfill a condition precedent in the OEM\nwhen it failed to include the appropriate limitation of liability\nor indemnification language in its customer contracts, and\nBarracuda had not waived that condition. Finally, the court held\nthat Axis could not prove its claim of breach of the covenant of\ngood faith and fair dealing because it failed to demonstrate a\ncontractual right to which Fusion was entitled in the event of a\ndata breach. Thus, the covenant could not be used to create rights\nthat did not exist in the contractual relationship.\n\n           Axis timely appealed."
+}

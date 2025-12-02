@@ -1,0 +1,49 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court erred in denying a preliminary injunction against enforcement of Nantucket's car rental ordinance on dormant Commerce Clause grounds.",
+      "standard_of_review": "clear error",
+      "holding": "AFFIRM",
+      "key_reasoning": "The district court did not clearly err in finding insufficient evidence that the ordinance had a discriminatory effect on interstate commerce, as it favored incumbents regardless of in-state or out-of-state status and no out-of-state enterprise was shown to be burdened."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the ordinance violates federal and state antitrust law by unreasonably restraining trade.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "AFFIRM",
+      "key_reasoning": "Plaintiffs failed to articulate a concrete antitrust theory or likelihood of success on the merits, so the district court did not abuse its discretion in denying relief."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the ordinance violates procedural due process by depriving plaintiffs of a property interest in a license.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "Even if plaintiffs had a property interest in a license, they failed to show a property interest in medallions, which are also required to operate, so no likelihood of success was shown."
+    },
+    {
+      "issue_id": 4,
+      "description": "Whether the ordinance violates substantive due process.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The ordinance is rationally related to legitimate government interests in traffic and congestion, and thus survives rational basis review."
+    }
+  ],
+  "key_precedents": [
+    "Russomano v. Novo Nordisk Inc., 960 F.3d 48 (1st Cir. 2020)",
+    "New Energy Co. of Ind. v. Limbach, 486 U.S. 269 (1988)",
+    "Wine & Spirits Retailers, Inc. v. Rhode Island, 481 F.3d 1 (1st Cir. 2007)",
+    "Parker v. Brown, 317 U.S. 341 (1943)",
+    "FCC v. Beach Commc'ns, Inc., 508 U.S. 307 (1993)",
+    "Naser Jewelers, Inc. v. City of Concord, 513 F.3d 27 (1st Cir. 2008)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "In 2023, James Broad and Rebecca McCrensky began operating a car-rental agency, Becky's Broncos, LLC (collectively with Broad and McCrensky, \"Becky's\"), without the requisite approval from local authorities -- the Town of Nantucket and Nantucket Town Select Board (collectively, \"Nantucket\"). Nantucket soon ordered Becky's to stop its unsanctioned car-rental operations, prompting Becky's to seek preliminary injunctive relief in the District of Massachusetts. For the following reasons, we affirm the district court's denial of Becky's request."
+}

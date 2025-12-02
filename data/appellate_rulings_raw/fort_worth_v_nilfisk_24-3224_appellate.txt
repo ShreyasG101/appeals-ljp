@@ -1,0 +1,545 @@
+    United States Court of Appeals
+               For the Eighth Circuit
+           ___________________________
+
+                   No. 24-3224
+           ___________________________
+
+               Fort Worth Partners, LLC
+
+                         Plaintiff - Appellee
+
+                           v.
+
+Nilfisk, Inc.; Nilfisk Holding A/S, a Danish Corporation
+
+                    Defendants - Appellants
+           ___________________________
+
+                   No. 24-3281
+           ___________________________
+
+               Fort Worth Partners, LLC
+
+                         Plaintiff - Appellant
+
+                           v.
+
+Nilfisk, Inc.; Nilfisk Holding A/S, a Danish Corporation
+
+                      Defendants - Appellees
+                    ____________
+
+        Appeal from United States District Court
+   for the Western District of Arkansas - Fayetteville
+                    ____________
+
+            Submitted: September 17, 2025
+               Filed: October 17, 2025
+                   ____________
+Before LOKEN, KELLY, and ERICKSON, Circuit Judges.
+                           ____________
+
+ERICKSON, Circuit Judge.
+
+       Fort Worth Partners, LLC sued Nilfisk, Inc. and its parent company Nilfisk
+Holding A/S for breach of contract relating to Nilfisk’s insurance obligations under
+the parties’ lease agreement. The parties filed cross-motions for summary judgment.
+The district court denied Nilfisk’s motion, granted Fort Worth Partners’ motion in
+part, and held a bench trial on damages. Nilfisk appeals the district court’s denial of
+its motion for summary judgment and the damages award. Fort Worth Partners
+cross-appeals the district court’s damages award. We affirm, with the exception of
+the damages award pertaining to unrebutted costs, which we reverse and remand to
+the district court to make factual findings supporting its award.
+
+I.    BACKGROUND
+
+      A.     The Building and its Destruction
+
+       Nilfisk leased a warehouse-style building located in Springdale, Arkansas,
+from Fort Worth Partners under the terms of an Industrial Building Lease (the
+“Lease”). The warehouse was a 200,000 square foot building comprised of two
+connected 100,000 square foot structures—an East Building and a West Building
+joined by abutting gable walls (together, the “Building”). In total, the Building
+stretched 1,000 feet east-to-west and 200 feet north-to-south. The Building was
+constructed of pre-engineered steel framing, with moment frames running north-to-
+south and cable cross bracing running east-to-west. Each moment frame attached to
+the foundation’s perimeter with steel plates and threaded anchor bolts at twenty-five-
+foot increments.
+
+     The Building’s foundation consisted of a perimeter wall set into the ground
+and a concrete slab floor. Concrete pedestals extended from the foundation’s
+
+                                         -2-
+underlying spread footings to support load-bearing interior columns. In the West
+Building, the moment frames were supported by three I-beam columns attached to
+the foundation’s footing pedestals by steel plates and anchor bolts. In the East
+Building, the moment frames were supported by hollow steel beams set into the
+foundation itself.
+
+       On March 30, 2022, a tornado destroyed the Building. All 100,000 square
+feet of the West Building and approximately 40,000 square feet of the East Building
+collapsed. The wall panels and roof of the remaining portion of the East Building
+were damaged beyond repair, but the interior moment framing and roof supports
+remained largely undamaged. The East Building’s foundation also suffered damage,
+including sheared base plates and anchor bolts, a cracked floor slab, and spalled
+concrete along the foundation’s perimeter.1 Given the extent of the damage, Nilfisk
+vacated the building on August 1, 2022, prior to the expiration of the Lease.
+
+      B.     Nilfisk’s Property Insurance Obligation and Coverage
+
+       Under the terms of the Lease, Nilfisk was responsible for all property-related
+expenses, including taxes, insurance, maintenance, and repairs. Section 10.2 of the
+Lease required Nilfisk to maintain property insurance covering the full replacement
+cost of the Building in the event of physical loss or damage:
+
+      10.2. Coverage Amounts. Tenant shall purchase and maintain,
+      throughout the Term, a Tenant’s Policy(ies) of (i) “all-risk” commercial
+      property insurance covering the improvements constructed, installed or
+      located on the Premises (but excluding Tenant’s Property) against all
+      loss or damage caused by fire, ice, hurricane, windstorm and such other
+      risks of physical loss or damage as are covered by a causes of loss
+      special form insurance policy, which coverage shall, at all times, be in
+      an amount equal to one hundred percent (100%) of the then “full
+      replacement cost” of the Premises subject to a deductible not to exceed
+
+      1
+        Spalling occurs when flakes, chips, or chunks of concrete have broken off a
+larger concrete base.
+                                        -3-
+      One Hundred Thousand and No/100 Dollars ($100,000.00) (“Full
+      Replacement Cost” shall be interpreted to mean the cost of replacing
+      the Premises without deduction for depreciation or wear and tear, less
+      the cost of footings, foundations and other structures below grade).
+
+The Lease also provided Fort Worth Partners with a remedy if Nilfisk failed to obtain
+adequate property insurance:
+
+      10.1. Tenant’s Policies. . . . In the event that Tenant fails, at any time
+      or from time to time, to comply with the requirements of the preceding
+      sentence, Landlord may after not less than five (5) days prior written
+      notice: order such insurance and charge the cost thereof to Tenant,
+      which amount shall be payable by Tenant to Landlord upon demand, as
+      Additional Rent.
+
+Alternatively, Fort Worth Partners could terminate Nilfisk’s tenancy and recover
+“any . . . amount necessary to compensate . . . for all the detriment directly caused
+by [Nilfisk’s] failure to perform its obligations.”
+
+      Neither Fort Worth Partners nor Nilfisk attempted to determine the full
+replacement cost of the Building, though the Building’s appraised value ranged
+between $10.5 and $11.1 million. Nilfisk’s insurance coverage varied from year to
+year, but Nilfisk never carried more than $10 million in full replacement cost
+coverage. At the time the tornado destroyed the Building, Nilfisk carried only
+$5,149,999.00 in full replacement cost property insurance.
+
+       Fort Worth Partners received certificates of insurance from Nilfisk each year
+showing the amount of coverage Nilfisk carried but never expressed concern about
+Nilfisk’s coverage. Fort Worth Partners was aware of its right under Section 10.2
+of the Lease to purchase additional full replacement cost coverage and charge the
+cost of the insurance to Nilfisk but did not exercise that right.
+
+
+
+
+                                         -4-
+      C.    Proceedings Below
+
+       Fort Worth Partners sued Nilfisk for breach of contract, seeking to recover the
+full replacement cost of the Building it would have received had Nilfisk been
+adequately insured. During discovery, both parties retained expert witnesses to
+estimate the full replacement cost of the Building. Fort Worth Partners’ expert,
+Kevin McMahon, estimated the replacement cost at $27,722,974.03. Nilfisk’s
+expert, Jeff Marcussen, estimated the replacement cost at $14,253,579.00. Nilfisk’s
+insurer also retained an appraiser who estimated the replacement cost at
+$9,428,939.87.
+
+       Fort Worth Partners argued Nilfisk breached the Lease as a matter of law by
+failing to carry adequate insurance coverage. Nilfisk asserted Fort Worth Partners’
+claim: (1) was barred by the statute of limitations and Arkansas’ doctrine of
+avoidable consequences; (2) was premised on an unenforceable agreement to agree;
+and (3) sought excessive damages.
+
+       The district court granted Fort Worth Partners’ motion in part. The court
+found that even under the lowest contested replacement cost submitted by Nilfisk’s
+insurer, Nilfisk’s coverage still fell below the requirements of Section 10.2. The
+district court concluded Nilfisk had breached its insurance obligation and was liable
+to Fort Worth Partners for damages arising out of the breach. But because the
+parties’ experts disagreed on the Building’s replacement cost, the court declined to
+determine the replacement cost at summary judgment and proceeded to a bench trial
+on the issue of damages. 2
+
+       The district court denied Nilfisk’s motion in its entirety. As to the statute of
+limitations issue, the court found that Fort Worth Partners’ suit was timely because
+each of Nilfisk’s violations of its insurance obligation constituted a separate breach
+
+
+      2
+     The district court awarded Fort Worth Partners damages for unpaid rent at
+summary judgment. Neither party appeals that portion of the award.
+                                     -5-
+of the Lease. The court also declined to apply the doctrine of avoidable
+consequences at the summary judgment stage due to the existence of fact questions.
+The court also rejected Nilfisk’s argument that the insurance provision was an
+unenforceable agreement to agree and found the damages Fort Worth Partners
+sought were not excessive.
+
+       At trial, the district court heard testimony on the replacement cost of the
+Building from both parties’ experts. The court considered the conflicting expert
+testimony and issued written findings of fact on the full replacement cost.
+Specifically, the district court determined the full replacement cost of the Building
+net of Nilfisk’s insurance proceeds was $12,870,528.74.3 This cost included
+$732,000.00 for demolishing the remainder of the Building, $7,138,611.89 for
+rebuilding the metal superstructure, $2,982,112.75 for electrical wiring,
+$1,651,177.82 in overhead costs and lost profits, and $5,659,053.60 in costs
+identified by McMahon that Nilfisk did not rebut. The court also found that the cost
+of repairing the foundation was $1,303,123.00, but concluded those damages were
+not recoverable because the Lease precluded Fort Worth Partners from recovering
+for damage to any portion of the Building’s foundation and footings.
+
+       During trial, Nilfisk failed to offer any evidence in support of its argument
+that the doctrine of avoidable consequences barred Fort Worth Partners’ recovery of
+damages. Rather than present evidence to support its claims on the doctrine, Nilfisk
+asserted in its post-trial brief that it “adopt[ed] and incorporate[d] by reference the
+arguments and authorities set forth in its Motion for Summary Judgment and Brief
+in Support.” The district court summarily rejected this argument, stating “Nilfisk
+did not present evidence on or re-urge the issue at trial.” The court denied the request
+to apply the doctrine of avoidable consequences “for the reason stated in the Court’s
+summary judgment order.”
+
+
+
+      3
+        Nilfisk paid $5,292,427.32 in insurance proceeds to Fort Worth Partners that
+the district court deducted from its calculation of replacement cost damages.
+                                          -6-
+       After trial, Fort Worth Partners sought to recover $170,413.50 in attorney’s
+fees and $19,059.65 in costs. The court reduced Fort Worth Partners’ fees to
+$152,115.00 to bring the fees in line with the prevailing rates in Northwestern
+Arkansas. The court then applied a 25 percent reduction to account for Fort Worth
+Partners’ limited success on its damages theory and awarded $114,086.25 in
+attorney’s fees. The court also awarded $5,149.15 in costs.
+
+      Both parties appeal the district court’s judgment.
+
+II.   DISCUSSION
+
+      We first review Nilfisk’s arguments and then consider Fort Worth Partners’
+cross-appeal.
+
+      A.     Nilfisk’s Appeal
+
+      Nilfisk raises three issues on appeal: (1) the statute of limitations bars Fort
+Worth Partners’ claim because its cause of action accrued when Nilfisk first
+provided it with a deficient certificate of insurance in 2016; (2) the doctrine of
+avoidable consequences bars Fort Worth Partners from recovering damages because
+Fort Worth Partners did not take reasonable steps to avoid harm; and (3) the district
+court’s award for unrebutted costs is not supported by the evidence.
+
+             1.     Statute of Limitations
+
+       Nilfisk argues the statute of limitations bars Fort Worth Partners’ suit because
+the statutory period began to accrue in 2016 when Nilfisk first procured a deficient
+insurance policy. Fort Worth Partners counters that each time Nilfisk renewed the
+policy and presented a new deficient certificate of insurance, it committed a new and
+discrete breach of the Lease with its own separate statutory period of limitation. We
+review the district court’s denial of Nilfisk’s motion for summary judgment on the
+
+
+                                         -7-
+statute of limitations de novo. Yang v. Farmers New World Life Ins. Co., 898 F.3d
+825, 827 (8th Cir. 2018).
+
+       In Arkansas, the statute of limitations to enforce obligations under written
+agreements is five years. Ark. Code Ann. § 16-56-111(a). “[A] cause of action for
+breach of contract accrues ‘when the plaintiff could have first maintained the action
+to a successful conclusion.’” Pennington v. BHP Billiton Petroleum (Fayetteville),
+LLC, 631 S.W.3d 555, 557 (Ark. 2021) (quoting Dupree v. Twin City Bank, 777
+S.W.2d 856, 858 (Ark. 1989)). In Pennington, the Arkansas Supreme Court
+determined that plaintiffs are not barred from bringing breach of contract lawsuits
+for alleged breaches that occur within the statute of limitations period because other
+similar breaches may have occurred outside the limitations period. Id. at 556-57.
+
+       The record reflects that Nilfisk procured multiple separate one-year policies.
+Each year, Nilfisk obtained a policy bearing a different policy number and for a
+different coverage amount. And in 2019, Nilfisk changed insurance providers
+entirely. While Nilfisk is correct that the statutory period has expired for the policy
+it procured in 2016, the statutory period has not expired for the policy it obtained in
+2021. Fort Worth Partners could not have “maintained [an] action to a successful
+conclusion” based on Nilfisk’s deficient 2021 policy until Nilfisk actually obtained
+and presented that policy. Pennington, 631 S.W.3d at 557. Fort Worth Partners’
+cause of action accrued in April 2021 when the operative policy was obtained.
+Because Fort Worth Partners sued within five years of Nilfisk obtaining the policy
+in place at the time the tornado destroyed the Building, Fort Worth Partners’ suit
+was timely.
+
+             2.     Doctrine of Avoidable Consequences
+
+      Nilfisk asserts the doctrine of avoidable consequences bars Fort Worth
+Partners from recovering damages because Fort Worth Partners could have avoided
+harm if it had exercised its right to purchase additional insurance on the Building.
+Fort Worth Partners counters that Nilfisk waived this argument by failing to raise it
+
+                                         -8-
+at trial and, even if the argument was preserved, the doctrine of avoidable
+consequences does not apply. We review the district court’s denial of Nilfisk’s
+motion for summary judgment on the doctrine of avoidable consequences de novo.
+Yang, 898 F.3d at 827.
+
+       Generally, “a denial of summary judgment is interlocutory in nature and not
+appealable after trial and judgment.” N.Y. Marine & Gen. Ins. Co. v. Continental
+Cement Co., LLC, 761 F.3d 830, 837 (8th Cir. 2014). Instead, a denial of a summary
+judgment motion in a bench trial is redressed “through subsequent motions for
+judgment as a matter of law and appellate review of those motions if they were
+denied.” Id. at 838. That said, if a motion for summary judgment raises purely legal
+issues, it is reviewable on appeal even if the arguments were not revisited during
+trial. Dupree v. Younger, 598 U.S. 729, 735-36 (2023).
+
+       Application of the doctrine of avoidable consequences in this case does not
+present the type of purely legal issue reviewable on appeal from a denial of summary
+judgment. Under Arkansas’s doctrine of avoidable consequences, “a party cannot
+recover damages resulting from consequences that he or she could have reasonably
+avoided by reasonable care, effort, or expenditure.” Greenway Equip., Inc. v.
+Johnson, 602 S.W.3d 142, 149 (Ark. Ct. App. 2020). “One is required only to take
+such steps as may be taken at small expense or with reasonable exertion.” Taylor v.
+George, 212 S.W.3d 17, 24 (Ark. Ct. App. 2005). “[W]hether one acted reasonably
+in minimizing, mitigating, or avoiding damages is a question of fact.” Id. As the
+party seeking application of the doctrine, Nilfisk bore the burden of proving that Fort
+Worth Partners could have reasonably avoided the harmful consequences. Hobson
+v. Hobson, 715 S.W.3d 890, 903 (Ark. Ct. App. 2025).
+
+       At summary judgment, Nilfisk argued the doctrine bars Fort Worth Partners
+from recovering because it could have purchased additional insurance and charged
+the premiums to Nilfisk as additional rent but instead chose to sit on its rights until
+it was harmed. The district court found factual disputes over the reasonableness of
+requiring Fort Worth Partners to purchase additional insurance and the amount of
+
+                                         -9-
+harm it might have avoided. Given these factual disputes, the court denied Nilfisk’s
+motion for summary judgment but specifically left application of the doctrine open
+for further factual development at trial.
+
+      At trial, Nilfisk did not address the doctrine of avoidable consequences.
+Instead, it waited until its post-trial brief to raise the issue and, even then, only
+“adopt[ed] and incorporate[d] by reference the arguments and authorities set forth in
+its Motion for Summary Judgment and Brief in Support.” Nilfisk did not specifically
+introduce any evidence to meet its burden of proving how Fort Worth Partners might
+have avoided its damages and the reasonableness of doing so, nor did it argue what
+evidence existed in the record to support its claims that had not been fully considered
+by the district court at summary judgment.
+
+       To review the district court’s denial of summary judgment after Nilfisk’s
+failure to offer evidence at trial would “circumscribe[] the discretion of the district
+court to ‘deny summary judgment in a case where there is a reason to believe that
+the better course would be to proceed to a full trial.’” Metro. Life Ins. Co. v. Golden
+Triangle, 121 F.3d 351, 356 (8th Cir. 1997) (quoting Anderson v. Liberty Lobby,
+Inc., 477 U.S. 242, 255 (1986)). Under these circumstances, we decline to review
+the district court’s denial of Nilfisk’s motion for summary judgment on the doctrine
+of avoidable consequences.
+
+             3.     Unrebutted Costs Award
+
+       Nilfisk contends the district court’s unrebutted costs award is not supported
+by the record because Marcussen rebutted each of the damages categories calculated
+by McMahon. Fort Worth Partners concedes that the unrebutted costs award is not
+supported by the record, but it contends the award should be higher. We review the
+district court’s damages calculation—a factual finding—for clear error. Lesch v.
+United States, 612 F.3d 975, 982 (8th Cir. 2010). “Under the clearly erroneous
+standard, we will overturn a factual finding only if it is not supported by substantial
+evidence in the record, if it is based on an erroneous view of the law, or if we are left
+
+                                          -10-
+with the definite and firm conviction that an error was made.” Kingman v. Dillard’s,
+Inc., 721 F.3d 613, 616 (8th Cir. 2013).
+
+       A district court’s calculation of damages should “set forth its reasoning with
+enough clarity that the appellate court may understand the basis of the decision.”
+IPSCO Tubulars, Inc. v. Ajax TOCCO Magnathermic Corp., 779 F.3d 744, 751 (8th
+Cir. 2015). While a court does not have to provide “a line-by-line accounting,” see
+Lesch, 612 F.3d at 983, it must make sufficient factual findings to support the award,
+IPSCO Tubulars, 779 F.3d at 751. General references to expert reports are not
+sufficient factual findings to justify a damages award. Stephenson v. El-Batrawi,
+524 F.3d 907, 916-17 (8th Cir. 2008). A court should “state the basis upon which
+each category of damages was calculated [and] refer to any specific portions of the
+experts’ reports” that assisted in its calculation. Id. at 917.
+
+       When calculating Forth Worth Partners’ damages for the full replacement cost
+of the building’s metal superstructure and electrical installation, the district court
+made substantial factual findings after thoroughly reviewing and weighing
+conflicting expert testimony. But when awarding unrebutted costs, the district
+court’s analysis is limited to one paragraph in its 47-page order generally referencing
+“the remaining line items in Mr. McMahon’s estimate” without elaboration.
+Moreover, the unrebutted costs award accounts for more than 40 percent of the total
+damages award. Such a substantial damages award should be supported by “clear,
+specific, and complete” factual findings that “refer[] to testimony [the court] deem[s]
+credible” and support the court’s calculation of damages. IPSCO Tubulars, 779 F.3d
+at 751. Because the district court’s calculations are not explained in a way that
+allows us to fully review whether the award is supported by substantial evidence in
+the record, we reverse that portion of the damages award and remand it to the district
+court for further elucidation.
+
+
+
+
+                                         -11-
+      B.     Fort Worth Partners’ Cross-Appeal
+
+       Fort Worth Partners raises three additional arguments on cross-appeal: (1) the
+district court incorrectly interpreted the Lease as excluding all damages to the
+Building’s foundation from the full replacement cost calculation; (2) the district
+court incorrectly interpreted the Lease as permitting a repair remedy for damage to
+the foundation instead of a replacement remedy; and (3) the district court abused its
+discretion by reducing its attorney’s fees award based on Fort Worth Partners’
+limited success on its claims.
+
+             1.     Availability of Damages for Foundation
+
+       Fort Worth Partners contends it is entitled to recover damages for the portions
+of the Building’s foundation that sit above grade because the clause in Section 10.2
+“less the cost of footings, foundations and other structures below grade” excludes
+only the below-grade portions of the foundation from the full replacement cost
+calculation. Nilfisk contends Section 10.2 excludes the entirety of the foundation,
+whether above or below grade, barring Fort Worth Partners’ recovery of any
+damages for the foundation.
+
+       We review the district court’s interpretation of the Lease de novo. Pac. Life
+Ins. Co. v. Blevins, 92 F.4th 734, 737 (8th Cir. 2024). “The first rule of interpreting
+a contract is to give the language employed the meaning that the parties intended,
+and the court must consider the sense and meanings of the words used by the parties
+as they are taken and understood in their plain, ordinary meaning.” S. Constr., LLC
+v. Horton, 609 S.W.3d 16, 26 (Ark. Ct. App. 2020).
+
+      We begin by interpreting the word “grade” in the clause “less the cost of
+footings, foundations and other structures below grade.” Because the Lease uses
+“grade” in the context of the construction and engineering terms “footings” and
+“foundation,” we give “grade” the meaning it ordinarily has in the construction and
+engineering industry. Les-Bil, Inc. v. Gen. Waterworks, Corp., 511 S.W.2d 166,
+                                         -12-
+169-70 (Ark. 1974) (“[W]ords of art or words connected with or peculiar to a
+particular trade, profession or occupation are to be given the signification attached
+to them by experts in such art or trade, profession or occupation.”).
+
+        The district court looked to the definition of “grade” as used in the
+International Building Code (“IBC”). The IBC defines “Grade Plane” as “the
+average of finished ground level adjoining the building at exterior walls.” 2021 Int’l
+Bldg. Code § 202 (Sept. 2021). 4 This definition has support in A Dictionary of
+Construction, Surveying and Civil Engineering. There, “grade” is defined as “[t]he
+flat formation level of a building from which all building works commence.” Grade,
+A Dictionary of Construction, Surveying and Civil Engineering 232 (2d ed. 2020).
+“Formation level” is further defined as “[t]he finished level of the ground before
+concreting takes place.” Formation Level, A Dictionary of Construction, Surveying
+and Civil Engineering 214 (2d ed. 2020). Applying these definitions to the Lease,
+we agree with the district court that “grade” as used in Section 10.2 means “ground
+level.” See also Grade, Merriam-Webster Dictionary (“[T]he contemplated level of
+the ground when the work of erecting a building is completed : ground level[.]”).5
+
+      Having determined that “grade” as used in Section 10.2 means “ground level,”
+we must next determine whether “footings” and “foundations” are above or below
+grade (i.e., above or below ground level). A building’s foundation is generally
+defined as the “base” of a building and can include both above and below ground
+components. See Foundation, Merriam-Webster Dictionary (“[T]he whole masonry
+substructure of a building[.]”)6; Foundation, American Heritage Dictionary of the
+English Language (“A wall or other structure, as of concrete or masonry, usually
+extending below ground level and forming the base upon which a building rests.”).7
+
+
+
+      4
+       https://codes.iccsafe.org/content/IBC2021P2/chapter-2-definitions#IBC20-
+21P2_Ch02_Sec202.
+     5
+       https://unabridged.merriam-webster.com/unabridged/grade.
+     6
+       https://unabridged.merriam-webster.com/unabridged/foundation.
+     7
+       https://ahdictionary.com/word/search.html?q=foundation.
+                                        -13-
+       Footings are part of a foundation that help distribute the load of a building
+into the ground. See Footing, Merriam-Webster Dictionary (“[T]he part of a
+structure that is in contact with the soil or rock foundation[.]”) 8; Footing, Oxford
+English Dictionary (“A projecting course at the base of a wall or other structure that
+acts as a reinforced foundation; the reinforced base or foundation of an upright
+structure.”).9 Like foundations, footings may include some above and below ground
+components.
+
+       Because footings and foundations can contain both above and below grade
+components, we must determine whether Fort Worth Partners is entitled to recover
+for the above grade (i.e., above ground) components. Fort Worth Partners contends
+“other structures below grade” in Section 10.2 modifies “footings” and
+“foundations” so that only their below grade components are excluded from the full
+replacement cost. In contrast, Nilfisk asserts that “other structures below grade” is
+independent of “footings” and “foundations” so that the Lease excludes all footings
+and foundations, whether above or below grade, and any other structures that are
+below grade.
+
+        Nilfisk’s interpretation is more persuasive. Fort Worth Partners’ own expert
+testified that determining exactly how much of the foundation and footings are above
+grade would require thousands of dollars of testing—testing Fort Worth Partners has
+not conducted. Even if the Court could determine how much of the Building’s
+foundation is above grade, Fort Worth Partners’ approach would have the Court cut
+the foundation in half at ground level and award damages for only part of a singular
+foundation. Such an approach is unreasonable.
+
+      Nilfisk’s approach, instead, excludes the entirety of the foundation and
+footings, whether above or below grade, and any other structures below grade from
+the damages Fort Worth Partners is entitled to recover. This approach is reasonable
+
+
+      8
+          https://unabridged.merriam-webster.com/unabridged/footings.
+      9
+          https://www.oed.com/dictionary/footing_n.
+                                        -14-
+and consistent with the plain meaning of the Lease. See Smart Comms. Collier Inc.
+v. Pope Cnty. Sheriff’s Office, 5 F.4th 895, 897 (8th Cir. 2021) (“[W]hen the plain
+meaning permits only one reasonable interpretation, Arkansas courts will give effect
+to the plain language . . . without resorting to rules of construction.” (internal
+quotations omitted)).
+
+       Because Nilfisk’s interpretation of the Lease is the only reasonable
+interpretation, we hold “less the cost of footings, foundations and other structures
+below grade” excludes all footings and foundations, whether above or below grade,
+from the damages Fort Worth Partners is entitled to receive. The district court did
+not err when it determined the availability of damages under the Lease for the
+foundation.10
+
+             2.     Attorney’s Fees
+
+      Fort Worth Partners contends the district court abused its discretion when it
+reduced the attorney’s fees award because Fort Worth Partners achieved only limited
+success on its claims. Fee awards are not required to be proportionate to damages
+awards, but if a party achieves only partial or limited success on its claim, a reduction
+in fees may be appropriate to ensure the award is not excessive. Marshall v.
+Anderson Excavating & Wrecking Co., 8 F.4th 700, 713 (8th Cir. 2021).
+
+       Here, the district court determined a fee reduction was necessary to account
+for Fort Worth Partners’ limited success on its damages claim. The court noted that
+while Fort Worth Partners successfully proved liability and many of its damages
+theories, it ultimately proved only half of the damages it initially sought. The district
+court determined a 25 percent reduction in fees was appropriate to avoid an excessive
+award. This reduction was within the court’s discretion. If, on remand, the district
+
+      10
+         Because we conclude that Fort Worth Partners is not entitled to recover any
+damages for the Building’s foundation, we do not reach the question of whether the
+district court selected the proper measure of damages for the foundation under the
+Lease.
+                                        -15-
+court revises its damages award, the parties can request reconsideration of the court’s
+attorney’s fees award.
+
+III.   CONCLUSION
+
+       For the foregoing reasons, we affirm the district court’s grant of partial
+summary judgment in favor of Fort Worth Partners and its denial of Nilfisk’s motion
+for summary judgment. We affirm the district court’s damages award for the
+Building’s metal superstructure, electrical wiring, foundation, and attorney’s fees.
+We reverse the district court’s damages award for unrebutted costs, and remand for
+further proceedings consistent with this opinion.
+                        ______________________________
+
+
+
+
+                                         -16-
+

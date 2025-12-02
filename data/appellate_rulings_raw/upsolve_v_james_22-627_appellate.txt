@@ -1,0 +1,891 @@
+22-1345
+Upsolve, Inc. v. James
+
+
+
+                         United States Court of Appeals
+                            For the Second Circuit
+
+                                     August Term 2023
+
+                                  Argued: May 29, 2024
+                                 Decided: September 9, 2025
+
+                                         No. 22-1345
+
+
+
+                         UPSOLVE, INC., REVEREND JOHN UDO-OKON,
+
+                                     Plaintiffs-Appellees,
+
+      LETITIA JAMES, in her official capacity as Attorney General of New York,
+
+                                     Defendant-Appellant.
+
+
+                         Appeal from the United States District Court
+                           for the Southern District of New York
+                            No. 22-cv-627, Paul A. Crotty, Judge.
+
+
+Before: LEVAL, SULLIVAN, and MERRIAM, Circuit Judges.
+
+      Letitia James, in her official capacity as Attorney General of New York,
+appeals from an order of the United States District Court for the Southern District
+of New York (Crotty, J.) entering a preliminary injunction that prohibits her from
+enforcing New York’s unauthorized practice of law (“UPL”) statutes against
+Upsolve, Inc. (“Upsolve”) and Reverend John Udo-Okon (together, “Plaintiffs”).
+Upsolve is a nonprofit that seeks to provide free legal advice to New Yorkers
+facing debt-collection actions in state court. Specifically, Upsolve intends to train
+nonlawyer “Justice Advocates,” such as Rev. Udo-Okon, to advise pro se New
+Yorkers on how to complete the state’s check-the-box form for answering debt-
+collection claims. The parties all agree that the actions of the Justice Advocates
+would violate New York’s UPL statutes because they would be providing
+individualized legal advice without being licensed as, or supervised by, attorneys.
+As a result, Plaintiffs brought a pre-enforcement challenge, arguing that the UPL
+statutes, as applied to them, would violate their First Amendment right to the
+freedom of speech. In ruling on Plaintiffs’ motion for a preliminary injunction,
+the district court concluded that Plaintiffs had made a strong showing that they
+were likely to succeed on the merits because New York’s UPL statutes, as applied
+to Plaintiffs, constitute a content-based regulation of speech and cannot survive
+strict scrutiny.
+
+       We agree with the district court that New York’s UPL statutes, as applied to
+Plaintiffs, constitute a regulation of speech. Nevertheless, we hold that such
+regulation is content neutral and thus subject only to intermediate scrutiny.
+Because the district court applied the incorrect level of scrutiny, we VACATE the
+preliminary injunction order of the district court and REMAND for further
+proceedings consistent with this Opinion.
+
+      VACATED AND REMANDED.
+
+                                      CLELAND B. WELTON II, Assistant Solicitor
+                                      General (Barbara D. Underwood, Solicitor
+                                      General, Judith N. Vale, Deputy Solicitor
+                                      General, on the brief), for Letitia James,
+                                      Attorney General of the State of New York,
+                                      New York, NY, for Defendant-Appellant.
+
+                                      ROBERT J. MCNAMARA (Brian Morris, on the
+                                      brief), Institute for Justice, Arlington, VA, for
+                                      Plaintiffs-Appellees.
+
+                                      Matthew D. Brinckerhoff, Emery Celli
+                                      Brinckerhoff Abady Ward & Maazel LLP,
+                                      New York, NY, for Amici Curiae Civil Legal
+                                      Services Organizations, Consumer Law and
+                                      Access-to-Justice Experts, and Civil Rights
+                                      Organizations in support of Defendant-
+                                      Appellant.
+
+                                         2
+                                      Tatiana Neroni, pro se, Georgetown, SC, for
+                                      Amicus Curiae Tatiana Neroni in support of
+                                      Plaintiffs-Appellees.
+
+                                      Gregory A. Beck, Washington, DC, for
+                                      Amicus Curiae Responsive Law in support of
+                                      Plaintiffs-Appellees.
+
+                                      Joseph Rostain Schottenfeld, Martina Tiku,
+                                      Glynnis Hagins, NAACP Empowerment
+                                      Programs, Baltimore, MD; Daniel A.
+                                      Rubens, Jodie C. Liu, Orrick, Herrington &
+                                      Sutcliffe LLP, New York, NY; Sarah H.
+                                      Sloan, Orrick, Herrington & Sutcliffe LLP,
+                                      Washington, DC, for Amici Curiae The
+                                      NAACP and The NAACP New York State
+                                      Conference in support of Plaintiffs-Appellees.
+
+                                      Peter Karanija, DLA Piper LLP (US),
+                                      Washington, DC, for Amici Curiae Professor
+                                      Rebecca L. Sandefur and 22 Empirical Scholars
+                                      in support of Plaintiffs-Appellees.
+
+                                      David Udell, National Center for Access to
+                                      Justice, New York, NY; Bruce A. Green,
+                                      Louis Stein Center for Law and Ethics, New
+                                      York, NY, for Amicus Curiae National Center
+                                      for Access to Justice in support of Plaintiffs-
+                                      Appellees.
+
+RICHARD J. SULLIVAN, Circuit Judge:
+
+      Letitia James, in her official capacity as Attorney General of New York (the
+
+“Attorney General”), appeals from an order of the United States District Court for
+
+the Southern District of New York (Crotty, J.) entering a preliminary injunction
+
+
+
+                                        3
+that prohibits her from enforcing New York’s unauthorized practice of law
+
+(“UPL”) statutes against Upsolve, Inc. (“Upsolve”) and Reverend John Udo-Okon
+
+(together, “Plaintiffs”). Upsolve is a nonprofit that seeks to provide free legal
+
+advice to New Yorkers facing debt-collection actions in state court. Specifically,
+
+Upsolve intends to train nonlawyer “Justice Advocates,” such as Rev. Udo-Okon,
+
+to advise pro se New Yorkers on how to complete the state’s check-the-box form
+
+for answering debt-collection claims. The parties all agree that the actions of the
+
+Justice Advocates would violate New York’s UPL statutes because they would be
+
+providing individualized legal advice without being licensed as, or supervised by,
+
+attorneys. As a result, Plaintiffs brought a pre-enforcement challenge, arguing
+
+that the UPL statutes, as applied to them, would violate their First Amendment
+
+right to the freedom of speech. In ruling on Plaintiffs’ motion for a preliminary
+
+injunction, the district court concluded that Plaintiffs had made a strong showing
+
+that they are likely to succeed on the merits because New York’s UPL statutes, as
+
+applied to Plaintiffs, constitute a content-based regulation of speech and cannot
+
+survive strict scrutiny.
+
+      We agree with the district court that New York’s UPL statutes, as applied to
+
+Plaintiffs, constitute a regulation of speech.   Nevertheless, we hold that such
+
+
+
+                                         4
+regulation is content neutral and thus subject only to intermediate scrutiny.
+
+Because the district court applied the incorrect level of scrutiny, we VACATE the
+
+preliminary injunction order of the district court and REMAND for further
+
+proceedings consistent with this Opinion.
+
+                              I.      BACKGROUND
+
+      Debt-collection actions are one of the most common lawsuits in New York,
+
+accounting for approximately one-quarter of all suits filed in state court.
+
+However, in seventy to ninety percent of such cases, the defendant fails to appear,
+
+resulting in a default judgment. This is a problem because many of these debt-
+
+collection actions are “clearly meritless”; the defendants do not actually owe the
+
+amount claimed or, in some cases, do not owe any money at all. J. App’x at 14
+
+(internal quotation marks omitted). And “[w]hen defendants default, plaintiffs
+
+never have any need to prove their cases, and courts have no opportunity to assess
+
+the merits of their claims, even when a claim would fail were it subjected to
+
+adversarial testing.”    Id. at 15.     A default judgment can have severe
+
+consequences for New Yorkers, “lead[ing] to wage garnishment, eviction,
+
+repossession of an automobile, bank seizures, and lasting damage to a consumer’s
+
+credit.” Id.
+
+
+
+                                         5
+      As a result, since at least 2015, New York has sought to simplify the process
+
+of answering a debt-collection action by providing a one-page check-the-box form
+
+that pro se defendants can fill out on their own and return to the court.
+
+Nevertheless, according to Upsolve, this “form is inadequate . . . to close the gap
+
+in the access to justice” because it “includes language that requires some measure
+
+of familiarity with the legal system and specialized terminology, which many low-
+
+income defendants lack.” Id. at 19. For example, the form contains boxes to
+
+check if “service [of the summons and complaint] was not correct as required by
+
+law,” the statute of limitations bars the creditor’s claim, “[t]he collateral (property)
+
+was not sold at a commercially reasonable price,” the creditor “[f]ail[ed] to
+
+mitigate damages,” the creditor violated “the duty of good faith and fair dealing,”
+
+the contract is unconscionable, the equitable doctrine of laches applies, or the
+
+defendant’s income is exempt from collection. Id. at 40.
+
+      To further assist pro se defendants in responding to debt-collection actions,
+
+Upsolve seeks to train nonlawyers as “Justice Advocates” “to provide free legal
+
+advice on whether and how to respond to a debt[-]collection lawsuit.” Id. at 10.
+
+Specifically, Justice Advocates will
+
+      (1) determine whether the client could benefit from their advice; (2)
+      confirm the limited scope of representation with the client; (3) advise
+
+
+                                           6
+      the client whether it is in their best interest to answer the lawsuit
+      against them; (4) advise the client on how to fill out the answer based
+      on the client’s answers to a series of straightforward questions; and
+      (5) advise the client on how and where to file and serve the answer.
+
+Id. at 25. According to Upsolve, Justice Advocates will be required to undergo a
+
+virtual training program and will be provided with a training guide that “has been
+
+independently reviewed by third-party experts in consumer law and
+
+debt[-]collection defense.” Id. at 26. Justice Advocates will also be required to
+
+sign an affidavit, promising to provide their advice free of charge; to abide by New
+
+York’s   Rules   of   Professional   Conduct   regarding    conflicts   of   interest,
+
+confidentiality, and informed consent; and to only provide advice within the scope
+
+of the training guide.    Additionally, Justice Advocates will be warned that
+
+“providing legal advice outside the narrow scope and strict terms of the program
+
+may expose them to prosecution for engaging in the unauthorized practice of law
+
+or under other fraud or consumer-protection laws.” Id. at 28.
+
+      Rev. Udo-Okon is one prospective Justice Advocate. As a pastor in the
+
+South Bronx, he has witnessed how many members of his community “cannot
+
+understand or access their legal rights” and “cannot afford to hire lawyers to help
+
+them with their problems,” such as debt-collection actions. Id. at 81. As a result,
+
+members of his community frequently approach him for assistance with their legal
+
+
+                                         7
+problems.   But because Rev. Udo-Okon is not a lawyer, he must refer these
+
+individuals to outside agencies. These individuals have reported to him that they
+
+are then placed on “long waiting lists,” oftentimes not receiving legal assistance
+
+until it is too late. Id. Given these problems, Rev. Udo-Okon wishes to become
+
+a Justice Advocate. He has also provided a petition with over 100 signatures of
+
+individuals who expressed interest in receiving free legal advice from him,
+
+including with respect to debt collection.
+
+      The challenge for Upsolve and Rev. Udo-Okon, however, is that New York
+
+law prohibits individuals who are not admitted to the state bar from engaging in
+
+the “unlawful practice of law” and imposes civil and criminal penalties on those
+
+who engage in such conduct. See N.Y. Jud. Law §§ 476-a, 478, 484–85. A court
+
+may hold a nonlawyer who practices law in criminal or civil contempt, see id.
+
+§§ 750(B), 753(A)(4), and the Attorney General of New York may sue “any person,
+
+partnership, corporation, or association” who engages in “the unlawful practice of
+
+the law,” id. § 476-a(1). The New York Court of Appeals has explained that the
+
+practice of law includes “the rendering of legal advice and opinions directed to
+
+particular clients.” In re Rowe, 80 N.Y.2d 336, 341–42 (1992); see also El Gemayel v.
+
+Seaman, 72 N.Y.2d 701, 706 (1988) (similar). All parties here agree that Justice
+
+
+
+                                          8
+Advocates would be practicing law in violation of New York’s UPL statutes by
+
+providing clients with individualized legal advice regarding their debt-collection
+
+actions. See, e.g., Sussman v. Grado, 746 N.Y.S.2d 548, 552–53 (Dist. Ct. Nassau
+
+Cnty. 2002) (holding that a paralegal who applied “independent judgment” to
+
+help a client fill out a form without the supervision of an attorney engaged in the
+
+unauthorized practice of law).
+
+      Plaintiffs filed a pre-enforcement challenge in the United States District
+
+Court for the Southern District of New York, arguing that the application of New
+
+York’s UPL statutes to them would violate their First Amendment right to the
+
+freedom of speech. Plaintiffs also sought a preliminary injunction prohibiting the
+
+Attorney General from enforcing the UPL statutes against them. After reviewing
+
+various declarations from Plaintiffs and hearing oral argument, the district court
+
+concluded (1) that Plaintiffs had standing to challenge the UPL statutes and (2)
+
+that Plaintiffs were likely to succeed on the merits of their challenge. Specifically,
+
+the district court held that the UPL statutes, as applied to Plaintiffs, are a content-
+
+based regulation of speech but are not narrowly tailored and thus fail strict
+
+scrutiny. The district court then concluded that Plaintiffs would be irreparably
+
+injured absent an injunction and that the balance of equities and the public interest
+
+
+
+                                          9
+favored granting an injunction.         Accordingly, the district court enjoined the
+
+Attorney General from enforcing the UPL statutes against Plaintiffs, any Justice
+
+Advocates, any clients of Upsolve’s program, or Upsolve’s legal advisors during
+
+the pendency of this action. The Attorney General timely appealed pursuant to
+
+28 U.S.C. § 1292(a)(1).
+
+                           II.    STANDARD OF REVIEW
+
+      “We review the legal question[] of whether a plaintiff has standing de novo.”
+
+Cacchillo v. Insmed, Inc., 638 F.3d 401, 404 (2d Cir. 2011). We then review a district
+
+court’s grant or denial of a preliminary injunction for abuse of discretion. See We
+
+the Patriots USA, Inc. v. Hochul, 17 F.4th 266, 280 (2d Cir. 2021). A district court
+
+abuses its discretion “when its decision rests on an error of law (such as application
+
+of the wrong legal principle) or a clearly erroneous factual finding or cannot be
+
+located within the range of permissible decisions.” Id. (internal quotation marks
+
+omitted).
+
+                                 III.     DISCUSSION
+
+      A. Standing
+
+      The Attorney General first argues that Plaintiffs lack standing to challenge
+
+the application of New York’s UPL statutes. “[T]o establish standing, a plaintiff
+
+
+
+                                            10
+must show (i) that he suffered an injury in fact that is concrete, particularized, and
+
+actual or imminent; (ii) that the injury was likely caused by the defendant; and (iii)
+
+that the injury would likely be redressed by judicial relief.” TransUnion LLC v.
+
+Ramirez, 594 U.S. 413, 423 (2021). We have explained that when standing is at
+
+issue, a plaintiff seeking a preliminary injunction “cannot rest on . . . mere
+
+allegations . . . but must set forth by affidavit or other evidence specific facts that
+
+establish the three familiar elements of standing.” Green Haven Prison Preparative
+
+Meeting of Religious Soc’y of Friends v. N.Y. State Dep’t of Corr. & Cmty. Supervision,
+
+16 F.4th 67, 78 (2d Cir. 2021) (internal quotation marks omitted).
+
+      Typically, a plaintiff who brings a cause of action based an alleged future
+
+injury will have standing only if the threatened injury is “certainly impending” or
+
+there is “substantial risk” of harm. Clapper v. Amnesty Int’l USA, 568 U.S. 398, 409,
+
+414 n.5 (2013) (internal quotation marks omitted). Nevertheless, “we assess pre-
+
+enforcement First Amendment claims, such as the ones [Plaintiffs] bring[], under
+
+somewhat relaxed standing . . . rules.” Nat’l Org. for Marriage, Inc. v. Walsh, 714
+
+F.3d 682, 689 (2d Cir. 2013). In particular, “we apply the three-pronged test that
+
+the Supreme Court set forth in Susan B. Anthony List [v. Driehaus, 573 U.S. 149
+
+(2014),] to assess the existence of a cognizable injury in fact in the context of a pre-
+
+
+
+                                          11
+enforcement First Amendment challenge.” Cerame v. Slack, 123 F.4th 72, 81 (2d
+
+Cir. 2024). According to that test, a plaintiff must demonstrate: (1) “an intention
+
+to engage in a course of conduct arguably affected with a constitutional interest”;
+
+(2) that the intended conduct is “arguably proscribed by” the challenged
+
+regulation; and (3) that “there exists a credible threat of prosecution thereunder”
+
+that is “sufficiently imminent.”      Susan B. Anthony List, 573 U.S. at 159, 162
+
+(internal quotation marks omitted).
+
+      We conclude that Plaintiffs have satisfied each of those components here.
+
+First, Plaintiffs intend to provide individualized legal advice to pro se defendants
+
+in New York debt-collection suits, which certainly involves conduct affected with
+
+a First Amendment interest. They have demonstrated their intent to engage in
+
+such conduct by consulting with legal experts, preparing a training manual, and
+
+recruiting Justice Advocates, such as Rev. Udo-Okon. Likewise, Rev. Udo-Okon
+
+has submitted a sworn declaration attesting that he would participate in Upsolve’s
+
+program as a Justice Advocate.        Second, the parties all agree that Plaintiffs’
+
+contemplated conduct is proscribed by New York’s UPL statutes. Third, there is
+
+a credible threat of prosecution that is sufficiently imminent. Indeed, we “are
+
+generally willing to presume that the government will enforce the law as long as
+
+
+
+                                         12
+the relevant statute is recent and not moribund.” Cayuga Nation v. Tanner, 824
+
+F.3d 321, 331 (2d Cir. 2016) (internal quotation marks omitted). Accordingly, this
+
+requirement “sets a low threshold and is quite forgiving to plaintiffs seeking . . .
+
+pre[-]enforcement review.”      Id. (internal quotation marks omitted).      As the
+
+district court rightly observed, “New York’s UPL rules are hardly moribund” but
+
+rather “are frequently enforced against lawyers and non-lawyers alike.” Upsolve,
+
+Inc. v. James, 604 F. Supp. 3d 97, 106 (S.D.N.Y. 2022) (collecting examples). It also
+
+bears noting that “the Attorney General declined to disavow enforcement against
+
+Plaintiffs at oral argument” before the district court. Id.
+
+      The Attorney General nevertheless argues that there is no credible threat of
+
+prosecution because Plaintiffs have “failed to demonstrate the existence of any
+
+client to whom they anticipate providing unlicensed legal counsel.” Att’y Gen.
+
+Br. at 31. But this argument is belied by the record. In his sworn declaration,
+
+Rev. Udo-Okon averred that members of his community frequently approach him
+
+“for legal advice on how to respond to debt-collection lawsuits,” J. App’x at 83,
+
+and that he would like to participate in Upsolve’s program “as soon as possible,”
+
+id. at 85. In fact, Rev. Udo-Okon provided a petition signed by 114 individuals,
+
+attesting that they are “interested in and would benefit from free legal advice
+
+
+
+                                         13
+from” him. Id. at 88. The Attorney General contends that this petition should be
+
+disregarded because it constitutes hearsay, but our caselaw is clear that “hearsay
+
+evidence may be considered by a district court in determining whether to grant a
+
+preliminary injunction.” Mullins v. City of New York, 626 F.3d 47, 52 (2d Cir. 2010).
+
+      The Attorney General also makes much of the fact that the petition refers to
+
+free legal counsel in general without any specific reference to debt-collection
+
+lawsuits. But we conclude that the petition, combined with Rev. Udo-Okon’s
+
+sworn statement that he has been approached by community members for legal
+
+advice regarding debt-collection actions, is sufficient to establish that there are
+
+clients to whom Plaintiffs intend to provide unlicensed legal advice and that
+
+Plaintiffs face a credible threat of prosecution sufficient to establish injury in fact.
+
+Because the Attorney General does not challenge the causation and redressability
+
+prongs of the TransUnion test, we need not analyze them. We therefore hold that
+
+Plaintiffs have standing to pursue a preliminary injunction here.
+
+      B. Likelihood of Success on the Merits
+
+      We next examine whether the district court abused its discretion in granting
+
+the preliminary injunction.        As the Supreme Court has explained, “[a]
+
+preliminary injunction is an extraordinary and drastic remedy” and “is never
+
+
+
+                                          14
+awarded as of right.”     Munaf v. Geren, 553 U.S. 674, 689–90 (2008) (internal
+
+quotation marks omitted). Indeed, we have warned that preliminary injunctions
+
+“should not be routinely granted” and that courts “should pay particular regard
+
+for the public consequences in employing the extraordinary remedy of
+
+injunction.” We the Patriots, 17 F.4th at 279 (internal quotation marks and footnote
+
+omitted).   For a plaintiff “[t]o obtain a preliminary injunction that will affect
+
+government action taken in the public interest pursuant to a statute or regulatory
+
+scheme, the moving party must demonstrate (1) irreparable harm absent
+
+injunctive relief, (2) a likelihood of success on the merits, and (3) public interest
+
+weighing in favor of granting the injunction.”       Id. (internal quotation marks
+
+omitted). The plaintiff “must also show that the balance of equities supports the
+
+issuance of an injunction.” Id. at 280. The district court concluded that each of
+
+the three elements and the balance of the equities here supported the issuance of
+
+a preliminary injunction. Because “in First Amendment cases[,] the likelihood of
+
+success on the merits is the dominant, if not the dispositive, factor” in determining
+
+whether to grant a preliminary injunction, we begin with that factor. Agudath Isr.
+
+of Am. v. Cuomo, 983 F.3d 620, 637 (2d Cir. 2020) (internal quotation marks omitted).
+
+
+
+
+                                         15
+      The First Amendment, which is made applicable to the states through the
+
+Due Process Clause of the Fourteenth Amendment, prohibits laws “abridging the
+
+freedom of speech.” U.S. Const. amend. I; see Slattery v. Hochul, 61 F.4th 278, 287
+
+n.1 (2d Cir. 2023). Regulations of speech that are based on the content of that
+
+speech trigger strict scrutiny, which requires the government to “prove[] that they
+
+are narrowly tailored to serve compelling state interests.” Reed v. Town of Gilbert,
+
+576 U.S. 155, 163 (2015).    Accordingly, we must address two questions:         (1)
+
+whether New York’s UPL statutes, as applied to Plaintiffs, regulate speech and (2)
+
+if so, whether that regulation is content based.
+
+      We first hold that New York’s UPL statutes, as applied to Plaintiffs,
+
+constitute a regulation of speech. The Supreme Court has explained that for an
+
+as-applied challenge, courts should look to whether “the conduct triggering
+
+coverage under the statute consists of communicating a message.”          Holder v.
+
+Humanitarian L. Project, 561 U.S. 1, 28 (2010).    Here, Plaintiffs simply wish to
+
+communicate legal advice to their potential clients regarding how to fill out New
+
+York’s one-page form for answering debt-collection actions.       Plaintiffs do not
+
+intend to draft pleadings, appear in court, or file any legal documents. As the
+
+Supreme Court has made clear, “the creation and dissemination of information are
+
+
+
+                                         16
+speech within the meaning of the First Amendment.” Sorrell v. IMS Health Inc.,
+
+564 U.S. 552, 570 (2011).    Indeed, “[i]f the acts of disclosing and publishing
+
+information do not constitute speech, it is hard to imagine what does fall within
+
+that category.” Bartnicki v. Vopper, 532 U.S. 514, 527 (2001) (internal quotation
+
+marks omitted).
+
+      Our sister circuits have reached similar conclusions in analogous cases
+
+involving regulated professions. For example, the Fourth Circuit has held that a
+
+local ordinance in Charleston, South Carolina prohibiting unlicensed tour guides
+
+from leading paid tours “undoubtedly burden[ed]” speech.          Billups v. City of
+
+Charleston, 961 F.3d 673, 683 (4th Cir. 2020). The Fourth Circuit noted that the
+
+local ordinance targeted activity that, “by its very nature, depends upon speech.”
+
+Id. Likewise, the Fifth Circuit recently held that a Texas regulation prohibiting
+
+veterinarians from providing medical advice by telephone or electronic means was
+
+a regulation of speech. See Hines v. Pardue, 117 F.4th 769, 777–78 (5th Cir. 2024).
+
+The Fifth Circuit reasoned that “[b]ecause the act in which [the veterinarian]
+
+engaged that trigger[ed] coverage under the [regulation] was the communication
+
+of a message, the State primarily regulated [the veterinarian’s] speech.” Id. at 778
+
+(internal quotation marks omitted). Because the act in which Upsolve and Rev.
+
+
+
+                                         17
+Udo-Okon wish to engage involves the communication of a message (i.e., legal
+
+advice), the Fourth and Fifth Circuit’s conclusions apply with equal force here.
+
+      In response, the Attorney General argues that the UPL statutes simply seek
+
+to regulate “the conduct of applying legal knowledge, judgment, and skill to the
+
+facts of a client’s case to generate legal counsel for that client,” which occurs
+
+“logically and temporally prior to the speech act of communicating the counsel
+
+thereby generated.”    Att’y Gen. Br. at 40.    While it is true that “[s]tates may
+
+regulate professional conduct, even though that conduct incidentally involves
+
+speech,” Nat’l Inst. of Family & Life Advocs. v. Becerra (NIFLA), 585 U.S. 755, 768
+
+(2018), the Supreme Court has cautioned that “[s]tate labels cannot be dispositive
+
+of [the] degree of First Amendment protection,” id. at 773 (internal quotation
+
+marks omitted). We must instead consider “[t]he restriction’s effect, as applied,
+
+in a very practical sense.” Thomas v. Collins, 323 U.S. 516, 536 (1945). Otherwise,
+
+states would have “unfettered power to reduce a group’s First Amendment rights
+
+by simply imposing a licensing requirement.” NIFLA, 585 U.S. at 773.
+
+      The UPL statutes, as applied to Plaintiffs, restrict their ability to communicate
+
+legal advice, rather than limiting Plaintiffs’ ability to research and develop that
+
+advice. Indeed, the Attorney General presumably would not seek to enforce New
+
+
+
+                                          18
+York’s UPL statutes against Plaintiffs if they simply formulated legal advice in
+
+their own minds without ever conveying that advice to a client. See Rowe, 80
+
+N.Y.2d at 341–42 (explaining that the practice of law involves the “rendering of
+
+legal advice and opinions directed to particular clients”).                In Hines, the Fifth
+
+Circuit rejected an argument analogous to the one the Attorney General raises
+
+here.    There, the Fifth Circuit emphasized that Texas “did not penalize [the
+
+veterinarian] for viewing charts or considering different medical reports”; it “only
+
+penalized him for his communication with the owner about her bird in which he
+
+gave a diagnosis and treatment plan.” Hines, 117 F.4th at 778. In other words,
+
+“the regulation only kicked in when [the veterinarian] began to share his opinion
+
+with his patient’s owner.” Id. Because New York’s UPL statutes likewise only
+
+“kick in” when Rev. Udo-Okon and other Justice Advocates convey their legal
+
+advice to a client, the UPL statutes, as applied here, regulate Plaintiffs’ speech. 1
+
+        Having concluded that New York’s UPL statutes regulate Plaintiffs’ speech,
+
+we must now consider whether that regulation is content based. The Supreme
+
+Court has explained that “[g]overnment regulation of speech is content based if a
+
+
+
+1 Because Plaintiffs raise an as-applied challenge, we do not address whether New York’s UPL
+statutes as applied to other actions falling within the definition of the practice of law, such as
+drafting pleadings or appearing in court, constitute a regulation of speech or a regulation of
+conduct that incidentally burdens speech. We leave those questions for another day.
+
+                                               19
+law applies to particular speech because of the topic discussed or the idea or
+
+message expressed.” Reed, 576 U.S. at 163. Nevertheless, the Supreme Court has
+
+subsequently clarified that “restrictions on speech may require some evaluation of
+
+the speech and nonetheless remain content neutral.” City of Austin v. Reagan Nat’l
+
+Advert. of Austin, LLC, 596 U.S. 61, 72 (2022). In other words, a classification that
+
+considers the function or purpose of the speech is not necessarily content based.
+
+See id. at 74. Only “regulations that discriminate based on the topic discussed or
+
+the idea or message expressed . . . are content based.”        Id. at 73–74 (internal
+
+quotation marks omitted).
+
+      After the district court granted the preliminary injunction in this case, we
+
+considered a challenge to New York’s professional licensing requirement for
+
+mental-health counselors.     See Brokamp v. James, 66 F.4th 374 (2d Cir. 2023).
+
+There, we concluded that the licensing requirement was not a content-based
+
+restriction on speech because it “d[id] not turn on the content of what a person
+
+says.” Id. at 393. Specifically, we observed that the requirement did not permit
+
+the State to “license views it finds acceptable, while refusing to license less favored
+
+or more controversial views.” Id. (internal quotation marks omitted). Nor did it
+
+“condemn certain ideas or viewpoints” or “prohibit[] public discussion of an
+
+
+
+                                          20
+entire topic.” Id. (internal quotation marks omitted). Rather, the “requirement
+
+applie[d] – regardless of what [was] said – only to speech having a particular
+
+purpose, focus, and circumstance.” Id.
+
+      Here, the considerations that led us to conclude that New York’s licensing
+
+requirement for mental-health counselors is content neutral compel the same
+
+conclusion for New York’s UPL statutes.         The UPL statutes apply to any
+
+individual practicing law, regardless of the type of law he practices or the message
+
+or position that he seeks to promote through his legal practice. As the Attorney
+
+General correctly notes, “the [UPL] statutes apply equally to individuals who
+
+provide legal advice only to creditors and to those who advise only debtors.”
+
+Att’y Gen. Br. at 49. Accordingly, it is clear that the UPL statutes do not license
+
+only certain views that the State finds acceptable, nor do they refuse to license or
+
+condemn less favored viewpoints. Likewise, the UPL statutes do not prohibit
+
+public discussion of an entire legal topic. As New York courts have repeatedly
+
+held, individuals are free to discuss legal topics or provide generalized advice,
+
+including by publishing books and guides, without running afoul of the UPL
+
+statutes. See, e.g., Rowe, 80 N.Y.2d at 342. Rather, the UPL statutes apply “only
+
+to speech having a particular purpose, focus, and circumstance,” Brokamp, 66 F.4th
+
+
+
+                                         21
+at 393 – namely, “the rendering of legal advice and opinions directed to particular
+
+clients,” Rowe, 80 N.Y.2d at 341–42 – without regard to the content of the legal
+
+advice conveyed. 2
+
+       For these reasons, we hold that the UPL statutes are content neutral and thus
+
+subject only to intermediate scrutiny. See Brokamp, 66 F.4th at 392 (concluding
+
+that regulation was “content neutral and, therefore, subject to intermediate rather
+
+than strict scrutiny”); Turner Broad. Sys., Inc. v. Fed. Commc’ns Comm’n, 520 U.S.
+
+180, 189 (1997) (explaining that content-neutral regulations withstand First
+
+Amendment challenges if they “advance[] important governmental interests
+
+unrelated to the suppression of free speech and [do] not burden substantially more
+
+speech than necessary to further those interests”).                  Because the district court
+
+concluded that the UPL statutes are content based and applied strict scrutiny, we
+
+conclude that the district court committed an error of law and thus abused its
+
+
+
+2 Plaintiffs point to an out-of-Circuit case that suggests, on their view, that any licensing
+regulation that burdens speech is content based. See Richwine v. Matuszak, -- F.4th --, No. 24-
+1081, 2025 WL 2476656, at *6–7 (7th Cir. Aug. 28, 2025). But that case “f[ound] no need to
+determine whether the [licensing] statute [at issue] should be subject to strict or intermediate
+scrutiny because, even under intermediate scrutiny, the statute fail[ed] to pass constitutional
+muster.” Id. at *7. And, as described above, our caselaw makes clear that not all speech-
+restricting licensing regimes are content based. See Brokamp, 66 F.4th at 393. Accordingly, we
+decline Plaintiffs’ invitation to ignore binding Circuit precedent on the basis of a stray line of out-
+of-Circuit dicta.
+
+
+
+                                                  22
+discretion in granting a preliminary injunction. See We the Patriots, 17 F.4th at 280.
+
+We therefore vacate the preliminary injunction and remand for the district court
+
+to apply intermediate scrutiny in evaluating the likelihood of success and to assess
+
+whether the remaining factors – irreparable harm, the public interest, and the
+
+balance of the equities 3 – support the grant of a preliminary injunction.
+
+                                       IV.     CONCLUSION
+
+       In sum, we VACATE the preliminary injunction order of the district court
+
+and REMAND for further proceedings consistent with this Opinion.
+
+
+
+
+3 The district court’s analysis of these factors was closely tied to its conclusion that Plaintiffs were
+likely to succeed on their merits of their claim. Therefore, the court may need to reconsider these
+factors if its assessment of the likelihood of success on the merits changes upon applying
+intermediate scrutiny.
+
+                                                  23

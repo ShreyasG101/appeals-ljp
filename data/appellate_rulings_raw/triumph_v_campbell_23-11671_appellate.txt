@@ -1,0 +1,2256 @@
+United States Court of Appeals
+                      For the First Circuit
+
+
+No. 24-1759
+
+  TRIUMPH FOODS, LLC, CHRISTENSEN FARMS MIDWEST, LLC, THE HANOR
+ COMPANY OF WISCONSIN, LLC, NEW FASHION PORK, LLP, EICHELBERGER
+ FARMS, INC. and ALLIED PRODUCERS' COOPERATIVE, individually and
+                    on behalf of its members,
+
+                     Plaintiffs, Appellants,
+
+                                v.
+
+    ANDREA JOY CAMPBELL, in her official capacity as Attorney
+  General of Massachusetts, and ASHLEY RANDLE, in her official
+   capacity as Commissioner of the Massachusetts Department of
+                     Agricultural Resources,
+
+                      Defendants, Appellees.
+
+
+          APPEAL FROM THE UNITED STATES DISTRICT COURT
+               FOR THE DISTRICT OF MASSACHUSETTS
+
+          [Hon. William G. Young, U.S. District Judge]
+
+
+                              Before
+
+                  Gelpí, Thompson, and Rikelman,
+                         Circuit Judges.
+
+
+     Michael T. Raupp, with whom Ryann A. Glenn, Cynthia L. Cordes,
+Spencer Tolson, and Husch Blackwell LLP were on brief, for
+appellants.
+
+     Maryanne Reynolds, Assistant Attorney General, Massachusetts
+Office of the Attorney General, with whom Vanessa A. Arslanian,
+Assistant Attorney General, and Grace Gohlke, Assistant Attorney
+General, were on brief, for appellees.
+October 3, 2025
+          GELPÍ, Circuit Judge.    In 2016, Massachusetts passed the
+
+Act to Prevent Cruelty to Farm Animals (the "Massachusetts Act").
+
+As relevant here, the Massachusetts Act prohibits the use of
+
+certain methods of confinement ("gestation crates") on pig farms
+
+in Massachusetts.1    Mass. Gen. Laws Ann., ch. 129, App. § 1-2.    It
+
+also prohibits the sale, in Massachusetts, of pork products derived
+
+from pigs who were confined in gestation crates.      See id. § 1-3.
+
+Plaintiffs   are     out-of-Massachusetts   pig   farmers   and    the
+
+slaughterhouse those farmers co-own (collectively, "Plaintiffs").
+
+They sued to challenge the Massachusetts Act, chiefly arguing that
+
+it violated the dormant Commerce Clause and that it was preempted
+
+by federal law.      The district court disagreed, first dismissing
+
+most of the claims and later entering summary judgment against
+
+Plaintiffs on the remaining dormant Commerce Clause claim.          We
+
+affirm the district court's rulings.
+
+                            I. Background
+
+          A. The Act to Prevent Cruelty to Farm Animals
+
+          The Massachusetts Act became enforceable on August 24,
+
+2023, after a series of legal challenges.2    Its stated purpose is
+
+
+     1 Gestation crates are "stalls so small [breeding pigs] cannot
+lie down, stand up, or turn around" in them. Nat'l Pork Producers
+Council v. Ross, 598 U.S. 356, 363 (2023).
+     2  Though enacted in 2016, the Massachusetts Act became
+effective following the Supreme Court's decision in National Pork,
+a decision we will invoke later. We note that the parties and the
+district court refer to that decision as "Ross," we adopt "National
+
+
+
+                                - 3 -
+to "prevent animal cruelty by phasing out extreme methods of farm
+
+animal confinement, which also threaten the health and safety of
+
+Massachusetts consumers, increase the risk of foodborne illness,
+
+and   have    negative   fiscal    impacts      on   the    Commonwealth        of
+
+Massachusetts."      Mass. Gen. Laws Ann., ch. 129, App. § 1-1.                 To
+
+that end, the Massachusetts Act prohibits pig farmers within
+
+Massachusetts from knowingly causing a breeding pig "to be confined
+
+in a cruel manner," defined in relevant part as "in a manner that
+
+prevents the animal from lying down, standing up, fully extending
+
+the animal's limbs or turning around freely."3             Id. §§ 1-2, 1-5.
+
+             The   Massachusetts   Act   also   makes      it   illegal   for    a
+
+"business owner or operator to knowingly engage in the sale within
+
+[Massachusetts] of any: . . . Whole pork meat that the business
+
+owner or operator knows or should know is the meat of a covered
+
+animal that was confined in a cruel manner, or is the meat of the
+
+immediate offspring of a covered animal that was confined in a
+
+cruel manner."      Id. § 1-3.     A sale is defined as "a commercial
+
+sale by a business that sells any item covered by section 3" and
+
+
+
+
+Pork" to conform with recent circuit opinions. See Ass'n to Pres.
+& Protect Loc. Livelihoods v. Sidman, No. 24-1317, 2025 WL 2304915,
+at *15 (1st Cir. Aug. 11, 2025).
+      3The Massachusetts Act also covers other animals and animal
+products, such as eggs and "veal meat." Id. § 1-3. We focus here
+only on those provisions relevant to the Plaintiffs' claims.
+
+
+                                   - 4 -
+"shall be deemed to occur at the location where the buyer takes
+
+physical possession of" the relevant item.             Id. § 1-5.
+
+            B. Procedural Background
+
+            Plaintiffs are a combination of pig farmers and one pork
+
+processor (Triumph).      Triumph Foods, LLC v. Campbell, 715 F. Supp.
+
+3d 143, 148 (D. Mass. 2024).             Triumph-produced pork is sold
+
+throughout the country, including in Massachusetts.                 Plaintiffs
+
+are all located outside of Massachusetts, "in Minnesota, Iowa,
+
+Nebraska,    Illinois,    South    Dakota,     Wisconsin,    Oklahoma,   North
+
+Carolina, Missouri, Wyoming, and Indiana."             Id.   The pork products
+
+they sell are produced from pigs housed in gestation crates.                On
+
+July 25, 2023, Plaintiffs sued to preliminarily and permanently
+
+enjoin the Massachusetts Act.           They filed an amended complaint
+
+(hereinafter, "complaint") on July 31, 2023.
+
+            Their     complaint     asserted     ten    causes    of   action:
+
+(1) dormant Commerce Clause violations by directly discriminating
+
+and by unduly burdening interstate commerce; (2) Privileges and
+
+Immunities Clause violations; (3) express preemption under the
+
+Federal Meat Inspection Act (the "FMIA"); (4) conflict preemption
+
+under the FMIA; (5) preemption under the Packers and Stockyards
+
+Act (the "PSA"); (6) Full Faith and Credit Clause violations;
+
+(7) Due     Process   Clause      violations;    (8) Import-Export       Clause
+
+violations; (9) declaratory relief on unconstitutionality; and
+
+(10) judicial review of the Massachusetts Act's regulations.                In
+
+
+                                     - 5 -
+support of these claims, Plaintiffs pleaded that the Massachusetts
+
+Act    "discriminates   against    out-of-state        farmers    and   pork
+
+processors in purpose and effect," "[g]iven that no Massachusetts
+
+pig farmers confine breeding sows in a manner that is prohibited
+
+by the [Massachusetts] Act."
+
+           The district court consolidated Plaintiffs' request for
+
+a preliminary injunction with a trial on the merits, pursuant to
+
+Federal Rule of Civil Procedure 65(a)(1).            See Triumph Foods, LLC
+
+v. Campbell, 742 F. Supp. 3d 63, 66 (D. Mass. 2024).                       The
+
+Massachusetts Office of the Attorney General ("Massachusetts" or
+
+"the   Commonwealth")   then   moved   to    dismiss     the   complaint   on
+
+September 28, 2023.     It argued that the Massachusetts Act did not
+
+discriminate facially, in purpose or effect, and that the Supreme
+
+Court's decision in Nat'l Pork Producers Council v. Ross foreclosed
+
+Plaintiffs' argument under the unlawful burden test set forth in
+
+Pike v. Bruce Church, Inc., 397 U.S. 137 (1970).               The district
+
+court granted Massachusetts' motion to dismiss as to all claims,
+
+except for the dormant Commerce Clause claim (Count I).
+
+           Plaintiffs   then   filed   a    motion    for   partial   summary
+
+judgment on that remaining count, which solely focused on the
+
+direct discrimination claim.       Massachusetts opposed that motion
+
+and requested that the district court enter summary judgment sua
+
+sponte.   As to Plaintiffs' claim under Count I, the district court
+
+severed a provision of the Massachusetts Act, "the slaughterhouse
+
+
+                                  - 6 -
+exemption,"    which   the    district       court    determined     violated   the
+
+dormant Commerce Clause.4        It later entered summary judgment sua
+
+sponte against all Plaintiffs (aside from Triumph Foods).
+
+           Plaintiffs assert a slew of challenges on appeal, namely
+
+that the district court erred in: (1) dismissing most of their
+
+claims without a written order; (2) entering summary judgment sua
+
+sponte on their Pike dormant Commerce Clause claim when there were
+
+disputed material facts concerning the Massachusetts Act's burden
+
+on   interstate   commerce     and     without    notice     under    FRCP   56(f);
+
+(3) entering      summary       judgment         sua        sponte     on    their
+
+direct-discrimination dormant Commerce Clause claim by holding
+
+that the Act did not discriminate against Plaintiffs and without
+
+notice under FRCP 56(f); and (4) holding that the Massachusetts
+
+Act is not preempted by the FMIA and the PSA.
+
+                          II. Standard of Review
+
+           This   court      reviews    de     novo    an   order    dismissing   a
+
+complaint under Rule 12(b)(6).           See Bazinet v. Beth Israel Lahey
+
+
+      4The district court concluded that one portion of the statute
+did discriminate against out-of-state farmers, so it severed that
+portion.   The "slaughterhouse exception" provided an "exemption
+from [the Massachusetts Act's] requirements for pork products when
+those products are sold on the premises of an FMIA-inspected
+facility."    Triumph Foods, LLC, 715 F. Supp. 3d at 149.       The
+district court held: "The only way Triumph would be able to take
+advantage of the slaughterhouse exception would be to open its own
+federally   inspected   facility   within   the   Commonwealth   of
+Massachusetts, which the Supreme Court has held violates the
+Commerce Clause." Id. at 153. Neither party argues that severance
+was inappropriate, so it is not at issue before us.
+
+
+                                       - 7 -
+Health, Inc., 113 F.4th 9, 15 (1st Cir. 2024) (citing Rivera v.
+
+Kress Stores of P.R., Inc., 30 F.4th 98, 102 (1st Cir. 2022)).            We
+
+review sua sponte grants of summary judgment under the same de
+
+novo standard.     See McCoy v. Town of Pittsfield, 59 F.4th 497, 504
+
+(1st Cir. 2023).       We affirm where "the record, viewed in the light
+
+most favorable to the [appellants], discloses 'no genuine dispute
+
+as to any material fact'" and shows that Massachusetts is "entitled
+
+to judgment as a matter of law."         See id.
+
+                           III. Procedural Errors
+
+          Plaintiffs       assert that the district court committed
+
+procedural error in both its order of dismissal and its grant of
+
+summary judgment.        We address each argument in turn.
+
+          A. Motion to Dismiss
+
+          Plaintiffs emphasize that most of their claims were
+
+dismissed "without a written order" and "without any reasoning on
+
+the record."     While recognizing there is no "technical requirement
+
+for a court to 'state findings or conclusions when ruling on a
+
+motion under Rule 12,'" they contend that the court "err[ed] both
+
+on   substance     and     procedure."        Massachusetts   counters    by
+
+referencing      the     district   court's    "consider[ation   of]     the
+
+complaint, pars[ing of] the language of the relevant statutes,
+
+and . . . due consideration [of] the parties' arguments."
+
+          As Plaintiffs concede, there is no requirement that
+
+district courts state their findings or conclusions when ruling on
+
+
+                                    - 8 -
+a motion under Rule 12.          Fed. R. Civ. P. 52(a)(3).            Rule 52(a)
+
+"explicitly states that district courts are 'not required to state
+
+findings or conclusions when ruling on a motion under Rule 12 or
+
+56.'"      Barry   v.   Moran,    661   F.3d    696,    702    n.9    (1st   Cir.
+
+2011)(quoting Fed. R. Civ. P. 52(a)(3)).             Accordingly, "[w]e may
+
+quickly dispose of this argument."             Id.     We find no procedural
+
+error on this issue.
+
+           B. Summary Judgment
+
+           Plaintiffs also argue that the district court committed
+
+procedural error in granting summary judgment on their Pike claim
+
+and on the farmers' direct discrimination claim.                 To understand
+
+this argument, it is important to note that Plaintiffs divide their
+
+dormant    Commerce     Clause     claim    into     two      legal    theories:
+
+(1) intentional discrimination against interstate commerce and
+
+(2) a substantial burden on interstate commerce under the Pike
+
+test.     Plaintiffs contend that they moved for partial summary
+
+judgment only as to the first legal theory, and not as to the
+
+second. Thus, Plaintiffs tell us, their motion for partial summary
+
+judgment contained no evidence in support of their Pike claim.
+
+However, in Massachusetts' opposition brief below, it requested
+
+summary judgment sua sponte as to both legal theories.                        The
+
+district court then entered judgment sua sponte against Plaintiffs
+
+on both dormant Commerce Clause theories.               In doing so, it held
+
+
+
+
+                                    - 9 -
+that   Massachusetts'      opposition      motion     was     an   "outright"
+
+opposition, such that both issues were properly before the court.
+
+            Under Federal Rule of Civil Procedure 56(f), a district
+
+court may grant a motion for summary judgment "on grounds not
+
+raised by a party" after "giving notice and a reasonable time to
+
+respond."    Fed. R. Civ. P. 56(f).        In other words, "[a] district
+
+court can enter summary judgment even though none of the parties
+
+asks for it."     Sanchez v. Triple-S Mgmt., Corp., 492 F.3d 1, 7
+
+(1st Cir. 2007).      "A district court must meet two criteria before
+
+entering    summary   judgment   sua     sponte:    (1) discovery    must   be
+
+sufficiently    advanced    to   afford     the     parties    a   reasonable
+
+opportunity to glean the material facts; and (2) the targeted party
+
+must have been given notice and a chance to present its evidence
+
+on the essential elements of the claim or defense."                 McCoy, 59
+
+F.4th at 504 (citation modified).
+
+            On appeal, Plaintiffs argue that Massachusetts did not
+
+move for summary judgment and that the district court did not
+
+provide the required notice of a sua sponte ruling.                Plaintiffs
+
+assert that the district court "never received any evidence with
+
+respect to [the Pike] theory." Massachusetts disagrees. According
+
+to   the   Commonwealth,   the   court    (1) gave    pre-summary    judgment
+
+notice that the Pike theory was in jeopardy and (2) made the same
+
+
+
+
+                                  - 10 -
+clear at the hearing.    Massachusetts also claims that the parties
+
+had "fully briefed" the Pike issue and theory (twice).
+
+           We first examine whether the first requirement for sua
+
+sponte summary judgment -- that discovery must be sufficiently
+
+advanced to afford the parties a reasonable opportunity to glean
+
+the   material   facts -- has   been   met.   "[W]hat   amounts   to   a
+
+'reasonable opportunity' largely depends on the state of the
+
+particular litigation and the nature of the issue decided by the
+
+sua sponte summary judgment procedure."       Sanchez, 492 F.3d at 8.
+
+We have previously held that summary judgment sua sponte is proper
+
+once "'discovery had proceeded to the point where the parties
+
+understood the material facts' at issue."         Id. at 7 (quoting
+
+Penobscot Indian Nation v. Key Bank of Me., 112 F.3d 538, 562 (1st
+
+Cir. 1997)). We have "affirmed summary judgment entered sua sponte
+
+[even] before any discovery had taken place, where the decision
+
+was based on legal conclusions independent of any potentially
+
+available evidence."    Id. (emphasis added) (citing Bank v. Int'l
+
+Bus. Machs. Corp., 145 F.3d 420, 431 (1st Cir. 1998)).
+
+           Here, we find that      discovery did occur.      When   the
+
+district court issued the summary judgment, Plaintiffs' counsel
+
+had noted that "extensive discovery [was] going back and forth on
+
+issues related to" the Pike claim.        Moreover, as Massachusetts
+
+points out, at the beginning of the case, Plaintiffs asserted that
+
+
+
+
+                                - 11 -
+"discovery was unnecessary."    In our view, Plaintiffs' concession
+
+belies their own claims regarding lack of discovery.
+
+           Further, the district court reached legal conclusions,
+
+which informed its summary judgment decision on the Pike issue,
+
+independent of available evidence.      The court stated that the
+
+"legal issue had been fully briefed and the [c]ourt's resolution
+
+obviated the need for evidence."    Triumph Foods, LLC, 715 F. Supp.
+
+3d at 152.     Considering the briefing and record before it, the
+
+district court determined that the Supreme Court's Nat'l Pork
+
+decision foreclosed Plaintiffs' claim, as a legal matter.       Id. at
+
+151.    We find no procedural error here, where the district court
+
+based    its   summary   judgment   ruling   on   independent   legal
+
+conclusions.
+
+           We next review the second requirement for sua sponte
+
+summary judgment: the targeted party must have been given notice
+
+and a chance to present its evidence on the essential elements of
+
+the claim or defense.     "In the context of a sua sponte summary
+
+judgment, 'notice' means that the targeted party 'had reason to
+
+believe the court might reach the issue and received a fair
+
+opportunity to put its best foot forward.'"   Leyva v. On the Beach,
+
+Inc., 171 F.3d 717, 720 (1st Cir.        1999) (citation omitted).
+
+"Notice" does not require that the opposing party "receive a formal
+
+document called 'notice' or that the district court had to say the
+
+words 'you are on notice' or even that the court had to explicitly
+
+
+                               - 12 -
+tell [the opposing party], 'I am thinking of ordering summary
+
+judgment for [the winning party] sua sponte.'"     Nat'l Expositions,
+
+Inc. v. Crowley Mar. Corp., 824 F.2d 131, 133 (1st Cir. 1987).
+
+Rather, the question is simply whether, "given the procedural
+
+circumstances of the case, the original movant [i.e., Plaintiffs]
+
+has had an adequate opportunity to show that there is a genuine
+
+issue and that his opponent is not entitled to judgment as a matter
+
+of law."   Id. at 133–34 (quoting 10A C. Wright, A. Miller & M.
+
+Kane, Federal Practice and Procedure § 2720, at 34 (1983)).
+
+           Indeed, the district court provided adequate notice that
+
+it might reach the Pike claim.        First, in an October 25, 2023
+
+order -- in response to requests from both parties for "sweeping
+
+discovery" -- the district court said it "must say frankly that
+
+the more it examines the jurisprudence of the 'dormant [C]ommerce
+
+[C]lause,'" the less it understood why certain aspects of discovery
+
+were necessary.     There, the district court also cited National
+
+Pork, noting that Plaintiffs "frequently" relied on the National
+
+Pork Court's dissent.        Further, during the November 14, 2023
+
+hearing,   the    district   court   recognized   that   Massachusetts
+
+requested "summary judgment taken against" the Plaintiffs, which
+
+put Plaintiffs "on notice that summary judgment may be taken
+
+against them."    Perhaps most importantly, in Plaintiffs' reply in
+
+support of their motion for partial summary judgment (in response
+
+to   Massachusetts'    opposition     motion),    Plaintiffs   clearly
+
+
+                                - 13 -
+recognized      that    Massachusetts        requested        summary   judgment    sua
+
+sponte    on    the    Pike    claim.        There,     Plaintiffs      affirmatively
+
+responded      to    Massachusetts'        request    for     summary   judgment    sua
+
+sponte, indicating Plaintiffs were aware that summary judgment on
+
+the   Pike     claim    was    a    possibility.       Thus,     Plaintiffs   had    an
+
+"adequate opportunity," in their response in support of their
+
+motion for partial summary judgment, to show that there was a
+
+genuine issue of material fact.               See Crowley Mar. Corp., 824 F.2d
+
+at 133.
+
+               In their brief, Plaintiffs rely on Leyva v. On the Beach,
+
+Inc. to suggest that, as in the facts in that case, they did not
+
+"receive[] a fair opportunity to put [their] best foot forward."
+
+171 F.3d at 720.         The facts here are clearly distinguishable from
+
+those in Leyva, where the district court, "[p]rior to making [a]
+
+spontaneous ruling[,] . . . never informed the plaintiffs that it
+
+was considering [rendering] a judgment" on certain claims.                          Id.
+
+Instead, "the court's margin order . . . stated in no uncertain
+
+terms that its decision would conform to the limited scope of the
+
+motion."       Id.     The court in Leyva thus found that the district
+
+court "did not afford the plaintiffs adequate notice and a suitable
+
+opportunity to be heard before it exceeded the scope of the motion
+
+that was pending before it."                Id. at 721.        It is clear from the
+
+facts presented to us that, as opposed to the court's actions in
+
+Leyva,    the       district       court   made     various    pronouncements      that
+
+
+                                           - 14 -
+suggested the possibility that summary judgment might be taken
+
+against the Plaintiffs. Plaintiffs' reliance on Leyva is therefore
+
+incorrect.
+
+              Equally unconvincing is Plaintiffs' argument that the
+
+district court committed procedural error in granting summary
+
+judgment in favor of the Commonwealth on the farmers' direct
+
+discrimination claim.          Plaintiffs acknowledged that the direct
+
+discrimination claim was fully briefed.            Plaintiffs also asserted
+
+in    their    motion    for    partial     summary     judgment      that    the
+
+discrimination claim "[could] be decided by [the] Court without
+
+any fact finding," as it was "based on the statute itself" as well
+
+as    on   "publicly    available    uncontroverted        material."        Given
+
+Plaintiffs'     representations,      the   sua   sponte    grant    of   summary
+
+judgment on the direct discrimination claim was proper.                   See Bank
+
+v. Int'l Bus. Mach. Corp., 145 F.3d 420, 431 (1st Cir. 1998).
+
+              For these reasons, we conclude that the district court
+
+did not procedurally err in entering summary judgment sua sponte.
+
+                          IV. Substantive Errors
+
+              Finding no procedural error, we next analyze the claims
+
+on the merits.      We affirm both the district court's dismissal of
+
+Counts II-X and its entry of summary judgment on Count I.
+
+              A. Privileges and Immunities Clause
+
+              Plaintiffs argue that the Massachusetts Act "directly
+
+and   intentionally     targets     and   seeks   to   regulate     out-of-state
+
+
+                                     - 15 -
+activity that is permissible in the states in which it occurs" and
+
+represents   an   attempt    to    "effectively      regulate     pig   farming,
+
+manufacturing, and production in other states."                 They posit that
+
+the   Massachusetts    Act     therefore     offends    the     Privileges    and
+
+Immunities Clause of the Constitution because that Clause protects
+
+the "right to practice a trade or profession."            In support of these
+
+assertions, Plaintiffs argue that because "Massachusetts pig farms
+
+did not use gestation crates for housing breeding sows," the
+
+"burden of compliance with the [Massachusetts] Act's Minimum Size
+
+Requirements falls almost entirely on out-of-state pig farmers and
+
+pork processors to the benefit of in-state farmers and pork
+
+processors."
+
+           The    Privileges      and   Immunities     Clause    provides    that
+
+"Citizens of each State shall be entitled to all Privileges and
+
+Immunities of Citizens in the several States."                U.S. Const. art.
+
+IV, § 2, cl. 1; Nat'l Pork, 598 U.S. at 370.               "[T]he Privileges
+
+and Immunities Clause is inapplicable to corporations[.]"                W. & S.
+
+Life Ins. Co. v. State Bd. of Equalization of California, 451 U.S.
+
+648, 656, (1981); see also Tennessee Wine & Spirits Retailers Ass'n
+
+v. Thomas, 588 U.S. 504, 516 (2019).                 Because Plaintiffs are
+
+corporations, their argument fails.5
+
+
+      5Plaintiffs describe themselves, in their complaint, as a
+"farmer-owned company" and a series of member-owners, who are LLCs,
+an LLP, a corporation, and a cooperative. In their briefing on
+
+
+
+                                    - 16 -
+            B. Dormant Commerce Clause Claim
+
+            Plaintiffs articulate two theories under the dormant
+
+Commerce Clause: (1) intentional discrimination against interstate
+
+commerce and (2) a substantial burden on interstate commerce under
+
+the Pike test.         We address each argument in turn.
+
+            i. Intentional Discrimination
+
+            The Constitution's Commerce Clause gives Congress the
+
+power      to         "regulate    Commerce . . . among        the     several
+
+States . . . ."         U.S. Const. art. I, § 8, cl. 3.   It also "embodies
+
+a negative aspect" which "prevents state and local governments
+
+from impeding the free flow of goods from one state to another."
+
+All. of Auto. Mfrs. v. Gwadosky, 430 F.3d 30, 35 (1st Cir. 2005)
+
+(quoting Houlton Citizens' Coal. v. Town of Houlton, 175 F.3d 178,
+
+184 (1st Cir. 1999)). This so-called dormant Commerce Clause "bars
+
+states          and       localities       from     pursuing         'economic
+
+protectionism -- that is, regulatory measures designed to benefit
+
+in-state        economic      interests     by    burdening     out-of-state
+
+competitors.'"          Becky's Broncos, LLC v. Town of Nantucket, 138
+
+F.4th 73, 78 (1st Cir. 2025) (quoting New Energy Co. of Ind. v.
+
+Limbach, 486 U.S. 269, 273 (1988)).               "To ascertain whether a
+
+regulatory measure is so designed, we look for evidence of 'either
+
+discriminatory purpose or discriminatory effect,' recognizing 'the
+
+
+appeal, they also describe themselves as "several limited
+liability companies, a limited partnership and cooperative."
+
+
+                                       - 17 -
+primacy of [the latter] in the dormant Commerce Clause analysis of
+
+facially neutral legislation.'"6                     Id. (alteration in original)
+
+(quoting Am. Trucking Ass'ns v. R.I. Tpk. & Bridge Auth., 123 F.4th
+
+27, 36–37 (1st Cir. 2024)).                    "[T]he Supreme Court has cautioned
+
+that the dormant Commerce Clause inquiry should be undertaken by
+
+'eschew[ing] formalism for a sensitive, case-by-case analysis of
+
+purposes and effects.'"              Walgreen Co. v. Rullan, 405 F.3d 50, 55
+
+(1st       Cir.    2005)      (alteration      in   original)    (quoting   West   Lynn
+
+Creamery, Inc. v. Healy, 512 U.S. 186, 201 (1994)).
+
+                  This     court    has        "discussed   the     methodology    for
+
+determining legislative purpose when a state statute is allegedly
+
+motivated          by    an    intent     to    discriminate      against   interstate
+
+commerce."          Fam. Winemakers of Cal. v. Jenkins, 592 F.3d 1, 13
+
+(1st Cir. 2010) (citing All. of Auto. Mfrs., 430 F.3d at 37).                      This
+
+methodology requires us to "look to 'the statute as a whole,'
+
+including statutory text, context, and legislative history" and to
+
+"consider whether the statute was 'closely tailored to achieve the
+
+legislative purpose' the state asserted."                       Id. (quoting All. of
+
+Auto. Mfrs., 430 F.3d at 37-38).
+
+                  In determining whether a state law is discriminatory in
+
+effect, we must analyze whether "in practice, it affects similarly
+
+situated entities in a market by imposing disproportionate burdens
+
+
+       Plaintiffs here have not claimed that the Massachusetts Act
+       6
+
+discriminates on its face.
+
+
+                                            - 18 -
+on out-of-state interests and conferring advantages upon in-state
+
+interests."     Id. at 10 (citing Or. Waste Sys., Inc. v. Dep't of
+
+Envtl. Quality, 511 U.S. 93, 99 (1994)).           Cf. Ass'n to Pres. and
+
+Protect Loc. Livelihoods v. Sidman, 147 F. 4th 40, 59-60 (1st Cir.
+
+2025) ("[A] plaintiff must first show that the measure does
+
+discriminate.      To do so, a plaintiff must do more than show that
+
+the measure burdens out-of-state entities more than local ones."
+
+(internal citations omitted)).           When challenging a statute as
+
+discriminatory in effect, plaintiffs "must present evidence as to
+
+why the law discriminates in practice."           Jenkins, 592 F.3d at 11
+
+(citing Cherry Hill Vineyard, LLC v. Baldacci, 505 F.3d 28, 36-37
+
+(1st Cir. 2007)).      When "a statute is evenhanded on its face and
+
+wholesome in its purpose," such showing of discriminatory effect
+
+must be "substantial."        Cherry Hill, 505 F.3d at 36.
+
+           Before a district court, "[t]he proponent of a dormant
+
+Commerce   Clause     claim    bears     the   burden    of   proof     as    to
+
+discrimination."     All. of Auto. Mfrs., 430 F.3d at 40.             "To block
+
+summary judgment, the party having the burden of proof on a
+
+critical   issue    must   present     evidence   on   that   issue    that   is
+
+'significantly probative,' not 'merely colorable.'"             Id. (quoting
+
+Cadle Co. v. Hayes, 116 F.3d 957, 960 (1st Cir. 1997))(finding
+
+appellant's evidence "inadequate to make out a genuine issue of
+
+material fact" as to discrimination).
+
+
+
+
+                                     - 19 -
+                 We hold that the district court did not err in finding
+
+insufficient         evidence     of     discriminatory         effect      and    of
+
+discriminatory         purpose.         To   show     discriminatory        purpose,
+
+Plaintiffs identify supposed "legislative underpinnings" to argue
+
+that the Massachusetts Act was intended to discriminate against
+
+out-of-state        pork   producers.        The    "underpinnings"      Plaintiffs
+
+identify -- a        comment    that    gestation     crates    are   not   used   in
+
+Massachusetts, a comment that Massachusetts uses meat produced out
+
+of state on farms that use "these cruel tactics," and a comment
+
+that       the   Massachusetts    Act   would      protect   animals     outside   of
+
+Massachusetts -- do not support the                 purported conclusion they
+
+draw.        In reality, none of these comments make reference to
+
+supporting        in-state   farmers    to   the    detriment    of    out-of-state
+
+farmers.7        As Massachusetts tells us, the Act's nondiscriminatory
+
+purpose is plain from its text:              "The purpose of this Act is to
+
+prevent animal cruelty by phasing out extreme methods of farm
+
+
+
+       Plaintiffs also cite a 2016 Massachusetts Supreme Judicial
+       7
+
+Court (SJC) decision -- Dunn v. Attorney General, 474 Mass. 675,
+681 (2016) -- for the proposition that "in-state farmers' economic
+benefit is a central purpose of the [Massachusetts] Act." Contrary
+to this contention, the SJC stated that the purpose was
+"prevent[ion of] farm animals from being caged in overly cramped
+conditions, consistent with the statement of purpose in section 1
+of [the Massachusetts Act], 'to prevent animal cruelty by phasing
+out extreme methods of farm animal confinement.'" Id. The SJC
+also   recognized    that   the   Massachusetts   Act    "protects"
+Massachusetts farmers, without holding that was a purpose of the
+Massachusetts Act or that the protection ran afoul of the dormant
+Commerce Clause. See id.
+
+
+                                        - 20 -
+animal confinement[.]"         Further, because the Massachusetts Act was
+
+enacted as a result of a ballot initiative passed by Massachusetts
+
+voters, and not as a bill passed by the Massachusetts State
+
+Legislature, statements made during legislative hearings do not
+
+constitute an ideal "source of context."                 See Simmons v. Galvin,
+
+575 F.3d 24, 45 (1st Cir. 2009)("[S]ince [the challenged statute]
+
+was put before the voters, the Information for Voters Guide is a
+
+better     source     of     context"       than   "sporadic"       comments       from
+
+legislators).              Plaintiffs,       therefore,       did    not     present
+
+"significantly probative" evidence to create a genuine issue of
+
+material    fact     concerning       the    discriminatory     purpose      of     the
+
+Massachusetts Act.           See All. of Auto. Mfrs., 430 F.3d at 40
+
+(quoting Cadle Co., 116 F.3d at 960).
+
+            On discriminatory effect, Plaintiffs contend that the
+
+Massachusetts Act regulates conduct occurring only at out-of-state
+
+farms, which provides a "distinct advantage to in-state farmers."
+
+They,    again,      reference        the     legislative      history       of     the
+
+Massachusetts Act, stating that "legislative committee hearing
+
+members had direct knowledge of" the alleged discrimination. Their
+
+sole factual allegation in support of this claim is that no
+
+Massachusetts       farmers    used    gestation     crates    at   the     time    the
+
+Massachusetts Act passed.            Massachusetts counters that Plaintiffs
+
+failed     to   demonstrate      that       the    Massachusetts      Act    imposes
+
+differential      treatment     on    in-state     and    out-of-state      economic
+
+
+                                        - 21 -
+interests.    Massachusetts also tells us that the Supreme Court's
+
+opinion in National Pork is instructive in evaluating Plaintiffs'
+
+discrimination claim here, even though that case involved only a
+
+Pike claim.
+
+          Plaintiffs contend that National Pork is distinguishable
+
+from the present case because there was no discrimination claim in
+
+that case.    It is true that National Pork did not deal directly
+
+with a discrimination claim. The National Pork plaintiffs conceded
+
+that the California law imposed "the same burdens on in-state pork
+
+producers that it impose[d] on out-of-state ones."     598 U.S. at
+
+370; see also Ass'n to Pres. & Protect Loc. Livelihoods, 147 F.4th
+
+at 61 ("[T]he plaintiffs in National Pork explicitly disclaimed
+
+any discrimination-based arguments . . . . ").8    The Court also
+
+accepted this concession.   See Truesdell v. Friedlander, 80 F.4th
+
+762, 769 (6th Cir. 2023), cert. denied, 144 S. Ct. 1344 (2024),
+
+and cert. denied, 144 S. Ct. 1346 (2024) (citing Nat'l Pork, 598
+
+U.S. at 367).
+
+
+
+
+     8 The Court in National Pork referred to the Massachusetts
+Act, stating that "Massachusetts prohibits the sale of pork
+products from breeding pigs (or their offspring) if the breeding
+pig has been confined 'in a manner that prevents [it] from lying
+down, standing up, fully extending [its] limbs or turning around
+freely.'" 598 U.S. at 365 (alterations in original) (quoting Mass.
+Gen. Laws Ann., ch. 129, App. §§ 1-3, 1–5 (Cum. Supp. 2023)). It
+also noted that Florida, Arizona, Maine, Michigan, Oregon, and
+Rhode Island all have similar laws that regulate animal confinement
+practices. Id.
+
+
+                               - 22 -
+            The    National     Pork     Court    addressed   a     California   law
+
+"banning the in state sale of certain pork products derived from
+
+breeding pigs confined in stalls so small they cannot lie down,
+
+stand up, or turn around."             Id. at 363.   Much like the case before
+
+us, National Pork involved out of state pork producers filing suit,
+
+alleging that the law was in violation of the dormant Commerce
+
+Clause.     Id. at 364.       The Court "synthesized decades of dormant
+
+Commerce Clause jurisprudence into a few key principles.                      Chief
+
+among them is that economic 'antidiscrimination . . . lies at the
+
+very      core     of    [the         Court's]     dormant     Commerce       Clause
+
+jurisprudence.'"        New Jersey Staffing All. v. Fais, 110 F.4th 201,
+
+205 (3d Cir. 2024) (alteration in original) (quoting Nat'l Pork,
+
+598 U.S. at 369).
+
+            While the similar California law at issue in National
+
+Pork ultimately did not offend the dormant Commerce Clause, see
+
+598 U.S. at 390-91, we acknowledge that the petitioners' concession
+
+in   that   case    limits      its    instructive    value    for     the   present
+
+discrimination claim.        The Court in National Pork, however, relied
+
+on an older case that defeats Plaintiffs' claim.                    See Exxon Corp.
+
+v. Governor of Maryland, 437 U.S. 117, 119-120 (1978) (addressing
+
+a Maryland law that prevented producers or refiners of petroleum
+
+products from operating retail service stations in Maryland).
+
+There, Exxon argued that the "effect of the [Maryland law was] to
+
+protect      in-state      independent           dealers     from     out-of-state
+
+
+                                        - 23 -
+competition."     Id. at 125.        The Court recognized that all of
+
+Maryland's gasoline supply "flows in interstate commerce" and
+
+there were "no local producers," and, as such, "claims of disparate
+
+treatment     between   interstate    and   local    commerce      would   be
+
+meritless."      Id.    "The Court rejected the refiners' dormant
+
+Commerce Clause challenge because the statute did not affect the
+
+right of only out-of-state entities to compete in the Maryland
+
+market; rather, all independent dealers (in and out-of-state) were
+
+permitted to compete and all refiners were excluded."                Walgreen
+
+Co., 405 F.3d at 59 (citing Exxon, 437 U.S.at 127).
+
+            So   too,   here.   "[A]    neutral     law    that   'regulates
+
+even-handedly' by treating interstate and intrastate commerce the
+
+same does not discriminate against interstate commerce simply
+
+because it affects more out-of-state businesses than in-state
+
+ones."   Truesdell, 80 F.4th at 769 (citations omitted); see also
+
+Pike, 397 U.S. at 142; Exxon, 437 U.S. at 126.                    Plaintiffs'
+
+arguments on this point are no different than those the Court
+
+squarely rejected in Exxon over 40 years ago.             The mere fact that
+
+a statute's requirements fall solely on interstate companies does
+
+not lead "to a conclusion that the State is discriminating against
+
+interstate commerce."      Exxon, 437 U.S. at 125.          Plaintiffs have
+
+not demonstrated that the Massachusetts Act affirmatively grants
+
+in-state pork producers a "competitive advantage over out of state
+
+dealers."     See id. at 126.   Thus, Plaintiffs have not "satisfied
+
+
+                                - 24 -
+their initial burden of showing that [the Massachusetts Act] is
+
+discriminatory in effect."            See Cherry Hill, 505 F.3d at 34.
+
+            Still, Plaintiffs urge us that this case is factually
+
+similar    to   Jenkins.           There,        we     held     unconstitutional          a
+
+Massachusetts         statute      ("Section 19F")               which      established
+
+differential        methods      for      distribution             of     wine     within
+
+Massachusetts.        Jenkins, 592 F.3d at 5.                  That statute provided
+
+that "large" wineries, that is, those producing more than 30,000
+
+gallons of grape wine annually, could only sell their wine either
+
+through wholesalers or directly to consumers.                            Id. at 8.        By
+
+contrast, "small" wineries could simultaneously sell their wine
+
+through wholesaler distribution, through retail distribution, and
+
+by shipping directly to consumers.                Id.      Section 19F was "neutral
+
+on   its   face,"     as   it   "[did]     not,       by   its     terms,   allow       only
+
+Massachusetts       wineries     to     distribute         their    wines    through       a
+
+combination"     of    the      methods    mentioned           above.       Id.    at     5.
+
+"Section 19F instead use[d] a very particular gallonage cap to
+
+confer [a] benefit upon 'small'" wineries, which included all
+
+Massachusetts wineries, "as opposed to 'large' wineries," which
+
+were all located outside of Massachusetts.                         Id.    We held that
+
+Section 19F     violated the dormant Commerce Clause chiefly because
+
+the gallonage cap (1) had the ultimate effect of "enabl[ing]
+
+Massachusetts's       wineries     to     gain    market       share     against    their
+
+out-of-state competitors," while simultaneously "burden[ing] all
+
+
+                                        - 25 -
+the    larger        out-of-state         competitors"        and    (2) "conferred          a
+
+competitive advantage upon Massachusetts wineries by design."9 Id.
+
+at 12-13.
+
+                 Jenkins    is    distinguishable        from       the       instant    case.
+
+There, we found that the evidence presented by the plaintiffs
+
+demonstrated that Section 19F created a "competitive advantage" to
+
+in-state          wineries,       and     a     "comparative        disadvantage"          for
+
+out-of-state wineries.               See id. at 11.           Massachusetts wineries
+
+did,       in    fact,   take     advantage      of    the   benefits          conferred   by
+
+Section 19F,         with     most      Massachusetts'       wineries         obtaining    the
+
+"small" wineries license and distributing "71 percent [of their
+
+annual          production]      through      retail    outlets,"         a    benefit     not
+
+conferred to "large" wineries.                   Id. at 4, 11-12.             We also found
+
+that, by "[c]ombining [] distribution methods," Massachusetts
+
+wineries could sell wines "at maximum efficiency because they
+
+serve[d] complementary markets."                  Id. at 11.    "'[S]mall' wineries'
+
+distribution costs [were also lowered] because they [could] choose
+
+
+       Plaintiffs cite Hunt v. Washington State Apple Advert.
+       9
+
+Comm'n for the same proposition. See 432 U.S. 333, 340 (1977).
+There, North Carolina adopted a regulation, "unique in the 50
+States," which required all closed containers of apples sold in
+the state to display either the "applicable USDA grade or none at
+all."   Id. at 337.   But that case, too, is inapposite, as the
+statute at issue there "ha[d] the effect of stripping away from
+[another state's] apple industry the competitive and economic
+advantages it ha[d] earned for itself through its expensive
+inspection and grading system." Id. at 351. Plaintiffs do not,
+and cannot, point to any similar reputational "leveling effect"
+here. See id.
+
+
+                                              - 26 -
+which   method     or     combination       of     methods     [would]      be   most
+
+cost-effective      for    a   particular        wine."       Id.     By    contrast,
+
+out-of-state,      "large"      wineries     faced        "comparatively      greater
+
+distribution costs because they [could not] always distribute a
+
+given wine through the most cost-effective method."                        Id. at 12.
+
+"Large" wineries' option to choose between wholesaler distribution
+
+or direct shipping also implied a "significant loss of potential
+
+profits, since using a single method result[ed] in a comparative
+
+loss of consumer sales."         Id.; contrast id.          with Cherry Hill, 505
+
+F.3d at 38-39 (finding that plaintiffs did not satisfy their burden
+
+of showing that a Maine law that allowed wineries to conduct direct
+
+sales   to    consumers        only   in    face-to-face        transactions      was
+
+discriminatory in effect, as plaintiffs failed to present evidence
+
+that the law protected Maine vineyards or harmed out-of-state
+
+wineries).
+
+             No   "substantial"       evidence     of     discriminatory      effect,
+
+either of advantage to in-state producers or disadvantage to
+
+out-out-state producers, is present here.                   See Cherry Hill, 505
+
+F.3d at 36.       Plaintiffs contend that Massachusetts farmers will
+
+obtain competitive advantage from the Massachusetts Act, as they
+
+will    "gain[]     a     larger      market       share      [in    Massachusetts]
+
+uninterrupted by any cost, delay, or burden associated with the
+
+Act."        Plaintiffs'       contention      that     the    Act   substantially
+
+disadvantages out of state farmers, however, is not supported by
+
+
+                                      - 27 -
+specific citations to record material.                 The summary judgment
+
+record, in fact, squarely refutes this allegation: Massachusetts
+
+pork    production     decreased   from   2021    to    2022,    the   year   the
+
+Massachusetts Act went into effect.10
+
+              In Cherry Hill, we highlighted the important distinction
+
+between regulatory schemes that "explicitly discriminate against
+
+out-of-state goods or products" and those that do not.                 505 F.3d
+
+at 36.       Because the Maine statute at issue "flatly outlaw[ed] any
+
+and    all    direct   shipping    of   wine"    for   both     "in-state"    and
+
+"out-of-state wineries," we rejected plaintiffs' dormant Commerce
+
+Clause challenge.       Id. at 30; 35-36.11      Like Maine, Massachusetts
+
+has flatly outlawed a particular practice.             Both Massachusetts and
+
+out-of-state producers must abide by the same regulations, and the
+
+Massachusetts Act does not favor local groups over similarly
+
+
+       We note that an amicus brief filed by another major pork
+       10
+
+producer presents data that is consistent with the record in this
+case. See Br. for Perdue Premium Meat Company, Inc. D/B/A Niman
+Ranch as Amicus Curiae Supporting Appellees at 11-14 (explaining
+that Tysons Foods, one of the world's largest meat processing
+companies, conceded that the materially identical California law
+discussed in National Pork did not harm the company's operations
+and Seaboard Foods, which maintains a herd of 7.2 million hogs,
+reported increased sales after the California law took effect).
+        "[Cherry Hill] only addressed the kind of showing required
+       11
+
+when a statute is challenged as discriminatory in effect but is
+concededly non-discriminatory in purpose." Jenkins, 592 F.3d at
+11 n.11 (citing Cherry Hill, 505 F.3d at 36). Here, we need not,
+and do not, comment on "whether a lesser showing might suffice
+when a law is allegedly discriminatory in both effect and purpose,"
+as we have already concluded that the Massachusetts Act is not
+discriminatory in purpose. See id.
+
+
+                                    - 28 -
+situated out-of-Commonwealth farmers or producers.                  Cf. Walgreen
+
+Co., 405 F.3d at 55-60 (invalidating, on dormant Commerce Clause
+
+grounds, a Commonwealth of Puerto Rico statute requiring all
+
+pharmacies seeking to open or relocate within Puerto Rico to obtain
+
+a   "certificate       of    necessity   and   convenience,"    but    exempting
+
+existing pharmacies          from such certificate requirement).12              In
+
+short, the Massachusetts Act does not establish different "playing
+
+fields"    for    in   and    out-of-state     interests.     See   id.   at   58.
+
+Massachusetts "market share previously enjoyed by one group of
+
+profit-seeking, out-of-state businesses (farmers who stringently
+
+confine    pigs    and      processors   who   decline   to   segregate    their
+
+products) [may] be replaced by another (those who raise and trace
+
+[the Massachusetts Act]-compliant pork)."                See Nat'l Pork, 598
+
+U.S. at 385.      The dormant Commerce Clause does not protect against
+
+this reality.      See id. (citing Exxon, 437 U.S. at 127).
+
+            We thus discern no error in the district court's decision
+
+on this issue.
+
+
+
+
+      12In fact, Massachusetts asserts that the Massachusetts Act
+is, taken as a whole, more burdensome on Massachusetts farmers
+than out-of-state farmers.     Massachusetts farmers can neither
+confine pigs in gestation crates nor sell those pigs. Mass. Gen.
+Laws Ann., ch. 129, App. §§ 1-2, 1-3. Out-of-state farmers can
+still confine pigs in gestation crates, they just cannot sell those
+specific, non-compliant pork products within Massachusetts.
+
+
+                                     - 29 -
+          ii. Pike
+
+          The Supreme Court has recognized that, even where a state
+
+law is not facially discriminatory, its "practical effects may
+
+also disclose the presence of a discriminatory purpose."       Nat'l
+
+Pork, 598 U.S. at 377.       The Court articulated the "practical
+
+effects" test in Pike v. Bruce Church, Inc., holding that "[w]here
+
+the statute regulates even-handedly to effectuate a legitimate
+
+local public interest, and its effects on interstate commerce are
+
+only incidental, it will be upheld unless the burden imposed on
+
+such commerce is clearly excessive in relation to the putative
+
+local benefits."     See 397 U.S. at 142.   Such a statute "engenders
+
+a lower level of scrutiny."     All. of Auto. Mfrs., 430 F.3d at 35
+
+(citing Pharm. Rsch. & Mfrs. of Am. v. Concannon, 249 F.3d 66, 80
+
+(1st Cir. 2001), aff'd sub nom. Pharm. Rsch. & Mfrs. of Am. v.
+
+Walsh, 538 U.S. 644, (2003)).
+
+          Plaintiffs contend that the district court improperly
+
+entered summary judgment on their Pike claim.        To succeed on a
+
+Pike theory, Plaintiffs "must demonstrate that a challenged law
+
+imposes a 'substantial' or 'significant' burden on interstate
+
+commerce before Pike balancing can occur."       Flynt v. Bonta, 131
+
+F.4th 918, 925 (9th Cir. 2025).      "Plaintiffs here face a heavy
+
+burden: 'the Supreme Court has not invalidated a law under Pike in
+
+
+
+
+                                - 30 -
+more than 30 years.'"        Id. at 931 (quoting Truesdell, 80 F.4th at
+
+773) (citation modified).
+
+          The district court relied on National Pork in ruling on
+
+the Pike issue, noting:
+
+          The Supreme Court ruled that "harm to some
+          producers' favored methods of operation" did
+          not rise to a "substantial harm to interstate
+          commerce," and that "increased production
+          expenses" cannot be compared by a court to
+          "noneconomic" state benefits.    Further, the
+          Court explained, "judges often are 'not
+          institutionally suited to draw reliable
+          conclusions of the kind that would be
+          necessary . . . to satisfy [the] Pike' test as
+          petitioners conceive it."
+
+Triumph Foods, LLC, 715 F. Supp. 3d at 151 (first quoting Nat'l
+
+Pork, 598 U.S. at 385-87; then quoting id. at 380-81; and then
+
+quoting id. at 380).
+
+          Plaintiffs argue that the district court incorrectly
+
+relied on a portion of the National Pork opinion that was joined
+
+by "only three justices."            Because that portion was not the
+
+majority's opinion, the argument goes, the district court erred in
+
+"refus[ing]    to   engage    in    any   Pike   analysis."     In   response,
+
+Massachusetts avers that "[a] majority of the [National Pork] Court
+
+affirmed the Rule 12(b)(6) dismissal of a                  Pike challenge to
+
+California's    materially         identical     law.      Appellants'   Pike
+
+challenge, based on indistinguishable allegations and evidence,
+
+was therefore correctly rejected."             We agree.
+
+
+
+
+                                     - 31 -
+               The record makes clear that the district court engaged
+
+with Plaintiffs' Pike claims both at oral argument and in its
+
+February 5, 2024 Order.               Triumph Foods, LLC, 715 F. Supp. 3d at
+
+151.        While the district court did not apply the Pike balancing
+
+test, it did determine that the California state statute at issue
+
+in National Pork was "nearly identical" to the Massachusetts Act
+
+at issue here.            Id. (citing Nat'l Pork, 598 U.S. at 367).              Having
+
+reached that conclusion, the district court was under no obligation
+
+to apply the Pike test.13             Because we hold that the Massachusetts
+
+Act    is      not       discriminatory,     the     National       Pork   holding    is
+
+dispositive.
+
+               In    National      Pork,   five     justices    concluded      that   the
+
+petitioners' Pike claim failed, but they were unable to agree on
+
+a single rationale for that holding.                 598 U.S. at 390-91.        Justice
+
+Gorsuch,       in    a    plurality    opinion      joined     by   Justices    Thomas,
+
+Sotomayor,       and      Kagan,   reasoned    that,    because      the   petitioners
+
+
+
+       "The Justices in [National Pork] . . . agreed that whether
+       13
+
+a law imposes a substantial burden on interstate commerce is a
+threshold inquiry, although given the fractured nature of the
+Court's decision on the Pike question, there is no portion of any
+opinion on this point that commanded a majority." Flynt, 131 F.4th
+at 925 (first citing Nat'l Pork, 598 U.S. at 383 (plurality); then
+citing id. at 393 (Sotomayor, J., concurring) ("Alleging a
+substantial burden on interstate commerce is a threshold
+requirement that plaintiffs must satisfy before courts need even
+engage in Pike's balancing and tailoring analyses."); then citing
+id. at 394 (Barrett, J., concurring) (similar); and then citing
+id. at 395 (Roberts, C.J., concurring in part and dissenting in
+part) (similar)).
+
+
+                                           - 32 -
+failed to "plead facts 'plausibly' suggesting a substantial harm
+
+to interstate commerce," the Pike claim could not proceed.                    Id. at
+
+385.   In a separate plurality, Justice Gorsuch, joined by Justices
+
+Thomas and Barrett, concluded that this claim failed because the
+
+alleged    "costs"    and   "benefits"       of    the   California     law      were
+
+incommensurable, as economic burdens could not be weighed against
+
+noneconomic benefits.       Id. at 380-82.
+
+            Plaintiffs claim, however, that five justices would have
+
+upheld the Pike claim in National Pork: the four justices in
+
+dissent,    Chief    Justice    Roberts,      along      with    Justices     Alito,
+
+Kavanaugh,   and     Jackson,   as    well    as    Justice      Barrett    in   her
+
+concurrence.    Plaintiffs cite United States v. Johnson, 467 F.3d
+
+56 (1st Cir. 2006), to suggest that we should combine their
+
+separate opinions to uphold a Pike claim here.                  But putting aside
+
+any lurking issues regarding the application of the framework set
+
+forth in Marks v. United States, 430 U.S. 188 (1977), see Johnson,
+
+467 F.3d at 62-64, Plaintiffs are simply incorrect that there were
+
+five votes to uphold a Pike claim in National Pork.                  See 467 F.3d
+
+56, 62-64 (1st Cir. 2006).           Justice Barrett did agree with the
+
+dissenters that the complaint in National Pork plausibly alleged,
+
+as a matter of fact, a substantial burden on interstate commerce.
+
+598 U.S. at 393-94 (Barrett, J., concurring).                   Nevertheless, she
+
+concurred in the judgment that the petitioners there failed to
+
+state a Pike claim as a matter of law because the benefits and
+
+
+                                     - 33 -
+burdens of the state law were incommensurable.         Id.   The benefits
+
+and burdens Plaintiffs point to here are indistinguishable from
+
+those alleged in National Pork, so Justice Barrett's concurrence
+
+cannot be combined with the dissenting opinion to save the day for
+
+Plaintiffs.
+
+          The   Court   in   National   Pork    ultimately   declined   the
+
+"petitioners' incautious invitation[]" to "prevent a State from
+
+regulating the sale of an ordinary consumer good within its own
+
+borders on nondiscriminatory terms."           Id. at 390-91.   We follow
+
+the rationale in National Pork to resolve the matter before us.
+
+Because the Massachusetts Act is not discriminatory, we find that
+
+Plaintiffs' claim also "falls well outside Pike's heartland."           See
+
+id. at 380.   For these reasons, we agree with the district court's
+
+decision to enter summary judgment against the Plaintiffs on the
+
+Pike claim.
+
+          C. Preemption
+
+          Plaintiffs alleged that both the FMIA and the PSA preempt
+
+the Massachusetts Act's enforcement.           At summary judgment, the
+
+district court held that the Massachusetts Act was not preempted.
+
+Triumph Foods, LLC, 742 F. Supp. 3d at 66.         We review the district
+
+court's entry of summary judgment de novo to determine whether
+
+Massachusetts is entitled to judgment as a matter of law.               See
+
+
+
+
+                                 - 34 -
+McCoy, 59 F.4th at 504 (citing Cruz v. Mattis, 861 F.3d 22, 24
+
+(1st Cir. 2017)).
+
+           "[C]ongressional    enactments   may   preempt   conflicting
+
+state laws."   Nat'l Pork, 598 U.S. at 368 (citing U.S. Const. art.
+
+VI, cl. 2).      "Federal preemption of a state law     . . . 'may be
+
+either express or implied.'"    Nw. Selecta, Inc. v. González-Beiró,
+
+145 F.4th 9, 15 (1st Cir. 2025) (quoting Bower v. Egyptair Airlines
+
+Co., 731 F.3d 85, 92 (1st Cir. 2013)).       "When a federal statute
+
+has an express preemption clause, 'we do not invoke any presumption
+
+against [preemption].'"       Id. (alteration in original) (quoting
+
+Puerto Rico v. Franklin Cal. Tax-Free Tr., 579 U.S. 115, 125
+
+(2016)).   Rather, we focus on the plain wording of the clause.
+
+See id. (quoting Chamber of Com. of U.S. v. Whiting, 563 U.S. 582,
+
+594 (2011)).     We also look to the "preemption clause's statutory
+
+context and the statute's overall purpose."       Id.
+
+           "Conflict preemption," on the other hand, "may occur
+
+'where the challenged state law stands as an obstacle to the
+
+accomplishment and execution of the full purposes and objectives
+
+of Congress.'"    Pub. Int. Legal Found., Inc. v. Bellows, 92 F.4th
+
+36, 52 (1st Cir. 2024) (quoting Arizona v. United States, 567 U.S.
+
+387, 399 (2012)).     "What is a sufficient obstacle is a matter of
+
+judgment, to be informed by examining the federal statute as a
+
+whole and identifying its purpose and intended effects."            Me.
+
+Forest Prods. Council v. Cormier, 51 F.4th 1, 6 (1st Cir. 2022)
+
+
+                                 - 35 -
+(quoting Crosby v. Nat'l Foreign Trade Council, 530 U.S. 363, 373
+
+(2000)).
+
+            i. The FMIA
+
+            As we have previously explained, the district court
+
+ruled     that        one     portion    of    the     Massachusetts           Act -- the
+
+"slaughterhouse             exception" -- violated           the     dormant     Commerce
+
+Clause.    Accordingly, it severed that provision.                       Plaintiffs argue
+
+that, given that severance, the Massachusetts Act is expressly
+
+preempted and preempted by conflict under the FMIA.                              Hearing
+
+Plaintiffs' arguments post-severance, the district court held that
+
+"Congress ha[d] not preempted the state law in question" and
+
+granted summary judgment to Massachusetts.                         Triumph Foods, LLC,
+
+742 F. Supp. 3d at 66.
+
+            The FMIA is a federal statute which "regulates the
+
+inspection,       handling,       and   slaughter       of    livestock        for    human
+
+consumption."          Nat'l Meat Ass'n v. Harris, 565 U.S. 452, 455
+
+(citing 21 U.S.C. § 601 et seq.).                    "The FMIA regulates a broad
+
+range of activities at slaughterhouses to ensure both the safety
+
+of meat and the humane handling of animals."                       Id.   Meat processing
+
+facilities are inspected under the FMIA and the United States
+
+Department       of    Agriculture      Food   Safety    and        Inspection       Service
+
+
+
+
+                                         - 36 -
+examines the product, facilities, and records of the processing
+
+facilities.     The FMIA's express preemption clause provides:
+
+            Requirements within the scope of [the FMIA]
+            with respect to premises, facilities and
+            operations     of    any     [FMIA-inspected]
+            establishment . . . which are in addition to,
+            or different than those made under [the FMIA]
+            may not be imposed by any State . . . .
+
+21 U.S.C. § 678.
+
+            The district court concluded that the Massachusetts Act
+
+is not preempted because it does not regulate how a slaughterhouse
+
+operates or prohibit a slaughterhouse from processing meat that
+
+does not comply with the Massachusetts Act.            Triumph Foods, LLC,
+
+742 F. Supp. 3d at 70.       In so holding, the district court provided
+
+an overview of National Meat Ass'n v. Harris, 565 U.S. 455, a 2012
+
+case in which the Court reviewed whether               the FMIA expressly
+
+preempted   a   California    provision     (the   "California   Act")   that
+
+regulated slaughterhouses within the state.              565 U.S. at 452.
+
+There, the California Act contained, in relevant part, a provision
+
+that banned the "process, butcher, or [sale of] meat or products
+
+of nonambulatory animals for human consumption."            See id. at 459
+
+(quoting Cal. Penal Code § 599f(b)).               The Court held that the
+
+California Act was expressly preempted by the FMIA because the
+
+California Act "substitute[d] a new regulatory regime" for the one
+
+the FMIA prescribed.      Id. at 460.        The Court further held that
+
+although "the FMIA's preemption clause does not usually foreclose
+
+
+
+                                   - 37 -
+'state    regulation      of    the    commercial     sales     activities    of
+
+slaughterhouses,' the California Act's sales ban was "a criminal
+
+proscription calculated to help implement and enforce each of the
+
+section's other regulations," and was thus preempted by the FMIA.
+
+Id. at 463-64.
+
+            Plaintiffs rely on the National Meat holding for much of
+
+their    preemption    argument.         Because    the    Massachusetts     Act
+
+"directly regulates FMIA regulated facilities," the argument goes,
+
+the Massachusetts Act is prohibited by the Supremacy Clause and
+
+the    FMIA's   express    preemption     clause.         In   advancing    these
+
+arguments, Plaintiffs suggest that the Massachusetts Act functions
+
+in the same way as the California Act struck down in National Meat.
+
+By    contrast,   Massachusetts       argues   that    Plaintiffs'    "express
+
+preemption argument fails because they identify no 'requirements'
+
+'within the scope' of the FMIA that the [Massachusetts] Act imposes
+
+on    slaughterhouses."           Plaintiffs    also      contend    that    the
+
+Massachusetts Act "adds a class of adulteration unrecognized in
+
+federal law by predetermining what meat may be sold."
+
+            Again, the California Act examined by National Meat
+
+specifically provided:         "No slaughterhouse shall process, butcher,
+
+or sell meat or products of nonambulatory animals for human
+
+consumption."     Nat'l Meat Ass'n, 565 U.S. at 459 (quoting Cal.
+
+Penal Code Ann. §599f (West 2010)).            This language was in direct
+
+contention with the FMIA's proscriptions, which include that a
+
+
+                                      - 38 -
+"slaughterhouse may hold (without euthanizing) any nonambulatory
+
+pig that has not been condemned [a]nd the slaughterhouse may
+
+process      or    butcher      such       an     animal's        meat     for     human
+
+consumption . . . ."         Id. at 460 (internal citation omitted).
+
+             The   California     Act      at     issue    in     National    Meat       is
+
+fundamentally different than the Massachusetts Act.                        See Triumph
+
+Foods, LLC, 742 F. Supp. 3d at 70.                "[T]he Act here only bans the
+
+sale   of    noncompliant     pork     meat;     it    does   not    regulate      how   a
+
+slaughterhouse operates."            Id.        Plaintiffs do not identify any
+
+operational requirement in the Massachusetts Act, nor could they.
+
+And    the   FMIA's   express    preemption           provision     applies      only    to
+
+"[r]equirements within the scope of [the FMIA]."                         See 21 U.S.C.
+
+§ 678.
+
+             Indeed, the Supreme Court in National Meat expressly
+
+disavowed that its holding means what Plaintiffs now say it means.
+
+See 565 U.S. at 462-463.         The Court stated that the record before
+
+it did not "disclose whether [the California Act's] ban on purchase
+
+ever applies beyond the slaughterhouse gate."                     Id.     "And because
+
+that [was] so, [the Court had] no basis for deciding whether the
+
+FMIA would preempt it."         Id.     By contrast, the Massachusetts Act
+
+explicitly applies "beyond the slaughterhouse gate."                      See id.; see
+
+also Mass. Gen. Laws Ann., ch. 129, App. § 1-4(c) ("[A] covered
+
+animal shall not be deemed to be 'confined in a cruel manner'
+
+during: . . . Slaughter         in      accordance         with     any     applicable
+
+
+                                       - 39 -
+laws . . . .").    In short, unlike National Meat California Act,
+
+the Massachusetts Act regulates pork production, rather than pork
+
+inspection.   The FMIA regulates only the latter and "Congress has
+
+yet to adopt any statute that might displace . . . laws regulating
+
+pork production . . . ."   See Nat'l Pork, 598 U.S. at 368.
+
+          We also conclude that the Massachusetts Act does not
+
+create a "class of adulteration unrecognized in [the FMIA]."   See
+
+Va. Uranium, Inc. v. Warren, 587 U.S. 761, 790-91 (2019) (Ginsburg,
+
+J., concurring)(citing Nat'l Meat Ass'n, 565 U.S. at 465, 467)("The
+
+distinction drawn in National Meat . . . supports this conclusion:
+
+A state law regulating an upstream activity within the State's
+
+authority is not preempted simply because a downstream activity
+
+falls within a federally occupied field."); see also Br. for Perdue
+
+Premium Meat Company, Inc. D/B/A Niman Ranch as Amicus Curiae
+
+Supporting Appellees at 9 ("Producers have used segregation and
+
+tracing mechanisms for years to provide consumers with premium
+
+pork products that follow organic, non-GMO, specific breeds, and
+
+other unique specifications.").
+
+          As for Plaintiffs' conflict preemption claim, we find
+
+that the Massachusetts Act is not preempted by conflict with the
+
+FMIA.   The Massachusetts Act does not "render it impossible to
+
+comply with the [FMIA], nor serve as an obstacle to its purposes
+
+and objectives."    See Iowa Pork Producers Ass'n v. Bonta, No.
+
+
+
+
+                              - 40 -
+22-55336, 2024 WL 3158532, at *5 (9th Cir. June 25, 2024), cert.
+
+denied, No. 24-728, 2025 WL 1787818 (June 30, 2025).
+
+          Accordingly, we hold that the Massachusetts Act is not
+
+preempted by the FMIA.
+
+          ii. The PSA
+
+          Plaintiffs also alleged that the Massachusetts Act is
+
+preempted by the Packers and Stockyard Act ("PSA")                   based on
+
+principles of conflict preemption.            The PSA "makes it unlawful
+
+'for any packer or swine contractor' to '[m]ake or give any undue
+
+or unreasonable preference or advantage to any particular person
+
+or locality in any respect, or subject any particular person or
+
+locality to any undue or unreasonable prejudice or disadvantage in
+
+any respect.'"    Id.14
+
+          Plaintiffs        argue   that    the   PSA    prevents    "'unfair,
+
+discriminatory,       or     deceptive     practices'     in   the     packing
+
+industry .   . . ."        Re-emphasizing    their   earlier   arguments    on
+
+discrimination, Plaintiffs state they must now "source compliant
+
+pigs to gain access to the Massachusetts marketplace and thus must
+
+pay a premium to farmers who meet the demand."                  Because the
+
+Massachusetts     Act      does   not    discriminate,    it   follows   that
+
+
+
+     14We need not address other claims dismissed by the district
+court -- including injunctive and declaratory relief -- to which
+Plaintiffs perfunctorily aver. See United States v. Zannino, 895
+F.2d 1, 17 (1st Cir. 1990). As those claims are underdeveloped on
+appeal, they are waived. See id.
+
+
+                                    - 41 -
+Plaintiffs' PSA preemption claim, based wholly on discrimination
+
+grounds, fails.   The Massachusetts Act "does not require packers
+
+or wholesalers to favor or disfavor any pork producers based on
+
+their location.   It instead prohibits packers and wholesalers from
+
+selling non-compliant pork meat in [Massachusetts], regardless of
+
+where such meat originates."     Id.    The Massachusetts Act does not
+
+"render it impossible to comply with the [PSA], nor serve as an
+
+obstacle to its purposes and objectives."        See id.
+
+           Accordingly, we hold that neither the FMIA nor the PSA
+
+preempts the Massachusetts Act.
+
+           D. Full Faith and Credit Clause
+
+           Plaintiffs   allege   that   the   Massachusetts   Act   is   in
+
+"direct conflict" with the "Right to Farm" laws that exist in
+
+several states where the Plaintiffs operate, such as in Missouri,
+
+Wyoming, and Indiana.     See Mo. Const. art. I, § 35; Wyo. Stat.
+
+Ann. § 11-44-104 (2025); 345 Ind. Admin. Code 14-2-3, 14-2-4
+
+(2025). For this reason, Plaintiffs contend that the Massachusetts
+
+Act violates the Full Faith and Credit Clause.
+
+           The Full Faith and Credit Clause of the United States
+
+Constitution provides, in pertinent part, that "Full Faith and
+
+Credit shall be given in each State to the public Acts, Records,
+
+and judicial Proceedings of every other State."        U.S. Const. art.
+
+IV, § 1.   "A statute is a public Act within the meaning of the
+
+Full Faith and Credit Clause."         Franchise Tax Bd. v. Hyatt, 578
+
+
+                                 - 42 -
+U.S. 171, 176 (2016) (internal citations and quotations omitted).
+
+A State, however, is not required to "substitute for its own
+
+statute, applicable to persons and events within it, the statute
+
+of another State reflecting a conflicting and opposed policy."
+
+Id. (quoting Carroll v. Lanza, 349 U.S. 408, 412 (1955)).           The
+
+Supreme Court has noted that a State's decision to decline to apply
+
+another State's statute cannot be preceded by that State's adoption
+
+of a "policy of hostility to the public Acts of [the] other State."
+
+Id. (citation modified).
+
+          The Massachusetts Act does not ban farming practices in
+
+the states Plaintiffs have cited as having Right to Farm laws.
+
+Rather, the Massachusetts Act bans the sale of products resulting
+
+from certain practices in Massachusetts.       Mass. Gen. Laws Ann.,
+
+ch. 129, App. § 1-3.   Because these out-of-state farmers are free
+
+to continue with their current farming practices, it is our view
+
+that the Massachusetts Act     does not constitute     a "policy of
+
+hostility" to their "Right to Farm" laws.      See Hyatt, 578 U.S. at
+
+176.
+
+          We thus find that the Massachusetts Act does not violate
+
+the Full Faith and Credit Clause.
+
+          E. Due Process Clause
+
+          Plaintiffs   argue   that     the   Massachusetts   Act   is
+
+"unconstitutionally vague" in violation of the Due Process Clause
+
+because (i) "it fails to define what it means to 'engage in the
+
+
+                               - 43 -
+sale' of the prohibited pork product" and (ii) it fails "to specify
+
+the square footage requirements for a breeding pig to 'turn around
+
+freely.'"       They posit that it is unclear whether "engaging" in a
+
+sale refers only to those who "sell" or includes all those who
+
+participate in the supply chain.                 Plaintiffs also allege that,
+
+because sows are not "one size fits all," their ability to "turn
+
+around freely" varies.         As such, Plaintiffs are unable to discern
+
+whether the shipment of their pork products into Massachusetts
+
+will be compliant with the Massachusetts Act.
+
+            A    statute     can   be    unconstitutionally           vague     in   two
+
+circumstances.      "First, if it fails to provide people of ordinary
+
+intelligence a reasonable opportunity to understand what conduct
+
+it   prohibits.       Second,      if   it   authorizes       or    even     encourages
+
+arbitrary and discriminatory enforcement."                Hill v. Colorado, 530
+
+U.S. 703, 732 (2000) (citing Chicago v. Morales, 527 U.S. 41, 56-57
+
+(1999)).        Specifically,      "'enactments        with    civil    rather       than
+
+criminal penalties' are held to a less exacting vagueness standard
+
+'because the consequences of imprecision are qualitatively less
+
+severe.'" McCoy, 59 F.4th at 509 (quoting Vill. of Hoffman Estates
+
+v. Flipside, Hoffman Ests., Inc., 455 U.S. 489, 495 (1982)).
+
+            The Massachusetts Act defines a "sale" as "a commercial
+
+sale   by   a     business    that      sells    any    item       covered    [by     the
+
+Massachusetts Act]," subject to certain exceptions.                        Mass. Gen.
+
+Laws Ann., ch. 129, App. § 1-5 (emphasis added).                    Moreover, a sale
+
+
+                                        - 44 -
+"shall be deemed to occur at the location where the buyer takes
+
+physical possession of an item covered by [the Act]."             Id.   In our
+
+view,   a   person   of   "ordinary   intelligence"     will     most   likely
+
+understand    from    this   definition    that   the   Massachusetts       Act
+
+specifically prohibits sellers from "engaging in the sale" of the
+
+products prohibited by the Act.       See id.     We find it unlikely for
+
+this provision to be interpreted as being applicable to all those
+
+who participate in the supply chain, as Plaintiffs argue in their
+
+Brief. We thus disagree with Plaintiffs' argument that this phrase
+
+renders the Massachusetts Act unconstitutionally vague.
+
+            We also disagree with Plaintiffs' contention that the
+
+requirement that sows must be able to "turn around freely" is
+
+unconstitutionally vague.        As contended by Massachusetts, the
+
+Massachusetts   Act    clearly   defines   "turning     around    freely"    as
+
+"turning in a complete circle without any impediment, including a
+
+tether, and without touching the side of an enclosure or another
+
+animal."    Mass. Gen. Laws Ann., ch. 129, App. § 1-2.           We find that
+
+this definition clearly states the standard that pig farms must
+
+follow to comply with this requirement. The lack of square footage
+
+requirements in this provision, therefore, does not render it
+
+unconstitutionally vague.
+
+            Accordingly, we find that the Massachusetts Act is not
+
+unconstitutionally vague.
+
+
+
+
+                                  - 45 -
+            F. Import-Export Clause
+
+            Plaintiffs       argue    that     "the    [Massachusetts]        Act
+
+essentially imposes a duty or tax on out-of-state goods through
+
+its   imposition    of   a   particular      method   of   raising   pigs,"   in
+
+violation   of   the     Import-Export    Clause      of   the   United   States
+
+Constitution. See U.S. Const. art I, § 10, cl. 2. In its response,
+
+Massachusetts explains that the application of the Import-Export
+
+Clause is limited to products imported from foreign countries, not
+
+other states.
+
+            We agree with Massachusetts.           The Import-Export Clause
+
+prohibits States from "lay[ing] any Imposts or Duties on Imports
+
+or Exports" without the consent of Congress.               U.S. Const. art I,
+
+§ 10, cl. 2.       "[T]he Import-Export Clause was long ago held to
+
+refer only to international trade." Tenn. Wine and Spirits Retail.
+
+Ass'n v. Thomas, 588 U.S. 504, 516 (2019) (citing Woodruff v.
+
+Parham, 75 U.S. 123, 136-137 (1869)).           In a textual and historical
+
+analysis of the Constitution, the Court in Woodruff explained that
+
+"the words imports and imposts were used with exclusive reference
+
+to articles imported from foreign countries."                75 U.S. at 133.
+
+The Supreme Court therefore concluded that "no intention existed
+
+to prohibit, by [the Export-Import Clause], the right of one State
+
+to tax articles brought into it from another."                    Id. at 136.
+
+Plaintiffs ask us to apply the Import-Export Clause to prevent
+
+Massachusetts from "essentially impos[ing] a duty or tax" on goods
+
+
+                                     - 46 -
+imported by other States.    Because the Import-Export Clause does
+
+not bar states from imposing taxes or duties on imports from other
+
+States, we conclude that the Massachusetts Act does not violate
+
+the Import-Export Clause.   Id. at 133.
+
+                            V. Conclusion
+
+          For the foregoing reasons, we affirm.
+
+
+
+
+                               - 47 -

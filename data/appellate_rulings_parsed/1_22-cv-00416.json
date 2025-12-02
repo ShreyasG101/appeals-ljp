@@ -1,0 +1,60 @@
+{
+  "overall_outcome": "MIXED",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the Bar Harbor ordinance capping cruise ship passenger disembarkations is preempted by the Maine State Pilotage Act under state law.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found no express or implied legislative intent in the Pilotage Act to preempt municipal authority over local land-based concerns, and pilots remain free to conduct their profession under the ordinance."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the ordinance is preempted by federal law, including federal immigration, maritime, and anchorage regulations.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The ordinance does not regulate entry into the United States or conflict with federal vessel operation or anchorage regulations, and no specific federal law or field preempts the local measure."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the ordinance is preempted by federal regulations guaranteeing seafarer shore access.",
+      "standard_of_review": "de novo",
+      "holding": "DISMISS",
+      "key_reasoning": "The issue is moot because Bar Harbor amended its ordinance to exempt seafarers, eliminating any live controversy over preemption by federal seafarer access regulations."
+    },
+    {
+      "issue_id": 4,
+      "description": "Whether the ordinance violates the Due Process Clause by irrationally singling out cruise ship passengers.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The ordinance is rationally related to the legitimate local interest of reducing congestion, and the plaintiffs failed to show it was motivated by impermissible animus or lacked a rational basis."
+    },
+    {
+      "issue_id": 5,
+      "description": "Whether the ordinance violates the Dormant Commerce Clause by discriminating against interstate commerce or imposing an undue burden under Pike v. Bruce Church.",
+      "standard_of_review": "de novo",
+      "holding": "REMAND",
+      "key_reasoning": "The court affirmed rejection of discrimination-based claims but vacated and remanded the Pike balancing claim, finding the district court did not adequately weigh the ordinance's substantial burdens on interstate commerce against its potentially marginal local benefits or consider less burdensome alternatives."
+    }
+  ],
+  "key_precedents": [
+    "National Pork Producers Council v. Ross, 598 U.S. 356 (2023)",
+    "Pike v. Bruce Church, Inc., 397 U.S. 137 (1970)",
+    "Exxon Corp. v. Governor of Maryland, 437 U.S. 117 (1978)",
+    "Hughes v. Oklahoma, 441 U.S. 322 (1979)",
+    "Dean Milk Co. v. City of Madison, 340 U.S. 349 (1951)",
+    "United Haulers Ass'n, Inc. v. Oneida-Herkimer Solid Waste Mgmt. Auth., 550 U.S. 330 (2007)",
+    "Oregon Waste Systems, Inc. v. Department of Environmental Quality, 511 U.S. 93 (1994)",
+    "Great Atl. & Pac. Tea Co., Inc. v. Cottrell, 424 U.S. 366 (1976)",
+    "Raymond Motor Transportation, Inc. v. Rice, 434 U.S. 429 (1978)",
+    "Southern Pacific Co. v. Arizona, 325 U.S. 761 (1945)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "After a three-day bench trial, the United States District Court for the District of Maine denied the request to enjoin the Ordinance and found in favor of the defendants on all but one of the claims. We largely affirm that ruling in this appeal, although we vacate and remand the portion that rejects the claims alleging that the Ordinance violates the negative aspect of the U.S. Constitution's Commerce Clause, which is often referred to as the Dormant Commerce Clause. We also dismiss as moot the appeal and the cross-appeal, insofar as each takes aim at the District Court's ruling on the one claim -- based on an allegation of federal regulatory preemption -- for which declaratory but not injunctive relief was granted."
+}

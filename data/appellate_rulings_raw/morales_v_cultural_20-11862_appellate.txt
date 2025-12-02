@@ -1,0 +1,1997 @@
+United States Court of Appeals
+                        For the First Circuit
+
+
+No. 24-1248
+
+ KAREN MORALES-POSADA, individually and on behalf of all others
+ similarly situated, AMANDA SARMENTO, individually and on behalf
+      of all others similarly situated, FERREIRA GUIMARAES,
+  individually and on behalf of all others similarly situated,
+    WILLIANA ROCHA, individually and on behalf of all others
+ similarly situated, SARA BARRIENTOS, individually and on behalf
+                of all others similarly situated
+
+                        Plaintiffs, Appellees,
+
+                                  v.
+
+                         CULTURAL CARE, INC.,
+
+                        Defendant, Appellant.
+
+
+          APPEAL FROM THE UNITED STATES DISTRICT COURT
+               FOR THE DISTRICT OF MASSACHUSETTS
+
+              [Hon. Indira Talwani, U.S. District Judge]
+
+
+                                Before
+
+                         Barron, Chief Judge,
+                  Howard and Gelpí, Circuit Judges.
+
+
+     Alex H. Loomis, with whom William B. Adams, Harvey J. Wolkoff,
+Aliki Sofis, Alexander S. del Nido, and Quinn Emanuel Urquhart &
+Sullivan, LLP, were on brief, for appellant.
+     David H. Seligman, with whom Towards Justice, Peter Rukin,
+Rukin, Hyland & Riggin LLP, Matthew C. Helland, and Nichols Kaster,
+LLP, were on brief, for appellees.
+June 18, 2025
+           BARRON, Chief Judge.    May a party who is not a signatory
+
+to a contract invoke its arbitration provisions to compel the
+
+arbitration of claims brought by a party who is?    We conclude that
+
+the answer in this case is no.      We thus affirm the denial of the
+
+motion to compel arbitration that is at issue in this appeal.
+
+                                   I.
+
+           The parties have already been before us once on appeal.
+
+See Morales Posada v. Cultural Care, Inc., 66 F.4th 348 (1st Cir.
+
+2023).   We therefore recite the travel of the case only briefly.
+
+           Cultural Care, Inc. is a Massachusetts company that
+
+places foreign nationals as au pairs with host families throughout
+
+the United States.    It is a designated "sponsor" of the U.S.
+
+Department of State's au pair exchange program.      See ASSE Int'l,
+
+Inc. v. Kerry, 803 F.3d 1059, 1064 (9th Cir. 2015); 22 C.F.R.
+
+§ 62.31.
+
+           The four named plaintiffs are foreign nationals who
+
+participated in the au pair program as au pairs.      They filed the
+
+operative complaint -- which is the Second Amended Complaint -- in
+
+February 2021.   They did so in the United States District Court
+
+for the District of Massachusetts on behalf of themselves and
+
+others in their asserted class, all of whom are also foreign
+
+nationals who participated in the au pair program as au pairs.
+
+           The complaint alleges that Cultural Care violated the
+
+plaintiffs' rights under the Fair Labor Standards Act (FLSA) and
+
+                                  - 3 -
+various state wage and hour laws by failing to pay them legal wages
+
+for their work as au pairs.          It also alleges violations of state
+
+deceptive trade practices laws.
+
+            Cultural Care moved to dismiss the complaint.                    The
+
+grounds included that Cultural Care was entitled to derivative
+
+sovereign    immunity    under   Yearsley     v.   W.A.    Ross    Construction
+
+Company,    309   U.S.   18   (1940),   due   to   its    status   as   a   State
+
+Department-designated sponsor of the au pair exchange program.
+
+The District Court denied in part the motion to dismiss, including
+
+the asserted Yearsley defense.
+
+            Cultural Care filed an interlocutory appeal.                It cited
+
+the collateral order doctrine as the basis for our exercising
+
+appellate jurisdiction to review the denial of its motion to
+
+dismiss with respect to the Yearsley issue.               Morales Posada, 66
+
+F.4th at 350.       It also urged us to exercise pendent appellate
+
+jurisdiction over the other grounds it had set forth for dismissing
+
+the plaintiffs' claims.        Id.
+
+            After hearing oral argument and soliciting the views of
+
+the State Department as amicus curiae, we affirmed the District
+
+Court's denial in part of Cultural Care's motion to dismiss.                  Id.
+
+at 364.     We reasoned that Cultural Care had not established that
+
+it was entitled to protection under Yearsley at that stage of the
+
+litigation.       Id. at 363.    We also declined to exercise pendent
+
+
+
+                                     - 4 -
+appellate jurisdiction over the remainder of the appeal.                         Id. at
+
+364.
+
+             After     mandate    issued   and    the    case    returned      to   the
+
+District Court, Cultural Care filed its answer to the plaintiffs'
+
+operative complaint on July 7, 2023.                  It asserted as one of its
+
+defenses that the plaintiffs' "claims and purported class action
+
+are barred by their arbitration agreements." Thereafter, on August
+
+18, 2023, Cultural Care filed a motion to compel arbitration of
+
+the plaintiffs' claims pursuant to the Federal Arbitration Act
+
+(FAA), 9 U.S.C. § 1 et seq., and the Convention on the Recognition
+
+and    Enforcement       of      Foreign   Arbitral           Awards     ("New      York
+
+Convention"), art. II, June 10, 1958, 21 U.S.T. 2517, 330 U.N.T.S.
+
+3;    see   also   9   U.S.C     §§ 201-208      (implementing         the   New    York
+
+Convention).
+
+             The     parties     stipulated      to     and     conducted     limited
+
+discovery. The plaintiffs opposed Cultural Care's motion to compel
+
+arbitration on various grounds. On February 28, 2024, the District
+
+Court denied the motion.
+
+             Cultural Care premised the motion first on a contract
+
+that it asserted all au pairs had signed with it beginning in
+
+January 2023 ("2023 Contract") and which contained an agreement to
+
+arbitrate any disputes.          The District Court denied Cultural Care's
+
+motion without prejudice insofar as it rested on this contract.
+
+
+
+                                      - 5 -
+            The District Court explained that Cultural Care had
+
+produced no evidence that the contract bound any of the named
+
+plaintiffs, all of whom began their employment well prior to 2023.
+
+It also noted that Cultural Care had not identified any opt-in
+
+plaintiff who had signed the 2023 Contract.        Cultural Care has not
+
+appealed this decision.
+
+            Cultural Care independently premised its motion on a
+
+separate contract that all au pairs selected for sponsorship
+
+between January 2018 and December 2022 -- including the named
+
+plaintiffs1   --    had   assertedly   signed   with   a   company   called
+
+International Care Ltd. (ICL).         ICL is a Swiss company that is
+
+"separate     and    distinct"    from    Cultural     Care    and     that
+
+"provided . . . recruiting, screening, and other pre-departure
+
+services" in connection with the au pair program.2          We will refer
+
+
+     1 In the District Court proceedings, the plaintiffs disputed
+whether Cultural Care had met its burden to show that the named
+plaintiffs each signed the ICL contract.       The District Court
+"assume[d]," for the purposes of resolving Cultural Care's motion,
+that Cultural Care had met this burden, because the plaintiffs had
+"not offered any contrary evidence or evidence that th[e] [signed
+contracts Cultural Care produced were] not authentic." We need
+not address this issue because we affirm on the grounds relied on
+by the District Court.
+     2 Because ICL also uses "Cultural Care" as its registered
+business name, the ICL Contract refers collectively to ICL and its
+"successors and assignees" as "CC." No party contends, however,
+that any of the references to "CC" or to "Cultural Care" in the
+ICL Contract are to Cultural Care, Inc., the Massachusetts company
+that is a party to this case, rather than to ICL, the distinct
+Swiss company that is a signatory to the contract. For clarity,
+we refer to ICL only by its legal name, ICL.
+
+                                  - 6 -
+to this contract, which figures prominently in this appeal, as the
+
+ICL Contract.
+
+           The ICL Contract sets forth various terms and conditions
+
+of the au pairs' participation in the au pair program.                  It also
+
+includes a provision setting forth an agreement to arbitrate
+
+disputes that Cultural Care argues it is entitled to enforce in
+
+this case. That provision states:
+
+           In the event of any claim, dispute, or
+           proceeding arising out of the relationship of
+           me and [ICL], or any claim which in contract,
+           tort, or otherwise at law or in equity arises
+           between the parties, whether or not related to
+           this Agreement, the parties submit and consent
+           to the exclusive jurisdiction and venue of the
+           arbitrational tribunals of Switzerland.
+
+           The District Court determined that Cultural Care could
+
+not compel arbitration in reliance on this agreement.              It did so
+
+on two separate grounds.
+
+           First, the District Court concluded that Cultural Care
+
+had   waived     any   right   to   compel   arbitration   because      it   had
+
+"'substantially invoked' the litigation machinery in this case"
+
+(quoting FPE Found. v. Cohen, 801 F.3d 25, 29 (1st Cir. 2015)).
+
+The   District    Court   emphasized    that   Cultural    Care   had    "fully
+
+litigated" a motion to dismiss that reached the merits of the
+
+plaintiffs' claims and that it had even obtained interlocutory
+
+review of that motion, "appeal[ing] to the First Circuit to address
+
+not only the immunity question but also [its] 12(b)(6) arguments,"
+
+
+                                     - 7 -
+all the while making no mention of arbitration. The District Court
+
+also pointed to Cultural Care's opposition to conditional class
+
+certification and to its motion to strike the consents to sue as
+
+further evidence of its "'substantial[] invo[cation]' [of] the
+
+litigation machinery in this case" (quoting Cohen, 801 F.3d at
+
+29).
+
+            Second,    the   District    Court   concluded   that,    even   if
+
+Cultural Care had not waived its right to compel arbitration, it
+
+still could not enforce the ICL Contract's arbitration agreement.
+
+It rejected Cultural Care's contention that the ICL Contract
+
+contained     an      agreement    delegating       questions       concerning
+
+arbitrability to the arbitrator to decide.           It then held that, as
+
+a nonsignatory to the ICL Contract, Cultural Care could not enforce
+
+the arbitration agreement in that contract under either of the
+
+theories    that   Cultural    Care     advanced,   which    were    premised,
+
+respectively, on its claimed third-party-beneficiary status and
+
+the doctrine of equitable estoppel.
+
+            The District Court concluded that Cultural Care could
+
+not enforce the arbitration agreement as a third-party beneficiary
+
+because the contract did not demonstrate with "special clarity"
+
+that the contracting parties intended for Cultural Care to benefit
+
+from the arbitration agreement.         See Hogan v. SPAR Grp., Inc., 914
+
+F.3d 34, 39 (1st Cir. 2019) (quoting McCarthy v. Azure, 22 F.3d
+
+351, 362 (1st Cir. 1994)).        It separately concluded that Cultural
+
+                                      - 8 -
+Care could not enforce the arbitration agreement based on the
+
+doctrine   of   equitable     estoppel   because,   contrary   to   Cultural
+
+Care's assertions, none of the plaintiffs' claims depended on
+
+anything contained in the ICL Contract.
+
+           Cultural Care timely appealed.
+
+                                     II.
+
+           We review de novo a district court's order resolving a
+
+party's motion to compel arbitration.           Barbosa v. Midland Credit
+
+Mgmt., Inc., 981 F.3d 82, 86 (1st Cir. 2020).         Predicate questions
+
+of fact are subject to clear error review.           Menorah Ins. Co. v.
+
+INX Reinsurance Corp., 72 F.3d 218, 220 (1st Cir. 1995).
+
+           The parties dispute what law applies to the questions at
+
+issue in this appeal.        Cultural Care contends that it is the "law
+
+of the contract -- here, Swiss law -- [that] determines whether
+
+[the] claims are arbitrable" (citation omitted).            The plaintiffs
+
+argue that "Cultural Care must establish that it has the authority
+
+to compel arbitration as a nonsignatory under both federal common
+
+law and Swiss law."
+
+           We   need   not    resolve    this   question.   Cultural   Care
+
+contends that "there is . . . no relevant difference between Swiss
+
+law and federal common law," and we conclude that Cultural Care
+
+cannot prevail under the latter.            See OneBeacon Ins. Co. v.
+
+Georgia-Pac. Corp., 474 F.3d 6, 9 (1st Cir. 2007) ("bypass[ing]"
+
+choice-of-law questions as there was no "significant difference in
+
+                                    - 9 -
+the laws of the relevant states"); see also Sourcing Unlimited,
+
+Inc. v. Asimco Int'l, Inc., 526 F.3d 38, 46 (1st Cir. 2008) ("In
+
+the absence of any contention from the parties to the contrary, we
+
+apply federal common law to resolve the issue[] [of nonsignatory
+
+enforcement of an arbitration clause]."); InterGen N.V. v. Grina,
+
+344 F.3d 134, 143 (1st Cir. 2003) (applying federal common law
+
+under the New York Convention).        Nor, as we will explain, do any
+
+of Cultural Care's arguments on appeal pertaining to Swiss law
+
+require a different result.
+
+                                    III.
+
+          Cultural Care challenges the District Court's denial of
+
+its motion to compel arbitration on various grounds.3           Many of them
+
+pertain   to   the     ICL   Contract.        Before        advancing   these
+
+ICL-contract-related arguments, however, Cultural Care devotes
+
+several   paragraphs    of   its   opening   brief     to    addressing   the
+
+application of the New York Convention to this case.           We thus start
+
+with Cultural Care's discussion of that treaty.
+
+          Article II of the New York Convention addresses the
+
+recognition    and     enforcement    of     international       arbitration
+
+
+     3 Because we conclude, for the reasons discussed below, that
+Cultural Care has not shown that it is entitled to enforce the
+arbitration agreement as a nonsignatory, we need not reach the
+District Court's alternative conclusion that Cultural Care waived
+any arbitration rights it might have had through its litigation
+conduct. For the same reason, we need not address the plaintiffs'
+contention that the ICL Contract is unenforceable as a matter of
+public policy.
+
+                                   - 10 -
+agreements.     As we have previously explained, the "command to
+
+courts [contained in Article II] to enforce [such] arbitration
+
+agreements is self-executing."           Green Enters., LLC v. Hiscox
+
+Syndicates Ltd., 68 F.4th 662, 672 (1st Cir. 2023).            Congress has
+
+also partially implemented Article II through its enactment of
+
+Chapter 2 of the FAA.       See GE Energy Power Conversion France SAS,
+
+Corp. v. Outokumpu Stainless USA, LLC, 590 U.S. 432, 438-39 (2020).
+
+            Cultural Care argues that the arbitration agreement that
+
+it seeks to enforce is covered by Article II.           It further contends
+
+that, under what it terms the "very limited" inquiry that the
+
+Convention permits, the District Court had "no . . . discretion"
+
+to deny its motion.
+
+            The Supreme Court of the United States in GE Energy
+
+explained     that   the    New   York   Convention    does   not     prohibit
+
+contracting     states     from   applying    "more   generous"      doctrines
+
+regarding nonsignatory enforcement under domestic law -- there,
+
+the FAA.    Id. at 440.      But, notably, GE Energy did not appear to
+
+definitively    resolve     how   Article    II   itself   applies    in   such
+
+circumstances, given that, by its terms, the Convention is "silent
+
+on the issue of nonsignatory enforcement."            Id. at 439-440, 445.
+
+            We see no need to determine whether and to what extent
+
+the Convention governs in this case.         The plaintiffs do not appear
+
+to dispute Cultural Care's premise that the New York Convention
+
+applies.    In addition, Cultural Care at no point contends that any
+
+                                    - 11 -
+of its arguments on appeal turn on the application of law specific
+
+to the New York Convention -- as opposed to the FAA. Thus, Cultural
+
+Care does not contend that its position would prevail in a New
+
+York Convention case even if it would fail under more general
+
+principles of federal arbitration law.
+
+           Accordingly, we assume (favorably to Cultural Care) that
+
+the New York Convention does apply.       We therefore move on to
+
+address Cultural Care's arguments as to why, given the arbitration
+
+provisions in the ICL Contract, the District Court was obligated
+
+to grant its motion to compel arbitration of the plaintiffs'
+
+claims.
+
+                                IV.
+
+           Cultural Care contends that the District Court erred in
+
+denying its motion to compel arbitration in part because the
+
+District Court wrongly ruled under applicable federal and Swiss
+
+law that it was not entitled to invoke the arbitration agreement
+
+in the ICL Contract as a third-party beneficiary.         But Cultural
+
+Care also advances an antecedent argument.     It contends that the
+
+District   Court   wrongly   rejected    its   argument     that   the
+
+determination of whether Cultural Care can compel arbitration of
+
+the plaintiffs' claims must itself be decided by an arbitrator
+
+because the ICL Contract contains an agreement to delegate to the
+
+arbitral tribunal disputes over arbitrability.   We begin with this
+
+contention.
+
+                              - 12 -
+                                          A.
+
+              As a threshold matter, the parties dispute whether the
+
+language      that    Cultural    Care    points      to    in   the    ICL    Contract
+
+constitutes an agreement to delegate disputes over arbitrability
+
+to an arbitrator.           But we need not resolve that dispute.                     The
+
+plaintiffs correctly point out that even if that language does
+
+constitute a delegation provision, Cultural Care "would still need
+
+to establish its right to enforce the delegation provision as a
+
+nonsignatory" to the ICL Contract.               And, as we will next explain,
+
+we agree with the plaintiffs that Cultural Care has not done so.
+
+              "A delegation clause is merely a specialized type of
+
+arbitration agreement."            New Prime, Inc. v. Oliveira, 586 U.S.
+
+105,    112   (2019).       Through      it,   parties      "agree     to     allow   the
+
+arbitrator      to    decide     both    whether      a    particular       dispute   is
+
+arbitrable as well as the merits of the dispute." Apollo Computer,
+
+Inc. v. Berg, 886 F.2d 469, 473 (1st Cir. 1989).                     When a contract
+
+contains a "clear and unmistakable" delegation by the parties of
+
+the    question      of   arbitrability,       "the   courts     must    respect      the
+
+parties' decision as embodied in the contract," and leave to the
+
+arbitrator to decide whether "the arbitration agreement applies to
+
+[the] particular dispute" between them.                    Bossé v. New York Life
+
+Ins., 992 F.3d 20, 27-28 (1st Cir. 2021) (quoting Henry Schein,
+
+Inc. v. Archer & White Sales, Inc., 586 U.S. 63, 65, 68 (2019));
+
+see also Awuah v. Coverall N. Am., Inc., 554 F.3d 7, 11 (1st Cir.
+
+                                        - 13 -
+2009) ("[T]he validity of an arbitration clause is itself a matter
+
+for the arbitrator where the agreement so provides.").
+
+            Cultural Care appears to be contending that we must
+
+enforce the claimed delegation agreement in the ICL Contract as we
+
+would enforce a delegation agreement in an ordinary case involving
+
+both of the parties to the contract containing that agreement.
+
+But the ICL Contract embodies no decision reached between the only
+
+parties to this suit -- Cultural Care and the plaintiffs.          Thus,
+
+Cultural Care's request that we enforce the delegation agreement
+
+in the ICL Contract is not a request that we "respect the parties'
+
+decision as embodied in the contract."       Bossé, 992 F.3d at 27
+
+(emphasis added) (quoting Henry Schein, 586 U.S. at 65).
+
+            Indeed, as a general rule, contractual agreements bind
+
+only the parties to the agreement and may be enforced only by those
+
+parties.    McCarthy, 22 F.3d at 362; see also Grand Wireless, Inc.
+
+v. Verizon Wireless, Inc., 748 F.3d 1, 9 (1st Cir. 2014) ("[A]s a
+
+general proposition, a contract cannot bind a non-party.").         This
+
+rule holds absent a showing that "traditional principles" of
+
+contract law permit nonsignatory enforcement in a given case.        See
+
+Arthur Andersen LLP v. Carlisle, 556 U.S. 624, 631 (2009) (listing
+
+as   such   "traditional   principles"   "assumption,   piercing    the
+
+corporate veil, alter ego, incorporation by reference, third-party
+
+beneficiary theories, waiver and estoppel" (quoting 21 Williston
+
+on Contracts § 57:19 (4th ed. 2001))).        So, in light of "the
+
+                                - 14 -
+general rule that a contract does not grant enforceable rights to
+
+nonsignatories," McCarthy, 22 F.3d at 362, Cultural Care may invoke
+
+the asserted delegation clause -- which it devotes many pages to
+
+showing the ICL Contract contains -- only if it can explain how
+
+this general rule is overcome in this case.         Yet, Cultural Care
+
+offers no such explanation.
+
+          To be sure, Cultural Care does invoke our decision in
+
+Apollo Computer, Inc. v. Berg, 886 F.2d 469.         But that precedent
+
+does not aid its cause.
+
+          We concluded there that the defendants -- who were not
+
+signatories to the contract, but who were assigned a signatory's
+
+contractual   rights   --    could    compel   arbitration   under   the
+
+contract's delegation clause.        Id. at 473.   We reasoned that the
+
+arbitration agreement delegated to the arbitrator "decisions about
+
+the arbitrability of disputes" so long as a "prima facie agreement
+
+to arbitrate" existed.      Id.   Following the parties' lead, we drew
+
+that "prima facie" standard from the arbitral rules incorporated
+
+into that contract.       Id.     And we further concluded that the
+
+defendants had made such a prima facie showing because they had
+
+been assigned a signatory's rights under the contract, including
+
+the right to compel arbitration.           Id.; see also id. at 470
+
+(explaining that a bankruptcy trustee had "assigned Dico's right
+
+to bring claims for damages against Apollo to the defendants").
+
+
+
+                                  - 15 -
+          We did not hold in Berg, however, that a party to a
+
+lawsuit may force its opponent to arbitrate threshold issues
+
+regarding the arbitrability of their dispute so long as that
+
+party's opponent is a signatory to some arbitration agreement
+
+containing a delegation provision.    We did acknowledge in Berg
+
+that there was some dispute as to whether the "right [to compel
+
+arbitration] was validly assigned to the defendants."     Id. at 473.
+
+But we then went on to conclude that, given the prima facie
+
+evidence that an assignment had in fact occurred, the question of
+
+whether the agreement to arbitrate remained valid in light of the
+
+assignment was one for the arbitrator to decide. Id. Accordingly,
+
+we rejected the plaintiff's argument that we should decline to
+
+compel arbitration because no "agreement to arbitrate exist[ed]
+
+between it and the defendants."   Id. (emphasis added).
+
+          In addition, we did not reject this argument because the
+
+existence of an agreement between the parties to the suit was
+
+irrelevant to the   question of   delegation.   We    rejected this
+
+argument because we agreed with the defendants that they had made
+
+a prima facie showing that the contract containing the arbitration
+
+agreement had been assigned to them and thus that they had been
+
+assigned the right to enforce that agreement.   Id.
+
+          Cultural Care's references to Awuah v. Coverall North
+
+America, Inc., 554 F.3d 7, and Bossé v. New York Life Insurance,
+
+992 F.3d 20, also are of no help to it.      Both Awuah and Bossé
+
+                             - 16 -
+involved contracts executed between the parties to the suit. Thus,
+
+neither one addresses the issue of nonsignatory enforcement of a
+
+delegation clause.
+
+            Cultural Care does argue, as we will soon see, that it
+
+is entitled to enforce         the arbitration agreement         in the ICL
+
+Contract as a third-party beneficiary.          But Cultural Care does not
+
+advance any contention that it enjoys that status with respect to
+
+the claimed delegation agreement itself.              It also develops no
+
+argument that the kind of prima facie showing that Berg deemed
+
+sufficient to permit the nonsignatory in that case to enforce the
+
+delegation provision at issue would be sufficient here.             Nor has
+
+it developed any argument that it has made such a showing by virtue
+
+of   the   arguments    that   it   advances   regarding   the   arbitration
+
+agreement itself.       And Cultural Care fails to do so even though
+
+the language in the ICL Contract that it contends constitutes the
+
+delegation agreement hardly of its own force suggests that Cultural
+
+Care may enforce that agreement (even assuming, that is, that the
+
+ICL Contract includes an agreement to delegate at all).
+
+            As a result, Cultural Care has not made "the type of
+
+serious effort needed on [the] complex issue" of nonsignatory
+
+enforcement    of   a   delegation    agreement.      Rivera-Corraliza    v.
+
+Morales, 794 F.3d 208, 224 (1st Cir. 2015).            And "we will not do
+
+[Cultural Care's] work for [it]."            Id.; see also Salmon v. Lang,
+
+57 F.4th 296, 325 (1st. Cir. 2022) ("We have frequently emphasized
+
+                                    - 17 -
+that judges are not obligated to do a party's work for him,
+
+'searching sua sponte for issues that may be lurking in the
+
+penumbra of the motion papers' . . . . [particularly where] 'the
+
+underdeveloped argument raises complexities that defy an easy
+
+answer.'" (quoting Coons v. Indus. Knife Co., Inc., 620 F.3d 38,
+
+44 (1st. Cir. 2010))).     We therefore see no basis for concluding
+
+that the District Court erred in declining to send the issue of
+
+arbitrability to the arbitrator to decide.
+
+                                      B.
+
+            Cultural Care separately contends that, to the extent
+
+that the question of arbitrability is for the court to decide, the
+
+District Court erred under both federal and Swiss law in ruling
+
+that Cultural Care may not enforce the arbitration agreement that
+
+the ICL Contract contains.      It thus contends that we must reverse
+
+the District Court's denial of its motion to compel arbitration
+
+for this reason alone.
+
+            In general, Cultural Care agrees, a party seeking to
+
+compel    arbitration   must   show   (1) "that    a   valid    agreement    to
+
+arbitrate    exists";   (2) "that     [it   is]   entitled     to   invoke   the
+
+arbitration clause"; (3) "that the other party is bound by that
+
+clause"; and (4) "that the claim asserted comes within the clause's
+
+scope."     InterGen, 344 F.3d at 142.       We have cautioned, however,
+
+that, because "[a]rbitration is strictly 'a matter of consent,'"
+
+Granite Rock Co. v. Int'l Bhd. of Teamsters, 561 U.S. 287, 299
+
+                                  - 18 -
+(2010) (quoting Volt Info. Scis., Inc. v. Bd. of Trs. of Leland
+
+Stanford Junior Univ., 489 U.S. 468, 479 (1989)), courts should be
+
+careful "about forcing arbitration in 'situations in which the
+
+identity of the parties who have agreed to arbitrate is unclear,'"
+
+InterGen, 344 F.3d at 143 (quoting McCarthy, 22 F.3d at 355).
+
+          We do not understand Cultural Care to take issue with
+
+this proposition.       That said, we agree with Cultural Care that
+
+nonsignatories    may    invoke   arbitration    agreements      in   certain
+
+circumstances.    See GE Energy, 590 U.S. at 437.             In particular,
+
+traditional principles of contract law permit a contract "to be
+
+enforced by or against nonparties to the contract through . . .
+
+'third-party beneficiary theories,'" Grand Wireless, 748 F.3d at
+
+12 (quoting Arthur Andersen, 556 U.S. at 631), and we agree that
+
+this general rule applies equally to an agreement to arbitrate.
+
+          So, we must address Cultural Care's contention that it
+
+may enforce the arbitration agreement in the ICL Contract as a
+
+third-party beneficiary.      We are not persuaded.
+
+                                    1.
+
+          To make the case for           its authority to enforce the
+
+arbitration    agreement,   Cultural     Care   relies   in    part   on   six
+
+provisions in the ICL Contract, which it says demonstrate its
+
+third-party beneficiary status.
+
+          Cultural Care acknowledges that these provisions refer
+
+only to ICL.   But it argues that ICL "does not benefit" from them.
+
+                                  - 19 -
+Cultural Care then goes on to explain that it, as "the actual State
+
+Department designee" that "oversees the au pairs[] . . . in the
+
+United States," is "the only possible intended beneficiary" of
+
+those provisions.
+
+            Cultural Care rounds out its case for being a third-party
+
+beneficiary by pointing to a seventh provision in the ICL Contract.
+
+We will refer to that provision, which is set forth in Paragraph
+
+14 of the ICL Contract, as the "Release Clause."
+
+            The Release Clause provides that the au pair "release[s]
+
+and forever discharge[s] [ICL] and its affiliates . . . from any
+
+and all claims or causes of action . . . which arise out of
+
+illness, injury, damage or loss of any kind . . . resulting from
+
+or during participation in the [au pair program]."                  Cultural Care
+
+argues that the Release Clause is "expressly intended for [its]
+
+benefit" because it releases from liability ICL's "affiliates" and
+
+because it is an "affiliate[]" to which that clause refers. It
+
+thus argues that it is a third-party beneficiary "based on this
+
+provision alone."
+
+            Cultural   Care    then     goes      on   to   argue   that,    as   a
+
+"third-party beneficiary of a contract containing an arbitration
+
+clause," InterGen, 344 F.3d at 146, it is entitled to invoke the
+
+arbitration      agreement   contained       in    that     contract.       Indeed,
+
+according   to    Cultural    Care,    the     District     Court   committed     "a
+
+category error" when it "ruled that Cultural Care could not move
+
+                                      - 20 -
+to compel arbitration because it was not a third-party beneficiary
+
+of 'the arbitration provision' itself," rather than of the contract
+
+as a whole.     As support, Cultural Care points to the District
+
+Court's statement that the arbitration agreement "does not even
+
+make an ambiguous reference that could be construed to include
+
+Cultural Care [] as a third-party beneficiary."                  Cultural Care
+
+contends that this focus on the text of the arbitration agreement
+
+was in error.
+
+           Cultural   Care     acknowledges      that      the   text   of   the
+
+arbitration agreement is relevant to the separate issue of "whether
+
+the   arbitration     provision's        scope     specifically         excludes
+
+Plaintiffs' claims against Cultural Care."                 But, according to
+
+Cultural   Care,   consideration    of   the     text   of   the    arbitration
+
+agreement is not germane to the third-party-beneficiary question
+
+because other contractual provisions already establish its status
+
+as a third-party beneficiary of the contract.
+
+           Thus, Cultural Care contends, the District Court was
+
+wrong to treat the question of its authority to enforce the
+
+arbitration   agreement   as   turning      on   whether     "the   arbitration
+
+provision itself was intended to benefit Cultural Care."                  As we
+
+will next explain, however, Cultural Care's argument on this score
+
+does not hold up under our precedents.
+
+
+
+
+                                   - 21 -
+                                              2.
+
+            "The        'critical       fact'      that   determines      whether     a
+
+nonsignatory       is     a     third-party        beneficiary    is     whether    the
+
+underlying agreement 'manifest[s] an intent to confer specific
+
+legal rights upon [the nonsignatory].'"                   Ouadani v. TF Final Mile
+
+LLC, 876 F.3d 31, 39 (1st Cir. 2017) (alterations in original)
+
+(quoting InterGen, 344 F.3d at 147).                      The showing of a "mere
+
+benefit to [a] nonsignatory resulting from a signatory's exercise
+
+of   its   contractual         rights    is    not   enough."      Id.      Moreover,
+
+"[b]ecause third-party beneficiary status constitutes an exception
+
+to the general rule that a contract does not grant enforceable
+
+rights to nonsignatories," a party "aspiring to such status" must
+
+demonstrate with "special clarity" that the signatories intended
+
+to confer upon it such a benefit.                  McCarthy, 22 F.3d at 362; see
+
+also Hogan, 914 F.3d at 38 (explaining that a party seeking to
+
+enforce an agreement to which it is not a signatory "faces a steep
+
+climb").
+
+            Cultural          Care   concedes      that   this   "special    clarity"
+
+requirement applies, McCarthy, 22 F.3d at 362, notwithstanding its
+
+contentions about Swiss law and its application here.                        Cultural
+
+Care also concedes that some of the contractual provisions that it
+
+identifies as showing its third-party-beneficiary status refer not
+
+to it, but to ICL.
+
+
+
+                                         - 22 -
+           Cultural Care nonetheless appears to assert that it can
+
+satisfy the "special clarity" test with respect to those six
+
+provisions because ICL "does not benefit" from them at all, making
+
+Cultural Care    "the only possible intended beneficiary."4                     In
+
+support of this contention, Cultural Care argues that ICL "merely
+
+performs   the   'identification,      screening,        and    preparation     of
+
+prospective au pairs' before their U.S. arrival."               It thus appears
+
+to contend that, for this reason, ICL does not benefit from
+
+contractual   provisions     that    relate   to    the    au    pair's   actual
+
+participation in the program.
+
+           Setting   aside    the    fact    that   at    least     one   of   the
+
+contractual provisions Cultural Care invokes does appear to refer
+
+to pre-departure screening, the bare assertion about ICL's role in
+
+the au pair program is insufficient to show that ICL derives no
+
+benefit from many of the contract's provisions.                At a minimum, ICL
+
+would appear to benefit from "identif[ying]" prospective au pairs
+
+willing and able to abide by the specified terms and conditions.
+
+Given the ICL Contract's repeated references to ICL and its express
+
+statement that "[ICL] and the undersigned au pair . . . for good
+
+and valuable consideration . . . agree to the following terms and
+
+
+     4  We see no additional significance in Cultural Care's
+contention that "[this], no doubt, is why the contract refers to
+ICL as 'Cultural Care,' and not ICL." As the contract makes clear,
+"Cultural Care" is simply the registered business name of
+International Care, Ltd., the Swiss company that Cultural Care
+does not dispute is an independent and distinct corporate entity.
+
+                                    - 23 -
+conditions," we simply cannot say, without more, that ICL derives
+
+no benefit from the identified provisions.
+
+          We note, too, that even if Cultural Care does predictably
+
+"benefit from [the signatories'] performance of the contract,"
+
+that fact alone does not establish its status as a third-party
+
+beneficiary.   McCarthy, 22 F.3d at 362 n.16; see also InterGen,
+
+344 F.3d at 147 ("[A] benefitting third party is not necessarily
+
+a third-party beneficiary.").    For this reason as well, Cultural
+
+Care fails to persuade us that these six provisions demonstrate
+
+its third-party-beneficiary status.
+
+                                  3.
+
+          There is a further problem with Cultural Care's argument
+
+that it is entitled to enforce the arbitration agreement in the
+
+ICL Contract as a third-party beneficiary.   Even if Cultural Care
+
+could show that it is a third-party beneficiary of any or all of
+
+the six provisions addressed above, we still could not conclude,
+
+based on the arguments Cultural Care advances, that it is entitled
+
+to enforce the signatories' arbitration agreement.     And that is
+
+also true with respect to the one other contractual provision that
+
+Cultural Care invokes that arguably does refer to Cultural Care
+
+through its use of the word "affiliates": the Release Clause.5
+
+
+     5 Because of these defects in Cultural Care's argument, we
+need not resolve whether the reference to "affiliates" in the
+Release Clause includes Cultural Care or whether Cultural Care is,
+
+
+                                - 24 -
+             For starters, we note that, at times, Cultural Care
+
+appears to argue that so long as it is a third-party beneficiary
+
+of   any    provision   in   the   ICL   Contract,   it   is    necessarily   a
+
+third-party beneficiary of every provision in the ICL Contract and
+
+so, for that reason, the agreement to arbitrate itself.                We know
+
+of   no    authority,   however,   that    indicates     that   a   third-party
+
+beneficiary     of   one     contractual     provision    is    necessarily   a
+
+third-party beneficiary of (and thus entitled to enforce) any
+
+provision contained in the same contract.            Nor does Cultural Care
+
+identify any such authority.         Thus, we are not persuaded by this
+
+argument -- if it is the one that Cultural Care means to make -- for
+
+overturning the District Court's ruling.
+
+             We do acknowledge that Cultural Care may also mean to be
+
+making the distinct argument that, by virtue of the provisions
+
+that it identifies and its claimed relationship to them, it is a
+
+third-party beneficiary of the ICL Contract as a whole.                It then
+
+appears to contend         that, in consequence, it may enforce the
+
+arbitration agreement contained in that contract.               But, if this is
+
+the argument that Cultural Care means to be making, for the reasons
+
+we will next explain, we also are unpersuaded.
+
+
+
+
+by virtue of that reference, a third-party beneficiary of that
+agreement.
+
+                                    - 25 -
+                                      a.
+
+            As an initial matter, Cultural Care fails to cite to any
+
+case, as a matter of U.S. law, that supports the proposition that
+
+its claimed third-party relationship to the identified provisions
+
+of the ICL Contract makes it a third-party beneficiary "of [the]
+
+contract" as a whole.        With respect to its contention that it is
+
+"a    'third-party   beneficiary'    based        on   th[e]    [Release         Clause]
+
+alone,"    for   example,    Cultural      Care    cites   only        to    a    single
+
+out-of-circuit case.       See Allen v. The Katz Agency, Inc., 677 F.2d
+
+193 (2d Cir. 1982).       But that case says nothing about a third-party
+
+beneficiary of a release clause being a third-party beneficiary of
+
+a contract as a whole (nor, for that matter, does that case say
+
+anything about arbitration).        See id. at 197 (concluding that the
+
+plaintiff     was    not     retroactively         entitled       to        additional
+
+compensation under his former employer's updated Employee Stock
+
+Ownership Plan because "[t]he Plan, though not specifically named,
+
+was    effectively    a     third-party     beneficiary         of     the       release
+
+[contained] in [the] termination agreement" that the plaintiff
+
+executed with his employer).
+
+            Cultural Care's claim to be a third-party beneficiary
+
+"of the contract" is no more developed with respect to the six
+
+other contract provisions that it identifies.                  The only case that
+
+Cultural Care cites in that portion of its brief is Grand Wireless,
+
+Inc. v. Verizon Wireless, Inc., 748 F.3d 1.                But our decision in
+
+                                    - 26 -
+Grand Wireless, which dealt with an agency relationship and not a
+
+third-party     beneficiary      relationship,    id.     at    9-11,    is   wholly
+
+inapposite.
+
+              There, we were simply applying a "uniformly" adopted
+
+"federal rule" that "an agent is entitled to the protection of her
+
+principal's arbitration clause when the claims against her are
+
+based on her conduct as an agent."          Id. at 11.        Because that agency
+
+theory   is    not    applicable   here,    we   cannot    say    based   on   that
+
+precedent      that   Cultural     Care's   arguments      are    sufficient     to
+
+persuade us that it is a third-party beneficiary "of the [ICL]
+
+[C]ontract" as a whole.
+
+                                       b.
+
+              Cultural    Care's    argument     faces    a     second    problem.
+
+Contrary to its contentions, our precedent makes clear that the
+
+relevant      question   in   determining      whether    a    nonsignatory     can
+
+enforce an arbitration agreement under a third-party-beneficiary
+
+theory is whether the signatories intended to "confer [on that
+
+third party] arbitration rights," not just any right under the
+
+contract.      Hogan, 914 F.3d at 40 (emphasis added); see also id.
+
+(concluding that the defendant "was not an intended third-party
+
+beneficiary of the signatories' agreement to arbitrate"); Mowbray
+
+v. Moseley, Hallgarten, Estabrook & Weeden, Inc., 795 F.2d 1111,
+
+1117 (1st Cir. 1986) (rejecting nonsignatories' bid to compel
+
+arbitration based on the conclusion that the nonsignatories were
+
+                                     - 27 -
+"not    intended    beneficiaries      of    the     [contract's]       arbitration
+
+clause").      Accordingly,      we   have     explained       that    "even    if   [a
+
+nonsignatory] c[an] show an intent of the [contracting] parties to
+
+confer upon it some benefit unrelated to arbitration, the language
+
+of the arbitration clause would still be dispositive" as to their
+
+authority to enforce that provision.                Hogan, 914 F.3d at 40.
+
+            Of course, other contractual provisions may bear on, or
+
+provide     evidence    of,    the    parties'       intent     with    respect      to
+
+arbitration.     But, even still, the relevant question for the court
+
+remains   whether      the   nonsignatory      is    an   "intended     third-party
+
+beneficiary of the signatories' agreement to arbitrate."                       Id.
+
+            Cultural Care does not cite any authorities that purport
+
+to displace this rule.         Indeed, if anything, the only authorities
+
+that Cultural Care does cite in support of its position appear to
+
+undermine it.
+
+            For example, Cultural Care cites to the Restatement
+
+(Third) of the United States Law of International Commercial and
+
+Investor-State Arbitration § 2.3 (A.L.I. 2023).                  But, immediately
+
+following the portion that Cultural Care quotes, the Restatement
+
+expressly provides that "an arbitration agreement may apply to a
+
+third-party beneficiary only in one of two circumstances," id.
+
+§ 2.3   cmt. f     (emphasis    added),     neither       of   which   approximates
+
+Cultural Care's position.
+
+
+
+                                      - 28 -
+            The first circumstance, consistent with Hogan, is when
+
+a court "find[s] that the signatories intended to confer on the
+
+third party a right to invoke the arbitration agreement."                     Id.
+
+(emphasis added); see also id. § 2.3 note f (explaining that "the
+
+essential element is the parties' intention, specifically whether
+
+the   parties    intended       to   grant   rights   under    the   arbitration
+
+agreement   to     a    third   party"   (emphasis    added)).        The   second
+
+circumstance -- not          relevant here      -- is when      a    "third-party
+
+beneficiary of a contract . . . seeks to enforce the contract"
+
+against a signatory or "invokes provisions of it," and, in doing
+
+so, may be bound by an arbitration agreement contained within it.
+
+Id. § 2.3 cmt. f.
+
+            Cultural Care does also cite to our decision in InterGen,
+
+344 F.3d 134, as if that precedent supports its contention that a
+
+nonsignatory may enforce an arbitration agreement so long as it is
+
+a third-party beneficiary "of the contract."                  But we do not see
+
+how InterGen does so.
+
+            The issue in InterGen was whether the defendants could
+
+compel InterGen, a nonsignatory to the contracts containing the
+
+arbitration agreements, to arbitrate under those agreements.                  Id.
+
+at 146.     We explained that a "threshold question" was "whether
+
+InterGen [wa]s a third-party beneficiary of the purchase orders"
+
+at issue.    Id.       We determined -- after looking to the text of the
+
+
+
+                                       - 29 -
+arbitration      agreements    contained     in   those   contracts      --    that
+
+"[t]here [were] no third-party rights afforded to InterGen."                   Id.
+
+           InterGen did not hold, however, that the relevant issue
+
+for a nonsignatory seeking to enforce an arbitration agreement is
+
+something other than whether the signatories intended that it
+
+benefit   from    that   agreement.        And,   to   the   extent   that     our
+
+references to the "purchase orders" in InterGen might have been
+
+ambiguous, our later decision in Hogan was clear that the relevant
+
+question remains whether the parties intended to confer the right
+
+to enforce the arbitration agreement on the third party.
+
+           For    similar     reasons,   Cultural      Care's   appeal    to    our
+
+decision in Ouadani, 876 F.3d 31, is unavailing.                True, we stated
+
+in that case that the nonsignatory had "fail[ed] to identify any
+
+language in the Agreement that c[ould] be read to provide [it]
+
+with 'specific legal rights.'"           Id. at 39 (emphasis added).           But
+
+that observation demonstrates no more than that a contract that
+
+evinces no intent to benefit a third party cannot be enforced by
+
+that party.      Ouadani never addressed, in circumstances in which a
+
+contract does evince some intent "to confer upon [a third party]
+
+some benefit unrelated to arbitration," Hogan, 914 F.3d at 40,
+
+whether that party is necessarily a third-party beneficiary of the
+
+agreement to arbitrate.          Hogan, however, made clear that the
+
+arbitration agreement itself is "dispositive" on this question.
+
+
+
+                                    - 30 -
+Id.   We are therefore unpersuaded that the District Court erred by
+
+looking to the text of the arbitration agreement itself.
+
+                                   4.
+
+            In concluding that the District Court did not err, we
+
+have relied principally on the federal law cases that Cultural
+
+Care cites in its briefing, in light of its contention that "Swiss
+
+law is equivalent to federal common law for purposes of this case."
+
+Throughout its briefing, however, Cultural Care also cites to its
+
+expert's declaration regarding Swiss law as further support for
+
+its position.
+
+            Given Cultural Care's express concession that Swiss law
+
+is materially indistinguishable from federal law, we need not
+
+separately   analyze   its   arguments    as   a   matter   of   Swiss   law.
+
+Nevertheless, we do note that our review of the portions of the
+
+expert's declaration on Swiss law that Cultural Care cites in its
+
+briefing does not persuade us that Cultural Care has shown that
+
+Swiss law, unlike federal law, requires the outcome that Cultural
+
+Care favors.
+
+            Much of the expert's declaration is dedicated to showing
+
+that a third-party beneficiary does not need to be expressly named
+
+in the contract, a consideration that is not inconsistent with our
+
+analysis.    In addition, the specific portions of the expert's
+
+declaration that Cultural Care highlights on appeal as support for
+
+its claim that it, not ICL, is the only possible beneficiary of
+
+                                 - 31 -
+the ICL Contract, do not purport to turn on anything specific to
+
+Swiss law. To the contrary, they merely highlight certain features
+
+of this case that do not suffice to persuade us either that ICL
+
+derives no benefit from the ICL Contract or that Cultural Care is
+
+a third-party beneficiary of the contract in consequence of ICL
+
+deriving no benefit from the provisions in question.
+
+              Additionally, while Cultural Care's expert does opine
+
+that under Swiss law Cultural Care "is considered a third-party
+
+beneficiary with a right to enforce the arbitration clause" based
+
+on the rights afforded to Cultural Care by the Release Clause, the
+
+declaration does not identify any Swiss law precedent supporting
+
+that conclusion.     The only case that the expert does identify that
+
+relates to nonsignatory enforcement based on a contractual release
+
+clause does not concern arbitration and therefore does not address
+
+whether such a nonsignatory would be entitled to enforce the
+
+parties' arbitration agreement.
+
+              Finally, Cultural Care cites to a decision by the Swiss
+
+Federal Supreme Court.     But that case addresses a nonsignatory who
+
+brings a claim under the contract, and therefore does not reach
+
+the circumstances here.     See Bundesgericht [BGer] [Federal Supreme
+
+Court] October 6, 2016, 4A_310/2016, ¶ 3.1.1 (Switz.).
+
+              Thus, insofar as Cultural Care means to suggest that
+
+Swiss   law    supports   its   position   even   if   federal   law   does
+
+not -- notwithstanding its assertion that "Swiss law is equivalent
+
+                                  - 32 -
+to federal common law for purposes of this case" -- it has not
+
+demonstrated that Swiss law does so.           And, as we have explained,
+
+federal law does not itself provide such support.
+
+                                       5.
+
+              Cultural Care does further argue that "[a]ffirming the
+
+district    court's    order   [regarding     Cultural    Care's    failure     to
+
+establish      third-party-beneficiary        status]     would     improperly
+
+discriminate against arbitration."             That is so, it contends,
+
+because arbitration agreements are merely "a specialized kind of
+
+forum-selection clause."         Scherk v. Alberto-Culver Co., 417 U.S.
+
+506, 519 (1974).
+
+              Cultural Care goes on to contend that "'non-signatories
+
+may be bound by a forum-selection clause if they are intended
+
+third-party      beneficiaries    of    the   contract,'     not    the    forum
+
+selection clause itself" (quoting In re McGraw-Hill Glob. Educ.
+
+Holdings LLC, 909 F.3d 48, 59 (3d Cir. 2018)).                   It does not,
+
+however, develop this argument beyond a single citation to In re
+
+McGraw-Hill     Global   Education     Holdings    LLC,   909    F.3d     48,   an
+
+out-of-circuit case.      See United States v. Zannino, 895 F.2d 1, 17
+
+(1st   Cir.    1990)   (explaining     that   an   undeveloped     argument     is
+
+waived).      And, in any event, McGraw Hill does not support this
+
+asserted ground for overturning the District Court's decision.
+
+The court there declined to enforce the forum-selection clause,
+
+and, in doing so, specifically found "compelling" the fact that
+
+                                     - 33 -
+the contract "d[id] not identify any third party in the[] choice
+
+of forum provisions."    McGraw-Hill, 909 F.3d at 62.   We therefore
+
+do not see how treating the text of an arbitration agreement as
+
+relevant to the question of its enforcement by a third party would
+
+improperly discriminate against arbitration.
+
+                                 6.
+
+          Because Cultural Care fails to persuade us that the
+
+District Court was wrong to ask whether the signatories to the ICL
+
+Contract intended to confer on it the right to compel arbitration,
+
+we must affirm the District Court's conclusion, based on its
+
+resolution of that question, that Cultural Care is not entitled to
+
+compel arbitration.     That is so because Cultural Care makes no
+
+argument that, if that were the relevant question, the District
+
+Court would still have been wrong to conclude that the contract
+
+does not demonstrate with the necessary "special clarity" that
+
+Cultural Care is an "intended third-party beneficiary of the
+
+signatories' agreement to arbitrate."    Hogan, 914 F.3d at 39-40.
+
+          In that regard, we note that, in       objecting to the
+
+District Court's analysis of the third-party-beneficiary issue,
+
+Cultural Care raises no objection to the District Court's analysis
+
+of the arbitration provision itself or what the language of that
+
+provision demonstrates regarding the signatories' intent.        The
+
+only argument that Cultural Care does advance concerning the text
+
+
+
+                               - 34 -
+of the arbitration agreement is that the plaintiffs' claims fall
+
+within its scope.
+
+            Even   Cultural    Care       acknowledges,        however,     that   the
+
+question of whether a particular dispute falls within the scope of
+
+an arbitration agreement is distinct from the question of whether
+
+a particular party is entitled to invoke that agreement.                           See
+
+InterGen, 344 F.3d at 143.            And, significantly, the burdens to
+
+make these showings are distinct, as well.
+
+            A nonsignatory "faces a steep climb" to show that it may
+
+enforce an agreement to which it is not a party, Hogan, 914 F.3d
+
+at 38, and must, as we have noted, make that showing with "special
+
+clarity," id. at 39 (quoting McCarthy, 22 F.3d at 362).                             By
+
+contrast,   "ambiguities       as   to    the    scope    of    [an]    arbitration
+
+clause . . . [are] resolved in favor of arbitration."                       Volt, 489
+
+U.S. at 476.
+
+            Thus, by advancing arguments about how to construe the
+
+arbitration        agreement        as      if      the        issue        of     its
+
+third-party-beneficiary status is properly treated as one that
+
+concerns    the    agreement's      scope,       Cultural      Care    assumes     the
+
+existence of a "policy favoring arbitration."                  Hogan, 914 F.3d at
+
+38 (quoting McCarthy, 22 F.3d at 355).              But application of such a
+
+policy "presumes proof of a preexisting agreement to arbitrate
+
+disputes    arising    between      the     protagonists."            Id.    (quoting
+
+McCarthy, 22 F.3d at 355).           In the absence of such an agreement
+
+                                     - 35 -
+between   the    protagonists        here,        however,    Cultural   Care     must
+
+demonstrate with "special clarity" that the signatories to the ICL
+
+contract intended to confer upon it the authority to enforce the
+
+parties' arbitration agreement. Yet Cultural Care does not attempt
+
+to meet this burden while treating the language of the arbitration
+
+agreement as being relevant to the question.
+
+           Moreover, given the different standard applicable to
+
+evaluation      of    the    arbitration      agreement's      scope,    we     cannot
+
+conclude from Cultural Care's arguments that it could make the
+
+showing necessary here.            The District Court explained that the
+
+arbitration agreement "does not even make an ambiguous reference"
+
+to Cultural Care.             It then also emphasized, pointing to our
+
+analysis of a similar arbitration agreement in Hogan, that although
+
+some provisions in the ICL Contract do reference "affiliates" and
+
+"staff in the United States," the arbitration agreement notably
+
+contains no such reference.               Instead, the arbitration agreement
+
+mentions only the "parties" and ICL's successors and assignees,
+
+none of which include Cultural Care.                  See Hogan, 914 F.3d at 40
+
+(emphasizing         the    fact   that     the    contract    "references       SBS's
+
+'customers' in other sections, yet omits that reference in the
+
+arbitration clause" as evidence that the parties did not intend to
+
+confer on the defendant, as a customer of SBS, the right to compel
+
+arbitration).
+
+
+
+                                          - 36 -
+             Indeed,    our       cases    have    consistently      relied    on   the
+
+absence of a reference to an otherwise identified third party in
+
+a   contract's       arbitration          provision     as    evidence      that    the
+
+signatories did not intend to confer arbitration rights on that
+
+third party.       See, e.g., Mowbray, 795 F.2d at 1118 ("[B]ecause the
+
+drafters specifically included the introducing firm in certain
+
+provisions, and because the introducing firm was not included in
+
+the arbitration clause, we believe the reasonable inference to be
+
+that   the    parties       did    not     intend     defendants-appellees,         the
+
+introducing firm, to be a beneficiary of the arbitration clause.");
+
+Cortés-Ramos v. Martin-Morales, 894 F.3d 55, 60 (1st Cir. 2018)
+
+(relying on the reasoning from                 Mowbray       to conclude that the
+
+defendant "was not an intended third-party beneficiary of the
+
+parties' agreement to arbitrate").                   Cultural Care's failure to
+
+provide any explanation as to why -- setting aside, of course, the
+
+arguments already addressed above that we find unpersuasive -- the
+
+contract     nonetheless          evinces     with      "special       clarity"     the
+
+signatories'       intent    to    confer    upon     Cultural      Care   arbitration
+
+rights is thus dispositive. Accordingly, we conclude that Cultural
+
+Care   has   not    made    the     showing       necessary    to   demonstrate     its
+
+entitlement to compel arbitration as a third-party beneficiary of
+
+the arbitration agreement in the ICL Contract.
+
+
+
+
+                                          - 37 -
+                                       V.
+
+            Cultural Care alternatively argues that it is entitled
+
+to   enforce     the   arbitration   agreement    under    the    doctrine   of
+
+equitable estoppel.        See GE Energy, 590 U.S. at 445; see also P.R.
+
+Fast Ferries LLC v. SeaTran Marine, LLC, 102 F.4th 538, 549 (1st
+
+Cir. 2024) (discussing estoppel).           "Generally, in the arbitration
+
+context, 'equitable estoppel allows a nonsignatory to a written
+
+agreement containing an arbitration clause to compel arbitration
+
+where a signatory to the written agreement must rely on the terms
+
+of   that      agreement     in   asserting    its     claims    against     the
+
+nonsignatory.'"        GE Energy, 590 U.S. at 437 (emphasis added)
+
+(quoting 21 R. Lord, Williston on Contracts 200 (4th ed. 2001));
+
+see also Sourcing Unlimited, 526 F.3d at 47 ("Federal courts 'have
+
+been willing to estop a signatory from avoiding arbitration with
+
+a nonsignatory when the issues the nonsignatory is seeking to
+
+resolve in arbitration are intertwined with the agreement that the
+
+estopped party has signed.'" (emphasis omitted) (quoting InterGen,
+
+344 F.3d at 145)).         The purpose of applying equitable estoppel in
+
+such cases is to "preclude[] a party from enjoying the rights and
+
+benefits under a contract while at the same time avoiding its
+
+burdens and obligations."         InterGen, 344 F.3d at 145.
+
+            In    determining      whether    claims      are    "sufficiently
+
+intertwined" with a contract containing an arbitration agreement,
+
+P.R. Fast Ferries LLC, 102 F.4th at 550, courts have generally
+
+                                     - 38 -
+required the claims to be "integrally related to the contract
+
+containing the arbitration clause," id. (quoting Thomson-CSF, S.A.
+
+v. Am. Arb. Ass'n, 64 F.3d 773, 779 (2d Cir. 1995)).               We have found
+
+such a relationship to exist where "resolution of the [signatory's]
+
+claims against the nonsignatory 'require[d] reference to and [was]
+
+in part based on the underlying [contract].'"                 Id. (second and
+
+third alterations in original) (quoting Sourcing Unlimited, 526
+
+F.3d at 47).        By contrast, we have explained that equitable
+
+estoppel is not warranted where "the plaintiff's claims would exist
+
+in the absence of the contract."             Id. at 550 n.10 (citing Hogan,
+
+914 F.3d at 42).
+
+            Cultural     Care     contends    that     equitable   estoppel    is
+
+appropriate    here     because    the   "policies     and   powers"    that   the
+
+plaintiffs     assert     give     Cultural     Care     control    over     their
+
+"conditions of employment" -- and would therefore establish an
+
+employment relationship -- "all stem from [the] ICL [C]ontract."
+
+Cultural Care points to various provisions of the ICL Contract,
+
+including     the   requirement      that     plaintiffs     "submit"      certain
+
+materials to ICL, which ICL then uses to "make a suitable host
+
+family match" for them, and a provision of the contract that
+
+reserves to ICL "the exclusive right to determine [the plaintiffs']
+
+suitability for acceptance and . . . continued participation in
+
+the Program."       Cultural Care further emphasizes that the ICL
+
+Contract spells out the plaintiffs' agreement to "stay[] within
+
+                                     - 39 -
+the legal number of working hours per day and week," to "perform
+
+child care responsibilities," and to "participat[e] in all child
+
+safety and child development training and orientation sessions."
+
+           These    observations        about    the     ICL   Contract    do    not
+
+persuade us. The plaintiffs' claims do not "directly . . . invoke"
+
+the terms of the contract, Sourcing Unlimited, 526 F.3d at 47,
+
+either to challenge those terms or to enforce a right created
+
+therein,   see,    e.g.,   Hogan,      914   F.3d   at   42    (noting    that   the
+
+plaintiff in that case "d[id] not claim any benefit or right from
+
+[the   defendant]    arising    from     the    [contract]").       Nor    are    we
+
+persuaded that the resolution of the plaintiffs' claims against
+
+Cultural Care "depend on," Ouadani, 876 F.3d at 40, or "require[]
+
+reference to," P.R. Fast Ferries LLC, 102 F.4th at 550 (quoting
+
+Sourcing Unlimited, 526 F.3d at 47), the plaintiffs' contract with
+
+ICL.
+
+           The    District     Court    rightly     determined     that    it    "is
+
+entirely possible that the plaintiffs' claims -- which are all
+
+statutory in nature -- could proceed without any reference to the
+
+[ICL] Contract."     Whether Cultural Care exercises control over the
+
+plaintiffs' employment in a manner that renders Cultural Care their
+
+employer for the purpose of federal and state wage-and-hour laws
+
+will turn, as the plaintiffs contend, on whether Cultural Care in
+
+fact "exercises the control typically exercised (or performs the
+
+roles typically performed) by an employer."
+
+                                    - 40 -
+            After     all,   the       plaintiffs'   claimed       employment
+
+relationship is with Cultural Care, not ICL, and the ICL Contract
+
+by its terms is an agreement reached solely between the au pair
+
+and ICL.    Thus, because we do not see how the analysis of whether
+
+the relationship between the plaintiffs and Cultural Care is one
+
+of employment depends on the terms of the ICL Contract, we see no
+
+reason to reject the plaintiffs' contention that their "claims
+
+would exist in the absence of the contract," a factor that we found
+
+to be dispositive in explaining why equitable estoppel was not
+
+warranted in Hogan.      P.R. Fast Ferries LLC, 102 F.4th at 550 n.10
+
+(citing Hogan, 914 F.3d at 42).
+
+            In    that   case,   the     plaintiff   entered   a    contract
+
+(containing an arbitration agreement) with SBS, a staffing company
+
+that "assigned him to perform services for SPAR," a defendant in
+
+that case.       Hogan, 914 F.3d at 36.       SBS was "'affiliate[d]' to
+
+SPAR," but it was "not a subsidiary of or controlled by SPAR."
+
+Id.   SPAR was supplied with "substantially all" of its "Field
+
+Specialists" in this way.        Id.
+
+            The plaintiff brought suit against SBS and SPAR claiming
+
+violations of the FLSA as well as state wage-and-hour laws.              Id.
+
+at 37.     Both defendants moved to compel arbitration based on the
+
+plaintiff's contract with SBS.          Id.   SPAR contended, among other
+
+things, that, even though it was not a signatory to that contract,
+
+the plaintiff was "equitably estopped from avoiding arbitration
+
+                                   - 41 -
+because his claims against SPAR [were] 'intertwined' with the [SBS
+
+contract] and because SPAR and SBS . . . are 'closely related.'"
+
+Id. at 40.
+
+          We rejected that contention by SPAR on the ground that
+
+it could not satisfy the "'intertwined' requirement for purposes
+
+of applying equitable estoppel."          Id. at 42.     In doing so, we
+
+distinguished Hogan from cases in which the plaintiff's claims
+
+"'derive[d] from benefits' [that it] alleged were due [to it] under
+
+the [contract in question]."      Id. (first alteration in original)
+
+(quoting Sourcing Unlimited, 526 F.3d at 48).          We explained that,
+
+by contrast, the plaintiff's claims in Hogan for "unpaid wages and
+
+benefits" were "premised upon [statutory] wage and hour law, not
+
+the [contract at issue]."       Id.   The success of those statutory
+
+claims therefore turned on "the nature of the services that [the
+
+plaintiff]   provided   to   SPAR,"   and   would    "exist   even   if   the
+
+[contract] were declared void."       Id.
+
+          The circumstances here are nearly indistinguishable from
+
+the factors we found relevant in Hogan.             Thus, as in Hogan, we
+
+conclude that there is no basis for applying equitable estoppel in
+
+this case.    Cultural Care therefore has not shown that it is
+
+entitled to compel arbitration based on the ICL Contract.
+
+                                  VI.
+
+          The District Court's denial of the motion to compel
+
+arbitration is affirmed.
+
+                                 - 42 -

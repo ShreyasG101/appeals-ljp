@@ -1,0 +1,818 @@
+FOR PUBLICATION
+
+   UNITED STATES COURT OF APPEALS
+        FOR THE NINTH CIRCUIT
+
+DOCTOR’S BEST, INC., a Delaware            No. 24-2719
+corporation,
+                                             D.C. No.
+                                          8:23-cv-00766-
+            Plaintiff - Appellee,
+                                             KK-KES
+ v.
+                                            OPINION
+NATURE’S WAY PRODUCTS,
+LLC, a Wisconsin limited liability
+company,
+
+            Defendant - Appellant.
+
+       Appeal from the United States District Court
+          for the Central District of California
+        Kenly Kiya Kato, District Judge, Presiding
+
+         Argued and Submitted February 10, 2025
+                  Pasadena, California
+
+                    Filed July 15, 2025
+
+  Before: Richard A. Paez, Sandra S. Ikuta, and Ryan D.
+                 Nelson, Circuit Judges.
+
+                 Opinion by Judge Paez;
+           Special Concurrence by Judge Ikuta
+2     DOCTOR’S BEST, INC. V. NATURE’S WAY PRODUCTS, LLC
+
+
+                          SUMMARY *
+
+
+                          Lanham Act
+
+    The panel affirmed the district court’s summary
+judgment in favor of Doctor’s Best, Inc., on its claim for a
+declaratory judgment of non-infringement and on Nature’s
+Way Products, LLC’s counterclaim for trademark
+infringement under the Lanham Act.
+    Nature’s Way owned the U.S. trademark “Nature’s
+Way” for use on its nutritional supplements. Doctor’s Best,
+a competitor, developed a new line of branded supplements,
+“Nature’s Day,” and sought a U.S. trademark. The
+“Nature’s Day” mark appeared on goods that were
+manufactured and transported in the United States but were
+exclusively sold and marketed to consumers abroad.
+    Abitron Austria GmbH v. Hetronic International, Inc.,
+600 U.S. 412 (2023), holds that the trademark infringement
+provisions of the Lanham Act are not extraterritorial and
+extend only to claims where the claimed infringing use in
+commerce is domestic. The panel held that the district court
+properly applied Abitron’s extraterritoriality framework to
+determine which of Doctor’s Best’s activities were
+actionable under the Lanham Act. The only actionable (i.e.,
+domestic) conduct was the U.S. transport of Doctor’s Best’s
+Nature’s Day products. The panel held that the district court
+properly applied the Sleekcraft factors in concluding that
+Nature’s Way could not show a likelihood of consumer
+confusion as to this conduct. The panel thus agreed with the
+
+*
+ This summary constitutes no part of the opinion of the court. It has
+been prepared by court staff for the convenience of the reader.
+     DOCTOR’S BEST, INC. V. NATURE’S WAY PRODUCTS, LLC     3
+
+
+district court that no rational jury could find that Doctor’s
+Best’s domestic conduct infringed Nature’s Way’s protected
+trademarks.
+    Specially concurring, Judge Ikuta wrote that she
+concurred in the result. She wrote that Doctor’s Best’s
+transport of Nature’s Day supplements in the United States
+constituted a domestic use in commerce, and the evidence in
+the record did not create a genuine issue of material fact as
+to whether this transport caused a likelihood of domestic
+confusion. Judge Ikuta wrote that, under Abitron, the court
+does not consider extraterritorial consumer confusion.
+
+
+
+                        COUNSEL
+
+G. Warren Bleeker (argued) and M. John Carson, Lewis
+Roca Rothgerber Christie LLP, Glendale, California, for
+Plaintiff-Appellee.
+Aaron T. Olejniczak (argued) and Christopher R. Liro,
+Andrus Intellectual Property Law LLP, Milwaukee,
+Wisconsin; Peter E. Garrell, Garrell Cohon Kennedy LLP,
+Los Angeles, California, for Defendant-Appellant.
+4     DOCTOR’S BEST, INC. V. NATURE’S WAY PRODUCTS, LLC
+
+
+                         OPINION
+
+PAEZ, Circuit Judge:
+
+    In this appeal, we consider the impact of Abitron Austria
+GmbH v. Hetronic International, Inc., 600 U.S. 412 (2023),
+on a claim of trademark infringement under the Lanham Act,
+where the allegedly infringing mark appears on goods that
+are manufactured and transported in the United States, but
+exclusively sold and marketed to consumers abroad.
+    Nature’s Way Products (NWP) has long owned the U.S.
+trademark “Nature’s Way” for use on its well-known
+nutritional supplements. Doctor’s Best (DB), a competitor,
+recently developed a new line of branded supplements,
+“Nature’s Day,” and sought a U.S. trademark. In response
+to DB’s suit for a declaratory judgment of non-infringement,
+NWP asserted a counterclaim for trademark infringement
+under the Lanham Act. The district court granted summary
+judgment to DB, concluding that NWP failed to raise a
+genuine issue of material fact that DB’s actionable domestic
+conduct was likely to cause consumer confusion.
+    On appeal, NWP argues: (1) the district court misapplied
+Abitron’s extraterritoriality framework; (2) alternatively, the
+district court erred in finding no genuine issue of material
+fact as to the likelihood of consumer confusion; and (3) the
+district court abused its discretion in denying NWP’s request
+to defer summary judgment proceedings to permit additional
+discovery.
+    We affirm. As the record shows, DB, the alleged
+infringer, uses the challenged mark in both domestic and
+foreign commerce, but the sole domestic “use in commerce”
+is the transport of products bearing the mark from a
+      DOCTOR’S BEST, INC. V. NATURE’S WAY PRODUCTS, LLC             5
+
+
+California manufacturing facility to overseas markets. On
+these facts, the district court did not err in applying Abitron’s
+extraterritoriality framework to determine which of DB’s
+activities were actionable under the Lanham Act. Further,
+given that the only actionable (i.e., domestic) conduct was
+the U.S. transport of DB’s Nature’s Day products, the district
+court properly applied the Sleekcraft factors 1 in concluding
+that NWP could not show a likelihood of consumer
+confusion. Thus, we agree with the district court that no
+rational jury could find that DB’s domestic conduct
+infringed NWP’s protected trademarks in violation of the
+Lanham Act.
+                         I. Background
+                             A. Facts
+    NWP is a nutritional supplement company that has
+marketed and sold products under its “Nature’s Way” mark
+in the U.S. since 1969. DB is another nutritional supplement
+company that recently developed a line of Nature’s Day
+branded supplements.
+    DB manufactures Nature’s Day products in Tustin,
+California, but exclusively sells and markets them outside
+the U.S. 2 Nature’s Day products are sold to consumers in
+China, South Korea, and Taiwan. A DB executive for
+commercial development stated in a declaration that it was
+her understanding that the Nature’s Day product labels—
+including the Nature’s Day word mark and design—were
+
+1
+ AMF Inc. v. Sleekcraft Boats, 599 F.2d 341, 348–49 (9th Cir. 1979),
+abrogated in part on other grounds by Mattel, Inc. v. Walking Mountain
+Prods., 353 F.3d 792 (9th Cir. 2003).
+2
+ Separate from the “Nature’s Day” products at issue in this case, DB
+sells “Doctor’s Best” branded supplements at major U.S. retailers.
+6    DOCTOR’S BEST, INC. V. NATURE’S WAY PRODUCTS, LLC
+
+
+independently created by a third-party in China for use in
+Asian markets, without reference to NWP’s marks.
+    DB disavows any intent to sell or market Nature’s Day
+products to end consumers in the U.S. by any means. The
+record shows that DB manufactures Nature’s Day
+supplements in the U.S. and labels them in English because
+it has determined that foreign consumers view U.S. goods as
+premium, high-quality, and safe products. The record
+further shows that Nature’s Day product labels contain
+information required by U.S. regulations, including a Food
+and Drug Administration disclaimer, because domestically
+manufactured products must comply with U.S. labeling
+requirements, regardless of where they are advertised and
+sold.
+    DB owns an international trademark for the Nature’s
+Day mark. In 2022, it filed an application with the U.S.
+Patent and Trademark Office for the Nature’s Day mark,
+covering nutritional supplements on an intent-to-use basis.
+Upon discovering the application, NWP sent a cease-and-
+desist letter to DB, identifying NWP’s ownership of the
+Nature’s Way mark and asserting superior rights.
+                  B. Procedural History
+    In response to NWP’s demand letter, DB filed suit in
+May 2023, seeking a declaratory judgment of non-
+infringement under the Federal Declaratory Judgment Act,
+28 U.S.C. §§ 2201–2202.         NWP counterclaimed for
+infringement and related claims.
+    In June 2023, the Supreme Court decided Abitron,
+holding that the provisions of the Lanham Act underlying
+NWP’s trademark infringement counterclaim “are not
+extraterritorial and . . . extend only to claims where the
+      DOCTOR’S BEST, INC. V. NATURE’S WAY PRODUCTS, LLC     7
+
+
+claimed infringing use in commerce is domestic.” 600 U.S.
+at 415 (citing 15 U.S.C. §§ 1114(1)(a), 1125(a)(1)).
+    Discovery opened in September 2023, after the parties
+held their Federal Rule of Civil Procedure 26(f) scheduling
+conference. Fed. R. Civ. P. 26(d)(1). The district court set
+June 6, 2024, as the close of discovery, and ordered that
+dispositive motions be heard by August 5, 2024. In late
+December 2023, roughly five months before the discovery
+deadline, DB notified NWP that it intended to move for
+summary judgment as to non-infringement. DB filed its
+motion for summary judgment on January 22, 2024.
+    NWP timely filed an opposition and also moved, under
+Federal Rule of Civil Procedure 56(d), for denial or deferral
+of DB’s summary judgment motion to allow further time for
+discovery. In support of the Rule 56(d) motion, counsel filed
+a declaration identifying several facts NWP sought to
+discover, stating that those facts were essential to NWP’s
+opposition, and that, based on counsel’s information and
+belief, those facts existed.
+   When it filed its opposition, NWP had not pursued any
+formal discovery. DB also had not made any discovery
+requests, but rested its summary judgment motion on
+declarations from its executives. Only after NWP filed its
+opposition did it serve its first set of written discovery
+requests.
+    The district court denied NWP’s Rule 56(d) motion,
+granted DB’s summary judgment motion, and entered
+judgment in favor of DB. In denying additional time for
+discovery, the court reasoned that NWP failed to provide a
+basis to conclude the facts it sought to discover existed, and
+further failed to conduct discovery diligently.
+8     DOCTOR’S BEST, INC. V. NATURE’S WAY PRODUCTS, LLC
+
+
+    On the merits, the district court concluded that NWP
+could not show a likelihood of consumer confusion, and
+therefore could not establish trademark infringement under
+the Lanham Act. §§ 1114(1)(a), 1125(a)(1). In so ruling,
+the district court first applied the extraterritoriality
+framework laid out in Abitron, determining that DB’s
+relevant conduct in the U.S. was “limited to manufacturing,
+bottling, labeling, and transporting its Nature’s Day branded
+supplements.” The court concluded that the transport was a
+domestic “use in commerce” actionable under the Lanham
+Act. See 15 U.S.C. § 1127.
+    Next, the district court analyzed whether there was a
+genuine issue of material fact that DB’s actionable domestic
+conduct was likely to cause consumer confusion. The court
+applied the Sleekcraft factors to analyze the likelihood of
+confusion and concluded that the most relevant
+considerations cut against NWP: (1) the lack of evidence of
+actual confusion; (2) the evidence showing divergent
+marketing channels used for Nature’s Way and Nature’s Day
+products; and (3) the absence of evidence showing a strong
+possibility of expansion.
+    The court declined to analyze the remaining factors
+because they were “less relevant in light of the absence of
+any sales, advertising, or other interaction with United States
+consumers and the fact that [DB] advertises and sells only to
+consumers abroad.” The court concluded that there was “no
+genuine issue of material fact that [DB’s] use of the Nature’s
+Day mark for its transport in commerce is not likely to cause
+consumer confusion.” Thus, there was no trademark
+infringement as a matter of law.
+     DOCTOR’S BEST, INC. V. NATURE’S WAY PRODUCTS, LLC     9
+
+
+                 II. Standard of Review
+    We review de novo a grant of summary judgment.
+Rearden LLC v. Rearden Com., Inc., 683 F.3d 1190, 1202
+(9th Cir. 2012). “Viewing the evidence in the light most
+favorable to [the non-moving party], we must determine
+whether there are any genuine issues of material fact and
+whether the district court correctly applied the relevant
+substantive law.” Id. (quotation omitted). We review for
+abuse of discretion the denial of a Rule 56(d) motion.
+InteliClear, LLC v. ETC Glob. Holdings, Inc., 978 F.3d 653,
+661 (9th Cir. 2020).
+                 III. Legal Background
+    To prevail on a trademark infringement claim, a plaintiff
+“must prove: (1) that it has a protectible ownership interest
+in the mark; and (2) that the defendant’s use of the mark is
+likely to cause consumer confusion.” Rearden, 683 F.3d at
+1202 (quotation omitted). Only the latter requirement is at
+issue in this appeal.
+    The eight Sleekcraft factors for determining whether an
+allegedly infringing use of a mark is likely to cause
+consumer confusion are well-established. See JL Beverage
+Co., LLC v. Jim Beam Brands Co., 828 F.3d 1098, 1106 (9th
+Cir. 2016) (citing AMF Inc. v. Sleekcraft Boats, 599 F.2d
+341, 348–49 (9th Cir. 1979), abrogated in part on other
+grounds by Mattel, Inc. v. Walking Mountain Prods., 353
+F.3d 792, 810 (9th Cir. 2003)). Unique questions arise,
+however, where some or all of the allegedly infringing use
+occurred outside U.S. territory, because the trademark
+infringement provisions of the Lanham Act are not
+extraterritorial. Abitron, 600 U.S. at 415 (citing 15 U.S.C.
+§§ 1114(1)(a), 1125(a)(1)). In Abitron, the Supreme Court
+held that the trademark infringement provisions of the
+10    DOCTOR’S BEST, INC. V. NATURE’S WAY PRODUCTS, LLC
+
+
+Lanham Act “extend only to claims where the claimed
+infringing use in commerce is domestic.” Id. In other words,
+“‘use in commerce’ provides the dividing line between
+foreign and domestic applications of these Lanham Act
+provisions.” Id. at 423.
+                       IV. Analysis
+                    A. Extraterritoriality
+     The district court correctly applied Abitron in granting
+summary judgment to DB. Abitron required the district
+court to isolate DB’s domestic “use in commerce” of the
+Nature’s Day mark from its non-actionable foreign conduct.
+See id. at 419. Because DB’s conduct abroad is beyond the
+scope of the Lanham Act, the court properly cabined its
+inquiry to whether NWP had raised a triable factual dispute
+that DB’s domestic activities—manufacturing, bottling,
+labeling, and transporting in commerce Nature’s Day
+supplements—were likely to cause consumer confusion. See
+id. at 424.
+     The district court concluded that DB’s “domestic
+conduct and use of the Nature’s Day mark is actionable
+under the Lanham Act[, however,] such conduct is
+actionable under the Lanham Act to the extent that it is likely
+to cause consumer confusion.” Despite the court’s express
+ruling, NWP argues that the district court erroneously
+interpreted Abitron as requiring a plaintiff to show a
+“domestic likelihood of confusion to establish trademark
+infringement.” According to NWP, it follows from Abitron
+that “[a]ny domestic use [in commerce] . . . create[s] a
+sufficient nexus with the United States to avoid
+impermissible foreign application.” Thus, NWP argues that
+if the court finds a domestic use in commerce, the likelihood
+of confusion inquiry may proceed without regard to
+      DOCTOR’S BEST, INC. V. NATURE’S WAY PRODUCTS, LLC       11
+
+
+territorial limitations. This argument misconstrues Abitron
+and the district court’s order.
+    NWP is correct that Abitron did not tether the
+extraterritoriality analysis to the likelihood of confusion
+element of a trademark infringement claim, and held instead
+that a permissible, non-extraterritorial application hinges on
+the location of the “use in commerce.” Id. at 422–24.
+Abitron’s territorial limitation on the trademark
+infringement provisions of the Lanham Act, however,
+necessarily narrows the conduct a factfinder may look to in
+analyzing the likelihood of confusion, by limiting the
+geographic scope of conduct capable of supporting a claim.
+See id. at 415, 423. For a viable trademark infringement
+claim, the challenged commercial use of a mark must be
+likely to cause consumer confusion, Rearden, 683 F.3d at
+1202, so the district court correctly focused its analysis on
+whether NWP could show that such confusion would likely
+arise from DB’s domestic conduct. The likelihood of
+confusion element of a trademark infringement claim existed
+before Abitron, see § 1127, and remains intact after, subject
+to the limitation that the confusion-causing conduct must
+occur domestically. See Abitron, 600 U.S. at 423 (“Th[e
+allegedly infringing] conduct . . . must create a sufficient risk
+of confusion, but confusion is not a separate requirement;
+rather, it is simply a necessary characteristic of an offending
+use.”).
+    In Abitron, the Court “resolve[d] a Circuit split over the
+extraterritorial reach of the Lanham Act.” Id. at 417. It
+applied the presumption against extraterritoriality to
+§ 1114(1)(a) and § 1125(a)(1), and held that the trademark
+infringement provisions of the Act “are not extraterritorial”
+and “extend only to claims where the claimed infringing use
+in commerce is domestic.” Id. at 415.
+12    DOCTOR’S BEST, INC. V. NATURE’S WAY PRODUCTS, LLC
+
+
+     The Court articulated “a two-step framework” for
+applying the longstanding principle that congressional
+legislation does not apply outside U.S. territory absent a
+contrary intent. Id. at 417 (citing RJR Nabisco, Inc. v.
+European Cmty., 579 U.S. 325, 335–36 (2016)). Under step
+one, courts must determine whether the statutory provision
+at issue is extraterritorial. Id. at 417–18. If the answer is no,
+the court proceeds to step two, and “resolves whether the suit
+seeks a (permissible) domestic or (impermissible) foreign
+application of the provision.” Id. at 418. At step two, “to
+prove that a claim involves a domestic application of a
+statute, plaintiffs must establish that the conduct relevant to
+the statute’s focus occurred in the United States.” Id.
+(emphasis and quotation omitted).
+    With respect to the trademark infringement provisions of
+the Lanham Act, Abitron held that they do not apply
+extraterritorially at step one. Id. at 419. At step two, the
+Court held that “‘use in commerce’ is the conduct relevant
+to any potential focus of [the trademark infringement
+provisions],” so ‘“use in commerce’ provides the dividing
+line between foreign and domestic applications of [those
+provisions].” Id. at 423.
+    NWP’s misreading of Abitron stems from the debate
+between the majority and concurring viewpoints. Although
+the Court unanimously agreed that the Lanham Act
+trademark infringement provisions do not apply
+extraterritorially, several Justices disagreed on what
+separates a permissible domestic application from an
+impermissible one at step two. Id. at 424. In her
+concurrence, Justice Sotomayor reasoned that the focus of
+§ 1114(1)(a) and § 1125(a)(1) is consumer confusion, so
+they encompass infringement likely to cause confusion
+domestically, even where the infringing conduct happened
+      DOCTOR’S BEST, INC. V. NATURE’S WAY PRODUCTS, LLC    13
+
+
+entirely abroad. Id. at 432, 437 (Sotomayor, J., concurring
+in the judgment). The majority, however, reasoned that the
+“ultimate question regarding permissible domestic
+application turns on the location of the conduct relevant to
+the focus” of the statutory provision, and held that the
+conduct relevant to any potential focus of the trademark
+infringement provisions “is infringing use in commerce.” Id.
+at 422; see also id. at 424 (reasoning that the concurrence’s
+“focus-only” approach “would give the Lanham Act an
+untenably broad reach”).
+    In other words, the majority held that a domestic
+likelihood of confusion alone could not be the basis for a
+trademark infringement claim. Only a domestic use in
+commerce causing a likelihood of confusion is within the
+scope of the Lanham Act’s trademark infringement
+provisions. See id. at 424. But this does not, as NWP argues,
+give rise to the inference that confusion anywhere in the
+world will do, or that a likelihood of confusion among U.S.
+consumers is irrelevant or not required. In fact, in the
+ordinary case, the likelihood of confusion will necessarily be
+domestic in nature, because the confusion must be caused by
+a stateside use in commerce.            See id. at 422–23
+(“[C]onfusion . . . is simply a necessary characteristic of an
+offending use.”). The district court’s focus on confusion
+among U.S. consumers was thus a proper analytical response
+to Abitron.
+    Here, the district court found that DB’s “conduct in the
+United States is limited to manufacturing, bottling, labeling,
+and transporting its Nature’s Day branded supplements.” As
+the Court noted in Abitron, the Lanham Act defines “use in
+commerce” as “‘the bona fide use of a mark in the ordinary
+course of trade,’ where the mark serves to ‘identify and
+distinguish [the mark user’s] goods . . . and to indicate the
+14    DOCTOR’S BEST, INC. V. NATURE’S WAY PRODUCTS, LLC
+
+
+source of the goods.’” Id. at 428 (alterations in original)
+(citing § 1127). A mark is “deemed to be in use in commerce
+on goods when it is placed in any manner on the goods . . .
+and the goods are sold or transported in commerce.” § 1127
+(emphasis added). Because transport meets § 1127’s
+definition of “use in commerce,” the district court properly
+concluded that DB’s commercial uses of the mark included
+domestic conduct to which liability could attach. Stated
+differently, although the record evidence shows exclusively
+foreign sales, NWP’s claims do not fail at the
+extraterritoriality threshold given the evidence of domestic
+transport.
+    We thus affirm the district court’s conclusion that, in the
+context of an extraterritoriality analysis under Abitron, a
+mark is used in commerce when “it is placed in any manner
+on . . . goods . . . and the goods are sold or transported in
+commerce.” § 1127. Because “transport[]” is included in
+§ 1127—the statutory provision defining “use in commerce”
+cited in Abitron—we need not elaborate on other
+circumstances that may constitute a “use in commerce” for
+extraterritoriality purposes. See Abitron, 600 U.S. at 428 n.6
+(acknowledging that Justice Jackson’s concurrence
+“proposed a further elaboration of ‘use in commerce,’” but
+finding “no occasion to address the precise contours of that
+phrase” in the majority opinion); id. at 430 (Jackson, J.,
+concurring) (citing § 1127 and proposing that a “use in
+commerce . . . can occur wherever the mark serves its
+source-identifying function”); see also LegalForce RAPC
+Worldwide, PC v. LegalForce, Inc., 124 F.4th 1122, 1127
+(9th Cir. 2024) (“The Lanham Act’s ‘use in commerce’
+requirement is equivalent to its ‘in connection with’ goods
+and services requirement.” (citing La Quinta Worldwide
+      DOCTOR’S BEST, INC. V. NATURE’S WAY PRODUCTS, LLC     15
+
+
+LLC v. Q.R.T.M., S.A. de C.V., 762 F.3d 867, 874 n.1 (9th
+Cir. 2014))).
+    In sum, the district court properly interpreted Abitron
+and applied it for the limited purpose of identifying which of
+DB’s activities involving the Nature’s Day mark were
+actionable under the Act. Abitron did not change, and the
+district court did not interpret it as changing, the legal
+standard for the likelihood of consumer confusion analysis.
+See Hetronic Int’l, Inc. v. Hetronic Ger. GmbH, 99 F.4th
+1150, 1164–65 (10th Cir. 2024) (“[L]ikelihood of confusion
+was already an essential element for any actionable Lanham
+Act trademark-infringement claim, and the multi-factor test
+for likelihood of confusion [in the Tenth Circuit] remains
+unchanged [after Abitron].”).
+                B. Likelihood of Confusion
+    The district court did not err in finding that there was no
+genuine factual dispute “that [DB’s] use of the Nature’s Day
+mark for its transport in commerce is not likely to cause
+consumer confusion.” In determining whether there is a
+likelihood of consumer confusion, we apply the Sleekcraft
+factors, which consider: “(1) the strength of the mark;
+(2) proximity or relatedness of the goods; (3) similarity of
+the marks; (4) evidence of actual confusion; (5) marketing
+channels used; (6) type of goods and the degree of care likely
+to be exercised by the purchaser; (7) the defendant’s intent
+in selecting the mark; and (8) the likelihood of expansion of
+the product lines.” JL Beverage Co., 828 F.3d at 1106.
+    “The factors are non-exhaustive and applied flexibly; the
+Sleekcraft factors are not intended to be a ‘rote checklist.’”
+Id. (quoting Rearden, 683 F.3d at 1209). “A determination
+may rest on only those factors that are most pertinent to the
+particular case before [us], and other variables besides the
+16    DOCTOR’S BEST, INC. V. NATURE’S WAY PRODUCTS, LLC
+
+
+enumerated factors should also be taken into account based
+on the particular circumstances.” Id. (quoting Rearden, 683
+F.3d at 1209).
+    Here, the factor most pertinent in determining the
+likelihood of consumer confusion is the marketing channels
+used. In analyzing marketing channel convergence, we
+consider “how the parties advertise and market their
+products” and whether “the general class of . . . purchasers
+exposed to the products overlap.” Pom Wonderful LLC v.
+Hubbard, 775 F.3d 1118, 1130 (9th Cir. 2014) (quoting
+Sleekcraft, 599 F.2d at 353). Even “where there is precise
+identity of a complainant’s and an alleged infringer’s mark,
+there may be no consumer confusion—and thus no
+trademark infringement—if the alleged infringer is in a
+different geographic area or in a wholly different industry.”
+Brookfield Commc’ns, Inc. v. W. Coast Ent. Corp., 174 F.3d
+1036, 1054 (9th Cir. 1999).
+     There is no evidence that Nature’s Way and Nature’s
+Day products are marketed or sold in overlapping marketing
+channels. NWP markets and sells Nature’s Way products in
+all fifty states, but DB does not sell Nature’s Day products
+to consumers on U.S. soil or through U.S. e-commerce
+platforms, and does not market the brand in the U.S.,
+“including through Doctor’s Best’s websites and social
+media accounts.”
+    NWP cites to a declaration from a DB sales executive
+stating that DB intends to use e-commerce platforms to sell
+Nature’s Day goods in Asia, to argue that we must draw the
+reasonable inference that those “e-commerce platforms will
+be available in the [U.S.], as websites are generally available
+worldwide.” But that same declaration states that DB “has
+not sold and does not intend to sell [Nature’s Day]
+      DOCTOR’S BEST, INC. V. NATURE’S WAY PRODUCTS, LLC             17
+
+
+supplements through [U.S.] brick-and-mortar or e-
+commerce platforms,” and “has not advertised or marketed,
+and does not intend to advertise or market, [Nature’s Day]
+supplements in the [U.S], including through [DB’s] websites
+and social media accounts.” NWP may not create a dispute
+over this evidentiary statement with assertions of “mere
+speculation.” See Surfvivor Media, Inc. v. Survivor Prods.,
+406 F.3d 625, 634 (9th Cir. 2005) (superseded by statute on
+other grounds).
+    Given the undisputed facts, the marketing channels
+factor is the Sleekcraft factor that best integrates Abitron’s
+bar on extraterritorial applications of the relevant provisions
+into our longstanding trademark infringement framework.
+Although DB’s domestic transport of the Nature’s Day
+supplements brings NWP’s claim within the territorial scope
+of the Lanham Act, given the record in this case, a reasonable
+jury could not conclude that consumer confusion is likely, in
+large part because there is no material overlap in the
+marketing channels used to promote Nature’s Way and
+Nature’s Day products. 3
+    Further, in light of the summary judgment record, a
+rational jury could not find “a strong possibility of expansion
+into competing markets.” M2 Software, Inc. v. Madacy Ent.,
+421 F.3d 1073, 1085 (9th Cir. 2005) (emphasis and quotation
+omitted). With regard to its future plans, DB presented
+evidence that it “does not intend to sell Nature’s Day
+[s]upplements in brick-and-mortar stores” or to “end
+consumers in the United States” through any means. NWP
+
+3
+  Although the non-consumer-facing domestic transport ultimately
+cannot support liability here, we do not foreclose the possibility that
+there may be unique circumstances where transport alone in the U.S. may
+possibly cause consumer confusion.
+18     DOCTOR’S BEST, INC. V. NATURE’S WAY PRODUCTS, LLC
+
+
+points to the uncontested evidence that DB manufactures
+Nature’s Day products in the U.S., is seeking a U.S.
+trademark registration, and the products are labelled in
+English with the disclaimers required by U.S. law. While
+these facts support the inference that DB could easily begin
+selling Nature’s Day products in the U.S., a rational jury
+could not find a strong possibility of expansion into the U.S.
+market given DB’s undisputed evidence of its foreign
+marketing and business intentions.
+    One of DB’s executives filed a declaration explaining
+that: (1) DB’s supplements are manufactured in the U.S. and
+labeled in English because DB believes that U.S. products
+are perceived as high-quality and safe by foreign consumers;
+and (2) DB uses U.S.-regulatory-compliant labels because
+U.S. law requires such for U.S. manufactured goods,
+regardless of where the end user is located. NWP could have
+sought to depose that witness during discovery, but did not.
+Thus, on this record, a reasonable jury could not conclude
+that DB’s stated reason for the American appearance of its
+Nature’s Day supplements is false, nor could a rational jury
+find that DB’s express intention to market and sell the
+products solely abroad is disingenuous. Even drawing all
+rational inferences in NWP’s favor, NWP has not raised a
+genuine issue of material fact as to the likelihood of
+expansion. And because the record raises no genuine issues
+of material fact as to (1) overlapping marketing channels or
+(2) likely expansion into the U.S. market, no reasonable jury
+could find a likelihood of consumer confusion in this case. 4
+
+
+4
+  In addition to the marketing channels and expansion factors, the district
+court also relied on the lack of evidence of actual confusion amongst
+consumers in finding no genuine issue of material fact as to the
+likelihood of confusion. We need not address this factor because we
+       DOCTOR’S BEST, INC. V. NATURE’S WAY PRODUCTS, LLC                 19
+
+
+    Despite the district court’s narrow ruling, NWP
+maintains that the district court erred in concluding that five
+of the eight factors were “less relevant in light of the absence
+of any sales, advertising, or other interaction with United
+States consumers and the fact that [DB] advertises and sells
+only to consumers abroad.” In NWP’s view, this was
+problematic because the factors the district court found “less
+relevant” were the factors that favored NWP. We assume
+without deciding that NWP raised genuine issues of material
+fact that the Nature’s Way mark is commercially strong;
+Nature’s Way and Nature’s Day products are related goods;
+the marks are facially similar; and consumers of nutritional
+supplements are careless buyers. See JL Beverage Co., 828
+F.3d at 1106 (listing the eight Sleekcraft factors). 5 But we
+have long recognized that “the relative importance of each
+individual factor [is] case-specific,” and these factors are
+indeed largely irrelevant to determining the likelihood of
+consumer confusion in this case. Brookfield Commc’ns, 174
+F.3d at 1054.
+    Regardless of how easily confusable the products and
+marks are, given the summary judgment record, no
+reasonable jury could find a likelihood of consumer
+
+
+conclude that the absence of evidence of (1) overlapping marketing
+channels or (2) a strong possibility of expansion is sufficient to support
+the district court’s ruling on the likelihood of consumer confusion.
+5
+  Because NWP failed to produce any non-speculative evidence that DB
+intentionally copied its mark, there is no genuine issue of material fact
+as to DB’s permissible motives as the alleged infringer, which generally
+cuts against a likelihood of confusion. See JL Beverage Co., LLC v. Jim
+Beam Brands Co., 828 F.3d 1098, 1111–12 (9th Cir. 2016). But, like the
+other factors the district court found unimportant, DB’s motives are
+largely irrelevant, as it represents that it intends to only market and sell
+Nature’s Day supplements in Asian markets.
+20    DOCTOR’S BEST, INC. V. NATURE’S WAY PRODUCTS, LLC
+
+
+confusion because DB’s Nature’s Day products do not reach
+consumers domestically. See id. Because there is no
+genuine issue of material fact that (1) Nature’s Way and
+Nature’s Day products are not advertised or sold in
+overlapping marketing channels and (2) there is not a strong
+possibility that they will be in the future, it is unlikely that a
+consumer will ever encounter both products in a single
+commercial setting. Therefore, although the marks are
+hypothetically confusable, the likelihood of consumer
+confusion, given the existing record, is nonexistent, because
+the marks do not appear in the same marketplace. Cf.
+Rearden, 683 F.3d at 1209.
+    In sum, applying the Sleekcraft factors flexibly and in
+light of the extraterritorial aspects of this case, we agree with
+the district court that there is no genuine issue of material
+fact as to the likelihood of consumer confusion on the
+existing record. Even assuming that the Nature’s Way mark
+is strong, and that the goods and marks here are abstractly
+similar, related, and subject to a low degree of consumer
+care, a reasonable jury could not rationally find a likelihood
+of consumer confusion because Nature’s Way and Nature’s
+Day products are not marketed or sold in competing markets.
+                        C. Rule 56(d)
+    Rule 56(d) is “a device for litigants to avoid summary
+judgment when they have not had sufficient time to develop
+affirmative evidence.” Stevens v. Corelogic, Inc., 899 F.3d
+666, 678 (9th Cir. 2018) (quoting United States v. Kitsap
+Physicians Serv., 314 F.3d 995, 1000 (9th Cir. 2002)); Fed.
+R. Civ. P. 56(d). District courts have discretion to deny a
+Rule 56(d) motion when the nonmovant has failed to
+diligently pursue discovery. Pfingston v. Ronan Eng’g Co.,
+284 F.3d 999, 1005 (9th Cir. 2002). The district court did
+      DOCTOR’S BEST, INC. V. NATURE’S WAY PRODUCTS, LLC       21
+
+
+not abuse its discretion in denying NWP’s Rule 56(d)
+motion.
+    At the time NWP filed its Rule 56(d) motion, litigation
+had been ongoing for over nine months, the evidence at the
+center of DB’s summary judgment motion had been in the
+record for over five months, and the close of all discovery
+was less than four months away. Nonetheless, NWP had not
+made a single discovery request. Further, DB provided
+NWP notice of the impending motion nearly a month in
+advance of filing, and NWP stipulated to a briefing schedule
+despite taking no steps to elicit the facts that it believed were
+necessary to oppose the motion. We thus agree with the
+district court that NWP did not act diligently.
+    Nor did the district court abuse its discretion by denying
+deferral and granting DB’s motion prior to the date set for
+the close of discovery in the court’s scheduling order.
+Unlike cases where we have found an abuse of discretion
+because the district court granted summary judgment before
+the nonmoving party had “any realistic opportunity to pursue
+discovery,” here, NWP had five months to conduct
+discovery prior to requesting deferral and did not do so. See,
+e.g., Burlington N. Santa Fe R.R. Co. v. Assiniboine & Sioux
+Tribes of Fort Peck Rsrv., 323 F.3d 767, 773–74 (9th Cir.
+2003).
+    For all the above reasons, the district court’s judgment is
+    AFFIRMED.
+22       DOCTOR’S BEST, INC. V. NATURE’S WAY PRODUCTS, LLC
+
+
+IKUTA, J., specially concurring
+
+    I concur in the result. I write separately to provide my
+understanding regarding the application of Abitron Austria
+GmbH v. Hetronic International, Inc., 600 U.S. 412 (2023),
+and the likelihood of domestic consumer confusion.
+Because there was no domestic use of the Nature’s Day mark
+in commerce that caused consumer confusion, the district
+court did not err in granting summary judgment to Doctor’s
+Best, Inc. (Doctor’s Best).
+     The Lanham Act provides that there is trademark
+infringement if a person “use[s] in commerce” any
+“colorable imitation of a registered mark in connection with”
+a sale or other conduct. 15 U.S.C. § 1114(1)(a). The
+Lanham Act also provides that “a mark shall be deemed to
+be in use in commerce” if the goods which display the mark
+“are sold or transported in commerce.” Id. § 1127. Abitron
+held that § 1114(1)(a) does not apply extraterritorially. 600
+U.S. at 415. Instead, this provision “extend[s] only to claims
+where the claimed infringing use in commerce is domestic.”
+Id. 1 For a trademark infringement claim to be actionable,
+the domestic use in commerce must create “a sufficient risk
+of confusion,” which is a “necessary characteristic of an
+offending use.” Id. at 423. In short, to succeed on a Lanham
+Act claim under § 1114(1)(a), a plaintiff must show both
+(1) use in domestic commerce, and (2) a sufficient risk of
+consumer confusion.
+   Here, the parties agree that Nature’s Day branded
+supplements were used in domestic commerce, because
+Doctor’s Best domestically transported its Nature’s Day
+branded supplements. Because transportation is a “use in
+
+1
+    The same rule applies to § 1125(a)(1), which is not applicable here.
+     DOCTOR’S BEST, INC. V. NATURE’S WAY PRODUCTS, LLC    23
+
+
+commerce” under the Lanham Act, 15 U.S.C. § 1127,
+Doctor’s Best used the Nature’s Day mark in commerce.
+    Therefore, we turn to the second prong of the Lanham
+Act analysis, whether there is a sufficient risk of consumer
+confusion. Nature’s Way Products (NWP) argues that if
+Nature’s Day domestically used an infringing mark “in
+commerce,” then there can be a Lanham Act violation if
+there is consumer confusion abroad, even if there is no
+consumer confusion in the United States.
+     This is contrary to Abitron. 600 U.S. at 423. Abitron
+explained that consumer confusion is a “necessary
+characteristic of an offending use.” Id. For a Lanham Act
+claim to be actionable, the offending use must occur
+domestically Id. at 415. Because the offending use must be
+domestic, it follows that the consumer confusion resulting
+from this use likewise must be domestic. Id. at 422–23. That
+is, the Lanham Act only applies where there is a domestic
+use in commerce that would cause a domestic likelihood of
+confusion. Accordingly, the possibility of consumer
+confusion based on marketing or sales abroad is irrelevant to
+this case.
+    NWP also argues that there is evidence of domestic
+consumer confusion. This argument fails. There is no
+evidence in the record to suggest that domestic consumers
+would encounter the “Nature’s Day” mark during transport.
+Moreover, Doctor’s Best presented uncontested evidence
+that it has not sold, marketed, or advertised Nature’s Day
+supplements to end consumers in the United States and has
+no plans to do so in the future. Because there is no evidence
+that domestic consumers would encounter the “Nature’s
+Day” mark during transport, domestic consumers
+necessarily cannot confuse Doctor’s Best’s “Nature’s Day”
+24   DOCTOR’S BEST, INC. V. NATURE’S WAY PRODUCTS, LLC
+
+
+products with NWP’s “Nature’s Way” products. Thus, there
+is no genuine issue of material fact that Doctor’s Best’s
+domestic conduct causes a likelihood of confusion for
+domestic consumers. See Brookfield Commc’ns, Inc. v. W.
+Coast Ent. Corp., 174 F.3d 1036, 1056 (9th Cir. 1999).
+    In sum, Doctor’s Best’s transport of Nature’s Day
+supplements in the United States constitutes a domestic use
+in commerce. But the evidence in the record does not create
+a genuine issue of material fact as to whether this transport
+causes a likelihood of domestic consumer confusion. And,
+under Abitron, we do not consider extraterritorial consumer
+confusion. Accordingly, the district court did not err in
+granting summary judgment in favor of Doctor’s Best.

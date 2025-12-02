@@ -1,0 +1,36 @@
+{
+  "overall_outcome": "REMAND",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court erred in granting a preliminary injunction prohibiting enforcement of New York\u2019s unauthorized practice of law (UPL) statutes against Upsolve and Reverend Udo-Okon, based on the First Amendment.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "REMAND",
+      "key_reasoning": "The Second Circuit held that while the UPL statutes regulate speech, the regulation is content neutral and subject only to intermediate scrutiny, not strict scrutiny as the district court applied. The case is remanded for the district court to apply the correct standard and reconsider the preliminary injunction."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the plaintiffs had standing to bring a pre-enforcement First Amendment challenge to New York\u2019s UPL statutes.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found that plaintiffs satisfied the requirements for pre-enforcement First Amendment standing, including intent to engage in protected conduct, that the conduct is arguably proscribed, and a credible threat of prosecution."
+    }
+  ],
+  "key_precedents": [
+    "Reed v. Town of Gilbert, 576 U.S. 155 (2015)",
+    "Brokamp v. James, 66 F.4th 374 (2d Cir. 2023)",
+    "Susan B. Anthony List v. Driehaus, 573 U.S. 149 (2014)",
+    "Holder v. Humanitarian Law Project, 561 U.S. 1 (2010)",
+    "Nat\u2019l Inst. of Family & Life Advocs. v. Becerra (NIFLA), 585 U.S. 755 (2018)",
+    "City of Austin v. Reagan Nat\u2019l Advert. of Austin, LLC, 596 U.S. 61 (2022)",
+    "Turner Broad. Sys., Inc. v. FCC, 520 U.S. 180 (1997)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "Letitia James, in her official capacity as Attorney General of New York, appeals from an order of the United States District Court for the Southern District of New York (Crotty, J.) entering a preliminary injunction that prohibits her from enforcing New York\u2019s unauthorized practice of law (\u201cUPL\u201d) statutes against Upsolve, Inc. (\u201cUpsolve\u201d) and Reverend John Udo-Okon (together, \u201cPlaintiffs\u201d). Upsolve is a nonprofit that seeks to provide free legal advice to New Yorkers facing debt-collection actions in state court. Specifically, Upsolve intends to train nonlawyer \u201cJustice Advocates,\u201d such as Rev. Udo-Okon, to advise pro se New Yorkers on how to complete the state\u2019s check-the-box form for answering debt-collection claims.\n\nThe parties all agree that the actions of the Justice Advocates would violate New York\u2019s UPL statutes because they would be providing individualized legal advice without being licensed as, or supervised by, attorneys. As a result, Plaintiffs brought a pre-enforcement challenge, arguing that the UPL statutes, as applied to them, would violate their First Amendment right to the freedom of speech. In ruling on Plaintiffs\u2019 motion for a preliminary injunction, the district court concluded that Plaintiffs had made a strong showing that they were likely to succeed on the merits because New York\u2019s UPL statutes, as applied to Plaintiffs, constitute a content-based regulation of speech and cannot survive strict scrutiny.\n\nWe agree with the district court that New York\u2019s UPL statutes, as applied to Plaintiffs, constitute a regulation of speech. Nevertheless, we hold that such regulation is content neutral and thus subject only to intermediate scrutiny. Because the district court applied the incorrect level of scrutiny, we VACATE the preliminary injunction order of the district court and REMAND for further proceedings consistent with this Opinion.\n\nVACATED AND REMANDED."
+}

@@ -1,0 +1,246 @@
+UNITED STATES DISTRICT COURT                             
+               FOR THE DISTRICT OF RHODE ISLAND                          
+
+                               )                                         
+LORNA ORABONA,                 )                                         
+                               )                                         
+     Plaintiff,                )                                         
+                               )                                         
+     v.                        )  C.A. No. 1:23-CV-00299-MSM-PAS         
+                               )                                         
+SANTANDER BANK, N.A.,          )                                         
+                               )                                         
+     Defendant.                )                                         
+                               )                                         
+
+                   MEMORANDUM AND ORDER                                  
+
+Mary S. McElroy, United States District Judge.                            
+
+    Before the Court is  the defendant, Santander Bank, N.A.’s (“Santander”), 
+Motion to Dismiss the plaintiff, Lorna Orabona’s, First Amended Complaint pursuant 
+to Fed. R. Civ. P. 12(b)(6), or grant summary judgment in its favor, pursuant to Fed. 
+R. Civ. P. 56, on the grounds that Ms. Orabona’s claims in this employment dispute 
+are preempted by the Employee Retirement Income Security Act of 1974 (“ERISA”), 
+29 U.S.C. § 1001  .  (ECF No. 22.)  In addition, Ms. Orabona has filed a Motion 
+to Strike an exhibit from Santander’s dispositive Motion (ECF No. 29) and has filed 
+a Motion to Amend her First Amended Complaint (ECF No. 30).               
+    For  the  following  reasons,  the  Court  GRANTS  Santander’s  Motion  and 
+DENIES Ms. Orabona’s Motions.                                             
+                        I.   BACKGROUND                                  
+
+    The following facts are those that are relevant to the ultimate disposition of 
+the pending Motions and are derived from the plaintiff’s First Amended Complaint 
+(ECF No. 20), unless otherwise noted.  The plaintiff, Lorna Orabona, began working 
+as a Mortgage Development Officer (“MDO”) for Sovereign Bank in May 2008.  (ECF 
+No. 20 ¶ 7.)  She became an employee of the defendant, Santander, when it purchased 
+
+Sovereign Bank in 2013.    ¶ 9.                                           
+    On  January  18,  2022,  Ms.  Orabona  advised  her  supervisor  that  she  had 
+received an employment offer from Citizens Bank (“Citizens”).    ¶ 27.  She further 
+told her supervisor that she was “still considering staying at Santander and wanted 
+to re-negotiate her salary” and was advised by two supervisors that they would “get 
+back to her to work something out.”     Yet, Ms. Orabona’s registration to the 
+
+Nationwide Multistate Licensing System indicates that she began employment with 
+Citizens on January 18, 2022, though she alleges that she did not actually start 
+working  for  Citizens  on  that  date;  the  entry  was  made  so  that  she  could  have 
+immediate health care coverage.   ¶ 47.                                   
+    On January 21, 2022, Santander Human Resources notified Ms. Orabona that 
+it was terminating her employment for forwarding company emails to her private 
+email address.    ¶ 28.  (Ms. Orabona asserts that this was an email practice 
+
+developed during the COVID-19 pandemic and that, in any event, the emails were 
+pre-approvals  for  client  referrals  that  were  encrypted  and  “did  not  contain  any 
+personal information.”    ¶ 29.)                                          
+    On February 1, 2022, Santander announced national layoffs which would have 
+included Ms. Orabona’s department and position.    ¶ 40.  The affected employees 
+were notified that they were entitled to receive a severance payment.    ¶ 42.  Ms. 
+Orabona asserts, however, that Santander “fraudulently advised [her] that she was 
+terminated for cause and concealed the planned large-scal[e] layoff to deprive her of 
+any eligibility of benefits, including but not limited to, severance.”    ¶ 48. 
+
+    Santander maintains a Severance Enterprise Policy (the “Plan”) that provides 
+the  requirements  and  standards  by  which  Santander  will  administer  severance 
+benefits as well as the claims and appeals process.  (ECF No. 24-1.)      
+    Ms. Orabona filed suit against Santander in Rhode Island Superior Court 
+asserting claims under state law.  Santander removed the matter to this Court on the 
+grounds of diversity jurisdiction, 28 U.S.C. § 1332.                      
+
+    Previously in this litigation, Santander filed a motion to dismiss arguing that 
+Ms. Orabona’s Complaint failed to state a claim upon which relief could be granted 
+or alternatively that her claims were preempted by ERISA.  To support the latter 
+argument, Santander attached the Plan as an exhibit and asserted it was an ERISA 
+plan.  Ms. Orabona, however, disputed the authenticity and accuracy of the Plan 
+exhibit and requested “discovery to inquire more into the applicable terms of the Plan 
+and to properly determine whether this Plan is truly one that would be considered an 
+
+ERISA plan.”  (ECF No. 7-1 at 18.)  Because ERISA preemption is a threshold and 
+potentially dispositive issue, the Court granted this request, denied the motion to 
+dismiss without prejudice, and allowed the parties to conduct limited discovery into 
+the applicability and/or authenticity of the Plan.  The Court further ordered that after 
+that discovery, should the parties not agree that Ms. Orabona’s claims are preempted 
+by ERISA, Santander could file a motion for summary judgment on that issue.  
+Having concluded that discovery, the parties do agree that the Plan is subject to 
+ERISA, but they do not agree on preemption.                               
+    After the discovery period, the Court also allowed Ms. Orabona to file an 
+
+Amended Complaint.  In that pleading, she claims that Santander failed to follow a 
+prior practice of progressive discipline and is therefore liable under Rhode Island law 
+for a breach of an implied employment contract, breach of the implied covenant of 
+good faith and fair dealing, and wrongful termination.  (ECF No. 20.)  She also claims 
+fraudulent and negligent misrepresentation for Santander’s alleged termination of 
+her to conceal the planned layoff and deprive her of benefits, including severance 
+
+benefits.                                                                 
+    Santander has filed a combined Motion for Summary Judgment on the ERISA 
+preemption issue and renewed Motion to Dismiss on the merits.  (ECF No. 22.)  
+Pending also is Ms. Orabona’s Motion to Strike (ECF No. 29) and Motion to Amend 
+the First Amended Complaint (ECF No. 30).  The Court considers each motion in 
+turn.                                                                     
+                        II.  DISCUSSION                                  
+
+ A. Motion to Strike                                                     
+
+    Ms. Orabona moves to strike Santander’s Exhibit C, a copy of an email from 
+Santander to her indicating that she had received the Plan.  (ECF No. 29.)  Ms. 
+Orabona  argues  that  she  “has  not  been  able  to  conduct  full  discovery  on  the 
+authenticity” of the email and that Santander has not provided “any meta data that 
+would support the authenticity of such document, along with the ability to access the 
+attachment links.”    at 2.  But the Court finds that Ms. Orabona has had the ability 
+to conduct sufficient discovery on this email—it was provided to her in response to 
+her request for production during the limited discovery period, she took a Rule 
+
+30(b)(6) deposition of Santander and, although she inquired about other documents 
+produced, did not about Exhibit C.  (ECF No. 35 ¶¶ 3-4, 5.)  She also did not seek 
+further  information  on  Exhibit  C  through  other  discovery  methods.    Moreover, 
+regarding the metadata, which it is unclear if Ms. Orabona had previously asked for, 
+Santander has since provided her with that information.    ¶ 7.           
+    The Court therefore denies the plaintiff’s Motion to Strike.         
+
+ B. Motion to Dismiss; Motion for Summary Judgment                       
+
+    The  Court  begins  with  the  threshold  issue  of  ERISA  preemption,  which 
+Santander  brings  by  way  of  a  Motion  for  Summary  Judgment.    (ECF  No.  22.)  
+Summary judgment is appropriate only when “there is no genuine dispute as to any 
+material fact and the movant is entitled to judgment as a matter of law.”  Fed. R. Civ. 
+P. 56.                                                                    
+    “Congress  enacted  ERISA  to  ‘protect  ...  the  interests  of  participants  in 
+employee benefit plans and their beneficiaries’ by setting out substantive regulatory 
+requirements” for such plans and “to ‘provid[e] for appropriate remedies, sanctions, 
+and ready access to the Federal courts.’”            , 542 U.S. 200,      
+208 (2004) (quoting 29 U.S.C. § 1001(b)).  ERISA provides civil enforcement remedies 
+and “expansive pre-emption provisions” to “provide a uniform regulatory regime” for 
+employee benefit plans.     Among the state laws that ERISA preempts are those 
+that  amount  to  “alternative  enforcement  mechanisms”  to  the  civil  enforcement 
+scheme in ERISA § 502(a).                         , 185 F.3d 1, 7 (1st    
+Cir. 1999) (quoting                                                       
+
+  , 514 U.S. 645, 658 (1995)).                                           
+    In addition, ERISA § 514(a)—defensive preemption—is an affirmative defense 
+to state-law causes of action.   , 185 F.3d at 4.  Under that section, “ERISA pre-
+empts ‘any and all State laws insofar as they may now or hereafter relate to any 
+employee benefit plan’ covered by ERISA.”                       ,         
+592 U.S. 80, 86 (2020) (quoting 29 U.S.C. § 1144(a)).  But “not every state law that 
+
+affects an ERISA plan” is preempted; rather, a state law is preempted when it “relates 
+to an ERISA plan” which is defined by having (a) “a connection with” or (b) “reference 
+to such a plan.”    (quoting         , 532 U.S. 141, 147 (2001));         
+                         , 429 F.3d 294, 301-02 (1st Cir. 2005).         
+    When a plaintiff asserts a claim under state law and the fact finder must refer 
+to the terms of an ERISA plan, the claim is preempted by ERISA.           
+        , 202 F.3d 44, 52 (1st Cir. 2000);             14 F.3d 697,      
+
+700 (1st Cir. 1994).  This is true not only when it is necessary for a finding of liability, 
+but even if reference to the plan is necessary only to calculate damages.   , 
+202 F.3d at 52 (“We have held that ERISA preempts state law causes of action for 
+damages where the damages must be calculated using the terms of an ERISA plan.”); 
+                           , 49 F.3d 790, 794 (1st Cir. 1995).           
+    As to Ms. Orabona’s negligent and fraudulent misrepresentation claims, the 
+First Circuit has specifically held that ERISA preempts those state-law claims when 
+the inquiry of liability or damages is directed to the Plan.              
+   , 466 F.3d 13, 20 (1st Cir. 2006);  , 49 F.3d at 794 (holding that because the 
+
+calculation of damages would require reference to the employee severance plan, 
+ERISA preempted the plaintiff’s misrepresentation claim).  Here, the result should 
+be no different.  Ms. Orabona asserts that Santander made false statements to her to 
+conceal the employee benefits, including severance payments, for which she would 
+have been eligible.  (ECF No. 20 ¶¶ 66-70; 74-77.)  The damages that naturally flow 
+from these claims would be the value of those very benefits, as detailed by the Plan.  
+
+Because the fact finder’s inquiry would  be “directed to the plan,” the claims of 
+fraudulent and negligent misrepresentation (Counts IV and V) are preempted by 
+ERISA.         , 49 F.3d at 794 (quoting                     , 498        
+U.S. 133, 140 (1990)).                                                    
+    That  leaves  Ms.  Orabona’s  claims  of  wrongful  termination,  breach  of  an 
+implied employment contract, and breach of the implied covenant of good faith and 
+fair dealing (Counts I-III).  Whether the damages that she seeks on these claims 
+
+include the Plan’s benefits is less than clear in her First Amended Complaint.  But 
+she rectified any lack of clarity in her objection to the instant Motion, stating, “the 
+severance benefits would only be a portion of consequential damages of those claims.”  
+(ECF  No.  26  at  27.)    Thus,  for  purposes  of  these  claims  Ms.  Orabona  has  not 
+disclaimed  benefits  to  which  she  might  be  entitled  under  the  Plan  and  in  fact 
+explicitly seeks them as part of her claim.                               
+    The fact Ms. Orabona asserts that the Plan benefits are only a portion of the 
+claim, however, does not affect the preemption analysis.  In  , the First Circuit 
+noted that if the plaintiffs “were successful in their suit, the damages would consist 
+
+in part” of ERISA plan benefits.  49 F.3d at 794.  Because the damages “were 
+dependent, at least in part, on analysis of a qualified ERISA plan,” the claim was be 
+preempted.    at 794-95.  Here, too, a calculation of Ms. Orabona’s damages would 
+require reference to the Plan, at least in part.  Counts I-III are accordingly preempted 
+under ERISA.                                                              
+    Because Ms. Orabona’s claims are preempted under ERISA, the Court need 
+
+not proceed to Santander’s further arguments, including its Motion to Dismiss Ms. 
+Orabona’s First Amended Complaint for failure to state a claim upon which relief can 
+be granted.                                                               
+ C. Motion to Amend                                                      
+
+    Ms. Orabona has filed a Motion to Amend her First Amended Complaint to 
+correct a typographical error.  (ECF No. 30.)  The proposed change, to paragraph 63, 
+which currently asserts that Santander did adhere to its policies and procedures 
+when it terminated her, would make clear she alleges Santander  adhere to its 
+policies and procedures.    at 1-2.  This allegation would support her wrongful 
+termination claim which is premised on Santander’s alleged failure to comply with 
+its past disciplinary practices.  But because the Court has determined that this claim, 
+which seeks damages under the Plan, is preempted by ERISA, these particulars of 
+her theory of liability are irrelevant.  The Court therefore denies the Motion to 
+Amend.                                                                    
+    In addition to her Motion to Amend, in her memorandum opposing Santander’s 
+Motion to Dismiss/Motion for Summary Judgment, Ms. Orabona makes a general 
+
+request to amend her First Amended Complaint should “the Court find[] deficiencies 
+in  the  allegations  contained  in”  that  pleading.    (ECF  No.  26  at  29.)    Such  an 
+approach—to ask for leave to amend contingent upon a court determining a complaint 
+must  be  dismissed—is  disfavored  in  the  First  Circuit  because  it  “would impose 
+unnecessary costs and inefficiencies on both the courts and party opponents” and 
+“would dramatically undermine the ordinary rules governing the finality of judicial 
+
+decisions.”                            , 512 F.3d 46, 57 (1st Cir. 2008)  
+(quoting          , 716 F.2d 71,78 (1st Cir. 1983)).  Moreover, this is Santander’s 
+second dispositive motion.  It filed one in response to the original Complaint, which 
+the Court denied without prejudice to allow the parties limited discovery on the 
+ERISA issue.  After that discovery was completed, the Court granted Ms. Orabona’s 
+request to file a First Amended Complaint, on which Santander again moved to 
+dismiss.  Ms. Orabona was “put on notice of the deficiencies in the complaint by the 
+
+motion to dismiss. If [she] had something relevant to add, [she] should have moved 
+to add it then.”                                     , 778 F.3d 228,      
+247 (1st Cir. 2015).  Further, Ms. Orabona offers no indication as to what changes or 
+additions a Second Amended Complaint would contain so the Court cannot assess 
+whether such an amendment would be futile.                                
+                        III.  CONCLUSION                                 
+
+    For the foregoing reasons, the Court DENIES Ms. Orabona’s Motion to Strike 
+(ECF No. 29) and Motion to Amend (ECF No. 30) and GRANTS Santander’s Motion 
+for Summary Judgment on ERISA preemption (ECF No. 22).                    
+
+IT IS SO ORDERED.                                                         
+
+
+_________________________________                                         
+Mary S. McElroy                                                           
+United States District Judge                                              
+September 25, 2024

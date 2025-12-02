@@ -1,0 +1,35 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether a habeas petition alleging unconstitutional conditions of confinement that can only be remedied by release is cognizable under 28 U.S.C. \u00a7 2254, or must instead be brought under 42 U.S.C. \u00a7 1983.",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "The court held that a habeas petition is cognizable under \u00a7 2254 when it alleges that no available state facility can constitutionally confine the petitioner, and release is the only remedy, even if the claim is based on conditions of confinement."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether Diaz\u2019s habeas petition, as pleaded, stated a plausible claim for relief under the Eighth Amendment based on the risk of COVID-19 in all DOCCS facilities.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found that Diaz\u2019s allegations were conclusory and lacked sufficient factual support to plausibly state a claim for habeas relief, so dismissal was proper."
+    }
+  ],
+  "key_precedents": [
+    "Wilkinson v. Dotson, 544 U.S. 74 (2005)",
+    "Heck v. Humphrey, 512 U.S. 477 (1994)",
+    "Preiser v. Rodriguez, 411 U.S. 475 (1973)",
+    "Fielding v. LeFevre, 548 F.2d 1102 (2d Cir. 1977)",
+    "Hope v. Warden York Cnty. Prison, 972 F.3d 310 (3d Cir. 2020)",
+    "Wilson v. Williams, 961 F.3d 829 (6th Cir. 2020)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": true,
+    "close_case": true,
+    "fact_intensive": false
+  },
+  "has_dissent": true,
+  "summary_text": "Petitioner-Appellant Angel Diaz appeals from a judgment of the United States District Court for the Southern District of New York (Rom\u00e1n, J.) adopting the Magistrate Judge\u2019s recommendation to dismiss Diaz\u2019s 28 U.S.C. \u00a7 2254 petition for a writ of habeas corpus. Diaz alleged that, as a result of the COVID-19 pandemic, the State could not provide him with constitutional conditions of confinement at any of its facilities, thus necessitating his release. The District Court concluded that this claim was not cognizable under habeas. This was error. We hold that Diaz makes a proper habeas claim here because he alleges violations of the Constitution that would require (rather than counsel) his (rather than any other prisoner\u2019s) release from all available facilities. This claim is at the core of habeas. Diaz failed, however, to provide the necessary support to make his claim factually plausible. Accordingly, we AFFIRM the district court decision to DISMISS the petition. Judge Lohier DISSENTS in a separate opinion."
+}

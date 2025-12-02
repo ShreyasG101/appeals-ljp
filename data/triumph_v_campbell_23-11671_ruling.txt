@@ -1,0 +1,1136 @@
+UNITED STATES DISTRICT COURT                            
+                  DISTRICT OF MASSACHUSETTS                             
+___________________________________                                       
+                                 )                                      
+TRIUMPH FOODS, LLC,                )                                      
+CHRISTENSEN FARMS MIDWEST, LLC,    )                                      
+THE HANOR COMPANY                  )                                      
+OF WISCONSIN, LLC,                 )                                      
+NEW FASHION PORK, LLP,             )                                      
+EICHELBERGER FARMS, INC.,          )                                      
+ALLIED PRODUCERS’ COOPERATIVE,     )                                      
+individually and on behalf         )                                      
+of their members,                  )                                      
+                                 )         CIVIL ACTION                 
+                  Plaintiffs,    )         No. 23-11671-WGY             
+                                 )                                      
+             v.                  )                                      
+                                 )                                      
+ANDREA JOY CAMPBELL, in her        )                                      
+official capacity as Attorney      )                                      
+General of Massachusetts,          )                                      
+ASHLEY RANDLE, in her official     )                                      
+capacity as Massachusetts          )                                      
+Commissioner of Agriculture,       )                                      
+                                 )                                      
+                  Defendants.    )                                      
+___________________________________)                                      
+
+YOUNG, D.J.                                   July 22, 2024               
+
+                     MEMORANDUM & ORDER                                 
+I.   INTRODUCTION                                                         
+   This case is about pork: how it is raised and where it may           
+be sold for human consumption.  The Plaintiffs, Triumph Foods,            
+LLC (“Triumph”), Christensen Farms Midwest, LLC, The Hanor                
+Company of Wisconsin, LLC, New Fashion Pork, LLP, Eichelberger            
+Farms, Inc., and Allied Producers’ Cooperative (collectively,             
+the “Pork Producers”), seek to stop the enforcement of the                
+Massachusetts Prevention of Farm Animal Cruelty Act (“the Act”)           
+by suing Andrea Joy Campbell, in her official capacity as                 
+Attorney General of Massachusetts, and Ashley Randle, in her              
+official capacity as Massachusetts Commissioner of Agriculture            
+(collectively, the “Commonwealth”).  Am. Compl., ECF No. 17.              
+The Plaintiffs allege that the Federal Meat Inspection Act                
+
+(“FMIA”) preempts the Act’s enforcement.  Id.                             
+   Along with pork, this case is about how a state may                  
+regulate its own commerce while continuing fully to participate           
+in the national economy.  See generally National Pork Producers           
+Council v. Ross, 137 Harv. L. Rev. 330 (2023).  The Constitution          
+and our federal laws provide a framework for each state to                
+follow in regulating certain industries, but, provided they do            
+not interfere with that framework, states may still introduce             
+and enforce their own laws and regulations.  Today, the industry          
+in question is pork; tomorrow, it could be shellfish.  See                
+Amicus Br. Iowa, ECF No. 71.  The industry is, to some extent,            
+irrelevant, so long as the state’s statutory scheme does not              
+
+conflict with that of the federal government.  “The preemption            
+of state laws represents ‘a serious intrusion into state                  
+sovereignty.’”  Virginia Uranium, Inc. v. Warren, 587 U.S. 761,           
+773 (2019) (quoting Medtronic, Inc. v. Lohr, 518 U.S. 470, 488            
+(1996) (plurality opinion)).  As Congress has not preempted the           
+state law in question here summary judgment is granted to the             
+Commonwealth.                                                             
+II.  PROCEDURAL HISTORY                                                   
+   The Pork Producers filed their amended complaint on July             
+31, 2023.  See Am. Compl.  The amended complaint alleged ten              
+causes of action, most arising under the United States                    
+Constitution.  See id.  The Pork Producers requested a                    
+
+preliminary injunction, and after a hearing on September 6,               
+2023, the Court collapsed the motion with a trial on the merits           
+in accordance with Rule 65(a)(1).  See Massachusetts                      
+Lobstermen's Ass'n, Inc. v. National Marine Fisheries Serv., No.          
+CV 24-10332-WGY, 2024 WL 2194260, at *3 n.5 (D. Mass. Apr. 16,            
+2024) (appeal pending).  The Commonwealth then filed a motion to          
+dismiss.  Mot. Dismiss, ECF No. 53; see also Mem. Supp. Mot.              
+Dismiss Compl., ECF No. 54.  The Court granted the                        
+Commonwealth’s motion to dismiss with respect to Counts II-X but          
+denied the motion to dismiss with respect to Count I, alleging a          
+violation of the Dormant Commerce Clause.  See Elec. Clerk’s              
+Notes, ECF No. 66.                                                        
+
+   The Pork Producers then moved for partial summary judgment           
+on the remaining Dormant Commerce Clause claim.  Pls.’ Mot.               
+Partial Summ. J., ECF No. 87; see also Mem. Reasons Supp. Pls.’           
+Mot. Partial Summ. J., ECF No. 88.  In opposition, the                    
+Commonwealth requested that summary judgment be entered against           
+the Pork Producers pursuant to Fed. R. Civ. P. 56(f)(1).  See             
+Mem. Opp’n Pls.’ Mot. Summ. J. & Req. Summ J., ECF No. 94.  On            
+November 14, 2023, the parties agreed to proceed on a case                
+stated basis on the remaining claim.                                      
+   On December 19, 2023, after oral argument, the Court took            
+the matter under advisement.  See Elec. Clerk’s Notes, ECF No.            
+117.  On February 5, 2024, the Court entered a memorandum and             
+
+order which severed the provision of the Act (“the                        
+slaughterhouse exemption”) that violated the Dormant Commerce             
+Clause from the rest of the statute and vacated in part the               
+Court’s previous dismissal of Count III in the Pork Producer’s            
+amended complaint, which claimed that the Act was preempted by            
+the FMIA.  See Memorandum and Order, ECF No. 125.                         
+   The Pork Producers now move for summary judgment on the              
+ground that the Act, with the slaughterhouse exemption severed,           
+is now preempted by the FMIA.  See Pls.’ Mot. Summ. J., ECF No.           
+126 (“Pls.’ Mot.”); see also Pl.’s Mem. Reasons Supp. Pls.’ Mot.          
+Summ. J., ECF No. 127 (“Mem. Supp. Pls.’ Mot.”).  The                     
+Commonwealth cross-moves for summary judgment on the ground that          
+
+the Act is not preempted by the FMIA.  See Defs.’ Mot. Summ. J.,          
+ECF No. 136 (“Defs.’ Mot.”); see also Mem. Supp. Mot. Summ. J.,           
+ECF No. 137 (“Mem. Supp. Defs.’ Mot.”).  The parties have fully           
+briefed the issues.  Id.; Pls.’ Reply Supp. Pls.’ Mot. Summ. J.           
+& Opp. Defs.’ Mot. Summ. J. (“Pls.’ Reply”), ECF No. 158.                 
+III.  UNDISPUTED FACTS                                                    
+   The Pork Producers are a combination of pig farmers (“the            
+Farmer Plaintiffs”) and one pork processor, Triumph.                      
+Collectively, the Pork Producers are located outside the state            
+of Massachusetts, in Minnesota, Iowa, Nebraska, Illinois, South           
+
+Dakota, Wisconsin, Oklahoma, North Carolina, Missouri, Wyoming,           
+and Indiana.  Am. Compl. ¶¶ 12-19.  The Farmer Plaintiffs allege          
+that the Act will force them to “convert their farm operations            
+to meet Minimum Size Requirements.”  Id. ¶ 56.  Triumph alleges           
+that the adjustments it will need to make as a pork processor to          
+comply with the Act are “penalties.”  Id. ¶ 58.                           
+   A.  The Act                                                          
+   In 2016, Massachusetts enacted the Prevention of Farm                
+Animal Cruelty Act, Mass. Gen. Laws ch. 129 App., § 1, through            
+ballot initiative.  Id. ¶ 25.  The Act’s purpose is to “prevent           
+animal cruelty by phasing out extreme methods of farm animal              
+confinement, which also threaten the health and safety of                 
+
+Massachusetts consumers, increase the risk of foodborne illness,          
+and have negative fiscal impacts on the Commonwealth of                   
+Massachusetts.”  Id. § 1-1.  The Act makes it unlawful “for a             
+farm owner or operator within the Commonwealth of Massachusetts           
+to knowingly cause any covered animal to be confined in a cruel           
+manner.”  Id. § 1-5.  The Act defines “confined in a cruel                
+manner” as confining a “breeding pig in a manner that prevents            
+the animal from lying down, standing up, fully extending the              
+animal’s limbs or turning around freely” (“Minimum Size                   
+Requirements”).  Id.  The Act also makes it unlawful for a                
+“business owner or operator to knowingly engage in the sale               
+within the Commonwealth of Massachusetts of any . . . Whole Pork          
+
+Meat that the business owner or operator knows or should know is          
+the meat of a covered animal that was confined in a cruel                 
+manner, or is the meat of the immediate offspring of a covered            
+animal that was confined in a cruel manner.”  Id. § 1-3.  A sale          
+is defined in the Act as “a commercial sale by a business that            
+sells any item covered by Section 3.”  Id. § 1-5(M).  The                 
+definition goes on to state that “[f]or purposes of this                  
+section, a sale shall be deemed to occur at the location where            
+the buyer takes physical possession of an item covered by                 
+Section 3.”  Id.                                                          
+   The Attorney General has exclusive authority to enforce the          
+provisions of the Act.  Id. § 1-6.  Each violation of the Act is          
+
+punishable by a civil fine up to $1,000 and, in addition, the             
+Attorney General may seek injunctive relief to prevent any                
+further violations of the Act.  Id.                                       
+   B.  The FMIA                                                         
+   The FMIA was enacted in 1906 “in light of concerns that              
+unhealthy meat products impaired the effective regulation of              
+meat and meat food products in interstate or foreign commerce.”           
+Pls.' St. Undisputed Material Facts Supp. Pls.’ Mot. Summ. J. ¶           
+40, ECF No. 128 (“Pls.’ SOF”) (internal quotation marks and               
+brackets omitted).  Under the FMIA, pigs are inspected prior to           
+entering a slaughterhouse, while in a slaughterhouse facility,            
+and post-slaughter.  Id. ¶¶ 47-49.  The FMIA does not regulate            
+
+pig farmers, only slaughterhouses.  The FMIA contains an express          
+preemption clause, which states that “[r]equirements within the           
+scope of [the FMIA] with respect to premises, facilities and              
+operations of any [FMIA-inspected] establishment . . . which are          
+in addition to, or different than those made under this chapter           
+may not be imposed.”  Id. ¶ 46; see also 21 U.S.C. § 678.                 
+   In 1967, Congress amended the FMIA due to a “need for                
+stronger, more effective and more uniform State inspection                
+programs . . . [to] provide consumer protection for all                   
+citizens, regardless of where their meat originates.”  Pls.’ SOF          
+¶ 41.  The FMIA was meant to “[c]larify and broaden [federal]             
+authority over meat and meat products capable of use as human             
+
+food,” and “help bring the requirements of Federal and                    
+individual State meat inspection programs into closer conformity          
+toward eventual elimination of the multiple and conflicting               
+requirements presently encountered,” as “[w]ithout such a                 
+coordinated network of Federal and State inspection programs,             
+the health of the consumer cannot adequately be protected, nor            
+can continued confidence in our meat supply be assured.”  Id.             
+   The FMIA is enforced by the Food Safety and Inspection               
+Service (“FSIS”), an agency of the United States Department of            
+Agriculture (“USDA”).  Id. ¶ 43.  For each pig and pork product,          
+the FSIS requires all slaughterhouses to keep records of the              
+following: bills of sale, invoices, receiving and shipping                
+
+papers, descriptions of all livestock, net weight of all                  
+livestock, names and addresses of all buyers, methods of                  
+shipment, names and addresses of carriers, and the contact                
+information for any previous owner of the livestock, as well as           
+serial numbers and identification for each animal.  9 C.F.R. §            
+320.1(b).                                                                 
+   C.  Triumph’s Business Model and Sales                               
+   Triumph, a farmer-owned company headquartered in St.                 
+Joseph, Missouri, is a processor and producer of pork products.           
+Am. Compl. ¶ 12.  Triumph largely receives its supply of pigs             
+from its member-owners, many of whom were its fellow plaintiffs           
+in this case (prior to summary judgment entering against them).           
+
+Id.; see Elec. Clerk’s Notes, ECF No. 99.  Pork produced by               
+Triumph is sold into Massachusetts as well as throughout the              
+country.  Am. Compl. ¶ 117.  In 2022, Triumph processed over              
+eleven million pounds of pork meat sold into Massachusetts.               
+Joint Mot. Clarification & Exped. Status Conf., Attach. A,                
+Partial Stipulation Facts ¶ 4, ECF No. 107-1.  Triumph has made           
+efforts to adjust its business model and structure in order to            
+comply with the Act.  Am. Compl. ¶ 120.                                   
+   Triumph has over 1,000 product codes for its products,               
+including for specific grocery stores, brands, pork byproducts,           
+and type of pig (“open pen gestation”, “grass-fed”, “premium”,            
+
+etc.).  Defs.’ St. Facts Supp. Defs.’ Mot. Summ. J. ¶¶ 26-31,             
+ECF No. 138 (“Defs.’ SOF”).  To differentiate between different           
+pigs in order to ensure they are classified with the correct              
+product code, Triumph requires its pig farmers to deliver pigs            
+at specific times, segregates them from other groups of pigs,             
+keeps a count of all pigs in the group, and, after processing,            
+maintains them in separate storage prior to shipment.  Id. ¶ 34.          
+Triumph estimates it is processing approximately 58,000 pigs per          
+month in compliance with the Act, which Triumph estimates to be           
+about 700,000 compliant pigs (or 70 million pounds) per year              
+available through Triumph.  Id. ¶ 35.                                     
+   Due to the Act, Triumph has created a process to                     
+
+differentiate between pork that meets the Act’s requirements and          
+pork that does not.  Pls.’ SOF ¶ 62.  Triumph has also                    
+implemented new product codes, sorting procedures, and storage            
+locations within its facility in order to ensure compliance with          
+the Act.  Id. ¶ 63.                                                       
+IV.  ANALYSIS                                                             
+   A.  Standard of Review                                               
+   Summary judgment is required when “there is no genuine               
+dispute as to any material fact and the movant is entitled to             
+judgment as a matter of law.”  Fed. R. Civ. P. 56(a).  An issue           
+
+of material fact is genuine “if the evidence is such that a               
+reasonable jury could return a verdict for the nonmoving party.”          
+Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248 (1986).                
+Materiality depends on the substantive law, and only factual              
+disputes that might affect the outcome of the suit can preclude           
+summary judgment.  Id.  In reviewing the evidence, this Court             
+must “draw all reasonable inferences in favor of the nonmoving            
+party, and it may not make credibility determinations or weigh            
+the evidence.”  Reeves v. Sanderson Plumbing Prods., Inc., 530            
+U.S. 133, 150 (2000).  This Court must also “disregard all                
+evidence favorable to the moving party that the jury is not               
+required to believe.”  Id. at 151.                                        
+
+   “The [summary judgment pleading standard is] the same                
+where, as here, both parties have moved for summary judgment.”            
+Bienkowski v. Northeastern Univ., 285 F.3d 138, 140 (1st Cir.             
+2002).  The fact that both parties have moved for summary                 
+judgment on the same issues, “neither dilutes nor distorts” the           
+summary judgment standard of review.  See Hartford Fire Ins. Co.          
+v. CNA Ins. Co., 633 F.3d 50, 53 (1st Cir. 2011).  When courts            
+are considering cross-motions for summary judgment, they must             
+“consider each motion separately, drawing all inferences in               
+favor of each non-moving party in turn.”  AJC Int'l, Inc. v.              
+Triple–S Propiedad, 790 F.3d 1, 3 (1st Cir. 2015) (quoting D & H          
+Therapy Assocs., LLC v. Bos. Mut. Life Ins. Co., 640 F.3d 27, 34          
+
+(1st Cir. 2011)).  “Cross-motions for summary judgment do not             
+alter the summary judgment standard, but instead simply ‘require          
+[the Court] to determine whether either of the parties deserves           
+judgment as a matter of law on the facts that are not                     
+disputed.’”  Wells Real Estate Inv. Tr. II, Inc. v. Chardón/Hato          
+Rey P’ship, 615 F.3d 45, 51 (1st Cir. 2010) (quoting Adria Int'l          
+Grp., Inc. v. Ferré Dev., Inc., 241 F.3d 103, 107 (1st Cir.               
+2001)).  The Court must “in each instance [determine] whether             
+the moving party has met its burden under Rule 56.”  Dan                  
+Barclay, Inc. v. Stewart & Stevenson Servs., Inc., 761 F.Supp.            
+194, 197–98 (D. Mass. 1991) (Caffrey, J.).                                
+   B.  The Act Is Not Preempted by the FMIA.                            
+
+   The Pork Producers argue that the Act is preempted by                
+the FMIA via both express preemption and conflict                         
+preemption.  See Mem. Supp. Pl.’s Mot.  These arguments                   
+misconstrue the Supreme Court’s holding in National Meat                  
+Ass'n v. Harris, the scope of the Act, and the text of the                
+FMIA.  National Meat Ass'n v. Harris, 565 U.S. 452 (2012).                
+     1. Express Preemption                                              
+   In Harris, the Court reviewed whether a California                   
+provision (the “California Act”) that regulated slaughterhouses           
+within the state was preempted by the FMIA.  Id. at 455.  The             
+California Act had three provisions: 1) a provision banning any           
+
+slaughterhouse from buying, selling, receiving “a nonambulatory           
+animal”; 2) a provision banning the “process, butcher, or [sale           
+of] meat or products of nonambulatory animals for human                   
+consumption”; and 3) a provision against “hold[ing] a                     
+nonambulatory animal without taking immediate action to humanely          
+euthanize the animal.”  See Cal. Penal Code § 599f(a)-(c).  The           
+Court ruled that the California Act was expressly preempted by            
+the FMIA because the California Act “substitutes a new                    
+regulatory regime for the one the FMIA prescribes.”  Harris, 565          
+U.S. at 460.  The Court further held that although “the FMIA’s            
+preemption clause does not usually foreclose state regulation of          
+the commercial sales activities of slaughterhouses,” [the                 
+
+California Act’s] sales ban was “a criminal proscription                  
+calculated to help implement and enforce each of the section’s            
+other regulations,” and was therefore preempted by the FMIA.              
+Id. at 463-64.                                                            
+   The Pork Producers argue that the Act in question here               
+functions in much the same way; because the Act’s sales ban               
+imposes additional conditions for FMIA regulated establishments,          
+Triumph argues it “functions as a command to slaughterhouses to           
+structure their operations in the exact way the [Act] mandates.”          
+Mem. Supp. Pls.’ Mot. 17 (quoting Harris, 565 U.S. at 464).  The          
+Act, however, differs from the California Act in Harris in a              
+fundamental way: the Act has no provision requiring any action            
+
+by a slaughterhouse other than its sales ban.                             
+   In Harris, the Court noted that California “may motivate an          
+operational choice without running afoul of the FMIA’s                    
+preemption provision.”  565 U.S. at 463.  It was the fact that            
+the sales ban functioned “as a command to slaughterhouses to              
+structure their operations in the exact way the remainder of              
+[the California Act] mandate[d].”  Id. at 464 (emphasis added).           
+By contrast, the Act here only bans the sale of noncompliant              
+pork meat; it does not regulate how a slaughterhouse operates.            
+As the Commonwealth argues, “the practical result of the Act is           
+that a slaughterhouse that wishes to sell whole pork meat in              
+Massachusetts must be able to identify whether that meat                  
+
+originated from a compliant pig.”  Mem. Supp. Defs.’ Mot. 18.             
+Slaughterhouses may still operate in the same way they did                
+previously -- noncompliant pork processing is not only allowed,           
+but slaughterhouses are not even required to segregate                    
+noncompliant pork from compliant pork.  See, e.g., Virginia               
+Uranium, 587 U.S. at 790–91 (Ginsburg, J., concurring) (“The              
+distinction drawn in National Meat thus supports this                     
+conclusion: A state law regulating an upstream activity within            
+the State's authority is not preempted simply because a                   
+downstream activity falls within a federally occupied field.”).           
+   The Pork Producers also argue that Triumph has had to make           
+“changes to how pork is physically stored at and shipped from             
+
+Triumph’s facility,” but it is unclear on the record why that             
+would be required under the Act -- these changes for storage and          
+distribution may make Triumph’s tracking and organization of              
+compliant pork easier and more manageable, but they are not               
+required under the law.  Pls.’ Reply 15.  As the FSIS already             
+requires, a slaughterhouse must be able to identify where its             
+pork meat came from.1  See supra, p. 7-8.  Organizing and storing         
+the pork to ensure that the Act -- compliant pork is shipped              
+together is no different than the storage procedures that                 
+Triumph is already following –- it segregates organic, grass-             
+fed, or otherwise “specialty” pork.  Though the Act requires              
+
+                                                                        
+   1 The Pork Producers raise, for the first time in their              
+reply, that the Act imposes on farmers and slaughterhouses a              
+recordkeeping requirement, “under the penalty of perjury,” so             
+different than those of the FMIA that it must be preempted.               
+Pls.’ Reply.  This requirement, for certifications of how pig             
+suppliers confine breeding pigs, however, is far outside the              
+scope and purpose of the FMIA; again, these records are made in           
+order to determine the treatment of the animals prior to                  
+slaughter, not to determine whether the animals are fit for               
+human consumption.  This requirement therefore sits far outside           
+the scope of the FMIA, and consequently, the Pork Producers have          
+not met their burden in demonstrating that the requirement is             
+preempted.                                                                
+changes in operations for pig farmers, which the FMIA does not            
+cover, slaughterhouses may continue to operate as they did                
+previously -- they are simply only allowed to ship compliant              
+pork meat for sale in Massachusetts.2                                     
+   Finally, the Pork Producers argue that the Act “[overrides]          
+
+the USDA’s inspection and approval of the [pork] for sale”                
+because Massachusetts has independently found that the pork is            
+“adulterated, not fit for human consumption.”  Mem. Supp. Pl.’s           
+Mot. 14.  The Pork Producers argue that because one of the                
+stated purposes of the Act is to protect “the health and safety           
+of Massachusetts consumers,” in banning the sale of certain pork          
+products, the Act creates additional requirements for the same            
+stated purpose as that of the FMIA.  Mass. Gen. Laws ch. 129              
+App., § 1-1.  As the Pork Producers also correctly explain,               
+however, this Court must “look . . . to the effect of the                 
+regulatory scheme.”  Associated Indus. of Mass. v. Snow, 898              
+F.2d 274, 279 (1st Cir. 1990).  It is not the stated purpose of           
+
+the state statute, but the operation of that statute, that                
+determines whether it is preempted by federal law.  Here,                 
+                                                                        
+   2 The Pork Producers also argue that the other cases cited           
+by the Commonwealth are inapplicable because those cases                  
+involved wholesale bans on types of meat, not simply bans on how          
+that meat “was produced or processed.”  Pls.’ Reply 8.  The Pork          
+Producers, however, have only shown that the ban here affects             
+how pork is “produced”, which is a function of the pig farmers,           
+and not how pork is “processed”, which is a function of Triumph           
+and other slaughterhouses.  The argument, therefore, fails.               
+preventing consumption of adulterated products is the purpose of          
+the FMIA, but it is not the purpose of the Act.  The Act’s                
+purpose is to prevent animal cruelty.  The language otherwise is          
+just that -- language -- and in practice, the Act has no effect           
+on health and safety in the Commonwealth.                                 
+
+   The Court, therefore, determines that the Act is not                 
+expressly preempted by the FMIA.                                          
+     2. Conflict Preemption                                             
+   The Pork Producers also argue that the Act’s sales ban is            
+preempted under principles of conflict preemption because the             
+sales ban “conflicts with, and obstructs, the objectives of the           
+FMIA.”  Mem. Supp. Pl.’s Mot. 23.  Conflict preemption is                 
+triggered “when the state law stands as an obstacle to the                
+accomplishment and execution of the full purposes and objectives          
+of Congress.”  Weaver’s Cove Energy, LLC v. Rhode Island Coastal          
+Res. Mgmt. Council, 589 F.3d 458, 472-73 (1st Cir. 2009).                 
+Should a statute have a preemption provision, as the FMIA does,           
+
+a conflict preemption analysis is generally inappropriate. See            
+English v. General Elec. Co., 496 U.S. 72, 79 (1990) (conflict            
+preemption analysis applies in the “absence of explicit                   
+statutory language.”).  A presumption against preemption applies          
+generally to such an analysis as well.  See Medicaid & Medicare           
+Advantage Prod. Ass'n of P.R., Inc. v. Emanuelli Hernandez, 58            
+F.4th 5, 11 (1st Cir. 2023).  The Court here, however, will               
+continue to conduct such an analysis.                                     
+   A state law is preempted by conflict preemption when “it is          
+impossible for a private party to comply with both state and              
+federal requirements” or where state law “stands as an obstacle           
+
+to the accomplishment and execution of the full purposes and              
+objectives of Congress.”  English, 496 U.S. at 79 (quoting Hines          
+v. Davidowitz, 312 U.S. 52, 67 (1941)).  “What is a sufficient            
+obstacle is a matter of judgment, to be informed by examining             
+the federal statute as a whole and identifying its purpose and            
+intended effects.”  Maine Forest Prod. Council v. Cormier, 51 F.          
+4th 1, 6 (1st Cir. 2022) (citing Crosby v. National Foreign               
+Trade Council, 530 U.S. 363, 373 (2000)).                                 
+   The purpose of the FMIA is “adequately” to “protect” “the            
+health of the consumer” through the intended effect of “a                 
+uniform framework” of federal and state meat inspection                   
+programs.  Pls.’ SOF ¶ 41.  The Act, in contrast, seeks to                
+
+prevent the sale of pork raised in inhumane conditions, without           
+concern for whether that meat is safe to eat (in other words, an          
+otherwise healthy pork product could be noncompliant with the             
+Act, not because it is considered unhealthy, but because the              
+policy preferences of the Massachusetts voters demand it not be           
+eligible for sale).  There is nothing in the record to indicate           
+that since the Act’s enactment, obstacles have occurred in                
+ensuring safe and healthy pork in the Massachusetts market                
+through the FMIA.                                                         
+   Further, as explained above, slaughterhouses can easily              
+comply with both federal requirements and the requirements                
+imposed by the Act because the Act does not impose any new                
+
+requirements on slaughterhouses within the scope of the FMIA.             
+As the Act does not impose any new requirements on                        
+slaughterhouses within the scope of the FMIA, it cannot, by               
+definition, stand as an obstacle to the accomplishment or                 
+execution of Congress’s objectives under the FMIA.                        
+   The Pork Producers argue that because there is “pork meat            
+product that has passed FMIA inspection and is approved for sale          
+by the USDA [that] is now unable to be sold,” the Act conflicts           
+with the FMIA.  Pls.’ Reply 19.                                           
+   Although the Pork Producers point to instances in the                
+record where a farmer, in providing both compliant and non-               
+compliant pigs to a processor, erred in denoting pigs as                  
+
+compliant, resulting in pigs that had passed full USDA                    
+inspection being withdrawn from the market, such instances do             
+not interfere with the objectives of the FMIA.3  If the farmer            
+had erred in labeling pigs delivered as “grass-fed”, and such an          
+
+                                                                        
+   3 The objective of the FMIA is to ensure safe pork enters            
+the market.  The FMIA, however, does not require that all safe            
+pork available to the market be able to enter the market.                 
+error was discovered after packaging and shipment, the                    
+mislabeled pork products would also have been withdrawn from the          
+market to prevent misleading customers.  The FMIA’s purpose, to           
+protect the health of consumers through uniform meat inspection           
+regulations, is in no way precluded by the Act’s recording                
+
+requirements.  The Court, therefore, determines that the Act is           
+not preempted by the FMIA via conflict preemption.                        
+V.   CONCLUSION                                                         
+   After tremendously helpful briefing and oral argument, the           
+Court took the parties’ cross motions for summary judgment under          
+advisement.  The Court now, after careful consideration,                  
+determines that the Act is not preempted by the FMIA, and                 
+therefore GRANTS the Commonwealth’s motion for summary judgment,          
+ECF No. 136, and DENIES the Pork Producers’ motion for summary            
+judgment, ECF No. 126.  Judgment shall enter for the                      
+Commonwealth.                                                             
+   SO ORDERED.                                                          
+
+                                   _/s/ William G. Young  _             
+                                       WILLIAM G. YOUNG                 
+                                            JUDGE                       
+                                            of the                      
+                                        UNITED STATES4                  
+
+                                                                        
+   4 This is how my predecessor, Peleg Sprague (D. Mass. 1841-          
+1865), would sign official documents.  Now that I’m a Senior              
+District Judge I adopt this format in honor of all the judicial           
+colleagues, state and federal, with whom I have had the                   
+privilege to serve over the past 46 years.
+
+---
+
+UNITED STATES DISTRICT COURT                            
+                  DISTRICT OF MASSACHUSETTS                             
+___________________________________                                       
+                                 )                                      
+TRIUMPH FOODS, LLC,                )                                      
+CHRISTENSEN FARMS MIDWEST, LLC,    )                                      
+THE HANOR COMPANY,                 )                                      
+OF WISCONSIN, LLC,                 )                                      
+NEW FASHION PORK, LLP,             )                                      
+EICHELBERGER FARMS, INC.,          )                                      
+ALLIED PRODUCERS’ COOPERATIVE,     )                                      
+individually and on behalf         )                                      
+of their members,                  )                                      
+                                 )         CIVIL ACTION                 
+                  Plaintiffs,    )         No. 23-11671-WGY             
+                                 )                                      
+             v.                  )                                      
+                                 )                                      
+ANDREA JOY CAMPBELL, in her        )                                      
+official capacity as Attorney      )                                      
+General of Massachusetts,          )                                      
+ASHLEY RANDLE, in her official     )                                      
+capacity as Massachusetts          )                                      
+Commissioner of Agriculture,       )                                      
+                                 )                                      
+                  Defendants.    )                                      
+___________________________________)                                      
+
+YOUNG, D.J.                                   February 5, 2024            
+
+                     MEMORANDUM & ORDER                                 
+
+I.   PROCEDURAL HISTORY                                                   
+   The Plaintiffs Triumph Foods, LLC, Christensen Farms                 
+Midwest, LLC, The Hanor Company of Wisconsin, LLC, New Fashion            
+Pork, LLP, Eichelberger Farms, Inc., and Allied Producers’                
+Cooperative (collectively, the “Pork Producers”) filed their              
+amended complaint, ECF No. 17, on July 31, 2023.  The complaint           
+alleged ten causes of action, most under the dormant Commerce             
+Clause of the United States Constitution, against the                     
+Defendants, the Massachusetts Attorney General and the                    
+Massachusetts Commissioner of Agriculture (collectively, “The             
+Commonwealth”), due to the Prevention of Farm Animal Cruelty Act          
+(“the Act”), Mass. Gen. Laws Ann. ch. 129 App., § 1-1.  See Am.           
+
+Compl., ECF No. 17.  The Pork Producers requested a preliminary           
+injunction and, after a motion hearing on September 6, 2023, the          
+Court collapsed that motion with trial on the merits in                   
+accordance with Rule 65(a)(2).  Electronic Clerk’s Notes, ECF             
+No. 42.  The Commonwealth then filed a motion to dismiss.  Mot.           
+Dismiss, ECF No. 53; see also Mem. Supp. Mot. Dismiss, ECF No.            
+54.  The Court granted the Commonwealth’s motion to dismiss with          
+respect to Counts II - X but denied the motion to dismiss with            
+respect to Count I, alleging a violation of the dormant Commerce          
+Clause.  See Electronic Clerk’s Notes, ECF No. 66.                        
+   The Pork Producers then brought a motion for partial                 
+summary judgment on Count I.  Mot. Summ. J., ECF No. 87; see              
+
+also Mem. Supp. Mot. Summ. J., ECF No. 88.  The parties fully             
+briefed the issues and the Commonwealth requested that summary            
+judgment be entered against the Pork Producers pursuant to Fed.           
+R. Civ. P. 56(f)(1).  See Mem. Opp’n Summ. J., ECF No. 94.  On            
+November 14, 2023, the Court heard oral argument on the motion            
+for summary judgment.  See Electronic Clerk’s Notes, ECF No. 99.          
+The Court entered summary judgment sua sponte, per the request            
+of the Commonwealth, against all Plaintiffs aside from Triumph            
+Foods, LLC (“Triumph”), id., on all claims under a Pike theory            
+of discrimination.  Id.; see Hr’g Tr. 16:1-7,1 ECF No. 103; see           
+also Pike v. Bruce Church, Inc., 397 U.S. 137 (1970).                     
+   The parties agreed to proceed on a case stated basis as to           
+
+Triumph’s claim under Count I with respect to the sales                   
+provision of the Act (the “slaughterhouse exception”).  Id.  The          
+parties have briefed the slaughterhouse exception issue of Count          
+I on a case stated basis.  Defs.’ Br. Case Stated, ECF No. 109;           
+Pl.’s Br. Case Stated, ECF No. 110.                                       
+   On December 18, 2023, the Commonwealth filed a motion to             
+dismiss for lack of jurisdiction.  See Mot. Dismiss, ECF No.              
+114; see also Mem. Supp. Mot. Dismiss, ECF No. 115.  The parties          
+have briefed that issue fully.  See Opp’n. Mot. Dismiss, ECF No.          
+121.                                                                      
+II.  FINDINGS OF FACT                                                     
+   In 2016, Massachusetts enacted the Act through ballot                
+
+initiative.  Am. Compl. ¶ 25.  The Act’s purpose is to “prevent           
+animal cruelty by phasing out extreme methods of farm animal              
+confinement, which also threaten the health and safety of                 
+                                                                        
+1 PLAINTIFFS’ COUNSEL (Mr. Raupp): With respect to the claims             
+under Pike vs. Bruce Church, which I don’t think were moved on,           
+certainly not by us -                                                     
+THE COURT: Well theirs was an outright [] opposition, and I             
+think they’re properly before me, and in any event I reject it            
+[i.e., the argument based on Pike].                                       
+Massachusetts consumers, increase the risk of foodborne illness,          
+and have negative fiscal impacts on the Commonwealth of                   
+Massachusetts.”  Mass. Gen. Laws Ann. ch. 129 App., § 1-1.  The           
+Act makes it unlawful “for a farm owner or operator within the            
+Commonwealth of Massachusetts to knowingly cause any covered              
+
+animal to be confined in a cruel manner.”  Id. § 1-2.  The Act            
+defines “confined in a cruel manner” as confining a “breeding             
+pig in a manner that prevents the animal from lying down,                 
+standing up, fully extending the animal’s limbs or turning                
+around freely” (“Minimum Size Requirements”).  Id. § 1-5.  The            
+Act also makes it unlawful for a “business owner or operator to           
+knowingly engage in the sale within the Commonwealth of                   
+Massachusetts of any . . . [w]hole pork meat that the business            
+owner or operator knows or should know is the meat of a covered           
+animal that was confined in a cruel manner, or is the meat of             
+the immediate offspring of a covered animal that was confined in          
+a cruel manner.”  Id. § 1-3.  A sale is defined in the Act as “a          
+
+commercial sale by a business that sells any item covered by              
+section 3 [of the Act],” but does not include “any sale                   
+undertaken at an establishment at which inspection is provided            
+under the Federal Meat Inspection Act.”  Id. § 1-5(M).  The               
+definition goes on to state that “for purposes of this section,           
+a ‘sale’ shall be deemed to occur at the location where the               
+buyer takes physical possession of an item covered by . . .               
+section 3 [of the Act].”  Id.                                             
+   The Attorney General has exclusive authority to enforce the          
+provisions of the Act.  Id. § 1-6.  Each violation of the Act is          
+punishable by a civil fine up to $1,000, and in addition, the             
+
+Attorney General may seek injunctive relief to prevent any                
+further violations of the Act.  Id.                                       
+   The Pork Producers here are a combination of pig farmers             
+(“the Farmer Plaintiffs”) and one pork processor, Triumph.                
+Collectively, the Pork Producers are located outside the                  
+Commonwealth of Massachusetts, in Minnesota, Iowa, Nebraska,              
+Illinois, South Dakota, Wisconsin, Oklahoma, North Carolina,              
+Missouri, Wyoming, and Indiana.  Am. Compl. ¶¶ 12-19.  The                
+Farmer Plaintiffs allege that the Act will force them to                  
+“convert their farm operations to meet Minimum Size                       
+Requirements.”  Id. ¶ 56.  Triumph alleges that the adjustments           
+it will need to make as a pork processor in order to comply with          
+
+the Act are “penalties.”  Id. ¶ 58.                                       
+     a. Triumph’s Business Model and Sales                              
+   Triumph, a farmer-owned company headquartered in St.                 
+Joseph, Missouri, is a processor and producer of pork products.           
+Id. ¶ 12.  Triumph largely receives its supply of pigs from its           
+member-owners, many of whom were its fellow plaintiffs in this            
+case (prior to summary judgment entering against them).  Id.;             
+see Electronic Clerk’s Notes, ECF No. 99.  Pork produced by               
+Triumph is sold into Massachusetts as well as throughout the              
+country.  Am. Compl. ¶ 117.  In 2022, Triumph processed over              
+eleven million pounds of pork meat sold into Massachusetts.               
+Joint Mot. Clarification Expedited Status Conf., Attach. A,               
+
+Partial Stipulation of Facts ¶ 4, ECF No. 107-1.  Triumph has             
+made efforts to adjust its business model and structure in order          
+to comply with the Act.  Am. Compl. ¶ 120.                                
+   Triumph receives its orders for pork products through what           
+it refers to as its “exclusive pork marketer,” Seaboard                   
+Corporation, Seaboard Foods, LLC, and Seaboard Foods of                   
+Missouri, Inc. (“Seaboard” or “SBF”).  Id. ¶ 99.  Triumph and             
+Seaboard’s relationship is governed by a contract between the             
+two (“the Marketing Agreement”) which states that “[Triumph]              
+shall produce pork products at the TF Plant and that [Seaboard]           
+shall purchase, market and sell such products pursuant to this            
+Agreement.”2  Mem. Supp. Mot. Dismiss, Declaration, Ex. A,                
+
+Marketing Agreement § 2.01, ECF No. 115-2; Mem. Supp. Mot.                
+Dismiss 3.  The Marketing Agreement further states that “SBF              
+shall have the exclusive right to, and shall be obligated to,             
+market and sell on behalf of TF all TF Plant Products.”  Mem.             
+Supp. Mot. Dismiss, Declaration, Ex. A, Marketing Agreement §             
+                                                                        
+   2 “TF Plant” refers to Triumph’s pork processing plant.              
+“SBF” refers to Seaboard, and “TF” refers to Triumph.                     
+6.01(a).  “SBF shall use its commercially reasonable efforts              
+(taking into account customer needs and requirements) to                  
+schedule, market, and sell to customers all of the TF Plant               
+Products.”  Id.  Finally, the Marketing Agreement states that             
+Triumph agrees to produce “pork products that conform to the              
+
+relevant quality standards and specifications made available by           
+SBF to TF (the “Quality Standards”) . . . , as amended from time          
+to time.”  Id. § 7.02(a).  “TF shall be solely responsible and            
+liable for any Losses arising out of the production and sale of           
+products produced at the TF Plant that do not meet the Quality            
+Standards.”  Id. § 7.02(b).  “TF Plant Products that do not, in           
+the Reasonable Good Faith Determination of SBF, meet the                  
+applicable Quality Standards (“Non-Conforming Products”) shall            
+be marketed and sold to customers by SBF as it deems appropriate          
+in its sole discretion.”  Id. § 7.02(c).                                  
+     b. The Act’s FMIA Exception (“Slaughterhouse Exception”)           
+   A processing facility is inspected under the Federal Meat            
+
+Inspection Act (“FMIA”) when the United States Department of              
+Agriculture Food Safety and Inspection Service examines the               
+product, facilities, and records of such pork processing plant.           
+See Am. Compl. ¶¶ 76-86.  Triumph is an FMIA-inspected facility.          
+See Mem. Supp. Mot. Summ. J. 12.  There are three pork                    
+processing facilities that are FMIA-inspected within the                  
+Commonwealth of Massachusetts.  See Pl.’s Br. Case Stated 3.              
+Outside Massachusetts, there are 101 other FMIA-inspected                 
+facilities that package and distribute such products for sale.            
+See id.                                                                   
+    As stated above, see p.4, supra, the Act here provides an           
+exemption from its requirements for pork products when those              
+
+products are sold on the premises of an FMIA-inspected facility.          
+   The exemption only occurs for the sale at the inspected              
+facility.  If, for instance, a Massachusetts FMIA-inspected pork          
+processer sold non-compliant pork on its premises to a grocery            
+store, that sale would be exempt; however, the store’s attempts           
+to then sell that non-compliant pork in-store, off the premises           
+of the FMIA-inspected facility, would be covered under the Act.           
+Were that same pork processor to sell directly to the consumer            
+at its facility, however, whether a family purchasing pork for            
+dinner or a hospital chain purchasing pork to be served, not              
+sold, to hundreds of patients, there would be no further sale of          
+the pork after the sale on the facility’s premises, and the               
+
+noncompliant pork sale would therefore be entirely exempt from            
+the Act.                                                                  
+III.  ANALYSIS                                                            
+   A.  The Commonwealth’s Motion to Dismiss                             
+   The Commonwealth, in its motion to dismiss, argues that              
+because Seaboard, not Triumph, markets and sells Triumph pork             
+product into Massachusetts, Triumph “has not substantiated harm           
+to Triumph causally connected” to the Act.  Mem. Supp. Mot.               
+Dismiss 1-2 (emphasis in original).  This is a distinction                
+without a difference, however, and the Commonwealth’s motion to           
+dismiss is denied.                                                        
+     1. Standard of Review                                              
+
+   When evaluating a motion to dismiss pursuant to Federal              
+Rule of Civil Procedure 12(b)(1), granting such a motion “is              
+appropriate only when the facts alleged in the complaint, taken           
+as true, do not justify the exercise of subject matter                    
+jurisdiction.”  Muniz-Rivera v. United States, 326 F.3d 8, 11             
+(1st Cir. 2003); see also MSP Recovery Claims Series 44, LLC v.           
+Bunker Hill Ins. Co., No. CV 22-11681-WGY, 2023 WL 4744739, at            
+*3 (D. Mass. July 25, 2023).  “When a district court considers a          
+Rule 12(b)(1) motion, it must credit the plaintiff's well-pled            
+factual allegations and draw all reasonable inferences in the             
+plaintiff's favor.”  Merlonghi v. United States, 620 F.3d 50, 54          
+(1st Cir. 2010).  “In addition, the court may consider whatever           
+
+evidence has been submitted, such as the depositions and                  
+exhibits submitted in this case.”  Aversa v. United States, 99            
+F.3d 1200, 1210 (1st Cir. 1996).  “While the court generally may          
+not consider materials outside the pleadings on a Rule 12(b)(6)           
+motion, it may consider such materials on a Rule 12(b)(1)                 
+motion.”  Gonzalez v. United States, 284 F.3d 281, 288 (1st Cir.          
+2002), as corrected (May 8, 2002).                                        
+     2. Standing under Article III                                      
+   “Article III confines the federal judicial power to the              
+resolution of ‘Cases’ and ‘Controversies.’ For there to be a              
+case or controversy under Article III, the plaintiff must have a          
+‘personal stake’ in the case -- in other words, standing.”                
+
+TransUnion LLC v. Ramirez, 594 U.S. 413, 423 (2021).  “[T]o               
+establish standing, a plaintiff must show (i) that he suffered            
+an injury in fact that is concrete, particularized, and actual            
+or imminent; (ii) that the injury was likely caused by the                
+defendant; and (iii) that the injury would likely be redressed            
+by judicial relief.” Id. (citing Lujan v. Defs. of Wildlife, 504          
+U.S. 555, 560-61 (1992)).                                                 
+   The Commonwealth characterizes Triumph’s relationship with           
+Seaboard to that of a buyer and seller.  As the Commonwealth              
+describes it, Triumph sells its pork products to Seaboard, and            
+Seaboard then, as now-owner of these products, markets and sells          
+them into Massachusetts.  Mem. Supp. Mot. Dismiss 6-7.  Triumph           
+
+disputes this characterization, however, instead describing               
+Seaboard as a contractor Triumph engages to market its products.          
+See Opp’n. Mot. Dismiss 10.  Drawing every reasonable inference           
+in favor of Triumph as the plaintiff, the contractual                     
+relationship between Seaboard and Triumph does not prevent                
+Triumph from suffering injury under the Act.  Triumph’s pork              
+products can only be sold into Massachusetts when they are                
+compliant with the Act; who markets the products and creates              
+relationships with customers does not change that fact.                   
+   In order to produce compliant pork, Triumph must (and in             
+fact, has begun to) restructure its processing facility and               
+procedures, segregating pork that meets the requirements of the           
+
+Act.  See Am. Compl. ¶ 89.  Without compliant pork, Triumph is            
+unable to sell its products into Massachusetts at all.  These             
+are both concrete, particularized injuries to Triumph.  See,              
+e.g., Gustavsen v. Alcon Labs., Inc., 903 F.3d 1, 8 (1st Cir.             
+2018) (“[A]ctual economic loss . . . is the prototypical                  
+concrete harm.”).                                                         
+   This injury to Triumph is also imminent and actual economic          
+harm.  See Lujan, 504 U.S. at 555.  The Commonwealth argues that          
+Seaboard is required “to sell all of Triumph’s product.”  Mem.            
+Supp. Mot. Dismiss 8 (emphasis in original).  With this claim,            
+however, the Commonwealth misreads the Marketing Agreement.               
+Seaboard is only required to sell all of Triumph’s product that           
+
+meets the Quality Standards set forth by Seaboard.  Product that          
+fails to meet these Quality Standards is only sold at Seaboard’s          
+discretion, and Triumph is responsible for any loss suffered due          
+to the sale or failure to sell such products.  Seaboard designs           
+its Quality Standards based on the needs of its consumers;                
+consumers in Massachusetts likely have more stringent                     
+requirements due to the Act.  Triumph, therefore, must produce            
+pork compliant with the Act in order to make its sales.                   
+   Triumph has standing to challenge the Act.  The                      
+Commonwealth’s motion to dismiss is denied.                               
+   B.  The Pork Producers’ Claims under Pike                            
+
+   Triumph and its co-plaintiffs have attempted to reserve              
+argument of their claims under Pike.  See Pike, 397 U.S. at 142.          
+Under this argument, the Pork Producers argue that “the burdens           
+on interstate commerce outweigh the putative local benefits of            
+the statute.”  See Mem. Supp. Mot. Summ. J. v.  The Court                 
+entered summary judgment against this claim at oral argument;             
+the Pork Producers, however, continue to raise it.  The claim is          
+foreclosed by the recent Supreme Court decision in National Pork          
+Producers Council v. Ross, 598 U.S. 356, 371 (2023), and the              
+Court therefore entered summary judgment against the Pork                 
+Producers on this argument.  In Ross, two organizations of pork           
+producers filed suit on behalf of their members to challenge              
+
+Proposition 12, a California state statute that is nearly                 
+identical to the Act.  Id. at 367.  The Supreme Court ruled that          
+“harm to some producers’ favored methods of operation” did not            
+rise to a “substantial harm to interstate commerce,” and that             
+“increased production expenses” cannot be compared by a court to          
+“noneconomic” state benefits.  Id. at 385-87 (internal quotation          
+marks omitted); id. at 380-81.  Further, the Court explained,             
+“judges often are ‘not institutionally suited to draw reliable            
+conclusions of the kind that would be necessary . . . to satisfy          
+[the] Pike’ test as petitioners conceive it.”  Id. at 380                 
+(quoting Department of Revenue of Kentucky v. Davis, 553 U.S.             
+328, 353 (2008)).  Triumph apparently wants the Court to attempt          
+
+to apply the Pike balancing test to the facts of its case.  As            
+the Supreme Court notes, however, “[t]he competing goods are              
+incommensurable. . . . In a functioning democracy, policy                 
+choices like these usually belong to the people and their                 
+elected representatives.”  Id. at 382.                                    
+   “[C]ourts should not be in a position to choose between              
+different substantive moral positions based on an inchoate                
+balancing test.  Instead, the question should be whether the              
+state has a genuine and well-founded conscience concern                   
+underlying its law.”  Note, The Dormant Commerce Clause and               
+Moral Complicity in a National Marketplace, 137 Harv. L. Rev.             
+980, 1001 (2024) (“The Dormant Commerce Clause and Moral                  
+
+Complicity”).  As the Act here is the result of Massachusetts             
+citizens petition process, see Sec’y of the Commonwealth of               
+Mass., Information for Voters, Massachusetts 2016 Ballot, 8–11            
+(2016),3 these “social norms . . . have won out in the political          
+process of [Massachusetts].”  The Dormant Commerce Clause and             
+                                                                        
+   3 https://www.sec.state.ma.us/divisions/elections/download/          
+information-for-voters/IFV_2016-English.pdf.                              
+Moral Complicity, supra, at 1000-01.  Accordingly, this Court             
+declines to engage in Pike balancing and rejects the Pork                 
+Producers’ argument.                                                      
+   The Pork Producers complain that summary judgment should             
+not have entered against them on this point as the Court gave             
+
+inadequate warning of that result.  See Fed. R. Civ. P. 56(f)             
+(“After giving notice and a reasonable time to respond, the               
+court may (1) grant summary judgment for a nonmovant . . . .”).           
+The point is of no practical moment (as the Court sought to               
+explain during a busy motion session).  The legal issue had been          
+fully briefed and the Court’s resolution obviated the need for            
+evidence.                                                                 
+   C.  Constitutionality of the “Slaughterhouse Exception”              
+   Finally, Triumph and the Commonwealth proceeded on a case            
+stated basis regarding Triumph’s last claim, the so-called                
+slaughterhouse exception.                                                 
+     1. Standard of Review                                              
+
+   “In a case stated, the parties waive trial and present the           
+case to the court on the undisputed facts in the pre-trial                
+record.”  Sánchez-Rodríguez v. AT&T Mobility P.R., Inc., 673              
+F.3d 1, 10-11 (1st Cir. 2012) (quotation and citation omitted).           
+“‘Case-stated’ resolution is appropriate ‘when the basic dispute          
+between the parties concerns only the factual inferences that             
+one might draw from the more basic facts to which the parties             
+have agreed, and where neither party has sought to introduce              
+additional factual evidence or asked to present witnesses.’”              
+Id. at 11 (quoting United Paperworkers Int’l Union, Local 14 v.           
+International Paper Co., 64 F.3d 28, 31 (1st Cir. 1995)).  In a           
+case stated procedure, “the Court approaches the issues as a              
+
+neutral adjudicator and is entitled to ‘engage in a certain               
+amount of factfinding, including the drawing of inferences.’”  A          
+& W Maint., Inc. v. First Mercury Ins. Co., 91 F. Supp. 3d 113,           
+118 (D. Mass. 2015) (citation omitted).                                   
+     2. Analysis                                                        
+   The Act defines “sale” as: “a commercial sale by a business          
+that sells any item covered by section 3 [of the Act]; provided,          
+however, that ‘sale’ shall not include any sale undertaken at an          
+establishment at which inspection is provided under the Federal           
+Meat Inspection Act.”  Mass. Gen. Laws Ann. ch. 129 App., § 1-5.          
+The Act provides further that “for purposes of this section, a            
+‘sale’ shall be deemed to occur at the location where the buyer           
+
+takes physical possession of an item covered by said section 3.”          
+Id.  Sales covered under the Act must occur within the                    
+Commonwealth of Massachusetts.  Id. § 1-3.  The Act therefore             
+exempts sales “undertaken” at federally inspected establishments          
+within the Commonwealth of Massachusetts, so long as the “buyer           
+takes physical possession” of the covered items while on the              
+premises of the inspected establishment.                                  
+   Triumph alleges that as an out-of-state pork processor, it           
+cannot take advantage of this exemption, even though it operates          
+entirely federally inspected facilities, because it ships its             
+
+product into the Commonwealth from out-of-state and, therefore,           
+its buyers do not “take physical possession” of its product               
+while at its facilities.  See Am. Compl. ¶¶ 232-37.  Meanwhile,           
+the federally inspected pork processors in Massachusetts could            
+operate within this exception.  Id.  For instance, “a large end-          
+user of pork in Massachusetts -- a hospital system, the state             
+prison system, a large school district, etc. -- who has for               
+decades been buying and taking shipment of millions of dollars            
+of pork each year,” could now purchase and take possession of             
+cheaper, noncompliant pork on the premises of an in-state                 
+facility.  Mem. Supp. Mot. Summ. J. 12, ECF No. 88.  In                   
+contrast, Triumph would have no way to provide that same                  
+
+customer with its noncompliant pork, because it does not have an          
+in-state, federally inspected facility.                                   
+   The Commonwealth does not dispute Triumph’s analysis of the          
+regulation’s exemption.  See Mem. Supp. Mot. Dismiss 10.                  
+Instead, it argues that this “limited exception . . . does not            
+evince an unconstitutional aim to advantage in-state                      
+businesses,” id., and that “the law operates to give in-state             
+and out-of-state slaughterhouses the same access to                       
+Massachusetts consumers.”  Defs.’ Br. Case Stated 8.  It is true          
+that the Commonwealth may not have had a discriminatory purpose           
+or intent in legislating this exception.                                  
+    The dormant Commerce Clause, however, also asks the Court           
+
+to decide whether the Act results in a discriminatory effect.             
+“A state law is discriminatory in effect when, in practice, it            
+affects similarly situated entities in a market by imposing               
+disproportionate burdens on out-of-state interests and                    
+conferring advantages upon in-state interests.”  Family                   
+Winemakers of Cal. v. Jenkins, 592 F.3d 1, 10 (1st Cir. 2010)             
+(citing Oregon Waste Sys., Inc. v. Department of Env’t Quality            
+of State of Or., 511 U.S. 93, 99 (1994)).  “If the effect of a            
+state regulation is to cause local goods to constitute a larger           
+share, and goods with an out-of-state source to constitute a              
+smaller share, of the total sales in the market . . . [,] the             
+regulation may have a discriminatory effect on interstate                 
+
+commerce.”  Exxon Corp. v. Governor of Maryland, 437 U.S. 117,            
+126 n.16 (1978) (citing Hunt v. Washington State Apple Advert.            
+Comm’n, 432 U.S. 333, 347 (1977); Dean Milk Co. v. City of                
+Madison, Wis., 340 U.S. 349, 352 (1951)).                                 
+   Triumph alleges that, under the Act, in-state processors             
+could “create a monopoly for pork processing because they can             
+accept all meat-- regardless of whether the meat complies with            
+the Act and the Regulations-- while out-of-state processors               
+cannot.”  Am. Compl. ¶ 237.  The Commonwealth counters only that          
+this is “pure speculation,” and that in-state slaughterhouses             
+could not “accommodate that sudden skyrocketing demand.”  Mem.            
+Supp. Mot. Dismiss 10; Defs.’ Br. Case Stated 10.                         
+
+   The slaughterhouse exception has a discriminatory effect.            
+The only way Triumph would be able to take advantage of the               
+slaughterhouse exception would be to open its own federally               
+inspected facility within the Commonwealth of Massachusetts,              
+which the Supreme Court has held violates the Commerce Clause.            
+See Granholm v. Heald, 544 U.S. 460, 475 (2005).  Instead,                
+Triumph and other out-of-state pork processors must face higher           
+costs to sell pork into Massachusetts than those of their                 
+counterparts in Massachusetts, similar to the issue in Hunt.              
+See Hunt, 432 U.S. at 351 (“North Carolina apple producers,               
+unlike their Washington competitors, were not forced to alter             
+their marketing practices in order to comply with the statute. .          
+
+. . Obviously, the increased costs imposed by the statute would           
+tend to shield the local apple industry from the competition of           
+Washington apple growers . . . .”).                                       
+   As the slaughterhouse exception is discriminatory, it “is            
+virtually per se invalid . . . and will survive only if it                
+advances a legitimate local purpose that cannot be adequately             
+served by reasonable nondiscriminatory alternatives.”  Jenkins,           
+592 F.3d at 5 (citing Davis, 553 U.S. at 338).  The Commonwealth          
+fails to demonstrate that the provision advances a legitimate             
+local purpose.  The Court takes no position on whether the Act            
+itself serves a legitimate local purpose, see Ross, 598 U.S. at           
+382,4 but the slaughterhouse exception itself does not appear to          
+
+meet the Act’s purported local purpose, as it does not prevent            
+noncompliant pork meat from sale in the Commonwealth of                   
+Massachusetts.  The Court, therefore, rules that the                      
+slaughterhouse exception violates the dormant Commerce Clause             
+because it discriminates against out-of-state commerce.                   
+   D.  Severability                                                     
+   Although the slaughterhouse exception violates the dormant           
+Commerce Clause, it does not render the entire Act                        
+unconstitutional; instead, the provision may be severed from the          
+rest of the Act.  Severability is governed by state law.  See             
+Schwann v. FedEx Ground Package Sys., 813 F.3d 429, 440 (1st              
+Cir. 2016).  In Massachusetts, there is a “a well-established             
+
+judicial preference in favor of severability and a recognition            
+that ‘the Legislature has announced its own preference in favor           
+of severability’ as well.”  Id. (quoting Peterson v. Comm'r of            
+Revenue, 444 Mass. 128, 138 (2005)); see Mass. Gen. Laws ch. 4,           
+                                                                        
+   4 The Commonwealth argues that the local purpose of the Act          
+is to “promot[e] animal welfare and remov[e] inhumane products            
+and their negative effects from its markets.”  Defs.’ Br. Case            
+Stated 10.                                                                
+§ 6, Eleventh (setting forth statutory rule of construction that          
+“the provisions of any statute shall be deemed severable, and if          
+any part of any statute shall be adjudged unconstitutional or             
+invalid, such judgment shall not affect other valid parts                 
+thereof[]”).                                                              
+   The question of severability turns on legislative intent.5           
+
+As the Act was passed by popular vote, the Court therefore must           
+decide whether Massachusetts voters “would have enacted the               
+particular bill without the [invalid] provision, or whether, in           
+the absence of the [invalid] provision, the [voters] would have           
+preferred that the bill have no effect at all.”  Mass. Gen. Laws          
+ch. 4, § 6 (quoting Peterson, 444 Mass. at 138).  “Severability           
+entails a two-step examination in which [the court]                       
+determine[s], first, whether the invalid portion of the statute           
+is ‘capable of separation’ and, second, whether ‘upholding the            
+statute as severed would frustrate the legislative purpose.’”             
+
+
+
+
+                                                                        
+   5 Notably, the Act here contains a severability clause,              
+Mass. Gen. Laws Ann. ch. 129 App., § 1-9, indicating the voters’          
+intent to save any portion of the Act that could be upheld in             
+the case of a constitutional challenge.  See Opinion of the               
+Justices, 330 Mass. 713, 726 (1953) (“Where the statute contains          
+a severability clause . . . , this is a declaration by the                
+Legislature that it intends to have the principle of                      
+severability invoked wherever possible.”).                                
+K.J. v. Superintendent of Bridgewater State Hosp., 488 Mass.              
+362, 373 (2021) (citation omitted).                                       
+   The slaughterhouse exception is “capable of separation”              
+from the rest of the statute.  A statute is “capable of                   
+separation” when the “severed [portion] is not so connected with          
+
+and dependent upon other clauses of the act as to constitute an           
+essential factor of the whole.”  Id. at 374-75 (internal                  
+quotation marks omitted).  The provision here is a discrete               
+clause and, were it severed, the Act can still function as                
+intended.                                                                 
+   Second, the statute as severed would not frustrate the               
+legislative purpose of the Act.  In fact, were the                        
+slaughterhouse exception severed, the Act would only become               
+enforceable in more locations.  If anything, therefore, severing          
+the slaughterhouse exception from the Act only serves to bolster          
+its purpose.                                                              
+   E.  Preemption under the Federal Meat Inspection Act                 
+
+   Triumph argues that the slaughterhouse exception cannot be           
+severed from the Act since “absent the exception, the Act is              
+unquestionably preempted by the FMIA.”  Pl.’s Br. Case Stated             
+13.  This Court, however, has a number of questions before                
+reaching that conclusion.  Indeed, having declared the                    
+slaughterhouse exemption unconstitutional, it necessarily must            
+revisit its dismissal of the Pork Producers’ claim that the Act,          
+as originally drafted, was preempted by the FMIA.  Am. Compl.,            
+Count III, ¶ 200.  The Court thus vacates that dismissal and              
+grants the Pork Producers 30 days from the date hereof to move            
+for summary judgment on the ground that the Act –- with the               
+slaughterhouse exemption severed –- is now preempted by the               
+
+FMIA.                                                                     
+IV.  CONCLUSION                                                         
+   The Commonwealth’s motion to dismiss, ECF No. 114, is                
+DENIED.  The Court concludes that the slaughterhouse exemption            
+violates the dormant Commerce Clause, and orders that provision           
+SEVERED from the rest of the Act.                                         
+     The Court entered summary judgment against all Plaintiffs          
+on all counts and claims save for a dormant Commerce Clause               
+claim regarding the slaughterhouse exemption of the Act.  See             
+Electronic Clerk’s Notes, ECF No. 99.                                     
+   That order must now be VACATED in part to allow the Court            
+to consider whether the Act –- with the slaughterhouse exemption          
+
+severed –- is now preempted by the FMIA.                                  
+   SO ORDERED.                                                          
+                                      _/s/ William G. Young_            
+                                       WILLIAM G. YOUNG                 
+                                            JUDGE                       
+                                            of the                      
+                                        UNITED STATES6                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                        
+   6 This is how my predecessor, Peleg Sprague (D. Mass. 1841-          
+1865), would sign official documents.  Now that I’m a Senior              
+District Judge I adopt this format in honor of all the judicial           
+colleagues, state and federal, with whom I have had the                   
+privilege to serve over the past 45 years.

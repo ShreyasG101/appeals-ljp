@@ -1,0 +1,35 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court had personal jurisdiction over Expeditors Hong Kong Limited (Expeditors HK) for claims arising from the termination of Keane's employment in Hong Kong.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found that Keane failed to allege sufficient facts to establish personal jurisdiction over Expeditors HK, as the alleged conduct in Massachusetts was not a material element of proof for the claims, and Expeditors HK maintained corporate separateness."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the claims against Expeditors International of Washington, Inc. (Expeditors US) could proceed based on the actions of its subsidiary, Expeditors HK.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that Keane failed to allege sufficient facts or legal theories to impute Expeditors HK's actions to Expeditors US, as there was no basis to pierce the corporate veil or show pervasive control, and thus dismissal was proper."
+    }
+  ],
+  "key_precedents": [
+    "Ward v. AlphaCore Pharma LLC, 89 F.4th 203 (1st Cir. 2023)",
+    "Platten v. HG Bermuda Exempted Ltd., 437 F.3d 118 (1st Cir. 2006)",
+    "Baez v. Baymark Detoxification Servs., Inc., 123 F.4th 62 (1st Cir. 2024)",
+    "DeLia v. Verizon Commc'ns Inc., 656 F.3d 1 (1st Cir. 2011)",
+    "Lipsitt v. Plaud, 994 N.E.2d 777 (Mass. 2013)",
+    "Scott v. NG U.S. 1, Inc., 881 N.E.2d 1125 (Mass. 2008)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "David Keane's employment with Expeditors Hong Kong Limited (\"Expeditors HK\") was terminated on December 11, 2023. In response, he sued not only Expeditors HK, but also Expeditors International of Washington, Inc. (\"Expeditors US\"), in the District of Massachusetts. Expeditors HK is a wholly owned subsidiary of Expeditors US. Keane's suit brought federal and state law claims, all arising out of, or connected to, the termination of his employment in Hong Kong. Defendants moved to dismiss all of Keane's claims against both defendants for lack of personal jurisdiction and under the doctrine of forum non conveniens, and the federal law claim against both defendants also for improper venue. Defendants argued that the district court \"should reject [Keane's] transparent attempt to bootstrap jurisdiction over Expeditors HK based upon unfounded, conclusory assertions that Expeditors HK is an alter ego of Expeditors US.\" Both sides filed supporting affidavits.\n\nThe district court granted defendants' motion, dismissing the claims against Expeditors HK and the non-contract claims against Expeditors US for lack of personal jurisdiction and the contract claims against Expeditors US under the doctrine of forum non conveniens. The court rejected Keane's argument that \"Expeditors HK is subject to personal jurisdiction as Expeditors US's alter ego\" because, \"[b]esides pointing to the overlapping leadership of the companies, Keane [had] offer[ed] no evidence to refute the fact that Expeditors US and Expeditors HK observe corporate formalities as distinct entities.\"\n\nKeane appeals and we affirm the dismissals, albeit on somewhat different reasoning than that used by the district court. We hold that the Massachusetts federal district court lacked personal jurisdiction over Expeditors HK. As to Keane's claims against Expeditors US, dismissal was proper because, as Keane's counsel, quite properly, essentially conceded, Keane cannot prevail on any of these claims without proving he was wrongfully terminated by Expeditors HK, and Keane has failed to allege sufficient facts or legal theories to impute the actions of Expeditors HK to Expeditors US."
+}

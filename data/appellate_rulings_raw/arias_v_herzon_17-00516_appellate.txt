@@ -1,0 +1,3367 @@
+United States Court of Appeals
+                      For the First Circuit
+
+
+No. 23-1618
+
+                          ROBERT ARIAS,
+
+                      Plaintiff, Appellant,
+
+                                v.
+
+  NOAH A. HERZON, JUAN INFANTE, TY KURCHARSKI, CHRISTOPHER DAY,
+               ADALBERTO GARCIA, MICHAEL BERNARD,
+
+                      Defendants, Appellees,
+
+       US GOVERNMENT, US DRUG ENFORCEMENT ADMINISTRATION,
+
+                           Defendants.
+
+
+          APPEAL FROM THE UNITED STATES DISTRICT COURT
+               FOR THE DISTRICT OF NEW HAMPSHIRE
+
+        [Hon. Landya B. McCafferty, U.S. District Judge]
+
+
+                              Before
+
+                       Barron, Chief Judge,
+               Lynch and Thompson, Circuit Judges.
+
+
+     Jeremy D. Eggleton, with whom Orr & Reno, P.A., was on brief,
+for appellant.
+
+     Terry L. Ollila, Assistant United States Attorney, with whom
+Jane E. Young, United States Attorney, was on brief, for appellees.
+August 15, 2025
+              BARRON, Chief Judge.      More than a half a century ago, in
+
+Bivens v. Six Unknown Named Agents of Federal Bureau of Narcotics,
+
+403 U.S. 388 (1971), the Supreme Court of the United States
+
+recognized an implied cause of action for damages against a federal
+
+law    enforcement     officer   for   violating       an   individual's    Fourth
+
+Amendment rights.         Is that remedy still available?                The U.S.
+
+District Court for the District of New Hampshire held that it is
+
+not.       This appeal requires us to decide whether that is right.
+
+              The District Court based its ruling on a 1988 amendment
+
+to     the    Inspector   General      Act     (IGA)    that    established    an
+
+administrative mechanism for lodging misconduct complaints against
+
+federal law enforcement officers with the U.S. Department of
+
+Justice's Office of the Inspector General.1                  The District Court
+
+concluded      that,   because   of    that    legislative     development,    the
+
+Fourth Amendment claims in this case arise in a new context
+
+compared to Bivens.       The District Court went on to conclude that
+
+the    IGA's     "alternative    remedial       scheme"      counseled     against
+
+extending the Bivens remedy to that new context.                   And, on that
+
+basis, it held that the defendants -- U.S. Drug Enforcement Agency
+
+(DEA) agents -- were entitled to summary judgment on the Fourth
+
+
+       The District Court stated that Congress created this remedy
+       1
+
+through enacting the Inspector General Act of 1978, but Congress
+did not extend that statute's provisions to the Department of
+Justice until 1988. Compare Inspector General Act of 1978, Pub.
+L. No. 95-452, 92 Stat. 1101 (1978), with Inspector General Act
+Amendments of 1988, Pub. L. No. 100-504, 102 Stat. 2515 (1988).
+
+
+                                       - 3 -
+Amendment claims that the plaintiff -- Robert Arias -- brought
+
+against them for excessive force and a failure to intervene to
+
+prevent the use of that force.
+
+               We     do   not     agree    that       Congress's    more   than
+
+three-decades-old amendment to the IGA in and of itself makes the
+
+context in which Arias's claims arise new compared to Bivens.
+
+Thus, because we conclude that, the IGA aside, Arias's excessive
+
+force claims arise in the same context as Bivens, the Bivens remedy
+
+is available here just as it was there. Indeed, were we to conclude
+
+otherwise, we would have to conclude, incongruously, that the
+
+Bivens remedy has been a dead letter since the IGA's amendment,
+
+even though the Supreme Court has reaffirmed the existence of that
+
+remedy    in    the    years     after   that    now   decades-old   legislative
+
+development.
+
+               Accordingly, we reverse the District Court's grant of
+
+summary judgment to the defendants on Arias's excessive force
+
+claims.    However, we affirm the grant of summary judgment to the
+
+defendants on his failure-to-intervene claims.                We do so because
+
+Arias fails to explain why, notwithstanding the distinct nature of
+
+the misconduct that those claims allege, they arise in the same
+
+context as Bivens.          Nor does he explain why, insofar as those
+
+claims do arise in a new context, the Bivens remedy should be
+
+extended to it.
+
+
+
+
+                                         - 4 -
+                                I.
+
+          In 2017, Arias brought a suit for damages in the District
+
+of New Hampshire against federal DEA agents. He sought the damages
+
+for the physical and emotional harms allegedly caused by his
+
+September 2016 arrest, which was undertaken pursuant to a warrant
+
+and in a shopping center parking lot.   He based the claims on the
+
+implied cause of action for damages under the Fourth Amendment
+
+that the Supreme Court recognized in Bivens. His complaint alleges
+
+that some of the defendants violated his Fourth Amendment rights
+
+through their use of excessive force, and that the others violated
+
+his Fourth Amendment rights by failing to intervene to prevent
+
+that excessive use of force.
+
+          The defendants moved for summary judgment based on what
+
+was then the Supreme Court's most recent decision in the Bivens
+
+line, Egbert v. Boule, 596 U.S. 482 (2022).     They argued that,
+
+under Egbert, Arias could not assert the implied cause of action
+
+for damages that Bivens recognized as to any of his claims.
+
+          In Egbert, the Court described a two-step framework for
+
+assessing when a Bivens remedy is available.   Id. at 492.   At the
+
+first step, a court must determine whether the plaintiff's claims
+
+arise in a "new context" compared to one of the cases in which the
+
+Court already has recognized a damages remedy under Bivens.     Id.
+
+If the context is not new, then the inquiry ends and the Bivens
+
+remedy may be asserted. Id.; Quinones-Pimentel v. Cannon, 85 F.4th
+
+
+                               - 5 -
+63, 70 (1st Cir. 2023).           If the context is new, then a court must
+
+move on to the second step.           Egbert, 596 U.S. at 492.             There, it
+
+must determine whether there are "special factors counselling
+
+hesitation" in extending the Bivens remedy to that new context.
+
+Ziglar v. Abbasi, 582 U.S. 120, 136 (2017); see Egbert, 596 U.S.
+
+at 492.    If the court concludes that there is such a factor, then
+
+it must conclude that the Bivens remedy is not available.                      Egbert,
+
+596 U.S. at 492.
+
+            As to the first step, the defendants argued that Arias's
+
+claims    arise   in   a    new    context          because,    unlike   the   alleged
+
+misconduct in Bivens itself, the misconduct that he alleged:
+
+(1) was   undertaken       pursuant       to    a    warrant,    (2) occurred    in   a
+
+publicly accessible parking lot, and (3) included a claim based on
+
+a failure to intervene to prevent the excessive use of force.                         As
+
+to the second step, the defendants argued that there are "special
+
+factors counseling hesitation" that preclude extending the Bivens
+
+remedy to that new context.                    They pointed to both the IGA's
+
+administrative remedy and the availability of damages against the
+
+United States under the post-Bivens amendments to the Federal Tort
+
+Claims Act (FTCA).
+
+            The   District        Court    granted      the     defendants'    summary
+
+judgment motion.       It considered Arias's excessive force claims
+
+separately from his failure-to-intervene claims.
+
+
+
+
+                                          - 6 -
+            The District Court observed that Arias's excessive force
+
+claims "share[d] many of the same background facts" with Bivens:
+
+"an   arrest    made   by   federal   narcotics      agents    investigating   a
+
+violation of federal drug laws that would have been routine but
+
+for the alleged constitutional violations."               It also recognized
+
+that Arias's excessive force claims named the same category of
+
+defendants as the claims in Bivens, even though Bivens involved
+
+claims against agents from the Federal Bureau of Narcotics.                  The
+
+functions of that agency, the District Court noted, had been
+
+transferred to the DEA by the time that the excessive force
+
+allegedly occurred. The District Court observed, too, that Arias's
+
+excessive      force   claims    alleged      a    violation     of   the   same
+
+constitutional right as the claims in Bivens, as the claims in
+
+that case also alleged a violation of the Fourth Amendment right
+
+against the use of excessive force.
+
+            In addition, the District Court expressly rejected the
+
+defendants' assertions that Arias's excessive force claims arise
+
+in a new context because the allegedly excessive force occurred
+
+during an arrest that had been effectuated pursuant to a warrant
+
+and in a shopping center parking lot.             The District Court reasoned
+
+that, although the search and arrest in Bivens were alleged to
+
+have been carried out without a warrant and at the plaintiff's
+
+home, those distinctions were not meaningful, and that "[a]t
+
+
+
+
+                                      - 7 -
+bottom"       Arias's     case      "presents     with   facts     virtually
+
+indistinguishable from Bivens."
+
+              Nonetheless,    the District      Court determined   that the
+
+similarities between Arias's excessive force claims and the claims
+
+in Bivens did not necessarily show that the context was the same
+
+in the two cases.       Rather, the District Court determined, based on
+
+its understanding of Egbert and without the defendants having so
+
+argued, that it also had to address a distinct possible basis for
+
+Arias's excessive force claims arising in a new context compared
+
+to   Bivens    --   namely,   the    availability   under   the   IGA   of   an
+
+administrative remedy.
+
+              The District Court observed that, under the IGA and 28
+
+C.F.R. § 0.29c(c), Arias could file a misconduct report about the
+
+defendants' conduct with the U.S. Department of Justice's Office
+
+of the Inspector General and have his allegations investigated and
+
+remedied administratively.          By contrast, the District Court noted,
+
+the plaintiff in Bivens did not have available to him that same
+
+legislatively established means of administratively addressing the
+
+misconduct that he alleged.
+
+              The District Court went on to determine that, under
+
+Egbert, "the existence of the alternative remedial scheme is enough
+
+to both place the case into a new context at the first step and to
+
+prohibit expanding Bivens at the second step."           The District Court
+
+therefore determined that Arias could not assert an implied cause
+
+
+                                      - 8 -
+of   action     for    damages    under    the    Fourth   Amendment      as    to    his
+
+excessive force claims.            And it did so despite its conclusion
+
+that -- setting the IGA aside -- those claims arise in the same
+
+context as in Bivens itself.
+
+               The District Court further concluded that the presence
+
+of the IGA's scheme is a special factor counseling hesitation in
+
+extending the Bivens remedy to a new context.                    And, finally, the
+
+District Court concluded that, because this remedial scheme is
+
+itself "sufficient to require dismissal," there was no need to
+
+decide whether the damages remedy against the United States that,
+
+post-Bivens, the FTCA makes available to recover for uses of
+
+excessive force by federal law enforcement officers "might also
+
+foreclose Arias's Bivens claims."
+
+               The     District     Court         next     turned        to     Arias's
+
+failure-to-intervene claims.              With respect to the first step of
+
+the analytical framework that Egbert described, the District Court
+
+explained that "[r]egardless of whether a failure-to-intervene
+
+claim     is    an    alternative     theory        of   liability       or    separate
+
+constitutional violation, Bivens did not involve any theory that
+
+the defendant officers' failure to intervene should subject them
+
+to bystander liability."          In the District Court's view, therefore,
+
+Arias's    failure-to-intervene            claims    arise      in   a   new    context
+
+compared to Bivens.         The District Court then explained that, as
+
+with    Arias's       excessive    force    claims,      "the    existence       of    an
+
+
+                                          - 9 -
+alternative    remedial   scheme    [in       the   form   of    the   IGA]    [wa]s
+
+sufficient to place the case in a new context and foreclose
+
+[Arias's] Bivens claim."
+
+          Accordingly, the District Court granted summary judgment
+
+to the defendants on Arias's claims.             Arias timely appealed.
+
+                                        II.
+
+          We start with Arias's challenge to the grant of summary
+
+judgment to the defendants on his excessive force claims.                      Arias
+
+contends that, the IGA aside, the District Court was right to treat
+
+the claims as arising in the same context as Bivens.                          But he
+
+contends that the District Court erred in ruling that, because of
+
+the IGA, the claims necessarily arise in a new context compared to
+
+Bivens.   He thus argues that the District Court erred in granting
+
+the defendants summary judgment on the claims.                  We agree.
+
+          To    explain   why,     we    first      describe     the   analytical
+
+framework for determining whether a Bivens remedy is available and
+
+how its two steps, though distinct, relate to one another.                        We
+
+then address how that framework applies to Arias's excessive force
+
+claims.
+
+                                        A.
+
+          "In Bivens, the Court held that a Fourth Amendment
+
+violation by federal agents, acting under color of governmental
+
+authority, gave rise to a cause of action for money damages against
+
+those agents in their individual capacities."               González v. Vélez,
+
+
+                                   - 10 -
+864 F.3d 45, 52 (1st Cir. 2017).    The Court thereafter recognized
+
+implied causes of action for damages under the Constitution against
+
+federal officers in two other contexts.
+
+          First, in Davis v. Passman, the Court recognized a
+
+damages action under the Fifth Amendment that permitted a former
+
+congressional staffer to bring a sex discrimination claim against
+
+a Congressperson.   442 U.S. 228 (1979).    Second, during the very
+
+next Term, in Carlson v. Green, the Court recognized a damages
+
+action under the Eighth Amendment against federal prison officials
+
+for the inadequate medical treatment of a prisoner.      446 U.S. 14
+
+(1980).
+
+          Since Carlson, however, the Court has made clear that it
+
+is skeptical that there can be implied causes of action.        "Now
+
+long past 'the heady days in which th[e] Court assumed common-law
+
+powers to create causes of action,'" the Court has explained, it
+
+has "come 'to appreciate more fully the tension between' judicially
+
+created causes of action and 'the Constitution's separation of
+
+legislative and judicial power.'"   Egbert, 596 U.S. at 491 (first
+
+quoting Corr. Servs. Corp. v. Malesko, 534 U.S. 61, 75 (2001)
+
+(Scalia, J., concurring); and then quoting Hernandez v. Mesa, 589
+
+U.S. 93, 100 (2020)).
+
+          "At bottom," the Court has reasoned, "creating a cause
+
+of action is a legislative endeavor."      Id.   It even has gone so
+
+far as to question whether, under this newer view of implied causes
+
+
+                              - 11 -
+of action, it would have decided Bivens, Davis, or Carlson the
+
+same way.     Id. at 502; Abbasi, 582 U.S. at 134.
+
+              Nonetheless,     "[r]ather      than   dispense   with   Bivens
+
+altogether," Egbert, 596 U.S. at 491, the Court merely has "made
+
+clear that expanding the Bivens remedy is now a 'disfavored'
+
+judicial activity."          Abbasi, 582 U.S. at 135 (emphasis added)
+
+(quoting Ashcroft v. Iqbal, 556 U.S. 662, 675 (2009)).              Thus, the
+
+Court   has    counseled     that   the   "watchword   is   caution"   when   a
+
+plaintiff's claim would require an extension of one of the implied
+
+causes of action the Bivens line already recognizes.              Egbert, 596
+
+U.S. at 491 (quoting Hernandez, 589 U.S. at 101).               And, based on
+
+that "reluctan[ce] to create new causes of action," the Court has
+
+consistently denied requests to extend the remedy recognized in
+
+Bivens, Davis, or Carlson. Hernandez, 589 U.S. at 101-02 (emphasis
+
+added).
+
+              At the same time, the Court has been careful to state
+
+that Bivens itself is still good law.           It therefore has made clear
+
+that the cause of action recognized there remains available.              See
+
+Abbasi, 582 U.S. at 134 ("The settled law of Bivens in th[e] common
+
+and recurrent sphere of law enforcement, and the undoubted reliance
+
+upon it as a fixed principle in the law, are powerful reasons to
+
+retain it in that sphere."); Egbert, 596 U.S. at 502 (declining to
+
+overrule Bivens).      Indeed, in the wake of the Court's invocation
+
+of law enforcement's reliance on the "fixed principle" Bivens
+
+
+                                     - 12 -
+established, Abbasi, 582 U.S. at 134, courts have continued to
+
+permit damages actions brought under Bivens.    See, e.g., Snowden
+
+v. Henning, 72 F.4th 237, 243–44 (7th Cir. 2023), cert. denied,
+
+145 S. Ct. 137 (2024); Hicks v. Ferreyra, 64 F.4th 156, 166 (4th
+
+Cir. 2023), cert. denied, 144 S. Ct. 555 (2024).   Consistent with
+
+that view, we have repeatedly acknowledged that the Bivens remedy
+
+continues to exist.   See DeMayo v. Nugent, 517 F.3d 11, 15 (1st
+
+Cir. 2008) ("An individual may vindicate a proven violation of his
+
+or her right to be free from unreasonable searches through a Bivens
+
+action."); Quinones-Pimentel, 85 F.4th at 70 (explaining that
+
+"[if] the case presents . . . no new context[,] . . . relief under
+
+Bivens is available").
+
+          Accordingly, it is doubtful that a plaintiff may seek
+
+damages under the Fourth Amendment against federal law enforcement
+
+officers under a cause of action that a court would have to create.
+
+But a plaintiff may do so pursuant to the cause of action that the
+
+Court recognized in Bivens.2
+
+
+
+     2 We do not understand Egbert to suggest otherwise in stating
+that "recognizing a cause of action under Bivens is 'a disfavored
+judicial activity,'" Egbert v. Boule, 596 U.S. 482, 491 (2022)
+(emphasis added) (quoting Ziglar v. Abbasi, 582 U.S. 120, 135
+(2017)), given that in Abbasi and Hernandez, the Court emphasized
+that "expanding the Bivens remedy" was judicially disfavored.
+Abbasi, 582 U.S. at 135 (emphasis added); Hernandez, 589 U.S. at
+101 ("We have stated that expansion of Bivens is a 'disfavored
+judicial activity.'" (cleaned up) (quoting Abbasi, 582 U.S. at
+135)); see also Egbert, 596 U.S. at 491 (referring multiple times
+in the same paragraph to "creating" a damages remedy).
+
+
+                               - 13 -
+                                            B.
+
+            The first step of the two-step framework that Egbert
+
+describes follows from the Court's decision to affirm the cause of
+
+action that Bivens recognized, see Abbasi, 582 U.S. at 134 ("Bivens
+
+does vindicate the Constitution by allowing some redress for
+
+injuries . . . ."), but caution against the creation of any new
+
+ones.     At that step, as we noted at the outset, a court must
+
+determine whether the plaintiff, in seeking damages under the
+
+Bivens line, is requesting the creation of a new cause of action
+
+or is merely asserting a cause of action that the Court already
+
+has recognized.
+
+            How,    then,     is    a       court    supposed      to   make      that
+
+determination?      The answer turns on whether the plaintiff's claim
+
+"presents 'a new Bivens context.'"                   Egbert, 596 U.S. at 492
+
+(quoting Abbasi, 582 U.S. at 139).
+
+            The Supreme Court has made clear that the plaintiff's
+
+damages    action    arises    in       a    new    context   if    the    case     is
+
+"'meaningful[ly]' different from the three cases in which the Court
+
+has implied a damages action."                   Id. (alteration in original)
+
+(emphasis added) (quoting Abbasi, 582 U.S. at 139).                       Consistent
+
+with this focus, the Court has emphasized that "[s]ome differences,
+
+of course, will be so trivial that they will not suffice to create
+
+a new Bivens context."        Abbasi, 582 U.S. at 149 (emphasis added).
+
+And we agree with the Seventh Circuit that the Supreme Court's
+
+
+                                        - 14 -
+requirement "[t]hat a difference must be 'meaningful' suggests
+
+that some degree of variation will not preclude a Bivens remedy."
+
+Snowden, 72 F.4th at 243–44.
+
+          In other words, it is most doubtful that Bivens, Davis,
+
+and Carlson are tickets that may be used to reach a stop that is
+
+not already on the existing Bivens line of authority.                But those
+
+tickets are not good only for those same three stops.                They also
+
+may be used for additional stops on the same line that Bivens,
+
+Davis, and Carlson define.
+
+          What,   then,    makes      a    difference     "meaningful,"   such
+
+that -- again at this first step of the analysis -- the context is
+
+"new"?    The   answer    to   that       question   is   "a   bit   unclear,"
+
+Quinones-Pimentel, 85 F.4th at 69, as the Supreme Court has not
+
+provided an exhaustive accounting.
+
+          The Court has explained, however, that:
+
+          A case might differ in a meaningful way
+          because of the rank of the officers involved;
+          the constitutional right at issue; the
+          generality or specificity of the official
+          action; the extent of judicial guidance as to
+          how an officer should respond to the problem
+          or emergency to be confronted; the statutory
+          or other legal mandate under which the officer
+          was   operating;   the   risk  of   disruptive
+          intrusion   by   the    Judiciary   into   the
+          functioning of other branches; or the presence
+          of potential special factors that previous
+          Bivens cases did not consider.
+
+Abbasi, 582 U.S. at 139–40 (emphasis added).                It also has made
+
+clear that when a case "involves a 'new category of defendants,'"
+
+
+                                   - 15 -
+that is a meaningful difference which renders the context new.
+
+Egbert, 596 U.S. at 492 (quoting Malesko, 534 U.S. at 68).
+
+            We agree with the Seventh Circuit that, in the end, the
+
+inquiry is a functional one.       As it has explained, "the Court's
+
+evolving Bivens guidance . . . suggest[s] that a difference is
+
+'meaningful' if it might alter the policy balance that initially
+
+justified the causes of action recognized in Bivens, Davis, and
+
+Carlson."   Snowden, 72 F.4th at 244.        Thus, it has explained that
+
+"[i]f a case involves facts or legal issues that would require
+
+reweighing the costs and benefits of a damages remedy against
+
+federal officials, then the difference is 'meaningful' because we
+
+risk further encroachment on the legislative function rather than
+
+simply   applying   controlling    Supreme    Court   precedent."    Id.
+
+(emphasis added).   It follows that if a case does not involve facts
+
+or legal issues that would require such a reweighing, then the
+
+difference does not in and of itself make the context new.
+
+            This functional approach accords with the fact that it
+
+is only when a case presents a new context that we must proceed to
+
+the second step of the analysis and ask whether "there are any
+
+'special factors' counseling against extending Bivens" to that new
+
+context.     Quinones-Pimentel, 85 F.4th at 70 (emphasis added)
+
+(quoting Egbert, 596 U.S. at 492).     That question need not be asked
+
+if the context is one in which the Supreme Court already has
+
+performed the required "[]weighing" in recognizing -- and then
+
+
+                                  - 16 -
+reaffirming -- the implied causes of action in Bivens, Davis, or
+
+Carlson.   Snowden, 72 F.4th at 244.    In a context of that sort,
+
+the Court already has asked and answered whether there is any
+
+"indicat[ion] that the Judiciary is at least arguably less equipped
+
+than Congress to 'weigh the costs and benefits of allowing a
+
+damages action to proceed.'"     Egbert, 596 U.S. at 492 (quoting
+
+Abbasi, 582 U.S. at 136).      And, as a lower court, we may not
+
+second-guess that determination once the Court has made it, which
+
+is why we have explained that "[i]f the case presents no meaningful
+
+differences (and thus no new context), the analysis ends there and
+
+relief under Bivens is available."3     Quinones-Pimentel, 85 F.4th
+
+at 70 (emphasis added).
+
+
+
+
+     3 At oral argument, the defendants argued based on González
+v. Vélez, 864 F.3d 45 (1st Cir. 2017), that we could reach step
+two of the Bivens inquiry even if the case did not present a new
+context. They apparently rested that contention on our statement
+in that case that "even if we assume[d] for argument's sake that
+the context [was] substantially the same, the plaintiffs [would]
+hit a roadblock at the next step of the analysis" regarding
+alternative remedies. Id. at 53. But the plaintiffs there were
+attempting to use the cause of action recognized in Davis v.
+Passman, 442 U.S. 228 (1979), to raise a claim that "b[ore]" only
+a "superficial similarity" to Davis itself. González, 864 F.3d at
+53. In assuming that the claims arose in "substantially the same
+context," we were merely assuming that they were "substantially"
+similar enough to warrant comparison to Davis in the first
+place -- not that the contexts were, in fact, the same. Thus, we
+proceeded to the second step of the analysis only because it was
+clear that the context was new. See id. at 52 (explaining that
+the second step alternative remedies inquiry applies only "[o]nce
+it is determined that the context is new").
+
+
+                               - 17 -
+                                         C.
+
+           All     that   said,      Egbert   does   note     that   the   two-step
+
+analysis may in some cases present only a single question. Egbert,
+
+596 U.S. at 492 ("While our cases describe two steps, those steps
+
+often resolve to a single question: whether there is any reason to
+
+think that Congress might be better equipped to create a damages
+
+remedy.").      The very factor that may make a context new may be the
+
+"special factor counseling hesitation" in extending the cause of
+
+action.    See id. ("[W]e have identified several examples of new
+
+contexts   --     e.g.,   a   case    that    involves    a   'new    category    of
+
+defendants,' -- largely because they represent situations in which
+
+a court is not undoubtedly better positioned than Congress to
+
+create a damages action." (quoting Malesko, 534 U.S. at 68)); cf.
+
+Snowden, 72 F.4th at 243 n.3 ("[S]ometimes the Court's cases do
+
+not explicitly address the 'new context' inquiry because they do
+
+not need to -- where, for example, the case raises a claim under
+
+a different constitutional provision (like the First Amendment) or
+
+presents     an   obviously       distinct      factual     setting    (like     the
+
+military).").      Relatedly, the special factor that counsels against
+
+extending the Bivens remedy to a new context also may be a factor
+
+that in and of itself makes the context new.                  In other words, in
+
+some cases the same factor may do double duty.                        Importantly,
+
+however, the Court was careful to observe that the two-step inquiry
+
+
+
+
+                                       - 18 -
+"often" will reduce to a single question, Egbert, 596 U.S. at 492
+
+(emphasis added), rather than that it always does so.
+
+                                       III.
+
+           We are now well situated to address the excessive force
+
+claims under the first step of the analysis described in Egbert.
+
+With   respect   to    that   step,    Arias   emphasizes   that,    like    the
+
+plaintiff in Bivens, his excessive force claims seek damages under
+
+the Fourth Amendment for "unreasonable force . . . employed in
+
+making [his] arrest."      Bivens, 403 U.S. at 389.      He also emphasizes
+
+that, like the plaintiff in Bivens, he names line law enforcement
+
+officers as defendants in those claims.
+
+           Arias      acknowledges     that    the   defendants     here    were
+
+employed by the DEA at the time of the alleged misconduct, while
+
+the defendants in Bivens were employed by the Federal Bureau of
+
+Narcotics.   He contends that this difference is not meaningful,
+
+though, because the DEA is the successor to that now-defunct
+
+agency.   See United States v. Feola, 420 U.S. 671, 684 n.18 (1975).
+
+           Arias also points out that the "judicial guidance" as to
+
+what constitutes excessive force under the Fourth Amendment is at
+
+least as clear now as it was at the time of Bivens.               See Abbasi,
+
+582 U.S. at 140; see also Graham v. Connor, 490 U.S. 386, 395-97
+
+(1989) (outlining the relevant inquiry); Cnty. of Los Angeles v.
+
+Mendez, 581 U.S. 420, 427 (2017) (noting that the "case law sets
+
+forth a settled and exclusive framework for analyzing whether the
+
+
+                                      - 19 -
+force    used   in     making   a     seizure   complies     with    the       Fourth
+
+Amendment"); Lachance v. Town of Charlton, 990 F.3d 14, 20 (1st
+
+Cir. 2021); O'Brien v. Town of Bellingham, 943 F.3d 514, 530-31
+
+(1st Cir. 2019).       So, again, he argues, his excessive force claims
+
+do not arise in a new context.
+
+           Of    course,      "even    a   modest      extension    is   still     an
+
+extension."     Abbasi, 582 U.S. at 147.               Thus, despite the many
+
+parallels between Arias's excessive force claims and the claims in
+
+Bivens, we must remain alert for any "meaningfully new factual
+
+circumstances."       Quinones-Pimentel, 85 F.4th at 70.
+
+           The defendants highlight three factual circumstances
+
+that they argue -- either when taken together or considered on
+
+their own -- render the context here new.                   See id. at 72 n.6
+
+(concluding     that     multiple      "differences,      collectively,         [can]
+
+distinguish     [a]    case   meaningfully      from    Bivens").        The    three
+
+circumstances are: the presence of a warrant, the public location
+
+of the arrest, and the presence of a post-Bivens alternative remedy
+
+via the IGA.4
+
+           We start with the first two circumstances even though
+
+the District Court relied solely on the third in finding the
+
+
+     4 The defendants also contend that Arias's "inclusion of a
+failure-to-intervene claim" counts among the "factors" that place
+his case into a new context. But they identify no support for the
+notion that this separate claim could bear on whether Arias's
+excessive force claims present a new context.     So, we analyze
+whether that claim presents a new context in Part IV.
+
+
+                                      - 20 -
+context here new.      Reviewing de novo, Quinones-Pimentel, 85 F.4th
+
+at   68,   we   are   not   persuaded     that    either   one    of   these   two
+
+circumstances shows that Arias's excessive force claims arise in
+
+a new context.        We then consider the third circumstance -- the
+
+presence of the IGA's administrative remedy.               Reviewing de novo,
+
+id., we conclude that this circumstance also fails to make the
+
+context new.
+
+                                        A.
+
+            As to their possession of a warrant, the defendants
+
+direct our attention to Abbasi.           The Court explained there that a
+
+"case   might    differ     in   a   meaningful   way   because    of . . . the
+
+statutory or other legal mandate under which the officer was
+
+operating."     Abbasi, 582 U.S. at 139-40.         The defendants point out
+
+that, when assessing the reasonableness of a use of force, courts
+
+must consider, among other factors, the severity of the crime.
+
+See Graham, 490 U.S. at 396.           They go on to contend that, when a
+
+warrant is issued, the severity of the crime depends "not solely
+
+on the judgment of the officer on the scene, but on the probable
+
+cause determination of a neutral and detached magistrate."                     They
+
+therefore contend that we must conclude that law enforcement
+
+officers who use force while acting pursuant to a warrant operate
+
+under a different legal mandate than do law enforcement officers
+
+who use such force while not acting pursuant to a warrant.                     And
+
+so, the defendants argue, because the officers in Bivens did not
+
+
+                                      - 21 -
+have a warrant, Bivens, 403 U.S. at 389, the officers here were
+
+operating under a different legal mandate.
+
+           We are not convinced.    Arias alleges that the defendants
+
+violated     his   Fourth   Amendment     rights   by   using   excessive
+
+force -- not by conducting        an unreasonable search        or merely
+
+effecting an unlawful seizure.     While "the right to make an arrest
+
+or investigatory stop necessarily carries with it the right to use
+
+some degree of physical coercion or threat thereof to effect it,"
+
+Graham, 490 U.S. at 396, it plainly does not provide a "legal
+
+mandate" to use excessive force, see Abbasi, 582 U.S. at 139-40.
+
+           That an arrest warrant requires a "neutral and detached
+
+magistrate" to determine probable cause also does not show that
+
+the officers here were operating under a different legal mandate.
+
+The judicial determination to grant an arrest warrant was not a
+
+determination that excessive force may be used to execute that
+
+warrant or, quite obviously, that the force in fact used was not
+
+excessive.    Nor was that judicial determination an assessment of
+
+the severity of the crime to which the warrant pertains.           It was
+
+an assessment of whether there was a sufficient basis for an
+
+arrest, not of the underlying crime's severity.
+
+           That Congress could think that an arrest with a warrant
+
+differs from an arrest without one is therefore of little relevance
+
+here.   The use of excessive force in effectuating an arrest is
+
+equally excessive regardless of whether an arrest is made pursuant
+
+
+                                 - 22 -
+to a warrant.    We thus do not see how the presence of a warrant
+
+here constitutes a meaningful difference from Bivens, given the
+
+nature of the claims at issue.           That is especially so because
+
+nothing in Bivens appears to have turned on the officers not having
+
+a warrant when using the allegedly excessive force.             See generally
+
+Bivens, 403 U.S. 388. Nor are we alone in so holding. See Snowden,
+
+72 F.4th at 247; Logsdon v. U.S. Marshal Serv., 91 F.4th 1352,
+
+1357 (10th Cir. 2024).
+
+          The    cases   relied   on   by   the   defendants     --   and   the
+
+dissent -- do not persuade us otherwise.                Those cases involved
+
+claims targeting unreasonable searches and other factors that
+
+clearly gave rise to a new context compared to Bivens.                See Cain
+
+v. Rinehart, No. 22-1893, 2023 WL 6439438, at *3-4 (6th Cir.
+
+July 25, 2023)    (unreasonable        search     and     new   category    of
+
+defendant); Quinones-Pimentel, 85 F.4th at 72 (same); Annappareddy
+
+v. Pascale, 996 F.3d 120, 135-36 (4th Cir. 2021) (same, along with
+
+a different injury).
+
+          Cienciva v. Brozowski, No. 3:20-CV-2045, 2022 WL 2791752
+
+(M.D. Pa. July 15, 2022), which the defendants also cite, did
+
+conclude that the presence of a warrant is a meaningful difference
+
+that places an excessive force claim into a new context.               Id. at
+
+*9-11.   The claim there, however, also involved a new category of
+
+defendant, which would squarely place the case into a new context.
+
+Id.; see Egbert, 596 U.S. at 492.       But, although the district court
+
+
+                                  - 23 -
+in that case did not deem the context new on that basis, we do not
+
+find the reasoning in Cienciva convincing -- for all the reasons
+
+we already have given -- insofar as the district court concluded
+
+that the warrant on its own made the context for an excessive force
+
+claim new.
+
+            The dissent, for its part, invokes Cantú v. Moody, 933
+
+F.3d 414, 423 (5th Cir. 2019), to show that the Fifth Circuit has
+
+"held that the existence of a warrant amounts to a meaningful
+
+difference from Bivens." But that case did not involve an argument
+
+that the presence of a warrant independently rendered the context
+
+new.   Nor did the Fifth Circuit hold there what the dissent asserts
+
+that it held.     It merely observed that the "claim [in that case]
+
+involve[d] different conduct" than in Bivens because the claim was
+
+premised     on   the   allegation     that   the   defendant      "falsified
+
+affidavits" rather than that "the officers entered his home without
+
+a warrant or violated his rights of privacy."              Id.     The Fifth
+
+Circuit thus concluded that the context was new because the extent
+
+of judicial guidance "differs across the various kinds of Fourth
+
+Amendment     violations"   and      the   plaintiff's    claims    involved
+
+"different officers from a different agency."            Id.
+
+            So,   while   our   dissenting    colleague    accuses     us   of
+
+creating a circuit split, the dissent would hardly avoid one.
+
+Under the approach that the dissent favors, our circuit would be
+
+directly at odds with the Seventh and Tenth Circuits.
+
+
+                                  - 24 -
+                                           B.
+
+             As to the excessive force having allegedly occurred here
+
+in a publicly accessible parking lot, it is true that the alleged
+
+misconduct in Bivens occurred at a private home.                      It is also true
+
+that the place where an alleged Fourth Amendment violation occurs
+
+can be a meaningful difference.                 See Hernandez, 589 U.S. at 103.
+
+But the location where the misconduct occurred here -- the parking
+
+lot of a privately owned shopping center -- does not trigger the
+
+kind   of    acute     separation     of   powers       concerns      that    made   the
+
+"cross-border"         context   at    issue       in    Hernandez       meaningfully
+
+different from the context of Bivens itself.                    Id.
+
+             Moreover, the fact that the allegedly excessive force
+
+took place in a parking lot rather than at a private home does not
+
+risk "alter[ing] the policy balance that initially justified the
+
+cause[] of action recognized in Bivens" as "a separation-of-powers
+
+matter."     Snowden, 72 F.4th at 244, 247.                  As the Seventh Circuit
+
+well   put   it   in    considering    a    claim       of   excessive       force   that
+
+allegedly occurred in the lobby of a hotel, "[h]otel or home,
+
+warrant or no warrant -- the claims here and in Bivens stem from
+
+run-of-the-mill allegations of excessive force during an arrest."
+
+Id. at 247; see also id. (distinguishing the excessive force claim
+
+from one that allegedly occurred "in a government facility").
+
+             We also do not see how the location, when combined with
+
+the fact that the arrest is alleged to have been made pursuant to
+
+
+                                      - 25 -
+a warrant, makes the context here meaningfully different from the
+
+context in Bivens.     Nor do the defendants explain why, when these
+
+two features are considered together, their interaction would
+
+require a different conclusion than when either is considered
+
+alone.
+
+            The dissent does correctly note that in Byrd v. Lamb,
+
+990 F.3d 879, 882 (5th Cir. 2021), the Fifth Circuit concluded
+
+that the fact that the "case arose in a parking lot, not a private
+
+home as was the case in Bivens," was a meaningful difference.               But
+
+because the Fifth Circuit provided no explanation for why that
+
+difference would be meaningful, we do not find its decision
+
+persuasive.
+
+            The dissent cites Mejia v. Miller, 61 F.4th 663, 668
+
+(9th Cir. 2023), for the proposition that "challenged conduct
+
+outside the home amounts to a meaningful difference from Bivens."
+
+The   challenged    conduct   there,   however,     was   alleged     to   have
+
+"occurred     on   public   lands   managed   by"    a    new   category     of
+
+defendants -- officers from the Bureau of Land Management -- who
+
+were also operating under a different legal mandate.            Id.   So, the
+
+public location of that violation -- unlike the location at issue
+
+in the case before us -- does appear to have raised separation of
+
+powers concerns of the kind that the Supreme Court has suggested
+
+are meaningful.
+
+
+
+
+                                    - 26 -
+            Once again, moreover, our dissenting colleague fails to
+
+acknowledge that we would hardly avoid a circuit split if we were
+
+to affirm the ruling below.            Given the holdings by the Seventh
+
+Circuit in Snowden, 72 F.4th at 247, and the Tenth Circuit in
+
+Logsdon, 91 F.4th at 1357, the dissent's favored approach would
+
+deepen one.
+
+            The dissent does invoke Florida v. Jardines, 569 U.S. 1
+
+(2013).     But that case does not show that the location of the
+
+alleged misconduct here makes the context new.
+
+            Unlike    Bivens    and    this    case,   Jardines    involved    an
+
+alleged search, not a claim of excessive force.               See id. at 6-7.
+
+The distinction is significant.            An excessive force claim takes
+
+aim at the extent of the force used against the person rather than
+
+the extent to which an expectation of privacy has been infringed
+
+or a trespass has occurred.           So, Payton v. New York, 445 U.S. 573
+
+(1980), and United States v. Karo, 468 U.S. 705 (1984), are no
+
+different from Jardines in that they also implicate concerns about
+
+privacy      rather    than      excessive       force.           And     because
+
+Quinones-Pimentel, 85 F.4th at 71-72, like Jardines, involved an
+
+unlawful    search,   the     dissent's    reliance     on   it   is    similarly
+
+misplaced.
+
+            That there may be a greater likelihood of other people
+
+being present in a parking lot may bear on the privacy interests
+
+involved.     But we do not see how, in its nature, the physical
+
+
+                                      - 27 -
+location being a parking lot on its own bears on the reasonableness
+
+of the level of force used, such that the involvement of this
+
+location    risks   "alter[ing]      the      policy    balance    that     initially
+
+justified the cause[] of action recognized in                      Bivens" as "a
+
+separation-of-powers matter."            Snowden, 72 F.4th at 244, 247.
+
+            Insofar as our focus is on the nature of the allegedly
+
+unconstitutional conduct alleged, we also do not see how allowing
+
+a damages action here would risk any more "disruptive intrusion"
+
+into the "functioning of other branches" than Bivens itself already
+
+permits.    Abbasi, 582 U.S. at 140.           The right asserted here is the
+
+same as that asserted in Bivens -- a right under the Fourth
+
+Amendment against the excessive use of force by officers at the
+
+successor agency in Bivens.
+
+                                         C.
+
+            We come, then, to the final feature of this case that
+
+the defendants contend makes the context in which Arias's excessive
+
+force claims arise "meaningfully different" -- and so new.                         That
+
+feature,    on   which     the    District      Court    also     relied,     is    the
+
+post-Bivens enactment in 1988, through an amendment to the IGA, of
+
+an   administrative      mechanism       for    lodging     a     complaint    about
+
+misconduct by a federal law enforcement officer.                   For the reasons
+
+explained    below,   we    are    not   persuaded      that    this   legislative
+
+development renders this context new, even accounting for the other
+
+supposedly distinguishing factual circumstances addressed above.
+
+
+                                     - 28 -
+                                    1.
+
+           To   start,   we   recognize     that        the   District    Court
+
+understood Egbert to require the conclusion at step one that the
+
+IGA's   administrative   remedy   rendered       the    context   for    Arias's
+
+excessive claims new.    We also recognize that Egbert held that a
+
+plaintiff could not assert a Fourth Amendment claim for damages
+
+against a federal Border Patrol agent for the use of excessive
+
+force in part because the existence of an administrative process
+
+for lodging misconduct complaints against the agent was a "special
+
+factor" that counseled against authorizing the Bivens cause of
+
+action there.   See Egbert, 596 U.S. 493-94, 497-98.
+
+           The Supreme Court expressly noted in Egbert, however,
+
+that, in so holding, it was addressing only the second step of the
+
+Bivens analysis, not the first.            Id.         As the Supreme Court
+
+explained, the Ninth Circuit had held              below that the        Fourth
+
+Amendment claims in that case arose in a new context.             Id. at 494.
+
+           Moreover, the Ninth Circuit had not deemed the context
+
+new because there was an administrative remedial scheme for lodging
+
+complaints against federal Border Patrol agents.              Boule v. Egbert,
+
+998 F.3d 370, 387 (9th Cir. 2021), rev'd on other grounds, 596
+
+U.S. 482 (2022).   It had done so only for other reasons.                Id.    In
+
+fact, the defendants had not invoked that administrative scheme as
+
+a reason to conclude that no Bivens remedy was available.                      See
+
+Egbert, 596 U.S. at 497 n.3.       The Ninth Circuit then went on to
+
+
+                                  - 29 -
+hold,   at    the   second      step     of     the    Bivens     analysis,    that,
+
+notwithstanding     the    existence      of     other    alternative    remedies,
+
+Egbert, 998 F.3d at 387, 391-92, there were no special factors
+
+that counseled against extending the Bivens remedy to the new
+
+context.      So,   in    seeking      review    in    the   Supreme    Court,   the
+
+defendants were challenging only that latter aspect of the Ninth
+
+Circuit's holding, which they did by for the first time invoking
+
+the presence of the administrative remedy.                   See Egbert, 596 U.S.
+
+at 497 n.3.
+
+             As a result, in Egbert, the Supreme Court held only that,
+
+at the second step of the analysis, the administrative remedy there
+
+counseled against extending the Bivens remedy to a new context.
+
+It did not hold that the administrative remedy in and of itself
+
+made the context new.        Nor did it have occasion to decide whether
+
+such a remedy in and of itself ever could render a context new.
+
+                                         2.
+
+             Even though the precise holding of Egbert does not
+
+require us to conclude that the IGA's administrative remedy makes
+
+the   context   here     new,   we     still    must     decide   whether     such   a
+
+conclusion is warranted on some other basis.                 But we note up front
+
+that there is good reason for us to be wary of arguments that there
+
+is.
+
+             The Supreme Court has been clear that "it is this Court's
+
+prerogative alone to overrule one of its precedents."                    State Oil
+
+
+                                       - 30 -
+Co. v. Khan, 522 U.S. 3, 20 (1997). It is thus of some significance
+
+that,    although     Congress       amended      the    IGA     to    create    the
+
+administrative remedy         that supposedly spelled            Bivens's demise
+
+nearly forty years ago, see Inspector General Act Amendments of
+
+1988, Pub. L. No. 100-504, 102 Stat. 2515 (1988), the Supreme Court
+
+has repeatedly and recently declined to overrule Bivens, see, e.g.,
+
+Abbasi, 582 U.S. at 134 (reaffirming the "continued force" of
+
+Bivens    within    its   existing      context    and     observing      that   "no
+
+congressional enactment has disapproved of" the three original
+
+Bivens decisions).        And, in doing so, the Court has recognized
+
+that the "undoubted reliance" on "the settled law of Bivens in
+
+th[e] common and recurrent sphere of law enforcement" is itself a
+
+"powerful reason[] to retain it in that sphere."                      Id.; see also
+
+id. (noting that Bivens not only "vindicate[s] the Constitution by
+
+allowing    some     redress     for     injuries,"      but     also     "provides
+
+instruction and guidance to federal law enforcement officers going
+
+forward"); cf. Dickerson v. United States, 530 U.S. 428, 443 (2000)
+
+(declining to overrule Miranda v. Arizona, 384 U.S. 436 (1966), in
+
+part    because    "Miranda    has   become     embedded    in    routine    police
+
+practice to the point where the warnings have become part of our
+
+national culture").
+
+            If we were to conclude that the IGA makes the context
+
+here new, however, then we would have to endorse the view that the
+
+remedy Bivens recognized is no longer available, notwithstanding
+
+
+                                       - 31 -
+the Court's determination that there are "powerful reasons to
+
+retain it."           Abbasi, 582 U.S. at 134.      And we would also have to
+
+believe that this state of affairs has prevailed for nearly four
+
+decades, but that no one, including the Supreme Court, has noticed.
+
+For,       if   the   original    Bivens   cause   of   action    were   no   longer
+
+available due to the IGA's amendment in 1988, then there would
+
+have been no need for the Court to have considered the need for
+
+Bivens's        extension    in   cases    in   which   similar    administrative
+
+complaint mechanisms were available.               Yet, the Court has done so
+
+nonetheless.          See Hernandez, 589 U.S. 93; Egbert, 596 U.S. at 497
+
+(considering whether to "superimpos[e]" a Bivens remedy onto an
+
+administrative remedy that allows "[a]ny person[]" to "lodge a
+
+complaint" with the Department of Homeland Security's Office of
+
+Inspector General (quoting 8 C.F.R. § 287.10(b))).5                  And it would
+
+be hard to understand why in 2017 the Court thought it important
+
+to account for "the undoubted reliance" on the "settled law of
+
+Bivens" by "federal law enforcement officers going forward" if it
+
+
+
+
+       The dissent asserts that the length of time that has passed
+       5
+
+since the IGA's adoption provides no reason to be skeptical that
+it spelled the end of Bivens seemingly for all claims against
+federal law enforcement officers. The dissent asserts that this
+passage of time reveals only that Congress has not seen fit to
+review the silently buried Bivens cause of action during that time.
+But this misapprehends our reason for emphasizing the vintage of
+the IGA.    During that time, the Court has itself repeatedly
+reaffirmed Bivens, which was a curious thing for it to be doing if
+that remedy was already a thing of the past.
+
+
+                                       - 32 -
+were evident by then that the Bivens remedy had been unavailable
+
+for nearly three decades.             Abbasi, 582 U.S. at 134.
+
+              We    do    not     lightly    ascribe      to     the    Supreme    Court   a
+
+misapprehension           about     the     continuing          vitality    of    its   own
+
+precedents.        And, as a lower court, we are required to follow the
+
+Court's precedents, not treat them as but shells of their former
+
+selves.   See Agostini v. Felton, 521 U.S. 203, 237 (1997) ("[W]e
+
+do not hold[] that other courts should conclude our more recent
+
+cases have, by implication, overruled an earlier precedent.").
+
+              All that said, the Court has not been presented with the
+
+precise question before us today:                    Does the IGA's administrative
+
+mechanism for lodging complaints place a claim that otherwise
+
+arises in the same context as Bivens in a new one?                           So, we must
+
+look closely at the relevant precedents, including Egbert itself,
+
+to determine whether they require the District Court's conclusion
+
+that Bivens, in essence, has been long dead.                           For the reasons we
+
+next explain, we are not persuaded that they do.
+
+                                              3.
+
+              The Court has directly considered, in applying the first
+
+step of the analysis, how an alternative remedy bears on whether
+
+a   context    is    new    in     exactly    one       case:    Abbasi.      There,    the
+
+plaintiffs,        like    the    plaintiff        in   Carlson,       alleged    "prisoner
+
+mistreatment" resulting in "compelling" injury.                          582 U.S. at 147.
+
+
+
+
+                                            - 33 -
+           Abbasi reaffirmed the viability of the damages remedy
+
+that Carlson recognized.     Id. at 134, 140.      But the Court then
+
+concluded, at the first step of the analysis, that the context was
+
+new.   Id. at 149.
+
+           Abbasi did so with reference, in part, to remedies "that
+
+were not considered in the Court's previous Bivens cases."        Id. at
+
+148.    Thus,   it does   make clear that      previously unconsidered
+
+alternative remedies may be relevant at the first step, and it
+
+thereby accords with its own instruction that a "case might differ
+
+in a meaningful way because of . . . the presence of potential
+
+special factors that previous Bivens cases did not consider."          Id.
+
+at 139-40 (emphasis added).
+
+           Nonetheless,   Abbasi   did   not   suggest   that   the   mere
+
+existence of a previously unconsidered administrative mechanism
+
+for lodging misconduct complaints made the context new.         And that
+
+was so even though, by the time of Abbasi, such a previously
+
+unconsidered administrative mechanism -- the Administrative Remedy
+
+Program (ARP), 28 C.F.R. § 542 -- was in place.
+
+           The Abbasi Court was well aware, moreover, of the ARP,
+
+which it knew had not been considered in Carlson and which provided
+
+that inmates could "file[]" "grievances" regarding "an issue which
+
+relates to any aspect of their confinement[]."       Malesko, 534 U.S.
+
+at 74 (quoting 28 C.F.R. § 542.10 (2001)).         Indeed, in Malesko,
+
+the Court had explicitly relied on the ARP's remedy in declining
+
+
+                               - 34 -
+to extend the Carlson remedy to a new class of defendants at the
+
+second step of the analysis.    Id. at 74.    And Abbasi even cited to
+
+that portion of Malesko's analysis repeatedly, see 582 U.S. at
+
+136, 137, 140, 145, including in its discussion at the first step
+
+of whether the context was new, id. at 139.
+
+          At the first step, however, Abbasi identified meaningful
+
+differences other than the presence of the ARP.     Specifically, the
+
+Court first pointed to the fact that the plaintiffs in Abbasi,
+
+unlike the plaintiff in Carlson (who alleged under the Eighth
+
+Amendment that prison officials' provision of inadequate medical
+
+care resulted in acute harm, see Carlson, 446 U.S. at 16 n.1),
+
+alleged   that   a   warden's   supervisory    failures   resulted   in
+
+continuing violations under the Fifth Amendment, see 582 U.S. at
+
+148.   The Court then also observed that, seemingly in consequence
+
+of this difference, the plaintiffs in Abbasi had remedies other
+
+than damages that the plaintiff in Carlson did not.       And the Court
+
+identified those remedies as being only a writ of habeas corpus,
+
+"an injunction requiring the warden to bring his prison into
+
+compliance with [prison] regulations[,] . . . or some other form
+
+of equitable relief."    Id.
+
+          Finally, Abbasi pointed to "legislative action" that
+
+Carlson had not considered as a meaningful difference.       Id.   Here,
+
+the Court focused on the enactment of the Prison Litigation Reform
+
+Act of 1995, Pub. L. No. 104-134, 110 Stat. 1321 (1996) (PLRA),
+
+
+                                - 35 -
+which    had   mandated     among   other    things     that    prisoners     avail
+
+themselves     of   the     ARP   before     filing     suits     against    prison
+
+officials.6     Indeed, in referencing the PLRA, the Court in Abbasi
+
+explicitly observed that in an earlier case it "ha[d] said in dicta
+
+that the [PLRA's] exhaustion provisions would apply to Bivens
+
+suits."     Abbasi, 582 U.S. at 148-49; see Porter v. Nussle, 534
+
+U.S. 516, 524 (2002) ("Thus federal prisoners suing under Bivens
+
+v. Six Unknown Fed. Narcotics Agents, must first exhaust inmate
+
+grievance      procedures    just    as     state     prisoners    must     exhaust
+
+administrative processes prior to instituting a § 1983 suit."
+
+(citation omitted)).        But Abbasi did not suggest that the ARP in
+
+and of itself made the context there new.                   It explained that
+
+because the PLRA addressed when and how suits may be brought
+
+against prison officials without providing a damages remedy, that
+
+statute arguably "suggest[ed that] Congress chose not to extend
+
+the Carlson damages remedy to cases involving other types of
+
+prisoner mistreatment."           Abbasi, 582 U.S. at 149, 148 (emphasis
+
+added).
+
+
+
+     6  Although the ARP existed at the time that Carlson was
+decided, Koprowski v. Baker, 822 F.3d 248, 256 (6th Cir. 2016)
+(citing 44 Fed. Reg. 62248-51 (Oct. 29, 1979)), it was a remedy
+that Congress had not "affirmatively . . . requested or required."
+McCarthy v. Madigan, 503 U.S. 140, 149 (1992) (noting that the ARP
+was "neither enacted nor mandated by Congress"). After Carlson,
+however, Congress required the exhaustion of that administrative
+remedy through the PLRA. See Woodford v. Ngo, 548 U.S. 81, 8485
+(2006).
+
+
+                                     - 36 -
+          Accordingly,       while    Abbasi         addressed   the    import    of
+
+alternative remedies at the first step, it did not do so in a way
+
+that suggests that an administrative remedy like the IGA's in and
+
+of itself makes a context new, such that the presence of that
+
+remedy would render the context new even in a case in which the
+
+plaintiff alleged the exact same type of prisoner mistreatment as
+
+the plaintiff in Carlson alleged.              In fact, despite the presence
+
+in Abbasi of the previously unconsidered congressionally blessed
+
+ARP, the Court focused its new-context analysis in that case only
+
+elsewhere.
+
+                                        4.
+
+          Of course, there is only so much insight that can be
+
+gleaned from what the Court did not do in Abbasi.                  But the fact
+
+that Abbasi did not rely on the ARP at the first step would be
+
+less   worthy    of   note   if   the        Court    had   elsewhere    --      even
+
+once -- relied on the introduction of such an administrative remedy
+
+to find a context new.       As it turns out, though, we have not come
+
+across any case in which the Court has done so.                        Nor do the
+
+defendants identify one.
+
+          The dissent seems to suggest that it has found a few
+
+such cases.     The only one that the dissent identifies that in fact
+
+considers alternative remedies in applying the first step, though,
+
+is Abbasi itself. Otherwise, to support its contention that, under
+
+Supreme Court precedent, the presence of an alternative remedial
+
+
+                                     - 37 -
+structure is sufficiently meaningful to create a new context, the
+
+dissent relies exclusively on the Court's statements regarding
+
+step two.   See Egbert, 596 U.S. at 493 ("If there are alternative
+
+remedial structures in place, 'that alone,' . . . is reason enough
+
+to 'limit the power of the Judiciary to infer a new Bivens cause
+
+of action.'" (emphasis added) (quoting Abbasi, 582 U.S. at 137));
+
+Goldey v. Fields, 606 U.S. 942, 944-45 (2025) (explaining that the
+
+fact that "'an alternative remedial structure' already exists" is
+
+a "'special factor[]' counsel[ing] against . . . extending Bivens"
+
+(emphasis added));    Malesko, 534 U.S. at 70, 74 (listing the
+
+presence    of   alternative   remedies   as   one   "reason[]   that
+
+foreclose[s] [Bivens's] extension here" (emphasis added)); Bush v.
+
+Lucas, 462 U.S. 367, 388 (1983) (referring to "whether an elaborate
+
+remedial system . . . should be augmented by the creation of a new
+
+judicial remedy" (emphasis added)).
+
+            We do not see how the language about step two that the
+
+dissent relies on demonstrates that the presence of an alternative
+
+remedial structure is sufficiently meaningful to create a new
+
+context at step one.     The Court reiterated just this past Term
+
+that we only reach step two "if" we first conclude that "the case
+
+is 'different in a meaningful way' from the cases in which th[e]
+
+Court has recognized a Bivens remedy" and thus "presents 'a new
+
+Bivens context.'"    Goldey, 606 U.S. at 944 (quoting Abbasi, 582
+
+U.S. at 139); see id. (explaining that "[i]f [the case presents a
+
+
+                               - 38 -
+new context], we then ask whether there are 'special factors'"
+
+that counsel against extending Bivens to that new context (emphasis
+
+added)).
+
+            The dissent does appear to take issue with the need for
+
+us to adhere to the two-step framework, seemingly suggesting that
+
+what once were two steps now are better understood as one.                        It
+
+does so, apparently, based on the idea that any factor that would
+
+counsel    hesitation     in   extending     Bivens   to    a    new    context   is
+
+necessarily also a factor that makes a context new.                    But, insofar
+
+as the dissent finds support for that position in Egbert, we fail
+
+to see how it is there.
+
+            Egbert was itself decided at the second step of the
+
+analysis.       And, our own precedents do not comport with such a
+
+reading    of   Egbert.        See   Quinones-Pimentel,         85   F.4th   at   70
+
+(explaining,      after   Egbert,     that   "[i]f    the   case       presents   no
+
+meaningful differences (and thus no new context), the analysis
+
+ends there and relief under Bivens is available").
+
+            True, Egbert did state, as we have noted, that the "two
+
+steps . . . often resolve to a single question: whether there is
+
+any reason to think that Congress might be better equipped to
+
+create a damages remedy."             596 U.S. at 492 (emphasis added).
+
+Egbert also characterized its prior "expla[nation] that a new
+
+context arises when there are 'potential special factors that
+
+previous Bivens cases did not consider'" as an "example" of how
+
+
+                                      - 39 -
+the "two steps . . . often" merge.           Id. (quoting Abbasi, 582 U.S.
+
+at 140).
+
+            Egbert supported that proposition, though, by citing
+
+Abbasi.     And that case simply instructs that the presence of
+
+"potential special factors that previous Bivens cases did not
+
+consider"   is   one    way   in   which   "[a]   case    might   differ   in   a
+
+meaningful way."       Abbasi, 582 U.S. at 139-40 (emphasis added).
+
+            Moreover, in the paragraph preceding that statement, the
+
+Court in Egbert reiterated that "whether [a] case presents 'a new
+
+Bivens    context'"     depends    on   whether   it     is   "'meaningful[ly]'
+
+different from the three cases in which the Court has implied a
+
+damages action."       Egbert, 596 U.S. at 492 (alteration in original)
+
+(quoting Abbasi, 582 U.S. at 139).            Thus, while Egbert observed
+
+that "a new context arises when there are 'potential special
+
+factors that previous Bivens cases did not consider,'" id. (quoting
+
+Abbasi, 582 U.S. at 140), we do not understand the Court to have
+
+impliedly rejected Abbasi's core premise that a "potential special
+
+factor that previous Bivens cases did not consider" makes a context
+
+new only if that factor makes the context different in a way that
+
+is meaningful.    See Nat'l Pork Producers Council v. Ross, 598 U.S.
+
+356, 373-74 (2023) (emphasizing that the Court's opinions cannot
+
+"always . . . be parsed as though . . . dealing with the language
+
+of a statute" and "must [instead] be read with a careful eye to
+
+context" (quoting Reiter v. Sonotone Corp., 442 U.S. 330, 341
+
+
+                                    - 40 -
+(1979))).    In that respect, Egbert's "example" accords with the
+
+general requirement that, to reach step two, the context must be
+
+"'meaningful[ly]' different" from the one in which the Bivens
+
+remedy has been recognized by the Court.            Id. (alteration in
+
+original) (quoting Abbasi, 582 U.S. at 139); see also Goldey, 606
+
+U.S. at 944; Quinones-Pimentel, 85 F.4th at 70.
+
+            Consistent   with   this   understanding   of   Egbert,   we
+
+emphasize that when a "potential special factor[] that previous
+
+Bivens cases did not consider" shows that the case is meaningfully
+
+different, that same "special factor[]" will almost always counsel
+
+against allowing the damages remedy.          596 U.S. at 492 (quoting
+
+Abbasi, 582 U.S at 140).    But, conversely, if a "potential special
+
+factor[] that previous Bivens cases did not consider" fails to
+
+show the case is meaningfully different, then the case does not
+
+present a new context and the plaintiff may use the existing Bivens
+
+cause of action.    Id. (quoting Abbasi, 582 U.S. at 140).
+
+            After all, in that latter type of case, a court need not
+
+"create a damages remedy."      Id.    It need only apply the one that
+
+the Court already has recognized.         Accordingly, Egbert's "single
+
+question" could not be presented.       Id.
+
+            Thus, we do not understand Egbert, in observing that the
+
+"two steps . . . often resolve to a single question," to have
+
+relieved courts of their duty to engage in the general new-context
+
+inquiry.    Indeed, in the sentences surrounding that observation in
+
+
+                                 - 41 -
+Egbert, the Court makes clear that its focus is on whether a court
+
+may "fashion" or "creat[e] . . . a new judicial remedy."     Id. at
+
+493 (quoting Bush, 462 U.S. at 388).     And, in a context that does
+
+not meaningfully differ from the existing Bivens cases, a court
+
+would not be "infer[ring]," "fashion[ing]," or "creat[ing]" a
+
+"new" "Bivens cause of action," id., because a Bivens cause of
+
+action plainly already exists, id. at 493 n.2 (noting that there
+
+are contexts "in which a Bivens remedy is generally available"
+
+(quoting Hui v. Castaneda, 559 U.S. 799, 807 (2010))).      So, the
+
+inquiry into whether there is reason to hesitate before entering
+
+that uncharted ground need not be undertaken.
+
+          For these reasons, we cannot agree with the dissent's
+
+seeming suggestion that     Egbert's "single question"    discussion
+
+itself requires that we bypass the inquiry in this case as to
+
+whether   the    IGA's      mechanism    for   lodging   complaints
+
+administratively constitutes a meaningful difference from Bivens.
+
+Even if that scheme provides a reason not to extend the Bivens
+
+remedy, it does not follow that the scheme constitutes the kind of
+
+meaningful difference that gives rise to a new context.      And we
+
+are especially reluctant to conclude otherwise, when doing so
+
+necessarily would spell Bivens's demise in every context involving
+
+a Fourth Amendment claim.
+
+          The dissent also finds support for its position in the
+
+Court's latest word on Bivens -- Goldey v. Fields, 606 U.S. 942
+
+
+                                - 42 -
+(2025).      But we do not find that support there any more than we
+
+find it in Egbert.
+
+             In Goldey, the Court reiterated that "[t]o determine
+
+whether a Bivens claim may proceed, the Court has applied a
+
+two-step test."     Id. at 944.       Then, in accord with the undisputed
+
+positions of the parties and the Court of Appeals in that case,
+
+see Fields v. Fed. Bureau of Prisons, 109 F.4th 264, 270 (4th Cir.
+
+2024) ("Fields concedes that this case arises in a new context.
+
+We are thus faced solely with step two . . . ."),                     the Court
+
+explained that the "case arises in a new context."                Goldey, 606
+
+U.S. at 944; see also id. at 943 (explaining that an "Eighth
+
+Amendment excessive-force claim" was not among the three contexts
+
+in which the Court had "recognized" that "implied Bivens causes of
+
+action were permitted").      It was then -- and only then -- that the
+
+Court went on to address, as one would expect at the second step
+
+of     the   analysis,     whether     there       were   "'special    factors'
+
+counsel[ing]     against   recognizing        an   implied   Bivens   cause   of
+
+action" in that new context.         Id. at 944.     Analyzing those factors,
+
+it "declined to extend Bivens to [this] new context[]."                  Id. at
+
+945.    If anything, then, the two-step framework is, after Goldey,
+
+even more solidly supported in the precedent than it already was.
+
+             In sum, we cannot agree that any precedent of the Court
+
+holds that a previously unconsidered alternative remedy akin to
+
+the IGA's administrative mechanism for lodging complaints in and
+
+
+                                     - 43 -
+of itself suffices to render a context new.            There is none that
+
+does.
+
+                                    5.
+
+          The    dissent   also   suggests      that   our     own    circuit's
+
+precedents compel the conclusion that the IGA's administrative
+
+remedy independently renders this context new.            It first suggests
+
+that we decided the question of whether an alternative remedy is
+
+a special factor that independently creates a new context in
+
+González, 864 F.3d 45.      But the "special factors" language that
+
+the dissent relies on in that case plainly draws from our analysis
+
+at step two.    See id. at 53 & n.5.       We thus cannot agree that we
+
+decided there the antecedent question of whether the presence of
+
+a remedy that was not previously considered is necessarily a
+
+difference that is meaningful.
+
+          The    dissent   also   invokes      our   recent    precedent    in
+
+Waltermeyer v. Hazlewood, 136 F.4th 361 (1st Cir. 2025).               But that
+
+case did not involve any of the differences that we are presented
+
+with here.     The claims in Waltermeyer were premised on Carlson,
+
+rather than Bivens itself.    Id. at 362.       So, we cannot see how the
+
+differences that we found meaningful            there -- none of which
+
+concerned the presence of an administrative means of lodging
+
+complaints   about   misconduct   --     are   relevant   to    the   question
+
+presented here. Nor does the dissent explain why such a comparison
+
+would be appropriate.
+
+
+                                  - 44 -
+                                        6.
+
+            The dissent relies as well on cases from our sister
+
+circuits finding a context to be new.              However, none of those
+
+cases, save for one, held that there was an alternative remedy
+
+that in and of itself made the context there new.               See Kalu v.
+
+Spaulding, 113 F.4th 311, 327-29 (3d Cir. 2024) (noting that
+
+"several factors render[ed] [the] claim meaningfully different"
+
+including   "a    different     kind   of    officer   misconduct"   and   the
+
+"heightened risk" of "judicial intrusion into a different aspect
+
+of federal prison administration"); Logsdon, 91 F.4th at 1358-60
+
+(first explaining that the case presented a new context because it
+
+involved a "new category of defendant" and then describing "the
+
+availability of alternative remedies" as an "independent ground
+
+for not . . . creat[ing] a remedy" (emphasis added)); Johnson v.
+
+Terry,   119     F.4th   840,   859     (11th   Cir.   2024)   (listing    the
+
+constitutional right and injury as among the "differences" that
+
+"ma[d]e th[e] [case] a new context");              Lewis v. Bartosh, No.
+
+22-3060-PR, 2023 WL 8613873, at *2 (2d Cir. Dec. 13, 2023) (finding
+
+a new context, in part, based on the new category of defendant).7
+
+
+
+
+     7  The dissent also cites Bell v. Leavenworth U.S.
+Penitentiary,   No.   24-3156,   2025   WL  1650187   (10th   Cir.
+June 11, 2025), but that case did not discuss the role of
+alternative remedies at any step of the Bivens analysis, let alone
+the first, id. at *2.
+
+
+                                      - 45 -
+           The one exception is Noe v. United States Government,
+
+No. 23-1025, 2023 WL 8868491, at *3 (10th Cir. Dec. 22, 2023).
+
+But that case is an unpublished, nonbinding order.          And it rested
+
+on that panel's understanding that its prior decision, Silva v.
+
+United States, 45 F.4th 1134 (10th Cir. 2022), required it to
+
+foreclose Bivens relief when faced with an alternative remedy "even
+
+if the factual context is not meaningfully different from" an
+
+existing Bivens case, Noe, 2023 WL 8868491, at *3.
+
+           But   while   Silva    is      itself   precedential,     Noe's
+
+interpretation of Silva's holding is dubious.            Silva explicitly
+
+recognized that a meaningful difference did place the plaintiff's
+
+claim into a new context -- it noted that the "distinction between"
+
+the   plaintiff's   "excessive   force"    claim   and   the   "deliberate
+
+indifference to medical needs claim" in Carlson was "sufficient to
+
+conclude that [his] claim would require an extension of Bivens"
+
+and thus arose within a new context.        45 F.4th at 1137; see also
+
+id. ("[H]is claim clearly constitutes an expansion of Bivens.").
+
+                                   7.
+
+           That no case has turned up that adopts the dissent's
+
+view of the state of Bivens law should not be surprising.               In
+
+Bivens, Carlson, and Davis, the Court each time considered the
+
+context in which the claimed constitutional violation arose.            In
+
+light of that context, it then weighed the need for a damages
+
+remedy against the individual officer and concluded that it was
+
+
+                                 - 46 -
+proper to imply one.      Thereafter, the Court has reaffirmed each of
+
+those rulings despite knowing of administrative remedies it had
+
+not earlier considered (to say nothing of the damages remedy that
+
+the FTCA was amended to provide).8
+
+              Thus, while it is true that when the context is new, we,
+
+as a lower court, must account for an administrative remedy in
+
+weighing whether to extend an existing Bivens remedy, we see little
+
+to suggest that we may treat the existence of that remedy as an
+
+invitation to set aside the Court's prior calculus.          And we are
+
+particularly disinclined to infer that such a suggestion was
+
+intended when doing so would entail the conclusion that the Bivens
+
+remedy has long been a relic, despite the Court having affirmed
+
+its continuing vitality and noted the "powerful reasons to retain
+
+it."       Abbasi, 582 U.S. at 134.
+
+                                      8.
+
+              We make one last observation:    Congress itself has given
+
+no indication that -- contrary to its intent as expressed through
+
+the Westfall Act -- it meant to "abrogate Bivens" in creating the
+
+administrative remedy at issue here.          Hernandez, 589 U.S. at 111
+
+
+
+       The Court has also demonstrated its awareness of the IGA in
+       8
+
+the context of internal administrative remedies within other
+federal agencies. See Dep't of Transp. v. Ass'n of Am. R.Rs., 575
+U.S. 43, 52 (2015) (explaining that the IGA requires Amtrak to
+maintain an inspector general "much like [other] governmental
+agencies"); NASA v. FLRA, 527 U.S. 229, 237-39 (1999) (discussing
+the IGA in the context of NASA).
+
+
+                                  - 47 -
+n.9.     Certainly, nothing in the text of the IGA suggests such an
+
+intent.        And, unlike the PLRA, to which Abbasi gave weight in
+
+finding the context there new, the IGA does not purport to address
+
+when or how Bivens suits may be brought.
+
+               Nor have we been able to identify any aspect of the IGA's
+
+statutory history that suggests a legislative aim of limiting
+
+Bivens suits that otherwise would be available.                In fact, Congress
+
+initially authorized the relevant IGA remedy here just one month
+
+before    it    "explicit[ly]     except[ed]"        "Bivens   claims"   from   the
+
+Westfall Act's exclusivity requirement.                 Hui, 559 U.S. at 807;
+
+compare Inspector General Act Amendments of 1988, Pub. L. No.
+
+100-504, 102 Stat. 2515 (1988) (enacted October 18, 1988), with
+
+Federal Employees Liability Reform and Compensation Act of 1988,
+
+Pub    L.       N.    100-694,     102       Stat.     4563    (1988)    (enacted
+
+November 18, 1988).
+
+               To    be   sure,   we   are    not    addressing    the   distinct
+
+question -- independent of the two-step framework -- of whether
+
+Congress has "preclude[d] a claim under Bivens" by "affirmatively
+
+foreclos[ing] one."         Egbert, 596 U.S. at 493 n.2; see, e.g., Hui,
+
+559 U.S. at 808 (concluding that "the text of [the statute involved
+
+there] plainly indicates that it precludes a Bivens action against
+
+petitioners for the harm alleged in this case").                   But the IGA's
+
+statutory history does have relevance to the step-one issue that
+
+is at hand.
+
+
+                                       - 48 -
+          To the extent that, through the Westfall Act, Congress
+
+expressed its "clear" intent to "le[ave] Bivens where it found
+
+it," we cannot see why the IGA -- which was enacted one month
+
+before the Westfall Act -- should not be understood to reflect
+
+that same intent.   Hernandez, 589 U.S. at 111 n.9; cf. Merck & Co.
+
+v. Reynolds, 559 U.S. 633, 648 (2010) ("We normally assume that,
+
+when Congress enacts statutes, it is aware of relevant judicial
+
+precedent.").    It would be surprising, to say the least, for
+
+Congress to have made a point of leaving Bivens where it found it
+
+if just a month before it had taken action that it understood to
+
+have left Bivens for dead.
+
+          As a result, the absence of any mention of Bivens in the
+
+IGA, even in its legislative history, offers no sign that Congress
+
+intended to leave Bivens in worse shape than the Westfall Act did.
+
+Cf. Abbasi, 582 U.S. at 148-49 (considering "legislative action
+
+suggesting that Congress does not want a damages remedy").             If
+
+anything, the silence offers further reason for us not to do what
+
+the Court has so far declined to do -- declare that, because of a
+
+decades-old   legislative   change   codifying   a   means   of   lodging
+
+internal complaints, the remedy recognized in Bivens may no longer
+
+be asserted in any context, no matter how similar the context
+
+otherwise is to the one involved in Bivens itself.       See Chisom v.
+
+Roemer, 501 U.S. 380, 396 n.23 (1991) ("Congress' silence in this
+
+
+
+
+                               - 49 -
+regard can be likened to the dog that did not bark." (citing A.
+
+Doyle, Silver Blaze, in The Complete Sherlock Holmes 335 (1927))).
+
+                                              D.
+
+               In the end, our task is to determine whether this case
+
+arises in a new context relative to Bivens and then, if it does,
+
+to     determine      whether     there       are    special     factors     counseling
+
+hesitation in extending the damages remedy that Bivens recognized.
+
+That first step of that analysis calls on us "to apply a familiar
+
+mode of judicial reasoning": "determin[ing] if the case before
+
+[us]    fits    within    the     Court's      still-valid       --    but   now   quite
+
+limited -- precedent."          Snowden, 72 F.4th at 244.
+
+               We thus must decide whether the differences between this
+
+case and Bivens are meaningful, given the Court's reaffirmation of
+
+the result of the weighing that it did in Bivens in recognizing
+
+the implied cause of action for damages there.                    For the reasons we
+
+have explained, we conclude that the differences here are not
+
+meaningful, in part because the relevant precedents fail to show
+
+that the IGA is a legal development that "would require reweighing
+
+the    costs    and    benefits    of     a    damages    remedy      against   federal
+
+officials" as to the excessive force claims in this case in a way
+
+that the Court has not already weighed them in recognizing the
+
+cause of action in Bivens itself.                  Id. at 244.   Were we to conclude
+
+otherwise, we would have to conclude that the Court has been
+
+
+
+
+                                          - 50 -
+reaffirming the existence of a remedy that had long since ceased
+
+to exist.
+
+            Perhaps the Court will be convinced to conclude that the
+
+IGA's administrative mechanism for filing internal complaints
+
+suffices to make this context new and so to trigger a new weighing
+
+that supersedes the earlier one.   But, from where we sit, we cannot
+
+conclude that the Court already has come to that conclusion and
+
+thereby invited lower courts to render unavailable in any context
+
+the remedy that it has deemed necessary in the context that Bivens
+
+itself presented.
+
+            Accordingly, we conclude that the District Court erred
+
+in relying on the IGA to decide that Arias's excessive force claims
+
+arise in a new context.    Moreover, the defendants have failed to
+
+identify any other factual circumstances that, taken alone or
+
+together, suggest that the differences between the plaintiff's
+
+excessive force claims and those in Bivens are in any sense
+
+meaningful.9    We therefore conclude that the context here is not
+
+
+
+     9 In reaching this conclusion, we emphasize that we do not
+intend to cast doubt on the possibility that other excessive force
+claims may, in fact, present a new context. The outcome could be
+different if, for example, the plaintiff alleged claims against a
+new category of defendants. Compare Carlson v. Green, 446 U.S.
+14, 25 (1980) (recognizing a Bivens claim for Eighth Amendment
+claims of inadequate medical treatment against federal prison
+officials), with Corr. Servs. Corp. v. Malesko, 534 U.S. 61, 70
+(2001) (holding that an Eighth Amendment inadequate medical
+treatment claim against a private prison operator presented a new
+context).
+
+
+                               - 51 -
+new and that, as a result, we need not reach step two of the Bivens
+
+analysis.    See Quinones-Pimentel, 85 F.4th at 70 (explaining that
+
+if there is no new context "the analysis ends there and relief
+
+under Bivens is available").        Accordingly, we reverse the grant of
+
+summary judgment to the defendants on Arias's excessive force
+
+claims.
+
+                                     IV.
+
+            Arias's   failure-to-intervene     claims    are   a   different
+
+matter.     The District Court also relied on the existence of the
+
+IGA's   alternative   remedy   to    dismiss   those    claims.     But,   in
+
+addition, it identified another difference that it concluded was
+
+meaningful: the absence of any bystander liability claims in Bivens
+
+itself.   Because Arias does not raise on appeal any arguments that
+
+challenge this independent basis for the District Court's ruling,
+
+we have no reason to conclude that ruling was erroneous.                   See
+
+United States v. Zannino, 895 F.2d 1, 17 (1st Cir. 1990).
+
+                                      V.
+
+            The judgment granting summary judgment to the defendants
+
+is affirmed as to Arias's failure-to-intervene claims and reversed
+
+and remanded for further proceedings consistent with this decision
+
+as to Arias's excessive force claims.
+
+
+
+            - Concurring and Dissenting Opinion Follows -
+
+
+
+
+                                    - 52 -
+            LYNCH, Circuit Judge (Concurring In Part and Dissenting
+
+In Part).     I concur in the majority's affirmance of entry of
+
+summary   judgment   in   Arias'     failure-to-intervene    claim.    I
+
+respectfully dissent from the majority's holding reversing entry
+
+of summary judgment against Arias' Fourth Amendment excessive
+
+force claims.    The majority misreads Supreme Court commands when
+
+it concludes that congressional amendment of the IGA, post-Bivens
+
+is not a "meaningful difference."           The majority further errs in
+
+concluding that even if the IGA were a meaningful difference, the
+
+IGA would not present a "new context."          The majority incorrectly
+
+reasons that "conclud[ing] otherwise would" require "conclud[ing],
+
+incongruously, that the Bivens remedy has been a dead-letter since
+
+the IGA's amendment, even though the Supreme Court has reaffirmed
+
+the existence of that remedy in the years after that now decades-
+
+old legislative development."
+
+            The majority's framing and answer are incorrect for a
+
+number of reasons.    It is precisely when Congress has acted that
+
+the judiciary should not, to use the Supreme Court's terminology,
+
+"infer," "authorize," "enforce," "approve," "find," "prescribe,"
+
+"recognize," "create," or "expand" a judicially created remedy for
+
+Fourth Amendment excessive force claims.           Congress is assuredly
+
+aware of Bivens and it has decided that the IGA remains in effect
+
+and is good law.     Statutes, like court opinions, do not become
+
+inoperative because they were enacted decades ago.
+
+
+                                   - 53 -
+            The premises of the majority's reasoning are themselves
+
+inaccurate.      The Supreme Court has neither resolved a Fourth
+
+Amendment arrest excessive force case in the years since the IGA's
+
+passage, nor has it approved a single Bivens-type lawsuit since
+
+Carlson v. Green, 446 U.S. 14 (1980).               Rather, the Court has
+
+repeatedly made it clear that it is up to Congress, not the courts,
+
+to determine whether to create mechanisms and remedies for alleged
+
+constitutional violations by federal officers.                The judicially
+
+created Bivens Fourth Amendment excessive force cause of action
+
+and damages remedy is not a dead letter as to cases which have no
+
+meaningful differences with Bivens, but only as to those cases.
+
+The   majority   pays   short   shrift   to   the   Article    III   concerns
+
+articulated by the Supreme Court that it is properly the function
+
+of Congress, not the federal courts, to authorize such causes of
+
+action.10   Goldey v. Fields, 606 U.S. 942, 945 (2025) (per curiam),
+
+stated "[f]or the past 45 years, this Court has consistently
+
+declined to extend Bivens to new contexts," thus discrediting the
+
+majority's reasoning that the Court has somehow given new life to
+
+Bivens in the face of the IGA.
+
+
+
+
+      10"[T]he question whether a given remedy is adequate is a
+legislative determination that must be left to Congress, not the
+federal courts. . . . That is true even if a court independently
+concludes that the Government's procedures are 'not as effective
+as an individual damages remedy.'" Egbert v. Boule, 596 U.S. 482,
+498 (2022) (quoting Bush v. Lucas, 462 U.S. 367, 372 (1983)).
+
+
+                                  - 54 -
+            In my view, the majority's holding is not only directly
+
+contrary to many Supreme Court holdings, but it also exacerbates
+
+the existing splits among the circuits and introduces a new split.11
+
+Under the Court's latest guidance, the issue before us is whether
+
+this case arises even slightly in a new context.    See id. at 944-
+
+45.   The differences here are more than slight, including both
+
+that Congress has chosen to create the IGA administrative remedy
+
+and that there are other meaningful differences with Bivens.
+
+Arias' arrest for drug dealing was made pursuant to a warrant and
+
+thus on probable cause, and the assertion of excessive force arose
+
+from the officers' attempt to enforce the warrant in a highly
+
+public place, a mall parking lot where there was a significant
+
+risk to the public.    Arias' claim is factually different and in a
+
+different context than the excessive force claim made years ago in
+
+Bivens.
+
+            There are several steps in the test which binds us for
+
+whether this claim for damages survives.    See Egbert, 596 U.S. at
+
+492-93.    These steps start with whether the claim presents "'a new
+
+Bivens context' -- i.e., is it 'meaningful[ly]' different" from
+
+Bivens.    Id. at 492 (alteration in original) (quoting Ziglar v.
+
+Abbasi, 582 U.S. 120, 139 (2017)); see also Hernandez v. Mesa, 589
+
+
+
+       The Supreme Court may wish to address these circuit splits,
+      11
+
+reflecting the need for additional guidance to lower court judges,
+who in good faith have reached different outcomes.
+
+
+                                - 55 -
+U.S. 93, 102 (2020).    The Supreme Court has identified a non-
+
+exhaustive list of what are "meaningful" differences and has
+
+included "special factors" on that list:
+
+          Without endeavoring to create an exhaustive
+          list of differences that are meaningful enough
+          to make a given context a new one, some
+          examples might prove instructive.      A case
+          might differ in a meaningful way because of
+          the rank of the officers involved; the
+          constitutional right at issue; the generality
+          or specificity of the official action; the
+          extent of judicial guidance as to how an
+          officer should respond to the problem or
+          emergency to be confronted; the statutory or
+          other legal mandate under which the officer
+          was   operating;   the  risk   of   disruptive
+          intrusion   by   the   Judiciary    into   the
+          functioning of other branches; or the presence
+          of potential special factors that previous
+          Bivens cases did not consider.
+
+Abbasi, 582 U.S. at 139-140 (emphasis added).   "Second, if a claim
+
+arises in a new context, a Bivens remedy is unavailable if there
+
+are 'special factors' indicating that the Judiciary is at least
+
+arguably less equipped than Congress to 'weigh the costs and
+
+benefits of allowing a damages action to proceed.'"    Egbert, 596
+
+U.S. at 492 (quoting Abbasi, 582 U.S. at 136).       The Court has
+
+stressed that "[i]f there is even a single 'reason to pause before
+
+applying Bivens in a new context,' a court may not recognize a
+
+Bivens remedy."   Id. (quoting Hernandez, 589 U.S. at 102).
+
+          The Egbert Court further held that "[w]hile our cases
+
+describe two steps, those steps often resolve to a single question:
+
+whether there is any reason to think that Congress might be better
+
+
+                              - 56 -
+equipped to create a damages remedy."             Id.     Applying Egbert's
+
+ruling that the two questions often resolve to a single question,
+
+Goldey decided the two steps simultaneously, demonstrating it was
+
+proper to do so.    See 606 U.S. at 944-45.      By contrast the majority
+
+holds it is error for a court not to take the first step first,
+
+and if the first step is not satisfied, then the case must be
+
+remanded to the district court, which cannot consider the second
+
+step before then.         That itself is error.        In this case, if not
+
+necessarily in all cases, the two steps resolve into one.
+
+            The   Court    has   specifically   held     that   even   "small"
+
+differences suffice to create a "new context," and that "the new-
+
+context inquiry is easily satisfied."           Abbasi, 582 U.S. at 149.
+
+Hernandez explained that "[a] claim may arise in a new context
+
+even if it is based on the same constitutional provision as a claim
+
+in a case in which a damages [claim] was previously recognized."
+
+589 U.S. at 103.         And in Egbert, the Court held that while the
+
+facts at issue there "involve[d] similar allegations of excessive
+
+force      and    thus     arguably      present[ed]     'almost       parallel
+
+circumstances' [to Bivens] . . . these superficial similarities
+
+[we]re not enough to support the judicial creation of a cause of
+
+action."    596 U.S. at 495 (quoting Abbasi, 582 U.S. at 139).
+
+            In the decades since Bivens was decided, the Court "ha[s]
+
+come 'to appreciate more fully the tension between' judicially
+
+created causes of action and 'the Constitution's separation of
+
+
+                                      - 57 -
+legislative and judicial power,'" and that unless a court exhibits
+
+the   "utmost      deference     to   Congress's           preeminent    authority   in
+
+[creating      a   cause   of    action],         it    'arrogat[e][s]    legislative
+
+power.'"       Egbert,     596   U.S.       at    491-92     (second    alteration   in
+
+original) (quoting Hernandez, 589 U.S. at 100).                         The Court has
+
+further     emphasized      that      "it        is    a   significant    step    under
+
+separation-of-powers principles for a court to determine that it
+
+has the authority, under the judicial power, to create and enforce
+
+a cause of action for damages against federal officials in order
+
+to    remedy       a   constitutional            violation,"      and     "[i]n    most
+
+instances, . . . the Legislature is in the better position to
+
+consider if 'the public interest would be served' by imposing a
+
+'new substantive legal liability.'"                    Abbasi, 582 U.S. at 133, 136
+
+(quoting Schweiker v. Chilicky, 487 U.S. 412, 426-27 (1988)). Even
+
+seemingly small variations from Bivens are "meaningful" precisely
+
+because they inappropriately encroach on legislative power.
+
+            Egbert makes it even more clear that the IGA creates
+
+exactly such a new context:
+
+            [A] court may not fashion a Bivens remedy if
+            Congress   already  has   provided,  or   has
+            authorized the Executive to provide, "an
+            alternative remedial structure." If there are
+            alternative remedial structures in place,
+            "that alone," like any special factor, is
+            reason enough to "limit the power of the
+            Judiciary to infer a new Bivens cause of
+            action."
+
+
+
+
+                                        - 58 -
+596 U.S. at 493 (citations omitted) (quoting Abbasi, 582 U.S. at
+
+137). Egbert expressly held that an alternative remedial structure
+
+"alone" bars a Bivens remedy.          Id. (quoting Abbasi, 582 U.S. at
+
+137).     The Supreme Court has repeatedly held that alternative
+
+remedies   can    create   a    "situation    altogether   different       from
+
+Bivens."    Corr. Servs. Corp. v. Malesko, 534 U.S. 61, 73 (2001);
+
+see also Bush, 462 U.S. at 377-78.
+
+            The majority attempts, wrongly, to dismiss Goldey, but
+
+Goldey also held that no Bivens action was present because "'an
+
+alternative   remedial     structure'     already   exists,"    and   that   no
+
+Bivens    cause   of   action    exists   when   "Congress     has    actively
+
+legislated in the area . . . but has not enacted a statutory cause
+
+of action for money damages."          606 U.S. at 944.      Goldey held it
+
+was error to recognize a Bivens claim because it "could have
+
+negative systemic consequences for [federal] officials." Id. That
+
+is true here.
+
+            The   majority      is   incorrect   in   reading     Abbasi     as
+
+supporting its position that the existence of a congressionally
+
+created alternative remedy does not necessarily create a new
+
+context.    Indeed, to the extent that Abbasi addressed the role of
+
+administrative remedies, it noted that the "case also ha[d] certain
+
+features that were not considered in the Court's previous Bivens
+
+cases and that might discourage a court from authorizing a Bivens
+
+remedy.    As noted above, the existence of alternative remedies
+
+
+                                     - 59 -
+usually precludes a court from authorizing a                 Bivens action."
+
+Abbasi, 582 U.S. at 148; see also Administrative Remedy Program,
+
+44 Fed. Reg. 62250 (Oct. 29, 1979) (to be codified at 28 C.F.R.
+
+§ 542).
+
+            The Bivens Court had no occasion to consider the IGA,12
+
+as Bivens was decided in 1971, prior to the enactment of the IGA.
+
+Congress created the Inspector General Act of 1978, 5 U.S.C. ch. 4
+
+(amended in 1988 to apply to the Department of Justice, Inspector
+
+General Act Amendments of 1988, Pub. L. No. 100-504, 102 Stat.
+
+2515    (1988)),    and   the    Executive    established    the   Office   of
+
+Professional       Responsibility,     28     C.F.R.   § 0.29c(c).      These
+
+structures    create      an    administrative   complaint    process   which
+
+provides for formal investigation into allegations of DEA agent
+
+misconduct, with potential consequences including disciplinary
+
+action and criminal prosecution.              That congressionally created
+
+alternative structure alone should result in entry of judgment for
+
+
+
+
+        The majority's reasoning that Congress demonstrated no
+       12
+
+intent to abrogate Bivens with the creation of the administrative
+remedies at issue asks the wrong question, as the Supreme Court
+makes clear. It is also inconsistent with this circuit's prior
+holding that Congress need not have explicitly identified the
+remedial structure at issue as intended to supplant Bivens. In
+González v. Vélez, we held that the issue is "whether there exists
+an alternative process that Congress reasonably may have viewed as
+an equally effective surrogate for an action brought directly under
+the Constitution."    864 F.3d 45, 53 (1st Cir. 2017) (emphasis
+added).
+
+
+
+                                     - 60 -
+the defendants on these claims.13   Congress created an alternative
+
+structure that "vindicate[s] the Constitution by allowing some
+
+redress for injuries." Abbasi, 582 U.S. at 148.     Courts may not
+
+substitute for the congressionally created procedure and remedy a
+
+judicially created Bivens cause of action.     While Congress chose
+
+in the IGA not to provide the identical procedures and remedies as
+
+in Bivens, Egbert and its progeny make clear that is a choice for
+
+Congress to make.14
+
+             The majority seeks to minimize the significance of the
+
+IGA's remedial scheme by repeatedly asserting a straw man: that
+
+the Supreme Court has not overruled Bivens itself in the years
+
+since the IGA's passage.    But neither has the Supreme Court found
+
+a single case in which it has continued a Bivens remedy since
+
+Carlson, a case from the "heady days in which th[e] Court assumed
+
+common-law powers to create causes of action."     Egbert, 596 U.S.
+
+
+     13 Itis true that Hernandez found that the Federal Tort Claims
+Act (FTCA) is not an alternative remedy that abrogates Bivens.
+589 U.S. at 111 n.9.     But Hernandez, which was decided before
+Egbert, says nothing at all about the IGA and thus does not support
+the majority's argument.
+     14 The fact that an alternative remedial structure does not
+provide for money damages does not matter. In Egbert, the Supreme
+Court rejected arguments that the alternative remedial structure
+at issue was inadequate because the defendant was not entitled to
+participate and had no right to judicial review, noting that "we
+have never held that a Bivens alternative must afford rights to
+participation or appeal."    Egbert, 596 U.S. at 497-98.   Abbasi
+likewise held that alternative remedies barred a Bivens remedy
+without any discussion of whether they provided for damages.
+Abbasi, 582 U.S. at 148.
+
+
+                                - 61 -
+at 491 (quoting Malesko, 534 U.S. at 75 (Scalia, J., concurring)).
+
+The majority thus attempts to read out of Egbert and its progeny
+
+the Court's main message: that lower courts should not in any way
+
+use Bivens to justify judicially created causes of action in cases
+
+like this. The "functional test" adopted by the majority is itself
+
+doubtful and neither congruent nor consistent with the Supreme
+
+Court's tests.       And even if a functional test were the correct
+
+test, this case would fail it, as it would "alter the policy
+
+balance."
+
+              The majority's attempt to say that the existence of an
+
+alternative remedial structure qualifies as a "special factor" for
+
+purposes of the new-context analysis but does not amount to a
+
+"meaningful" difference is an outlier amongst our sister circuits,
+
+is also wrong, and creates a circuit split.                The Second, Third,
+
+Tenth,   and    Eleventh   Circuits   have   all    held    that   alternative
+
+remedial structures create a "new context" or, more generally,
+
+categorically bar Bivens-type relief. See, e.g., Johnson v. Terry,
+
+119 F.4th 840, 858 (11th Cir. 2024) ("[T]he context of these claims
+
+is different from the context of the claim in Carlson because there
+
+the   Court    did   not   consider   whether      there    were   alternative
+
+remedies . . . ."); Logsdon v. U.S. Marshal Serv., 91 F.4th 1352,
+
+1359 (10th Cir. 2024) (identifying the existence of an alternative
+
+remedial structure as an "independent ground for not recognizing
+
+a Bivens action" (emphasis added)); Kalu v. Spaulding, 113 F.4th
+
+
+                                  - 62 -
+311, 327-28 (3d Cir. 2024) (identifying the existence of an
+
+alternative remedial structure as a factor creating a new context);
+
+Lewis v. Bartosh, No. 22-3060, 2023 WL 8613873, at *1 (2d Cir.
+
+Dec. 13, 2023) (holding that "'[i]f a claim arises in a new
+
+context'     --   such   as   if   it   involves   'a     new   category   of
+
+defendants' -- or if there is an 'alternative remedial structure,'
+
+a Bivens remedy is generally 'unavailable'" (quoting Egbert, 596
+
+U.S. at 492-93)); see also Silva v. United States, 45 F.4th 1134,
+
+1141 (10th Cir. 2022) (holding that under Egbert, Bivens-type
+
+claims do not survive when an alternative remedial structure
+
+exists); Noe v. U.S. Gov't, No. 23-1025, 2023 WL 8868491, at *3
+
+(10th Cir. Dec. 22, 2023) (holding that Bivens-type claim did not
+
+survive because of existence of alternative remedial structure
+
+even if facts were otherwise identical).15              The majority breaks
+
+with all of these circuits and adopts a holding that is sui
+
+generis.16
+
+
+
+     15The majority tries to discount the Tenth Circuit's decision
+in Noe. While the Tenth Circuit's opinion in Noe was unpublished,
+that court reached substantially the same conclusion in the
+published Logsdon opinion, which held that "the availability of
+alternative remedies" there was an "independent ground for not
+recognizing a Bivens action." Logsdon, 91 F.4th at 1359.
+     16The Ninth Circuit's decision in Watanabe v. Derr, 115 F.4th
+1034 (9th Cir. 2024), reh'g denied en banc, 139 F.4th 1056 (2025),
+does not support the majority as it was not a Fourth Amendment
+excessive force case, provides almost no reasoning, and the
+government did not, apparently, present the special factors
+argument it has presented here.
+
+
+                                   - 63 -
+           Arias' case is also "meaningfully different" from Bivens
+
+in addition to the IGA because there are numerous factual and legal
+
+claim differences.      First, unlike Bivens, Arias was arrested
+
+pursuant to a warrant.    See Bivens v. Six Unknown Named Agents of
+
+Federal Bureau of Narcotics, 403 U.S. 388, 389 (1971).           There was
+
+a   judicial   determination   of    probable   cause17   that   Arias   had
+
+committed crimes.    There was no such determination that Bivens had
+
+committed a crime, nonetheless officers entered his home and tried
+
+to arrest him.
+
+           Further, unlike Bivens who was arrested in his home,
+
+id., Arias was arrested in his car in a shopping mall parking lot.
+
+These facts present meaningful differences in an excessive force
+
+claim, which considers "whether the suspect poses an immediate
+
+threat to the safety of the officers or others, and whether he is
+
+actively resisting arrest or attempting to evade arrest by flight."
+
+Graham v. Connor, 490 U.S. 386, 396 (1989).        Both in effecting the
+
+arrest and in preventing any attempts by Arias to speed away to
+
+avoid arrest, the law enforcement officers had to account for the
+
+real dangers which were posed to the women, children, and men in
+
+the lot of the shopping mall.        Indeed, in circumstances where the
+
+
+
+      17In the months before Arias' arrest, "an undercover Drug
+Enforcement Administrative operative[] made several controlled
+purchases of fentanyl-laced heroin from" Arias.       Order on
+Defendants’ Renewed Motion for Summary Judgment, Arias v. U.S.,
+No. 17-cv-516-SM, ECF No. 56 at 3 (Jan. 19, 2021).
+
+
+                                    - 64 -
+suspect may pose a threat to the arresting officers or others, or
+
+may flee, the Supreme Court has held that officers may reasonably
+
+use additional force to effectuate a seizure. See Scott v. Harris,
+
+550 U.S. 372, 384-86 (2007); see also Bannon v. Godin, 99 F.4th
+
+63, 79-83 (1st Cir. 2024) (reasonableness of force must be assessed
+
+in light of threat to officer and members of the public and so
+
+lethal force was reasonable), cert. denied, 145 S. Ct. 1048 (2025),
+
+reh'g denied, 145 S. Ct. 1347 (2025).
+
+           More than that, public parking lots and people's homes
+
+are different for Fourth Amendment purposes.               Fourth Amendment
+
+interests are strongest in the home.                  See, e.g., Florida v.
+
+Jardines, 569 U.S. 1, 6 (2013) (noting that "when it comes to the
+
+Fourth Amendment, the home is first among equals" and that "the
+
+distinction between the home and the open fields is 'as old as the
+
+common law'" for purposes of determining whether an unlawful search
+
+has taken place (quoting Hester v. United States, 265 U.S. 57, 59
+
+(1924))); United States v. Karo, 468 U.S. 705, 714 (1984)("[o]ur
+
+cases   have    not   deviated   from   th[e]    basic     Fourth    Amendment
+
+principle"     that   "private   residences     are    places   in   which   the
+
+individual normally expects privacy free of governmental intrusion
+
+not authorized by a warrant, and that expectation is plainly one
+
+that society is prepared to recognize as justifiable"); Payton v.
+
+New York, 445 U.S. 573, 601 (1980)("To be arrested in the home
+
+involves not only the invasion attendant to all arrests but also
+
+
+                                   - 65 -
+an invasion of the sanctity of the home. This is simply too
+
+substantial   an    invasion     to   allow    without   a   warrant . . . ."
+
+(citation omitted)).
+
+            The majority reasons that excess force is the same no
+
+matter    these    differences    and    so    the   differences   cannot   be
+
+meaningful.       I disagree, but more importantly, Congress could
+
+easily find these differences meaningful.             Congress could readily
+
+conclude arrests without warrant in the sanctity of the home are
+
+greater invasions of Fourth Amendment protections than attempts by
+
+law enforcement to effectuate arrest warrants in busy public mall
+
+parking lots. Each of these clear differences, whether taken alone
+
+or collectively, creates a "new context."18
+
+            The majority also magnifies existing circuit splits
+
+regarding other differences from Bivens.             The Fourth, Fifth, and
+
+Sixth circuits have held that the existence of a warrant amounts
+
+to a meaningful difference from Bivens in Fourth Amendment claims.
+
+
+
+     18Arias and the majority rely on Hicks v. Ferreyra, 64 F.4th
+156 (4th Cir. 2023) and Snowden v. Henning, 72 F.4th 237 (7th Cir.
+2023), as demonstrating the viability of Bivens-type claims. Yet
+these out-of-circuit cases are distinguishable on the very
+characteristics that place this case in a "new context": Hicks did
+not involve a warrant or an alternative remedial structure, see
+Hicks, 64 F.4th at 167, and the Snowden court did not involve a
+remedial structure other than the FTCA (and the Snowden court
+reasoned that the FTCA is not an alternative to Bivens-type
+actions), Snowden, 72 F.4th at 246 n.4. The majority also cites
+DeMayo v. Nugent, 517 F.3d 11 (1st Cir. 2008), but it too has
+little relevance, as it was decided well before Egbert and the
+line of Supreme Court cases that are controlling here.
+
+
+                                      - 66 -
+See    Annappareddy       v.   Pascale,      996   F.3d    120,   135   (4th   Cir.
+
+2021)("What Bivens involved was the Fourth Amendment right to be
+
+free of unreasonable warrantless searches and seizures; this case,
+
+by contrast, involves searches and a seizure conducted with a
+
+warrant."); Cantú v. Moody, 933 F.3d 414, 423 (5th Cir. 2019);
+
+Cain v. Rinehart, No. 22-1893, 2023 WL 6439438, at *3 (6th Cir.
+
+July 25, 2023).     The majority disagrees.             But the Cantú decision's
+
+own language shows the Fifth Circuit stated exactly that: One of
+
+the "[m]any measures" on which "Cantú's claims [we]re meaningfully
+
+different from the Fourth Amendment claim at issue in Bivens" was
+
+that the officers had not "entered his home without a warrant."
+
+Cantú, 933 F.3d at 423 (emphasis added).                    Since a new context
+
+arises   whenever     a    claim     is    "'meaningful[ly]'      different"    from
+
+Bivens, the existence of a warrant produces a new context. Egbert,
+
+596 U.S. at 492 (alteration in original) (emphasis added)(quoting
+
+Abassi, 582 U.S. at 139).              The Seventh and Tenth circuits have
+
+held the opposite, with the latter court acknowledging this exact
+
+circuit split.      See Snowden, 72 F.4th at 247; Logsdon, 91 F.4th at
+
+1357   ("agree[ing]"       with      Snowden    while     recognizing   "there   is
+
+substantial    authority        to    the      contrary" as    "[s]everal      other
+
+circuits have said that a new Bivens context exists when federal
+
+officials execute a valid warrant").               By joining the Seventh and
+
+Tenth circuits rather than the majority position, this court
+
+exacerbates this existing and recognized split.                   And the majority
+
+
+                                          - 67 -
+is in conflict with the holding of the Tenth Circuit in Rowland v.
+
+Matevousian that even "small" differences can create a new context
+
+for Bivens-type claims.      121 F.4th 1237, 1243-44 (10th Cir. 2024).
+
+           Additionally, the Fifth and Ninth circuits have held
+
+that challenged conduct occurring outside the home amounts to a
+
+meaningful difference from Bivens, see Byrd v. Lamb, 990 F.3d 879,
+
+882 (5th Cir. 2021); Mejia v. Miller, 61 F.4th 663, 668 (9th Cir.
+
+2023)19,   while   the   Seventh   and   Tenth   circuits   have   held   the
+
+opposite, see Snowden, 72 F.4th at 247; Logsdon, 91 F.4th at 1357.
+
+           The majority also departs from this circuit's decision
+
+in González, which held that a different remedial structure is a
+
+meaningful special factor in denying Bivens relief.           See 864 F.3d
+
+at 53 ("The existence of such alternative processes is a special
+
+factor . . . .").20       In Quinones-Pimental, this Court likewise
+
+identified the existence of a warrant and the public arrest as
+
+
+
+     19The majority contends that Mejia is outside this split, as
+the challenged conduct in the case took place not merely outside
+the home, but on federal land. That decision's emphasis on the
+out-of-home location of the conduct belies this reading.     See,
+e.g., Mejia, 61 F.4th at 668 ("More importantly, unlike Bivens,
+none of the events in question occurred in or near [the
+plaintiff's] home.").
+     20 Quinones-Pimental, 85 F.4th 63, does not address the
+question of whether an alternative remedial scheme would have been
+a special factor sufficient to create a "new context" under step
+one; it had no need to do so, since other factual differences from
+Bivens were sufficient to establish a new context. Id. at 70; see
+also Hornof v. United States, 107 F.4th 46, 65-66 (1st Cir. 2024)
+(same).
+
+
+                                   - 68 -
+aspects of meaningful difference from Bivens.   See 85 F.4th at 71-
+
+72 ("[T]ake first the law enforcement actions at issue here, which
+
+differ entirely from those at issue in Bivens. . . . [N]o one's
+
+home nor their person (naked or otherwise) was searched without a
+
+warrant.").   And in Waltermeyer v. Hazlewood, 136 F.4th 361 (1st
+
+Cir. 2025), this court held that "factual and legal differences"
+
+between the plaintiff's claims and Carlson created a new context.
+
+Id. at 365.
+
+          I respectfully dissent.
+
+
+
+
+                              - 69 -

@@ -1,0 +1,30 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether a nonsignatory (Cultural Care, Inc.) may compel arbitration of claims brought by signatory plaintiffs under an arbitration agreement contained in a contract between the plaintiffs and a third party (ICL).",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that Cultural Care, Inc., as a nonsignatory, could not enforce the arbitration agreement because the contract did not demonstrate with 'special clarity' that the signatories intended to confer arbitration rights on Cultural Care, either as a third-party beneficiary or under equitable estoppel."
+    }
+  ],
+  "key_precedents": [
+    "McCarthy v. Azure, 22 F.3d 351 (1st Cir. 1994)",
+    "Hogan v. SPAR Grp., Inc., 914 F.3d 34 (1st Cir. 2019)",
+    "InterGen N.V. v. Grina, 344 F.3d 134 (1st Cir. 2003)",
+    "GE Energy Power Conversion France SAS, Corp. v. Outokumpu Stainless USA, LLC, 590 U.S. 432 (2020)",
+    "Arthur Andersen LLP v. Carlisle, 556 U.S. 624 (2009)",
+    "Sourcing Unlimited, Inc. v. Asimco Int'l, Inc., 526 F.3d 38 (1st Cir. 2008)",
+    "Boss\u00e9 v. New York Life Ins., 992 F.3d 20 (1st Cir. 2021)",
+    "Awuah v. Coverall N. Am., Inc., 554 F.3d 7 (1st Cir. 2009)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "May a party who is not a signatory to a contract invoke its arbitration provisions to compel the arbitration of claims brought by a party who is? We conclude that the answer in this case is no. We thus affirm the denial of the motion to compel arbitration that is at issue in this appeal."
+}

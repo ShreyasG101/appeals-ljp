@@ -1,0 +1,31 @@
+Extract the parties' stated grounds for appeal from this appellate court opinion.
+
+Remember:
+- Extract ONLY what the parties argued, NOT the court's response or ruling on those arguments
+- Check if this is a cross-appeal where both parties are appealing different issues
+- If cross-appeal, list each party's arguments separately
+
+[APPELLATE OPINION START]
+{ruling_text}
+[APPELLATE OPINION END]
+
+Return JSON with this structure:
+{{
+    "is_cross_appeal": true/false,
+    "appellant": {{
+        "name": "Name of appellant/petitioner",
+        "grounds_for_appeal": [
+            "1. Appellant argued that [specific claim/error alleged]",
+            "2. Appellant contended that [specific claim/error alleged]"
+        ]
+    }},
+    "cross_appellant": {{
+        "name": "Name of cross-appellant (if any, otherwise null)",
+        "grounds_for_appeal": [
+            "1. Cross-appellant argued that [specific claim/error alleged]"
+        ]
+    }},
+    "appellee_name": "Name of appellee/respondent"
+}}
+
+If there is no cross-appeal, set cross_appellant to null.

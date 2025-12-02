@@ -1,0 +1,708 @@
+UNITED STATES DISTRICT COURT                            
+                   DISTRICT OF CONNECTICUT                               
+JAVIER DEL RIO, et al.,        )  CASE NO. 3:21-cv-1152 (KAD)            
+     Plaintiffs,               )                                         
+                               )                                         
+     v.                        )                                         
+                               )                                         
+AMAZON.COM SERVICES, INC., et al.,  )  SEPTEMBER 20, 2023                
+     Defendants.               )                                         
+
+                   MEMORANDUM OF DECISION                                
+   RE: DEFENDANTS’ MOTION FOR SUMMARY JUDGMENT (ECF NO. 114)             
+
+Kari A. Dooley, United States District Judge:                             
+    Plaintiffs  Javier  Del  Rio,  Colin  Meunier,  and  Aaron  Delaroche,  current  and  former 
+warehouse workers employed at Amazon fulfillment centers located in Connecticut, have brought 
+a putative class action on behalf of themselves and similarly situated warehouse workers against 
+Defendants  Amazon.com  Services,  LLC,  Amazon.com.dedc,  LLC,  and  Amazon.com,  Inc. 
+(“Defendants” or “Amazon”). Plaintiffs assert in the operative Amended Complaint two causes of 
+action against Defendants: (1) a failure to pay straight time wages in violation of Conn. Gen. Stat. 
+§§ 31-72; 31-71b et seq. and Conn. Agencies Regs. § 31-60-11; and (2) a failure to pay overtime 
+wages in violation of Conn. Gen. Stat. §§ 31-68; 31-76b(2)(A) et seq.1 Plaintiffs allege that 
+Defendants violated Connecticut wage laws by requiring employees to go through a mandatory 
+security screening process prior to leaving the facility without compensating them for time spent 
+doing so. Defendants move for summary judgment on the ground that such time is not compensable 
+as articulated in Integrity Staffing Sols., Inc. v. Busk, 574 U.S. 27 (2014). For the following reasons, 
+the motion for summary judgment is GRANTED. (ECF No. 114)                 
+Standard of Review                                                        
+
+1 Plaintiff Del Rio does not bring a claim for overtime in Count Two.     
+    The  standard  under  which  courts  review  motions  for  summary  judgment  is  well 
+established. “The court shall grant summary judgment if the movant shows that there is no genuine 
+dispute as to any material fact and the movant is entitled to judgment as a matter of law.” Fed. R. 
+Civ. P. 56(a). A fact is “material” if it “might affect the outcome of the suit under the governing 
+
+law,” while a dispute about a material fact is “genuine” if “the evidence is such that a reasonable 
+jury could return a verdict for the nonmoving party.” Anderson v. Liberty Lobby, Inc., 477 U.S. 
+242, 248 (1986).                                                          
+    Significantly, the inquiry being conducted by the court when reviewing a motion for 
+summary judgment focuses on “whether there is the need for a trial — whether, in other words, 
+there are any genuine factual issues that properly can be resolved only by a finder of fact because 
+they may reasonably be resolved in favor of either party.” Id. at 250. As a result, the moving party 
+satisfies his burden under Rule 56 “by showing . . . that there is an absence of evidence to support 
+the nonmoving party’s case” at trial. PepsiCo, Inc. v. Coca-Cola Co., 315 F.3d 101, 105 (2d Cir. 
+2002) (per curiam) (internal quotation marks omitted). Once the movant meets his burden, the 
+
+nonmoving party “must set forth ‘specific facts’ demonstrating that there is ‘a genuine issue for 
+trial.’” Wright v. Goord, 554 F.3d 255, 266 (2d Cir. 2009) (quoting Fed. R. Civ. P. 56(e)). “[T]he 
+party opposing summary judgment may not merely rest on the allegations or denials of his 
+pleading” to establish the existence of a disputed fact. Wright, 554 F.3d at 266; accord Lujan v. 
+Nat’l Wildlife Fed’n, 497 U.S. 871, 888 (1990). “[M]ere speculation or conjecture as to the true 
+nature of the facts” will not suffice. Hicks v. Baines, 593 F.3d 159, 166 (2d Cir. 2010) (citations 
+omitted; internal quotation marks omitted). Nor will wholly implausible claims or bald assertions 
+that are unsupported by evidence. See Carey v. Crescenzi, 923 F.2d 18, 21 (2d Cir. 1991); Argus 
+Inc. v. Eastman Kodak Co., 801 F.2d 38, 45 (2d Cir. 1986). “[T]here is no issue for trial unless 
+there is sufficient evidence favoring the nonmoving party for a jury to return a verdict for that 
+party. If the evidence is merely colorable, or is not significantly probative, summary judgment may 
+be granted.” Anderson, 477 U.S. at 249–50 (citations omitted).            
+    In determining whether there exists a genuine dispute as to a material fact, the Court is 
+
+“required to resolve all ambiguities and draw all permissible factual inferences in favor of the party 
+against whom summary judgment is sought.” Johnson v. Killian, 680 F.3d 234, 236 (2d Cir. 2012) 
+(quoting Terry v. Ashcroft, 336 F.3d 128, 137 (2d Cir. 2003)). “In deciding a motion for summary 
+judgment, the district court’s function is not to weigh the evidence or resolve issues of fact; it is 
+confined to deciding whether a rational juror could find in favor of the non-moving party.” Lucente 
+v. Int’l Bus. Machines Corp., 310 F.3d 243, 254 (2d Cir. 2002).           
+Facts                                                                     
+    The following facts are taken from Defendants’ Local Rule 56(a)(1) Statement of Material 
+Facts (“Def. LRS,” ECF No. 118), Plaintiffs’ response thereto (“Pl. LRS,” ECF No. 120), and the 
+parties’ exhibits. The facts are largely undisputed.                      
+
+    Amazon2 owns and operates several fulfillment centers in and around Connecticut. Def. 
+LRS at 2 ¶ 4. These fulfillment centers are warehouses that store items that are later sent out to 
+fulfill individual customer orders. Def. LRS at 2 ¶ 5. Plaintiffs worked as Fulfillment Associates 
+(Package Handlers) at Amazon warehouses in Windsor and North Haven, Connecticut. Def. LRS 
+at 2 ¶ 4, 3 ¶¶ 7–9. During the relevant period, from April 2018 to March 15, 2020, Amazon required 
+employees of the Windsor and North Haven fulfillment centers to go through a mandatory security 
+screening process to enter and leave the warehouse. Def. LRS at 3 ¶ 10.   
+
+
+2 Amazon.com.dedc, LLC merged into Amazon.com Services, Inc., and is now known as Amazon.com Services, 
+LLC. Def. LRS at 2 ¶ 1. Amazon.com, Inc. is an indirect parent corporation of Amazon.com Services, LLC and did 
+not employ Plaintiffs. Def. LRS at 2 ¶¶ 2–3.                              
+    The security screening procedure is as follows. Employees swiped their security badge to 
+unlock a turnstile and entered the warehouse through its sole entrance. Def. LRS at 3 ¶ 10. Upon 
+entering, employees could store their personal items in a locker room and food in a breakroom 
+located next to the locker room. Def. LRS at 3– 4 ¶ 12. Thereafter, employees would enter a 
+
+security area wherein they would clock into their shift by swiping their security badge at a 
+timeclock. Def. LRS at 4 ¶ 15. Employees would pass under a metal detector to enter or leave the 
+secured area of the warehouse. Def. LRS at 4 ¶ 16. There were three available security screening 
+processes available: Express Lanes, Divesting Tables, and X-Ray Machines. Def. LRS at 4 ¶ 17. 
+Employees could choose among the processes depending on what items they wished to bring into 
+the secured area of the warehouse. Def. LRS at 5 ¶¶ 22 Employees who chose to bring items such 
+as bags and lunch boxes were required to put their items through an X-Ray Machine while they 
+walked under the metal detector. Def. LRS at 5 ¶ 20. Employees who chose to bring “pocket” 
+items such as keys, wallets, and cigarettes could put those items in a basket at the Divesting Table 
+while they walked under the metal detector. Def. LRS at 4–5 ¶ 19. Employees without any items 
+
+could use the Express Lane, in which they could walk under the metal detector without breaking 
+stride. Def. LRS at 4 ¶ 18. If an employee set off an alarm during the security screening process, 
+they were required to go to Secondary Screening, during which they removed all items from their 
+possession and were “wanded” by a security guard. Def. LRS at 5 ¶ 21.     
+    The Express Lane allowed an employee to pass through security without adding additional 
+time to the process. Def. LRS at 5–6 ¶ 24. Delaroche chose to bring his keys through security 
+because it was quicker and more convenient than storing them in the locker room. Def. LRS at 6 
+¶ 27. Meunier also frequently brought his keys with him through security. Def LRS at 6 ¶ 28. Even 
+the slowest screening process, the X-Ray Machine, took an average of ten seconds. Def. LRS at 7 
+¶ 30. Employees typically passed through the security screening process in three minutes or less, 
+and those who used the Express Lane could do so in seconds. Def. LRS at 7 ¶ 31. The longest time 
+Meunier ever spent going through the security screening process, including Secondary Screening, 
+was ten minutes. Def. LRS at 7 ¶ 32. His maximum time in a typical security screening process, 
+
+excluding the Secondary Screening, was three to four minutes. Id. The longest time Delaroche ever 
+spent going through the security screening process, including Secondary Screening, was twenty 
+minutes, although he acknowledged that was not a typical amount of time and most of the time, 
+the process was quick. Def. LRS at 8 ¶ 34. Even employees who went through Secondary 
+Screening could pass through in less than a minute. Def. LRS at 7 ¶ 33.   
+    The fulfillment centers also had breakrooms in the secured area, which would allow 
+employees to take their break or eat in the warehouse without needing to pass through the security 
+screening process to eat in the breakroom located outside the secured area, outside the building, or 
+off premises. Def. LRS at 8 ¶ 36. The internal breakrooms contained vending machines and 
+refrigerators for employees to store their food. Def. LRS at 8 ¶ 36. Timeclocks were also located 
+
+nearby the internal breakrooms so that employees could clock in or out for their break. Def. LRS 
+at 8 ¶¶ 35–36.                                                            
+Discussion                                                                
+    Defendants now seek summary judgment because the Supreme Court in Integrity Staffing 
+held that time spent in security lines is not compensable under the federal Fair Labor Standards 
+Act (“FLSA”), as amended by the Portal-to-Portal Act (“PTPA”), and because Connecticut wage 
+laws were drafted to mirror the FLSA and the PTPA, the same result must be reached here. 
+Alternatively, Defendants contend that even if time spent in security lines is compensable, the 
+record evidence demonstrates that the time spent in this case was de minimis. Plaintiffs dispute the 
+applicability of Integrity Staffing to their claims and challenge whether Connecticut law has 
+codified or otherwise adopted the PTPA. The Court agrees with Defendants that the time spent in 
+security lines is not compensable under Connecticut wage laws and therefore does not reach the 
+latter argument.                                                          
+
+    Congress enacted the FLSA in 1938 and thus established the federal minimum wage and 
+overtime compensation requirements for each workweek. Pub. L. 75-718, 52 Stat. 1060 (1938); 
+29 U.S.C. §§ 201 et seq. Notably, the FLSA did not define “work,” or “workweek,” leaving the 
+Supreme Court to fill in the statutory gaps. In Tennessee Coal, Iron & R. Co v. Muscoda Local 
+No. 123, 321 U.S. 590, 598 (1944), the Supreme Court defined “work” as “physical or mental 
+exertion (whether burdensome or not) controlled or required by the  employer and pursued 
+necessarily and primarily for the benefit of the employer and his business.” This became known 
+as the “predominant benefit test.” See e.g., Reich v. S. New England Telecomms. Corp., 121 F.3d 
+58, 64–65 (2d Cir. 1997). Similarly, the Supreme Court defined “workweek” to “include all time 
+during which an employee is necessarily required to be on the employer’s premises, on duty or at 
+
+a prescribed workplace.” Anderson v. Mt. Clemens Pottery Co., 328 U.S. 680, 690–91 (1946) 
+(cleaned up). In separate cases, the Supreme Court held that time spent traveling between mine 
+portals and underground work areas as well as time walking from timeclocks to work benches 
+were compensable. Id. at 598; Mt. Clemens, 328 U.S. at 691–92.            
+    An onslaught of litigation ensued by employees seeking backpay and damages for both 
+preliminary and postliminary activities in the workplace. Integrity Staffing, 574 U.S. at 31–32. 
+This prompted Congress to pass the PTPA in 1947. Id. at 32. The PTPA exempts employers from 
+liability for the failure to pay an employee overtime for time spent “(1) walking, riding, or traveling 
+to and from the actual place of performance of the principal activity or activities which such 
+employee is employed to perform” and “(2) activities which are preliminary to or postliminary to 
+said principal activity or activities.” 29 U.S.C. 254(a).                 
+    In Integrity Staffing, the Supreme Court assessed whether “activities which are preliminary 
+to or postliminary to said principal activity or activities” applied to Amazon warehouse workers 
+
+who were required to go through antitheft security screenings before leaving the warehouse and 
+held that such time was not compensable under the FLSA as amended by the PTPA. Integrity 
+Staffing, 574 U.S. at 29, 35. The Supreme Court determined that the screenings were not the 
+“principal activity” the employees were employed to perform; rather, they were employed “to 
+retrieve products from warehouse shelves and package those products for shipment to Amazon 
+customers.” Id. at 35. Moreover, the security screenings were not “integral and indispensable” to 
+the employees’ duties because the screenings were not “an intrinsic element of retrieving products 
+from warehouse shelves or packing them for shipment.” Id. Indeed, the employer could have done 
+away with the screenings completely “without impairing the employees’ ability to complete their 
+work.” Id.3 Finally, the Supreme Court rejected the predominant benefit test as an “overbroad” 
+
+metric for defining “work.” Id.                                           
+    Accordingly, the question for this Court is whether Connecticut law compels the same 
+conclusion as the Supreme Court reached in Integrity Staffing under federal law.  
+    Connecticut enacted its overtime statutes in 1967, 29 years after the FLSA and 20 years 
+after the PTPA. See Conn. Pub. Act No. 493 (1967); Conn. Gen. Stat. § 31–76b et seq. Connecticut 
+
+
+3 The Supreme Court distinguished precedent that held certain preliminary or postliminary conduct to be 
+compensable time. For example, time spent by employees who worked at a battery plant showering and changing 
+clothes after work was compensable because the chemicals they were exposed to were toxic, and thus, “the clothes-
+changing and showering activities of the employees were indispensable to the performance of their productive work 
+and integrally related thereto.” Id. at 34 (citing Steiner v. Mitchell, 350 U.S. 247, 249 (1956)). But, in contrast, the 
+Supreme Court explained that it had held as not compensable time that poultry-plant employees spent waiting to don 
+protective gear because that was “two steps removed from the productive activity on the assembly line.” Id. (citing 
+IBP, Inc. v. Alvarez, 546 U.S. 21, 42 (2005)).                            
+requires employers to pay employees “wages” for “hours worked.” Sarrazin v. Coastal, Inc., 311 
+Conn. 581, 623 (2014) (McDonald, J., concurring); Conn Gen. Stat. § 31-71a(3) (defining wages). 
+The statute defines “hours worked” as:                                    
+    [A]ll time during which an employee is required by the employer to be on the employer’s 
+    premises or to be on duty, or to be at the prescribed work place, and all time during which 
+    an employee is employed or permitted to work, whether or not required to do so, provided 
+    time allowed for meals shall be excluded unless the employee is required or permitted to 
+    work. Such time includes, but shall not be limited to, the time when an employee is required 
+    to wait on the premises while no work is provided by the employer.   
+
+Conn. Gen. Stat. § 31-76b(2)(A). However, similar to the FLSA, the statute is silent about what 
+constitutes “work,” a definition of which is “reasonably necessary to effectuate the statutory 
+definition of ‘hours worked.’” See Belgada v. Hy’s Livery Serv., Inc., 220 Conn. App. 102, 120 
+(2023). Where state law is “uncertain or ambiguous, the job of the federal courts is carefully to 
+predict how the highest court of the state . . . would resolve the uncertainty or ambiguity.” First 
+Invs. Corp. v. Liberty Mut. Ins. Co., 152 F.3d 162, 165 (2d Cir. 1998). The Court therefore looks 
+to Connecticut state court decisions for guidance to determine what is “work” for the purposes of 
+Connecticut’s wage law.                                                   
+    The Appellate Court in Belgada, upon concluding that “work” as used in § 31-76b(2)(A) 
+is ambiguous, turned to extratextual sources to discern the meaning of the word and found that the 
+legislative  history  makes  clear  “that  the  purpose  of  the  [overtime  wage]  act  was  to  make 
+Connecticut law coextensive with federal overtime law.” Belgada, 220 Conn. App. at 120; see also 
+Williams v. General Nutrition Centers, Inc., 326 Conn. 651, 659 (2017) (“[General Statutes §] 31-
+76c, which sets forth the overtime requirement, is nearly identical to the federal overtime statute,” 
+29 U.S.C. § 207(a)(1)). And because Connecticut’s overtime scheme is analogous to the FLSA, 
+Connecticut  “appellate  courts  customarily”  look  to  federal  statutes  and  precedent  when 
+interpreting equivalent provisions, including how to interpret the word “work” in § 31-76b(2)(A). 
+Belgada, 220 Conn. App. 121, 123–24 (holding “pursuant to § 31-76(b)(2)(A), a meal break is not 
+an ‘hour worked’ unless the ‘employee is required or permitted to work’ during that break, and the 
+test for what constitutes ‘work’ is the predominant benefit test” as defined by the United States 
+Supreme Court); Roto-Rooter Servs. Co. v. Dept. of Labor, 219 Conn. 520, 528 n.8 (1991) 
+
+(considering federal precedent on meaning and scope of FLSA exemption to interpret equivalent 
+state law exemption); Williams, 326 Conn. at 569 (seeing “no reasoning to interpret [the relevant 
+Connecticut  wage  statute]  differently  from  its  federal  counterpart”).  This  Court  therefore 
+concludes, consistent with longstanding precedent from the Connecticut Supreme and Appellate 
+Courts, that it is appropriate to turn to federal precedent, to include Integrity Staffing, when 
+deciding whether the time Plaintiffs spent in security screenings is compensable under Connecticut 
+wage laws.4                                                               
+    Plaintiffs do not disagree that this Court may look to federal precedent to interpret the term 
+“hours worked” as used in Connecticut’s statute but argue that the relevant precedent is the 
+
+
+4 The Court recognizes that the Connecticut Appellate Court concluded that the appropriate test under Connecticut 
+law for what constitutes “work” under § 31-76b(2)(A) is the federal “predominant benefit test.” Belgada, 220 Conn. 
+App. at 124–25. And ordinarily, a federal district court is guided by state appellate courts on issues involving state 
+law. Dibella v. Hopkins, 403 F.3d 102, 112 (2d Cir. 2005) (“Principally, we consider the language of the state 
+intermediate appellate courts to be helpful indicators of how the state's highest court would rule. . . . Although we 
+are not strictly bound by state intermediate appellate courts, rulings from such courts are a basis for ‘ascertaining 
+state law which is not to be disregarded by a federal court unless it is convinced by other persuasive data that the 
+highest court of the state would decide otherwise.’”). However, under the unique circumstances here, the Court does 
+not follow Belgada’s conclusion that the federal “predominant benefit test” is the appropriate standard. In 
+concluding that whether activity is “work” is determined by looking to the federal “predominant benefit test,” the 
+Appellate Court relied upon federal cases that pre-dated the Supreme Court’s decision in Integrity Staffing. Those 
+cases had held that “work” means “physical or mental exertion (whether burdensome or not) controlled or required 
+by the employer and pursued necessarily and primarily for the benefit of the employer and his business.” See, e.g., 
+Reich, 121 F.3d at 64 (citing Tennessee Coal, 321 U.S. at 598)) (emphasis added). However, this “predominant 
+benefit test” was rejected by the Supreme Court as “overbroad” because the PTPA was designed specifically to 
+exclude certain required activities, such as walking to a timeclock. Integrity Staffing, 574 U.S. at 36. The Belgada 
+court neither discussed nor cited Integrity Staffing in its decision. A review of the state docket also reveals that the 
+parties in Belgada likewise did not cite or discuss Integrity Staffing in their briefing at the Appellate Court or to the 
+trial court. The Court therefore concludes that in light of the Appellate Court’s stated intention of following federal 
+precedent, see Belgada, 220 Conn. App. at 121, the Connecticut Supreme Court’s well-established practice of 
+looking to federal precedent to interpret Connecticut’s wage laws, and the legislature’s intent to bring Connecticut’s 
+wage laws into alignment with federal overtime law, that had the Appellate Court considered Integrity Staffing’s 
+holding regarding that which constitutes “work,” it would have followed Integrity Staffing.  
+Supreme Court’s decision in Mt. Clemens because § 31-76b(2)(A) tracks that decision’s language. 
+Compare Mt. Clemens, 328 U.S. at 690–91 (compensable time includes “all time during which an 
+employee is necessarily required to be on the employer’s premises, on duty or at a prescribed 
+workplace”); with Conn. Gen. Stat. § 31-76b(2)(A) (“Hours worked” includes “all time during 
+
+which an employee is required to be on the employer’s premises or to be on duty, or to be at the 
+prescribed workplace”). Plaintiffs also argue that the Connecticut legislature did not expressly 
+incorporate the PTPA, rendering Integrity Staffing inapplicable, and that this Court should follow 
+the reasoning of decisions out of the Sixth Circuit Court of Appeals, the District of New Jersey, 
+and Pennsylvania that held that time spent undergoing security screenings were compensable 
+under their respective state wage laws. The Court addresses each argument in turn. 
+    First, the relevant definition at issue is not “hours worked” but, rather, “work.” While the 
+language of § 31-76b(2)(A) certainly tracks the language in Mt. Clemens, the purpose of “hours 
+worked” cannot be effectuated without first defining what constitutes “work.” See Belgada, 220 
+Conn. App. at 120. The Supreme Court explained that preliminary or postliminary work is not 
+
+compensable “work” under the FLSA unless it is “integral and indispensable to the principal 
+activities that an employee is employed to perform,” and such activity is integral and indispensable 
+if it is “one with which the employee cannot dispense if he is to perform his principal activities.” 
+Integrity Staffing, 574 U.S. at 33. See also Sarrazin, 311 Conn. at 598 (“To determine whether 
+travel time constitutes compensable ‘work’ under the Portal-to-Portal Act, courts consider whether 
+the employee’s commuting time is integral and indispensable to the principal work activity.”). 
+Indeed, the Supreme Court explained that the PTPA “evinces Congress’ intent to repudiate” Mt. 
+Clemens’s holding. Integrity Staffing, 574 U.S. at 36–37 (citing IBP, Inc. v. Alvarez, 546 U.S. 21, 
+41 (2005)).                                                               
+    Second, while it is true that the Connecticut legislature did not expressly incorporate the 
+PTPA into Connecticut’s wage law, and while silence on the issue can indicate an intent on the 
+part of the legislature to exclude or otherwise decline to incorporate federal law, here, the 
+Connecticut Supreme Court has directed that when Connecticut wage laws are silent on a particular 
+
+issue, courts should consider federal statutes and precedent on that issue. See Williams, 326 Conn. 
+at 659. Further, Connecticut enacted its wage laws long after Congress had enacted both the FLSA 
+and the PTPA, and the legislature did so to bring Connecticut’s laws into alignment with federal 
+overtime laws. Belgada, 220 Conn. App. at 124. Thus, insofar as the PTPA was a federal overtime 
+law when the Connecticut legislature enacted Connecticut’s wage laws, the Court concludes that 
+the Connecticut legislature intended to incorporate both the FLSA and the PTPA when enacting 
+its overtime scheme. And there is simply no extratextual indication that the legislature intended to 
+exclude the PTPA.  “[W]hen the overlap between state and federal law is deliberate, as in this case, 
+federal decisions are particularly persuasive.” Comm’n on Human Rights & Opportunities v. Savin 
+Rock Condo. Ass’n, Inc., 273 Conn. 373, 386 (2005).                       
+
+    The Court also finds persuasive the reasoning of several other courts that have reached the 
+same conclusion under circumstances similar to those present here. See, e.g., Buero v. Amazon.com 
+Servs., Inc., 370 Or. 502, 526–27 (2022) (holding that “Oregon statutes and administrative rules 
+regarding what activities are compensable were intended to mirror federal law” as evidenced by 
+the structure and text of such statutes and rules as well as the legislative and administrative history 
+regarding their enactment and promulgation); Buero v. Amazon.com Servs., Inc., 61 F.4th 1031, 
+1033 (9th Cir. 2023) (“Because the Oregon Supreme Court has squarely held that Oregon law 
+aligns with federal law regarding what activities are compensable, . . . and because Plaintiff fails 
+to allege that undergoing a mandatory security screening is ‘an integral an indispensable part’ of 
+an employee’s principal activities, . . . her claims fails.”) (citations omitted); Hughes v. UPS Supply 
+Chain  Solutions,  Inc.,  2023  WL  5444612,  at*3–*5  (Ky.  Aug.  24,  2023)  (Kentucky  statute 
+“ambiguous in that it does not define ‘work,’ and contains no provision which addresses, either 
+way, whether preliminary or postliminary activities constitute compensable work or time on the 
+
+job,” but finding a connection between text of the PTPA and administrative regulations, and 
+legislative  inaction  that  “demonstrates  that  the  legislature  has  ratified,  or  at  the  very  least 
+acquiesced” to interpreting such regulations to exclude security screenings as noncompensable 
+activities,  and  citing  to  Integrity  Staffing  for  such  proposition).  As  discussed  above,  the 
+Connecticut Supreme and Appellate Courts have consistently held that Connecticut’s overtime 
+laws are coextensive with federal overtime laws, thus supporting a legislative intent to incorporate 
+the PTPA and the ability of this Court to consider the Supreme Court’s decision in Integrity 
+Staffing as persuasive authority.5                                        
+    The Court concludes therefore that the time Plaintiffs spent in security lines is not “work” 
+compensable under Connecticut’s wage laws because it is not “indispensable to the performance 
+
+of their productive work and integrally related thereto” their duties “of retrieving products from 
+
+
+5 The Court is not persuaded by and readily distinguishes cases cited by Plaintiff as either arising where the state 
+courts have declined to follow federal interpretations of the FLSA or had specified which aspects of federal law 
+were included in state legislation (and by extension, excluding others). See e.g., In re Amazon.com, Inc., 255 A.3d 
+191, 200–02 (Pa. 2021) (declining to engraft the PTPA onto Pennsylvania’s wage laws in light of legislative silence 
+and prior decisions declining to follow federal interpretations “of similarly applicable provisions of the federal 
+FLSA”); Roberts v. State, 253 Ariz. 259, 267 (2022) (holding that state law did not incorporate federal law when 
+there was only “a single reference [to a FLSA provision] for a specific, limited purpose”); Amaya v. DGS 
+Construction, LLC, 479 Md. 515, 525, 556–57, 559 (2022) (holding that the PTPA “has not been adopted or 
+incorporated into Maryland law” because Maryland’s wage law does not refer to the PTPA, does not use phrases in 
+the PTPA such as “principal activity,” “preliminary,” or “postliminary to,” and only refers to the FLSA as “the 
+federal Fair Labor Standards Act of 1938” and not as amended by the PTPA). The Court also recognizes that the 
+Sixth Circuit Court of Appeals has also held that the time that Amazon warehouse workers spent in security lines 
+was compensable under Nevada law because “the Nevada legislature has chosen not to affirmatively adopt the 
+[PTPA] anywhere in the Nevada state code,” and reached a similar conclusion under Arizona law. Busk v. Integrity 
+Staffing Sols., Inc., 905 F.3d 387, 402–05 (6th Cir. 2018); Vaccaro v. Amazon.com.dedc, LLC, 2020 WL 3496973, at 
+*6 (D.N.J. June 29, 2020) (same analysis but interpreting New Jersey law).   
+warehouse shelves or packing them for shipment.” Integrity Staffing, 574 U.S. at 34–35 (quoting 
+Steiner, 350 US. at 249). Defendants are therefore entitled to judgment as a matter of law.  
+Conclusion                                                                
+    Defendants’ Motion for Summary Judgment is GRANTED. (ECF No. 114) The Clerk of 
+
+the Court is directed to enter judgment in favor of Defendants and to close this matter. 
+    SO ORDERED at Bridgeport, Connecticut, this 20th day of September 2023. 
+                               /s/ Kari A. Dooley                        
+                             KARI A. DOOLEY                              
+                             UNITED STATES DISTRICT JUDGE
+
+---
+
+UNITED STATES DISTRICT COURT                            
+                   DISTRICT OF CONNECTICUT                               
+
+DEL RIO, et al.,               )  3:21-CV-01152 (KAD)                    
+     Plaintiffs,               )                                         
+                               )                                         
+     v.                        )                                         
+                               )                                         
+AMAZON.COM SERVICES, LLC, et al.,  )  SEPTEMBER 30, 2022                 
+     Defendants.               )                                         
+
+MEMORANDUM OF DECISION RE: DEFENDANTS’ MOTION TO DISMISS (ECF            
+    NO. 37) & PLAINTIFFS’ MOTION FOR LEAVE TO AMEND (ECF NO. 63)         
+
+Kari A. Dooley, United States District Judge:                             
+    Plaintiffs, Javier Del Rio, Colin Meunier, and Aaron Delaroche, bring this putative class 
+action  against  Defendants,  Amazon.com  Services,  LLC,  Amazon.com.dedc,  LLC,  and 
+Amazon.com, Inc. on behalf of themselves and similarly situated warehouse workers employed 
+by Defendants. Plaintiffs assert by way of an Amended Complaint two causes of action against 
+Defendants: (1) a failure to pay straight time wages in violation of Conn. Gen. Stat. §§ 31-72; 31-
+71b et seq. and Conn Agencies Regs. § 31-60-11; and (2) a failure to pay overtime wages in 
+violation of Conn. Gen. Stat. §§ 31-68; 31-76b(2)(A) et seq. The gravamen of Plaintiffs’ Amended 
+Complaint is that Defendants required Plaintiffs to go through a mandatory security screening 
+process prior to leaving Defendants’ Connecticut facilities but failed to pay Plaintiffs their hourly 
+wage for the time it took to do so. Defendants moved to dismiss the Amended Complaint pursuant 
+to Fed. R. Civ. P. 12(b)(6), which Plaintiffs oppose. While the motion to dismiss was pending, 
+Plaintiffs moved for leave to file a Second Amended Complaint, which Defendants oppose. For 
+the reasons set forth below, Defendants’ motion to dismiss is GRANTED in part. (ECF No. 37) 
+Plaintiffs’ motion for leave to amend is DENIED. (ECF No. 63)             
+Standard of Review                                                        
+    When deciding a motion to dismiss under Rule 12(b)(6), the Court “must accept as true the 
+factual allegations in the complaint and draw all inferences in the plaintiff's favor.” Kinsey v. New 
+York Times Co., 991 F.3d 171, 174 (2d Cir. 2021) (quotation marks, alterations, and citation 
+omitted). To survive a motion to dismiss filed pursuant to Rule 12(b)(6), the “complaint must ‘state 
+a claim to relief that is plausible on its face,’” setting forth “factual content that allows the court to 
+
+draw the reasonable inference that the defendant is liable for the misconduct alleged.” Kolbasyuk 
+v. Capital Mgmt. Servs., LP, 918 F.3d 236, 239 (2d Cir. 2019) (quoting Bell Atl. Corp. v. Twombly, 
+550 U.S. 544, 570 (2007), and Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009)). “The assessment of 
+whether a complaint's factual allegations plausibly give rise to an entitlement to relief ‘does not 
+impose a probability requirement at the pleading stage; it simply calls for enough fact to raise a 
+reasonable expectation that discovery will reveal evidence of illegal’ conduct.” Lynch v. City of 
+New York, 952 F.3d 67, 75 (2d Cir. 2020) (quoting Twombly, 550 U.S. at 556). At this stage “the 
+court's task is to assess the legal feasibility of the complaint; it is not to assess the weight of the 
+evidence that might be offered on either side.” Id.                       
+
+    In general, the Court's review on a motion to dismiss pursuant to Rule 12(b)(6) “is limited 
+to the facts  as asserted within the four corners of the complaint. . . .” McCarthy v. Dun & 
+Bradstreet Corp., 482 F.3d 184, 191 (2d Cir. 2007); Peter F. Gaito Architecture, LLC v. Simone 
+Dev. Corp., 602 F.3d 57, 64 (2d Cir. 2010). “[I]f . . . matters outside the pleading are presented to 
+and not excluded by the court, the motion shall be treated as one for summary judgment and 
+disposed of as provided in [Fed. R. Civ. P.] 56, and all parties shall be given reasonable opportunity 
+to present all material made pertinent to such a motion by Rule 56.” Glob. Network Commc'ns, 
+Inc. v. New York, 458 F.3d 150, 154–55 (2d Cir. 2006); Carter v. Stanton, 405 U.S. 669, 671 
+(1972) (per curiam); Fed. R. Civ. P. 12(d). “Federal courts have complete discretion to determine 
+whether  or  not  to  accept  the  submission  of  any  material  beyond  the  pleadings  offered  in 
+conjunction with a Rule 12(b)(6) motion. . . .” HB v. Monroe Woodbury Cent. Sch. Dist., No. 11-
+CV-5881 CS, 2012 WL 4477552, at *4 (S.D.N.Y. 2012); Ware v. Associated Milk Producers, Inc., 
+614 F.2d 413, 415 (5th Cir. 1980); Nutt v. Norwich Roman Cath. Diocese, 921 F. Supp. 66, 68 n. 
+1 (D. Conn. 1995); Galvin v. Lloyd, 663 F. Supp. 1572, 1575 (D. Conn. 1987). 
+
+Allegations                                                               
+    The Court accepts as true the allegations in Plaintiffs’ Amended Complaint, which are 
+summarized as follows.                                                    
+    Defendant Amazon.com Services, LLC is a limited liability company organized and 
+existing under the laws of the state of Delaware, headquartered in Seattle, Washington. (Amended 
+Complaint, ECF No. 25 at ¶ 4) It is registered as a business with the Connecticut Secretary of State. 
+(Id.) Defendant Amazon.com.dedc, LLC is a corporation organized and existing under the laws of 
+the state of Delaware, headquartered in Seattle, Washington. (Id. at ¶ 5) Defendant Amazon.com, 
+Inc. is a corporation organized and existing under the laws of the state of Delaware, headquartered 
+
+in Seattle, Washington. (Id. at ¶ 6) Defendants collectively own and operate approximately ten 
+facilities in Connecticut, to include “fulfillment centers,” “delivery stations,” and “sorting centers.” 
+(Id. at ¶ 7) Defendants employ warehouse workers at their Connecticut facilities, like Plaintiffs 
+Del Rio, Meunier, and Delaroche, who are not exempt from mandatory security screening protocol. 
+(Id. at ¶ 22)                                                             
+    Plaintiff Del Rio is an individual residing in New Haven, Connecticut. (Id. at ¶ 8) Del Rio 
+was  employed  by  Defendants  as  a  Packer  at  their  North  Haven,  Connecticut  facility  from 
+November of 2020 to April of 2021. (Id.) Plaintiff Meunier is an individual residing in Royal Oak, 
+Michigan. (Id. at ¶ 9) Meunier was employed by Defendants as a Stower and Picker Packer at their 
+Windsor, Connecticut facility from May 29, 2018 until July 10, 2019. (Id.) Plaintiff Delaroche is 
+an  individual  residing  in  Granby,  Connecticut.  (Id.  at  ¶  10)  Delaroche  was  employed  by 
+Defendants as a Stower, Packer, Line Straightener, and Induct at their Windsor, Connecticut 
+facility from November of 2019 until April of 2021. (Id.)                 
+    In conjunction with their employment, Defendants required Plaintiffs and similarly situated 
+
+non-exempt warehouse workers at their Connecticut facilities to go through a mandatory security 
+screening process prior to leaving the facilities at the end of their shift, or for their meal break. (Id. 
+at ¶ 24) As part of this screening process, Defendants required Plaintiffs to wait in lines leading 
+up to a security screening area and to proceed through a metal detector. (Id. at ¶¶ 25; 27) If the 
+metal detector’s alarm sounds, Defendants subjected Plaintiffs to individual searches conducted 
+by a security guard. (Id. at ¶ 28) Defendants also required all bags and personal items carried by 
+Plaintiffs to be individually searched by security guards. (Id. at ¶ 26) Defendants prohibited 
+Plaintiffs from leaving the facility until they have successfully completed the security screening 
+process, which routinely took between ten and twenty minutes.1 (Id. at ¶¶ 28–29) Moreover, 
+
+Plaintiffs allege that Defendants’ mandatory security screening process resulted in an automatic 
+thirty-minute deduction from their unpaid meal break.2 (Id. at ¶¶ 31–37)  
+    Plaintiffs allege that Defendants agreed to compensate them and similarly situated non-
+exempt warehouse workers at their Connecticut facilities based on an hourly rate for their time at 
+work. (Id. at ¶ 38) Notwithstanding, Plaintiffs allege that Defendants have not paid them for the 
+time elapsed between the conclusion of their shifts and the conclusion of the mandatory security 
+
+
+1 Plaintiff alleges that, with delays, the mandatory security screening process “could take over [twenty] minutes.” (Id. 
+at ¶ 29)                                                                  
+2 Plaintiff alleges that the mandatory security screening process during the unpaid meal break period routinely took 
+seven to ten minutes to complete, and sometimes took over ten minutes with delays. (Id. at ¶ 36) Plaintiffs were not 
+able to eat their meals during the mandatory security screening process. (Id. at ¶ 37) 
+screening process, or the time elapsed between the commencement of their unpaid meal period 
+and the conclusion of the mandatory security screening process. (Id. at ¶¶ 30; 38) Plaintiffs further 
+allege that, for some putative class members, a portion of the time spent in Defendants’ mandatory 
+security screening process qualified as overtime.3 (Id. at ¶ 39)          
+    Plaintiffs bring this class action on behalf of themselves and all other putative class 
+
+members, which Plaintiffs define as follows: “All current and former employees of Defendants 
+who were employed as hourly, non-exempt warehouse workers in Connecticut at any time from 
+April 16, 2018 through the date of final judgment in this matter.” (Id. at ¶ 43) Plaintiffs allege that 
+the putative class members consist of “over 10,000 warehouse workers” employed by Defendants 
+at their Connecticut facilities. (Id. at ¶ 22).                           
+    Additional relevant facts shall be set forth below as necessary.     
+Discussion                                                                
+    Plaintiffs assert two causes of actions against Defendants based on their alleged failure to 
+pay earned wages. Specifically, Plaintiffs allege in support of both Counts that Defendants violated 
+
+Connecticut’s Minimum Wage Act by failing to compensate Plaintiffs and putative class members 
+for time spent undergoing mandatory security screening during their meal breaks and at the end of 
+their shifts. (ECF No. 25 at ¶¶ 50, 52) Defendants have moved to dismiss Count One in its entirety 
+and Count Two with respect to Plaintiffs Del Rio and Meunier. The Court addresses each argument 
+in turn.                                                                  
+    Count One                                                            
+    In Count One of the Amended Complaint, Plaintiffs claim that Defendants failed to pay 
+their straight time wages “in violation of Connecticut’s Minimum Wage Act,” Conn. Gen. Stat. §§ 
+
+
+3 For example, Plaintiffs Meunier and Delaroche allege that some time they spent waiting in Defendants’ mandatory 
+security screening process qualifies as overtime. (Id. at ¶¶ 40–41)       
+31-72; 31-71b et seq. and Conn Agencies Regs. § 31-60-11. (Emphasis added) Defendants argue 
+that Count One must be dismissed in its entirety because it is premised on a right to straight time 
+pay “that does not exist under Connecticut’s Minimum Wage Act and because the Connecticut 
+Supreme Court has held that § 31-72 is a mechanism to enforce existing wage obligations,” and 
+“does not create a substantive right to wages.”4 (ECF No. 37-1 at 1, 5) The crux of Defendants’ 
+
+argument is that “Plaintiffs failed to allege . . . an agreement [setting forth wage obligations] and 
+breach of that agreement.” (ECF No. 41 at 1) In other words, although Defendants concede that § 
+31-72 “exists to enforce wage agreements,” (ECF No. 37-1 at 4), Defendants argue that Plaintiffs 
+have not sufficiently alleged any wage agreement that was breached which would entitled them to 
+straight time pay for non-overtime hours. Instead, Defendants note that Plaintiffs’ allegations in 
+Count One specifically allege that they “violated [Connecticut’s Minimum Wage Act] by failing to 
+compensate  Plaintiffs.”  (ECF  No.  25  at  ¶  50)  Defendants  particularly  “[u]nderscore[]  that 
+Plaintiffs’  §  31-72  claim  is  based  on  [Connecticut’s  Minimum  Wage  Act],  rather  than  an 
+agreement to pay wages.” (ECF No. 41 at 1)                                
+
+    In response, Plaintiffs identify the allegations set forth in their Amended Complaint which 
+state that Defendants “agreed to pay Plaintiffs an hourly rate for the hours they work.” (ECF No. 
+25 at ¶ 38) Plaintiffs argue that this allegation reasonably supports the inference that Defendants 
+breached a wage agreement which entitles them to straight time pay for non-overtime hours. While 
+the Court agrees with Defendants  that § 31-72 is a mechanism by which to enforce wage 
+agreements, the Court agrees with Plaintiffs that the allegations plausibly allege such an agreement 
+and a breach of the agreement by Defendants. In addition to the allegation that Defendants agreed 
+
+
+4 See also (ECF No. 37-1 at 6) (“[T]here is no actionable claim for straight time pay for non-overtime hours . . . under 
+[Connecticut’s] Minimum Wage Act. . . . [Section 21-72 contains] no mention of a duty to pay employees straight 
+time wages for non-overtime hours.”).                                     
+to pay Plaintiffs an hourly wage for the hours worked, the Amended Complaint alleges that 
+“Defendants did not pay Plaintiffs . . . [the] compensable work time” involved in the mandatory 
+security screening process. (Id. at ¶ 2) Defendants’ narrow focus on the failure to allege an 
+agreement to compensate Plaintiffs for the time spent complying with the mandatory security 
+screenings misses the point. Plaintiffs allege that insofar as the process was mandatory, it falls 
+
+within the agreement to pay Plaintiffs their hourly wage for however long the process took.  
+    Accordingly, drawing all reasonable inferences in Plaintiffs’ favor as the Court must, 
+Kinsey, 991 F.3d at 174, and all reasonable inferences that Defendants are liable for the misconduct 
+alleged, Kolbasyuk, 918 F.3d at 239, the Court finds that the Amended Complaint reasonably 
+supports the inference that Defendants violated § 31-72 on the basis of their breach of the 
+agreement to pay hourly compensation to Plaintiffs for the hours they worked. Accordingly, 
+Defendants’ motion to dismiss Count One for failure to state a claim is denied.  
+    Counts One and Two—Plaintiff Meunier                                 
+    Alternatively, Defendants assert an affirmative defense to Counts One and Two with 
+
+respect to Plaintiff Meunier, specifically, that “Plaintiff Meunier’s claims are barred by a general 
+release he signed over seven months after the conclusion of his employment, while represented by 
+counsel in this case.” (ECF No. 37 at 1) Plaintiff Meunier previously sued Defendant Amazon.com 
+Services, LLC for disability discrimination. In resolving the litigation, Plaintiff Meunier signed 
+the general  release now relied upon in  Defendants’ affirmative defense.  In support of this 
+argument, Defendants attach two documents to their 12(b)(6) motion: (1) a September 2, 2021 
+declaration of Defendants’ Human Resources Manager, Emily Kidder; and (2) a 2020 settlement 
+agreement and general release between Plaintiff Meunier, Defendant Amazon.com Services, LLC, 
+and “each of its divisions, affiliates, parents, subsidiaries and operating companies” (“Release”). 
+(ECF No. 37-2) In response, Plaintiffs contest the legal and factual applicability of the Release to 
+the claims asserted in the Amended Complaint. As a factual matter, Plaintiff Meunier submits that 
+it was not the parties’ intention to release any wage claims at the time he settled his disability 
+discrimination claim. (ECF No. 39 at 9–10) In support of this argument, Plaintiffs submit an 
+October 22, 2021 declaration of Plaintiff Meunier’s former attorney who represented him in the 
+
+disability discrimination claim, Thomas J. Durkin. (ECF No. 39-1) As a legal matter, Plaintiff 
+Meunier argues that Conn. Gen. Stat. § 31-72 renders the release unenforceable as to his wage 
+claims. (ECF No. 39 at 10–18)                                             
+    Defendants’ argument with respect to Plaintiff Meunier relies on extraneous documents 
+outside the pleadings—the release itself and the affidavit of Ms. Kidder. As discussed, “[f]ederal 
+courts have complete discretion to determine whether or not to accept the submission of any 
+material beyond the pleadings offered in conjunction with a Rule 12(b)(6) motion. . . .” Monroe 
+Woodbury Cent. Sch. Dist., 2012 WL 4477552, at *4; Ware, 614 F.2d at 415. Here, the parties 
+offer competing factual narratives regarding the scope of the Release and its applicability to 
+
+Plaintiff Meunier’s unpaid wage claims. On this record, the Court elects not to accept these 
+extraneous documents and affidavits, thus converting the motion to one for summary judgment 
+Galvin v. Lloyd, 663 F. Supp. 1572, 1575 (D. Conn. 1987). These issues are better addressed after 
+discovery has been completed and the facts fully developed. Accordingly, limiting its analysis to 
+the four corners of the Amended Complaint and for the reasons articulated above, the motion to 
+dismiss Plaintiff Meunier’s unpaid wage claims in Counts One and Two is denied. 
+    Count Two—Plaintiff Del Rio                                          
+
+    In Count Two of the Amended Complaint, Plaintiffs claim that Defendants failed to pay 
+their overtime wages in violation of Conn. Gen. Stat. §§ 31-68; 31-76b(2)(A) et seq. Defendants 
+argue that Count Two must be dismissed with respect to Plaintiff Del Rio because he “fails to 
+identify any workweek during which he worked over [forty] hours and passed through security 
+while exiting [Defendants’] facility to support his claim for overtime wages.” (ECF No. 37 at 1) 
+In response, Plaintiffs clarify that “Plaintiff Del Rio does not assert that he is owed overtime 
+wages.” (ECF No. 39 at 9) Any claim for unpaid overtime wages set forth in Court Two by Plaintiff 
+
+Del Rio is dismissed.                                                     
+    Motion for Leave to Amend                                            
+
+    On August 26, 2022, Plaintiffs moved for leave to file a Second Amended Complaint 
+pursuant to Fed. R. Civ. P. 15(a)(2). Defendants oppose Plaintiffs’ motion. 
+    “[A] party may amend its pleading only with the opposing party's written consent or the 
+court's leave. The court should freely give leave when justice so requires.” Metzler Inv. Gmbh v. 
+Chipotle Mexican Grill, Inc., 970 F.3d 133, 142 (2d Cir. 2020) (citing Rule 15(a)(2)). “‘In the 
+absence of any apparent or declared reason,’ including ‘undue delay, bad faith or dilatory motive 
+on the part of the movant, . . . the leave sought should, as the rules require, be freely given.’” 
+Hannah v. Walmart Stores, Inc., 803 F. App'x 417, 422 (2d Cir. 2020) (citing Foman v. Davis, 371 
+U.S. 178, 182 (1962)). “[I]t is within the sound discretion of the district court to grant or deny 
+leave to amend.” WGH Commc'ns, Inc. v. Penachio Malara LLP, No. 21-570-CV, 2022 WL 
+569665, at *1 (2d Cir. Feb. 25, 2022). However, “[w]here a scheduling order has been entered, the 
+lenient standard under Rule 15(a) . . . must be balanced against the requirement under Rule 16(b) 
+that the Court’s scheduling order ‘shall not be modified except upon a showing of good cause.’” 
+Grochowski v. Phoenix Constr., 318 F.3d 80, 86 (2d. Cir. 2003).           
+    “Leave may be denied for good reason, including futility, bad faith, undue delay, or undue 
+prejudice to the opposing party.” TechnoMarine SA v. Giftports, Inc., 758 F.3d 493, 505 (2d Cir. 
+2014) (internal quotation marks omitted). Regarding undue delay, “[t]he party seeking leave to 
+amend [] has the burden to explain the delay and show why an amendment is warranted.” Boudreau 
+v. Gonzalez, No. 3:04CV1471 (PCD), 2006 WL 8446804, at *2 (D. Conn. Oct. 24, 2006). “[T]he 
+longer the period of an unexplained delay, the less will be required of the nonmoving party in 
+terms of a showing of prejudice.” Messier v. Southbury Training Sch., No. 3:94-CV-1706 (EBB), 
+
+1999 WL 20907, at *3 (D. Conn. Jan. 5, 1999) (internal quotation marks omitted). “In determining 
+what constitutes prejudice, we generally consider whether the assertion of the new claim or defense 
+would (i) require the opponent to expend significant additional resources to conduct discovery and 
+prepare for trial; (ii) significantly delay the resolution of the dispute; or (iii) prevent the plaintiff 
+from bringing a timely action in another jurisdiction.” Monahan v. New York City Dep't of Corr., 
+214 F.3d 275, 284 (2d Cir. 2000) (internal quotation marks omitted). Importantly, though, “[m]ere 
+delay . . . absent a showing of bad faith or undue prejudice, does not provide a basis for a district 
+court to deny the right to amend.” State Teachers Ret. Bd. v. Fluor Corp., 654 F.2d 843, 856 (2d 
+Cir. 1981).                                                               
+
+    Here, Plaintiffs seek to further amend their Amended Complaint to, inter alia, “clarify that 
+their lawsuit seeks back wages for “all” time the class was required to remain on the premises from 
+clock out to swipe out (i.e., exit) to undergo security screening procedures.”5 (ECF No. 63 at 2)  
+Specifically, Plaintiffs’ proposed amendment seeks to expand the mandatory screening process for 
+which Plaintiffs seek compensation to “[t]he time spent walking to the screening area, going 
+through the screening process, going to lockers to retrieve personal belongings and exiting the 
+
+
+5 Plaintiffs also seek to further amend their Amended Complaint “to limit the class to just the hourly workers at 
+Defendants’ BDL2 and BDL3 facilities, limit their claim for unpaid time from 10–20 minutes per shift to 2–6 minutes 
+per shift, . . . limit the class period to March 15, 2020 when Defendants altered their security screening procedures in 
+response to the COVID-19 Pandemic, . . . clarify that Defendants’ ‘agreement’ to pay them for all their work is not in 
+writing, and to plead more specifically which workweeks Plaintiffs Meunier and Delaroche worked overtime.” (Id. at 
+1–2)                                                                      
+building.” (ECF No. 63-2 ¶¶ 2, 28, 47, 49) Plaintiffs aver that the proposed amendments do not 
+add additional facts and will not require additional discovery or delays to the proceedings. (ECF 
+No. 63 at 2) To the contrary, Defendants decry Plaintiffs’ untimely amendment as an attempt to 
+significantly alter the nature and scope of the relief sought. (ECF No. 67 at 4–5) Specifically, 
+Defendants assert that Plaintiffs have belatedly sought to include not only the time spent clearing 
+
+the mandatory security screening process, but also the time spent walking to the security screening 
+area; walking to the lockers or break room to collect personal belongings and walking to the exit 
+of the facility at which point the employees “swipe out” of the facility. (Id.) Defendants argue that 
+the information needed to assert such claims was in Plaintiffs’ possession before the filing of the 
+original Complaint and/or shortly thereafter, and that it is only after discovery has demonstrated 
+the weakness of their claims that Plaintiffs seek to expand their claims.6 (Id.) Finally, Defendants 
+assert that it will suffer prejudice if Plaintiffs are permitted to amend the Complaint at this late—
+post discovery—juncture. (Id.) The Plaintiffs filed a reply to the Defendants’ opposition in which 
+they contest any assertion that the Defendants will be prejudiced by the amendment and reiterate 
+
+that the clarification is not an effort to expand the Plaintiffs’ claims. (ECF No. 69) 
+    The Court agrees with Defendants that the motion should be denied because Plaintiffs have 
+not offered any sound reason for the delay in asserting this expanded wage claim and to allow the 
+amendment would be unduly prejudicial to Defendants. See Foman, 371 U.S. at 182. The deadline 
+for Plaintiff to move to amend the pleadings was November 30, 2021. The motion to amend is 
+clearly untimely. Further, the parties agreed in the Rule 26(f) Report that motions filed after 
+November 30, 2021 “will require, in addition to any other requirements under the applicable rules; 
+
+
+6 Defendants also assert that Plaintiffs attempt to alter the legal theory under which they proceed by making explicit 
+that the agreement to pay hourly wages was not in writing. (Id.) As the Court has already denied the motion to amend 
+the wage claims, the Court does not address this alternative basis upon which to deny the motion to amend.  
+a showing of good cause for the delay.” (ECF No. 38 at 5) If, as Plaintiffs asserted, the proposed 
+amendment narrowed the issues and “clarified” Plaintiffs’ claims, the prejudice to Defendants 
+would be de minimus or nonexistent and the delay would be of no moment. But this proposed 
+amended complaint marks a significant shift in the nature and scope of the litigation; is based upon 
+information which Plaintiffs themselves would have had based on their work experience or which 
+
+they received early on in the discovery process; and Plaintiffs offer no satisfactory explanation as 
+to why the amendment was not timely sought.                               
+    Plaintiffs assert that they only recently discovered that Defendants understood their claims 
+to be premised solely  on unpaid time spent  undergoing the security screening process and 
+summarily asserts that the Amended Complaint has always included “clock out” to “swipe out” 
+time. In other words, Plaintiffs assert there was no delay in bringing the claim because the claim 
+was already included in the Amended Complaint and the proposed Second Amended Complaint 
+simply  clarifies as much. The Court  rejects  this  assertion and  disagrees that the  Amended 
+Complaint can fairly be read to include a claim for unpaid time following completion of the 
+
+screening process. It repeatedly references only the time spent undergoing the mandatory screening 
+process; it makes no reference to any post-screening time spent collecting personal belongings or 
+exiting the facility thereafter. Indeed, the proposed Second Amended Complaint redefines the 
+mandatory security screening process to include walking to the security area,7 waiting in lines 
+leading up to the screening area, going to a locker room to retrieve personal belongings, and exiting 
+the facility. As this claim was not previously asserted, the proposed amendment is untimely, and 
+significantly so.                                                         
+
+
+7 The Court agrees with Plaintiffs that to the extent Plaintiffs clocked out prior to undergoing the screening process, 
+the time needed to travel from the place where they clocked out to the security screening area is fairly contained within 
+the claims in the Amended Complaint.                                      
+    Further, Defendants’ have demonstrated prejudice if the amendment were to be granted. 
+Discovery as to liability and individual damages of the named Plaintiffs will close on November 
+1, 2022. The deadline for filing motions for summary judgment is looming.  The proposed 
+amendment, as discussed above marks a significant shift in the scope of the Plaintiffs’ wage claims 
+and it is unclear whether further inquiry regarding post-screening activities by Plaintiffs or putative 
+
+class members through additional discovery would be required. Moreover, by expanding the 
+claims to include unpaid time following completion of the screening process, the proposed 
+amendment potentially expands the size of the putative class seeking compensation for unpaid 
+overtime in Count Two. On balance, the Court concludes that it would be unfairly prejudicial to 
+permit the proposed Second Amended Complaint and Plaintiffs have not established good cause 
+for the same. See Werking v. Andrews, 526 Fed. Appx. 94, 96 (2d Cir. 2013); Grochowski, 318 
+F.3d at 86.8                                                              
+Conclusion                                                                
+    For the foregoing reasons, Defendants’ motion to dismiss is GRANTED in part. Plaintiffs’ 
+
+motion for leave to amend is DENIED.                                      
+    SO ORDERED at Bridgeport, Connecticut, this 30th day of September 2022. 
+                               /s/ Kari A. Dooley                        
+                             KARI A. DOOLEY                              
+                             UNITED STATES DISTRICT JUDGE                
+
+
+
+
+
+8 To the extent Plaintiffs intend to redefine the class—drop Del Rio as a Plaintiff; or limit the scope of the claims in 
+the Amended Complaint—these goals can be achieved either during summary judgment or class certification briefing.

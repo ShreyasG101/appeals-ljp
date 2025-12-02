@@ -1,0 +1,49 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court abused its discretion in its discovery rulings, including rejection of discovery misconduct claims, denial of additional discovery, and exclusion of an expert declaration.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found AAI's arguments speculative and unsupported by evidence, and held that the district court acted within its discretion in managing discovery and excluding untimely or improper expert submissions."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the district court properly granted summary judgment to Defendants on AAI\u2019s misappropriation of trade secrets and related contract/quasi-contract claims.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court concluded that AAI failed to present admissible evidence raising a genuine issue of material fact regarding Defendants\u2019 use or derivation of the alleged trade secret, and that summary judgment was appropriate."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the district court erred in awarding only nominal damages on the limited breach of contract claim on which AAI prevailed.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that nominal damages were proper because AAI failed to provide evidence quantifying damages specifically resulting from the breach, even after being given additional discovery opportunities."
+    },
+    {
+      "issue_id": 4,
+      "description": "Whether the district court erred in awarding attorneys\u2019 fees and costs to Defendants as the prevailing party under the NDA.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found Defendants were the prevailing party because they succeeded on the central claims, and the contract entitled them to fees and costs."
+    }
+  ],
+  "key_precedents": [
+    "Celotex Corp. v. Catrett, 477 U.S. 317 (1986)",
+    "Faiveley Transp. Malmo AB v. Wabtec Corp., 559 F.3d 110 (2d Cir. 2009)",
+    "Paddington Partners v. Bouchard, 34 F.3d 1132 (2d Cir. 1994)",
+    "FIH, LLC v. Found. Cap. Partners LLC, 920 F.3d 134 (2d Cir. 2019)",
+    "Nestor v. McDowell, 81 N.Y.2d 410 (1993)",
+    "Manhattan Rev. LLC v. Yun, 919 F.3d 149 (2d Cir. 2019)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "Plaintiff-Counter-Defendant-Appellant Advanced Analytics, Inc. (\u201cAAI\u201d) appeals from the district court\u2019s entry of partial summary judgment in favor of Defendants-Counter-Claimants-Appellees Citigroup Global Markets, Inc. (\u201cCGMI\u201d) and The Yield Book, Inc. (\u201cTYB\u201d) (collectively, \u201cDefendants\u201d) on AAI\u2019s claims of misappropriation of trade secrets, breach of contract, breach of the duty of good faith and fair dealing, quantum meruit, and unjust enrichment. AAI also appeals the district court\u2019s grant of only nominal damages to AAI on the limited breach of contract claim on which it prevailed.\n\nAAI generally alleges that, during unsuccessful licensing negotiations conducted in the 1990s, CGMI misappropriated a proprietary numerical sequence (the \u201cACE Numbers\u201d) developed by AAI\u2019s principal, Dr. Xiaolu Wang, and later incorporated elements of that sequence into its own software, TYB, generating significant profits without compensating AAI. After nearly twenty years of litigation, including two rounds of discovery spanning approximately five years, the district court found that CGMI had produced unrebutted evidence of independent development of its software and that AAI had failed to introduce evidence showing that CGMI\u2019s software incorporated or was derived from AAI\u2019s ACE Numbers. Accordingly, the district court granted summary judgment to Defendants on the misappropriation of trade secrets claim (and the contract and quasi-contract claims premised on the same contentions). The district court also found that CGMI breached a nondisclosure agreement with AAI (the \u201cNDA\u201d) in a limited fashion but awarded only nominal damages, citing AAI\u2019s failure to proffer evidence of any resulting damages. Finally, the district court granted CGMI\u2019s counterclaim for an award of attorneys\u2019 fees and costs as the prevailing party under the NDA and denied several motions to reconsider its various rulings.\n\nOn appeal, AAI\u2019s briefing is at points difficult to understand \u2013 so much so that Defendants urge us to affirm on the ground that AAI has \u201cfailed to satisfy its burden to set out identifiable legal arguments\u201d at all. Appellee Br. 26, citing Ernst Haas Studio, Inc. v. Palm Press, Inc., 164 F.3d 110, 112 (2d Cir. 1999). Nevertheless, we have done our best to decipher and address AAI\u2019s intended arguments, including what we perceive to be its challenges to: (1) various discovery rulings, (2) the grant of summary judgment to CGMI on the misappropriation claim, (3) the award of only nominal damages on the breach of contract claim, and (4) the award of attorneys\u2019 fees and costs to CGMI."
+}

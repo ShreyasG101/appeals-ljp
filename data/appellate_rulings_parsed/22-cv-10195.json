@@ -1,0 +1,30 @@
+{
+  "overall_outcome": "REMAND",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the New York Hateful Conduct Law's requirements for social media networks to publish content moderation policies and provide reporting mechanisms violate the First Amendment rights of the plaintiffs.",
+      "standard_of_review": "abuse of discretion",
+      "holding": "REMAND",
+      "key_reasoning": "The Second Circuit determined that the constitutionality of the Hateful Conduct Law depends on how the statute is interpreted, and that key questions of state law regarding the statute's requirements should be certified to the New York Court of Appeals before the federal court can resolve the First Amendment issues."
+    }
+  ],
+  "key_precedents": [
+    "Zauderer v. Office of Disciplinary Counsel of Supreme Court of Ohio, 471 U.S. 626 (1985)",
+    "Reed v. Town of Gilbert, 576 U.S. 155 (2015)",
+    "Moody v. NetChoice, LLC, 603 U.S. 707 (2024)",
+    "Riley v. National Federation of the Blind of North Carolina, Inc., 487 U.S. 781 (1988)",
+    "National Institute of Family and Life Advocates v. Becerra, 585 U.S. 755 (2018)",
+    "Evergreen Ass\u2019n, Inc. v. City of New York, 740 F.3d 233 (2d Cir. 2014)",
+    "New York State Restaurant Ass'n v. New York City Bd. of Health, 556 F.3d 114 (2d Cir. 2009)",
+    "Simon & Schuster, Inc. v. Members of New York State Crime Victims Bd., 502 U.S. 105 (1991)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": false
+  },
+  "has_dissent": true,
+  "summary_text": "Defendant-Appellant Letitia James, in her official capacity as Attorney General of New York, appeals from an order of the United States District Court for the Southern District of New York (Carter, J.) granting a preliminary injunction in favor of Plaintiffs-Appellees Eugene Volokh, Locals Technology Inc., and Rumble Canada Inc. (together, \u201cPlaintiffs\u201d) and enjoining enforcement of New York General Business Law \u00a7 394-ccc (\u201cHateful Conduct Law\u201d).\n\nThe Hateful Conduct Law, broadly speaking, requires social media networks to (1) provide a \u201cclear and easily accessible mechanism for individual users to report incidents of hateful conduct,\u201d id. \u00a7 394-ccc(2), and (2) have a \u201cclear and concise policy readily available and accessible on their website and application which includes how such social media network will respond and address the reports of incidents of hateful conduct,\u201d id. \u00a7 394-ccc(3). The statute defines \u201c[h]ateful conduct\u201d as \u201cthe use of a social media network to vilify, humiliate, or incite violence against a group or a class of persons on the basis of race, color, religion, ethnicity, national origin, disability, sex, sexual orientation, gender identity or gender expression.\u201d Id. \u00a7 394-ccc(1)(a). Plaintiffs maintain\u2014as the district court held\u2014that these provisions compel social media networks to engage in speech in violation of their First Amendment rights and chill their users from engaging in protected speech.\n\nThe constitutionality of the Hateful Conduct Law depends on how the statute is interpreted. If either substantive provision of the statute requires Plaintiffs to adopt or incorporate the State\u2019s definition of \u201chateful conduct,\u201d which includes constitutionally protected speech, then we review the statute under (at least) intermediate scrutiny, and it fails. But if Plaintiffs can comply with the Hateful Conduct Law by disclosing a content moderation policy that does not incorporate or affirmatively encompass the statute\u2019s definition of \u201chateful conduct\u201d and by providing a general mechanism for reporting content-related complaints, then we review the statute under the more relaxed standard set forth in Zauderer v. Office of Disciplinary Counsel of Supreme Court of Ohio, 471 U.S. 626 (1985), and its progeny, and the statute survives constitutional scrutiny. Whether the statute can support the latter, constitutional interpretation is a question best left to the New York Court of Appeals. We thus defer decision and CERTIFY to the New York Court of Appeals questions regarding the requirements of the statute.\n\nJudge Jacobs dissents in a separate opinion."
+}

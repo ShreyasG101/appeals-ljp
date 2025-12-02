@@ -1,0 +1,746 @@
+23-574-cv (L)
+    Leise v. Christie
+                             UNITED STATES COURT OF APPEALS
+                                 FOR THE SECOND CIRCUIT
+
+                                     SUMMARY ORDER
+RULINGS BY SUMMARY ORDER DO NOT HAVE PRECEDENTIAL EFFECT. CITATION TO A SUMMARY
+ORDER FILED ON OR AFTER JANUARY 1, 2007 IS PERMITTED AND IS GOVERNED BY FEDERAL RULE OF
+APPELLATE PROCEDURE 32.1 AND THIS COURT’S LOCAL RULE 32.1.1. WHEN CITING A SUMMARY ORDER
+IN A DOCUMENT FILED WITH THIS COURT, A PARTY MUST CITE EITHER THE FEDERAL APPENDIX OR AN
+ELECTRONIC DATABASE (WITH THE NOTATION “SUMMARY ORDER”). A PARTY CITING TO A SUMMARY
+ORDER MUST SERVE A COPY OF IT ON ANY PARTY NOT REPRESENTED BY COUNSEL.
+
+           At a stated term of the United States Court of Appeals for the Second Circuit, held at
+    the Thurgood Marshall United States Courthouse, 40 Foley Square, in the City of New York,
+    on the 27th day of August, two thousand twenty-five.
+
+    PRESENT:
+                JOSEPH F. BIANCO,
+                STEVEN J. MENASHI,
+                EUNICE C. LEE,
+                      Circuit Judges.
+    _____________________________________
+
+    ANDREW LEISE,
+
+                              Plaintiff-Appellee-Cross-Appellant,
+
+                        v.                                                     23-574-cv (L);
+                                                                               23-1180-cv (XAP)
+    KEVIN CHRISTIE, BOR YANG,
+
+                              Defendants-Appellants-Cross-Appellees,
+
+    VERMONT HUMAN RIGHTS COMMISSION,
+
+                              Defendant-Appellee,
+
+    DA CAPO PUBLISHING, INC., JOHN AND
+    JANE DOE IX,
+
+                      Defendants. ∗
+    ___________________________________
+
+    ∗
+     The Clerk of the Court is respectfully directed to amend the caption on this Court’s docket to be consistent
+    with the caption on this order.
+FOR DEFENDANTS-APPELLANTS-
+CROSS-APPELLEES       AND                             LISA B. SHELKROT, Langrock Sperry &
+DEFENDANT-APPELLEE:                                   Wool, LLP, Burlington, VT.
+
+FOR PLAINTIFF-APPELLEE-                               KAVEH S. SHAHI, Cleary Shahi & Aicher,
+CROSS-APPELLANT:                                      P.C., Rutland, VT.
+
+
+       Appeal from orders and a judgment of the United States District Court for the District of
+
+Vermont (Christina Reiss, Chief Judge).
+
+       UPON DUE CONSIDERATION, IT IS HEREBY ORDERED, ADJUDGED, AND
+
+DECREED that the orders of the district court, entered on March 24, 2023 and June 29, 2023,
+
+and the judgment of the district court, entered on August 10, 2023, are AFFIRMED as to the
+
+dismissal of the claims against the Vermont Human Rights Commission, as well as Kevin
+
+Christie and Bor Yang in their official capacities, and REVERSED as to the denial of qualified
+
+immunity with respect to the federal substantive due process claim against Christie and Yang
+
+in their individual capacities. The appeal is DISMISSED as to the challenge to the district
+
+court’s denial of the motion to dismiss with respect to Leise’s state law claims for defamation
+
+and invasion of privacy against Christie and Yang. The case is REMANDED for further
+
+proceedings consistent with this summary order.
+
+       Defendants-Appellants-Cross-Appellees Kevin Christie and Bor Yang, members of the
+
+Defendant-Appellee Vermont Human Rights Commission (“VHRC”), appeal from the district
+
+court’s partial denial of their motion to dismiss Plaintiff-Appellee-Cross-Appellant Andrew
+
+Leise’s amended complaint, pursuant to Federal Rule of Civil Procedure 12(b)(6), and partial
+
+denial of their subsequent motion for reconsideration. In particular, Christie and Yang challenge
+
+the district court’s determination that they are not entitled to: (1) federal qualified immunity as
+
+to Leise’s individual capacity claim, pursuant to 42 U.S.C. § 1983, alleging a violation of his
+substantive due process rights; or (2) qualified immunity under Vermont state law as to Leise’s
+
+individual capacity claims for defamation and invasion of privacy. Additionally, Leise cross-
+
+appeals from the district court’s dismissal of his claims against the VHRC on the ground that the
+
+agency is entitled to state sovereign immunity. We assume the parties’ familiarity with the
+
+underlying facts, procedural history, and issues on appeal, to which we refer only as necessary
+
+to explain our decision.
+
+                                        BACKGROUND 1
+
+        This case arises out of a landlord-tenant dispute between Dr. Lydia Clemmons and an
+
+individual renting an outbuilding on her Vermont farm. In 2017, Dr. Clemmons made a number
+
+of calls to the Vermont State Police (“VSP”) requesting that officers intervene in various disputes
+
+between her and her tenant. In response to these calls, VSP troopers, including Leise, made
+
+multiple visits to her property. The complaint alleges that Dr. Clemmons believed VSP troopers
+
+disregarded her complaints, and, as a result, she filed a complaint with the VHRC, which is a
+
+state commission responsible for investigating discrimination claims, alleging that the VSP
+
+troopers discriminated against her on the basis of sex and race.
+
+        The VHRC initiated an investigation to determine whether the VSP engaged in
+
+discriminatory conduct in connection with Dr. Clemmons’s disputes with her tenant and, at the
+
+conclusion of the investigation, compiled an “Investigative Report” recommending a finding that
+
+the VSP’s actions were discriminatory. The Investigative Report explicitly named Leise, one of
+
+the troopers who responded to Dr. Clemmons’s calls, criticizing his actions and determining that
+
+
+
+1
+  The following facts are taken from Leise’s first amended complaint, which we accept as true for
+purposes of reviewing a Rule 12(b)(6) dismissal. See Herrera v. Comme des Garcons, Ltd., 84 F.4th 110,
+113 (2d Cir. 2023).
+
+                                                  3
+his conduct was discriminatory. Then, on March 25, 2021, the VHRC commissioners voted to
+
+find there were reasonable grounds to believe that the VSP had discriminated against Dr.
+
+Clemmons. On June 10, 2021, the VHRC released the Investigative Report to Seven Days, a
+
+local newspaper operated by Defendant Da Capo Publishing, Inc. (“Da Capo”). On June 23,
+
+2021, Seven Days published an article detailing the VSP’s alleged discrimination against Dr.
+
+Clemmons and made the Investigative Report public.
+
+       In his complaint, Leise alleges that both Christie and Yang participated in providing Da
+
+Capo with a copy of the Investigative Report. Leise further alleges that the Investigative Report
+
+incorrectly concluded that his conduct was discriminatory based on intentionally false and
+
+misleading versions of the facts. He also alleges that the release of the Investigative Report to
+
+Da Capo was unlawful because Vermont state law requires that such reports remain confidential;
+
+and, by releasing it, the VHRC, Christie, and Yang intentionally and maliciously damaged his
+
+reputation, forced him to resign from the VSP, and inhibited his ability to pursue other law-
+
+enforcement-related employment. Leise alleges that Yang and Christie authored the false and
+
+misleading Investigative Report and later released it to the public so they would receive
+
+favorable media coverage to “promote [V]HRC’s leadership” and “shape public opinion against
+
+VSP and its troopers.” Joint App’x at 217, ¶ 5.
+
+       On January 18, 2022, Leise initiated the instant action against the VHRC, Yang, and
+
+Christie, asserting the following six claims against the defendants in both their official and
+
+individual capacities: (1) a liberty-interest procedural due process claim under 42 U.S.C. § 1983;
+
+(2) a property-interest procedural due process claim under 42 U.S.C. § 1983; (3) a substantive
+
+due process claim for arbitrary, oppressive, and conscience-shocking government action under
+
+
+
+                                                4
+42 U.S.C. § 1983; (4) an invasion of privacy claim under Vermont law; (5) a defamation claim
+
+under Vermont law; and (6) a tortious interference with contract claim under Vermont law. 2
+
+        On April 1, 2022, the VHRC, Christie, and Yang moved to dismiss the complaint,
+
+pursuant to Rule 12(b)(6), on the merits and on the basis of various immunity doctrines. In
+
+particular, for the claims brought against them in their official capacities, the VHRC, Christie,
+
+and Yang asserted the defense of state sovereign immunity as reflected in the Eleventh
+
+Amendment. Christie and Yang also asserted absolute and qualified immunity defenses as to all
+
+claims brought against them in their individual capacities. The district court granted the motion
+
+in part and denied it in part. See generally Leise v. Vt. Hum. Rts. Comm’n, No. 22-cv-9, 2023
+
+WL 2633341 (D. Vt. Mar. 24, 2023). In doing so, the district court dismissed all claims brought
+
+against the VHRC, Christie, and Yang in their official capacities because it determined that the
+
+Commission and its agents were an “arm of the state,” and thus entitled to sovereign immunity.
+
+Id. at *15. In addition, the district court dismissed the Section 1983 and state law claims against
+
+Christie and Yang in their individual capacities on absolute immunity grounds to the extent the
+
+claims related to the VHRC’s investigation, decision-making process, and final determination. 3
+
+The district court, however, denied the motion to dismiss Leise’s claims brought against Christie
+
+and Yang in their individual capacities under Section 1983 to the extent they related to the release
+
+of the Investigative Report to Da Capo, and the state law defamation and invasion of privacy
+
+claims. As for these remaining portions of the Section 1983 claims, the district court concluded
+
+
+
+2
+   Plaintiff brought these same claims against Da Capo, and the district court dismissed them. The
+dismissal of the claims against Da Capo is not at issue in this appeal.
+3
+  The district court also granted the defendants’ motion to dismiss as to the tortious interference of
+contract claim for failure to state a claim. That determination is not challenged on appeal.
+
+                                                  5
+that Christie and Yang were not entitled to federal qualified immunity at the motion to dismiss
+
+stage because “the record before the court [was] bereft of evidence” that would place the court
+
+“in a position to determine, as a matter of law, whether the release of the Investigative Report in
+
+this case violates [Vt. Stat. Ann. tit. 9, § 4555(a)(1) (2025)].” Leise, 2023 WL 2633341, at *16.
+
+With respect to the remaining state law claims, the district court concluded they were adequately
+
+pled and that, given the ambiguities in the factual record, it could not determine whether Christie
+
+and Yang were entitled to state qualified immunity.
+
+        On April 5, 2023, the VHRC, Christie, and Yang filed a motion for reconsideration,
+
+asserting, inter alia, that the district court failed to adequately address the merits of their motion
+
+to dismiss Leise’s remaining Section 1983 claims. Upon reconsideration, the district court
+
+concluded that Leise had plausibly alleged a substantive due process claim but dismissed his
+
+remaining procedural due process claims. See generally Leise v. Vt. Hum. Rts. Comm’n, No. 22-
+
+cv-9, 2023 WL 4247768 (D. Vt. June 29, 2023). The district court’s prior ruling was left
+
+unchanged in all other respects. See id. This appeal followed.
+
+                                          DISCUSSION
+
+        Christie and Yang challenge the denial of their motion to dismiss and motion for
+
+reconsideration as to the federal substantive due process claim and the state law defamation and
+
+invasion of privacy claims, arguing that they are entitled to federal and state qualified immunity
+
+because releasing the Investigative Report did not violate clearly established law. Leise cross-
+
+appeals the district court’s dismissal of his claims as to the VHRC and, by extension, the official
+
+capacity claims against Christie and Yang, on the ground that the district court erred by
+
+
+
+
+                                                  6
+concluding that the VHRC is an arm of the state of Vermont and thus entitled to sovereign
+
+immunity.4
+
+        Courts of appeals have the authority under 28 U.S.C. § 1291 to “review all final decisions
+
+of the district courts.” Will v. Hallock, 546 U.S. 345, 347 (2006) (internal quotation marks and
+
+citation omitted).     “[A] district court’s denial of a motion to dismiss, which leaves the
+
+controversy pending, is not, technically, a final decision within the meaning of [Section 1291].”
+
+Chasser v. Achille Lauro Lines, 844 F.2d 50, 52 (2d Cir. 1988). However, under the collateral
+
+order doctrine, “a district court’s denial of a claim of qualified immunity, to the extent that it
+
+turns on an issue of law, is an appealable ‘final decision’ within the meaning of 28 U.S.C. § 1291
+
+notwithstanding the absence of a final judgment.” Mitchell v. Forsyth, 472 U.S. 511, 530 (1985).
+
+Accordingly, we may review a decision denying a motion to dismiss “when the dismissal motion
+
+is based on [an] assertion of . . . qualified immunity, to the extent that the denial turns on issues
+
+of law.” Hill v. City of New York, 45 F.3d 653, 659–60 (2d Cir. 1995). By contrast, “[i]f a
+
+factual determination is a necessary predicate to the resolution of whether immunity is a bar,
+
+review is postponed and we dismiss the appeal.” Brown v. Halpin, 885 F.3d 111, 117 (2d Cir.
+
+2018) (per curiam) (internal quotation marks and citation omitted). “We review a district court’s
+
+denial of qualified immunity on a motion to dismiss de novo, accepting as true the material facts
+
+alleged in the complaint and drawing all reasonable inferences in plaintiff[’s] favor.” Garcia v.
+
+Does, 779 F.3d 84, 91 (2d Cir. 2015) (internal quotation marks and citation omitted). Issues of
+
+qualified immunity should be “resolv[ed] . . . at the earliest possible stage [of the] litigation.”
+
+
+4
+  After the district court dismissed Leise’s claims against the VHRC, it entered partial final judgment for
+the VHRC, pursuant to Federal Rule of Civil Procedure 54(b). We therefore have jurisdiction to hear
+Leise’s cross-appeal of that partial judgment. See Linde v. Arab Bank, PLC, 882 F.3d 314, 322–23 (2d
+Cir. 2018); Fed. R. Civ. P. 54(b).
+
+                                                    7
+Horn v. Stephenson, 11 F.4th 163, 169 (2d Cir. 2021) (last alteration in original) (internal
+
+quotation marks and citation omitted).
+
+    I.      Federal Qualified Immunity
+
+         Christie and Yang contend that the district court erred in denying them qualified
+
+immunity as to Leise’s substantive due process claim. We agree. Leise’s substantive due
+
+process claim is based on the allegation that releasing the Investigative Report violated Vermont
+
+law. Because Vermont law is ambiguous as to whether releasing the Report was prohibited,
+
+Christie and Yang did not violate a clearly established federal right.
+
+         Qualified immunity protects government officials “from liability for civil damages
+
+insofar as their conduct does not violate clearly established statutory or constitutional rights of
+
+which a reasonable person would have known.” Harlow v. Fitzgerald, 457 U.S. 800, 818 (1982).
+
+A qualified immunity analysis considers whether: “(1) . . . the official violated a statutory right
+
+or constitutional right, and (2) . . . the right was ‘clearly established’ at the time of the challenged
+
+conduct.” Ricciuti v. Gyzenis, 834 F.3d 162, 167 (2d Cir. 2016) (quoting Ashcroft v. al-Kidd,
+
+563 U.S. 731, 735 (2011)). “A right is clearly established if the contours of the right are
+
+sufficiently clear that a reasonable official would understand that what he is doing violates that
+
+right.” McKinney v. City of Middletown, 49 F.4th 730, 738 (2d Cir. 2022) (alterations adopted)
+
+(internal quotation marks and citation omitted). “This requires that controlling authority or a
+
+robust consensus of cases of persuasive authority have recognized the right at issue.” Linton v.
+
+Zorn, 135 F.4th 19, 32 (2d Cir. 2025) (internal quotation marks and citation omitted). In other
+
+words, “if reasonable [state officials] could disagree on the legality of the action at issue in its
+
+particular factual context, the [official] is entitled to qualified immunity.” Guan v. City of New
+
+York, 37 F.4th 797, 806 (2d Cir. 2022) (internal quotation marks and citation omitted).
+
+                                                   8
+       We have held that an individual has a substantive due process right to be free from
+
+government action that shocks the conscience, including “malicious and sadistic abuses of power
+
+by government officials, intended to oppress or to cause injury and designed for no legitimate
+
+government purpose.” Velez v. Levy, 401 F.3d 75, 94 (2d Cir. 2005) (internal quotation marks
+
+and citation omitted). Here, Leise argues that his substantive due process rights were violated
+
+by Christie and Yang because they engaged in oppressive conduct by “deliberately and
+
+intentionally devis[ing] a plan that manipulated and falsified” the Investigative Report and
+
+“unlawfully released” it. Joint App’x at 280, ¶ 152. Moreover, Leise contends that Christie and
+
+Yang are not entitled to qualified immunity because the release of the Investigative Report was
+
+unlawful under Vermont law, and thus, the constitutional violation is “clear.” As acknowledged
+
+by Leise’s counsel at oral argument, under this theory, if Christie and Yang reasonably believed
+
+that the release of the Investigative Report was not unlawful under Vermont law, then the
+
+constitutional right against its release cannot be clearly established. Furthermore, even if the
+
+release of the report clearly violated Vermont law, we would separately need to assess whether
+
+Leise has plausibly alleged that the violation shocks the conscience such that it clearly violates
+
+substantive due process. See Tooly v. Schwaller, 919 F.3d 165, 173 (2d Cir. 2019) (“To
+
+determine whether a violation of state law overcomes federal qualified immunity, then, the court
+
+must determine whether the conduct that violated the state statute also violates clearly
+
+established federal law, and this is a distinct and separate inquiry.”).
+
+       We conclude that the district court erred in denying qualified immunity as to the
+
+substantive due process claim because it was reasonable for Christie and Yang to believe that
+
+
+
+
+                                                 9
+releasing the Investigative Report was not unlawful. 5 Vermont law states that “[e]xcept as
+
+provided in this subsection, the [VHRC]’s complaint files and investigative files shall be
+
+confidential.” Vt. Stat. Ann. tit. 9, § 4555(a)(1) (2025) (emphasis added). The subsection later
+
+provides that “[i]f the [VHRC] determines that there are reasonable grounds to believe that
+
+discrimination has occurred, that determination and the names of the parties may be made public
+
+. . . .” Id. § 4555(c). Importantly, although these statutory provisions reference the complaint,
+
+investigative files, and determination, they make no mention of an investigative report. VHRC
+
+rules, however, define the investigative report as an entirely separate type of document from the
+
+complaint or the investigative file. 6 11-1 Vt. Code R. § 1.21 (2025). Indeed, VHRC rules
+
+explain that the investigative report is a document that (1) is prepared at the completion of a
+
+VHRC investigation, (2) is submitted to the Executive Director of the Commission for approval,
+
+and (3) contains “a listing of documents reviewed, witnesses interviewed, a statement of facts, a
+
+legal analysis, and a preliminary recommendation to the commissioners.” Id. By comparison,
+
+the investigative file “does not include analysis, such as . . . statistical analysis that the
+
+investigator has created with information provided by either party” or “materials submitted by
+
+the complainant or gathered by the Commission’s intake worker during the intake process,” id.
+
+§ 1.34, and the complaint file contains “allegations and complaints,” id. § 1.7.
+
+
+
+
+5
+   Because we conclude that Leise lacked a clearly established right to the confidentiality of the
+Investigative Report, we need not address whether its release, even if not contrary to state law, is a
+substantive due process violation or whether Liese has plausibly alleged that Christie and Yang in fact
+violated his constitutional rights. See Pearson v. Callahan, 555 U.S. 223, 236 (2009) (holding that courts
+have “discretion in deciding which of the two prongs of the qualified immunity analysis should be
+addressed first”).
+6
+  The VHRC is statutorily authorized to “adopt procedural and substantive rules in accordance with the
+provisions of [Vermont’s Administrative Procedure Act].” Vt. Stat. Ann. tit. 9, § 4553(c) (2025).
+
+                                                   10
+         In light of the ambiguity under Vermont law about whether an investigative report is
+
+confidential, it was reasonable for Christie and Yang to have believed that releasing the
+
+Investigative Report was lawful. Because Leise bases his substantive due process claim on the
+
+alleged violation of Vermont law, he cannot show that Christie and Yang violated a clearly
+
+established federal constitutional right. Accordingly, we conclude that Christie and Yang are
+
+entitled to qualified immunity. See Ehrlich v. Town of Glastonbury, 348 F.3d 48, 61–62 (2d Cir.
+
+2003) (finding qualified immunity where the federal right at issue was based on unclear
+
+Connecticut state conservatorship law and the defendant officers could have reasonably believed
+
+their actions were lawful).
+
+   II.      State Qualified Immunity
+
+         The parties also dispute whether Christie and Yang are entitled to qualified immunity
+
+under Vermont law for Leise’s defamation and invasion of privacy claims. As set forth below,
+
+we decline to consider the state qualified immunity issue on this appeal given the dismissal of
+
+all federal claims and the fact that additional analysis is required to make that determination
+
+under Vermont law. Cf. Kass v. City of New York, 864 F.3d 200, 213–14 (2d Cir. 2017) (deciding
+
+the state law immunity issue where it was identical to the federal law analysis).
+
+         Under Vermont law, state officials are entitled to qualified immunity if they were
+
+“1) acting during the course of their employment and within the scope of their authority;
+
+2) acting in good faith; and 3) performing discretionary, as opposed to ministerial acts.”
+
+O’Connor v. Donovan, 48 A.3d 584, 587 (Vt. 2012) (alterations adopted) (internal quotation
+
+marks and citation omitted). This standard does not “sufficient[ly] overlap” with our federal
+
+qualified immunity standard and would require “additional . . . analysis.” McCullough v.
+
+Wyandanch Union Free Sch. Dist., 187 F.3d 272, 281–82 (2d Cir. 1999). Indeed, although
+
+                                               11
+Christie and Yang argue that they are entitled to qualified immunity under Vermont law for
+
+substantially the same reasons as federal law, they acknowledge that “qualified immunity under
+
+Vermont law is somewhat differently formulated from federal qualified immunity.” Appellants’
+
+Br. at 34.
+
+           Therefore, under these circumstances, we will remand to the district court to consider,
+
+given the dismissal of all claims over which the district court has original jurisdiction, whether
+
+to exercise supplemental jurisdiction over the remaining state law claims for defamation and
+
+invasion of privacy against Christie and Yang. See 28 U.S.C. § 1367(c)(3); see also Valencia ex
+
+rel. Franco v. Lee, 316 F.3d 299, 304–05 (2d Cir. 2003).
+
+    III.      Sovereign Immunity
+
+           On cross-appeal, Leise argues that the district erred by concluding that the VHRC was
+
+entitled to state sovereign immunity because the VHRC is an “independent entity,” rather than
+
+an arm of the State of Vermont (the “State”). Appellee’s Br. at 10. We are unpersuaded.
+
+           “[A] federal court generally may not hear a suit brought by any person against a
+
+nonconsenting State.” Allen v. Cooper, 589 U.S. 248, 254 (2020). State sovereign immunity
+
+precludes “a citizen from suing his own state under federal question jurisdiction.” McGinty v.
+
+New York, 251 F.3d 84, 91 (2d Cir. 2001). This immunity “extends beyond the states themselves
+
+to ‘state agents and state instrumentalities’ that are, effectively, arms of a state.” Woods v.
+
+Rondout Valley Cent. Sch. Dist. Bd. of Educ., 466 F.3d 232, 236 (2d Cir. 2006) (quoting Regents
+
+of Univ. of Cal. v. Doe, 519 U.S. 425, 429 (1997)).
+
+           To determine whether a state entity is an “arm of the state,” this Court considers four
+
+factors: (1) the extent to which the state would be responsible for satisfying any judgment that
+
+might be entered against the defendant entity; (2) the degree of control exercised by the state
+
+                                                 12
+over the defendant entity; (3) how the entity is referred to in the documents that created it; and
+
+(4) whether the entity’s function is traditionally one of local or state government. See Leitner v.
+
+Westchester Cmty. Coll., 779 F.3d 130, 135–40 (2d Cir. 2015).
+
+        The first and “most important” factor, whether the state must satisfy a judgment against
+
+the entity, considers “how the entity is funded and whether the entity’s obligations are binding
+
+upon the state.” Id. at 137. Here, we agree with the district court that the source of the VHRC’s
+
+funding and the State’s indemnification obligations to its employees weigh in favor of sovereign
+
+immunity. See Leise, 2023 WL 2633341, at *12–13. As an initial matter, between eighty-five
+
+and ninety percent of the VHRC’s budget is appropriated by the Vermont Legislature from
+
+Vermont’s     General     Fund.        See    VHRC,       Fiscal   Year     2024     Budget     Request,
+
+https://ljfo.vermont.gov/assets/Uploads/65e986c0d9/Human-Rights-Commission-FY24-
+
+Budget-Book_012023.pdf (last accessed Aug. 5, 2025) (providing figures from the 2022 and
+
+2023 budgets as passed by Vermont Legislature). 7              Moreover, under Vermont law, the
+
+commissioners of the VHRC “shall receive [state] compensation as provided by 32 V.S.A.
+
+§ 1010” and “shall be entitled to expenses actually and necessarily incurred in the performance
+
+of his or her duties.” Vt. Stat. Ann. tit. 9, § 4551(d) (2025); see Vt. Stat. Ann. tit. 32, § 1010
+
+(2025). The State also classifies VHRC staff as state employees and compensates them as such.
+
+See State of Vermont Employee Salaries 2025, https://data.vermont.gov/Government/State-of-
+
+Vermont-Employee-Salaries/jgqy-2smf/data_preview (last accessed Aug. 5, 2025). Given their
+
+
+7
+  The reporting of the budget is required by Vermont statute. See Vt. Stat. Ann. tit. 32, § 301(a) (2025).
+We therefore may take judicial notice of this public record, and others cited in this summary order, as
+they are published on an official government website. See Vill. Green at Sayville, LLC v. Town of Islip,
+43 F.4th 287, 299 n.7 (2d Cir. 2022) (“A court may take routine judicial notice of documents retrieved
+from official government websites.” (alteration adopted) (internal quotation marks and citation omitted));
+accord Cangemi v. United States, 13 F.4th 115, 124 n.4 (2d Cir. 2021) (same).
+
+                                                   13
+status as employees, Vermont is statutorily obligated to defend and indemnify these staff
+
+members in civil actions that relate to the performance of their duties. See Vt. Stat. Ann. tit. 3,
+
+§ 1101 (2025) (obligation of state to defend state employees); Vt. Stat. Ann. tit. 12, § 5606 (2025)
+
+(indemnification of state employees). Finally, “all State agencies, Legislature, departments,
+
+State colleges, Judiciary, quasi-State agencies, boards, commissions, and employees” must
+
+participate in and contribute to the “State Liability Self-Insurance Fund” which covers the
+
+payment of “judgments.” Vt. Stat. Ann. tit. 29, § 1406(c) (2025) (emphasis added). Taken
+
+together, Vermont law supports the district court’s conclusion that the first factor favors
+
+sovereign immunity.
+
+       The second factor, the degree of supervision exercised by the state over the defendant
+
+entity, “consider[s] how the governing members of the entity are appointed and whether the state
+
+has veto power over the entity’s actions.” Leitner, 779 F.3d at 138. Here, all five commissioners
+
+of the VHRC are “appointed by the Governor, with the advice and consent of the Senate.” Vt.
+
+Stat. Ann. tit. 9, § 4551(a) (2025). Under Vermont law, appointees “serve at the pleasure of the
+
+Governor,” or, in other words, under the Governor’s authority. Vt. Stat. Ann. tit. 3, § 2004
+
+(2025). In addition, the VHRC must submit an annual report to the Vermont Legislature “on the
+
+status of Commission program operations, the number and type of calls received, complaints
+
+filed and investigated, closure of litigated and nonlitigated complaints, public educational
+
+activities undertaken, and recommendations for improved human rights advocacy and
+
+activities.” Vt. Stat. Ann. tit. 9, § 4553(b) (2025). The VHRC is also required to submit an
+
+annual proposed budget to the Legislature. See Vt. Stat. Ann. tit. 32, § 301(a) (2025); see also
+
+VHRC,              Fiscal            Year             2024             Budget             Request,
+
+https://ljfo.vermont.gov/assets/Uploads/65e986c0d9/Human-Rights-Commission-FY24-
+
+                                                14
+Budget-Book_012023.pdf (last accessed Aug. 5, 2025). Given this, as the district court correctly
+
+concluded, the VHRC is subject to considerable oversight by the State, and therefore, the second
+
+factor favors sovereign immunity.
+
+       The third factor considers “how [an] entity is referred to in the documents that created
+
+it.” Leitner, 779 F.3d at 139. Leise argues that this factor weighs against the State because the
+
+VHRC is not referred to as an “agency” in the statute that created it. Appellee’s Br. at 49. This
+
+argument misses the mark. As the district court correctly noted, this inquiry is not focused on
+
+the specific title of the agency, but on whether the entity resembles a “state agency” rather than
+
+“a municipal corporation or other political subdivision.” Mancuso v. N.Y. State Thruway Auth.,
+
+86 F.3d 289, 292 (2d Cir. 1996) (internal quotation marks and citation omitted). Here, the VHRC
+
+is classified by Vermont law as a “[c]ommission” and is composed of members appointed by the
+
+Governor, with the advice and consent of the Senate, who serve at the Governor’s pleasure. Vt.
+
+Stat. Ann. tit. 9, § 4551(a) (2025); see Vt. Stat. Ann. tit. 3, § 2004 (2025). As a State commission,
+
+VHRC is accountable to the State government and has statewide jurisdiction. See Vt. Stat. Ann.
+
+tit. 9, §§ 4552(b), 4553(a), (b) (2025). It is not a “unit[] of local government, such as cities and
+
+counties.” Woods, 466 F.3d at 243 (internal quotation marks and citation omitted). Thus, this
+
+factor also weighs in favor of sovereign immunity.
+
+       Lastly, the fourth factor looks to “whether the entity’s function is state[wide] or local.”
+
+Leitner, 779 F.3d at 139. Here, the VHRC’s function is statewide. See Vt. Stat. Ann. tit. 9,
+
+§§ 4552, 4553.     With its statewide jurisdiction, the VHRC’s duties include “increas[ing]
+
+awareness of the importance of full civil and human rights for each inhabitant of this State” and
+
+“recommend[ing] measures designed to protect those rights” throughout the State. Id. § 4552(a).
+
+In addition, the VHRC may “maintain a principal office and such other offices within the State”
+
+                                                 15
+and “[m]eet and hold hearings at any place within the State.” Id. § 4553(a)(1), (2). These
+
+characteristics of the VHRC are indicative of its status as a state entity.
+
+       In sum, the Leitner factors support the determination that the VHRC is an arm of the
+
+State. Accordingly, the district court was correct in determining that VHRC is entitled to state
+
+sovereign immunity and dismissing all claims against the VHRC, as well as those against
+
+Christie and Yang in their official capacities.
+
+                          *                        *                     *
+
+       We have considered the parties’ remaining arguments and find them to be without merit.
+
+Accordingly, the district court’s orders and judgment are AFFIRMED as to the dismissal of
+
+the claims against the VHRC, as well Christie and Yang in their official capacities, and
+
+REVERSED as to the denial of qualified immunity with respect to the substantive due process
+
+claim against Christie and Yang in their individual capacities. The appeal is DISMISSED as
+
+to the challenge to the district court’s denial of the motion to dismiss with respect to Leise’s
+
+state law claims for defamation and invasion of privacy against Christie and Yang. The case is
+
+REMANDED for further proceedings consistent with this summary order.
+
+
+
+                                                  FOR THE COURT:
+                                                  Catherine O’Hagan Wolfe, Clerk of Court
+
+
+
+
+                                                   16

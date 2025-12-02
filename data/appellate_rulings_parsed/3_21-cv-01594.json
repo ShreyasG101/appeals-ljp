@@ -1,0 +1,41 @@
+{
+  "overall_outcome": "REVERSE",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court erred in granting summary judgment to the United States on liability under the Oil Pollution Act (OPA) by applying arbitrary and capricious review to the Coast Guard's 'substantial threat' determination, rather than requiring proof by a preponderance of the evidence.",
+      "standard_of_review": "de novo",
+      "holding": "REVERSE",
+      "key_reasoning": "The First Circuit held that the 'substantial threat' element of OPA liability is not delegated to the Coast Guard for purposes of binding judicial review, and must be proven by a preponderance of the evidence, not merely by showing the FOSC's determination was not arbitrary or capricious."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the United States has statutory standing to recover for damages to natural resources under OPA \u00a7 2702(a), i.e., whether the resources are 'belonging to, managed by, controlled by, or appertaining to the United States.'",
+      "standard_of_review": "de novo",
+      "holding": "REMAND",
+      "key_reasoning": "The court found the district court failed to address whether the United States manages or controls the natural resources at issue, and remanded for factual and legal findings on this element of the claim."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the First Circuit had appellate jurisdiction under 28 U.S.C. \u00a7 1292(a)(3) over this interlocutory appeal in a case including admiralty third-party claims.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that the presence of properly designated admiralty third-party claims made the case an 'admiralty case' for purposes of \u00a7 1292(a)(3), conferring appellate jurisdiction."
+    }
+  ],
+  "key_precedents": [
+    "United States v. JG-24, Inc., 478 F.3d 28 (1st Cir. 2007)",
+    "Martha's Vineyard Scuba Headquarters, Inc. v. Unidentified, Wrecked & Abandoned Steam Vessel, 833 F.2d 1059 (1st Cir. 1987)",
+    "Fishman Transducers, Inc. v. Paul, 684 F.3d 187 (1st Cir. 2012)",
+    "Ohio v. U.S. Department of the Interior, 880 F.2d 432 (D.C. Cir. 1989)",
+    "Clausen v. Sea-3, Inc., 21 F.3d 1181 (1st Cir. 1994)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": true,
+    "close_case": false,
+    "fact_intensive": true
+  },
+  "has_dissent": false,
+  "summary_text": "In this interlocutory appeal, we confront a challenge to a grant of summary judgment to the United States as to the issue of liability on its claims for damages under the Oil Pollution Act of 1990 (\"OPA\"), 33 U.S.C. \u00a7\u00a7 2701-2761. The claims name as defendants the owner and the insurer of an oil tanker that ran aground on the coast of Puerto Rico. We conclude that we have appellate jurisdiction under 28 U.S.C. \u00a7 1292(a)(3) because this case \"includes an admiralty . . . claim.\" Fed. R. Civ. P. 9(h)(2). We further conclude, with respect to the appeal's merits, that the defendants are right that the District Court erred in granting summary judgment to the United States as to the issue of liability. Accordingly, we vacate the District Court's decision in part, reverse the District Court's grant of partial summary judgment, and remand for further proceedings consistent with this opinion."
+}

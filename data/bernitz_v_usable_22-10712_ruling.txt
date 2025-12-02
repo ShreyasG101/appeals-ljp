@@ -1,0 +1,551 @@
+UNITED STATES DISTRICT COURT                            
+              DISTRICT OF MASSACHUSETTS                              
+__________________________________________                                
+                              )                                      
+                              )                                      
+STEVEN BERNITZ,                    )                                      
+                              )                                      
+          Plaintiff,          )                                      
+                              )                                      
+     v.                       )                                      
+                              )         Case No. 22-cv-10712-DJC     
+                              )                                      
+USABLE LIFE and FULLSCOPE RMS,     )                                      
+                              )                                      
+          Defendants.         )                                      
+__________________________________________)                               
+
+               MEMORANDUM AND ORDER                                  
+
+CASPER, J.                                             June 24, 2024      
+
+I.   Introduction                                                         
+
+Plaintiff Steven Bernitz (“Bernitz”) brings this action against USAble Life and Fullscope 
+RMS  (collectively,  “Defendants”)  under  the  Employee  Retirement  Income  Security  Act 
+(“ERISA”), 29 U.S.C. § 1001 et seq., alleging that Defendants improperly denied his long-term 
+disability (“LTD”) benefits.  D. 1.  Bernitz and Defendants have each moved for summary 
+judgment.  D. 73; D. 75.  For the reasons set forth below, Defendants’ motion for summary 
+judgment, D. 75, is ALLOWED, and Bernitz’s motion for summary judgment, D. 73, is DENIED. 
+II.  Factual and Procedural Background                                    
+
+A.   The Plan                                                        
+
+In December 2013, Synta Pharmaceuticals (“Synta”) hired Bernitz as Senior Vice President 
+of Corporate Development.  AR. 1.1  Synta offers employees long term disability insurance 
+
+1 Unless otherwise noted, all facts are drawn from the administrative record (“AR.”) at 
+D. 42.                                                                    
+coverage pursuant to a group policy (“Group Policy”) issued by USAble Life.  AR. 7526.  The 
+Group Policy defines, in relevant part, disability as “[a]n injury, sickness, or pregnancy [that] 
+requires that you be under the regular care of a physician, and prevents you from performing at 
+least one of the material duties of your regular occupation with reasonable accommodations.”  
+AR. 7532.  The definition further provides that “[i]f you can perform the material duties of your 
+
+regular occupation with reasonable accommodation(s), you will not be considered disabled.  The 
+inability  to  perform  a  material  duty  because  of  the  discontinuation  of  reasonable 
+accommodation(s) on the part of the employer does not, in itself, constitute disability.”  AR. 7532.  
+“Material Duties” are “the sets of tasks or skills required generally by employers from those 
+engaged in an occupation.  We will consider one material duty of your regular occupation to be 
+the ability to work for an employer on a full-time basis as defined in the policy.”  AR. 7533.  
+“Regular Occupation” is “the occupation in which you were working immediately prior to 
+becoming disabled.”  AR. 7535.                                            
+The Group Policy requires a claimant to provide “all of the information [USAble Life] 
+
+specif[ies] as necessary to determine proof of loss and decide our liability.  This may include but 
+is not limited to:  medical records; hospital records; pharmacy records; test results; therapy and 
+office notes; mental health progress notes; medical exams and consultations; tax returns; business 
+records; Workers’ Compensation records; payroll and attendance records; job descriptions; Social 
+Security award and denial notices; and Social Security earnings records.”  AR. 7541.  If a claimant 
+“do[es]  not  provide  [USAble  Life]  with  continuing  proof  of  disability  and  the  items  and 
+authorization necessary to allow [USAble Life] to determine [its] liability, [it] will not pay 
+benefits.”  AR. 7541.  The Group Policy grants USAble Life “the sole discretionary authority to 
+determine eligibility for participation or benefits and to interpret the terms of the policy.”2  
+AR. 7540.                                                                 
+B.   Bernitz’s Initial Claim for LTD Benefits                        
+
+Bernitz stopped working in June 2014 due to back pain.  AR. 1; AR. 7506–07.  Bernitz 
+submitted a claim for disability benefits, in which he stated that he had experienced an “onset of 
+severe pain suddenly upon standing up in late April” and that the pain was “most severe when 
+sitting for over 2-3 hours per day.”  AR. 7505.  Bernitz described his occupational duties as 
+“management, desk work, frequent meetings, travel, [and] conferences.”  AR. 7505.  Bernitz’s 
+claim included a statement by Dr. Omar El-Abd, who noted that MRI results had shown signs of 
+severe degenerative disc disease and neuroimpingement.  AR. 7506.  Dr. El-Abd classified 
+Bernitz’s physical impairment as a “Class 5” physical impairment, i.e., a “[s]evere limitation of 
+functional capacity; [i]ncapable of minimum (sedentary[ ]) activity.”  AR. 7506.   
+On September 9, 2014, USAble Life notified Bernitz that it had to conduct a “pre-existing 
+review” of his LTD benefits claim because he had stopped working within the first twelve months 
+
+of his coverage date of December 19, 2023.  AR. 7495.  USAble Life referred Bernitz’s claim file 
+to Nurse Kristen Fielding for an independent review of his medical records.  AR. 7057–58; see 
+AR. 7062 (noting that the medical opinions contained in Nurse Fielding’s report “reflect the 
+medical reviewer’s independent judgment”).  On February 11, 2015, Nurse Fielding completed a 
+medical  review  form  in  which  she  recommended  further  inquiry  into  Bernitz’s  gabapentin 
+
+
+
+2 The Group Policy also contains an exclusion for pre-existing conditions, which provides 
+that “[b]enefits will not be paid if your disability begins in the first 12 months following the 
+effective date of your coverage and your disability is caused by, contributed to by, or the result of 
+a  pre-existing  condition,  unless  you  had  no  treatment  of  the  pre-existing  condition  for  3 
+consecutive months after your effective date of coverage.”  AR. 7554.     
+prescription and refills, to clarify whether they were related to Bernitz’s lumbar spine symptoms.  
+AR. 7061–62.                                                              
+Nurse Fielding then sent questionnaires to Dr. El-Abd and Dr. Guy Pugh to determine the 
+reasons for prescribing gabapentin and refills of same.  AR. 7031–32; 7035–36.  Dr. El-Abd 
+confirmed that gabapentin had been prescribed and refilled on October 6, 2013 to treat Bernitz’s 
+
+lumbosacral neuritis and lumbar intervertebral disc displacement, AR. 7030; AR. 7035–36; Dr. 
+Pugh responded that Bernitz had reported taking gabapentin to treat restless leg syndrome, not 
+back pain, when he had prescribed refills on March 19, 2014.  AR. 7030–33.  Accordingly, Nurse 
+Fielding concluded that, following Bernitz’s coverage date of December 19, 2013, Bernitz had 
+gone “3 months treatment free for his impairing conditions.”  AR. 7030.  In March 2015, USAble 
+Life approved Bernitz’s claim for LTD benefits.  AR. 6980–82; AR. 7012–14.   
+C.   Bernitz’s Medical Treatment from 2015 to 2019                   
+
+In July 2015, Bernitz relocated from Massachusetts to California.  AR. 1.  In California, 
+Bernitz visited Dr. Yogesh Patel to treat his lower back pain.  AR. 6818–21.  Dr. Patel diagnosed 
+Bernitz with “[p]ostlaminectomy syndrome,” “[o]ther spondylosis with radiculopathy, lumbar 
+region,”  “[r]adiculopathy,  lumbar  region”  and  “[s]acroiliitis,”  prescribed  tramadol  for 
+“breakthrough pain,” and noted that Bernitz could continue taking gabapentin.  AR. 6820.  On 
+November 19, 2015, Dr. Patel gave Bernitz a sacroiliac injection to treat his pain.  AR. 6813–14.    
+Bernitz also consulted Dr. Ramin Raiszadeh, an orthopedic surgeon, in September 2015 
+for an initial orthopedic spine consultation, AR. 6800–03, and again in October 2015 for a follow-
+up evaluation.  AR. 6797–99.  Dr. Raiszadeh noted that Bernitz had complained of chronic back 
+pain, AR. 6800; AR. 6802, and opined that Bernitz “may continue to have back pain and may 
+continue to have leg pain.”  AR. 6798–99.  Dr. Raiszadeh separately noted to USAble Life that 
+Bernitz’s condition was “permanent and irreversible.”  AR. 6745.  In November 2015, Dr. Choll 
+Kim, another surgeon, explained that Bernitz’s response to injections had indicated that his pain 
+was coming from his spine.  AR. 6795–96.                                  
+On April 1, 2016, Bernitz underwent back surgery, an anterior lumbar interbody fusion 
+with  placement  of  interbody  fusion  device.    AR. 6228;  AR. 6522.    Bernitz  previously  had 
+
+undergone spine surgery in or around 1999, 2004, 2007 and 2013.  AR. 6227; AR. 7474–75.   
+On November 14, 2016, Nurse Fielding completed a review of updated medical records, 
+including records from Dr. Patel, Dr. Raiszadeh and Dr. Kim.  AR. 6225–30.  Nurse Fielding also 
+noted that Bernitz had “undergone multiple extensive lumbar spine surgeries.”  AR. 6228.  Nurse 
+Fielding ultimately concluded that Bernitz would have been able to sit for no more than one to two 
+hours, or as limited by pain, and could stand for only fifteen to thirty minutes.  AR. 6229; see 
+AR. 6389 (Dr. Patel assessing the same limitations).  Nurse Fielding also determined that, due to 
+Bernitz’s “at least 6 lumbar surgeries,” it was unclear whether Bernitz would be able to perform 
+full-time “light level” work in a sustained manner.  AR. 6229.            
+
+On May 17, 2017, Dr. Patel reported to USAble Life that Bernitz condition was “permanent 
+and irreversible” and that surgery had “resulted in very minor symptom improvement.”  AR. 6204.  
+Dr. Patel added that medication and its side effects had made it “very difficult or impossible” for 
+Bernitz to maintain prolonged concentration.  AR. 6204.  On June 3, 2017, Dr. Patel completed a 
+“Physical Residual Functional Capacity Questionnaire,” noting that Bernitz’s medication could 
+cause fatigue and a loss of concentration and that his condition “limits endurance significantly.”  
+AR. 6152; AR. 6155.                                                       
+On  October  4,  2017,  at  USAble  Life’s  request,  Dr.  Stewart  Russell  completed  an 
+independent review of Bernitz’s updated medical records.  AR. 5949–61.  Dr. Russell explained 
+in his report that “the insured is presently impaired from performing full-time light or sedentary 
+occupations, secondary to his multiple subsequent back surgeries and their poor result.”  AR. 5959.  
+Dr. Russell also opined that “the impairment will be lifelong.”  AR. 5960.   
+On January 17, 2018, Bernitz visited Dr. Biraj Shah to receive travel vaccinations in 
+anticipation of a ten day trip to Baja, Mexico.  AR. 5134.  In the following months, Bernitz 
+
+continued seeing Dr. Patel to receive injections for the treatment of his pain.  See, e.g., AR. 5009–
+10; AR. 5016–18; AR. 5019–20; AR. 5025–26; AR. 5035–36.                   
+On August 1, 2018, a Social Security Administrative Law Judge (“ALJ”) denied Bernitz’s 
+application for Social Security Disability Insurance (“SSDI”) benefits.  AR. 5463–65.  In the ALJ’s 
+decision, he concluded that Bernitz’s “statements concerning the intensity, persistence and limiting 
+effects” of his symptoms were “not entirely consistent with the medical evidence and other 
+evidence in the record.”  AR. 5474.  The ALJ highlighted Bernitz’s “activities of daily living,” 
+including “taking college classes,” “driving,” “taking walks up to half a mile,” “cooking,” “taking 
+out the trash,” “exercis[ing] regularly with a personal trainer,” traveling to “Hawaii and National 
+
+Parks in the southwest,” and “spend[ing] about a month in San Diego house-hunting.”  AR. 5474.  
+The ALJ also noted Dr. Patel’s observation in May 2017 that Bernitz “was able to maintain an 
+active lifestyle with the use of medication.”  AR. 5474.  In addition, the ALJ determined that 
+Bernitz was “capable of performing past relevant work as a vice president and program manager.”  
+AR. 5478.3                                                                
+On August 28, 2018, Bernitz visited Dr. Ken Fujioka for assistance with weight loss.  
+AR. 5151–56.  On September 9, 2019, Bernitz again saw Dr. Fujioka, who noted that Bernitz was 
+
+
+3 The Social Security Appeals Council denied Bernitz’s application for review of the ALJ’s 
+decision on August 7, 2019.  AR. 4920–22.                                 
+“maintaining an impressive weight loss” and “working with a personal trainer 3 days a week.”  
+AR. 4857.                                                                 
+On January 28, 2019, Dr. Patel reported that Bernitz suffered from severe back pain, which 
+was aggravated with lifting and straining, walking and standing, and sitting.  AR. 5426.  Dr. Patel 
+opined that Bernitz would never be able to return to work, AR. 5428, and continued treating 
+
+Bernitz throughout 2019.  See, e.g., AR. 4904–09; AR. 4981–92.            
+On February 19, 2019, Bernitz visited Dr. Alexandra Bunyak to treat back pain.  AR. 4874.  
+Bernitz saw Dr. Bunyak again on March 21, 2019 for a procedure aimed at treating the pain and 
+for several follow-up appointments in April, May and June of 2019; as of May 2019, Bernitz 
+reported left hip pain.  AR. 4877; AR. 4881; AR. 4884; AR. 4889.  On September 10, 2019, 
+Bernitz underwent left hip arthroscopy surgery, performed by Dr. Sanjum Samagh.  AR. 4784–85.   
+From July 15 to July 19, 2019, USAble Life investigators surveilled Bernitz and, on July 
+16, 2019, observed him exercising, i.e., “work[ing] with a personal trainer on cardio utilizing a 
+treadmill, free weights with barbells, pull downs and flys on a weight machine, as well as shoulder 
+
+exercises utilizing bands and leg extensions on a weight machine.”  AR. 4963–65.   
+On October 3, 2019, Bernitz completed an “Activities of Daily Living Questionnaire,” 
+AR. 4756–60, in which he reported that he was “unable to sit for more than 1-2 hours, or stand for 
+more  than  30  minutes  without  significant  pain”  and  that  his  pain  medications  “make[ ] 
+concentration difficult.”  AR. 4756.  Bernitz also acknowledged travel to Florida to visit family 
+and travel to Michigan to visit friends, as well as a trip to Africa.  AR. 4760–62.   
+On October 28, 2019, Dr. Russell completed an independent medical review of Bernitz’s 
+claim file for USAble Life.  AR. 4739–47.  Dr. Russell concluded, on the basis of updated medical 
+records and the investigators’ observations, that Bernitz’s condition had improved since his prior 
+review.  AR. 4745–46.  Dr. Russell also noted that Bernitz had “lost about 70 pounds” and had 
+been active.  AR. 4745–46.  Dr. Russell further explained that Bernitz’s ability to drive was 
+inconsistent with his claims of cognitive impairment and that his hip surgery in September 2019 
+had been performed “with good result.”  AR. 4746.  Dr. Russell, thus, concluded that Bernitz was 
+no longer physically impaired from being able to perform a full-time, light physical demand 
+
+occupation.  AR. 4746.                                                    
+On November 6, 2019, vocational expert Teresa Marques (“Marques”) conducted an 
+occupation assessment in light of the ALJ’s denial of Bernitz’s application for SSDI benefits and 
+concluded that Bernitz’s occupation as a marketing manager/director is performed at the “light” 
+physical demand level in the national economy.  AR. 4702–06.              
+On December 2, 2019, Dr. Russell performed an additional review of Bernitz’s medical 
+records, which included updated records relating to Bernitz’s September 10, 2019 hip surgery.  
+AR. 3781–85.  Dr. Russell opined that recovery from the surgery likely would have temporarily 
+impaired Bernitz for three weeks but did not otherwise change his view.  AR. 3784–85.  On 
+
+December 12, 2019, USAble Life terminated Bernitz’s LTD benefits.  AR. 3753–58.  As the basis 
+for the decision, USAble Life cited, inter alia, Dr. Russell’s reports, the ALJ’s denial of Bernitz’s 
+SSDI benefits application, Bernitz’s weight loss and Bernitz’s travel within and outside of the 
+United States.  AR. 3755–57.                                              
+D.   Bernitz’s Administrative Appeal                                 
+
+Bernitz appealed USAble Life’s denial of LTD benefits on May 21, 2020.  AR. 3028–30.  
+In support of his appeal, Bernitz submitted letters from Dr. Patel, Dr. Fujioka and Dr. Michael 
+White, as well as statements by him and his wife.  AR. 3060; AR. 3062–63; AR. 3065; AR. 3075–
+77; AR. 3085–86.  Bernitz also submitted a “Functional Capacity Evaluation” (“FCE”) report by 
+Barbara Tourtellot, dated March 18, 2020.  AR. 3032–49.                   
+On appeal, USAble Life allowed Bernitz additional time to compile and submit additional 
+medical records, AR. 2919; AR. 2944, and obtained a medical review from Dr. Richard Maguire.  
+AR. 2630–54.  In an October 2, 2020 report, Dr. Maguire noted that Tourtellot’s FCE report 
+
+contained inconsistencies; for example, he stated that “[t]he FCE provider [did] not measure and 
+record physiological responses to [Bernitz’s] activity level or pain such as increased heart rate or 
+respiratory rate.”  AR. 2649.  Dr. Maguire recommended that USAble Life request an independent 
+medical examination (“IME”) to assess Bernitz’s functional capacity, in light of the conflicting 
+medical evidence.  AR. 2649.                                              
+On October 12, 2020, USAble Life asked Bernitz to appear for an IME.  AR. 2599.  An 
+IME was not conducted, due to “COVID and the rates of positive cases and deaths climbing at this 
+time.”  AR. 2565–67.  USAble Life then compiled medical records for review by Dr. Richard 
+Kaplan.  AR. 2534–35.  In his December 23, 2020 report, Dr. Kaplan concluded that, in light of 
+
+the updated medical evidence, surveillance and other evidence, Bernitz was not impaired from 
+performing occupational duties as of January 1, 2020.  AR. 2534.  Dr. Kaplan noted “numerous 
+inconsistencies” in the medical records and opined that Bernitz was “both capable of an increased 
+level of activity and that such an increased level of activity would likely be therapeutic in nature.”  
+AR. 2534.    Dr.  Kaplan  noted,  for  example,  that  Bernitz’s  “ability  to  travel  internationally, 
+including in particular on a safari to Africa” was not consistent with his asserted impairments.  
+AR. 2541.  Like Dr. Maguire, Dr. Kaplan also considered Tourtellot’s FCE report and found that 
+her opinions were inconsistent with other evidence including Bernitz’s weight loss, exercise, and 
+domestic and international travel.  AR. 2540.  Dr. Kaplan noted that it was “not clear that the 
+techniques used in the [FCE] are valid to distinguish between physical requirements lower than 
+that of a medium physical demand level.”  AR. 2540.  Dr. Kaplan further observed that, given the 
+“extremely high doses of opioid medications” that Bernitz had been taking, his medications were 
+likely contributing to any decreased physical and cognitive function.  AR. 2540–41.  On December 
+30, 2020, Dr. Maguire prepared a supplemental report agreeing with Dr. Kaplan’s findings.  
+
+AR. 2526–27.                                                              
+USAble Life shared Dr. Kaplan and Dr. Maguire’s new reports with Bernitz to provide him 
+with an opportunity to respond.  AR. 2522–24.  Bernitz’s counsel responded that Bernitz had been 
+referred for neuropsychological testing “which is in the process of being scheduled” and requested 
+that USAble Life refrain from rendering a final determination of his appeal.  AR. 2440.  Once 
+additional medical records were submitted by Bernitz, Dr. Maguire and Dr. Kaplan prepared 
+addendum reports (Maguire’s second addendum report and Kaplan’s first addendum report), in 
+which neither physician changed their previous opinions.  See AR. 2436–37; AR. 2159–62.    
+On May 18, 2021, Bernitz’s counsel informed USAble Life that Bernitz had to undergo 
+
+additional back surgery and that there had been a delay in retrieving updated medical records from 
+a medical provider due to a cyberattack.  D. 2179.  USAble Life sent copies of the addendum 
+reports by Dr. Maguire and Dr. Kaplan to Bernitz, and Bernitz’s counsel requested additional time 
+to respond.  See AR. 2118.  Bernitz’s counsel wrote USAble Life on August 14, 2021, seeking to 
+confirm that USAble Life would defer its determination pending neuropsychological testing.  
+AR. 895.                                                                  
+Dr.  Kaplan  prepared  second  and  third  addendum  reports  on  August  30,  2021  and 
+September 13, 2021, respectively, following Bernitz’s submission of additional medical records 
+concerning a June 2021 back surgery.  AR. 870–71; AR. 888–90.  Dr. Kaplan did not change his 
+opinions in these reports but noted that the record was “incomplete” and recommended further 
+review pending the receipt of records concerning Bernitz’s post-operative rehabilitation and 
+planned neuropsychological evaluation.  AR. 870–71; AR. 888–89.           
+On October 10, 2021, Bernitz submitted a neuropsychological evaluation report by Dr. 
+Kaaren Bekken, AR. 715–29, and, on December 1, 2021, he submitted a vocational assessment 
+
+report by Michael La Raia, dated September 9, 2021.  AR. 649–55.  La Raia opined that Bernitz 
+“remain[ed] vocationally unemployable” and disagreed with Dr. Kaplan and Dr. Maguire’s 
+opinions.  AR. 654.  Dr. Bekken concluded that Bernitz had suffered a “cognitive decline.”  
+AR. 722.                                                                  
+Upon receipt of Dr. Bekken’s report, USAble Life forwarded it to an independent physician 
+for review, see D. 701; Dr. Malcom Spica prepared a peer review report on Bernitz’s cognitive 
+function in light of the occupational duties and requirements outlined in Marques’s November 6, 
+2019 vocational assessment.  AR. 702–04.  Dr. Spica disagreed with Dr. Bekken’s interpretation 
+of Bernitz’s test scores, opining that the results did “not reflect a debilitating neurocognitive 
+
+impairment.”  AR. 704.                                                    
+On February 3, 2022, Bernitz submitted an addendum FCE report by Tourtellot, dated 
+January 21, 2022.  AR. 476–96.  Tourtellot stated that Bernitz “experiences problems with 
+concentration and memory as well as fatigue as a side effect of his medications.”  AR. 479.  
+Tourtellot also noted that Bernitz was not able to sit for more than thirty-eight consecutive minutes.  
+AR. 487.  Dr. Kaplan reviewed Tourtellot’s addendum FCE report and, in a fourth addendum 
+report dated February 11, 2022, stated that his opinions had not changed.  AR. 473–75.  He also 
+noted that, based on additional records from December 2021, Bernitz’s routine use of marijuana, 
+in combination with opioids, may have been contributing to his reported cognitive deficits.  
+AR. 474.                                                                  
+USAble Life sent copies of Dr. Kaplan and Dr. Spica’s reports on February 14, 2022 to 
+Bernitz’s counsel and allowed twenty-one days to respond.  AR. 459–60; AR. 469.  On March 7, 
+2022, USAble Life wrote that it would complete its review based on the contents of the claim file 
+
+at that time.  AR. 445.  Bernitz’s counsel responded, challenging Dr. Kaplan and Dr. Spica’s 
+findings.  PL. 540–43.4  USAble Life issued a determination letter on March 9, 2022 upholding 
+the denial of Bernitz’s LTD benefits claim.  AR. 426–35.  On the same day, Bernitz’s counsel 
+submitted a two-page letter from Dr. Bekken, dated March 8, 2022, responding to Dr. Kaplan and 
+Dr. Spica’s opinions.  PL. 537–39.                                        
+E.   Bernitz Seeks Judicial Relief and USAble Life Agrees to Conduct a Post-
+     Litigation Review                                               
+
+On May 10, 2022, Bernitz filed the instant complaint against Defendants.  D. 1.  In August 
+2022, USAble Life agreed to consider Bernitz’s March 2022 submissions and sent them to Dr. 
+Kaplan and Dr. Spica.  See PL. 535–36.  Dr. Spica responded with an addendum report, dated 
+August 27, 2022, see PL. 527–29, in which he disagreed with Dr. Bekken’s assessment of 
+Bernitz’s cognitive function, citing a lack of evidence for same.  PL. 528.  Dr. Spica also submitted 
+to Dr. Bekken a list of questions asking, inter alia, why she did not include “more sensitive 
+measures of effort” in her analysis.  PL. 521.  Dr. Kaplan separately responded in a September 6, 
+2022 addendum report, indicating that his opinion had not changed.  PL. 510–12.  USAble Life 
+forwarded these addendum reports to Bernitz’s counsel, and Dr. Bekken responded with additional 
+
+
+
+4 References to the post-litigation record at D. 42-7 shall be to “PL. ___.”      
+letters, defending her opinions and disagreeing with Dr. Spica and Dr. Kaplan’s characterization 
+of same.  See PL. 449–50; PL. 496–501.                                    
+Dr. Spica again responded with an addendum report, dated September 18, 2022, PL. 483–
+84, and Dr. Kaplan responded with an addendum report dated September 22, 2022.  PL. 473–74.  
+Both  physicians  reviewed  Dr.  Bekken’s  report  and  noted  that  their  opinions  had  remained 
+
+unchanged.  PL. 483; PL. 474.  Bernitz’s counsel then submitted additional medical records in 
+response to these addendum reports.  PL. 386.  Dr. Spica, again, prepared an addendum report 
+dated November 5, 2022, PL. 298–99, and Dr. Kaplan prepared an addendum report dated 
+November 9, 2022, PL. 222–24; neither physician changed their opinion.  Dr. Bekken wrote an 
+additional response on November 30, 2022, PL. 148–49, and Dr. Spica and Dr. Kaplan responded 
+with additional addendum reports dated December 10 and December 15, 2022.  PL. 91–93; 
+PL. 137–38.  Dr. Bekken sent a final response to Dr. Kaplan on December 16, 2022, D. 85, to 
+which Dr. Kaplan responded on January 5, 2023.  PL. 74–76.                
+After Bernitz’s counsel indicated that she would not be sending additional records, PL. 23, 
+
+USAble Life issued a final decision on February 28, 2023.  PL. 12–24.  The decision referenced 
+materials from USAble Life’s post-litigation review, including the reports by Dr. Kaplan and Dr. 
+Spica, and concluded that the prior determination denying Bernitz’s LTD benefits claim, dated 
+March 9, 2022, had been correctly decided.  PL. 21–23.                    
+On January 8, 2024, Defendants moved for summary judgment, D. 75, and Bernitz cross-
+moved for summary judgment.  D. 73.  The Court heard argument on the cross-motions on April 
+2, 2024 and took the matter under advisement.  D. 87, 88.                 
+III.  Discussion                                                          
+
+A.   Standard of Review                                              
+
+“When, as in this case, a plan administrator has discretion to determine an applicant’s 
+eligibility for and entitlement to benefits, the administrator’s decision must be upheld unless it is 
+‘arbitrary, capricious, or an abuse of discretion.’”  Gannon v. Metro. Life Ins. Co., 360 F.3d 211, 
+213 (1st Cir. 2004) (quoting Vlass v. Raytheon Emps. Disability Tr., 244 F.3d 27, 29 (1st Cir. 
+2001)); see Firestone Tire & Rubber Co. v. Bruch, 489 U.S. 101, 111–12 (1989); Denmark v. 
+Liberty Life Assurance Co. of Bos., 566 F.3d 1, 9 (1st Cir. 2009).  This standard of review is 
+deferential; that is, “the administrator’s decision must be upheld if it is reasoned and supported by 
+substantial evidence.”  Gannon, 360 F.3d at 213.  “Evidence is substantial if it is reasonably 
+sufficient to support a conclusion, and the existence of contrary evidence does not, in itself, make 
+the administrator’s decision arbitrary.”  Id.  A reviewing court must decide only whether the 
+administrator’s denial of benefits was irrational, with any doubts to be resolved in favor of the 
+administrator.  See Liston v. Unum Corp. Officer Severance Plan, 330 F.3d 19, 24 (1st Cir. 2003).   
+One factor in the analysis of whether a decision is arbitrary and capricious is the structural 
+conflict of interest present where the party that adjudicates claims is also the party responsible for 
+paying out those claims.  Denmark, 566 F.3d at 5 & n.2.  Where an ERISA plan administrator 
+“both determines whether an employee is eligible for benefits and pays benefits out of its own 
+pocket . . . this dual role creates a conflict of interest.”  Metro. Life Ins. Co. v. Glenn, 554 U.S. 
+105, 108 (2008).  Where such a conflict exists, “a reviewing court should consider that conflict as 
+a factor in determining whether the plan administrator has abused its discretion in denying 
+benefits.”  Id.  In determining what weight to afford a structural conflict, “courts are duty-bound 
+to inquire into what steps a plan administrator has taken to insulate the decisionmaking process 
+against the potentially pernicious effects of structural conflicts.”  Denmark, 566 F.3d at 9.   
+Here, the Group Policy grants USAble Life “the sole discretionary authority to determine 
+eligibility for participation or benefits and to interpret the terms of the policy.”  AR. 7540.  
+Accordingly, the Court applies the “arbitrary and capricious” standard of review and must uphold 
+
+USAble Life’s determinations unless they were irrational.  See Liston, 330 F.3d at 24.   
+Because USAble Life both adjudicated Bernitz’s claim and also bore responsibility for 
+paying out benefits, however, a structural conflict exists.  See Glenn, 554 U.S. at 108.  The Court 
+affords little weight to same because USAble Life took sufficient steps to insulate its claims 
+determination process.  See Denmark, 566 F.3d at 9.  For instance, USAble Life referred Bernitz’s 
+claim file to third-party physicians for their independent review of the medical records and other 
+evidence.  See, e.g., AR. 7062 (noting that the medical opinions contained in Nurse Fielding’s 
+report “reflect the medical reviewer’s independent judgment”); see also Ovist v. Unum Life Ins. 
+Co., No. 4:17-cv-40113-TSH, 2020 WL 1931755, at *8 (D. Mass. Feb. 21, 2020) (concluding that 
+
+a plan administrator “limited[ed] the impact” of a structural conflict by retaining independent 
+physicians to review the plan participant’s claim file), report and recommendation adopted, 2020 
+WL 1931958 (D. Mass. Mar. 27, 2020), aff’d, 14 F.4th 106 (1st Cir. 2021).  In addition, USAble 
+Life used a separate appeals unit to review the denial of benefits.  See Salvador v. Liberty Life 
+Assurance Co. of Bos., No. 12-cv-30196-MAP, 2014 WL 3749206, at *8 (D. Mass. July 28, 2014) 
+(noting that defendants mitigated the structural conflict by “us[ing] an appeals unit to review the 
+denial of benefits that was separate from the initial claims process”).  Given the steps taken by 
+USAble Life, and absent any meaningful showing of bias by Bernitz, the Court does not afford 
+USAble Life’s structural conflict significant weight in its review under the arbitrary and capricious 
+standard.  See id. at *9 (noting that “[t]he possibility that a conflict may bias a plan administrator’s 
+decision is not enough:  Plaintiff must specify evidence in the record showing how”).   
+B.   USAble Life’s Denial of LTD Benefits Was Not Arbitrary and Capricious 
+
+Defendants argue that the administrative record “overwhelmingly supports” USAble Life’s 
+decision to terminate Bernitz’s LTD benefits.  D. 72 at 26–33.  Bernitz rejects same and maintains 
+that USAble Life failed to provide Bernitz’s claim with a full and fair review and that its decision 
+to terminate his benefits should be set aside.  D. 74 at 21–30.  The Court first considers USAble 
+Life’s initial denial of Bernitz’s claim and then reviews its handling of Bernitz’s appeal of same.   
+On December 12, 2019, USAble Life notified Bernitz’s counsel by letter that USAble Life 
+had completed a review of Bernitz’s claim for LTD benefits and concluded that Bernitz no longer 
+met the Group Policy’s definition of disability.  AR. 3753.  USAble Life acknowledged that, on 
+May 19, 2017, USAble Life had received a statement from Dr. Patel, in which Dr. Patel opined 
+that Bernitz was unable to work at any level due to “failed back syndrome” and that Bernitz’s 
+condition was permanent and irreversible.  AR. 3754.  USAble Life also noted that, as of October 
+
+4, 2017, Dr. Russell similarly had found that Bernitz was disabled based on his review of the 
+available medical records.  AR. 3754.                                     
+USAble Life nonetheless determined that Bernitz’s condition had begun to improve around 
+2018.  See AR. 3755–57.  For instance, USAble Life noted that Bernitz’s application for SSDI 
+benefits had been denied by an ALJ and that the denial had been affirmed by the Social Security 
+Appeals Council.  AR. 3755; see Bard v. Bos. Shipping Ass’n, 471 F.3d 229, 242 n.17 (1st Cir. 
+2006) (explaining that an ALJ’s denial of Social Security benefits, while not dispositive, may 
+inform an ERISA claims administrator’s decision to deny benefits); Leahy v. Raytheon Co., 315 
+F.3d 11, 20 (1st Cir. 2002) (concluding that the plaintiff’s unsuccessful application for social 
+security disability benefits provided “some evidence that he was not fully disabled”).  In the ALJ’s 
+decision, the ALJ stated that Bernitz’s report of symptoms had been inconsistent with evidence of 
+his activities “including taking college classes, driving, taking walks up to half a mile, cooking, 
+taking out the trash, and caring for a dog,” AR. 5474, and that Bernitz was “capable of performing 
+past relevant work as a vice president and program manager.”  AR. 5478.   
+
+USAble Life further explained that, according to updated medical records from 2018 and 
+2019, Bernitz’s condition “had clearly improved with significant weight loss” and the ability “to 
+engage in various physical activities that he was unable to perform prior to his date of loss.”  
+AR. 3755.  In support, USAble Life cited medical records indicating that Bernitz had lost twenty 
+pounds as part of a weight loss program with Dr. Fujioka, that he was no longer taking gabapentin 
+and that he was “playing pickle ball and walking six days per week, up to an hour at a time.”  
+AR. 3755.  USAble Life also referenced medical records indicating that Bernitz had gone on 
+international trips to Baja, Mexico and to “multiple safari parks” in Africa and that his weight  had 
+further reduced by about thirty pounds.  AR. 3755.  In addition, USAble Life summarized the 
+
+findings of USAble Life investigators, who observed Bernitz walking, entering, exiting and driving 
+his vehicle without any signs of discomfort or gait issues and saw him exercising at a gym using 
+the treadmill, lifting barbells and using a weight machine.  AR. 3755; see Tsoulas v. Liberty Life 
+Assurance Co. of Bos., 454 F.3d 69, 79–80 (1st Cir. 2006) (permitting insurer’s reliance on 
+surveillance evidence that contradicted claimant’s reports of impairment); Gammon v. Reliance 
+Standard Life Ins. Co., 444 F. Supp. 3d 221, 231 (D. Mass. 2020) (noting that surveillance evidence 
+contradicting the plaintiff’s assertions “lends credibility” to the plan administrator’s judgment).  In 
+light of this evidence, USAble Life again consulted the opinion of Dr. Russell, who had previously 
+found Bernitz disabled.  AR. 3754; AR. 3756.  Dr. Russell opined that, upon his review of the 
+updated record, Bernitz was “no longer impaired from performing a full-time light physical 
+demand occupation.”  AR. 3756.                                            
+Although Bernitz asserts that USAble Life’s determination cannot stand given the opinions 
+of his treating physicians, such as Dr. Patel, “courts have no warrant to require administrators 
+automatically to accord special weight to the opinions of a claimant’s physician; nor may courts 
+
+impose on plan administrators a discrete burden of explanation when they credit reliable evidence 
+that conflicts with a treating physician’s evaluation.”  See Black & Decker Disability Plan v. Nord, 
+538 U.S. 822, 834 (2003); see also Gannon, 360 F.3d at 216 (emphasizing that “ERISA does not 
+require plan administrators or reviewing courts to accord special deference to the opinions of 
+treating physicians”); Falk v. Life Ins. Co. of N. Am./Cigna Grp. Ins., No. 12–cv–178–JL, 2013 
+WL 5348189, at *11 (D.N.H. Sept. 23, 2013) (noting that “a treating physician, in a close case, 
+may favor a finding of ‘disabled’”) (quoting Black & Decker Disability Plan, 538 U.S. at 832).  
+Nor is it the case that USAble Life disregarded, or otherwise failed to engage with, these opinions; 
+rather, USAble Life consistently referred records by treating physicians—as well as the updated 
+
+evidence—to third-party physicians for their independent analysis.  See, e.g., AR. 4739–47; 
+AR. 5949–61; AR.  6225–30; AR. 7057–62.  Thus, USAble Life’s reliance upon the opinions of 
+Dr. Russell (who had previously found that Bernitz was disabled) and other developments in the 
+record,  as  opposed  to  the  opinions  of  Bernitz’s  treating  physicians,  was  not  arbitrary  and 
+capricious.  See Gannon, 360 F.3d at 213 (noting that “the existence of contrary evidence does not, 
+in itself, make the administrator’s decision arbitrary”).                 
+At base, USAble Life rooted its determination that Bernitz’s condition had improved in 
+substantial evidence, including, inter alia, the ALJ’s denial of Bernitz’s application for SSDI 
+benefits (and the Social Security Appeals Council’s affirmance of same), his significant weight 
+loss and the medical benefits of same, his travel to domestic and international destinations, and the 
+personal observations of investigators.5                                  
+Discerning no error with respect to USAble Life’s termination of Bernitz’s LTD benefits, 
+the Court turns to USAble Life’s handling of his administrative appeal.  On March 9, 2022, on 
+appeal of denial, USAble Life concluded that the decision to terminate Bernitz’s LTD benefits had 
+
+been correct.  AR. 426–35.  USAble Life explained that it had reconsidered the records previously 
+submitted, as well as new documentation submitted on appeal.  AR. 426.    
+USAble Life noted that an independent medical review had been completed by Dr. Maguire 
+on October 2, 2020 and that Bernitz’s counsel had responded to the results of this review with an 
+FCE  report  by  Tourtellot.    AR. 428–29.    Although  Tourtellot  opined  that  Bernitz  had  no 
+demonstrated ability to perform work at any level, including with accommodations, AR. 429, 
+USAble Life did not credit her opinions in light of inconsistencies identified by Dr. Maguire in the 
+FCE report, for instance, that Tourtellot had noted that Bernitz had given “maximal effort” but did 
+not sufficiently document Bernitz’s patterns of movement or “measur[e] physiological responses 
+
+to [Bernitz’s] activity level or pain such as increased heart rate or respiratory rate.”  AR. 429.  In 
+addition, USAble Life referred Bernitz’s claim file to Dr. Kaplan for his independent review of 
+the medical record.  AR. 429.  Dr. Kaplan reviewed Tourtellot’s FCE report and, like Dr. Maguire, 
+found  that  it  contained  “numerous  inconsistencies,”  adding  that  it  was  “not  clear  that  the 
+techniques used in the FCE are valid to distinguish between physical requirements lower than that 
+
+
+5 Bernitz cites McDonough v. Aetna Life Insurance Co., 783 F.3d 374, 380 (1st Cir. 2015), 
+to argue that USAble Life failed to conduct a sufficient vocational assessment.  D. 74 at 22–23.  
+Under McDonough, 783 F.3d at 380, USAble Life was required to “review [ ] the material duties 
+of the claimant’s particular position” and “assess[ ] [ ] how those duties align with the position as 
+it is normally performed in the national economy.”  Here, USAble Life did so, as evidenced by the 
+vocational  assessment  of  Marques,  AR. 4702–06,  which  was  also  provided  to  reviewing 
+physicians.  See, e.g., AR. 2645.                                         
+of a medium physical demand level.”  AR. 430.  In light of these conclusions, USAble Life had 
+ample basis in Dr. Maguire and Dr. Kaplan’s opinions to afford little weight to Tourtellot’s 
+findings as to Bernitz’s functional capacity.                             
+On appeal, Bernitz also pressed the issue of his mental health and provided USAble Life 
+with the results of neuropsychological testing conducted by Dr. Bekken on September 10, 2021.  
+
+AR. 432; AR. 703–04.  USAble Life did not ignore Dr. Bekken’s findings, but instead referred her 
+report and numerous addendum reports to Dr. Kaplan and Dr. Spica for their consideration and 
+response.  See AR. 473–75; 702–04.  As related by USAble Life, Dr. Spica opined that Bernitz’s 
+test results were “well within normal limits across neurocognitive domains.”  AR. 432.  Dr. Kaplan 
+noted that, based on additional records from December 2021, Bernitz’s routine use of marijuana, 
+in combination with opioids, may have been contributing to his reported cognitive deficits and, 
+thus, the same were “not due to a fundamental underlying medical diagnosis.”  AR. 474.  USAble 
+Life facilitated an extensive back-and-forth between Dr. Kaplan and Dr. Spica, on the one hand, 
+and Dr. Bekken, on the other, consisting of reports and letters engaging with one another’s 
+
+opinions.  See PL. 74–76; D. 85; PL. 91–93; PL. 137–38; PL. 148–49; PL. 449–50; PL. 473–74; 
+PL. 483–84; PL. 496–501; PL. 510–12; PL. 521; PL. 527–29; PL. 537–39.  Ultimately, they could 
+not reach agreement, and USAble Life decided to afford Dr. Kaplan and Dr. Spica’s opinions more 
+weight—a determination that USAble Life reasonably could have reached on this record.  See 
+Gannon, 360 F.3d at 214 (explaining that it is not “for a court to determine precisely how much 
+weight [an insurer] should have accorded [one physician’s opinion] in its overall decision”); 
+Leahy, 315 F.3d at 19 (noting that “when the medical evidence is sharply conflicted, the deference 
+due  to  the  plan  administrator’s  determination  may  be  especially  great”).    The  Court,  thus, 
+concludes that USAble Life’s handling of Bernitz’s administrative appeal was not arbitrary or 
+capricious.6                                                              
+IV.  Conclusion                                                           
+
+For the foregoing reasons, Defendants’ motion for summary judgment is ALLOWED, 
+D. 75, and Bernitz’s motion for summary judgment is DENIED, D. 73.        
+So Ordered.                                                          
+
+                                   /s Denise J. Casper               
+                                   United States District Judge      
+
+
+
+
+
+
+
+
+
+
+
+6 To the extent Bernitz maintains that USAble Life was required to expressly assess each 
+piece of evidence in its denial letters, this plainly would be impractical given a voluminous record 
+of more than 8,000 pages.  See D. 42-1; D. 42-2; D. 42-3; D. 42-4; D. 42-5; D. 42-6; D. 42-7.  
+Moreover, the First Circuit has explained that “[t]he denial letter need not detail every bit of 
+information in the record; it must have enough information to render the decision to deny benefits 
+susceptible to judicial review.”  Orndorf v. Paul Revere Life Ins. Co., 404 F.3d 510, 526 (1st Cir. 
+2005); see Spenrath v. Guardian Life Ins. Co., 564 Fed App’x 93, 98 (5th Cir. 2014) (explaining 
+that “it would be impractical to require the plan administrator to mention each piece of evidence it 
+considered in reaching its conclusion”).  As evidenced by the Court’s review, USAble Life’s denial 
+letters have cleared that bar.

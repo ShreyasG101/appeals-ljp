@@ -1,0 +1,59 @@
+{
+  "overall_outcome": "MIXED",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court erred in dismissing Plaintiffs' \u00a7 1983 excessive force claim against the Officer-Defendants for the fatal shooting of Michael Conlon.",
+      "standard_of_review": "de novo",
+      "holding": "REMAND",
+      "key_reasoning": "The court found that material factual disputes remain regarding whether Conlon was armed or posed an immediate threat at the time of the shooting, precluding qualified immunity at the motion to dismiss stage and requiring further proceedings."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the district court erred in granting qualified immunity to the Officer-Defendants for the use of a beanbag shotgun against Conlon.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that it was not clearly established that use of a beanbag shotgun in these circumstances constituted excessive force, and a reasonable officer could have believed the action was lawful."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the district court erred in dismissing Plaintiffs' Massachusetts Civil Rights Act (MCRA) claim based on the alleged use of excessive force.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that allegations of excessive force alone, without additional facts showing threats, intimidation, or coercion to interfere with a secured right, do not state a claim under the MCRA."
+    },
+    {
+      "issue_id": 4,
+      "description": "Whether the district court erred in dismissing Plaintiffs' Monell claim against the City of Newton for failure to train or supervise officers under \u00a7 1983.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found Plaintiffs failed to allege a pattern of similar constitutional violations or facts showing deliberate indifference by the City, as required for municipal liability."
+    },
+    {
+      "issue_id": 5,
+      "description": "Whether the district court erred in dismissing Plaintiffs' claims against the City under the ADA and Rehabilitation Act for failure to accommodate Conlon's disability.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that Plaintiffs did not plausibly allege that the officers' actions were by reason of Conlon's disability or that a reasonable accommodation was denied in the circumstances."
+    }
+  ],
+  "key_precedents": [
+    "Graham v. Connor, 490 U.S. 386 (1989)",
+    "Ashcroft v. Iqbal, 556 U.S. 662 (2009)",
+    "City of Canton v. Harris, 489 U.S. 378 (1989)",
+    "Monell v. Dep't of Soc. Servs., 436 U.S. 658 (1978)",
+    "Connick v. Thompson, 563 U.S. 51 (2011)",
+    "Stamps v. City of Framingham, 813 F.3d 27 (1st Cir. 2016)",
+    "Jennings v. Jones, 499 F.3d 2 (1st Cir. 2007)",
+    "Raiche v. Pietroski, 623 F.3d 30 (1st Cir. 2010)",
+    "Buchanan v. Maine, 469 F.3d 158 (1st Cir. 2006)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": true,
+    "fact_intensive": true
+  },
+  "has_dissent": true,
+  "summary_text": "This appeal arises from a police confrontation that resulted in the fatal shooting of a man in his Newton, Massachusetts apartment building. The incident began when the Newton Police Department (NPD) received a report that Michael Conlon was attempting an armed robbery of a candy store adjacent to his apartment building. It ended approximately thirty minutes later when Conlon, who was suffering a mental-health crisis, was shot dead by two officers on scene.\n\nPlaintiffs -- Conlon's parents serving as the representatives of their son's estate -- sued the City of Newton and several of its police officers, asserting claims under 42 U.S.C. \u00a7 1983, Title II of the American with Disabilities Act (ADA), the Rehabilitation Act, and Massachusetts law. The district court dismissed Plaintiffs' complaint entirely and entered judgment. We vacate the judgment as to Plaintiffs' section 1983 claims against the police officers' use of lethal force and remand the matter for further proceedings on that claim. The remainder of the judgment is affirmed."
+}

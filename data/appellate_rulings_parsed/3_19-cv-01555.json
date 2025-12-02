@@ -1,0 +1,25 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the respondents waived their statute of limitations defense under 28 U.S.C. \u00a7 2244(d)(1)(C) by failing to assert it in their answer to the habeas petition.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held that the respondents knowingly and intelligently waived the \u00a7 2244(d)(1)(C) timeliness defense by not raising it in their answer, despite being aware of its availability, and thus the district court abused its discretion by raising and addressing the defense sua sponte. As a result, the respondents could not rely on that defense on appeal."
+    }
+  ],
+  "key_precedents": [
+    "Day v. McDonough, 547 U.S. 198 (2006)",
+    "Wood v. Milyard, 566 U.S. 463 (2012)",
+    "Dimott v. United States, 881 F.3d 232 (1st Cir. 2018)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": false,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "This appeal concerns a challenge to a ruling by the United States District Court for the District of Puerto Rico that granted a writ of habeas corpus under 18 U.S.C. \u00a7 2254 to David N\u00fa\u00f1ez P\u00e9rez. N\u00fa\u00f1ez's petition sought habeas relief from his 2006 Puerto Rico law convictions for carjacking and manslaughter. The petition did so on the ground that, under Puerto Rico v. S\u00e1nchez Valle, 579 U.S. 59 (2016), his prosecution for those offenses and the resulting convictions violated the Double Jeopardy Clause of the Fifth Amendment to the United States Constitution. See U.S. Const. amend. V. The respondents contend that we must reverse the ruling below because N\u00fa\u00f1ez's petition was not timely filed. We affirm the ruling. We do so, however, for different reasons than those on which the District Court relied, as we conclude that the respondents waived below the only ground for deeming the petition untimely that they now assert on appeal."
+}

@@ -1,0 +1,58 @@
+{
+  "overall_outcome": "AFFIRM",
+  "issues": [
+    {
+      "issue_id": 1,
+      "description": "Whether the district court erred in dismissing most of plaintiffs' claims without a written order or reasoning on the record.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The First Circuit held there is no requirement for district courts to state findings or conclusions when ruling on a Rule 12 motion, and thus found no procedural error."
+    },
+    {
+      "issue_id": 2,
+      "description": "Whether the district court erred in granting summary judgment sua sponte on the dormant Commerce Clause claims (both Pike and direct discrimination theories) without adequate notice or opportunity to respond.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found that plaintiffs had adequate notice and opportunity to respond, discovery was sufficient, and the legal issues were fully briefed, making sua sponte summary judgment appropriate."
+    },
+    {
+      "issue_id": 3,
+      "description": "Whether the Massachusetts Act violates the dormant Commerce Clause by intentionally discriminating against interstate commerce or by imposing a substantial burden under Pike v. Bruce Church.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found insufficient evidence of discriminatory purpose or effect, and held that under National Pork, the Act\u2019s evenhanded regulation of in-state sales does not violate the dormant Commerce Clause, nor does it impose a substantial burden under Pike."
+    },
+    {
+      "issue_id": 4,
+      "description": "Whether the Massachusetts Act is preempted by the Federal Meat Inspection Act (FMIA) or the Packers and Stockyards Act (PSA).",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court held the Act regulates production, not slaughterhouse operations or inspection, and thus is not expressly or conflict preempted by the FMIA or PSA."
+    },
+    {
+      "issue_id": 5,
+      "description": "Whether the Massachusetts Act violates the Privileges and Immunities Clause, Full Faith and Credit Clause, Due Process Clause (vagueness), or Import-Export Clause.",
+      "standard_of_review": "de novo",
+      "holding": "AFFIRM",
+      "key_reasoning": "The court found corporations cannot assert Privileges and Immunities claims, the Act does not conflict with other states\u2019 laws or constitute a policy of hostility, is not unconstitutionally vague, and the Import-Export Clause does not apply to interstate (as opposed to international) trade."
+    }
+  ],
+  "key_precedents": [
+    "Nat'l Pork Producers Council v. Ross, 598 U.S. 356 (2023)",
+    "Exxon Corp. v. Governor of Maryland, 437 U.S. 117 (1978)",
+    "Pike v. Bruce Church, Inc., 397 U.S. 137 (1970)",
+    "Nat'l Meat Ass'n v. Harris, 565 U.S. 452 (2012)",
+    "Fam. Winemakers of Cal. v. Jenkins, 592 F.3d 1 (1st Cir. 2010)",
+    "Cherry Hill Vineyard, LLC v. Baldacci, 505 F.3d 28 (1st Cir. 2007)",
+    "Walgreen Co. v. Rullan, 405 F.3d 50 (1st Cir. 2005)",
+    "Woodruff v. Parham, 75 U.S. 123 (1869)"
+  ],
+  "difficulty_signals": {
+    "novel_legal_question": true,
+    "circuit_split": false,
+    "close_case": false,
+    "fact_intensive": false
+  },
+  "has_dissent": false,
+  "summary_text": "GELP\u00cd, Circuit Judge. In 2016, Massachusetts passed the Act to Prevent Cruelty to Farm Animals (the \"Massachusetts Act\"). As relevant here, the Massachusetts Act prohibits the use of certain methods of confinement (\"gestation crates\") on pig farms in Massachusetts. Mass. Gen. Laws Ann., ch. 129, App. \u00a7 1-2. It also prohibits the sale, in Massachusetts, of pork products derived from pigs who were confined in gestation crates. See id. \u00a7 1-3. Plaintiffs are out-of-Massachusetts pig farmers and the slaughterhouse those farmers co-own (collectively, \"Plaintiffs\"). They sued to challenge the Massachusetts Act, chiefly arguing that it violated the dormant Commerce Clause and that it was preempted by federal law. The district court disagreed, first dismissing most of the claims and later entering summary judgment against Plaintiffs on the remaining dormant Commerce Clause claim. We affirm the district court's rulings."
+}
